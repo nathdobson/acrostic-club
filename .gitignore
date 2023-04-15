@@ -10,3 +10,5 @@ Cargo.lock
 **/*.rs.bk
 data
 index
+.idea
+acrostic-club.iml
