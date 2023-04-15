@@ -1,0 +1,74 @@
+.entry-grid {
+    display: grid;
+    gap: 1px;
+    background: lightgrey;
+    padding: 1px;
+}
+
+.entry-grid-quote {
+    grid-template-columns: repeat(40, 20px);
+    grid-auto-rows: 20px;
+}
+
+.entry-grid-source {
+    grid-auto-columns: 20px;
+    grid-template-rows: 20px;
+    grid-auto-flow: column;
+}
+
+.entry-grid-answer {
+    grid-auto-columns: 20px;
+    grid-template-rows: 20px;
+    grid-auto-flow: column;
+}
+
+.entry-grid-holder {
+    display: inline-block;
+}
+
+.entry-cell {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.cursor {
+    width: 10px;
+    height: 20px;
+    position: absolute;
+    top: 0px;
+    left: -5px;
+}
+
+.cursor-both {
+    background: rgba(200, 200, 0, 0.9);
+}
+
+.cursor-cell {
+    background: lightgrey;
+    visibility: hidden;
+}
+
+.cursor-grid {
+    background: lightgrey;
+    visibility: hidden;
+}
+
+.cursor-none {
+    background: white;
+    visibility: hidden;
+}
+
+.content-guess {
+    background: white;
+}
+
+.content-correct {
+    background: white;
+}
+
+.content-space {
+    background: black;
+}
