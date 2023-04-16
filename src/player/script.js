@@ -125,6 +125,7 @@ class Puzzle {
         this.grids = []
         this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
+        this.quote.nodeGridHolder.className = "entry-grid-holder-quote"
         this.grids.push(this.quote)
         for (var i = 0; i < puzzle.quote_letters.length; i++) {
             var cell = new Cell(new CellValue(i, puzzle.quote_letters[i]))
