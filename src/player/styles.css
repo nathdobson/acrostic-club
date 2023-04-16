@@ -27,6 +27,12 @@
     width: min-content;
 }
 
+.clues-holder {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+}
+
 .entry-cell {
     text-align: center;
     display: flex;

@@ -137,15 +137,18 @@ class Puzzle {
         this.grids.push(this.source)
         this.div.appendChild(this.source.nodeGridHolder)
         this.clues = []
+        this.nodeClues = document.createElement("div")
+        this.nodeClues.className = "clues-holder"
+        this.div.appendChild(this.nodeClues)
         for (const [index, clue] of puzzle.clues.entries()) {
             var cell = new Cell(this.quote.cells[clue.indices[0]].value)
             this.source.addCell(cell)
             var p = document.createElement("p")
-            this.div.appendChild(p)
+            this.nodeClues.appendChild(p)
             var grid = new Grid(this)
             grid.nodeGrid.className += " entry-grid-answer"
             grid.clue = clue
-            p.appendChild(document.createTextNode(clue.clue))
+            p.appendChild(document.createTextNode((index+1)+". "+clue.clue))
             p.appendChild(document.createElement("br"))
             p.appendChild(grid.nodeGridHolder)
             for (var i = 0; i < clue.answer_letters.length; i++) {
@@ -197,7 +200,7 @@ class Puzzle {
                 this.delta_cursor(PUZZLE_WIDTH)
                 this.render()
             }
-        } else if (event.code == "Tab") {
+        } else if (event.code == "Tab" || event.code == "Enter") {
             event.preventDefault()
             var delta = 1
             if (event.shiftKey) {
