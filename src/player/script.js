@@ -119,7 +119,7 @@ class Grid {
 }
 
 class Puzzle {
-    constructor(puzzle) {
+    constructor(url, puzzle) {
         this.div = document.createElement("div")
         this.puzzle = puzzle
         this.grids = []
@@ -149,7 +149,7 @@ class Puzzle {
             var grid = new Grid(this)
             grid.nodeGrid.className += " entry-grid-answer"
             grid.clue = clue
-            p.appendChild(document.createTextNode((index+1)+". "+clue.clue))
+            p.appendChild(document.createTextNode((index + 1) + ". " + clue.clue))
             p.appendChild(document.createElement("br"))
             p.appendChild(grid.nodeGridHolder)
             p.appendChild(document.createElement("br"))
@@ -162,7 +162,26 @@ class Puzzle {
         }
         this.cursor_grid = this.quote
         this.cursor_value = this.quote.cells[0].value
+        this.url = url
+        this.loadFromStorage()
         this.render()
+    }
+    loadFromStorage() {
+        var local = JSON.parse(localStorage.getItem(this.url))
+        if (local && local.guesses) {
+            for (const [index, cell] of this.quote.cells.entries()) {
+                if (cell && cell.value.mutable && local.guesses[index]) {
+                    cell.value.guess = local.guesses[index]
+                }
+            }
+        }
+    }
+    saveToStorage() {
+        var guesses = []
+        for (const cell of this.quote.cells) {
+            guesses.push(cell.value.mutable ? cell.value.guess : null)
+        }
+        localStorage.setItem(this.url, JSON.stringify({ guesses: guesses }))
     }
     render() {
         this.quote.render(this.cursor_grid, this.cursor_value)
@@ -175,12 +194,13 @@ class Puzzle {
         this.cursor_value = this.cursor_grid.delta_value(this.cursor_value, delta)
     }
     onKeydown(event) {
-        if (event.key.match(/^[a-zA-Z0-9]$/)) {
+        if (event.key.match(/^[a-zA-Z0-9]$/) && !event.metaKey && !event.ctrlKey) {
             event.preventDefault()
             if (this.cursor_value.mutable) {
                 this.cursor_value.guess = event.key.toUpperCase()
             }
             this.delta_cursor(1)
+            this.saveToStorage()
             this.render()
         } else if (event.code == "ArrowLeft") {
             event.preventDefault()
@@ -217,6 +237,7 @@ class Puzzle {
             if (this.cursor_value.mutable) {
                 this.cursor_value.guess = ""
             }
+            this.saveToStorage()
             this.render()
         }
     }
@@ -239,7 +260,7 @@ class Index {
 async function load_puzzle(url) {
     var data = await fetch(url);
     var puzzle = await data.json()
-    puzzle = new Puzzle(puzzle)
+    puzzle = new Puzzle(url, puzzle)
     document.getElementById("contents").appendChild(puzzle.div)
     document.addEventListener('keydown', function (event) { puzzle.onKeydown(event) });
 }

@@ -39,7 +39,7 @@ use trie::build_trie;
 use quote::build_quotes;
 use crate::quote::add_quote;
 
-use std::collections::HashMap;
+use std::collections::{BTreeMap, BTreeSet, HashMap};
 use std::default::default;
 use std::fmt::{Debug, Display, Formatter};
 use std::{env, fs, io};
@@ -113,9 +113,18 @@ async fn main() -> io::Result<()> {
         Some("puzzle") => {
             let target = args.next().unwrap();
             let mut errors: Vec<io::Error> = vec![];
+            let mut puzzles = BTreeSet::new();
             for puzzle in args {
-                let puzzle: usize = puzzle.parse().unwrap();
-                let e = try {
+                if let Some((start, end)) = puzzle.split_once("-") {
+                    for x in start.parse().unwrap()..=end.parse().unwrap() {
+                        puzzles.insert(x);
+                    }
+                } else {
+                    puzzles.insert(puzzle.parse().unwrap());
+                }
+            }
+            for puzzle in puzzles {
+                let e: io::Result<()> = try {
                     match target.deref() {
                         "quote" => add_quote(puzzle).await?,
                         "letters" => add_letters(puzzle).await?,
@@ -126,11 +135,13 @@ async fn main() -> io::Result<()> {
                     }
                 };
                 if let Err(e) = e {
-                    eprintln!("puzzle={} {:?}", puzzle, e);
-                    errors.push(e)
+                    if e.kind() != io::ErrorKind::NotFound {
+                        eprintln!("puzzle={} {:?}", puzzle, e);
+                        errors.push(e)
+                    }
                 }
             }
-            eprintln!("{:?}", errors);
+            // eprintln!("{:?}", errors);
         }
         x => panic!("Unknown root command {:?}", x),
     }

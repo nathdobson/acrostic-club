@@ -1,5 +1,5 @@
 use std::{fs, io, slice};
-use std::io::{Cursor, Read};
+use std::io::{Cursor, ErrorKind, Read};
 use std::sync::LazyLock;
 use std::time::Instant;
 use itertools::{peek_nth, PeekNth};
@@ -139,16 +139,23 @@ pub async fn build_quotes() -> io::Result<()> {
 
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
     let mut quotes = QUOTES.get_io().await?;
-    let selected = &quotes[pindex];
+    let quote = &quotes[pindex];
+    if !(quote.source.len() > 22
+        && quote.source.len() <= 24
+        && quote.quote.len() > 180
+        && quote.quote.len() < 200) {
+        return Err(io::Error::new(ErrorKind::InvalidInput, "bad quote"));
+    }
+
     // let (index, selected) = quotes.into_iter().enumerate()
     //     .filter(|(index, quote)| quote.source.len() > 22
     //         && quote.source.len() <= 24
     //         && quote.quote.len() > 180
     //         && quote.quote.len() < 200).nth(pindex).unwrap();
     let puzzle = Puzzle {
-        quote: selected.quote.clone(),
+        quote: quote.quote.clone(),
         quote_letters: None,
-        source: selected.source.clone(),
+        source: quote.source.clone(),
         source_letters: None,
         clues: None,
         chat: None,
