@@ -46,11 +46,11 @@ pub struct Puzzle {
 impl Puzzle {
     pub async fn read(index: usize, stage: &str) -> io::Result<Puzzle> {
         let input = read_path_to_string(
-            &PACKAGE_PATH.join("build/puzzles").join(&format!("{}", index)).join(stage)).await?;
+            &PACKAGE_PATH.join("puzzles").join(&format!("{}", index)).join(stage)).await?;
         Ok(serde_json::from_str(&input)?)
     }
     pub async fn write(&self, index: usize, stage: &str) -> io::Result<()> {
-        let dir = PACKAGE_PATH.join("build/puzzles").join(&format!("{}", index));
+        let dir = PACKAGE_PATH.join("puzzles").join(&format!("{}", index));
         tokio::fs::create_dir_all(&dir).await?;
         write_path(
             &dir.join(stage),
