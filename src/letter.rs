@@ -12,8 +12,8 @@ use rand::Rng;
 use serde::de::{Error, Visitor};
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
 
-use crate::alloc::AnyRepr;
 use crate::model::Model;
+use crate::util::alloc::AnyRepr;
 
 #[derive(Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash, Default)]
 pub struct Letter(u8);

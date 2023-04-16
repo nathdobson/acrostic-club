@@ -9,8 +9,8 @@ use rand::thread_rng;
 use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
 use serde::Serialize;
 use serde::Deserialize;
-use crate::lazy_async::LazyAsync;
 use crate::puzzle::Puzzle;
+use crate::util::lazy_async::LazyAsync;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Quote {

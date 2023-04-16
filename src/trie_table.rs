@@ -1,12 +1,14 @@
 use std::collections::HashMap;
 use std::io;
+use std::sync::LazyLock;
 
 use itertools::Itertools;
 
-use crate::alloc::MmapAllocator;
 use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::trie::{FlatTrie, FlatTrieEntry};
 use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
+use crate::util::alloc::MmapAllocator;
+use crate::util::lazy_async::LazyAsync;
 
 pub struct FlatTrieTable {
     pub dict: &'static [FlatWord],
@@ -14,8 +16,10 @@ pub struct FlatTrieTable {
     pub binary: HashMap<(Letter, Letter), Box<FlatTrie<(LetterSet, LetterSet)>, MmapAllocator>>,
 }
 
+pub static FLAT_TRIE_TABLE: LazyLock<LazyAsync<io::Result<FlatTrieTable>>> = LazyLock::new(|| LazyAsync::new(FlatTrieTable::new()));
+
 impl FlatTrieTable {
-    pub async fn new() -> io::Result<Self> {
+    async fn new() -> io::Result<Self> {
         unsafe {
             let mut unary = LetterMap::new();
             for x in Letter::all() {

@@ -7,9 +7,8 @@ use std::mem::swap;
 use rand::seq::SliceRandom;
 use rand::{thread_rng, Rng, SeedableRng};
 
-use crate::alloc::{restore_vec, MmapAllocator};
 use crate::dict::FlatWord;
-use crate::trie_table::FlatTrieTable;
+use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
 use crate::model::{Model, Word};
 // use crate::trie::Trie;
 use crate::{author_title_letters, quote_letters, Letter, LetterMap, LetterSet};
@@ -19,7 +18,7 @@ use rand::rngs::StdRng;
 use rand_xorshift::XorShiftRng;
 
 pub struct Search {
-    table: FlatTrieTable,
+    table: &'static FlatTrieTable,
     quote: LetterSet,
     source: Vec<Letter>,
     rng: XorShiftRng,
@@ -28,7 +27,7 @@ pub struct Search {
 impl Search {
     pub async fn new(quote: LetterSet, source: Vec<Letter>, seed: u64) -> io::Result<Self> {
         Ok(Search {
-            table: FlatTrieTable::new().await?,
+            table: FLAT_TRIE_TABLE.get_io().await?,
             quote,
             source,
             rng: XorShiftRng::seed_from_u64(seed),

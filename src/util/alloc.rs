@@ -7,7 +7,6 @@ use std::{fs, io, slice};
 
 use memmap::{Mmap, MmapMut, MmapOptions};
 use tokio::fs::File;
-use crate::lazy_async::LazyAsync;
 use crate::write_path;
 
 pub struct MmapAllocator {

@@ -7,9 +7,9 @@ use futures::future::Shared;
 use futures::FutureExt;
 use tokio::sync::Mutex;
 
-use crate::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
 use crate::{Letter, LetterSet, PACKAGE_PATH, read_path_to_string};
-use crate::lazy_async::{LazyAsync, LazyMmap};
+use crate::util::alloc::{AnyRepr, save_vec};
+use crate::util::lazy_async::LazyMmap;
 
 #[derive(Debug)]
 #[repr(C)]

@@ -18,7 +18,7 @@ async fn build_index() -> io::Result<()> {
     writeln!(f, "<title>Acrostic Puzzles</title>")?;
     writeln!(f, "</head>")?;
     writeln!(f, "<body>")?;
-    let mut d = tokio::fs::read_dir(PACKAGE_PATH.join("src/public/")).await?;
+    let mut d = tokio::fs::read_dir(PACKAGE_PATH.join("build/site/puzzles")).await?;
     while let Some(e) = d.next_entry().await? {
         writeln!(
             f,
@@ -27,9 +27,11 @@ async fn build_index() -> io::Result<()> {
             e.file_name().to_str().unwrap()
         )?;
     }
+    writeln!(f, "<p><a href=\"./ACKNOWLEDGEMENTS.txt\">ACKNOWLEDGEMENTS</a></p>")?;
+    writeln!(f, "<p><a href=\"./LICENSE.txt\">LICENSE</a></p>")?;
     writeln!(f, "</body>")?;
     writeln!(f, "</html>")?;
-    tokio::fs::write(PACKAGE_PATH.join("public/index.html"), f).await?;
+    tokio::fs::write(PACKAGE_PATH.join("build/site/index.html"), f).await?;
     Ok(())
 }
 
@@ -85,6 +87,9 @@ pub async fn copy_puzzles() -> io::Result<()> {
 pub async fn build_site() -> io::Result<()> {
     fs::remove_dir_all(&PACKAGE_PATH.join("build/site")).await?;
     copy_dir(&PACKAGE_PATH.join("src/player"), &PACKAGE_PATH.join("build/site")).await?;
+    fs::copy(&PACKAGE_PATH.join("LICENSE"), &PACKAGE_PATH.join("build/site/LICENSE.txt")).await?;
+    fs::copy(&PACKAGE_PATH.join("ACKNOWLEDGEMENTS"), &PACKAGE_PATH.join("build/site/ACKNOWLEDGEMENTS.txt")).await?;
     copy_puzzles().await?;
+    build_index().await?;
     Ok(())
 }

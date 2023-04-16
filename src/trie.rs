@@ -11,9 +11,9 @@ use std::time::Instant;
 use rand::seq::SliceRandom;
 use rand::thread_rng;
 
-use crate::alloc::{restore_vec, AnyRepr, MmapAllocator, save_vec};
 use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 use crate::dict::{FLAT_WORDS, FlatWord};
+use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {

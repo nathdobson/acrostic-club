@@ -6,7 +6,7 @@ use futures::future::BoxFuture;
 use futures::FutureExt;
 use tokio::io;
 use tokio::sync::Mutex;
-use crate::alloc::{AnyRepr, MmapAllocator, restore_vec};
+use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec};
 
 pub struct LazyAsync<T> {
     thunk: Mutex<Option<BoxFuture<'static, T>>>,

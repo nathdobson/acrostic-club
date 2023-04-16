@@ -10,4 +10,5 @@ This project draws upon several data sources for generating puzzles:
 2. A dictionary based on terms in wikipedia:
     https://github.com/IlyaSemenov/wikipedia-word-frequency
 
-3. The ChatGPT API for clue generations
+3. The ChatGPT API for clue generation:
+    https://platform.openai.com/docs/guides/chat
