@@ -2,14 +2,13 @@
 
 use std::fs;
 
-use acrostic::puzzle::Puzzle;
 use chat_gpt_lib_rs::{ChatGPTClient, ChatInput, Message, Model, Role};
 use itertools::Itertools;
 use tokio::io;
+use crate::puzzle::Puzzle;
 
-#[tokio::main]
-async fn main() -> io::Result<()> {
-    let mut puzzle = Puzzle::read("stage2.json")?;
+pub async fn add_chat(pindex: usize) -> io::Result<()> {
+    let mut puzzle = Puzzle::read(pindex, "stage2.json").await?;
     let api_key = home::home_dir().unwrap().join(".config/chatgpt_apikey.txt");
     let api_key = fs::read_to_string(api_key).unwrap();
     let api_key = api_key.trim();
@@ -27,7 +26,7 @@ You are a crossword clue generator that follows precise rules:
 4. Clues agree with the input in tense, part of speech, and plurality.
 5. Clues and inputs do not share an etymology.
 "
-            .to_string(),
+                .to_string(),
         }],
         ..Default::default()
     };
@@ -46,6 +45,6 @@ You are a crossword clue generator that follows precise rules:
     println!("{:#?}", response);
     puzzle.chat = Some(response.choices[0].message.content.to_string());
 
-    puzzle.write("stage3.json")?;
+    puzzle.write(pindex, "stage3.json").await?;
     Ok(())
 }

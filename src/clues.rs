@@ -1,12 +1,12 @@
 #[allow(unused_imports)]
 use std::collections::HashMap;
 use std::io;
+use std::io::ErrorKind;
 
-use acrostic::puzzle::Puzzle;
+use crate::puzzle::Puzzle;
 
-#[tokio::main]
-async fn main() -> io::Result<()> {
-    let mut puzzle = Puzzle::read("stage3.json")?;
+pub async fn add_clues(pindex: usize) -> io::Result<()> {
+    let mut puzzle = Puzzle::read(pindex, "stage3.json").await?;
     let table: Vec<&str> = puzzle
         .chat
         .as_ref()
@@ -15,7 +15,7 @@ async fn main() -> io::Result<()> {
         .filter(|x| !x.is_empty())
         .collect();
     for clue in puzzle.clues.as_mut().unwrap() {
-        let  entry = table
+        let entry = table
             .iter()
             .filter_map(|x| {
                 x.to_ascii_lowercase()
@@ -24,12 +24,12 @@ async fn main() -> io::Result<()> {
                     .filter(|x| !x.chars().next().unwrap().is_alphabetic())
             })
             .next()
-            .unwrap_or_else(|| panic!("Can't find {:?}", clue.answer));
+            .ok_or_else(|| io::Error::new(ErrorKind::NotFound, format!("Can't find {:?}", clue.answer)))?;
         let mut entry = &*entry;
         entry = entry.strip_prefix(" - ").unwrap_or(entry);
         entry = entry.strip_prefix(": ").unwrap_or(entry);
         clue.clue = Some(entry.to_string());
     }
-    puzzle.write("stage4.json")?;
+    puzzle.write(pindex, "stage4.json").await?;
     Ok(())
 }

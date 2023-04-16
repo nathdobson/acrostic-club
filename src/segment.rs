@@ -1,8 +1,11 @@
+use std::io;
 use any_ascii::any_ascii;
 use itertools::EitherOrBoth;
 use unicode_segmentation::UnicodeSegmentation;
 
 use crate::Letter;
+use std::fmt::Write;
+use crate::puzzle::Puzzle;
 
 pub fn segment(s: &str) -> Vec<EitherOrBoth<Letter, String>> {
     let mut result = vec![];
@@ -27,4 +30,45 @@ pub fn segment(s: &str) -> Vec<EitherOrBoth<Letter, String>> {
         }
     }
     result
+}
+
+
+fn get_letters(input: &str) -> String {
+    let mut cells = String::new();
+    for x in segment(&input) {
+        if let Some(letter) = x.as_ref().left() {
+            write!(&mut cells, "{}", letter).unwrap();
+        } else if let Some(content) = x.right() {
+            if content.chars().all(|x| x.is_numeric()) {
+                // write!(&mut cells, "{}",content).unwrap();
+                continue;
+            }
+            match &*content {
+                " " => {
+                    write!(&mut cells, "{}", content).unwrap();
+                }
+                "." | "," | ";" | "'" | "\"" | "!" | "?" | "‘" | "’" | ":" | "&" | "*" | "(" | ")" | "”" | "“" => {}
+                "-" => {
+                    write!(&mut cells, "-").unwrap();
+                }
+                x => todo!("{:?}", x),
+            }
+        }
+    }
+    cells
+}
+
+pub async fn add_letters(pindex: usize) -> io::Result<()> {
+    let mut puzzle = Puzzle::read(pindex, "stage0.json").await?;
+    puzzle
+        .quote_letters
+        .get_or_insert_with(|| get_letters(&puzzle.quote));
+    puzzle.source_letters.get_or_insert_with(|| {
+        get_letters(&puzzle.source)
+            .chars()
+            .filter(|x| x.is_ascii_alphabetic())
+            .collect()
+    });
+    puzzle.write(pindex, "stage1.json").await?;
+    Ok(())
 }

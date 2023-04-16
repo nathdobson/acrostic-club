@@ -5,30 +5,36 @@ use std::io;
 use std::mem::swap;
 
 use rand::seq::SliceRandom;
-use rand::{thread_rng, Rng};
+use rand::{thread_rng, Rng, SeedableRng};
 
 use crate::alloc::{restore_vec, MmapAllocator};
 use crate::dict::FlatWord;
-use crate::flat_trie_table::FlatTrieTable;
+use crate::trie_table::FlatTrieTable;
 use crate::model::{Model, Word};
 // use crate::trie::Trie;
 use crate::{author_title_letters, quote_letters, Letter, LetterMap, LetterSet};
+use crate::puzzle::{Clue, Puzzle};
+use itertools::Itertools;
+use rand::rngs::StdRng;
+use rand_xorshift::XorShiftRng;
 
 pub struct Search {
     table: FlatTrieTable,
     quote: LetterSet,
     source: Vec<Letter>,
+    rng: XorShiftRng,
 }
 
 impl Search {
-    pub async fn new(quote: LetterSet, source: Vec<Letter>) -> io::Result<Self> {
+    pub async fn new(quote: LetterSet, source: Vec<Letter>, seed: u64) -> io::Result<Self> {
         Ok(Search {
             table: FlatTrieTable::new().await?,
             quote,
             source,
+            rng: XorShiftRng::seed_from_u64(seed),
         })
     }
-    fn start(&self) -> Solution {
+    fn start(&self) -> Option<Solution> {
         let mut remainder = self.quote;
         let words: Vec<LetterSet> = self
             .source
@@ -36,16 +42,20 @@ impl Search {
             .map(|first| [first].into_iter().cloned().collect())
             .collect();
         for word in words.iter() {
+            if !word.is_subset(remainder){
+                return None;
+            }
             remainder = remainder - *word;
         }
-        Solution { words, remainder }
+        Some(Solution { words, remainder })
     }
     fn reset(&self, solution: &mut Solution, index: usize) {
         solution.set_word(index, [self.source[index]].into_iter().collect());
     }
-    fn randomize(&self, solution: &mut Solution) {
-        for i in 0..thread_rng().gen_range(1..3) {
-            self.reset(solution, thread_rng().gen_range(0..self.source.len()));
+    fn randomize(&mut self, solution: &mut Solution) {
+        for _ in 0..self.rng.gen_range(1..3) {
+            let index = self.rng.gen_range(0..self.source.len());
+            self.reset(solution, index);
         }
     }
     fn optimize1(&self, solution: &mut Solution, index: usize) -> bool {
@@ -74,7 +84,7 @@ impl Search {
         }
         let trie = &self.table.binary.get(&(ls[0], ls[1])).unwrap();
         if let Some(found) =
-            trie.search_smallest_subset(solution.remainder, old1.count() + old2.count() + 1)
+        trie.search_smallest_subset(solution.remainder, old1.count() + old2.count() + 1)
         {
             if flipped {
                 solution.set_word(i1, found.1);
@@ -113,7 +123,7 @@ impl Search {
             }
         }
     }
-    pub fn anneal(&self, sol: &mut Solution) -> bool {
+    pub fn anneal(&mut self, sol: &mut Solution) -> bool {
         for i in 0..10 {
             self.optimize(sol);
             if sol.is_done() {
@@ -124,9 +134,9 @@ impl Search {
         }
         false
     }
-    pub fn solve(&self) -> Option<Solution> {
+    pub fn solve(&mut self) -> Option<Solution> {
         for i in 0..100 {
-            let mut solution = self.start();
+            let mut solution = self.start()?;
             if self.anneal(&mut solution) {
                 return Some(solution);
             } else {
@@ -174,10 +184,78 @@ impl Solution {
     pub fn set_word(&mut self, index: usize, word: LetterSet) {
         self.remainder = self.remainder + self.words[index];
         self.words[index] = word;
+        assert!(word.is_subset(self.remainder));
         self.remainder = self.remainder - word;
     }
     pub fn words(&self) -> &[LetterSet] { &self.words }
     pub fn is_done(&self) -> bool {
         self.remainder.count() == 0 && self.words.iter().all(|x| x.count() > 1)
     }
+}
+
+pub async fn add_answers(pindex: usize) -> io::Result<()> {
+    let mut puzzle = Puzzle::read(pindex, "stage1.json").await?;
+    let quote: LetterSet = puzzle
+        .quote_letters
+        .as_ref()
+        .unwrap()
+        .bytes()
+        .flat_map(|x| Letter::new(x))
+        .collect();
+    let source: Vec<_> = puzzle
+        .source_letters
+        .as_ref()
+        .unwrap()
+        .bytes()
+        .flat_map(|x| Letter::new(x))
+        .collect();
+    println!("{:?}", source);
+    let mut search = Search::new(quote, source, pindex as u64).await?;
+    let sol = search.solve().ok_or_else(|| io::Error::new(io::ErrorKind::TimedOut, "timed out"))?;
+    let words = search.get_words(&sol);
+    let mut positions: LetterMap<Vec<usize>> = Letter::all()
+        .map(|l| {
+            let mut result: Vec<_> = puzzle
+                .quote_letters
+                .as_ref()
+                .unwrap()
+                .chars()
+                .positions(|l2| l.to_char() == l2)
+                .collect();
+            result.shuffle(&mut thread_rng());
+            result
+        })
+        .collect();
+    let clues: Vec<Clue> = words
+        .iter()
+        .map(|w| Clue {
+            clue: None,
+            answer: w.word.to_string(),
+            answer_letters: w.letter_vec.iter().join(""),
+            indices: w
+                .letter_vec
+                .iter()
+                .map(|l| positions[*l].pop().unwrap())
+                .collect(),
+        })
+        .collect();
+    let mut clues2 = LetterMap::<Vec<Clue>>::new();
+    for clue in clues {
+        clues2[Letter::new(clue.answer.bytes().next().unwrap()).unwrap()].push(clue);
+    }
+    println!("{:?}", clues2);
+    println!("{:?}", puzzle.source_letters);
+    let clues3 = puzzle
+        .source_letters
+        .as_ref()
+        .unwrap()
+        .bytes()
+        .map(|x| {
+            let x = Letter::new(x).unwrap();
+            clues2[x].pop().unwrap_or_else(|| panic!("Missing {:?}", x))
+        })
+        .collect();
+    puzzle.clues = Some(clues3);
+    puzzle.write(pindex, "stage2.json").await?;
+    Ok(())
 }

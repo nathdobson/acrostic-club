@@ -3,6 +3,7 @@ use std::borrow::Borrow;
 use std::cmp::Ordering;
 use std::fmt::{Debug, Formatter};
 use std::{io, mem};
+use std::collections::BTreeMap;
 use std::mem::size_of;
 use std::path::Path;
 use std::time::Instant;
@@ -10,8 +11,9 @@ use std::time::Instant;
 use rand::seq::SliceRandom;
 use rand::thread_rng;
 
-use crate::alloc::{restore_vec, AnyRepr, MmapAllocator};
-use crate::{Letter, LetterMap, LetterSet};
+use crate::alloc::{restore_vec, AnyRepr, MmapAllocator, save_vec};
+use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
+use crate::dict::FlatWord;
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {
@@ -263,6 +265,67 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
     }
 }
 
+
+pub async fn build_trie() -> io::Result<()> {
+    let dict = FlatWord::get().await?;
+    let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
+    let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
+    for l in Letter::all() {
+        unary.insert(l, vec![]);
+    }
+    for l1 in Letter::all() {
+        for l2 in Letter::all() {
+            binary.insert((l1, l2), vec![]);
+        }
+    }
+    let mut words = vec![];
+    for word in &*dict {
+        if word.letters.count() > 5 {
+            words.push(word);
+        }
+    }
+    let words = &words[0..15000];
+    for word1 in words {
+        if let Some(first1) = word1.letter_vec.first() {
+            unary
+                .entry(*first1)
+                .or_default()
+                .push((word1.letters, word1.letters));
+            for word2 in words {
+                if let Some(first2) = word2.letter_vec.first() {
+                    if first1 <= first2 {
+                        binary.entry((*first1, *first2)).or_default().push((
+                            word1.letters + word2.letters,
+                            (word1.letters, word2.letters),
+                        ));
+                    }
+                }
+            }
+        }
+    }
+
+    for (l1, vec) in unary {
+        println!("{:?}", l1);
+        save_vec::<FlatTrieEntry<LetterSet>>(
+            &PACKAGE_PATH.join(&format!("build/unary/map_{}.dat", l1)),
+            vec.into_iter()
+                .collect::<Box<FlatTrie<LetterSet>>>()
+                .as_slice(),
+        ).await?;
+    }
+    for ((l1, l2), vec) in binary {
+        println!("{:?}/{:?}", l1, l2);
+        save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
+            &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
+            vec.into_iter()
+                .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
+                .as_slice(),
+        ).await?;
+    }
+    Ok(())
+}
+
+
 #[test]
 fn test_flat_trie() {
     let mut entries = vec!["ab", "abc", "abd"];
@@ -274,23 +337,3 @@ fn test_flat_trie() {
     println!("{:?}", b);
 }
 
-// #[test]
-// fn test_flat_trie_dict() {
-//     let start = Instant::now();
-//     let x: Box<[FlatTrieEntry<(LetterSet, LetterSet)>], _> =
-//         unsafe { restore_vec("data/binary/map_a_a") };
-//     println!("{:?}", start.elapsed());
-//     let trie = FlatTrie::new_unchecked_ref(&x);
-//     let dict = Dict::get();
-//     for _ in 0..10000 {
-//         let w1 = dict.words.as_slice()[..1000]
-//             .choose(&mut thread_rng())
-//             .unwrap();
-//         let w2 = dict.words.as_slice()[..1000]
-//             .choose(&mut thread_rng())
-//             .unwrap();
-//         if w1.letter_vec[0] == Letter::MIN && w2.letter_vec[0] == Letter::MIN {
-//             println!("{:?}", trie.search_exact(w1.letters + w2.letters));
-//         }
-//     }
-// }

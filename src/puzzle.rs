@@ -3,7 +3,7 @@ use chat_gpt_lib_rs::ChatResponse;
 
 use serde::{Deserialize, Serialize};
 
-use crate::{Letter, PACKAGE_PATH};
+use crate::{Letter, PACKAGE_PATH, read_path, read_path_to_string, write_path};
 
 // #[derive(Serialize, Deserialize, Debug)]
 // pub struct GivenCell {
@@ -44,15 +44,18 @@ pub struct Puzzle {
 }
 
 impl Puzzle {
-    pub fn read(stage: &str) -> io::Result<Puzzle> {
-        let input = fs::read_to_string(&PACKAGE_PATH.join("puzzle").join(stage))?;
+    pub async fn read(index: usize, stage: &str) -> io::Result<Puzzle> {
+        let input = read_path_to_string(
+            &PACKAGE_PATH.join("build/puzzles").join(&format!("{}", index)).join(stage)).await?;
         Ok(serde_json::from_str(&input)?)
     }
-    pub fn write(&self, stage: &str) -> io::Result<()> {
-        fs::write(
-            &PACKAGE_PATH.join("puzzle").join(stage),
-            &serde_json::to_string_pretty(self).unwrap(),
-        )?;
+    pub async fn write(&self, index: usize, stage: &str) -> io::Result<()> {
+        let dir = PACKAGE_PATH.join("build/puzzles").join(&format!("{}", index));
+        tokio::fs::create_dir_all(&dir).await?;
+        write_path(
+            &dir.join(stage),
+            &serde_json::to_string_pretty(self).unwrap().as_bytes(),
+        ).await?;
         Ok(())
     }
 }

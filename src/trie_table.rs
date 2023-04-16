@@ -5,7 +5,7 @@ use itertools::Itertools;
 
 use crate::alloc::MmapAllocator;
 use crate::dict::FlatWord;
-use crate::flat_trie::{FlatTrie, FlatTrieEntry};
+use crate::trie::{FlatTrie, FlatTrieEntry};
 use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 
 pub struct FlatTrieTable {
@@ -19,7 +19,7 @@ impl FlatTrieTable {
         unsafe {
             let mut unary = LetterMap::new();
             for x in Letter::all() {
-                unary[x] = Some(FlatTrie::restore(&PACKAGE_PATH.join(&format!("index/unary/map_{}.dat", x))).await?);
+                unary[x] = Some(FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/unary/map_{}.dat", x))).await?);
             }
             let unary = unary.map(|x| x.unwrap());
             let mut binary = HashMap::new();
@@ -29,7 +29,7 @@ impl FlatTrieTable {
                 binary.insert(
                     (l1, l2),
                     FlatTrie::restore(
-                        &PACKAGE_PATH.join(&format!("index/binary/map_{}_{}.dat", l1, l2)),
+                        &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
                     ).await?,
                 );
             }

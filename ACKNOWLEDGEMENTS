@@ -1,0 +1,13 @@
+This project draws upon several data sources for generating puzzles:
+
+1. A large quote database:
+    https://github.com/ShivaliGoel/Quotes-500K
+    Title: Proposing Contextually Relevant Quotes for Images
+    Authors: Shivali Goel, Rishi Madhok, Shweta Garg
+    In proceedings of: 40th European Conference on Information Retreival
+    Year: 2018
+
+2. A dictionary based on terms in wikipedia:
+    https://github.com/IlyaSemenov/wikipedia-word-frequency
+
+3. The ChatGPT API for clue generations
