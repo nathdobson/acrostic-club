@@ -1,12 +1,13 @@
 use std::alloc::{AllocError, Allocator, Layout};
 use std::fmt::Debug;
-use std::fs::File;
 use std::mem::size_of;
 use std::path::Path;
 use std::ptr::{null_mut, slice_from_raw_parts, NonNull};
-use std::{fs, slice};
+use std::{fs, io, slice};
 
 use memmap::{Mmap, MmapMut, MmapOptions};
+use tokio::fs::File;
+use crate::write_path;
 
 pub struct MmapAllocator {
     file: File,
@@ -23,34 +24,36 @@ pub unsafe trait AnyRepr {}
 unsafe impl AnyRepr for u32 {}
 
 unsafe impl<A, B> AnyRepr for (A, B)
-where
-    A: AnyRepr,
-    B: AnyRepr,
-{
-}
+    where
+        A: AnyRepr,
+        B: AnyRepr,
+{}
 
-pub fn save_vec<T: AnyRepr>(file: &Path, value: &[T]) {
+pub async fn save_vec<T: AnyRepr>(file: &Path, value: &[T]) -> io::Result<()> {
     unsafe {
         let start = value.as_ptr();
         let end = start.offset(value.len() as isize);
         let start = start as *const u8;
         let end = end as *const u8;
         let slice = &*slice_from_raw_parts(start, end.offset_from(start) as usize);
-        fs::write(file, slice).unwrap();
+        write_path(file, slice).await?;
+        Ok(())
     }
 }
 
-pub fn restore_vec<T: AnyRepr>(filename: &Path) -> Box<[T], MmapAllocator> {
-    unsafe {
-        let file = fs::OpenOptions::new()
+pub async fn restore_vec<T: AnyRepr>(filename: &Path) -> io::Result<Box<[T], MmapAllocator>> {
+    Ok(unsafe {
+        let file = tokio::fs::OpenOptions::new()
             .read(true)
-            .open(filename)
+            .open(filename).await
             .unwrap_or_else(|e| panic!("Cannot open {:?}: {}", filename, e));
-        let len = file.metadata().unwrap().len();
+        let len = file.metadata().await?.len();
         if len == 0 {
             Box::from_raw_in(&mut [], MmapAllocator { mmap: None, file })
         } else {
+            let file = file.into_std().await;
             let mmap = MmapOptions::new().map_copy(&file).unwrap();
+            let file = tokio::fs::File::from_std(file);
             assert_eq!(mmap.len() as u64, len);
             assert_eq!(mmap.len() % size_of::<T>(), 0);
             Box::from_raw_in(
@@ -61,7 +64,7 @@ pub fn restore_vec<T: AnyRepr>(filename: &Path) -> Box<[T], MmapAllocator> {
                 },
             )
         }
-    }
+    })
 }
 
 #[test]

@@ -1,42 +1,43 @@
 use std::collections::HashMap;
+use std::io;
 
 use itertools::Itertools;
 
 use crate::alloc::MmapAllocator;
-use crate::flat_dict::FlatWord;
+use crate::dict::FlatWord;
 use crate::flat_trie::{FlatTrie, FlatTrieEntry};
 use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 
 pub struct FlatTrieTable {
-    pub dict: Box<[FlatWord], MmapAllocator>,
+    pub dict: &'static [FlatWord],
     pub unary: LetterMap<Box<FlatTrie<LetterSet>, MmapAllocator>>,
     pub binary: HashMap<(Letter, Letter), Box<FlatTrie<(LetterSet, LetterSet)>, MmapAllocator>>,
 }
 
 impl FlatTrieTable {
-    pub fn new() -> Self {
+    pub async fn new() -> io::Result<Self> {
         unsafe {
-            FlatTrieTable {
-                dict: FlatWord::get(),
-                unary: Letter::all()
-                    .map(|x| {
-                        FlatTrie::restore(&PACKAGE_PATH.join(&format!("index/unary/map_{}.dat", x)))
-                    })
-                    .collect(),
-                binary: Letter::all()
-                    .combinations_with_replacement(2)
-                    .map(|ls| {
-                        let l1 = ls[0];
-                        let l2 = ls[1];
-                        (
-                            (l1, l2),
-                            FlatTrie::restore(
-                                &PACKAGE_PATH.join(&format!("index/binary/map_{}_{}.dat", l1, l2)),
-                            ),
-                        )
-                    })
-                    .collect(),
+            let mut unary = LetterMap::new();
+            for x in Letter::all() {
+                unary[x] = Some(FlatTrie::restore(&PACKAGE_PATH.join(&format!("index/unary/map_{}.dat", x))).await?);
             }
+            let unary = unary.map(|x| x.unwrap());
+            let mut binary = HashMap::new();
+            for ls in Letter::all().combinations_with_replacement(2) {
+                let l1 = ls[0];
+                let l2 = ls[1];
+                binary.insert(
+                    (l1, l2),
+                    FlatTrie::restore(
+                        &PACKAGE_PATH.join(&format!("index/binary/map_{}_{}.dat", l1, l2)),
+                    ).await?,
+                );
+            }
+            Ok(FlatTrieTable {
+                dict: FlatWord::get().await?,
+                unary,
+                binary,
+            })
         }
     }
 }

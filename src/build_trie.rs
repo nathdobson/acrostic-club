@@ -4,16 +4,14 @@
 use std::collections::{BTreeMap, HashMap};
 use std::{fs, io};
 
-use acrostic::alloc::save_vec;
-use acrostic::flat_dict::FlatWord;
-use acrostic::flat_trie::{FlatTrie, FlatTrieEntry};
-use acrostic::letter::{Letter, LetterSet};
-use acrostic::PACKAGE_PATH;
 use tokio::main;
+use crate::dict::FlatWord;
+use crate::{Letter, LetterSet, PACKAGE_PATH};
+use crate::alloc::save_vec;
+use crate::flat_trie::{FlatTrie, FlatTrieEntry};
 
-#[tokio::main]
-async fn main() -> io::Result<()> {
-    let dict = FlatWord::get();
+pub async fn build_trie() -> io::Result<()> {
+    let dict = FlatWord::get().await?;
     let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
     for l in Letter::all() {
@@ -51,20 +49,22 @@ async fn main() -> io::Result<()> {
     }
 
     for (l1, vec) in unary {
+        println!("{:?}", l1);
         save_vec::<FlatTrieEntry<LetterSet>>(
-            &PACKAGE_PATH.join(&format!("index/unary/map_{}.dat", l1)),
+            &PACKAGE_PATH.join(&format!("build/unary/map_{}.dat", l1)),
             vec.into_iter()
                 .collect::<Box<FlatTrie<LetterSet>>>()
                 .as_slice(),
-        );
+        ).await?;
     }
     for ((l1, l2), vec) in binary {
+        println!("{:?}/{:?}", l1, l2);
         save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
-            &PACKAGE_PATH.join(&format!("index/binary/map_{}_{}.dat", l1, l2)),
+            &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
             vec.into_iter()
                 .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
                 .as_slice(),
-        );
+        ).await?;
     }
     Ok(())
 }

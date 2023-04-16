@@ -2,7 +2,7 @@ use std::alloc::Allocator;
 use std::borrow::Borrow;
 use std::cmp::Ordering;
 use std::fmt::{Debug, Formatter};
-use std::mem;
+use std::{io, mem};
 use std::mem::size_of;
 use std::path::Path;
 use std::time::Instant;
@@ -50,12 +50,12 @@ impl<V> FlatTrie<V> {
             result
         }
     }
-    pub unsafe fn restore(filename: &Path) -> Box<Self, MmapAllocator>
+    pub async unsafe fn restore(filename: &Path) -> io::Result<Box<Self, MmapAllocator>>
     where
         V: AnyRepr,
     {
-        let vec: Box<[FlatTrieEntry<V>], MmapAllocator> = restore_vec(filename);
-        return Self::new_unchecked_box(vec);
+        let vec: Box<[FlatTrieEntry<V>], MmapAllocator> = restore_vec(filename).await?;
+        Ok(Self::new_unchecked_box(vec))
     }
     pub fn new_unchecked_ref(b: &[FlatTrieEntry<V>]) -> &Self { unsafe { mem::transmute(b) } }
     pub fn new_unchecked_mut(b: &mut [FlatTrieEntry<V>]) -> &mut Self {

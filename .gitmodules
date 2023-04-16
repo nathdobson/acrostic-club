@@ -1,3 +1,6 @@
 [submodule "wikipedia-word-frequency"]
-	path = wikipedia-word-frequency
+	path = submodules/wikipedia-word-frequency
 	url = https://github.com/IlyaSemenov/wikipedia-word-frequency.git
+[submodule "submodules/Quotes-500K"]
+	path = submodules/Quotes-500K
+	url = https://github.com/nathdobson/Quotes-500K.git

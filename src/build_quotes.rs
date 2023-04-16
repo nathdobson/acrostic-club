@@ -1,15 +1,15 @@
 #![allow(unused_imports, unused_variables, dead_code)]
 #![deny(unused_must_use)]
 
-use std::io::Cursor;
+use std::io::{Cursor, Read};
 use std::time::Instant;
 use std::{fs, io, slice};
 
-use acrostic::PACKAGE_PATH;
+use crate::{PACKAGE_PATH, read_path, write_path};
 use csv::{ReaderBuilder, StringRecord};
 use itertools::{peek_nth, Itertools, PeekNth};
 use serde::{Deserialize, Serialize};
-use acrostic::quote::Quote;
+use crate::quote::Quote;
 
 
 struct Parser<'a>(PeekNth<slice::Iter<'a, u8>>);
@@ -34,10 +34,12 @@ impl<'a> Parser<'a> {
     fn read(&mut self) -> Option<u8> { self.0.next().copied() }
 }
 
-#[tokio::main]
-async fn main() -> io::Result<()> {
-    // Retrieved from https://github.com/ShivaliGoel/Quotes-500K
-    let mut contents = tokio::fs::read(PACKAGE_PATH.join("data/quotes.csv")).await?;
+pub async fn build_quotes() -> io::Result<()> {
+    let mut contents = read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
+    let mut dec = brotli::Decompressor::new(Cursor::new(&contents), 4096);
+    let mut c2 = vec![];
+    dec.read_to_end(&mut c2).unwrap();
+    let mut contents = c2;
     contents.reverse();
     let mut parser = Parser(peek_nth(contents.iter()));
     let mut entries = vec![];
@@ -110,11 +112,11 @@ async fn main() -> io::Result<()> {
             topics: x[2].split(",").map(|x| x.trim().to_string()).collect(),
         })
         .collect();
-    tokio::fs::write(
-        PACKAGE_PATH.join("data/quotes.json"),
-        serde_json::to_string_pretty(&entries)?,
+    write_path(
+        &PACKAGE_PATH.join("build/quotes.json"),
+        serde_json::to_string_pretty(&entries)?.as_bytes(),
     )
-    .await?;
+        .await?;
     let start = Instant::now();
 
     println!("{:?}", start.elapsed());

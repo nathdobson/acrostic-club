@@ -1,13 +1,14 @@
 use std::collections::HashMap;
 use std::default::default;
 use std::fmt::Write;
+use std::io;
 use std::mem::swap;
 
 use rand::seq::SliceRandom;
 use rand::{thread_rng, Rng};
 
 use crate::alloc::{restore_vec, MmapAllocator};
-use crate::flat_dict::FlatWord;
+use crate::dict::FlatWord;
 use crate::flat_trie_table::FlatTrieTable;
 use crate::model::{Model, Word};
 // use crate::trie::Trie;
@@ -20,12 +21,12 @@ pub struct Search {
 }
 
 impl Search {
-    pub fn new(quote: LetterSet, source: Vec<Letter>) -> Self {
-        Search {
-            table: FlatTrieTable::new(),
+    pub async fn new(quote: LetterSet, source: Vec<Letter>) -> io::Result<Self> {
+        Ok(Search {
+            table: FlatTrieTable::new().await?,
             quote,
             source,
-        }
+        })
     }
     fn start(&self) -> Solution {
         let mut remainder = self.quote;

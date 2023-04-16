@@ -13,11 +13,13 @@
 #![feature(pattern)]
 #![feature(lazy_cell)]
 #![allow(unused_imports)]
+#![feature(type_alias_impl_trait)]
+#![feature(const_async_blocks)]
 
 extern crate core;
 
 pub mod alloc;
-pub mod flat_dict;
+pub mod dict;
 pub mod flat_trie;
 pub mod flat_trie_table;
 pub mod letter;
@@ -26,8 +28,14 @@ pub mod search;
 pub mod puzzle;
 pub mod segment;
 pub mod quote;
+pub mod build_quotes;
+pub mod build_dict;
+pub mod build_trie;
 
 use tikv_jemallocator::Jemalloc;
+use crate::build_quotes::build_quotes;
+use dict::build_dict;
+use build_trie::build_trie;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -35,8 +43,9 @@ static GLOBAL: Jemalloc = Jemalloc;
 use std::collections::HashMap;
 use std::default::default;
 use std::fmt::{Debug, Display, Formatter};
-use std::{env, fs};
+use std::{env, fs, io};
 use std::fs::File;
+use std::io::ErrorKind;
 use std::ops::{Index, IndexMut};
 use std::path::{Path, PathBuf};
 use std::sync::LazyLock;
@@ -56,12 +65,24 @@ use crate::letter::{Letter, LetterMap, LetterSet};
 pub static PACKAGE_PATH: LazyLock<PathBuf> =
     LazyLock::new(|| PathBuf::from(env::var("CARGO_MANIFEST_DIR").unwrap_or("".to_string())));
 
+pub async fn read_path(path: &Path) -> io::Result<Vec<u8>> {
+    tokio::fs::read(path).await.map_err(|e| io::Error::new(e.kind(), format!("Cannot read {:?}: {}", path, e)))
+}
+
+pub async fn read_path_to_string(path: &Path) -> io::Result<String> {
+    tokio::fs::read_to_string(path).await.map_err(|e| io::Error::new(e.kind(), format!("Cannot read {:?}: {}", path, e)))
+}
+
+pub async fn write_path(path: &Path, x: &[u8]) -> io::Result<()> {
+    tokio::fs::write(path, x).await.map_err(|e| io::Error::new(e.kind(), format!("Cannot write {:?}: {}", path, e)))
+}
+
 const QUOTE: &str = concat!(
-    "And you've got to put your bodies upon the gears and ",
-    "upon the wheels, upon the levers, ",
-    "upon all the apparatus, and you've got to make it stop!",
-    "...",
-    "unless you're free the machine will be prevented from working at all",
+"And you've got to put your bodies upon the gears and ",
+"upon the wheels, upon the levers, ",
+"upon all the apparatus, and you've got to make it stop!",
+"...",
+"unless you're free the machine will be prevented from working at all",
 );
 
 const AUTHOR_TITLE: &str = concat!("Savio, Sprout Hall Address");
@@ -69,4 +90,18 @@ const AUTHOR_TITLE: &str = concat!("Savio, Sprout Hall Address");
 fn quote_letters() -> LetterSet { LetterSet::from_str(QUOTE) }
 
 fn author_title_letters() -> LetterSet { LetterSet::from_str(AUTHOR_TITLE) }
+
+#[tokio::main]
+async fn main() -> io::Result<()> {
+    if let Some(arg) = std::env::args().nth(1) {
+        match arg.as_ref() {
+            "build_quotes" => build_quotes().await?,
+            "build_dict" => build_dict().await?,
+            "build_trie" => build_trie().await?,
+            _ => return Err(io::Error::new(ErrorKind::NotFound, format!("no such command: {:?}", arg))),
+        }
+    }
+
+    Ok(())
+}
 
