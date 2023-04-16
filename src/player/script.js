@@ -19,6 +19,9 @@ class Cell {
         this.nodeCursor = document.createElement("div")
         this.nodeCell.appendChild(this.nodeCursor)
         this.value = value
+        // this.nodeCell.addEventListener("click", function (e) {
+        //     console.log(e)
+        // })
     }
     render(selected_grid, selected_value) {
         this.nodeCell.className = "entry-cell "
@@ -53,13 +56,29 @@ class Cell {
 }
 
 class Grid {
-    constructor() {
+    constructor(puzzle) {
         this.nodeGridHolder = document.createElement("div")
         this.nodeGridHolder.className = "entry-grid-holder"
         this.nodeGrid = document.createElement("div")
         this.nodeGrid.className = "entry-grid"
         this.nodeGridHolder.appendChild(this.nodeGrid)
+        var grid = this
+        this.nodeGrid.addEventListener("click", function (e) {
+
+            for (const cell of grid.cells) {
+                var rect = cell.nodeCell.getBoundingClientRect();
+                var x = e.clientX - rect.left; //x position within the element.
+                var y = e.clientY - rect.top;
+                if (e.clientY > rect.top && e.clientY < rect.bottom && e.clientX > rect.left - 10 && e.clientX < rect.right - 10) {
+                    puzzle.cursor_value = cell.value
+                    puzzle.cursor_grid = grid
+                    puzzle.render()
+                    break;
+                }
+            }
+        })
         this.cells = []
+        this.puzzle = puzzle
     }
     addCell(cell) {
         this.nodeGrid.appendChild(cell.nodeCell)
@@ -104,7 +123,7 @@ class Puzzle {
         this.div = document.createElement("div")
         this.puzzle = puzzle
         this.grids = []
-        this.quote = new Grid()
+        this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
         this.grids.push(this.quote)
         for (var i = 0; i < puzzle.quote_letters.length; i++) {
@@ -113,7 +132,7 @@ class Puzzle {
         }
         this.div.appendChild(this.quote.nodeGridHolder)
         this.div.appendChild(document.createElement("br"))
-        this.source = new Grid()
+        this.source = new Grid(this)
         this.source.nodeGrid.className += " entry-grid-source"
         this.grids.push(this.source)
         this.div.appendChild(this.source.nodeGridHolder)
@@ -123,7 +142,7 @@ class Puzzle {
             this.source.addCell(cell)
             var p = document.createElement("p")
             this.div.appendChild(p)
-            var grid = new Grid()
+            var grid = new Grid(this)
             grid.nodeGrid.className += " entry-grid-answer"
             grid.clue = clue
             p.appendChild(document.createTextNode(clue.clue))
