@@ -23,7 +23,8 @@
 }
 
 .entry-grid-holder {
-    display: inline-block;
+    display: block;
+    width: min-content;
 }
 
 .entry-cell {

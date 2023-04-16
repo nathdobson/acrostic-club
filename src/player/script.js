@@ -198,16 +198,47 @@ class Puzzle {
     }
 }
 
+class Index {
+    constructor(index) {
+        this.div = document.createElement("p")
+        for (const p of index.links) {
+            let a = document.createElement("a")
+            a.href = ".?puzzle=" + encodeURIComponent(p.url)
+            let t = document.createTextNode(p.name)
+            a.appendChild(t)
+            this.div.appendChild(a)
+            this.div.appendChild(document.createElement("br"))
+        }
+    }
+}
 
-async function main() {
-    var params = new URLSearchParams(window.location.search)
-    var url = params.get("puzzle");
-    var data = await fetch(params.get("puzzle"));
+async function load_puzzle(url) {
+    var data = await fetch(url);
     var puzzle = await data.json()
-    console.log(puzzle.quote_letters)
     puzzle = new Puzzle(puzzle)
-    document.body.appendChild(puzzle.div)
+    document.getElementById("contents").appendChild(puzzle.div)
     document.addEventListener('keydown', function (event) { puzzle.onKeydown(event) });
 }
 
-main()
+async function load_index(url) {
+    var data = await fetch(url);
+    var index = await data.json()
+    index = new Index(index)
+    document.getElementById("contents").appendChild(index.div)
+}
+
+async function main() {
+    var params = new URLSearchParams(window.location.search)
+    var puzzle = params.get("puzzle");
+    var index = params.get("index");
+    if (puzzle) {
+        await load_puzzle(puzzle)
+    } else if (index) {
+        await load_index(index)
+    } else {
+        load_index("./puzzles.json")
+    }
+
+}
+
+window.onload = main
