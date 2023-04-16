@@ -31,6 +31,7 @@ pub mod segment;
 pub mod quote;
 pub mod chat;
 pub mod clues;
+pub mod site;
 
 use tikv_jemallocator::Jemalloc;
 use dict::build_dict;
@@ -63,6 +64,7 @@ use crate::clues::add_clues;
 use crate::letter::{Letter, LetterMap, LetterSet};
 use crate::search::add_answers;
 use crate::segment::add_letters;
+use crate::site::build_site;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -105,6 +107,7 @@ async fn main() -> io::Result<()> {
             Some("quotes") => build_quotes().await?,
             Some("dict") => build_dict().await?,
             Some("trie") => build_trie().await?,
+            Some("site") => build_site().await?,
             x => panic!("Unknown global target {:?}", x),
         }
         Some("puzzle") => {
