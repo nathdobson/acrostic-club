@@ -1,12 +1,13 @@
 use std::alloc::{AllocError, Allocator, Layout};
 use std::fmt::Debug;
 use std::mem::size_of;
-use std::path::Path;
+use std::path::{Path, PathBuf};
 use std::ptr::{null_mut, slice_from_raw_parts, NonNull};
 use std::{fs, io, slice};
 
 use memmap::{Mmap, MmapMut, MmapOptions};
 use tokio::fs::File;
+use crate::lazy_async::LazyAsync;
 use crate::write_path;
 
 pub struct MmapAllocator {
@@ -66,6 +67,22 @@ pub async fn restore_vec<T: AnyRepr>(filename: &Path) -> io::Result<Box<[T], Mma
         }
     })
 }
+
+// pub struct LazyFile<T>(LazyAsync<io::Result<Box<[T], MmapAllocator>>>);
+
+// impl<T: AnyRepr> LazyFile<T> {
+//     pub const fn new(path: fn() -> PathBuf) -> Self {
+//         LazyFile(LazyAsync::new())
+//     }
+//     pub async fn get() -> io::Result<&'static [Self]> {
+//         Ok(&*(FLAT_WORDS.get_io().await?))
+//     }
+// }
+
+// pub static FLAT_WORDS: LazyAsync<io::Result<Box<[FlatWord], MmapAllocator>>> = LazyAsync::new(|| async {
+//     Ok(restore_vec(&PACKAGE_PATH.join("build/dict.dat")).await?)
+// }.boxed());
+
 
 #[test]
 fn test_mmap_allocator() {

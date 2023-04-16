@@ -32,6 +32,7 @@ pub mod quote;
 pub mod chat;
 pub mod clues;
 pub mod site;
+pub mod lazy_async;
 
 use tikv_jemallocator::Jemalloc;
 use dict::build_dict;

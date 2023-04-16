@@ -13,7 +13,7 @@ use rand::thread_rng;
 
 use crate::alloc::{restore_vec, AnyRepr, MmapAllocator, save_vec};
 use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
-use crate::dict::FlatWord;
+use crate::dict::{FLAT_WORDS, FlatWord};
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {
@@ -53,8 +53,8 @@ impl<V> FlatTrie<V> {
         }
     }
     pub async unsafe fn restore(filename: &Path) -> io::Result<Box<Self, MmapAllocator>>
-    where
-        V: AnyRepr,
+        where
+            V: AnyRepr,
     {
         let vec: Box<[FlatTrieEntry<V>], MmapAllocator> = restore_vec(filename).await?;
         Ok(Self::new_unchecked_box(vec))
@@ -215,7 +215,7 @@ impl<V: Debug> FlatTrieBuilder<V> {
 }
 
 impl<V: Debug> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
-    fn from_iter<T: IntoIterator<Item = (LetterSet, V)>>(iter: T) -> Self {
+    fn from_iter<T: IntoIterator<Item=(LetterSet, V)>>(iter: T) -> Self {
         let mut entries = iter
             .into_iter()
             .map(|(k, v)| (k, Some(v)))
@@ -267,7 +267,7 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 
 
 pub async fn build_trie() -> io::Result<()> {
-    let dict = FlatWord::get().await?;
+    let dict = FLAT_WORDS.get().await?;
     let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
     for l in Letter::all() {

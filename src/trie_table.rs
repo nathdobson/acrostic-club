@@ -4,7 +4,7 @@ use std::io;
 use itertools::Itertools;
 
 use crate::alloc::MmapAllocator;
-use crate::dict::FlatWord;
+use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::trie::{FlatTrie, FlatTrieEntry};
 use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 
@@ -34,7 +34,7 @@ impl FlatTrieTable {
                 );
             }
             Ok(FlatTrieTable {
-                dict: FlatWord::get().await?,
+                dict: FLAT_WORDS.get().await?,
                 unary,
                 binary,
             })

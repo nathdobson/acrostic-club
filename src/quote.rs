@@ -1,5 +1,6 @@
 use std::{fs, io, slice};
 use std::io::{Cursor, Read};
+use std::sync::LazyLock;
 use std::time::Instant;
 use itertools::{peek_nth, PeekNth};
 use rand::seq::SliceRandom;
@@ -8,6 +9,7 @@ use rand::thread_rng;
 use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
 use serde::Serialize;
 use serde::Deserialize;
+use crate::lazy_async::LazyAsync;
 use crate::puzzle::Puzzle;
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -17,11 +19,11 @@ pub struct Quote {
     pub topics: Vec<String>,
 }
 
-impl Quote {
-    pub async fn get() -> io::Result<Vec<Quote>> {
+pub static QUOTES: LazyLock<LazyAsync<io::Result<Vec<Quote>>>> = LazyLock::new(|| {
+    LazyAsync::new(async {
         Ok(serde_json::from_str(&read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?)?)
-    }
-}
+    })
+});
 
 struct Parser<'a>(PeekNth<slice::Iter<'a, u8>>);
 
@@ -136,15 +138,17 @@ pub async fn build_quotes() -> io::Result<()> {
 
 
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
-    let mut quotes = Quote::get().await?;
-    let selected = quotes.into_iter().filter(|quote| quote.source.len() > 22
-        && quote.source.len() <= 24
-        && quote.quote.len() > 180
-        && quote.quote.len() < 200).nth(pindex).unwrap();
+    let mut quotes = QUOTES.get_io().await?;
+    let selected = &quotes[pindex];
+    // let (index, selected) = quotes.into_iter().enumerate()
+    //     .filter(|(index, quote)| quote.source.len() > 22
+    //         && quote.source.len() <= 24
+    //         && quote.quote.len() > 180
+    //         && quote.quote.len() < 200).nth(pindex).unwrap();
     let puzzle = Puzzle {
-        quote: selected.quote,
+        quote: selected.quote.clone(),
         quote_letters: None,
-        source: selected.source,
+        source: selected.source.clone(),
         source_letters: None,
         clues: None,
         chat: None,

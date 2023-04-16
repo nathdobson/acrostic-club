@@ -9,6 +9,7 @@ use tokio::sync::Mutex;
 
 use crate::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
 use crate::{Letter, LetterSet, PACKAGE_PATH, read_path_to_string};
+use crate::lazy_async::{LazyAsync, LazyMmap};
 
 #[derive(Debug)]
 #[repr(C)]
@@ -21,17 +22,9 @@ pub struct FlatWord {
 
 unsafe impl AnyRepr for FlatWord {}
 
-impl FlatWord {
-    pub async fn get() -> io::Result<&'static [Self]> {
-        let mut lock = FLAT_WORDS.lock().await;
-        if lock.is_none() {
-            *lock = Some(Box::leak(restore_vec(&PACKAGE_PATH.join("build/dict.dat")).await?) as &'static [FlatWord])
-        }
-        Ok(lock.as_ref().unwrap())
-    }
-}
-
-static FLAT_WORDS: LazyLock<Mutex<Option<&'static [FlatWord]>>> = LazyLock::new(|| Mutex::new(None));
+pub static FLAT_WORDS: LazyLock<LazyMmap<FlatWord>> = LazyLock::new(|| {
+    LazyMmap::new(PACKAGE_PATH.join("build/dict.dat"))
+});
 
 
 #[test]
