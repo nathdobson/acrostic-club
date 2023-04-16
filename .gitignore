@@ -11,3 +11,5 @@ Cargo.lock
 build
 .idea
 acrostic-club.iml
+.firebase
+.firebaserc

@@ -139,11 +139,12 @@ class Puzzle {
         this.clues = []
         this.nodeClues = document.createElement("div")
         this.nodeClues.className = "clues-holder"
+        this.div.appendChild(document.createElement("br"))
         this.div.appendChild(this.nodeClues)
         for (const [index, clue] of puzzle.clues.entries()) {
             var cell = new Cell(this.quote.cells[clue.indices[0]].value)
             this.source.addCell(cell)
-            var p = document.createElement("p")
+            var p = document.createElement("div")
             this.nodeClues.appendChild(p)
             var grid = new Grid(this)
             grid.nodeGrid.className += " entry-grid-answer"
@@ -151,6 +152,7 @@ class Puzzle {
             p.appendChild(document.createTextNode((index+1)+". "+clue.clue))
             p.appendChild(document.createElement("br"))
             p.appendChild(grid.nodeGridHolder)
+            p.appendChild(document.createElement("br"))
             for (var i = 0; i < clue.answer_letters.length; i++) {
                 var cell = new Cell(this.quote.cells[clue.indices[i]].value)
                 grid.addCell(cell)
