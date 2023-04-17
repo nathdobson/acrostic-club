@@ -1,0 +1,319 @@
+{
+  "quote": "A human being in this aged nation of ours is a very wonderful whole, the slow creation of long interchanging influences; and charm is a result of two such wholes, the one loving and the one loved.",
+  "quote_letters": "A HUMAN BEING IN THIS AGED NATION OF OURS IS A VERY WONDERFUL WHOLE THE SLOW CREATION OF LONG INTERCHANGING INFLUENCES AND CHARM IS A RESULT OF TWO SUCH WHOLES THE ONE LOVING AND THE ONE LOVED",
+  "source": "George Eliot, Middlemarch",
+  "source_letters": "GEORGEELIOTMIDDLEMARCH",
+  "clues": [
+    {
+      "clue": "cultivators of land or crops.",
+      "answer": "growers",
+      "answer_letters": "GROWERS",
+      "indices": [
+        173,
+        98,
+        64,
+        153,
+        166,
+        49,
+        117
+      ]
+    },
+    {
+      "clue": "blessed or gifted with talent or resources.",
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
+      "indices": [
+        116,
+        15,
+        55,
+        90,
+        145,
+        9,
+        177
+      ]
+    },
+    {
+      "clue": "the movement of a fluid out of a particular place.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        183,
+        38,
+        96,
+        87,
+        138,
+        86,
+        52
+      ]
+    },
+    {
+      "clue": "water that runs over the surface of the ground and often carries pollutants.",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        78,
+        112,
+        84,
+        83,
+        35,
+        142
+      ]
+    },
+    {
+      "clue": "the sound made by a gun when fired.",
+      "answer": "gunshot",
+      "answer_letters": "GUNSHOT",
+      "indices": [
+        92,
+        149,
+        102,
+        148,
+        69,
+        169,
+        29
+      ]
+    },
+    {
+      "clue": "a geographical area with a specific ecosystem.",
+      "answer": "ecoregion",
+      "answer_letters": "ECOREGION",
+      "indices": [
+        66,
+        150,
+        53,
+        126,
+        135,
+        103,
+        10,
+        74,
+        184
+      ]
+    },
+    {
+      "clue": "improving or making something better.",
+      "answer": "enhancing",
+      "answer_letters": "ENHANCING",
+      "indices": [
+        113,
+        120,
+        100,
+        5,
+        109,
+        99,
+        82,
+        165,
+        106
+      ]
+    },
+    {
+      "clue": "a male given name.",
+      "answer": "lionel",
+      "answer_letters": "LIONEL",
+      "indices": [
+        60,
+        42,
+        31,
+        54,
+        190,
+        111
+      ]
+    },
+    {
+      "clue": "offers an opportunity to come or go somewhere.",
+      "answer": "invites",
+      "answer_letters": "INVITES",
+      "indices": [
+        19,
+        32,
+        189,
+        129,
+        81,
+        97,
+        43
+      ]
+    },
+    {
+      "clue": "occurring or done only once.",
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        146,
+        114,
+        48,
+        155,
+        110,
+        58
+      ]
+    },
+    {
+      "clue": "moving in one side and out of the other side of (an opening, channel, or location).",
+      "answer": "through",
+      "answer_letters": "THROUGH",
+      "indices": [
+        144,
+        180,
+        57,
+        164,
+        3,
+        23,
+        2
+      ]
+    },
+    {
+      "clue": "a female given name.",
+      "answer": "michele",
+      "answer_letters": "MICHELE",
+      "indices": [
+        127,
+        14,
+        77,
+        18,
+        181,
+        168,
+        24
+      ]
+    },
+    {
+      "clue": "a male given name.",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        104,
+        158,
+        175,
+        108,
+        80,
+        63
+      ]
+    },
+    {
+      "clue": "a habitational name for someone from any of the various places in northern england named with the old english elements 'denu' meaning valley and 'sceaga' meaning wooded area.",
+      "answer": "dawson",
+      "answer_letters": "DAWSON",
+      "indices": [
+        25,
+        101,
+        75,
+        72,
+        37,
+        11
+      ]
+    },
+    {
+      "clue": "referring to a class of minor league baseball in the united states.",
+      "answer": "double-a",
+      "answer_letters": "DOUBLEA",
+      "indices": [
+        191,
+        188,
+        137,
+        8,
+        156,
+        56,
+        28
+      ]
+    },
+    {
+      "clue": "an area of land that is low in relation to the surrounding areas.",
+      "answer": "lowlands",
+      "answer_letters": "LOWLANDS",
+      "indices": [
+        65,
+        34,
+        62,
+        187,
+        119,
+        27,
+        121,
+        136
+      ]
+    },
+    {
+      "clue": "coming after the tenth in a series of numbers or position.",
+      "answer": "eleventh",
+      "answer_letters": "ELEVENTH",
+      "indices": [
+        70,
+        89,
+        79,
+        47,
+        162,
+        105,
+        179,
+        154
+      ]
+    },
+    {
+      "clue": "a small hardy naturalized horse of the american west.",
+      "answer": "mustangs",
+      "answer_letters": "MUSTANGS",
+      "indices": [
+        4,
+        59,
+        40,
+        68,
+        45,
+        91,
+        12,
+        130
+      ]
+    },
+    {
+      "clue": "in greek mythology, the goddess of wisdom, artistic inspiration, and military strategy.",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
+      "indices": [
+        125,
+        160,
+        124,
+        185,
+        95,
+        0
+      ]
+    },
+    {
+      "clue": "a theory of space and time developed by albert einstein.",
+      "answer": "relativity",
+      "answer_letters": "RELATIVITY",
+      "indices": [
+        134,
+        157,
+        73,
+        22,
+        139,
+        94,
+        170,
+        30,
+        17,
+        50
+      ]
+    },
+    {
+      "clue": "a large, heavy piece of artillery, typically mounted on wheels, formerly used in warfare.",
+      "answer": "cannon",
+      "answer_letters": "CANNON",
+      "indices": [
+        115,
+        132,
+        172,
+        176,
+        141,
+        6
+      ]
+    },
+    {
+      "clue": "a german and jewish (ashkenazic) surname, meaning \"stag\" or \"deer\".",
+      "answer": "hirsch",
+      "answer_letters": "HIRSCH",
+      "indices": [
+        161,
+        171,
+        39,
+        20,
+        123,
+        151
+      ]
+    }
+  ],
+  "chat": "growers: Cultivators of land or crops.\nendowed: Blessed or gifted with talent or resources.\noutflow: The movement of a fluid out of a particular place.\nrunoff: Water that runs over the surface of the ground and often carries pollutants.\ngunshot: The sound made by a gun when fired.\necoregion: A geographical area with a specific ecosystem.\nenhancing: Improving or making something better.\nlionel: A male given name.\ninvites: Offers an opportunity to come or go somewhere.\none-off: Occurring or done only once.\nthrough: Moving in one side and out of the other side of (an opening, channel, or location).\nmichele: A female given name.\nisaiah: A male given name.\ndawson: A habitational name for someone from any of the various places in northern England named with the Old English elements 'denu' meaning valley and 'sceaga' meaning wooded area.\ndouble-a: Referring to a class of minor league baseball in the United States.\nlowlands: An area of land that is low in relation to the surrounding areas.\neleventh: Coming after the tenth in a series of numbers or position.\nmustangs: A small hardy naturalized horse of the American west.\nathena: In Greek mythology, the goddess of wisdom, artistic inspiration, and military strategy.\nrelativity: A theory of space and time developed by Albert Einstein.\ncannon: A large, heavy piece of artillery, typically mounted on wheels, formerly used in warfare.\nhirsch: A German and Jewish (Ashkenazic) surname, meaning \"stag\" or \"deer\"."
+}

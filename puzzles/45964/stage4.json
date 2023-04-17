@@ -5,287 +5,287 @@
   "source_letters": "DRAGOSBRATASANUPHD",
   "clues": [
     {
-      "clue": "in a unique manner.",
-      "answer": "differently",
-      "answer_letters": "DIFFERENTLY",
+      "clue": "reduced in size or amount.",
+      "answer": "diminished",
+      "answer_letters": "DIMINISHED",
       "indices": [
-        27,
-        55,
-        177,
-        133,
-        109,
-        81,
-        35,
-        184,
-        43,
-        66,
-        47
-      ]
-    },
-    {
-      "clue": "without mercy or pity.",
-      "answer": "ruthless",
-      "answer_letters": "RUTHLESS",
-      "indices": [
-        141,
-        42,
-        180,
-        74,
-        117,
-        105,
-        100,
-        156
-      ]
-    },
-    {
-      "clue": "the act of distributing something.",
-      "answer": "allocation",
-      "answer_letters": "ALLOCATION",
-      "indices": [
-        86,
-        104,
-        162,
-        24,
-        166,
-        75,
-        96,
+        83,
         110,
-        2,
-        26
-      ]
-    },
-    {
-      "clue": "name of a person.",
-      "answer": "guillermo",
-      "answer_letters": "GUILLERMO",
-      "indices": [
-        164,
-        25,
-        29,
-        32,
-        158,
-        121,
-        51,
-        87,
-        95
-      ]
-    },
-    {
-      "clue": "relating to a person's job or profession.",
-      "answer": "occupational",
-      "answer_letters": "OCCUPATIONAL",
-      "indices": [
-        70,
-        53,
-        135,
-        12,
-        3,
-        169,
-        73,
+        168,
+        151,
+        184,
         50,
-        142,
-        46,
-        90,
-        17
-      ]
-    },
-    {
-      "clue": "in baseball, the fielding position between second and third base.",
-      "answer": "shortstop",
-      "answer_letters": "SHORTSTOP",
-      "indices": [
-        172,
+        182,
         8,
-        99,
-        154,
-        159,
-        160,
-        64,
-        79,
-        130
+        92,
+        119
       ]
     },
     {
-      "clue": "a city in california.",
-      "answer": "berkeley",
-      "answer_letters": "BERKELEY",
-      "indices": [
-        103,
-        131,
-        91,
-        170,
-        183,
-        4,
-        171,
-        78
-      ]
-    },
-    {
-      "clue": "refusing to accept or consider.",
-      "answer": "rejecting",
-      "answer_letters": "REJECTING",
+      "clue": "tall, slender, grass-like plants growing in wet areas.",
+      "answer": "rushes",
+      "answer_letters": "RUSHES",
       "indices": [
         176,
-        178,
-        11,
+        157,
+        13,
+        108,
         5,
-        179,
-        76,
-        151,
-        30,
-        120
+        172
       ]
     },
     {
-      "clue": "people who write books or articles.",
-      "answer": "authors",
-      "answer_letters": "AUTHORS",
+      "clue": "precise; correct.",
+      "answer": "accurate",
+      "answer_letters": "ACCURATE",
       "indices": [
-        19,
-        157,
-        148,
-        40,
+        75,
+        166,
+        179,
+        12,
+        111,
+        45,
+        180,
+        109
+      ]
+    },
+    {
+      "clue": "expert in the study of the earth's physical structure, substances, and history.",
+      "answer": "geologist",
+      "answer_letters": "GEOLOGIST",
+      "indices": [
+        120,
+        186,
         145,
+        67,
+        41,
+        164,
+        29,
+        156,
+        64
+      ]
+    },
+    {
+      "clue": "the flowing out of a liquid or gas from an enclosed space.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        18,
+        80,
+        39,
+        34,
+        162,
+        163,
+        116
+      ]
+    },
+    {
+      "clue": "- the amount of snow that falls in a particular place.",
+      "answer": "snowfall",
+      "answer_letters": "SNOWFALL",
+      "indices": [
+        101,
+        26,
+        56,
+        37,
+        133,
+        19,
+        158,
+        62
+      ]
+    },
+    {
+      "clue": "players of a game that involves rolling a ball towards targets.",
+      "answer": "bowlers",
+      "answer_letters": "BOWLERS",
+      "indices": [
+        103,
+        142,
+        7,
+        32,
+        150,
         84,
         185
       ]
     },
     {
-      "clue": "name of a person.",
-      "answer": "thierry",
-      "answer_letters": "THIERRY",
+      "clue": "moved to a different location.",
+      "answer": "relocated",
+      "answer_letters": "RELOCATED",
       "indices": [
-        54,
-        149,
-        139,
-        1,
-        140,
-        23,
-        69
+        143,
+        128,
+        17,
+        95,
+        135,
+        90,
+        159,
+        175,
+        27
       ]
     },
     {
-      "clue": "the transportation of people or supplies by aircraft.",
-      "answer": "airlift",
-      "answer_letters": "AIRLIFT",
+      "clue": "in a state of sleep.",
+      "answer": "asleep",
+      "answer_letters": "ASLEEP",
       "indices": [
         22,
-        123,
-        132,
-        67,
-        38,
-        34,
-        126
-      ]
-    },
-    {
-      "clue": "the direction between south and west.",
-      "answer": "southwest",
-      "answer_letters": "SOUTHWEST",
-      "indices": [
-        182,
-        115,
-        71,
-        136,
-        108,
-        37,
-        155,
-        13,
-        107
-      ]
-    },
-    {
-      "clue": "an electronic device used to increase the amplitude of electrical signals.",
-      "answer": "amplifier",
-      "answer_letters": "AMPLIFIER",
-      "indices": [
-        45,
-        168,
-        0,
-        61,
-        33,
-        16,
-        165,
-        150,
-        111
-      ]
-    },
-    {
-      "clue": "a weekly newsmagazine.",
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        94,
-        186,
-        7,
-        101,
-        116,
-        92,
-        175,
-        113
-      ]
-    },
-    {
-      "clue": "the lower side or part of something.",
-      "answer": "underside",
-      "answer_letters": "UNDERSIDE",
-      "indices": [
-        80,
-        57,
-        119,
-        65,
-        143,
         88,
-        102,
-        83,
+        104,
+        183,
+        155,
+        3
+      ]
+    },
+    {
+      "clue": "a numerical value that is one greater than twenty-two.",
+      "answer": "twenty-three",
+      "answer_letters": "TWENTYTHREE",
+      "indices": [
+        73,
+        59,
+        171,
+        114,
+        43,
+        69,
+        14,
+        40,
+        152,
+        35,
+        178
+      ]
+    },
+    {
+      "clue": "large guns such as cannons or howitzers.",
+      "answer": "artillery",
+      "answer_letters": "ARTILLERY",
+      "indices": [
+        86,
+        91,
+        76,
+        139,
+        66,
+        61,
+        1,
+        132,
+        78
+      ]
+    },
+    {
+      "clue": "in baseball, a play in which the batter is called out by the pitcher throwing three strikes.",
+      "answer": "strikeouts",
+      "answer_letters": "STRIKEOUTS",
+      "indices": [
+        100,
+        107,
+        140,
+        38,
+        170,
+        65,
+        9,
+        25,
+        54,
+        160
+      ]
+    },
+    {
+      "clue": "the mixture of gases surrounding the earth or another planet.",
+      "answer": "atmosphere",
+      "answer_letters": "ATMOSPHERE",
+      "indices": [
+        169,
+        148,
+        87,
+        79,
+        124,
+        98,
+        127,
+        52,
+        51,
+        105
+      ]
+    },
+    {
+      "clue": "a type of organization that does not operate for making money or profit.",
+      "answer": "not-for-profit",
+      "answer_letters": "NOTFORPROFIT",
+      "indices": [
+        30,
+        99,
+        126,
+        146,
+        2,
+        141,
+        0,
+        23,
+        70,
+        16,
+        123,
+        136
+      ]
+    },
+    {
+      "clue": "different from; not similar to.",
+      "answer": "unlike",
+      "answer_letters": "UNLIKE",
+      "indices": [
+        42,
+        57,
+        117,
+        165,
+        113,
         118
       ]
     },
     {
-      "clue": "a collection of financial assets.",
-      "answer": "portfolio",
-      "answer_letters": "PORTFOLIO",
+      "clue": "an object that is thrown, fired, or otherwise propelled.",
+      "answer": "projectile",
+      "answer_letters": "PROJECTILE",
       "indices": [
-        174,
-        18,
-        152,
-        39,
-        146,
-        41,
-        62,
-        60,
-        163
-      ]
-    },
-    {
-      "clue": "the town or city where a person was born or raised.",
-      "answer": "hometown",
-      "answer_letters": "HOMETOWN",
-      "indices": [
-        127,
-        9,
-        138,
-        85,
+        130,
+        81,
+        24,
+        11,
+        134,
+        53,
         20,
-        56,
-        59,
-        114
+        102,
+        4,
+        121
       ]
     },
     {
-      "clue": "the most profound or intense level.",
-      "answer": "deepest",
-      "answer_letters": "DEEPEST",
+      "clue": "a name, often of a male person.",
+      "answer": "humphrey",
+      "answer_letters": "HUMPHREY",
+      "indices": [
+        74,
+        71,
+        138,
+        174,
+        149,
+        154,
+        131,
+        47
+      ]
+    },
+    {
+      "clue": "a statement that explains the meaning of a word or term.",
+      "answer": "definition",
+      "answer_letters": "DEFINITION",
       "indices": [
         49,
-        52,
-        128,
-        98,
-        134,
-        124,
-        14
+        85,
+        177,
+        60,
+        46,
+        55,
+        96,
+        33,
+        115,
+        94
       ]
     }
   ],
-  "chat": "differently - In a unique manner.\nruthless - Without mercy or pity.\nallocation - The act of distributing something.\nGuillermo - Name of a person.\noccupational - Relating to a person's job or profession.\nshortstop - In baseball, the fielding position between second and third base.\nBerkeley - A city in California.\nrejecting - Refusing to accept or consider.\nauthors - People who write books or articles.\nThierry - Name of a person.\nairlift - The transportation of people or supplies by aircraft.\nsouthwest - The direction between south and west.\namplifier - An electronic device used to increase the amplitude of electrical signals.\nNewsweek - A weekly newsmagazine.\nunderside - The lower side or part of something.\nportfolio - A collection of financial assets.\nhometown - The town or city where a person was born or raised.\ndeepest - The most profound or intense level."
+  "chat": "diminished - Reduced in size or amount.\nrushes - Tall, slender, grass-like plants growing in wet areas.\naccurate - Precise; correct.\ngeologist - Expert in the study of the earth's physical structure, substances, and history.\noutflow - The flowing out of a liquid or gas from an enclosed space.\nsnowfall- The amount of snow that falls in a particular place.\nbowlers - Players of a game that involves rolling a ball towards targets.\nrelocated - Moved to a different location.\nasleep - In a state of sleep.\ntwenty-three - A numerical value that is one greater than twenty-two.\nartillery - Large guns such as cannons or howitzers.\nstrikeouts - In baseball, a play in which the batter is called out by the pitcher throwing three strikes.\natmosphere - The mixture of gases surrounding the earth or another planet.\nnot-for-profit - A type of organization that does not operate for making money or profit.\nunlike - Different from; not similar to.\nprojectile - An object that is thrown, fired, or otherwise propelled.\nHumphrey - A name, often of a male person.\ndefinition - A statement that explains the meaning of a word or term."
 }

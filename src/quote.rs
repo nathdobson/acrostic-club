@@ -140,8 +140,8 @@ pub async fn build_quotes() -> io::Result<()> {
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
     let mut quotes = QUOTES.get_io().await?;
     let quote = &quotes[pindex];
-    if !(quote.source.len() > 22
-        && quote.source.len() <= 24
+    if !(quote.source.len() > 24
+        && quote.source.len() <= 26
         && quote.quote.len() > 180
         && quote.quote.len() < 200) {
         return Err(io::Error::new(ErrorKind::InvalidInput, "bad quote"));

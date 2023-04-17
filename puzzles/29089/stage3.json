@@ -6,16 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "methane",
-      "answer_letters": "METHANE",
+      "answer": "methods",
+      "answer_letters": "METHODS",
       "indices": [
         9,
-        99,
-        127,
-        61,
-        10,
-        66,
-        38
+        103,
+        101,
+        24,
+        114,
+        105,
+        107
       ]
     },
     {
@@ -23,269 +23,269 @@
       "answer": "affected",
       "answer_letters": "AFFECTED",
       "indices": [
-        111,
-        183,
+        10,
         96,
-        33,
-        37,
-        189,
-        62,
-        186
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runway",
-      "answer_letters": "RUNWAY",
-      "indices": [
-        146,
-        19,
-        160,
-        55,
-        57,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        178,
-        144,
-        64,
-        118,
-        31,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "boniface",
-      "answer_letters": "BONIFACE",
-      "indices": [
-        40,
-        157,
-        131,
-        174,
         139,
-        65,
-        11,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
-        103,
-        44,
-        32,
-        184,
-        137,
-        18,
-        82,
-        148,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "therefore",
-      "answer_letters": "THEREFORE",
-      "indices": [
-        177,
-        102,
-        15,
-        98,
         80,
-        35,
-        76,
-        16,
-        84
+        2,
+        180,
+        133,
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "handbook",
-      "answer_letters": "HANDBOOK",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
       "indices": [
-        167,
-        121,
-        89,
-        164,
-        173,
-        97,
-        114,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "months",
-      "answer_letters": "MONTHS",
-      "indices": [
-        79,
-        159,
-        185,
-        58,
-        22,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "identified",
-      "answer_letters": "IDENTIFIED",
-      "indices": [
-        28,
-        142,
-        129,
-        20,
-        153,
-        113,
-        74,
-        91,
-        95,
+        75,
+        19,
+        60,
+        56,
+        52,
         134
       ]
     },
     {
       "clue": null,
-      "answer": "london's",
-      "answer_letters": "LONDONS",
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
       "indices": [
-        175,
-        123,
-        171,
-        105,
-        3,
-        29,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "liechtenstein",
-      "answer_letters": "LIECHTENSTEIN",
-      "indices": [
-        5,
-        170,
-        25,
-        2,
-        128,
-        180,
-        46,
-        47,
-        8,
-        112,
-        87,
-        70,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        168,
-        108,
-        0,
-        67,
-        56,
-        132,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "righteous",
-      "answer_letters": "RIGHTEOUS",
-      "indices": [
-        75,
-        140,
-        122,
-        24,
-        136,
-        106,
-        154,
-        4,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arcade",
-      "answer_letters": "ARCADE",
-      "indices": [
-        162,
-        110,
-        21,
-        172,
-        71,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        188,
-        151,
-        69,
+        178,
         36,
+        29,
+        12,
+        129,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "banished",
+      "answer_letters": "BANISHED",
+      "indices": [
         94,
-        176,
-        92,
-        53,
+        121,
+        160,
+        113,
+        86,
+        14,
+        38,
         6
       ]
     },
     {
       "clue": null,
-      "answer": "motives",
-      "answer_letters": "MOTIVES",
+      "answer": "eighteenth",
+      "answer_letters": "EIGHTEENTH",
+      "indices": [
+        87,
+        82,
+        156,
+        102,
+        136,
+        46,
+        106,
+        66,
+        189,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "typhoon",
+      "answer_letters": "TYPHOON",
+      "indices": [
+        112,
+        125,
+        108,
+        167,
+        159,
+        76,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        22,
+        109,
+        55,
+        0,
+        31,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "montevideo",
+      "answer_letters": "MONTEVIDEO",
       "indices": [
         77,
-        181,
-        166,
-        49,
-        83,
-        52,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        147,
-        141,
         150,
-        41,
-        156,
-        14
+        141,
+        117,
+        33,
+        83,
+        140,
+        164,
+        132,
+        181
       ]
     },
     {
       "clue": null,
-      "answer": "ethernet",
-      "answer_letters": "ETHERNET",
+      "answer": "inhabit",
+      "answer_letters": "INHABIT",
       "indices": [
-        109,
-        117,
+        70,
+        151,
         45,
-        88,
-        26,
-        115,
+        144,
+        40,
+        28,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
+      "indices": [
+        175,
+        95,
+        51,
+        123,
+        177,
+        32,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leighton",
+      "answer_letters": "LEIGHTON",
+      "indices": [
+        5,
+        25,
+        176,
+        122,
+        69,
+        166,
+        157,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enhanced",
+      "answer_letters": "ENHANCED",
+      "indices": [
         72,
-        101
+        115,
+        118,
+        57,
+        47,
+        37,
+        62,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "represented",
+      "answer_letters": "REPRESENTED",
+      "indices": [
+        16,
+        15,
+        18,
+        26,
+        147,
+        8,
+        53,
+        163,
+        44,
+        88,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "accusation",
+      "answer_letters": "ACCUSATION",
+      "indices": [
+        148,
+        64,
+        11,
+        41,
+        149,
+        162,
+        58,
+        188,
+        137,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhibit",
+      "answer_letters": "INHIBIT",
+      "indices": [
+        170,
+        124,
+        61,
+        184,
+        173,
+        49,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mauritania",
+      "answer_letters": "MAURITANIA",
+      "indices": [
+        79,
+        65,
+        4,
+        98,
+        91,
+        127,
+        172,
+        20,
+        174,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        99,
+        74,
+        183,
+        154,
+        146,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enforce",
+      "answer_letters": "ENFORCE",
+      "indices": [
+        119,
+        131,
+        35,
+        97,
+        110,
+        21,
+        84
       ]
     }
   ],
-  "chat": "Methane: Odorless gas in swamps\nAffected: Influenced in a negative way\nRunway: Airport strip for planes\nYachts: Luxury boats for the wealthy\nBoniface: Name for a male leader of a church\nEthiopian: Person from the country in East Africa\nTherefore: Conclusion reached from given facts\nHandbook: Manual with guidelines\nMonths: 12 units of time in a year\nIdentified: Recognized and named\nLondon's: Refers to the city of London, England\nLiechtenstein: European country known for its banking industry\nEpithet: Descriptive nickname for a person\nRighteous: Morally upright\nArcade: Passageway with shops and games\nInhabited: Live in a place\nMotives: Reasons for actions\nEnough: Adequate or sufficient\nEthernet: Type of computer networking technology."
+  "chat": "methods: Systematic approaches for achieving a goal\naffected: Impacted or influenced\nrushed: Moved quickly or hurriedly\nyankee: American from the northern states\nbanished: Forced to leave a place\neighteenth: The ordinal number that follows seventeen\ntyphoon: A tropical cyclone occurring in the western Pacific or Indian oceans\nhewitt: A cutting tool with a toothed edge\nmontevideo: Capital city of Uruguay\ninhabit: To live in or occupy\nlesotho: A country in southern Africa\nleighton: A surname\nenhanced: Improved or increased\nrepresented: Stood for or acted as a symbol of\naccusation: A charge or claim that someone has done something wrong\ninhibit: To prevent or restrain an action or process\nmauritania: A country in northwestern Africa\neffort: Exertion of physical or mental energy to achieve something"
 }

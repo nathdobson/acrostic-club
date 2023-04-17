@@ -1,0 +1,304 @@
+{
+  "quote": "She [Mme des Laumes] belonged to that half of the human race in whom the curiosity the other half feels about the people it does not know is replaced by an interest in the people it does.",
+  "quote_letters": "SHE MME DES LAUMES BELONGED TO THAT HALF OF THE HUMAN RACE IN WHOM THE CURIOSITY THE OTHER HALF FEELS ABOUT THE PEOPLE IT DOES NOT KNOW IS REPLACED BY AN INTEREST IN THE PEOPLE IT DOES",
+  "source": "Marcel Proust, Swann's Way",
+  "source_letters": "MARCELPROUSTSWANNSWAY",
+  "clues": [
+    {
+      "clue": "temporary solution in place.",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
+      "indices": [
+        15,
+        51,
+        131,
+        25,
+        160,
+        91,
+        177,
+        94,
+        108
+      ]
+    },
+    {
+      "clue": "connected organization or business.",
+      "answer": "affiliate",
+      "answer_letters": "AFFILIATE",
+      "indices": [
+        37,
+        42,
+        39,
+        119,
+        174,
+        59,
+        33,
+        106,
+        145
+      ]
+    },
+    {
+      "clue": "assistance provided in times of need.",
+      "answer": "relief",
+      "answer_letters": "RELIEF",
+      "indices": [
+        158,
+        20,
+        99,
+        74,
+        9,
+        96
+      ]
+    },
+    {
+      "clue": "political subdivisions within a state.",
+      "answer": "counties",
+      "answer_letters": "COUNTIES",
+      "indices": [
+        144,
+        41,
+        105,
+        155,
+        81,
+        77,
+        98,
+        0
+      ]
+    },
+    {
+      "clue": "position in a sequence.",
+      "answer": "eighth",
+      "answer_letters": "EIGHTH",
+      "indices": [
+        175,
+        154,
+        24,
+        167,
+        161,
+        82
+      ]
+    },
+    {
+      "clue": "portable computer.",
+      "answer": "laptop",
+      "answer_letters": "LAPTOP",
+      "indices": [
+        116,
+        92,
+        170,
+        86,
+        104,
+        112
+      ]
+    },
+    {
+      "clue": "indigenous community in the southwestern united states.",
+      "answer": "pueblo",
+      "answer_letters": "PUEBLO",
+      "indices": [
+        173,
+        49,
+        182,
+        103,
+        38,
+        22
+      ]
+    },
+    {
+      "clue": "expressed or symbolized.",
+      "answer": "represented",
+      "answer_letters": "REPRESENTED",
+      "indices": [
+        73,
+        2,
+        115,
+        89,
+        113,
+        76,
+        157,
+        164,
+        34,
+        16,
+        26
+      ]
+    },
+    {
+      "clue": "town in greater manchester, england.",
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        128,
+        142,
+        180,
+        63,
+        151,
+        4
+      ]
+    },
+    {
+      "clue": "support or maintain.",
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        72,
+        141,
+        32,
+        114,
+        12,
+        122
+      ]
+    },
+    {
+      "clue": "exchange of gunfire.",
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
+      "indices": [
+        183,
+        109,
+        75,
+        85,
+        129,
+        172,
+        14,
+        178
+      ]
+    },
+    {
+      "clue": "consequently or as a result.",
+      "answer": "thence",
+      "answer_letters": "THENCE",
+      "indices": [
+        44,
+        48,
+        46,
+        132,
+        71,
+        97
+      ]
+    },
+    {
+      "clue": "occasionally or off and on.",
+      "answer": "sometimes",
+      "answer_letters": "SOMETIMES",
+      "indices": [
+        10,
+        181,
+        50,
+        57,
+        120,
+        136,
+        65,
+        6,
+        125
+      ]
+    },
+    {
+      "clue": "ivy league university in pennsylvania.",
+      "answer": "wharton",
+      "answer_letters": "WHARTON",
+      "indices": [
+        134,
+        36,
+        13,
+        54,
+        31,
+        133,
+        152
+      ]
+    },
+    {
+      "clue": "common given name for females.",
+      "answer": "ashley",
+      "answer_letters": "ASHLEY",
+      "indices": [
+        102,
+        137,
+        45,
+        21,
+        83,
+        149
+      ]
+    },
+    {
+      "clue": "required or necessary.",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
+      "indices": [
+        23,
+        171,
+        159,
+        8,
+        124,
+        146
+      ]
+    },
+    {
+      "clue": "numerical value.",
+      "answer": "nineteen",
+      "answer_letters": "NINETEEN",
+      "indices": [
+        60,
+        163,
+        127,
+        140,
+        166,
+        88,
+        117,
+        52
+      ]
+    },
+    {
+      "clue": "without roughness or bumps.",
+      "answer": "smooth",
+      "answer_letters": "SMOOTH",
+      "indices": [
+        17,
+        5,
+        64,
+        123,
+        156,
+        68
+      ]
+    },
+    {
+      "clue": "person who rides or builds wheels.",
+      "answer": "wheeler",
+      "answer_letters": "WHEELER",
+      "indices": [
+        62,
+        1,
+        110,
+        69,
+        93,
+        168,
+        139
+      ]
+    },
+    {
+      "clue": "surname of various people and companies.",
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
+      "indices": [
+        143,
+        148,
+        19,
+        29,
+        28,
+        78
+      ]
+    },
+    {
+      "clue": "recreational boats used for pleasure sailing.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        79,
+        55,
+        56,
+        87,
+        67,
+        100
+      ]
+    }
+  ],
+  "chat": "makeshift: Temporary solution in place.\naffiliate: Connected organization or business.\nrelief: Assistance provided in times of need.\ncounties: Political subdivisions within a state.\neighth: Position in a sequence.\nlaptop: Portable computer.\npueblo: Indigenous community in the Southwestern United States.\nrepresented: Expressed or symbolized.\noldham: Town in Greater Manchester, England.\nuphold: Support or maintain.\nshootout: Exchange of gunfire.\nthence: Consequently or as a result.\nsometimes: Occasionally or off and on.\nwharton: Ivy League university in Pennsylvania.\nashley: Common given name for females.\nneeded: Required or necessary.\nnineteen: Numerical value.\nsmooth: Without roughness or bumps.\nwheeler: Person who rides or builds wheels.\nabbott: Surname of various people and companies.\nyachts: Recreational boats used for pleasure sailing."
+}

@@ -1,0 +1,291 @@
+{
+  "quote": "I've been told my old city possesses a 'thriving arts scene,' whatever that is; personally, I think artists should lie low and stick to their work, not line-dance through the parks.",
+  "quote_letters": "IVE BEEN TOLD MY OLD CITY POSSESSES A THRIVING ARTS SCENE WHATEVER THAT IS PERSONALLY I THINK ARTISTS SHOULD LIE LOW AND STICK TO THEIR WORK NOT LINE-DANCE THROUGH THE PARKS",
+  "source": "Walter Kirn, Up in the Air",
+  "source_letters": "WALTERKIRNUPINTHEAIR",
+  "clues": [
+    {
+      "clue": "sewage's final destination.",
+      "answer": "wastewater",
+      "answer_letters": "WASTEWATER",
+      "indices": [
+        115,
+        36,
+        29,
+        143,
+        56,
+        58,
+        117,
+        49,
+        154,
+        134
+      ]
+    },
+    {
+      "clue": "arrival of something significant.",
+      "answer": "advent",
+      "answer_letters": "ADVENT",
+      "indices": [
+        47,
+        12,
+        1,
+        148,
+        44,
+        127
+      ]
+    },
+    {
+      "clue": "not high-ranking or important.",
+      "answer": "low-level",
+      "answer_letters": "LOWLEVEL",
+      "indices": [
+        83,
+        114,
+        136,
+        109,
+        111,
+        63,
+        5,
+        18
+      ]
+    },
+    {
+      "clue": "clever moves or actions.",
+      "answer": "tricks",
+      "answer_letters": "TRICKS",
+      "indices": [
+        38,
+        170,
+        110,
+        53,
+        125,
+        73
+      ]
+    },
+    {
+      "clue": "to enroll or recruit.",
+      "answer": "enlist",
+      "answer_letters": "ENLIST",
+      "indices": [
+        76,
+        80,
+        82,
+        43,
+        102,
+        96
+      ]
+    },
+    {
+      "clue": "machines programmed to complete tasks automatically.",
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
+      "indices": [
+        40,
+        104,
+        4,
+        137,
+        23,
+        78
+      ]
+    },
+    {
+      "clue": "country located in the balkans.",
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
+      "indices": [
+        92,
+        79,
+        34,
+        27,
+        42,
+        10
+      ]
+    },
+    {
+      "clue": "people from italy.",
+      "answer": "italians",
+      "answer_letters": "ITALIANS",
+      "indices": [
+        41,
+        99,
+        81,
+        106,
+        146,
+        169,
+        147,
+        121
+      ]
+    },
+    {
+      "clue": "formal statements about facts or events.",
+      "answer": "reports",
+      "answer_letters": "REPORTS",
+      "indices": [
+        77,
+        6,
+        168,
+        159,
+        65,
+        9,
+        50
+      ]
+    },
+    {
+      "clue": "russian name meaning \"unconquerable\".",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        141,
+        0,
+        139,
+        86,
+        164,
+        151
+      ]
+    },
+    {
+      "clue": "to maintain or support.",
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        105,
+        75,
+        68,
+        17,
+        11,
+        150
+      ]
+    },
+    {
+      "clue": "study of evolutionary relationships between organisms.",
+      "answer": "phylogeny",
+      "answer_letters": "PHYLOGENY",
+      "indices": [
+        26,
+        59,
+        84,
+        145,
+        128,
+        45,
+        166,
+        118,
+        15
+      ]
+    },
+    {
+      "clue": "hebrew name meaning \"salvation of the lord\".",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        22,
+        28,
+        69,
+        90,
+        94,
+        131
+      ]
+    },
+    {
+      "clue": "periods of darkness between sunset and sunrise.",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        7,
+        97,
+        161,
+        162,
+        61,
+        98
+      ]
+    },
+    {
+      "clue": "large and sturdy boxes or containers.",
+      "answer": "trunks",
+      "answer_letters": "TRUNKS",
+      "indices": [
+        70,
+        95,
+        160,
+        91,
+        171,
+        100
+      ]
+    },
+    {
+      "clue": "german surname meaning \"deer\".",
+      "answer": "hirsch",
+      "answer_letters": "HIRSCH",
+      "indices": [
+        157,
+        72,
+        158,
+        52,
+        153,
+        89
+      ]
+    },
+    {
+      "clue": "conductor through which electrical current flows.",
+      "answer": "electrode",
+      "answer_letters": "ELECTRODE",
+      "indices": [
+        33,
+        113,
+        64,
+        124,
+        88,
+        138,
+        142,
+        119,
+        2
+      ]
+    },
+    {
+      "clue": "branch of philosophy focused on beauty and taste.",
+      "answer": "aesthetics",
+      "answer_letters": "AESTHETICS",
+      "indices": [
+        60,
+        30,
+        32,
+        156,
+        165,
+        62,
+        130,
+        123,
+        21,
+        172
+      ]
+    },
+    {
+      "clue": "planned or meant for a specific purpose.",
+      "answer": "intended",
+      "answer_letters": "INTENDED",
+      "indices": [
+        133,
+        152,
+        122,
+        132,
+        55,
+        19,
+        54,
+        107
+      ]
+    },
+    {
+      "clue": "repeated patterns of sound or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        48,
+        103,
+        24,
+        67,
+        39,
+        14,
+        31
+      ]
+    }
+  ],
+  "chat": "Wastewater: Sewage's final destination.\nAdvent: Arrival of something significant.\nLow-level: Not high-ranking or important.\nTricks: Clever moves or actions.\nEnlist: To enroll or recruit.\nRobots: Machines programmed to complete tasks automatically.\nKosovo: Country located in the Balkans.\nItalians: People from Italy.\nReports: Formal statements about facts or events.\nNikita: Russian name meaning \"unconquerable\".\nUphold: To maintain or support.\nPhylogeny: Study of evolutionary relationships between organisms.\nIsaiah: Hebrew name meaning \"salvation of the Lord\".\nNights: Periods of darkness between sunset and sunrise.\nTrunks: Large and sturdy boxes or containers.\nHirsch: German surname meaning \"deer\".\nElectrode: Conductor through which electrical current flows.\nAesthetics: Branch of philosophy focused on beauty and taste.\nIntended: Planned or meant for a specific purpose.\nRhythms: Repeated patterns of sound or movement."
+}

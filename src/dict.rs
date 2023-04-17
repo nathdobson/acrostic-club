@@ -27,10 +27,10 @@ pub static FLAT_WORDS: LazyLock<LazyMmap<FlatWord>> = LazyLock::new(|| {
 });
 
 
-#[test]
-fn test_flat_word() {
-    println!("{:?}", FlatWord::get());
-}
+// #[test]
+// fn test_flat_word() {
+//     println!("{:?}", FlatWord::get());
+// }
 
 pub async fn build_dict() -> io::Result<()> {
     let contents = read_path_to_string(

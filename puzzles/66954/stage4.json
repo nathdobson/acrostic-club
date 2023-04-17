@@ -1,0 +1,283 @@
+{
+  "quote": "You don't look so much like a great hero,' Jarrah said. 'I'm pretty sure I'm not,' Mack said wearily. 'My throat is hoarse from screaming in terror. I don't think heroes have that problem.",
+  "quote_letters": "YOU DONT LOOK SO MUCH LIKE A GREAT HERO JARRAH SAID IM PRETTY SURE IM NOT MACK SAID WEARILY MY THROAT IS HOARSE FROM SCREAMING IN TERROR I DONT THINK HEROES HAVE THAT PROBLEM",
+  "source": "Michael  Grant, The Call",
+  "source_letters": "MICHAELGRANTTHECALL",
+  "clues": [
+    {
+      "clue": "fungi for dinner dish",
+      "answer": "mushrooms",
+      "answer_letters": "MUSHROOMS",
+      "indices": [
+        92,
+        18,
+        117,
+        105,
+        108,
+        15,
+        38,
+        17,
+        155
+      ]
+    },
+    {
+      "clue": "enhancements for betterment",
+      "answer": "improvements",
+      "answer_letters": "IMPROVEMENTS",
+      "indices": [
+        127,
+        115,
+        167,
+        119,
+        5,
+        159,
+        154,
+        53,
+        25,
+        141,
+        130,
+        62
+      ]
+    },
+    {
+      "clue": "heated and prepared as meal",
+      "answer": "cooked",
+      "answer_letters": "COOKED",
+      "indices": [
+        118,
+        140,
+        114,
+        77,
+        57,
+        82
+      ]
+    },
+    {
+      "clue": "city subjected to atomic bombing",
+      "answer": "hiroshima",
+      "answer_letters": "HIROSHIMA",
+      "indices": [
+        157,
+        123,
+        113,
+        1,
+        47,
+        96,
+        146,
+        122,
+        86
+      ]
+    },
+    {
+      "clue": "storage for arms and weaponry",
+      "answer": "armory",
+      "answer_letters": "ARMORY",
+      "indices": [
+        75,
+        87,
+        173,
+        106,
+        168,
+        0
+      ]
+    },
+    {
+      "clue": "forced out of an area",
+      "answer": "ejected",
+      "answer_letters": "EJECTED",
+      "indices": [
+        110,
+        40,
+        31,
+        76,
+        100,
+        131,
+        50
+      ]
+    },
+    {
+      "clue": "pakistani city with rich mughal history",
+      "answer": "lahore",
+      "answer_letters": "LAHORE",
+      "indices": [
+        89,
+        27,
+        20,
+        134,
+        135,
+        65
+      ]
+    },
+    {
+      "clue": "obtained or acquired",
+      "answer": "gained",
+      "answer_letters": "GAINED",
+      "indices": [
+        125,
+        164,
+        137,
+        147,
+        85,
+        139
+      ]
+    },
+    {
+      "clue": "upper floor of a building where the roof is used for leisure or work",
+      "answer": "rooftop",
+      "answer_letters": "ROOFTOP",
+      "indices": [
+        133,
+        153,
+        71,
+        112,
+        95,
+        10,
+        55
+      ]
+    },
+    {
+      "clue": "ethnic group from eurasia",
+      "answer": "armenians",
+      "answer_letters": "ARMENIANS",
+      "indices": [
+        158,
+        152,
+        68,
+        160,
+        6,
+        67,
+        107,
+        124,
+        109
+      ]
+    },
+    {
+      "clue": "russian name meaning unconquered",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        70,
+        52,
+        148,
+        102,
+        33,
+        48
+      ]
+    },
+    {
+      "clue": "a numerical value equal to 3 tens",
+      "answer": "thirty",
+      "answer_letters": "THIRTY",
+      "indices": [
+        7,
+        45,
+        49,
+        37,
+        142,
+        60
+      ]
+    },
+    {
+      "clue": "relating to turkey or its people or language",
+      "answer": "turkish",
+      "answer_letters": "TURKISH",
+      "indices": [
+        58,
+        63,
+        97,
+        12,
+        88,
+        103,
+        145
+      ]
+    },
+    {
+      "clue": "thorny shrub or small tree with white or pink flowers",
+      "answer": "hawthorne",
+      "answer_letters": "HAWTHORNE",
+      "indices": [
+        35,
+        44,
+        84,
+        72,
+        150,
+        11,
+        64,
+        128,
+        151
+      ]
+    },
+    {
+      "clue": "official ban or restriction on trade",
+      "answer": "embargo",
+      "answer_letters": "EMBARGO",
+      "indices": [
+        36,
+        74,
+        170,
+        32,
+        56,
+        29,
+        169
+      ]
+    },
+    {
+      "clue": "carefully selected and organized",
+      "answer": "curated",
+      "answer_letters": "CURATED",
+      "indices": [
+        19,
+        2,
+        42,
+        41,
+        144,
+        172,
+        4
+      ]
+    },
+    {
+      "clue": "inflammation of one or more joints",
+      "answer": "arthritis",
+      "answer_letters": "ARTHRITIS",
+      "indices": [
+        99,
+        43,
+        162,
+        163,
+        132,
+        23,
+        165,
+        81,
+        14
+      ]
+    },
+    {
+      "clue": "professional basketball team based in los angeles",
+      "answer": "lakers",
+      "answer_letters": "LAKERS",
+      "indices": [
+        22,
+        80,
+        24,
+        120,
+        30,
+        79
+      ]
+    },
+    {
+      "clue": "faithfulness or devotion to a person, country or cause.",
+      "answer": "loyalty",
+      "answer_letters": "LOYALTY",
+      "indices": [
+        171,
+        98,
+        90,
+        121,
+        9,
+        59,
+        93
+      ]
+    }
+  ],
+  "chat": "mushrooms - Fungi for dinner dish\nimprovements - Enhancements for betterment\ncooked - Heated and prepared as meal\nhiroshima - City subjected to atomic bombing\narmory - Storage for arms and weaponry\nejected - Forced out of an area\nlahore - Pakistani city with rich Mughal history\ngained - Obtained or acquired\nrooftop - Upper floor of a building where the roof is used for leisure or work\narmenians - Ethnic group from Eurasia\nnikita - Russian name meaning unconquered\nthirty - A numerical value equal to 3 tens\nturkish - Relating to Turkey or its people or language\nhawthorne - Thorny shrub or small tree with white or pink flowers\nembargo - Official ban or restriction on trade\ncurated - Carefully selected and organized\narthritis - Inflammation of one or more joints\nlakers - Professional basketball team based in Los Angeles\nloyalty - Faithfulness or devotion to a person, country or cause."
+}

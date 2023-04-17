@@ -1,0 +1,301 @@
+{
+  "quote": "In the darkest and strangest of places with the most macabre of company, this music moves her and her life pulses hard... And even for Julie's safety, I can't bring myself to smother it.",
+  "quote_letters": "IN THE DARKEST AND STRANGEST OF PLACES WITH THE MOST MACABRE OF COMPANY THIS MUSIC MOVES HER AND HER LIFE PULSES HARD AND EVEN FOR JULIES SAFETY I CANT BRING MYSELF TO SMOTHER IT",
+  "source": "Isaac Marion, Warm Bodies",
+  "source_letters": "ISAACMARIONWARMBODIES",
+  "clues": [
+    {
+      "clue": "thorough investigation revealed",
+      "answer": "in-depth",
+      "answer_letters": "INDEPTH",
+      "indices": [
+        0,
+        125,
+        7,
+        122,
+        32,
+        177,
+        45
+      ]
+    },
+    {
+      "clue": "scottish whiskey, say",
+      "answer": "scotch",
+      "answer_letters": "SCOTCH",
+      "indices": [
+        12,
+        64,
+        170,
+        13,
+        147,
+        97
+      ]
+    },
+    {
+      "clue": "rich and prosperous",
+      "answer": "affluent",
+      "answer_letters": "AFFLUENT",
+      "indices": [
+        114,
+        103,
+        163,
+        162,
+        78,
+        86,
+        23,
+        51
+      ]
+    },
+    {
+      "clue": "legendary king of camelot",
+      "answer": "arthur",
+      "answer_letters": "ARTHUR",
+      "indices": [
+        118,
+        91,
+        44,
+        89,
+        132,
+        58
+      ]
+    },
+    {
+      "clue": "leaders of a group or organization",
+      "answer": "chiefs",
+      "answer_letters": "CHIEFS",
+      "indices": [
+        81,
+        113,
+        40,
+        110,
+        30,
+        37
+      ]
+    },
+    {
+      "clue": "royal grandeur and authority",
+      "answer": "majesty",
+      "answer_letters": "MAJESTY",
+      "indices": [
+        77,
+        54,
+        131,
+        98,
+        87,
+        20,
+        143
+      ]
+    },
+    {
+      "clue": "made an emotional request or plea",
+      "answer": "appealed",
+      "answer_letters": "APPEALED",
+      "indices": [
+        8,
+        67,
+        106,
+        173,
+        56,
+        101,
+        59,
+        120
+      ]
+    },
+    {
+      "clue": "musical or poetic flow",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        129,
+        42,
+        70,
+        72,
+        73,
+        48
+      ]
+    },
+    {
+      "clue": "plan or aim",
+      "answer": "intend",
+      "answer_letters": "INTEND",
+      "indices": [
+        102,
+        69,
+        171,
+        5,
+        119,
+        116
+      ]
+    },
+    {
+      "clue": "related to the former us president",
+      "answer": "obama's",
+      "answer_letters": "OBAMAS",
+      "indices": [
+        84,
+        152,
+        93,
+        53,
+        15,
+        19
+      ]
+    },
+    {
+      "clue": "name of a person, possibly female",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        94,
+        176,
+        10,
+        74,
+        165,
+        34
+      ]
+    },
+    {
+      "clue": "last name of a person",
+      "answer": "walton",
+      "answer_letters": "WALTON",
+      "indices": [
+        39,
+        139,
+        108,
+        27,
+        166,
+        16
+      ]
+    },
+    {
+      "clue": "mutual arrangement or understanding",
+      "answer": "agreements",
+      "answer_letters": "AGREEMENTS",
+      "indices": [
+        22,
+        156,
+        153,
+        135,
+        124,
+        66,
+        90,
+        1,
+        41,
+        109
+      ]
+    },
+    {
+      "clue": "musical or poetic flow",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        174,
+        4,
+        159,
+        3,
+        172,
+        83
+      ]
+    },
+    {
+      "clue": "reasons for one's actions",
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
+      "indices": [
+        158,
+        49,
+        150,
+        154,
+        123,
+        141,
+        26
+      ]
+    },
+    {
+      "clue": "member of the middle class",
+      "answer": "burgess",
+      "answer_letters": "BURGESS",
+      "indices": [
+        57,
+        107,
+        115,
+        24,
+        46,
+        75,
+        50
+      ]
+    },
+    {
+      "clue": "compensated for something",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        128,
+        140,
+        127,
+        168,
+        11,
+        142
+      ]
+    },
+    {
+      "clue": "stated or announced publicly",
+      "answer": "declared",
+      "answer_letters": "DECLARED",
+      "indices": [
+        17,
+        104,
+        55,
+        33,
+        148,
+        9,
+        25,
+        95
+      ]
+    },
+    {
+      "clue": "imparts knowledge or information",
+      "answer": "informs",
+      "answer_letters": "INFORMS",
+      "indices": [
+        134,
+        149,
+        62,
+        29,
+        21,
+        169,
+        136
+      ]
+    },
+    {
+      "clue": "act of avoiding or escaping something",
+      "answer": "evasion",
+      "answer_letters": "EVASION",
+      "indices": [
+        36,
+        85,
+        68,
+        160,
+        145,
+        61,
+        155
+      ]
+    },
+    {
+      "clue": "medical condition involving hardening of tissue",
+      "answer": "sclerosis",
+      "answer_letters": "SCLEROSIS",
+      "indices": [
+        111,
+        35,
+        133,
+        161,
+        99,
+        65,
+        138,
+        80,
+        79
+      ]
+    }
+  ],
+  "chat": "in-depth: Thorough investigation revealed\nscotch: Scottish whiskey, say\naffluent: Rich and prosperous\narthur: Legendary King of Camelot\nchiefs: Leaders of a group or organization\nmajesty: Royal grandeur and authority\nappealed: Made an emotional request or plea\nrhythm: Musical or poetic flow\nintend: Plan or aim\nobama's: Related to the former US President\nnikita: Name of a person, possibly female\nwalton: Last name of a person\nagreements: Mutual arrangement or understanding\nmotives: Reasons for one's actions\nburgess: Member of the middle class\noffset: Compensated for something\ndeclared: Stated or announced publicly\ninforms: Imparts knowledge or information\nevasion: Act of avoiding or escaping something\nsclerosis: Medical condition involving hardening of tissue"
+}

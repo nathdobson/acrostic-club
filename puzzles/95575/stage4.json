@@ -1,0 +1,313 @@
+{
+  "quote": "[Nicodemus] 'Magistra DeVega, can I ask for your help?'[DeVega] 'You can ask,' she said with her usual calmness, 'but the clerics haven't developed a cure for death by idiotic leadership.",
+  "quote_letters": "NICODEMUS MAGISTRA DEVEGA CAN I ASK FOR YOUR HELPDEVEGA YOU CAN ASK SHE SAID WITH HER USUAL CALMNESS BUT THE CLERICS HAVENT DEVELOPED A CURE FOR DEATH BY IDIOTIC LEADERSHIP",
+  "source": "Blake Charlton, Spellbound",
+  "source_letters": "BLAKECHARLTONSPELLBOUND",
+  "clues": [
+    {
+      "clue": "conduct oneself properly or not",
+      "answer": "behave",
+      "answer_letters": "BEHAVE",
+      "indices": [
+        101,
+        20,
+        80,
+        17,
+        21,
+        127
+      ]
+    },
+    {
+      "clue": "european country with riga as its capital",
+      "answer": "latvia",
+      "answer_letters": "LATVIA",
+      "indices": [
+        110,
+        27,
+        103,
+        126,
+        154,
+        134
+      ]
+    },
+    {
+      "clue": "singer and songwriter known for her hits \"fallin'\" and \"girl on fire\"",
+      "answer": "alicia",
+      "answer_letters": "ALICIA",
+      "indices": [
+        164,
+        94,
+        13,
+        92,
+        156,
+        61
+      ]
+    },
+    {
+      "clue": "expressions of affection by touching lips",
+      "answer": "kisses",
+      "answer_letters": "KISSES",
+      "indices": [
+        66,
+        30,
+        65,
+        72,
+        50,
+        168
+      ]
+    },
+    {
+      "clue": "happened subsequently or as a result",
+      "answer": "ensued",
+      "answer_letters": "ENSUED",
+      "indices": [
+        97,
+        62,
+        115,
+        102,
+        70,
+        124
+      ]
+    },
+    {
+      "clue": "a popular drink made from roasted coffee beans",
+      "answer": "coffee",
+      "answer_letters": "COFFEE",
+      "indices": [
+        2,
+        3,
+        36,
+        141,
+        83,
+        111
+      ]
+    },
+    {
+      "clue": "in need of food",
+      "answer": "hungry",
+      "answer_letters": "HUNGRY",
+      "indices": [
+        149,
+        137,
+        0,
+        12,
+        112,
+        152
+      ]
+    },
+    {
+      "clue": "a tree or shrub with yellow or white flowers and thorns",
+      "answer": "acacia",
+      "answer_letters": "ACACIA",
+      "indices": [
+        11,
+        136,
+        147,
+        160,
+        78,
+        118
+      ]
+    },
+    {
+      "clue": "a strong, regular, repeated pattern of movement or sound",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        143,
+        69,
+        40,
+        105,
+        82,
+        95
+      ]
+    },
+    {
+      "clue": "european country with riga as its capital",
+      "answer": "latvia",
+      "answer_letters": "LATVIA",
+      "indices": [
+        162,
+        64,
+        158,
+        51,
+        1,
+        24
+      ]
+    },
+    {
+      "clue": "a piece of paper or electronic record that entitles the holder to access or participate in something",
+      "answer": "ticket",
+      "answer_letters": "TICKET",
+      "indices": [
+        122,
+        74,
+        60,
+        34,
+        46,
+        15
+      ]
+    },
+    {
+      "clue": "happened, took place",
+      "answer": "occurred",
+      "answer_letters": "OCCURRED",
+      "indices": [
+        41,
+        114,
+        26,
+        7,
+        16,
+        167,
+        107,
+        132
+      ]
+    },
+    {
+      "clue": "required in order to achieve a certain goal or outcome",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
+      "indices": [
+        96,
+        22,
+        125,
+        49,
+        146,
+        19
+      ]
+    },
+    {
+      "clue": "display or exhibit something to its best advantage",
+      "answer": "showcase",
+      "answer_letters": "SHOWCASE",
+      "indices": [
+        99,
+        117,
+        129,
+        77,
+        109,
+        32,
+        87,
+        5
+      ]
+    },
+    {
+      "clue": "a winged horse in greek mythology",
+      "answer": "pegasus",
+      "answer_letters": "PEGASUS",
+      "indices": [
+        171,
+        120,
+        53,
+        89,
+        98,
+        58,
+        8
+      ]
+    },
+    {
+      "clue": "mistakes or faults",
+      "answer": "errors",
+      "answer_letters": "ERRORS",
+      "indices": [
+        131,
+        84,
+        138,
+        157,
+        43,
+        14
+      ]
+    },
+    {
+      "clue": "capital of malaysia",
+      "answer": "lumpur",
+      "answer_letters": "LUMPUR",
+      "indices": [
+        90,
+        88,
+        10,
+        130,
+        86,
+        38
+      ]
+    },
+    {
+      "clue": "european country with riga as its capital",
+      "answer": "latvia",
+      "answer_letters": "LATVIA",
+      "indices": [
+        47,
+        73,
+        148,
+        119,
+        159,
+        93
+      ]
+    },
+    {
+      "clue": "further away in distance or time",
+      "answer": "beyond",
+      "answer_letters": "BEYOND",
+      "indices": [
+        151,
+        163,
+        56,
+        57,
+        121,
+        155
+      ]
+    },
+    {
+      "clue": "indian state in the eastern part of the country",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        37,
+        75,
+        170,
+        68,
+        169,
+        54
+      ]
+    },
+    {
+      "clue": "support or maintain something, such as a principle or law",
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        42,
+        48,
+        45,
+        142,
+        128,
+        4
+      ]
+    },
+    {
+      "clue": "the period of darkness between sunset and sunrise",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        28,
+        113,
+        23,
+        106,
+        79,
+        33
+      ]
+    },
+    {
+      "clue": "considered or judged to be",
+      "answer": "deemed",
+      "answer_letters": "DEEMED",
+      "indices": [
+        145,
+        52,
+        139,
+        6,
+        166,
+        165
+      ]
+    }
+  ],
+  "chat": "behave: Conduct oneself properly or not\nlatvia: European country with Riga as its capital\nalicia: Singer and songwriter known for her hits \"Fallin'\" and \"Girl on Fire\"\nkisses: Expressions of affection by touching lips\nensued: Happened subsequently or as a result\ncoffee: A popular drink made from roasted coffee beans\nhungry: In need of food\nacacia: A tree or shrub with yellow or white flowers and thorns\nrhythm: A strong, regular, repeated pattern of movement or sound\nticket: A piece of paper or electronic record that entitles the holder to access or participate in something\noccurred: Happened, took place\nneeded: Required in order to achieve a certain goal or outcome\nshowcase: Display or exhibit something to its best advantage\npegasus: A winged horse in Greek mythology\nerrors: Mistakes or faults\nlumpur: Capital of Malaysia\nbeyond: Further away in distance or time\nodisha: Indian state in the eastern part of the country\nuphold: Support or maintain something, such as a principle or law\nnights: The period of darkness between sunset and sunrise\ndeemed: Considered or judged to be"
+}

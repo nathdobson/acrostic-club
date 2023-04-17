@@ -6,280 +6,120 @@
   "clues": [
     {
       "clue": null,
-      "answer": "python",
-      "answer_letters": "PYTHON",
+      "answer": "potentially",
+      "answer_letters": "POTENTIALLY",
       "indices": [
-        129,
-        51,
-        106,
-        176,
+        12,
+        35,
+        21,
+        107,
+        38,
+        185,
+        77,
+        24,
+        56,
+        188,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abolished",
+      "answer_letters": "ABOLISHED",
+      "indices": [
+        140,
+        27,
         6,
-        108
+        33,
+        118,
+        53,
+        134,
+        67,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "athlete",
-      "answer_letters": "ATHLETE",
-      "indices": [
-        128,
-        63,
-        1,
-        94,
-        55,
-        91,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upbeat",
-      "answer_letters": "UPBEAT",
+      "answer": "uptown",
+      "answer_letters": "UPTOWN",
       "indices": [
         142,
-        179,
+        9,
+        63,
+        97,
+        31,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lyndon",
+      "answer_letters": "LYNDON",
+      "indices": [
+        141,
+        75,
+        59,
+        157,
+        17,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
+      "indices": [
+        93,
+        46,
         50,
-        181,
-        32,
+        72,
+        112,
         83
       ]
     },
     {
       "clue": null,
-      "answer": "longevity",
-      "answer_letters": "LONGEVITY",
+      "answer": "utility",
+      "answer_letters": "UTILITY",
       "indices": [
-        188,
-        180,
-        155,
-        60,
-        10,
-        139,
-        145,
-        65,
+        111,
+        175,
+        184,
+        57,
+        154,
+        0,
         85
       ]
     },
     {
       "clue": null,
-      "answer": "amphibious",
-      "answer_letters": "AMPHIBIOUS",
+      "answer": "stereotypes",
+      "answer_letters": "STEREOTYPES",
       "indices": [
-        24,
-        99,
-        80,
-        66,
-        37,
-        27,
-        62,
-        42,
-        47,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
-      "indices": [
-        111,
-        9,
-        141,
-        77,
-        125,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seychelles",
-      "answer_letters": "SEYCHELLES",
-      "indices": [
-        53,
-        137,
-        160,
-        90,
-        163,
-        23,
-        13,
-        34,
-        143,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
-      "indices": [
-        162,
-        36,
-        74,
-        7,
-        150,
-        28,
-        112,
-        166,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embodied",
-      "answer_letters": "EMBODIED",
-      "indices": [
-        82,
-        71,
-        46,
-        17,
-        148,
-        104,
-        121,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rooftop",
-      "answer_letters": "ROOFTOP",
-      "indices": [
-        131,
-        97,
-        72,
-        173,
-        105,
-        5,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "melanie",
-      "answer_letters": "MELANIE",
-      "indices": [
-        4,
-        164,
-        57,
-        89,
-        73,
-        118,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "owning",
-      "answer_letters": "OWNING",
-      "indices": [
-        35,
-        102,
-        115,
-        58,
-        19,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "otherwise",
-      "answer_letters": "OTHERWISE",
-      "indices": [
-        114,
-        175,
-        170,
-        107,
-        168,
-        133,
-        68,
-        186,
-        187
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newport",
-      "answer_letters": "NEWPORT",
-      "indices": [
-        38,
-        149,
-        31,
-        12,
-        11,
-        152,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "protestors",
-      "answer_letters": "PROTESTORS",
-      "indices": [
-        117,
-        84,
-        110,
-        169,
-        177,
-        136,
-        21,
-        135,
-        69,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "afforded",
-      "answer_letters": "AFFORDED",
-      "indices": [
-        140,
-        41,
-        189,
-        167,
-        103,
-        16,
-        130,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
-      "indices": [
-        33,
-        2,
         78,
-        43,
-        185,
-        134,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "autism",
-      "answer_letters": "AUTISM",
-      "indices": [
-        93,
-        92,
         48,
-        154,
-        122,
-        54
+        177,
+        168,
+        82,
+        42,
+        65,
+        28,
+        117,
+        151,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "combine",
-      "answer_letters": "COMBINE",
+      "answer": "towing",
+      "answer_letters": "TOWING",
       "indices": [
-        120,
-        20,
-        182,
-        159,
-        184,
-        59,
-        14
+        91,
+        81,
+        36,
+        104,
+        108,
+        60
       ]
     },
     {
@@ -287,14 +127,174 @@
       "answer": "employee",
       "answer_letters": "EMPLOYEE",
       "indices": [
-        151,
+        23,
+        182,
+        96,
+        34,
+        11,
+        51,
+        130,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "routine",
+      "answer_letters": "ROUTINE",
+      "indices": [
+        152,
+        110,
+        92,
+        169,
+        37,
+        7,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "memoir",
+      "answer_letters": "MEMOIR",
+      "indices": [
         153,
-        127,
-        56,
+        143,
+        71,
+        5,
+        62,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        20,
+        41,
+        189,
+        100,
+        163,
+        135,
+        167,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        114,
+        125,
+        173,
+        186,
+        170,
         124,
-        75,
-        67,
-        98
+        180,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        115,
+        187,
+        179,
+        1,
+        156,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "privileges",
+      "answer_letters": "PRIVILEGES",
+      "indices": [
+        80,
+        131,
+        58,
+        139,
+        145,
+        94,
+        98,
+        39,
+        74,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awesome",
+      "answer_letters": "AWESOME",
+      "indices": [
+        128,
+        166,
+        14,
+        30,
+        172,
+        54,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lesbian",
+      "answer_letters": "LESBIAN",
+      "indices": [
+        13,
+        164,
+        136,
+        159,
+        68,
+        32,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attempted",
+      "answer_letters": "ATTEMPTED",
+      "indices": [
+        89,
+        105,
+        150,
+        2,
+        99,
+        129,
+        162,
+        55,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "church",
+      "answer_letters": "CHURCH",
+      "indices": [
+        90,
+        66,
+        47,
+        103,
+        120,
+        176
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "empowered",
+      "answer_letters": "EMPOWERED",
+      "indices": [
+        137,
+        4,
+        127,
+        43,
+        133,
+        10,
+        69,
+        149,
+        16
       ]
     }
   ],

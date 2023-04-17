@@ -6,268 +6,125 @@
   "clues": [
     {
       "clue": null,
-      "answer": "macarthur",
-      "answer_letters": "MACARTHUR",
+      "answer": "macbeth",
+      "answer_letters": "MACBETH",
       "indices": [
-        14,
+        33,
         11,
-        110,
-        186,
-        96,
-        60,
-        141,
-        66,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "acoustic",
-      "answer_letters": "ACOUSTIC",
-      "indices": [
-        122,
-        6,
-        157,
-        95,
-        50,
-        104,
-        159,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robins",
-      "answer_letters": "ROBINS",
-      "indices": [
-        91,
-        189,
+        121,
         100,
-        70,
-        167,
-        143
+        172,
+        12,
+        114
       ]
     },
     {
       "clue": null,
-      "answer": "kathleen",
-      "answer_letters": "KATHLEEN",
+      "answer": "atmospheric",
+      "answer_letters": "ATMOSPHERIC",
+      "indices": [
+        166,
+        180,
+        14,
+        43,
+        22,
+        41,
+        10,
+        92,
+        171,
+        151,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rooftop",
+      "answer_letters": "ROOFTOP",
+      "indices": [
+        36,
+        157,
+        37,
+        4,
+        94,
+        130,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kyushu",
+      "answer_letters": "KYUSHU",
       "indices": [
         18,
-        15,
-        94,
+        168,
+        101,
+        65,
         181,
-        57,
-        119,
-        55,
-        187
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
+      "answer": "thieves",
+      "answer_letters": "THIEVES",
       "indices": [
-        111,
-        10,
-        43,
-        175,
-        39,
-        114,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wavelengths",
-      "answer_letters": "WAVELENGTHS",
-      "indices": [
-        35,
-        166,
+        116,
+        81,
+        142,
+        177,
         44,
-        154,
-        149,
-        97,
-        38,
-        132,
-        0,
-        48,
+        55,
         178
       ]
     },
     {
       "clue": null,
-      "answer": "authority",
-      "answer_letters": "AUTHORITY",
+      "answer": "whatever",
+      "answer_letters": "WHATEVER",
       "indices": [
-        62,
-        101,
-        116,
-        81,
-        164,
-        88,
-        52,
-        28,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interchange",
-      "answer_letters": "INTERCHANGE",
-      "indices": [
-        142,
-        19,
-        180,
-        138,
-        36,
-        170,
-        118,
-        182,
-        123,
-        26,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "narrator",
-      "answer_letters": "NARRATOR",
-      "indices": [
-        131,
-        148,
-        135,
-        158,
-        173,
-        7,
-        20,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "waterfront",
-      "answer_letters": "WATERFRONT",
-      "indices": [
-        128,
-        115,
-        174,
-        92,
-        147,
-        30,
-        155,
-        37,
-        16,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hypotheses",
-      "answer_letters": "HYPOTHESES",
-      "indices": [
-        27,
-        75,
-        67,
-        78,
-        113,
-        86,
-        58,
-        46,
-        68,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authentic",
-      "answer_letters": "AUTHENTIC",
-      "indices": [
-        93,
-        61,
-        102,
-        1,
-        87,
-        152,
-        160,
-        73,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "towers",
-      "answer_letters": "TOWERS",
-      "indices": [
-        190,
-        136,
         21,
-        106,
-        42,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "important",
-      "answer_letters": "IMPORTANT",
-      "indices": [
-        151,
-        145,
-        134,
-        84,
-        69,
+        86,
+        148,
         74,
-        109,
-        53,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheltered",
-      "answer_letters": "SHELTERED",
-      "indices": [
-        65,
-        105,
-        2,
-        63,
-        54,
-        45,
-        176,
-        177,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "microsoft",
-      "answer_letters": "MICROSOFT",
-      "indices": [
-        33,
-        25,
-        185,
-        72,
-        126,
-        139,
-        71,
-        4,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "actively",
-      "answer_letters": "ACTIVELY",
-      "indices": [
-        5,
-        90,
-        183,
-        49,
+        82,
         137,
-        172,
+        58,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attracting",
+      "answer_letters": "ATTRACTING",
+      "indices": [
+        182,
+        7,
+        0,
+        31,
+        115,
+        90,
+        60,
+        156,
+        131,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "illustrious",
+      "answer_letters": "ILLUSTRIOUS",
+      "indices": [
+        49,
         56,
-        168
+        57,
+        175,
+        50,
+        77,
+        176,
+        25,
+        146,
+        66,
+        139
       ]
     },
     {
@@ -276,17 +133,160 @@
       "answer_letters": "NOTFORPROFIT",
       "indices": [
         188,
-        130,
-        85,
-        153,
-        146,
-        31,
-        41,
-        129,
+        126,
+        102,
+        30,
+        189,
+        72,
+        134,
+        91,
         32,
         108,
-        156,
-        80
+        73,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "welfare",
+      "answer_letters": "WELFARE",
+      "indices": [
+        35,
+        97,
+        149,
+        153,
+        93,
+        96,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hornets",
+      "answer_letters": "HORNETS",
+      "indices": [
+        105,
+        71,
+        147,
+        19,
+        45,
+        85,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
+      "indices": [
+        186,
+        61,
+        163,
+        27,
+        136,
+        129,
+        52,
+        54,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "terracotta",
+      "answer_letters": "TERRACOTTA",
+      "indices": [
+        190,
+        138,
+        155,
+        135,
+        62,
+        6,
+        84,
+        183,
+        28,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "interchange",
+      "answer_letters": "INTERCHANGE",
+      "indices": [
+        159,
+        167,
+        9,
+        119,
+        69,
+        185,
+        1,
+        173,
+        152,
+        39,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stating",
+      "answer_letters": "STATING",
+      "indices": [
+        46,
+        160,
+        122,
+        80,
+        70,
+        38,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monthly",
+      "answer_letters": "MONTHLY",
+      "indices": [
+        145,
+        78,
+        123,
+        111,
+        48,
+        63,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "archdeacon",
+      "answer_letters": "ARCHDEACON",
+      "indices": [
+        5,
+        42,
+        59,
+        141,
+        125,
+        87,
+        15,
+        170,
+        164,
+        187
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwestern",
+      "answer_letters": "NORTHWESTERN",
+      "indices": [
+        16,
+        20,
+        158,
+        174,
+        118,
+        128,
+        68,
+        143,
+        113,
+        154,
+        24,
+        53
       ]
     }
   ],

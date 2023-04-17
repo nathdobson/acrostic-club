@@ -112,8 +112,7 @@ impl<V> FlatTrie<V> {
         &'a self,
         superset: LetterSet,
         radius: usize,
-        result: &mut Vec<&'a V>,
-    ) {
+    ) -> Option<&V> {
         match self.view() {
             FlatTrieView::Empty => {}
             FlatTrieView::Leaf {
@@ -122,9 +121,11 @@ impl<V> FlatTrie<V> {
                 remainder,
             } => {
                 if key.is_subset(superset) && (superset - *key).count() == radius {
-                    result.push(value)
+                    return Some(value);
                 }
-                remainder.search_subset(superset, radius, result);
+                if let Some(value) = remainder.search_subset(superset, radius) {
+                    return Some(value);
+                }
             }
             FlatTrieView::Node {
                 letter,
@@ -134,22 +135,36 @@ impl<V> FlatTrie<V> {
                 if let Some(radius2) = radius.checked_sub(superset[letter] as usize) {
                     let mut superset2 = superset;
                     superset2[letter] = 0;
-                    without.search_subset(superset2, radius2, result);
+                    if let Some(value) = without.search_subset(superset2, radius2) {
+                        return Some(value);
+                    }
                 }
                 if superset[letter] > 0 {
                     let mut superset2 = superset;
                     superset2[letter] -= 1;
-                    with.search_subset(superset2, radius, result);
+                    if let Some(value) = with.search_subset(superset2, radius) {
+                        return Some(value);
+                    }
                 }
             }
         }
+        None
     }
+    #[inline(never)]
     pub fn search_smallest_subset(&self, key: LetterSet, min_len: usize) -> Option<&V> {
         for len in min_len..=key.count() {
             let radius = key.count() - len;
-            let mut found = vec![];
-            self.search_subset(key, radius, &mut found);
-            if let Some(found) = found.first() {
+            if let Some(found) = self.search_subset(key, radius) {
+                return Some(found);
+            }
+        }
+        None
+    }
+    pub fn search_largest_subset(&self, key: LetterSet, max_len: usize) -> Option<&V> {
+        for len in 0..=max_len {
+            let len = max_len - len;
+            let radius = key.count() - len;
+            if let Some(found) = self.search_subset(key, radius) {
                 return Some(found);
             }
         }

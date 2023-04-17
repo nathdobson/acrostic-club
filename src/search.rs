@@ -3,6 +3,7 @@ use std::default::default;
 use std::fmt::Write;
 use std::io;
 use std::mem::swap;
+use std::time::Instant;
 
 use rand::seq::SliceRandom;
 use rand::{thread_rng, Rng, SeedableRng};
@@ -13,12 +14,14 @@ use crate::model::{Model, Word};
 // use crate::trie::Trie;
 use crate::{author_title_letters, quote_letters, Letter, LetterMap, LetterSet};
 use crate::puzzle::{Clue, Puzzle};
-use itertools::Itertools;
+use itertools::{Itertools, max};
 use rand::rngs::StdRng;
 use rand_xorshift::XorShiftRng;
 
 pub struct Search {
     table: &'static FlatTrieTable,
+    cache: HashMap<(Letter, Letter, LetterSet, usize), Option<(LetterSet, LetterSet)>>,
+    access: usize,
     quote: LetterSet,
     source: Vec<Letter>,
     rng: XorShiftRng,
@@ -28,6 +31,8 @@ impl Search {
     pub async fn new(quote: LetterSet, source: Vec<Letter>, seed: u64) -> io::Result<Self> {
         Ok(Search {
             table: FLAT_TRIE_TABLE.get_io().await?,
+            cache: Default::default(),
+            access: 0,
             quote,
             source,
             rng: XorShiftRng::seed_from_u64(seed),
@@ -41,22 +46,35 @@ impl Search {
             .map(|first| [first].into_iter().cloned().collect())
             .collect();
         for word in words.iter() {
-            if !word.is_subset(remainder){
+            if !word.is_subset(remainder) {
                 return None;
             }
             remainder = remainder - *word;
         }
         Some(Solution { words, remainder })
     }
-    fn reset(&self, solution: &mut Solution, index: usize) {
-        solution.set_word(index, [self.source[index]].into_iter().collect());
+    #[inline(never)]
+    fn randomize1(&self, solution: &mut Solution, index: usize) {
+        let old = solution.words[index];
+        if old.count() > 4 {
+            solution.set_word(index, LetterSet::new());
+            if let Some(found) = self.table.unary[self.source[index]]
+                .search_largest_subset(solution.remainder, old.count() - 1)
+            {
+                solution.set_word(index, *found);
+            } else {
+                solution.set_word(index, old);
+            }
+        }
     }
+    #[inline(never)]
     fn randomize(&mut self, solution: &mut Solution) {
         for _ in 0..self.rng.gen_range(1..3) {
             let index = self.rng.gen_range(0..self.source.len());
-            self.reset(solution, index);
+            self.randomize1(solution, index);
         }
     }
+    #[inline(never)]
     fn optimize1(&self, solution: &mut Solution, index: usize) -> bool {
         let old = solution.words[index];
         solution.set_word(index, LetterSet::new());
@@ -71,7 +89,15 @@ impl Search {
         solution.set_word(index, old);
         return false;
     }
-    fn optimize2(&self, solution: &mut Solution, i1: usize, i2: usize) -> bool {
+    #[inline(never)]
+    fn search_smallest_subset(&mut self, l1: Letter, l2: Letter, key: LetterSet, min: usize) -> Option<(LetterSet, LetterSet)> {
+        self.access += 1;
+        *self.cache.entry((l1, l2, key, min)).or_insert_with(|| {
+            self.table.binary.get(&(l1, l2)).unwrap().search_smallest_subset(key, min).cloned()
+        })
+    }
+    #[inline(never)]
+    fn optimize2(&mut self, solution: &mut Solution, i1: usize, i2: usize, max_len: usize) -> bool {
         let old1 = solution.words[i1];
         let old2 = solution.words[i2];
         solution.set_word(i1, LetterSet::new());
@@ -81,44 +107,65 @@ impl Search {
         if flipped {
             ls.swap(0, 1);
         }
-        let trie = &self.table.binary.get(&(ls[0], ls[1])).unwrap();
+        // let trie = &self.table.binary.get(&(ls[0], ls[1])).unwrap();
+        let start = Instant::now();
         if let Some(found) =
-        trie.search_smallest_subset(solution.remainder, old1.count() + old2.count() + 1)
+        self.search_smallest_subset(ls[0], ls[1], solution.remainder, old1.count() + old2.count() + 1)
         {
-            if flipped {
-                solution.set_word(i1, found.1);
-                solution.set_word(i2, found.0);
-            } else {
-                solution.set_word(i1, found.0);
-                solution.set_word(i2, found.1);
+            if found.0.count() <= max_len || found.1.count() <= max_len {
+                if flipped {
+                    solution.set_word(i1, found.1);
+                    solution.set_word(i2, found.0);
+                } else {
+                    solution.set_word(i1, found.0);
+                    solution.set_word(i2, found.1);
+                }
+                return true;
             }
-            return true;
+        }
+        let elapsed = start.elapsed();
+        if elapsed.as_secs_f64() > 200e-6 {
+            // println!("{:?} {:?} {:?} {:?}", ls, solution.remainder, old1.count() + old2.count() + 1, start.elapsed());
         }
         solution.set_word(i1, old1);
         solution.set_word(i2, old2);
         return false;
     }
-    fn optimize(&self, solution: &mut Solution) {
-        loop {
-            let mut progress = false;
-            for i in 0..solution.words.len() {
-                progress |= self.optimize1(solution, i);
-            }
-            if !progress {
-                break;
-            }
-        }
-        loop {
-            let mut progress = false;
-            for i1 in 0..solution.words.len() {
-                for i2 in 0..solution.words.len() {
-                    if i1 < i2 {
-                        progress |= self.optimize2(solution, i1, i2);
+    #[inline(never)]
+    fn optimize(&mut self, solution: &mut Solution) {
+        'outer: for max_len in 6.. {
+            loop {
+                let mut progress = false;
+                let mut missed = false;
+                let mut indices = (0..solution.words.len()).collect::<Vec<_>>();
+                indices.shuffle(&mut self.rng);
+                for i in indices {
+                    if solution.words[i].count() < max_len {
+                        progress |= self.optimize1(solution, i);
+                    } else {
+                        missed = true;
+                    }
+                }
+                if !progress {
+                    if missed {
+                        break;
+                    } else {
+                        break 'outer;
                     }
                 }
             }
-            if !progress {
-                break;
+            loop {
+                let mut progress = false;
+                for i1 in 0..solution.words.len() {
+                    for i2 in 0..solution.words.len() {
+                        if i1 < i2 {
+                            progress |= self.optimize2(solution, i1, i2, max_len);
+                        }
+                    }
+                }
+                if !progress {
+                    break;
+                }
             }
         }
     }
@@ -134,12 +181,12 @@ impl Search {
         false
     }
     pub fn solve(&mut self) -> Option<Solution> {
-        for i in 0..100 {
+        for i in 0..1000 {
             let mut solution = self.start()?;
             if self.anneal(&mut solution) {
                 return Some(solution);
             } else {
-                println!("failed: {}", self.format(&solution));
+                println!("failed: {} {} {}", self.format(&solution), self.access, self.cache.len());
             }
         }
         return None;
@@ -210,7 +257,7 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
         .collect();
     println!("{:?}", source);
     let mut search = Search::new(quote, source, pindex as u64).await?;
-    let sol = search.solve().ok_or_else(|| io::Error::new(io::ErrorKind::TimedOut, "timed out"))?;
+    let sol = search.solve().ok_or_else(|| io::Error::new(io::ErrorKind::TimedOut, format!("timed out {}", pindex)))?;
     let words = search.get_words(&sol);
     let mut positions: LetterMap<Vec<usize>> = Letter::all()
         .map(|l| {
@@ -256,5 +303,18 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
         .collect();
     puzzle.clues = Some(clues3);
     puzzle.write(pindex, "stage2.json").await?;
+    Ok(())
+}
+
+#[tokio::test]
+async fn test_search() -> io::Result<()> {
+    let firsts = (Letter::new(b'e').unwrap(), Letter::new(b'i').unwrap());
+    let word = LetterSet::from_str("AEEEEEEEEEEEGIIKKKKLLLNNNOPPTTTWWWW");
+    FLAT_TRIE_TABLE.get_io().await?;
+    let start = Instant::now();
+    for i in 0..10000 {
+        FLAT_TRIE_TABLE.get_io().await?.binary.get(&firsts).unwrap().search_smallest_subset(word, 16);
+    }
+    println!("{:?}", start.elapsed());
     Ok(())
 }

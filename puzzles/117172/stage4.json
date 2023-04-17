@@ -1,0 +1,312 @@
+{
+  "quote": "Nothing fortified me, and simple loneliness all but destroyed me, yet I felt swamped by the belief that life must mean something- otherwise why was it there? Why was anything anything?",
+  "quote_letters": "NOTHING FORTIFIED ME AND SIMPLE LONELINESS ALL BUT DESTROYED ME YET I FELT SWAMPED BY THE BELIEF THAT LIFE MUST MEAN SOMETHING- OTHERWISE WHY WAS IT THERE WHY WAS ANYTHING ANYTHING",
+  "source": "Morrissey, Autobiography",
+  "source_letters": "MORRISSEYAUTOBIOGRAPHY",
+  "clues": [
+    {
+      "clue": "witching hour of the night ",
+      "answer": "midnight",
+      "answer_letters": "MIDNIGHT",
+      "indices": [
+        112,
+        37,
+        23,
+        178,
+        68,
+        6,
+        176,
+        66
+      ]
+    },
+    {
+      "clue": "not connected to the internet",
+      "answer": "offline",
+      "answer_letters": "OFFLINE",
+      "indices": [
+        33,
+        8,
+        95,
+        32,
+        103,
+        164,
+        58
+      ]
+    },
+    {
+      "clue": "prize for an achievement",
+      "answer": "reward",
+      "answer_letters": "REWARD",
+      "indices": [
+        10,
+        39,
+        159,
+        114,
+        132,
+        81
+      ]
+    },
+    {
+      "clue": "recurring pattern of beats ",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        55,
+        87,
+        174,
+        86,
+        130,
+        78,
+        109
+      ]
+    },
+    {
+      "clue": "people from italy ",
+      "answer": "italians",
+      "answer_letters": "ITALIANS",
+      "indices": [
+        12,
+        110,
+        163,
+        44,
+        14,
+        143,
+        173,
+        135
+      ]
+    },
+    {
+      "clue": "activity of stitching fabrics together ",
+      "answer": "sewing",
+      "answer_letters": "SEWING",
+      "indices": [
+        53,
+        153,
+        155,
+        168,
+        38,
+        125
+      ]
+    },
+    {
+      "clue": "fictional character, the demon barber of fleet street ",
+      "answer": "sweeney",
+      "answer_letters": "SWEENEY",
+      "indices": [
+        161,
+        76,
+        136,
+        30,
+        34,
+        71,
+        84
+      ]
+    },
+    {
+      "clue": "symbolic representation of an organization ",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
+      "indices": [
+        19,
+        119,
+        83,
+        72,
+        151,
+        61
+      ]
+    },
+    {
+      "clue": "japanese manufacturer of musical instruments ",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        157,
+        99,
+        27,
+        43,
+        167,
+        77
+      ]
+    },
+    {
+      "clue": "in any case ",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        172,
+        22,
+        64,
+        138,
+        21,
+        140
+      ]
+    },
+    {
+      "clue": "to maintain or support ",
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        108,
+        28,
+        156,
+        118,
+        102,
+        59
+      ]
+    },
+    {
+      "clue": "position in a numerical sequence ",
+      "answer": "twelfth",
+      "answer_letters": "TWELFTH",
+      "indices": [
+        175,
+        142,
+        105,
+        92,
+        13,
+        149,
+        150
+      ]
+    },
+    {
+      "clue": "geometric shape with four sides, two of which are longer ",
+      "answer": "oblong",
+      "answer_letters": "OBLONG",
+      "indices": [
+        56,
+        90,
+        36,
+        1,
+        124,
+        179
+      ]
+    },
+    {
+      "clue": "palestinian town, birthplace of jesus ",
+      "answer": "bethlehem",
+      "answer_letters": "BETHLEHEM",
+      "indices": [
+        47,
+        88,
+        166,
+        98,
+        29,
+        91,
+        139,
+        62,
+        107
+      ]
+    },
+    {
+      "clue": "strength or level of a feeling or action ",
+      "answer": "intensity",
+      "answer_letters": "INTENSITY",
+      "indices": [
+        4,
+        5,
+        73,
+        131,
+        0,
+        41,
+        177,
+        100,
+        57
+      ]
+    },
+    {
+      "clue": "sets of clothing worn together ",
+      "answer": "outfits",
+      "answer_letters": "OUTFITS",
+      "indices": [
+        9,
+        48,
+        54,
+        104,
+        134,
+        129,
+        117
+      ]
+    },
+    {
+      "clue": "endowed with a natural ability ",
+      "answer": "gifted",
+      "answer_letters": "GIFTED",
+      "indices": [
+        170,
+        26,
+        70,
+        49,
+        94,
+        51
+      ]
+    },
+    {
+      "clue": "renamed ",
+      "answer": "retitled",
+      "answer_letters": "RETITLED",
+      "indices": [
+        152,
+        35,
+        97,
+        146,
+        147,
+        45,
+        15,
+        16
+      ]
+    },
+    {
+      "clue": "property owned by someone ",
+      "answer": "assets",
+      "answer_letters": "ASSETS",
+      "indices": [
+        160,
+        75,
+        25,
+        113,
+        11,
+        144
+      ]
+    },
+    {
+      "clue": "devices used for communication ",
+      "answer": "phones",
+      "answer_letters": "PHONES",
+      "indices": [
+        79,
+        3,
+        128,
+        169,
+        52,
+        40
+      ]
+    },
+    {
+      "clue": "english surname with norman roots ",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        122,
+        120,
+        133,
+        93,
+        2,
+        121
+      ]
+    },
+    {
+      "clue": "relating to the country yemen",
+      "answer": "yemeni",
+      "answer_letters": "YEMENI",
+      "indices": [
+        165,
+        80,
+        18,
+        65,
+        115,
+        123
+      ]
+    }
+  ],
+  "chat": "midnight - Witching hour of the night \noffline - Not connected to the internet\nreward - Prize for an achievement\nrhythms - Recurring pattern of beats \nitalians - People from Italy \nsewing - Activity of stitching fabrics together \nsweeney - Fictional character, the demon barber of Fleet Street \nemblem - Symbolic representation of an organization \nyamaha - Japanese manufacturer of musical instruments \nanyway - In any case \nuphold - To maintain or support \ntwelfth - Position in a numerical sequence \noblong - Geometric shape with four sides, two of which are longer \nbethlehem - Palestinian town, birthplace of Jesus \nintensity - Strength or level of a feeling or action \noutfits - Sets of clothing worn together \ngifted - Endowed with a natural ability \nretitled - Renamed \nassets - Property owned by someone \nphones - Devices used for communication \nhewitt - English surname with Norman roots \nyemeni - Relating to the country Yemen"
+}
