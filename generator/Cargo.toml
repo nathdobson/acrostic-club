@@ -1,0 +1,36 @@
+[package]
+name = "acrostic-generator"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+[dependencies]
+serde-pickle = "1.1.1"
+serde = { version = "1.0.156", features = ["derive"] }
+serde_bytes = "0.11.9"
+memmap = "0.7.0"
+npy = "0.4.0"
+npy-derive = "0.4.0"
+ndarray-npy = "0.8.1"
+ndarray = "0.15.6"
+any_ascii = "0.1.2"
+brotli = "3.3.4"
+ordered-float = "3.4.0"
+rand = "0.8.5"
+tikv-jemallocator = "0.5"
+hex = "0.4.3"
+partition = "0.1.2"
+itertools = "0.10.5"
+arrayvec = "0.7.2"
+tokio = { version = "1.26.0", features = ["rt-multi-thread", "macros"] }
+serde_json = "1.0.94"
+unicode-segmentation = "1.10.1"
+chat-gpt-lib-rs = "0.1.7"
+home = "0.5.4"
+csv = "1.2.1"
+futures = "0.3.27"
+async_once = "0.2.6"
+rand_xorshift = "0.3.0"

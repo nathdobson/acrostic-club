@@ -4,11 +4,14 @@ use std::sync::LazyLock;
 
 use itertools::Itertools;
 
+use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::trie::{FlatTrie, FlatTrieEntry};
-use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 use crate::util::alloc::MmapAllocator;
 use crate::util::lazy_async::LazyAsync;
+
+// use crate::util::lazy_async::LazyAsync;
+// use crate::util::lazy_async::LazyAsync;
 
 pub struct FlatTrieTable {
     pub dict: &'static [FlatWord],

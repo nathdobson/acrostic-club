@@ -7,8 +7,8 @@ use std::rc::Rc;
 use any_ascii::any_ascii;
 use ordered_float::NotNan;
 
-use crate::letter::LetterSet;
 use crate::{Letter, LetterMap};
+use crate::letter::LetterSet;
 
 #[derive(Eq, Ord, PartialEq, PartialOrd, Hash, Clone, Copy, Debug)]
 pub enum Part {

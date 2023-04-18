@@ -2,15 +2,18 @@ use std::{fs, io, slice};
 use std::io::{Cursor, ErrorKind, Read};
 use std::sync::LazyLock;
 use std::time::Instant;
+
 use itertools::{peek_nth, PeekNth};
 use rand::seq::SliceRandom;
 use rand::thread_rng;
+use serde::Deserialize;
+use serde::Serialize;
 
 use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
-use serde::Serialize;
-use serde::Deserialize;
 use crate::puzzle::Puzzle;
 use crate::util::lazy_async::LazyAsync;
+
+// use crate::util::lazy_async::LazyAsync;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Quote {

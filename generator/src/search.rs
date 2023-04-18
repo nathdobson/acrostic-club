@@ -5,18 +5,18 @@ use std::io;
 use std::mem::swap;
 use std::time::Instant;
 
-use rand::seq::SliceRandom;
-use rand::{thread_rng, Rng, SeedableRng};
-
-use crate::dict::FlatWord;
-use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
-use crate::model::{Model, Word};
-// use crate::trie::Trie;
-use crate::{author_title_letters, quote_letters, Letter, LetterMap, LetterSet};
-use crate::puzzle::{Clue, Puzzle};
 use itertools::{Itertools, max};
+use rand::{Rng, SeedableRng, thread_rng};
 use rand::rngs::StdRng;
+use rand::seq::SliceRandom;
 use rand_xorshift::XorShiftRng;
+
+// use crate::trie::Trie;
+use crate::{author_title_letters, Letter, LetterMap, LetterSet, quote_letters};
+use crate::dict::FlatWord;
+use crate::model::{Model, Word};
+use crate::puzzle::{Clue, Puzzle};
+use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
 
 pub struct Search {
     table: &'static FlatTrieTable,

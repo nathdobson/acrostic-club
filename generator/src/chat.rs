@@ -5,6 +5,7 @@ use std::fs;
 use chat_gpt_lib_rs::{ChatGPTClient, ChatInput, Message, Model, Role};
 use itertools::Itertools;
 use tokio::io;
+
 use crate::puzzle::Puzzle;
 
 pub async fn add_chat(pindex: usize) -> io::Result<()> {

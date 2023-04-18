@@ -1,10 +1,11 @@
+use std::fmt::Write;
 use std::io;
+
 use any_ascii::any_ascii;
 use itertools::EitherOrBoth;
 use unicode_segmentation::UnicodeSegmentation;
 
 use crate::Letter;
-use std::fmt::Write;
 use crate::puzzle::Puzzle;
 
 pub fn segment(s: &str) -> Vec<EitherOrBoth<Letter, String>> {

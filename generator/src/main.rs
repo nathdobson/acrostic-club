@@ -19,6 +19,39 @@
 
 extern crate core;
 
+use std::{env, fs, io};
+use std::collections::{BTreeMap, BTreeSet, HashMap};
+use std::default::default;
+use std::fmt::{Debug, Display, Formatter};
+use std::fs::File;
+use std::io::ErrorKind;
+use std::ops::{Deref, Index, IndexMut};
+use std::path::{Path, PathBuf};
+use std::sync::LazyLock;
+
+use any_ascii::any_ascii;
+use memmap::MmapOptions;
+use ndarray::Array2;
+use ndarray_npy::ReadNpyExt;
+use npy::NpyData;
+use npy_derive::Serializable;
+use serde::{Deserialize, Deserializer};
+use serde::de::{EnumAccess, Error, MapAccess, SeqAccess, Visitor};
+use serde_pickle::{DeOptions, HashableValue, Value};
+use tikv_jemallocator::Jemalloc;
+
+use dict::build_dict;
+use quote::build_quotes;
+use trie::build_trie;
+
+use crate::chat::add_chat;
+use crate::clues::add_clues;
+use crate::letter::{Letter, LetterMap, LetterSet};
+use crate::quote::add_quote;
+use crate::search::add_answers;
+use crate::segment::add_letters;
+use crate::site::build_site;
+
 pub mod dict;
 pub mod trie;
 pub mod trie_table;
@@ -32,39 +65,6 @@ pub mod chat;
 pub mod clues;
 pub mod site;
 pub mod util;
-
-use tikv_jemallocator::Jemalloc;
-use dict::build_dict;
-use trie::build_trie;
-use quote::build_quotes;
-use crate::quote::add_quote;
-
-use std::collections::{BTreeMap, BTreeSet, HashMap};
-use std::default::default;
-use std::fmt::{Debug, Display, Formatter};
-use std::{env, fs, io};
-use std::fs::File;
-use std::io::ErrorKind;
-use std::ops::{Deref, Index, IndexMut};
-use std::path::{Path, PathBuf};
-use std::sync::LazyLock;
-
-use any_ascii::any_ascii;
-use memmap::MmapOptions;
-use ndarray::Array2;
-use ndarray_npy::ReadNpyExt;
-use npy::NpyData;
-use npy_derive::Serializable;
-use serde::de::{EnumAccess, Error, MapAccess, SeqAccess, Visitor};
-use serde::{Deserialize, Deserializer};
-use serde_pickle::{DeOptions, HashableValue, Value};
-use crate::chat::add_chat;
-use crate::clues::add_clues;
-
-use crate::letter::{Letter, LetterMap, LetterSet};
-use crate::search::add_answers;
-use crate::segment::add_letters;
-use crate::site::build_site;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;

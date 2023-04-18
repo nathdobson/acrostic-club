@@ -1,12 +1,13 @@
-use std::alloc::{AllocError, Allocator, Layout};
+use std::{fs, io, slice};
+use std::alloc::{Allocator, AllocError, Layout};
 use std::fmt::Debug;
 use std::mem::size_of;
 use std::path::{Path, PathBuf};
-use std::ptr::{null_mut, slice_from_raw_parts, NonNull};
-use std::{fs, io, slice};
+use std::ptr::{NonNull, null_mut, slice_from_raw_parts};
 
 use memmap::{Mmap, MmapMut, MmapOptions};
 use tokio::fs::File;
+
 use crate::write_path;
 
 pub struct MmapAllocator {

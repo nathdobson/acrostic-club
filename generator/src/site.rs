@@ -1,16 +1,17 @@
-use std::{io};
+use std::io;
 use std::ffi::OsString;
-use std::path::Path;
-use crate::{PACKAGE_PATH, write_path};
 use std::io::{ErrorKind, Write};
+use std::path::Path;
+
 use futures::future::BoxFuture;
 use futures::FutureExt;
+use serde::Deserialize;
+use serde::Serialize;
 use tokio::fs;
 use tokio::fs::{create_dir, create_dir_all, read_dir};
 use tokio::task::JoinHandle;
-use serde::Serialize;
-use serde::Deserialize;
 
+use crate::{PACKAGE_PATH, write_path};
 
 #[derive(Serialize, Deserialize)]
 struct PuzzleIndex {

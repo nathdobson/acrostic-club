@@ -1,9 +1,9 @@
+use std::{io, mem};
 use std::alloc::Allocator;
 use std::borrow::Borrow;
 use std::cmp::Ordering;
-use std::fmt::{Debug, Formatter};
-use std::{io, mem};
 use std::collections::BTreeMap;
+use std::fmt::{Debug, Formatter};
 use std::mem::size_of;
 use std::path::Path;
 use std::time::Instant;

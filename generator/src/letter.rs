@@ -1,16 +1,15 @@
+use std::{iter, mem};
 use std::cmp::Ordering;
 use std::default::default;
 use std::fmt::{Debug, Display, Formatter};
 use std::iter::Step;
 use std::ops::{Add, Index, IndexMut, Range, RangeInclusive, Sub};
-use std::{iter, mem};
 
 use any_ascii::any_ascii;
-use rand::distributions::uniform::SampleUniform;
 use rand::distributions::{Distribution, Standard};
 use rand::Rng;
-use serde::de::{Error, Visitor};
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
+use serde::de::{Error, Visitor};
 
 use crate::model::Model;
 use crate::util::alloc::AnyRepr;
