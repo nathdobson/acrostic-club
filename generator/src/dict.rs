@@ -7,8 +7,9 @@ use async_once::AsyncOnce;
 use futures::future::Shared;
 use futures::FutureExt;
 use tokio::sync::Mutex;
+use acrostic_core::letter::{Letter, LetterSet};
+use crate::{PACKAGE_PATH, read_path_to_string};
 
-use crate::{Letter, LetterSet, PACKAGE_PATH, read_path_to_string};
 use crate::util::alloc::{AnyRepr, save_vec};
 use crate::util::lazy_async::LazyMmap;
 

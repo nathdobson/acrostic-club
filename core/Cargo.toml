@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 serde = "1.0.156"
 rand = "0.8.5"
+any_ascii = "0.1.2"

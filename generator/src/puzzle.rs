@@ -2,8 +2,7 @@ use std::{fs, io};
 
 use chat_gpt_lib_rs::ChatResponse;
 use serde::{Deserialize, Serialize};
-
-use crate::{Letter, PACKAGE_PATH, read_path, read_path_to_string, write_path};
+use crate::{PACKAGE_PATH, read_path_to_string, write_path};
 
 // #[derive(Serialize, Deserialize, Debug)]
 // pub struct GivenCell {

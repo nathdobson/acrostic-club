@@ -1,14 +1,7 @@
-pub fn add(left: usize, right: usize) -> usize {
-    left + right
-}
+#![allow(unused_imports, unused_variables, dead_code)]
+#![deny(unused_must_use)]
+#![feature(default_free_fn)]
+#![feature(step_trait)]
+#![feature(array_zip)]
 
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn it_works() {
-        let result = add(2, 2);
-        assert_eq!(result, 4);
-    }
-}
+pub mod letter;

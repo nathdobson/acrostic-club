@@ -29,7 +29,6 @@ use std::ops::{Deref, Index, IndexMut};
 use std::path::{Path, PathBuf};
 use std::sync::LazyLock;
 
-use any_ascii::any_ascii;
 use memmap::MmapOptions;
 use ndarray::Array2;
 use ndarray_npy::ReadNpyExt;
@@ -39,6 +38,7 @@ use serde::{Deserialize, Deserializer};
 use serde::de::{EnumAccess, Error, MapAccess, SeqAccess, Visitor};
 use serde_pickle::{DeOptions, HashableValue, Value};
 use tikv_jemallocator::Jemalloc;
+use acrostic_core::letter::LetterSet;
 
 use dict::build_dict;
 use quote::build_quotes;
@@ -46,7 +46,6 @@ use trie::build_trie;
 
 use crate::chat::add_chat;
 use crate::clues::add_clues;
-use crate::letter::{Letter, LetterMap, LetterSet};
 use crate::quote::add_quote;
 use crate::search::add_answers;
 use crate::segment::add_letters;
@@ -55,7 +54,6 @@ use crate::site::build_site;
 pub mod dict;
 pub mod trie;
 pub mod trie_table;
-pub mod letter;
 pub mod model;
 pub mod search;
 pub mod puzzle;
@@ -70,7 +68,10 @@ pub mod util;
 static GLOBAL: Jemalloc = Jemalloc;
 
 pub static PACKAGE_PATH: LazyLock<PathBuf> =
-    LazyLock::new(|| PathBuf::from(env::var("CARGO_MANIFEST_DIR").unwrap_or("".to_string())));
+    LazyLock::new(||
+        PathBuf::from(env::var("CARGO_MANIFEST_DIR")
+            .unwrap_or("".to_string()))
+            .join(".."));
 
 pub async fn read_path(path: &Path) -> io::Result<Vec<u8>> {
     tokio::fs::read(path).await.map_err(|e| io::Error::new(e.kind(), format!("Cannot read {:?}: {}", path, e)))

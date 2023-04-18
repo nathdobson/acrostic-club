@@ -5,14 +5,11 @@ use std::fmt::{Debug, Display, Formatter};
 use std::iter::Step;
 use std::ops::{Add, Index, IndexMut, Range, RangeInclusive, Sub};
 
-use any_ascii::any_ascii;
 use rand::distributions::{Distribution, Standard};
 use rand::Rng;
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
 use serde::de::{Error, Visitor};
-
-use crate::model::Model;
-use crate::util::alloc::AnyRepr;
+use any_ascii::any_ascii;
 
 #[derive(Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash, Default)]
 pub struct Letter(u8);
@@ -56,7 +53,6 @@ pub struct LetterMap<V>([V; Letter::LETTERS]);
 #[repr(C)]
 pub struct LetterSet(LetterMap<u8>);
 
-unsafe impl AnyRepr for LetterSet {}
 
 impl<V> LetterMap<V> {
     pub fn new() -> Self

@@ -1,3 +1,4 @@
+use std::env::vars;
 use std::io;
 use std::ffi::OsString;
 use std::io::{ErrorKind, Write};
@@ -115,7 +116,7 @@ pub async fn copy_puzzles() -> io::Result<()> {
 
 pub async fn build_site() -> io::Result<()> {
     fs::remove_dir_all(&PACKAGE_PATH.join("build/site")).await?;
-    copy_dir(&PACKAGE_PATH.join("src/player"), &PACKAGE_PATH.join("build/site")).await?;
+    copy_dir(&PACKAGE_PATH.join("player"), &PACKAGE_PATH.join("build/site")).await?;
     fs::symlink(&PACKAGE_PATH.join("LICENSE"), &PACKAGE_PATH.join("build/site/LICENSE.txt")).await?;
     fs::symlink(&PACKAGE_PATH.join("ACKNOWLEDGEMENTS"), &PACKAGE_PATH.join("build/site/ACKNOWLEDGEMENTS.txt")).await?;
     copy_puzzles().await?;

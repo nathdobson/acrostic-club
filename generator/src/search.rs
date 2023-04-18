@@ -10,9 +10,9 @@ use rand::{Rng, SeedableRng, thread_rng};
 use rand::rngs::StdRng;
 use rand::seq::SliceRandom;
 use rand_xorshift::XorShiftRng;
+use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
 // use crate::trie::Trie;
-use crate::{author_title_letters, Letter, LetterMap, LetterSet, quote_letters};
 use crate::dict::FlatWord;
 use crate::model::{Model, Word};
 use crate::puzzle::{Clue, Puzzle};

@@ -10,9 +10,10 @@ use std::time::Instant;
 
 use rand::seq::SliceRandom;
 use rand::thread_rng;
+use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
-use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 use crate::dict::{FLAT_WORDS, FlatWord};
+use crate::PACKAGE_PATH;
 use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
 
 #[repr(C)]

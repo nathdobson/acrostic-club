@@ -3,9 +3,10 @@ use std::io;
 use std::sync::LazyLock;
 
 use itertools::Itertools;
+use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
-use crate::{Letter, LetterMap, LetterSet, PACKAGE_PATH};
 use crate::dict::{FLAT_WORDS, FlatWord};
+use crate::PACKAGE_PATH;
 use crate::trie::{FlatTrie, FlatTrieEntry};
 use crate::util::alloc::MmapAllocator;
 use crate::util::lazy_async::LazyAsync;

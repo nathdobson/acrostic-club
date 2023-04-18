@@ -7,6 +7,7 @@ use std::ptr::{NonNull, null_mut, slice_from_raw_parts};
 
 use memmap::{Mmap, MmapMut, MmapOptions};
 use tokio::fs::File;
+use acrostic_core::letter::LetterSet;
 
 use crate::write_path;
 
@@ -23,6 +24,8 @@ unsafe impl Allocator for MmapAllocator {
 pub unsafe trait AnyRepr {}
 
 unsafe impl AnyRepr for u32 {}
+
+unsafe impl AnyRepr for LetterSet {}
 
 unsafe impl<A, B> AnyRepr for (A, B)
     where
