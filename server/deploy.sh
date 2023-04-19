@@ -12,4 +12,4 @@ gcloud compute scp \
   --project "acrostic-club"
 
 gcloud compute ssh --zone "us-west1-a" "micro" --project "acrostic-club" -- \
-  "cd /home/nathan/workspace/acrostic-club/ && ./target/x86_64-unknown-linux-musl/release/acrostic-server"
+  "cd /home/nathan/workspace/acrostic-club/ && RUST_LOG=debug ./target/x86_64-unknown-linux-musl/release/acrostic-server"

@@ -119,9 +119,10 @@ class Grid {
 }
 
 class Puzzle {
-    constructor(url, puzzle) {
+    constructor(url, puzzle, socket) {
         this.div = document.createElement("div")
         this.puzzle = puzzle
+        this.socket = socket
         this.grids = []
         this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
@@ -194,11 +195,39 @@ class Puzzle {
     delta_cursor(delta) {
         this.cursor_value = this.cursor_grid.delta_value(this.cursor_value, delta)
     }
+    set_guess(guess) {
+        var time = Date.now();
+        if (this.cursor_value.time >= time) {
+            time = this.cursor_value.time + 1
+        }
+        var breaker = Math.round(Math.random() * 1000000000);
+        this.cursor_value.guess = guess
+        this.cursor_value.time = time
+        this.cursor_value.breaker = breaker
+        if (this.socket) {
+            let message = {}
+            message[this.cursor_value.id] = { time, breaker, guess: guess }
+            this.socket.send(JSON.stringify(message))
+        }
+    }
+    set_guess_at(position, guess, time, breaker) {
+        if (time < this.cursor_value.time) {
+            return;
+        }
+        if (time == this.cursor_value.time && breaker <= this.cursor_value.breaker) {
+            return;
+        }
+        var value = this.quote.cells[position].value
+        value.guess = guess
+        value.time = time
+        value.breaker = breaker
+        this.render()
+    }
     onKeydown(event) {
         if (event.key.match(/^[a-zA-Z0-9]$/) && !event.metaKey && !event.ctrlKey) {
             event.preventDefault()
             if (this.cursor_value.mutable) {
-                this.cursor_value.guess = event.key.toUpperCase()
+                this.set_guess(event.key.toUpperCase())
             }
             this.delta_cursor(1)
             this.saveToStorage()
@@ -236,7 +265,7 @@ class Puzzle {
             event.preventDefault()
             this.delta_cursor(-1)
             if (this.cursor_value.mutable) {
-                this.cursor_value.guess = ""
+                this.set_guess("")
             }
             this.saveToStorage()
             this.render()
@@ -258,12 +287,37 @@ class Index {
     }
 }
 
-async function load_puzzle(url) {
+async function load_puzzle(url, room) {
     var data = await fetch(url);
+    var socket
+    if (room) {
+        socket = new WebSocket(
+            room,
+            ["protocolOne",
+                "protocolTwo"]
+        );
+    }
     var puzzle = await data.json()
-    puzzle = new Puzzle(url, puzzle)
+    puzzle = new Puzzle(url, puzzle, socket)
     document.getElementById("contents").appendChild(puzzle.div)
     document.addEventListener('keydown', function (event) { puzzle.onKeydown(event) });
+    if (room) {
+        socket.addEventListener("open", (event) => {
+            console.log("connected websocket", event)
+        });
+
+        socket.addEventListener("message", (event) => {
+            let data = JSON.parse(event.data)
+            for (var x in data) {
+                puzzle.set_guess_at(x, data[x].guess, data[x].time, data[x].breaker)
+            }
+        });
+
+        socket.addEventListener("error", (event) => {
+            console.log("Error ", event);
+        });
+    }
+
 }
 
 async function load_index(url) {
@@ -277,14 +331,15 @@ async function main() {
     var params = new URLSearchParams(window.location.search)
     var puzzle = params.get("puzzle");
     var index = params.get("index");
+    var room = params.get("room");
+
     if (puzzle) {
-        await load_puzzle(puzzle)
+        await load_puzzle(puzzle, room)
     } else if (index) {
         await load_index(index)
     } else {
         load_index("./puzzles.json")
     }
-
 }
 
 window.onload = main

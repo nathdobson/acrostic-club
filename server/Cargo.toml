@@ -7,3 +7,11 @@ edition = "2021"
 
 [dependencies]
 acrostic-core = { path = "../core" }
+futures-util = "0.3.27"
+warp = "0.3.3"
+tokio = { version = "1.26.0", features = ["rt", "rt-multi-thread", "macros"] }
+pretty_env_logger = "0.4.0"
+serde = { version = "1.0.156", features = ["derive"] }
+parking_lot = "0.12.1"
+serde_json = "1.0.94"
+anyhow = "1.0.69"
