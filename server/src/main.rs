@@ -9,6 +9,7 @@ mod key_val;
 
 use std::collections::HashMap;
 use std::io;
+use std::net::SocketAddr;
 use std::sync::Arc;
 use std::sync::mpsc::RecvError;
 use futures_util::{FutureExt, SinkExt, StreamExt};
@@ -22,6 +23,7 @@ use serde_json::Value;
 use tokio::try_join;
 use crate::key_val::KeyVal;
 use crate::watch::Watchable;
+use clap::Parser;
 //
 // async fn run_socket(mut tx: SplitSink<WebSocket, Message>, mut rx: SplitStream<WebSocket>) -> Result<(), warp::Error> {
 //     while let Some(message) = rx.next().await.transpose()? {
@@ -75,9 +77,22 @@ impl RoomSet {
     }
 }
 
+#[derive(Parser, Debug)]
+struct Args {
+    #[arg(short, long, required = true)]
+    bind: SocketAddr,
+
+    #[arg(short, long, required = true)]
+    cert: String,
+
+    #[arg(short, long, required = true)]
+    key: String,
+}
+
 #[tokio::main]
 async fn main() {
     pretty_env_logger::init();
+    let args: Args = Args::parse();
 
     let room_set = RoomSet::new();
 
@@ -96,5 +111,9 @@ async fn main() {
                 })
             });
 
-    warp::serve(routes).run(([0, 0, 0, 0], 3030)).await;
+    warp::serve(routes)
+        .tls()
+        .cert_path(args.cert)
+        .key_path(args.key)
+        .run(args.bind).await;
 }

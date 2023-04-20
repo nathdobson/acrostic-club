@@ -10,3 +10,6 @@ members = [
 [profile.release]
 debug = true
 
+[profile.smol]
+inherits = "release"
+strip = true

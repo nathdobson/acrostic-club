@@ -124,6 +124,13 @@ class Puzzle {
         this.puzzle = puzzle
         this.socket = socket
         this.grids = []
+        var a = document.createElement("a")
+        if (!this.socket) {
+            a.appendChild(document.createTextNode("Enable multiplayer"))
+        }
+        console.log(window.location.href)
+        a.setAttribute("href", window.location.href + "&room=wss://ws.acrostic.club/room/" + (Math.random() + 1).toString(36).substring(7))
+        this.div.appendChild(a)
         this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
         this.quote.nodeGridHolder.className = "entry-grid-holder-quote"
@@ -165,17 +172,23 @@ class Puzzle {
         this.cursor_grid = this.quote
         this.cursor_value = this.quote.cells[0].value
         this.url = url
-        this.loadFromStorage()
-        this.render()
     }
     loadFromStorage() {
+        console.log("loadFromStorage")
         var local = JSON.parse(localStorage.getItem(this.url))
+        var upload = {}
         if (local && local.guesses) {
             for (const [index, cell] of this.quote.cells.entries()) {
                 if (cell && cell.value.mutable && local.guesses[index]) {
                     cell.value.guess = local.guesses[index]
+                    upload[index] = { time: 1, breaker: 1, guess: local.guesses[index] }
                 }
             }
+        }
+        if (this.socket) {
+            upload = JSON.stringify(upload)
+            console.log(upload)
+            this.socket.send(upload)
         }
     }
     saveToStorage() {
@@ -305,18 +318,30 @@ async function load_puzzle(url, room) {
         socket.addEventListener("open", (event) => {
             console.log("connected websocket", event)
         });
-
+        first_message = true
         socket.addEventListener("message", (event) => {
             let data = JSON.parse(event.data)
+            console.log(data)
+            if (first_message) {
+                if (Object.keys(data).length == 0) {
+                    puzzle.loadFromStorage()
+                }
+            }
+            first_message = false
             for (var x in data) {
                 puzzle.set_guess_at(x, data[x].guess, data[x].time, data[x].breaker)
             }
+            puzzle.saveToStorage();
+            puzzle.render()
         });
 
         socket.addEventListener("error", (event) => {
             console.log("Error ", event);
         });
+    } else {
+        puzzle.loadFromStorage()
     }
+    puzzle.render()
 
 }
 
