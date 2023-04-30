@@ -1,5 +1,3 @@
-const PUZZLE_WIDTH = 40
-
 class CellValue {
     constructor(id, correct) {
         this.id = id
@@ -94,18 +92,19 @@ class Grid {
     }
     delta_cell(cell, delta) {
         var index = this.cells.findIndex(c2 => cell == c2)
+        let puzzle_width = window.getComputedStyle(this.nodeGrid).gridTemplateColumns.split(" ").length
         if (delta == 1 || delta == -1) {
             index = (index + delta + this.cells.length * 100) % this.cells.length
-        } else if (delta == PUZZLE_WIDTH) {
-            index = index + PUZZLE_WIDTH
+        } else if (delta == 2) {
+            index = index + puzzle_width
             if (index > this.cells.length) {
-                index = index % PUZZLE_WIDTH
+                index = index % puzzle_width
             }
-        } else if (delta == -PUZZLE_WIDTH) {
-            index = index - PUZZLE_WIDTH
+        } else if (delta == -2) {
+            index = index - puzzle_width
             if (index < 0) {
-                while (index + PUZZLE_WIDTH < this.cells.length) {
-                    index += PUZZLE_WIDTH
+                while (index + puzzle_width < this.cells.length) {
+                    index += puzzle_width
                 }
             }
         }
@@ -256,13 +255,13 @@ class Puzzle {
         } else if (event.code == "ArrowUp") {
             event.preventDefault()
             if (this.cursor_grid == this.quote) {
-                this.delta_cursor(-PUZZLE_WIDTH)
+                this.delta_cursor(-2)
                 this.render()
             }
         } else if (event.code == "ArrowDown") {
             event.preventDefault()
             if (this.cursor_grid == this.quote) {
-                this.delta_cursor(PUZZLE_WIDTH)
+                this.delta_cursor(2)
                 this.render()
             }
         } else if (event.code == "Tab" || event.code == "Enter") {
