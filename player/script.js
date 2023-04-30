@@ -281,6 +281,14 @@ class Puzzle {
             }
             this.saveToStorage()
             this.render()
+        } else if (event.code == "Space") {
+            event.preventDefault()
+            if (this.cursor_value.mutable) {
+                this.set_guess("")
+            }
+            this.delta_cursor(1)
+            this.saveToStorage()
+            this.render()
         }
     }
 }
