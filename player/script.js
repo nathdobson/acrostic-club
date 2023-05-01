@@ -5,6 +5,7 @@ class CellValue {
         this.id = id
         this.correct = correct
         this.mutable = correct.match(/[A-Z]/i)
+        this.marker = ""
         if (!this.mutable) {
             this.guess = this.correct
         }
@@ -29,6 +30,9 @@ class Cell {
         } else if (this.value.mutable) {
             this.nodeText.nodeValue = this.value.guess
             this.nodeCell.className += "content-guess "
+            if (this.value.marker) {
+                this.nodeCell.className += "content-guess-" + this.value.marker + " "
+            }
         } else {
             this.nodeText.nodeValue = this.value.correct
             this.nodeCell.className += "content-correct "
@@ -170,6 +174,16 @@ class Puzzle {
             share_box.appendChild(div)
             this.div.appendChild(share_box)
         }
+        this.pencilp = document.createElement("p")
+        this.pencil = document.createElement("input")
+        this.pencil.type = "checkbox"
+        this.pencil.id = "pencil"
+        this.pencill = document.createElement("label")
+        this.pencill.htmlFor = "pencil"
+        this.pencill.appendChild(document.createTextNode("Pencil (key: `)"))
+        this.pencilp.appendChild(this.pencil)
+        this.pencilp.appendChild(this.pencill)
+        this.div.appendChild(this.pencilp)
         this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
         this.quote.nodeGridHolder.className = "entry-grid-holder-quote"
@@ -223,17 +237,30 @@ class Puzzle {
                 }
             }
         }
+        if (local && local.values) {
+            for (const [index, cell] of this.quote.cells.entries()) {
+                if (cell && cell.value.mutable && local.values[index]) {
+                    cell.value.guess = local.values[index].guess
+                    cell.value.marker = local.values[index].marker
+                    upload[index] = {
+                        time: 1, breaker: 1, guess: local.values[index].guess, marker: local.values[index].marker
+                    }
+                }
+            }
+        }
         if (this.socket) {
             upload = JSON.stringify(upload)
             this.socket.send(upload)
         }
     }
     saveToStorage() {
-        var guesses = []
+        var values = []
         for (const cell of this.quote.cells) {
-            guesses.push(cell.value.mutable ? cell.value.guess : null)
+            values.push(cell.value.mutable ? {
+                guess: cell.value.guess, marker: cell.value.marker
+            } : null)
         }
-        localStorage.setItem(this.url, JSON.stringify({ guesses: guesses }))
+        localStorage.setItem(this.url, JSON.stringify({ values: values }))
     }
     render() {
         this.quote.render(this.cursor_grid, this.cursor_value)
@@ -245,39 +272,44 @@ class Puzzle {
     delta_cursor(delta) {
         this.cursor_value = this.cursor_grid.delta_value(this.cursor_value, delta)
     }
-    set_guess(guess) {
+    set_guess(guess, marker) {
         var time = Date.now();
         if (this.cursor_value.time >= time) {
             time = this.cursor_value.time + 1
         }
         var breaker = Math.round(Math.random() * 1000000000);
         this.cursor_value.guess = guess
+        this.cursor_value.marker = marker
         this.cursor_value.time = time
         this.cursor_value.breaker = breaker
         if (this.socket) {
             let message = {}
-            message[this.cursor_value.id] = { time, breaker, guess: guess }
+            message[this.cursor_value.id] = { time, breaker, guess: guess, marker: marker }
             this.socket.send(JSON.stringify(message))
         }
     }
-    set_guess_at(position, guess, time, breaker) {
-        if (time < this.cursor_value.time) {
-            return;
-        }
-        if (time == this.cursor_value.time && breaker <= this.cursor_value.breaker) {
-            return;
-        }
+    set_guess_at(position, guess, marker, time, breaker) {
         var value = this.quote.cells[position].value
+        if (time < value.time) {
+            return;
+        }
+        if (time == value.time && breaker <= value.breaker) {
+            return;
+        }
         value.guess = guess
+        value.marker = marker
         value.time = time
         value.breaker = breaker
         this.render()
     }
     onKeydown(event) {
-        if (event.key.match(/^[a-zA-Z0-9]$/) && !event.metaKey && !event.ctrlKey) {
+        if (event.metaKey || event.ctrlKey) {
+            return
+        }
+        if (event.key.match(/^[a-zA-Z0-9]$/)) {
             event.preventDefault()
             if (this.cursor_value.mutable) {
-                this.set_guess(event.key.toUpperCase())
+                this.set_guess(event.key.toUpperCase(), this.pencil.checked ? "pencil" : "pen")
             }
             this.delta_cursor(1)
             this.saveToStorage()
@@ -315,18 +347,22 @@ class Puzzle {
             event.preventDefault()
             this.delta_cursor(-1)
             if (this.cursor_value.mutable) {
-                this.set_guess("")
+                this.set_guess("", "")
             }
             this.saveToStorage()
             this.render()
         } else if (event.code == "Space") {
             event.preventDefault()
             if (this.cursor_value.mutable) {
-                this.set_guess("")
+                this.set_guess("", "")
             }
             this.delta_cursor(1)
             this.saveToStorage()
             this.render()
+        } else if (event.key == "`") {
+            event.preventDefault()
+            console.log(this.pencil.checked)
+            this.pencil.checked = !this.pencil.checked
         }
     }
 }
@@ -369,7 +405,7 @@ async function load_puzzle(url, room) {
             }
             first_message = false
             for (var x in data) {
-                puzzle.set_guess_at(x, data[x].guess, data[x].time, data[x].breaker)
+                puzzle.set_guess_at(x, data[x].guess, data[x].marker, data[x].time, data[x].breaker)
             }
             puzzle.saveToStorage();
             puzzle.render()
