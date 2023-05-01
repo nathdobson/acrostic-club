@@ -1,7 +1,7 @@
 .entry-grid {
     display: grid;
     gap: 1px;
-    background: lightgrey;
+    background: rgb(209, 209, 209);
     padding: 1px;
 }
 
@@ -59,22 +59,19 @@
 }
 
 .cursor-cell {
-    background: lightgrey;
     visibility: hidden;
 }
 
 .cursor-grid {
-    background: lightgrey;
     visibility: hidden;
 }
 
 .cursor-none {
-    background: white;
     visibility: hidden;
 }
 
 .content-guess {
-    background: white;
+    background: rgb(255, 255, 255);
 }
 
 .content-guess-both {
@@ -95,16 +92,64 @@
 
 .content-guess-pencil {
     color: rgb(169, 169, 169);
+    font-style: italic;
 }
 
 .content-guess-none {
-    background: white;
+    background: rgb(255, 255, 255);
 }
 
 .content-correct {
-    background: white;
+    background: rgb(255, 255, 255);
 }
 
 .content-space {
-    background: black;
+    background: rgb(0, 0, 0);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0)
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: rgb(25, 25, 25);
+        color: rgb(220, 220, 220)
+    }
+
+    a:link {
+        color: rgb(115, 130, 250);
+    }
+
+    /* visited link */
+    a:visited {
+        color: rgb(180, 110, 250);
+    }
+
+    /* selected link */
+    a:active {
+        color: rgb(230, 20, 30);
+    }
+
+    .content-guess {
+        background: rgb(25, 25, 25);
+    }
+
+    .content-space {
+        background: rgb(123, 123, 123);
+    }
+
+    .entry-grid {
+        background: rgb(136, 136, 136)
+    }
+
+    .content-guess-pen {
+        color: rgb(238, 238, 238);
+    }
+
+    .content-guess-pencil {
+        color: rgb(125, 125, 125);
+    }
+
 }
