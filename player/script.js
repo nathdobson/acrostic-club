@@ -1,3 +1,5 @@
+CELL_SIZE = 10
+
 class CellValue {
     constructor(id, correct) {
         this.id = id
@@ -17,9 +19,6 @@ class Cell {
         this.nodeCursor = document.createElement("div")
         this.nodeCell.appendChild(this.nodeCursor)
         this.value = value
-        // this.nodeCell.addEventListener("click", function (e) {
-        //     console.log(e)
-        // })
     }
     render(selected_grid, selected_value) {
         this.nodeCell.className = "entry-cell "
@@ -49,7 +48,6 @@ class Cell {
                 this.nodeCursor.className += "cursor-none "
             }
         }
-        // this.nodeCell.className = clazz
     }
 }
 
@@ -62,16 +60,20 @@ class Grid {
         this.nodeGridHolder.appendChild(this.nodeGrid)
         var grid = this
         this.nodeGrid.addEventListener("click", function (e) {
-
-            for (const cell of grid.cells) {
+            for (var i = 0; i < grid.cells.length; i++) {
+                var cell = grid.cells[i]
                 var rect = cell.nodeCell.getBoundingClientRect();
                 var x = e.clientX - rect.left; //x position within the element.
                 var y = e.clientY - rect.top;
-                if (e.clientY > rect.top && e.clientY < rect.bottom && e.clientX > rect.left - 10 && e.clientX < rect.right - 10) {
+                var right = rect.right
+                if (i == grid.cells.length - 1) {
+                    right = Infinity
+                }
+                if (e.clientY >= rect.top && e.clientY < rect.bottom && e.clientX >= rect.left - CELL_SIZE && e.clientX < right - CELL_SIZE) {
                     puzzle.cursor_value = cell.value
                     puzzle.cursor_grid = grid
                     puzzle.render()
-                    break;
+                    return;
                 }
             }
         })
