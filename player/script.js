@@ -38,14 +38,26 @@ class Cell {
         if (selected_grid) {
             if (selected_value == this.value) {
                 this.nodeCursor.className += "cursor-both "
+                if (this.value.mutable) {
+                    this.nodeCell.className += "content-guess-both "
+                }
             } else {
                 this.nodeCursor.className += "cursor-grid "
+                if (this.value.mutable) {
+                    this.nodeCell.className += "content-guess-grid "
+                }
             }
         } else {
             if (selected_value == this.value) {
                 this.nodeCursor.className += "cursor-cell "
+                if (this.value.mutable) {
+                    this.nodeCell.className += "content-guess-cell "
+                }
             } else {
                 this.nodeCursor.className += "cursor-none "
+                if (this.value.mutable) {
+                    this.nodeCell.className += "content-guess-none "
+                }
             }
         }
     }

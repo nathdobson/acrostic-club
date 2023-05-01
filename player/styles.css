@@ -76,6 +76,22 @@
     background: white;
 }
 
+.content-guess-both {
+    background: rgb(214, 214, 255)
+}
+
+.content-guess-cell {
+    background: rgb(199, 199, 199)
+}
+
+.content-guess-grid {
+    background: rgb(240, 240, 255)
+}
+
+.content-guess-none {
+    background: white
+}
+
 .content-correct {
     background: white;
 }
