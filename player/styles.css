@@ -43,6 +43,7 @@
     position: relative;
     width: 20px;
     height: 20px;
+    user-select: none;
 }
 
 .cursor {
@@ -89,7 +90,7 @@
 }
 
 .content-guess-none {
-    background: white
+    background: white;
 }
 
 .content-correct {
