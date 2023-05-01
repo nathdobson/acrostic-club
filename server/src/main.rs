@@ -1,4 +1,5 @@
 #![feature(option_get_or_insert_default)]
+#![feature(future_join)]
 #![allow(unused_imports)]
 #![deny(unused_must_use)]
 #![allow(unused_variables, dead_code)]
@@ -8,10 +9,12 @@ pub mod watch;
 mod key_val;
 
 use std::collections::HashMap;
-use std::io;
+use std::future::join;
+use std::{io, thread};
 use std::net::SocketAddr;
 use std::sync::Arc;
 use std::sync::mpsc::RecvError;
+use std::time::Duration;
 use futures_util::{FutureExt, SinkExt, StreamExt};
 use futures_util::stream::{SplitSink, SplitStream};
 use parking_lot::Mutex;
@@ -24,13 +27,7 @@ use tokio::try_join;
 use crate::key_val::KeyVal;
 use crate::watch::Watchable;
 use clap::Parser;
-//
-// async fn run_socket(mut tx: SplitSink<WebSocket, Message>, mut rx: SplitStream<WebSocket>) -> Result<(), warp::Error> {
-//     while let Some(message) = rx.next().await.transpose()? {
-//         tx.send(message).await?;
-//     }
-//     Ok(())
-// }
+use log::LevelFilter;
 
 #[derive(Default)]
 pub struct RoomState {
@@ -79,8 +76,11 @@ impl RoomSet {
 
 #[derive(Parser, Debug)]
 struct Args {
-    #[arg(short, long, required = true)]
-    bind: SocketAddr,
+    #[arg(long, required = true)]
+    bind_http: Option<SocketAddr>,
+
+    #[arg(long, required = true)]
+    bind_https: Option<SocketAddr>,
 
     #[arg(short, long, required = true)]
     cert: String,
@@ -90,12 +90,10 @@ struct Args {
 }
 
 #[tokio::main]
-async fn main() {
-    pretty_env_logger::init();
+async fn main() -> io::Result<()> {
+    simple_logging::log_to_file("server.log", LevelFilter::Trace)?;
     let args: Args = Args::parse();
-
     let room_set = RoomSet::new();
-
     let routes =
         warp::path("room")
             .and(warp::path::param())
@@ -104,16 +102,31 @@ async fn main() {
                 println!("Handling");
                 let room_set = room_set.clone();
                 ws.on_upgrade(|websocket| async move {
+                    println!("Upgraded");
                     let (tx, rx) = websocket.split();
                     if let Err(e) = room_set.run_socket(&name, tx, rx).await {
-                        eprintln!("websocket error: {:?}", e);
+                        eprintln!("Websocket error: {:?}", e);
                     }
                 })
-            });
-
-    warp::serve(routes)
-        .tls()
-        .cert_path(args.cert)
-        .key_path(args.key)
-        .run(args.bind).await;
+            }).or(
+            warp::path("test").map(|| {
+                "Hello"
+            })
+        );
+    let http = async {
+        if let Some(bind_http) = args.bind_http {
+            warp::serve(routes.clone()).run(bind_http).await;
+        }
+    };
+    let https = async {
+        if let Some(bind_https) = args.bind_https {
+            warp::serve(routes.clone())
+                .tls()
+                .cert_path(args.cert)
+                .key_path(args.key)
+                .run(bind_https).await;
+        }
+    };
+    join!(http, https).await;
+    Ok(())
 }

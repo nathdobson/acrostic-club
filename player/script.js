@@ -125,13 +125,39 @@ class Puzzle {
         this.puzzle = puzzle
         this.socket = socket
         this.grids = []
-        var a = document.createElement("a")
         if (!this.socket) {
+            var a = document.createElement("a")
             a.appendChild(document.createTextNode("Enable multiplayer"))
+            a.setAttribute("href", window.location.href + "&room=wss://ws.acrostic.club/room/" + (Math.random() + 1).toString(36).substring(7))
+            this.div.appendChild(a)
+        } else {
+            let share_box = document.createElement("p")
+            let input = document.createElement("input")
+            input.type = "text"
+            input.value = window.location.href
+            input.readonly = "readonly"
+            share_box.appendChild(input)
+            let button = document.createElement("button")
+            button.appendChild(document.createTextNode("Copy multiplayer link"))
+            let div = document.createElement("span")
+            alert = document.createTextNode("Copied multiplayer link to clipboard.")
+            div.style.display = "none"
+            button.addEventListener("click", () => {
+                input.select()
+                input.setSelectionRange(0, 9999)
+                navigator.clipboard.writeText(window.location.href)
+                if (div.style.display == "none") {
+                    div.style.display = ""
+                    setTimeout(() => {
+                        div.style.display = "none"
+                    }, 3000)
+                }
+            })
+            share_box.appendChild(button);
+            div.appendChild(alert)
+            share_box.appendChild(div)
+            this.div.appendChild(share_box)
         }
-        console.log(window.location.href)
-        a.setAttribute("href", window.location.href + "&room=wss://ws.acrostic.club/room/" + (Math.random() + 1).toString(36).substring(7))
-        this.div.appendChild(a)
         this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
         this.quote.nodeGridHolder.className = "entry-grid-holder-quote"
@@ -175,7 +201,6 @@ class Puzzle {
         this.url = url
     }
     loadFromStorage() {
-        console.log("loadFromStorage")
         var local = JSON.parse(localStorage.getItem(this.url))
         var upload = {}
         if (local && local.guesses) {
@@ -188,7 +213,6 @@ class Puzzle {
         }
         if (this.socket) {
             upload = JSON.stringify(upload)
-            console.log(upload)
             this.socket.send(upload)
         }
     }
@@ -313,11 +337,7 @@ async function load_puzzle(url, room) {
     var data = await fetch(url);
     var socket
     if (room) {
-        socket = new WebSocket(
-            room,
-            ["protocolOne",
-                "protocolTwo"]
-        );
+        socket = new WebSocket(room);
     }
     var puzzle = await data.json()
     puzzle = new Puzzle(url, puzzle, socket)
@@ -330,7 +350,6 @@ async function load_puzzle(url, room) {
         first_message = true
         socket.addEventListener("message", (event) => {
             let data = JSON.parse(event.data)
-            console.log(data)
             if (first_message) {
                 if (Object.keys(data).length == 0) {
                     puzzle.loadFromStorage()
