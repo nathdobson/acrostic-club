@@ -112,6 +112,10 @@ body {
     color: rgb(0, 0, 0)
 }
 
+.solution {
+    font-size: 20px;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: rgb(25, 25, 25);

@@ -184,6 +184,13 @@ class Puzzle {
         this.pencilp.appendChild(this.pencil)
         this.pencilp.appendChild(this.pencill)
         this.div.appendChild(this.pencilp)
+
+        this.solution = document.createElement("p")
+        this.solution.className = "solution"
+        this.solution.appendChild(document.createTextNode(puzzle.quote))
+        this.solution.style.display = "none"
+        this.div.appendChild(this.solution)
+
         this.quote = new Grid(this)
         this.quote.nodeGrid.className += " entry-grid-quote"
         this.quote.nodeGridHolder.className = "entry-grid-holder-quote"
@@ -268,6 +275,13 @@ class Puzzle {
         for (var clue of this.clues) {
             clue.render(this.cursor_grid, this.cursor_value)
         }
+        var incorrect = 0
+        for (var cell of this.quote.cells) {
+            if (cell.value.guess != cell.value.correct) {
+                incorrect += 1
+            }
+        }
+        this.solution.style.display = incorrect == 0 ? "block" : "none"
     }
     delta_cursor(delta) {
         this.cursor_value = this.cursor_grid.delta_value(this.cursor_value, delta)
@@ -361,7 +375,6 @@ class Puzzle {
             this.render()
         } else if (event.key == "`") {
             event.preventDefault()
-            console.log(this.pencil.checked)
             this.pencil.checked = !this.pencil.checked
         }
     }
