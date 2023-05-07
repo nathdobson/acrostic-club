@@ -63,6 +63,7 @@ pub mod chat;
 pub mod clues;
 pub mod site;
 pub mod util;
+pub mod morphology;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
