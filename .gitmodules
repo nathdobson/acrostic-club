@@ -4,3 +4,6 @@
 [submodule "submodules/Quotes-500K"]
 	path = submodules/Quotes-500K
 	url = https://github.com/nathdobson/Quotes-500K.git
+[submodule "submodules/catvar"]
+	path = submodules/catvar
+	url = https://github.com/nizarhabash1/catvar.git
