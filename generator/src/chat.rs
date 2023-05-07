@@ -126,15 +126,15 @@ You are a crossword clue generator that follows precise rules:
 async fn test_clue_client() -> anyhow::Result<()> {
     let client = ClueClient::new();
     let start = Instant::now();
-    let clues = client.create_clue("acerbic").await?;
+    let clues = client.create_clue("netball").await?;
     println!("{:?}", clues);
-    for x in clues.into_iter().map(|clue| spawn({
-        let client = client.clone();
-        async move {
-            client.solve_clue(&clue).await
-        }
-    })) {
-        x.await??;
-    };
+    // for x in clues.into_iter().map(|clue| spawn({
+    //     let client = client.clone();
+    //     async move {
+    //         client.solve_clue(&clue).await
+    //     }
+    // })) {
+    //     x.await??;
+    // };
     Ok(())
 }

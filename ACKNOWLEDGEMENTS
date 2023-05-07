@@ -12,3 +12,6 @@ This project draws upon several data sources for generating puzzles:
 
 3. The ChatGPT API for clue generation:
     https://platform.openai.com/docs/guides/chat
+
+4. The Dbnary project for etymology:
+    http://kaiko.getalp.org/about-dbnary/download/
