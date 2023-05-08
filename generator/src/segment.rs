@@ -61,6 +61,10 @@ fn get_letters(input: &str) -> String {
     cells
 }
 
+pub fn get_alpha(x: &str) -> Vec<Letter> {
+    segment(x).into_iter().flat_map(|x| x.left()).collect()
+}
+
 pub async fn add_letters(pindex: usize) -> io::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage0.json").await?;
     puzzle

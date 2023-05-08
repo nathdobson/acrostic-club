@@ -36,3 +36,9 @@ rand_xorshift = "0.3.0"
 acrostic-core = { path = "../core" }
 any_ascii = "0.1.2"
 anyhow = "1.0.69"
+#turtle-syntax = { path = "../submodules/turtle-syntax" }
+codespan-reporting = "0.11.1"
+locspan = "0.7.13"
+rio_turtle = "0.8.2"
+rio_api = "0.8.2"
+ustr = "0.9.0"

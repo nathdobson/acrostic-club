@@ -16,6 +16,8 @@
 #![feature(type_alias_impl_trait)]
 #![feature(const_async_blocks)]
 #![feature(try_blocks)]
+#![feature(trait_alias)]
+#![feature(trait_upcasting)]
 
 extern crate core;
 
@@ -67,6 +69,7 @@ pub mod morphology;
 pub mod string;
 pub mod auto_morph;
 pub mod etymology;
+pub mod ontology;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
