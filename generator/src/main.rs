@@ -64,6 +64,9 @@ pub mod clues;
 pub mod site;
 pub mod util;
 pub mod morphology;
+pub mod string;
+pub mod auto_morph;
+pub mod etymology;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
