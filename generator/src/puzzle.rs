@@ -1,6 +1,5 @@
 use std::{fs, io};
 
-use chat_gpt_lib_rs::ChatResponse;
 use serde::{Deserialize, Serialize};
 use crate::{PACKAGE_PATH, read_path_to_string, write_path};
 

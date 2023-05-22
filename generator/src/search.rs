@@ -17,6 +17,7 @@ use crate::dict::FlatWord;
 use crate::model::{Model, Word};
 use crate::puzzle::{Clue, Puzzle};
 use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
+use crate::util::lazy_async::CloneError;
 
 pub struct Search {
     table: &'static FlatTrieTable,
@@ -30,7 +31,7 @@ pub struct Search {
 impl Search {
     pub async fn new(quote: LetterSet, source: Vec<Letter>, seed: u64) -> io::Result<Self> {
         Ok(Search {
-            table: FLAT_TRIE_TABLE.get_io().await?,
+            table: FLAT_TRIE_TABLE.get().await.clone_error()?,
             cache: Default::default(),
             access: 0,
             quote,
@@ -310,10 +311,10 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
 async fn test_search() -> io::Result<()> {
     let firsts = (Letter::new(b'e').unwrap(), Letter::new(b'i').unwrap());
     let word = LetterSet::from_str("AEEEEEEEEEEEGIIKKKKLLLNNNOPPTTTWWWW");
-    FLAT_TRIE_TABLE.get_io().await?;
+    FLAT_TRIE_TABLE.get().await.clone_error()?;
     let start = Instant::now();
     for i in 0..10000 {
-        FLAT_TRIE_TABLE.get_io().await?.binary.get(&firsts).unwrap().search_smallest_subset(word, 16);
+        FLAT_TRIE_TABLE.get().await.clone_error()?.binary.get(&firsts).unwrap().search_smallest_subset(word, 16);
     }
     println!("{:?}", start.elapsed());
     Ok(())

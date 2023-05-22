@@ -6,12 +6,14 @@ use std::time::Instant;
 use itertools::{peek_nth, PeekNth};
 use rand::seq::SliceRandom;
 use rand::thread_rng;
+use safe_once_async::sync::AsyncLazyStatic;
 use serde::Deserialize;
 use serde::Serialize;
 
 use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
 use crate::puzzle::Puzzle;
-use crate::util::lazy_async::LazyAsync;
+use crate::util::lazy_async::CloneError;
+// use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;
 
@@ -22,10 +24,8 @@ pub struct Quote {
     pub topics: Vec<String>,
 }
 
-pub static QUOTES: LazyLock<LazyAsync<io::Result<Vec<Quote>>>> = LazyLock::new(|| {
-    LazyAsync::new(async {
-        Ok(serde_json::from_str(&read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?)?)
-    })
+pub static QUOTES: AsyncLazyStatic<io::Result<Vec<Quote>>> = AsyncLazyStatic::new_static(async {
+    Ok(serde_json::from_str(&read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?)?)
 });
 
 struct Parser<'a>(PeekNth<slice::Iter<'a, u8>>);
@@ -141,7 +141,7 @@ pub async fn build_quotes() -> io::Result<()> {
 
 
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
-    let mut quotes = QUOTES.get_io().await?;
+    let mut quotes = QUOTES.get().await.clone_error()?;
     let quote = &quotes[pindex];
     if !(quote.source.len() > 24
         && quote.source.len() <= 26

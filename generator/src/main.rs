@@ -18,6 +18,9 @@
 #![feature(try_blocks)]
 #![feature(trait_alias)]
 #![feature(trait_upcasting)]
+#![feature(error_generic_member_access)]
+#![feature(provide_any)]
+#![feature(impl_trait_in_assoc_type)]
 
 extern crate core;
 
@@ -52,6 +55,7 @@ use crate::quote::add_quote;
 use crate::search::add_answers;
 use crate::segment::add_letters;
 use crate::site::build_site;
+use crate::turtle::build_turtle;
 
 pub mod dict;
 pub mod trie;
@@ -70,6 +74,10 @@ pub mod string;
 pub mod auto_morph;
 pub mod etymology;
 pub mod ontology;
+pub mod turtle;
+pub mod chat_client;
+pub mod key_value_file;
+pub mod gpt;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -107,7 +115,7 @@ fn quote_letters() -> LetterSet { LetterSet::from_str(QUOTE) }
 fn author_title_letters() -> LetterSet { LetterSet::from_str(AUTHOR_TITLE) }
 
 #[tokio::main]
-async fn main() -> io::Result<()> {
+async fn main() -> anyhow::Result<()> {
     let mut args = std::env::args();
     args.next().unwrap();
     match args.next().as_deref() {
@@ -116,6 +124,7 @@ async fn main() -> io::Result<()> {
             Some("dict") => build_dict().await?,
             Some("trie") => build_trie().await?,
             Some("site") => build_site().await?,
+            Some("turtle") => build_turtle().await?,
             x => panic!("Unknown global target {:?}", x),
         }
         Some("puzzle") => {

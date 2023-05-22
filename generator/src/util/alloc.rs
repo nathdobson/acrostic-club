@@ -21,7 +21,7 @@ unsafe impl Allocator for MmapAllocator {
     unsafe fn deallocate(&self, ptr: NonNull<u8>, layout: Layout) {}
 }
 
-pub unsafe trait AnyRepr {}
+pub unsafe trait AnyRepr: Send + Sync {}
 
 unsafe impl AnyRepr for u32 {}
 
