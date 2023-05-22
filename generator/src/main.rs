@@ -78,6 +78,7 @@ pub mod turtle;
 pub mod chat_client;
 pub mod key_value_file;
 pub mod gpt;
+pub mod conflict_set;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;

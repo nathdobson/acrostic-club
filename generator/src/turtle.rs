@@ -90,6 +90,9 @@ impl Turtle {
     pub fn debug<'a>(&'a self, index: TurtleIndex) -> TurtleDebug<'a> {
         TurtleDebug(self, index)
     }
+    pub fn debug_all<'a>(&'a self, input: impl IntoIterator<Item=TurtleIndex>) -> Vec<TurtleDebug<'a>> {
+        input.into_iter().map(|x| self.debug(x)).collect()
+    }
     pub fn get_forward(&self, s: TurtleIndex, p: TurtleIndex) -> Vec<TurtleIndex> {
         self.forward.get_edges(s, p)
     }
@@ -141,12 +144,12 @@ impl<'a> Debug for TurtleDebug<'a> {
         let mut m = f.debug_map();
         m.entry(&"index", &self.1);
         m.entry(&"name", &self.0.get_name(self.1));
-        for (p, o) in self.0.forward.get_node(self.1) {
-            m.entry(&self.0.get_name(p), &self.0.get_name(o));
-        }
-        for (p, s) in self.0.reverse.get_node(self.1) {
-            m.entry(&format!("reverse {:?}", self.0.get_name(p)), &self.0.get_name(s));
-        }
+        // for (p, o) in self.0.forward.get_node(self.1) {
+        //     m.entry(&self.0.get_name(p), &self.0.get_name(o));
+        // }
+        // for (p, s) in self.0.reverse.get_node(self.1) {
+        //     m.entry(&format!("reverse {:?}", self.0.get_name(p)), &self.0.get_name(s));
+        // }
         m.finish()
     }
 }
