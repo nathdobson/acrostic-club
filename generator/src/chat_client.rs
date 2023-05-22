@@ -1,7 +1,10 @@
+use std::any::Any;
 use std::default::default;
 use std::future::Future;
 use std::io;
 use std::path::Path;
+use backoff::backoff::Backoff;
+use backoff::ExponentialBackoff;
 use reqwest::header::{AUTHORIZATION, HeaderMap, HeaderValue};
 use crate::key_value_file::KeyValueFile;
 use serde::Serialize;
@@ -10,6 +13,7 @@ use tokio::fs;
 use chrono::{DateTime, Utc};
 use futures::future::BoxFuture;
 use futures::FutureExt;
+use tokio::time::sleep;
 use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
 use crate::PACKAGE_PATH;
 
@@ -26,20 +30,29 @@ pub trait ChatClient: Send + Sync + 'static {
 impl ChatClient for BaseClient {
     fn chat<'a>(&'a self, input: ChatRequest) -> BoxFuture<'a, anyhow::Result<ChatResponse>> {
         async move {
-            let resp =
-                self.inner.post(format!("{}{}", self.base_url, input.endpoint.as_uri()))
-                    .json(&input.body)
-                    .send().await?
-                    .bytes().await?;
-            match serde_json::from_slice::<ChatResponseResult>(&resp) {
-                Ok(ChatResponseResult::ChatResponse(x)) => Ok(x),
-                Ok(ChatResponseResult::ChatResponseError(x)) => {
-                    println!("{:?}", resp);
-                    Err(x)?
-                }
-                Err(e) => {
-                    println!("{:?}", resp);
-                    Err(e.into())
+            let mut backoff = ExponentialBackoff::default();
+            loop {
+                let resp =
+                    self.inner.post(format!("{}{}", self.base_url, input.endpoint.as_uri()))
+                        .json(&input.body)
+                        .send().await?
+                        .bytes().await?;
+                match serde_json::from_slice::<ChatResponseResult>(&resp) {
+                    Ok(ChatResponseResult::ChatResponse(x)) => return Ok(x),
+                    Ok(ChatResponseResult::ChatResponseError(x)) => {
+                        eprintln!("{:?}", resp);
+                        if x.error.typ == "server_error" {
+                            if let Some(backoff) = backoff.next_backoff() {
+                                sleep(backoff).await;
+                                continue;
+                            }
+                        }
+                        return Err(x.into());
+                    }
+                    Err(e) => {
+                        eprintln!("{:?}", resp);
+                        return Err(e.into());
+                    }
                 }
             }
         }.boxed()

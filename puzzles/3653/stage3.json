@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDTHEFOUNTAINHEAD",
   "clues": [
     {
-      "clue": null,
+      "clue": "Power to command and enforce obedience.",
       "answer": "authority",
       "answer_letters": "AUTHORITY",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Having the characteristics of a young person.",
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A female name commonly used in Russia and Eastern Europe.",
       "answer": "nikita",
       "answer_letters": "NIKITA",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Showing no mercy or compassion.",
       "answer": "ruthless",
       "answer_letters": "RUTHLESS",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Once and future king of Camelot.",
       "answer": "arthur",
       "answer_letters": "ARTHUR",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Most recent.",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A type of tree that sheds its leaves annually.",
       "answer": "deciduous",
       "answer_letters": "DECIDUOUS",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A contraction used to shorten \"they have\".",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Last name of Australian tennis player who won two grand slam singles titles.",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "To provide someone with a job or work opportunity.",
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Natural disasters that cause abundant water inundation.",
       "answer": "floods",
       "answer_letters": "FLOODS",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A state in eastern India with a rich history and diverse culture.",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Beneficial or helpful in some way.",
       "answer": "useful",
       "answer_letters": "USEFUL",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A Scandinavian country known for its fjords and vibrant auroras.",
       "answer": "norway",
       "answer_letters": "NORWAY",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A contraction used to shorten \"they have\".",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Mixture of metals.",
       "answer": "alloys",
       "answer_letters": "ALLOYS",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Problems or challenges that arise in a situation.",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A term used to refer to no person or somebody of no importance.",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Having caught with a curved object.",
       "answer": "hooked",
       "answer_letters": "HOOKED",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Mistakes that were made.",
       "answer": "errors",
       "answer_letters": "ERRORS",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "To stick or bind firmly.",
       "answer": "adhere",
       "answer_letters": "ADHERE",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Famous character from a TV show set in an office.",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -301,5 +301,5 @@
       ]
     }
   ],
-  "chat": "authority - Control center for information\nyouthful - Energetic and bright\nnikita - Fictional spy character\nruthless - Without mercy\narthur - Mythical king of Britain\nnewest - Most recent\ndeciduous - Shedding leaves annually\nthey've - They have\nhewitt - Surname of a tennis player\nemploy - To hire someone for work\nfloods - Natural disasters that cause water overflows\nodisha - State in India\nuseful - Beneficial\nnorway - Northern European country\nthey've - They have\nalloys - Mixture of metals\nissues - Problems\nnobody - No one\nhooked - Addicted\nerrors - Mistakes\nadhere - Stick to something\ndwight - First name of a US president"
+  "chat": null
 }

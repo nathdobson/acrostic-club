@@ -96,6 +96,43 @@ impl<T> CloneError for io::Result<T> {
     }
 }
 
+struct AnyhowRef(&'static anyhow::Error);
+        impl Debug for AnyhowRef {
+            fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
+                Debug::fmt(self.0, f)
+            }
+        }
+        impl Display for AnyhowRef {
+            fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
+                Display::fmt(self.0, f)
+            }
+        }
+        impl std::error::Error for AnyhowRef {
+            fn source(&self) -> Option<&(dyn std::error::Error + 'static)> {
+                self.0.source()
+            }
+            #[allow(deprecated)]
+            fn description(&self) -> &str {
+                self.0.description()
+            }
+            #[allow(deprecated)]
+            fn cause(&self) -> Option<&dyn std::error::Error> {
+                self.0.cause()
+            }
+            fn provide<'a>(&'a self, demand: &mut std::any::Demand<'a>) {
+                self.0.provide(demand)
+            }
+        }
+
+
+impl<T> CloneError for anyhow::Result<T> {
+    type Value = T;
+    type Error = anyhow::Error;
+    fn clone_error(&'static self) -> Result<&'static Self::Value, Self::Error> {
+        self.as_ref().map_err(|e| anyhow::Error::new(AnyhowRef(e)))
+    }
+}
+
 impl<T: AnyRepr> LazyMmap<T> {
     pub const fn new(path: PathBuf) -> Self {
         LazyMmap(AsyncLazyStatic::new_static(async move {

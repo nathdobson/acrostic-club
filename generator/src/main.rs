@@ -83,10 +83,13 @@ pub mod gpt;
 static GLOBAL: Jemalloc = Jemalloc;
 
 pub static PACKAGE_PATH: LazyLock<PathBuf> =
-    LazyLock::new(||
-        PathBuf::from(env::var("CARGO_MANIFEST_DIR")
-            .unwrap_or("".to_string()))
-            .join(".."));
+    LazyLock::new(|| {
+        let path = env::var("CARGO_MANIFEST_DIR")
+            .map(|x| PathBuf::from(x).join(".."))
+            .unwrap_or(PathBuf::from(env::current_dir().unwrap()));
+        println!("PACKAGE_PATH = {:?}", path);
+        path
+    });
 
 pub async fn read_path(path: &Path) -> io::Result<Vec<u8>> {
     tokio::fs::read(path).await.map_err(|e| io::Error::new(e.kind(), format!("Cannot read {:?}: {}", path, e)))

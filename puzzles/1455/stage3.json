@@ -5,7 +5,7 @@
   "source_letters": "RAINBOWROWELLCARRYON",
   "clues": [
     {
-      "clue": null,
+      "clue": "A network of transport for trains.",
       "answer": "railways",
       "answer_letters": "RAILWAYS",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "One of the largest media and entertainment corporations in the Philippines.",
       "answer": "abs-cbn",
       "answer_letters": "ABSCBN",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Suggested or pointed out.",
       "answer": "indicated",
       "answer_letters": "INDICATED",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A team sport played with a ball and hoops, primarily by women.",
       "answer": "netball",
       "answer_letters": "NETBALL",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Indicating size, it refers to the largest of its kind.",
       "answer": "biggest",
       "answer_letters": "BIGGEST",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "The result or consequence of an event or action.",
       "answer": "outcome",
       "answer_letters": "OUTCOME",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A type of hard liquor commonly distilled from grains.",
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A pattern of musical beats and rests.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Capital city of Canada.",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Happening once every seven days.",
       "answer": "weekly",
       "answer_letters": "WEEKLY",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "People hailing from the continent east of the Atlantic.",
       "answer": "europeans",
       "answer_letters": "EUROPEANS",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "An arrangement of elements in a design.",
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A type of cancer affecting blood cells.",
       "answer": "leukemia",
       "answer_letters": "LEUKEMIA",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A written order for payment.",
       "answer": "checks",
       "answer_letters": "CHECKS",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Having more than one meaning or interpretation.",
       "answer": "ambiguous",
       "answer_letters": "AMBIGUOUS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Easily or without difficulty.",
       "answer": "readily",
       "answer_letters": "READILY",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Aquatic plants with long, slender leaves.",
       "answer": "rushes",
       "answer_letters": "RUSHES",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "A town in Somerset, England.",
       "answer": "yeovil",
       "answer_letters": "YEOVIL",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Ensembles worn for a specific occasion.",
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue": "Time period when the stars come out to play.",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -284,5 +284,5 @@
       ]
     }
   ],
-  "chat": "railways - Tracks for transportation of goods\nabs-cbn - Major Philippine media company\nindicated - Pointed out or suggested\nnetball - Non-contact ball sport played mainly by women\nbiggest - Largest in size or amount\noutcome - Result or consequence of an action\nwhiskey - Alcoholic beverage made from fermented grains\nrhythm - Pattern of sound or movement\nottawa - Capital city of Canada\nweekly - Occurring once a week\neuropeans - People from the continent of Europe\nlayout - Arrangement or plan of something\nleukemia - Type of blood cancer\nchecks - Inspects or examines\nambiguous - Unclear or open to interpretation\nreadily - Easily or without hesitation\nrushes - Moves quickly or hastily\nyeovil - Town in Somerset, England\noutfits - Sets of clothing for a particular purpose\nnights - Periods of darkness between sunset and sunrise."
+  "chat": null
 }

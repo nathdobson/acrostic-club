@@ -117,15 +117,16 @@ pub struct ChatResponse {
 
 #[derive(Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Hash, Clone, Debug)]
 pub struct ChatResponseErrorInner {
-    message: String,
+    pub message: String,
     #[serde(rename = "type")]
-    typ: String,
-    code: String,
+    pub typ: String,
+    pub param: Option<String>,
+    pub code: Option<String>,
 }
 
 #[derive(Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Hash, Clone, Debug)]
 pub struct ChatResponseError {
-    error: ChatResponseErrorInner,
+    pub error: ChatResponseErrorInner,
 }
 
 impl Display for ChatResponseError {
