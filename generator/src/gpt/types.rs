@@ -1,3 +1,5 @@
+use std::error::Error;
+use std::fmt::{Debug, Display, Formatter};
 use chrono::{DateTime, Utc};
 use serde::Serialize;
 use serde::Deserialize;
@@ -111,6 +113,34 @@ pub struct ChatResponse {
     pub created: DateTime<Utc>,
     pub choices: Vec<ChatChoice>,
     pub usage: ChatUsage,
+}
+
+#[derive(Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Hash, Clone, Debug)]
+pub struct ChatResponseErrorInner {
+    message: String,
+    #[serde(rename = "type")]
+    typ: String,
+    code: String,
+}
+
+#[derive(Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Hash, Clone, Debug)]
+pub struct ChatResponseError {
+    error: ChatResponseErrorInner,
+}
+
+impl Display for ChatResponseError {
+    fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
+        Debug::fmt(self, f)
+    }
+}
+
+impl Error for ChatResponseError {}
+
+#[derive(Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Hash, Clone, Debug)]
+#[serde(untagged)]
+pub enum ChatResponseResult {
+    ChatResponse(ChatResponse),
+    ChatResponseError(ChatResponseError),
 }
 
 #[derive(Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Hash, Clone, Debug)]

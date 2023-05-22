@@ -49,7 +49,7 @@ use dict::build_dict;
 use quote::build_quotes;
 use trie::build_trie;
 
-use crate::chat::add_chat;
+use crate::chat::{add_chat, ClueClient};
 use crate::clues::add_clues;
 use crate::quote::add_quote;
 use crate::search::add_answers;
@@ -129,7 +129,7 @@ async fn main() -> anyhow::Result<()> {
         }
         Some("puzzle") => {
             let target = args.next().unwrap();
-            let mut errors: Vec<io::Error> = vec![];
+            let mut errors: Vec<anyhow::Error> = vec![];
             let mut puzzles = BTreeSet::new();
             for puzzle in args {
                 if let Some((start, end)) = puzzle.split_once("-") {
@@ -140,24 +140,28 @@ async fn main() -> anyhow::Result<()> {
                     puzzles.insert(puzzle.parse().unwrap());
                 }
             }
+            let mut client = ClueClient::new().await?;
             for puzzle in puzzles {
-                let e: io::Result<()> = try {
+                let e: anyhow::Result<()> = try {
                     match target.deref() {
                         "quote" => add_quote(puzzle).await?,
                         "letters" => add_letters(puzzle).await?,
                         "answers" => add_answers(puzzle).await?,
-                        "chat" => add_chat(puzzle).await?,
+                        "chat" => add_chat(puzzle, &client).await?,
                         "clues" => add_clues(puzzle).await?,
                         x => panic!("Unknown puzzle target {}", x)
                     }
                 };
                 if let Err(e) = e {
-                    if e.kind() != io::ErrorKind::NotFound {
+                    if e.downcast_ref::<io::Error>()
+                        .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
+                    {
                         eprintln!("puzzle={} {:?}", puzzle, e);
                         errors.push(e)
                     }
                 }
             }
+            client.shutdown().await?;
             // eprintln!("{:?}", errors);
         }
         x => panic!("Unknown root command {:?}", x),

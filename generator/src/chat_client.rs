@@ -10,7 +10,7 @@ use tokio::fs;
 use chrono::{DateTime, Utc};
 use futures::future::BoxFuture;
 use futures::FutureExt;
-use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatRole, Endpoint, Model};
+use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
 use crate::PACKAGE_PATH;
 
 pub struct BaseClient {
@@ -31,7 +31,17 @@ impl ChatClient for BaseClient {
                     .json(&input.body)
                     .send().await?
                     .bytes().await?;
-            Ok(serde_json::from_slice(&resp)?)
+            match serde_json::from_slice::<ChatResponseResult>(&resp) {
+                Ok(ChatResponseResult::ChatResponse(x)) => Ok(x),
+                Ok(ChatResponseResult::ChatResponseError(x)) => {
+                    println!("{:?}", resp);
+                    Err(x)?
+                }
+                Err(e) => {
+                    println!("{:?}", resp);
+                    Err(e.into())
+                }
+            }
         }.boxed()
     }
 
