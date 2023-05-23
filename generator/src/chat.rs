@@ -9,7 +9,7 @@ use itertools::Itertools;
 use ordered_float::NotNan;
 use tokio::{io, spawn};
 use acrostic_core::letter::Letter;
-use crate::chat_client::{BaseClient, CacheClient, ChatClient};
+use crate::gpt::chat_client::{BaseClient, CacheClient, ChatClient};
 use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
 use crate::ontology::{Ontology, ONTOLOGY};
 use crate::PACKAGE_PATH;

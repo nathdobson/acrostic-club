@@ -50,7 +50,6 @@ use quote::build_quotes;
 use trie::build_trie;
 
 use crate::chat::{add_chat, ClueClient};
-use crate::clues::add_clues;
 use crate::quote::add_quote;
 use crate::search::add_answers;
 use crate::segment::add_letters;
@@ -66,17 +65,11 @@ pub mod puzzle;
 pub mod segment;
 pub mod quote;
 pub mod chat;
-pub mod clues;
 pub mod site;
 pub mod util;
-pub mod morphology;
 pub mod string;
-pub mod auto_morph;
-pub mod etymology;
 pub mod ontology;
 pub mod turtle;
-pub mod chat_client;
-pub mod key_value_file;
 pub mod gpt;
 pub mod conflict_set;
 pub mod subseq;
@@ -153,7 +146,6 @@ async fn main() -> anyhow::Result<()> {
                         "letters" => add_letters(puzzle).await?,
                         "answers" => add_answers(puzzle).await?,
                         "chat" => add_chat(puzzle, &client).await?,
-                        "clues" => add_clues(puzzle).await?,
                         x => panic!("Unknown puzzle target {}", x)
                     }
                 };
