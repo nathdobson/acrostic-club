@@ -6,59 +6,61 @@
   "clues": [
     {
       "clue": null,
-      "answer": "eruptions",
-      "answer_letters": "ERUPTIONS",
+      "answer": "employers",
+      "answer_letters": "EMPLOYERS",
       "indices": [
-        90,
-        14,
-        89,
-        27,
-        31,
-        98,
-        34,
-        114,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "merritt",
-      "answer_letters": "MERRITT",
-      "indices": [
-        10,
         104,
-        65,
-        44,
-        52,
-        59,
-        161
+        153,
+        27,
+        51,
+        85,
+        67,
+        120,
+        14,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "israeli",
-      "answer_letters": "ISRAELI",
+      "answer": "maneuver",
+      "answer_letters": "MANEUVER",
       "indices": [
-        9,
-        177,
-        167,
+        164,
+        129,
+        146,
+        168,
+        152,
+        124,
+        163,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        102,
+        105,
+        173,
+        98,
+        166,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "literate",
+      "answer_letters": "LITERATE",
+      "indices": [
+        28,
+        144,
+        17,
+        175,
+        142,
         132,
-        29,
-        1,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laptop",
-      "answer_letters": "LAPTOP",
-      "indices": [
-        83,
-        64,
-        112,
-        143,
-        47,
-        63
+        66,
+        25
       ]
     },
     {
@@ -67,11 +69,11 @@
       "answer_letters": "YAMAHA",
       "indices": [
         71,
-        78,
-        164,
         38,
-        128,
-        173
+        10,
+        23,
+        7,
+        110
       ]
     },
     {
@@ -79,24 +81,25 @@
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
-        42,
-        158,
-        25,
-        148,
+        69,
+        139,
+        54,
+        31,
         75,
-        175
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
+      "answer": "invites",
+      "answer_letters": "INVITES",
       "indices": [
-        122,
-        92,
-        129,
-        51,
-        67,
+        135,
+        30,
+        103,
+        9,
+        37,
+        155,
         12
       ]
     },
@@ -105,189 +108,186 @@
       "answer": "fought",
       "answer_letters": "FOUGHT",
       "indices": [
-        35,
-        4,
-        48,
-        45,
-        171,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
-      "indices": [
-        159,
-        93,
-        13,
-        6,
-        3,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "institute",
-      "answer_letters": "INSTITUTE",
-      "indices": [
-        102,
-        146,
-        136,
-        127,
-        135,
-        66,
-        70,
-        174,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "north-south",
-      "answer_letters": "NORTHSOUTH",
-      "indices": [
-        30,
-        139,
-        138,
-        95,
-        18,
-        49,
-        85,
+        53,
+        145,
         5,
-        87,
-        60
+        6,
+        60,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "before",
-      "answer_letters": "BEFORE",
+      "answer": "fourteenth",
+      "answer_letters": "FOURTEENTH",
+      "indices": [
+        35,
+        56,
+        89,
+        167,
+        161,
+        149,
+        61,
+        151,
+        116,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "itself",
+      "answer_letters": "ITSELF",
+      "indices": [
+        122,
+        174,
+        177,
+        46,
+        39,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        114,
+        113,
+        74,
+        80,
+        84,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "breath",
+      "answer_letters": "BREATH",
       "indices": [
         119,
-        163,
-        53,
-        56,
-        142,
-        120
+        176,
+        29,
+        64,
+        143,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "appealed",
-      "answer_letters": "APPEALED",
+      "answer": "airports",
+      "answer_letters": "AIRPORTS",
       "indices": [
-        110,
-        111,
+        82,
+        107,
+        20,
+        112,
+        4,
+        24,
+        127,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "beetle",
+      "answer_letters": "BEETLE",
+      "indices": [
+        154,
+        125,
+        172,
+        2,
+        40,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        32,
+        34,
+        70,
+        59,
+        3,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photographer",
+      "answer_letters": "PHOTOGRAPHER",
+      "indices": [
         140,
-        15,
-        0,
-        121,
+        128,
+        141,
+        92,
+        158,
+        45,
+        156,
+        147,
+        137,
+        18,
         21,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "regulate",
+      "answer_letters": "REGULATE",
+      "indices": [
+        99,
+        19,
+        42,
+        48,
+        83,
+        78,
+        148,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orchid",
+      "answer_letters": "ORCHID",
+      "indices": [
+        43,
+        65,
+        170,
+        109,
+        52,
         134
       ]
     },
     {
       "clue": null,
-      "answer": "breathe",
-      "answer_letters": "BREATHE",
-      "indices": [
-        154,
-        99,
-        149,
-        23,
-        130,
-        162,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
-      "indices": [
-        32,
-        123,
-        40,
-        39,
-        43,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "parachute",
-      "answer_letters": "PARACHUTE",
-      "indices": [
-        137,
-        166,
-        24,
-        82,
-        170,
-        96,
-        152,
-        116,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
-      "indices": [
-        20,
-        145,
-        37,
-        109,
-        19,
-        176,
-        7,
-        147,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oversee",
-      "answer_letters": "OVERSEE",
-      "indices": [
-        141,
-        124,
-        54,
-        79,
-        72,
-        46,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overseeing",
-      "answer_letters": "OVERSEEING",
+      "answer": "operator",
+      "answer_letters": "OPERATOR",
       "indices": [
         117,
-        103,
-        80,
-        156,
-        84,
-        61,
-        97,
-        107,
-        151,
-        69
+        111,
+        123,
+        79,
+        0,
+        130,
+        76,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "flower",
-      "answer_letters": "FLOWER",
+      "answer": "follow-up",
+      "answer_letters": "FOLLOWUP",
       "indices": [
         57,
-        28,
-        76,
+        47,
+        121,
+        1,
+        93,
         101,
-        125,
-        88
+        13,
+        63
       ]
     }
   ],

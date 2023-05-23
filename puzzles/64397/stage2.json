@@ -6,186 +6,43 @@
   "clues": [
     {
       "clue": null,
-      "answer": "laughs",
-      "answer_letters": "LAUGHS",
+      "answer": "length",
+      "answer_letters": "LENGTH",
       "indices": [
-        55,
-        44,
-        72,
+        68,
+        128,
+        155,
         37,
-        119,
-        49
+        163,
+        160
       ]
     },
     {
       "clue": null,
-      "answer": "objected",
-      "answer_letters": "OBJECTED",
+      "answer": "osborn",
+      "answer_letters": "OSBORN",
       "indices": [
+        156,
+        61,
+        39,
         84,
-        105,
-        71,
-        120,
-        43,
-        135,
-        14,
-        10
+        170,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "upwards",
-      "answer_letters": "UPWARDS",
+      "answer": "upgraded",
+      "answer_letters": "UPGRADED",
       "indices": [
         67,
-        13,
-        159,
-        110,
+        97,
+        82,
         129,
-        16,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imposed",
-      "answer_letters": "IMPOSED",
-      "indices": [
-        121,
-        0,
-        142,
-        7,
-        73,
-        171,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "somebody",
-      "answer_letters": "SOMEBODY",
-      "indices": [
-        34,
-        41,
-        149,
-        128,
-        30,
-        40,
-        140,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "escort",
-      "answer_letters": "ESCORT",
-      "indices": [
-        77,
-        47,
-        127,
-        156,
-        134,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "photography",
-      "answer_letters": "PHOTOGRAPHY",
-      "indices": [
-        20,
-        18,
-        101,
-        78,
-        106,
-        124,
-        31,
         133,
-        21,
-        160,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enforce",
-      "answer_letters": "ENFORCE",
-      "indices": [
-        112,
-        3,
-        59,
-        88,
-        122,
-        109,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "network",
-      "answer_letters": "NETWORK",
-      "indices": [
-        36,
-        139,
-        74,
-        33,
-        161,
-        170,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
-      "indices": [
-        102,
-        126,
-        99,
-        157,
-        95,
-        22,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        1,
-        114,
-        6,
-        152,
-        163,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showers",
-      "answer_letters": "SHOWERS",
-      "indices": [
-        45,
-        50,
-        25,
-        168,
+        116,
         54,
-        2,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trucks",
-      "answer_letters": "TRUCKS",
-      "indices": [
-        93,
-        27,
-        26,
-        65,
-        42,
-        61
+        140
       ]
     },
     {
@@ -193,38 +50,182 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
-        35,
-        56,
-        164,
-        4,
-        132,
-        19
+        121,
+        74,
+        18,
+        114,
+        151,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "laughs",
-      "answer_letters": "LAUGHS",
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
+      "indices": [
+        111,
+        7,
+        8,
+        118,
+        164,
+        157,
+        44,
+        99,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
+      "indices": [
+        165,
+        45,
+        49,
+        80,
+        130,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
+      "indices": [
+        21,
+        24,
+        25,
+        56,
+        101,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enforce",
+      "answer_letters": "ENFORCE",
+      "indices": [
+        169,
+        3,
+        59,
+        88,
+        31,
+        65,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nagpur",
+      "answer_letters": "NAGPUR",
+      "indices": [
+        15,
+        19,
+        76,
+        20,
+        150,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        102,
+        139,
+        142,
+        138,
+        120,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yesterday",
+      "answer_letters": "YESTERDAY",
+      "indices": [
+        147,
+        77,
+        28,
+        146,
+        51,
+        125,
+        69,
+        95,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "setbacks",
+      "answer_letters": "SETBACKS",
+      "indices": [
+        137,
+        144,
+        93,
+        105,
+        92,
+        132,
+        90,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thorough",
+      "answer_letters": "THOROUGH",
+      "indices": [
+        78,
+        62,
+        40,
+        134,
+        106,
+        26,
+        124,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "injury",
+      "answer_letters": "INJURY",
+      "indices": [
+        58,
+        36,
+        71,
+        72,
+        27,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lockwood",
+      "answer_letters": "LOCKWOOD",
+      "indices": [
+        55,
+        66,
+        109,
+        42,
+        33,
+        89,
+        32,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "low-cost",
+      "answer_letters": "LOWCOST",
       "indices": [
         87,
-        80,
-        150,
-        76,
-        138,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lyndon",
-      "answer_letters": "LYNDON",
-      "indices": [
-        68,
-        130,
-        115,
-        85,
-        83,
-        15
+        126,
+        168,
+        6,
+        107,
+        12,
+        135
       ]
     },
     {
@@ -233,56 +234,55 @@
       "answer_letters": "LOCKHEED",
       "indices": [
         9,
-        32,
-        151,
-        90,
-        62,
+        83,
+        127,
+        108,
+        119,
         63,
-        169,
-        116
+        46,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "answer": "imposed",
+      "answer_letters": "IMPOSED",
       "indices": [
-        58,
-        97,
-        24,
-        107,
-        155,
-        46
+        35,
+        0,
+        13,
+        161,
+        47,
+        14,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "forget",
-      "answer_letters": "FORGET",
+      "answer": "forsyth",
+      "answer_letters": "FORSYTH",
       "indices": [
         53,
-        66,
-        125,
-        82,
-        165,
-        118
+        41,
+        143,
+        34,
+        166,
+        145,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "eurobasket",
-      "answer_letters": "EUROBASKET",
+      "answer": "embrace",
+      "answer_letters": "EMBRACE",
       "indices": [
-        144,
-        8,
-        143,
-        89,
-        39,
-        92,
-        28,
-        154,
-        51,
-        145
+        171,
+        149,
+        30,
+        2,
+        110,
+        43,
+        98
       ]
     }
   ],

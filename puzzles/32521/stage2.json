@@ -6,54 +6,59 @@
   "clues": [
     {
       "clue": null,
-      "answer": "knight",
-      "answer_letters": "KNIGHT",
+      "answer": "knighted",
+      "answer_letters": "KNIGHTED",
       "indices": [
         177,
-        32,
+        91,
         65,
-        140,
-        107,
-        16
+        76,
+        22,
+        0,
+        64,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "afghan",
-      "answer_letters": "AFGHAN",
+      "answer": "anything",
+      "answer_letters": "ANYTHING",
       "indices": [
-        108,
-        60,
-        128,
-        53,
-        142,
-        10
+        124,
+        83,
+        113,
+        154,
+        115,
+        30,
+        32,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "rodney",
-      "answer_letters": "RODNEY",
+      "answer": "refused",
+      "answer_letters": "REFUSED",
       "indices": [
         66,
-        46,
-        148,
-        131,
-        73,
-        175
+        123,
+        60,
+        99,
+        27,
+        50,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "lennon",
+      "answer_letters": "LENNON",
       "indices": [
         166,
-        64,
-        152,
-        130,
-        11,
-        22
+        179,
+        70,
+        19,
+        18,
+        119
       ]
     },
     {
@@ -61,121 +66,118 @@
       "answer": "mighty",
       "answer_letters": "MIGHTY",
       "indices": [
-        25,
-        126,
-        76,
-        115,
-        172,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        31,
-        72,
-        143,
-        18,
-        114,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-hand",
-      "answer_letters": "RIGHTHAND",
-      "indices": [
-        52,
+        116,
         79,
-        104,
+        40,
         112,
-        137,
-        49,
-        135,
-        43,
-        120
+        45,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
       "indices": [
-        89,
-        2,
-        86,
-        42,
-        168,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "athenian",
-      "answer_letters": "ATHENIAN",
-      "indices": [
-        118,
-        0,
-        56,
-        149,
-        91,
-        28,
-        165,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "native",
-      "answer_letters": "NATIVE",
-      "indices": [
-        103,
-        124,
-        106,
-        94,
-        37,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "taiwan",
-      "answer_letters": "TAIWAN",
-      "indices": [
-        8,
         6,
-        102,
-        180,
+        78,
+        104,
+        49,
         88,
-        139
+        178
       ]
     },
     {
       "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
+      "answer": "richly",
+      "answer_letters": "RICHLY",
+      "indices": [
+        111,
+        130,
+        29,
+        122,
+        160,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "levine",
+      "answer_letters": "LEVINE",
+      "indices": [
+        125,
+        149,
+        37,
+        74,
+        136,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "athena",
+      "answer_letters": "ATHENA",
+      "indices": [
+        142,
+        106,
+        155,
+        87,
+        43,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
+      "indices": [
+        159,
+        150,
+        21,
+        101,
+        108,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "towing",
+      "answer_letters": "TOWING",
+      "indices": [
+        16,
+        158,
+        180,
+        126,
+        15,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
         23,
-        81,
-        116,
+        10,
+        169,
         26,
-        19,
-        170
+        84,
+        134
       ]
     },
     {
       "clue": null,
-      "answer": "shinto",
-      "answer_letters": "SHINTO",
+      "answer": "switched",
+      "answer_letters": "SWITCHED",
       "indices": [
-        27,
-        173,
-        36,
-        127,
-        62,
-        59
+        33,
+        69,
+        138,
+        109,
+        100,
+        1,
+        164,
+        120
       ]
     },
     {
@@ -183,92 +185,94 @@
       "answer": "minnie",
       "answer_letters": "MINNIE",
       "indices": [
-        57,
-        38,
+        25,
+        28,
+        7,
         95,
-        70,
-        90,
-        50
+        102,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "anthony",
-      "answer_letters": "ANTHONY",
+      "answer": "agatha",
+      "answer_letters": "AGATHA",
       "indices": [
-        150,
-        119,
-        97,
-        134,
-        144,
-        39,
-        161
+        135,
+        35,
+        31,
+        137,
+        107,
+        118
       ]
     },
     {
       "clue": null,
-      "answer": "techno",
-      "answer_letters": "TECHNO",
+      "answer": "tonight",
+      "answer_letters": "TONIGHT",
       "indices": [
-        109,
-        156,
-        29,
-        1,
-        15,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty",
-      "answer_letters": "TWENTY",
-      "indices": [
-        48,
-        69,
-        14,
-        83,
-        45,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        87,
-        100,
-        5,
-        169,
-        164,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "relief",
-      "answer_letters": "RELIEF",
-      "indices": [
-        163,
-        179,
-        160,
-        138,
-        123,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hunting",
-      "answer_letters": "HUNTING",
-      "indices": [
-        155,
-        145,
+        146,
+        68,
         75,
+        9,
+        92,
+        53,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twentieth",
+      "answer_letters": "TWENTIETH",
+      "indices": [
+        172,
+        13,
+        73,
+        80,
+        151,
+        90,
+        14,
         55,
-        74,
-        136,
-        92
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eighth",
+      "answer_letters": "EIGHTH",
+      "indices": [
+        174,
+        82,
+        128,
+        173,
+        8,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ribbon",
+      "answer_letters": "RIBBON",
+      "indices": [
+        52,
+        36,
+        72,
+        143,
+        144,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hiding",
+      "answer_letters": "HIDING",
+      "indices": [
+        56,
+        42,
+        81,
+        94,
+        131,
+        140
       ]
     },
     {
@@ -276,42 +280,38 @@
       "answer": "occult",
       "answer_letters": "OCCULT",
       "indices": [
-        98,
-        133,
+        59,
         4,
-        99,
-        125,
-        21
+        133,
+        145,
+        89,
+        114
       ]
     },
     {
       "clue": null,
-      "answer": "right-wing",
-      "answer_letters": "RIGHTWING",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        111,
-        30,
-        40,
-        63,
-        146,
-        13,
-        82,
-        159,
-        84
+        163,
+        5,
+        54,
+        97,
+        152,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
+      "answer": "notion",
+      "answer_letters": "NOTION",
       "indices": [
-        80,
-        158,
-        154,
-        101,
-        9,
-        178,
-        35
+        139,
+        98,
+        62,
+        38,
+        46,
+        127
       ]
     }
   ],

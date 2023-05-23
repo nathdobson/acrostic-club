@@ -6,67 +6,43 @@
   "clues": [
     {
       "clue": null,
-      "answer": "racial",
-      "answer_letters": "RACIAL",
+      "answer": "relocate",
+      "answer_letters": "RELOCATE",
       "indices": [
         94,
-        141,
-        100,
-        67,
-        6,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "o'clock",
-      "answer_letters": "OCLOCK",
-      "indices": [
-        147,
-        120,
-        103,
-        167,
-        53,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dealer",
-      "answer_letters": "DEALER",
-      "indices": [
-        158,
-        156,
-        132,
+        106,
         22,
-        10,
-        32
+        159,
+        100,
+        27,
+        86,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "deaths",
-      "answer_letters": "DEATHS",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
       "indices": [
-        104,
-        88,
-        149,
-        136,
-        14,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        38,
-        45,
-        20,
-        155,
+        33,
         81,
-        0
+        13,
+        149,
+        78,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dishes",
+      "answer_letters": "DISHES",
+      "indices": [
+        65,
+        9,
+        134,
+        97,
+        43,
+        29
       ]
     },
     {
@@ -74,107 +50,135 @@
       "answer": "downhill",
       "answer_letters": "DOWNHILL",
       "indices": [
-        65,
-        50,
+        158,
+        147,
         168,
-        18,
-        87,
+        16,
+        5,
         19,
-        51,
-        113
+        151,
+        46
       ]
     },
     {
       "clue": null,
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
+      "answer": "yucatán",
+      "answer_letters": "YUCATAN",
+      "indices": [
+        38,
+        42,
+        120,
+        129,
+        28,
+        15,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dakota",
+      "answer_letters": "DAKOTA",
+      "indices": [
+        104,
+        23,
+        69,
+        167,
+        142,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "osborn",
+      "answer_letters": "OSBORN",
       "indices": [
         48,
-        92,
-        110,
         124,
-        49,
-        109,
+        148,
+        115,
         146,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        133,
-        80,
-        47,
-        97,
-        86,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lisbon",
-      "answer_letters": "LISBON",
-      "indices": [
-        140,
-        126,
-        3,
-        74,
-        62,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elliot",
-      "answer_letters": "ELLIOT",
-      "indices": [
-        143,
-        118,
-        46,
-        119,
-        137,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "python",
-      "answer_letters": "PYTHON",
-      "indices": [
-        7,
-        152,
-        40,
-        5,
-        21,
         58
       ]
     },
     {
       "clue": null,
-      "answer": "absorb",
-      "answer_letters": "ABSORB",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
-        23,
-        148,
-        54,
+        152,
+        2,
+        113,
+        130,
         117,
-        89,
-        34
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "upbeat",
-      "answer_letters": "UPBEAT",
+      "answer": "lakers",
+      "answer_letters": "LAKERS",
+      "indices": [
+        140,
+        132,
+        165,
+        98,
+        89,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "errors",
+      "answer_letters": "ERRORS",
+      "indices": [
+        90,
+        105,
+        32,
+        138,
+        41,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photon",
+      "answer_letters": "PHOTON",
+      "indices": [
+        31,
+        79,
+        137,
+        61,
+        21,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "athletics",
+      "answer_letters": "ATHLETICS",
+      "indices": [
+        6,
+        76,
+        26,
+        37,
+        10,
+        127,
+        52,
+        47,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unfair",
+      "answer_letters": "UNFAIR",
       "indices": [
         75,
-        31,
-        150,
-        98,
-        112,
-        163
+        162,
+        110,
+        45,
+        83,
+        66
       ]
     },
     {
@@ -182,121 +186,117 @@
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [
-        151,
-        35,
-        63,
-        61,
-        33,
-        145
+        51,
+        141,
+        7,
+        25,
+        50,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "atherton",
-      "answer_letters": "ATHERTON",
+      "answer": "abs-cbn",
+      "answer_letters": "ABSCBN",
       "indices": [
-        57,
-        13,
-        116,
-        43,
-        41,
-        28,
-        115,
+        35,
+        74,
+        54,
+        114,
+        34,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shifts",
+      "answer_letters": "SHIFTS",
+      "indices": [
+        60,
+        49,
+        119,
+        92,
+        163,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "python",
+      "answer_letters": "PYTHON",
+      "indices": [
+        145,
+        133,
+        40,
+        155,
+        62,
         107
       ]
     },
     {
       "clue": null,
-      "answer": "switch",
-      "answer_letters": "SWITCH",
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
       "indices": [
-        154,
-        78,
-        9,
-        142,
+        156,
+        136,
+        87,
+        126,
         56,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nichols",
+      "answer_letters": "NICHOLS",
+      "indices": [
+        166,
+        123,
+        20,
+        116,
+        109,
+        103,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "caliph",
+      "answer_letters": "CALIPH",
+      "indices": [
+        53,
+        112,
+        118,
+        67,
+        63,
         101
       ]
     },
     {
       "clue": null,
-      "answer": "polish",
-      "answer_letters": "POLISH",
+      "answer": "eighth",
+      "answer_letters": "EIGHTH",
       "indices": [
-        8,
-        93,
-        130,
-        52,
-        161,
+        88,
+        102,
+        72,
+        14,
+        96,
         1
       ]
     },
     {
       "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        90,
-        16,
-        138,
-        42,
-        72,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        162,
-        83,
-        69,
-        123,
-        25,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "christ's",
-      "answer_letters": "CHRISTS",
-      "indices": [
-        114,
-        79,
-        66,
-        70,
-        60,
-        76,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eastern",
-      "answer_letters": "EASTERN",
-      "indices": [
-        2,
-        15,
-        84,
-        96,
-        160,
-        105,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rainbow",
-      "answer_letters": "RAINBOW",
+      "answer": "robbie",
+      "answer_letters": "ROBBIE",
       "indices": [
         11,
-        129,
-        102,
-        166,
+        93,
+        150,
         36,
-        159,
-        131
+        70,
+        160
       ]
     }
   ],

@@ -9,12 +9,12 @@
       "answer": "cliffs",
       "answer_letters": "CLIFFS",
       "indices": [
-        41,
+        80,
         114,
-        113,
+        52,
         83,
-        168,
-        6
+        63,
+        31
       ]
     },
     {
@@ -22,14 +22,14 @@
       "answer": "halftime",
       "answer_letters": "HALFTIME",
       "indices": [
-        153,
+        72,
         160,
-        148,
+        69,
         94,
-        142,
-        151,
-        37,
-        58
+        51,
+        36,
+        49,
+        44
       ]
     },
     {
@@ -37,11 +37,11 @@
       "answer": "lehman",
       "answer_letters": "LEHMAN",
       "indices": [
-        69,
-        15,
-        72,
-        53,
-        90,
+        148,
+        73,
+        137,
+        77,
+        115,
         103
       ]
     },
@@ -50,12 +50,12 @@
       "answer": "oswald",
       "answer_letters": "OSWALD",
       "indices": [
-        48,
-        27,
-        17,
-        147,
-        68,
-        145
+        143,
+        47,
+        163,
+        90,
+        65,
+        172
       ]
     },
     {
@@ -63,13 +63,13 @@
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
-        54,
+        15,
         111,
         1,
-        155,
+        2,
         57,
-        22,
-        13
+        102,
+        0
       ]
     },
     {
@@ -77,14 +77,14 @@
       "answer": "ruthless",
       "answer_letters": "RUTHLESS",
       "indices": [
-        95,
-        60,
-        135,
-        137,
-        21,
-        73,
-        162,
-        177
+        42,
+        43,
+        61,
+        14,
+        45,
+        170,
+        10,
+        27
       ]
     },
     {
@@ -92,12 +92,12 @@
       "answer": "autumn",
       "answer_letters": "AUTUMN",
       "indices": [
-        18,
+        59,
         133,
-        166,
-        84,
-        49,
-        82
+        142,
+        60,
+        53,
+        87
       ]
     },
     {
@@ -105,14 +105,14 @@
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
-        161,
+        11,
         129,
-        119,
-        65,
-        62,
-        104,
-        14,
-        156
+        5,
+        21,
+        151,
+        88,
+        153,
+        35
       ]
     },
     {
@@ -120,15 +120,15 @@
       "answer": "testified",
       "answer_letters": "TESTIFIED",
       "indices": [
-        152,
-        171,
-        85,
-        51,
-        86,
+        75,
+        110,
+        55,
+        99,
+        76,
         23,
-        52,
-        146,
-        92
+        176,
+        24,
+        127
       ]
     },
     {
@@ -136,13 +136,13 @@
       "answer": "remains",
       "answer_letters": "REMAINS",
       "indices": [
-        42,
-        50,
-        77,
-        59,
-        102,
+        95,
+        130,
+        174,
+        147,
+        119,
         107,
-        31
+        6
       ]
     },
     {
@@ -150,14 +150,14 @@
       "answer": "adjoining",
       "answer_letters": "ADJOINING",
       "indices": [
-        67,
-        108,
+        165,
+        145,
         8,
-        173,
-        36,
-        126,
-        5,
-        120,
+        48,
+        22,
+        91,
+        113,
+        101,
         121
       ]
     },
@@ -167,11 +167,11 @@
       "answer_letters": "YAMAHA",
       "indices": [
         19,
-        106,
-        174,
-        165,
+        125,
+        33,
+        117,
         98,
-        115
+        18
       ]
     },
     {
@@ -179,12 +179,12 @@
       "answer": "statue",
       "answer_letters": "STATUE",
       "indices": [
-        47,
+        3,
+        13,
+        138,
         118,
-        117,
-        61,
-        43,
-        44
+        84,
+        38
       ]
     },
     {
@@ -192,12 +192,12 @@
       "answer": "adjust",
       "answer_letters": "ADJUST",
       "indices": [
-        138,
-        172,
+        67,
+        108,
         132,
         9,
-        55,
-        158
+        177,
+        135
       ]
     },
     {
@@ -205,13 +205,13 @@
       "answer": "chassis",
       "answer_letters": "CHASSIS",
       "indices": [
-        80,
-        112,
-        125,
-        10,
-        3,
-        176,
-        39
+        41,
+        159,
+        106,
+        162,
+        39,
+        155,
+        134
       ]
     },
     {
@@ -219,12 +219,12 @@
       "answer": "review",
       "answer_letters": "REVIEW",
       "indices": [
-        116,
-        78,
+        169,
+        140,
         139,
         96,
         100,
-        150
+        17
       ]
     },
     {
@@ -232,14 +232,14 @@
       "answer": "eighteen",
       "answer_letters": "EIGHTEEN",
       "indices": [
-        24,
-        2,
-        97,
-        159,
-        0,
-        34,
-        38,
-        101
+        171,
+        86,
+        104,
+        164,
+        71,
+        146,
+        50,
+        126
       ]
     },
     {
@@ -247,12 +247,12 @@
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
-        87,
-        110,
-        11,
-        35,
-        170,
-        127
+        82,
+        34,
+        156,
+        152,
+        58,
+        92
       ]
     },
     {
@@ -260,13 +260,13 @@
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
-        81,
+        173,
         64,
-        99,
-        63,
-        45,
-        143,
-        163
+        158,
+        168,
+        68,
+        32,
+        150
       ]
     },
     {
@@ -274,13 +274,13 @@
       "answer": "insight",
       "answer_letters": "INSIGHT",
       "indices": [
-        76,
-        91,
-        134,
         26,
-        88,
-        164,
-        71
+        120,
+        85,
+        62,
+        97,
+        112,
+        166
       ]
     },
     {
@@ -288,12 +288,12 @@
       "answer": "remote",
       "answer_letters": "REMOTE",
       "indices": [
-        169,
-        130,
-        33,
-        32,
-        75,
-        140
+        116,
+        54,
+        37,
+        81,
+        161,
+        78
       ]
     }
   ],

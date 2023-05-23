@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::collections::{HashMap, HashSet};
 use std::default::default;
 use std::fmt::Write;
 use std::io;
@@ -236,7 +236,9 @@ impl Solution {
     }
     pub fn words(&self) -> &[LetterSet] { &self.words }
     pub fn is_done(&self) -> bool {
-        self.remainder.count() == 0 && self.words.iter().all(|x| x.count() > 1)
+        self.remainder.count() == 0
+            && self.words.iter().all(|x| x.count() > 1)
+            && self.words.iter().collect::<HashSet<_>>().len() == self.words.len()
     }
 }
 

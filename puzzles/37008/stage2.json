@@ -6,75 +6,32 @@
   "clues": [
     {
       "clue": null,
-      "answer": "potentially",
-      "answer_letters": "POTENTIALLY",
+      "answer": "philosophy",
+      "answer_letters": "PHILOSOPHY",
       "indices": [
-        12,
+        179,
+        176,
+        58,
+        33,
+        20,
+        122,
         35,
-        21,
-        107,
-        38,
-        185,
-        77,
-        24,
-        56,
-        188,
-        160
+        12,
+        170,
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "abolished",
-      "answer_letters": "ABOLISHED",
+      "answer": "admits",
+      "answer_letters": "ADMITS",
       "indices": [
         140,
-        27,
-        6,
-        33,
-        118,
-        53,
-        134,
-        67,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uptown",
-      "answer_letters": "UPTOWN",
-      "indices": [
-        142,
-        9,
-        63,
-        97,
-        31,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lyndon",
-      "answer_letters": "LYNDON",
-      "indices": [
-        141,
-        75,
-        59,
         157,
-        17,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        93,
-        46,
-        50,
-        72,
-        112,
-        83
+        4,
+        154,
+        25,
+        53
       ]
     },
     {
@@ -84,114 +41,157 @@
       "indices": [
         111,
         175,
-        184,
-        57,
-        154,
-        0,
+        77,
+        13,
+        118,
+        48,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lottery",
+      "answer_letters": "LOTTERY",
+      "indices": [
+        34,
+        5,
+        83,
+        112,
+        2,
+        69,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afternoons",
+      "answer_letters": "AFTERNOONS",
+      "indices": [
+        24,
+        173,
+        169,
+        121,
+        103,
+        115,
+        43,
+        124,
+        108,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uptown",
+      "answer_letters": "UPTOWN",
+      "indices": [
+        47,
+        80,
+        105,
+        97,
+        133,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showtime",
+      "answer_letters": "SHOWTIME",
+      "indices": [
+        186,
+        163,
+        180,
+        36,
+        21,
+        62,
+        54,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thereby",
+      "answer_letters": "THEREBY",
+      "indices": [
+        150,
+        1,
+        143,
+        131,
+        164,
+        46,
         85
       ]
     },
     {
       "clue": null,
-      "answer": "stereotypes",
-      "answer_letters": "STEREOTYPES",
+      "answer": "effective",
+      "answer_letters": "EFFECTIVE",
       "indices": [
-        78,
-        48,
-        177,
-        168,
-        82,
-        42,
-        65,
-        28,
-        117,
         151,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "towing",
-      "answer_letters": "TOWING",
-      "indices": [
-        91,
-        81,
-        36,
+        189,
+        125,
+        156,
+        90,
+        185,
         104,
-        108,
-        60
+        139,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "employee",
-      "answer_letters": "EMPLOYEE",
+      "answer": "repository",
+      "answer_letters": "REPOSITORY",
       "indices": [
-        23,
-        182,
-        96,
-        34,
-        11,
-        51,
-        130,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "routine",
-      "answer_letters": "ROUTINE",
-      "indices": [
+        84,
+        137,
+        117,
+        72,
+        30,
+        184,
+        106,
+        17,
         152,
-        110,
-        92,
-        169,
-        37,
-        7,
-        121
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "memoir",
-      "answer_letters": "MEMOIR",
+      "answer": "motown",
+      "answer_letters": "MOTOWN",
       "indices": [
         153,
-        143,
-        71,
-        5,
-        62,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        20,
-        41,
-        189,
-        100,
-        163,
-        135,
-        167,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
+        172,
+        0,
         114,
-        125,
-        173,
-        186,
-        170,
-        124,
-        180,
-        25
+        102,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oblong",
+      "answer_letters": "OBLONG",
+      "indices": [
+        135,
+        159,
+        141,
+        42,
+        59,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obliged",
+      "answer_letters": "OBLIGED",
+      "indices": [
+        110,
+        50,
+        57,
+        68,
+        60,
+        55,
+        16
       ]
     },
     {
@@ -199,102 +199,102 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        115,
-        187,
-        179,
-        1,
-        156,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "privileges",
-      "answer_letters": "PRIVILEGES",
-      "indices": [
-        80,
-        131,
-        58,
-        139,
-        145,
-        94,
-        98,
-        39,
-        74,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "awesome",
-      "answer_letters": "AWESOME",
-      "indices": [
-        128,
-        166,
-        14,
-        30,
-        172,
-        54,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lesbian",
-      "answer_letters": "LESBIAN",
-      "indices": [
-        13,
-        164,
-        136,
-        159,
-        68,
-        32,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attempted",
-      "answer_letters": "ATTEMPTED",
-      "indices": [
-        89,
-        105,
-        150,
-        2,
-        99,
+        38,
+        23,
         129,
-        162,
-        55,
+        66,
+        107,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "powell",
+      "answer_letters": "POWELL",
+      "indices": [
+        96,
+        167,
+        31,
+        10,
+        94,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ambushed",
+      "answer_letters": "AMBUSHED",
+      "indices": [
+        93,
+        182,
+        27,
+        92,
+        100,
+        134,
+        130,
         44
       ]
     },
     {
       "clue": null,
-      "answer": "church",
-      "answer_letters": "CHURCH",
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
       "indices": [
-        90,
-        66,
-        47,
-        103,
-        120,
-        176
+        188,
+        37,
+        41,
+        177,
+        91,
+        145,
+        71,
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "empowered",
-      "answer_letters": "EMPOWERED",
+      "answer": "attendees",
+      "answer_letters": "ATTENDEES",
       "indices": [
-        137,
-        4,
-        127,
-        43,
-        133,
-        10,
-        69,
+        128,
+        65,
+        63,
+        74,
+        73,
+        148,
+        181,
         149,
-        16
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "campeonato",
+      "answer_letters": "CAMPEONATO",
+      "indices": [
+        120,
+        89,
+        99,
+        127,
+        14,
+        11,
+        7,
+        32,
+        162,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "europe's",
+      "answer_letters": "EUROPES",
+      "indices": [
+        187,
+        142,
+        168,
+        6,
+        9,
+        67,
+        146
       ]
     }
   ],

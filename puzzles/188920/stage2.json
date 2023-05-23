@@ -6,135 +6,59 @@
   "clues": [
     {
       "clue": null,
-      "answer": "themselves",
-      "answer_letters": "THEMSELVES",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
-        37,
+        112,
         78,
-        14,
-        167,
-        44,
-        160,
-        3,
-        93,
-        30,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anywhere",
-      "answer_letters": "ANYWHERE",
-      "indices": [
-        55,
-        132,
-        67,
-        107,
-        135,
-        114,
-        47,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "modifying",
-      "answer_letters": "MODIFYING",
-      "indices": [
-        157,
-        79,
-        16,
-        27,
-        6,
+        34,
         168,
-        187,
-        82,
-        189
+        93,
+        43
       ]
     },
     {
       "clue": null,
-      "answer": "onwards",
-      "answer_letters": "ONWARDS",
+      "answer": "airways",
+      "answer_letters": "AIRWAYS",
       "indices": [
-        7,
-        42,
-        149,
-        39,
-        95,
-        133,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roadway",
-      "answer_letters": "ROADWAY",
-      "indices": [
-        174,
-        158,
-        177,
-        15,
-        139,
-        108,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anthem",
-      "answer_letters": "ANTHEM",
-      "indices": [
-        102,
-        24,
-        179,
-        140,
-        64,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "parameter",
-      "answer_letters": "PARAMETER",
-      "indices": [
-        137,
         152,
-        32,
+        141,
+        174,
+        13,
+        55,
+        4,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mammalian",
+      "answer_letters": "MAMMALIAN",
+      "indices": [
+        10,
         58,
-        73,
-        117,
-        40,
-        185,
-        113
+        157,
+        167,
+        23,
+        29,
+        180,
+        105,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "offense",
+      "answer_letters": "OFFENSE",
       "indices": [
-        17,
-        190,
+        158,
+        91,
         128,
-        115,
-        98,
-        52,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
-      "indices": [
-        155,
-        188,
-        83,
-        46,
-        11,
-        99,
-        118
+        185,
+        18,
+        25,
+        155
       ]
     },
     {
@@ -142,42 +66,111 @@
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
-        129,
-        60,
-        109,
-        69,
-        101,
-        176,
-        96
+        47,
+        135,
+        11,
+        125,
+        143,
+        73,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "chieftain",
-      "answer_letters": "CHIEFTAIN",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        102,
+        42,
+        67,
+        77,
+        92,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "perfect",
+      "answer_letters": "PERFECT",
+      "indices": [
+        137,
+        117,
+        159,
+        6,
+        74,
+        142,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invasive",
+      "answer_letters": "INVASIVE",
+      "indices": [
+        130,
+        24,
+        66,
+        1,
+        44,
+        136,
+        151,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethernet",
+      "answer_letters": "ETHERNET",
+      "indices": [
+        14,
+        69,
+        163,
+        30,
+        8,
+        188,
+        64,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rights",
+      "answer_letters": "RIGHTS",
+      "indices": [
+        32,
+        27,
+        189,
+        70,
+        162,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "casimir",
+      "answer_letters": "CASIMIR",
       "indices": [
         181,
-        70,
-        49,
-        81,
-        183,
-        45,
-        31,
-        88,
-        147
+        108,
+        0,
+        145,
+        176,
+        62,
+        56
       ]
     },
     {
       "clue": null,
-      "answer": "eleven",
-      "answer_letters": "ELEVEN",
+      "answer": "enjoyed",
+      "answer_letters": "ENJOYED",
       "indices": [
-        74,
-        153,
-        121,
-        66,
-        34,
-        75
+        99,
+        132,
+        83,
+        94,
+        109,
+        160,
+        118
       ]
     },
     {
@@ -186,131 +179,138 @@
       "answer_letters": "BRITISH",
       "indices": [
         54,
-        159,
-        145,
-        125,
-        136,
-        89,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehman",
-      "answer_letters": "LEHMAN",
-      "indices": [
-        171,
-        184,
-        126,
-        120,
-        92,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oswald",
-      "answer_letters": "OSWALD",
-      "indices": [
-        170,
-        50,
-        13,
-        164,
-        186,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oswald",
-      "answer_letters": "OSWALD",
-      "indices": [
-        148,
-        25,
-        123,
-        1,
-        22,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "divine",
-      "answer_letters": "DIVINE",
-      "indices": [
-        172,
-        141,
-        151,
-        124,
-        178,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
-      "indices": [
-        143,
-        62,
-        8,
-        59,
-        142,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oyster",
-      "answer_letters": "OYSTER",
-      "indices": [
-        94,
-        4,
-        103,
+        113,
+        49,
         116,
-        131,
-        56
+        187,
+        50,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "utopia",
-      "answer_letters": "UTOPIA",
+      "answer": "landowners",
+      "answer_letters": "LANDOWNERS",
       "indices": [
-        154,
-        112,
+        22,
+        52,
+        178,
+        35,
         175,
-        21,
-        180,
-        105
+        123,
+        82,
+        184,
+        129,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
       "indices": [
-        65,
-        130,
-        19,
-        87,
-        162,
+        84,
+        186,
+        15,
+        140,
+        31,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        46,
+        133,
+        17,
+        110,
+        98,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "defenses",
+      "answer_letters": "DEFENSES",
+      "indices": [
+        2,
+        121,
+        183,
+        71,
+        75,
+        190,
+        81,
         134
       ]
     },
     {
       "clue": null,
-      "answer": "downfall",
-      "answer_letters": "DOWNFALL",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
       "indices": [
-        35,
-        84,
-        77,
-        33,
-        91,
-        23,
+        38,
+        79,
         106,
-        29
+        3,
+        7,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "onward",
+      "answer_letters": "ONWARD",
+      "indices": [
+        148,
+        33,
+        149,
+        115,
+        95,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        154,
+        21,
+        87,
+        170,
+        153,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nathaniel",
+      "answer_letters": "NATHANIEL",
+      "indices": [
+        165,
+        164,
+        179,
+        60,
+        39,
+        147,
+        124,
+        114,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        172,
+        107,
+        88,
+        19,
+        126,
+        40
       ]
     }
   ],

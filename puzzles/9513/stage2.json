@@ -6,89 +6,88 @@
   "clues": [
     {
       "clue": null,
-      "answer": "prohibited",
-      "answer_letters": "PROHIBITED",
+      "answer": "pearce",
+      "answer_letters": "PEARCE",
       "indices": [
         85,
-        109,
-        166,
-        126,
-        122,
-        174,
-        146,
-        103,
-        42,
-        95
+        153,
+        70,
+        158,
+        25,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
+      "answer": "hawaii",
+      "answer_letters": "HAWAII",
       "indices": [
-        104,
-        51,
-        74,
-        145,
-        108,
-        60
+        121,
+        144,
+        101,
+        56,
+        102,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "italia",
-      "answer_letters": "ITALIA",
+      "answer": "italy's",
+      "answer_letters": "ITALYS",
       "indices": [
-        19,
-        118,
-        187,
-        63,
-        150,
-        3
+        167,
+        53,
+        106,
+        34,
+        148,
+        189
       ]
     },
     {
       "clue": null,
-      "answer": "lacked",
-      "answer_letters": "LACKED",
+      "answer": "locality",
+      "answer_letters": "LOCALITY",
       "indices": [
         132,
-        97,
-        59,
-        112,
-        10,
-        133
+        54,
+        5,
+        76,
+        147,
+        0,
+        118,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "iteration",
-      "answer_letters": "ITERATION",
+      "answer": "inhibitor",
+      "answer_letters": "INHIBITOR",
       "indices": [
-        110,
-        71,
-        96,
-        179,
-        65,
-        171,
-        40,
-        61,
-        24
+        122,
+        33,
+        99,
+        51,
+        116,
+        150,
+        80,
+        87,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "paterson",
-      "answer_letters": "PATERSON",
+      "answer": "protested",
+      "answer_letters": "PROTESTED",
       "indices": [
         88,
-        144,
-        98,
-        127,
-        13,
-        58,
-        16,
-        20
+        74,
+        93,
+        184,
+        143,
+        145,
+        103,
+        12,
+        41
       ]
     },
     {
@@ -97,210 +96,211 @@
       "answer_letters": "DCDCDC",
       "indices": [
         43,
-        39,
-        31,
-        178,
-        67,
-        129
+        129,
+        95,
+        108,
+        30,
+        178
       ]
     },
     {
       "clue": null,
-      "answer": "usable",
-      "answer_letters": "USABLE",
+      "answer": "unlock",
+      "answer_letters": "UNLOCK",
       "indices": [
         163,
-        28,
-        76,
-        69,
-        147,
-        73
+        24,
+        78,
+        166,
+        181,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
+      "answer": "kingdoms",
+      "answer_letters": "KINGDOMS",
       "indices": [
-        182,
-        62,
-        21,
-        87,
-        138,
-        93
+        112,
+        7,
+        66,
+        165,
+        135,
+        49,
+        152,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "enforced",
-      "answer_letters": "ENFORCED",
-      "indices": [
-        38,
-        33,
-        15,
-        162,
-        17,
-        123,
-        113,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
-      "indices": [
-        136,
-        186,
-        34,
-        130,
-        155,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fayette",
-      "answer_letters": "FAYETTE",
-      "indices": [
-        1,
-        175,
-        35,
-        86,
-        80,
-        22,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eclectic",
-      "answer_letters": "ECLECTIC",
+      "answer": "eocene",
+      "answer_letters": "EOCENE",
       "indices": [
         183,
-        25,
-        89,
-        153,
-        8,
-        114,
-        0,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "defected",
-      "answer_letters": "DEFECTED",
-      "indices": [
-        37,
-        143,
-        83,
-        12,
-        111,
-        188,
-        32,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italia",
-      "answer_letters": "ITALIA",
-      "indices": [
-        167,
-        11,
-        70,
-        78,
-        102,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        176,
-        180,
-        9,
-        7,
-        92,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "broughton",
-      "answer_letters": "BROUGHTON",
-      "indices": [
-        116,
-        158,
-        79,
-        29,
-        169,
-        121,
-        53,
-        49,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "utrecht",
-      "answer_letters": "UTRECHT",
-      "indices": [
-        131,
-        72,
-        140,
-        26,
-        181,
-        124,
-        184
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roadways",
-      "answer_letters": "ROADWAYS",
-      "indices": [
-        6,
-        46,
-        56,
-        30,
-        101,
-        23,
-        148,
-        189
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
-      "indices": [
-        165,
-        117,
-        45,
-        90,
-        120,
-        157,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "honeymoon",
-      "answer_letters": "HONEYMOON",
-      "indices": [
-        99,
-        54,
-        66,
+        136,
+        39,
         139,
-        141,
-        152,
+        176,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        62,
+        171,
+        71,
+        157,
+        120,
+        187
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "felony",
+      "answer_letters": "FELONY",
+      "indices": [
+        83,
+        73,
+        89,
+        61,
+        155,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elaborate",
+      "answer_letters": "ELABORATE",
+      "indices": [
+        86,
+        63,
+        65,
+        69,
         172,
+        109,
+        97,
+        114,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "defect",
+      "answer_letters": "DEFECT",
+      "indices": [
+        67,
+        26,
+        15,
+        159,
+        59,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        40,
+        188,
+        126,
+        23,
+        8,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
+      "indices": [
+        20,
+        130,
+        186,
+        16,
+        133,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "borough",
+      "answer_letters": "BOROUGH",
+      "indices": [
+        174,
+        162,
+        6,
+        79,
+        131,
+        48,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "undefeated",
+      "answer_letters": "UNDEFEATED",
+      "indices": [
+        29,
+        52,
+        37,
+        127,
+        1,
+        113,
+        154,
+        11,
+        32,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reservations",
+      "answer_letters": "RESERVATIONS",
+      "indices": [
+        13,
+        42,
+        21,
+        38,
+        17,
+        138,
+        175,
+        22,
+        146,
+        46,
+        168,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gothic",
+      "answer_letters": "GOTHIC",
+      "indices": [
+        169,
         82,
-        168
+        92,
+        104,
+        180,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hat-trick",
+      "answer_letters": "HATTRICK",
+      "indices": [
+        60,
+        3,
+        72,
+        98,
+        179,
+        19,
+        111,
+        182
       ]
     }
   ],

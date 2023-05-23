@@ -6,187 +6,125 @@
   "clues": [
     {
       "clue": null,
-      "answer": "visibility",
-      "answer_letters": "VISIBILITY",
+      "answer": "volume",
+      "answer_letters": "VOLUME",
       "indices": [
-        99,
-        132,
-        179,
-        45,
-        41,
-        20,
-        91,
-        129,
-        157,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ambitious",
-      "answer_letters": "AMBITIOUS",
-      "indices": [
-        86,
-        50,
-        74,
-        80,
-        75,
-        167,
-        63,
+        16,
+        28,
+        35,
         177,
-        123
+        81,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
       "indices": [
-        58,
-        69,
+        57,
+        126,
         118,
-        115,
-        18,
-        87
+        140,
+        48,
+        83
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
       "indices": [
-        173,
-        90,
-        134,
-        105,
-        42,
-        149
+        144,
+        119,
+        127,
+        77,
+        5,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "cheese",
-      "answer_letters": "CHEESE",
+      "answer": "newborn",
+      "answer_letters": "NEWBORN",
+      "indices": [
+        133,
+        12,
+        67,
+        94,
+        115,
+        178,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "choose",
+      "answer_letters": "CHOOSE",
       "indices": [
         120,
-        62,
-        119,
-        165,
-        155,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
-      "indices": [
-        68,
-        168,
-        126,
-        53,
-        95,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
+        8,
         112,
-        122,
-        83,
-        0,
-        40,
-        109
+        153,
+        149,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "withdrew",
-      "answer_letters": "WITHDREW",
+      "answer": "high-rise",
+      "answer_letters": "HIGHRISE",
+      "indices": [
+        105,
+        34,
+        134,
+        62,
+        52,
+        102,
+        64,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "otherwise",
+      "answer_letters": "OTHERWISE",
+      "indices": [
+        54,
+        61,
+        79,
+        180,
+        53,
+        33,
+        20,
+        139,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "willow",
+      "answer_letters": "WILLOW",
       "indices": [
         116,
-        102,
-        27,
-        79,
-        38,
-        161,
-        100,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "september",
-      "answer_letters": "SEPTEMBER",
-      "indices": [
-        139,
-        15,
-        3,
-        48,
-        17,
-        141,
-        11,
-        142,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "honour",
-      "answer_letters": "HONOUR",
-      "indices": [
-        8,
-        143,
-        144,
-        110,
-        73,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "allowed",
-      "answer_letters": "ALLOWED",
-      "indices": [
-        121,
-        36,
+        129,
         148,
-        39,
-        159,
-        154,
-        77
+        91,
+        69,
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "nominees",
-      "answer_letters": "NOMINEES",
+      "answer": "submit",
+      "answer_letters": "SUBMIT",
       "indices": [
-        21,
-        140,
+        123,
+        40,
+        74,
         46,
-        97,
-        103,
-        12,
-        98,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "galileo",
-      "answer_letters": "GALILEO",
-      "indices": [
-        23,
-        57,
-        96,
-        106,
-        4,
-        127,
-        54
+        136,
+        27
       ]
     },
     {
@@ -194,67 +132,130 @@
       "answer": "hollow",
       "answer_letters": "HOLLOW",
       "indices": [
-        44,
+        68,
         49,
-        181,
-        92,
-        24,
+        166,
+        36,
+        84,
         55
       ]
     },
     {
       "clue": null,
-      "answer": "allowed",
-      "answer_letters": "ALLOWED",
+      "answer": "automobile",
+      "answer_letters": "AUTOMOBILE",
       "indices": [
-        30,
+        121,
+        122,
+        109,
+        143,
+        50,
+        9,
+        41,
+        167,
         13,
-        128,
-        176,
-        89,
-        147,
-        71
+        124
       ]
     },
     {
       "clue": null,
-      "answer": "indeed",
-      "answer_letters": "INDEED",
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
       "indices": [
-        14,
-        156,
+        137,
+        147,
+        145,
         29,
-        124,
-        76,
+        4,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "greenwood",
+      "answer_letters": "GREENWOOD",
+      "indices": [
+        23,
+        113,
+        165,
+        168,
+        173,
+        89,
+        39,
+        63,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "however",
+      "answer_letters": "HOWEVER",
+      "indices": [
+        44,
+        160,
+        7,
+        154,
+        99,
+        130,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amplifier",
+      "answer_letters": "AMPLIFIER",
+      "indices": [
+        30,
+        141,
+        0,
+        181,
+        14,
+        182,
+        172,
+        1,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invited",
+      "answer_letters": "INVITED",
+      "indices": [
+        45,
+        103,
+        131,
+        90,
+        157,
+        17,
         85
       ]
     },
     {
       "clue": null,
-      "answer": "norfolk",
-      "answer_letters": "NORFOLK",
+      "answer": "nikolai",
+      "answer_letters": "NIKOLAI",
       "indices": [
-        137,
-        153,
-        178,
-        182,
-        72,
-        166,
-        162
+        58,
+        97,
+        162,
+        51,
+        92,
+        86,
+        80
       ]
     },
     {
       "clue": null,
-      "answer": "one-time",
-      "answer_letters": "ONETIME",
+      "answer": "omitted",
+      "answer_letters": "OMITTED",
       "indices": [
-        2,
-        133,
-        1,
-        61,
-        136,
-        111,
-        65
+        72,
+        107,
+        106,
+        42,
+        75,
+        95,
+        71
       ]
     },
     {
@@ -262,40 +263,39 @@
       "answer": "bombed",
       "answer_letters": "BOMBED",
       "indices": [
+        11,
+        2,
+        111,
         164,
-        51,
-        81,
-        94,
-        170,
-        25
+        142,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "overview",
-      "answer_letters": "OVERVIEW",
+      "answer": "odyssey",
+      "answer_letters": "ODYSSEY",
       "indices": [
-        28,
-        16,
-        180,
-        113,
-        169,
-        34,
-        145,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "doomed",
-      "answer_letters": "DOOMED",
-      "indices": [
+        176,
         59,
-        160,
-        9,
-        107,
-        130,
-        152
+        87,
+        155,
+        179,
+        170,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dunlop",
+      "answer_letters": "DUNLOP",
+      "indices": [
+        38,
+        73,
+        156,
+        96,
+        110,
+        3
       ]
     },
     {
@@ -303,12 +303,12 @@
       "answer": "yeovil",
       "answer_letters": "YEOVIL",
       "indices": [
-        175,
-        150,
-        84,
-        131,
-        172,
-        35
+        31,
+        100,
+        24,
+        169,
+        132,
+        128
       ]
     }
   ],

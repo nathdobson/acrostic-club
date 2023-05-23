@@ -6,113 +6,166 @@
   "clues": [
     {
       "clue": null,
-      "answer": "graffiti",
-      "answer_letters": "GRAFFITI",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
-        25,
-        168,
-        57,
-        13,
-        43,
-        120,
-        159,
-        91
+        81,
+        151,
+        41,
+        83,
+        183,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
       "indices": [
-        62,
-        109,
-        180,
-        130,
-        20,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        19,
-        119,
-        22,
-        112,
+        139,
+        78,
         150,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "richly",
-      "answer_letters": "RICHLY",
-      "indices": [
-        66,
-        28,
-        153,
-        160,
-        100,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gothenburg",
-      "answer_letters": "GOTHENBURG",
-      "indices": [
-        72,
-        165,
-        68,
-        31,
-        178,
-        7,
-        94,
-        87,
-        75,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        34,
-        74,
-        39,
-        142,
-        115,
+        29,
+        126,
         48
       ]
     },
     {
       "clue": null,
-      "answer": "endemic",
-      "answer_letters": "ENDEMIC",
+      "answer": "oldest",
+      "answer_letters": "OLDEST",
       "indices": [
-        111,
-        80,
-        113,
-        6,
-        56,
-        70,
-        16
+        130,
+        99,
+        109,
+        127,
+        40,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "length",
-      "answer_letters": "LENGTH",
+      "answer": "ritual",
+      "answer_letters": "RITUAL",
       "indices": [
-        42,
+        185,
+        70,
+        92,
+        98,
+        134,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "governed",
+      "answer_letters": "GOVERNED",
+      "indices": [
+        72,
+        51,
+        5,
         23,
-        102,
-        81,
+        75,
+        80,
+        161,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eighth",
+      "answer_letters": "EIGHTH",
+      "indices": [
+        6,
+        152,
+        33,
+        160,
+        159,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eruption",
+      "answer_letters": "ERUPTION",
+      "indices": [
+        76,
+        143,
+        87,
+        167,
         129,
-        69
+        79,
+        156,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "looted",
+      "answer_letters": "LOOTED",
+      "indices": [
+        27,
+        26,
+        165,
+        68,
+        111,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inflicted",
+      "answer_letters": "INFLICTED",
+      "indices": [
+        28,
+        10,
+        157,
+        175,
+        114,
+        16,
+        89,
+        178,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottoman",
+      "answer_letters": "OTTOMAN",
+      "indices": [
+        19,
+        30,
+        45,
+        125,
+        124,
+        169,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "timing",
+      "answer_letters": "TIMING",
+      "indices": [
+        119,
+        101,
+        56,
+        46,
+        133,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shadow",
+      "answer_letters": "SHADOW",
+      "indices": [
+        132,
+        138,
+        9,
+        148,
+        84,
+        172
       ]
     },
     {
@@ -120,180 +173,127 @@
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
-        173,
-        55,
-        157,
-        21,
-        151,
+        120,
+        118,
+        14,
+        57,
+        31,
         105,
-        133
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "o'neill",
-      "answer_letters": "ONEILL",
+      "answer": "left-wing",
+      "answer_letters": "LEFTWING",
       "indices": [
-        156,
-        71,
-        65,
-        38,
-        175,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "therapy",
-      "answer_letters": "THERAPY",
-      "indices": [
-        183,
-        138,
-        1,
-        110,
-        9,
-        167,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stopped",
-      "answer_letters": "STOPPED",
-      "indices": [
-        182,
-        92,
-        51,
-        97,
-        135,
-        76,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italia",
-      "answer_letters": "ITALIA",
-      "indices": [
-        18,
-        83,
-        12,
-        99,
-        79,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ludwig",
-      "answer_letters": "LUDWIG",
-      "indices": [
-        0,
-        98,
-        148,
+        174,
+        184,
+        13,
+        50,
         164,
-        152,
+        18,
+        20,
         103
       ]
     },
     {
       "clue": null,
-      "answer": "antioch",
-      "answer_letters": "ANTIOCH",
+      "answer": "abs-cbn",
+      "answer_letters": "ABSCBN",
       "indices": [
-        53,
-        147,
-        2,
-        46,
-        84,
-        141,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "softball",
-      "answer_letters": "SOFTBALL",
-      "indices": [
-        118,
-        26,
-        14,
-        137,
+        12,
+        94,
+        182,
+        153,
         177,
-        169,
-        59,
-        27
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
+      "answer": "satellite",
+      "answer_letters": "SATELLITE",
       "indices": [
-        124,
-        29,
-        61,
-        89,
-        37,
-        4,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attested",
-      "answer_letters": "ATTESTED",
-      "indices": [
+        55,
         77,
         35,
-        45,
-        161,
-        40,
-        30,
-        15,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "retrieved",
-      "answer_letters": "RETRIEVED",
-      "indices": [
-        143,
-        184,
-        17,
-        88,
-        114,
         47,
-        5,
-        127,
-        107
+        0,
+        59,
+        173,
+        17,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "mapped",
+      "answer_letters": "MAPPED",
+      "indices": [
+        39,
+        112,
+        97,
+        135,
+        34,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "argyll",
+      "answer_letters": "ARGYLL",
+      "indices": [
+        53,
+        168,
+        25,
+        95,
+        100,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        110,
+        69,
+        170,
+        61,
+        37,
+        180
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
         63,
-        101,
-        33,
+        146,
+        137,
         154,
-        163,
-        132
+        21,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
+      "answer": "electrified",
+      "answer_letters": "ELECTRIFIED",
       "indices": [
-        139,
-        106,
-        185,
-        125,
-        174,
-        58
+        4,
+        122,
+        15,
+        141,
+        2,
+        88,
+        91,
+        43,
+        38,
+        65,
+        64
       ]
     },
     {
@@ -301,12 +301,12 @@
       "answer": "rental",
       "answer_letters": "RENTAL",
       "indices": [
-        126,
-        41,
-        10,
-        50,
-        134,
-        121
+        66,
+        1,
+        102,
+        22,
+        181,
+        42
       ]
     }
   ],

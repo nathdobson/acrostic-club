@@ -6,131 +6,189 @@
   "clues": [
     {
       "clue": null,
-      "answer": "validity",
-      "answer_letters": "VALIDITY",
+      "answer": "violate",
+      "answer_letters": "VIOLATE",
       "indices": [
-        112,
-        180,
-        3,
-        194,
-        16,
-        99,
-        81,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attempted",
-      "answer_letters": "ATTEMPTED",
-      "indices": [
-        46,
-        64,
-        52,
-        184,
-        190,
-        85,
-        117,
-        126,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikolai",
-      "answer_letters": "NIKOLAI",
-      "indices": [
-        159,
-        48,
-        124,
-        69,
-        134,
-        42,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nineteenth",
-      "answer_letters": "NINETEENTH",
-      "indices": [
-        125,
-        110,
-        50,
-        138,
-        9,
-        75,
-        169,
-        62,
-        178,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "commit",
-      "answer_letters": "COMMIT",
-      "indices": [
-        101,
-        78,
-        154,
-        93,
-        90,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hilltop",
-      "answer_letters": "HILLTOP",
-      "indices": [
-        115,
-        177,
-        11,
-        142,
-        40,
-        19,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "octave",
-      "answer_letters": "OCTAVE",
-      "indices": [
-        173,
-        39,
-        47,
-        88,
         74,
+        188,
+        146,
+        185,
+        46,
+        97,
         66
       ]
     },
     {
       "clue": null,
-      "answer": "whites",
-      "answer_letters": "WHITES",
+      "answer": "assembled",
+      "answer_letters": "ASSEMBLED",
       "indices": [
-        131,
-        157,
-        165,
-        145,
-        94,
-        181
+        140,
+        148,
+        57,
+        184,
+        89,
+        107,
+        104,
+        113,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "swiftly",
-      "answer_letters": "SWIFTLY",
+      "answer": "nativity",
+      "answer_letters": "NATIVITY",
       "indices": [
-        152,
+        50,
+        58,
+        117,
+        110,
+        168,
+        194,
+        30,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        18,
+        158,
+        124,
+        2,
+        166,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "camille",
+      "answer_letters": "CAMILLE",
+      "indices": [
+        101,
+        38,
+        154,
+        10,
+        12,
+        109,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hawkins",
+      "answer_letters": "HAWKINS",
+      "indices": [
+        28,
+        88,
         25,
-        119,
-        120,
+        22,
+        15,
+        96,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        153,
+        142,
+        105,
+        82,
+        42,
+        190
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "without",
+      "answer_letters": "WITHOUT",
+      "indices": [
+        27,
+        177,
+        47,
+        115,
+        69,
+        103,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stepfather",
+      "answer_letters": "STEPFATHER",
+      "indices": [
+        8,
+        55,
+        108,
+        162,
+        35,
+        171,
+        156,
+        1,
+        73,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "holloway",
+      "answer_letters": "HOLLOWAY",
+      "indices": [
+        53,
+        132,
+        76,
+        34,
+        163,
+        127,
+        54,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attitude",
+      "answer_letters": "ATTITUDE",
+      "indices": [
+        29,
         68,
-        193,
-        191
+        59,
+        90,
+        9,
+        174,
+        135,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nemesis",
+      "answer_letters": "NEMESIS",
+      "indices": [
+        159,
+        155,
+        93,
+        33,
+        181,
+        122,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gifted",
+      "answer_letters": "GIFTED",
+      "indices": [
+        160,
+        129,
+        79,
+        175,
+        169,
+        14
       ]
     },
     {
@@ -138,140 +196,83 @@
       "answer": "hilltop",
       "answer_letters": "HILLTOP",
       "indices": [
-        82,
-        6,
-        76,
-        185,
-        114,
-        102,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "allotted",
-      "answer_letters": "ALLOTTED",
-      "indices": [
-        140,
-        12,
+        157,
+        119,
+        193,
         43,
-        132,
-        166,
-        55,
-        83,
-        91
+        145,
+        102,
+        85
       ]
     },
     {
       "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "answer": "auschwitz",
+      "answer_letters": "AUSCHWITZ",
       "indices": [
-        96,
-        73,
-        127,
-        148,
-        0,
-        4,
-        113,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gambia",
-      "answer_letters": "GAMBIA",
-      "indices": [
-        160,
-        54,
-        89,
-        107,
-        10,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "habits",
-      "answer_letters": "HABITS",
-      "indices": [
-        53,
-        116,
-        137,
-        167,
-        97,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affiliated",
-      "answer_letters": "AFFILIATED",
-      "indices": [
-        58,
-        195,
-        79,
-        188,
-        34,
-        44,
-        171,
-        59,
-        108,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invites",
-      "answer_letters": "INVITES",
-      "indices": [
-        122,
-        189,
-        168,
-        158,
-        20,
-        155,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
-      "indices": [
-        18,
-        95,
-        30,
-        38,
-        32,
-        1,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-hour",
-      "answer_letters": "ONEHOUR",
-      "indices": [
-        153,
-        23,
-        33,
-        65,
-        163,
+        180,
         41,
-        87
+        152,
+        39,
+        65,
+        0,
+        165,
+        20,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "belize",
-      "answer_letters": "BELIZE",
+      "answer": "inflation",
+      "answer_letters": "INFLATION",
       "indices": [
-        172,
-        143,
-        186,
-        129,
-        45,
+        48,
+        62,
+        120,
+        3,
+        149,
+        64,
+        44,
+        49,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "native",
+      "answer_letters": "NATIVE",
+      "indices": [
+        125,
+        116,
+        81,
+        167,
+        112,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "option",
+      "answer_letters": "OPTION",
+      "indices": [
+        173,
+        70,
+        52,
+        99,
+        78,
+        189
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "beetle",
+      "answer_letters": "BEETLE",
+      "indices": [
+        137,
+        83,
+        126,
+        178,
+        11,
         196
       ]
     },
@@ -280,27 +281,26 @@
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
-        146,
-        103,
-        156,
-        35,
-        109,
-        49,
+        61,
+        133,
+        114,
+        195,
+        134,
+        24,
         183
       ]
     },
     {
       "clue": null,
-      "answer": "dubious",
-      "answer_letters": "DUBIOUS",
+      "answer": "debbie",
+      "answer_letters": "DEBBIE",
       "indices": [
-        105,
-        133,
+        91,
+        143,
         141,
-        2,
-        24,
-        174,
-        8
+        172,
+        6,
+        4
       ]
     },
     {
@@ -308,12 +308,12 @@
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
-        150,
-        111,
-        104,
+        191,
+        94,
+        186,
         72,
-        61,
-        27
+        19,
+        131
       ]
     }
   ],

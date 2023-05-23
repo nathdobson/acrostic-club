@@ -9,12 +9,12 @@
       "answer": "career",
       "answer_letters": "CAREER",
       "indices": [
-        71,
-        50,
-        157,
-        45,
-        37,
-        113
+        92,
+        144,
+        113,
+        23,
+        18,
+        59
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "yorker",
       "answer_letters": "YORKER",
       "indices": [
-        64,
-        9,
-        103,
-        6,
-        75,
-        36
+        147,
+        98,
+        46,
+        39,
+        60,
+        103
       ]
     },
     {
@@ -35,12 +35,12 @@
       "answer": "notice",
       "answer_letters": "NOTICE",
       "indices": [
-        27,
-        109,
-        82,
-        108,
-        92,
-        94
+        66,
+        9,
+        62,
+        106,
+        71,
+        104
       ]
     },
     {
@@ -48,12 +48,12 @@
       "answer": "tomato",
       "answer_letters": "TOMATO",
       "indices": [
-        43,
-        70,
+        122,
+        57,
         12,
-        38,
-        51,
-        121
+        139,
+        95,
+        72
       ]
     },
     {
@@ -61,12 +61,12 @@
       "answer": "hooker",
       "answer_letters": "HOOKER",
       "indices": [
-        49,
-        86,
-        150,
+        137,
+        109,
+        21,
         25,
-        91,
-        88
+        94,
+        76
       ]
     },
     {
@@ -74,14 +74,14 @@
       "answer": "islamist",
       "answer_letters": "ISLAMIST",
       "indices": [
-        167,
-        14,
-        145,
-        172,
-        22,
-        4,
+        142,
         100,
-        158
+        145,
+        38,
+        79,
+        42,
+        90,
+        136
       ]
     },
     {
@@ -89,14 +89,14 @@
       "answer": "admitting",
       "answer_letters": "ADMITTING",
       "indices": [
-        33,
-        28,
-        162,
+        112,
+        111,
+        22,
         65,
-        136,
-        62,
-        42,
-        73,
+        153,
+        82,
+        167,
+        110,
         107
       ]
     },
@@ -105,14 +105,14 @@
       "answer": "honorary",
       "answer_letters": "HONORARY",
       "indices": [
-        44,
+        128,
         117,
         5,
-        53,
-        54,
-        144,
+        86,
+        141,
+        50,
         63,
-        85
+        149
       ]
     },
     {
@@ -120,13 +120,13 @@
       "answer": "anybody",
       "answer_letters": "ANYBODY",
       "indices": [
-        156,
-        66,
-        116,
+        132,
+        73,
+        8,
         17,
-        57,
-        160,
-        163
+        83,
+        28,
+        116
       ]
     },
     {
@@ -134,14 +134,14 @@
       "answer": "nativity",
       "answer_letters": "NATIVITY",
       "indices": [
-        110,
-        139,
-        153,
+        173,
+        172,
+        158,
         0,
         166,
-        106,
-        77,
-        133
+        108,
+        43,
+        64
       ]
     },
     {
@@ -149,12 +149,12 @@
       "answer": "devote",
       "answer_letters": "DEVOTE",
       "indices": [
-        111,
-        138,
+        160,
+        125,
         74,
-        98,
-        69,
-        159
+        150,
+        48,
+        91
       ]
     },
     {
@@ -162,12 +162,12 @@
       "answer": "ulster",
       "answer_letters": "ULSTER",
       "indices": [
-        58,
-        105,
-        20,
-        122,
-        101,
-        46
+        151,
+        146,
+        127,
+        77,
+        75,
+        99
       ]
     },
     {
@@ -175,16 +175,16 @@
       "answer": "nonetheless",
       "answer_letters": "NONETHELESS",
       "indices": [
-        173,
-        72,
+        27,
+        30,
         114,
-        104,
-        15,
-        137,
-        165,
+        101,
+        51,
+        49,
+        41,
         171,
-        60,
-        127,
+        80,
+        20,
         134
       ]
     },
@@ -193,12 +193,12 @@
       "answer": "eighty",
       "answer_letters": "EIGHTY",
       "indices": [
-        41,
-        142,
-        120,
-        128,
-        2,
-        149
+        165,
+        4,
+        67,
+        44,
+        69,
+        85
       ]
     },
     {
@@ -206,13 +206,13 @@
       "answer": "amherst",
       "answer_letters": "AMHERST",
       "indices": [
-        112,
-        79,
-        97,
-        80,
-        93,
+        156,
+        124,
+        3,
+        138,
+        88,
         131,
-        140
+        15
       ]
     },
     {
@@ -220,14 +220,14 @@
       "answer": "refugees",
       "answer_letters": "REFUGEES",
       "indices": [
-        141,
-        129,
+        93,
+        159,
         35,
-        13,
-        67,
-        125,
-        23,
-        90
+        118,
+        120,
+        37,
+        45,
+        14
       ]
     },
     {
@@ -235,13 +235,13 @@
       "answer": "two-year",
       "answer_letters": "TWOYEAR",
       "indices": [
-        95,
+        140,
         155,
-        30,
-        56,
-        18,
-        132,
-        76
+        53,
+        163,
+        129,
+        33,
+        157
       ]
     },
     {
@@ -249,13 +249,13 @@
       "answer": "hickory",
       "answer_letters": "HICKORY",
       "indices": [
-        3,
+        154,
         26,
         143,
-        39,
-        21,
-        99,
-        8
+        6,
+        121,
+        54,
+        133
       ]
     },
     {
@@ -264,11 +264,11 @@
       "answer_letters": "LUMPUR",
       "indices": [
         168,
-        151,
-        124,
-        170,
         10,
-        59
+        162,
+        170,
+        58,
+        36
       ]
     },
     {
@@ -276,14 +276,14 @@
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
-        147,
-        83,
-        118,
-        48,
-        154,
+        56,
+        70,
+        13,
+        2,
+        97,
         31,
         87,
-        146
+        105
       ]
     }
   ],

@@ -6,200 +6,239 @@
   "clues": [
     {
       "clue": null,
-      "answer": "pivotal",
-      "answer_letters": "PIVOTAL",
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
       "indices": [
         66,
-        103,
-        50,
-        15,
-        151,
-        125,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
-      "indices": [
         60,
-        98,
-        78,
-        8,
-        6,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ideology",
-      "answer_letters": "IDEOLOGY",
-      "indices": [
-        119,
-        121,
-        96,
-        164,
-        113,
-        35,
-        81,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loving",
-      "answer_letters": "LOVING",
-      "indices": [
-        30,
-        4,
-        102,
-        61,
-        52,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "portfolios",
-      "answer_letters": "PORTFOLIOS",
-      "indices": [
-        59,
-        42,
-        16,
-        55,
-        18,
-        88,
-        62,
-        39,
-        114,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harmonic",
-      "answer_letters": "HARMONIC",
-      "indices": [
-        56,
-        161,
-        158,
-        0,
-        72,
-        99,
-        24,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        49,
-        46,
-        36,
-        133,
-        95,
-        109,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ludlow",
-      "answer_letters": "LUDLOW",
-      "indices": [
-        21,
-        73,
-        127,
-        48,
-        22,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obvious",
-      "answer_letters": "OBVIOUS",
-      "indices": [
-        10,
-        77,
-        115,
-        79,
-        154,
-        5,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "swords",
-      "answer_letters": "SWORDS",
-      "indices": [
-        70,
-        23,
-        152,
-        84,
-        75,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottomans",
-      "answer_letters": "OTTOMANS",
-      "indices": [
         137,
-        91,
-        162,
-        63,
-        123,
-        28,
-        32,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fifteenth",
-      "answer_letters": "FIFTEENTH",
-      "indices": [
-        83,
-        168,
-        14,
-        140,
-        147,
-        33,
-        11,
         9,
-        167
+        88,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "rowing",
-      "answer_letters": "ROWING",
+      "answer": "hiding",
+      "answer_letters": "HIDING",
       "indices": [
-        156,
-        130,
-        38,
-        163,
-        110,
+        71,
+        146,
+        75,
+        119,
+        25,
         53
       ]
     },
     {
       "clue": null,
-      "answer": "emilio",
-      "answer_letters": "EMILIO",
+      "answer": "inhibit",
+      "answer_letters": "INHIBIT",
+      "indices": [
+        98,
+        110,
+        95,
+        39,
+        77,
+        49,
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "loyalist",
+      "answer_letters": "LOYALIST",
+      "indices": [
+        48,
+        114,
+        149,
+        133,
+        160,
+        31,
+        170,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "panama",
+      "answer_letters": "PANAMA",
+      "indices": [
+        132,
+        109,
+        99,
+        161,
+        43,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hollywood",
+      "answer_letters": "HOLLYWOOD",
+      "indices": [
+        7,
+        10,
+        21,
+        20,
+        1,
+        23,
+        92,
+        15,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
+      "indices": [
+        168,
+        8,
+        42,
+        3,
+        154,
+        59,
+        33,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifelong",
+      "answer_letters": "LIFELONG",
+      "indices": [
+        107,
+        45,
+        14,
+        57,
+        30,
+        63,
+        32,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "occurs",
+      "answer_letters": "OCCURS",
+      "indices": [
+        152,
+        6,
+        145,
+        73,
+        84,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "seventh",
+      "answer_letters": "SEVENTH",
+      "indices": [
+        120,
+        159,
+        115,
+        86,
+        11,
+        55,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "optimum",
+      "answer_letters": "OPTIMUM",
+      "indices": [
+        141,
+        169,
+        162,
+        101,
+        89,
+        105,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fungus",
+      "answer_letters": "FUNGUS",
+      "indices": [
+        36,
+        5,
+        138,
+        81,
+        155,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "revolt",
+      "answer_letters": "REVOLT",
+      "indices": [
+        78,
+        96,
+        102,
+        72,
+        74,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evasion",
+      "answer_letters": "EVASION",
+      "indices": [
+        12,
+        50,
+        106,
+        134,
+        51,
+        122,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "editions",
+      "answer_letters": "EDITIONS",
       "indices": [
         85,
-        89,
-        31,
-        20,
-        146,
-        92
+        121,
+        103,
+        140,
+        163,
+        35,
+        52,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "casimir",
+      "answer_letters": "CASIMIR",
+      "indices": [
+        129,
+        125,
+        166,
+        24,
+        0,
+        136,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        56,
+        130,
+        113,
+        62,
+        65,
+        38
       ]
     },
     {
@@ -207,92 +246,53 @@
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
-        86,
-        104,
-        131,
-        144,
-        165,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "custody",
-      "answer_letters": "CUSTODY",
-      "indices": [
-        145,
-        105,
-        64,
-        148,
-        122,
+        147,
         87,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "happen",
-      "answer_letters": "HAPPEN",
-      "indices": [
-        71,
-        106,
-        169,
-        132,
-        159,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emilio",
-      "answer_letters": "EMILIO",
-      "indices": [
-        57,
-        43,
-        51,
-        74,
-        45,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nilsson",
-      "answer_letters": "NILSSON",
-      "indices": [
-        126,
-        101,
-        160,
-        134,
-        40,
-        65,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edited",
-      "answer_letters": "EDITED",
-      "indices": [
-        12,
-        100,
-        136,
-        3,
-        116,
+        123,
+        4,
+        80,
         41
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "norwood",
+      "answer_letters": "NORWOOD",
+      "indices": [
+        126,
+        164,
+        158,
+        118,
+        19,
+        22,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        116,
+        83,
+        18,
+        144,
+        156,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
         68,
-        141,
-        155,
-        94,
-        7,
-        166
+        79,
+        100,
+        111,
+        61,
+        40,
+        167
       ]
     }
   ],

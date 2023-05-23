@@ -6,15 +6,15 @@
   "clues": [
     {
       "clue": null,
-      "answer": "laptop",
-      "answer_letters": "LAPTOP",
+      "answer": "lankan",
+      "answer_letters": "LANKAN",
       "indices": [
-        19,
-        44,
-        82,
-        132,
-        52,
-        70
+        25,
+        154,
+        8,
+        9,
+        84,
+        121
       ]
     },
     {
@@ -22,160 +22,185 @@
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [
-        20,
-        26,
+        151,
+        179,
         116,
-        135,
-        121,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "option",
-      "answer_letters": "OPTION",
-      "indices": [
-        39,
-        47,
-        143,
-        56,
-        72,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "turkey's",
-      "answer_letters": "TURKEYS",
-      "indices": [
-        91,
-        1,
-        125,
-        50,
-        103,
-        42,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occult",
-      "answer_letters": "OCCULT",
-      "indices": [
-        28,
-        142,
-        105,
-        32,
-        159,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
-      "indices": [
-        160,
         69,
-        174,
-        149,
-        16,
-        75,
-        53,
-        29,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shower",
-      "answer_letters": "SHOWER",
-      "indices": [
-        34,
-        137,
-        23,
-        93,
-        48,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tianjin",
-      "answer_letters": "TIANJIN",
-      "indices": [
-        128,
-        169,
-        106,
-        99,
-        0,
-        7,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "opened",
-      "answer_letters": "OPENED",
-      "indices": [
-        31,
-        63,
-        112,
         40,
-        94,
         58
       ]
     },
     {
       "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "answer": "object",
+      "answer_letters": "OBJECT",
       "indices": [
-        80,
-        141,
-        49,
-        119,
-        138,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "auburn",
-      "answer_letters": "AUBURN",
-      "indices": [
-        158,
-        65,
+        145,
         162,
-        163,
-        33,
-        178
+        0,
+        126,
+        105,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "taipei",
+      "answer_letters": "TAIPEI",
       "indices": [
-        66,
+        149,
+        44,
+        78,
+        82,
+        20,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "output",
+      "answer_letters": "OUTPUT",
+      "indices": [
+        18,
+        135,
+        118,
+        63,
+        163,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lighting",
+      "answer_letters": "LIGHTING",
+      "indices": [
+        159,
         144,
         67,
-        12,
+        97,
+        5,
+        98,
+        178,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "school",
+      "answer_letters": "SCHOOL",
+      "indices": [
+        114,
+        142,
+        17,
+        134,
+        39,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
         96,
+        109,
+        24,
+        28,
+        102,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlaws",
+      "answer_letters": "OUTLAWS",
+      "indices": [
+        52,
+        1,
+        11,
+        57,
+        177,
+        22,
         62
       ]
     },
     {
       "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        80,
+        72,
+        65,
+        164,
+        150,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authors",
+      "answer_letters": "AUTHORS",
+      "indices": [
+        141,
+        32,
+        128,
+        137,
+        173,
+        155,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nippon",
+      "answer_letters": "NIPPON",
+      "indices": [
+        73,
+        7,
+        47,
+        70,
+        23,
+        170
+      ]
+    },
+    {
+      "clue": null,
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        73,
-        120,
-        136,
+        99,
+        56,
+        166,
         133,
-        3,
-        139
+        77,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "argyle",
+      "answer_letters": "ARGYLE",
+      "indices": [
+        168,
+        33,
+        136,
+        89,
+        160,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "knives",
+      "answer_letters": "KNIVES",
+      "indices": [
+        100,
+        79,
+        36,
+        111,
+        86,
+        2
       ]
     },
     {
@@ -183,7 +208,7 @@
       "answer": "argyll",
       "answer_letters": "ARGYLL",
       "indices": [
-        84,
+        106,
         64,
         122,
         152,
@@ -193,56 +218,55 @@
     },
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        9,
-        115,
-        114,
-        173,
-        111,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "another",
-      "answer_letters": "ANOTHER",
-      "indices": [
-        168,
-        79,
-        134,
-        87,
-        17,
-        86,
-        24
-      ]
-    },
-    {
-      "clue": null,
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        167,
-        97,
-        89,
-        77,
-        150,
+        125,
+        119,
+        42,
+        87,
+        12,
         55
       ]
     },
     {
       "clue": null,
-      "answer": "estates",
-      "answer_letters": "ESTATES",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        151,
-        14,
-        164,
-        177,
-        118,
-        59,
-        147
+        103,
+        174,
+        29,
+        115,
+        167,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        66,
+        90,
+        93,
+        117,
+        147,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        13,
+        34,
+        53,
+        127,
+        6,
+        158,
+        107
       ]
     },
     {
@@ -250,55 +274,31 @@
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
-        146,
-        126,
-        102,
-        171,
+        85,
+        112,
+        16,
+        176,
         60,
-        156,
-        117,
-        100
+        59,
+        48,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "associated",
+      "answer_letters": "ASSOCIATED",
       "indices": [
-        13,
-        37,
-        127,
-        36,
+        75,
+        46,
+        139,
+        31,
+        49,
+        120,
         110,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        8,
-        98,
-        124,
-        6,
-        11,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "allowing",
-      "answer_letters": "ALLOWING",
-      "indices": [
-        154,
-        25,
-        57,
-        18,
-        22,
-        78,
-        170,
-        166
+        132,
+        156,
+        26
       ]
     }
   ],

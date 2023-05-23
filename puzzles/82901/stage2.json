@@ -6,171 +6,169 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chassis",
-      "answer_letters": "CHASSIS",
+      "answer": "chichester",
+      "answer_letters": "CHICHESTER",
       "indices": [
         5,
-        104,
-        133,
-        74,
-        42,
+        160,
         149,
+        168,
+        86,
+        22,
+        125,
+        66,
+        82,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heated",
+      "answer_letters": "HEATED",
+      "indices": [
+        109,
+        117,
+        65,
+        12,
+        164,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abs-cbn",
+      "answer_letters": "ABSCBN",
+      "indices": [
+        110,
+        21,
+        27,
+        113,
+        79,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rockford",
+      "answer_letters": "ROCKFORD",
+      "indices": [
+        99,
+        128,
+        29,
+        54,
+        68,
+        18,
+        14,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        80,
+        23,
+        19,
+        151,
+        157,
+        83,
+        47,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        87,
+        74,
+        43,
+        0,
+        98,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exodus",
+      "answer_letters": "EXODUS",
+      "indices": [
+        39,
+        49,
+        101,
+        34,
+        81,
         152
       ]
     },
     {
       "clue": null,
-      "answer": "hybrid",
-      "answer_letters": "HYBRID",
+      "answer": "hawaii",
+      "answer_letters": "HAWAII",
       "indices": [
-        169,
-        177,
-        21,
-        115,
-        37,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "achieved",
-      "answer_letters": "ACHIEVED",
-      "indices": [
-        105,
-        113,
-        59,
-        13,
-        22,
-        116,
-        141,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "refuge",
-      "answer_letters": "REFUGE",
-      "indices": [
-        38,
-        94,
-        68,
-        81,
-        25,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lakshmi",
-      "answer_letters": "LAKSHMI",
-      "indices": [
-        71,
-        65,
-        54,
-        72,
-        86,
-        166,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italics",
-      "answer_letters": "ITALICS",
-      "indices": [
-        28,
-        36,
-        100,
-        80,
-        87,
-        168,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        39,
-        16,
-        93,
-        167,
-        9,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hardship",
-      "answer_letters": "HARDSHIP",
-      "indices": [
-        175,
-        75,
-        14,
-        139,
-        27,
-        123,
-        135,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        4,
-        121,
-        109,
-        98,
-        79,
-        76,
-        108,
-        164,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        163,
-        128,
-        69,
-        12,
-        146,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stretched",
-      "answer_letters": "STRETCHED",
-      "indices": [
-        125,
-        111,
-        99,
-        176,
-        63,
-        29,
-        97,
-        144,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        101,
-        148,
-        127,
-        114,
+        64,
+        161,
         57,
-        145
+        114,
+        52,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invite",
+      "answer_letters": "INVITE",
+      "indices": [
+        50,
+        55,
+        116,
+        28,
+        174,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        25,
+        60,
+        127,
+        102,
+        75,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
+      "indices": [
+        72,
+        155,
+        167,
+        63,
+        59,
+        61,
+        32,
+        115,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        92,
+        154,
+        44,
+        91,
+        123,
+        8
       ]
     },
     {
@@ -179,42 +177,37 @@
       "answer_letters": "NIKITA",
       "indices": [
         162,
-        44,
+        135,
+        89,
+        76,
+        36,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        85,
+        104,
+        4,
+        24,
         6,
-        52,
-        66,
-        43
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "taxonomic",
-      "answer_letters": "TAXONOMIC",
+      "answer": "handed",
+      "answer_letters": "HANDED",
       "indices": [
-        157,
-        32,
-        49,
-        92,
-        55,
-        60,
-        1,
-        124,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "handbook",
-      "answer_letters": "HANDBOOK",
-      "indices": [
-        64,
-        161,
-        33,
-        10,
-        130,
-        120,
-        56,
-        30
+        146,
+        145,
+        156,
+        106,
+        136,
+        10
       ]
     },
     {
@@ -222,65 +215,72 @@
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
-        70,
-        140,
-        129,
-        18,
-        88,
+        144,
+        16,
+        1,
+        120,
+        33,
         77
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "answer": "exploded",
+      "answer_letters": "EXPLODED",
       "indices": [
-        117,
-        154,
-        47,
-        172,
-        156,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        24,
-        83,
-        89,
-        23,
-        85,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
-      "indices": [
-        151,
+        69,
         134,
-        61,
-        50,
-        19,
-        51
+        96,
+        71,
+        172,
+        142,
+        176,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "methods",
-      "answer_letters": "METHODS",
+      "answer": "nottingham",
+      "answer_letters": "NOTTINGHAM",
+      "indices": [
+        121,
+        56,
+        111,
+        148,
+        37,
+        88,
+        163,
+        97,
+        138,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embedded",
+      "answer_letters": "EMBEDDED",
+      "indices": [
+        51,
+        93,
+        130,
+        70,
+        40,
+        140,
+        15,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mystic",
+      "answer_letters": "MYSTIC",
       "indices": [
         132,
-        82,
-        174,
-        160,
-        155,
-        34,
-        3
+        143,
+        42,
+        108,
+        13,
+        159
       ]
     },
     {
@@ -288,12 +288,12 @@
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
-        143,
-        110,
-        150,
-        48,
-        102,
-        138
+        177,
+        133,
+        129,
+        100,
+        169,
+        48
       ]
     }
   ],

@@ -6,43 +6,41 @@
   "clues": [
     {
       "clue": null,
-      "answer": "shutdown",
-      "answer_letters": "SHUTDOWN",
+      "answer": "shifts",
+      "answer_letters": "SHIFTS",
       "indices": [
-        127,
+        40,
         140,
-        130,
+        113,
+        53,
         128,
-        146,
-        92,
-        10,
-        161
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "highly",
-      "answer_letters": "HIGHLY",
+      "answer": "hybrid",
+      "answer_letters": "HYBRID",
       "indices": [
-        44,
-        57,
-        83,
-        41,
-        74,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "always",
-      "answer_letters": "ALWAYS",
-      "indices": [
-        8,
-        86,
-        119,
-        124,
+        80,
         91,
-        40
+        97,
+        164,
+        69,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alonso",
+      "answer_letters": "ALONSO",
+      "indices": [
+        45,
+        32,
+        54,
+        61,
+        17,
+        168
       ]
     },
     {
@@ -50,119 +48,134 @@
       "answer": "nissan",
       "answer_letters": "NISSAN",
       "indices": [
-        51,
-        81,
-        13,
+        123,
+        57,
+        149,
         150,
-        100,
-        147
+        124,
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
+      "answer": "nurses",
+      "answer_letters": "NURSES",
       "indices": [
-        61,
-        87,
-        88,
-        115,
-        30,
-        38
+        161,
+        130,
+        28,
+        127,
+        141,
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
+      "answer": "oswald",
+      "answer_letters": "OSWALD",
       "indices": [
         73,
-        97,
-        133,
+        165,
+        10,
+        100,
+        86,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "non-swiss",
+      "answer_letters": "NONSWISS",
+      "indices": [
+        147,
         31,
-        37,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nirvana",
-      "answer_letters": "NIRVANA",
-      "indices": [
-        122,
-        113,
-        28,
-        26,
-        68,
-        153,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "however",
-      "answer_letters": "HOWEVER",
-      "indices": [
-        107,
-        168,
+        36,
+        13,
         77,
-        148,
-        63,
-        42,
-        164
+        81,
+        5,
+        125
       ]
     },
     {
       "clue": null,
-      "answer": "ashland",
-      "answer_letters": "ASHLAND",
+      "answer": "haven't",
+      "answer_letters": "HAVENT",
       "indices": [
-        152,
-        156,
-        59,
-        75,
-        118,
-        82,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "losses",
-      "answer_letters": "LOSSES",
-      "indices": [
-        32,
-        54,
-        125,
-        17,
-        19,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
-      "indices": [
-        158,
+        44,
+        8,
+        26,
+        64,
         137,
-        65,
-        55,
-        56,
-        15
+        79
       ]
     },
     {
       "clue": null,
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
+      "answer": "allowed",
+      "answer_letters": "ALLOWED",
       "indices": [
-        89,
-        1,
+        11,
+        74,
+        102,
+        55,
+        119,
+        25,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lovely",
+      "answer_letters": "LOVELY",
+      "indices": [
+        101,
+        92,
+        63,
+        148,
+        133,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enrolled",
+      "answer_letters": "ENROLLED",
+      "indices": [
+        49,
+        51,
         142,
         76,
-        94,
-        102
+        95,
+        15,
+        27,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        35,
+        153,
+        167,
+        93,
+        132,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
+      "indices": [
+        24,
+        134,
+        163,
+        169,
+        75,
+        121
       ]
     },
     {
@@ -170,39 +183,26 @@
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
-        24,
-        25,
-        98,
-        22,
-        163,
-        138
+        37,
+        21,
+        19,
+        162,
+        42,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "alleged",
+      "answer_letters": "ALLEGED",
       "indices": [
-        36,
-        69,
+        145,
+        9,
+        56,
+        50,
         106,
-        72,
-        79,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assists",
-      "answer_letters": "ASSISTS",
-      "indices": [
-        136,
-        67,
-        144,
-        4,
-        117,
-        166,
-        114
+        89,
+        70
       ]
     },
     {
@@ -211,50 +211,50 @@
       "answer_letters": "BEHEST",
       "indices": [
         48,
-        141,
-        157,
-        64,
-        149,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ursula",
-      "answer_letters": "URSULA",
-      "indices": [
-        93,
-        104,
-        5,
-        160,
-        9,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rolled",
-      "answer_letters": "ROLLED",
-      "indices": [
-        129,
-        167,
-        95,
-        101,
-        49,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "needed",
-      "answer_letters": "NEEDED",
-      "indices": [
-        20,
         62,
-        50,
-        162,
-        121,
-        169
+        72,
+        98,
+        58,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ulster",
+      "answer_letters": "ULSTER",
+      "indices": [
+        160,
+        94,
+        144,
+        108,
+        158,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "radars",
+      "answer_letters": "RADARS",
+      "indices": [
+        104,
+        68,
+        146,
+        136,
+        65,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        82,
+        87,
+        131,
+        41,
+        18,
+        67
       ]
     },
     {
@@ -262,38 +262,38 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        16,
-        58,
-        145,
+        115,
+        114,
+        38,
         105,
-        11,
-        80
+        152,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "needed",
-      "answer_letters": "NEEDED",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
       "indices": [
-        123,
-        27,
-        35,
-        154,
-        21,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gifted",
-      "answer_letters": "GIFTED",
-      "indices": [
-        131,
+        1,
         6,
-        53,
-        18,
-        134,
-        70
+        88,
+        16,
+        30,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gandhi",
+      "answer_letters": "GANDHI",
+      "indices": [
+        83,
+        118,
+        122,
+        33,
+        107,
+        4
       ]
     }
   ],

@@ -6,43 +6,42 @@
   "clues": [
     {
       "clue": null,
-      "answer": "narrow",
-      "answer_letters": "NARROW",
+      "answer": "namibia",
+      "answer_letters": "NAMIBIA",
       "indices": [
-        88,
-        64,
-        112,
-        117,
-        118,
-        2
+        146,
+        76,
+        63,
+        37,
+        8,
+        4,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "italy's",
+      "answer_letters": "ITALYS",
       "indices": [
-        19,
-        160,
-        0,
-        84,
-        137,
-        93
+        71,
+        95,
+        39,
+        5,
+        97,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "crippled",
-      "answer_letters": "CRIPPLED",
+      "answer": "catchy",
+      "answer_letters": "CATCHY",
       "indices": [
-        10,
-        29,
-        144,
-        116,
-        169,
-        59,
-        162,
-        123
+        163,
+        23,
+        143,
+        20,
+        14,
+        61
       ]
     },
     {
@@ -51,10 +50,10 @@
       "answer_letters": "KEEPER",
       "indices": [
         107,
-        6,
-        167,
-        157,
         15,
+        6,
+        119,
+        127,
         41
       ]
     },
@@ -63,231 +62,232 @@
       "answer": "harrow",
       "answer_letters": "HARROW",
       "indices": [
-        14,
-        39,
-        30,
-        113,
-        98,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outbreak",
-      "answer_letters": "OUTBREAK",
-      "indices": [
-        134,
-        99,
-        95,
-        27,
-        102,
-        43,
-        111,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rwandan",
-      "answer_letters": "RWANDAN",
-      "indices": [
+        52,
+        0,
         171,
-        13,
-        28,
-        34,
-        35,
-        148,
-        146
+        56,
+        154,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "newport",
-      "answer_letters": "NEWPORT",
+      "answer": "operate",
+      "answer_letters": "OPERATE",
       "indices": [
-        24,
-        103,
-        74,
-        161,
-        80,
-        68,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "birthday",
-      "answer_letters": "BIRTHDAY",
-      "indices": [
-        110,
-        37,
-        155,
-        49,
-        47,
-        130,
-        58,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
-      "indices": [
-        114,
-        101,
-        16,
-        85,
-        57,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harvey",
-      "answer_letters": "HARVEY",
-      "indices": [
-        126,
-        94,
-        150,
-        166,
-        141,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        106,
-        176,
-        9,
-        149,
-        53,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "greece",
-      "answer_letters": "GREECE",
-      "indices": [
-        40,
-        158,
-        127,
-        42,
-        20,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "habitats",
-      "answer_letters": "HABITATS",
-      "indices": [
-        3,
-        76,
-        8,
-        71,
-        125,
-        33,
-        77,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "follow",
-      "answer_letters": "FOLLOW",
-      "indices": [
-        135,
-        145,
-        83,
-        60,
         159,
+        169,
+        131,
+        158,
+        28,
+        65,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rainbow",
+      "answer_letters": "RAINBOW",
+      "indices": [
+        175,
+        48,
+        129,
+        88,
+        27,
+        80,
         51
       ]
     },
     {
       "clue": null,
-      "answer": "indeed",
-      "answer_letters": "INDEED",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
-        4,
         173,
-        18,
-        131,
+        42,
+        157,
+        47,
+        151,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "banquet",
+      "answer_letters": "BANQUET",
+      "indices": [
+        110,
+        111,
+        24,
+        139,
+        81,
+        167,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yields",
+      "answer_letters": "YIELDS",
+      "indices": [
+        79,
+        144,
+        67,
+        59,
+        35,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "horror",
+      "answer_letters": "HORROR",
+      "indices": [
+        93,
+        120,
+        112,
+        30,
+        118,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italia",
+      "answer_letters": "ITALIA",
+      "indices": [
+        165,
+        172,
+        148,
+        60,
+        106,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "growth",
+      "answer_letters": "GROWTH",
+      "indices": [
+        40,
+        102,
+        134,
+        2,
+        164,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "havana",
+      "answer_letters": "HAVANA",
+      "indices": [
+        3,
+        64,
+        166,
+        94,
+        147,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fireworks",
+      "answer_letters": "FIREWORKS",
+      "indices": [
+        153,
+        149,
+        29,
         174,
+        92,
+        98,
+        113,
+        85,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intended",
+      "answer_letters": "INTENDED",
+      "indices": [
+        19,
+        16,
+        66,
+        122,
+        34,
+        25,
+        141,
         44
       ]
     },
     {
       "clue": null,
-      "answer": "dakota",
-      "answer_letters": "DAKOTA",
+      "answer": "drafted",
+      "answer_letters": "DRAFTED",
       "indices": [
-        25,
-        23,
+        123,
+        150,
+        53,
+        135,
+        125,
+        57,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eureka",
+      "answer_letters": "EUREKA",
+      "indices": [
+        162,
+        99,
+        68,
+        103,
         11,
-        120,
-        65,
-        132
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "equation",
-      "answer_letters": "EQUATION",
+      "answer": "laptop",
+      "answer_letters": "LAPTOP",
       "indices": [
-        108,
-        139,
-        140,
-        170,
-        164,
-        165,
-        154,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lottery",
-      "answer_letters": "LOTTERY",
-      "indices": [
-        105,
+        83,
+        132,
+        116,
+        54,
         89,
-        143,
-        66,
-        151,
-        56,
-        61
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "itself",
-      "answer_letters": "ITSELF",
+      "answer": "isolated",
+      "answer_letters": "ISOLATED",
       "indices": [
-        129,
-        46,
-        121,
-        86,
-        5,
-        153
+        84,
+        72,
+        145,
+        105,
+        101,
+        77,
+        43,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "trump's",
-      "answer_letters": "TRUMPS",
+      "answer": "turkey's",
+      "answer_letters": "TURKEYS",
       "indices": [
-        172,
-        175,
-        81,
-        63,
-        119,
-        69
+        90,
+        140,
+        117,
+        21,
+        108,
+        114,
+        142
       ]
     },
     {
@@ -295,12 +295,12 @@
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
-        79,
-        48,
-        163,
-        75,
-        90,
-        72
+        31,
+        9,
+        10,
+        126,
+        49,
+        121
       ]
     }
   ],

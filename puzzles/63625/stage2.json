@@ -6,128 +6,136 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chemistry",
-      "answer_letters": "CHEMISTRY",
+      "answer": "cultivars",
+      "answer_letters": "CULTIVARS",
       "indices": [
-        159,
-        114,
-        174,
-        21,
-        89,
-        61,
-        122,
-        28,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "o'brien",
-      "answer_letters": "OBRIEN",
-      "indices": [
-        104,
-        150,
-        182,
-        64,
-        59,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rental",
-      "answer_letters": "RENTAL",
-      "indices": [
-        105,
-        146,
-        101,
+        132,
+        76,
+        18,
         32,
-        36,
-        55
+        164,
+        145,
+        141,
+        175,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "needle",
-      "answer_letters": "NEEDLE",
+      "answer": "objects",
+      "answer_letters": "OBJECTS",
+      "indices": [
+        12,
+        11,
+        75,
+        1,
+        159,
+        5,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remarried",
+      "answer_letters": "REMARRIED",
+      "indices": [
+        182,
+        3,
+        21,
+        118,
+        81,
+        108,
+        127,
+        133,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newton",
+      "answer_letters": "NEWTON",
       "indices": [
         4,
-        53,
-        24,
-        34,
-        8,
-        107
+        174,
+        110,
+        125,
+        13,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
+      "answer": "embroidery",
+      "answer_letters": "EMBROIDERY",
       "indices": [
-        48,
-        18,
-        127,
-        75,
-        51,
-        123
+        72,
+        73,
+        150,
+        2,
+        151,
+        112,
+        94,
+        53,
+        40,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
+      "answer": "leather",
+      "answer_letters": "LEATHER",
       "indices": [
         43,
-        169,
-        96,
-        57,
-        117,
-        68
+        107,
+        22,
+        162,
+        47,
+        56,
+        99
       ]
     },
     {
       "clue": null,
-      "answer": "inferred",
-      "answer_letters": "INFERRED",
+      "answer": "italia",
+      "answer_letters": "ITALIA",
       "indices": [
-        164,
-        138,
-        63,
+        89,
+        135,
+        36,
+        9,
+        20,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attested",
+      "answer_letters": "ATTESTED",
+      "indices": [
+        156,
+        19,
+        102,
+        59,
+        15,
+        122,
         33,
-        60,
-        108,
-        39,
-        167
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "anywhere",
-      "answer_letters": "ANYWHERE",
+      "answer": "fifteenth",
+      "answer_letters": "FIFTEENTH",
       "indices": [
-        31,
-        161,
-        142,
-        0,
-        180,
-        144,
-        82,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fragment",
-      "answer_letters": "FRAGMENT",
-      "indices": [
-        37,
-        40,
-        141,
-        85,
-        52,
-        133,
-        170,
-        162
+        97,
+        64,
+        96,
+        70,
+        166,
+        98,
+        165,
+        58,
+        180
       ]
     },
     {
@@ -136,87 +144,81 @@
       "answer_letters": "UTRECHT",
       "indices": [
         17,
-        70,
-        2,
-        86,
-        132,
-        111,
-        135
+        78,
+        28,
+        100,
+        113,
+        114,
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "nathaniel",
-      "answer_letters": "NATHANIEL",
+      "answer": "nearly",
+      "answer_letters": "NEARLY",
       "indices": [
-        119,
-        156,
-        23,
-        47,
-        80,
-        90,
-        95,
-        56,
-        9
+        101,
+        117,
+        51,
+        60,
+        25,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
+      "answer": "khalifa",
+      "answer_letters": "KHALIFA",
       "indices": [
         14,
-        12,
-        50,
-        13,
-        173,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        72,
-        94,
-        116,
-        76,
-        165,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "illawarra",
-      "answer_letters": "ILLAWARRA",
-      "indices": [
-        20,
-        25,
+        111,
+        83,
         65,
-        130,
-        155,
-        7,
-        147,
-        81,
-        22
+        137,
+        63,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "newsletter",
-      "answer_letters": "NEWSLETTER",
+      "answer": "enamel",
+      "answer_letters": "ENAMEL",
       "indices": [
-        84,
+        48,
+        90,
+        80,
+        116,
         181,
-        110,
-        77,
-        66,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        169,
+        61,
+        37,
+        130,
+        123,
+        42,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nineteen",
+      "answer_letters": "NINETEEN",
+      "indices": [
+        119,
+        95,
+        128,
+        86,
+        46,
         67,
-        78,
-        125,
-        1,
-        175
+        144,
+        138
       ]
     },
     {
@@ -225,82 +227,80 @@
       "answer_letters": "KOSOVO",
       "indices": [
         153,
-        151,
-        15,
+        104,
+        77,
         160,
-        145,
+        173,
         178
       ]
     },
     {
       "clue": null,
-      "answer": "dietary",
-      "answer_letters": "DIETARY",
+      "answer": "darrell",
+      "answer_letters": "DARRELL",
       "indices": [
         106,
-        137,
-        166,
-        179,
-        42,
-        134,
-        176
+        31,
+        147,
+        82,
+        24,
+        55,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "estate",
-      "answer_letters": "ESTATE",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
       "indices": [
-        29,
-        157,
-        38,
-        136,
-        19,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attract",
-      "answer_letters": "ATTRACT",
-      "indices": [
-        124,
-        5,
-        58,
-        99,
-        83,
-        113,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "timetable",
-      "answer_letters": "TIMETABLE",
-      "indices": [
-        46,
-        112,
-        73,
         172,
-        102,
-        118,
-        11,
-        30,
-        3
+        68,
+        140,
+        124,
+        134,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "halfway",
-      "answer_letters": "HALFWAY",
+      "answer": "argyle",
+      "answer_letters": "ARGYLE",
+      "indices": [
+        7,
+        105,
+        85,
+        148,
+        66,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twenty-two",
+      "answer_letters": "TWENTYTWO",
+      "indices": [
+        120,
+        155,
+        29,
+        84,
+        179,
+        26,
+        38,
+        0,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hamlet",
+      "answer_letters": "HAMLET",
       "indices": [
         71,
-        92,
-        44,
-        97,
-        140,
-        163,
-        26
+        136,
+        52,
+        30,
+        146,
+        57
       ]
     }
   ],

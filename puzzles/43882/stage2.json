@@ -9,12 +9,12 @@
       "answer": "agatha",
       "answer_letters": "AGATHA",
       "indices": [
-        137,
-        132,
-        75,
-        98,
-        24,
-        169
+        54,
+        16,
+        173,
+        121,
+        122,
+        75
       ]
     },
     {
@@ -22,16 +22,16 @@
       "answer": "nomination",
       "answer_letters": "NOMINATION",
       "indices": [
+        111,
+        147,
+        178,
+        163,
         94,
-        25,
-        149,
-        15,
-        154,
-        46,
-        23,
-        22,
+        153,
+        161,
+        71,
         93,
-        9
+        35
       ]
     },
     {
@@ -39,13 +39,13 @@
       "answer": "neither",
       "answer_letters": "NEITHER",
       "indices": [
-        19,
+        143,
+        43,
+        166,
+        104,
+        1,
         67,
-        92,
-        161,
-        60,
-        4,
-        85
+        12
       ]
     },
     {
@@ -53,12 +53,12 @@
       "answer": "albedo",
       "answer_letters": "ALBEDO",
       "indices": [
-        153,
+        159,
         89,
-        76,
-        130,
-        155,
-        18
+        96,
+        158,
+        139,
+        134
       ]
     },
     {
@@ -66,13 +66,13 @@
       "answer": "sulfide",
       "answer_letters": "SULFIDE",
       "indices": [
-        167,
+        160,
         78,
-        170,
+        171,
         101,
-        6,
+        92,
         36,
-        108
+        4
       ]
     },
     {
@@ -80,11 +80,11 @@
       "answer": "estate",
       "answer_letters": "ESTATE",
       "indices": [
-        73,
-        7,
-        164,
+        108,
+        109,
+        23,
         62,
-        27,
+        49,
         83
       ]
     },
@@ -94,11 +94,11 @@
       "answer_letters": "WALNUT",
       "indices": [
         21,
-        34,
-        42,
-        111,
+        150,
+        170,
+        19,
         58,
-        113
+        27
       ]
     },
     {
@@ -106,12 +106,12 @@
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
-        32,
-        135,
+        39,
+        155,
         57,
-        133,
-        35,
-        139
+        25,
+        138,
+        106
       ]
     },
     {
@@ -119,12 +119,12 @@
       "answer": "lakers",
       "answer_letters": "LAKERS",
       "indices": [
-        171,
-        54,
+        70,
+        137,
         72,
-        39,
-        3,
-        160
+        88,
+        87,
+        175
       ]
     },
     {
@@ -132,12 +132,12 @@
       "answer": "latino",
       "answer_letters": "LATINO",
       "indices": [
-        51,
-        177,
-        121,
+        14,
+        46,
+        98,
         17,
         151,
-        40
+        10
       ]
     },
     {
@@ -145,11 +145,11 @@
       "answer": "behest",
       "answer_letters": "BEHEST",
       "indices": [
-        129,
-        13,
-        82,
-        123,
-        175,
+        157,
+        116,
+        24,
+        32,
+        55,
         81
       ]
     },
@@ -158,12 +158,12 @@
       "answer": "liking",
       "answer_letters": "LIKING",
       "indices": [
-        70,
-        163,
+        29,
+        84,
         52,
-        71,
-        138,
-        91
+        6,
+        154,
+        132
       ]
     },
     {
@@ -171,13 +171,13 @@
       "answer": "abolish",
       "answer_letters": "ABOLISH",
       "indices": [
-        150,
-        157,
-        77,
-        14,
-        103,
-        55,
-        66
+        50,
+        76,
+        18,
+        42,
+        142,
+        7,
+        60
       ]
     },
     {
@@ -185,14 +185,14 @@
       "answer": "cemetery",
       "answer_letters": "CEMETERY",
       "indices": [
-        59,
-        2,
-        178,
-        158,
-        49,
-        88,
-        87,
-        47
+        118,
+        123,
+        149,
+        73,
+        0,
+        130,
+        85,
+        68
       ]
     },
     {
@@ -201,11 +201,11 @@
       "answer_letters": "KOSOVO",
       "indices": [
         141,
-        127,
-        109,
-        134,
+        133,
+        167,
+        30,
         31,
-        147
+        40
       ]
     },
     {
@@ -213,13 +213,13 @@
       "answer": "bathroom",
       "answer_letters": "BATHROOM",
       "indices": [
-        96,
-        50,
-        104,
-        1,
-        12,
-        30,
-        10,
+        129,
+        117,
+        65,
+        66,
+        3,
+        77,
+        112,
         124
       ]
     },
@@ -228,14 +228,14 @@
       "answer": "ethiopia",
       "answer_letters": "ETHIOPIA",
       "indices": [
-        116,
-        115,
-        122,
-        90,
-        112,
-        38,
-        84,
-        159
+        2,
+        126,
+        82,
+        15,
+        107,
+        41,
+        100,
+        34
       ]
     },
     {
@@ -243,14 +243,14 @@
       "answer": "attitude",
       "answer_letters": "ATTITUDE",
       "indices": [
-        173,
-        0,
-        65,
-        142,
-        79,
-        26,
-        144,
-        43
+        169,
+        115,
+        146,
+        90,
+        113,
+        97,
+        135,
+        13
       ]
     },
     {
@@ -258,12 +258,12 @@
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
-        97,
-        41,
-        176,
-        107,
-        29,
-        106
+        26,
+        38,
+        119,
+        127,
+        51,
+        144
       ]
     },
     {
@@ -271,12 +271,12 @@
       "answer": "timing",
       "answer_letters": "TIMING",
       "indices": [
-        126,
-        100,
+        164,
+        103,
         45,
-        166,
-        143,
-        16
+        22,
+        9,
+        91
       ]
     },
     {
@@ -284,11 +284,11 @@
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
-        68,
-        117,
-        118,
-        119,
-        146,
+        47,
+        177,
+        59,
+        176,
+        79,
         63
       ]
     }

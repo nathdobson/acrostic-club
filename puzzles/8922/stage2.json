@@ -6,97 +6,95 @@
   "clues": [
     {
       "clue": null,
-      "answer": "southend",
-      "answer_letters": "SOUTHEND",
+      "answer": "sewage",
+      "answer_letters": "SEWAGE",
       "indices": [
-        33,
-        116,
-        52,
-        147,
-        114,
-        32,
-        146,
-        165
+        43,
+        72,
+        130,
+        160,
+        23,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "trucks",
-      "answer_letters": "TRUCKS",
+      "answer": "thinks",
+      "answer_letters": "THINKS",
       "indices": [
-        88,
-        60,
-        30,
-        105,
+        147,
+        89,
+        126,
+        111,
         20,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erected",
+      "answer_letters": "ERECTED",
+      "indices": [
+        32,
+        73,
+        10,
+        105,
+        76,
+        155,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
+      "indices": [
+        78,
+        139,
+        116,
+        62,
+        129,
         75
       ]
     },
     {
       "clue": null,
-      "answer": "elector",
-      "answer_letters": "ELECTOR",
+      "answer": "heated",
+      "answer_letters": "HEATED",
       "indices": [
-        59,
-        135,
-        108,
-        153,
-        7,
-        83,
-        73
+        119,
+        145,
+        11,
+        121,
+        164,
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "peugeot",
-      "answer_letters": "PEUGEOT",
-      "indices": [
-        78,
-        41,
-        117,
-        118,
-        65,
-        94,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hobart",
-      "answer_letters": "HOBART",
-      "indices": [
-        89,
-        93,
-        16,
-        25,
-        157,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
+      "answer": "edmund",
+      "answer_letters": "EDMUND",
       "indices": [
         90,
-        111,
-        115,
-        69,
-        53,
-        12
+        128,
+        3,
+        30,
+        101,
+        165
       ]
     },
     {
       "clue": null,
-      "answer": "norris",
-      "answer_letters": "NORRIS",
+      "answer": "nothing",
+      "answer_letters": "NOTHING",
       "indices": [
-        143,
-        129,
-        38,
-        168,
+        146,
+        69,
+        113,
+        81,
         21,
-        132
+        68,
+        98
       ]
     },
     {
@@ -105,118 +103,119 @@
       "answer_letters": "ITHACA",
       "indices": [
         40,
-        80,
-        122,
-        37,
+        7,
+        86,
+        150,
         50,
-        44
+        99
       ]
     },
     {
       "clue": null,
-      "answer": "edward",
-      "answer_letters": "EDWARD",
+      "answer": "errors",
+      "answer_letters": "ERRORS",
       "indices": [
-        164,
-        46,
-        130,
-        63,
+        41,
+        168,
+        29,
+        51,
+        82,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "marcel",
+      "answer_letters": "MARCEL",
+      "indices": [
+        107,
+        25,
         95,
+        35,
+        18,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "editor",
+      "answer_letters": "EDITOR",
+      "indices": [
+        140,
+        46,
+        100,
+        80,
+        83,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellowish",
+      "answer_letters": "YELLOWISH",
+      "indices": [
+        27,
+        57,
+        31,
+        135,
+        6,
+        125,
+        110,
+        151,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
+      "indices": [
+        59,
+        70,
+        71,
+        156,
+        26,
+        93,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ranked",
+      "answer_letters": "RANKED",
+      "indices": [
+        9,
+        63,
+        127,
+        64,
+        123,
         169
       ]
     },
     {
       "clue": null,
-      "answer": "mining",
-      "answer_letters": "MINING",
-      "indices": [
-        107,
-        48,
-        22,
-        0,
-        101,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eleven",
-      "answer_letters": "ELEVEN",
-      "indices": [
-        155,
-        39,
-        72,
-        58,
-        10,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
-      "indices": [
-        14,
-        167,
-        68,
-        64,
-        140,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entrants",
-      "answer_letters": "ENTRANTS",
-      "indices": [
-        145,
-        127,
-        113,
-        17,
-        19,
-        56,
-        70,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        9,
-        36,
-        27,
-        62,
-        81,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "taller",
-      "answer_letters": "TALLER",
+      "answer": "tenant",
+      "answer_letters": "TENANT",
       "indices": [
         138,
-        11,
-        31,
-        136,
-        18,
-        29
+        65,
+        22,
+        97,
+        56,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "widowed",
-      "answer_letters": "WIDOWED",
+      "answer": "walnut",
+      "answer_letters": "WALNUT",
       "indices": [
-        125,
-        126,
-        54,
-        51,
-        166,
-        77,
-        128
+        149,
+        106,
+        136,
+        143,
+        84,
+        133
       ]
     },
     {
@@ -224,12 +223,12 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        100,
-        151,
+        142,
+        159,
         2,
-        45,
-        106,
-        139
+        134,
+        19,
+        122
       ]
     },
     {
@@ -237,25 +236,25 @@
       "answer": "ludlow",
       "answer_letters": "LUDLOW",
       "indices": [
+        39,
+        52,
+        162,
         13,
-        84,
-        92,
-        154,
-        6,
-        149
+        94,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "iberia",
+      "answer_letters": "IBERIA",
       "indices": [
-        103,
-        43,
-        67,
-        134,
-        156,
-        119
+        0,
+        16,
+        77,
+        60,
+        161,
+        167
       ]
     },
     {
@@ -263,38 +262,39 @@
       "answer": "garcía",
       "answer_letters": "GARCIA",
       "indices": [
-        98,
-        97,
-        82,
-        35,
-        161,
-        160
+        118,
+        44,
+        38,
+        153,
+        103,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "hanged",
-      "answer_letters": "HANGED",
+      "answer": "hungry",
+      "answer_letters": "HUNGRY",
       "indices": [
-        71,
-        99,
+        36,
+        117,
         5,
         85,
-        57,
-        162
+        157,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
+      "answer": "trivial",
+      "answer_letters": "TRIVIAL",
       "indices": [
-        133,
-        150,
-        86,
-        142,
-        121,
-        110
+        144,
+        17,
+        48,
+        58,
+        45,
+        67,
+        12
       ]
     }
   ],

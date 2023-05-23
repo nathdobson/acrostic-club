@@ -9,12 +9,12 @@
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
-        154,
-        162,
-        76,
-        173,
+        92,
+        0,
+        50,
+        110,
         174,
-        1
+        82
       ]
     },
     {
@@ -22,10 +22,10 @@
       "answer": "import",
       "answer_letters": "IMPORT",
       "indices": [
-        10,
-        168,
+        65,
+        113,
         98,
-        80,
+        169,
         103,
         88
       ]
@@ -35,12 +35,12 @@
       "answer": "sawyer",
       "answer_letters": "SAWYER",
       "indices": [
-        67,
-        87,
+        31,
+        162,
         90,
-        35,
-        66,
-        34
+        100,
+        96,
+        7
       ]
     },
     {
@@ -48,12 +48,12 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        26,
-        11,
-        30,
-        39,
+        126,
+        130,
+        4,
+        59,
         158,
-        4
+        30
       ]
     },
     {
@@ -61,13 +61,13 @@
       "answer": "burrows",
       "answer_letters": "BURROWS",
       "indices": [
-        64,
-        102,
+        63,
+        150,
         111,
-        139,
-        138,
-        152,
-        46
+        20,
+        54,
+        2,
+        124
       ]
     },
     {
@@ -75,11 +75,11 @@
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [
-        79,
-        146,
-        113,
-        150,
-        44,
+        71,
+        135,
+        168,
+        102,
+        141,
         55
       ]
     },
@@ -88,12 +88,12 @@
       "answer": "deaths",
       "answer_letters": "DEATHS",
       "indices": [
-        135,
-        83,
-        126,
-        166,
-        157,
-        124
+        146,
+        171,
+        133,
+        85,
+        61,
+        67
       ]
     },
     {
@@ -101,12 +101,12 @@
       "answer": "reopen",
       "answer_letters": "REOPEN",
       "indices": [
-        20,
-        58,
-        54,
-        81,
+        170,
         97,
-        14
+        80,
+        78,
+        66,
+        44
       ]
     },
     {
@@ -114,11 +114,11 @@
       "answer": "invite",
       "answer_letters": "INVITE",
       "indices": [
-        91,
-        74,
-        12,
-        65,
-        125,
+        120,
+        145,
+        159,
+        140,
+        15,
         22
       ]
     },
@@ -128,13 +128,13 @@
       "answer_letters": "CAMPBELL",
       "indices": [
         117,
-        133,
-        69,
-        78,
+        29,
+        119,
+        81,
         115,
-        38,
-        164,
-        93
+        108,
+        93,
+        27
       ]
     },
     {
@@ -143,11 +143,11 @@
       "answer_letters": "KENNETH",
       "indices": [
         95,
-        160,
-        37,
-        48,
-        49,
-        33,
+        70,
+        57,
+        175,
+        79,
+        41,
         42
       ]
     },
@@ -156,14 +156,14 @@
       "answer": "lifeboat",
       "answer_letters": "LIFEBOAT",
       "indices": [
-        82,
-        153,
+        154,
+        10,
         24,
-        96,
+        8,
         137,
-        118,
-        3,
-        15
+        165,
+        144,
+        166
       ]
     },
     {
@@ -171,15 +171,15 @@
       "answer": "inherently",
       "answer_letters": "INHERENTLY",
       "indices": [
-        120,
-        57,
+        106,
+        134,
         86,
-        75,
-        7,
-        8,
-        145,
-        85,
-        23,
+        13,
+        139,
+        160,
+        14,
+        33,
+        155,
         148
       ]
     },
@@ -188,12 +188,12 @@
       "answer": "follow",
       "answer_letters": "FOLLOW",
       "indices": [
-        110,
-        62,
-        155,
+        107,
+        149,
+        23,
         105,
-        112,
-        50
+        118,
+        39
       ]
     },
     {
@@ -201,12 +201,12 @@
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
-        171,
-        141,
-        165,
+        38,
+        48,
+        62,
         19,
-        142,
-        61
+        45,
+        157
       ]
     },
     {
@@ -215,11 +215,11 @@
       "answer_letters": "SYMBOL",
       "indices": [
         5,
-        100,
-        119,
-        63,
-        169,
-        92
+        17,
+        69,
+        64,
+        101,
+        1
       ]
     },
     {
@@ -227,12 +227,12 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        41,
+        131,
+        152,
+        112,
         28,
-        101,
-        59,
-        0,
-        17
+        3,
+        35
       ]
     },
     {
@@ -240,12 +240,12 @@
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
+        138,
+        37,
+        49,
         18,
-        121,
-        70,
-        149,
-        52,
-        107
+        173,
+        52
       ]
     },
     {
@@ -253,12 +253,12 @@
       "answer": "rowing",
       "answer_letters": "ROWING",
       "indices": [
-        170,
+        34,
         53,
-        2,
-        106,
-        134,
-        127
+        76,
+        43,
+        74,
+        122
       ]
     },
     {
@@ -266,13 +266,13 @@
       "answer": "italian",
       "answer_letters": "ITALIAN",
       "indices": [
-        140,
-        131,
+        91,
+        125,
         129,
-        27,
-        43,
-        29,
-        175
+        164,
+        153,
+        26,
+        121
       ]
     },
     {
@@ -280,13 +280,13 @@
       "answer": "engages",
       "answer_letters": "ENGAGES",
       "indices": [
-        71,
-        128,
-        45,
-        144,
-        122,
-        13,
-        31
+        75,
+        11,
+        127,
+        87,
+        142,
+        83,
+        21
       ]
     },
     {
@@ -294,12 +294,12 @@
       "answer": "steven",
       "answer_letters": "STEVEN",
       "indices": [
-        21,
+        46,
         72,
-        108,
-        159,
+        58,
+        12,
         116,
-        130
+        128
       ]
     }
   ],

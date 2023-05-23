@@ -9,14 +9,14 @@
       "answer": "remarked",
       "answer_letters": "REMARKED",
       "indices": [
-        156,
+        67,
         34,
-        69,
-        168,
-        140,
+        173,
+        63,
+        58,
         74,
-        149,
-        166
+        144,
+        2
       ]
     },
     {
@@ -24,11 +24,11 @@
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
-        86,
-        48,
+        5,
         99,
-        112,
-        105,
+        138,
+        59,
+        91,
         89
       ]
     },
@@ -38,14 +38,14 @@
       "answer_letters": "STATEHOOD",
       "indices": [
         158,
-        56,
-        63,
-        84,
-        57,
+        142,
+        94,
+        118,
+        35,
         96,
-        82,
-        1,
-        104
+        43,
+        86,
+        166
       ]
     },
     {
@@ -53,12 +53,12 @@
       "answer": "armada",
       "answer_letters": "ARMADA",
       "indices": [
-        45,
-        50,
+        102,
+        6,
         71,
-        172,
-        2,
-        114
+        29,
+        108,
+        147
       ]
     },
     {
@@ -66,12 +66,12 @@
       "answer": "nikita",
       "answer_letters": "NIKITA",
       "indices": [
-        125,
-        53,
+        115,
+        127,
         33,
-        132,
-        118,
-        110
+        53,
+        56,
+        61
       ]
     },
     {
@@ -79,12 +79,12 @@
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
-        161,
-        10,
-        9,
-        90,
-        95,
-        27,
+        165,
+        49,
+        0,
+        101,
+        38,
+        169,
         64
       ]
     },
@@ -93,14 +93,14 @@
       "answer": "assembled",
       "answer_letters": "ASSEMBLED",
       "indices": [
-        119,
+        114,
+        30,
         17,
-        59,
-        76,
-        79,
+        124,
+        69,
         111,
-        42,
-        144,
+        46,
+        80,
         157
       ]
     },
@@ -109,13 +109,13 @@
       "answer": "lebanon",
       "answer_letters": "LEBANON",
       "indices": [
-        170,
-        72,
+        121,
+        162,
         151,
-        94,
-        115,
-        139,
-        21
+        168,
+        21,
+        82,
+        131
       ]
     },
     {
@@ -123,12 +123,12 @@
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
-        15,
-        66,
-        138,
-        43,
-        58,
-        23
+        57,
+        133,
+        87,
+        98,
+        19,
+        95
       ]
     },
     {
@@ -136,13 +136,13 @@
       "answer": "operate",
       "answer_letters": "OPERATE",
       "indices": [
-        160,
-        93,
-        12,
-        19,
+        139,
+        26,
+        20,
+        148,
         152,
-        154,
-        31
+        84,
+        40
       ]
     },
     {
@@ -150,12 +150,12 @@
       "answer": "unsafe",
       "answer_letters": "UNSAFE",
       "indices": [
-        130,
-        175,
-        153,
-        147,
-        133,
-        80
+        83,
+        161,
+        112,
+        164,
+        52,
+        107
       ]
     },
     {
@@ -163,14 +163,14 @@
       "answer": "pamphlet",
       "answer_letters": "PAMPHLET",
       "indices": [
+        93,
+        155,
+        79,
         36,
-        61,
-        136,
-        77,
-        24,
-        120,
-        28,
-        142
+        39,
+        27,
+        75,
+        23
       ]
     },
     {
@@ -178,10 +178,10 @@
       "answer": "inform",
       "answer_letters": "INFORM",
       "indices": [
-        49,
-        106,
-        87,
-        98,
+        10,
+        125,
+        66,
+        134,
         103,
         123
       ]
@@ -191,12 +191,12 @@
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
-        165,
-        20,
-        40,
-        108,
-        4,
-        162
+        175,
+        149,
+        12,
+        116,
+        120,
+        72
       ]
     },
     {
@@ -204,14 +204,14 @@
       "answer": "followed",
       "answer_letters": "FOLLOWED",
       "indices": [
-        52,
-        5,
-        169,
-        121,
-        134,
+        48,
+        160,
+        4,
+        42,
+        1,
         62,
-        124,
-        116
+        105,
+        104
       ]
     },
     {
@@ -219,12 +219,12 @@
       "answer": "lengthy",
       "answer_letters": "LENGTHY",
       "indices": [
-        46,
-        174,
-        128,
-        22,
-        38,
-        101,
+        170,
+        31,
+        106,
+        9,
+        18,
+        90,
         145
       ]
     },
@@ -233,11 +233,11 @@
       "answer": "armagh",
       "answer_letters": "ARMAGH",
       "indices": [
-        164,
-        67,
+        45,
+        140,
         14,
-        155,
-        0,
+        119,
+        22,
         143
       ]
     },
@@ -246,12 +246,12 @@
       "answer": "merger",
       "answer_letters": "MERGER",
       "indices": [
-        173,
-        91,
-        135,
+        136,
+        76,
+        50,
         54,
-        75,
-        6
+        15,
+        135
       ]
     },
     {
@@ -259,16 +259,16 @@
       "answer": "evacuation",
       "answer_letters": "EVACUATION",
       "indices": [
-        107,
+        174,
         11,
-        29,
+        172,
         44,
-        83,
-        102,
-        18,
-        127,
+        130,
+        110,
+        154,
+        132,
         68,
-        131
+        128
       ]
     },
     {
@@ -276,13 +276,13 @@
       "answer": "shepherd",
       "answer_letters": "SHEPHERD",
       "indices": [
-        30,
+        153,
+        24,
+        28,
+        77,
         55,
-        35,
-        26,
-        39,
         51,
-        148,
+        156,
         7
       ]
     }

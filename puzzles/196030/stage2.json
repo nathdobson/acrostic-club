@@ -6,29 +6,189 @@
   "clues": [
     {
       "clue": null,
-      "answer": "thereof",
-      "answer_letters": "THEREOF",
+      "answer": "typhoon",
+      "answer_letters": "TYPHOON",
       "indices": [
-        103,
+        118,
+        167,
+        129,
+        0,
+        86,
+        50,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "helena",
+      "answer_letters": "HELENA",
+      "indices": [
+        83,
+        173,
+        115,
+        1,
+        31,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eduardo",
+      "answer_letters": "EDUARDO",
+      "indices": [
+        7,
+        8,
+        81,
+        171,
+        136,
+        61,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "apache",
+      "answer_letters": "APACHE",
+      "indices": [
+        111,
+        6,
+        67,
+        3,
+        14,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "humour",
+      "answer_letters": "HUMOUR",
+      "indices": [
         119,
-        153,
-        52,
-        11,
-        63,
+        37,
+        85,
+        143,
+        138,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aegean",
+      "answer_letters": "AEGEAN",
+      "indices": [
+        114,
+        130,
+        68,
+        39,
+        72,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        152,
+        102,
+        73,
+        36,
+        64,
         47
       ]
     },
     {
       "clue": null,
-      "answer": "hourly",
-      "answer_letters": "HOURLY",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
+        52,
+        110,
+        149,
+        109,
         27,
-        25,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        76,
+        77,
+        29,
+        135,
+        155,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "scully",
+      "answer_letters": "SCULLY",
+      "indices": [
+        33,
+        70,
         179,
-        87,
+        131,
         43,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "occupy",
+      "answer_letters": "OCCUPY",
+      "indices": [
+        54,
+        82,
+        164,
+        175,
+        161,
         142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nowhere",
+      "answer_letters": "NOWHERE",
+      "indices": [
+        96,
+        156,
+        19,
+        147,
+        100,
+        87,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stunts",
+      "answer_letters": "STUNTS",
+      "indices": [
+        133,
+        26,
+        144,
+        160,
+        103,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "plymouth",
+      "answer_letters": "PLYMOUTH",
+      "indices": [
+        5,
+        162,
+        49,
+        158,
+        63,
+        4,
+        146,
+        22
       ]
     },
     {
@@ -36,280 +196,120 @@
       "answer": "endowed",
       "answer_letters": "ENDOWED",
       "indices": [
-        1,
-        31,
-        32,
-        143,
-        19,
-        148,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attach",
-      "answer_letters": "ATTACH",
-      "indices": [
-        30,
-        118,
-        146,
-        95,
-        164,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "honored",
-      "answer_letters": "HONORED",
-      "indices": [
-        22,
-        159,
-        96,
-        168,
-        12,
+        11,
+        176,
+        140,
+        122,
+        55,
         125,
         17
       ]
     },
     {
       "clue": null,
-      "answer": "aquino",
-      "answer_letters": "AQUINO",
-      "indices": [
-        163,
-        178,
-        102,
-        104,
-        60,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        172,
-        29,
-        167,
-        21,
-        147,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "refugees",
-      "answer_letters": "REFUGEES",
-      "indices": [
-        152,
-        39,
-        105,
-        144,
-        68,
-        93,
-        165,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        177,
-        123,
-        0,
-        114,
-        3,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "suffolk",
-      "answer_letters": "SUFFOLK",
-      "indices": [
-        78,
-        138,
-        64,
-        41,
-        86,
-        107,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oceania",
-      "answer_letters": "OCEANIA",
-      "indices": [
-        54,
-        82,
-        130,
-        67,
-        160,
-        76,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neumann",
-      "answer_letters": "NEUMANN",
-      "indices": [
-        176,
-        88,
-        4,
-        157,
-        16,
-        139,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "subway",
-      "answer_letters": "SUBWAY",
-      "indices": [
-        128,
-        81,
-        24,
-        55,
-        135,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "punches",
-      "answer_letters": "PUNCHES",
-      "indices": [
-        161,
-        169,
-        56,
-        155,
-        10,
-        100,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elliot",
-      "answer_letters": "ELLIOT",
-      "indices": [
-        180,
-        44,
-        115,
-        69,
-        156,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lumpur",
-      "answer_letters": "LUMPUR",
-      "indices": [
-        116,
-        42,
-        66,
-        6,
-        51,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lumpur",
-      "answer_letters": "LUMPUR",
+      "answer": "labour",
+      "answer_letters": "LABOUR",
       "indices": [
         132,
-        37,
-        80,
-        5,
-        106,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bodily",
-      "answer_letters": "BODILY",
-      "indices": [
+        30,
         99,
         137,
-        74,
-        59,
-        131,
-        35
+        42,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "looted",
+      "answer_letters": "LOOTED",
       "indices": [
-        20,
-        26,
-        124,
-        72,
-        70,
-        111
+        44,
+        25,
+        168,
+        123,
+        88,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "needle",
-      "answer_letters": "NEEDLE",
+      "answer": "buffer",
+      "answer_letters": "BUFFER",
       "indices": [
-        112,
-        7,
-        120,
-        8,
-        162,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dorado",
-      "answer_letters": "DORADO",
-      "indices": [
-        140,
-        50,
-        136,
-        101,
-        61,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "europa",
-      "answer_letters": "EUROPA",
-      "indices": [
+        24,
+        106,
+        41,
+        105,
         15,
-        175,
-        90,
-        46,
-        129,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        69,
+        78,
+        95,
+        104,
+        101,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        60,
+        20,
+        58,
+        59,
+        21,
         151
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "durham",
+      "answer_letters": "DURHAM",
+      "indices": [
+        97,
+        169,
+        90,
+        10,
+        163,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enrolled",
+      "answer_letters": "ENROLLED",
+      "indices": [
+        120,
+        56,
+        92,
+        46,
+        107,
+        116,
+        180,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "requiem",
+      "answer_letters": "REQUIEM",
       "indices": [
         126,
-        14,
-        149,
-        77,
-        83,
-        158
+        93,
+        178,
+        51,
+        177,
+        148,
+        80
       ]
     }
   ],

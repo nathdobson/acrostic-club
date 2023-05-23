@@ -27,9 +27,8 @@ pub struct FlatWord {
 
 unsafe impl AnyRepr for FlatWord {}
 
-pub static FLAT_WORDS: LazyLock<LazyMmap<FlatWord>> = LazyLock::new(|| {
-    LazyMmap::new(PACKAGE_PATH.join("build/dict.dat"))
-});
+pub static FLAT_WORDS: LazyMmap<FlatWord> =
+    LazyMmap::<FlatWord>::new(|| PACKAGE_PATH.join("build/dict.dat"));
 
 
 // #[test]
