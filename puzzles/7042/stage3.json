@@ -1,0 +1,281 @@
+{
+  "quote": "The Lord is my shepherd. I shall not want for nothing. He makes me lie down in the green pastures. He greases up my head with oil. He gives me kung-fu in the face of my enemies. Amen",
+  "quote_letters": "THE LORD IS MY SHEPHERD I SHALL NOT WANT FOR NOTHING HE MAKES ME LIE DOWN IN THE GREEN PASTURES HE GREASES UP MY HEAD WITH OIL HE GIVES ME KUNG-FU IN THE FACE OF MY ENEMIES AMEN",
+  "source": "Stephen King, The Stand",
+  "source_letters": "STEPHENKINGTHESTAND",
+  "clues": [
+    {
+      "clue": "A protective covering for the arm.",
+      "answer": "sleeve",
+      "answer_letters": "SLEEVE",
+      "indices": [
+        10,
+        30,
+        84,
+        2,
+        132,
+        114
+      ]
+    },
+    {
+      "clue": "A person from an island nation in East Asia.",
+      "answer": "taiwanese",
+      "answer_letters": "TAIWANESE",
+      "indices": [
+        120,
+        28,
+        9,
+        36,
+        57,
+        141,
+        165,
+        171,
+        101
+      ]
+    },
+    {
+      "clue": "One who provides work.",
+      "answer": "employer",
+      "answer_letters": "EMPLOYER",
+      "indices": [
+        83,
+        62,
+        87,
+        125,
+        33,
+        13,
+        67,
+        21
+      ]
+    },
+    {
+      "clue": "Capable of great force or influence.",
+      "answer": "powerful",
+      "answer_letters": "POWERFUL",
+      "indices": [
+        108,
+        46,
+        71,
+        97,
+        92,
+        154,
+        140,
+        4
+      ]
+    },
+    {
+      "clue": "To a great extent.",
+      "answer": "highly",
+      "answer_letters": "HIGHLY",
+      "indices": [
+        127,
+        131,
+        51,
+        151,
+        29,
+        111
+      ]
+    },
+    {
+      "clue": "A gift of financial resources.",
+      "answer": "endowment",
+      "answer_letters": "ENDOWMENT",
+      "indices": [
+        104,
+        32,
+        116,
+        5,
+        118,
+        174,
+        63,
+        75,
+        77
+      ]
+    },
+    {
+      "clue": "Directional axis.",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        166,
+        70,
+        6,
+        34,
+        121,
+        15,
+        123,
+        91,
+        0,
+        16
+      ]
+    },
+    {
+      "clue": "An island in Japan.",
+      "answer": "kyushu",
+      "answer_letters": "KYUSHU",
+      "indices": [
+        139,
+        163,
+        107,
+        60,
+        78,
+        145
+      ]
+    },
+    {
+      "clue": "City in Iran known for its Islamic architecture.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        74,
+        26,
+        160,
+        88,
+        27,
+        115,
+        148
+      ]
+    },
+    {
+      "clue": "Assigning titles or labels to something or someone.",
+      "answer": "naming",
+      "answer_letters": "NAMING",
+      "indices": [
+        50,
+        173,
+        136,
+        147,
+        38,
+        130
+      ]
+    },
+    {
+      "clue": "Prominent German writer.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        81,
+        42,
+        93,
+        39,
+        19,
+        133
+      ]
+    },
+    {
+      "clue": "The activity performed by the brain to process information.",
+      "answer": "thinking",
+      "answer_letters": "THINKING",
+      "indices": [
+        47,
+        96,
+        24,
+        85,
+        58,
+        49,
+        176,
+        142
+      ]
+    },
+    {
+      "clue": "Site of a devastating WWII atomic bomb attack.",
+      "answer": "hiroshima",
+      "answer_letters": "HIROSHIMA",
+      "indices": [
+        53,
+        124,
+        82,
+        159,
+        94,
+        1,
+        169,
+        162,
+        155
+      ]
+    },
+    {
+      "clue": "People with hostile feelings towards each other.",
+      "answer": "enemies",
+      "answer_letters": "ENEMIES",
+      "indices": [
+        167,
+        72,
+        17,
+        110,
+        119,
+        175,
+        134
+      ]
+    },
+    {
+      "clue": "A plan or plot.",
+      "answer": "scheme",
+      "answer_letters": "SCHEME",
+      "indices": [
+        103,
+        156,
+        48,
+        128,
+        56,
+        137
+      ]
+    },
+    {
+      "clue": "A violent storm.",
+      "answer": "tempest",
+      "answer_letters": "TEMPEST",
+      "indices": [
+        150,
+        79,
+        168,
+        18,
+        59,
+        105,
+        90
+      ]
+    },
+    {
+      "clue": "Historic county in Northern Ireland.",
+      "answer": "armagh",
+      "answer_letters": "ARMAGH",
+      "indices": [
+        102,
+        43,
+        12,
+        37,
+        99,
+        113
+      ]
+    },
+    {
+      "clue": "A tool for sewing or administering injections.",
+      "answer": "needles",
+      "answer_letters": "NEEDLES",
+      "indices": [
+        45,
+        54,
+        20,
+        22,
+        65,
+        157,
+        89
+      ]
+    },
+    {
+      "clue": "Had varying opinions or beliefs.",
+      "answer": "differed",
+      "answer_letters": "DIFFERED",
+      "indices": [
+        7,
+        66,
+        144,
+        41,
+        152,
+        100,
+        170,
+        69
+      ]
+    }
+  ],
+  "chat": null
+}

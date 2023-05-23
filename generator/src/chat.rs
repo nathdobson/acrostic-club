@@ -8,33 +8,66 @@ use futures::future::{join_all, try_join_all};
 use itertools::Itertools;
 use ordered_float::NotNan;
 use tokio::{io, spawn};
+use acrostic_core::letter::Letter;
 use crate::chat_client::{BaseClient, CacheClient, ChatClient};
 use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
+use crate::ontology::{Ontology, ONTOLOGY};
 use crate::PACKAGE_PATH;
 
 use crate::puzzle::Puzzle;
+use crate::string::LetterString;
+use crate::subseq::longest_subsequence;
+use crate::util::lazy_async::CloneError;
 
 pub struct ClueClient {
     client: Box<dyn ChatClient>,
+    ontology: Arc<Ontology>,
 }
+
 
 impl ClueClient {
     pub async fn new() -> anyhow::Result<Self> {
         Ok(ClueClient {
             client: Box::new(
                 CacheClient::new(Box::new(BaseClient::new().await?),
-                                 &PACKAGE_PATH.join("build/chat_cache.txt")).await?)
+                                 &PACKAGE_PATH.join("build/chat_cache.txt")).await?),
+            ontology: ONTOLOGY.get().await.clone_error()?.clone(),
         })
     }
     pub async fn shutdown(&mut self) -> io::Result<()> {
         self.client.shutdown().await
     }
+    pub fn score(&self, word: &str, clue: &str) -> NotNan<f64> {
+        let word_letters = LetterString::from_str(word);
+        let clue_letters = LetterString::from_str(clue);
+        let mut is_banned = false;
+        for banned in self.ontology.get_conflicts(word) {
+            let banned_letters = LetterString::from_str(&banned);
+            if banned_letters.len() >= 3 {
+                if clue_letters.windows(banned_letters.len()).any(|x| x == &*banned_letters) {
+                    eprintln!("clue {:?} contains {:?} which is banned for {:?}", clue, banned, word);
+                    is_banned = true;
+                }
+            }
+        }
+        if is_banned {
+            NotNan::new(-f64::INFINITY).unwrap()
+        } else {
+            -(NotNan::new(longest_subsequence(&word_letters, &clue_letters) as f64).unwrap())
+        }
+    }
     pub async fn create_clue(&self, word: &str) -> anyhow::Result<Option<String>> {
+        let mut clues = self.create_clue_list(word).await?;
+        clues.sort_by_cached_key(|x| self.score(&word, x));
+        println!("{:#?}", clues);
+        Ok(clues.pop())
+    }
+    pub async fn create_clue_list(&self, word: &str) -> anyhow::Result<Vec<String>> {
         let m1 = ChatMessage {
             role: ChatRole::System,
             content: "
 You are a crossword clue generator that follows precise rules:
-* The clue is short and succinct.
+* The clue is short and succinct with minimal detail.
 * The clue agrees with the input in tense, part of speech, and plurality.
 * The clue and input do not share an etymology.
 Examples:
@@ -54,7 +87,7 @@ A: Largest city in England.
         let body = ChatRequestBody {
             model: Model::GPT_3_5_TURBO,
             messages: vec![m1, m2],
-            n: Some(5),
+            n: Some(10),
             max_tokens: Some(15),
             temperature: Some(NotNan::new(1.0).unwrap()),
             ..Default::default()
@@ -63,7 +96,7 @@ A: Largest city in England.
         let response = self.client.chat(request).await?;
         Ok(response.choices.iter()
             .filter(|x| x.finish_reason.unwrap() == FinishReason::Stop)
-            .map(|x| x.message.content.to_string()).next())
+            .map(|x| x.message.content.to_string()).collect())
     }
     pub async fn solve_clue(&self, clue: &str) -> anyhow::Result<()> {
         todo!()

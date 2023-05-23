@@ -79,6 +79,7 @@ pub mod chat_client;
 pub mod key_value_file;
 pub mod gpt;
 pub mod conflict_set;
+pub mod subseq;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;

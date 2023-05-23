@@ -1,5 +1,6 @@
 use std::collections::HashSet;
 use std::default::default;
+use std::fmt::{Debug, Formatter};
 use std::sync::Arc;
 use brotli::interface::Command::Dict;
 use crate::dict::FLAT_WORDS;
@@ -7,7 +8,6 @@ use crate::ontology::{Etymology, Form, Lexical, Ontology, ONTOLOGY, Page, Writte
 use crate::turtle::TurtleIndex;
 use crate::util::lazy_async::CloneError;
 
-#[derive(Debug)]
 pub struct ConflictSet {
     ontology: Arc<Ontology>,
     origins: HashSet<String>,
@@ -126,6 +126,9 @@ impl ConflictSet {
             for x in self.ontology.other_form(lexical) {
                 self.add_form_down(x);
             }
+            for page in self.ontology.derived_from_of(lexical) {
+                self.add_page_down(page);
+            }
         }
     }
     pub fn add_form_down(&mut self, form: Form) {
@@ -143,12 +146,84 @@ impl ConflictSet {
     pub fn add_terminal(&mut self, terminal: &str) {
         self.terminals.insert(terminal.to_string());
     }
+    pub fn terminals(&self) -> impl Iterator<Item=&str> {
+        self.terminals.iter().map(|x| &**x)
+    }
+}
+
+impl Debug for ConflictSet {
+    fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
+        f.debug_struct("ConflictSet")
+            .field("origins",
+                   &self.origins)
+            .field("writtens",
+                   &self.writtens.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("forms",
+                   &self.forms.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("lexicals",
+                   &self.lexicals.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("etyms",
+                   &self.etyms.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("relateds",
+                   &self.relateds.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("pages",
+                   &self.pages.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("etyms_down",
+                   &self.etyms_down.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("pages_down",
+                   &self.pages_down.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("lexicals_down",
+                   &self.pages_down.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("writtens_down",
+                   &self.pages_down.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("forms_down",
+                   &self.pages_down.iter()
+                       .map(|x| self.ontology.graph.get_name(x.0))
+                       .collect::<Vec<_>>())
+            .field("terminals",
+                   &self.terminals)
+            .finish()
+        // ontology: Arc<Ontology>,
+        // origins: HashSet<String>,
+        // writtens: HashSet<Written>,
+        // forms: HashSet<Form>,
+        // lexicals: HashSet<Lexical>,
+        // etyms: HashSet<Etymology>,
+        // relateds: HashSet<Etymology>,
+        // pages: HashSet<Page>,
+        // etyms_down: HashSet<Etymology>,
+        // pages_down: HashSet<Page>,
+        // lexicals_down: HashSet<Lexical>,
+        // writtens_down: HashSet<Written>,
+        // forms_down: HashSet<Form>,
+        // terminals: HashSet<String>,
+    }
 }
 
 #[tokio::test]
 async fn test_find_conflicts() -> anyhow::Result<()> {
     let ontology = ONTOLOGY.get().await.clone_error()?.clone();
-    for word in ["definition"] {
+    for word in ["definition", "cowboy", "cattle"] {
         let mut conflicts = ConflictSet::new(ontology.clone());
         conflicts.add_origin(word.to_string());
         println!("{:#?}", conflicts);

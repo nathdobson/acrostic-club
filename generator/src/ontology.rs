@@ -21,6 +21,7 @@ use rio_api::parser::TriplesParser;
 use safe_once_async::sync::AsyncLazyStatic;
 use ustr::Ustr;
 use acrostic_core::letter::Letter;
+use crate::conflict_set::ConflictSet;
 use crate::segment::get_alpha;
 use crate::turtle::{TURTLE, Turtle, TurtleIndex};
 use crate::util::lazy_async::CloneError;
@@ -107,6 +108,14 @@ impl Ontology {
     }
     pub fn derived_from(&self, x: Page) -> Vec<Lexical> {
         self.graph.get_forward(x.0, self.derived_from).into_iter().map(Lexical).collect()
+    }
+    pub fn derived_from_of(&self, x: Lexical) -> Vec<Page> {
+        self.graph.get_reverse(x.0, self.derived_from).into_iter().map(Page).collect()
+    }
+    pub fn get_conflicts(self: &Arc<Self>, x: &str) -> Vec<String> {
+        let mut set = ConflictSet::new(self.clone());
+        set.add_origin(x.to_string());
+        set.terminals().map(|x| x.to_string()).collect()
     }
     // pub fn get_conflict_keys(&self, x: &str) -> Vec<&str> {
     //     let rep = self.find_written(x).unwrap();
