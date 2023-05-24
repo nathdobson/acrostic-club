@@ -1,0 +1,301 @@
+{
+  "quote": "It was Red Rock Canyon. One of the most beautiful places in Waterton... in the Rockies, for that matter. And it was there, waiting for him to find it. As long as he was willing to look for it.",
+  "quote_letters": "IT WAS RED ROCK CANYON ONE OF THE MOST BEAUTIFUL PLACES IN WATERTON IN THE ROCKIES FOR THAT MATTER AND IT WAS THERE WAITING FOR HIM TO FIND IT AS LONG AS HE WAS WILLING TO LOOK FOR IT",
+  "source": "Danika Stone, Edge of Wild",
+  "source_letters": "DANIKASTONEEDGEOFWILD",
+  "clues": [
+    {
+      "clue": "A character from The Office.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        138,
+        3,
+        68,
+        167,
+        128,
+        132
+      ]
+    },
+    {
+      "clue": "Ancient Greek warrior.",
+      "answer": "achilles",
+      "answer_letters": "ACHILLES",
+      "indices": [
+        143,
+        13,
+        154,
+        162,
+        146,
+        50,
+        40,
+        108
+      ]
+    },
+    {
+      "clue": "A popular 90s action movie character.",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        121,
+        79,
+        78,
+        129,
+        119,
+        4
+      ]
+    },
+    {
+      "clue": "Highly recognized and widely praised.",
+      "answer": "iconic",
+      "answer_letters": "ICONIC",
+      "indices": [
+        103,
+        16,
+        35,
+        57,
+        181,
+        77
+      ]
+    },
+    {
+      "clue": "Surname of an American comedian and writer.",
+      "answer": "kaufman",
+      "answer_letters": "KAUFMAN",
+      "indices": [
+        175,
+        107,
+        42,
+        45,
+        92,
+        117,
+        18
+      ]
+    },
+    {
+      "clue": "Pieces of creativity.",
+      "answer": "artworks",
+      "answer_letters": "ARTWORKS",
+      "indices": [
+        151,
+        7,
+        64,
+        157,
+        84,
+        11,
+        14,
+        36
+      ]
+    },
+    {
+      "clue": "A solution containing salt.",
+      "answer": "saline",
+      "answer_letters": "SALINE",
+      "indices": [
+        144,
+        17,
+        47,
+        120,
+        69,
+        25
+      ]
+    },
+    {
+      "clue": "A permanent body marking.",
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        169,
+        158,
+        1,
+        104,
+        12,
+        178
+      ]
+    },
+    {
+      "clue": "A last name often associated with Spiderman's arch-nemesis.",
+      "answer": "osborn",
+      "answer_letters": "OSBORN",
+      "indices": [
+        147,
+        159,
+        39,
+        20,
+        85,
+        137
+      ]
+    },
+    {
+      "clue": "A common female name.",
+      "answer": "natasha",
+      "answer_letters": "NATASHA",
+      "indices": [
+        148,
+        99,
+        37,
+        89,
+        5,
+        72,
+        51
+      ]
+    },
+    {
+      "clue": "A type of networking technology.",
+      "answer": "ethernet",
+      "answer_letters": "ETHERNET",
+      "indices": [
+        62,
+        43,
+        31,
+        114,
+        97,
+        66,
+        32,
+        30
+      ]
+    },
+    {
+      "clue": "Activity towards accomplishing a goal.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        8,
+        28,
+        83,
+        27,
+        179,
+        182
+      ]
+    },
+    {
+      "clue": "A major city in Michigan.",
+      "answer": "detroit",
+      "answer_letters": "DETROIT",
+      "indices": [
+        9,
+        96,
+        87,
+        63,
+        173,
+        0,
+        95
+      ]
+    },
+    {
+      "clue": "A zodiac sign known for dual personalities.",
+      "answer": "gemini",
+      "answer_letters": "GEMINI",
+      "indices": [
+        122,
+        53,
+        34,
+        165,
+        100,
+        56
+      ]
+    },
+    {
+      "clue": "Hires workers.",
+      "answer": "employs",
+      "answer_letters": "EMPLOYS",
+      "indices": [
+        80,
+        130,
+        49,
+        164,
+        133,
+        19,
+        54
+      ]
+    },
+    {
+      "clue": "A branch stemming from a larger entity.",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        23,
+        135,
+        124,
+        81,
+        111,
+        65,
+        76,
+        71
+      ]
+    },
+    {
+      "clue": "Unrestricted movement of liquid.",
+      "answer": "flowing",
+      "answer_letters": "FLOWING",
+      "indices": [
+        177,
+        172,
+        170,
+        59,
+        140,
+        24,
+        149
+      ]
+    },
+    {
+      "clue": "Puts pen to paper, perhaps.",
+      "answer": "writes",
+      "answer_letters": "WRITES",
+      "indices": [
+        161,
+        75,
+        44,
+        94,
+        73,
+        152
+      ]
+    },
+    {
+      "clue": "A Greek island mentioned in Homer's Odyssey.",
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        136,
+        141,
+        88,
+        41,
+        52,
+        60
+      ]
+    },
+    {
+      "clue": "A world of fiction, non-fiction, and poetry.",
+      "answer": "literature",
+      "answer_letters": "LITERATURE",
+      "indices": [
+        163,
+        118,
+        90,
+        155,
+        113,
+        93,
+        61,
+        46,
+        126,
+        112
+      ]
+    },
+    {
+      "clue": "The commercial hub of a city.",
+      "answer": "downtown",
+      "answer_letters": "DOWNTOWN",
+      "indices": [
+        101,
+        174,
+        116,
+        21,
+        110,
+        125,
+        106,
+        166
+      ]
+    }
+  ],
+  "chat": null
+}

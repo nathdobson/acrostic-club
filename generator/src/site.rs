@@ -100,7 +100,7 @@ pub async fn copy_puzzles() -> io::Result<()> {
             filename.push("puzzle");
             filename.push(entry.file_name());
             filename.push(".json");
-            let input = entry.path().join("stage4.json");
+            let input = entry.path().join("stage3.json");
             if fs::metadata(&input).await.is_ok() {
                 if let Err(e) = fs::symlink(input,
                                             output.join(filename)).await {

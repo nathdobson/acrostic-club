@@ -1,0 +1,311 @@
+{
+  "quote": "He crouched at the car window and looked in. 'What a lovely family you have. What a charming family. They're all lovely. Except for that one.' His finger jabbed the glass. 'That one's a bit ugly.",
+  "quote_letters": "HE CROUCHED AT THE CAR WINDOW AND LOOKED IN WHAT A LOVELY FAMILY YOU HAVE WHAT A CHARMING FAMILY THEYRE ALL LOVELY EXCEPT FOR THAT ONE HIS FINGER JABBED THE GLASS THAT ONES A BIT UGLY",
+  "source": "Derek Landy, Death Bringer",
+  "source_letters": "DEREKLANDYDEATHBRINGER",
+  "clues": [
+    {
+      "clue": "Seaport city on Lake Superior.",
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        10,
+        6,
+        105,
+        67,
+        153,
+        16
+      ]
+    },
+    {
+      "clue": "Activity towards accomplishing a goal.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        170,
+        122,
+        58,
+        109,
+        4,
+        120
+      ]
+    },
+    {
+      "clue": "Capable of returning light, heat, or sound.",
+      "answer": "reflective",
+      "answer_letters": "REFLECTIVE",
+      "indices": [
+        144,
+        102,
+        90,
+        62,
+        72,
+        117,
+        15,
+        93,
+        53,
+        155
+      ]
+    },
+    {
+      "clue": "A former spouse.",
+      "answer": "ex-wife",
+      "answer_letters": "EXWIFE",
+      "indices": [
+        118,
+        116,
+        74,
+        140,
+        139,
+        150
+      ]
+    },
+    {
+      "clue": "A surname commonly used in the English speaking world.",
+      "answer": "kelley",
+      "answer_letters": "KELLEY",
+      "indices": [
+        37,
+        99,
+        34,
+        55,
+        9,
+        113
+      ]
+    },
+    {
+      "clue": "A district in South London.",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
+      "indices": [
+        51,
+        76,
+        60,
+        149,
+        54,
+        129,
+        45
+      ]
+    },
+    {
+      "clue": "Metal objects that keep a boat from drifting away.",
+      "answer": "anchors",
+      "answer_letters": "ANCHORS",
+      "indices": [
+        20,
+        42,
+        3,
+        69,
+        131,
+        124,
+        161
+      ]
+    },
+    {
+      "clue": "A physicist and mathematician.",
+      "answer": "newton",
+      "answer_letters": "NEWTON",
+      "indices": [
+        87,
+        17,
+        44,
+        126,
+        66,
+        169
+      ]
+    },
+    {
+      "clue": "The time when the sun is visible in the sky.",
+      "answer": "daylight",
+      "answer_letters": "DAYLIGHT",
+      "indices": [
+        32,
+        30,
+        56,
+        112,
+        136,
+        142,
+        98,
+        47
+      ]
+    },
+    {
+      "clue": "A Japanese motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        182,
+        165,
+        85,
+        59,
+        154,
+        46
+      ]
+    },
+    {
+      "clue": "Interruptions to the schedule.",
+      "answer": "delays",
+      "answer_letters": "DELAYS",
+      "indices": [
+        26,
+        143,
+        158,
+        159,
+        100,
+        137
+      ]
+    },
+    {
+      "clue": "A South American country.",
+      "answer": "ecuador",
+      "answer_letters": "ECUADOR",
+      "indices": [
+        1,
+        19,
+        179,
+        173,
+        151,
+        35,
+        101
+      ]
+    },
+    {
+      "clue": "To fasten or join something to another object.",
+      "answer": "attach",
+      "answer_letters": "ATTACH",
+      "indices": [
+        83,
+        177,
+        77,
+        70,
+        81,
+        75
+      ]
+    },
+    {
+      "clue": "The current evening.",
+      "answer": "tonight",
+      "answer_letters": "TONIGHT",
+      "indices": [
+        97,
+        27,
+        141,
+        61,
+        180,
+        127,
+        13
+      ]
+    },
+    {
+      "clue": "An empty space.",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        0,
+        36,
+        181,
+        94,
+        168,
+        28
+      ]
+    },
+    {
+      "clue": "To conduct oneself appropriately.",
+      "answer": "behave",
+      "answer_letters": "BEHAVE",
+      "indices": [
+        175,
+        111,
+        164,
+        128,
+        110,
+        115
+      ]
+    },
+    {
+      "clue": "Regular patterns of beats.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        21,
+        135,
+        63,
+        163,
+        82,
+        92,
+        160
+      ]
+    },
+    {
+      "clue": "A Greek island mentioned in Homer's Odyssey.",
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        41,
+        166,
+        8,
+        12,
+        7,
+        49
+      ]
+    },
+    {
+      "clue": "A historic seaside city in Southern Italy.",
+      "answer": "napoli",
+      "answer_letters": "NAPOLI",
+      "indices": [
+        31,
+        147,
+        119,
+        5,
+        106,
+        86
+      ]
+    },
+    {
+      "clue": "An act of presenting or offering something.",
+      "answer": "giving",
+      "answer_letters": "GIVING",
+      "indices": [
+        88,
+        176,
+        71,
+        24,
+        132,
+        157
+      ]
+    },
+    {
+      "clue": "Pleasing or delightful.",
+      "answer": "enjoyable",
+      "answer_letters": "ENJOYABLE",
+      "indices": [
+        38,
+        25,
+        146,
+        123,
+        65,
+        79,
+        148,
+        108,
+        133
+      ]
+    },
+    {
+      "clue": "Paved paths for vehicles and pedestrians.",
+      "answer": "roadways",
+      "answer_letters": "ROADWAYS",
+      "indices": [
+        84,
+        52,
+        91,
+        39,
+        23,
+        104,
+        95,
+        171
+      ]
+    }
+  ],
+  "chat": null
+}

@@ -1,0 +1,302 @@
+{
+  "quote": "Raven scowled through his too-long bangs. “The Angel Song doesn’t hurt humans. It only affects the evil within.” “Then you should be writhing on the ground with the hounds,” Mace mumbled.",
+  "quote_letters": "RAVEN SCOWLED THROUGH HIS TOO-LONG BANGS THE ANGEL SONG DOESNT HURT HUMANS IT ONLY AFFECTS THE EVIL WITHIN THEN YOU SHOULD BE WRITHING ON THE GROUND WITH THE HOUNDS MACE MUMBLED",
+  "source": "Heather Burch, Halflings",
+  "source_letters": "HEATHERBURCHHALFLINGS",
+  "clues": [
+    {
+      "clue": "A spiny mammal.",
+      "answer": "hedgehog",
+      "answer_letters": "HEDGEHOG",
+      "indices": [
+        22,
+        43,
+        12,
+        133,
+        124,
+        15,
+        135,
+        38
+      ]
+    },
+    {
+      "clue": "City in Alberta, Canada.",
+      "answer": "edmonton",
+      "answer_letters": "EDMONTON",
+      "indices": [
+        11,
+        147,
+        170,
+        144,
+        79,
+        41,
+        31,
+        136
+      ]
+    },
+    {
+      "clue": "Past mistreatment.",
+      "answer": "abused",
+      "answer_letters": "ABUSED",
+      "indices": [
+        166,
+        123,
+        145,
+        6,
+        175,
+        176
+      ]
+    },
+    {
+      "clue": "The current evening.",
+      "answer": "tonight",
+      "answer_letters": "TONIGHT",
+      "indices": [
+        26,
+        8,
+        146,
+        101,
+        47,
+        117,
+        14
+      ]
+    },
+    {
+      "clue": "Australian tennis player and former world No. 1.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        68,
+        93,
+        9,
+        75,
+        76,
+        91
+      ]
+    },
+    {
+      "clue": "A gift of financial resources.",
+      "answer": "endowment",
+      "answer_letters": "ENDOWMENT",
+      "indices": [
+        3,
+        32,
+        162,
+        17,
+        149,
+        165,
+        156,
+        53,
+        66
+      ]
+    },
+    {
+      "clue": "Entitlements that cannot be taken away.",
+      "answer": "rights",
+      "answer_letters": "RIGHTS",
+      "indices": [
+        127,
+        131,
+        142,
+        152,
+        61,
+        51
+      ]
+    },
+    {
+      "clue": "Fellow members of a group or organization.",
+      "answer": "brethren",
+      "answer_letters": "BRETHREN",
+      "indices": [
+        35,
+        16,
+        95,
+        154,
+        155,
+        143,
+        58,
+        4
+      ]
+    },
+    {
+      "clue": "Without a name.",
+      "answer": "untitled",
+      "answer_letters": "UNTITLED",
+      "indices": [
+        119,
+        110,
+        107,
+        150,
+        151,
+        10,
+        140,
+        56
+      ]
+    },
+    {
+      "clue": "Regular patterns of beats.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        65,
+        139,
+        81,
+        88,
+        92,
+        172,
+        39
+      ]
+    },
+    {
+      "clue": "Religious institution's.",
+      "answer": "church's",
+      "answer_letters": "CHURCHS",
+      "indices": [
+        167,
+        108,
+        114,
+        0,
+        7,
+        63,
+        73
+      ]
+    },
+    {
+      "clue": "An empty space.",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        103,
+        57,
+        174,
+        120,
+        52,
+        126
+      ]
+    },
+    {
+      "clue": "A street in North London.",
+      "answer": "holloway",
+      "answer_letters": "HOLLOWAY",
+      "indices": [
+        130,
+        118,
+        30,
+        80,
+        78,
+        100,
+        1,
+        112
+      ]
+    },
+    {
+      "clue": "Tending to harm or mistreat others.",
+      "answer": "abusive",
+      "answer_letters": "ABUSIVE",
+      "indices": [
+        36,
+        173,
+        160,
+        116,
+        128,
+        2,
+        48
+      ]
+    },
+    {
+      "clue": "A comfortable area to relax.",
+      "answer": "lounge",
+      "answer_letters": "LOUNGE",
+      "indices": [
+        49,
+        159,
+        18,
+        105,
+        54,
+        109
+      ]
+    },
+    {
+      "clue": "A program's purpose or task.",
+      "answer": "function",
+      "answer_letters": "FUNCTION",
+      "indices": [
+        84,
+        69,
+        46,
+        87,
+        129,
+        97,
+        27,
+        37
+      ]
+    },
+    {
+      "clue": "A Belgian city.",
+      "answer": "leuven",
+      "answer_letters": "LEUVEN",
+      "indices": [
+        98,
+        86,
+        171,
+        96,
+        168,
+        72
+      ]
+    },
+    {
+      "clue": "City in Iran known for its Islamic architecture.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        104,
+        24,
+        85,
+        83,
+        42,
+        45,
+        132
+      ]
+    },
+    {
+      "clue": "A time when stars shine.",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        60,
+        23,
+        19,
+        158,
+        138,
+        163
+      ]
+    },
+    {
+      "clue": "A city loved by Batman.",
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        33,
+        113,
+        102,
+        20,
+        71,
+        70
+      ]
+    },
+    {
+      "clue": "Vibrations that can be heard.",
+      "answer": "sounds",
+      "answer_letters": "SOUNDS",
+      "indices": [
+        89,
+        28,
+        64,
+        161,
+        121,
+        59
+      ]
+    }
+  ],
+  "chat": null
+}

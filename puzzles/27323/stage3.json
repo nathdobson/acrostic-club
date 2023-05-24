@@ -1,0 +1,293 @@
+{
+  "quote": "A quick thought shot through my mind. Could I really drown in a dream? I remembered the movie the Matrix. If you died in the matrix, you died in real life. I wasn’t about to take a chance...",
+  "quote_letters": "A QUICK THOUGHT SHOT THROUGH MY MIND COULD I REALLY DROWN IN A DREAM I REMEMBERED THE MOVIE THE MATRIX IF YOU DIED IN THE MATRIX YOU DIED IN REAL LIFE I WASNT ABOUT TO TAKE A CHANCE",
+  "source": "Cameo Renae, In My Dreams",
+  "source_letters": "CAMEORENAEINMYDREAMS",
+  "clues": [
+    {
+      "clue": "A city in Ohio.",
+      "answer": "cleveland",
+      "answer_letters": "CLEVELAND",
+      "indices": [
+        175,
+        144,
+        77,
+        88,
+        120,
+        146,
+        154,
+        139,
+        41
+      ]
+    },
+    {
+      "clue": "Declared not guilty in court.",
+      "answer": "acquitted",
+      "answer_letters": "ACQUITTED",
+      "indices": [
+        47,
+        37,
+        2,
+        11,
+        4,
+        92,
+        157,
+        135,
+        63
+      ]
+    },
+    {
+      "clue": "Located at the center.",
+      "answer": "middle",
+      "answer_letters": "MIDDLE",
+      "indices": [
+        73,
+        100,
+        52,
+        113,
+        49,
+        72
+      ]
+    },
+    {
+      "clue": "Came across.",
+      "answer": "encountered",
+      "answer_letters": "ENCOUNTERED",
+      "indices": [
+        84,
+        178,
+        5,
+        161,
+        162,
+        56,
+        168,
+        46,
+        64,
+        171,
+        133
+      ]
+    },
+    {
+      "clue": "An ensemble of clothing.",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        107,
+        25,
+        163,
+        148,
+        89,
+        165
+      ]
+    },
+    {
+      "clue": "A consistent beat in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        71,
+        22,
+        129,
+        14,
+        17,
+        67
+      ]
+    },
+    {
+      "clue": "An exclamation of joy or discovery.",
+      "answer": "eureka",
+      "answer_letters": "EUREKA",
+      "indices": [
+        112,
+        39,
+        125,
+        74,
+        170,
+        143
+      ]
+    },
+    {
+      "clue": "In the direction of the Arctic.",
+      "answer": "northward",
+      "answer_letters": "NORTHWARD",
+      "indices": [
+        116,
+        54,
+        141,
+        8,
+        93,
+        55,
+        169,
+        53,
+        110
+      ]
+    },
+    {
+      "clue": "A collection of literary works.",
+      "answer": "anthology",
+      "answer_letters": "ANTHOLOGY",
+      "indices": [
+        66,
+        156,
+        98,
+        176,
+        10,
+        40,
+        130,
+        26,
+        30
+      ]
+    },
+    {
+      "clue": "The sum of 70 and 10.",
+      "answer": "eighty",
+      "answer_letters": "EIGHTY",
+      "indices": [
+        65,
+        69,
+        12,
+        9,
+        82,
+        106
+      ]
+    },
+    {
+      "clue": "A country in the southern region of Europe.",
+      "answer": "italia",
+      "answer_letters": "ITALIA",
+      "indices": [
+        138,
+        19,
+        177,
+        48,
+        115,
+        97
+      ]
+    },
+    {
+      "clue": "A popular 90s action movie character.",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        59,
+        134,
+        6,
+        126,
+        118,
+        61
+      ]
+    },
+    {
+      "clue": "An autobiographical account.",
+      "answer": "memoir",
+      "answer_letters": "MEMOIR",
+      "indices": [
+        75,
+        79,
+        96,
+        166,
+        151,
+        78
+      ]
+    },
+    {
+      "clue": "A Japanese motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        50,
+        0,
+        32,
+        159,
+        119,
+        173
+      ]
+    },
+    {
+      "clue": "A compound with two oxygen atoms.",
+      "answer": "dioxide",
+      "answer_letters": "DIOXIDE",
+      "indices": [
+        136,
+        58,
+        24,
+        101,
+        147,
+        35,
+        180
+      ]
+    },
+    {
+      "clue": "A boy's name.",
+      "answer": "richie",
+      "answer_letters": "RICHIE",
+      "indices": [
+        99,
+        33,
+        179,
+        83,
+        103,
+        149
+      ]
+    },
+    {
+      "clue": "A former spouse.",
+      "answer": "ex-wife",
+      "answer_letters": "EXWIFE",
+      "indices": [
+        94,
+        127,
+        153,
+        111,
+        104,
+        90
+      ]
+    },
+    {
+      "clue": "A surprise attack.",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
+      "indices": [
+        123,
+        86,
+        160,
+        108,
+        155,
+        27
+      ]
+    },
+    {
+      "clue": "Surname of Edgar’s loyal and brave sidekick in the medieval tales.",
+      "answer": "mortimer",
+      "answer_letters": "MORTIMER",
+      "indices": [
+        122,
+        18,
+        45,
+        21,
+        43,
+        29,
+        142,
+        23
+      ]
+    },
+    {
+      "clue": "Traveling in one direction.",
+      "answer": "southbound",
+      "answer_letters": "SOUTHBOUND",
+      "indices": [
+        16,
+        38,
+        3,
+        124,
+        13,
+        76,
+        87,
+        131,
+        34,
+        80
+      ]
+    }
+  ],
+  "chat": null
+}

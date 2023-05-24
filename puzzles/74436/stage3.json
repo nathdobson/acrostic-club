@@ -1,0 +1,299 @@
+{
+  "quote": "I have this thing about friends and secrets. Sometimes when I meet a person I like, I tell them a secret they don't know me well enough to be told. It lets me judge their potential as a friend.",
+  "quote_letters": "I HAVE THIS THING ABOUT FRIENDS AND SECRETS SOMETIMES WHEN I MEET A PERSON I LIKE I TELL THEM A SECRET THEY DONT KNOW ME WELL ENOUGH TO BE TOLD IT LETS ME JUDGE THEIR POTENTIAL AS A FRIEND",
+  "source": "Mohsin Hamid, Moth Smoke",
+  "source_letters": "MOHSINHAMIDMOTHSMOKE",
+  "clues": [
+    {
+      "clue": "A driving force.",
+      "answer": "motivation",
+      "answer_letters": "MOTIVATION",
+      "indices": [
+        46,
+        115,
+        101,
+        14,
+        4,
+        32,
+        139,
+        0,
+        140,
+        114
+      ]
+    },
+    {
+      "clue": "A source for electricity or retail goods.",
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
+      "indices": [
+        109,
+        156,
+        7,
+        147,
+        27,
+        22
+      ]
+    },
+    {
+      "clue": "Someone who swings a bat or racket at a ball.",
+      "answer": "hitter",
+      "answer_letters": "HITTER",
+      "indices": [
+        162,
+        75,
+        133,
+        64,
+        91,
+        165
+      ]
+    },
+    {
+      "clue": "A creator of lyrics and melodies.",
+      "answer": "songwriter",
+      "answer_letters": "SONGWRITER",
+      "indices": [
+        150,
+        45,
+        171,
+        130,
+        54,
+        25,
+        78,
+        169,
+        80,
+        70
+      ]
+    },
+    {
+      "clue": "Curious about something.",
+      "answer": "interested",
+      "answer_letters": "INTERESTED",
+      "indices": [
+        82,
+        28,
+        103,
+        47,
+        183,
+        40,
+        96,
+        48,
+        137,
+        142
+      ]
+    },
+    {
+      "clue": "A popular 90s action movie character.",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        127,
+        26,
+        113,
+        9,
+        84,
+        3
+      ]
+    },
+    {
+      "clue": "A common surname.",
+      "answer": "howell",
+      "answer_letters": "HOWELL",
+      "indices": [
+        13,
+        128,
+        116,
+        148,
+        124,
+        77
+      ]
+    },
+    {
+      "clue": "A popular first name for girls.",
+      "answer": "ashley",
+      "answer_letters": "ASHLEY",
+      "indices": [
+        177,
+        42,
+        2,
+        123,
+        159,
+        106
+      ]
+    },
+    {
+      "clue": "Italian female name.",
+      "answer": "michele",
+      "answer_letters": "MICHELE",
+      "indices": [
+        50,
+        49,
+        38,
+        131,
+        85,
+        87,
+        126
+      ]
+    },
+    {
+      "clue": "An order from a court.",
+      "answer": "injunction",
+      "answer_letters": "INJUNCTION",
+      "indices": [
+        173,
+        186,
+        155,
+        129,
+        57,
+        98,
+        89,
+        59,
+        20,
+        73
+      ]
+    },
+    {
+      "clue": "No longer present.",
+      "answer": "deleted",
+      "answer_letters": "DELETED",
+      "indices": [
+        157,
+        37,
+        141,
+        122,
+        161,
+        51,
+        29
+      ]
+    },
+    {
+      "clue": "Last name of a famous Canadian NHL player.",
+      "answer": "matthews",
+      "answer_letters": "MATTHEWS",
+      "indices": [
+        152,
+        18,
+        111,
+        149,
+        90,
+        163,
+        121,
+        36
+      ]
+    },
+    {
+      "clue": "An action that violates a rule or social norm.",
+      "answer": "offense",
+      "answer_letters": "OFFENSE",
+      "indices": [
+        134,
+        182,
+        24,
+        100,
+        15,
+        44,
+        56
+      ]
+    },
+    {
+      "clue": "A violent storm.",
+      "answer": "tempest",
+      "answer_letters": "TEMPEST",
+      "indices": [
+        41,
+        62,
+        118,
+        167,
+        170,
+        71,
+        172
+      ]
+    },
+    {
+      "clue": "Distance from base to summit.",
+      "answer": "height",
+      "answer_letters": "HEIGHT",
+      "indices": [
+        104,
+        63,
+        184,
+        158,
+        8,
+        145
+      ]
+    },
+    {
+      "clue": "A type of train car.",
+      "answer": "sleeper",
+      "answer_letters": "SLEEPER",
+      "indices": [
+        10,
+        86,
+        153,
+        97,
+        68,
+        185,
+        39
+      ]
+    },
+    {
+      "clue": "Wetlands with low-lying vegetation.",
+      "answer": "marshes",
+      "answer_letters": "MARSHES",
+      "indices": [
+        92,
+        174,
+        99,
+        178,
+        55,
+        119,
+        30
+      ]
+    },
+    {
+      "clue": "A necessary duty.",
+      "answer": "obligation",
+      "answer_letters": "OBLIGATION",
+      "indices": [
+        168,
+        136,
+        175,
+        144,
+        16,
+        66,
+        12,
+        164,
+        72,
+        33
+      ]
+    },
+    {
+      "clue": "City in Lithuania.",
+      "answer": "kaunas",
+      "answer_letters": "KAUNAS",
+      "indices": [
+        79,
+        180,
+        21,
+        110,
+        94,
+        52
+      ]
+    },
+    {
+      "clue": "Immersed within.",
+      "answer": "embedded",
+      "answer_letters": "EMBEDDED",
+      "indices": [
+        5,
+        61,
+        19,
+        69,
+        187,
+        108,
+        105,
+        34
+      ]
+    }
+  ],
+  "chat": null
+}

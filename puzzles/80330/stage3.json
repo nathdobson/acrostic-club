@@ -1,0 +1,301 @@
+{
+  "quote": "This is just the way life is – sometimes cruel, sometimes beautiful, all the time confusing and frightening and exhilarating – and we just have to deal with it. That’swhat freedom is.",
+  "quote_letters": "THIS IS JUST THE WAY LIFE IS - SOMETIMES CRUEL SOMETIMES BEAUTIFUL ALL THE TIME CONFUSING AND FRIGHTENING AND EXHILARATING - AND WE JUST HAVE TO DEAL WITH IT THATSWHAT FREEDOM IS",
+  "source": "Chloe Rattray, Sacré Noir",
+  "source_letters": "CHLOERATTRAYSACRENOIR",
+  "clues": [
+    {
+      "clue": "Steep rocky formations.",
+      "answer": "cliffs",
+      "answer_letters": "CLIFFS",
+      "indices": [
+        80,
+        114,
+        52,
+        83,
+        63,
+        31
+      ]
+    },
+    {
+      "clue": "Intermission during a sports game.",
+      "answer": "halftime",
+      "answer_letters": "HALFTIME",
+      "indices": [
+        72,
+        160,
+        69,
+        94,
+        51,
+        36,
+        49,
+        44
+      ]
+    },
+    {
+      "clue": "A bankrupt investment bank.",
+      "answer": "lehman",
+      "answer_letters": "LEHMAN",
+      "indices": [
+        148,
+        73,
+        137,
+        77,
+        115,
+        103
+      ]
+    },
+    {
+      "clue": "Lee Harvey ___ .",
+      "answer": "oswald",
+      "answer_letters": "OSWALD",
+      "indices": [
+        143,
+        47,
+        163,
+        90,
+        65,
+        172
+      ]
+    },
+    {
+      "clue": "To display an object or artwork to the public.",
+      "answer": "exhibit",
+      "answer_letters": "EXHIBIT",
+      "indices": [
+        15,
+        111,
+        1,
+        2,
+        57,
+        102,
+        0
+      ]
+    },
+    {
+      "clue": "Showing no mercy or pity.",
+      "answer": "ruthless",
+      "answer_letters": "RUTHLESS",
+      "indices": [
+        42,
+        43,
+        61,
+        14,
+        45,
+        170,
+        10,
+        27
+      ]
+    },
+    {
+      "clue": "A season of changing leaves.",
+      "answer": "autumn",
+      "answer_letters": "AUTUMN",
+      "indices": [
+        59,
+        133,
+        142,
+        60,
+        53,
+        87
+      ]
+    },
+    {
+      "clue": "A period of the day just before dark.",
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
+      "indices": [
+        11,
+        129,
+        5,
+        21,
+        151,
+        88,
+        153,
+        35
+      ]
+    },
+    {
+      "clue": "Gave evidence in court.",
+      "answer": "testified",
+      "answer_letters": "TESTIFIED",
+      "indices": [
+        75,
+        110,
+        55,
+        99,
+        76,
+        23,
+        176,
+        24,
+        127
+      ]
+    },
+    {
+      "clue": "What's left after the fact.",
+      "answer": "remains",
+      "answer_letters": "REMAINS",
+      "indices": [
+        95,
+        130,
+        174,
+        147,
+        119,
+        107,
+        6
+      ]
+    },
+    {
+      "clue": "Sharing a common border or touching.",
+      "answer": "adjoining",
+      "answer_letters": "ADJOINING",
+      "indices": [
+        165,
+        145,
+        8,
+        48,
+        22,
+        91,
+        113,
+        101,
+        121
+      ]
+    },
+    {
+      "clue": "A Japanese motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        19,
+        125,
+        33,
+        117,
+        98,
+        18
+      ]
+    },
+    {
+      "clue": "A sculpted figure.",
+      "answer": "statue",
+      "answer_letters": "STATUE",
+      "indices": [
+        3,
+        13,
+        138,
+        118,
+        84,
+        38
+      ]
+    },
+    {
+      "clue": "To fine-tune or modify.",
+      "answer": "adjust",
+      "answer_letters": "ADJUST",
+      "indices": [
+        67,
+        108,
+        132,
+        9,
+        177,
+        135
+      ]
+    },
+    {
+      "clue": "The framework of a vehicle.",
+      "answer": "chassis",
+      "answer_letters": "CHASSIS",
+      "indices": [
+        41,
+        159,
+        106,
+        162,
+        39,
+        155,
+        134
+      ]
+    },
+    {
+      "clue": "An assessment of something.",
+      "answer": "review",
+      "answer_letters": "REVIEW",
+      "indices": [
+        169,
+        140,
+        139,
+        96,
+        100,
+        17
+      ]
+    },
+    {
+      "clue": "The number of years until legal adulthood.",
+      "answer": "eighteen",
+      "answer_letters": "EIGHTEEN",
+      "indices": [
+        171,
+        86,
+        104,
+        164,
+        71,
+        146,
+        50,
+        126
+      ]
+    },
+    {
+      "clue": "Caught with a mesh.",
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
+        82,
+        34,
+        156,
+        152,
+        58,
+        92
+      ]
+    },
+    {
+      "clue": "A drainage.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        173,
+        64,
+        158,
+        168,
+        68,
+        32,
+        150
+      ]
+    },
+    {
+      "clue": "A sudden realization.",
+      "answer": "insight",
+      "answer_letters": "INSIGHT",
+      "indices": [
+        26,
+        120,
+        85,
+        62,
+        97,
+        112,
+        166
+      ]
+    },
+    {
+      "clue": "Distant in space or time.",
+      "answer": "remote",
+      "answer_letters": "REMOTE",
+      "indices": [
+        116,
+        54,
+        37,
+        81,
+        161,
+        78
+      ]
+    }
+  ],
+  "chat": null
+}

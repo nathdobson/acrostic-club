@@ -1,0 +1,290 @@
+{
+  "quote": "Myrna could spend happy hours browsing bookcases. She felt if she could just get a good look at a person’s bookcase and their grocery cart, she’d pretty much know who they were.",
+  "quote_letters": "MYRNA COULD SPEND HAPPY HOURS BROWSING BOOKCASES SHE FELT IF SHE COULD JUST GET A GOOD LOOK AT A PERSONS BOOKCASE AND THEIR GROCERY CART SHED PRETTY MUCH KNOW WHO THEY WERE",
+  "source": "Louise Penny, Still Life",
+  "source_letters": "LOUISEPENNYSTILLLIFE",
+  "clues": [
+    {
+      "clue": "Unit of measurement for distance.",
+      "answer": "length",
+      "answer_letters": "LENGTH",
+      "indices": [
+        68,
+        128,
+        155,
+        37,
+        163,
+        160
+      ]
+    },
+    {
+      "clue": "A last name often associated with Spiderman's arch-nemesis.",
+      "answer": "osborn",
+      "answer_letters": "OSBORN",
+      "indices": [
+        156,
+        61,
+        39,
+        84,
+        170,
+        115
+      ]
+    },
+    {
+      "clue": "Improved to a higher standard.",
+      "answer": "upgraded",
+      "answer_letters": "UPGRADED",
+      "indices": [
+        67,
+        97,
+        82,
+        129,
+        133,
+        116,
+        54,
+        140
+      ]
+    },
+    {
+      "clue": "A Greek island mentioned in Homer's Odyssey.",
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        121,
+        74,
+        18,
+        114,
+        151,
+        4
+      ]
+    },
+    {
+      "clue": "A district in London.",
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
+      "indices": [
+        111,
+        7,
+        8,
+        118,
+        164,
+        157,
+        44,
+        99,
+        154
+      ]
+    },
+    {
+      "clue": "Written compositions.",
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
+      "indices": [
+        165,
+        45,
+        49,
+        80,
+        130,
+        103
+      ]
+    },
+    {
+      "clue": "Captured moments.",
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
+      "indices": [
+        21,
+        24,
+        25,
+        56,
+        101,
+        73
+      ]
+    },
+    {
+      "clue": "To make something legally binding.",
+      "answer": "enforce",
+      "answer_letters": "ENFORCE",
+      "indices": [
+        169,
+        3,
+        59,
+        88,
+        31,
+        65,
+        112
+      ]
+    },
+    {
+      "clue": "A city in central India.",
+      "answer": "nagpur",
+      "answer_letters": "NAGPUR",
+      "indices": [
+        15,
+        19,
+        76,
+        20,
+        150,
+        122
+      ]
+    },
+    {
+      "clue": "A male relative of yours' sibling.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        102,
+        139,
+        142,
+        138,
+        120,
+        159
+      ]
+    },
+    {
+      "clue": "The day that came before today.",
+      "answer": "yesterday",
+      "answer_letters": "YESTERDAY",
+      "indices": [
+        147,
+        77,
+        28,
+        146,
+        51,
+        125,
+        69,
+        95,
+        22
+      ]
+    },
+    {
+      "clue": "Obstacles or hindrances that impede progress.",
+      "answer": "setbacks",
+      "answer_letters": "SETBACKS",
+      "indices": [
+        137,
+        144,
+        93,
+        105,
+        92,
+        132,
+        90,
+        100
+      ]
+    },
+    {
+      "clue": "Painstakingly exhaustive.",
+      "answer": "thorough",
+      "answer_letters": "THOROUGH",
+      "indices": [
+        78,
+        62,
+        40,
+        134,
+        106,
+        26,
+        124,
+        50
+      ]
+    },
+    {
+      "clue": "Harm caused by an accident or physical activity.",
+      "answer": "injury",
+      "answer_letters": "INJURY",
+      "indices": [
+        58,
+        36,
+        71,
+        72,
+        27,
+        1
+      ]
+    },
+    {
+      "clue": "A surname of English origin.",
+      "answer": "lockwood",
+      "answer_letters": "LOCKWOOD",
+      "indices": [
+        55,
+        66,
+        109,
+        42,
+        33,
+        89,
+        32,
+        85
+      ]
+    },
+    {
+      "clue": "Inexpensive or budget-friendly.",
+      "answer": "low-cost",
+      "answer_letters": "LOWCOST",
+      "indices": [
+        87,
+        126,
+        168,
+        6,
+        107,
+        12,
+        135
+      ]
+    },
+    {
+      "clue": "An American aerospace company.",
+      "answer": "lockheed",
+      "answer_letters": "LOCKHEED",
+      "indices": [
+        9,
+        83,
+        127,
+        108,
+        119,
+        63,
+        46,
+        10
+      ]
+    },
+    {
+      "clue": "Put in place by authority.",
+      "answer": "imposed",
+      "answer_letters": "IMPOSED",
+      "indices": [
+        35,
+        0,
+        13,
+        161,
+        47,
+        14,
+        16
+      ]
+    },
+    {
+      "clue": "Scottish surname.",
+      "answer": "forsyth",
+      "answer_letters": "FORSYTH",
+      "indices": [
+        53,
+        41,
+        143,
+        34,
+        166,
+        145,
+        152
+      ]
+    },
+    {
+      "clue": "A loving hug.",
+      "answer": "embrace",
+      "answer_letters": "EMBRACE",
+      "indices": [
+        171,
+        149,
+        30,
+        2,
+        110,
+        43,
+        98
+      ]
+    }
+  ],
+  "chat": null
+}

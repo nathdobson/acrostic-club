@@ -1,0 +1,301 @@
+{
+  "quote": "It is almost as if happiness is an acquired taste, like coconut cordial or ceviche, to which you can eventually become accustomed, but despair is something surprising each time you encounter it.",
+  "quote_letters": "IT IS ALMOST AS IF HAPPINESS IS AN ACQUIRED TASTE LIKE COCONUT CORDIAL OR CEVICHE TO WHICH YOU CAN EVENTUALLY BECOME ACCUSTOMED BUT DESPAIR IS SOMETHING SURPRISING EACH TIME YOU ENCOUNTER IT",
+  "source": "Lemony Snicket, The End",
+  "source_letters": "LEMONYSNICKETTHEEND",
+  "clues": [
+    {
+      "clue": "A measure of distance from the Prime Meridian.",
+      "answer": "longitude",
+      "answer_letters": "LONGITUDE",
+      "indices": [
+        50,
+        144,
+        179,
+        151,
+        39,
+        61,
+        129,
+        126,
+        115
+      ]
+    },
+    {
+      "clue": "A widespread disease outbreak.",
+      "answer": "epidemic",
+      "answer_letters": "EPIDEMIC",
+      "indices": [
+        25,
+        156,
+        170,
+        66,
+        185,
+        114,
+        137,
+        63
+      ]
+    },
+    {
+      "clue": "A tech corporation founded in the 70s.",
+      "answer": "microsoft",
+      "answer_letters": "MICROSOFT",
+      "indices": [
+        145,
+        160,
+        36,
+        155,
+        58,
+        141,
+        56,
+        17,
+        130
+      ]
+    },
+    {
+      "clue": "Different types of jobs.",
+      "answer": "occupations",
+      "answer_letters": "OCCUPATIONS",
+      "indices": [
+        181,
+        95,
+        88,
+        176,
+        135,
+        45,
+        147,
+        188,
+        113,
+        102,
+        46
+      ]
+    },
+    {
+      "clue": "A lively venue for dancing and music.",
+      "answer": "nightclub",
+      "answer_letters": "NIGHTCLUB",
+      "indices": [
+        150,
+        29,
+        162,
+        148,
+        103,
+        119,
+        69,
+        38,
+        110
+      ]
+    },
+    {
+      "clue": "A Jewish religious school.",
+      "answer": "yeshiva",
+      "answer_letters": "YESHIVA",
+      "indices": [
+        108,
+        172,
+        153,
+        89,
+        158,
+        76,
+        35
+      ]
+    },
+    {
+      "clue": "Very impressive.",
+      "answer": "spectacular",
+      "answer_letters": "SPECTACULAR",
+      "indices": [
+        14,
+        21,
+        48,
+        74,
+        1,
+        68,
+        55,
+        104,
+        106,
+        117,
+        40
+      ]
+    },
+    {
+      "clue": "A country in Scandinavia.",
+      "answer": "norway's",
+      "answer_letters": "NORWAYS",
+      "indices": [
+        59,
+        92,
+        65,
+        85,
+        6,
+        91,
+        10
+      ]
+    },
+    {
+      "clue": "A type of cuisine.",
+      "answer": "italian",
+      "answer_letters": "ITALIAN",
+      "indices": [
+        87,
+        122,
+        96,
+        107,
+        140,
+        32,
+        33
+      ]
+    },
+    {
+      "clue": "The conditions surrounding a situation.",
+      "answer": "circumstances",
+      "answer_letters": "CIRCUMSTANCES",
+      "indices": [
+        57,
+        3,
+        157,
+        78,
+        120,
+        8,
+        134,
+        189,
+        105,
+        97,
+        180,
+        164,
+        121
+      ]
+    },
+    {
+      "clue": "Newest independent country in Europe.",
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
+      "indices": [
+        52,
+        64,
+        26,
+        123,
+        100,
+        175
+      ]
+    },
+    {
+      "clue": "One of two.",
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        111,
+        77,
+        11,
+        167,
+        101,
+        72
+      ]
+    },
+    {
+      "clue": "Long, narrow excavations.",
+      "answer": "trenches",
+      "answer_letters": "TRENCHES",
+      "indices": [
+        184,
+        186,
+        75,
+        161,
+        166,
+        19,
+        99,
+        4
+      ]
+    },
+    {
+      "clue": "An important French city in the Occitanie region.",
+      "answer": "toulouse",
+      "answer_letters": "TOULOUSE",
+      "indices": [
+        47,
+        83,
+        60,
+        7,
+        71,
+        93,
+        143,
+        146
+      ]
+    },
+    {
+      "clue": "Restricted in movement or progress.",
+      "answer": "hampered",
+      "answer_letters": "HAMPERED",
+      "indices": [
+        79,
+        136,
+        171,
+        22,
+        133,
+        138,
+        178,
+        42
+      ]
+    },
+    {
+      "clue": "Full of eagerness and passion.",
+      "answer": "enthusiastic",
+      "answer_letters": "ENTHUSIASTIC",
+      "indices": [
+        125,
+        24,
+        44,
+        86,
+        154,
+        159,
+        16,
+        13,
+        30,
+        82,
+        51,
+        112
+      ]
+    },
+    {
+      "clue": "A concept related to fairness in finance and law.",
+      "answer": "equity",
+      "answer_letters": "EQUITY",
+      "indices": [
+        80,
+        37,
+        182,
+        23,
+        169,
+        174
+      ]
+    },
+    {
+      "clue": "A southwestern African country.",
+      "answer": "namibia",
+      "answer_letters": "NAMIBIA",
+      "indices": [
+        183,
+        165,
+        124,
+        149,
+        128,
+        0,
+        20
+      ]
+    },
+    {
+      "clue": "A geographic region under a bishop's jurisdiction.",
+      "answer": "diocese",
+      "answer_letters": "DIOCESE",
+      "indices": [
+        132,
+        67,
+        9,
+        118,
+        53,
+        27,
+        41
+      ]
+    }
+  ],
+  "chat": null
+}

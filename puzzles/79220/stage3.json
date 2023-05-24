@@ -1,0 +1,310 @@
+{
+  "quote": "I'll worship animals in the night, I'll lay violent hands on the holiest icons, I'll clutch at all lies, I'll grow bestial in my dreams and will allow myself to be slaughtered like a beast.",
+  "quote_letters": "ILL WORSHIP ANIMALS IN THE NIGHT ILL LAY VIOLENT HANDS ON THE HOLIEST ICONS ILL CLUTCH AT ALL LIES ILL GROW BESTIAL IN MY DREAMS AND WILL ALLOW MYSELF TO BE SLAUGHTERED LIKE A BEAST",
+  "source": "Ingeborg Bachmann, Malina",
+  "source_letters": "INGEBORGBACHMANNMALINA",
+  "clues": [
+    {
+      "clue": "Biblical prophet.",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        95,
+        157,
+        38,
+        20,
+        178,
+        162
+      ]
+    },
+    {
+      "clue": "Last name of the English author who wrote \"One Day.\"",
+      "answer": "nicholls",
+      "answer_letters": "NICHOLLS",
+      "indices": [
+        130,
+        0,
+        71,
+        24,
+        105,
+        77,
+        64,
+        53
+      ]
+    },
+    {
+      "clue": "French male given name.",
+      "answer": "gilles",
+      "answer_letters": "GILLES",
+      "indices": [
+        29,
+        42,
+        140,
+        136,
+        177,
+        97
+      ]
+    },
+    {
+      "clue": "The first-born child in a family.",
+      "answer": "eldest",
+      "answer_letters": "ELDEST",
+      "indices": [
+        66,
+        81,
+        52,
+        172,
+        127,
+        111
+      ]
+    },
+    {
+      "clue": "Weights used to stabilize a ship.",
+      "answer": "ballast",
+      "answer_letters": "BALLAST",
+      "indices": [
+        108,
+        138,
+        91,
+        114,
+        12,
+        74,
+        31
+      ]
+    },
+    {
+      "clue": "In a different manner or way.",
+      "answer": "otherwise",
+      "answer_letters": "OTHERWISE",
+      "indices": [
+        5,
+        47,
+        30,
+        45,
+        104,
+        4,
+        112,
+        67,
+        155
+      ]
+    },
+    {
+      "clue": "Not a simulation or fantasy situation.",
+      "answer": "real-life",
+      "answer_letters": "REALLIFE",
+      "indices": [
+        165,
+        166,
+        90,
+        100,
+        139,
+        99,
+        149,
+        25
+      ]
+    },
+    {
+      "clue": "Deserving blame or punishment.",
+      "answer": "guilty",
+      "answer_letters": "GUILTY",
+      "indices": [
+        103,
+        160,
+        33,
+        94,
+        68,
+        39
+      ]
+    },
+    {
+      "clue": "A Biblical place of worship.",
+      "answer": "bethel",
+      "answer_letters": "BETHEL",
+      "indices": [
+        154,
+        147,
+        23,
+        8,
+        109,
+        1
+      ]
+    },
+    {
+      "clue": "Proper noun often given to baby girls.",
+      "answer": "amanda",
+      "answer_letters": "AMANDA",
+      "indices": [
+        50,
+        15,
+        174,
+        56,
+        167,
+        159
+      ]
+    },
+    {
+      "clue": "Moves upwards with effort.",
+      "answer": "climbs",
+      "answer_letters": "CLIMBS",
+      "indices": [
+        80,
+        92,
+        14,
+        144,
+        176,
+        7
+      ]
+    },
+    {
+      "clue": "To a great extent.",
+      "answer": "highly",
+      "answer_letters": "HIGHLY",
+      "indices": [
+        59,
+        65,
+        161,
+        49,
+        34,
+        145
+      ]
+    },
+    {
+      "clue": "Irish name often associated with potatoes.",
+      "answer": "murphy",
+      "answer_letters": "MURPHY",
+      "indices": [
+        119,
+        82,
+        6,
+        10,
+        85,
+        120
+      ]
+    },
+    {
+      "clue": "A person in sport.",
+      "answer": "athlete",
+      "answer_letters": "ATHLETE",
+      "indices": [
+        129,
+        83,
+        62,
+        169,
+        96,
+        58,
+        124
+      ]
+    },
+    {
+      "clue": "A recently established urban area.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        21,
+        164,
+        133,
+        163,
+        72,
+        106,
+        46
+      ]
+    },
+    {
+      "clue": "An author of prose fiction.",
+      "answer": "novelist",
+      "answer_letters": "NOVELIST",
+      "indices": [
+        73,
+        141,
+        41,
+        60,
+        78,
+        76,
+        146,
+        180
+      ]
+    },
+    {
+      "clue": "London-based football club.",
+      "answer": "millwall",
+      "answer_letters": "MILLWALL",
+      "indices": [
+        126,
+        70,
+        135,
+        101,
+        142,
+        16,
+        2,
+        158
+      ]
+    },
+    {
+      "clue": "A famous bodybuilder-turned-actor.",
+      "answer": "arnold",
+      "answer_letters": "ARNOLD",
+      "indices": [
+        113,
+        123,
+        27,
+        43,
+        17,
+        131
+      ]
+    },
+    {
+      "clue": "A bustling metropolis.",
+      "answer": "london",
+      "answer_letters": "LONDON",
+      "indices": [
+        35,
+        63,
+        51,
+        122,
+        152,
+        117
+      ]
+    },
+    {
+      "clue": "Not legal or authorized.",
+      "answer": "illicit",
+      "answer_letters": "ILLICIT",
+      "indices": [
+        170,
+        37,
+        44,
+        134,
+        84,
+        28,
+        88
+      ]
+    },
+    {
+      "clue": "Inventor of alternating current.",
+      "answer": "nikola",
+      "answer_letters": "NIKOLA",
+      "indices": [
+        13,
+        116,
+        171,
+        55,
+        148,
+        125
+      ]
+    },
+    {
+      "clue": "To give a helping hand.",
+      "answer": "assist",
+      "answer_letters": "ASSIST",
+      "indices": [
+        87,
+        110,
+        18,
+        9,
+        179,
+        151
+      ]
+    }
+  ],
+  "chat": null
+}

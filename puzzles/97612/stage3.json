@@ -1,0 +1,291 @@
+{
+  "quote": "I've been told my old city possesses a 'thriving arts scene,' whatever that is; personally, I think artists should lie low and stick to their work, not line-dance through the parks.",
+  "quote_letters": "IVE BEEN TOLD MY OLD CITY POSSESSES A THRIVING ARTS SCENE WHATEVER THAT IS PERSONALLY I THINK ARTISTS SHOULD LIE LOW AND STICK TO THEIR WORK NOT LINE-DANCE THROUGH THE PARKS",
+  "source": "Walter Kirn, Up in the Air",
+  "source_letters": "WALTERKIRNUPINTHEAIR",
+  "clues": [
+    {
+      "clue": "Sullied liquid that has been used.",
+      "answer": "wastewater",
+      "answer_letters": "WASTEWATER",
+      "indices": [
+        58,
+        117,
+        73,
+        61,
+        132,
+        136,
+        169,
+        70,
+        2,
+        48
+      ]
+    },
+    {
+      "clue": "A period of expectation and preparation before a holiday.",
+      "answer": "advent",
+      "answer_letters": "ADVENT",
+      "indices": [
+        60,
+        150,
+        1,
+        154,
+        44,
+        23
+      ]
+    },
+    {
+      "clue": "Position with minimum authority and responsibility.",
+      "answer": "low-level",
+      "answer_letters": "LOWLEVEL",
+      "indices": [
+        83,
+        114,
+        115,
+        11,
+        62,
+        42,
+        6,
+        82
+      ]
+    },
+    {
+      "clue": "Deceptive moves.",
+      "answer": "tricks",
+      "answer_letters": "TRICKS",
+      "indices": [
+        127,
+        65,
+        72,
+        21,
+        125,
+        100
+      ]
+    },
+    {
+      "clue": "To sign up for duty.",
+      "answer": "enlist",
+      "answer_letters": "ENLIST",
+      "indices": [
+        148,
+        91,
+        145,
+        43,
+        98,
+        96
+      ]
+    },
+    {
+      "clue": "Machines with artificial intelligence.",
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
+      "indices": [
+        158,
+        10,
+        4,
+        142,
+        156,
+        102
+      ]
+    },
+    {
+      "clue": "Newest independent country in Europe.",
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
+      "indices": [
+        171,
+        128,
+        50,
+        159,
+        63,
+        104
+      ]
+    },
+    {
+      "clue": "People from Rome or Naples.",
+      "answer": "italians",
+      "answer_letters": "ITALIANS",
+      "indices": [
+        97,
+        122,
+        69,
+        113,
+        110,
+        94,
+        141,
+        52
+      ]
+    },
+    {
+      "clue": "Compilation of information.",
+      "answer": "reports",
+      "answer_letters": "REPORTS",
+      "indices": [
+        134,
+        111,
+        168,
+        79,
+        40,
+        9,
+        34
+      ]
+    },
+    {
+      "clue": "A popular 90s action movie character.",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        118,
+        41,
+        139,
+        86,
+        164,
+        151
+      ]
+    },
+    {
+      "clue": "To support or maintain something, often a decision or law.",
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        160,
+        75,
+        89,
+        17,
+        18,
+        107
+      ]
+    },
+    {
+      "clue": "Evolutionary history of a group of organisms.",
+      "answer": "phylogeny",
+      "answer_letters": "PHYLOGENY",
+      "indices": [
+        26,
+        131,
+        24,
+        106,
+        137,
+        45,
+        56,
+        152,
+        15
+      ]
+    },
+    {
+      "clue": "Biblical prophet.",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        133,
+        121,
+        36,
+        90,
+        47,
+        39
+      ]
+    },
+    {
+      "clue": "A time when stars shine.",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        147,
+        0,
+        161,
+        68,
+        130,
+        29
+      ]
+    },
+    {
+      "clue": "A piece of clothing worn for swimming or boxing.",
+      "answer": "trunks",
+      "answer_letters": "TRUNKS",
+      "indices": [
+        99,
+        77,
+        105,
+        7,
+        92,
+        172
+      ]
+    },
+    {
+      "clue": "A majestic European deer.",
+      "answer": "hirsch",
+      "answer_letters": "HIRSCH",
+      "indices": [
+        103,
+        146,
+        170,
+        31,
+        53,
+        162
+      ]
+    },
+    {
+      "clue": "A conductive device.",
+      "answer": "electrode",
+      "answer_letters": "ELECTRODE",
+      "indices": [
+        5,
+        109,
+        64,
+        153,
+        38,
+        138,
+        27,
+        119,
+        54
+      ]
+    },
+    {
+      "clue": "Study of beauty and taste in art and nature.",
+      "answer": "aesthetics",
+      "answer_letters": "AESTHETICS",
+      "indices": [
+        81,
+        33,
+        28,
+        49,
+        157,
+        30,
+        67,
+        123,
+        124,
+        32
+      ]
+    },
+    {
+      "clue": "Planned or proposed.",
+      "answer": "intended",
+      "answer_letters": "INTENDED",
+      "indices": [
+        22,
+        55,
+        88,
+        76,
+        80,
+        12,
+        166,
+        19
+      ]
+    },
+    {
+      "clue": "Regular patterns of beats.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        95,
+        165,
+        84,
+        143,
+        59,
+        14,
+        78
+      ]
+    }
+  ],
+  "chat": null
+}

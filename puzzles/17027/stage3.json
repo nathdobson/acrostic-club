@@ -1,0 +1,296 @@
+{
+  "quote": "I'm here to tell you, there ain't much forgiveness in that old-time religion. That particular savior was a mean son of a bitch. If you sinned, honey, he was going to get you, no doubt about it.",
+  "quote_letters": "IM HERE TO TELL YOU THERE AINT MUCH FORGIVENESS IN THAT OLD-TIME RELIGION THAT PARTICULAR SAVIOR WAS A MEAN SON OF A BITCH IF YOU SINNED HONEY HE WAS GOING TO GET YOU NO DOUBT ABOUT IT",
+  "source": "Ava Gardner, Ava: My Story",
+  "source_letters": "AVAGARDNERAVAMYSTORY",
+  "clues": [
+    {
+      "clue": "A secret romance or relationship.",
+      "answer": "affair",
+      "answer_letters": "AFFAIR",
+      "indices": [
+        53,
+        113,
+        124,
+        87,
+        123,
+        5
+      ]
+    },
+    {
+      "clue": "A West African religion.",
+      "answer": "voodoo",
+      "answer_letters": "VOODOO",
+      "indices": [
+        41,
+        164,
+        157,
+        135,
+        151,
+        138
+      ]
+    },
+    {
+      "clue": "Taking by force.",
+      "answer": "abduction",
+      "answer_letters": "ABDUCTION",
+      "indices": [
+        176,
+        173,
+        170,
+        179,
+        84,
+        29,
+        27,
+        9,
+        49
+      ]
+    },
+    {
+      "clue": "Willing to give.",
+      "answer": "generous",
+      "answer_letters": "GENEROUS",
+      "indices": [
+        154,
+        104,
+        28,
+        12,
+        38,
+        168,
+        165,
+        46
+      ]
+    },
+    {
+      "clue": "Surname of the former Australian Prime Minister.",
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
+      "indices": [
+        101,
+        117,
+        177,
+        112,
+        82,
+        183
+      ]
+    },
+    {
+      "clue": "Morally pure and good.",
+      "answer": "righteous",
+      "answer_letters": "RIGHTEOUS",
+      "indices": [
+        65,
+        83,
+        159,
+        34,
+        161,
+        4,
+        17,
+        32,
+        45
+      ]
+    },
+    {
+      "clue": "Without doubt or uncertainty.",
+      "answer": "definitely",
+      "answer_letters": "DEFINITELY",
+      "indices": [
+        58,
+        160,
+        36,
+        93,
+        153,
+        68,
+        119,
+        6,
+        67,
+        163
+      ]
+    },
+    {
+      "clue": "A person's country of origin.",
+      "answer": "nationalities",
+      "answer_letters": "NATIONALITIES",
+      "indices": [
+        110,
+        26,
+        174,
+        152,
+        56,
+        167,
+        91,
+        86,
+        61,
+        156,
+        70,
+        63,
+        90
+      ]
+    },
+    {
+      "clue": "Adequate for the task at hand.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        66,
+        72,
+        171,
+        128,
+        39,
+        143
+      ]
+    },
+    {
+      "clue": "A consistent beat in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        81,
+        137,
+        16,
+        20,
+        75,
+        103
+      ]
+    },
+    {
+      "clue": "Actual and real.",
+      "answer": "authentic",
+      "answer_letters": "AUTHENTIC",
+      "indices": [
+        80,
+        85,
+        8,
+        121,
+        144,
+        43,
+        180,
+        131,
+        33
+      ]
+    },
+    {
+      "clue": "Someone who helps without being paid.",
+      "answer": "volunteer",
+      "answer_letters": "VOLUNTEER",
+      "indices": [
+        92,
+        94,
+        13,
+        18,
+        106,
+        51,
+        42,
+        140,
+        23
+      ]
+    },
+    {
+      "clue": "To delegate a task to someone.",
+      "answer": "assign",
+      "answer_letters": "ASSIGN",
+      "indices": [
+        105,
+        99,
+        108,
+        0,
+        150,
+        132
+      ]
+    },
+    {
+      "clue": "Australian pop star with the given name Kylie.",
+      "answer": "minogue",
+      "answer_letters": "MINOGUE",
+      "indices": [
+        62,
+        48,
+        133,
+        178,
+        69,
+        172,
+        134
+      ]
+    },
+    {
+      "clue": "A Japanese motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        141,
+        147,
+        1,
+        98,
+        3,
+        76
+      ]
+    },
+    {
+      "clue": "A Japanese religion.",
+      "answer": "shinto",
+      "answer_letters": "SHINTO",
+      "indices": [
+        148,
+        52,
+        40,
+        139,
+        60,
+        37
+      ]
+    },
+    {
+      "clue": "Betray again, perhaps.",
+      "answer": "two-time",
+      "answer_letters": "TWOTIME",
+      "indices": [
+        11,
+        146,
+        127,
+        77,
+        118,
+        31,
+        22
+      ]
+    },
+    {
+      "clue": "The science of light and vision.",
+      "answer": "optics",
+      "answer_letters": "OPTICS",
+      "indices": [
+        71,
+        79,
+        54,
+        182,
+        120,
+        130
+      ]
+    },
+    {
+      "clue": "To some extent or degree.",
+      "answer": "rather",
+      "answer_letters": "RATHER",
+      "indices": [
+        88,
+        115,
+        74,
+        21,
+        44,
+        95
+      ]
+    },
+    {
+      "clue": "A bright hue often associated with happiness.",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        126,
+        24,
+        14,
+        57,
+        109,
+        97
+      ]
+    }
+  ],
+  "chat": null
+}

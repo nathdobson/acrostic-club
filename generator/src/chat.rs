@@ -60,7 +60,11 @@ impl ClueClient {
         let mut clues = self.create_clue_list(word).await?;
         clues.sort_by_cached_key(|x| self.score(&word, x));
         println!("{:#?}", clues);
-        Ok(clues.pop())
+        let clue = if let Some(clue) = clues.pop() { clue } else { return Ok(None); };
+        let clue = &clue;
+        let clue = clue.strip_prefix("Answer: ").unwrap_or(clue);
+        let clue = clue.strip_prefix("A: ").unwrap_or(clue);
+        Ok(Some(clue.to_string()))
     }
     pub async fn create_clue_list(&self, word: &str) -> anyhow::Result<Vec<String>> {
         let m1 = ChatMessage {

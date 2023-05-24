@@ -1,0 +1,291 @@
+{
+  "quote": "People who just float around in life without any direction will tell you that your dreams are not possible. Their knowledge is the perfect mirror of their results. Logic makes perfect sense.",
+  "quote_letters": "PEOPLE WHO JUST FLOAT AROUND IN LIFE WITHOUT ANY DIRECTION WILL TELL YOU THAT YOUR DREAMS ARE NOT POSSIBLE THEIR KNOWLEDGE IS THE PERFECT MIRROR OF THEIR RESULTS LOGIC MAKES PERFECT SENSE",
+  "source": "Dragos Bratasanu, Ph.D.",
+  "source_letters": "DRAGOSBRATASANUPHD",
+  "clues": [
+    {
+      "clue": "Made smaller or less.",
+      "answer": "diminished",
+      "answer_letters": "DIMINISHED",
+      "indices": [
+        27,
+        55,
+        87,
+        102,
+        184,
+        151,
+        156,
+        40,
+        155,
+        49
+      ]
+    },
+    {
+      "clue": "Thin, stiff stalks found in wetlands.",
+      "answer": "rushes",
+      "answer_letters": "RUSHES",
+      "indices": [
+        51,
+        157,
+        100,
+        149,
+        175,
+        101
+      ]
+    },
+    {
+      "clue": "Precisely correct.",
+      "answer": "accurate",
+      "answer_letters": "ACCURATE",
+      "indices": [
+        169,
+        53,
+        166,
+        80,
+        143,
+        22,
+        64,
+        85
+      ]
+    },
+    {
+      "clue": "A rock expert.",
+      "answer": "geologist",
+      "answer_letters": "GEOLOGIST",
+      "indices": [
+        120,
+        5,
+        9,
+        117,
+        70,
+        164,
+        29,
+        185,
+        96
+      ]
+    },
+    {
+      "clue": "A drainage.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        95,
+        71,
+        54,
+        34,
+        61,
+        41,
+        59
+      ]
+    },
+    {
+      "clue": "A winter occurrence.",
+      "answer": "snowfall",
+      "answer_letters": "SNOWFALL",
+      "indices": [
+        88,
+        26,
+        163,
+        116,
+        146,
+        45,
+        104,
+        62
+      ]
+    },
+    {
+      "clue": "Athletes who aim to knock down pins in a game.",
+      "answer": "bowlers",
+      "answer_letters": "BOWLERS",
+      "indices": [
+        103,
+        56,
+        7,
+        66,
+        121,
+        81,
+        160
+      ]
+    },
+    {
+      "clue": "Changed address, perhaps?",
+      "answer": "relocated",
+      "answer_letters": "RELOCATED",
+      "indices": [
+        176,
+        150,
+        162,
+        115,
+        179,
+        90,
+        148,
+        118,
+        119
+      ]
+    },
+    {
+      "clue": "Not conscious and dreaming.",
+      "answer": "asleep",
+      "answer_letters": "ASLEEP",
+      "indices": [
+        86,
+        13,
+        17,
+        186,
+        171,
+        0
+      ]
+    },
+    {
+      "clue": "A combination of two prime numbers.",
+      "answer": "twenty-three",
+      "answer_letters": "TWENTYTHREE",
+      "indices": [
+        126,
+        37,
+        35,
+        46,
+        14,
+        47,
+        20,
+        127,
+        84,
+        52,
+        105
+      ]
+    },
+    {
+      "clue": "Military weapons with large caliber and long range.",
+      "answer": "artillery",
+      "answer_letters": "ARTILLERY",
+      "indices": [
+        19,
+        23,
+        107,
+        60,
+        67,
+        32,
+        134,
+        140,
+        78
+      ]
+    },
+    {
+      "clue": "A pitcher's successes.",
+      "answer": "strikeouts",
+      "answer_letters": "STRIKEOUTS",
+      "indices": [
+        182,
+        73,
+        152,
+        165,
+        113,
+        1,
+        99,
+        25,
+        43,
+        172
+      ]
+    },
+    {
+      "clue": "A layer of gases surrounding the planet.",
+      "answer": "atmosphere",
+      "answer_letters": "ATMOSPHERE",
+      "indices": [
+        75,
+        76,
+        138,
+        2,
+        124,
+        130,
+        74,
+        128,
+        141,
+        65
+      ]
+    },
+    {
+      "clue": "An organization without commercial purpose.",
+      "answer": "not-for-profit",
+      "answer_letters": "NOTFORPROFIT",
+      "indices": [
+        114,
+        79,
+        180,
+        133,
+        24,
+        91,
+        174,
+        111,
+        142,
+        16,
+        38,
+        39
+      ]
+    },
+    {
+      "clue": "Not similar.",
+      "answer": "unlike",
+      "answer_letters": "UNLIKE",
+      "indices": [
+        12,
+        30,
+        158,
+        110,
+        170,
+        92
+      ]
+    },
+    {
+      "clue": "An object that is thrown or launched with force.",
+      "answer": "projectile",
+      "answer_letters": "PROJECTILE",
+      "indices": [
+        98,
+        132,
+        18,
+        11,
+        131,
+        135,
+        159,
+        123,
+        4,
+        109
+      ]
+    },
+    {
+      "clue": "Actor Bogart's first name.",
+      "answer": "humphrey",
+      "answer_letters": "HUMPHREY",
+      "indices": [
+        108,
+        42,
+        168,
+        3,
+        8,
+        154,
+        183,
+        69
+      ]
+    },
+    {
+      "clue": "A statement that explains the meaning of a word.",
+      "answer": "definition",
+      "answer_letters": "DEFINITION",
+      "indices": [
+        83,
+        178,
+        177,
+        139,
+        94,
+        33,
+        136,
+        50,
+        145,
+        57
+      ]
+    }
+  ],
+  "chat": null
+}

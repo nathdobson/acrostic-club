@@ -1,0 +1,297 @@
+{
+  "quote": "We don't have all the answers. A few months ago, that would have driven me crazy. Now I know sometimes you have to just take life for what it is instead of worrying about what might happen.",
+  "quote_letters": "WE DONT HAVE ALL THE ANSWERS A FEW MONTHS AGO THAT WOULD HAVE DRIVEN ME CRAZY NOW I KNOW SOMETIMES YOU HAVE TO JUST TAKE LIFE FOR WHAT IT IS INSTEAD OF WORRYING ABOUT WHAT MIGHT HAPPEN",
+  "source": "Amy Patrick, Hidden Deep",
+  "source_letters": "AMYPATRICKHIDDENDEEP",
+  "clues": [
+    {
+      "clue": "A minor alteration.",
+      "answer": "adjustment",
+      "answer_letters": "ADJUSTMENT",
+      "indices": [
+        21,
+        55,
+        111,
+        53,
+        139,
+        17,
+        69,
+        25,
+        78,
+        144
+      ]
+    },
+    {
+      "clue": "A name commonly given to boys.",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
+      "indices": [
+        35,
+        58,
+        93,
+        6,
+        47,
+        119,
+        87
+      ]
+    },
+    {
+      "clue": "A Japanese motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        99,
+        117,
+        91,
+        104,
+        57,
+        13
+      ]
+    },
+    {
+      "clue": "Crucial in determining the outcome.",
+      "answer": "pivotal",
+      "answer_letters": "PIVOTAL",
+      "indices": [
+        181,
+        173,
+        105,
+        163,
+        38,
+        132,
+        121
+      ]
+    },
+    {
+      "clue": "Spanish given name.",
+      "answer": "alfonso",
+      "answer_letters": "ALFONSO",
+      "indices": [
+        9,
+        54,
+        150,
+        149,
+        183,
+        143,
+        127
+      ]
+    },
+    {
+      "clue": "Capable of sending and receiving signals.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        116,
+        167,
+        36,
+        51,
+        42,
+        76
+      ]
+    },
+    {
+      "clue": "A term used in traffic laws.",
+      "answer": "right-of-way",
+      "answer_letters": "RIGHTOFWAY",
+      "indices": [
+        63,
+        94,
+        159,
+        8,
+        165,
+        44,
+        123,
+        24,
+        74,
+        156
+      ]
+    },
+    {
+      "clue": "City in Iran known for its Islamic architecture.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        135,
+        97,
+        31,
+        179,
+        168,
+        161,
+        22
+      ]
+    },
+    {
+      "clue": "A recent global outbreak.",
+      "answer": "coronavirus",
+      "answer_letters": "CORONAVIRUS",
+      "indices": [
+        72,
+        86,
+        26,
+        100,
+        5,
+        146,
+        10,
+        138,
+        73,
+        164,
+        23
+      ]
+    },
+    {
+      "clue": "A person from a Central Asian country.",
+      "answer": "kazakh",
+      "answer_letters": "KAZAKH",
+      "indices": [
+        118,
+        29,
+        75,
+        169,
+        84,
+        18
+      ]
+    },
+    {
+      "clue": "Australian tennis player and former world No. 1.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        39,
+        1,
+        0,
+        82,
+        46,
+        108
+      ]
+    },
+    {
+      "clue": "One who creates something new.",
+      "answer": "inventor",
+      "answer_letters": "INVENTOR",
+      "indices": [
+        141,
+        67,
+        65,
+        60,
+        158,
+        133,
+        153,
+        128
+      ]
+    },
+    {
+      "clue": "People who have a strong commitment to something.",
+      "answer": "devotees",
+      "answer_letters": "DEVOTEES",
+      "indices": [
+        62,
+        32,
+        59,
+        79,
+        49,
+        96,
+        19,
+        89
+      ]
+    },
+    {
+      "clue": "Uncertainties or hesitations.",
+      "answer": "doubts",
+      "answer_letters": "DOUBTS",
+      "indices": [
+        3,
+        109,
+        112,
+        162,
+        114,
+        113
+      ]
+    },
+    {
+      "clue": "Internal feelings.",
+      "answer": "emotions",
+      "answer_letters": "EMOTIONS",
+      "indices": [
+        11,
+        172,
+        52,
+        170,
+        64,
+        90,
+        37,
+        27
+      ]
+    },
+    {
+      "clue": "Actor famous for his role as Jerry on Seinfeld.",
+      "answer": "newman",
+      "answer_letters": "NEWMAN",
+      "indices": [
+        142,
+        124,
+        80,
+        95,
+        48,
+        85
+      ]
+    },
+    {
+      "clue": "A character from The Office.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        147,
+        152,
+        157,
+        174,
+        175,
+        176
+      ]
+    },
+    {
+      "clue": "The numerical position after seventh.",
+      "answer": "eighth",
+      "answer_letters": "EIGHTH",
+      "indices": [
+        145,
+        122,
+        43,
+        178,
+        136,
+        131
+      ]
+    },
+    {
+      "clue": "Not in the current location.",
+      "answer": "elsewhere",
+      "answer_letters": "ELSEWHERE",
+      "indices": [
+        66,
+        15,
+        40,
+        182,
+        130,
+        103,
+        106,
+        154,
+        92
+      ]
+    },
+    {
+      "clue": "Capable of great force or influence.",
+      "answer": "powerful",
+      "answer_letters": "POWERFUL",
+      "indices": [
+        180,
+        4,
+        33,
+        70,
+        155,
+        126,
+        101,
+        14
+      ]
+    }
+  ],
+  "chat": null
+}

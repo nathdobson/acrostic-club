@@ -1,0 +1,314 @@
+{
+  "quote": "Why is it we have so little choice? We live like the lowliest worms. Always defeated - defeated we make dinner, we eat, we sleep. Everyone we love is dying. Sill, to cease living is unacceptable.",
+  "quote_letters": "WHY IS IT WE HAVE SO LITTLE CHOICE WE LIVE LIKE THE LOWLIEST WORMS ALWAYS DEFEATED - DEFEATED WE MAKE DINNER WE EAT WE SLEEP EVERYONE WE LOVE IS DYING SILL TO CEASE LIVING IS UNACCEPTABLE",
+  "source": "Banana Yoshimoto, Kitchen",
+  "source_letters": "BANANAYOSHIMOTOKITCHEN",
+  "clues": [
+    {
+      "clue": "To accept as true without proof.",
+      "answer": "believe",
+      "answer_letters": "BELIEVE",
+      "indices": [
+        184,
+        80,
+        165,
+        31,
+        91,
+        139,
+        77
+      ]
+    },
+    {
+      "clue": "At any time.",
+      "answer": "always",
+      "answer_letters": "ALWAYS",
+      "indices": [
+        183,
+        185,
+        54,
+        14,
+        129,
+        143
+      ]
+    },
+    {
+      "clue": "A female name.",
+      "answer": "nellie",
+      "answer_letters": "NELLIE",
+      "indices": [
+        104,
+        125,
+        55,
+        120,
+        142,
+        160
+      ]
+    },
+    {
+      "clue": "A large religious district.",
+      "answer": "archdiocese",
+      "answer_letters": "ARCHDIOCESE",
+      "indices": [
+        161,
+        107,
+        28,
+        29,
+        102,
+        56,
+        53,
+        179,
+        26,
+        58,
+        112
+      ]
+    },
+    {
+      "clue": "A magazine publication.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        131,
+        46,
+        69,
+        151,
+        0,
+        100,
+        95,
+        99
+      ]
+    },
+    {
+      "clue": "Recommendation or suggestion given to someone.",
+      "answer": "advice",
+      "answer_letters": "ADVICE",
+      "indices": [
+        67,
+        92,
+        40,
+        166,
+        32,
+        127
+      ]
+    },
+    {
+      "clue": "A bright hue often associated with happiness.",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        146,
+        110,
+        21,
+        43,
+        130,
+        61
+      ]
+    },
+    {
+      "clue": "Extra work hours.",
+      "answer": "overtime",
+      "answer_letters": "OVERTIME",
+      "indices": [
+        30,
+        15,
+        117,
+        63,
+        59,
+        4,
+        97,
+        57
+      ]
+    },
+    {
+      "clue": "A system's dirty output.",
+      "answer": "sewage",
+      "answer_letters": "SEWAGE",
+      "indices": [
+        162,
+        106,
+        116,
+        98,
+        149,
+        41
+      ]
+    },
+    {
+      "clue": "Australian tennis player and former world No. 1.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        1,
+        75,
+        35,
+        22,
+        114,
+        8
+      ]
+    },
+    {
+      "clue": "Being apart from others.",
+      "answer": "isolated",
+      "answer_letters": "ISOLATED",
+      "indices": [
+        152,
+        173,
+        62,
+        154,
+        89,
+        24,
+        36,
+        85
+      ]
+    },
+    {
+      "clue": "Wide open spaces with lush green grasses.",
+      "answer": "meadows",
+      "answer_letters": "MEADOWS",
+      "indices": [
+        64,
+        140,
+        70,
+        145,
+        138,
+        10,
+        72
+      ]
+    },
+    {
+      "clue": "Made accessible or visible.",
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        19,
+        181,
+        163,
+        169,
+        16,
+        81
+      ]
+    },
+    {
+      "clue": "Italian port city.",
+      "answer": "trieste",
+      "answer_letters": "TRIESTE",
+      "indices": [
+        90,
+        128,
+        168,
+        121,
+        18,
+        182,
+        11
+      ]
+    },
+    {
+      "clue": "Criminals on the run.",
+      "answer": "outlaws",
+      "answer_letters": "OUTLAWS",
+      "indices": [
+        157,
+        175,
+        23,
+        68,
+        177,
+        134,
+        5
+      ]
+    },
+    {
+      "clue": "Ended someone's life.",
+      "answer": "killed",
+      "answer_letters": "KILLED",
+      "indices": [
+        45,
+        103,
+        137,
+        153,
+        88,
+        74
+      ]
+    },
+    {
+      "clue": "Home country for pizza and gelato.",
+      "answer": "italy's",
+      "answer_letters": "ITALYS",
+      "indices": [
+        172,
+        79,
+        113,
+        25,
+        2,
+        65
+      ]
+    },
+    {
+      "clue": "Total number of months in a year.",
+      "answer": "twelve",
+      "answer_letters": "TWELVE",
+      "indices": [
+        48,
+        109,
+        122,
+        38,
+        126,
+        132
+      ]
+    },
+    {
+      "clue": "Someone who is not a member of the military or law enforcement.",
+      "answer": "civilian",
+      "answer_letters": "CIVILIAN",
+      "indices": [
+        159,
+        7,
+        167,
+        39,
+        52,
+        44,
+        78,
+        105
+      ]
+    },
+    {
+      "clue": "The practice of maintaining cleanliness and good health.",
+      "answer": "hygiene",
+      "answer_letters": "HYGIENE",
+      "indices": [
+        49,
+        71,
+        170,
+        147,
+        180,
+        176,
+        33
+      ]
+    },
+    {
+      "clue": "The outcomes or consequences of something.",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        50,
+        87,
+        76,
+        86,
+        178,
+        156,
+        119
+      ]
+    },
+    {
+      "clue": "A male relative of yours' sibling.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        148,
+        135,
+        123,
+        13,
+        186,
+        94
+      ]
+    }
+  ],
+  "chat": null
+}

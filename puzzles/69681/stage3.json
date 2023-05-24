@@ -1,0 +1,286 @@
+{
+  "quote": "No one asks how to motivate a baby. A baby naturally explores everything it can get at, unless restraining forces have already been at work. And this tendency doesn't die out, it's wiped out.",
+  "quote_letters": "NO ONE ASKS HOW TO MOTIVATE A BABY A BABY NATURALLY EXPLORES EVERYTHING IT CAN GET AT UNLESS RESTRAINING FORCES HAVE ALREADY BEEN AT WORK AND THIS TENDENCY DOESNT DIE OUT ITS WIPED OUT",
+  "source": "B.F. Skinner, Walden Two",
+  "source_letters": "BFSKINNERWALDENTWO",
+  "clues": [
+    {
+      "clue": "A region in Russia.",
+      "answer": "bashkortostan",
+      "answer_letters": "BASHKORTOSTAN",
+      "indices": [
+        125,
+        130,
+        90,
+        112,
+        136,
+        167,
+        93,
+        25,
+        56,
+        8,
+        96,
+        83,
+        149
+      ]
+    },
+    {
+      "clue": "Not literal in meaning.",
+      "answer": "figurative",
+      "answer_letters": "FIGURATIVE",
+      "indices": [
+        105,
+        99,
+        70,
+        168,
+        135,
+        7,
+        66,
+        176,
+        114,
+        158
+      ]
+    },
+    {
+      "clue": "The numerical equivalent of seven tens.",
+      "answer": "seventy",
+      "answer_letters": "SEVENTY",
+      "indices": [
+        110,
+        165,
+        62,
+        148,
+        100,
+        21,
+        40
+      ]
+    },
+    {
+      "clue": "City in Lithuania.",
+      "answer": "kaunas",
+      "answer_letters": "KAUNAS",
+      "indices": [
+        9,
+        76,
+        86,
+        69,
+        121,
+        10
+      ]
+    },
+    {
+      "clue": "A masculine proper noun.",
+      "answer": "ignacio",
+      "answer_letters": "IGNACIO",
+      "indices": [
+        171,
+        103,
+        87,
+        138,
+        153,
+        22,
+        17
+      ]
+    },
+    {
+      "clue": "The country you belong to.",
+      "answer": "nationality",
+      "answer_letters": "NATIONALITY",
+      "indices": [
+        4,
+        113,
+        183,
+        144,
+        134,
+        42,
+        43,
+        49,
+        101,
+        16,
+        65
+      ]
+    },
+    {
+      "clue": "A direction from which chilly winds blow.",
+      "answer": "northeast",
+      "answer_letters": "NORTHEAST",
+      "indices": [
+        128,
+        181,
+        119,
+        169,
+        143,
+        178,
+        47,
+        145,
+        131
+      ]
+    },
+    {
+      "clue": "Large areas of land and property.",
+      "answer": "estates",
+      "answer_letters": "ESTATES",
+      "indices": [
+        120,
+        173,
+        81,
+        117,
+        161,
+        63,
+        159
+      ]
+    },
+    {
+      "clue": "Customary acts performed for a specific purpose.",
+      "answer": "rituals",
+      "answer_letters": "RITUALS",
+      "indices": [
+        64,
+        72,
+        147,
+        182,
+        38,
+        55,
+        91
+      ]
+    },
+    {
+      "clue": "By what means.",
+      "answer": "whereby",
+      "answer_letters": "WHEREBY",
+      "indices": [
+        175,
+        12,
+        58,
+        107,
+        80,
+        32,
+        154
+      ]
+    },
+    {
+      "clue": "Indefinite person.",
+      "answer": "anybody",
+      "answer_letters": "ANYBODY",
+      "indices": [
+        31,
+        0,
+        123,
+        30,
+        3,
+        150,
+        50
+      ]
+    },
+    {
+      "clue": "The act of using borrowed capital for financial gain.",
+      "answer": "leverage",
+      "answer_letters": "LEVERAGE",
+      "indices": [
+        118,
+        115,
+        23,
+        127,
+        97,
+        98,
+        79,
+        151
+      ]
+    },
+    {
+      "clue": "Acquired electronically.",
+      "answer": "downloaded",
+      "answer_letters": "DOWNLOADED",
+      "indices": [
+        163,
+        13,
+        14,
+        77,
+        48,
+        20,
+        24,
+        140,
+        109,
+        179
+      ]
+    },
+    {
+      "clue": "Put on display.",
+      "answer": "exhibited",
+      "answer_letters": "EXHIBITED",
+      "indices": [
+        61,
+        53,
+        67,
+        164,
+        37,
+        68,
+        84,
+        52,
+        156
+      ]
+    },
+    {
+      "clue": "Caught with a mesh.",
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
+        139,
+        126,
+        44,
+        142,
+        89,
+        122
+      ]
+    },
+    {
+      "clue": "A surgical procedure.",
+      "answer": "transplant",
+      "answer_letters": "TRANSPLANT",
+      "indices": [
+        73,
+        57,
+        35,
+        152,
+        59,
+        54,
+        88,
+        28,
+        160,
+        172
+      ]
+    },
+    {
+      "clue": "A town in Buckinghamshire.",
+      "answer": "wycombe",
+      "answer_letters": "WYCOMBE",
+      "indices": [
+        133,
+        33,
+        108,
+        106,
+        19,
+        39,
+        94
+      ]
+    },
+    {
+      "clue": "A type of software with freely accessible code.",
+      "answer": "open-source",
+      "answer_letters": "OPENSOURCE",
+      "indices": [
+        1,
+        177,
+        5,
+        102,
+        95,
+        157,
+        45,
+        46,
+        75,
+        26
+      ]
+    }
+  ],
+  "chat": null
+}

@@ -1,0 +1,296 @@
+{
+  "quote": "Nothing has ever been so painful or delicious as being so close to him and being unable to do anything about it: like eating ice cream so fast on a hot day you get a splitting headache.",
+  "quote_letters": "NOTHING HAS EVER BEEN SO PAINFUL OR DELICIOUS AS BEING SO CLOSE TO HIM AND BEING UNABLE TO DO ANYTHING ABOUT IT LIKE EATING ICE CREAM SO FAST ON A HOT DAY YOU GET A SPLITTING HEADACHE",
+  "source": "Lauren Oliver, Delirium",
+  "source_letters": "LAURENOLIVERDELIRIUM",
+  "clues": [
+    {
+      "clue": "Something passed down from the past.",
+      "answer": "legacy",
+      "answer_letters": "LEGACY",
+      "indices": [
+        112,
+        182,
+        159,
+        26,
+        128,
+        153
+      ]
+    },
+    {
+      "clue": "A nickname for a certain university's sports teams.",
+      "answer": "aggies",
+      "answer_letters": "AGGIES",
+      "indices": [
+        46,
+        79,
+        173,
+        113,
+        19,
+        165
+      ]
+    },
+    {
+      "clue": "A perfect society.",
+      "answer": "utopia",
+      "answer_letters": "UTOPIA",
+      "indices": [
+        30,
+        107,
+        135,
+        25,
+        27,
+        9
+      ]
+    },
+    {
+      "clue": "Devoted to faith and worship.",
+      "answer": "religious",
+      "answer_letters": "RELIGIOUS",
+      "indices": [
+        15,
+        126,
+        31,
+        39,
+        101,
+        4,
+        56,
+        106,
+        61
+      ]
+    },
+    {
+      "clue": "A town in Pennsylvania.",
+      "answer": "easton",
+      "answer_letters": "EASTON",
+      "indices": [
+        14,
+        145,
+        134,
+        140,
+        23,
+        0
+      ]
+    },
+    {
+      "clue": "A common female name.",
+      "answer": "natasha",
+      "answer_letters": "NATASHA",
+      "indices": [
+        28,
+        94,
+        88,
+        118,
+        44,
+        67,
+        83
+      ]
+    },
+    {
+      "clue": "Social and talkative.",
+      "answer": "outgoing",
+      "answer_letters": "OUTGOING",
+      "indices": [
+        42,
+        43,
+        64,
+        53,
+        89,
+        68,
+        95,
+        122
+      ]
+    },
+    {
+      "clue": "Past tense of lend.",
+      "answer": "loaned",
+      "answer_letters": "LOANED",
+      "indices": [
+        38,
+        1,
+        163,
+        121,
+        50,
+        36
+      ]
+    },
+    {
+      "clue": "Populates a place.",
+      "answer": "inhabits",
+      "answer_letters": "INHABITS",
+      "indices": [
+        51,
+        72,
+        98,
+        131,
+        104,
+        124,
+        2,
+        47
+      ]
+    },
+    {
+      "clue": "A West African religion.",
+      "answer": "voodoo",
+      "answer_letters": "VOODOO",
+      "indices": [
+        13,
+        148,
+        92,
+        91,
+        105,
+        33
+      ]
+    },
+    {
+      "clue": "Ordinal number for the integer following 17.",
+      "answer": "eighteenth",
+      "answer_letters": "EIGHTEENTH",
+      "indices": [
+        12,
+        171,
+        6,
+        8,
+        97,
+        176,
+        62,
+        143,
+        110,
+        147
+      ]
+    },
+    {
+      "clue": "Bunny-like mammals.",
+      "answer": "rabbits",
+      "answer_letters": "RABBITS",
+      "indices": [
+        129,
+        152,
+        17,
+        49,
+        99,
+        119,
+        10
+      ]
+    },
+    {
+      "clue": "A stubborn animal often used for carrying goods.",
+      "answer": "donkey",
+      "answer_letters": "DONKEY",
+      "indices": [
+        151,
+        60,
+        172,
+        114,
+        130,
+        96
+      ]
+    },
+    {
+      "clue": "The efficient use of resources and avoiding waste.",
+      "answer": "economy",
+      "answer_letters": "ECONOMY",
+      "indices": [
+        86,
+        40,
+        65,
+        5,
+        142,
+        69,
+        155
+      ]
+    },
+    {
+      "clue": "Past tense of raise.",
+      "answer": "lifted",
+      "answer_letters": "LIFTED",
+      "indices": [
+        85,
+        120,
+        29,
+        170,
+        117,
+        73
+      ]
+    },
+    {
+      "clue": "The people residing in a particular place.",
+      "answer": "inhabitants",
+      "answer_letters": "INHABITANTS",
+      "indices": [
+        109,
+        52,
+        175,
+        179,
+        75,
+        77,
+        169,
+        177,
+        78,
+        149,
+        22
+      ]
+    },
+    {
+      "clue": "A town located in Greater Manchester, England.",
+      "answer": "rochdale",
+      "answer_letters": "ROCHDALE",
+      "indices": [
+        34,
+        156,
+        180,
+        3,
+        178,
+        71,
+        167,
+        18
+      ]
+    },
+    {
+      "clue": "Affects the outcome.",
+      "answer": "influences",
+      "answer_letters": "INFLUENCES",
+      "indices": [
+        168,
+        100,
+        137,
+        59,
+        81,
+        76,
+        82,
+        125,
+        160,
+        55
+      ]
+    },
+    {
+      "clue": "A positive mood or musical tempo.",
+      "answer": "upbeat",
+      "answer_letters": "UPBEAT",
+      "indices": [
+        157,
+        166,
+        84,
+        115,
+        103,
+        161
+      ]
+    },
+    {
+      "clue": "Devices that operate automatically or with minimal human intervention.",
+      "answer": "machines",
+      "answer_letters": "MACHINES",
+      "indices": [
+        132,
+        138,
+        58,
+        181,
+        41,
+        20,
+        37,
+        139
+      ]
+    }
+  ],
+  "chat": null
+}

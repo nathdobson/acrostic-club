@@ -1,0 +1,288 @@
+{
+  "quote": "You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.",
+  "quote_letters": "YOU DO NOT FOLLOW ME BECAUSE I AM THE STRONGEST PAX IS YOU DO NOT FOLLOW ME BECAUSE I AM THE BRIGHTEST MUSTANG IS YOU FOLLOW ME BECAUSE YOU DO NOT KNOW WHERE YOU ARE GOING I DO",
+  "source": "Pierce Brown, Red Rising",
+  "source_letters": "PIERCEBROWNREDRISING",
+  "clues": [
+    {
+      "clue": "After death.",
+      "answer": "posthumously",
+      "answer_letters": "POSTHUMOUSLY",
+      "indices": [
+        48,
+        1,
+        133,
+        98,
+        97,
+        2,
+        87,
+        115,
+        138,
+        105,
+        120,
+        136
+      ]
+    },
+    {
+      "clue": "Visualization aids.",
+      "answer": "images",
+      "answer_letters": "IMAGES",
+      "indices": [
+        168,
+        103,
+        31,
+        96,
+        134,
+        112
+      ]
+    },
+    {
+      "clue": "Having natural gifts or talents.",
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
+      "indices": [
+        126,
+        148,
+        4,
+        60,
+        123,
+        19,
+        59
+      ]
+    },
+    {
+      "clue": "Members of a monarchy.",
+      "answer": "royals",
+      "answer_letters": "ROYALS",
+      "indices": [
+        155,
+        141,
+        0,
+        79,
+        121,
+        53
+      ]
+    },
+    {
+      "clue": "A wild canine found in North America.",
+      "answer": "coyote",
+      "answer_letters": "COYOTE",
+      "indices": [
+        130,
+        175,
+        158,
+        5,
+        34,
+        91
+      ]
+    },
+    {
+      "clue": "Adequate for the task at hand.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        164,
+        169,
+        167,
+        25,
+        43,
+        90
+      ]
+    },
+    {
+      "clue": "Large mammal with horns commonly found in North America.",
+      "answer": "buffalo",
+      "answer_letters": "BUFFALO",
+      "indices": [
+        128,
+        57,
+        11,
+        66,
+        131,
+        14,
+        144
+      ]
+    },
+    {
+      "clue": "A person who has fled their country due to persecution or war.",
+      "answer": "refugee",
+      "answer_letters": "REFUGEE",
+      "indices": [
+        94,
+        22,
+        118,
+        132,
+        109,
+        129,
+        74
+      ]
+    },
+    {
+      "clue": "The final result.",
+      "answer": "outcome",
+      "answer_letters": "OUTCOME",
+      "indices": [
+        159,
+        104,
+        89,
+        23,
+        15,
+        125,
+        82
+      ]
+    },
+    {
+      "clue": "A neighborhood in Los Angeles.",
+      "answer": "westwood",
+      "answer_letters": "WESTWOOD",
+      "indices": [
+        150,
+        44,
+        100,
+        9,
+        16,
+        137,
+        56,
+        140
+      ]
+    },
+    {
+      "clue": "A vague idea or belief.",
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        62,
+        12,
+        64,
+        52,
+        67,
+        7
+      ]
+    },
+    {
+      "clue": "To start up again.",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
+      "indices": [
+        40,
+        156,
+        93,
+        8,
+        119,
+        46
+      ]
+    },
+    {
+      "clue": "To display an object or artwork to the public.",
+      "answer": "exhibit",
+      "answer_letters": "EXHIBIT",
+      "indices": [
+        154,
+        50,
+        35,
+        111,
+        21,
+        172,
+        101
+      ]
+    },
+    {
+      "clue": "A formal argument with rules and structure.",
+      "answer": "debate",
+      "answer_letters": "DEBATE",
+      "indices": [
+        174,
+        99,
+        76,
+        162,
+        106,
+        27
+      ]
+    },
+    {
+      "clue": "A Virginia colony that mysteriously disappeared.",
+      "answer": "roanoke",
+      "answer_letters": "ROANOKE",
+      "indices": [
+        163,
+        149,
+        107,
+        108,
+        63,
+        147,
+        77
+      ]
+    },
+    {
+      "clue": "A narrow strip of land connecting two larger land masses.",
+      "answer": "isthmus",
+      "answer_letters": "ISTHMUS",
+      "indices": [
+        95,
+        38,
+        39,
+        153,
+        18,
+        160,
+        26
+      ]
+    },
+    {
+      "clue": "To consume food or liquid with your throat.",
+      "answer": "swallow",
+      "answer_letters": "SWALLOW",
+      "indices": [
+        45,
+        71,
+        24,
+        68,
+        13,
+        41,
+        152
+      ]
+    },
+    {
+      "clue": "Protection from disease or infection.",
+      "answer": "immunity",
+      "answer_letters": "IMMUNITY",
+      "indices": [
+        29,
+        73,
+        32,
+        80,
+        143,
+        84,
+        145,
+        55
+      ]
+    },
+    {
+      "clue": "A city in Japan.",
+      "answer": "nagoya",
+      "answer_letters": "NAGOYA",
+      "indices": [
+        42,
+        49,
+        166,
+        122,
+        114,
+        86
+      ]
+    },
+    {
+      "clue": "A simple sugar found in many foods.",
+      "answer": "glucose",
+      "answer_letters": "GLUCOSE",
+      "indices": [
+        170,
+        69,
+        116,
+        78,
+        70,
+        81,
+        36
+      ]
+    }
+  ],
+  "chat": null
+}

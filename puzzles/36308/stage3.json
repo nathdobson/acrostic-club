@@ -1,0 +1,310 @@
+{
+  "quote": "Dear to me is sleep: still more, being made of stone,While pain and guilt still linger here below,Blindness and numbness--these please me alone;Then do not wake me, keep your voices low.",
+  "quote_letters": "DEAR TO ME IS SLEEP STILL MORE BEING MADE OF STONEWHILE PAIN AND GUILT STILL LINGER HERE BELOWBLINDNESS AND NUMBNESS--THESE PLEASE ME ALONETHEN DO NOT WAKE ME KEEP YOUR VOICES LOW",
+  "source": "Michelangelo Buonarroti",
+  "source_letters": "MICHELANGELOBUONARROTI",
+  "clues": [
+    {
+      "clue": "A warm-blooded creature with hair or fur.",
+      "answer": "mammal",
+      "answer_letters": "MAMMAL",
+      "indices": [
+        156,
+        57,
+        110,
+        131,
+        38,
+        23
+      ]
+    },
+    {
+      "clue": "Problems or concerns.",
+      "answer": "issues",
+      "answer_letters": "ISSUES",
+      "indices": [
+        58,
+        102,
+        101,
+        66,
+        141,
+        45
+      ]
+    },
+    {
+      "clue": "Involves being made up of something.",
+      "answer": "consists",
+      "answer_letters": "CONSISTS",
+      "indices": [
+        172,
+        47,
+        108,
+        128,
+        33,
+        12,
+        46,
+        121
+      ]
+    },
+    {
+      "clue": "Gave assistance to.",
+      "answer": "helped",
+      "answer_letters": "HELPED",
+      "indices": [
+        51,
+        49,
+        125,
+        124,
+        54,
+        0
+      ]
+    },
+    {
+      "clue": "The initial point in time.",
+      "answer": "earliest",
+      "answer_letters": "EARLIEST",
+      "indices": [
+        126,
+        61,
+        3,
+        176,
+        52,
+        40,
+        14,
+        72
+      ]
+    },
+    {
+      "clue": "Compares in similarity.",
+      "answer": "likened",
+      "answer_letters": "LIKENED",
+      "indices": [
+        135,
+        78,
+        153,
+        85,
+        105,
+        9,
+        144
+      ]
+    },
+    {
+      "clue": "Not in attendance.",
+      "answer": "absent",
+      "answer_letters": "ABSENT",
+      "indices": [
+        152,
+        31,
+        114,
+        32,
+        34,
+        21
+      ]
+    },
+    {
+      "clue": "A female name.",
+      "answer": "nellie",
+      "answer_letters": "NELLIE",
+      "indices": [
+        59,
+        160,
+        24,
+        95,
+        67,
+        17
+      ]
+    },
+    {
+      "clue": "Last name of the American historian who wrote \"Team of Rivals.\"",
+      "answer": "goodwin",
+      "answer_letters": "GOODWIN",
+      "indices": [
+        35,
+        27,
+        177,
+        98,
+        93,
+        22,
+        97
+      ]
+    },
+    {
+      "clue": "Name that means \"bright, shining one\".",
+      "answer": "eileen",
+      "answer_letters": "EILEEN",
+      "indices": [
+        100,
+        171,
+        53,
+        29,
+        122,
+        79
+      ]
+    },
+    {
+      "clue": "Position with minimum authority and responsibility.",
+      "answer": "low-level",
+      "answer_letters": "LOWLEVEL",
+      "indices": [
+        75,
+        145,
+        151,
+        77,
+        81,
+        169,
+        129,
+        15
+      ]
+    },
+    {
+      "clue": "Common Irish surname.",
+      "answer": "o'brien",
+      "answer_letters": "OBRIEN",
+      "indices": [
+        148,
+        89,
+        28,
+        96,
+        161,
+        112
+      ]
+    },
+    {
+      "clue": "Increased or raised, as in morale or horsepower.",
+      "answer": "boosted",
+      "answer_letters": "BOOSTED",
+      "indices": [
+        94,
+        92,
+        6,
+        71,
+        139,
+        138,
+        63
+      ]
+    },
+    {
+      "clue": "Beneficial for a purpose.",
+      "answer": "useful",
+      "answer_letters": "USEFUL",
+      "indices": [
+        109,
+        115,
+        16,
+        43,
+        166,
+        74
+      ]
+    },
+    {
+      "clue": "A shape resembling a stretched-out circle.",
+      "answer": "oblong",
+      "answer_letters": "OBLONG",
+      "indices": [
+        42,
+        111,
+        91,
+        136,
+        137,
+        80
+      ]
+    },
+    {
+      "clue": "A male relative of yours' sibling.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        62,
+        157,
+        162,
+        140,
+        154,
+        50
+      ]
+    },
+    {
+      "clue": "A swift mammal with horns.",
+      "answer": "antelope",
+      "answer_letters": "ANTELOPE",
+      "indices": [
+        104,
+        48,
+        118,
+        120,
+        68,
+        165,
+        56,
+        1
+      ]
+    },
+    {
+      "clue": "One who rules on behalf of a monarch.",
+      "answer": "regent",
+      "answer_letters": "REGENT",
+      "indices": [
+        167,
+        90,
+        65,
+        87,
+        147,
+        69
+      ]
+    },
+    {
+      "clue": "A consistent beat in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        82,
+        119,
+        164,
+        5,
+        84,
+        26
+      ]
+    },
+    {
+      "clue": "An island prefecture of Japan.",
+      "answer": "okinawa",
+      "answer_letters": "OKINAWA",
+      "indices": [
+        170,
+        159,
+        11,
+        99,
+        134,
+        178,
+        2
+      ]
+    },
+    {
+      "clue": "A two-person bicycle.",
+      "answer": "tandem",
+      "answer_letters": "TANDEM",
+      "indices": [
+        149,
+        127,
+        142,
+        106,
+        113,
+        8
+      ]
+    },
+    {
+      "clue": "Left with a positive opinion.",
+      "answer": "impressed",
+      "answer_letters": "IMPRESSED",
+      "indices": [
+        73,
+        37,
+        18,
+        86,
+        132,
+        174,
+        20,
+        173,
+        39
+      ]
+    }
+  ],
+  "chat": null
+}

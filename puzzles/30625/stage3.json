@@ -1,0 +1,309 @@
+{
+  "quote": "I keep finding myself stifled by the company of others and then crippled by loneliness when I leave them. I am terrified and I don't even know of what, because I have lost everything already.",
+  "quote_letters": "I KEEP FINDING MYSELF STIFLED BY THE COMPANY OF OTHERS AND THEN CRIPPLED BY LONELINESS WHEN I LEAVE THEM I AM TERRIFIED AND I DONT EVEN KNOW OF WHAT BECAUSE I HAVE LOST EVERYTHING ALREADY",
+  "source": "Veronica Roth, Allegiant",
+  "source_letters": "VERONICAROTHALLEGIANT",
+  "clues": [
+    {
+      "clue": "Past tense of \"observe\".",
+      "answer": "viewed",
+      "answer_letters": "VIEWED",
+      "indices": [
+        161,
+        11,
+        131,
+        144,
+        155,
+        185
+      ]
+    },
+    {
+      "clue": "To hire and give a job to.",
+      "answer": "employ",
+      "answer_letters": "EMPLOY",
+      "indices": [
+        35,
+        15,
+        68,
+        94,
+        138,
+        16
+      ]
+    },
+    {
+      "clue": "Occurring again and again.",
+      "answer": "repeated",
+      "answer_letters": "REPEATED",
+      "indices": [
+        52,
+        117,
+        5,
+        133,
+        146,
+        23,
+        3,
+        122
+      ]
+    },
+    {
+      "clue": "Not suited for pavement.",
+      "answer": "off-road",
+      "answer_letters": "OFFROAD",
+      "indices": [
+        38,
+        20,
+        115,
+        112,
+        48,
+        96,
+        28
+      ]
+    },
+    {
+      "clue": "A bustling city in New Jersey.",
+      "answer": "newark",
+      "answer_letters": "NEWARK",
+      "indices": [
+        134,
+        51,
+        139,
+        160,
+        113,
+        136
+      ]
+    },
+    {
+      "clue": "A narrow strip of land connecting two larger land masses.",
+      "answer": "isthmus",
+      "answer_letters": "ISTHMUS",
+      "indices": [
+        176,
+        85,
+        59,
+        34,
+        108,
+        153,
+        22
+      ]
+    },
+    {
+      "clue": "Belief in oneself or one's abilities.",
+      "answer": "confidence",
+      "answer_letters": "CONFIDENCE",
+      "indices": [
+        37,
+        127,
+        9,
+        25,
+        124,
+        126,
+        102,
+        62,
+        64,
+        83
+      ]
+    },
+    {
+      "clue": "Basic substance.",
+      "answer": "alkaline",
+      "answer_letters": "ALKALINE",
+      "indices": [
+        107,
+        69,
+        2,
+        55,
+        76,
+        157,
+        56,
+        95
+      ]
+    },
+    {
+      "clue": "A consistent beat in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        172,
+        175,
+        173,
+        174,
+        101,
+        39
+      ]
+    },
+    {
+      "clue": "A rival in competition.",
+      "answer": "opponent",
+      "answer_letters": "OPPONENT",
+      "indices": [
+        165,
+        67,
+        40,
+        141,
+        137,
+        150,
+        78,
+        100
+      ]
+    },
+    {
+      "clue": "Total number of months in a year.",
+      "answer": "twelve",
+      "answer_letters": "TWELVE",
+      "indices": [
+        33,
+        87,
+        27,
+        19,
+        170,
+        61
+      ]
+    },
+    {
+      "clue": "Organisms resulting from two different species.",
+      "answer": "hybrids",
+      "answer_letters": "HYBRIDS",
+      "indices": [
+        145,
+        74,
+        30,
+        182,
+        114,
+        71,
+        154
+      ]
+    },
+    {
+      "clue": "Changed for the better.",
+      "answer": "amended",
+      "answer_letters": "AMENDED",
+      "indices": [
+        41,
+        103,
+        89,
+        177,
+        118,
+        183,
+        10
+      ]
+    },
+    {
+      "clue": "Illuminate a room or space.",
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
+      "indices": [
+        80,
+        81,
+        13,
+        50,
+        167,
+        53
+      ]
+    },
+    {
+      "clue": "Full of energy and enthusiasm.",
+      "answer": "lively",
+      "answer_letters": "LIVELY",
+      "indices": [
+        164,
+        0,
+        97,
+        18,
+        181,
+        186
+      ]
+    },
+    {
+      "clue": "The ability to produce desired results.",
+      "answer": "effectiveness",
+      "answer_letters": "EFFECTIVENESS",
+      "indices": [
+        162,
+        46,
+        142,
+        4,
+        151,
+        129,
+        24,
+        132,
+        79,
+        42,
+        70,
+        166,
+        84
+      ]
+    },
+    {
+      "clue": "A biblical judge.",
+      "answer": "gideon",
+      "answer_letters": "GIDEON",
+      "indices": [
+        178,
+        66,
+        57,
+        111,
+        77,
+        90
+      ]
+    },
+    {
+      "clue": "City in Iran known for its Islamic architecture.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        105,
+        17,
+        7,
+        120,
+        60,
+        180,
+        121
+      ]
+    },
+    {
+      "clue": "Resident or citizen of a Greek city.",
+      "answer": "athenian",
+      "answer_letters": "ATHENIAN",
+      "indices": [
+        152,
+        110,
+        159,
+        169,
+        12,
+        92,
+        184,
+        128
+      ]
+    },
+    {
+      "clue": "A class of aristocrats.",
+      "answer": "nobility",
+      "answer_letters": "NOBILITY",
+      "indices": [
+        82,
+        45,
+        149,
+        116,
+        26,
+        8,
+        49,
+        31
+      ]
+    },
+    {
+      "clue": "As a consequence of...",
+      "answer": "thereby",
+      "answer_letters": "THEREBY",
+      "indices": [
+        147,
+        88,
+        98,
+        65,
+        171,
+        73,
+        43
+      ]
+    }
+  ],
+  "chat": null
+}
