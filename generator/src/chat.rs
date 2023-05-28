@@ -1,7 +1,7 @@
 #![allow(unused_variables, unused_mut)]
 
 use std::default::default;
-use std::{fs, future};
+use std::{fs, future, mem};
 use std::sync::Arc;
 use std::time::Instant;
 use futures::future::{join_all, try_join_all};
@@ -10,6 +10,7 @@ use ordered_float::NotNan;
 use tokio::{io, spawn};
 use acrostic_core::letter::Letter;
 use crate::gpt::chat_client::{BaseClient, CacheClient, ChatClient};
+use crate::gpt::key_value_file::KeyValueFileCleanup;
 use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
 use crate::ontology::{Ontology, ONTOLOGY};
 use crate::PACKAGE_PATH;
@@ -26,16 +27,13 @@ pub struct ClueClient {
 
 
 impl ClueClient {
-    pub async fn new() -> anyhow::Result<Self> {
-        Ok(ClueClient {
-            client: Box::new(
-                CacheClient::new(Box::new(BaseClient::new().await?),
-                                 &PACKAGE_PATH.join("build/chat_cache.txt")).await?),
-            ontology: ONTOLOGY.get().await.clone_error()?.clone(),
-        })
-    }
-    pub async fn shutdown(&mut self) -> io::Result<()> {
-        self.client.shutdown().await
+    pub async fn new() -> anyhow::Result<(Self, KeyValueFileCleanup)> {
+        let (kvf, cleanup) = CacheClient::new(Arc::new(BaseClient::new().await?),
+                                              &PACKAGE_PATH.join("build/chat_cache.txt")).await?;
+        Ok((ClueClient {
+            client: Box::new(kvf),
+            ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
+        }, cleanup))
     }
     pub fn score(&self, word: &str, clue: &str) -> NotNan<f64> {
         let word_letters = LetterString::from_str(word);
@@ -122,12 +120,16 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
 
 #[tokio::test]
 async fn test_clue_client() -> anyhow::Result<()> {
-    let mut client = ClueClient::new().await?;
-    let start = Instant::now();
-    for word in &["extant", "netball"] {
-        let clues = client.create_clue(word).await?;
-        println!("{:?}", clues);
+    let (client, cleanup) = ClueClient::new().await?;
+    {
+        let start = Instant::now();
+        for word in &["extant", "netball"] {
+            let clues = client.create_clue(word).await?;
+            println!("{:?}", clues);
+        }
     }
-    client.shutdown().await?;
+    mem::drop(client);
+    cleanup.cleanup().await?;
     Ok(())
 }
+

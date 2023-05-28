@@ -6,7 +6,7 @@ use std::time::Instant;
 use itertools::{peek_nth, PeekNth};
 use rand::seq::SliceRandom;
 use rand::thread_rng;
-use safe_once_async::sync::AsyncLazyStatic;
+use safe_once_async::sync::AsyncStaticLock;
 use serde::Deserialize;
 use serde::Serialize;
 
@@ -24,7 +24,7 @@ pub struct Quote {
     pub topics: Vec<String>,
 }
 
-pub static QUOTES: AsyncLazyStatic<io::Result<Vec<Quote>>> = AsyncLazyStatic::new_static(async {
+pub static QUOTES: AsyncStaticLock<io::Result<Vec<Quote>>> = AsyncStaticLock::new(async {
     Ok(serde_json::from_str(&read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?)?)
 });
 
@@ -141,7 +141,7 @@ pub async fn build_quotes() -> io::Result<()> {
 
 
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
-    let mut quotes = QUOTES.get().await.clone_error()?;
+    let mut quotes = QUOTES.get().await.clone_error_static()?;
     let quote = &quotes[pindex];
     if !(quote.source.len() > 24
         && quote.source.len() <= 26

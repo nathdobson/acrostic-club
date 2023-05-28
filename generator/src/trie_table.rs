@@ -4,7 +4,7 @@ use std::io;
 use std::sync::LazyLock;
 
 use itertools::Itertools;
-use safe_once_async::sync::AsyncLazyStatic;
+use safe_once_async::sync::AsyncStaticLock;
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
 use crate::dict::{FLAT_WORDS, FlatWord};
@@ -22,8 +22,8 @@ pub struct FlatTrieTable {
     pub binary: HashMap<(Letter, Letter), Box<FlatTrie<(LetterSet, LetterSet)>, MmapAllocator>>,
 }
 
-pub static FLAT_TRIE_TABLE: AsyncLazyStatic<io::Result<FlatTrieTable>> =
-    AsyncLazyStatic::new_static(async { FlatTrieTable::new().await });
+pub static FLAT_TRIE_TABLE: AsyncStaticLock<io::Result<FlatTrieTable>> =
+    AsyncStaticLock::new(async { FlatTrieTable::new().await });
 
 impl FlatTrieTable {
     async fn new() -> io::Result<Self> {

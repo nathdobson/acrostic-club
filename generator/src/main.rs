@@ -24,7 +24,7 @@
 
 extern crate core;
 
-use std::{env, fs, io};
+use std::{env, fs, io, mem};
 use std::collections::{BTreeMap, BTreeSet, HashMap};
 use std::default::default;
 use std::fmt::{Debug, Display, Formatter};
@@ -138,7 +138,7 @@ async fn main() -> anyhow::Result<()> {
                     puzzles.insert(puzzle.parse().unwrap());
                 }
             }
-            let mut client = ClueClient::new().await?;
+            let (client, cleanup) = ClueClient::new().await?;
             for puzzle in puzzles {
                 let e: anyhow::Result<()> = try {
                     match target.deref() {
@@ -158,7 +158,9 @@ async fn main() -> anyhow::Result<()> {
                     }
                 }
             }
-            client.shutdown().await?;
+            mem::drop(client);
+            cleanup.cleanup().await?;
+            // client.shutdown().await?;
             // eprintln!("{:?}", errors);
         }
         x => panic!("Unknown root command {:?}", x),

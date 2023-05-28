@@ -18,7 +18,7 @@ use locspan::Meta;
 use rio_api::model::{Literal, NamedNode, Subject, Term};
 use rio_turtle::{TurtleError, TurtleParser};
 use rio_api::parser::TriplesParser;
-use safe_once_async::sync::AsyncLazyStatic;
+use safe_once_async::sync::AsyncStaticLock;
 use ustr::Ustr;
 use acrostic_core::letter::Letter;
 use crate::conflict_set::ConflictSet;
@@ -47,7 +47,7 @@ impl Debug for Ontology {
 
 impl Ontology {
     pub async fn new() -> anyhow::Result<Self> {
-        let graph = TURTLE.get().await.clone_error()?;
+        let graph = TURTLE.get().await.clone_error_static()?;
         Ok(Ontology {
             other_form: graph.get_index("http://www.w3.org/ns/lemon/ontolex#otherForm").unwrap(),
             written_rep: graph.get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep").unwrap(),
@@ -165,7 +165,7 @@ pub struct Translation(pub TurtleIndex);
 #[derive(Debug, Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash)]
 pub struct Other(pub TurtleIndex);
 
-pub static ONTOLOGY: AsyncLazyStatic<anyhow::Result<Arc<Ontology>>> = AsyncLazyStatic::new_static(async move {
+pub static ONTOLOGY: AsyncStaticLock<anyhow::Result<Arc<Ontology>>> = AsyncStaticLock::new(async move {
     Ok(Arc::new(Ontology::new().await?))
 });
 

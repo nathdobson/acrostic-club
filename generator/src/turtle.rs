@@ -7,7 +7,7 @@ use std::sync::LazyLock;
 use rio_api::model::{Literal, Subject, Term};
 use rio_api::parser::TriplesParser;
 use rio_turtle::{TurtleError, TurtleParser};
-use safe_once_async::sync::AsyncLazyStatic;
+use safe_once_async::sync::AsyncStaticLock;
 use tokio::fs;
 use crate::PACKAGE_PATH;
 use serde::Serialize;
@@ -135,7 +135,7 @@ pub async fn build_turtle() -> anyhow::Result<()> {
     Ok(())
 }
 
-pub static TURTLE: AsyncLazyStatic<anyhow::Result<Turtle>> = AsyncLazyStatic::new_static(async move {
+pub static TURTLE: AsyncStaticLock<anyhow::Result<Turtle>> = AsyncStaticLock::new(async move {
     Ok(bincode::deserialize(&fs::read(PACKAGE_PATH.join("build/turtle.dat")).await?)?)
 });
 

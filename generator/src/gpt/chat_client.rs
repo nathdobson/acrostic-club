@@ -1,8 +1,9 @@
 use std::any::Any;
 use std::default::default;
 use std::future::Future;
-use std::io;
+use std::{io, mem};
 use std::path::Path;
+use std::sync::Arc;
 use backoff::backoff::Backoff;
 use backoff::ExponentialBackoff;
 use reqwest::header::{AUTHORIZATION, HeaderMap, HeaderValue};
@@ -13,7 +14,7 @@ use chrono::{DateTime, Utc};
 use futures::future::BoxFuture;
 use futures::FutureExt;
 use tokio::time::sleep;
-use crate::gpt::key_value_file::KeyValueFile;
+use crate::gpt::key_value_file::{KeyValueFile, KeyValueFileCleanup};
 use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
 use crate::PACKAGE_PATH;
 
@@ -24,7 +25,6 @@ pub struct BaseClient {
 
 pub trait ChatClient: Send + Sync + 'static {
     fn chat<'a>(&'a self, input: ChatRequest) -> BoxFuture<'a, anyhow::Result<ChatResponse>>;
-    fn shutdown<'a>(&'a mut self) -> BoxFuture<'a, io::Result<()>>;
 }
 
 impl ChatClient for BaseClient {
@@ -57,12 +57,6 @@ impl ChatClient for BaseClient {
             }
         }.boxed()
     }
-
-    fn shutdown<'a>(&'a mut self) -> BoxFuture<'a, io::Result<()>> {
-        async move {
-            Ok(())
-        }.boxed()
-    }
 }
 
 impl BaseClient {
@@ -86,29 +80,25 @@ impl BaseClient {
 }
 
 pub struct CacheClient {
-    inner: Box<dyn ChatClient>,
-    cache: KeyValueFile<ChatRequest, ChatResponse>,
+    inner: Arc<dyn ChatClient>,
+    cache: Box<KeyValueFile<ChatRequest, ChatResponse>>,
 }
 
 impl ChatClient for CacheClient {
     fn chat<'a>(&'a self, input: ChatRequest) -> BoxFuture<'a, anyhow::Result<ChatResponse>> {
         self.chat_impl(input).boxed()
     }
-    fn shutdown<'a>(&'a mut self) -> BoxFuture<'a, io::Result<()>> {
-        async move {
-            self.inner.shutdown().await?;
-            Ok(self.cache.shutdown().await?)
-        }.boxed()
-    }
 }
 
 impl CacheClient {
-    pub async fn new(x: Box<dyn ChatClient>, path: &Path) -> io::Result<Self> {
-        Ok(CacheClient { inner: x, cache: KeyValueFile::new(path).await? })
+    pub async fn new(x: Arc<dyn ChatClient>, path: &Path) -> io::Result<(Self, KeyValueFileCleanup)> {
+        let (kvf, cleanup) = KeyValueFile::new(path).await?;
+        Ok((CacheClient { inner: x, cache: Box::new(kvf) }, cleanup))
     }
     async fn chat_impl(&self, input: ChatRequest) -> anyhow::Result<ChatResponse> {
-        Ok((*self.cache.get_or_init(input.clone(), async {
-            self.inner.chat(input).await
+        let inner = self.inner.clone();
+        Ok((*self.cache.get_or_init(input.clone(), async move {
+            inner.chat(input).await
         }).await?).clone())
     }
 }
@@ -138,8 +128,8 @@ async fn test_base_client() -> anyhow::Result<()> {
 
 #[tokio::test]
 async fn test_cache_client() -> anyhow::Result<()> {
-    let mut cache_client =
-        CacheClient::new(Box::new(BaseClient::new().await?),
+    let (cache_client, cleanup) =
+        CacheClient::new(Arc::new(BaseClient::new().await?),
                          &PACKAGE_PATH.join("build/chat_cache.txt")).await?;
     let response = cache_client.chat(ChatRequest {
         endpoint: Endpoint::Chat,
@@ -158,6 +148,7 @@ async fn test_cache_client() -> anyhow::Result<()> {
             ..default()
         },
     }).await?;
-    cache_client.shutdown().await?;
+    mem::drop(cache_client);
+    cleanup.cleanup().await?;
     Ok(())
 }

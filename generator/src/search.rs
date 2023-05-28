@@ -31,7 +31,7 @@ pub struct Search {
 impl Search {
     pub async fn new(quote: LetterSet, source: Vec<Letter>, seed: u64) -> io::Result<Self> {
         Ok(Search {
-            table: FLAT_TRIE_TABLE.get().await.clone_error()?,
+            table: FLAT_TRIE_TABLE.get().await.clone_error_static()?,
             cache: Default::default(),
             access: 0,
             quote,
