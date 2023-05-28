@@ -7,14 +7,18 @@ use std::fmt::{Debug, Formatter};
 use std::mem::size_of;
 use std::path::Path;
 use std::time::Instant;
+use futures::stream::FuturesUnordered;
+use futures::{StreamExt, TryStreamExt};
 
 use rand::seq::SliceRandom;
 use rand::thread_rng;
+use tokio::sync::Semaphore;
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
 use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::PACKAGE_PATH;
 use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
+use crate::util::parallel::Parallelism;
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {
@@ -329,15 +333,41 @@ pub async fn build_trie() -> io::Result<()> {
                 .as_slice(),
         ).await?;
     }
-    for ((l1, l2), vec) in binary {
-        println!("{:?}/{:?}", l1, l2);
-        save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
-            &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
-            vec.into_iter()
-                .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
-                .as_slice(),
-        ).await?;
-    }
+    let parallelism = Parallelism::new();
+    binary.into_iter()
+        .map(|((l1, l2), vec)| {
+            let parallelism = &parallelism;
+            async move {
+                let built: Box<FlatTrie<(LetterSet, LetterSet)>> = parallelism.run_blocking(move || {
+                    println!("Computing {:?}/{:?}", l1, l2);
+                    vec.into_iter()
+                        .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
+                }).await;
+                save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
+                    &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
+                    built.as_slice()).await?;
+                println!("Done {:?}/{:?}", l1, l2);
+                Result::<(), io::Error>::Ok(())
+            }
+        })
+        .collect::<FuturesUnordered<_>>()
+        .try_collect::<()>().await?;
+    // let mut tasks = vec![];
+    // let semaphore = Semaphore::new(num_cpus::get());
+    // for ((l1, l2), vec) in binary {
+    //     tasks.push(tokio::task::spawn(|| {
+    //         {
+    //             let guard = semaphore.acquire();
+    //             println!("{:?}/{:?}", l1, l2);
+    //
+    //         }
+
+    //         ).await?;
+    //     }));
+    // }
+    // for task in tasks {
+    //     task.join();
+    // }
     Ok(())
 }
 

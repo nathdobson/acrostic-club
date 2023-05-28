@@ -9,6 +9,7 @@ use futures::FutureExt;
 use tokio::sync::Mutex;
 use acrostic_core::letter::{Letter, LetterSet};
 use crate::{PACKAGE_PATH, read_path_to_string};
+use crate::banned::BANNED_WORDS;
 
 use crate::util::alloc::{AnyRepr, save_vec};
 use crate::util::lazy_async::LazyMmap;
@@ -56,12 +57,14 @@ pub async fn build_dict() -> io::Result<()> {
                 letters[letter] += 1;
             }
         }
-        words.push(FlatWord {
-            word: (*word.to_string()).try_into().unwrap(),
-            letter_vec,
-            letters,
-            frequency: freq as u64,
-        })
+        if !BANNED_WORDS.contains(word) {
+            words.push(FlatWord {
+                word: (*word.to_string()).try_into().unwrap(),
+                letter_vec,
+                letters,
+                frequency: freq as u64,
+            });
+        }
     }
 
     save_vec(&PACKAGE_PATH.join("build/dict.dat"), &words).await?;

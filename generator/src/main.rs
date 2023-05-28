@@ -21,6 +21,7 @@
 #![feature(error_generic_member_access)]
 #![feature(provide_any)]
 #![feature(impl_trait_in_assoc_type)]
+#![feature(unboxed_closures)]
 
 extern crate core;
 
@@ -73,6 +74,7 @@ pub mod turtle;
 pub mod gpt;
 pub mod conflict_set;
 pub mod subseq;
+mod banned;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;

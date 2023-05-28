@@ -50,3 +50,4 @@ chrono = { version = "0.4.24", features = ["serde"] }
 backoff = "0.4.0"
 smallvec = "1.10.0"
 safe-once-map = { path = "../../safe-once-map" }
+num_cpus = "1.0"
