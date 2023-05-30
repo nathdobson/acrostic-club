@@ -6,237 +6,141 @@
   "clues": [
     {
       "clue": null,
-      "answer": "depths",
-      "answer_letters": "DEPTHS",
+      "answer": "deficit",
+      "answer_letters": "DEFICIT",
       "indices": [
-        62,
-        39,
-        24,
-        122,
-        25,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adjoining",
-      "answer_letters": "ADJOINING",
-      "indices": [
-        71,
-        146,
-        11,
-        135,
-        148,
-        126,
-        76,
-        20,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "vishnu",
-      "answer_letters": "VISHNU",
-      "indices": [
-        99,
-        85,
-        38,
-        32,
-        153,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iberia",
-      "answer_letters": "IBERIA",
-      "indices": [
+        175,
+        9,
+        17,
+        103,
+        34,
         33,
-        117,
-        178,
-        97,
-        59,
-        35
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "darryl",
-      "answer_letters": "DARRYL",
+      "answer": "assign",
+      "answer_letters": "ASSIGN",
+      "indices": [
+        66,
+        29,
+        83,
+        26,
+        78,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "veneto",
+      "answer_letters": "VENETO",
+      "indices": [
+        140,
+        119,
+        20,
+        178,
+        84,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ironic",
+      "answer_letters": "IRONIC",
+      "indices": [
+        85,
+        18,
+        176,
+        68,
+        69,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "drills",
+      "answer_letters": "DRILLS",
       "indices": [
         53,
+        101,
+        13,
+        27,
+        45,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "captured",
+      "answer_letters": "CAPTURED",
+      "indices": [
+        137,
+        136,
+        150,
+        166,
+        108,
+        157,
+        162,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rahman",
+      "answer_letters": "RAHMAN",
+      "indices": [
+        118,
         152,
-        177,
-        18,
-        80,
-        27
+        107,
+        50,
+        125,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "carter",
-      "answer_letters": "CARTER",
+      "answer": "ornamental",
+      "answer_letters": "ORNAMENTAL",
       "indices": [
-        124,
-        111,
-        129,
-        84,
-        63,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reflection",
-      "answer_letters": "REFLECTION",
-      "indices": [
+        135,
         131,
-        54,
-        17,
-        151,
-        9,
-        60,
-        154,
-        103,
-        81,
-        1
+        95,
+        174,
+        149,
+        91,
+        115,
+        138,
+        120,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "orphan",
-      "answer_letters": "ORPHAN",
+      "answer": "napoli",
+      "answer_letters": "NAPOLI",
       "indices": [
-        98,
-        52,
-        31,
-        22,
+        1,
         114,
-        163
+        24,
+        0,
+        86,
+        43
       ]
     },
     {
       "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        109,
-        134,
-        42,
-        172,
-        3,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethics",
-      "answer_letters": "ETHICS",
+      "answer": "eruption",
+      "answer_letters": "ERUPTION",
       "indices": [
         19,
-        96,
-        167,
-        46,
-        127,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noting",
-      "answer_letters": "NOTING",
-      "indices": [
-        68,
-        0,
-        156,
-        113,
-        115,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bursts",
-      "answer_letters": "BURSTS",
-      "indices": [
-        70,
+        177,
         12,
-        112,
-        57,
-        89,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eocene",
-      "answer_letters": "EOCENE",
-      "indices": [
-        162,
-        28,
-        137,
-        100,
-        95,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "relevant",
-      "answer_letters": "RELEVANT",
-      "indices": [
-        157,
-        141,
-        72,
-        91,
-        140,
-        125,
-        169,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "giulio",
-      "answer_letters": "GIULIO",
-      "indices": [
-        48,
-        26,
-        51,
-        87,
-        43,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "capitalism",
-      "answer_letters": "CAPITALISM",
-      "indices": [
-        34,
-        66,
-        150,
-        168,
-        138,
-        174,
-        44,
-        69,
-        102,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "o'malley",
-      "answer_letters": "OMALLEY",
-      "indices": [
-        7,
-        8,
-        159,
-        86,
-        36,
-        119,
-        15
+        31,
+        164,
+        46,
+        81,
+        169
       ]
     },
     {
@@ -244,81 +148,177 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        77,
-        139,
+        67,
+        76,
+        48,
+        25,
+        122,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "borough",
+      "answer_letters": "BOROUGH",
+      "indices": [
+        117,
+        98,
+        97,
+        30,
+        51,
         110,
-        107,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "existed",
+      "answer_letters": "EXISTED",
+      "indices": [
+        141,
+        40,
+        168,
+        38,
         160,
-        121
+        144,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "staunch",
-      "answer_letters": "STAUNCH",
+      "answer": "richly",
+      "answer_letters": "RICHLY",
       "indices": [
-        83,
-        166,
-        120,
-        58,
-        47,
-        65,
-        75
+        129,
+        148,
+        14,
+        90,
+        36,
+        80
       ]
     },
     {
       "clue": null,
-      "answer": "ulrich",
-      "answer_letters": "ULRICH",
+      "answer": "ghosts",
+      "answer_letters": "GHOSTS",
       "indices": [
-        108,
-        45,
-        118,
+        170,
+        75,
+        94,
+        57,
+        154,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cyclic",
+      "answer_letters": "CYCLIC",
+      "indices": [
+        124,
+        180,
+        93,
+        87,
+        59,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overtaken",
+      "answer_letters": "OVERTAKEN",
+      "indices": [
+        28,
+        99,
+        100,
+        112,
+        3,
+        35,
+        42,
+        145,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notice",
+      "answer_letters": "NOTICE",
+      "indices": [
+        153,
+        7,
+        96,
         61,
         21,
-        90
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "motorola",
-      "answer_letters": "MOTOROLA",
+      "answer": "sicily",
+      "answer_letters": "SICILY",
       "indices": [
-        50,
-        176,
-        74,
-        4,
-        55,
-        94,
-        105,
-        136
+        121,
+        139,
+        65,
+        113,
+        44,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "exceed",
-      "answer_letters": "EXCEED",
+      "answer": "unbeaten",
+      "answer_letters": "UNBEATEN",
       "indices": [
-        144,
-        40,
-        93,
+        82,
+        163,
+        70,
+        54,
+        111,
+        156,
         128,
-        145,
-        175
+        109
       ]
     },
     {
       "clue": null,
-      "answer": "dynamic",
-      "answer_letters": "DYNAMIC",
+      "answer": "material",
+      "answer_letters": "MATERIAL",
       "indices": [
-        133,
-        180,
-        67,
+        8,
+        132,
+        74,
+        158,
+        52,
+        172,
         104,
-        149,
-        13,
-        14
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
+      "indices": [
+        63,
+        105,
+        134,
+        11,
+        159,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "durham",
+      "answer_letters": "DURHAM",
+      "indices": [
+        62,
+        58,
+        55,
+        32,
+        71,
+        161
       ]
     }
   ],

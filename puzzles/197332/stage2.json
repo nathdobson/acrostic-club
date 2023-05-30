@@ -6,83 +6,86 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "left-wing",
+      "answer_letters": "LEFTWING",
       "indices": [
-        65,
-        115,
-        31,
+        133,
+        46,
+        162,
+        103,
+        154,
         0,
-        173,
-        127
+        152,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "inmate",
+      "answer_letters": "INMATE",
       "indices": [
-        105,
-        145,
-        124,
-        112,
-        53,
-        13
+        44,
+        42,
+        55,
+        82,
+        106,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "southport",
-      "answer_letters": "SOUTHPORT",
+      "answer": "sharpe",
+      "answer_letters": "SHARPE",
       "indices": [
-        43,
-        168,
-        36,
-        60,
+        24,
         174,
+        51,
+        16,
         25,
-        99,
-        63,
-        103
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "armada",
-      "answer_letters": "ARMADA",
+      "answer": "achieving",
+      "answer_letters": "ACHIEVING",
       "indices": [
         32,
-        163,
-        165,
-        74,
-        4,
-        160
+        40,
+        127,
+        87,
+        92,
+        117,
+        94,
+        159,
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "kelley",
-      "answer_letters": "KELLEY",
+      "answer": "kyushu",
+      "answer_letters": "KYUSHU",
       "indices": [
         141,
-        84,
-        171,
-        130,
-        17,
-        75
+        37,
+        100,
+        110,
+        61,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "answer": "editing",
+      "answer_letters": "EDITING",
       "indices": [
-        56,
-        45,
-        73,
-        54,
+        118,
+        49,
+        105,
+        145,
+        3,
         135,
-        49
+        21
       ]
     },
     {
@@ -90,197 +93,194 @@
       "answer": "somehow",
       "answer_letters": "SOMEHOW",
       "indices": [
-        110,
+        43,
         71,
-        167,
-        153,
-        148,
-        139,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
-      "indices": [
-        24,
-        86,
+        120,
         125,
-        172,
-        151,
-        61
+        124,
+        139,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "liable",
-      "answer_letters": "LIABLE",
+      "answer": "sherwood",
+      "answer_letters": "SHERWOOD",
       "indices": [
-        133,
-        44,
-        51,
-        76,
-        138,
-        121
+        70,
+        86,
+        115,
+        63,
+        30,
+        99,
+        164,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
       "indices": [
+        65,
+        23,
+        75,
+        134,
+        144,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eagles",
+      "answer_letters": "EAGLES",
+      "indices": [
+        17,
+        74,
+        35,
+        171,
         48,
-        40,
-        98,
-        90,
-        118,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "record",
+      "answer_letters": "RECORD",
+      "indices": [
+        22,
+        11,
+        53,
+        66,
+        47,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mahatma",
+      "answer_letters": "MAHATMA",
+      "indices": [
+        88,
+        109,
+        31,
+        132,
+        97,
+        165,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        41,
+        129,
+        2,
+        148,
+        116,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oklahoma",
+      "answer_letters": "OKLAHOMA",
+      "indices": [
+        169,
+        68,
+        138,
+        13,
+        8,
+        27,
+        167,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neville",
+      "answer_letters": "NEVILLE",
+      "indices": [
+        91,
+        136,
+        83,
+        172,
+        130,
+        157,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifeboat",
+      "answer_letters": "LIFEBOAT",
+      "indices": [
+        114,
+        79,
+        28,
+        153,
+        76,
+        140,
+        112,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
+      "indices": [
+        59,
+        170,
+        10,
+        168,
+        151,
+        56,
         95
       ]
     },
     {
       "clue": null,
-      "answer": "romania",
-      "answer_letters": "ROMANIA",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
-        22,
-        140,
-        88,
-        158,
-        152,
-        94,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "movements",
-      "answer_letters": "MOVEMENTS",
-      "indices": [
-        120,
-        149,
-        83,
-        77,
-        55,
-        128,
-        42,
-        97,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
-      "indices": [
-        164,
-        143,
-        157,
-        27,
-        159,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        134,
-        6,
-        33,
-        9,
-        30,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "negative",
-      "answer_letters": "NEGATIVE",
-      "indices": [
-        170,
-        11,
-        21,
-        82,
-        106,
-        3,
-        117,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "looking",
-      "answer_letters": "LOOKING",
-      "indices": [
-        114,
-        66,
-        41,
-        68,
-        59,
-        91,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interviewed",
-      "answer_letters": "INTERVIEWED",
-      "indices": [
-        79,
-        5,
-        175,
-        136,
-        16,
-        10,
-        87,
-        62,
-        147,
-        46,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gustaf",
-      "answer_letters": "GUSTAF",
-      "indices": [
-        81,
-        100,
-        38,
-        19,
-        109,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "halfway",
-      "answer_letters": "HALFWAY",
-      "indices": [
-        8,
-        116,
-        129,
-        28,
-        108,
-        18,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thorough",
-      "answer_letters": "THOROUGH",
-      "indices": [
-        123,
-        102,
-        67,
-        47,
-        169,
-        144,
         101,
-        58
+        98,
+        84,
+        60,
+        123,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hawthorne",
+      "answer_letters": "HAWTHORNE",
+      "indices": [
+        102,
+        160,
+        108,
+        175,
+        58,
+        90,
+        163,
+        5,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tobago",
+      "answer_letters": "TOBAGO",
+      "indices": [
+        33,
+        54,
+        143,
+        158,
+        15,
+        149
       ]
     }
   ],

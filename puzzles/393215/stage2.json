@@ -6,90 +6,142 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kennedy's",
-      "answer_letters": "KENNEDYS",
+      "answer": "keeper",
+      "answer_letters": "KEEPER",
       "indices": [
-        39,
-        177,
-        21,
-        103,
+        19,
+        144,
+        55,
+        53,
+        29,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remember",
+      "answer_letters": "REMEMBER",
+      "indices": [
+        109,
         42,
-        46,
-        160,
-        48
+        169,
+        110,
+        0,
+        88,
+        154,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "ingram",
+      "answer_letters": "INGRAM",
       "indices": [
-        26,
-        141,
-        123,
-        135,
-        136,
-        176,
-        130
+        92,
+        59,
+        22,
+        54,
+        83,
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "immense",
-      "answer_letters": "IMMENSE",
+      "answer": "somehow",
+      "answer_letters": "SOMEHOW",
+      "indices": [
+        150,
+        12,
+        122,
+        107,
+        153,
+        17,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-storey",
+      "answer_letters": "TWOSTOREY",
+      "indices": [
+        93,
+        133,
+        147,
+        130,
+        76,
+        67,
+        26,
+        14,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inches",
+      "answer_letters": "INCHES",
       "indices": [
         74,
-        79,
-        28,
-        170,
-        59,
-        113,
-        173
+        70,
+        11,
+        136,
+        137,
+        128
       ]
     },
     {
       "clue": null,
-      "answer": "somewhere",
-      "answer_letters": "SOMEWHERE",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
+        32,
+        64,
+        6,
+        135,
+        18,
+        100,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "high-end",
+      "answer_letters": "HIGHEND",
+      "indices": [
+        82,
+        50,
+        60,
+        94,
+        173,
+        164,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adjusted",
+      "answer_letters": "ADJUSTED",
+      "indices": [
+        3,
+        85,
+        66,
+        68,
         143,
-        67,
-        138,
-        107,
-        133,
-        44,
-        89,
-        148,
-        102
+        140,
+        33,
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "thames",
-      "answer_letters": "THAMES",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        41,
-        4,
-        118,
-        169,
-        55,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        20,
-        155,
-        106,
-        40,
-        172,
-        7,
-        93,
-        29,
-        112
+        84,
+        45,
+        157,
+        131,
+        71,
+        21
       ]
     },
     {
@@ -99,192 +151,140 @@
       "indices": [
         75,
         126,
-        125,
-        17,
-        120,
-        80
+        172,
+        25,
+        149,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "horrors",
-      "answer_letters": "HORRORS",
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
       "indices": [
-        82,
-        31,
-        69,
-        98,
-        147,
-        174,
-        128
+        40,
+        165,
+        4,
+        8,
+        168,
+        41,
+        142,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "armagh",
-      "answer_letters": "ARMAGH",
+      "answer": "hammersmith",
+      "answer_letters": "HAMMERSMITH",
       "indices": [
-        3,
-        54,
+        101,
+        118,
         13,
-        36,
-        60,
+        138,
+        97,
+        174,
+        86,
+        79,
+        58,
+        62,
         158
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        119,
-        92,
-        22,
-        96,
-        76,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        70,
-        97,
-        53,
-        153,
-        33,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alcoholic",
-      "answer_letters": "ALCOHOLIC",
-      "indices": [
-        163,
-        16,
-        11,
-        25,
-        94,
-        12,
-        8,
-        50,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        101,
-        110,
-        152,
-        115,
-        116,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "freshwater",
-      "answer_letters": "FRESHWATER",
+      "answer": "fischer",
+      "answer_letters": "FISCHER",
       "indices": [
         24,
-        2,
-        168,
-        86,
-        131,
-        91,
-        111,
-        62,
-        159,
-        167
+        20,
+        113,
+        162,
+        141,
+        89,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "lowland",
-      "answer_letters": "LOWLAND",
+      "answer": "lehman",
+      "answer_letters": "LEHMAN",
       "indices": [
-        72,
-        77,
-        146,
         9,
-        49,
-        32,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
-      "indices": [
-        37,
-        137,
+        102,
+        44,
         171,
-        144,
-        164,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amended",
-      "answer_letters": "AMENDED",
-      "indices": [
         1,
-        122,
-        142,
-        84,
-        149,
-        64,
-        35
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "webster",
-      "answer_letters": "WEBSTER",
+      "answer": "yearbook",
+      "answer_letters": "YEARBOOK",
       "indices": [
-        100,
-        154,
-        88,
+        80,
+        177,
+        111,
+        98,
+        125,
+        132,
+        77,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "asthma",
+      "answer_letters": "ASTHMA",
+      "indices": [
+        36,
+        56,
+        116,
+        63,
+        176,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wholly",
+      "answer_letters": "WHOLLY",
+      "indices": [
+        91,
+        106,
+        31,
+        72,
+        16,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "answered",
+      "answer_letters": "ANSWERED",
+      "indices": [
+        163,
+        103,
         57,
-        165,
-        14,
-        109
+        146,
+        170,
+        69,
+        159,
+        112
       ]
     },
     {
       "clue": null,
-      "answer": "adjust",
-      "answer_letters": "ADJUST",
-      "indices": [
-        45,
-        51,
-        66,
-        68,
-        150,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yokohama",
-      "answer_letters": "YOKOHAMA",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
         127,
-        132,
-        19,
-        18,
-        63,
-        71,
-        0,
-        83
+        7,
+        35,
+        51,
+        115,
+        105,
+        96
       ]
     }
   ],

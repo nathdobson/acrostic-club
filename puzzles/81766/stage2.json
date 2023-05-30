@@ -6,45 +6,278 @@
   "clues": [
     {
       "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "answer": "downward",
+      "answer_letters": "DOWNWARD",
       "indices": [
-        10,
+        151,
+        36,
+        44,
+        132,
+        23,
+        91,
+        84,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eugene",
+      "answer_letters": "EUGENE",
+      "indices": [
+        38,
         6,
-        105,
-        67,
-        153,
+        157,
+        54,
+        31,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rabbit",
+      "answer_letters": "RABBIT",
+      "indices": [
+        124,
+        46,
+        149,
+        175,
+        136,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
+      "indices": [
+        155,
+        181,
+        140,
+        146,
+        76,
         16
       ]
     },
     {
       "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
+      "answer": "kangaroo",
+      "answer_letters": "KANGAROO",
       "indices": [
-        170,
-        122,
-        58,
-        109,
+        37,
+        20,
+        87,
+        88,
+        159,
         4,
-        120
+        27,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "reflective",
-      "answer_letters": "REFLECTIVE",
+      "answer": "lightly",
+      "answer_letters": "LIGHTLY",
+      "indices": [
+        51,
+        24,
+        142,
+        0,
+        163,
+        112,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "álvaro",
+      "answer_letters": "ALVARO",
+      "indices": [
+        49,
+        94,
+        71,
+        147,
+        101,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        141,
+        118,
+        119,
+        127,
+        1,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deaths",
+      "answer_letters": "DEATHS",
+      "indices": [
+        10,
+        133,
+        70,
+        13,
+        8,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youthful",
+      "answer_letters": "YOUTHFUL",
+      "indices": [
+        56,
+        109,
+        67,
+        47,
+        98,
+        122,
+        179,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "day-to-day",
+      "answer_letters": "DAYTODAY",
+      "indices": [
+        26,
+        30,
+        63,
+        126,
+        131,
+        39,
+        83,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evolve",
+      "answer_letters": "EVOLVE",
+      "indices": [
+        115,
+        110,
+        66,
+        34,
+        53,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "affects",
+      "answer_letters": "AFFECTS",
+      "indices": [
+        12,
+        90,
+        58,
+        102,
+        19,
+        97,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tottenham",
+      "answer_letters": "TOTTENHAM",
+      "indices": [
+        120,
+        168,
+        15,
+        77,
+        99,
+        169,
+        75,
+        165,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "health",
+      "answer_letters": "HEALTH",
+      "indices": [
+        154,
+        150,
+        79,
+        158,
+        153,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "basically",
+      "answer_letters": "BASICALLY",
+      "indices": [
+        148,
+        104,
+        137,
+        93,
+        7,
+        128,
+        55,
+        105,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         144,
-        102,
-        90,
-        62,
-        72,
+        82,
+        65,
+        129,
+        135,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "iconic",
+      "answer_letters": "ICONIC",
+      "indices": [
+        41,
+        81,
+        35,
+        42,
+        61,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "niches",
+      "answer_letters": "NICHES",
+      "indices": [
+        25,
+        176,
         117,
-        15,
-        93,
-        53,
-        155
+        164,
+        143,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        180,
+        52,
+        177,
+        45,
+        173,
+        60
       ]
     },
     {
@@ -52,258 +285,25 @@
       "answer": "ex-wife",
       "answer_letters": "EXWIFE",
       "indices": [
-        118,
+        9,
         116,
         74,
-        140,
+        86,
         139,
-        150
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "kelley",
-      "answer_letters": "KELLEY",
-      "indices": [
-        37,
-        99,
-        34,
-        55,
-        9,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lambeth",
-      "answer_letters": "LAMBETH",
-      "indices": [
-        51,
-        76,
-        60,
-        149,
-        54,
-        129,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anchors",
-      "answer_letters": "ANCHORS",
-      "indices": [
-        20,
-        42,
-        3,
-        69,
-        131,
-        124,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newton",
-      "answer_letters": "NEWTON",
-      "indices": [
-        87,
-        17,
-        44,
-        126,
-        66,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "daylight",
-      "answer_letters": "DAYLIGHT",
-      "indices": [
-        32,
-        30,
-        56,
-        112,
-        136,
-        142,
-        98,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        182,
-        165,
-        85,
-        59,
-        154,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "delays",
-      "answer_letters": "DELAYS",
-      "indices": [
-        26,
-        143,
-        158,
-        159,
-        100,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ecuador",
-      "answer_letters": "ECUADOR",
-      "indices": [
-        1,
-        19,
-        179,
-        173,
-        151,
-        35,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attach",
-      "answer_letters": "ATTACH",
-      "indices": [
-        83,
-        177,
-        77,
-        70,
-        81,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tonight",
-      "answer_letters": "TONIGHT",
-      "indices": [
-        97,
-        27,
-        141,
-        61,
-        180,
-        127,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hollow",
-      "answer_letters": "HOLLOW",
-      "indices": [
-        0,
-        36,
-        181,
-        94,
-        168,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "behave",
-      "answer_letters": "BEHAVE",
-      "indices": [
-        175,
-        111,
-        164,
-        128,
-        110,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "really",
+      "answer_letters": "REALLY",
       "indices": [
         21,
-        135,
-        63,
-        163,
-        82,
-        92,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        41,
-        166,
-        8,
-        12,
-        7,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "napoli",
-      "answer_letters": "NAPOLI",
-      "indices": [
-        31,
-        147,
-        119,
-        5,
+        111,
+        59,
         106,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "giving",
-      "answer_letters": "GIVING",
-      "indices": [
-        88,
-        176,
-        71,
-        24,
-        132,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyable",
-      "answer_letters": "ENJOYABLE",
-      "indices": [
-        38,
-        25,
-        146,
-        123,
-        65,
-        79,
-        148,
         108,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roadways",
-      "answer_letters": "ROADWAYS",
-      "indices": [
-        84,
-        52,
-        91,
-        39,
-        23,
-        104,
-        95,
-        171
+        100
       ]
     }
   ],

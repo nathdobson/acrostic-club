@@ -6,57 +6,150 @@
   "clues": [
     {
       "clue": null,
-      "answer": "beijing",
-      "answer_letters": "BEIJING",
+      "answer": "battalions",
+      "answer_letters": "BATTALIONS",
       "indices": [
-        65,
-        63,
-        125,
-        52,
-        12,
+        36,
+        58,
+        158,
+        62,
+        71,
+        155,
+        137,
+        105,
         87,
-        21
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
+      "answer": "embarked",
+      "answer_letters": "EMBARKED",
       "indices": [
-        151,
-        34,
-        123,
-        43,
-        2,
+        53,
+        104,
+        65,
+        98,
+        92,
+        50,
+        127,
         28
       ]
     },
     {
       "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "answer": "newspaper",
+      "answer_letters": "NEWSPAPER",
       "indices": [
         24,
-        127,
-        90,
-        39,
-        30,
-        66,
         160,
-        165
+        162,
+        131,
+        76,
+        114,
+        112,
+        3,
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
       "indices": [
         143,
-        27,
-        144,
+        90,
+        129,
+        57,
         19,
+        11,
+        107,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
+      "indices": [
+        91,
+        136,
+        5,
+        135,
+        121,
+        103,
+        26,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
+      "indices": [
+        134,
+        124,
+        144,
+        163,
+        33,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sikkim",
+      "answer_letters": "SIKKIM",
+      "indices": [
+        115,
+        77,
+        93,
+        165,
+        125,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elevator",
+      "answer_letters": "ELEVATOR",
+      "indices": [
+        18,
+        100,
+        66,
+        138,
+        145,
+        146,
+        88,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yucatán",
+      "answer_letters": "YUCATAN",
+      "indices": [
+        108,
+        43,
+        44,
+        74,
+        148,
+        122,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gazetted",
+      "answer_letters": "GAZETTED",
+      "indices": [
+        21,
+        154,
+        117,
+        110,
+        102,
         130,
-        137
+        60,
+        15
       ]
     },
     {
@@ -64,215 +157,122 @@
       "answer": "oblong",
       "answer_letters": "OBLONG",
       "indices": [
-        48,
+        31,
         17,
-        100,
-        88,
+        99,
+        40,
         140,
         69
       ]
     },
     {
       "clue": null,
-      "answer": "upazila",
-      "answer_letters": "UPAZILA",
-      "indices": [
-        23,
-        124,
-        82,
-        117,
-        77,
-        155,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "survive",
-      "answer_letters": "SURVIVE",
-      "indices": [
-        85,
-        32,
-        78,
-        121,
-        67,
-        73,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embankment",
-      "answer_letters": "EMBANKMENT",
-      "indices": [
-        60,
-        9,
-        36,
-        71,
-        13,
-        50,
-        111,
-        53,
-        68,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yeshiva",
-      "answer_letters": "YESHIVA",
-      "indices": [
-        108,
-        3,
-        131,
-        107,
-        139,
-        136,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gloria",
-      "answer_letters": "GLORIA",
-      "indices": [
-        11,
-        57,
-        163,
-        6,
-        129,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "optimum",
-      "answer_letters": "OPTIMUM",
-      "indices": [
-        40,
-        112,
-        102,
-        116,
-        75,
-        134,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "desktop",
-      "answer_letters": "DESKTOP",
-      "indices": [
-        25,
-        84,
-        133,
-        83,
-        106,
-        105,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "staffed",
-      "answer_letters": "STAFFED",
-      "indices": [
-        152,
-        158,
-        58,
-        54,
-        55,
-        118,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mcdowell",
-      "answer_letters": "MCDOWELL",
-      "indices": [
-        42,
-        44,
-        64,
-        31,
-        47,
-        14,
-        99,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alternative",
-      "answer_letters": "ALTERNATIVE",
-      "indices": [
-        98,
-        33,
-        62,
-        5,
-        49,
-        20,
-        10,
-        146,
-        103,
-        4,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "darker",
-      "answer_letters": "DARKER",
+      "answer": "divine",
+      "answer_letters": "DIVINE",
       "indices": [
         119,
-        95,
-        135,
-        150,
-        18,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        59,
-        91,
-        159,
-        154,
-        162,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        110,
         0,
-        141,
+        73,
+        116,
+        68,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
+      "indices": [
+        39,
         45,
-        81,
+        37,
+        67,
+        150,
         113
       ]
     },
     {
       "clue": null,
-      "answer": "narratives",
-      "answer_letters": "NARRATIVES",
+      "answer": "mammoth",
+      "answer_letters": "MAMMOTH",
+      "indices": [
+        9,
+        95,
+        75,
+        123,
+        48,
+        106,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adjusting",
+      "answer_letters": "ADJUSTING",
+      "indices": [
+        27,
+        64,
+        52,
+        32,
+        85,
+        81,
+        139,
+        2,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "differ",
+      "answer_letters": "DIFFER",
+      "indices": [
+        25,
+        8,
+        54,
+        55,
+        79,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "maneuver",
+      "answer_letters": "MANEUVER",
+      "indices": [
+        42,
+        82,
+        13,
+        84,
+        23,
+        4,
+        63,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emails",
+      "answer_letters": "EMAILS",
+      "indices": [
+        151,
+        111,
+        10,
+        12,
+        156,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newark",
+      "answer_letters": "NEWARK",
       "indices": [
         61,
+        14,
+        47,
         149,
-        164,
-        126,
-        114,
-        96,
-        8,
-        138,
-        37,
-        115
+        78,
+        83
       ]
     }
   ],

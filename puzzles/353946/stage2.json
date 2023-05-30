@@ -6,28 +6,35 @@
   "clues": [
     {
       "clue": null,
-      "answer": "commit",
-      "answer_letters": "COMMIT",
+      "answer": "combination",
+      "answer_letters": "COMBINATION",
       "indices": [
         71,
         52,
         0,
-        78,
-        102,
-        149
+        132,
+        9,
+        85,
+        40,
+        149,
+        160,
+        137,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
+      "answer": "hometown",
+      "answer_letters": "HOMETOWN",
       "indices": [
         63,
-        25,
-        132,
-        20,
-        11,
-        36
+        112,
+        123,
+        82,
+        13,
+        99,
+        68,
+        33
       ]
     },
     {
@@ -35,253 +42,246 @@
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
-        8,
-        100,
-        170,
+        150,
+        121,
+        23,
         90,
         173,
-        88,
+        49,
         75,
-        153,
-        82
+        170,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "obligatory",
-      "answer_letters": "OBLIGATORY",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
       "indices": [
-        154,
-        50,
-        171,
-        158,
-        157,
-        95,
-        54,
-        1,
-        48,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighty",
-      "answer_letters": "EIGHTY",
-      "indices": [
-        59,
-        92,
-        30,
-        39,
-        13,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amount",
-      "answer_letters": "AMOUNT",
-      "indices": [
-        168,
-        123,
-        45,
+        120,
         166,
-        4,
+        87,
+        153,
+        84,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evelyn",
+      "answer_letters": "EVELYN",
+      "indices": [
+        17,
+        116,
+        26,
+        143,
+        98,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attire",
+      "answer_letters": "ATTIRE",
+      "indices": [
+        95,
+        27,
+        54,
+        115,
+        48,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shallow",
+      "answer_letters": "SHALLOW",
+      "indices": [
+        86,
+        14,
+        72,
+        171,
+        65,
+        165,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hottest",
+      "answer_letters": "HOTTEST",
+      "indices": [
+        81,
+        154,
+        57,
+        134,
+        127,
+        16,
         111
       ]
     },
     {
       "clue": null,
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
+      "answer": "emilio",
+      "answer_letters": "EMILIO",
       "indices": [
-        16,
-        58,
-        172,
-        137,
-        107,
-        120,
-        133,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        81,
-        26,
-        68,
-        9,
-        87,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "easily",
-      "answer_letters": "EASILY",
-      "indices": [
-        151,
-        19,
-        146,
-        28,
-        144,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "referee",
-      "answer_letters": "REFEREE",
-      "indices": [
-        175,
-        66,
-        23,
-        108,
-        129,
         147,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "divisions",
-      "answer_letters": "DIVISIONS",
-      "indices": [
-        109,
-        64,
-        159,
-        84,
-        6,
+        60,
         142,
-        77,
-        161,
-        94
+        8,
+        64,
+        55
       ]
     },
     {
       "clue": null,
-      "answer": "atlanta",
-      "answer_letters": "ATLANTA",
+      "answer": "relying",
+      "answer_letters": "RELYING",
       "indices": [
-        40,
-        80,
-        65,
-        128,
-        73,
+        155,
+        25,
+        24,
+        124,
+        28,
+        4,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doubts",
+      "answer_letters": "DOUBTS",
+      "indices": [
+        138,
+        45,
+        100,
+        50,
+        5,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attain",
+      "answer_letters": "ATTAIN",
+      "indices": [
+        88,
+        107,
         44,
-        139
+        32,
+        102,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
+      "answer": "yielding",
+      "answer_letters": "YIELDING",
       "indices": [
-        119,
-        49,
-        89,
-        10,
-        42,
+        164,
+        158,
+        11,
+        144,
+        109,
+        92,
+        53,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dowager",
+      "answer_letters": "DOWAGER",
+      "indices": [
+        34,
+        1,
+        96,
+        105,
+        30,
+        21,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reggae",
+      "answer_letters": "REGGAE",
+      "indices": [
+        20,
+        15,
+        162,
+        114,
+        19,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
+      "indices": [
+        174,
+        168,
+        94,
+        136,
+        62,
+        117,
+        6,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "avenue",
+      "answer_letters": "AVENUE",
+      "indices": [
+        128,
+        159,
+        108,
+        73,
+        133,
         3
       ]
     },
     {
       "clue": null,
-      "answer": "downtown",
-      "answer_letters": "DOWNTOWN",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
-        138,
-        55,
-        96,
-        29,
-        136,
-        112,
-        62,
-        85
+        2,
+        77,
+        39,
+        139,
+        36,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "regulates",
-      "answer_letters": "REGULATES",
+      "answer": "everyone",
+      "answer_letters": "EVERYONE",
       "indices": [
-        76,
-        15,
-        47,
-        121,
-        143,
-        105,
-        5,
-        174,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evolved",
-      "answer_letters": "EVOLVED",
-      "indices": [
-        127,
-        116,
-        165,
-        150,
+        42,
         41,
-        69,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anthem",
-      "answer_letters": "ANTHEM",
-      "indices": [
-        72,
-        33,
-        148,
-        14,
-        117,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "methyl",
-      "answer_letters": "METHYL",
-      "indices": [
-        60,
-        21,
-        134,
-        126,
-        98,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eating",
-      "answer_letters": "EATING",
-      "indices": [
-        17,
-        32,
-        27,
-        160,
-        53,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rowing",
-      "answer_letters": "ROWING",
-      "indices": [
-        155,
-        99,
-        104,
-        115,
+        37,
+        76,
+        119,
+        172,
         106,
-        114
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        175,
+        58,
+        140,
+        130,
+        126,
+        78
       ]
     }
   ],

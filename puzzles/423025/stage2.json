@@ -6,34 +6,30 @@
   "clues": [
     {
       "clue": null,
-      "answer": "foremost",
-      "answer_letters": "FOREMOST",
+      "answer": "flooded",
+      "answer_letters": "FLOODED",
       "indices": [
-        164,
-        122,
-        77,
-        18,
-        24,
-        105,
-        52,
-        102
+        152,
+        46,
+        115,
+        151,
+        5,
+        131,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "restaurant",
-      "answer_letters": "RESTAURANT",
+      "answer": "rooftop",
+      "answer_letters": "ROOFTOP",
       "indices": [
-        17,
-        49,
-        54,
-        136,
-        6,
-        156,
-        166,
-        177,
-        92,
-        168
+        90,
+        64,
+        126,
+        116,
+        107,
+        122,
+        69
       ]
     },
     {
@@ -41,199 +37,205 @@
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
-        60,
+        18,
         104,
-        28,
-        70,
-        14,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dorothy",
-      "answer_letters": "DOROTHY",
-      "indices": [
-        61,
-        86,
-        36,
-        126,
-        30,
-        22,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
-      "indices": [
-        32,
-        74,
-        8,
-        129,
-        85,
-        143,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        106,
-        9,
-        171,
-        26,
-        116,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imported",
-      "answer_letters": "IMPORTED",
-      "indices": [
-        80,
-        139,
-        56,
-        64,
-        144,
-        11,
-        99,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        37,
-        73,
-        59,
+        134,
         155,
-        142,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "peugeot",
-      "answer_letters": "PEUGEOT",
-      "indices": [
-        76,
-        162,
-        123,
-        45,
-        67,
-        13,
+        17,
         21
       ]
     },
     {
       "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
+      "answer": "desktop",
+      "answer_letters": "DESKTOP",
       "indices": [
-        133,
-        152,
-        161,
+        61,
+        141,
         101,
-        131,
-        0
+        37,
+        124,
+        58,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "hypothesized",
-      "answer_letters": "HYPOTHESIZED",
+      "answer": "enzyme",
+      "answer_letters": "ENZYME",
       "indices": [
-        1,
-        145,
-        57,
-        165,
-        41,
-        42,
-        176,
-        179,
-        91,
-        48,
         16,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lifeboat",
-      "answer_letters": "LIFEBOAT",
-      "indices": [
-        159,
-        160,
-        134,
-        170,
-        66,
-        78,
-        47,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "modify",
-      "answer_letters": "MODIFY",
-      "indices": [
-        34,
-        151,
-        5,
-        51,
-        4,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "archduke",
-      "answer_letters": "ARCHDUKE",
-      "indices": [
-        148,
-        157,
-        110,
-        137,
-        147,
-        55,
-        93,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "netted",
-      "answer_letters": "NETTED",
-      "indices": [
         130,
-        119,
-        172,
-        107,
-        38,
-        19
+        48,
+        154,
+        24,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "playhouse",
-      "answer_letters": "PLAYHOUSE",
+      "answer": "refuge",
+      "answer_letters": "REFUGE",
+      "indices": [
+        178,
+        60,
+        4,
+        55,
+        45,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "identities",
+      "answer_letters": "IDENTITIES",
+      "indices": [
+        71,
+        81,
+        82,
+        92,
+        11,
+        51,
+        41,
+        160,
+        119,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "koreans",
+      "answer_letters": "KOREANS",
+      "indices": [
+        93,
+        165,
+        14,
+        99,
+        120,
+        171,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "provocative",
+      "answer_letters": "PROVOCATIVE",
       "indices": [
         112,
-        98,
+        157,
+        73,
+        79,
+        78,
+        110,
         100,
-        108,
+        0,
+        80,
+        142,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        26,
+        27,
+        127,
+        72,
         31,
-        115,
+        105,
+        133,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "humphrey",
+      "answer_letters": "HUMPHREY",
+      "indices": [
+        42,
+        123,
+        139,
+        76,
+        22,
+        36,
+        67,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lauded",
+      "answer_letters": "LAUDED",
+      "indices": [
+        98,
+        6,
+        9,
+        89,
+        38,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "majesty",
+      "answer_letters": "MAJESTY",
+      "indices": [
+        34,
+        177,
+        8,
+        138,
+        179,
+        96,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "audrey",
+      "answer_letters": "AUDREY",
+      "indices": [
+        95,
         87,
-        113,
-        2
+        19,
+        77,
+        49,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
+      "indices": [
+        74,
+        129,
+        63,
+        43,
+        169,
+        13,
+        166,
+        39,
+        137,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "prehistory",
+      "answer_letters": "PREHISTORY",
+      "indices": [
+        56,
+        144,
+        23,
+        1,
+        91,
+        59,
+        168,
+        86,
+        106,
+        173
       ]
     },
     {
@@ -241,44 +243,42 @@
       "answer": "lafayette",
       "answer_letters": "LAFAYETTE",
       "indices": [
-        46,
-        95,
-        27,
-        120,
-        175,
-        43,
-        124,
-        96,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upwards",
-      "answer_letters": "UPWARDS",
-      "indices": [
-        111,
-        69,
-        169,
+        159,
         35,
-        178,
-        83,
-        72
+        161,
+        148,
+        149,
+        32,
+        136,
+        102,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "severity",
-      "answer_letters": "SEVERITY",
+      "answer": "u-boats",
+      "answer_letters": "UBOATS",
+      "indices": [
+        156,
+        66,
+        70,
+        47,
+        30,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stuffed",
+      "answer_letters": "STUFFED",
       "indices": [
         10,
-        138,
-        79,
-        82,
-        90,
-        71,
-        39,
-        149
+        172,
+        111,
+        164,
+        28,
+        143,
+        83
       ]
     }
   ],

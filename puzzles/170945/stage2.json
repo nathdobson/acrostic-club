@@ -6,307 +6,307 @@
   "clues": [
     {
       "clue": null,
-      "answer": "cohort",
-      "answer_letters": "COHORT",
+      "answer": "choosing",
+      "answer_letters": "CHOOSING",
       "indices": [
-        43,
-        95,
-        30,
-        68,
-        181,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "healthy",
-      "answer_letters": "HEALTHY",
-      "indices": [
-        137,
-        180,
-        99,
-        90,
-        102,
-        55,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "asphalt",
-      "answer_letters": "ASPHALT",
-      "indices": [
-        168,
-        107,
-        59,
-        103,
-        178,
-        112,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "referee",
-      "answer_letters": "REFEREE",
-      "indices": [
-        60,
-        77,
-        152,
-        25,
-        163,
-        93,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "learnt",
-      "answer_letters": "LEARNT",
-      "indices": [
-        113,
-        17,
-        155,
-        177,
-        148,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        104,
-        96,
-        20,
-        141,
-        6,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shooter",
-      "answer_letters": "SHOOTER",
-      "indices": [
-        12,
+        156,
         119,
-        159,
-        15,
-        48,
-        23,
-        146
+        40,
+        101,
+        38,
+        49,
+        174,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "georgetown",
-      "answer_letters": "GEORGETOWN",
+      "answer": "hartley",
+      "answer_letters": "HARTLEY",
       "indices": [
-        69,
-        9,
-        144,
-        74,
-        149,
-        162,
-        85,
-        151,
-        118,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhymes",
-      "answer_letters": "RHYMES",
-      "indices": [
-        45,
-        166,
-        88,
-        24,
-        120,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "athena",
-      "answer_letters": "ATHENA",
-      "indices": [
-        61,
-        8,
-        86,
-        111,
-        0,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neither",
-      "answer_letters": "NEITHER",
-      "indices": [
-        10,
-        138,
-        63,
-        130,
-        72,
-        34,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dorothy",
-      "answer_letters": "DOROTHY",
-      "indices": [
-        11,
-        1,
-        16,
-        108,
-        67,
-        33,
+        157,
+        178,
+        169,
+        142,
+        112,
+        79,
         62
       ]
     },
     {
       "clue": null,
-      "answer": "impact",
-      "answer_letters": "IMPACT",
+      "answer": "artemis",
+      "answer_letters": "ARTEMIS",
       "indices": [
-        173,
+        115,
+        45,
+        71,
+        111,
         14,
-        143,
-        50,
-        156,
-        54
+        147,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "severe",
-      "answer_letters": "SEVERE",
+      "answer": "rotten",
+      "answer_letters": "ROTTEN",
       "indices": [
-        116,
-        125,
-        92,
-        73,
-        169,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "option",
-      "answer_letters": "OPTION",
-      "indices": [
-        40,
-        176,
+        146,
+        144,
+        102,
         2,
-        129,
-        83,
+        31,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehman",
+      "answer_letters": "LEHMAN",
+      "indices": [
+        90,
+        23,
+        124,
+        24,
+        168,
         57
       ]
     },
     {
       "clue": null,
-      "answer": "non-swiss",
-      "answer_letters": "NONSWISS",
+      "answer": "evergreen",
+      "answer_letters": "EVERGREEN",
+      "indices": [
+        125,
+        78,
+        104,
+        177,
+        69,
+        16,
+        138,
+        70,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "suppose",
+      "answer_letters": "SUPPOSE",
+      "indices": [
+        12,
+        145,
+        176,
+        143,
+        83,
+        52,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        6,
+        91,
+        77,
+        54,
+        30,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhodes",
+      "answer_letters": "RHODES",
+      "indices": [
+        60,
+        86,
+        140,
+        82,
+        180,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anywhere",
+      "answer_letters": "ANYWHERE",
+      "indices": [
+        50,
+        96,
+        126,
+        110,
+        44,
+        162,
+        163,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nothing",
+      "answer_letters": "NOTHING",
+      "indices": [
+        10,
+        95,
+        160,
+        3,
+        129,
+        26,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "detect",
+      "answer_letters": "DETECT",
+      "indices": [
+        11,
+        93,
+        170,
+        97,
+        43,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "innate",
+      "answer_letters": "INNATE",
+      "indices": [
+        4,
+        148,
+        5,
+        61,
+        85,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shafts",
+      "answer_letters": "SHAFTS",
+      "indices": [
+        107,
+        166,
+        99,
+        41,
+        8,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orphan",
+      "answer_letters": "ORPHAN",
+      "indices": [
+        159,
+        36,
+        59,
+        161,
+        155,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
+      "indices": [
+        100,
+        20,
+        48,
+        34,
+        128,
+        1,
+        74,
+        130,
+        72,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fronts",
+      "answer_letters": "FRONTS",
+      "indices": [
+        152,
+        105,
+        151,
+        121,
+        29,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        173,
+        136,
+        103,
+        56,
+        22,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
       "indices": [
         64,
-        91,
-        100,
-        38,
-        110,
-        49,
-        47,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fourteenth",
-      "answer_letters": "FOURTEENTH",
-      "indices": [
-        41,
-        101,
-        145,
-        36,
+        15,
+        80,
         19,
-        70,
-        167,
+        137,
+        164,
+        68,
+        141,
+        27,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
         76,
-        123,
-        3
+        9,
+        118,
+        154,
+        134,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "instant",
-      "answer_letters": "INSTANT",
+      "answer": "either",
+      "answer_letters": "EITHER",
       "indices": [
+        120,
+        63,
+        67,
+        55,
+        25,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yeovil",
+      "answer_letters": "YEOVIL",
+      "indices": [
+        179,
+        167,
+        108,
+        92,
         46,
-        26,
-        171,
-        71,
-        56,
-        5,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        174,
-        147,
-        65,
-        157,
-        37,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nowhere",
-      "answer_letters": "NOWHERE",
-      "indices": [
-        131,
-        140,
-        128,
-        161,
-        79,
-        105,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evident",
-      "answer_letters": "EVIDENT",
-      "indices": [
-        132,
-        78,
-        4,
-        82,
-        87,
-        121,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        126,
-        115,
-        22,
-        44,
-        136,
-        164
+        113
       ]
     }
   ],

@@ -6,118 +6,103 @@
   "clues": [
     {
       "clue": null,
-      "answer": "edinburgh",
-      "answer_letters": "EDINBURGH",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
       "indices": [
-        104,
-        109,
-        126,
-        127,
-        54,
-        50,
-        77,
-        103,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mounds",
-      "answer_letters": "MOUNDS",
-      "indices": [
-        86,
-        6,
-        30,
-        13,
-        178,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "immediate",
-      "answer_letters": "IMMEDIATE",
-      "indices": [
-        18,
-        59,
-        40,
-        163,
-        115,
-        147,
-        43,
-        72,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-cost",
-      "answer_letters": "LOWCOST",
-      "indices": [
-        108,
-        41,
-        173,
-        31,
-        133,
-        16,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        70,
-        150,
-        93,
-        85,
-        91,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guilty",
-      "answer_letters": "GUILTY",
-      "indices": [
-        78,
-        56,
-        95,
-        160,
-        124,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "innocence",
-      "answer_letters": "INNOCENCE",
-      "indices": [
-        79,
-        114,
-        0,
-        76,
-        132,
-        81,
-        166,
-        90,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "focusing",
-      "answer_letters": "FOCUSING",
-      "indices": [
-        75,
-        27,
+        15,
         5,
-        153,
-        3,
-        117,
+        32,
+        120,
+        110,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monica",
+      "answer_letters": "MONICA",
+      "indices": [
+        29,
+        181,
+        141,
+        45,
+        132,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "incumbent",
+      "answer_letters": "INCUMBENT",
+      "indices": [
+        168,
         121,
-        142
+        10,
+        153,
+        40,
+        49,
+        81,
+        7,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lacked",
+      "answer_letters": "LACKED",
+      "indices": [
+        44,
+        113,
+        31,
+        128,
+        165,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yeovil",
+      "answer_letters": "YEOVIL",
+      "indices": [
+        60,
+        4,
+        107,
+        164,
+        79,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "goldsmith",
+      "answer_letters": "GOLDSMITH",
+      "indices": [
+        142,
+        76,
+        108,
+        178,
+        158,
+        156,
+        171,
+        69,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intervened",
+      "answer_letters": "INTERVENED",
+      "indices": [
+        126,
+        0,
+        38,
+        143,
+        77,
+        80,
+        163,
+        22,
+        159,
+        109
       ]
     },
     {
@@ -125,125 +110,158 @@
       "answer": "fought",
       "answer_letters": "FOUGHT",
       "indices": [
-        161,
-        96,
-        134,
-        99,
-        125,
-        180
+        169,
+        1,
+        101,
+        103,
+        91,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "functionality",
+      "answer_letters": "FUNCTIONALITY",
       "indices": [
-        66,
-        154,
-        106,
-        88,
-        10,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nativity",
-      "answer_letters": "NATIVITY",
-      "indices": [
-        141,
-        64,
-        46,
-        171,
-        164,
-        62,
-        19,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "beethoven",
-      "answer_letters": "BEETHOVEN",
-      "indices": [
-        49,
-        4,
-        159,
-        122,
-        32,
-        107,
-        80,
-        110,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "atomic",
-      "answer_letters": "ATOMIC",
-      "indices": [
-        92,
-        145,
-        152,
-        156,
+        75,
+        50,
+        175,
+        14,
+        24,
+        83,
+        36,
+        166,
+        53,
+        135,
         68,
-        14
+        176,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "beckett",
-      "answer_letters": "BECKETT",
+      "answer": "inhibits",
+      "answer_letters": "INHIBITS",
+      "indices": [
+        147,
+        97,
+        146,
+        95,
+        151,
+        18,
+        154,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nations",
+      "answer_letters": "NATIONS",
+      "indices": [
+        13,
+        88,
+        145,
+        66,
+        133,
+        63,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "budgets",
+      "answer_letters": "BUDGETS",
+      "indices": [
+        35,
+        37,
+        102,
+        78,
+        104,
+        46,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "automatic",
+      "answer_letters": "AUTOMATIC",
+      "indices": [
+        43,
+        30,
+        57,
+        23,
+        86,
+        64,
+        180,
+        117,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bogotá",
+      "answer_letters": "BOGOTA",
       "indices": [
         65,
-        143,
-        138,
-        128,
-        165,
-        51,
-        57
+        27,
+        99,
+        41,
+        19,
+        174
       ]
     },
     {
       "clue": null,
-      "answer": "yiddish",
-      "answer_letters": "YIDDISH",
+      "answer": "yoruba",
+      "answer_letters": "YORUBA",
       "indices": [
-        60,
-        168,
-        119,
-        136,
-        130,
-        20,
-        139
+        70,
+        152,
+        100,
+        134,
+        54,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "pursuant",
-      "answer_letters": "PURSUANT",
+      "answer": "physics",
+      "answer_letters": "PHYSICS",
       "indices": [
         94,
-        37,
-        111,
-        148,
-        101,
-        34,
-        7,
-        24
+        125,
+        157,
+        26,
+        62,
+        138,
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "robson",
-      "answer_letters": "ROBSON",
+      "answer": "reunion",
+      "answer_letters": "REUNION",
       "indices": [
-        100,
-        181,
-        151,
-        26,
-        55,
-        63
+        111,
+        177,
+        56,
+        114,
+        130,
+        6,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        96,
+        124,
+        51,
+        140,
+        173,
+        85
       ]
     },
     {
@@ -251,44 +269,26 @@
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
+        55,
+        160,
+        119,
+        139,
+        34,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fordham",
+      "answer_letters": "FORDHAM",
+      "indices": [
+        161,
         73,
-        67,
-        8,
-        11,
-        174,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ordination",
-      "answer_letters": "ORDINATION",
-      "indices": [
-        36,
         42,
-        102,
-        45,
-        22,
-        53,
-        69,
-        83,
-        23,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "football",
-      "answer_letters": "FOOTBALL",
-      "indices": [
-        169,
-        120,
-        1,
-        176,
-        35,
-        140,
-        44,
-        135
+        136,
+        11,
+        150,
+        59
       ]
     }
   ],

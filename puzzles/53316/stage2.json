@@ -6,57 +6,57 @@
   "clues": [
     {
       "clue": null,
-      "answer": "meetings",
-      "answer_letters": "MEETINGS",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
-        169,
-        91,
-        143,
-        175,
-        83,
-        64,
-        49,
-        33
+        146,
+        27,
+        26,
+        182,
+        81,
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
+      "answer": "awaiting",
+      "answer_letters": "AWAITING",
       "indices": [
-        156,
-        184,
-        168,
-        104,
-        20,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "regatta",
-      "answer_letters": "REGATTA",
-      "indices": [
-        71,
-        170,
-        167,
         105,
-        74,
-        24,
-        134
+        6,
+        147,
+        127,
+        141,
+        36,
+        157,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "italia",
-      "answer_letters": "ITALIA",
+      "answer": "regard",
+      "answer_letters": "REGARD",
       "indices": [
-        63,
-        100,
-        73,
-        58,
-        127,
-        45
+        193,
+        44,
+        131,
+        30,
+        106,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isolate",
+      "answer_letters": "ISOLATE",
+      "indices": [
+        17,
+        135,
+        111,
+        108,
+        134,
+        24,
+        102
       ]
     },
     {
@@ -64,139 +64,51 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
-        7,
+        171,
         149,
         190,
-        15,
-        66,
-        97
+        12,
+        46,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "enthusiasts",
-      "answer_letters": "ENTHUSIASTS",
-      "indices": [
-        68,
-        144,
-        114,
-        115,
-        185,
-        121,
-        93,
-        182,
-        89,
-        141,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "looked",
-      "answer_letters": "LOOKED",
-      "indices": [
-        126,
-        160,
-        98,
-        54,
-        192,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elders",
-      "answer_letters": "ELDERS",
-      "indices": [
-        191,
-        84,
-        128,
-        179,
-        189,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        157,
-        150,
-        35,
-        188,
-        139,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arguments",
-      "answer_letters": "ARGUMENTS",
-      "indices": [
-        147,
-        106,
-        125,
-        52,
-        146,
-        72,
-        92,
-        186,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ernesto",
-      "answer_letters": "ERNESTO",
-      "indices": [
-        55,
-        31,
-        94,
-        44,
-        61,
-        162,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        51,
-        30,
-        9,
-        136,
-        176,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
+      "answer": "emerge",
+      "answer_letters": "EMERGE",
       "indices": [
         59,
-        47,
-        178,
-        26,
-        46,
-        38
+        169,
+        170,
+        189,
+        125,
+        188
       ]
     },
     {
       "clue": null,
-      "answer": "refugee",
-      "answer_letters": "REFUGEE",
+      "answer": "lifted",
+      "answer_letters": "LIFTED",
       "indices": [
-        193,
-        116,
+        87,
+        83,
         112,
-        138,
-        70,
-        21,
-        153
+        66,
+        72,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
+        173,
+        94,
+        180,
+        93,
+        32,
+        40
       ]
     },
     {
@@ -204,113 +116,201 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        8,
-        36,
-        118,
-        142,
-        187,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "archaeology",
-      "answer_letters": "ARCHAEOLOGY",
-      "indices": [
-        77,
-        53,
-        155,
-        67,
-        0,
-        102,
-        12,
-        1,
-        27,
-        159,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lightweight",
-      "answer_letters": "LIGHTWEIGHT",
-      "indices": [
-        87,
-        17,
-        131,
-        101,
-        32,
-        29,
-        85,
-        88,
-        28,
-        165,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
-      "indices": [
-        148,
-        173,
-        2,
-        78,
-        41,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        166,
-        11,
-        122,
-        171,
-        6,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
-      "indices": [
-        42,
-        133,
-        76,
-        120,
-        108,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "towing",
-      "answer_letters": "TOWING",
-      "indices": [
-        37,
-        111,
-        81,
+        130,
         4,
-        48,
+        118,
+        101,
+        186,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
+      "indices": [
+        7,
+        1,
+        97,
+        38,
+        107,
+        42,
+        28,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elects",
+      "answer_letters": "ELECTS",
+      "indices": [
+        55,
+        78,
+        191,
+        155,
+        114,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        122,
+        165,
+        166,
+        185,
+        178,
+        76,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eating",
+      "answer_letters": "EATING",
+      "indices": [
+        116,
+        45,
+        9,
+        47,
+        92,
         60
       ]
     },
     {
       "clue": null,
-      "answer": "highly",
-      "answer_letters": "HIGHLY",
+      "answer": "reductions",
+      "answer_letters": "REDUCTIONS",
       "indices": [
-        82,
+        31,
+        192,
+        172,
+        138,
+        104,
+        11,
         129,
+        120,
+        64,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        8,
+        179,
+        133,
+        82,
+        68,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aggies",
+      "answer_letters": "AGGIES",
+      "indices": [
+        73,
+        49,
         95,
-        119,
+        63,
+        153,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "letters",
+      "answer_letters": "LETTERS",
+      "indices": [
         79,
-        40
+        91,
+        187,
+        175,
+        143,
+        71,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellowstone",
+      "answer_letters": "YELLOWSTONE",
+      "indices": [
+        148,
+        21,
+        126,
+        84,
+        163,
+        152,
+        89,
+        100,
+        41,
+        48,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orthogonal",
+      "answer_letters": "ORTHOGONAL",
+      "indices": [
+        160,
+        53,
+        37,
+        119,
+        98,
+        167,
+        15,
+        144,
+        0,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "u-boats",
+      "answer_letters": "UBOATS",
+      "indices": [
+        52,
+        184,
+        176,
+        23,
+        136,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tablets",
+      "answer_letters": "TABLETS",
+      "indices": [
+        51,
+        77,
+        20,
+        2,
+        85,
+        162,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highways",
+      "answer_letters": "HIGHWAYS",
+      "indices": [
+        67,
+        88,
+        159,
+        115,
+        35,
+        156,
+        56,
+        33
       ]
     }
   ],

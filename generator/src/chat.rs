@@ -57,7 +57,7 @@ impl ClueClient {
     pub async fn create_clue(&self, word: &str) -> anyhow::Result<Option<String>> {
         let mut clues = self.create_clue_list(word).await?;
         clues.sort_by_cached_key(|x| self.score(&word, x));
-        println!("{:#?}", clues);
+        // println!("{:#?}", clues);
         let clue = if let Some(clue) = clues.pop() { clue } else { return Ok(None); };
         let clue = &clue;
         let clue = clue.strip_prefix("Answer: ").unwrap_or(clue);
@@ -72,6 +72,7 @@ You are a crossword clue generator that follows precise rules:
 * The clue is short and succinct with minimal detail.
 * The clue agrees with the input in tense, part of speech, and plurality.
 * The clue and input do not share an etymology.
+* You clue names by describing a famous person with that name.
 Examples:
 Q: dog
 A: A furry pet
@@ -79,6 +80,8 @@ Q: difficult
 A: Hard to accomplish.
 Q: london
 A: Largest city in England.
+Q: nathan
+A: Actor known for portraying Mal on Firefly.
 "
                 .to_string(),
         };
@@ -123,7 +126,7 @@ async fn test_clue_client() -> anyhow::Result<()> {
     let (client, cleanup) = ClueClient::new().await?;
     {
         let start = Instant::now();
-        for word in &["extant", "netball"] {
+        for word in &["extant", "netball", "nathan", "andrew", "john"] {
             let clues = client.create_clue(word).await?;
             println!("{:?}", clues);
         }

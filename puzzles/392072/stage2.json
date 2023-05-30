@@ -6,85 +6,18 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nutrition",
-      "answer_letters": "NUTRITION",
+      "answer": "nightclub",
+      "answer_letters": "NIGHTCLUB",
       "indices": [
-        13,
-        15,
-        91,
-        31,
-        136,
-        146,
-        80,
-        21,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enlist",
-      "answer_letters": "ENLIST",
-      "indices": [
-        165,
-        176,
-        38,
-        17,
-        96,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "differs",
-      "answer_letters": "DIFFERS",
-      "indices": [
-        148,
-        111,
-        2,
-        7,
-        97,
-        90,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hip-hop",
-      "answer_letters": "HIPHOP",
-      "indices": [
-        57,
-        54,
-        149,
-        126,
-        45,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "augusto",
-      "answer_letters": "AUGUSTO",
-      "indices": [
-        144,
-        71,
-        113,
-        46,
-        79,
-        154,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
-      "indices": [
-        120,
-        89,
-        123,
-        141,
-        127,
-        12
+        67,
+        73,
+        160,
+        41,
+        102,
+        47,
+        166,
+        36,
+        70
       ]
     },
     {
@@ -92,206 +25,273 @@
       "answer": "ellison",
       "answer_letters": "ELLISON",
       "indices": [
-        82,
-        5,
-        166,
-        103,
-        134,
-        150,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "satellite",
-      "answer_letters": "SATELLITE",
-      "indices": [
-        32,
-        147,
-        42,
-        88,
-        139,
-        119,
-        169,
-        14,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "turkish",
-      "answer_letters": "TURKISH",
-      "indices": [
-        102,
-        108,
-        16,
-        177,
-        158,
-        50,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hillside",
-      "answer_letters": "HILLSIDE",
-      "indices": [
-        48,
-        0,
-        4,
-        116,
-        101,
-        122,
-        174,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "electing",
-      "answer_letters": "ELECTING",
-      "indices": [
-        130,
-        59,
-        86,
-        11,
-        44,
-        73,
-        67,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
         152,
+        151,
+        137,
+        0,
+        79,
+        150,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "densities",
+      "answer_letters": "DENSITIES",
+      "indices": [
+        129,
+        98,
+        13,
+        32,
+        136,
         163,
-        53,
-        39,
+        158,
+        12,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "helsinki",
+      "answer_letters": "HELSINKI",
+      "indices": [
+        126,
+        49,
+        24,
+        134,
+        25,
+        123,
+        177,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adults",
+      "answer_letters": "ADULTS",
+      "indices": [
+        94,
+        63,
+        15,
+        5,
+        154,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youthful",
+      "answer_letters": "YOUTHFUL",
+      "indices": [
+        120,
+        117,
+        108,
+        146,
+        92,
+        167,
+        46,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ensued",
+      "answer_letters": "ENSUED",
+      "indices": [
+        86,
+        37,
+        96,
+        71,
+        27,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shield",
+      "answer_letters": "SHIELD",
+      "indices": [
+        164,
+        57,
+        103,
+        130,
+        119,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "townspeople",
+      "answer_letters": "TOWNSPEOPLE",
+      "indices": [
+        125,
+        8,
+        118,
+        176,
+        101,
+        179,
+        64,
         181,
-        132,
-        140,
-        3,
+        149,
+        116,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "horror",
+      "answer_letters": "HORROR",
+      "indices": [
+        85,
+        45,
+        90,
+        9,
+        135,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edison",
+      "answer_letters": "EDISON",
+      "indices": [
+        82,
+        81,
+        169,
+        61,
+        21,
         170
       ]
     },
     {
       "clue": null,
-      "answer": "airfield",
-      "answer_letters": "AIRFIELD",
+      "answer": "elliptic",
+      "answer_letters": "ELLIPTIC",
       "indices": [
-        94,
-        62,
-        104,
-        29,
-        30,
-        18,
-        182,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "griffin",
-      "answer_letters": "GRIFFIN",
-      "indices": [
-        160,
-        9,
-        25,
-        26,
-        22,
-        162,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "landlords",
-      "answer_letters": "LANDLORDS",
-      "indices": [
-        151,
-        66,
-        159,
-        68,
-        137,
-        180,
-        109,
-        63,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "establish",
-      "answer_letters": "ESTABLISH",
-      "indices": [
-        74,
-        105,
-        33,
-        175,
-        70,
-        24,
-        77,
-        55,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twelfth",
-      "answer_letters": "TWELFTH",
-      "indices": [
-        84,
-        118,
-        27,
+        97,
         60,
-        167,
-        125,
-        92
+        59,
+        122,
+        132,
+        14,
+        80,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "rustic",
-      "answer_letters": "RUSTIC",
+      "answer": "afrikaans",
+      "answer_letters": "AFRIKAANS",
       "indices": [
+        89,
+        7,
         156,
-        155,
-        61,
-        52,
-        58,
-        47
+        30,
+        141,
+        175,
+        3,
+        159,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "essendon",
-      "answer_letters": "ESSENDON",
+      "answer": "graffiti",
+      "answer_letters": "GRAFFITI",
       "indices": [
-        98,
-        115,
-        35,
-        131,
-        110,
-        129,
-        135,
-        37
+        40,
+        16,
+        147,
+        26,
+        2,
+        58,
+        91,
+        162
       ]
     },
     {
       "clue": null,
-      "answer": "eduardo",
-      "answer_letters": "EDUARDO",
+      "answer": "lithuania",
+      "answer_letters": "LITHUANIA",
+      "indices": [
+        182,
+        140,
+        44,
+        53,
+        155,
+        144,
+        78,
+        54,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
         142,
-        99,
-        36,
-        172,
+        29,
+        22,
+        180,
         72,
-        75,
-        117
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "traits",
+      "answer_letters": "TRAITS",
+      "indices": [
+        52,
+        104,
+        172,
+        39,
+        33,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "resided",
+      "answer_letters": "RESIDED",
+      "indices": [
+        31,
+        18,
+        19,
+        62,
+        99,
+        88,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entitled",
+      "answer_letters": "ENTITLED",
+      "indices": [
+        131,
+        110,
+        84,
+        77,
+        107,
+        139,
+        74,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "english",
+      "answer_letters": "ENGLISH",
+      "indices": [
+        165,
+        112,
+        113,
+        4,
+        17,
+        55,
+        48
       ]
     }
   ],

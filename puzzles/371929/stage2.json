@@ -6,239 +6,161 @@
   "clues": [
     {
       "clue": null,
-      "answer": "authority",
-      "answer_letters": "AUTHORITY",
+      "answer": "alzheimer's",
+      "answer_letters": "ALZHEIMERS",
       "indices": [
-        17,
-        45,
-        6,
-        3,
-        114,
+        169,
+        59,
+        18,
+        122,
+        129,
+        5,
+        16,
+        1,
         87,
-        31,
-        182,
-        0
+        111
       ]
     },
     {
       "clue": null,
-      "answer": "adequately",
-      "answer_letters": "ADEQUATELY",
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
       "indices": [
-        15,
-        171,
-        42,
-        29,
-        162,
+        11,
+        34,
+        142,
+        78,
+        26,
+        106,
+        116,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
+      "indices": [
+        22,
         8,
         93,
-        19,
-        59,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mustangs",
-      "answer_letters": "MUSTANGS",
-      "indices": [
-        16,
-        166,
-        111,
-        145,
-        169,
-        163,
-        139,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enthusiasts",
-      "answer_letters": "ENTHUSIASTS",
-      "indices": [
-        100,
-        138,
-        135,
-        146,
-        88,
-        66,
-        60,
-        2,
-        143,
         82,
-        75
+        146,
+        153,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
       "indices": [
-        188,
-        186,
-        35,
-        154,
-        157,
-        133,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iteration",
-      "answer_letters": "ITERATION",
-      "indices": [
-        5,
-        74,
-        79,
-        102,
-        70,
-        121,
-        141,
-        52,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "czechoslovak",
-      "answer_letters": "CZECHOSLOVAK",
-      "indices": [
-        32,
-        18,
-        1,
-        68,
-        78,
-        56,
-        104,
-        9,
-        132,
-        128,
+        42,
+        66,
+        131,
         127,
-        33
+        173,
+        13
       ]
     },
     {
       "clue": null,
-      "answer": "alumnus",
-      "answer_letters": "ALUMNUS",
+      "answer": "routinely",
+      "answer_letters": "ROUTINELY",
       "indices": [
-        187,
-        63,
-        175,
-        159,
-        50,
-        92,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
-      "indices": [
-        89,
-        174,
-        62,
-        179,
-        10,
-        26,
-        149,
-        142,
-        25,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "galerie",
-      "answer_letters": "GALERIE",
-      "indices": [
-        54,
-        110,
-        152,
-        84,
-        46,
-        101,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outputs",
-      "answer_letters": "OUTPUTS",
-      "indices": [
-        55,
-        30,
-        105,
-        37,
-        106,
-        44,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "identified",
-      "answer_letters": "IDENTIFIED",
-      "indices": [
-        69,
-        180,
-        38,
-        177,
-        98,
-        137,
-        108,
-        72,
-        129,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nonetheless",
-      "answer_letters": "NONETHELESS",
-      "indices": [
-        47,
-        91,
-        115,
-        147,
-        51,
-        136,
-        158,
-        113,
-        23,
-        119,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "greenway",
-      "answer_letters": "GREENWAY",
-      "indices": [
-        116,
         161,
-        178,
-        189,
+        183,
+        175,
+        6,
+        148,
         170,
-        77,
-        11,
+        100,
+        63,
         124
       ]
     },
     {
       "clue": null,
-      "answer": "howell",
-      "answer_letters": "HOWELL",
+      "answer": "impoverished",
+      "answer_letters": "IMPOVERISHED",
       "indices": [
-        126,
-        67,
-        27,
-        153,
-        34,
-        41
+        31,
+        159,
+        37,
+        132,
+        128,
+        19,
+        188,
+        69,
+        143,
+        157,
+        64,
+        180
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "constituency",
+      "answer_letters": "CONSTITUENCY",
+      "indices": [
+        32,
+        114,
+        138,
+        104,
+        121,
+        141,
+        135,
+        92,
+        23,
+        89,
+        68,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attorney",
+      "answer_letters": "ATTORNEY",
+      "indices": [
+        187,
+        156,
+        51,
+        165,
+        46,
+        50,
+        79,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        163,
+        95,
+        149,
+        62,
+        136,
+        75,
+        56,
+        166,
+        145,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "guthrie",
+      "answer_letters": "GUTHRIE",
+      "indices": [
+        139,
+        162,
+        154,
+        186,
+        102,
+        49,
+        38
       ]
     },
     {
@@ -246,42 +168,120 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        39,
-        107,
+        55,
+        108,
         96,
-        13,
-        122,
-        165,
-        183,
+        73,
+        126,
+        52,
+        39,
         167
       ]
     },
     {
       "clue": null,
-      "answer": "methyl",
-      "answer_letters": "METHYL",
+      "answer": "italy's",
+      "answer_letters": "ITALYS",
       "indices": [
-        22,
-        123,
-        156,
-        99,
-        12,
-        71
+        137,
+        44,
+        118,
+        71,
+        0,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "ethiopia",
-      "answer_letters": "ETHIOPIA",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
-        64,
+        177,
+        147,
+        10,
+        20,
+        77,
+        189,
+        178,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gladstone",
+      "answer_letters": "GLADSTONE",
+      "indices": [
+        54,
+        41,
+        15,
+        171,
+        150,
         61,
+        174,
+        47,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "healthy",
+      "answer_letters": "HEALTHY",
+      "indices": [
         83,
-        49,
-        95,
+        158,
+        2,
+        9,
+        98,
+        3,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfield",
+      "answer_letters": "OUTFIELD",
+      "indices": [
+        91,
+        30,
+        105,
+        107,
+        101,
+        134,
+        113,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "manipulate",
+      "answer_letters": "MANIPULATE",
+      "indices": [
+        133,
+        110,
+        115,
+        72,
         40,
-        148,
-        118
+        88,
+        152,
+        70,
+        74,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "equations",
+      "answer_letters": "EQUATIONS",
+      "indices": [
+        84,
+        29,
+        45,
+        17,
+        182,
+        60,
+        67,
+        80,
+        119
       ]
     }
   ],

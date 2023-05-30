@@ -6,118 +6,119 @@
   "clues": [
     {
       "clue": null,
-      "answer": "augustus",
-      "answer_letters": "AUGUSTUS",
+      "answer": "adjusted",
+      "answer_letters": "ADJUSTED",
       "indices": [
-        138,
-        54,
-        167,
-        87,
-        120,
-        65,
-        107,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-lying",
-      "answer_letters": "LOWLYING",
-      "indices": [
-        75,
-        165,
-        57,
-        46,
-        33,
-        152,
-        161,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intelligent",
-      "answer_letters": "INTELLIGENT",
-      "indices": [
-        58,
-        40,
-        151,
-        136,
-        28,
-        89,
-        177,
-        23,
-        145,
-        13,
-        184
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "credits",
-      "answer_letters": "CREDITS",
-      "indices": [
-        72,
-        84,
-        122,
+        16,
         29,
-        83,
-        25,
-        171
+        115,
+        21,
+        104,
+        77,
+        121,
+        41
       ]
     },
     {
       "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
+      "answer": "logging",
+      "answer_letters": "LOGGING",
       "indices": [
-        121,
-        140,
-        123,
-        116,
+        46,
+        143,
+        129,
+        167,
+        160,
         112,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "identify",
+      "answer_letters": "IDENTIFY",
+      "indices": [
+        83,
+        8,
+        30,
+        40,
+        59,
+        92,
+        97,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "commute",
+      "answer_letters": "COMMUTE",
+      "indices": [
+        150,
+        1,
+        133,
+        38,
+        54,
+        184,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edward",
+      "answer_letters": "EDWARD",
+      "indices": [
+        168,
+        140,
+        43,
+        138,
+        36,
         47
       ]
     },
     {
       "clue": null,
-      "answer": "minogue",
-      "answer_letters": "MINOGUE",
+      "answer": "mughal",
+      "answer_letters": "MUGHAL",
       "indices": [
-        173,
-        12,
-        102,
-        96,
-        129,
-        2,
-        168
+        142,
+        107,
+        103,
+        100,
+        64,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "utility",
-      "answer_letters": "UTILITY",
+      "answer": "unsuitable",
+      "answer_letters": "UNSUITABLE",
       "indices": [
-        6,
-        157,
-        85,
-        52,
-        111,
-        99,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
-      "indices": [
+        116,
         139,
-        5,
+        17,
+        6,
+        58,
+        164,
+        73,
         106,
-        127,
-        41,
-        0
+        75,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nighttime",
+      "answer_letters": "NIGHTTIME",
+      "indices": [
+        13,
+        85,
+        23,
+        11,
+        67,
+        118,
+        50,
+        110,
+        145
       ]
     },
     {
@@ -125,93 +126,56 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        148,
-        100,
-        70,
+        84,
+        60,
+        19,
         126,
         63,
-        110
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "outpost",
-      "answer_letters": "OUTPOST",
+      "answer": "outlaw",
+      "answer_letters": "OUTLAW",
       "indices": [
-        134,
+        96,
         45,
-        10,
-        82,
-        27,
-        91,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oldham",
-      "answer_letters": "OLDHAM",
-      "indices": [
-        143,
-        185,
-        187,
-        11,
+        169,
+        7,
         154,
-        142
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "pathway",
-      "answer_letters": "PATHWAY",
+      "answer": "outlook",
+      "answer_letters": "OUTLOOK",
+      "indices": [
+        34,
+        87,
+        86,
+        155,
+        44,
+        172,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "processors",
+      "answer_letters": "PROCESSORS",
       "indices": [
         147,
-        149,
-        77,
-        68,
-        62,
-        64,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
-      "indices": [
-        186,
-        155,
-        50,
-        115,
-        73,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newport",
-      "answer_letters": "NEWPORT",
-      "indices": [
-        178,
-        30,
-        4,
-        55,
-        34,
-        144,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sketch",
-      "answer_letters": "SKETCH",
-      "indices": [
-        124,
-        14,
+        31,
+        5,
+        153,
         69,
-        118,
-        150,
-        78
+        81,
+        171,
+        165,
+        148,
+        117
       ]
     },
     {
@@ -219,89 +183,125 @@
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
-        79,
-        7,
-        160,
-        67,
-        174,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "commodities",
-      "answer_letters": "COMMODITIES",
-      "indices": [
-        153,
-        172,
-        133,
-        38,
-        20,
-        93,
-        101,
-        183,
-        92,
-        182,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "regulator",
-      "answer_letters": "REGULATOR",
-      "indices": [
-        31,
-        130,
-        179,
-        21,
-        74,
-        88,
-        59,
-        1,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        113,
-        49,
-        97,
-        44,
-        36,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twisted",
-      "answer_letters": "TWISTED",
-      "indices": [
-        131,
-        43,
-        39,
-        181,
-        164,
-        24,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "slaughter",
-      "answer_letters": "SLAUGHTER",
-      "indices": [
-        117,
-        51,
-        16,
-        35,
-        162,
-        176,
-        108,
         94,
-        135
+        28,
+        12,
+        99,
+        130,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        161,
+        101,
+        162,
+        78,
+        65,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "spotify",
+      "answer_letters": "SPOTIFY",
+      "indices": [
+        120,
+        82,
+        134,
+        131,
+        39,
+        49,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
+        174,
+        178,
+        10,
+        111,
+        175,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "crowned",
+      "answer_letters": "CROWNED",
+      "indices": [
+        72,
+        135,
+        27,
+        62,
+        102,
+        182,
+        187
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rudolph",
+      "answer_letters": "RUDOLPH",
+      "indices": [
+        158,
+        35,
+        93,
+        127,
+        74,
+        55,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        24,
+        185,
+        51,
+        177,
+        20,
+        151,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "three-way",
+      "answer_letters": "THREEWAY",
+      "indices": [
+        108,
+        176,
+        144,
+        113,
+        79,
+        4,
+        149,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stimulate",
+      "answer_letters": "STIMULATE",
+      "indices": [
+        91,
+        25,
+        152,
+        173,
+        2,
+        52,
+        88,
+        183,
+        186
       ]
     }
   ],

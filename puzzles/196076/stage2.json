@@ -6,108 +6,17 @@
   "clues": [
     {
       "clue": null,
-      "answer": "cheese",
-      "answer_letters": "CHEESE",
+      "answer": "chairman",
+      "answer_letters": "CHAIRMAN",
       "indices": [
-        78,
+        94,
         130,
-        89,
-        155,
-        147,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hawaii",
-      "answer_letters": "HAWAII",
-      "indices": [
-        49,
-        19,
-        136,
-        127,
-        161,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upward",
-      "answer_letters": "UPWARD",
-      "indices": [
-        69,
-        14,
-        160,
-        103,
-        135,
-        139
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "drafts",
-      "answer_letters": "DRAFTS",
-      "indices": [
-        12,
-        112,
-        56,
-        1,
-        74,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
-      "indices": [
-        145,
-        83,
-        138,
-        71,
-        42,
-        150,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        79,
-        21,
+        156,
+        144,
+        171,
         16,
-        15,
-        73,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yields",
-      "answer_letters": "YIELDS",
-      "indices": [
-        67,
-        24,
-        172,
-        121,
-        154,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tunisia",
-      "answer_letters": "TUNISIA",
-      "indices": [
-        51,
-        38,
-        84,
-        99,
-        104,
-        0,
-        156
+        72,
+        118
       ]
     },
     {
@@ -115,99 +24,190 @@
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
-        52,
-        177,
-        173,
-        47,
-        165,
-        162
+        163,
+        172,
+        102,
+        24,
+        108,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "octave",
-      "answer_letters": "OCTAVE",
+      "answer": "upside",
+      "answer_letters": "UPSIDE",
       "indices": [
-        120,
-        94,
-        131,
-        116,
-        55,
-        53
+        69,
+        114,
+        104,
+        128,
+        21,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "murphy",
-      "answer_letters": "MURPHY",
+      "answer": "dmitry",
+      "answer_letters": "DMITRY",
       "indices": [
+        154,
         82,
-        142,
-        171,
-        58,
-        88,
+        64,
+        165,
+        80,
         36
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
-        31,
-        106,
-        141,
-        151,
-        10,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "switching",
-      "answer_letters": "SWITCHING",
-      "indices": [
-        97,
+        32,
+        167,
+        91,
+        93,
+        37,
         46,
-        144,
-        158,
-        26,
-        166,
-        117,
-        118,
-        129
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "freeway",
-      "answer_letters": "FREEWAY",
+      "answer": "enclave",
+      "answer_letters": "ENCLAVE",
+      "indices": [
+        146,
+        20,
+        26,
+        175,
+        103,
+        55,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yeshiva",
+      "answer_letters": "YESHIVA",
+      "indices": [
+        85,
+        79,
+        29,
+        49,
+        99,
+        176,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        10,
+        71,
+        111,
+        7,
+        31,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
+      "indices": [
+        95,
+        0,
+        129,
+        166,
+        169,
+        127,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
+      "indices": [
+        68,
+        38,
+        74,
+        121,
+        56,
+        173,
+        61,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "midwest",
+      "answer_letters": "MIDWEST",
+      "indices": [
+        28,
+        92,
+        139,
+        160,
+        34,
+        62,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amherst",
+      "answer_letters": "AMHERST",
+      "indices": [
+        42,
+        57,
+        52,
+        170,
+        25,
+        148,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "subdued",
+      "answer_letters": "SUBDUED",
+      "indices": [
+        143,
+        152,
+        141,
+        40,
+        142,
+        89,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fabric",
+      "answer_letters": "FABRIC",
       "indices": [
         110,
-        80,
-        34,
-        81,
-        102,
-        8,
-        3
+        19,
+        106,
+        60,
+        59,
+        78
       ]
     },
     {
       "clue": null,
-      "answer": "unification",
-      "answer_letters": "UNIFICATION",
+      "answer": "unions",
+      "answer_letters": "UNIONS",
       "indices": [
-        152,
+        107,
         9,
-        92,
-        65,
-        128,
-        23,
-        137,
-        108,
-        59,
+        161,
         174,
-        32
+        145,
+        97
       ]
     },
     {
@@ -215,96 +215,96 @@
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
-        175,
-        37,
-        91,
+        157,
+        134,
+        136,
         75,
-        148,
-        93
+        124,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "low-level",
-      "answer_letters": "LOWLEVEL",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
       "indices": [
         43,
+        116,
+        3,
         4,
-        169,
-        115,
-        170,
-        176,
-        11,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fortune",
-      "answer_letters": "FORTUNE",
-      "indices": [
-        133,
-        134,
-        25,
-        87,
         27,
-        20,
-        41
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
+      "answer": "further",
+      "answer_letters": "FURTHER",
       "indices": [
-        68,
-        107,
-        100,
-        114,
+        65,
         5,
-        44
+        138,
+        44,
+        88,
+        53,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "options",
+      "answer_letters": "OPTIONS",
       "indices": [
-        126,
-        163,
-        85,
-        125,
-        95,
-        28
+        15,
+        58,
+        87,
+        47,
+        151,
+        73,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "competes",
-      "answer_letters": "COMPETES",
+      "answer": "reported",
+      "answer_letters": "REPORTED",
       "indices": [
-        33,
-        111,
-        57,
+        112,
+        155,
+        14,
+        120,
+        135,
+        51,
+        41,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "capitol",
+      "answer_letters": "CAPITOL",
+      "indices": [
+        23,
+        137,
         17,
-        146,
-        48,
-        96,
-        29
+        117,
+        125,
+        83,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "edwards",
-      "answer_letters": "EDWARDS",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
       "indices": [
-        61,
-        122,
-        7,
-        72,
-        60,
-        76,
-        143
+        11,
+        1,
+        133,
+        81,
+        33,
+        131,
+        178
       ]
     }
   ],

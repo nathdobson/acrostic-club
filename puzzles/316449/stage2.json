@@ -6,116 +6,15 @@
   "clues": [
     {
       "clue": null,
-      "answer": "wrocław",
-      "answer_letters": "WROCLAW",
+      "answer": "wealth",
+      "answer_letters": "WEALTH",
       "indices": [
-        2,
-        44,
-        116,
-        138,
-        88,
-        139,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inadequate",
-      "answer_letters": "INADEQUATE",
-      "indices": [
-        0,
-        134,
-        102,
-        164,
-        64,
-        108,
-        157,
-        145,
-        67,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lightly",
-      "answer_letters": "LIGHTLY",
-      "indices": [
-        59,
-        110,
-        146,
-        132,
-        112,
-        60,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "likely",
-      "answer_letters": "LIKELY",
-      "indices": [
+        151,
+        89,
+        51,
         163,
-        4,
-        85,
-        79,
-        52,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        55,
-        16,
-        119,
-        35,
-        3,
-        12,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authored",
-      "answer_letters": "AUTHORED",
-      "indices": [
-        39,
-        73,
-        166,
-        68,
-        82,
-        14,
-        105,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "melody",
-      "answer_letters": "MELODY",
-      "indices": [
-        144,
-        9,
-        87,
-        122,
-        106,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        25,
-        152,
-        155,
-        131,
-        50,
-        65,
-        5
+        71,
+        152
       ]
     },
     {
@@ -123,162 +22,263 @@
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
-        136,
-        6,
-        20,
-        15,
-        165,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thinks",
-      "answer_letters": "THINKS",
-      "indices": [
-        28,
-        75,
         147,
-        115,
-        104,
-        103
+        6,
+        63,
+        45,
+        165,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
+      "answer": "locals",
+      "answer_letters": "LOCALS",
       "indices": [
-        62,
-        32,
-        74,
-        71,
-        129,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elites",
-      "answer_letters": "ELITES",
-      "indices": [
-        97,
-        113,
-        143,
-        130,
-        21,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rational",
-      "answer_letters": "RATIONAL",
-      "indices": [
-        72,
-        24,
-        57,
-        42,
+        60,
         156,
-        96,
-        77,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "jerseys",
-      "answer_letters": "JERSEYS",
-      "indices": [
-        31,
-        58,
-        8,
-        125,
-        100,
-        94,
+        33,
+        139,
+        113,
         46
       ]
     },
     {
       "clue": null,
-      "answer": "auburn",
-      "answer_letters": "AUBURN",
+      "answer": "liaison",
+      "answer_letters": "LIAISON",
       "indices": [
-        92,
-        83,
-        23,
-        123,
-        124,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chechen",
-      "answer_letters": "CHECHEN",
-      "indices": [
-        13,
-        160,
-        126,
-        121,
-        76,
-        111,
+        87,
+        143,
+        35,
+        0,
+        103,
+        116,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
+      "answer": "inherited",
+      "answer_letters": "INHERITED",
       "indices": [
-        34,
-        118,
-        17,
+        42,
+        115,
+        132,
+        9,
+        8,
+        86,
+        62,
+        105,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anybody",
+      "answer_letters": "ANYBODY",
+      "indices": [
+        145,
+        140,
+        155,
+        23,
+        82,
+        164,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matteo",
+      "answer_letters": "MATTEO",
+      "indices": [
+        144,
+        77,
+        130,
+        74,
+        21,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        44,
+        75,
+        37,
+        28,
+        160,
+        65,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issued",
+      "answer_letters": "ISSUED",
+      "indices": [
+        55,
+        16,
+        125,
+        109,
+        7,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        67,
+        3,
         161,
+        157,
+        146,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "taiwan",
+      "answer_letters": "TAIWAN",
+      "indices": [
+        131,
+        12,
+        110,
+        2,
+        24,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "equally",
+      "answer_letters": "EQUALLY",
+      "indices": [
+        69,
+        108,
+        73,
+        39,
+        59,
+        52,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "resolved",
+      "answer_letters": "RESOLVED",
+      "indices": [
+        14,
+        58,
+        40,
+        122,
+        53,
         78,
+        126,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "jericho",
+      "answer_letters": "JERICHO",
+      "indices": [
+        31,
+        149,
+        124,
+        4,
+        138,
+        99,
         29
       ]
     },
     {
       "clue": null,
-      "answer": "audiences",
-      "answer_letters": "AUDIENCES",
+      "answer": "annette",
+      "answer_letters": "ANNETTE",
       "indices": [
-        51,
-        162,
-        10,
-        86,
-        69,
-        140,
-        33,
+        92,
+        96,
+        134,
         133,
-        26
+        19,
+        57,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "behest",
-      "answer_letters": "BEHEST",
+      "answer": "cheney",
+      "answer_letters": "CHENEY",
+      "indices": [
+        121,
+        76,
+        64,
+        93,
+        79,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kisses",
+      "answer_letters": "KISSES",
+      "indices": [
+        85,
+        136,
+        26,
+        5,
+        111,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "author",
+      "answer_letters": "AUTHOR",
+      "indices": [
+        32,
+        83,
+        141,
+        50,
+        118,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "backstroke",
+      "answer_letters": "BACKSTROKE",
       "indices": [
         36,
-        7,
-        63,
-        47,
-        159,
-        141
+        102,
+        13,
+        34,
+        49,
+        166,
+        25,
+        129,
+        104,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "youthful",
+      "answer_letters": "YOUTHFUL",
       "indices": [
-        153,
-        45,
-        109,
-        19,
-        99,
-        49
+        81,
+        95,
+        162,
+        112,
+        68,
+        119,
+        123,
+        88
       ]
     }
   ],

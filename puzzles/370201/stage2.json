@@ -6,58 +6,65 @@
   "clues": [
     {
       "clue": null,
-      "answer": "verses",
-      "answer_letters": "VERSES",
+      "answer": "vertebrates",
+      "answer_letters": "VERTEBRATES",
       "indices": [
         106,
-        53,
-        86,
-        108,
-        101,
+        16,
+        32,
+        89,
+        69,
+        143,
+        92,
+        176,
+        183,
+        107,
         103
       ]
     },
     {
       "clue": null,
-      "answer": "europa",
-      "answer_letters": "EUROPA",
+      "answer": "eastenders",
+      "answer_letters": "EASTENDERS",
       "indices": [
-        77,
-        186,
-        174,
-        10,
-        135,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
-      "indices": [
-        92,
-        131,
-        189,
-        169,
         138,
-        32,
-        180,
-        5,
-        58
+        38,
+        93,
+        29,
+        53,
+        42,
+        172,
+        111,
+        86,
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "outpost",
-      "answer_letters": "OUTPOST",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
-        41,
-        122,
-        179,
-        63,
-        165,
-        76,
-        177
+        46,
+        180,
+        9,
+        44,
+        159,
+        102,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opposed",
+      "answer_letters": "OPPOSED",
+      "indices": [
+        88,
+        123,
+        135,
+        125,
+        108,
+        181,
+        52
       ]
     },
     {
@@ -65,70 +72,65 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        12,
-        173,
-        110,
-        30,
-        107,
+        95,
+        91,
+        124,
+        151,
+        119,
         2
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
       "indices": [
         136,
-        43,
-        156,
-        133,
-        151,
-        38,
-        6
+        63,
+        25,
+        41,
+        6,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "cemetery",
-      "answer_letters": "CEMETERY",
+      "answer": "cheese",
+      "answer_letters": "CHEESE",
       "indices": [
         145,
-        144,
-        4,
-        45,
-        99,
-        57,
-        68,
-        7
+        0,
+        84,
+        173,
+        36,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "annette",
-      "answer_letters": "ANNETTE",
+      "answer": "arthur",
+      "answer_letters": "ARTHUR",
       "indices": [
-        85,
-        49,
-        17,
-        33,
-        158,
-        150,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remedies",
-      "answer_letters": "REMEDIES",
-      "indices": [
+        5,
         118,
+        189,
+        188,
+        186,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refused",
+      "answer_letters": "REFUSED",
+      "indices": [
+        154,
         160,
-        40,
-        65,
-        171,
-        51,
-        104,
-        93
+        83,
+        11,
+        43,
+        31,
+        128
       ]
     },
     {
@@ -136,71 +138,55 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        185,
-        83,
+        165,
         19,
+        156,
         162,
-        0,
-        75,
+        184,
+        10,
+        185,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tomato",
+      "answer_letters": "TOMATO",
+      "indices": [
+        158,
         96,
-        89
+        4,
+        117,
+        27,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "tempest",
-      "answer_letters": "TEMPEST",
+      "answer": "heather",
+      "answer_letters": "HEATHER",
       "indices": [
-        140,
-        111,
-        147,
-        74,
-        91,
-        50,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hemisphere",
-      "answer_letters": "HEMISPHERE",
-      "indices": [
-        56,
-        69,
-        15,
-        35,
-        126,
-        73,
-        159,
-        115,
-        46,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "absurd",
-      "answer_letters": "ABSURD",
-      "indices": [
-        67,
-        143,
-        134,
-        170,
-        154,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laptop",
-      "answer_letters": "LAPTOP",
-      "indices": [
-        105,
+        90,
+        33,
         21,
-        124,
-        97,
-        62,
-        60
+        130,
+        169,
+        65,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attempt",
+      "answer_letters": "ATTEMPT",
+      "indices": [
+        133,
+        80,
+        99,
+        144,
+        147,
+        60,
+        55
       ]
     },
     {
@@ -208,104 +194,118 @@
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
-        64,
-        20,
-        71,
-        1,
-        183,
-        100,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entrusted",
-      "answer_letters": "ENTRUSTED",
-      "indices": [
+        105,
         148,
-        42,
-        24,
-        161,
-        72,
         121,
-        27,
-        31,
-        78
+        141,
+        140,
+        56,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
+      "answer": "lumpur",
+      "answer_letters": "LUMPUR",
       "indices": [
-        187,
-        88,
-        119,
-        166,
-        188,
-        61
+        64,
+        72,
+        40,
+        74,
+        122,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "issued",
-      "answer_letters": "ISSUED",
+      "answer": "endorsement",
+      "answer_letters": "ENDORSEMENT",
       "indices": [
-        153,
-        36,
+        20,
+        49,
+        78,
+        112,
+        68,
         168,
-        11,
-        16,
-        128
+        57,
+        58,
+        104,
+        17,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "apartheid",
-      "answer_letters": "APARTHEID",
+      "answer": "giuseppe",
+      "answer_letters": "GIUSEPPE",
       "indices": [
-        117,
-        123,
-        176,
-        22,
-        44,
-        90,
-        127,
-        48,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northampton",
-      "answer_letters": "NORTHAMPTON",
-      "indices": [
-        95,
-        81,
-        137,
-        80,
-        184,
-        26,
-        102,
+        13,
+        51,
+        170,
+        134,
+        115,
+        73,
         113,
-        130,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ideologies",
+      "answer_letters": "IDEOLOGIES",
+      "indices": [
+        48,
+        171,
+        77,
         146,
+        114,
+        75,
+        187,
+        153,
+        45,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "asthma",
+      "answer_letters": "ASTHMA",
+      "indices": [
+        85,
+        126,
+        179,
+        30,
+        15,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notation",
+      "answer_letters": "NOTATION",
+      "indices": [
+        12,
+        81,
+        166,
+        26,
+        97,
+        35,
+        1,
         164
       ]
     },
     {
       "clue": null,
-      "answer": "theology",
-      "answer_letters": "THEOLOGY",
+      "answer": "therapy",
+      "answer_letters": "THERAPY",
       "indices": [
-        29,
-        25,
-        152,
-        141,
-        114,
-        125,
-        13,
-        9
+        24,
+        100,
+        61,
+        22,
+        67,
+        110,
+        7
       ]
     }
   ],

@@ -6,15 +6,226 @@
   "clues": [
     {
       "clue": null,
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
+      "answer": "mauritania",
+      "answer_letters": "MAURITANIA",
+      "indices": [
+        93,
+        105,
+        91,
+        95,
+        133,
+        142,
+        98,
+        134,
+        64,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invest",
+      "answer_letters": "INVEST",
+      "indices": [
+        6,
+        69,
+        74,
+        144,
+        140,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
+      "indices": [
+        55,
+        50,
+        99,
+        131,
+        45,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luther",
+      "answer_letters": "LUTHER",
+      "indices": [
+        61,
+        59,
+        167,
+        1,
+        149,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ignacio",
+      "answer_letters": "IGNACIO",
+      "indices": [
+        119,
+        12,
+        159,
+        73,
+        57,
+        102,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chengdu",
+      "answer_letters": "CHENGDU",
+      "indices": [
+        125,
+        115,
+        75,
+        111,
+        160,
+        70,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        100,
+        42,
+        23,
+        29,
+        143,
+        14,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norton",
+      "answer_letters": "NORTON",
+      "indices": [
+        153,
+        37,
+        13,
+        110,
+        184,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "towers",
+      "answer_letters": "TOWERS",
+      "indices": [
+        31,
+        176,
+        63,
+        112,
+        113,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chased",
+      "answer_letters": "CHASED",
+      "indices": [
+        22,
+        123,
+        108,
+        135,
+        66,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aubrey",
+      "answer_letters": "AUBREY",
+      "indices": [
+        94,
+        40,
+        175,
+        150,
+        139,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "repeat",
+      "answer_letters": "REPEAT",
+      "indices": [
+        109,
+        128,
+        41,
+        56,
+        47,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exhibit",
+      "answer_letters": "EXHIBIT",
+      "indices": [
+        27,
+        21,
+        148,
+        158,
+        156,
+        168,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yourself",
+      "answer_letters": "YOURSELF",
+      "indices": [
+        183,
+        180,
+        165,
+        164,
+        114,
+        20,
+        54,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "minute",
+      "answer_letters": "MINUTE",
       "indices": [
         26,
-        176,
-        31,
-        180,
-        122,
-        153
+        137,
+        51,
+        82,
+        58,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "corporations",
+      "answer_letters": "CORPORATIONS",
+      "indices": [
+        130,
+        173,
+        44,
+        84,
+        85,
+        157,
+        152,
+        24,
+        124,
+        10,
+        120,
+        81
       ]
     },
     {
@@ -22,294 +233,83 @@
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
-        116,
-        84,
+        166,
+        117,
         72,
-        10,
-        159,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laughs",
-      "answer_letters": "LAUGHS",
-      "indices": [
-        55,
-        15,
-        91,
-        12,
-        178,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leverage",
-      "answer_letters": "LEVERAGE",
-      "indices": [
-        54,
-        144,
-        74,
-        75,
-        95,
-        47,
-        160,
+        169,
+        170,
         53
       ]
     },
     {
       "clue": null,
-      "answer": "indira",
-      "answer_letters": "INDIRA",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
-        50,
-        69,
-        154,
-        119,
-        3,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cipher",
-      "answer_letters": "CIPHER",
-      "indices": [
-        130,
-        133,
-        83,
-        148,
-        66,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        149,
-        181,
-        163,
-        184,
+        9,
+        90,
         86,
-        167
+        52,
+        126,
+        122,
+        25,
+        103,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
+      "answer": "tariff",
+      "answer_letters": "TARIFF",
       "indices": [
-        28,
-        108,
-        16,
-        123,
-        129,
+        172,
+        15,
+        138,
+        116,
+        163,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orphan",
+      "answer_letters": "ORPHAN",
+      "indices": [
+        43,
+        3,
+        107,
+        77,
+        33,
         48
       ]
     },
     {
       "clue": null,
-      "answer": "thirteen",
-      "answer_letters": "THIRTEEN",
+      "answer": "stephanie",
+      "answer_letters": "STEPHANIE",
       "indices": [
-        142,
-        1,
-        137,
-        138,
-        0,
-        20,
-        4,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "copper",
-      "answer_letters": "COPPER",
-      "indices": [
-        125,
-        169,
-        117,
-        107,
-        78,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "athens",
-      "answer_letters": "ATHENS",
-      "indices": [
-        60,
-        36,
-        77,
-        128,
-        9,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roberto",
-      "answer_letters": "ROBERTO",
-      "indices": [
-        96,
-        85,
-        156,
-        100,
-        157,
-        87,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editorial",
-      "answer_letters": "EDITORIAL",
-      "indices": [
-        25,
-        70,
-        102,
-        58,
-        146,
-        18,
-        124,
-        105,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        183,
-        33,
-        57,
-        115,
-        45,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "moisture",
-      "answer_letters": "MOISTURE",
-      "indices": [
-        93,
-        90,
-        6,
-        135,
-        29,
-        82,
-        113,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chieftain",
-      "answer_letters": "CHIEFTAIN",
-      "indices": [
-        22,
-        131,
-        97,
-        17,
-        65,
-        177,
-        68,
-        64,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhibitor",
-      "answer_letters": "INHIBITOR",
-      "indices": [
-        23,
-        34,
-        143,
-        166,
-        175,
-        158,
+        161,
         147,
-        173,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newspaper",
-      "answer_letters": "NEWSPAPER",
-      "indices": [
-        111,
-        112,
-        63,
-        103,
-        41,
-        94,
-        42,
-        56,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trustees",
-      "answer_letters": "TRUSTEES",
-      "indices": [
-        110,
-        44,
-        40,
-        39,
-        24,
-        139,
         2,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
-        43,
-        59,
-        52,
-        136,
-        165,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shaanxi",
-      "answer_letters": "SHAANXI",
-      "indices": [
-        114,
+        83,
         32,
-        98,
-        73,
-        51,
-        21,
-        168
+        68,
+        34,
+        97,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "hungry",
-      "answer_letters": "HUNGRY",
+      "answer": "harper",
+      "answer_letters": "HARPER",
       "indices": [
-        126,
-        185,
-        120,
-        99,
+        178,
+        60,
         79,
-        89
+        136,
+        78,
+        96
       ]
     }
   ],

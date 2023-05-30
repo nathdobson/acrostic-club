@@ -6,16 +6,139 @@
   "clues": [
     {
       "clue": null,
-      "answer": "console",
-      "answer_letters": "CONSOLE",
+      "answer": "corbett",
+      "answer_letters": "CORBETT",
       "indices": [
         33,
+        152,
+        64,
+        12,
+        173,
+        121,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abuses",
+      "answer_letters": "ABUSES",
+      "indices": [
+        88,
+        11,
+        140,
+        79,
+        6,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invention",
+      "answer_letters": "INVENTION",
+      "indices": [
+        90,
+        95,
+        104,
+        58,
+        36,
+        37,
+        66,
+        123,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-hour",
+      "answer_letters": "TWOHOUR",
+      "indices": [
+        108,
+        41,
+        71,
+        60,
         52,
-        119,
-        51,
-        29,
-        106,
-        167
+        135,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "logged",
+      "answer_letters": "LOGGED",
+      "indices": [
+        151,
+        34,
+        154,
+        78,
+        149,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issues",
+      "answer_letters": "ISSUES",
+      "indices": [
+        63,
+        83,
+        72,
+        85,
+        103,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northern",
+      "answer_letters": "NORTHERN",
+      "indices": [
+        67,
+        134,
+        102,
+        156,
+        148,
+        19,
+        166,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monkey",
+      "answer_letters": "MONKEY",
+      "indices": [
+        81,
+        23,
+        179,
+        44,
+        130,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
+        110,
+        84,
+        122,
+        118,
+        129,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
+      "indices": [
+        86,
+        35,
+        59,
+        128,
+        114,
+        142
       ]
     },
     {
@@ -23,282 +146,39 @@
       "answer": "athlete",
       "answer_letters": "ATHLETE",
       "indices": [
-        169,
-        108,
-        128,
-        75,
-        130,
-        121,
-        114
+        163,
+        115,
+        70,
+        106,
+        167,
+        162,
+        26
       ]
     },
     {
       "clue": null,
-      "answer": "ignore",
-      "answer_letters": "IGNORE",
+      "answer": "nobles",
+      "answer_letters": "NOBLES",
       "indices": [
-        63,
-        78,
-        17,
-        34,
-        3,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "turkey's",
-      "answer_letters": "TURKEYS",
-      "indices": [
-        49,
-        107,
-        166,
-        5,
-        125,
-        133,
+        119,
+        139,
+        113,
+        28,
+        100,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "lethal",
-      "answer_letters": "LETHAL",
+      "answer": "minute",
+      "answer_letters": "MINUTE",
       "indices": [
-        28,
-        100,
-        162,
-        70,
-        163,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        66,
-        161,
-        94,
-        144,
-        82,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nowhere",
-      "answer_letters": "NOWHERE",
-      "indices": [
-        30,
-        123,
-        116,
-        99,
-        157,
-        57,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mutant",
-      "answer_letters": "MUTANT",
-      "indices": [
-        81,
-        135,
-        22,
-        42,
-        36,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "osborn",
-      "answer_letters": "OSBORN",
-      "indices": [
-        1,
-        83,
-        11,
-        105,
-        86,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
-      "indices": [
-        158,
-        134,
-        113,
-        12,
-        171,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aubrey",
-      "answer_letters": "AUBREY",
-      "indices": [
-        88,
-        35,
-        25,
-        64,
-        14,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        95,
-        103,
-        41,
-        19,
-        72,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "methyl",
-      "answer_letters": "METHYL",
-      "indices": [
-        53,
-        117,
-        156,
-        60,
-        39,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-story",
-      "answer_letters": "ONESTORY",
-      "indices": [
-        71,
-        111,
-        149,
-        79,
-        84,
-        110,
-        38,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robots",
-      "answer_letters": "ROBOTS",
-      "indices": [
-        129,
-        23,
-        87,
-        139,
-        69,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ardent",
-      "answer_letters": "ARDENT",
-      "indices": [
-        178,
-        102,
-        96,
-        48,
-        145,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "negative",
-      "answer_letters": "NEGATIVE",
-      "indices": [
-        153,
-        26,
-        154,
-        62,
-        37,
-        90,
-        104,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insights",
-      "answer_letters": "INSIGHTS",
-      "indices": [
-        13,
-        67,
-        59,
-        109,
-        31,
-        122,
-        98,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fungus",
-      "answer_letters": "FUNGUS",
-      "indices": [
-        56,
-        76,
-        92,
-        47,
-        2,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        180,
-        20,
         159,
-        85,
-        179,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shelley",
-      "answer_letters": "SHELLEY",
-      "indices": [
-        124,
-        138,
-        131,
-        151,
-        174,
-        18,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
-      "indices": [
-        147,
-        9,
-        58,
-        7,
-        172,
-        73
+        13,
+        77,
+        2,
+        49,
+        131
       ]
     },
     {
@@ -306,13 +186,133 @@
       "answer": "outlook",
       "answer_letters": "OUTLOOK",
       "indices": [
-        91,
-        140,
-        115,
-        43,
-        152,
         10,
-        44
+        76,
+        69,
+        174,
+        91,
+        29,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "relying",
+      "answer_letters": "RELYING",
+      "indices": [
+        38,
+        14,
+        75,
+        133,
+        144,
+        92,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        169,
+        111,
+        7,
+        116,
+        42,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nevada",
+      "answer_letters": "NEVADA",
+      "indices": [
+        145,
+        73,
+        172,
+        62,
+        20,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "iberia",
+      "answer_letters": "IBERIA",
+      "indices": [
+        109,
+        87,
+        125,
+        57,
+        171,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "forsyth",
+      "answer_letters": "FORSYTH",
+      "indices": [
+        56,
+        1,
+        158,
+        124,
+        39,
+        22,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elegant",
+      "answer_letters": "ELEGANT",
+      "indices": [
+        18,
+        43,
+        180,
+        31,
+        82,
+        17,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shelby",
+      "answer_letters": "SHELBY",
+      "indices": [
+        15,
+        9,
+        48,
+        168,
+        25,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "themes",
+      "answer_letters": "THEMES",
+      "indices": [
+        170,
+        99,
+        117,
+        53,
+        157,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
+      "indices": [
+        105,
+        107,
+        147,
+        141,
+        54,
+        98
       ]
     }
   ],

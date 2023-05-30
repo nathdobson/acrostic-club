@@ -6,19 +6,18 @@
   "clues": [
     {
       "clue": null,
-      "answer": "amendments",
-      "answer_letters": "AMENDMENTS",
+      "answer": "amusement",
+      "answer_letters": "AMUSEMENT",
       "indices": [
-        113,
-        101,
-        44,
-        149,
-        124,
-        132,
-        167,
-        166,
-        42,
-        79
+        27,
+        162,
+        127,
+        79,
+        96,
+        62,
+        29,
+        9,
+        42
       ]
     },
     {
@@ -26,55 +25,63 @@
       "answer": "nicholson",
       "answer_letters": "NICHOLSON",
       "indices": [
-        89,
+        149,
         61,
-        147,
-        43,
-        47,
-        36,
-        57,
-        24,
-        40
+        80,
+        109,
+        83,
+        174,
+        159,
+        185,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "dalton",
-      "answer_letters": "DALTON",
+      "answer": "dimensional",
+      "answer_letters": "DIMENSIONAL",
       "indices": [
         97,
-        151,
-        84,
-        23,
-        1,
-        65
+        73,
+        132,
+        138,
+        166,
+        57,
+        143,
+        24,
+        65,
+        169,
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "right-hand",
+      "answer_letters": "RIGHTHAND",
       "indices": [
-        48,
-        99,
-        153,
-        91,
+        55,
+        182,
+        164,
         34,
-        46
+        76,
+        99,
+        148,
+        49,
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "emotion",
-      "answer_letters": "EMOTION",
+      "answer": "edition",
+      "answer_letters": "EDITION",
       "indices": [
-        29,
-        162,
+        16,
+        54,
+        131,
+        70,
+        161,
         155,
-        114,
-        100,
-        178,
-        123
+        40
       ]
     },
     {
@@ -83,121 +90,182 @@
       "answer_letters": "WHITEHEAD",
       "indices": [
         26,
-        109,
-        161,
-        183,
-        138,
         184,
-        116,
-        27,
+        165,
+        110,
+        14,
+        87,
+        95,
+        163,
         139
       ]
     },
     {
       "clue": null,
-      "answer": "buddhist",
-      "answer_letters": "BUDDHIST",
+      "answer": "booking",
+      "answer_letters": "BOOKING",
       "indices": [
-        137,
-        127,
-        37,
-        179,
-        172,
-        107,
-        141,
-        11
+        13,
+        1,
+        135,
+        28,
+        173,
+        123,
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "rematch",
-      "answer_letters": "REMATCH",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        55,
-        14,
-        62,
-        169,
-        70,
-        33,
-        87
+        48,
+        115,
+        153,
+        11,
+        176,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "identification",
-      "answer_letters": "IDENTIFICATION",
+      "answer": "intense",
+      "answer_letters": "INTENSE",
       "indices": [
-        182,
-        175,
-        88,
-        51,
-        86,
-        35,
-        156,
         39,
-        171,
-        31,
-        190,
+        106,
+        23,
+        116,
+        51,
+        141,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        66,
+        19,
+        0,
+        186,
+        142,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        52,
+        47,
+        187,
+        21,
+        64,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        56,
+        36,
+        145,
         50,
         177,
-        17
+        114,
+        183
       ]
     },
     {
       "clue": null,
-      "answer": "demolish",
-      "answer_letters": "DEMOLISH",
+      "answer": "high-tech",
+      "answer_letters": "HIGHTECH",
       "indices": [
-        54,
-        96,
-        120,
-        135,
-        0,
-        143,
-        58,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ghanaian",
-      "answer_letters": "GHANAIAN",
-      "indices": [
+        130,
+        35,
         108,
-        118,
-        122,
-        106,
-        103,
+        43,
+        134,
+        44,
+        33,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obligation",
+      "answer_letters": "OBLIGATION",
+      "indices": [
+        178,
+        112,
+        144,
         189,
-        6,
+        68,
+        31,
+        190,
+        100,
+        82,
         152
       ]
     },
     {
       "clue": null,
-      "answer": "emitted",
-      "answer_letters": "EMITTED",
+      "answer": "podium",
+      "answer_letters": "PODIUM",
       "indices": [
-        95,
-        5,
-        73,
-        110,
-        128,
-        16,
-        66
+        126,
+        18,
+        175,
+        119,
+        158,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "hawaii",
-      "answer_letters": "HAWAII",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
       "indices": [
-        115,
-        64,
+        88,
+        94,
+        156,
+        3,
+        147,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "smooth",
+      "answer_letters": "SMOOTH",
+      "indices": [
+        58,
+        5,
+        92,
+        77,
+        128,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bandwidth",
+      "answer_letters": "BANDWIDTH",
+      "indices": [
+        137,
+        113,
+        89,
+        124,
         181,
-        148,
-        173,
-        131
+        107,
+        37,
+        91,
+        118
       ]
     },
     {
@@ -205,93 +273,25 @@
       "answer": "octave",
       "answer_letters": "OCTAVE",
       "indices": [
-        185,
-        80,
-        76,
-        163,
-        2,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pokémon",
-      "answer_letters": "POKEMON",
-      "indices": [
-        126,
-        82,
-        28,
-        69,
-        74,
-        92,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        3,
-        165,
-        52,
-        72,
-        104,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "slight",
-      "answer_letters": "SLIGHT",
-      "indices": [
-        159,
-        145,
-        119,
-        20,
-        21,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bought",
-      "answer_letters": "BOUGHT",
-      "indices": [
-        13,
         10,
-        19,
-        68,
-        60,
-        187
+        171,
+        104,
+        6,
+        2,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
-      "indices": [
-        83,
-        112,
-        174,
-        18,
-        9,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
       "indices": [
         7,
-        77,
-        158,
-        142,
-        176,
-        94,
-        186,
-        144
+        103,
+        120,
+        122,
+        72,
+        151
       ]
     }
   ],

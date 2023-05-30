@@ -6,184 +6,183 @@
   "clues": [
     {
       "clue": null,
-      "answer": "attach",
-      "answer_letters": "ATTACH",
+      "answer": "ancient",
+      "answer_letters": "ANCIENT",
       "indices": [
         99,
-        81,
-        23,
-        15,
-        2,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        120,
-        48,
-        106,
-        170,
-        186,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nineteenth",
-      "answer_letters": "NINETEENTH",
-      "indices": [
-        153,
-        127,
-        181,
-        109,
-        107,
-        83,
-        133,
-        64,
-        179,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gottlieb",
-      "answer_letters": "GOTTLIEB",
-      "indices": [
-        169,
-        38,
-        80,
-        113,
-        30,
-        59,
-        138,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        108,
         17,
-        62,
-        51,
-        78,
-        25,
-        54,
-        12,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "makeshift",
-      "answer_letters": "MAKESHIFT",
-      "indices": [
-        105,
-        177,
-        58,
-        98,
-        43,
-        156,
+        134,
         112,
-        146,
+        186,
+        21,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "photographed",
-      "answer_letters": "PHOTOGRAPHED",
+      "answer": "neptune",
+      "answer_letters": "NEPTUNE",
       "indices": [
+        97,
+        130,
         142,
-        150,
-        79,
-        154,
-        35,
+        123,
+        168,
+        94,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neither",
+      "answer_letters": "NEITHER",
+      "indices": [
+        26,
+        12,
+        127,
+        113,
+        170,
+        162,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
+      "indices": [
         27,
-        100,
-        90,
-        159,
-        137,
-        117,
-        144
+        62,
+        109,
+        187,
+        173,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "answer": "inhabitants",
+      "answer_letters": "INHABITANTS",
       "indices": [
-        1,
-        158,
         72,
-        115,
-        116,
-        104,
-        173
+        181,
+        55,
+        76,
+        0,
+        108,
+        183,
+        157,
+        64,
+        23,
+        5
       ]
     },
     {
       "clue": null,
-      "answer": "latter-day",
-      "answer_letters": "LATTERDAY",
+      "answer": "methodist",
+      "answer_letters": "METHODIST",
       "indices": [
-        69,
-        20,
-        60,
-        34,
-        6,
-        11,
-        110,
-        67,
-        185
+        88,
+        48,
+        54,
+        124,
+        35,
+        152,
+        59,
+        122,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
+      "answer": "pockets",
+      "answer_letters": "POCKETS",
+      "indices": [
+        158,
+        85,
+        2,
+        58,
+        98,
+        66,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elisabeth",
+      "answer_letters": "ELISABETH",
       "indices": [
         121,
-        131,
-        132,
-        10,
-        128,
-        52,
-        16
+        30,
+        25,
+        178,
+        172,
+        68,
+        138,
+        115,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "attached",
-      "answer_letters": "ATTACHED",
+      "answer": "lafayette",
+      "answer_letters": "LAFAYETTE",
       "indices": [
-        157,
-        18,
-        73,
-        3,
-        134,
+        175,
+        177,
+        146,
+        20,
+        22,
+        143,
+        135,
+        46,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elephant",
+      "answer_letters": "ELEPHANT",
+      "indices": [
+        125,
+        82,
+        83,
+        159,
+        40,
+        15,
+        120,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
+      "indices": [
+        119,
+        69,
+        34,
+        140,
+        38,
+        4,
+        169,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
+      "indices": [
+        100,
+        182,
+        60,
         74,
-        176,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rematch",
-      "answer_letters": "REMATCH",
-      "indices": [
-        148,
-        89,
-        88,
-        76,
-        165,
-        61,
-        124
+        70,
+        11,
+        166,
+        93,
+        105
       ]
     },
     {
@@ -191,44 +190,40 @@
       "answer": "tweeted",
       "answer_letters": "TWEETED",
       "indices": [
-        126,
-        71,
-        125,
-        56,
-        135,
-        162,
-        152
+        18,
+        14,
+        117,
+        63,
+        81,
+        160,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "haunted",
-      "answer_letters": "HAUNTED",
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
       "indices": [
-        55,
-        172,
-        4,
-        97,
-        123,
-        143,
-        163
+        150,
+        44,
+        102,
+        49,
+        90,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "shenandoah",
-      "answer_letters": "SHENANDOAH",
+      "answer": "spotted",
+      "answer_letters": "SPOTTED",
       "indices": [
-        31,
-        40,
-        29,
-        94,
-        93,
-        161,
-        91,
-        85,
-        151,
-        9
+        43,
+        106,
+        79,
+        73,
+        8,
+        41,
+        95
       ]
     },
     {
@@ -236,67 +231,72 @@
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
-        0,
-        32,
-        66,
-        140,
-        44,
-        175
+        78,
+        1,
+        80,
+        9,
+        56,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "loyalty",
-      "answer_letters": "LOYALTY",
+      "answer": "left-handed",
+      "answer_letters": "LEFTHANDED",
       "indices": [
-        82,
-        167,
-        22,
-        119,
         47,
-        8,
-        102
+        29,
+        131,
+        165,
+        24,
+        151,
+        161,
+        91,
+        10,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "oneself",
-      "answer_letters": "ONESELF",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
       "indices": [
-        141,
-        21,
-        41,
-        122,
-        130,
-        101,
-        86
+        167,
+        107,
+        179,
+        3,
+        71,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
+      "answer": "offences",
+      "answer_letters": "OFFENCES",
       "indices": [
-        182,
-        168,
-        187,
-        178,
-        160,
-        183
+        147,
+        132,
+        86,
+        176,
+        153,
+        61,
+        6,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "denotes",
-      "answer_letters": "DENOTES",
+      "answer": "detached",
+      "answer_letters": "DETACHED",
       "indices": [
         37,
-        70,
-        26,
-        147,
-        46,
-        63,
-        5
+        32,
+        154,
+        67,
+        128,
+        137,
+        104,
+        163
       ]
     }
   ],

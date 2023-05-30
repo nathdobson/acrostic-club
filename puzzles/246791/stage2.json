@@ -6,96 +6,64 @@
   "clues": [
     {
       "clue": null,
-      "answer": "survived",
-      "answer_letters": "SURVIVED",
+      "answer": "shadow",
+      "answer_letters": "SHADOW",
       "indices": [
-        4,
-        65,
-        134,
-        102,
-        162,
-        53,
-        108,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
-      "indices": [
-        59,
-        137,
-        163,
-        135,
-        37,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hollow",
-      "answer_letters": "HOLLOW",
-      "indices": [
-        120,
-        52,
-        66,
-        97,
-        64,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        40,
         147,
-        115,
-        121,
+        167,
+        72,
+        98,
+        95,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everything",
+      "answer_letters": "EVERYTHING",
+      "indices": [
+        136,
+        159,
+        2,
+        6,
+        90,
+        57,
+        15,
+        25,
+        137,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "half-brother",
+      "answer_letters": "HALFBROTHER",
+      "indices": [
+        38,
         158,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        21,
-        131,
-        123,
-        30,
-        44,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        82,
-        35,
-        106,
-        63,
-        101,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offered",
-      "answer_letters": "OFFERED",
-      "indices": [
-        140,
+        179,
         141,
-        133,
-        61,
-        1,
-        160,
-        32
+        46,
+        55,
+        52,
+        155,
+        157,
+        168,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "imagine",
+      "answer_letters": "IMAGINE",
+      "indices": [
+        175,
+        125,
+        3,
+        27,
+        135,
+        78,
+        160
       ]
     },
     {
@@ -103,14 +71,14 @@
       "answer": "nativity",
       "answer_letters": "NATIVITY",
       "indices": [
-        122,
-        20,
-        29,
-        175,
-        73,
-        25,
-        166,
-        50
+        21,
+        178,
+        13,
+        10,
+        17,
+        121,
+        119,
+        127
       ]
     },
     {
@@ -118,25 +86,165 @@
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
-        119,
-        157,
-        168,
-        143,
-        174,
-        54
+        41,
+        58,
+        112,
+        44,
+        53,
+        5
       ]
     },
     {
       "clue": null,
-      "answer": "hannah",
-      "answer_letters": "HANNAH",
+      "answer": "onward",
+      "answer_letters": "ONWARD",
       "indices": [
-        167,
-        3,
-        171,
+        106,
         12,
+        149,
+        126,
+        1,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nouveau",
+      "answer_letters": "NOUVEAU",
+      "indices": [
+        154,
+        150,
+        92,
+        102,
+        129,
+        115,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thyroid",
+      "answer_letters": "THYROID",
+      "indices": [
+        166,
+        71,
+        22,
+        146,
+        77,
+        40,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
+      "indices": [
+        100,
+        88,
+        143,
+        32,
+        101,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edmond",
+      "answer_letters": "EDMOND",
+      "indices": [
+        79,
+        48,
+        116,
+        144,
+        68,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obtaining",
+      "answer_letters": "OBTAINING",
+      "indices": [
+        140,
+        87,
+        110,
         85,
-        71
+        170,
+        26,
+        36,
+        171,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unlawful",
+      "answer_letters": "UNLAWFUL",
+      "indices": [
+        96,
+        122,
+        152,
+        16,
+        94,
+        133,
+        151,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thieves",
+      "answer_letters": "THIEVES",
+      "indices": [
+        82,
+        24,
+        81,
+        117,
+        73,
+        103,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shuttle",
+      "answer_letters": "SHUTTLE",
+      "indices": [
+        164,
+        111,
+        65,
+        23,
+        37,
+        97,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invited",
+      "answer_letters": "INVITED",
+      "indices": [
+        173,
+        107,
+        174,
+        162,
+        69,
+        54,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doomed",
+      "answer_letters": "DOOMED",
+      "indices": [
+        138,
+        64,
+        30,
+        43,
+        74,
+        49
       ]
     },
     {
@@ -144,150 +252,42 @@
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
-        2,
+        108,
         84,
-        87,
-        5,
-        98,
-        138,
-        88,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlawed",
-      "answer_letters": "OUTLAWED",
-      "indices": [
-        91,
-        177,
-        57,
-        179,
-        126,
-        94,
-        74,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uneven",
-      "answer_letters": "UNEVEN",
-      "indices": [
-        145,
-        26,
-        103,
-        159,
-        117,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "throughout",
-      "answer_letters": "THROUGHOUT",
-      "indices": [
-        155,
-        38,
-        6,
-        150,
-        96,
-        0,
-        24,
-        95,
-        151,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sudbury",
-      "answer_letters": "SUDBURY",
-      "indices": [
-        164,
-        47,
-        105,
         128,
-        92,
-        60,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "initiative",
-      "answer_letters": "INITIATIVE",
-      "indices": [
-        10,
-        107,
-        81,
-        13,
-        170,
-        178,
-        23,
-        36,
-        17,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "demanded",
-      "answer_letters": "DEMANDED",
-      "indices": [
-        153,
-        136,
-        116,
-        16,
-        78,
-        9,
-        129,
+        61,
+        172,
+        11,
+        59,
         176
       ]
     },
     {
       "clue": null,
-      "answer": "embodied",
-      "answer_letters": "EMBODIED",
+      "answer": "roadway",
+      "answer_letters": "ROADWAY",
       "indices": [
-        18,
-        125,
-        46,
-        77,
-        67,
-        173,
-        112,
-        172
+        60,
+        91,
+        20,
+        9,
+        35,
+        131,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
       "indices": [
-        146,
-        15,
-        86,
-        41,
-        111,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stronghold",
-      "answer_letters": "STRONGHOLD",
-      "indices": [
-        114,
-        110,
-        55,
-        144,
-        68,
-        27,
-        58,
+        4,
+        120,
+        145,
+        163,
         33,
-        152,
-        48
+        177,
+        29
       ]
     }
   ],

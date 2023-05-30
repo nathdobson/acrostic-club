@@ -6,242 +6,146 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mobile",
-      "answer_letters": "MOBILE",
+      "answer": "michelle",
+      "answer_letters": "MICHELLE",
       "indices": [
-        99,
-        68,
-        64,
-        30,
-        37,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amended",
-      "answer_letters": "AMENDED",
-      "indices": [
-        65,
         140,
-        59,
-        15,
-        50,
-        97,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "revolver",
-      "answer_letters": "REVOLVER",
-      "indices": [
-        156,
-        127,
-        116,
-        75,
-        108,
-        180,
-        120,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "carlisle",
-      "answer_letters": "CARLISLE",
-      "indices": [
-        26,
-        115,
-        56,
-        6,
         38,
-        144,
-        52,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        146,
-        27,
-        101,
-        171,
-        136,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lifeboat",
-      "answer_letters": "LIFEBOAT",
-      "indices": [
+        92,
+        166,
+        120,
         80,
-        53,
-        35,
-        181,
-        125,
-        31,
-        81,
-        129
+        148,
+        55
       ]
     },
     {
       "clue": null,
-      "answer": "phones",
-      "answer_letters": "PHONES",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
+      "indices": [
+        57,
+        184,
+        102,
+        179,
+        69,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "relative",
+      "answer_letters": "RELATIVE",
+      "indices": [
+        162,
+        138,
+        6,
+        110,
+        159,
+        14,
+        150,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "coffee",
+      "answer_letters": "COFFEE",
+      "indices": [
+        82,
+        0,
+        35,
+        4,
+        5,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethernet",
+      "answer_letters": "ETHERNET",
+      "indices": [
+        151,
+        58,
+        46,
+        169,
+        168,
+        32,
+        121,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
+      "indices": [
+        52,
+        51,
+        132,
+        186,
+        29,
+        74,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "pharaoh",
+      "answer_letters": "PHARAOH",
       "indices": [
         79,
-        17,
+        96,
+        63,
+        182,
+        141,
         155,
-        1,
-        22,
-        95
+        43
       ]
     },
     {
       "clue": null,
-      "answer": "renovated",
-      "answer_letters": "RENOVATED",
+      "answer": "rabbits",
+      "answer_letters": "RABBITS",
       "indices": [
-        19,
-        134,
-        25,
-        34,
-        150,
-        105,
-        7,
-        55,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oceans",
-      "answer_letters": "OCEANS",
-      "indices": [
-        0,
-        82,
-        18,
-        110,
-        32,
+        21,
+        28,
+        119,
+        64,
+        27,
+        12,
         84
       ]
     },
     {
       "clue": null,
-      "answer": "unable",
-      "answer_letters": "UNABLE",
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
+        75,
+        73,
+        114,
+        161,
+        185,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uninhabited",
+      "answer_letters": "UNINHABITED",
       "indices": [
         24,
-        122,
-        141,
-        54,
-        126,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shafts",
-      "answer_letters": "SHAFTS",
-      "indices": [
-        111,
-        43,
-        28,
-        154,
-        184,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "theodore",
-      "answer_letters": "THEODORE",
-      "indices": [
-        73,
-        90,
-        117,
-        158,
-        152,
-        149,
-        182,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheriff",
-      "answer_letters": "SHERIFF",
-      "indices": [
-        76,
-        46,
-        169,
-        168,
-        86,
-        4,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whether",
-      "answer_letters": "WHETHER",
-      "indices": [
-        89,
-        102,
-        172,
-        29,
-        166,
-        70,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "albedo",
-      "answer_letters": "ALBEDO",
-      "indices": [
-        175,
-        60,
-        119,
-        133,
-        71,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neither",
-      "answer_letters": "NEITHER",
-      "indices": [
-        66,
-        161,
-        91,
-        58,
-        160,
-        51,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nineteenth",
-      "answer_letters": "NINETEENTH",
-      "indices": [
-        87,
-        100,
         23,
-        2,
-        12,
-        109,
-        44,
-        69,
-        112,
-        10
+        86,
+        142,
+        137,
+        105,
+        125,
+        53,
+        9,
+        97,
+        187
       ]
     },
     {
@@ -249,59 +153,155 @@
       "answer": "shenandoah",
       "answer_letters": "SHENANDOAH",
       "indices": [
-        132,
-        96,
+        76,
+        174,
         77,
-        142,
-        124,
-        178,
-        187,
-        186,
-        11,
-        145
+        15,
+        115,
+        122,
+        71,
+        149,
+        47,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "whitehead",
-      "answer_letters": "WHITEHEAD",
+      "answer": "techno",
+      "answer_letters": "TECHNO",
+      "indices": [
+        106,
+        172,
+        26,
+        93,
+        25,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheldon",
+      "answer_letters": "SHELDON",
+      "indices": [
+        163,
+        145,
+        134,
+        126,
+        176,
+        34,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "weights",
+      "answer_letters": "WEIGHTS",
+      "indices": [
+        89,
+        83,
+        30,
+        101,
+        160,
+        136,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "avoided",
+      "answer_letters": "AVOIDED",
+      "indices": [
+        175,
+        180,
+        158,
+        100,
+        67,
+        181,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
+      "indices": [
+        87,
+        2,
+        117,
+        152,
+        37,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "november",
+      "answer_letters": "NOVEMBER",
+      "indices": [
+        66,
+        68,
+        116,
+        133,
+        99,
+        54,
+        167,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheriff",
+      "answer_letters": "SHERIFF",
+      "indices": [
+        42,
+        17,
+        18,
+        156,
+        91,
+        154,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wealth",
+      "answer_letters": "WEALTH",
       "indices": [
         165,
-        114,
-        14,
+        59,
+        81,
+        108,
         103,
-        40,
-        74,
-        167,
-        47,
-        176
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "athlete",
-      "answer_letters": "ATHLETE",
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
       "indices": [
-        57,
-        106,
-        137,
-        148,
-        138,
-        9,
-        5
+        65,
+        112,
+        10,
+        60,
+        40,
+        129,
+        146,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "answer": "year-end",
+      "answer_letters": "YEAREND",
       "indices": [
         61,
-        63,
-        92,
-        93,
-        159,
-        42
+        44,
+        124,
+        19,
+        70,
+        178,
+        48
       ]
     }
   ],

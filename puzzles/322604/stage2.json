@@ -6,58 +6,58 @@
   "clues": [
     {
       "clue": null,
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
+      "answer": "emerge",
+      "answer_letters": "EMERGE",
       "indices": [
-        157,
-        165,
-        142,
-        32,
-        102,
         28,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mortgage",
-      "answer_letters": "MORTGAGE",
-      "indices": [
-        15,
-        58,
-        54,
-        49,
+        69,
+        36,
+        125,
         47,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "midway",
+      "answer_letters": "MIDWAY",
+      "indices": [
+        88,
+        100,
+        42,
+        38,
         97,
-        27,
-        84
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "modify",
-      "answer_letters": "MODIFY",
+      "answer": "mangrove",
+      "answer_letters": "MANGROVE",
       "indices": [
-        90,
+        22,
+        60,
+        149,
+        6,
+        26,
         39,
-        144,
-        148,
-        44,
-        86
+        119,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "alfredo",
-      "answer_letters": "ALFREDO",
+      "answer": "afforded",
+      "answer_letters": "AFFORDED",
       "indices": [
-        111,
-        41,
-        24,
-        85,
-        118,
-        124,
-        45
+        139,
+        74,
+        116,
+        32,
+        112,
+        142,
+        91,
+        135
       ]
     },
     {
@@ -66,199 +66,144 @@
       "answer_letters": "NEWTOWN",
       "indices": [
         92,
-        51,
+        70,
         2,
-        163,
-        115,
-        63,
-        149
+        12,
+        89,
+        170,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "interview",
+      "answer_letters": "INTERVIEW",
       "indices": [
-        21,
-        146,
-        138,
-        60,
-        150,
-        3
+        8,
+        165,
+        137,
+        126,
+        85,
+        52,
+        164,
+        73,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "converted",
-      "answer_letters": "CONVERTED",
+      "answer": "champion",
+      "answer_letters": "CHAMPION",
       "indices": [
         67,
-        7,
-        145,
-        83,
-        36,
-        26,
-        98,
-        18,
-        153
+        138,
+        161,
+        59,
+        110,
+        21,
+        25,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "homage",
-      "answer_letters": "HOMAGE",
+      "answer": "herbert",
+      "answer_letters": "HERBERT",
       "indices": [
         35,
-        169,
-        88,
-        108,
-        10,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
-      "indices": [
-        13,
-        152,
-        140,
-        74,
-        143,
+        77,
+        162,
+        72,
+        120,
+        76,
         31
       ]
     },
     {
       "clue": null,
-      "answer": "lombardy",
-      "answer_letters": "LOMBARDY",
+      "answer": "offered",
+      "answer_letters": "OFFERED",
+      "indices": [
+        115,
+        24,
+        44,
+        131,
+        54,
+        118,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "live-action",
+      "answer_letters": "LIVEACTION",
       "indices": [
         151,
-        25,
-        59,
-        72,
-        68,
-        162,
-        135,
-        122
+        148,
+        83,
+        80,
+        16,
+        150,
+        160,
+        0,
+        33,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "shinto",
-      "answer_letters": "SHINTO",
-      "indices": [
-        4,
-        130,
-        8,
-        9,
-        12,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "somewhere",
-      "answer_letters": "SOMEWHERE",
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
       "indices": [
         159,
-        75,
-        156,
-        120,
-        170,
-        133,
-        77,
-        46,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "improve",
-      "answer_letters": "IMPROVE",
-      "indices": [
-        100,
-        69,
-        110,
-        112,
+        64,
         65,
-        119,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "negative",
-      "answer_letters": "NEGATIVE",
-      "indices": [
-        105,
-        53,
-        166,
-        139,
+        45,
         29,
-        164,
-        52,
-        154
+        13,
+        152,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "aftermath",
-      "answer_letters": "AFTERMATH",
-      "indices": [
-        16,
-        116,
-        93,
-        70,
-        125,
-        128,
-        134,
-        160,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        95,
-        57,
-        89,
-        38,
-        161,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sumner",
-      "answer_letters": "SUMNER",
+      "answer": "somewhat",
+      "answer_letters": "SOMEWHAT",
       "indices": [
         104,
-        40,
-        22,
-        168,
-        126,
-        76
+        58,
+        128,
+        48,
+        57,
+        130,
+        127,
+        113
       ]
     },
     {
       "clue": null,
-      "answer": "eighteenth",
-      "answer_letters": "EIGHTEENTH",
+      "answer": "inmate",
+      "answer_letters": "INMATE",
       "indices": [
-        91,
-        0,
-        6,
-        20,
-        137,
-        131,
-        80,
+        143,
+        105,
+        79,
+        3,
+        146,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
         61,
-        113,
-        64
+        84,
+        163,
+        49,
+        51,
+        153
       ]
     },
     {
@@ -266,12 +211,67 @@
       "answer": "amtrak",
       "answer_letters": "AMTRAK",
       "indices": [
-        127,
-        79,
-        106,
-        121,
         103,
+        156,
+        140,
+        46,
+        111,
         17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "taught",
+      "answer_letters": "TAUGHT",
+      "indices": [
+        98,
+        134,
+        40,
+        10,
+        96,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showed",
+      "answer_letters": "SHOWED",
+      "indices": [
+        4,
+        133,
+        7,
+        102,
+        82,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "etymology",
+      "answer_letters": "ETYMOLOGY",
+      "indices": [
+        154,
+        95,
+        86,
+        90,
+        169,
+        41,
+        75,
+        166,
+        55
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "armagh",
+      "answer_letters": "ARMAGH",
+      "indices": [
+        68,
+        121,
+        15,
+        108,
+        27,
+        20
       ]
     }
   ],

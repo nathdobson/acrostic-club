@@ -6,104 +6,58 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lothian",
-      "answer_letters": "LOTHIAN",
+      "answer": "lokomotiv",
+      "answer_letters": "LOKOMOTIV",
       "indices": [
-        8,
-        148,
-        120,
-        134,
-        18,
-        146,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upbeat",
-      "answer_letters": "UPBEAT",
-      "indices": [
-        132,
-        93,
-        24,
-        175,
-        121,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "detroit",
-      "answer_letters": "DETROIT",
-      "indices": [
-        91,
-        117,
-        21,
-        39,
+        95,
+        48,
+        9,
         89,
-        33,
-        177
+        165,
+        148,
+        128,
+        66,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "without",
-      "answer_letters": "WITHOUT",
+      "answer": "upwards",
+      "answer_letters": "UPWARDS",
+      "indices": [
+        161,
+        84,
+        125,
+        127,
+        153,
+        116,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        123,
+        132,
+        67,
+        114,
+        11,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "watches",
+      "answer_letters": "WATCHES",
       "indices": [
         105,
-        98,
-        173,
-        74,
-        111,
-        114,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intermittent",
-      "answer_letters": "INTERMITTENT",
-      "indices": [
-        156,
-        122,
-        11,
-        103,
-        30,
-        165,
-        66,
-        73,
-        58,
-        70,
-        71,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        88,
-        162,
-        48,
-        125,
-        139,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "molecules",
-      "answer_letters": "MOLECULES",
-      "indices": [
-        179,
-        131,
-        44,
-        40,
-        36,
-        26,
-        95,
-        180,
+        43,
+        76,
+        31,
+        155,
+        1,
         81
       ]
     },
@@ -112,144 +66,191 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
-        82,
-        34,
-        126,
-        14,
-        16,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        1,
-        159,
-        50,
-        140,
-        158,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stockholm",
-      "answer_letters": "STOCKHOLM",
-      "indices": [
-        142,
-        150,
-        90,
-        99,
-        45,
-        60,
-        25,
-        108,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "vibrations",
-      "answer_letters": "VIBRATIONS",
-      "indices": [
-        2,
-        51,
-        55,
-        118,
-        43,
-        160,
-        61,
-        166,
-        20,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attack",
-      "answer_letters": "ATTACK",
-      "indices": [
-        135,
-        97,
+        18,
         157,
-        54,
-        64,
-        9
+        65,
+        121,
+        159,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "nobility",
-      "answer_letters": "NOBILITY",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
-        115,
-        12,
+        88,
+        60,
+        180,
+        173,
+        27,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mythical",
+      "answer_letters": "MYTHICAL",
+      "indices": [
+        52,
+        144,
+        177,
+        50,
+        98,
+        36,
+        23,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "institutional",
+      "answer_letters": "INSTITUTIONAL",
+      "indices": [
+        33,
+        122,
+        142,
+        73,
+        96,
+        168,
+        57,
+        120,
+        178,
+        131,
+        110,
+        143,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entire",
+      "answer_letters": "ENTIRE",
+      "indices": [
+        3,
+        71,
+        97,
+        156,
+        4,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stability",
+      "answer_letters": "STABILITY",
+      "indices": [
+        100,
+        150,
+        135,
         147,
-        106,
-        85,
-        78,
-        128,
+        61,
+        108,
+        51,
+        47,
         86
       ]
     },
     {
       "clue": null,
-      "answer": "declaration",
-      "answer_letters": "DECLARATION",
+      "answer": "vacuum",
+      "answer_letters": "VACUUM",
       "indices": [
-        123,
-        163,
-        31,
-        67,
-        127,
-        153,
-        143,
+        136,
+        54,
+        64,
+        26,
+        149,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
+      "indices": [
+        14,
+        21,
+        32,
+        107,
+        158,
         37,
-        178,
-        94,
-        110
+        40,
+        79
       ]
     },
     {
       "clue": null,
-      "answer": "essays",
-      "answer_letters": "ESSAYS",
+      "answer": "napoleonic",
+      "answer_letters": "NAPOLEONIC",
       "indices": [
-        35,
-        100,
-        79,
-        75,
-        130,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        4,
-        102,
-        144,
-        168,
-        155,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rudolph",
-      "answer_letters": "RUDOLPH",
-      "indices": [
-        69,
-        57,
-        68,
-        56,
+        0,
+        7,
+        93,
+        170,
         17,
-        84,
-        32
+        117,
+        94,
+        115,
+        78,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doctor",
+      "answer_letters": "DOCTOR",
+      "indices": [
+        91,
+        90,
+        154,
+        34,
+        140,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elisabeth",
+      "answer_letters": "ELISABETH",
+      "indices": [
+        175,
+        85,
+        106,
+        167,
+        152,
+        24,
+        70,
+        160,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "roberta",
+      "answer_letters": "ROBERTA",
+      "indices": [
+        118,
+        12,
+        55,
+        19,
+        69,
+        42,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        30,
+        74,
+        130,
+        6,
+        134,
+        83,
+        119
       ]
     },
     {
@@ -257,40 +258,39 @@
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
-        170,
-        161,
-        6,
-        171,
-        96,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hauled",
-      "answer_letters": "HAULED",
-      "indices": [
-        65,
-        23,
-        149,
-        107,
-        3,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evacuate",
-      "answer_letters": "EVACUATE",
-      "indices": [
-        137,
-        136,
-        29,
-        154,
+        111,
         38,
-        7,
-        42,
-        19
+        58,
+        171,
+        82,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hooker",
+      "answer_letters": "HOOKER",
+      "indices": [
+        102,
+        25,
+        166,
+        45,
+        137,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enacted",
+      "answer_letters": "ENACTED",
+      "indices": [
+        103,
+        20,
+        146,
+        99,
+        139,
+        35,
+        68
       ]
     }
   ],

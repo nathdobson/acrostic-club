@@ -6,285 +6,285 @@
   "clues": [
     {
       "clue": null,
-      "answer": "condensed",
-      "answer_letters": "CONDENSED",
+      "answer": "chowdhury",
+      "answer_letters": "CHOWDHURY",
       "indices": [
         34,
-        52,
-        20,
-        54,
-        110,
-        48,
+        60,
+        136,
+        57,
+        41,
+        39,
+        161,
+        109,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hamlets",
+      "answer_letters": "HAMLETS",
+      "indices": [
+        156,
+        127,
+        143,
+        77,
+        168,
+        28,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adjusted",
+      "answer_letters": "ADJUSTED",
+      "indices": [
+        25,
+        170,
+        62,
+        67,
         132,
+        120,
+        63,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "richards",
+      "answer_letters": "RICHARDS",
+      "indices": [
+        26,
+        146,
+        162,
+        107,
+        64,
+        5,
+        128,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leased",
+      "answer_letters": "LEASED",
+      "indices": [
+        8,
+        6,
+        3,
+        73,
+        86,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exited",
+      "answer_letters": "EXITED",
+      "indices": [
+        112,
+        113,
+        58,
+        21,
+        149,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stepped",
+      "answer_letters": "STEPPED",
+      "indices": [
+        101,
+        59,
+        157,
+        116,
+        92,
+        94,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "baltic",
+      "answer_letters": "BALTIC",
+      "indices": [
+        23,
+        30,
+        83,
+        117,
+        84,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "upcoming",
+      "answer_letters": "UPCOMING",
+      "indices": [
+        17,
+        76,
+        7,
+        44,
+        152,
+        129,
+        130,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kapoor",
+      "answer_letters": "KAPOOR",
+      "indices": [
+        163,
+        0,
+        137,
+        55,
+        52,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "olympia",
+      "answer_letters": "OLYMPIA",
+      "indices": [
+        91,
+        18,
+        69,
+        75,
+        89,
+        144,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "weighed",
+      "answer_letters": "WEIGHED",
+      "indices": [
+        99,
+        110,
+        81,
+        49,
+        46,
         153,
         87
       ]
     },
     {
       "clue": null,
-      "answer": "helped",
-      "answer_letters": "HELPED",
+      "answer": "sydney",
+      "answer_letters": "SYDNEY",
       "indices": [
-        148,
-        6,
-        83,
-        116,
-        149,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attempt",
-      "answer_letters": "ATTEMPT",
-      "indices": [
-        103,
-        51,
-        45,
-        24,
-        143,
-        134,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "retracted",
-      "answer_letters": "RETRACTED",
-      "indices": [
-        26,
-        135,
-        117,
-        29,
-        127,
-        96,
-        120,
-        168,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-lying",
-      "answer_letters": "LOWLYING",
-      "indices": [
-        8,
-        55,
-        106,
-        18,
-        158,
-        71,
-        145,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
-      "indices": [
-        164,
+        160,
+        105,
+        19,
         43,
-        62,
-        98,
-        69,
-        139,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "siegfried",
-      "answer_letters": "SIEGFRIED",
-      "indices": [
-        10,
-        33,
         108,
-        131,
-        32,
-        5,
-        142,
-        94,
-        165
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "bishops",
-      "answer_letters": "BISHOPS",
-      "indices": [
-        23,
-        13,
-        73,
-        46,
-        44,
-        89,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
-      "indices": [
-        17,
-        76,
-        39,
-        16,
-        65,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kelley",
-      "answer_letters": "KELLEY",
-      "indices": [
-        163,
-        112,
-        93,
-        77,
-        126,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oaxaca",
-      "answer_letters": "OAXACA",
-      "indices": [
-        136,
-        0,
-        113,
-        3,
-        162,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wartime",
-      "answer_letters": "WARTIME",
-      "indices": [
-        57,
-        64,
-        125,
-        21,
-        81,
-        122,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sacrificed",
-      "answer_letters": "SACRIFICED",
-      "indices": [
-        82,
-        30,
-        7,
-        109,
-        144,
-        31,
-        58,
-        15,
-        11,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kyushu",
-      "answer_letters": "KYUSHU",
+      "answer": "keeper",
+      "answer_letters": "KEEPER",
       "indices": [
         85,
-        105,
-        161,
-        101,
-        156,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "implied",
-      "answer_letters": "IMPLIED",
-      "indices": [
-        129,
-        152,
-        92,
-        138,
-        36,
-        90,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
-      "indices": [
-        99,
-        91,
-        97,
-        28,
-        107,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outsider",
-      "answer_letters": "OUTSIDER",
-      "indices": [
-        66,
-        67,
-        37,
-        160,
-        84,
-        19,
-        86,
+        164,
+        115,
+        134,
+        135,
         171
       ]
     },
     {
       "clue": null,
-      "answer": "medici",
-      "answer_letters": "MEDICI",
+      "answer": "inter-county",
+      "answer_letters": "INTERCOUNTY",
       "indices": [
-        75,
-        157,
-        41,
-        146,
-        114,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "empathy",
-      "answer_letters": "EMPATHY",
-      "indices": [
-        115,
-        167,
-        137,
-        40,
-        59,
-        60,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nissan",
-      "answer_letters": "NISSAN",
-      "indices": [
-        130,
         74,
-        68,
-        1,
-        25,
-        104
+        104,
+        45,
+        90,
+        29,
+        96,
+        66,
+        9,
+        20,
+        51,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whistle",
+      "answer_letters": "WHISTLE",
+      "indices": [
+        106,
+        148,
+        36,
+        10,
+        155,
+        93,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "officials",
+      "answer_letters": "OFFICIALS",
+      "indices": [
+        98,
+        32,
+        31,
+        71,
+        15,
+        13,
+        103,
+        138,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "misery",
+      "answer_letters": "MISERY",
+      "indices": [
+        122,
+        142,
+        82,
+        139,
+        97,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edited",
+      "answer_letters": "EDITED",
+      "indices": [
+        11,
+        100,
+        47,
+        37,
+        24,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nominal",
+      "answer_letters": "NOMINAL",
+      "indices": [
+        145,
+        16,
+        167,
+        33,
+        48,
+        40,
+        65
       ]
     }
   ],

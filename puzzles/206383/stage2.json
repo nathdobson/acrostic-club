@@ -6,170 +6,169 @@
   "clues": [
     {
       "clue": null,
-      "answer": "shipment",
-      "answer_letters": "SHIPMENT",
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
       "indices": [
-        45,
-        18,
-        4,
-        55,
-        1,
-        173,
+        49,
+        80,
+        66,
+        157,
+        79,
+        149,
+        61,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "interviewed",
+      "answer_letters": "INTERVIEWED",
+      "indices": [
+        90,
         72,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imperative",
-      "answer_letters": "IMPERATIVE",
-      "indices": [
-        145,
-        5,
-        29,
-        44,
-        56,
-        138,
-        153,
-        73,
+        158,
+        28,
+        124,
         86,
-        30
+        13,
+        81,
+        97,
+        30,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "mutations",
-      "answer_letters": "MUTATIONS",
+      "answer": "matthias",
+      "answer_letters": "MATTHIAS",
       "indices": [
         118,
-        23,
-        20,
-        51,
-        133,
-        108,
-        66,
-        14,
-        31
+        19,
+        153,
+        139,
+        98,
+        145,
+        166,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
+      "answer": "outcrops",
+      "answer_letters": "OUTCROPS",
       "indices": [
         121,
+        23,
+        128,
+        160,
+        162,
+        22,
+        29,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neither",
+      "answer_letters": "NEITHER",
+      "indices": [
+        156,
+        75,
+        4,
+        176,
+        131,
+        57,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "plaintiffs",
+      "answer_letters": "PLAINTIFFS",
+      "indices": [
+        6,
+        181,
+        71,
+        152,
+        14,
+        133,
+        177,
         148,
         74,
-        10,
-        116,
-        157,
-        127,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nielsen",
-      "answer_letters": "NIELSEN",
-      "indices": [
-        126,
-        177,
-        111,
-        181,
-        146,
-        75,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "protestors",
-      "answer_letters": "PROTESTORS",
-      "indices": [
-        62,
-        24,
-        178,
-        139,
-        163,
-        41,
-        170,
-        149,
-        142,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethics",
-      "answer_letters": "ETHICS",
-      "indices": [
-        99,
-        128,
-        39,
-        169,
-        160,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
+      "answer": "enemies",
+      "answer_letters": "ENEMIES",
       "indices": [
-        15,
-        180,
-        40,
-        28,
-        136,
-        11,
-        8
+        163,
+        52,
+        99,
+        1,
+        73,
+        117,
+        41
       ]
     },
     {
       "clue": null,
-      "answer": "gothic",
-      "answer_letters": "GOTHIC",
+      "answer": "grassy",
+      "answer_letters": "GRASSY",
       "indices": [
         38,
-        22,
-        158,
-        35,
-        90,
-        60
+        47,
+        11,
+        171,
+        3,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "nationwide",
-      "answer_letters": "NATIONWIDE",
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
       "indices": [
-        67,
-        63,
-        79,
-        152,
+        15,
         58,
-        109,
-        97,
-        65,
-        53,
-        102
+        95,
+        35,
+        93,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "enthusiast",
-      "answer_letters": "ENTHUSIAST",
+      "answer": "nationalism",
+      "answer_letters": "NATIONALISM",
       "indices": [
-        57,
-        52,
-        176,
-        131,
-        37,
-        83,
-        13,
-        141,
-        68,
-        100
+        179,
+        132,
+        115,
+        0,
+        36,
+        126,
+        180,
+        167,
+        169,
+        146,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "esoteric",
+      "answer_letters": "ESOTERIC",
+      "indices": [
+        48,
+        31,
+        123,
+        40,
+        27,
+        94,
+        65,
+        60
       ]
     },
     {
@@ -177,116 +176,117 @@
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
-        124,
-        98,
-        12,
-        77,
-        137,
+        103,
+        39,
+        8,
+        20,
+        18,
         174,
-        171
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "dental",
-      "answer_letters": "DENTAL",
+      "answer": "dispatch",
+      "answer_letters": "DISPATCH",
       "indices": [
-        113,
-        27,
-        156,
-        34,
-        19,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "distributor",
-      "answer_letters": "DISTRIBUTOR",
-      "indices": [
-        26,
-        0,
-        76,
-        120,
-        165,
+        43,
         46,
-        164,
-        61,
-        32,
-        175,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ornate",
-      "answer_letters": "ORNATE",
-      "indices": [
-        36,
-        162,
-        112,
-        132,
-        110,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "warmth",
-      "answer_letters": "WARMTH",
-      "indices": [
-        105,
-        93,
-        150,
-        70,
-        64,
+        83,
+        55,
+        63,
+        17,
+        59,
         101
       ]
     },
     {
       "clue": null,
-      "answer": "encompassed",
-      "answer_letters": "ENCOMPASSED",
+      "answer": "departments",
+      "answer_letters": "DEPARTMENTS",
       "indices": [
-        84,
-        91,
-        59,
-        123,
+        113,
+        111,
+        62,
+        138,
+        150,
+        77,
         82,
-        6,
-        71,
-        88,
-        134,
-        106,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leather",
-      "answer_letters": "LEATHER",
-      "indices": [
-        167,
-        87,
-        166,
-        95,
-        80,
         161,
-        103
+        91,
+        32,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "letters",
-      "answer_letters": "LETTERS",
+      "answer": "obtained",
+      "answer_letters": "OBTAINED",
+      "indices": [
+        175,
+        164,
+        170,
+        141,
+        108,
+        67,
+        44,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wentworth",
+      "answer_letters": "WENTWORTH",
+      "indices": [
+        136,
+        84,
+        109,
+        64,
+        105,
+        127,
+        142,
+        120,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ernesto",
+      "answer_letters": "ERNESTO",
+      "indices": [
+        102,
+        24,
+        112,
+        87,
+        134,
+        100,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "latest",
+      "answer_letters": "LATEST",
       "indices": [
         7,
-        48,
-        17,
-        143,
-        117,
-        94,
-        3
+        51,
+        130,
+        173,
+        10,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luther",
+      "answer_letters": "LUTHER",
+      "indices": [
+        85,
+        37,
+        34,
+        116,
+        106,
+        165
       ]
     }
   ],

@@ -6,31 +6,30 @@
   "clues": [
     {
       "clue": null,
-      "answer": "cheese",
-      "answer_letters": "CHEESE",
+      "answer": "chooses",
+      "answer_letters": "CHOOSES",
       "indices": [
         145,
         101,
-        75,
-        176,
-        23,
-        2
+        38,
+        82,
+        100,
+        148,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "otherwise",
-      "answer_letters": "OTHERWISE",
+      "answer": "options",
+      "answer_letters": "OPTIONS",
       "indices": [
-        31,
-        34,
-        37,
-        78,
-        5,
-        11,
+        58,
+        175,
+        97,
         167,
-        17,
-        148
+        88,
+        76,
+        25
       ]
     },
     {
@@ -38,38 +37,40 @@
       "answer": "ludwig",
       "answer_letters": "LUDWIG",
       "indices": [
-        93,
-        32,
-        124,
-        46,
-        84,
-        56
+        161,
+        103,
+        105,
+        59,
+        41,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "emilio",
-      "answer_letters": "EMILIO",
+      "answer": "estimate",
+      "answer_letters": "ESTIMATE",
       "indices": [
-        54,
+        8,
+        166,
+        7,
+        114,
         122,
-        120,
-        129,
-        137,
-        38
+        69,
+        87,
+        78
       ]
     },
     {
       "clue": null,
-      "answer": "tissue",
-      "answer_letters": "TISSUE",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
-        97,
-        94,
-        60,
-        100,
-        79,
-        18
+        115,
+        12,
+        139,
+        98,
+        42,
+        43
       ]
     },
     {
@@ -77,229 +78,228 @@
       "answer": "two-hour",
       "answer_letters": "TWOHOUR",
       "indices": [
-        132,
-        36,
-        58,
-        12,
-        16,
-        103,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editions",
-      "answer_letters": "EDITIONS",
-      "indices": [
-        128,
-        64,
-        96,
-        136,
-        22,
-        62,
-        177,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "exodus",
-      "answer_letters": "EXODUS",
-      "indices": [
-        43,
-        95,
-        109,
-        30,
-        72,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "awards",
-      "answer_letters": "AWARDS",
-      "indices": [
-        50,
-        59,
-        47,
-        152,
-        74,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "relief",
-      "answer_letters": "RELIEF",
-      "indices": [
-        9,
-        134,
-        27,
-        155,
-        26,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thompson",
-      "answer_letters": "THOMPSON",
-      "indices": [
-        108,
-        171,
+        158,
+        11,
         146,
-        147,
-        110,
-        71,
+        1,
+        13,
+        79,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastwood",
+      "answer_letters": "EASTWOOD",
+      "indices": [
+        123,
+        50,
+        173,
+        66,
+        112,
+        31,
         151,
-        117
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "hobart",
-      "answer_letters": "HOBART",
+      "answer": "ex-wife",
+      "answer_letters": "EXWIFE",
       "indices": [
-        81,
-        82,
-        33,
-        85,
-        113,
-        158
+        176,
+        95,
+        46,
+        120,
+        28,
+        169
       ]
     },
     {
       "clue": null,
-      "answer": "lightly",
-      "answer_letters": "LIGHTLY",
+      "answer": "armory",
+      "answer_letters": "ARMORY",
       "indices": [
-        161,
-        41,
-        40,
-        133,
-        115,
-        63,
+        142,
+        57,
+        156,
+        109,
+        152,
         163
       ]
     },
     {
       "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        48,
-        162,
-        138,
-        126,
-        154,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "photos",
-      "answer_letters": "PHOTOS",
-      "indices": [
-        175,
-        1,
-        88,
-        7,
-        159,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adverse",
-      "answer_letters": "ADVERSE",
-      "indices": [
-        142,
-        168,
-        42,
-        8,
-        57,
-        25,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
       "indices": [
         91,
-        21,
-        98,
-        66,
-        53,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "allows",
-      "answer_letters": "ALLOWS",
-      "indices": [
-        69,
-        104,
-        15,
-        92,
-        4,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        105,
-        112,
-        6,
-        118,
-        141,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "impose",
-      "answer_letters": "IMPOSE",
-      "indices": [
-        125,
-        156,
-        90,
+        134,
+        33,
         102,
-        51,
-        139
+        159,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "spotify",
-      "answer_letters": "SPOTIFY",
+      "answer": "though",
+      "answer_letters": "THOUGH",
       "indices": [
-        166,
-        80,
-        13,
+        127,
+        81,
+        62,
+        72,
+        118,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hadith",
+      "answer_letters": "HADITH",
+      "indices": [
+        171,
+        162,
+        124,
+        94,
+        136,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifted",
+      "answer_letters": "LIFTED",
+      "indices": [
+        27,
+        125,
+        150,
         0,
-        114,
-        28,
+        54,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yearly",
+      "answer_letters": "YEARLY",
+      "indices": [
+        48,
+        2,
+        47,
+        5,
+        93,
         130
       ]
     },
     {
       "clue": null,
-      "answer": "edition",
-      "answer_letters": "EDITION",
+      "answer": "phelps",
+      "answer_letters": "PHELPS",
       "indices": [
-        169,
-        73,
-        116,
-        127,
-        172,
+        90,
+        21,
+        26,
+        15,
+        110,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alumni",
+      "answer_letters": "ALUMNI",
+      "indices": [
+        85,
+        63,
+        32,
+        121,
+        177,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rewrite",
+      "answer_letters": "REWRITE",
+      "indices": [
+        83,
+        128,
+        4,
+        113,
+        137,
+        132,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adolph",
+      "answer_letters": "ADOLPH",
+      "indices": [
+        126,
+        74,
         67,
-        76
+        104,
+        80,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dismiss",
+      "answer_letters": "DISMISS",
+      "indices": [
+        73,
+        84,
+        23,
+        138,
+        172,
+        71,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insights",
+      "answer_letters": "INSIGHTS",
+      "indices": [
+        96,
+        117,
+        51,
+        22,
+        56,
+        154,
+        34,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shadows",
+      "answer_letters": "SHADOWS",
+      "indices": [
+        44,
+        37,
+        165,
+        168,
+        16,
+        36,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emilio",
+      "answer_letters": "EMILIO",
+      "indices": [
+        75,
+        147,
+        6,
+        129,
+        116,
+        92
       ]
     }
   ],

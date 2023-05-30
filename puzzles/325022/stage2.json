@@ -6,304 +6,304 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "nippon",
+      "answer_letters": "NIPPON",
       "indices": [
-        123,
-        18,
-        25,
-        121,
-        27,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "indoors",
-      "answer_letters": "INDOORS",
-      "indices": [
-        126,
-        62,
-        4,
-        84,
-        49,
-        59,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "consensus",
-      "answer_letters": "CONSENSUS",
-      "indices": [
-        58,
-        175,
-        110,
-        147,
-        90,
-        70,
-        23,
-        142,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occupations",
-      "answer_letters": "OCCUPATIONS",
-      "indices": [
-        157,
-        48,
-        11,
-        85,
-        116,
-        73,
-        33,
-        119,
-        150,
-        19,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
-      "indices": [
-        152,
-        130,
-        145,
-        168,
-        2,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enslaved",
-      "answer_letters": "ENSLAVED",
-      "indices": [
-        184,
-        30,
-        127,
-        136,
-        146,
-        167,
-        106,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eclipse",
-      "answer_letters": "ECLIPSE",
-      "indices": [
-        180,
-        83,
-        86,
-        3,
-        72,
-        139,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        111,
-        169,
-        65,
-        54,
-        67,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lockheed",
-      "answer_letters": "LOCKHEED",
-      "indices": [
-        151,
-        99,
-        15,
-        108,
-        8,
-        81,
-        177,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "irving",
-      "answer_letters": "IRVING",
-      "indices": [
-        29,
-        160,
-        158,
-        69,
         52,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
-      "indices": [
-        75,
-        44,
-        104,
+        0,
+        116,
+        72,
         166,
-        87,
-        188
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "giulio",
-      "answer_letters": "GIULIO",
+      "answer": "inclusive",
+      "answer_letters": "INCLUSIVE",
       "indices": [
-        155,
         109,
+        70,
+        134,
+        136,
         45,
-        17,
-        153,
-        16
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eduard",
-      "answer_letters": "EDUARD",
-      "indices": [
-        159,
-        173,
-        66,
-        36,
-        178,
-        182
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reasonably",
-      "answer_letters": "REASONABLY",
-      "indices": [
-        149,
-        114,
-        55,
-        56,
-        135,
-        181,
-        171,
-        43,
-        92,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whistle",
-      "answer_letters": "WHISTLE",
-      "indices": [
-        118,
-        38,
-        61,
-        141,
-        46,
-        187,
+        37,
+        29,
+        167,
         26
       ]
     },
     {
       "clue": null,
-      "answer": "abbasid",
-      "answer_letters": "ABBASID",
+      "answer": "carnival",
+      "answer_letters": "CARNIVAL",
       "indices": [
-        107,
+        83,
+        73,
+        13,
+        62,
+        95,
+        176,
+        146,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "old-fashioned",
+      "answer_letters": "OLDFASHIONED",
+      "indices": [
+        84,
+        183,
+        173,
+        89,
+        22,
+        56,
+        94,
+        74,
+        16,
+        172,
+        9,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "loaned",
+      "answer_letters": "LOANED",
+      "indices": [
+        151,
+        65,
+        36,
+        181,
+        101,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        168,
+        15,
+        80,
+        150,
+        91,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edinburgh",
+      "answer_letters": "EDINBURGH",
+      "indices": [
+        115,
+        40,
+        3,
+        154,
+        43,
+        142,
+        160,
+        25,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "grooves",
+      "answer_letters": "GROOVES",
+      "indices": [
+        155,
+        59,
+        49,
+        44,
+        143,
+        180,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lockdown",
+      "answer_letters": "LOCKDOWN",
+      "indices": [
+        17,
+        99,
+        48,
+        108,
+        113,
+        157,
+        118,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "integers",
+      "answer_letters": "INTEGERS",
+      "indices": [
+        18,
+        163,
+        7,
+        106,
+        31,
+        177,
+        149,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nicholson",
+      "answer_letters": "NICHOLSON",
+      "indices": [
+        30,
+        153,
+        11,
+        8,
+        175,
+        152,
+        139,
+        135,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "galway",
+      "answer_letters": "GALWAY",
+      "indices": [
+        63,
+        162,
+        187,
+        145,
+        12,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ensured",
+      "answer_letters": "ENSURED",
+      "indices": [
+        90,
+        19,
+        78,
+        66,
+        169,
+        184,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rabbit",
+      "answer_letters": "RABBIT",
+      "indices": [
+        35,
+        42,
         129,
         98,
-        22,
-        185,
-        95,
-        40
+        119,
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "nashville",
-      "answer_letters": "NASHVILLE",
+      "answer": "wealthy",
+      "answer_letters": "WEALTHY",
       "indices": [
-        138,
-        12,
-        186,
-        80,
-        176,
-        51,
-        50,
-        183,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tehran",
-      "answer_letters": "TEHRAN",
-      "indices": [
-        28,
-        101,
-        34,
-        13,
-        162,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "identify",
-      "answer_letters": "IDENTIFY",
-      "indices": [
-        74,
-        113,
-        115,
-        154,
-        120,
-        0,
-        89,
+        21,
+        114,
+        107,
+        92,
+        67,
+        121,
         60
       ]
     },
     {
       "clue": null,
-      "answer": "nirvana",
-      "answer_letters": "NIRVANA",
+      "answer": "advise",
+      "answer_letters": "ADVISE",
       "indices": [
-        1,
-        137,
-        105,
-        143,
-        42,
-        172,
-        77
+        77,
+        164,
+        158,
+        122,
+        2,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "greenwich",
-      "answer_letters": "GREENWICH",
+      "answer": "nassau",
+      "answer_letters": "NASSAU",
       "indices": [
-        31,
-        35,
-        39,
-        9,
+        123,
+        55,
+        23,
+        141,
+        171,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tbilisi",
+      "answer_letters": "TBILISI",
+      "indices": [
+        33,
+        104,
+        61,
+        86,
+        51,
+        102,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insect",
+      "answer_letters": "INSECT",
+      "indices": [
+        126,
+        138,
+        96,
+        159,
+        58,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
+      "indices": [
         100,
-        21,
-        122,
-        134,
-        94
+        130,
+        105,
+        27,
+        38,
+        54,
+        5,
+        186,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "greyish",
+      "answer_letters": "GREYISH",
+      "indices": [
+        111,
+        178,
+        39,
+        188,
+        69,
+        147,
+        34
       ]
     }
   ],

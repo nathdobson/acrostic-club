@@ -6,98 +6,253 @@
   "clues": [
     {
       "clue": null,
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
+      "answer": "throughout",
+      "answer_letters": "THROUGHOUT",
       "indices": [
-        152,
-        27,
-        140,
-        134,
-        66,
-        103,
-        138,
-        94,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anatomy",
-      "answer_letters": "ANATOMY",
-      "indices": [
-        100,
-        48,
-        129,
-        87,
-        71,
-        64,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "devoted",
-      "answer_letters": "DEVOTED",
-      "indices": [
-        35,
-        38,
-        169,
-        49,
-        111,
-        114,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
-      "indices": [
-        84,
+        102,
+        165,
+        5,
         24,
-        113,
-        11,
+        130,
+        80,
         28,
+        29,
+        112,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "auburn",
+      "answer_letters": "AUBURN",
+      "indices": [
+        73,
+        101,
+        123,
+        163,
+        53,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "daytona",
+      "answer_letters": "DAYTONA",
+      "indices": [
+        160,
+        95,
+        18,
+        42,
+        156,
+        74,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wentworth",
+      "answer_letters": "WENTWORTH",
+      "indices": [
+        94,
+        117,
+        48,
+        152,
+        84,
+        63,
+        113,
+        87,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "itunes",
+      "answer_letters": "ITUNES",
+      "indices": [
+        148,
+        125,
+        180,
+        8,
+        128,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leaving",
+      "answer_letters": "LEAVING",
+      "indices": [
+        155,
+        82,
+        107,
+        46,
+        6,
+        134,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lyceum",
+      "answer_letters": "LYCEUM",
+      "indices": [
+        17,
+        132,
+        164,
+        21,
+        175,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "indira",
+      "answer_letters": "INDIRA",
+      "indices": [
+        54,
+        16,
+        92,
+        151,
+        173,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        39,
+        58,
+        103,
+        70,
+        1,
         9
       ]
     },
     {
       "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "answer": "malcolm",
+      "answer_letters": "MALCOLM",
       "indices": [
-        170,
-        56,
-        43,
-        7,
-        58,
-        99
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
-      "indices": [
-        141,
-        167,
-        0,
-        61,
-        112,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "labour",
-      "answer_letters": "LABOUR",
-      "indices": [
+        64,
+        86,
         181,
-        110,
-        123,
+        154,
+        179,
+        34,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "slovak",
+      "answer_letters": "SLOVAK",
+      "indices": [
+        162,
+        141,
+        78,
+        169,
+        100,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
+      "indices": [
+        176,
+        12,
+        71,
+        15,
+        111,
         174,
-        180,
-        53
+        119,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hebrew",
+      "answer_letters": "HEBREW",
+      "indices": [
+        37,
+        99,
+        127,
+        62,
+        38,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
+      "indices": [
+        157,
+        98,
+        116,
+        91,
+        131,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deutsche",
+      "answer_letters": "DEUTSCHE",
+      "indices": [
+        52,
+        142,
+        33,
+        77,
+        178,
+        31,
+        85,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opposed",
+      "answer_letters": "OPPOSED",
+      "indices": [
+        7,
+        55,
+        56,
+        90,
+        75,
+        13,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "webster",
+      "answer_letters": "WEBSTER",
+      "indices": [
+        27,
+        47,
+        4,
+        23,
+        66,
+        159,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refugee",
+      "answer_letters": "REFUGEE",
+      "indices": [
+        40,
+        114,
+        61,
+        81,
+        89,
+        140,
+        44
       ]
     },
     {
@@ -105,197 +260,42 @@
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
-        54,
+        57,
         2,
         149,
-        73,
-        67,
-        1,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "auguste",
-      "answer_letters": "AUGUSTE",
-      "indices": [
-        86,
-        175,
-        80,
-        101,
-        75,
-        42,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "makeup",
-      "answer_letters": "MAKEUP",
-      "indices": [
-        50,
-        107,
-        158,
-        21,
-        130,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "steven",
-      "answer_letters": "STEVEN",
-      "indices": [
-        23,
-        131,
-        117,
-        46,
-        137,
+        129,
+        139,
+        110,
         136
       ]
     },
     {
       "clue": null,
-      "answer": "subtle",
-      "answer_letters": "SUBTLE",
+      "answer": "sophie",
+      "answer_letters": "SOPHIE",
       "indices": [
-        162,
-        124,
-        98,
-        102,
-        155,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hoping",
-      "answer_letters": "HOPING",
-      "indices": [
-        165,
-        15,
-        55,
-        148,
-        8,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "archaeology",
-      "answer_letters": "ARCHAEOLOGY",
-      "indices": [
-        95,
-        5,
-        154,
-        85,
-        157,
-        159,
-        29,
-        17,
-        32,
-        89,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "donations",
-      "answer_letters": "DONATIONS",
-      "indices": [
-        52,
-        90,
-        16,
-        118,
-        120,
-        151,
-        156,
-        74,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obscure",
-      "answer_letters": "OBSCURE",
-      "indices": [
-        63,
-        116,
-        143,
-        31,
-        33,
-        173,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "warehouse",
-      "answer_letters": "WAREHOUSE",
-      "indices": [
-        70,
-        39,
-        62,
-        47,
-        139,
-        91,
-        163,
         144,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        40,
-        37,
-        132,
-        77,
-        12,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isotope",
-      "answer_letters": "ISOTOPE",
-      "indices": [
-        6,
-        176,
-        78,
-        125,
-        135,
+        32,
         20,
-        142
+        67,
+        170,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "suburb",
-      "answer_letters": "SUBURB",
+      "answer": "eponymous",
+      "answer_letters": "EPONYMOUS",
       "indices": [
-        96,
-        81,
-        4,
-        119,
-        22,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endemic",
-      "answer_letters": "ENDEMIC",
-      "indices": [
-        68,
-        25,
-        160,
-        128,
-        72,
-        57,
-        164
+        172,
+        171,
+        49,
+        79,
+        121,
+        50,
+        135,
+        124,
+        96
       ]
     }
   ],

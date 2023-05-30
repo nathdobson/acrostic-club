@@ -6,200 +6,156 @@
   "clues": [
     {
       "clue": null,
-      "answer": "authenticity",
-      "answer_letters": "AUTHENTICITY",
+      "answer": "abolished",
+      "answer_letters": "ABOLISHED",
       "indices": [
-        86,
-        109,
-        27,
-        62,
-        178,
-        130,
-        150,
-        164,
-        85,
-        67,
-        125,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seychelles",
-      "answer_letters": "SEYCHELLES",
-      "indices": [
-        105,
-        142,
-        136,
-        55,
-        166,
-        115,
-        179,
-        8,
-        1,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authors",
-      "answer_letters": "AUTHORS",
-      "indices": [
-        124,
-        54,
-        49,
-        12,
-        50,
-        174,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laughter",
-      "answer_letters": "LAUGHTER",
-      "indices": [
-        159,
-        6,
-        10,
-        20,
-        172,
-        15,
-        37,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abused",
-      "answer_letters": "ABUSED",
-      "indices": [
-        59,
-        70,
-        87,
-        138,
-        75,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "resembled",
-      "answer_letters": "RESEMBLED",
-      "indices": [
-        144,
-        126,
-        91,
-        154,
-        44,
-        153,
-        43,
-        64,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sabbath",
-      "answer_letters": "SABBATH",
-      "indices": [
-        97,
-        140,
-        2,
-        72,
         29,
-        68,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sherlock",
-      "answer_letters": "SHERLOCK",
-      "indices": [
-        119,
-        114,
-        3,
-        81,
-        158,
-        151,
-        121,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "orchards",
-      "answer_letters": "ORCHARDS",
-      "indices": [
+        83,
         78,
-        17,
-        4,
-        117,
-        118,
-        30,
-        127,
+        8,
+        180,
+        119,
+        62,
+        102,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sketches",
+      "answer_letters": "SKETCHES",
+      "indices": [
+        13,
+        5,
+        93,
+        33,
+        121,
+        92,
+        37,
         31
       ]
     },
     {
       "clue": null,
-      "answer": "navigate",
-      "answer_letters": "NAVIGATE",
+      "answer": "artery",
+      "answer_letters": "ARTERY",
+      "indices": [
+        168,
+        174,
+        47,
+        75,
+        17,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
+      "indices": [
+        179,
+        6,
+        109,
+        11,
+        172,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "achievement",
+      "answer_letters": "ACHIEVEMENT",
+      "indices": [
+        146,
+        99,
+        34,
+        39,
+        154,
+        79,
+        24,
+        108,
+        160,
+        130,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robbie",
+      "answer_letters": "ROBBIE",
+      "indices": [
+        122,
+        45,
+        73,
+        70,
+        157,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "schumacher",
+      "answer_letters": "SCHUMACHER",
+      "indices": [
+        105,
+        55,
+        56,
+        87,
+        44,
+        140,
+        110,
+        111,
+        177,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "schedules",
+      "answer_letters": "SCHEDULES",
+      "indices": [
+        76,
+        141,
+        117,
+        115,
+        161,
+        60,
+        58,
+        84,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        106,
+        71,
+        135,
+        176,
+        43,
+        170,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neighborhood",
+      "answer_letters": "NEIGHBORHOOD",
       "indices": [
         181,
-        42,
-        79,
-        101,
-        11,
-        146,
-        171,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "somewhere",
-      "answer_letters": "SOMEWHERE",
-      "indices": [
-        113,
-        45,
-        53,
-        145,
-        163,
-        23,
-        160,
-        0,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upbeat",
-      "answer_letters": "UPBEAT",
-      "indices": [
-        60,
-        139,
-        83,
-        80,
-        9,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neighbour",
-      "answer_letters": "NEIGHBOUR",
-      "indices": [
-        169,
-        28,
-        180,
+        132,
+        164,
         182,
-        95,
-        73,
+        166,
+        2,
+        151,
+        30,
+        21,
         18,
-        19,
-        65
+        51,
+        147
       ]
     },
     {
@@ -207,77 +163,121 @@
       "answer": "steeplechase",
       "answer_letters": "STEEPLECHASE",
       "indices": [
-        40,
-        47,
+        97,
+        68,
         123,
-        35,
-        134,
-        58,
-        132,
-        110,
-        56,
+        1,
+        139,
+        158,
+        173,
+        4,
+        12,
         96,
-        13,
-        102
+        138,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
+      "answer": "upstream",
+      "answer_letters": "UPSTREAM",
       "indices": [
-        165,
-        16,
-        106,
-        71,
-        61,
-        92,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "official",
-      "answer_letters": "OFFICIAL",
-      "indices": [
-        170,
-        156,
-        176,
-        157,
-        141,
-        39,
-        129,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
-      "indices": [
-        122,
-        51,
-        63,
-        111,
-        89,
-        36,
-        34,
-        168,
+        54,
+        134,
+        46,
+        171,
+        144,
+        142,
+        9,
         133
       ]
     },
     {
       "clue": null,
-      "answer": "mercedes",
-      "answer_letters": "MERCEDES",
+      "answer": "nearby",
+      "answer_letters": "NEARBY",
       "indices": [
-        108,
-        173,
+        169,
+        28,
+        124,
+        0,
+        153,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "slaughtered",
+      "answer_letters": "SLAUGHTERED",
+      "indices": [
+        40,
+        74,
+        59,
+        10,
+        20,
+        95,
+        27,
+        80,
+        36,
+        3,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thatcher",
+      "answer_letters": "THATCHER",
+      "indices": [
+        125,
+        23,
+        42,
+        15,
+        85,
+        114,
+        178,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orbital",
+      "answer_letters": "ORBITAL",
+      "indices": [
+        50,
+        65,
+        72,
+        67,
+        49,
+        129,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refugee",
+      "answer_letters": "REFUGEE",
+      "indices": [
         25,
-        99,
-        84,
-        103,
-        24,
+        145,
+        156,
+        19,
+        61,
+        89,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matthias",
+      "answer_letters": "MATTHIAS",
+      "indices": [
+        53,
+        86,
+        165,
+        63,
+        16,
+        101,
+        118,
         88
       ]
     }

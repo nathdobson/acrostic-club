@@ -6,266 +6,29 @@
   "clues": [
     {
       "clue": null,
-      "answer": "gambia",
-      "answer_letters": "GAMBIA",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
-        13,
-        115,
-        139,
-        77,
-        178,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lauded",
-      "answer_letters": "LAUDED",
-      "indices": [
-        56,
-        74,
-        105,
-        57,
-        167,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "europe's",
-      "answer_letters": "EUROPES",
-      "indices": [
-        117,
-        83,
-        84,
-        20,
-        147,
-        4,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nightly",
-      "answer_letters": "NIGHTLY",
-      "indices": [
-        166,
-        125,
-        158,
-        30,
-        69,
-        22,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "numbered",
-      "answer_letters": "NUMBERED",
-      "indices": [
-        64,
-        46,
-        114,
-        59,
-        60,
-        171,
-        79,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "buffer",
-      "answer_letters": "BUFFER",
-      "indices": [
-        124,
-        12,
-        144,
-        169,
-        155,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emotion",
-      "answer_letters": "EMOTION",
-      "indices": [
-        78,
-        120,
-        45,
-        131,
-        113,
-        165,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cheney",
-      "answer_letters": "CHENEY",
-      "indices": [
-        136,
-        14,
-        7,
-        161,
-        108,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "khyber",
-      "answer_letters": "KHYBER",
-      "indices": [
-        153,
-        82,
-        140,
-        3,
-        65,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        179,
-        6,
-        175,
-        26,
         47,
         48,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "humphrey",
-      "answer_letters": "HUMPHREY",
-      "indices": [
-        10,
-        68,
-        34,
-        134,
-        44,
-        174,
-        31,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
-      "indices": [
-        41,
-        107,
-        0,
-        159,
-        27,
-        43,
-        54,
-        99
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
-      "indices": [
-        111,
-        102,
-        55,
-        116,
-        11,
-        21,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikolai",
-      "answer_letters": "NIKOLAI",
-      "indices": [
-        106,
-        127,
-        137,
-        132,
-        143,
-        123,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obtained",
-      "answer_letters": "OBTAINED",
-      "indices": [
-        63,
-        87,
-        85,
-        149,
-        17,
-        80,
-        92,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "weekday",
-      "answer_letters": "WEEKDAY",
-      "indices": [
-        53,
-        142,
-        38,
-        100,
-        23,
-        170,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        35,
-        67,
-        37,
-        90,
+        65,
+        69,
         15,
-        96
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "answer": "lookout",
+      "answer_letters": "LOOKOUT",
       "indices": [
-        32,
-        154,
-        156,
-        40,
-        103,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "griffith",
-      "answer_letters": "GRIFFITH",
-      "indices": [
-        162,
-        109,
-        51,
-        173,
-        89,
-        135,
-        128,
-        73
+        56,
+        54,
+        20,
+        153,
+        175,
+        55,
+        179
       ]
     },
     {
@@ -273,26 +36,263 @@
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
-        110,
-        75,
-        98,
-        29,
         88,
-        62
+        151,
+        94,
+        29,
+        103,
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "lithium",
-      "answer_letters": "LITHIUM",
+      "answer": "neptune",
+      "answer_letters": "NEPTUNE",
       "indices": [
-        126,
+        80,
+        31,
+        156,
+        43,
+        12,
+        150,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        161,
+        7,
+        19,
+        37,
+        83,
+        91,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bought",
+      "answer_letters": "BOUGHT",
+      "indices": [
+        87,
+        45,
+        26,
+        162,
+        82,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edmund",
+      "answer_letters": "EDMUND",
+      "indices": [
+        78,
+        75,
+        34,
+        46,
+        27,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chihuahua",
+      "answer_letters": "CHIHUAHUA",
+      "indices": [
+        136,
+        40,
         160,
-        9,
         97,
-        94,
         146,
-        176
+        123,
+        6,
+        68,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
+      "indices": [
+        100,
+        30,
+        121,
+        59,
+        154,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trophy",
+      "answer_letters": "TROPHY",
+      "indices": [
+        9,
+        171,
+        159,
+        147,
+        73,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "healthy",
+      "answer_letters": "HEALTHY",
+      "indices": [
+        14,
+        92,
+        35,
+        143,
+        128,
+        10,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edinburgh",
+      "answer_letters": "EDINBURGH",
+      "indices": [
+        167,
+        57,
+        71,
+        106,
+        77,
+        21,
+        109,
+        158,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shifted",
+      "answer_letters": "SHIFTED",
+      "indices": [
+        141,
+        44,
+        113,
+        89,
+        112,
+        142,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        32,
+        135,
+        137,
+        127,
+        96,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "optimum",
+      "answer_letters": "OPTIMUM",
+      "indices": [
+        90,
+        134,
+        116,
+        17,
+        120,
+        105,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "website",
+      "answer_letters": "WEBSITE",
+      "indices": [
+        53,
+        117,
+        67,
+        111,
+        178,
+        49,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "affirmed",
+      "answer_letters": "AFFIRMED",
+      "indices": [
+        149,
+        173,
+        144,
+        98,
+        25,
+        139,
+        41,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norman",
+      "answer_letters": "NORMAN",
+      "indices": [
+        166,
+        63,
+        174,
+        0,
+        170,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "goodbye",
+      "answer_letters": "GOODBYE",
+      "indices": [
+        13,
+        132,
+        165,
+        62,
+        124,
+        36,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enable",
+      "answer_letters": "ENABLE",
+      "indices": [
+        60,
+        99,
+        74,
+        3,
+        126,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        22,
+        125,
+        169,
+        4,
+        131,
+        51,
+        176,
+        110
       ]
     }
   ],

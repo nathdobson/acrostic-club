@@ -6,37 +6,59 @@
   "clues": [
     {
       "clue": null,
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
-        153,
-        148,
-        80,
-        106,
+        4,
+        115,
+        152,
+        61,
+        109,
         58,
-        102,
-        45,
-        135,
-        171,
-        17
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "outnumbered",
-      "answer_letters": "OUTNUMBERED",
+      "answer": "obituary",
+      "answer_letters": "OBITUARY",
       "indices": [
-        151,
-        28,
-        67,
-        7,
-        164,
-        90,
+        178,
         27,
-        69,
+        82,
+        133,
+        54,
+        118,
         103,
-        25,
-        166
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remedy",
+      "answer_letters": "REMEDY",
+      "indices": [
+        70,
+        143,
+        19,
+        49,
+        129,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ambushed",
+      "answer_letters": "AMBUSHED",
+      "indices": [
+        34,
+        101,
+        16,
+        65,
+        122,
+        68,
+        124,
+        10
       ]
     },
     {
@@ -44,67 +66,41 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        50,
-        56,
-        63,
+        45,
+        114,
+        38,
         36,
-        162,
+        74,
         157
       ]
     },
     {
       "clue": null,
-      "answer": "autonomy",
-      "answer_letters": "AUTONOMY",
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
       "indices": [
-        75,
-        14,
-        29,
-        3,
-        83,
-        136,
-        101,
-        12
+        102,
+        28,
+        67,
+        144,
+        97,
+        142,
+        69,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "buckley",
+      "answer_letters": "BUCKLEY",
       "indices": [
-        92,
-        123,
-        38,
-        133,
-        114,
-        95,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
-        13,
-        119,
-        8,
-        33,
-        34,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bundle",
-      "answer_letters": "BUNDLE",
-      "indices": [
-        16,
-        132,
-        35,
-        10,
-        145,
-        104
+        168,
+        164,
+        55,
+        84,
+        128,
+        158,
+        17
       ]
     },
     {
@@ -112,102 +108,101 @@
       "answer": "enjoyed",
       "answer_letters": "ENJOYED",
       "indices": [
-        49,
-        98,
+        46,
+        7,
         155,
-        177,
-        51,
-        44,
+        13,
+        20,
+        106,
         120
       ]
     },
     {
       "clue": null,
-      "answer": "reaches",
-      "answer_letters": "REACHES",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
         173,
-        96,
-        59,
-        55,
-        117,
-        9,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-storey",
-      "answer_letters": "TWOSTOREY",
-      "indices": [
-        73,
-        152,
-        39,
-        99,
-        61,
-        110,
-        70,
-        115,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
-      "indices": [
-        86,
-        74,
-        54,
+        171,
+        63,
         113,
-        109,
-        40,
-        76
+        117,
+        90,
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "themes",
-      "answer_letters": "THEMES",
+      "answer": "themed",
+      "answer_letters": "THEMED",
       "indices": [
-        5,
+        108,
         138,
-        71,
+        25,
         140,
-        143,
-        176
+        8,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "homeland",
-      "answer_letters": "HOMELAND",
+      "answer": "shadows",
+      "answer_letters": "SHADOWS",
+      "indices": [
+        161,
+        123,
+        156,
+        24,
+        39,
+        33,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "threatens",
+      "answer_letters": "THREATENS",
+      "indices": [
+        42,
+        162,
+        50,
+        172,
+        75,
+        80,
+        169,
+        119,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "honeymoon",
+      "answer_letters": "HONEYMOON",
       "indices": [
         126,
-        91,
+        64,
+        153,
+        174,
+        12,
         53,
-        46,
-        144,
-        118,
-        60,
-        129
+        177,
+        151,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "eighteenth",
-      "answer_letters": "EIGHTEENTH",
+      "answer": "entities",
+      "answer_letters": "ENTITIES",
       "indices": [
-        158,
+        96,
+        35,
+        73,
+        78,
+        5,
         31,
-        147,
-        105,
-        42,
-        124,
-        172,
-        179,
-        108,
-        43
+        93,
+        86
       ]
     },
     {
@@ -216,67 +211,72 @@
       "answer_letters": "VOODOO",
       "indices": [
         48,
-        178,
-        131,
-        24,
-        163,
-        64
+        110,
+        3,
+        150,
+        148,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
       "indices": [
-        139,
-        159,
-        97,
         0,
-        87,
-        81
+        83,
+        43,
+        131,
+        14,
+        176,
+        104
       ]
     },
     {
       "clue": null,
-      "answer": "linked",
-      "answer_letters": "LINKED",
+      "answer": "leukemia",
+      "answer_letters": "LEUKEMIA",
       "indices": [
         165,
-        23,
-        4,
-        84,
-        169,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "likewise",
-      "answer_letters": "LIKEWISE",
-      "indices": [
-        128,
-        78,
+        9,
+        40,
         111,
-        93,
-        142,
-        82,
-        89,
-        174
+        127,
+        95,
+        139,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "ambushed",
-      "answer_letters": "AMBUSHED",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
-        156,
-        19,
-        168,
-        65,
+        145,
+        23,
+        147,
+        56,
+        135,
+        81,
+        136,
+        132,
         22,
-        68,
-        127,
-        2
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "atherton",
+      "answer_letters": "ATHERTON",
+      "indices": [
+        87,
+        29,
+        105,
+        71,
+        92,
+        76,
+        91,
+        60
       ]
     }
   ],

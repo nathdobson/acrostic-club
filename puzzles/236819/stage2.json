@@ -6,282 +6,282 @@
   "clues": [
     {
       "clue": null,
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "answer": "correlated",
+      "answer_letters": "CORRELATED",
       "indices": [
-        140,
-        128,
-        25,
-        156,
-        121,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anthology",
-      "answer_letters": "ANTHOLOGY",
-      "indices": [
-        28,
-        75,
-        10,
-        84,
-        157,
-        143,
-        141,
-        149,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        22,
-        110,
-        87,
-        119,
-        40,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
-      "indices": [
-        132,
-        54,
-        154,
-        152,
-        151,
-        11,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hobart",
-      "answer_letters": "HOBART",
-      "indices": [
-        3,
-        7,
-        131,
-        130,
-        95,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "injury",
-      "answer_letters": "INJURY",
-      "indices": [
-        99,
-        148,
-        135,
-        71,
-        55,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arrows",
-      "answer_letters": "ARROWS",
-      "indices": [
-        89,
-        13,
-        127,
-        93,
-        45,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "agency's",
-      "answer_letters": "AGENCYS",
-      "indices": [
-        85,
-        169,
-        88,
-        6,
         31,
-        133,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sorrow",
-      "answer_letters": "SORROW",
-      "indices": [
-        137,
-        166,
-        106,
-        43,
-        36,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethernet",
-      "answer_letters": "ETHERNET",
-      "indices": [
+        7,
+        13,
+        98,
         56,
-        4,
-        101,
+        132,
+        115,
+        102,
         96,
-        0,
-        79,
-        14,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nowadays",
-      "answer_letters": "NOWADAYS",
-      "indices": [
-        37,
-        64,
-        167,
-        17,
-        73,
-        20,
-        92,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "statehood",
-      "answer_letters": "STATEHOOD",
-      "indices": [
-        163,
-        105,
-        107,
-        160,
-        12,
-        120,
-        49,
-        170,
         29
       ]
     },
     {
       "clue": null,
-      "answer": "insight",
-      "answer_letters": "INSIGHT",
+      "answer": "artery",
+      "answer_letters": "ARTERY",
       "indices": [
-        42,
-        108,
-        15,
+        109,
+        55,
+        76,
+        88,
+        0,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
+      "indices": [
+        95,
+        24,
+        131,
+        63,
+        138,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifeboat",
+      "answer_letters": "LIFEBOAT",
+      "indices": [
+        143,
+        99,
+        156,
+        121,
+        27,
+        157,
+        85,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "horton",
+      "answer_letters": "HORTON",
+      "indices": [
+        101,
+        70,
+        22,
+        39,
+        36,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "indigo",
+      "answer_letters": "INDIGO",
+      "indices": [
+        147,
+        37,
+        73,
         1,
         100,
-        62,
-        76
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "cohort",
-      "answer_letters": "COHORT",
+      "answer": "author",
+      "answer_letters": "AUTHOR",
       "indices": [
-        145,
-        70,
-        90,
-        32,
-        98,
-        162
+        20,
+        136,
+        51,
+        110,
+        166,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
+      "answer": "authors",
+      "answer_letters": "AUTHORS",
+      "indices": [
+        107,
+        71,
+        10,
+        90,
+        64,
+        43,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
+      "indices": [
+        104,
+        3,
+        161,
+        141,
+        83,
+        128,
+        94,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enjoyed",
+      "answer_letters": "ENJOYED",
+      "indices": [
+        144,
+        148,
+        135,
+        59,
+        69,
+        124,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        112,
+        14,
+        8,
+        162,
+        32,
+        167,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "scottish",
+      "answer_letters": "SCOTTISH",
+      "indices": [
+        114,
+        145,
+        152,
+        58,
+        151,
+        21,
+        61,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "itself",
+      "answer_letters": "ITSELF",
+      "indices": [
+        116,
+        105,
+        163,
+        12,
+        142,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "co-host",
+      "answer_letters": "COHOST",
+      "indices": [
+        140,
+        49,
+        120,
+        93,
+        137,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
       "indices": [
         78,
-        94,
-        81,
-        111,
-        147,
-        58
+        40,
+        92,
+        129,
+        68,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "potato",
-      "answer_letters": "POTATO",
-      "indices": [
-        33,
-        59,
-        146,
-        46,
-        51,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "underage",
-      "answer_letters": "UNDERAGE",
-      "indices": [
-        50,
-        112,
-        117,
-        124,
-        158,
-        115,
-        2,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "probability",
-      "answer_letters": "PROBABILITY",
+      "answer": "pathogen",
+      "answer_letters": "PATHOGEN",
       "indices": [
         126,
-        123,
+        111,
+        160,
+        62,
         74,
-        129,
-        109,
-        27,
-        116,
-        142,
-        21,
-        86,
-        69
+        2,
+        54,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "potent",
-      "answer_letters": "POTENT",
+      "answer": "urging",
+      "answer_letters": "URGING",
+      "indices": [
+        50,
+        158,
+        149,
+        42,
+        165,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "pathway",
+      "answer_letters": "PATHWAY",
       "indices": [
         19,
-        161,
-        65,
-        144,
-        165,
-        83
+        46,
+        86,
+        53,
+        45,
+        130,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "pathways",
+      "answer_letters": "PATHWAYS",
       "indices": [
-        47,
-        24,
-        136,
-        138,
-        53,
-        61
+        33,
+        89,
+        146,
+        84,
+        81,
+        17,
+        122,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yeomanry",
+      "answer_letters": "YEOMANRY",
+      "indices": [
+        87,
+        41,
+        80,
+        67,
+        28,
+        6,
+        106,
+        153
       ]
     }
   ],

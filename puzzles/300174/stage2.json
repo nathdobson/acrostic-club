@@ -6,18 +6,143 @@
   "clues": [
     {
       "clue": null,
-      "answer": "ferdinand",
-      "answer_letters": "FERDINAND",
+      "answer": "fading",
+      "answer_letters": "FADING",
       "indices": [
-        84,
-        115,
-        111,
+        88,
+        74,
         35,
-        49,
-        168,
+        92,
+        58,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reclaimed",
+      "answer_letters": "RECLAIMED",
+      "indices": [
+        71,
+        179,
+        41,
+        46,
+        42,
+        131,
+        108,
+        169,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adorned",
+      "answer_letters": "ADORNED",
+      "indices": [
         144,
+        59,
+        29,
+        180,
+        30,
+        0,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nation",
+      "answer_letters": "NATION",
+      "indices": [
         119,
-        153
+        57,
+        5,
+        11,
+        107,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
+      "indices": [
+        167,
+        165,
+        145,
+        83,
+        1,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mortally",
+      "answer_letters": "MORTALLY",
+      "indices": [
+        113,
+        38,
+        91,
+        69,
+        101,
+        56,
+        142,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "communists",
+      "answer_letters": "COMMUNISTS",
+      "indices": [
+        138,
+        140,
+        100,
+        14,
+        112,
+        34,
+        49,
+        50,
+        177,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chopin",
+      "answer_letters": "CHOPIN",
+      "indices": [
+        48,
+        66,
+        45,
+        129,
+        67,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        39,
+        84,
+        89,
+        133,
+        124,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "upwards",
+      "answer_letters": "UPWARDS",
+      "indices": [
+        87,
+        155,
+        22,
+        33,
+        130,
+        31,
+        137
       ]
     },
     {
@@ -25,290 +150,165 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        102,
-        32,
-        104,
-        120,
-        17,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        96,
-        126,
-        145,
-        138,
-        175,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        58,
-        77,
-        9,
-        44,
-        146,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kowloon",
-      "answer_letters": "KOWLOON",
-      "indices": [
-        167,
-        45,
-        22,
-        46,
-        121,
-        38,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mendes",
-      "answer_letters": "MENDES",
-      "indices": [
-        14,
-        124,
-        152,
-        59,
-        90,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cyprus",
-      "answer_letters": "CYPRUS",
-      "indices": [
-        41,
-        72,
-        129,
-        105,
-        112,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cardiff",
-      "answer_letters": "CARDIFF",
-      "indices": [
-        48,
-        156,
-        130,
-        20,
-        131,
-        89,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        83,
-        134,
-        178,
-        19,
-        170,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "underlying",
-      "answer_letters": "UNDERLYING",
-      "indices": [
-        87,
-        172,
-        110,
-        176,
-        148,
-        56,
-        4,
-        7,
-        97,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reeves",
-      "answer_letters": "REEVES",
-      "indices": [
         54,
-        2,
-        27,
-        1,
+        32,
+        81,
+        78,
+        17,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thereby",
+      "answer_letters": "THEREBY",
+      "indices": [
+        146,
+        6,
         55,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "torpedoes",
-      "answer_letters": "TORPEDOES",
-      "indices": [
-        43,
-        173,
-        180,
-        155,
-        0,
-        106,
-        141,
-        147,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tested",
-      "answer_letters": "TESTED",
-      "indices": [
-        103,
-        179,
-        62,
-        177,
+        102,
         158,
+        126,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "traded",
+      "answer_letters": "TRADED",
+      "indices": [
+        160,
+        148,
+        23,
+        153,
+        90,
         116
       ]
     },
     {
       "clue": null,
-      "answer": "emails",
-      "answer_letters": "EMAILS",
+      "answer": "entirety",
+      "answer_letters": "ENTIRETY",
       "indices": [
-        169,
-        100,
-        101,
-        47,
-        76,
-        137
+        27,
+        168,
+        43,
+        77,
+        105,
+        147,
+        178,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "armando",
-      "answer_letters": "ARMANDO",
+      "answer": "ashton",
+      "answer_letters": "ASHTON",
       "indices": [
-        74,
-        91,
-        113,
-        151,
-        80,
-        31,
-        39
+        79,
+        26,
+        164,
+        120,
+        173,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "christi",
-      "answer_letters": "CHRISTI",
+      "answer": "contesting",
+      "answer_letters": "CONTESTING",
       "indices": [
         28,
-        66,
-        71,
-        11,
-        149,
-        78,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "holidays",
-      "answer_letters": "HOLIDAYS",
-      "indices": [
-        164,
-        70,
-        142,
-        92,
-        98,
-        63,
-        127,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estadio",
-      "answer_letters": "ESTADIO",
-      "indices": [
-        132,
-        135,
-        37,
-        33,
-        64,
-        67,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        3,
-        139,
-        15,
-        5,
-        6,
-        114,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "monitors",
-      "answer_letters": "MONITORS",
-      "indices": [
-        51,
-        29,
+        141,
         12,
+        103,
+        2,
+        60,
+        37,
         53,
-        160,
-        140,
-        157,
-        26
+        172,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "anatomy",
-      "answer_letters": "ANATOMY",
+      "answer": "hybrid",
+      "answer_letters": "HYBRID",
       "indices": [
-        42,
-        8,
-        57,
-        69,
-        165,
-        123,
-        81
+        139,
+        4,
+        175,
+        111,
+        47,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "newman",
-      "answer_letters": "NEWMAN",
+      "answer": "emissions",
+      "answer_letters": "EMISSIONS",
       "indices": [
-        34,
         18,
+        114,
+        118,
+        135,
+        86,
+        7,
+        70,
+        152,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rwanda",
+      "answer_letters": "RWANDA",
+      "indices": [
+        157,
         163,
+        151,
+        159,
+        106,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mehmed",
+      "answer_letters": "MEHMED",
+      "indices": [
         143,
-        79,
-        159
+        132,
+        44,
+        123,
+        115,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "always",
+      "answer_letters": "ALWAYS",
+      "indices": [
+        19,
+        76,
+        170,
+        63,
+        104,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nasser",
+      "answer_letters": "NASSER",
+      "indices": [
+        93,
+        156,
+        161,
+        68,
+        176,
+        3
       ]
     }
   ],

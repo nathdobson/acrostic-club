@@ -6,66 +6,64 @@
   "clues": [
     {
       "clue": null,
-      "answer": "aviation",
-      "answer_letters": "AVIATION",
+      "answer": "advocacy",
+      "answer_letters": "ADVOCACY",
       "indices": [
         9,
-        116,
-        25,
+        132,
+        113,
+        66,
+        155,
         63,
-        121,
-        44,
-        31,
-        52
+        78,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
-        40,
-        156,
-        0,
-        143,
-        71,
-        49,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neoclassical",
-      "answer_letters": "NEOCLASSICAL",
-      "indices": [
-        131,
-        95,
-        76,
-        8,
-        115,
-        163,
-        45,
-        134,
-        21,
-        146,
-        55,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aesthetic",
-      "answer_letters": "AESTHETIC",
-      "indices": [
-        130,
+        151,
         90,
-        16,
-        140,
-        125,
-        112,
-        37,
-        7,
-        124
+        101,
+        177,
+        88,
+        96,
+        117,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "natasha",
+      "answer_letters": "NATASHA",
+      "indices": [
+        91,
+        163,
+        15,
+        55,
+        45,
+        70,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "asia-pacific",
+      "answer_letters": "ASIAPACIFIC",
+      "indices": [
+        160,
+        32,
+        44,
+        71,
+        29,
+        126,
+        107,
+        103,
+        93,
+        14,
+        173
       ]
     },
     {
@@ -74,37 +72,38 @@
       "answer_letters": "GOTHIC",
       "indices": [
         56,
-        114,
-        15,
-        70,
-        39,
-        107
+        122,
+        140,
+        125,
+        119,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "upside",
-      "answer_letters": "UPSIDE",
+      "answer": "upscale",
+      "answer_letters": "UPSCALE",
       "indices": [
-        61,
+        137,
         30,
-        67,
-        139,
-        132,
-        1
+        16,
+        124,
+        150,
+        11,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "invest",
+      "answer_letters": "INVEST",
       "indices": [
-        14,
-        22,
-        51,
-        4,
-        160,
-        79
+        25,
+        52,
+        116,
+        158,
+        82,
+        37
       ]
     },
     {
@@ -112,26 +111,107 @@
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
-        94,
-        43,
-        59,
-        68,
+        0,
         144,
-        65,
-        82
+        12,
+        121,
+        79,
+        157,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "rookie",
-      "answer_letters": "ROOKIE",
+      "answer": "rushes",
+      "answer_letters": "RUSHES",
       "indices": [
+        94,
+        28,
+        22,
+        147,
+        83,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emanuel",
+      "answer_letters": "EMANUEL",
+      "indices": [
+        89,
+        65,
+        108,
+        109,
+        36,
+        1,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "debris",
+      "answer_letters": "DEBRIS",
+      "indices": [
+        47,
+        73,
+        153,
         20,
+        139,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
         167,
-        60,
-        174,
-        119,
-        158
+        6,
+        171,
+        33,
+        138,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utility",
+      "answer_letters": "UTILITY",
+      "indices": [
+        61,
+        42,
+        145,
+        175,
+        7,
+        87,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "baronet",
+      "answer_letters": "BARONET",
+      "indices": [
+        85,
+        130,
+        165,
+        31,
+        131,
+        154,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "loyola",
+      "answer_letters": "LOYOLA",
+      "indices": [
+        10,
+        80,
+        59,
+        81,
+        3,
+        48
       ]
     },
     {
@@ -139,162 +219,82 @@
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
-        89,
-        149,
-        102,
-        122,
+        86,
+        146,
+        105,
+        156,
         135,
         53
       ]
     },
     {
       "clue": null,
-      "answer": "devote",
-      "answer_letters": "DEVOTE",
-      "indices": [
-        47,
-        73,
-        113,
-        80,
-        6,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oblast",
-      "answer_letters": "OBLAST",
-      "indices": [
-        127,
-        85,
-        11,
-        2,
-        177,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unicef",
-      "answer_letters": "UNICEF",
-      "indices": [
-        137,
-        91,
-        145,
-        173,
-        33,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bucharest",
-      "answer_letters": "BUCHAREST",
+      "answer": "bahamas",
+      "answer_letters": "BAHAMAS",
       "indices": [
         35,
-        28,
-        78,
-        147,
         172,
-        138,
-        96,
-        128,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lyceum",
-      "answer_letters": "LYCEUM",
-      "indices": [
-        64,
-        12,
-        155,
-        83,
-        36,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "employs",
-      "answer_letters": "EMPLOYS",
-      "indices": [
-        57,
+        102,
+        18,
         99,
-        29,
-        175,
+        51,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lockwood",
+      "answer_letters": "LOCKWOOD",
+      "indices": [
+        115,
+        114,
+        149,
+        174,
+        143,
         98,
-        141,
-        27
+        76,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "berwick",
-      "answer_letters": "BERWICK",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
       "indices": [
-        153,
-        117,
-        165,
-        101,
-        164,
-        136,
-        23
+        21,
+        162,
+        43,
+        127,
+        40,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "low-cost",
-      "answer_letters": "LOWCOST",
-      "indices": [
-        10,
-        66,
-        88,
-        104,
-        81,
-        5,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        103,
-        32,
-        93,
-        150,
-        171,
-        108,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nevada",
-      "answer_letters": "NEVADA",
+      "answer": "novice",
+      "answer_letters": "NOVICE",
       "indices": [
         120,
-        86,
+        60,
         72,
-        18,
-        111,
-        48
+        164,
+        136,
+        112
       ]
     },
     {
       "clue": null,
-      "answer": "daphne",
-      "answer_letters": "DAPHNE",
+      "answer": "deficits",
+      "answer_letters": "DEFICITS",
       "indices": [
-        97,
-        126,
-        162,
-        105,
-        151,
-        176
+        111,
+        176,
+        168,
+        4,
+        104,
+        39,
+        68,
+        67
       ]
     }
   ],

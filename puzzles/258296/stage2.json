@@ -6,282 +6,282 @@
   "clues": [
     {
       "clue": null,
-      "answer": "method",
-      "answer_letters": "METHOD",
+      "answer": "motorway",
+      "answer_letters": "MOTORWAY",
       "indices": [
-        171,
-        37,
-        88,
-        58,
-        78,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "artifacts",
-      "answer_letters": "ARTIFACTS",
-      "indices": [
-        5,
-        59,
-        2,
-        172,
-        118,
-        44,
-        20,
-        73,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotate",
-      "answer_letters": "ROTATE",
-      "indices": [
-        132,
-        48,
-        47,
-        158,
-        95,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "though",
-      "answer_letters": "THOUGH",
-      "indices": [
-        92,
-        102,
-        75,
-        36,
-        62,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        27,
-        46,
-        104,
-        72,
-        165,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        14,
-        109,
-        157,
-        128,
-        143,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affect",
-      "answer_letters": "AFFECT",
-      "indices": [
-        23,
-        79,
-        138,
-        163,
-        167,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "beaches",
-      "answer_letters": "BEACHES",
-      "indices": [
-        131,
-        145,
-        100,
-        114,
-        89,
-        90,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outdoors",
-      "answer_letters": "OUTDOORS",
-      "indices": [
-        154,
-        133,
-        111,
-        125,
-        97,
+        4,
+        60,
+        107,
         53,
         49,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        84,
-        86,
-        151,
-        161,
-        25,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
-      "indices": [
-        42,
-        112,
-        6,
-        63,
-        150,
-        19,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "equator",
-      "answer_letters": "EQUATOR",
-      "indices": [
-        21,
-        35,
-        61,
-        140,
-        107,
-        60,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "implies",
-      "answer_letters": "IMPLIES",
-      "indices": [
-        3,
-        4,
-        29,
-        168,
-        93,
-        103,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "left-handed",
-      "answer_letters": "LEFTHANDED",
-      "indices": [
-        8,
-        67,
-        98,
-        39,
-        66,
+        11,
         123,
-        173,
-        17,
-        32,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loyalty",
-      "answer_letters": "LOYALTY",
-      "indices": [
-        94,
-        41,
-        9,
-        12,
-        1,
-        127,
         144
       ]
     },
     {
       "clue": null,
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
+      "answer": "aqueous",
+      "answer_letters": "AQUEOUS",
       "indices": [
-        113,
-        69,
-        26,
-        70,
-        54,
-        33
+        44,
+        35,
+        36,
+        37,
+        75,
+        61,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "satisfy",
-      "answer_letters": "SATISFY",
+      "answer": "repeated",
+      "answer_letters": "REPEATED",
       "indices": [
-        159,
+        132,
+        67,
+        157,
+        129,
         81,
-        52,
+        86,
+        7,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        6,
+        58,
+        112,
+        113,
+        162,
+        122,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inform",
+      "answer_letters": "INFORM",
+      "indices": [
         40,
-        38,
-        83,
+        173,
+        155,
+        137,
+        31,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nagoya",
+      "answer_letters": "NAGOYA",
+      "indices": [
+        14,
+        104,
+        174,
+        41,
+        9,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aldershot",
+      "answer_letters": "ALDERSHOT",
+      "indices": [
+        12,
+        8,
+        55,
+        30,
+        59,
+        160,
+        102,
+        117,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "battleships",
+      "answer_letters": "BATTLESHIPS",
+      "indices": [
+        131,
+        120,
+        88,
+        111,
+        54,
+        21,
+        134,
+        115,
+        93,
+        69,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
+        48,
+        15,
+        108,
+        32,
+        149,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-way",
+      "answer_letters": "ONEWAY",
+      "indices": [
+        97,
+        42,
+        145,
+        25,
+        18,
         50
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "notified",
+      "answer_letters": "NOTIFIED",
+      "indices": [
+        19,
+        84,
+        39,
+        74,
+        98,
+        150,
+        109,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        103,
+        79,
+        118,
+        143,
+        20,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        3,
+        95,
+        63,
+        169,
+        114,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "latina",
+      "answer_letters": "LATINA",
+      "indices": [
+        168,
+        165,
+        73,
+        72,
+        124,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        94,
+        163,
+        66,
+        27,
+        62,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "update",
+      "answer_letters": "UPDATE",
+      "indices": [
+        133,
+        29,
+        17,
+        161,
+        52,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shouted",
+      "answer_letters": "SHOUTED",
+      "indices": [
+        28,
+        135,
+        85,
+        0,
+        2,
+        90,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italics",
+      "answer_letters": "ITALICS",
       "indices": [
         170,
-        160,
-        155,
-        18,
-        108,
-        147,
-        124
+        57,
+        5,
+        1,
+        172,
+        167,
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "one-hour",
-      "answer_letters": "ONEHOUR",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
       "indices": [
-        117,
-        141,
-        7,
-        135,
-        137,
-        0,
-        31
+        78,
+        138,
+        83,
+        159,
+        89,
+        70,
+        154,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "negotiate",
-      "answer_letters": "NEGOTIATE",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
         76,
-        129,
-        174,
-        85,
-        57,
-        74,
-        169,
-        65,
-        152
+        100,
+        151,
+        128,
+        147,
+        141
       ]
     }
   ],

@@ -6,46 +6,128 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
       "indices": [
-        163,
-        114,
-        95,
-        126,
-        98,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abruptly",
-      "answer_letters": "ABRUPTLY",
-      "indices": [
-        19,
-        144,
-        26,
-        83,
-        121,
-        48,
-        103,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overnight",
-      "answer_letters": "OVERNIGHT",
-      "indices": [
-        138,
-        104,
-        127,
-        2,
         84,
-        27,
-        21,
+        155,
+        40,
+        142,
+        76,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attribute",
+      "answer_letters": "ATTRIBUTE",
+      "indices": [
+        1,
+        98,
+        70,
+        87,
+        93,
+        132,
+        162,
+        125,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "observe",
+      "answer_letters": "OBSERVE",
+      "indices": [
+        120,
+        144,
+        12,
+        38,
+        2,
+        104,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matter",
+      "answer_letters": "MATTER",
+      "indices": [
+        52,
+        74,
+        48,
+        66,
+        56,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "investors",
+      "answer_letters": "INVESTORS",
+      "indices": [
+        105,
+        137,
+        17,
+        53,
+        167,
+        7,
+        138,
+        26,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wright",
+      "answer_letters": "WRIGHT",
+      "indices": [
+        31,
+        166,
+        18,
+        95,
         37,
-        63
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlets",
+      "answer_letters": "OUTLETS",
+      "indices": [
+        170,
+        46,
+        63,
+        103,
+        51,
+        33,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oratory",
+      "answer_letters": "ORATORY",
+      "indices": [
+        153,
+        129,
+        5,
+        89,
+        149,
+        75,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        171,
+        83,
+        122,
+        156,
+        61,
+        4
       ]
     },
     {
@@ -53,245 +135,163 @@
       "answer": "methodist",
       "answer_letters": "METHODIST",
       "indices": [
-        52,
-        165,
-        70,
-        34,
-        42,
-        171,
-        79,
-        111,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intake",
-      "answer_letters": "INTAKE",
-      "indices": [
+        0,
+        145,
+        168,
+        152,
+        169,
+        85,
         97,
-        91,
-        33,
-        74,
-        115,
-        119
+        23,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "weaker",
-      "answer_letters": "WEAKER",
+      "answer": "replay",
+      "answer_letters": "REPLAY",
       "indices": [
-        31,
-        38,
-        109,
-        43,
-        123,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oblast",
-      "answer_letters": "OBLAST",
-      "indices": [
-        60,
-        55,
-        122,
+        154,
+        119,
+        121,
+        113,
         9,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shinto",
+      "answer_letters": "SHINTO",
+      "indices": [
         108,
-        61
+        81,
+        79,
+        163,
+        141,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "osborn",
-      "answer_letters": "OSBORN",
+      "answer": "highly",
+      "answer_letters": "HIGHLY",
       "indices": [
-        71,
-        88,
-        40,
-        149,
-        57,
-        137
+        8,
+        114,
+        21,
+        34,
+        16,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "dorado",
-      "answer_letters": "DORADO",
+      "answer": "enters",
+      "answer_letters": "ENTERS",
       "indices": [
-        76,
-        120,
-        129,
-        1,
-        92,
-        153
+        116,
+        94,
+        135,
+        127,
+        50,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "methods",
-      "answer_letters": "METHODS",
+      "answer": "majesty",
+      "answer_letters": "MAJESTY",
       "indices": [
         54,
-        130,
-        151,
-        158,
-        142,
-        164,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "returned",
-      "answer_letters": "RETURNED",
-      "indices": [
-        166,
-        56,
-        147,
-        25,
-        87,
-        28,
-        145,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "skopje",
-      "answer_letters": "SKOPJE",
-      "indices": [
-        101,
-        11,
-        169,
-        118,
+        90,
         45,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hutton",
-      "answer_letters": "HUTTON",
-      "indices": [
-        4,
-        162,
-        36,
-        80,
-        155,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elisabeth",
-      "answer_letters": "ELISABETH",
-      "indices": [
-        22,
-        16,
-        105,
-        12,
-        106,
-        132,
-        86,
-        3,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "matteo",
-      "answer_letters": "MATTEO",
-      "indices": [
-        0,
-        5,
-        7,
-        24,
-        116,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insights",
-      "answer_letters": "INSIGHTS",
-      "indices": [
-        18,
-        59,
+        165,
         14,
-        93,
-        29,
-        152,
-        66,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novelty",
-      "answer_letters": "NOVELTY",
-      "indices": [
-        94,
-        64,
-        17,
-        133,
-        159,
-        168,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guilty",
-      "answer_letters": "GUILTY",
-      "indices": [
-        157,
-        156,
-        32,
-        113,
-        125,
+        3,
         128
       ]
     },
     {
       "clue": null,
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
+      "answer": "in-depth",
+      "answer_letters": "INDEPTH",
+      "indices": [
+        32,
+        59,
+        92,
+        123,
+        118,
+        139,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nothing",
+      "answer_letters": "NOTHING",
+      "indices": [
+        28,
+        60,
+        80,
+        158,
+        27,
+        91,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
+      "indices": [
+        29,
+        126,
+        86,
+        151,
+        24,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "worked",
+      "answer_letters": "WORKED",
       "indices": [
         78,
-        148,
-        75,
-        141,
-        81,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "artery",
-      "answer_letters": "ARTERY",
-      "indices": [
-        90,
-        154,
-        139,
-        53,
+        71,
         67,
-        110
+        115,
+        133,
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "albans",
+      "answer_letters": "ALBANS",
       "indices": [
-        68,
-        41,
-        46,
-        135,
-        8,
+        19,
+        159,
+        55,
+        109,
+        10,
         134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
+      "indices": [
+        102,
+        42,
+        43,
+        41,
+        88,
+        25,
+        11,
+        106
       ]
     }
   ],

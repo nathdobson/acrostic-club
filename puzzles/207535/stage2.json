@@ -6,30 +6,29 @@
   "clues": [
     {
       "clue": null,
-      "answer": "summit",
-      "answer_letters": "SUMMIT",
+      "answer": "spoken",
+      "answer_letters": "SPOKEN",
       "indices": [
-        70,
-        162,
-        127,
-        103,
-        84,
-        165
+        114,
+        108,
+        34,
+        88,
+        97,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "assemble",
-      "answer_letters": "ASSEMBLE",
+      "answer": "athlete",
+      "answer_letters": "ATHLETE",
       "indices": [
-        59,
-        49,
-        129,
-        52,
-        181,
-        37,
-        86,
-        95
+        63,
+        122,
+        94,
+        62,
+        26,
+        111,
+        187
       ]
     },
     {
@@ -38,51 +37,55 @@
       "answer_letters": "VOODOO",
       "indices": [
         158,
-        50,
-        112,
-        100,
-        9,
+        150,
+        3,
+        6,
+        53,
         185
       ]
     },
     {
       "clue": null,
-      "answer": "anybody",
-      "answer_letters": "ANYBODY",
+      "answer": "arithmetic",
+      "answer_letters": "ARITHMETIC",
       "indices": [
-        98,
-        75,
-        109,
-        184,
-        3,
-        21,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nissan",
-      "answer_letters": "NISSAN",
-      "indices": [
-        120,
-        14,
-        69,
-        22,
         73,
-        133
+        169,
+        141,
+        82,
+        149,
+        51,
+        55,
+        19,
+        56,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "needle",
-      "answer_letters": "NEEDLE",
+      "answer": "neptune",
+      "answer_letters": "NEPTUNE",
       "indices": [
-        54,
+        18,
+        89,
+        107,
+        165,
+        4,
+        120,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "namely",
+      "answer_letters": "NAMELY",
+      "indices": [
+        99,
+        98,
+        127,
         65,
-        30,
-        78,
-        33,
-        97
+        175,
+        172
       ]
     },
     {
@@ -90,216 +93,213 @@
       "answer": "affinity",
       "answer_letters": "AFFINITY",
       "indices": [
-        17,
-        176,
-        167,
-        11,
-        99,
-        124,
-        115,
+        24,
+        32,
+        12,
+        45,
+        57,
+        154,
+        144,
         136
       ]
     },
     {
       "clue": null,
-      "answer": "helium",
-      "answer_letters": "HELIUM",
+      "answer": "howell",
+      "answer_letters": "HOWELL",
       "indices": [
-        149,
-        174,
-        62,
-        102,
-        81,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bricks",
-      "answer_letters": "BRICKS",
-      "indices": [
-        80,
-        36,
-        154,
-        2,
-        88,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "receipts",
-      "answer_letters": "RECEIPTS",
-      "indices": [
-        96,
-        89,
-        64,
-        68,
-        0,
-        108,
-        144,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outpost",
-      "answer_letters": "OUTPOST",
-      "indices": [
-        35,
-        4,
-        82,
-        107,
-        34,
-        173,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wholly",
-      "answer_letters": "WHOLLY",
-      "indices": [
-        139,
-        72,
-        38,
-        175,
-        67,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nowhere",
-      "answer_letters": "NOWHERE",
-      "indices": [
-        179,
-        168,
-        44,
         47,
-        159,
-        40,
-        128
+        9,
+        44,
+        95,
+        33,
+        5
       ]
     },
     {
       "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
+      "answer": "boosted",
+      "answer_letters": "BOOSTED",
       "indices": [
-        8,
-        132,
-        152,
-        28,
-        123,
-        77
+        161,
+        112,
+        50,
+        188,
+        115,
+        174,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "runway",
+      "answer_letters": "RUNWAY",
       "indices": [
-        25,
-        29,
-        182,
-        46,
-        105,
-        51
+        36,
+        162,
+        142,
+        139,
+        59,
+        109
       ]
     },
     {
       "clue": null,
-      "answer": "ammunition",
-      "answer_letters": "AMMUNITION",
+      "answer": "obsessed",
+      "answer_letters": "OBSESSED",
       "indices": [
-        24,
-        151,
-        171,
-        74,
-        140,
-        178,
-        92,
-        141,
-        150,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "finished",
-      "answer_letters": "FINISHED",
-      "indices": [
-        32,
-        45,
-        57,
-        91,
-        114,
-        23,
-        187,
+        168,
+        37,
+        70,
+        20,
+        69,
+        130,
+        30,
         41
       ]
     },
     {
       "clue": null,
-      "answer": "followed",
-      "answer_letters": "FOLLOWED",
+      "answer": "whitish",
+      "answer_letters": "WHITISH",
       "indices": [
-        12,
-        138,
-        164,
-        5,
-        53,
         16,
-        26,
-        6
+        29,
+        124,
+        46,
+        91,
+        125,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "normandy",
+      "answer_letters": "NORMANDY",
       "indices": [
-        56,
-        42,
-        63,
-        119,
-        157,
-        94
+        75,
+        35,
+        40,
+        181,
+        116,
+        133,
+        21,
+        182
       ]
     },
     {
       "clue": null,
-      "answer": "therapies",
-      "answer_letters": "THERAPIES",
+      "answer": "greyish",
+      "answer_letters": "GREYISH",
+      "indices": [
+        8,
+        96,
+        77,
+        117,
+        87,
+        147,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rachel",
+      "answer_letters": "RACHEL",
+      "indices": [
+        25,
+        39,
+        64,
+        123,
+        128,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amphibious",
+      "answer_letters": "AMPHIBIOUS",
+      "indices": [
+        17,
+        171,
+        61,
+        72,
+        119,
+        80,
+        178,
+        38,
+        81,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fumble",
+      "answer_letters": "FUMBLE",
+      "indices": [
+        167,
+        74,
+        103,
+        184,
+        86,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "finishes",
+      "answer_letters": "FINISHES",
+      "indices": [
+        176,
+        11,
+        179,
+        102,
+        129,
+        23,
+        52,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ismail",
+      "answer_letters": "ISMAIL",
+      "indices": [
+        146,
+        42,
+        135,
+        106,
+        14,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thomson",
+      "answer_letters": "THOMSON",
       "indices": [
         76,
-        145,
-        20,
-        169,
-        39,
-        61,
-        87,
-        55,
-        130
+        105,
+        138,
+        151,
+        173,
+        132,
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "inhabitants",
-      "answer_letters": "INHABITANTS",
+      "answer": "initiated",
+      "answer_letters": "INITIATED",
       "indices": [
-        163,
+        0,
         186,
-        156,
-        106,
-        161,
-        146,
-        111,
-        116,
-        18,
-        122,
-        188
+        163,
+        28,
+        84,
+        157,
+        92,
+        152,
+        78
       ]
     }
   ],

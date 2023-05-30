@@ -6,58 +6,60 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mighty",
-      "answer_letters": "MIGHTY",
+      "answer": "melting",
+      "answer_letters": "MELTING",
       "indices": [
-        128,
-        151,
-        98,
-        76,
-        146,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anything",
-      "answer_letters": "ANYTHING",
-      "indices": [
-        53,
-        179,
-        63,
-        182,
-        14,
-        59,
-        167,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ritchie",
-      "answer_letters": "RITCHIE",
-      "indices": [
-        164,
-        178,
-        125,
-        142,
-        147,
-        50,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "instant",
-      "answer_letters": "INSTANT",
-      "indices": [
-        121,
-        162,
-        88,
+        138,
+        1,
+        84,
         22,
+        121,
+        179,
+        180
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anymore",
+      "answer_letters": "ANYMORE",
+      "indices": [
+        187,
+        52,
+        0,
+        60,
+        107,
+        164,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ruthless",
+      "answer_letters": "RUTHLESS",
+      "indices": [
+        3,
+        67,
+        146,
+        29,
+        168,
+        18,
+        88,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intimate",
+      "answer_letters": "INTIMATE",
+      "indices": [
+        115,
+        162,
+        41,
+        50,
+        47,
         24,
-        72,
-        109
+        105,
+        79
       ]
     },
     {
@@ -65,242 +67,240 @@
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
-        52,
-        166,
-        42,
-        28,
-        99,
-        163,
-        71,
+        72,
+        10,
+        66,
+        161,
+        126,
+        110,
+        132,
         101,
-        49
+        69
       ]
     },
     {
       "clue": null,
-      "answer": "awareness",
-      "answer_letters": "AWARENESS",
+      "answer": "atherton",
+      "answer_letters": "ATHERTON",
       "indices": [
-        90,
-        174,
+        71,
+        35,
+        14,
+        15,
+        34,
+        125,
+        183,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "madhya",
+      "answer_letters": "MADHYA",
+      "indices": [
+        128,
         77,
-        38,
-        23,
+        119,
+        143,
+        169,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orthogonal",
+      "answer_letters": "ORTHOGONAL",
+      "indices": [
+        51,
+        78,
+        13,
+        99,
+        166,
+        87,
+        96,
+        111,
+        159,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "launches",
+      "answer_letters": "LAUNCHES",
+      "indices": [
+        176,
+        53,
+        97,
         155,
-        44,
-        4,
+        62,
+        147,
+        148,
         113
       ]
     },
     {
       "clue": null,
-      "answer": "mascot",
-      "answer_letters": "MASCOT",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
       "indices": [
-        47,
-        141,
-        172,
-        25,
-        96,
-        105
+        145,
+        73,
+        175,
+        39,
+        76,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
+      "answer": "difficulty",
+      "answer_letters": "DIFFICULTY",
       "indices": [
-        107,
-        7,
-        108,
-        19,
-        126,
-        154,
-        48,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lumpur",
-      "answer_letters": "LUMPUR",
-      "indices": [
-        116,
-        43,
-        60,
-        158,
-        67,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
-      "indices": [
-        51,
-        152,
+        92,
+        59,
         135,
-        68,
-        26,
-        183,
+        152,
+        85,
+        142,
+        43,
+        117,
+        114,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afternoons",
+      "answer_letters": "AFTERNOONS",
+      "indices": [
+        2,
+        81,
+        65,
+        123,
         120,
+        167,
+        48,
+        6,
+        86,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "browne",
+      "answer_letters": "BROWNE",
+      "indices": [
+        103,
+        188,
+        154,
+        131,
+        17,
         140
       ]
     },
     {
       "clue": null,
-      "answer": "drought",
-      "answer_letters": "DROUGHT",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
       "indices": [
-        119,
-        78,
-        6,
-        97,
-        87,
-        29,
-        58
+        44,
+        7,
+        108,
+        23,
+        25,
+        49,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "alternately",
-      "answer_letters": "ALTERNATELY",
+      "answer": "lateral",
+      "answer_letters": "LATERAL",
       "indices": [
-        132,
-        168,
-        161,
-        79,
-        136,
-        111,
-        187,
+        185,
+        141,
+        109,
+        156,
+        16,
+        61,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "interpreter",
+      "answer_letters": "INTERPRETER",
+      "indices": [
+        178,
+        57,
         9,
         37,
-        177,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bright",
-      "answer_letters": "BRIGHT",
-      "indices": [
-        103,
-        3,
-        56,
-        180,
-        95,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eisenhower",
-      "answer_letters": "EISENHOWER",
-      "indices": [
-        1,
-        85,
-        75,
-        156,
-        91,
-        143,
-        145,
-        131,
-        148,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lafayette",
-      "answer_letters": "LAFAYETTE",
-      "indices": [
-        54,
-        159,
-        81,
-        61,
-        169,
+        136,
+        158,
+        149,
         127,
-        69,
-        65,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interstellar",
-      "answer_letters": "INTERSTELLAR",
-      "indices": [
-        175,
-        17,
-        13,
-        82,
-        16,
-        39,
         94,
-        110,
-        185,
-        84,
-        33,
-        66
+        83,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "ellison",
-      "answer_letters": "ELLISON",
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
       "indices": [
-        30,
-        176,
-        117,
-        115,
-        20,
-        10,
-        86
+        163,
+        68,
+        19,
+        90,
+        63,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "venetian",
-      "answer_letters": "VENETIAN",
+      "answer": "volunteer",
+      "answer_letters": "VOLUNTEER",
       "indices": [
         122,
-        123,
-        57,
-        12,
-        35,
-        171,
-        130,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        18,
-        92,
-        138,
         137,
-        189,
-        73
+        54,
+        104,
+        36,
+        58,
+        12,
+        30,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "recapture",
-      "answer_letters": "RECAPTURE",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        149,
         46,
-        62,
-        2,
         32,
-        41,
-        104,
-        188,
-        186
+        171,
+        182,
+        26,
+        82,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "right-wing",
+      "answer_letters": "RIGHTWING",
+      "indices": [
+        160,
+        151,
+        11,
+        95,
+        100,
+        174,
+        56,
+        189,
+        98
       ]
     }
   ],

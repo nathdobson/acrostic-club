@@ -6,145 +6,150 @@
   "clues": [
     {
       "clue": null,
-      "answer": "softer",
-      "answer_letters": "SOFTER",
+      "answer": "sparta",
+      "answer_letters": "SPARTA",
       "indices": [
-        43,
-        50,
-        75,
+        6,
+        175,
+        10,
+        78,
+        151,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "through",
+      "answer_letters": "THROUGH",
+      "indices": [
         153,
-        168,
-        5
+        40,
+        103,
+        171,
+        150,
+        30,
+        178
       ]
     },
     {
       "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        18,
-        104,
-        7,
-        39,
-        183,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eleanor",
-      "answer_letters": "ELEANOR",
+      "answer": "europa",
+      "answer_letters": "EUROPA",
       "indices": [
         186,
-        46,
-        20,
-        187,
-        61,
-        171,
-        118
+        13,
+        110,
+        63,
+        159,
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "pathology",
-      "answer_letters": "PATHOLOGY",
+      "answer": "policing",
+      "answer_letters": "POLICING",
       "indices": [
-        175,
-        131,
-        163,
-        167,
+        158,
+        109,
+        9,
+        81,
+        139,
+        189,
+        29,
+        191
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "horsepower",
+      "answer_letters": "HORSEPOWER",
+      "indices": [
+        19,
         89,
-        27,
-        36,
-        191,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hunger",
-      "answer_letters": "HUNGER",
-      "indices": [
-        154,
-        45,
-        188,
-        80,
-        164,
+        121,
+        161,
+        52,
+        67,
+        160,
+        91,
+        143,
         93
       ]
     },
     {
       "clue": null,
-      "answer": "educate",
-      "answer_letters": "EDUCATE",
+      "answer": "enabled",
+      "answer_letters": "ENABLED",
       "indices": [
-        138,
-        86,
-        150,
-        170,
-        179,
-        151,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nordic",
-      "answer_letters": "NORDIC",
-      "indices": [
-        190,
-        55,
-        98,
-        94,
-        4,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "installed",
-      "answer_letters": "INSTALLED",
-      "indices": [
-        162,
-        88,
-        142,
-        102,
-        28,
-        107,
-        68,
-        25,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eclipse",
-      "answer_letters": "ECLIPSE",
-      "indices": [
-        34,
-        139,
+        164,
+        61,
+        187,
+        137,
         128,
-        79,
-        49,
-        6,
-        143
+        123,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "marylebone",
-      "answer_letters": "MARYLEBONE",
+      "answer": "non-league",
+      "answer_letters": "NONLEAGUE",
+      "indices": [
+        53,
+        74,
+        126,
+        46,
+        20,
+        28,
+        33,
+        45,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "illawarra",
+      "answer_letters": "ILLAWARRA",
+      "indices": [
+        146,
+        57,
+        107,
+        104,
+        145,
+        85,
+        65,
+        98,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estonia",
+      "answer_letters": "ESTONIA",
+      "indices": [
+        155,
+        48,
+        147,
+        120,
+        190,
+        4,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mythology",
+      "answer_letters": "MYTHOLOGY",
       "indices": [
         185,
-        140,
-        65,
-        130,
-        9,
-        41,
-        137,
-        109,
-        53,
-        123
+        134,
+        7,
+        167,
+        50,
+        68,
+        60,
+        12,
+        58
       ]
     },
     {
@@ -152,12 +157,12 @@
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
-        52,
+        125,
+        96,
         3,
-        37,
-        120,
-        110,
-        112
+        36,
+        113,
+        18
       ]
     },
     {
@@ -165,147 +170,142 @@
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [
-        134,
-        24,
-        172,
-        70,
-        14,
-        56
+        1,
+        141,
+        88,
+        82,
+        69,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "entourage",
-      "answer_letters": "ENTOURAGE",
+      "answer": "embryo",
+      "answer_letters": "EMBRYO",
       "indices": [
-        16,
-        182,
-        133,
-        129,
-        13,
-        113,
-        69,
-        30,
+        41,
+        0,
+        100,
+        5,
+        130,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rancho",
+      "answer_letters": "RANCHO",
+      "indices": [
+        118,
+        131,
+        56,
+        173,
+        154,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "telescope",
+      "answer_letters": "TELESCOPE",
+      "indices": [
+        116,
+        71,
+        132,
+        25,
+        43,
+        170,
+        44,
+        49,
         101
       ]
     },
     {
       "clue": null,
-      "answer": "roberta",
-      "answer_letters": "ROBERTA",
+      "answer": "huffington",
+      "answer_letters": "HUFFINGTON",
       "indices": [
-        121,
-        157,
-        100,
-        71,
-        78,
-        176,
-        10
+        84,
+        31,
+        37,
+        75,
+        162,
+        182,
+        80,
+        166,
+        92,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "towing",
-      "answer_letters": "TOWING",
+      "answer": "editing",
+      "answer_letters": "EDITING",
       "indices": [
-        116,
-        117,
-        145,
+        138,
+        86,
+        79,
+        102,
         115,
-        126,
+        188,
         15
       ]
     },
     {
       "clue": null,
-      "answer": "hiking",
-      "answer_letters": "HIKING",
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
       "indices": [
-        40,
-        81,
-        51,
-        189,
-        29,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evolutionary",
-      "answer_letters": "EVOLUTIONARY",
-      "indices": [
-        174,
-        124,
-        60,
-        57,
-        141,
-        147,
-        146,
-        92,
-        82,
-        85,
-        23,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "halfway",
-      "answer_letters": "HALFWAY",
-      "indices": [
-        19,
-        32,
-        132,
-        96,
-        91,
-        114,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oppose",
-      "answer_letters": "OPPOSE",
-      "indices": [
-        97,
-        67,
-        158,
-        63,
-        161,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "southampton",
-      "answer_letters": "SOUTHAMPTON",
-      "indices": [
-        48,
-        44,
-        64,
-        22,
-        178,
-        106,
-        0,
-        159,
-        166,
-        149,
+        148,
+        24,
+        39,
+        176,
+        183,
         11
       ]
     },
     {
       "clue": null,
-      "answer": "thorough",
-      "answer_letters": "THOROUGH",
+      "answer": "overlooked",
+      "answer_letters": "OVERLOOKED",
       "indices": [
+        117,
+        124,
+        34,
+        23,
+        27,
+        129,
+        55,
+        51,
+        174,
+        180
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statute",
+      "answer_letters": "STATUTE",
+      "indices": [
+        142,
+        112,
+        106,
         72,
-        84,
+        64,
+        133,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toyota",
+      "answer_letters": "TOYOTA",
+      "indices": [
+        163,
+        149,
+        105,
         77,
-        103,
-        160,
-        31,
-        12,
-        148
+        22,
+        140
       ]
     }
   ],

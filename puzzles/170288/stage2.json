@@ -6,42 +6,44 @@
   "clues": [
     {
       "clue": null,
-      "answer": "affair",
-      "answer_letters": "AFFAIR",
+      "answer": "anthony",
+      "answer_letters": "ANTHONY",
       "indices": [
-        161,
-        70,
-        151,
         8,
-        80,
-        123
+        91,
+        146,
+        98,
+        39,
+        44,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "lawsuits",
+      "answer_letters": "LAWSUITS",
       "indices": [
         104,
-        124,
-        144,
-        27,
-        41,
-        108
+        31,
+        30,
+        83,
+        133,
+        16,
+        81,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
+      "answer": "ethnic",
+      "answer_letters": "ETHNIC",
       "indices": [
-        84,
-        17,
-        63,
-        182,
-        7,
-        72,
-        88
+        154,
+        130,
+        47,
+        66,
+        59,
+        92
       ]
     },
     {
@@ -50,261 +52,259 @@
       "answer_letters": "XAVIER",
       "indices": [
         58,
-        31,
-        119,
-        159,
-        52,
+        145,
+        170,
+        5,
+        87,
         76
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "itunes",
+      "answer_letters": "ITUNES",
       "indices": [
-        5,
-        78,
-        23,
-        173,
-        38,
-        109,
-        160
+        48,
+        107,
+        40,
+        49,
+        52,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "showcased",
-      "answer_letters": "SHOWCASED",
+      "answer": "sheriff's",
+      "answer_letters": "SHERIFFS",
       "indices": [
-        54,
-        20,
-        132,
-        74,
-        155,
-        125,
-        83,
+        13,
+        108,
+        99,
+        153,
+        157,
+        178,
+        151,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "halftime",
+      "answer_letters": "HALFTIME",
+      "indices": [
+        1,
+        65,
+        175,
+        23,
+        162,
+        167,
+        86,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alienated",
+      "answer_letters": "ALIENATED",
+      "indices": [
+        161,
+        53,
+        171,
+        55,
+        165,
+        109,
+        143,
         57,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
+      "indices": [
+        11,
+        179,
+        183,
+        120,
+        78,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "loaned",
+      "answer_letters": "LOANED",
+      "indices": [
+        127,
+        12,
+        75,
+        100,
+        169,
         67
       ]
     },
     {
       "clue": null,
-      "answer": "haitian",
-      "answer_letters": "HAITIAN",
+      "answer": "godfather",
+      "answer_letters": "GODFATHER",
       "indices": [
-        42,
-        145,
-        16,
-        19,
-        157,
+        50,
+        182,
+        185,
+        70,
         34,
-        3
+        110,
+        131,
+        184,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "articles",
-      "answer_letters": "ARTICLES",
-      "indices": [
-        75,
-        121,
-        172,
-        102,
-        92,
-        138,
-        62,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "likely",
-      "answer_letters": "LIKELY",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
         150,
-        112,
+        85,
+        135,
+        102,
+        134,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isolation",
+      "answer_letters": "ISOLATION",
+      "indices": [
+        139,
+        60,
+        164,
+        181,
+        115,
+        19,
+        80,
+        45,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tasked",
+      "answer_letters": "TASKED",
+      "indices": [
+        28,
+        69,
+        32,
         140,
-        154,
-        53,
+        124,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toledo",
+      "answer_letters": "TOLEDO",
+      "indices": [
+        14,
+        93,
+        180,
+        97,
+        77,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
+      "indices": [
+        141,
+        73,
+        101,
+        136,
+        74,
+        42,
+        90,
+        138,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robbery",
+      "answer_letters": "ROBBERY",
+      "indices": [
+        156,
+        24,
+        103,
+        174,
+        149,
+        123,
         128
       ]
     },
     {
       "clue": null,
-      "answer": "lobbied",
-      "answer_letters": "LOBBIED",
+      "answer": "lightweight",
+      "answer_letters": "LIGHTWEIGHT",
       "indices": [
-        181,
-        93,
-        174,
-        103,
-        163,
-        85,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guelph",
-      "answer_letters": "GUELPH",
-      "indices": [
-        134,
-        40,
-        149,
-        180,
-        95,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leftist",
-      "answer_letters": "LEFTIST",
-      "indices": [
-        175,
-        141,
-        178,
-        14,
-        59,
-        148,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "investors",
-      "answer_letters": "INVESTORS",
-      "indices": [
-        171,
-        91,
-        170,
-        99,
-        60,
-        146,
-        12,
-        96,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twentieth",
-      "answer_letters": "TWENTIETH",
-      "indices": [
-        28,
-        30,
-        87,
-        165,
-        110,
-        167,
-        55,
-        130,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "teresa",
-      "answer_letters": "TERESA",
-      "indices": [
+        126,
+        112,
+        25,
+        20,
         71,
-        118,
-        156,
+        0,
         2,
-        9,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
-      "indices": [
-        105,
-        116,
-        86,
-        179,
-        168,
-        61,
-        39,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        73,
-        98,
-        176,
-        37,
-        131,
-        158,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lithium",
-      "answer_letters": "LITHIUM",
-      "indices": [
-        127,
-        48,
-        46,
+        159,
+        41,
         114,
-        90,
-        133,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anthem",
+      "answer_letters": "ANTHEM",
+      "indices": [
+        125,
+        3,
+        46,
+        38,
+        21,
         94
       ]
     },
     {
       "clue": null,
-      "answer": "altogether",
-      "answer_letters": "ALTOGETHER",
+      "answer": "newman",
+      "answer_letters": "NEWMAN",
       "indices": [
-        69,
-        126,
-        81,
-        24,
-        25,
-        21,
-        143,
-        1,
-        97,
-        153
+        17,
+        72,
+        7,
+        158,
+        173,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
+      "answer": "descriptive",
+      "answer_letters": "DESCRIPTIVE",
       "indices": [
-        49,
-        169,
-        0,
-        162,
-        164,
-        183,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "delegations",
-      "answer_letters": "DELEGATIONS",
-      "indices": [
-        77,
-        120,
-        11,
-        184,
-        50,
-        115,
-        107,
-        139,
-        45,
-        44,
-        32
+        88,
+        84,
+        54,
+        155,
+        96,
+        163,
+        95,
+        172,
+        27,
+        119,
+        118
       ]
     }
   ],

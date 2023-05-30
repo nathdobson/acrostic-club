@@ -2,16 +2,17 @@ use std::{io, mem};
 use std::alloc::Allocator;
 use std::borrow::Borrow;
 use std::cmp::Ordering;
-use std::collections::BTreeMap;
+use std::collections::{BTreeMap, HashMap, HashSet};
 use std::fmt::{Debug, Formatter};
 use std::mem::size_of;
 use std::path::Path;
 use std::time::Instant;
 use futures::stream::FuturesUnordered;
 use futures::{StreamExt, TryStreamExt};
+use rand::SeedableRng;
 
 use rand::seq::SliceRandom;
-use rand::thread_rng;
+use rand_xorshift::XorShiftRng;
 use tokio::sync::Semaphore;
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
@@ -45,7 +46,7 @@ pub enum FlatTrieView<'a, V> {
 
 unsafe impl<V: AnyRepr> AnyRepr for FlatTrieEntry<V> {}
 
-impl<V> FlatTrie<V> {
+impl<V: Clone> FlatTrie<V> {
     pub fn new_unchecked_box<A: Allocator + Sized>(b: Box<[FlatTrieEntry<V>], A>) -> Box<Self, A> {
         unsafe {
             assert_eq!(
@@ -117,7 +118,8 @@ impl<V> FlatTrie<V> {
         &'a self,
         superset: LetterSet,
         radius: usize,
-    ) -> Option<&V> {
+        found: &mut Vec<V>,
+    ) {
         match self.view() {
             FlatTrieView::Empty => {}
             FlatTrieView::Leaf {
@@ -126,11 +128,9 @@ impl<V> FlatTrie<V> {
                 remainder,
             } => {
                 if key.is_subset(superset) && (superset - *key).count() == radius {
-                    return Some(value);
+                    found.push(value.clone());
                 }
-                if let Some(value) = remainder.search_subset(superset, radius) {
-                    return Some(value);
-                }
+                remainder.search_subset(superset, radius, found)
             }
             FlatTrieView::Node {
                 letter,
@@ -140,40 +140,32 @@ impl<V> FlatTrie<V> {
                 if let Some(radius2) = radius.checked_sub(superset[letter] as usize) {
                     let mut superset2 = superset;
                     superset2[letter] = 0;
-                    if let Some(value) = without.search_subset(superset2, radius2) {
-                        return Some(value);
-                    }
+                    without.search_subset(superset2, radius2, found);
                 }
                 if superset[letter] > 0 {
                     let mut superset2 = superset;
                     superset2[letter] -= 1;
-                    if let Some(value) = with.search_subset(superset2, radius) {
-                        return Some(value);
-                    }
+                    with.search_subset(superset2, radius, found);
                 }
             }
         }
-        None
     }
     #[inline(never)]
-    pub fn search_smallest_subset(&self, key: LetterSet, min_len: usize) -> Option<&V> {
+    pub fn search_smallest_subset(&self, key: LetterSet, min_len: usize, result: &mut Vec<V>) {
         for len in min_len..=key.count() {
             let radius = key.count() - len;
-            if let Some(found) = self.search_subset(key, radius) {
-                return Some(found);
-            }
+            self.search_subset(key, radius, result);
         }
-        None
     }
-    pub fn search_largest_subset(&self, key: LetterSet, max_len: usize) -> Option<&V> {
+    pub fn search_largest_subset(&self, key: LetterSet, max_len: usize, found: &mut Vec<V>) {
         for len in 0..=max_len {
             let len = max_len - len;
             let radius = key.count() - len;
-            if let Some(found) = self.search_subset(key, radius) {
-                return Some(found);
+            self.search_subset(key, radius, found);
+            if !found.is_empty() {
+                return;
             }
         }
-        None
     }
     // pub fn new_box<A: Allocator>(mut b: Box<[FlatTrieEntry<K, V>], A>) -> Box<Self, A> {
     //     Self::build(&mut *b);
@@ -234,12 +226,15 @@ impl<V: Debug> FlatTrieBuilder<V> {
     }
 }
 
-impl<V: Debug> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
+impl<V: Debug + Clone> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
     fn from_iter<T: IntoIterator<Item=(LetterSet, V)>>(iter: T) -> Self {
         let mut entries = iter
             .into_iter()
             .map(|(k, v)| (k, Some(v)))
             .collect::<Vec<_>>();
+        // let mut rand = XorShiftRng::seed_from_u64(123);
+        // entries.shuffle(&mut rand);
+        // let mut entries = entries.into_iter().collect::<HashMap<_, _>>().into_iter().collect::<Vec<_>>();
         let mut builder = FlatTrieBuilder::new();
         builder.add_entries(&mut entries, LetterSet::new());
         let result = FlatTrie::new_unchecked_box(builder.output.into_boxed_slice());
@@ -248,7 +243,7 @@ impl<V: Debug> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
     }
 }
 
-impl<V: Debug> Debug for FlatTrie<V> {
+impl<V: Debug + Clone> Debug for FlatTrie<V> {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         match self.view() {
             FlatTrieView::Empty => write!(f, "ø"),
@@ -284,7 +279,6 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
         }
     }
 }
-
 
 pub async fn build_trie() -> io::Result<()> {
     let dict = FLAT_WORDS.get().await?;

@@ -6,301 +6,301 @@
   "clues": [
     {
       "clue": null,
-      "answer": "guilty",
-      "answer_letters": "GUILTY",
+      "answer": "genome",
+      "answer_letters": "GENOME",
+      "indices": [
+        73,
+        82,
+        111,
+        155,
+        137,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eclipse",
+      "answer_letters": "ECLIPSE",
+      "indices": [
+        57,
+        160,
+        122,
+        175,
+        49,
+        112,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oliver",
+      "answer_letters": "OLIVER",
+      "indices": [
+        174,
+        38,
+        5,
+        143,
+        94,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "righteous",
+      "answer_letters": "RIGHTEOUS",
+      "indices": [
+        164,
+        39,
+        69,
+        60,
+        127,
+        161,
+        114,
+        150,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gustaf",
+      "answer_letters": "GUSTAF",
       "indices": [
         125,
-        124,
-        39,
-        92,
+        80,
+        131,
+        61,
+        142,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ellington",
+      "answer_letters": "ELLINGTON",
+      "indices": [
+        50,
+        141,
+        25,
+        18,
+        133,
+        59,
         12,
+        179,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "spiritual",
+      "answer_letters": "SPIRITUAL",
+      "indices": [
+        105,
+        173,
+        58,
+        145,
+        43,
+        90,
+        124,
+        170,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bombay",
+      "answer_letters": "BOMBAY",
+      "indices": [
+        63,
+        110,
+        157,
+        27,
+        1,
         86
       ]
     },
     {
       "clue": null,
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
+      "answer": "anchored",
+      "answer_letters": "ANCHORED",
       "indices": [
-        20,
+        103,
         176,
-        29,
-        179,
-        122,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "olivier",
-      "answer_letters": "OLIVIER",
-      "indices": [
-        174,
-        99,
-        71,
-        19,
-        88,
-        94,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        77,
-        4,
-        138,
-        108,
-        13,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gentlemen",
-      "answer_letters": "GENTLEMEN",
-      "indices": [
-        7,
-        158,
-        133,
-        171,
-        151,
-        45,
-        166,
-        14,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnicities",
-      "answer_letters": "ETHNICITIES",
-      "indices": [
-        82,
-        127,
-        60,
-        6,
-        75,
-        134,
-        58,
-        117,
-        26,
-        91,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "summed",
-      "answer_letters": "SUMMED",
-      "indices": [
-        105,
-        2,
-        157,
-        156,
-        23,
+        95,
+        169,
+        165,
+        102,
+        32,
         33
       ]
     },
     {
       "clue": null,
-      "answer": "built-in",
-      "answer_letters": "BUILTIN",
-      "indices": [
-        27,
-        16,
-        5,
-        66,
-        90,
-        175,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "auburn",
-      "answer_letters": "AUBURN",
-      "indices": [
-        123,
-        68,
-        63,
-        150,
-        145,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "temple",
-      "answer_letters": "TEMPLE",
+      "answer": "thrash",
+      "answer_letters": "THRASH",
       "indices": [
         101,
-        128,
-        35,
-        49,
-        106,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affects",
-      "answer_letters": "AFFECTS",
-      "indices": [
-        67,
-        163,
-        115,
-        161,
-        160,
-        96,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        18,
+        118,
+        129,
+        107,
         120,
-        30,
-        43,
-        98,
-        118
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "leagues",
-      "answer_letters": "LEAGUES",
+      "answer": "accents",
+      "answer_letters": "ACCENTS",
       "indices": [
-        141,
-        28,
-        103,
-        69,
-        97,
-        32,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "longest",
-      "answer_letters": "LONGEST",
-      "indices": [
-        25,
-        165,
-        111,
-        3,
-        144,
-        22,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "earning",
-      "answer_letters": "EARNING",
-      "indices": [
-        78,
-        48,
-        102,
-        72,
-        132,
-        180,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "governorship",
-      "answer_letters": "GOVERNORSHIP",
-      "indices": [
-        59,
-        110,
-        143,
-        135,
-        164,
-        17,
-        155,
-        21,
-        81,
-        70,
-        109,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unaffected",
-      "answer_letters": "UNAFFECTED",
-      "indices": [
-        80,
-        85,
-        84,
-        79,
-        40,
-        41,
-        154,
-        177,
-        50,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        119,
-        10,
-        126,
-        1,
-        47,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loyalist",
-      "answer_letters": "LOYALIST",
-      "indices": [
-        0,
-        149,
-        36,
-        142,
-        38,
-        52,
-        140,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        31,
-        148,
-        114,
-        56,
         9,
+        154,
+        47,
+        78,
+        104,
+        31,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "immunity",
+      "answer_letters": "IMMUNITY",
+      "indices": [
+        71,
+        156,
+        35,
+        2,
+        6,
+        119,
+        168,
         146
       ]
     },
     {
       "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "answer": "lichen",
+      "answer_letters": "LICHEN",
       "indices": [
-        64,
-        107,
-        95,
-        169,
-        61,
+        151,
+        109,
+        134,
+        126,
+        20,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lawyer",
+      "answer_letters": "LAWYER",
+      "indices": [
+        92,
+        98,
+        148,
+        36,
+        14,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evenings",
+      "answer_letters": "EVENINGS",
+      "indices": [
+        135,
+        19,
+        91,
+        85,
+        132,
+        180,
+        7,
         46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "goaltender",
+      "answer_letters": "GOALTENDER",
+      "indices": [
+        3,
+        149,
+        30,
+        106,
+        10,
+        128,
+        159,
+        152,
+        45,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utility",
+      "answer_letters": "UTILITY",
+      "indices": [
+        16,
+        117,
+        88,
+        99,
+        75,
+        53,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "itunes",
+      "answer_letters": "ITUNES",
+      "indices": [
+        52,
+        177,
+        97,
+        89,
+        158,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        0,
+        68,
+        115,
+        108,
+        56,
+        84,
+        163,
+        40,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thistle",
+      "answer_letters": "THISTLE",
+      "indices": [
+        171,
+        13,
+        26,
+        54,
+        96,
+        93,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        138,
+        123,
+        166,
+        67,
+        70,
+        48
       ]
     }
   ],

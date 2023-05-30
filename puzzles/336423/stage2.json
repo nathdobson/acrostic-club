@@ -6,208 +6,210 @@
   "clues": [
     {
       "clue": null,
-      "answer": "cheese",
-      "answer_letters": "CHEESE",
+      "answer": "coffee",
+      "answer_letters": "COFFEE",
       "indices": [
-        48,
-        138,
-        1,
-        146,
-        135,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "salmon",
-      "answer_letters": "SALMON",
-      "indices": [
-        136,
-        139,
-        62,
-        8,
+        164,
         90,
-        143
+        80,
+        91,
+        54,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "loaned",
-      "answer_letters": "LOANED",
+      "answer": "sponge",
+      "answer_letters": "SPONGE",
       "indices": [
-        104,
-        39,
-        84,
-        78,
-        6,
-        113
+        38,
+        46,
+        18,
+        71,
+        109,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "everyday",
-      "answer_letters": "EVERYDAY",
+      "answer": "losing",
+      "answer_letters": "LOSING",
       "indices": [
-        159,
-        176,
-        167,
-        43,
-        144,
-        122,
-        99,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wyoming",
-      "answer_letters": "WYOMING",
-      "indices": [
-        3,
-        152,
-        60,
-        58,
-        111,
-        114,
+        151,
+        87,
+        140,
+        94,
+        88,
         17
       ]
     },
     {
       "clue": null,
-      "answer": "investigated",
-      "answer_letters": "INVESTIGATED",
+      "answer": "ellsworth",
+      "answer_letters": "ELLSWORTH",
       "indices": [
-        52,
-        133,
-        106,
-        11,
-        116,
-        101,
-        165,
-        33,
-        74,
+        159,
+        62,
+        156,
+        121,
+        3,
+        21,
+        5,
         83,
-        115,
-        10
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "satisfies",
-      "answer_letters": "SATISFIES",
+      "answer": "weekdays",
+      "answer_letters": "WEEKDAYS",
       "indices": [
-        38,
-        147,
-        49,
-        107,
-        82,
-        13,
-        86,
-        69,
+        119,
+        30,
+        1,
+        110,
+        19,
+        74,
+        152,
         117
       ]
     },
     {
       "clue": null,
-      "answer": "thickness",
-      "answer_letters": "THICKNESS",
+      "answer": "immediate",
+      "answer_letters": "IMMEDIATE",
       "indices": [
-        166,
-        150,
-        31,
-        164,
-        110,
-        112,
+        57,
+        40,
+        8,
         44,
-        121,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "honourable",
-      "answer_letters": "HONOURABLE",
-      "indices": [
-        56,
-        170,
-        61,
-        123,
-        171,
-        5,
-        77,
-        97,
-        51,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embryo",
-      "answer_letters": "EMBRYO",
-      "indices": [
-        98,
-        124,
-        68,
-        148,
-        27,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "felony",
-      "answer_letters": "FELONY",
-      "indices": [
-        91,
-        30,
-        174,
-        14,
-        108,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oxfordshire",
-      "answer_letters": "OXFORDSHIRE",
-      "indices": [
-        157,
-        163,
-        80,
-        126,
-        127,
-        132,
-        140,
-        93,
+        160,
         79,
-        15,
+        142,
+        149,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sorbonne",
+      "answer_letters": "SORBONNE",
+      "indices": [
+        135,
+        175,
+        172,
+        26,
+        123,
+        32,
+        108,
         134
       ]
     },
     {
       "clue": null,
-      "answer": "uptown",
-      "answer_letters": "UPTOWN",
+      "answer": "toyota",
+      "answer_letters": "TOYOTA",
       "indices": [
-        100,
-        46,
-        149,
-        175,
-        0,
-        71
+        49,
+        126,
+        144,
+        157,
+        166,
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
+      "answer": "hacking",
+      "answer_letters": "HACKING",
       "indices": [
-        172,
-        41,
-        154,
-        105,
+        56,
+        139,
+        48,
+        53,
+        111,
+        61,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elderly",
+      "answer_letters": "ELDERLY",
+      "indices": [
+        146,
+        104,
+        113,
+        47,
+        148,
+        51,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "forbade",
+      "answer_letters": "FORBADE",
+      "indices": [
+        13,
+        170,
+        15,
+        29,
+        147,
+        168,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overwhelming",
+      "answer_letters": "OVERWHELMING",
+      "indices": [
         131,
-        85
+        176,
+        167,
+        127,
+        0,
+        93,
+        6,
+        23,
+        58,
+        35,
+        114,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uninhabited",
+      "answer_letters": "UNINHABITED",
+      "indices": [
+        100,
+        133,
+        31,
+        36,
+        138,
+        9,
+        65,
+        107,
+        101,
+        177,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "routines",
+      "answer_letters": "ROUTINES",
+      "indices": [
+        43,
+        130,
+        171,
+        85,
+        120,
+        112,
+        162,
+        116
       ]
     },
     {
@@ -215,73 +217,71 @@
       "answer": "lobbying",
       "answer_letters": "LOBBYING",
       "indices": [
-        151,
-        18,
-        26,
-        65,
-        66,
-        70,
-        36,
+        174,
+        60,
+        97,
+        68,
+        63,
+        52,
+        22,
         129
       ]
     },
     {
       "clue": null,
-      "answer": "oakland",
-      "answer_letters": "OAKLAND",
+      "answer": "odyssey",
+      "answer_letters": "ODYSSEY",
       "indices": [
-        130,
-        9,
-        53,
-        23,
-        142,
-        32,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "viewing",
-      "answer_letters": "VIEWING",
-      "indices": [
-        158,
-        94,
-        177,
-        119,
-        57,
-        88,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embodied",
-      "answer_letters": "EMBODIED",
-      "indices": [
-        162,
-        40,
-        29,
-        87,
-        19,
-        35,
-        81,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seemingly",
-      "answer_letters": "SEEMINGLY",
-      "indices": [
+        39,
+        132,
+        27,
+        82,
         95,
-        155,
-        4,
+        98,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "vivian",
+      "answer_letters": "VIVIAN",
+      "indices": [
+        106,
+        70,
+        158,
+        86,
+        77,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "examines",
+      "answer_letters": "EXAMINES",
+      "indices": [
+        11,
+        163,
+        99,
         76,
-        120,
-        22,
-        72,
-        156,
-        63
+        165,
+        78,
+        69,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "somebody",
+      "answer_letters": "SOMEBODY",
+      "indices": [
+        45,
+        14,
+        124,
+        115,
+        154,
+        105,
+        122,
+        102
       ]
     }
   ],

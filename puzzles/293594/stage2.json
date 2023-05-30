@@ -6,181 +6,178 @@
   "clues": [
     {
       "clue": null,
-      "answer": "authoritative",
-      "answer_letters": "AUTHORITATIVE",
+      "answer": "analyzed",
+      "answer_letters": "ANALYZED",
+      "indices": [
+        78,
+        62,
+        54,
+        86,
+        182,
+        88,
+        162,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "donation",
+      "answer_letters": "DONATION",
+      "indices": [
+        59,
+        22,
+        23,
+        126,
+        11,
+        91,
+        174,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
       "indices": [
         89,
-        146,
+        160,
         41,
-        38,
-        151,
-        14,
-        87,
-        102,
-        54,
-        90,
-        91,
-        1,
-        100
+        165,
+        35,
+        167,
+        30,
+        39,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "destination",
-      "answer_letters": "DESTINATION",
-      "indices": [
-        52,
-        80,
-        115,
-        31,
-        111,
-        93,
-        120,
-        175,
-        67,
-        125,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "awareness",
-      "answer_letters": "AWARENESS",
-      "indices": [
-        158,
-        180,
-        181,
-        42,
-        64,
-        62,
-        74,
-        122,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "monsoon",
-      "answer_letters": "MONSOON",
+      "answer": "microwave",
+      "answer_letters": "MICROWAVE",
       "indices": [
         8,
-        92,
-        65,
-        27,
-        129,
-        145,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "brownish",
-      "answer_letters": "BROWNISH",
-      "indices": [
-        33,
-        34,
-        68,
-        17,
-        69,
-        85,
-        140,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "universal",
-      "answer_letters": "UNIVERSAL",
-      "indices": [
-        36,
-        130,
-        7,
-        84,
-        0,
-        161,
-        70,
-        18,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        167,
-        113,
-        4,
-        6,
-        12,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chávez",
-      "answer_letters": "CHAVEZ",
-      "indices": [
+        51,
         21,
-        117,
-        78,
-        96,
-        162,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "heinrich",
-      "answer_letters": "HEINRICH",
-      "indices": [
-        109,
-        45,
-        137,
-        105,
-        147,
-        61,
-        82,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "squire",
-      "answer_letters": "SQUIRE",
-      "indices": [
-        55,
-        24,
-        25,
-        30,
-        3,
+        42,
+        142,
+        136,
+        158,
+        99,
         110
       ]
     },
     {
       "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
+      "answer": "beneath",
+      "answer_letters": "BENEATH",
       "indices": [
-        142,
-        132,
-        66,
-        57,
-        49,
-        126
+        33,
+        15,
+        154,
+        168,
+        120,
+        155,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "needed",
-      "answer_letters": "NEEDED",
+      "answer": "unrest",
+      "answer_letters": "UNREST",
       "indices": [
+        36,
         157,
-        13,
-        168,
-        79,
+        127,
+        9,
+        122,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rivers",
+      "answer_letters": "RIVERS",
+      "indices": [
+        161,
+        87,
+        96,
+        100,
+        178,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cheney",
+      "answer_letters": "CHENEY",
+      "indices": [
+        82,
+        73,
         95,
-        59
+        138,
+        0,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hometown",
+      "answer_letters": "HOMETOWN",
+      "indices": [
+        133,
+        129,
+        77,
+        26,
+        114,
+        68,
+        107,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sweetheart",
+      "answer_letters": "SWEETHEART",
+      "indices": [
+        27,
+        180,
+        48,
+        153,
+        66,
+        117,
+        74,
+        18,
+        147,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        172,
+        52,
+        7,
+        124,
+        38,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nashville",
+      "answer_letters": "NASHVILLE",
+      "indices": [
+        171,
+        57,
+        140,
+        109,
+        84,
+        67,
+        152,
+        98,
+        177
       ]
     },
     {
@@ -189,97 +186,100 @@
       "answer_letters": "GOETHE",
       "indices": [
         112,
-        103,
-        15,
-        11,
-        176,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlet",
-      "answer_letters": "OUTLET",
-      "indices": [
-        97,
-        118,
-        155,
-        86,
+        92,
         2,
-        159
+        132,
+        113,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "flying",
-      "answer_letters": "FLYING",
+      "answer": "outset",
+      "answer_letters": "OUTSET",
+      "indices": [
+        125,
+        146,
+        72,
+        70,
+        106,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "finest",
+      "answer_letters": "FINEST",
       "indices": [
         143,
-        152,
-        75,
-        150,
-        138,
-        139
+        61,
+        47,
+        134,
+        55,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "everything",
-      "answer_letters": "EVERYTHING",
+      "answer": "ensuring",
+      "answer_letters": "ENSURING",
       "indices": [
-        153,
-        99,
-        9,
-        178,
-        182,
-        72,
-        165,
-        51,
-        58,
+        13,
+        69,
+        169,
+        118,
+        3,
+        83,
+        121,
         37
       ]
     },
     {
       "clue": null,
-      "answer": "devote",
-      "answer_letters": "DEVOTE",
+      "answer": "derivative",
+      "answer_letters": "DERIVATIVE",
       "indices": [
-        44,
-        48,
-        149,
-        35,
-        28,
-        134
+        79,
+        45,
+        14,
+        111,
+        63,
+        181,
+        175,
+        150,
+        1,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "mutation",
-      "answer_letters": "MUTATION",
+      "answer": "mosquito",
+      "answer_letters": "MOSQUITO",
       "indices": [
         119,
-        160,
-        39,
-        43,
-        114,
-        83,
-        172,
-        154
+        97,
+        115,
+        24,
+        25,
+        137,
+        31,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "oversees",
-      "answer_letters": "OVERSEES",
+      "answer": "overnight",
+      "answer_letters": "OVERNIGHT",
       "indices": [
-        22,
-        63,
-        166,
-        127,
-        169,
-        53,
-        26,
-        124
+        151,
+        149,
+        80,
+        34,
+        105,
+        85,
+        139,
+        176,
+        164
       ]
     },
     {
@@ -287,13 +287,13 @@
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
-        171,
-        106,
-        107,
-        164,
-        174,
-        136,
-        23
+        58,
+        53,
+        17,
+        28,
+        103,
+        49,
+        65
       ]
     }
   ],

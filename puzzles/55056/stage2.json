@@ -6,15 +6,17 @@
   "clues": [
     {
       "clue": null,
-      "answer": "routed",
-      "answer_letters": "ROUTED",
+      "answer": "reissued",
+      "answer_letters": "REISSUED",
       "indices": [
         34,
-        149,
+        16,
+        167,
+        25,
+        10,
         80,
-        96,
-        129,
-        160
+        2,
+        17
       ]
     },
     {
@@ -22,129 +24,128 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        145,
-        68,
-        44,
+        183,
+        122,
+        162,
         151,
-        36,
+        92,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "coated",
+      "answer_letters": "COATED",
+      "indices": [
+        135,
+        98,
+        110,
+        139,
+        112,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
+      "indices": [
+        73,
+        133,
+        153,
+        108,
+        107,
         61
       ]
     },
     {
       "clue": null,
-      "answer": "cafeteria",
-      "answer_letters": "CAFETERIA",
+      "answer": "evaluate",
+      "answer_letters": "EVALUATE",
       "indices": [
-        52,
-        141,
-        28,
-        2,
-        59,
-        35,
-        49,
-        177,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "honour",
-      "answer_letters": "HONOUR",
-      "indices": [
-        73,
-        121,
-        54,
-        64,
-        46,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elevator",
-      "answer_letters": "ELEVATOR",
-      "indices": [
-        133,
-        63,
-        103,
-        168,
-        57,
-        101,
-        65,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loyalists",
-      "answer_letters": "LOYALISTS",
-      "indices": [
-        159,
-        98,
-        153,
-        187,
-        15,
-        167,
-        37,
-        19,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "vineyards",
-      "answer_letters": "VINEYARDS",
-      "indices": [
-        128,
-        41,
-        75,
         94,
-        82,
-        113,
-        126,
-        125,
-        10
+        128,
+        48,
+        176,
+        46,
+        136,
+        142,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "ashore",
-      "answer_letters": "ASHORE",
+      "answer": "loyola",
+      "answer_letters": "LOYOLA",
       "indices": [
-        107,
-        55,
-        152,
+        63,
+        106,
+        44,
         83,
+        166,
+        187
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "voltage",
+      "answer_letters": "VOLTAGE",
+      "indices": [
+        168,
+        163,
+        159,
+        7,
+        5,
+        69,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aspirations",
+      "answer_letters": "ASPIRATIONS",
+      "indices": [
+        36,
+        55,
+        4,
+        67,
         30,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "netted",
-      "answer_letters": "NETTED",
-      "indices": [
-        99,
-        16,
-        131,
-        123,
-        21,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "day-to-day",
-      "answer_letters": "DAYTODAY",
-      "indices": [
-        114,
         32,
-        88,
-        184,
-        79,
-        17,
-        110,
-        146
+        59,
+        177,
+        29,
+        99,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "napoleon's",
+      "answer_letters": "NAPOLEONS",
+      "indices": [
+        75,
+        141,
+        23,
+        149,
+        60,
+        21,
+        45,
+        68,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doorway",
+      "answer_letters": "DOORWAY",
+      "indices": [
+        76,
+        65,
+        117,
+        174,
+        186,
+        113,
+        78
       ]
     },
     {
@@ -152,147 +153,146 @@
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
-        78,
-        38,
-        84,
+        82,
+        172,
+        118,
         181,
-        102,
+        152,
         42,
-        158,
-        60
+        84,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "kenyan",
-      "answer_letters": "KENYAN",
+      "answer": "kyushu",
+      "answer_letters": "KYUSHU",
       "indices": [
         66,
-        169,
-        95,
-        116,
-        5,
-        58
+        188,
+        158,
+        155,
+        140,
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "ethiopia",
-      "answer_letters": "ETHIOPIA",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
         87,
-        26,
-        1,
-        127,
-        106,
-        4,
-        74,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nowadays",
-      "answer_letters": "NOWADAYS",
-      "indices": [
-        39,
-        117,
-        144,
-        48,
-        108,
-        92,
-        162,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "touchdowns",
-      "answer_letters": "TOUCHDOWNS",
-      "indices": [
-        7,
-        157,
-        164,
-        135,
-        182,
-        120,
-        172,
-        186,
-        122,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "half-hour",
-      "answer_letters": "HALFHOUR",
-      "indices": [
-        111,
-        13,
-        166,
+        28,
         178,
-        156,
-        45,
-        173,
-        85
+        157,
+        85,
+        56
       ]
     },
     {
       "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
       "indices": [
-        72,
-        23,
-        9,
-        0,
-        140,
-        112,
-        142
+        58,
+        79,
+        26,
+        50,
+        144,
+        64,
+        126,
+        184,
+        102,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "bailey",
-      "answer_letters": "BAILEY",
+      "answer": "tornado",
+      "answer_letters": "TORNADO",
+      "indices": [
+        0,
+        38,
+        137,
+        54,
+        145,
+        160,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hierarchy",
+      "answer_letters": "HIERARCHY",
+      "indices": [
+        156,
+        9,
+        169,
+        105,
+        57,
+        49,
+        52,
+        132,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethnicity",
+      "answer_letters": "ETHNICITY",
+      "indices": [
+        35,
+        96,
+        20,
+        95,
+        127,
+        12,
+        74,
+        19,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "buddhist",
+      "answer_letters": "BUDDHIST",
       "indices": [
         71,
+        164,
+        114,
+        125,
+        111,
+        41,
+        90,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
+      "indices": [
+        72,
+        131,
+        182,
         24,
-        67,
-        14,
-        50,
-        188
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "escorts",
-      "answer_letters": "ESCORTS",
-      "indices": [
-        89,
-        148,
-        12,
-        163,
-        137,
-        139,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thoroughly",
-      "answer_letters": "THOROUGHLY",
-      "indices": [
-        56,
-        132,
-        29,
-        105,
+        39,
         53,
-        118,
-        69,
-        20,
-        176,
-        171
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theresa",
+      "answer_letters": "THERESA",
+      "indices": [
+        101,
+        1,
+        179,
+        93,
+        103,
+        148,
+        13
       ]
     }
   ],

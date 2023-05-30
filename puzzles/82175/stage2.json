@@ -6,247 +6,178 @@
   "clues": [
     {
       "clue": null,
-      "answer": "krishna",
-      "answer_letters": "KRISHNA",
+      "answer": "kitchener",
+      "answer_letters": "KITCHENER",
       "indices": [
         55,
-        13,
-        89,
-        23,
-        162,
-        149,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        116,
-        105,
-        103,
-        28,
-        157,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lorenzo",
-      "answer_letters": "LORENZO",
-      "indices": [
-        93,
-        51,
-        138,
-        183,
-        110,
-        95,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lecture",
-      "answer_letters": "LECTURE",
-      "indices": [
-        11,
-        69,
+        94,
+        6,
         82,
-        144,
-        91,
-        26,
-        185
+        1,
+        139,
+        110,
+        183,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "emitted",
-      "answer_letters": "EMITTED",
+      "answer": "encoded",
+      "answer_letters": "ENCODED",
       "indices": [
+        163,
+        176,
+        137,
+        150,
+        97,
         123,
-        47,
-        102,
-        75,
-        115,
-        139,
         127
       ]
     },
     {
       "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
+      "answer": "lizard",
+      "answer_letters": "LIZARD",
+      "indices": [
+        11,
+        112,
+        95,
+        80,
+        45,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "limitations",
+      "answer_letters": "LIMITATIONS",
+      "indices": [
+        122,
+        22,
+        134,
+        104,
+        115,
+        146,
+        0,
+        72,
+        5,
+        73,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "endowment",
+      "answer_letters": "ENDOWMENT",
+      "indices": [
+        77,
+        149,
+        79,
+        109,
+        36,
+        47,
+        185,
+        188,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yemeni",
+      "answer_letters": "YEMENI",
       "indices": [
         189,
-        106,
-        134,
-        124,
-        1,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "artificial",
-      "answer_letters": "ARTIFICIAL",
-      "indices": [
-        146,
-        142,
-        165,
-        104,
-        86,
-        133,
-        137,
-        112,
-        175,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotate",
-      "answer_letters": "ROTATE",
-      "indices": [
-        88,
-        158,
-        65,
-        37,
-        161,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
-      "indices": [
+        60,
         186,
-        117,
-        39,
-        50,
-        132,
-        63,
-        36
+        56,
+        113,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "stated",
-      "answer_letters": "STATED",
+      "answer": "author",
+      "answer_letters": "AUTHOR",
       "indices": [
-        173,
-        159,
-        54,
-        58,
-        77,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "torino",
-      "answer_letters": "TORINO",
-      "indices": [
-        0,
-        150,
-        45,
-        38,
-        29,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reinstated",
-      "answer_letters": "REINSTATED",
-      "indices": [
-        4,
-        83,
-        22,
-        180,
-        155,
-        130,
-        129,
-        16,
-        2,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "opposite",
-      "answer_letters": "OPPOSITE",
-      "indices": [
-        17,
-        70,
-        125,
+        175,
+        28,
+        170,
+        21,
         171,
-        114,
-        120,
-        101,
-        96
+        26
       ]
     },
     {
       "clue": null,
-      "answer": "nineteenth",
-      "answer_letters": "NINETEENTH",
+      "answer": "rented",
+      "answer_letters": "RENTED",
       "indices": [
+        142,
+        12,
         81,
+        53,
+        168,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "miniature",
+      "answer_letters": "MINIATURE",
+      "indices": [
+        103,
         143,
-        176,
+        29,
+        10,
+        129,
+        101,
+        145,
+        13,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "state-owned",
+      "answer_letters": "STATEOWNED",
+      "indices": [
+        136,
+        165,
+        154,
+        75,
         48,
-        90,
-        126,
-        40,
-        188,
-        68,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goodwin",
-      "answer_letters": "GOODWIN",
-      "indices": [
-        25,
-        179,
-        27,
-        30,
-        151,
-        72,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "switched",
-      "answer_letters": "SWITCHED",
-      "indices": [
-        67,
-        8,
-        94,
-        174,
-        182,
-        76,
-        9,
+        51,
+        153,
+        62,
+        63,
         177
       ]
     },
     {
       "clue": null,
-      "answer": "townsend",
-      "answer_letters": "TOWNSEND",
+      "answer": "tahiti",
+      "answer_letters": "TAHITI",
       "indices": [
         7,
-        18,
-        153,
-        62,
-        15,
-        163,
-        33,
-        79
+        54,
+        132,
+        102,
+        90,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotated",
+      "answer_letters": "ROTATED",
+      "indices": [
+        138,
+        17,
+        68,
+        92,
+        65,
+        116,
+        118
       ]
     },
     {
@@ -254,56 +185,125 @@
       "answer": "oxford",
       "answer_letters": "OXFORD",
       "indices": [
-        187,
+        179,
         64,
         43,
-        5,
+        187,
         184,
         19
       ]
     },
     {
       "clue": null,
-      "answer": "lithium",
-      "answer_letters": "LITHIUM",
+      "answer": "nationalities",
+      "answer_letters": "NATIONALITIES",
       "indices": [
-        122,
-        108,
-        170,
-        21,
-        10,
-        145,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estate",
-      "answer_letters": "ESTATE",
-      "indices": [
-        56,
-        136,
-        107,
+        180,
+        124,
+        159,
+        38,
+        85,
+        33,
         32,
-        53,
-        168
+        147,
+        89,
+        107,
+        133,
+        69,
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "nationwide",
-      "answer_letters": "NATIONWIDE",
+      "answer": "gustaf",
+      "answer_letters": "GUSTAF",
       "indices": [
-        113,
-        80,
-        6,
-        99,
-        109,
-        100,
+        25,
+        91,
+        114,
+        16,
+        106,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shrimp",
+      "answer_letters": "SHRIMP",
+      "indices": [
+        23,
+        59,
+        88,
+        120,
+        167,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "township",
+      "answer_letters": "TOWNSHIP",
+      "indices": [
+        50,
+        44,
+        151,
+        157,
+        67,
+        162,
+        108,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        158,
+        161,
+        144,
+        117,
+        8,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
+      "indices": [
+        93,
+        27,
         140,
-        166,
-        118,
-        12
+        126,
+        15,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        83,
+        182,
+        76,
+        18,
+        9,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
+        100,
+        2,
+        174,
+        39,
+        96,
+        34
       ]
     }
   ],

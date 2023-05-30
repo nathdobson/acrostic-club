@@ -6,109 +6,118 @@
   "clues": [
     {
       "clue": null,
-      "answer": "graphs",
-      "answer_letters": "GRAPHS",
+      "answer": "gymnasium",
+      "answer_letters": "GYMNASIUM",
       "indices": [
         126,
-        106,
-        109,
-        180,
-        62,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "empire",
-      "answer_letters": "EMPIRE",
-      "indices": [
-        4,
-        14,
-        179,
-        3,
-        120,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
-      "indices": [
-        32,
-        101,
-        154,
-        105,
-        151,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        24,
-        20,
         6,
-        19,
-        73,
-        121
+        70,
+        123,
+        91,
+        68,
+        99,
+        71,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "ghanaian",
-      "answer_letters": "GHANAIAN",
-      "indices": [
-        167,
-        81,
-        15,
-        166,
-        48,
-        93,
-        178,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "españa",
-      "answer_letters": "ESPANA",
-      "indices": [
-        21,
-        54,
-        23,
-        132,
-        112,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "episode",
-      "answer_letters": "EPISODE",
+      "answer": "ethnic",
+      "answer_letters": "ETHNIC",
       "indices": [
         141,
-        133,
+        43,
+        140,
+        40,
         145,
-        83,
-        77,
-        59,
-        11
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "lavish",
-      "answer_letters": "LAVISH",
+      "answer": "opposes",
+      "answer_letters": "OPPOSES",
       "indices": [
-        174,
-        97,
+        27,
+        23,
+        26,
+        1,
+        172,
+        173,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        24,
+        177,
+        135,
+        98,
+        20,
+        108,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gaston",
+      "answer_letters": "GASTON",
+      "indices": [
+        113,
+        115,
+        28,
+        5,
+        105,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enclave",
+      "answer_letters": "ENCLAVE",
+      "indices": [
+        154,
+        87,
+        96,
+        58,
+        109,
         10,
-        127,
-        148,
-        153
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethnographic",
+      "answer_letters": "ETHNOGRAPHIC",
+      "indices": [
+        25,
+        143,
+        118,
+        101,
+        77,
+        124,
+        120,
+        45,
+        179,
+        144,
+        3,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lankan",
+      "answer_letters": "LANKAN",
+      "indices": [
+        92,
+        178,
+        52,
+        110,
+        67,
+        166
       ]
     },
     {
@@ -116,197 +125,188 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        170,
-        34,
-        51,
         95,
-        39,
-        140
+        34,
+        163,
+        170,
+        97,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "off-season",
-      "answer_letters": "OFFSEASON",
+      "answer": "optimum",
+      "answer_letters": "OPTIMUM",
       "indices": [
-        159,
-        94,
-        158,
-        156,
-        173,
-        115,
-        68,
-        1,
-        146
+        32,
+        134,
+        29,
+        111,
+        50,
+        78,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "turkish",
-      "answer_letters": "TURKISH",
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
       "indices": [
-        46,
-        33,
-        12,
+        61,
+        15,
         65,
-        99,
-        138,
-        177
+        37,
+        150,
+        94,
+        104
       ]
     },
     {
       "clue": null,
-      "answer": "mythology",
-      "answer_letters": "MYTHOLOGY",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
-        108,
-        135,
-        79,
-        44,
-        56,
-        129,
-        27,
-        124,
+        162,
+        159,
+        131,
+        51,
+        86,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inmates",
+      "answer_letters": "INMATES",
+      "indices": [
+        93,
+        64,
+        14,
+        132,
+        19,
+        21,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "diffuse",
+      "answer_letters": "DIFFUSE",
+      "indices": [
+        41,
+        127,
+        175,
+        151,
+        57,
+        148,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "drinks",
+      "answer_letters": "DRINKS",
+      "indices": [
+        16,
+        31,
+        122,
+        8,
+        164,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        174,
+        17,
+        81,
+        165,
+        167,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "equity",
+      "answer_letters": "EQUITY",
+      "indices": [
+        11,
+        89,
+        33,
+        63,
+        46,
         181
       ]
     },
     {
       "clue": null,
-      "answer": "infamous",
-      "answer_letters": "INFAMOUS",
+      "answer": "murals",
+      "answer_letters": "MURALS",
       "indices": [
-        122,
-        64,
-        175,
-        91,
-        70,
-        85,
-        57,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "depths",
-      "answer_letters": "DEPTHS",
-      "indices": [
-        16,
-        37,
-        134,
-        98,
-        169,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dunkirk",
-      "answer_letters": "DUNKIRK",
-      "indices": [
-        41,
-        71,
-        8,
-        147,
-        82,
-        160,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "liquor",
-      "answer_letters": "LIQUOR",
-      "indices": [
-        92,
-        63,
-        89,
-        90,
-        150,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embankment",
-      "answer_letters": "EMBANKMENT",
-      "indices": [
-        9,
-        50,
-        76,
-        137,
-        123,
-        164,
-        171,
-        30,
-        52,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "midtown",
-      "answer_letters": "MIDTOWN",
-      "indices": [
-        162,
-        111,
-        36,
-        29,
-        100,
-        86,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attach",
-      "answer_letters": "ATTACH",
-      "indices": [
-        163,
-        43,
-        143,
-        67,
-        117,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rampage",
-      "answer_letters": "RAMPAGE",
-      "indices": [
-        155,
-        45,
         38,
-        26,
-        119,
-        113,
-        25
+        90,
+        155,
+        75,
+        129,
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "clutch",
-      "answer_letters": "CLUTCH",
+      "answer": "ashford",
+      "answer_letters": "ASHFORD",
       "indices": [
-        2,
-        58,
-        78,
-        61,
-        72,
-        118
+        48,
+        0,
+        44,
+        158,
+        85,
+        12,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
+      "answer": "roberta",
+      "answer_letters": "ROBERTA",
       "indices": [
-        144,
-        165,
+        106,
+        56,
+        76,
+        30,
         128,
-        28,
-        96,
-        131
+        79,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chandra",
+      "answer_letters": "CHANDRA",
+      "indices": [
+        72,
+        55,
+        119,
+        112,
+        36,
+        160,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hip-hop",
+      "answer_letters": "HIPHOP",
+      "indices": [
+        153,
+        82,
+        133,
+        73,
+        100,
+        180
       ]
     }
   ],

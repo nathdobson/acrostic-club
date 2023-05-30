@@ -6,59 +6,60 @@
   "clues": [
     {
       "clue": null,
-      "answer": "anywhere",
-      "answer_letters": "ANYWHERE",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
       "indices": [
-        124,
-        49,
-        157,
-        159,
-        92,
-        45,
-        142,
-        177
+        96,
+        106,
+        52,
+        103,
+        187,
+        124
       ]
     },
     {
       "clue": null,
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
         39,
-        116,
-        112,
-        59,
-        114,
-        185,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fordham",
-      "answer_letters": "FORDHAM",
-      "indices": [
-        34,
-        169,
-        151,
-        131,
+        77,
+        188,
+        56,
+        91,
         145,
-        150,
-        29
+        141,
+        129,
+        118,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "referee",
-      "answer_letters": "REFEREE",
+      "answer": "forsyth",
+      "answer_letters": "FORSYTH",
       "indices": [
-        133,
-        86,
         89,
-        121,
-        97,
-        152,
-        40
+        66,
+        44,
+        84,
+        161,
+        24,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runaway",
+      "answer_letters": "RUNAWAY",
+      "indices": [
+        151,
+        100,
+        168,
+        13,
+        123,
+        119,
+        94
       ]
     },
     {
@@ -69,222 +70,221 @@
         70,
         21,
         127,
-        60,
-        119,
+        134,
+        160,
         14,
-        132,
-        144,
+        182,
+        42,
         115
       ]
     },
     {
       "clue": null,
-      "answer": "doherty",
-      "answer_letters": "DOHERTY",
+      "answer": "dynasty",
+      "answer_letters": "DYNASTY",
       "indices": [
-        109,
-        164,
-        176,
-        98,
-        44,
+        46,
+        157,
+        137,
+        10,
+        179,
         55,
         30
       ]
     },
     {
       "clue": null,
-      "answer": "distribution",
-      "answer_letters": "DISTRIBUTION",
+      "answer": "demons",
+      "answer_letters": "DEMONS",
       "indices": [
-        138,
-        74,
-        179,
-        42,
-        147,
-        3,
-        69,
-        129,
-        16,
-        25,
-        108,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embarked",
-      "answer_letters": "EMBARKED",
-      "indices": [
+        102,
         8,
-        120,
-        36,
-        160,
-        104,
-        167,
-        182,
-        46
+        154,
+        48,
+        101,
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "veneto",
-      "answer_letters": "VENETO",
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        79,
+        171,
+        51,
+        185,
+        93,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "vibrations",
+      "answer_letters": "VIBRATIONS",
       "indices": [
         7,
-        103,
-        58,
-        148,
-        23,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        171,
-        84,
-        19,
-        155,
-        52,
-        180,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gained",
-      "answer_letters": "GAINED",
-      "indices": [
-        188,
-        10,
-        15,
-        187,
-        53,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nottingham",
-      "answer_letters": "NOTTINGHAM",
-      "indices": [
-        101,
-        0,
-        91,
-        81,
         186,
-        65,
-        173,
-        56,
-        13,
-        154
+        36,
+        147,
+        180,
+        72,
+        62,
+        108,
+        58,
+        162
       ]
     },
     {
       "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "answer": "immediate",
+      "answer_letters": "IMMEDIATE",
       "indices": [
-        94,
-        96,
-        41,
-        12,
-        175,
-        105
+        15,
+        120,
+        181,
+        40,
+        138,
+        57,
+        155,
+        23,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "shootings",
-      "answer_letters": "SHOOTINGS",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        173,
+        107,
+        148,
+        175,
+        92,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        172,
+        45,
+        67,
+        105,
+        159,
+        132,
+        177,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
+      "indices": [
+        125,
+        18,
+        167,
+        164,
+        60,
+        43,
+        64,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "steamboat",
+      "answer_letters": "STEAMBOAT",
       "indices": [
         31,
-        5,
-        141,
-        66,
-        51,
-        57,
-        26,
-        27,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
-      "indices": [
-        135,
-        170,
-        79,
-        137,
-        184,
-        161,
-        106,
-        123,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enthusiast",
-      "answer_letters": "ENTHUSIAST",
-      "indices": [
-        37,
-        156,
-        24,
-        1,
-        43,
-        118,
-        88,
+        114,
+        98,
         136,
-        162,
-        72
+        29,
+        69,
+        169,
+        6,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "leukemia",
-      "answer_letters": "LEUKEMIA",
+      "answer": "thinner",
+      "answer_letters": "THINNER",
+      "indices": [
+        184,
+        5,
+        3,
+        49,
+        130,
+        22,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "editor-in-chief",
+      "answer_letters": "EDITORINCHIEF",
+      "indices": [
+        85,
+        109,
+        111,
+        81,
+        82,
+        133,
+        74,
+        112,
+        41,
+        12,
+        25,
+        146,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "length",
+      "answer_letters": "LENGTH",
       "indices": [
         33,
-        22,
-        100,
-        64,
-        85,
-        181,
-        77,
-        6
+        152,
+        26,
+        27,
+        144,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "likewise",
-      "answer_letters": "LIKEWISE",
+      "answer": "left-wing",
+      "answer_letters": "LEFTWING",
       "indices": [
         76,
-        62,
-        78,
-        146,
-        67,
-        111,
-        71,
-        32
+        32,
+        165,
+        16,
+        170,
+        88,
+        65,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
+      "answer": "offender",
+      "answer_letters": "OFFENDER",
       "indices": [
-        18,
-        172,
-        93,
-        107,
-        140,
-        165
+        0,
+        19,
+        34,
+        37,
+        156,
+        131,
+        116,
+        97
       ]
     }
   ],

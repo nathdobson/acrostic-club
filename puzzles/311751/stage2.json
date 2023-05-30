@@ -6,165 +6,160 @@
   "clues": [
     {
       "clue": null,
-      "answer": "motorized",
-      "answer_letters": "MOTORIZED",
+      "answer": "muzzle",
+      "answer_letters": "MUZZLE",
       "indices": [
-        118,
-        119,
-        50,
-        80,
-        78,
-        40,
+        95,
+        105,
         2,
-        72,
-        144
+        3,
+        120,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "utrecht",
-      "answer_letters": "UTRECHT",
+      "answer": "utilization",
+      "answer_letters": "UTILIZATION",
       "indices": [
-        18,
-        65,
-        160,
-        5,
-        107,
-        45,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pradesh",
-      "answer_letters": "PRADESH",
-      "indices": [
-        23,
-        127,
+        148,
+        26,
+        102,
+        75,
+        40,
+        100,
         123,
-        15,
-        110,
-        112,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "prohibition",
-      "answer_letters": "PROHIBITION",
-      "indices": [
-        19,
-        62,
-        25,
-        24,
-        96,
-        7,
+        57,
         162,
-        125,
-        88,
-        29,
+        80,
         106
       ]
     },
     {
       "clue": null,
-      "answer": "electrons",
-      "answer_letters": "ELECTRONS",
+      "answer": "provoked",
+      "answer_letters": "PROVOKED",
       "indices": [
-        61,
-        71,
-        126,
-        32,
-        57,
-        131,
-        33,
-        38,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tackles",
-      "answer_letters": "TACKLES",
-      "indices": [
-        89,
-        37,
-        44,
-        48,
-        83,
-        67,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stockholm",
-      "answer_letters": "STOCKHOLM",
-      "indices": [
-        16,
-        114,
-        27,
-        47,
-        86,
-        51,
-        55,
-        14,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "muzzle",
-      "answer_letters": "MUZZLE",
-      "indices": [
-        69,
-        105,
-        100,
-        101,
-        75,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        13,
-        98,
-        0,
-        129,
-        156,
-        70,
-        59,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sikkim",
-      "answer_letters": "SIKKIM",
-      "indices": [
-        53,
-        102,
-        134,
-        158,
-        143,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thieves",
-      "answer_letters": "THIEVES",
-      "indices": [
-        97,
-        66,
-        4,
-        116,
+        19,
+        62,
+        85,
         109,
-        159,
+        29,
+        158,
+        46,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "password",
+      "answer_letters": "PASSWORD",
+      "indices": [
+        23,
+        21,
+        63,
+        135,
+        122,
+        13,
+        131,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entire",
+      "answer_letters": "ENTIRE",
+      "indices": [
+        93,
+        34,
+        39,
+        88,
+        78,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        155,
+        139,
+        86,
+        121,
+        59,
+        30,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sketches",
+      "answer_letters": "SKETCHES",
+      "indices": [
+        90,
+        48,
+        42,
+        140,
+        58,
+        12,
+        116,
         35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "motorized",
+      "answer_letters": "MOTORIZED",
+      "indices": [
+        161,
+        84,
+        97,
+        119,
+        160,
+        4,
+        101,
+        67,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "o'clock",
+      "answer_letters": "OCLOCK",
+      "indices": [
+        25,
+        47,
+        14,
+        55,
+        32,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
+      "indices": [
+        129,
+        115,
+        126,
+        154,
+        92,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "they've",
+      "answer_letters": "THEYVE",
+      "indices": [
+        50,
+        66,
+        72,
+        146,
+        60,
+        110
       ]
     },
     {
@@ -172,93 +167,98 @@
       "answer": "woolwich",
       "answer_letters": "WOOLWICH",
       "indices": [
+        153,
+        33,
+        108,
+        83,
         73,
-        85,
-        151,
-        124,
-        122,
-        154,
-        58,
-        12
+        96,
+        107,
+        130
       ]
     },
     {
       "clue": null,
-      "answer": "authorization",
-      "answer_letters": "AUTHORIZATION",
+      "answer": "automobiles",
+      "answer_letters": "AUTOMOBILES",
       "indices": [
-        139,
-        56,
-        155,
-        130,
-        84,
-        94,
-        52,
-        3,
         9,
-        39,
-        132,
+        56,
+        89,
         99,
-        34
+        118,
+        70,
+        7,
+        132,
+        71,
+        8,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
       "indices": [
         41,
-        42,
-        137,
-        63,
-        153,
-        103,
-        77,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thereof",
-      "answer_letters": "THEREOF",
-      "indices": [
-        36,
-        138,
-        46,
-        10,
-        133,
         147,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evaluated",
-      "answer_letters": "EVALUATED",
-      "indices": [
-        93,
-        60,
-        74,
-        120,
-        148,
-        21,
-        26,
-        121,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dorothy",
-      "answer_letters": "DOROTHY",
-      "indices": [
-        142,
-        1,
         111,
-        108,
-        140,
+        36,
+        24,
+        16,
+        1,
+        18,
+        114,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thatcher",
+      "answer_letters": "THATCHER",
+      "indices": [
+        65,
+        45,
+        74,
+        76,
+        44,
         81,
-        146
+        159,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
+      "indices": [
+        5,
+        127,
+        112,
+        163,
+        137,
+        138,
+        143,
+        124,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deformation",
+      "answer_letters": "DEFORMATION",
+      "indices": [
+        144,
+        103,
+        0,
+        27,
+        94,
+        69,
+        37,
+        125,
+        52,
+        151,
+        38
       ]
     }
   ],

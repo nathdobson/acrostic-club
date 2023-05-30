@@ -6,19 +6,18 @@
   "clues": [
     {
       "clue": null,
-      "answer": "accumulate",
-      "answer_letters": "ACCUMULATE",
+      "answer": "auschwitz",
+      "answer_letters": "AUSCHWITZ",
       "indices": [
-        89,
-        88,
-        170,
-        90,
-        157,
-        148,
-        125,
-        168,
-        133,
-        47
+        45,
+        123,
+        8,
+        161,
+        1,
+        120,
+        20,
+        30,
+        114
       ]
     },
     {
@@ -26,163 +25,139 @@
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
-        97,
-        45,
-        127,
+        51,
+        175,
+        138,
         130,
-        40,
-        13
+        148,
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "voronezh",
-      "answer_letters": "VORONEZH",
-      "indices": [
-        53,
-        60,
-        146,
-        180,
-        164,
-        73,
-        114,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "injected",
-      "answer_letters": "INJECTED",
-      "indices": [
-        103,
-        176,
-        179,
-        75,
-        66,
-        11,
-        92,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        172,
-        113,
-        21,
-        160,
-        104,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "allowed",
-      "answer_letters": "ALLOWED",
-      "indices": [
-        49,
-        23,
-        19,
-        26,
-        72,
-        128,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        24,
-        8,
-        111,
-        171,
-        7,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ludwig",
-      "answer_letters": "LUDWIG",
-      "indices": [
-        14,
-        144,
-        77,
-        69,
-        52,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
-      "indices": [
-        2,
-        169,
-        150,
-        17,
-        6,
-        141,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yielded",
-      "answer_letters": "YIELDED",
-      "indices": [
-        181,
-        83,
-        131,
-        112,
-        116,
-        87,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runway",
-      "answer_letters": "RUNWAY",
-      "indices": [
-        109,
-        158,
-        16,
-        94,
-        163,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emerges",
-      "answer_letters": "EMERGES",
-      "indices": [
-        107,
-        44,
-        36,
-        3,
-        56,
-        115,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "viewer",
-      "answer_letters": "VIEWER",
+      "answer": "violin",
+      "answer_letters": "VIOLIN",
       "indices": [
         99,
-        12,
-        100,
-        120,
-        70,
-        145
+        113,
+        98,
+        97,
+        103,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intellectual",
+      "answer_letters": "INTELLECTUAL",
+      "indices": [
+        24,
+        172,
+        0,
+        87,
+        132,
+        124,
+        141,
+        170,
+        11,
+        90,
+        64,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        16,
+        115,
+        69,
+        154,
+        158,
+        59,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anatolia",
+      "answer_letters": "ANATOLIA",
+      "indices": [
+        7,
+        55,
+        32,
+        84,
+        119,
+        13,
+        171,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "indira",
+      "answer_letters": "INDIRA",
+      "indices": [
+        54,
+        65,
+        116,
+        79,
+        140,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "logged",
+      "answer_letters": "LOGGED",
+      "indices": [
+        14,
+        27,
+        81,
+        173,
+        110,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        73,
+        38,
+        25,
+        147,
+        136,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        155,
+        180,
+        40,
+        33,
+        118,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rewrite",
+      "answer_letters": "REWRITE",
+      "indices": [
+        74,
+        151,
+        6,
+        109,
+        52,
+        133,
+        128
       ]
     },
     {
@@ -193,10 +168,37 @@
         4,
         61,
         86,
-        95,
-        28,
-        42,
-        151,
+        92,
+        150,
+        177,
+        131,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "viewer",
+      "answer_letters": "VIEWER",
+      "indices": [
+        53,
+        12,
+        47,
+        135,
+        70,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emerged",
+      "answer_letters": "EMERGED",
+      "indices": [
+        139,
+        157,
+        107,
+        146,
+        56,
+        36,
         152
       ]
     },
@@ -205,97 +207,95 @@
       "answer": "lockdown",
       "answer_letters": "LOCKDOWN",
       "indices": [
-        51,
-        119,
-        38,
+        23,
+        26,
+        88,
         46,
-        63,
-        147,
-        135,
-        149
+        42,
+        39,
+        72,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "affect",
-      "answer_letters": "AFFECT",
+      "answer": "allows",
+      "answer_letters": "ALLOWS",
       "indices": [
-        175,
+        163,
+        112,
+        125,
+        60,
+        127,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tandem",
+      "answer_letters": "TANDEM",
+      "indices": [
+        104,
+        111,
+        149,
+        165,
+        100,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "injured",
+      "answer_letters": "INJURED",
+      "indices": [
+        160,
+        169,
+        179,
+        144,
+        3,
+        67,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "office",
+      "answer_letters": "OFFICE",
+      "indices": [
+        17,
         122,
         58,
-        67,
-        161,
-        84
+        83,
+        66,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "throwing",
-      "answer_letters": "THROWING",
-      "indices": [
-        30,
-        1,
-        140,
-        78,
-        138,
-        79,
-        55,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "israeli",
-      "answer_letters": "ISRAELI",
-      "indices": [
-        54,
-        10,
-        59,
-        64,
-        110,
-        132,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "others",
-      "answer_letters": "OTHERS",
-      "indices": [
-        39,
-        33,
-        31,
-        136,
-        74,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
         80,
-        139,
-        35,
-        0,
-        98,
+        75,
         106,
-        65
+        10,
+        35,
+        2,
+        22,
+        21
       ]
     },
     {
       "clue": null,
-      "answer": "soluble",
-      "answer_letters": "SOLUBLE",
+      "answer": "shadow",
+      "answer_letters": "SHADOW",
       "indices": [
         159,
-        27,
-        41,
-        123,
-        154,
-        124,
-        22
+        31,
+        49,
+        167,
+        78,
+        94
       ]
     }
   ],

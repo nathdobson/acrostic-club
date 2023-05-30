@@ -6,203 +6,206 @@
   "clues": [
     {
       "clue": null,
-      "answer": "either",
-      "answer_letters": "EITHER",
-      "indices": [
-        114,
-        142,
-        170,
-        40,
-        129,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "residential",
-      "answer_letters": "RESIDENTIAL",
-      "indices": [
-        101,
-        100,
-        25,
-        23,
-        179,
-        113,
-        78,
-        154,
-        164,
-        153,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        84,
-        102,
-        35,
-        171,
-        119,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "answer": "edmund",
+      "answer_letters": "EDMUND",
       "indices": [
         17,
-        86,
-        77,
-        33,
-        52,
-        53,
-        65
+        131,
+        136,
+        176,
+        31,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "shallow",
-      "answer_letters": "SHALLOW",
+      "answer": "refers",
+      "answer_letters": "REFERS",
       "indices": [
-        141,
-        16,
-        104,
-        68,
-        48,
-        73,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twelfth",
-      "answer_letters": "TWELFTH",
-      "indices": [
-        98,
-        74,
-        181,
-        150,
-        44,
-        133,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hubert",
-      "answer_letters": "HUBERT",
-      "indices": [
-        26,
-        90,
-        139,
-        140,
-        81,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "england's",
-      "answer_letters": "ENGLANDS",
-      "indices": [
+        105,
         20,
-        159,
-        80,
-        166,
-        27,
-        95,
-        96,
-        124
+        44,
+        113,
+        46,
+        93
       ]
     },
     {
       "clue": null,
-      "answer": "mergers",
-      "answer_letters": "MERGERS",
+      "answer": "neutron",
+      "answer_letters": "NEUTRON",
+      "indices": [
+        84,
+        126,
+        121,
+        33,
+        101,
+        5,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elsewhere",
+      "answer_letters": "ELSEWHERE",
+      "indices": [
+        92,
+        149,
+        15,
+        129,
+        74,
+        1,
+        144,
+        91,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "swelling",
+      "answer_letters": "SWELLING",
+      "indices": [
+        25,
+        35,
+        180,
+        4,
+        48,
+        164,
+        95,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thanks",
+      "answer_letters": "THANKS",
+      "indices": [
+        65,
+        26,
+        118,
+        177,
+        57,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hottest",
+      "answer_letters": "HOTTEST",
+      "indices": [
+        60,
+        32,
+        120,
+        59,
+        106,
+        162,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edible",
+      "answer_letters": "EDIBLE",
+      "indices": [
+        58,
+        22,
+        142,
+        139,
+        166,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "morrison",
+      "answer_letters": "MORRISON",
       "indices": [
         55,
-        106,
-        91,
-        111,
-        137,
-        6,
-        146
+        49,
+        156,
+        112,
+        148,
+        157,
+        109,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "inland",
-      "answer_letters": "INLAND",
+      "answer": "insult",
+      "answer_letters": "INSULT",
       "indices": [
-        41,
+        69,
         50,
-        165,
-        118,
-        31,
-        22
+        141,
+        90,
+        29,
+        0
       ]
     },
     {
       "clue": null,
-      "answer": "nonetheless",
-      "answer_letters": "NONETHELESS",
+      "answer": "naples",
+      "answer_letters": "NAPLES",
       "indices": [
-        37,
-        32,
-        75,
-        155,
-        0,
-        60,
-        70,
-        29,
-        82,
-        15,
+        115,
+        158,
+        86,
+        165,
+        102,
         88
       ]
     },
     {
       "clue": null,
-      "answer": "guided",
-      "answer_letters": "GUIDED",
+      "answer": "grandmaster",
+      "answer_letters": "GRANDMASTER",
       "indices": [
-        51,
-        121,
-        9,
-        131,
-        2,
-        143
+        80,
+        172,
+        56,
+        78,
+        72,
+        12,
+        169,
+        124,
+        89,
+        132,
+        175
       ]
     },
     {
       "clue": null,
-      "answer": "watershed",
-      "answer_letters": "WATERSHED",
+      "answer": "welterweight",
+      "answer_letters": "WELTERWEIGHT",
       "indices": [
         152,
-        56,
-        89,
+        181,
+        68,
+        154,
+        155,
+        81,
+        168,
         83,
-        122,
-        93,
-        134,
-        58,
-        160
+        77,
+        51,
+        52,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "adhere",
-      "answer_letters": "ADHERE",
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
       "indices": [
-        36,
-        72,
-        99,
-        92,
-        21,
-        63
+        104,
+        163,
+        125,
+        150,
+        53,
+        170,
+        2,
+        146
       ]
     },
     {
@@ -211,88 +214,85 @@
       "answer_letters": "YAMAHA",
       "indices": [
         13,
-        130,
-        136,
         94,
-        1,
-        87
+        42,
+        27,
+        99,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "proportions",
-      "answer_letters": "PROPORTIONS",
+      "answer": "philadelphia",
+      "answer_letters": "PHILADELPHIA",
       "indices": [
-        117,
-        105,
-        45,
         182,
-        49,
-        175,
-        147,
-        69,
-        5,
-        177,
-        10
+        134,
+        23,
+        28,
+        87,
+        179,
+        114,
+        128,
+        18,
+        40,
+        41,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "optimal",
-      "answer_letters": "OPTIMAL",
+      "answer": "opened",
+      "answer_letters": "OPENED",
       "indices": [
         66,
-        18,
-        59,
-        148,
-        62,
-        169,
-        128
+        117,
+        100,
+        159,
+        63,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "endorsement",
-      "answer_letters": "ENDORSEMENT",
+      "answer": "esther",
+      "answer_letters": "ESTHER",
       "indices": [
-        180,
-        108,
-        7,
-        109,
-        112,
+        140,
         173,
-        132,
-        12,
-        123,
-        115,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mueller",
-      "answer_letters": "MUELLER",
-      "indices": [
-        42,
-        176,
-        126,
-        149,
-        4,
-        144,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sharks",
-      "answer_letters": "SHARKS",
-      "indices": [
-        157,
+        133,
         19,
-        158,
-        156,
-        57,
-        162
+        123,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monitored",
+      "answer_letters": "MONITORED",
+      "indices": [
+        62,
+        45,
+        108,
+        9,
+        98,
+        73,
+        122,
+        137,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shared",
+      "answer_letters": "SHARED",
+      "indices": [
+        10,
+        16,
+        130,
+        6,
+        70,
+        160
       ]
     }
   ],

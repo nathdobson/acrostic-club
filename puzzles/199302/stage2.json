@@ -6,127 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
+      "answer": "melting",
+      "answer_letters": "MELTING",
       "indices": [
         49,
-        45,
-        55,
-        118,
-        24,
-        59,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        16,
-        173,
-        165,
-        104,
-        39,
-        122,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "liberties",
-      "answer_letters": "LIBERTIES",
-      "indices": [
-        72,
-        169,
-        58,
-        171,
-        160,
-        91,
-        93,
         42,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offended",
-      "answer_letters": "OFFENDED",
-      "indices": [
-        129,
-        154,
-        78,
-        116,
-        85,
-        152,
-        3,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        148,
-        119,
-        146,
-        63,
-        15,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellowstone",
-      "answer_letters": "YELLOWSTONE",
-      "indices": [
-        106,
-        53,
         164,
-        60,
-        102,
-        145,
-        166,
-        14,
-        138,
-        94,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "liechtenstein",
-      "answer_letters": "LIECHTENSTEIN",
-      "indices": [
-        4,
-        87,
-        161,
-        82,
-        32,
-        31,
-        25,
-        66,
-        136,
-        99,
-        33,
-        10,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entrants",
-      "answer_letters": "ENTRANTS",
-      "indices": [
-        54,
-        126,
-        68,
-        155,
-        73,
+        176,
+        93,
         62,
-        140,
-        135
+        95
       ]
     },
     {
@@ -134,136 +23,247 @@
       "answer": "edinburgh",
       "answer_letters": "EDINBURGH",
       "indices": [
-        110,
-        30,
-        125,
-        74,
-        109,
-        130,
-        19,
-        95,
-        83
+        16,
+        75,
+        0,
+        126,
+        58,
+        98,
+        155,
+        114,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "monthly",
-      "answer_letters": "MONTHLY",
+      "answer": "lengthy",
+      "answer_letters": "LENGTHY",
       "indices": [
-        101,
-        61,
-        121,
-        46,
-        92,
-        137,
-        50
+        105,
+        54,
+        6,
+        7,
+        86,
+        69,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "obliged",
-      "answer_letters": "OBLIGED",
+      "answer": "officer",
+      "answer_letters": "OFFICER",
       "indices": [
         5,
-        163,
-        105,
-        107,
-        114,
-        80,
-        75
+        52,
+        154,
+        146,
+        82,
+        175,
+        177
       ]
     },
     {
       "clue": null,
-      "answer": "outbreaks",
-      "answer_letters": "OUTBREAKS",
+      "answer": "definitions",
+      "answer_letters": "DEFINITIONS",
       "indices": [
-        77,
-        159,
-        143,
-        41,
-        131,
-        142,
-        84,
-        170,
+        148,
+        171,
+        78,
+        87,
+        88,
+        10,
+        14,
+        107,
+        112,
+        151,
         96
       ]
     },
     {
       "clue": null,
-      "answer": "nineteenth",
-      "answer_letters": "NINETEENTH",
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
       "indices": [
-        113,
-        0,
-        6,
-        35,
-        18,
-        44,
-        156,
-        81,
-        38,
+        178,
+        138,
+        159,
+        55,
+        130,
+        2,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "linked",
+      "answer_letters": "LINKED",
+      "indices": [
+        147,
+        65,
+        94,
+        170,
+        110,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethernet",
+      "answer_letters": "ETHERNET",
+      "indices": [
+        21,
+        31,
+        32,
+        161,
+        37,
+        117,
+        20,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elisabeth",
+      "answer_letters": "ELISABETH",
+      "indices": [
+        33,
+        72,
+        120,
+        139,
+        73,
+        97,
+        25,
+        104,
         47
       ]
     },
     {
       "clue": null,
-      "answer": "gunner",
-      "answer_letters": "GUNNER",
+      "answer": "matthews",
+      "answer_letters": "MATTHEWS",
       "indices": [
-        89,
-        98,
-        88,
-        43,
-        175,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yankees",
-      "answer_letters": "YANKEES",
-      "indices": [
-        178,
-        36,
-        151,
-        133,
-        157,
-        70,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "probability",
-      "answer_letters": "PROBABILITY",
-      "indices": [
-        158,
-        177,
-        112,
-        97,
+        101,
         150,
-        2,
-        28,
+        23,
+        18,
+        83,
+        3,
+        9,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ostensibly",
+      "answer_letters": "OSTENSIBLY",
+      "indices": [
+        129,
+        22,
+        143,
+        116,
+        43,
+        103,
+        134,
+        41,
         168,
-        56,
-        86,
         141
       ]
     },
     {
       "clue": null,
-      "answer": "shifting",
-      "answer_letters": "SHIFTING",
+      "answer": "obtained",
+      "answer_letters": "OBTAINED",
       "indices": [
-        22,
-        69,
-        134,
-        52,
-        176,
-        65,
-        117,
-        7
+        102,
+        109,
+        118,
+        45,
+        125,
+        74,
+        53,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        85,
+        157,
+        119,
+        91,
+        174,
+        145,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gilbert",
+      "answer_letters": "GILBERT",
+      "indices": [
+        89,
+        169,
+        111,
+        163,
+        70,
+        131,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
+      "indices": [
+        128,
+        84,
+        121,
+        133,
+        35,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "philanthropist",
+      "answer_letters": "PHILANTHROPIST",
+      "indices": [
+        158,
+        15,
+        56,
+        60,
+        36,
+        66,
+        99,
+        92,
+        160,
+        61,
+        173,
+        28,
+        166,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "strengthened",
+      "answer_letters": "STRENGTHENED",
+      "indices": [
+        136,
+        11,
+        19,
+        142,
+        81,
+        63,
+        46,
+        24,
+        59,
+        29,
+        156,
+        30
       ]
     },
     {
@@ -271,15 +271,15 @@
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [
-        128,
-        21,
-        147,
-        111,
-        174,
-        9,
-        120,
-        139,
-        12
+        50,
+        122,
+        137,
+        4,
+        77,
+        27,
+        165,
+        167,
+        39
       ]
     }
   ],

@@ -6,65 +6,61 @@
   "clues": [
     {
       "clue": null,
-      "answer": "achieve",
-      "answer_letters": "ACHIEVE",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
       "indices": [
-        72,
-        35,
-        83,
-        68,
-        85,
-        120,
-        71
+        170,
+        65,
+        0,
+        153,
+        86,
+        151
       ]
     },
     {
       "clue": null,
-      "answer": "lieutenant",
-      "answer_letters": "LIEUTENANT",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
         150,
-        29,
-        142,
-        92,
-        171,
-        66,
-        175,
-        18,
-        65,
-        110
+        126,
+        105,
+        25,
+        21,
+        102,
+        108,
+        44,
+        87,
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "inducted",
-      "answer_letters": "INDUCTED",
+      "answer": "identity",
+      "answer_letters": "IDENTITY",
       "indices": [
-        96,
-        162,
-        9,
-        2,
-        172,
-        101,
-        17,
-        140
+        81,
+        97,
+        112,
+        175,
+        75,
+        68,
+        4,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "left-handed",
-      "answer_letters": "LEFTHANDED",
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
       "indices": [
         58,
-        53,
-        33,
+        31,
+        50,
+        12,
         107,
-        76,
-        95,
-        7,
-        141,
-        121,
-        19
+        111,
+        148
       ]
     },
     {
@@ -72,14 +68,14 @@
       "answer": "anywhere",
       "answer_letters": "ANYWHERE",
       "indices": [
-        166,
-        149,
-        151,
-        169,
-        154,
-        49,
-        70,
-        119
+        72,
+        158,
+        11,
+        80,
+        173,
+        155,
+        56,
+        142
       ]
     },
     {
@@ -87,83 +83,88 @@
       "answer": "noteworthy",
       "answer_letters": "NOTEWORTHY",
       "indices": [
-        156,
-        22,
-        24,
-        88,
-        80,
-        161,
-        6,
-        117,
-        111,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        37,
-        165,
-        64,
-        128,
-        173,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        176,
+        149,
         43,
-        163,
-        21,
-        25,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-story",
-      "answer_letters": "ONESTORY",
-      "indices": [
-        1,
-        158,
-        26,
-        87,
-        82,
-        159,
-        122,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
+        171,
+        36,
+        169,
         91,
-        104,
-        77,
-        153,
-        86,
-        11
+        14,
+        101,
+        16,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "demise",
-      "answer_letters": "DEMISE",
+      "answer": "defended",
+      "answer_letters": "DEFENDED",
       "indices": [
         143,
-        155,
-        63,
-        126,
+        53,
+        60,
+        40,
+        52,
+        73,
+        116,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gunnery",
+      "answer_letters": "GUNNERY",
+      "indices": [
+        128,
+        13,
+        7,
+        156,
+        134,
+        122,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        139,
+        92,
+        110,
+        33,
+        103,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oyster",
+      "answer_letters": "OYSTER",
+      "indices": [
+        161,
+        90,
         28,
-        116
+        124,
+        26,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "diminutive",
+      "answer_letters": "DIMINUTIVE",
+      "indices": [
+        30,
+        96,
+        133,
+        64,
+        99,
+        145,
+        146,
+        174,
+        54,
+        17
       ]
     },
     {
@@ -171,105 +172,104 @@
       "answer": "methods",
       "answer_letters": "METHODS",
       "indices": [
-        133,
-        134,
-        75,
-        102,
-        148,
-        97,
+        39,
+        121,
+        82,
+        83,
+        159,
+        141,
         94
       ]
     },
     {
       "clue": null,
-      "answer": "eighty",
-      "answer_letters": "EIGHTY",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
       "indices": [
-        8,
-        103,
-        105,
-        16,
-        4,
-        123
+        66,
+        172,
+        76,
+        131,
+        55,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "bournemouth",
-      "answer_letters": "BOURNEMOUTH",
+      "answer": "bohemian",
+      "answer_letters": "BOHEMIAN",
       "indices": [
         144,
-        12,
-        145,
-        14,
-        138,
-        47,
-        113,
-        139,
-        44,
-        124,
-        125
+        22,
+        154,
+        85,
+        63,
+        29,
+        18,
+        138
       ]
     },
     {
       "clue": null,
-      "answer": "anonymous",
-      "answer_letters": "ANONYMOUS",
+      "answer": "augusto",
+      "answer_letters": "AUGUSTO",
       "indices": [
         34,
-        99,
-        131,
-        127,
-        42,
-        78,
-        100,
-        13,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "definite",
-      "answer_letters": "DEFINITE",
-      "indices": [
-        73,
-        31,
-        60,
-        174,
-        52,
-        136,
-        61,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "moisture",
-      "answer_letters": "MOISTURE",
-      "indices": [
-        39,
-        108,
-        81,
-        167,
-        130,
         5,
-        45,
-        36
+        176,
+        2,
+        167,
+        61,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "everyday",
-      "answer_letters": "EVERYDAY",
+      "answer": "demoted",
+      "answer_letters": "DEMOTED",
       "indices": [
-        59,
-        54,
-        112,
-        56,
-        48,
-        30,
-        170,
-        115
+        37,
+        163,
+        78,
+        1,
+        130,
+        71,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "maintenance",
+      "answer_letters": "MAINTENANCE",
+      "indices": [
+        113,
+        166,
+        136,
+        104,
+        117,
+        47,
+        162,
+        95,
+        127,
+        35,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
+      "indices": [
+        8,
+        120,
+        77,
+        45,
+        42,
+        165,
+        125,
+        49,
+        70,
+        59
       ]
     }
   ],

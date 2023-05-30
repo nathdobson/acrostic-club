@@ -6,29 +6,132 @@
   "clues": [
     {
       "clue": null,
-      "answer": "dorothy",
-      "answer_letters": "DOROTHY",
+      "answer": "delayed",
+      "answer_letters": "DELAYED",
       "indices": [
-        88,
-        20,
-        78,
-        163,
-        31,
-        170,
-        90
+        96,
+        9,
+        109,
+        65,
+        92,
+        33,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
+      "answer": "adulthood",
+      "answer_letters": "ADULTHOOD",
       "indices": [
         89,
-        3,
-        5,
-        142,
-        144,
-        162
+        104,
+        63,
+        108,
+        122,
+        49,
+        30,
+        136,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nowadays",
+      "answer_letters": "NOWADAYS",
+      "indices": [
+        125,
+        6,
+        56,
+        15,
+        126,
+        156,
+        162,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "beating",
+      "answer_letters": "BEATING",
+      "indices": [
+        13,
+        26,
+        37,
+        130,
+        81,
+        103,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        78,
+        85,
+        90,
+        101,
+        25,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outreach",
+      "answer_letters": "OUTREACH",
+      "indices": [
+        163,
+        94,
+        84,
+        34,
+        139,
+        124,
+        149,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "walkway",
+      "answer_letters": "WALKWAY",
+      "indices": [
+        135,
+        107,
+        114,
+        157,
+        0,
+        70,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "noting",
+      "answer_letters": "NOTING",
+      "indices": [
+        53,
+        47,
+        44,
+        38,
+        137,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
+      "indices": [
+        41,
+        164,
+        145,
+        121,
+        74,
+        118,
+        97,
+        152,
+        5
       ]
     },
     {
@@ -36,111 +139,12 @@
       "answer": "norway",
       "answer_letters": "NORWAY",
       "indices": [
-        103,
-        136,
+        43,
+        93,
         27,
-        56,
-        37,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bathurst",
-      "answer_letters": "BATHURST",
-      "indices": [
-        117,
-        65,
-        44,
-        49,
-        7,
-        118,
-        82,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rosario",
-      "answer_letters": "ROSARIO",
-      "indices": [
-        34,
-        62,
-        147,
-        41,
-        66,
-        119,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outward",
-      "answer_letters": "OUTWARD",
-      "indices": [
-        74,
-        164,
-        122,
-        0,
-        22,
-        140,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whether",
-      "answer_letters": "WHETHER",
-      "indices": [
-        135,
-        57,
-        139,
-        84,
-        32,
-        67,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        137,
-        113,
-        17,
-        52,
-        106,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ambiguity",
-      "answer_letters": "AMBIGUITY",
-      "indices": [
-        107,
-        133,
-        13,
-        97,
-        54,
-        168,
-        38,
-        77,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        125,
-        11,
-        101,
-        121,
-        15,
-        46
+        19,
+        144,
+        73
       ]
     },
     {
@@ -149,70 +153,11 @@
       "answer_letters": "GUILTY",
       "indices": [
         160,
-        75,
-        50,
-        114,
-        152,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endemic",
-      "answer_letters": "ENDEMIC",
-      "indices": [
-        26,
-        43,
-        104,
-        9,
-        21,
-        42,
-        16
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "looking",
-      "answer_letters": "LOOKING",
-      "indices": [
-        108,
-        47,
-        93,
-        157,
-        158,
-        23,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sweetheart",
-      "answer_letters": "SWEETHEART",
-      "indices": [
-        100,
-        19,
-        148,
-        115,
-        59,
-        143,
-        98,
-        156,
-        150,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "decades",
-      "answer_letters": "DECADES",
-      "indices": [
-        126,
-        151,
-        149,
-        167,
-        69,
-        86,
-        36
+        7,
+        119,
+        166,
+        106,
+        79
       ]
     },
     {
@@ -220,65 +165,120 @@
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [
-        33,
-        51,
-        155,
-        94,
-        159,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mughal",
-      "answer_letters": "MUGHAL",
-      "indices": [
+        151,
+        39,
         112,
-        63,
-        169,
-        25,
-        58,
-        109
+        168,
+        46,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
       "indices": [
-        30,
-        96,
-        81,
-        111,
-        1,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "namely",
-      "answer_letters": "NAMELY",
-      "indices": [
-        53,
-        124,
-        29,
-        132,
-        14,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shelley",
-      "answer_letters": "SHELLEY",
-      "indices": [
-        153,
-        85,
-        2,
-        166,
         128,
+        62,
+        142,
+        67,
+        147,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
+      "indices": [
+        111,
+        57,
         129,
-        79
+        52,
+        17,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "drainage",
+      "answer_letters": "DRAINAGE",
+      "indices": [
+        69,
+        150,
+        167,
+        158,
+        3,
+        11,
+        169,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enemies",
+      "answer_letters": "ENEMIES",
+      "indices": [
+        86,
+        23,
+        132,
+        29,
+        113,
+        148,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "maratha",
+      "answer_letters": "MARATHA",
+      "indices": [
+        155,
+        22,
+        66,
+        102,
+        59,
+        32,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
+        20,
+        77,
+        170,
+        115,
+        8,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "number",
+      "answer_letters": "NUMBER",
+      "indices": [
+        159,
+        75,
+        133,
+        117,
+        2,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sicily",
+      "answer_letters": "SICILY",
+      "indices": [
+        82,
+        42,
+        16,
+        50,
+        14,
+        61
       ]
     }
   ],

@@ -6,88 +6,88 @@
   "clues": [
     {
       "clue": null,
-      "answer": "believe",
-      "answer_letters": "BELIEVE",
+      "answer": "believed",
+      "answer_letters": "BELIEVED",
       "indices": [
         184,
-        80,
+        95,
         165,
-        31,
-        91,
-        139,
-        77
+        7,
+        117,
+        15,
+        57,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "always",
-      "answer_letters": "ALWAYS",
+      "answer": "avenue",
+      "answer_letters": "AVENUE",
       "indices": [
-        183,
-        185,
-        54,
-        14,
-        129,
-        143
+        113,
+        126,
+        36,
+        169,
+        175,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "nellie",
-      "answer_letters": "NELLIE",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
         104,
-        125,
-        55,
-        120,
-        142,
-        160
+        110,
+        10,
+        100,
+        119,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "archdiocese",
-      "answer_letters": "ARCHDIOCESE",
+      "answer": "accessing",
+      "answer_letters": "ACCESSING",
       "indices": [
         161,
-        107,
         28,
-        29,
-        102,
-        56,
-        53,
         179,
-        26,
-        58,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        131,
         46,
-        69,
-        151,
-        0,
-        100,
-        95,
-        99
+        18,
+        65,
+        147,
+        176,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "advice",
-      "answer_letters": "ADVICE",
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
       "indices": [
-        67,
-        92,
-        40,
-        166,
-        32,
-        127
+        105,
+        16,
+        122,
+        85,
+        38,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alleviate",
+      "answer_letters": "ALLEVIATE",
+      "indices": [
+        14,
+        25,
+        55,
+        160,
+        139,
+        172,
+        78,
+        114,
+        26
       ]
     },
     {
@@ -95,218 +95,218 @@
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
-        146,
-        110,
-        21,
-        43,
-        130,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overtime",
-      "answer_letters": "OVERTIME",
-      "indices": [
+        71,
+        41,
+        185,
+        154,
         30,
-        15,
-        117,
-        63,
-        59,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offense",
+      "answer_letters": "OFFENSE",
+      "indices": [
+        53,
+        87,
+        76,
+        112,
+        131,
+        173,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sealed",
+      "answer_letters": "SEALED",
+      "indices": [
+        151,
+        186,
+        67,
+        153,
+        135,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hawaii",
+      "answer_letters": "HAWAII",
+      "indices": [
+        29,
+        89,
+        109,
+        70,
+        142,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "illicit",
+      "answer_letters": "ILLICIT",
+      "indices": [
         4,
-        97,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sewage",
-      "answer_letters": "SEWAGE",
-      "indices": [
-        162,
-        106,
-        116,
-        98,
-        149,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        1,
-        75,
-        35,
-        22,
-        114,
+        120,
+        21,
+        103,
+        32,
+        168,
         8
       ]
     },
     {
       "clue": null,
-      "answer": "isolated",
-      "answer_letters": "ISOLATED",
-      "indices": [
-        152,
-        173,
-        62,
-        154,
-        89,
-        24,
-        36,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "meadows",
-      "answer_letters": "MEADOWS",
+      "answer": "merely",
+      "answer_letters": "MERELY",
       "indices": [
         64,
         140,
-        70,
-        145,
-        138,
-        10,
-        72
+        63,
+        125,
+        52,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "opened",
-      "answer_letters": "OPENED",
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
       "indices": [
         19,
-        181,
-        163,
-        169,
-        16,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trieste",
-      "answer_letters": "TRIESTE",
-      "indices": [
-        90,
+        167,
+        11,
         128,
-        168,
-        121,
-        18,
-        182,
-        11
+        40,
+        56,
+        132,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "outlaws",
-      "answer_letters": "OUTLAWS",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        157,
-        175,
-        23,
-        68,
-        177,
+        24,
+        35,
+        130,
         134,
-        5
+        177,
+        129
       ]
     },
     {
       "clue": null,
-      "answer": "killed",
-      "answer_letters": "KILLED",
+      "answer": "optics",
+      "answer_letters": "OPTICS",
       "indices": [
-        45,
-        103,
+        138,
+        181,
+        90,
+        152,
+        178,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kelley",
+      "answer_letters": "KELLEY",
+      "indices": [
+        99,
+        80,
+        43,
+        68,
+        75,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
+      "indices": [
+        22,
+        5,
+        157,
+        23,
+        62,
+        123,
+        86,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
+      "indices": [
+        48,
+        0,
+        31,
         137,
-        153,
-        88,
+        166,
+        149,
+        1,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chemist",
+      "answer_letters": "CHEMIST",
+      "indices": [
+        159,
+        49,
+        163,
+        97,
+        44,
+        72,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heated",
+      "answer_letters": "HEATED",
+      "indices": [
+        13,
+        106,
+        183,
+        79,
+        33,
         74
       ]
     },
     {
       "clue": null,
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
       "indices": [
-        172,
-        79,
-        113,
-        25,
-        2,
-        65
+        127,
+        92,
+        69,
+        98,
+        107,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "twelve",
-      "answer_letters": "TWELVE",
-      "indices": [
-        48,
-        109,
-        122,
-        38,
-        126,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "civilian",
-      "answer_letters": "CIVILIAN",
-      "indices": [
-        159,
-        7,
-        167,
-        39,
-        52,
-        44,
-        78,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hygiene",
-      "answer_letters": "HYGIENE",
-      "indices": [
-        49,
-        71,
-        170,
-        147,
-        180,
-        176,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
-      "indices": [
-        50,
-        87,
-        76,
-        86,
-        178,
-        156,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
         148,
-        135,
-        123,
-        13,
-        186,
-        94
+        77,
+        61,
+        162,
+        116,
+        121,
+        180,
+        45
       ]
     }
   ],

@@ -6,58 +6,274 @@
   "clues": [
     {
       "clue": null,
-      "answer": "bathurst",
-      "answer_letters": "BATHURST",
+      "answer": "beyond",
+      "answer_letters": "BEYOND",
       "indices": [
-        88,
-        97,
-        65,
-        76,
-        10,
-        143,
-        180,
-        124
+        150,
+        69,
+        8,
+        175,
+        55,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "refining",
-      "answer_letters": "REFINING",
+      "answer": "runaway",
+      "answer_letters": "RUNAWAY",
       "indices": [
-        46,
-        52,
-        116,
-        19,
-        91,
-        37,
-        109,
+        143,
+        10,
+        58,
+        49,
+        75,
+        97,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
+      "indices": [
+        128,
+        171,
+        25,
+        42,
+        180,
+        43,
+        92,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "needing",
+      "answer_letters": "NEEDING",
+      "indices": [
+        104,
+        151,
+        168,
+        105,
+        131,
+        160,
         39
       ]
     },
     {
       "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        74,
-        147,
-        18,
-        62,
-        0,
-        72
+        38,
+        72,
+        36,
+        130,
+        165,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
+      "answer": "motown",
+      "answer_letters": "MOTOWN",
       "indices": [
-        38,
+        53,
+        54,
+        124,
+        31,
+        2,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yvonne",
+      "answer_letters": "YVONNE",
+      "indices": [
+        135,
+        68,
+        1,
+        20,
+        12,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
+        86,
+        82,
+        84,
+        19,
+        65,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "referees",
+      "answer_letters": "REFEREES",
+      "indices": [
+        32,
+        140,
+        172,
+        144,
+        169,
+        79,
+        120,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "seated",
+      "answer_letters": "SEATED",
+      "indices": [
+        141,
+        27,
+        147,
+        110,
+        100,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "right-handed",
+      "answer_letters": "RIGHTHANDED",
+      "indices": [
+        78,
         90,
-        92,
+        119,
+        76,
+        179,
+        0,
+        57,
+        98,
+        21,
+        177,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "education",
+      "answer_letters": "EDUCATION",
+      "indices": [
+        13,
+        139,
+        155,
+        61,
+        62,
+        167,
+        5,
+        113,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "differ",
+      "answer_letters": "DIFFER",
+      "indices": [
+        51,
         23,
+        116,
+        30,
+        15,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evolutionary",
+      "answer_letters": "EVOLUTIONARY",
+      "indices": [
+        52,
+        14,
+        9,
+        70,
+        137,
+        121,
+        81,
+        154,
+        148,
+        103,
+        118,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "manchu",
+      "answer_letters": "MANCHU",
+      "indices": [
+        174,
+        45,
+        73,
+        146,
+        85,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "pilgrim",
+      "answer_letters": "PILGRIM",
+      "indices": [
+        28,
+        142,
+        89,
+        133,
+        16,
+        123,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tenerife",
+      "answer_letters": "TENERIFE",
+      "indices": [
+        35,
+        77,
+        63,
+        34,
+        156,
+        159,
+        95,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "imagery",
+      "answer_letters": "IMAGERY",
+      "indices": [
+        37,
+        18,
+        162,
+        33,
+        102,
+        46,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottoman",
+      "answer_letters": "OTTOMAN",
+      "indices": [
+        117,
         129,
-        126
+        166,
+        136,
+        176,
+        126,
+        109
       ]
     },
     {
@@ -65,228 +281,12 @@
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
-        127,
-        108,
-        150,
-        42,
-        21,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "methodology",
-      "answer_letters": "METHODOLOGY",
-      "indices": [
-        174,
-        15,
-        121,
-        85,
-        9,
-        59,
-        1,
-        70,
-        154,
-        119,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "younger",
-      "answer_letters": "YOUNGER",
-      "indices": [
-        41,
-        175,
-        137,
-        20,
-        33,
-        102,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evaluation",
-      "answer_letters": "EVALUATION",
-      "indices": [
-        47,
-        14,
-        49,
-        89,
-        114,
-        103,
-        179,
-        131,
-        31,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        78,
-        43,
-        58,
-        171,
-        172,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sherman",
-      "answer_letters": "SHERMAN",
-      "indices": [
-        141,
-        130,
-        86,
-        169,
-        53,
-        165,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "referee",
-      "answer_letters": "REFEREE",
-      "indices": [
-        156,
-        77,
-        30,
-        100,
-        118,
-        151,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        144,
-        4,
-        176,
-        155,
-        160,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "decide",
-      "answer_letters": "DECIDE",
-      "indices": [
-        6,
-        26,
-        146,
-        81,
-        139,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "encoded",
-      "answer_letters": "ENCODED",
-      "indices": [
-        69,
-        104,
-        61,
-        117,
-        51,
-        27,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "monkey",
-      "answer_letters": "MONKEY",
-      "indices": [
-        164,
-        113,
-        73,
-        25,
-        168,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "poverty",
-      "answer_letters": "POVERTY",
-      "indices": [
-        28,
-        136,
-        68,
-        140,
-        66,
-        36,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty-one",
-      "answer_letters": "TWENTYONE",
-      "indices": [
-        35,
-        2,
-        34,
-        12,
-        84,
-        135,
-        54,
-        63,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insanity",
-      "answer_letters": "INSANITY",
-      "indices": [
-        123,
-        55,
-        157,
-        162,
-        82,
-        159,
-        166,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
+        132,
         94,
-        167,
-        110,
-        45,
-        75,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nigerian",
-      "answer_letters": "NIGERIAN",
-      "indices": [
-        148,
-        5,
-        133,
-        120,
-        16,
-        142,
-        57,
-        132
+        88,
+        108,
+        107,
+        112
       ]
     }
   ],

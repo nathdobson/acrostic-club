@@ -6,152 +6,154 @@
   "clues": [
     {
       "clue": null,
-      "answer": "compete",
-      "answer_letters": "COMPETE",
+      "answer": "co-founded",
+      "answer_letters": "COFOUNDED",
       "indices": [
         155,
-        90,
-        79,
-        25,
-        135,
-        156,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hooker",
-      "answer_letters": "HOOKER",
-      "indices": [
-        75,
-        159,
-        66,
-        56,
-        154,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        131,
-        5,
-        43,
-        29,
-        27,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isolate",
-      "answer_letters": "ISOLATE",
-      "indices": [
-        115,
-        6,
+        44,
+        54,
         80,
-        63,
-        136,
-        93,
-        52
+        5,
+        36,
+        86,
+        57,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "supply",
-      "answer_letters": "SUPPLY",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
       "indices": [
-        109,
-        160,
-        153,
-        146,
-        95,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ticket",
-      "answer_letters": "TICKET",
-      "indices": [
-        82,
-        65,
-        22,
-        84,
-        151,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
-      "indices": [
-        85,
-        74,
-        76,
+        101,
+        66,
         147,
-        0,
-        81
+        63,
+        159,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "namesake",
-      "answer_letters": "NAMESAKE",
+      "answer": "rotate",
+      "answer_letters": "ROTATE",
       "indices": [
-        14,
-        71,
-        111,
-        102,
-        87,
-        24,
-        19,
-        126
+        150,
+        110,
+        113,
+        139,
+        45,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "astrology",
-      "answer_letters": "ASTROLOGY",
+      "answer": "insight",
+      "answer_letters": "INSIGHT",
       "indices": [
-        162,
+        47,
+        43,
         68,
-        50,
-        123,
-        145,
-        64,
-        106,
+        96,
         117,
+        51,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "suffer",
+      "answer_letters": "SUFFER",
+      "indices": [
+        6,
+        40,
+        27,
+        168,
+        20,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theorem",
+      "answer_letters": "THEOREM",
+      "indices": [
+        100,
+        75,
+        154,
+        13,
+        123,
+        132,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "injury",
+      "answer_letters": "INJURY",
+      "indices": [
+        92,
+        48,
+        4,
+        10,
+        134,
         8
       ]
     },
     {
       "clue": null,
-      "answer": "dumont",
-      "answer_letters": "DUMONT",
+      "answer": "nominate",
+      "answer_letters": "NOMINATE",
       "indices": [
-        86,
-        40,
-        30,
-        44,
-        48,
-        113
+        116,
+        35,
+        111,
+        115,
+        33,
+        162,
+        82,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "apparel",
+      "answer_letters": "APPAREL",
       "indices": [
-        55,
-        61,
-        39,
-        120,
-        77,
-        172
+        18,
+        146,
+        153,
+        136,
+        170,
+        112,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deputy",
+      "answer_letters": "DEPUTY",
+      "indices": [
+        12,
+        135,
+        25,
+        2,
+        175,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attempt",
+      "answer_letters": "ATTEMPT",
+      "indices": [
+        32,
+        7,
+        41,
+        151,
+        30,
+        122,
+        93
       ]
     },
     {
@@ -159,137 +161,135 @@
       "answer": "lookout",
       "answer_letters": "LOOKOUT",
       "indices": [
-        164,
-        13,
-        169,
-        97,
+        64,
+        9,
+        120,
+        56,
+        124,
+        160,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eureka",
+      "answer_letters": "EUREKA",
+      "indices": [
+        60,
+        130,
+        59,
+        148,
+        19,
+        55
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        0,
+        174,
+        22,
+        114,
+        77,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rookie",
+      "answer_letters": "ROOKIE",
+      "indices": [
+        131,
+        90,
+        106,
+        84,
+        65,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
+      "indices": [
+        71,
+        61,
+        39,
         1,
-        2,
-        45
+        17,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
+      "answer": "destroys",
+      "answer_letters": "DESTROYS",
       "indices": [
-        62,
-        116,
-        4,
-        110,
-        158,
-        20,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yesterday",
-      "answer_letters": "YESTERDAY",
-      "indices": [
-        72,
-        144,
-        152,
-        166,
-        132,
-        23,
         89,
-        18,
+        37,
+        81,
+        107,
+        28,
+        145,
+        158,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
+        85,
+        14,
+        15,
+        24,
+        97,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "autopsy",
+      "answer_letters": "AUTOPSY",
+      "indices": [
+        76,
+        67,
+        166,
+        29,
+        143,
+        87,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "novelty",
+      "answer_letters": "NOVELTY",
+      "indices": [
+        140,
+        165,
+        125,
+        144,
+        164,
+        172,
         128
       ]
     },
     {
       "clue": null,
-      "answer": "rooftop",
-      "answer_letters": "ROOFTOP",
+      "answer": "theology",
+      "answer_letters": "THEOLOGY",
       "indices": [
-        150,
-        124,
-        129,
-        54,
-        175,
-        165,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "avenge",
-      "answer_letters": "AVENGE",
-      "indices": [
-        32,
-        125,
-        57,
-        140,
-        105,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
-      "indices": [
-        141,
-        67,
-        137,
-        130,
-        17,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iteration",
-      "answer_letters": "ITERATION",
-      "indices": [
-        96,
-        15,
-        112,
-        28,
-        139,
-        41,
-        92,
-        35,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "author",
-      "answer_letters": "AUTHOR",
-      "indices": [
-        174,
-        10,
-        7,
-        101,
-        9,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        33,
-        148,
-        122,
-        51,
-        37,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thirty",
-      "answer_letters": "THIRTY",
-      "indices": [
-        119,
+        50,
         173,
-        47,
-        170,
-        107,
+        126,
+        169,
+        137,
+        129,
+        105,
         103
       ]
     }

@@ -6,43 +6,43 @@
   "clues": [
     {
       "clue": null,
-      "answer": "remotely",
-      "answer_letters": "REMOTELY",
+      "answer": "rebounds",
+      "answer_letters": "REBOUNDS",
       "indices": [
-        165,
-        146,
-        55,
-        42,
-        20,
-        80,
-        105,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        149,
-        131,
-        153,
-        81,
+        23,
+        29,
         22,
-        12
+        164,
+        112,
+        139,
+        9,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "ashley",
+      "answer_letters": "ASHLEY",
+      "indices": [
+        1,
+        109,
+        7,
+        15,
+        51,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issues",
+      "answer_letters": "ISSUES",
       "indices": [
         138,
-        44,
-        82,
-        117,
-        4,
-        102
+        129,
+        62,
+        83,
+        88,
+        153
       ]
     },
     {
@@ -50,25 +50,70 @@
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
-        154,
-        127,
-        147,
-        1,
+        142,
+        11,
+        136,
+        76,
         111,
-        106
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "behest",
-      "answer_letters": "BEHEST",
+      "answer": "broughton",
+      "answer_letters": "BROUGHTON",
       "indices": [
-        0,
-        16,
-        53,
-        85,
-        89,
-        64
+        79,
+        57,
+        46,
+        58,
+        47,
+        50,
+        114,
+        155,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outspoken",
+      "answer_letters": "OUTSPOKEN",
+      "indices": [
+        36,
+        33,
+        133,
+        84,
+        74,
+        24,
+        118,
+        93,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wicked",
+      "answer_letters": "WICKED",
+      "indices": [
+        25,
+        37,
+        6,
+        108,
+        158,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remove",
+      "answer_letters": "REMOVE",
+      "indices": [
+        165,
+        80,
+        59,
+        168,
+        159,
+        16
       ]
     },
     {
@@ -76,209 +121,164 @@
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
-        32,
-        71,
-        41,
-        84,
-        8,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
-      "indices": [
-        25,
-        132,
-        72,
-        49,
-        65,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        57,
-        50,
-        69,
-        67,
-        126,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outputs",
-      "answer_letters": "OUTPUTS",
-      "indices": [
-        36,
+        122,
         54,
         125,
-        74,
-        112,
-        114,
-        129
+        113,
+        91,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "warehouse",
-      "answer_letters": "WAREHOUSE",
+      "answer": "whitehead",
+      "answer_letters": "WHITEHEAD",
       "indices": [
         156,
-        137,
-        28,
-        51,
-        7,
-        107,
-        83,
-        62,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evolving",
-      "answer_letters": "EVOLVING",
-      "indices": [
-        29,
-        159,
-        155,
-        75,
-        136,
-        37,
-        96,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leaked",
-      "answer_letters": "LEAKED",
-      "indices": [
-        116,
+        102,
+        117,
+        49,
+        14,
+        126,
         160,
-        141,
-        118,
-        93,
-        143
+        149,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "launch",
-      "answer_letters": "LAUNCH",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
-        92,
-        18,
-        58,
-        161,
-        6,
+        8,
+        45,
+        42,
+        123,
+        35,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "length",
+      "answer_letters": "LENGTH",
+      "indices": [
+        75,
+        95,
+        19,
+        17,
+        128,
         134
       ]
     },
     {
       "clue": null,
-      "answer": "fungus",
-      "answer_letters": "FUNGUS",
+      "answer": "loaned",
+      "answer_letters": "LOANED",
+      "indices": [
+        105,
+        107,
+        127,
+        38,
+        103,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "favour",
+      "answer_letters": "FAVOUR",
       "indices": [
         163,
+        4,
+        94,
+        132,
         169,
-        142,
-        39,
-        33,
-        113
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "antennae",
-      "answer_letters": "ANTENNAE",
+      "answer": "anybody",
+      "answer_letters": "ANYBODY",
       "indices": [
-        11,
-        99,
-        133,
-        103,
+        82,
         77,
-        45,
-        76,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        38,
-        66,
-        47,
-        168,
         121,
-        98
+        131,
+        32,
+        100,
+        31
       ]
     },
     {
       "clue": null,
-      "answer": "gordon",
-      "answer_letters": "GORDON",
+      "answer": "nazareth",
+      "answer_letters": "NAZARETH",
       "indices": [
-        35,
-        24,
+        154,
+        27,
+        2,
+        141,
         5,
-        56,
-        46,
-        19
+        146,
+        64,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
+      "answer": "gymnast",
+      "answer_letters": "GYMNAST",
+      "indices": [
+        39,
+        69,
+        55,
+        161,
+        18,
+        44,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
       "indices": [
         61,
+        41,
+        53,
+        137,
+        81,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "renovate",
+      "answer_letters": "RENOVATE",
+      "indices": [
+        28,
+        85,
         150,
-        87,
-        27,
-        79,
+        106,
+        147,
+        98,
+        151,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lublin",
+      "answer_letters": "LUBLIN",
+      "indices": [
+        116,
+        71,
+        0,
+        92,
         148,
-        128,
-        158,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rendezvous",
-      "answer_letters": "RENDEZVOUS",
-      "indices": [
-        23,
-        119,
-        139,
-        100,
-        91,
-        2,
-        94,
-        122,
-        123,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "looked",
-      "answer_letters": "LOOKED",
-      "indices": [
-        15,
-        70,
-        164,
-        108,
-        88,
-        145
+        96
       ]
     }
   ],

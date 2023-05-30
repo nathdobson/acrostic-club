@@ -6,184 +6,98 @@
   "clues": [
     {
       "clue": null,
-      "answer": "molina",
-      "answer_letters": "MOLINA",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
         34,
-        1,
-        66,
-        121,
-        90,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
-      "indices": [
-        74,
-        96,
-        165,
-        152,
-        85,
-        23,
-        119,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
-      "indices": [
-        174,
-        112,
-        102,
         118,
-        32,
+        19,
+        147,
+        11,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "imitation",
+      "answer_letters": "IMITATION",
+      "indices": [
+        150,
+        28,
+        166,
+        46,
+        61,
+        169,
+        94,
+        1,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lothian",
+      "answer_letters": "LOTHIAN",
+      "indices": [
+        133,
+        132,
+        77,
+        14,
+        74,
+        41,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ashton",
+      "answer_letters": "ASHTON",
+      "indices": [
+        79,
+        30,
+        99,
+        119,
+        173,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        21,
+        160,
+        123,
         78,
-        144
+        58,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "affairs",
-      "answer_letters": "AFFAIRS",
+      "answer": "kickoff",
+      "answer_letters": "KICKOFF",
       "indices": [
-        140,
-        130,
-        64,
-        156,
+        42,
         6,
-        93,
-        75
+        153,
+        88,
+        144,
+        92,
+        151
       ]
     },
     {
       "clue": null,
-      "answer": "notified",
-      "answer_letters": "NOTIFIED",
-      "indices": [
-        9,
-        170,
-        80,
-        15,
-        83,
-        33,
-        35,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "köppen",
-      "answer_letters": "KOPPEN",
-      "indices": [
-        49,
-        38,
-        60,
-        172,
-        154,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
+      "answer": "unrest",
+      "answer_letters": "UNREST",
       "indices": [
         65,
-        101,
-        133,
-        62,
-        158,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "network",
-      "answer_letters": "NETWORK",
-      "indices": [
-        117,
-        95,
-        58,
-        18,
-        27,
+        105,
         127,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deaths",
-      "answer_letters": "DEATHS",
-      "indices": [
-        2,
-        110,
-        104,
-        176,
-        52,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "easton",
-      "answer_letters": "EASTON",
-      "indices": [
-        161,
-        61,
-        115,
-        169,
-        69,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythmic",
-      "answer_letters": "RHYTHMIC",
-      "indices": [
-        86,
-        99,
-        4,
-        0,
-        120,
-        28,
-        134,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "admissions",
-      "answer_letters": "ADMISSIONS",
-      "indices": [
-        3,
-        106,
-        125,
-        114,
-        146,
-        98,
-        160,
-        82,
-        122,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        29,
-        94,
-        123,
-        109,
-        46,
-        19
+        128,
+        75,
+        80
       ]
     },
     {
@@ -192,24 +106,112 @@
       "answer_letters": "NIKITA",
       "indices": [
         63,
-        175,
-        88,
-        177,
-        13,
-        41
+        62,
+        49,
+        15,
+        108,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "chosen",
-      "answer_letters": "CHOSEN",
+      "answer": "depths",
+      "answer_letters": "DEPTHS",
       "indices": [
-        48,
-        14,
-        132,
+        97,
+        29,
+        101,
+        37,
+        165,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emissions",
+      "answer_letters": "EMISSIONS",
+      "indices": [
+        35,
+        125,
+        175,
         179,
+        164,
+        134,
+        87,
+        141,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "richmond",
+      "answer_letters": "RICHMOND",
+      "indices": [
+        159,
+        121,
+        48,
+        109,
+        55,
+        82,
+        96,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "apoptosis",
+      "answer_letters": "APOPTOSIS",
+      "indices": [
+        3,
+        167,
+        56,
+        60,
+        176,
+        126,
+        102,
+        152,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
+      "indices": [
         89,
-        162
+        26,
+        52,
+        27,
+        20,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nitrate",
+      "answer_letters": "NITRATE",
+      "indices": [
+        90,
+        100,
+        138,
+        111,
+        156,
+        24,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "coached",
+      "answer_letters": "COACHED",
+      "indices": [
+        178,
+        47,
+        104,
+        148,
+        139,
+        95,
+        72
       ]
     },
     {
@@ -217,42 +219,40 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        56,
-        92,
-        151,
-        30,
-        136,
-        126,
-        47,
-        24
+        38,
+        158,
+        83,
+        57,
+        120,
+        10,
+        131,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "updated",
-      "answer_letters": "UPDATED",
+      "answer": "uplift",
+      "answer_letters": "UPLIFT",
       "indices": [
         70,
-        167,
-        163,
-        79,
-        51,
-        43,
-        72
+        172,
+        174,
+        23,
+        64,
+        32
       ]
     },
     {
       "clue": null,
-      "answer": "norwich",
-      "answer_letters": "NORWICH",
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
       "indices": [
-        141,
-        131,
-        111,
-        68,
-        166,
-        153,
-        139
+        71,
+        170,
+        85,
+        69,
+        106,
+        4
       ]
     },
     {
@@ -260,43 +260,43 @@
       "answer": "twitter",
       "answer_letters": "TWITTER",
       "indices": [
+        13,
+        68,
+        177,
+        0,
         40,
-        11,
-        100,
-        108,
-        37,
-        20,
-        159
+        112,
+        86
       ]
     },
     {
       "clue": null,
-      "answer": "economist",
-      "answer_letters": "ECONOMIST",
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
       "indices": [
-        53,
-        26,
-        87,
-        21,
-        10,
-        55,
-        150,
-        16,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rockets",
-      "answer_letters": "ROCKETS",
-      "indices": [
+        161,
         149,
-        173,
-        178,
-        8,
-        128,
-        77,
-        45
+        98,
+        143,
+        18,
+        136,
+        33,
+        66,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refined",
+      "answer_letters": "REFINED",
+      "indices": [
+        93,
+        53,
+        130,
+        114,
+        117,
+        43,
+        2
       ]
     }
   ],

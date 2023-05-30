@@ -6,130 +6,126 @@
   "clues": [
     {
       "clue": null,
-      "answer": "growers",
-      "answer_letters": "GROWERS",
-      "indices": [
-        173,
-        57,
-        90,
-        75,
-        97,
-        134,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
-      "indices": [
-        113,
-        165,
-        191,
-        53,
-        145,
-        48,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        183,
-        112,
-        68,
-        87,
-        89,
-        141,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        126,
-        149,
-        114,
-        155,
-        35,
-        58
-      ]
-    },
-    {
-      "clue": null,
       "answer": "gunshot",
       "answer_letters": "GUNSHOT",
       "indices": [
-        12,
-        38,
-        54,
-        148,
-        69,
-        188,
-        179
+        23,
+        137,
+        15,
+        136,
+        2,
+        74,
+        139
       ]
     },
     {
       "clue": null,
-      "answer": "ecoregion",
-      "answer_letters": "ECOREGION",
+      "answer": "encodes",
+      "answer_letters": "ENCODES",
       "indices": [
-        24,
-        123,
-        164,
-        98,
-        135,
-        103,
-        30,
+        79,
+        172,
+        150,
         31,
-        102
+        55,
+        70,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "enhancing",
-      "answer_letters": "ENHANCING",
+      "answer": "one-hour",
+      "answer_letters": "ONEHOUR",
+      "indices": [
+        188,
+        176,
+        24,
+        69,
+        90,
+        3,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "review",
+      "answer_letters": "REVIEW",
+      "indices": [
+        98,
+        9,
+        47,
+        30,
+        66,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "glasgow",
+      "answer_letters": "GLASGOW",
+      "indices": [
+        103,
+        65,
+        5,
+        158,
+        173,
+        164,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ellsworth",
+      "answer_letters": "ELLSWORTH",
       "indices": [
         185,
+        156,
+        60,
+        20,
+        75,
+        141,
+        57,
+        29,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "endure",
+      "answer_letters": "ENDURE",
+      "indices": [
+        113,
         91,
-        63,
-        28,
-        176,
-        77,
-        82,
-        172,
-        92
+        177,
+        59,
+        134,
+        56
       ]
     },
     {
       "clue": null,
-      "answer": "lionel",
-      "answer_letters": "LIONEL",
+      "answer": "laying",
+      "answer_letters": "LAYING",
       "indices": [
-        138,
+        89,
+        119,
+        50,
         129,
-        34,
-        15,
-        70,
-        73
+        95,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "invites",
-      "answer_letters": "INVITES",
+      "answer": "innate",
+      "answer_letters": "INNATE",
       "indices": [
-        19,
+        171,
         32,
-        170,
-        108,
-        96,
-        190,
-        72
+        6,
+        175,
+        160,
+        48
       ]
     },
     {
@@ -137,181 +133,185 @@
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
-        64,
-        6,
-        157,
-        86,
-        142,
-        110
+        34,
+        84,
+        162,
+        146,
+        110,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "through",
-      "answer_letters": "THROUGH",
+      "answer": "thorough",
+      "answer_letters": "THOROUGH",
       "indices": [
-        17,
-        100,
-        39,
+        68,
+        124,
         169,
-        137,
-        23,
+        49,
+        37,
+        149,
+        12,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "michele",
-      "answer_letters": "MICHELE",
+      "answer": "macbeth",
+      "answer_letters": "MACBETH",
       "indices": [
-        127,
-        104,
-        115,
-        151,
-        166,
-        156,
-        66
+        4,
+        45,
+        99,
+        8,
+        135,
+        17,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "infant",
+      "answer_letters": "INFANT",
       "indices": [
-        42,
-        117,
-        125,
-        10,
-        22,
-        124
+        82,
+        102,
+        87,
+        101,
+        165,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "dawson",
-      "answer_letters": "DAWSON",
-      "indices": [
-        177,
-        119,
-        52,
-        158,
-        83,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "double-a",
-      "answer_letters": "DOUBLEA",
+      "answer": "downed",
+      "answer_letters": "DOWNED",
       "indices": [
         121,
-        37,
-        59,
-        8,
-        168,
+        64,
+        62,
+        114,
         181,
-        5
+        191
       ]
     },
     {
       "clue": null,
-      "answer": "lowlands",
-      "answer_letters": "LOWLANDS",
+      "answer": "downhill",
+      "answer_letters": "DOWNHILL",
       "indices": [
-        65,
-        74,
-        62,
-        111,
-        0,
-        120,
-        55,
+        25,
+        86,
+        153,
+        105,
+        63,
+        104,
+        138,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "locations",
+      "answer_letters": "LOCATIONS",
+      "indices": [
+        73,
+        83,
+        77,
+        125,
+        96,
+        108,
+        53,
+        27,
         43
       ]
     },
     {
       "clue": null,
-      "answer": "eleventh",
-      "answer_letters": "ELEVENTH",
+      "answer": "ethnicities",
+      "answer_letters": "ETHNICITIES",
       "indices": [
-        79,
-        60,
-        56,
-        189,
-        162,
-        11,
-        160,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mustangs",
-      "answer_letters": "MUSTANGS",
-      "indices": [
-        4,
-        3,
-        130,
-        29,
-        80,
+        157,
+        144,
+        100,
         184,
-        106,
-        20
+        19,
+        123,
+        10,
+        179,
+        94,
+        190,
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "athena",
-      "answer_letters": "ATHENA",
+      "answer": "missile",
+      "answer_letters": "MISSILE",
       "indices": [
-        45,
-        81,
-        2,
-        116,
-        109,
-        175
+        127,
+        14,
+        130,
+        72,
+        42,
+        168,
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "relativity",
-      "answer_letters": "RELATIVITY",
+      "answer": "avengers",
+      "answer_letters": "AVENGERS",
+      "indices": [
+        132,
+        170,
+        166,
+        120,
+        92,
+        97,
+        126,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
       "indices": [
         78,
-        9,
+        112,
+        109,
+        183,
+        35,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "calhoun",
+      "answer_letters": "CALHOUN",
+      "indices": [
+        115,
+        22,
         187,
-        132,
-        144,
-        14,
-        47,
-        171,
-        139,
-        50
+        180,
+        155,
+        38,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "cannon",
-      "answer_letters": "CANNON",
+      "answer": "havana",
+      "answer_letters": "HAVANA",
       "indices": [
-        99,
-        101,
-        105,
-        27,
-        146,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
-      "indices": [
-        18,
-        94,
-        49,
-        40,
-        150,
-        161
+        151,
+        80,
+        189,
+        28,
+        54,
+        0
       ]
     }
   ],

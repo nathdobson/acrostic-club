@@ -6,45 +6,48 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
+      "answer": "knocking",
+      "answer_letters": "KNOCKING",
       "indices": [
+        177,
+        7,
+        154,
+        80,
         39,
-        138,
-        35,
-        98,
-        87,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "immunity",
-      "answer_letters": "IMMUNITY",
-      "indices": [
-        179,
-        171,
-        155,
-        16,
-        33,
         129,
-        107,
-        90
+        139,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "teaching",
-      "answer_letters": "TEACHING",
+      "answer": "inactive",
+      "answer_letters": "INACTIVE",
       "indices": [
-        65,
-        77,
-        6,
-        146,
-        76,
-        165,
-        110,
-        167
+        134,
+        23,
+        144,
+        11,
+        0,
+        108,
+        87,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toowoomba",
+      "answer_letters": "TOOWOOMBA",
+      "indices": [
+        36,
+        161,
+        56,
+        121,
+        109,
+        68,
+        123,
+        158,
+        59
       ]
     },
     {
@@ -52,39 +55,42 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        162,
+        20,
         119,
-        126,
-        83,
-        1,
-        135
+        182,
+        94,
+        76,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
+      "answer": "outcome",
+      "answer_letters": "OUTCOME",
       "indices": [
-        68,
-        71,
-        105,
-        50,
-        22,
-        128,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "county",
-      "answer_letters": "COUNTY",
-      "indices": [
-        174,
         38,
-        69,
-        112,
-        145,
-        29
+        104,
+        128,
+        5,
+        138,
+        155,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "community",
+      "answer_letters": "COMMUNITY",
+      "indices": [
+        176,
+        98,
+        135,
+        130,
+        92,
+        99,
+        116,
+        75,
+        126
       ]
     },
     {
@@ -92,209 +98,203 @@
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
-        147,
-        15,
-        176,
-        177,
-        40,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "autonomy",
-      "answer_letters": "AUTONOMY",
-      "indices": [
-        19,
-        72,
-        75,
-        56,
-        47,
-        154,
-        130,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "buckingham",
-      "answer_letters": "BUCKINGHAM",
-      "indices": [
-        158,
-        92,
-        5,
-        12,
-        108,
-        180,
-        137,
-        85,
-        144,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "equality",
-      "answer_letters": "EQUALITY",
-      "indices": [
-        96,
-        103,
-        104,
-        81,
-        9,
-        10,
-        169,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yunnan",
-      "answer_letters": "YUNNAN",
-      "indices": [
-        67,
-        151,
-        23,
-        140,
-        124,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occurs",
-      "answer_letters": "OCCURS",
-      "indices": [
-        183,
-        80,
-        11,
-        184,
-        37,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        60,
-        46,
-        24,
-        91,
-        3,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dedicated",
-      "answer_letters": "DEDICATED",
-      "indices": [
-        61,
-        88,
-        48,
-        134,
-        31,
-        59,
-        94,
-        64,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chiefly",
-      "answer_letters": "CHIEFLY",
-      "indices": [
-        52,
-        95,
-        116,
-        168,
-        160,
-        21,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outputs",
-      "answer_letters": "OUTPUTS",
-      "indices": [
-        161,
-        44,
-        0,
-        63,
-        57,
-        36,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        139,
-        156,
-        121,
-        117,
-        143,
-        131,
-        28,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "techno",
-      "answer_letters": "TECHNO",
-      "indices": [
-        26,
-        159,
-        153,
         27,
-        125,
-        120
+        15,
+        146,
+        53,
+        156,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "rooney",
-      "answer_letters": "ROONEY",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
       "indices": [
-        20,
-        109,
-        175,
+        6,
         82,
-        163,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
-        150,
-        99,
-        2,
-        114,
-        32,
+        101,
+        143,
+        81,
         14
       ]
     },
     {
       "clue": null,
-      "answer": "layout",
-      "answer_letters": "LAYOUT",
+      "answer": "beyoncé",
+      "answer_letters": "BEYONCE",
+      "indices": [
+        71,
+        88,
+        3,
+        183,
+        110,
+        174,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "equity",
+      "answer_letters": "EQUITY",
+      "indices": [
+        105,
+        103,
+        184,
+        179,
+        107,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "young's",
+      "answer_letters": "YOUNGS",
+      "indices": [
+        55,
+        91,
+        51,
+        180,
+        24,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oceania",
+      "answer_letters": "OCEANIA",
+      "indices": [
+        120,
+        31,
+        163,
+        141,
+        140,
+        10,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikolay",
+      "answer_letters": "NIKOLAY",
+      "indices": [
+        47,
+        165,
+        12,
+        113,
+        9,
+        124,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dudley",
+      "answer_letters": "DUDLEY",
+      "indices": [
+        18,
+        57,
+        48,
+        21,
+        96,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "catches",
+      "answer_letters": "CATCHES",
+      "indices": [
+        52,
+        32,
+        73,
+        153,
+        85,
+        28,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfits",
+      "answer_letters": "OUTFITS",
+      "indices": [
+        43,
+        69,
+        65,
+        160,
+        22,
+        83,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neptune",
+      "answer_letters": "NEPTUNE",
+      "indices": [
+        112,
+        168,
+        63,
+        26,
+        44,
+        60,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        145,
+        147,
+        175,
+        72,
+        167,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runway",
+      "answer_letters": "RUNWAY",
+      "indices": [
+        37,
+        151,
+        125,
+        114,
+        19,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "odyssey",
+      "answer_letters": "ODYSSEY",
+      "indices": [
+        150,
+        61,
+        29,
+        106,
+        117,
+        40,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lutheran",
+      "answer_letters": "LUTHERAN",
       "indices": [
         100,
-        86,
-        182,
-        43,
-        51,
-        73
+        16,
+        169,
+        95,
+        159,
+        162,
+        46,
+        33
       ]
     }
   ],

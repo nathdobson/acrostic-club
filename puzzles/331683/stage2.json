@@ -6,154 +6,155 @@
   "clues": [
     {
       "clue": null,
-      "answer": "humanist",
-      "answer_letters": "HUMANIST",
+      "answer": "hawker",
+      "answer_letters": "HAWKER",
       "indices": [
-        176,
+        161,
+        33,
+        139,
+        42,
+        177,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exhausted",
+      "answer_letters": "EXHAUSTED",
+      "indices": [
+        70,
+        17,
+        96,
+        41,
         13,
-        50,
-        53,
-        68,
+        146,
+        72,
+        126,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nilsson",
+      "answer_letters": "NILSSON",
+      "indices": [
+        173,
         114,
-        44,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elliot",
-      "answer_letters": "ELLIOT",
-      "indices": [
-        59,
         0,
-        87,
-        49,
-        92,
-        143
+        34,
+        47,
+        8,
+        29
       ]
     },
     {
       "clue": null,
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
+      "answer": "reacts",
+      "answer_letters": "REACTS",
       "indices": [
-        127,
-        83,
-        157,
-        67,
-        30,
+        71,
+        165,
+        166,
+        149,
+        40,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "informal",
+      "answer_letters": "INFORMAL",
+      "indices": [
+        49,
+        23,
+        113,
+        144,
+        14,
+        50,
+        140,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        150,
+        6,
+        82,
+        43,
+        24,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "turrets",
+      "answer_letters": "TURRETS",
+      "indices": [
+        184,
+        147,
+        84,
+        137,
+        25,
+        160,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "techno",
+      "answer_letters": "TECHNO",
+      "indices": [
+        57,
+        111,
+        110,
+        75,
+        109,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amnesty",
+      "answer_letters": "AMNESTY",
+      "indices": [
+        94,
+        85,
+        121,
+        162,
+        39,
+        74,
         141
       ]
     },
     {
       "clue": null,
-      "answer": "reeves",
-      "answer_letters": "REEVES",
+      "answer": "neutral",
+      "answer_letters": "NEUTRAL",
       "indices": [
-        71,
-        100,
-        106,
-        99,
-        126,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "immature",
-      "answer_letters": "IMMATURE",
-      "indices": [
-        51,
-        179,
-        9,
-        108,
-        74,
-        136,
-        181,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "extras",
-      "answer_letters": "EXTRAS",
-      "indices": [
-        98,
-        17,
-        184,
-        7,
-        28,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trump's",
-      "answer_letters": "TRUMPS",
-      "indices": [
-        117,
-        3,
-        147,
-        37,
-        18,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thrash",
-      "answer_letters": "THRASH",
-      "indices": [
-        154,
-        125,
-        20,
-        46,
-        151,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ancestors",
-      "answer_letters": "ANCESTORS",
-      "indices": [
-        62,
-        4,
-        148,
-        16,
-        152,
-        79,
-        130,
-        137,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "needles",
-      "answer_letters": "NEEDLES",
-      "indices": [
-        173,
-        43,
-        158,
-        122,
-        52,
+        127,
         22,
-        89
+        103,
+        175,
+        3,
+        180,
+        52
       ]
     },
     {
       "clue": null,
-      "answer": "enfield",
-      "answer_letters": "ENFIELD",
+      "answer": "embassy",
+      "answer_letters": "EMBASSY",
       "indices": [
-        70,
-        121,
-        82,
-        21,
-        111,
-        164,
-        64
+        59,
+        60,
+        157,
+        53,
+        102,
+        104,
+        11
       ]
     },
     {
@@ -161,147 +162,146 @@
       "answer": "weymouth",
       "answer_letters": "WEYMOUTH",
       "indices": [
-        139,
-        76,
+        129,
+        168,
         134,
         77,
-        12,
-        86,
-        35,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "testosterone",
-      "answer_letters": "TESTOSTERONE",
-      "indices": [
-        54,
-        150,
-        34,
-        160,
-        144,
-        170,
-        175,
-        168,
-        169,
-        135,
-        23,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occurs",
-      "answer_letters": "OCCURS",
-      "indices": [
-        8,
-        110,
-        66,
-        103,
-        84,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "namesake",
-      "answer_letters": "NAMESAKE",
-      "indices": [
-        29,
-        33,
-        60,
-        55,
-        47,
-        88,
-        132,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mcpherson",
-      "answer_letters": "MCPHERSON",
-      "indices": [
-        85,
-        149,
-        32,
-        58,
-        162,
-        14,
-        146,
         155,
-        109
+        86,
+        143,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "affects",
-      "answer_letters": "AFFECTS",
+      "answer": "thanks",
+      "answer_letters": "THANKS",
       "indices": [
-        2,
-        113,
-        6,
-        183,
-        24,
-        72,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reworked",
-      "answer_letters": "REWORKED",
-      "indices": [
-        115,
-        165,
-        129,
-        80,
-        131,
+        35,
+        176,
+        62,
+        107,
         182,
-        25,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "operative",
+      "answer_letters": "OPERATIVE",
+      "indices": [
+        12,
+        18,
+        158,
+        7,
+        88,
+        105,
+        38,
+        99,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "necessitated",
+      "answer_letters": "NECESSITATED",
+      "indices": [
+        68,
+        1,
+        66,
+        19,
+        26,
+        44,
+        172,
+        117,
+        2,
+        54,
+        100,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mahmoud",
+      "answer_letters": "MAHMOUD",
+      "indices": [
+        9,
+        28,
+        125,
+        179,
+        92,
+        136,
         167
       ]
     },
     {
       "clue": null,
-      "answer": "tanaka",
-      "answer_letters": "TANAKA",
+      "answer": "asteroid",
+      "answer_letters": "ASTEROID",
+      "indices": [
+        46,
+        151,
+        91,
+        16,
+        181,
+        67,
+        51,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rocket",
+      "answer_letters": "ROCKET",
+      "indices": [
+        20,
+        135,
+        95,
+        132,
+        55,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "traverse",
+      "answer_letters": "TRAVERSE",
       "indices": [
         124,
-        166,
-        107,
-        41,
-        42,
-        180
+        169,
+        108,
+        69,
+        98,
+        131,
+        89,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "incomes",
+      "answer_letters": "INCOMES",
       "indices": [
-        97,
-        91,
-        96,
-        120,
-        95,
-        94
+        21,
+        4,
+        148,
+        130,
+        37,
+        183,
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "nativity",
-      "answer_letters": "NATIVITY",
+      "answer": "napoli",
+      "answer_letters": "NAPOLI",
       "indices": [
         63,
-        140,
-        105,
-        38,
-        69,
-        172,
-        40,
-        11
+        120,
+        32,
+        80,
+        87,
+        97
       ]
     }
   ],

@@ -6,202 +6,126 @@
   "clues": [
     {
       "clue": null,
-      "answer": "emotions",
-      "answer_letters": "EMOTIONS",
+      "answer": "either",
+      "answer_letters": "EITHER",
       "indices": [
-        119,
-        72,
-        44,
-        128,
-        7,
-        71,
-        30,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
-      "indices": [
-        67,
-        74,
-        36,
-        95,
-        3,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "impression",
-      "answer_letters": "IMPRESSION",
-      "indices": [
-        139,
-        107,
-        73,
-        124,
-        84,
-        37,
-        59,
-        49,
-        129,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chelsea",
-      "answer_letters": "CHELSEA",
-      "indices": [
-        50,
-        176,
-        13,
-        2,
-        104,
-        125,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "methods",
-      "answer_letters": "METHODS",
-      "indices": [
-        144,
-        76,
-        79,
-        150,
-        56,
-        164,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isthmus",
-      "answer_letters": "ISTHMUS",
-      "indices": [
+        68,
         133,
-        140,
-        117,
-        135,
-        159,
-        57,
+        166,
+        118,
+        76,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhodes",
+      "answer_letters": "RHODES",
+      "indices": [
+        158,
+        150,
+        178,
+        12,
+        42,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insists",
+      "answer_letters": "INSISTS",
+      "indices": [
+        3,
+        32,
+        8,
+        114,
+        169,
+        151,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chiefly",
+      "answer_letters": "CHIEFLY",
+      "indices": [
+        41,
+        48,
+        171,
+        84,
+        89,
+        2,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "moments",
+      "answer_letters": "MOMENTS",
+      "indices": [
+        107,
+        18,
+        144,
+        54,
+        30,
+        105,
         102
       ]
     },
     {
       "clue": null,
-      "answer": "cheyenne",
-      "answer_letters": "CHEYENNE",
+      "answer": "impetus",
+      "answer_letters": "IMPETUS",
       "indices": [
-        134,
-        138,
-        68,
-        103,
-        173,
-        40,
-        172,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "homage",
-      "answer_letters": "HOMAGE",
-      "indices": [
-        48,
-        18,
-        10,
-        11,
-        123,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attendees",
-      "answer_letters": "ATTENDEES",
-      "indices": [
-        26,
-        166,
-        86,
-        4,
-        92,
-        77,
-        99,
-        145,
+        139,
+        72,
+        73,
+        63,
+        83,
+        57,
         64
       ]
     },
     {
       "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "answer": "coffee",
+      "answer_letters": "COFFEE",
       "indices": [
-        163,
-        156,
-        114,
-        151,
-        181,
-        42,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowered",
-      "answer_letters": "LOWERED",
-      "indices": [
-        61,
-        88,
-        47,
-        111,
-        177,
-        96,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lithium",
-      "answer_letters": "LITHIUM",
-      "indices": [
-        147,
-        148,
-        105,
-        170,
-        153,
-        35,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
+        134,
+        74,
+        5,
+        100,
         60,
-        98,
-        180,
-        110,
-        137,
-        51
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "viceroy",
-      "answer_letters": "VICEROY",
+      "answer": "highways",
+      "answer_letters": "HIGHWAYS",
       "indices": [
-        62,
-        160,
-        70,
-        122,
-        158,
-        178,
-        93
+        132,
+        148,
+        123,
+        22,
+        131,
+        143,
+        93,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awesome",
+      "answer_letters": "AWESOME",
+      "indices": [
+        66,
+        47,
+        126,
+        115,
+        44,
+        159,
+        81
       ]
     },
     {
@@ -209,87 +133,163 @@
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
-        81,
-        89,
+        145,
+        19,
         45,
-        63,
-        41,
-        175,
-        115
+        173,
+        50,
+        137,
+        34
       ]
     },
     {
       "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
-        112,
-        28,
-        131,
-        106,
-        142,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        109,
+        61,
+        98,
+        180,
+        170,
+        21,
         80,
-        31,
+        167,
         15,
-        149,
-        132,
-        162
+        142,
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "hardships",
-      "answer_letters": "HARDSHIPS",
+      "answer": "lobbied",
+      "answer_letters": "LOBBIED",
       "indices": [
-        22,
-        66,
-        58,
-        12,
-        8,
-        118,
-        171,
+        147,
+        31,
+        95,
+        36,
+        7,
+        106,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        4,
+        156,
+        49,
+        38,
+        176,
+        13,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "venice",
+      "answer_letters": "VENICE",
+      "indices": [
+        62,
+        99,
+        112,
+        160,
+        70,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enterprises",
+      "answer_letters": "ENTERPRISES",
+      "indices": [
+        23,
+        40,
+        162,
+        119,
+        177,
         16,
+        124,
+        153,
+        154,
+        1,
         75
       ]
     },
     {
       "clue": null,
-      "answer": "asbestos",
-      "answer_letters": "ASBESTOS",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
-        143,
-        25,
-        0,
-        54,
-        85,
-        38,
-        167,
-        154
+        172,
+        129,
+        67,
+        109,
+        138,
+        53,
+        163,
+        37,
+        79
       ]
     },
     {
       "clue": null,
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
+      "answer": "thomson",
+      "answer_letters": "THOMSON",
+      "indices": [
+        86,
+        135,
+        56,
+        27,
+        140,
+        71,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "head-to-head",
+      "answer_letters": "HEADTOHEAD",
+      "indices": [
+        51,
+        125,
+        26,
+        121,
+        117,
+        88,
+        181,
+        157,
+        39,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "august",
+      "answer_letters": "AUGUST",
+      "indices": [
+        11,
+        35,
+        149,
+        179,
+        25,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
       "indices": [
         97,
-        179,
-        100,
-        83,
-        53,
         91,
-        19,
-        5,
-        157
+        10,
+        0,
+        96,
+        161,
+        110
       ]
     }
   ],

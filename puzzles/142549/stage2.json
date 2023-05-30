@@ -9,45 +9,41 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
-        160,
-        86,
-        137,
-        104,
-        61,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "richly",
-      "answer_letters": "RICHLY",
-      "indices": [
-        67,
-        68,
+        135,
+        92,
+        93,
+        152,
         142,
-        0,
-        115,
-        7
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "intentionally",
-      "answer_letters": "INTENTIONALLY",
+      "answer": "relocate",
+      "answer_letters": "RELOCATE",
       "indices": [
-        106,
-        97,
-        99,
-        89,
-        12,
-        132,
-        125,
-        107,
-        108,
-        134,
-        147,
-        31,
-        121
+        133,
+        41,
+        114,
+        8,
+        103,
+        21,
+        58,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italian",
+      "answer_letters": "ITALIAN",
+      "indices": [
+        71,
+        86,
+        141,
+        158,
+        102,
+        35,
+        54
       ]
     },
     {
@@ -55,58 +51,56 @@
       "answer": "showcased",
       "answer_letters": "SHOWCASED",
       "indices": [
-        33,
-        17,
-        8,
-        145,
-        95,
-        120,
+        131,
+        62,
+        98,
+        2,
+        61,
+        129,
         24,
-        48,
-        4
+        63,
+        112
       ]
     },
     {
       "clue": null,
-      "answer": "białystok",
-      "answer_letters": "BIALYSTOK",
+      "answer": "bassett",
+      "answer_letters": "BASSETT",
       "indices": [
         66,
-        71,
         50,
-        30,
-        43,
+        56,
         122,
-        150,
-        13,
-        37
+        25,
+        45,
+        105
       ]
     },
     {
       "clue": null,
-      "answer": "locate",
-      "answer_letters": "LOCATE",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
       "indices": [
-        158,
+        31,
+        70,
+        43,
         59,
-        78,
-        159,
-        126,
-        82
+        60,
+        69
       ]
     },
     {
       "clue": null,
-      "answer": "ashanti",
-      "answer_letters": "ASHANTI",
+      "answer": "anxiety",
+      "answer_letters": "ANXIETY",
       "indices": [
-        29,
-        64,
-        20,
-        164,
-        161,
-        92,
-        135
+        91,
+        108,
+        156,
+        94,
+        53,
+        99,
+        121
       ]
     },
     {
@@ -114,167 +108,173 @@
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
-        80,
-        90,
-        131,
-        14,
-        102,
-        103,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rafael",
-      "answer_letters": "RAFAEL",
-      "indices": [
-        42,
-        141,
-        101,
-        84,
-        146,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "existed",
-      "answer_letters": "EXISTED",
-      "indices": [
-        79,
-        26,
         55,
-        36,
-        138,
-        87,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deepest",
-      "answer_letters": "DEEPEST",
-      "indices": [
-        112,
-        39,
-        77,
         52,
-        53,
-        56,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aviation",
-      "answer_letters": "AVIATION",
-      "indices": [
-        152,
-        81,
-        94,
-        32,
-        153,
+        33,
+        145,
         46,
-        109,
-        54
+        95,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "raphael",
-      "answer_letters": "RAPHAEL",
+      "answer": "rosenthal",
+      "answer_letters": "ROSENTHAL",
       "indices": [
         76,
-        21,
-        157,
-        127,
-        35,
-        63,
-        114
+        109,
+        162,
+        146,
+        97,
+        126,
+        0,
+        84,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
+      "answer": "ethiopia",
+      "answer_letters": "ETHIOPIA",
       "indices": [
-        11,
-        167,
-        16,
-        98,
-        40,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fewest",
-      "answer_letters": "FEWEST",
-      "indices": [
-        140,
         143,
+        132,
+        20,
+        106,
+        107,
+        90,
+        160,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dissolve",
+      "answer_letters": "DISSOLVE",
+      "indices": [
+        28,
+        68,
+        117,
+        64,
+        5,
+        148,
+        81,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "allowing",
+      "answer_letters": "ALLOWING",
+      "indices": [
+        104,
+        115,
+        166,
+        167,
         124,
-        25,
-        38,
-        69
+        80,
+        12,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "residents",
-      "answer_letters": "RESIDENTS",
+      "answer": "reeves",
+      "answer_letters": "REEVES",
       "indices": [
-        133,
-        18,
-        119,
-        74,
-        22,
+        67,
+        39,
         155,
-        72,
-        168,
-        117
+        40,
+        89,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "answer": "keystone",
+      "answer_letters": "KEYSTONE",
       "indices": [
-        113,
-        88,
-        45,
-        93,
-        1,
-        60,
-        136,
-        62
+        37,
+        87,
+        7,
+        36,
+        150,
+        13,
+        161,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "malawi",
-      "answer_letters": "MALAWI",
+      "answer": "faithful",
+      "answer_letters": "FAITHFUL",
+      "indices": [
+        101,
+        116,
+        74,
+        138,
+        110,
+        140,
+        9,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rashid",
+      "answer_letters": "RASHID",
+      "indices": [
+        42,
+        32,
+        16,
+        127,
+        125,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attached",
+      "answer_letters": "ATTACHED",
+      "indices": [
+        164,
+        153,
+        168,
+        134,
+        78,
+        151,
+        79,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
         47,
-        116,
-        148,
-        70,
-        2,
-        100
+        1,
+        17,
+        29,
+        14,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "exhaust",
-      "answer_letters": "EXHAUST",
+      "answer": "explains",
+      "answer_letters": "EXPLAINS",
       "indices": [
-        41,
-        156,
-        151,
-        129,
-        9,
-        162,
-        58
+        77,
+        26,
+        157,
+        30,
+        113,
+        100,
+        72,
+        119
       ]
     }
   ],

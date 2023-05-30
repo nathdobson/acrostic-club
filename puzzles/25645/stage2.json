@@ -6,151 +6,157 @@
   "clues": [
     {
       "clue": null,
-      "answer": "richie",
-      "answer_letters": "RICHIE",
+      "answer": "rotate",
+      "answer_letters": "ROTATE",
       "indices": [
-        66,
-        108,
-        4,
-        36,
-        52,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isotope",
-      "answer_letters": "ISOTOPE",
-      "indices": [
-        99,
-        33,
-        152,
-        111,
-        176,
-        154,
+        42,
+        10,
+        145,
+        85,
+        157,
         67
       ]
     },
     {
       "clue": null,
-      "answer": "co-editor",
-      "answer_letters": "COEDITOR",
+      "answer": "industries",
+      "answer_letters": "INDUSTRIES",
       "indices": [
-        12,
-        128,
-        73,
-        130,
-        47,
-        151,
-        91,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hitter",
-      "answer_letters": "HITTER",
-      "indices": [
-        112,
-        96,
-        143,
+        99,
+        59,
+        29,
+        119,
+        33,
         97,
-        115,
-        42
+        38,
+        52,
+        168,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "eighty",
-      "answer_letters": "EIGHTY",
+      "answer": "coyote",
+      "answer_letters": "COYOTE",
       "indices": [
-        65,
-        102,
-        123,
-        163,
-        90,
-        171
+        159,
+        80,
+        0,
+        60,
+        160,
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "lottery",
-      "answer_letters": "LOTTERY",
+      "answer": "hobart",
+      "answer_letters": "HOBART",
       "indices": [
-        87,
-        166,
-        45,
-        56,
-        83,
+        64,
+        128,
+        86,
+        93,
         22,
-        117
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "lovely",
-      "answer_letters": "LOVELY",
+      "answer": "eviction",
+      "answer_letters": "EVICTION",
       "indices": [
-        175,
-        41,
-        177,
-        18,
+        13,
+        138,
+        31,
+        12,
+        45,
+        105,
+        166,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lafayette",
+      "answer_letters": "LAFAYETTE",
+      "indices": [
         15,
-        69
+        5,
+        103,
+        24,
+        69,
+        23,
+        32,
+        162,
+        113
       ]
     },
     {
       "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
+      "answer": "lookout",
+      "answer_letters": "LOOKOUT",
       "indices": [
-        158,
-        26,
-        75,
-        134,
-        79,
-        64
+        25,
+        41,
+        124,
+        147,
+        156,
+        71,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "moritz",
-      "answer_letters": "MORITZ",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        139,
+        154,
+        47,
+        56,
+        163,
+        178,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
       "indices": [
         95,
-        16,
-        38,
-        142,
-        7,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editions",
-      "answer_letters": "EDITIONS",
-      "indices": [
-        88,
-        94,
-        55,
-        32,
+        91,
+        111,
         44,
-        124,
-        167,
-        149
+        177,
+        115,
+        109
       ]
     },
     {
       "clue": null,
-      "answer": "avenue",
-      "answer_letters": "AVENUE",
+      "answer": "either",
+      "answer_letters": "EITHER",
       "indices": [
-        93,
-        17,
-        23,
-        49,
-        71,
-        39
+        39,
+        96,
+        125,
+        134,
+        164,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "azores",
+      "answer_letters": "AZORES",
+      "indices": [
+        135,
+        27,
+        152,
+        11,
+        83,
+        169
       ]
     },
     {
@@ -158,137 +164,131 @@
       "answer": "devout",
       "answer_letters": "DEVOUT",
       "indices": [
-        29,
-        113,
-        72,
-        10,
+        130,
+        88,
+        17,
+        172,
         2,
-        160
+        61
       ]
     },
     {
       "clue": null,
-      "answer": "freeway",
-      "answer_letters": "FREEWAY",
+      "answer": "forget",
+      "answer_letters": "FORGET",
       "indices": [
         53,
+        76,
         140,
-        137,
-        13,
-        133,
-        146,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
-      "indices": [
-        11,
-        164,
-        86,
-        60,
-        1,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
-        80,
-        119,
-        61,
-        169,
-        28,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "statute",
-      "answer_letters": "STATUTE",
-      "indices": [
-        48,
-        145,
-        135,
-        162,
-        173,
-        136,
-        139
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        106,
-        85,
-        50,
-        127,
-        156,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "botanist",
-      "answer_letters": "BOTANIST",
-      "indices": [
-        82,
-        172,
-        157,
-        24,
-        59,
-        20,
-        57,
+        123,
+        18,
         77
       ]
     },
     {
       "clue": null,
-      "answer": "involve",
-      "answer_letters": "INVOLVE",
+      "answer": "ritchie",
+      "answer_letters": "RITCHIE",
       "indices": [
-        105,
-        6,
-        138,
-        76,
-        25,
-        120,
-        168
+        155,
+        142,
+        136,
+        4,
+        112,
+        55,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "takeoff",
-      "answer_letters": "TAKEOFF",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
       "indices": [
-        35,
-        5,
-        147,
+        16,
+        173,
+        151,
+        9,
+        26,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "slower",
+      "answer_letters": "SLOWER",
+      "indices": [
+        149,
+        175,
+        70,
+        133,
         37,
-        131,
-        103,
-        9
+        66
       ]
     },
     {
       "clue": null,
-      "answer": "esoteric",
-      "answer_letters": "ESOTERIC",
+      "answer": "toledo",
+      "answer_letters": "TOLEDO",
       "indices": [
-        148,
-        109,
+        50,
+        176,
+        87,
+        158,
+        94,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bogotá",
+      "answer_letters": "BOGOTA",
+      "indices": [
+        82,
+        131,
+        75,
         118,
-        125,
+        100,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invites",
+      "answer_letters": "INVITES",
+      "indices": [
+        20,
+        167,
+        72,
+        102,
+        143,
+        65,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "they've",
+      "answer_letters": "THEYVE",
+      "indices": [
+        90,
+        36,
         121,
-        114,
-        31,
-        159
+        171,
+        120,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
+        137,
+        49,
+        7,
+        108,
+        79,
+        117
       ]
     }
   ],

@@ -6,313 +6,313 @@
   "clues": [
     {
       "clue": null,
-      "answer": "gothic",
-      "answer_letters": "GOTHIC",
+      "answer": "gossip",
+      "answer_letters": "GOSSIP",
       "indices": [
         184,
-        33,
-        176,
-        147,
+        128,
+        98,
+        87,
         100,
-        6
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "elements",
-      "answer_letters": "ELEMENTS",
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
       "indices": [
-        74,
-        40,
-        155,
-        65,
         107,
-        131,
-        63,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "octopus",
-      "answer_letters": "OCTOPUS",
-      "indices": [
-        105,
-        31,
-        164,
-        133,
-        28,
-        134,
+        18,
+        174,
+        157,
+        144,
         44
       ]
     },
     {
       "clue": null,
-      "answer": "railway",
-      "answer_letters": "RAILWAY",
+      "answer": "optimum",
+      "answer_letters": "OPTIMUM",
       "indices": [
-        46,
-        163,
-        50,
-        152,
-        146,
-        48,
-        172
+        33,
+        137,
+        63,
+        69,
+        116,
+        94,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "giulio",
-      "answer_letters": "GIULIO",
+      "answer": "rookie",
+      "answer_letters": "ROOKIE",
+      "indices": [
+        138,
+        133,
+        105,
+        16,
+        81,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gentlemen",
+      "answer_letters": "GENTLEMEN",
       "indices": [
         36,
-        96,
-        183,
-        111,
-        122,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estimates",
-      "answer_letters": "ESTIMATES",
-      "indices": [
-        162,
-        59,
-        179,
-        148,
-        61,
-        7,
-        93,
         45,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        130,
-        89,
-        90,
-        128,
-        3,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leaked",
-      "answer_letters": "LEAKED",
-      "indices": [
-        171,
-        17,
-        178,
-        25,
-        62,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "installation",
-      "answer_letters": "INSTALLATION",
-      "indices": [
-        110,
-        12,
-        92,
-        114,
-        0,
-        34,
+        123,
+        49,
         8,
-        168,
-        118,
-        37,
-        21,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        60,
-        85,
-        154,
-        18,
-        150,
-        42,
-        104,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
-      "indices": [
-        82,
-        32,
-        115,
-        30,
-        47,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "murphy",
-      "answer_letters": "MURPHY",
-      "indices": [
+        130,
         129,
-        80,
-        78,
-        76,
-        185,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "impacts",
-      "answer_letters": "IMPACTS",
-      "indices": [
-        153,
-        23,
-        140,
-        11,
-        149,
-        124,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "depends",
-      "answer_letters": "DEPENDS",
-      "indices": [
-        4,
-        167,
-        137,
-        142,
-        181,
-        95,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "doubts",
-      "answer_letters": "DOUBTS",
-      "indices": [
-        159,
-        125,
-        77,
-        43,
-        20,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lindsay",
-      "answer_letters": "LINDSAY",
-      "indices": [
-        14,
-        69,
-        52,
-        161,
-        169,
-        24,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estimation",
-      "answer_letters": "ESTIMATION",
-      "indices": [
-        66,
-        29,
-        103,
-        5,
-        127,
-        55,
-        132,
-        64,
-        139,
+        3,
         158
       ]
     },
     {
       "clue": null,
-      "answer": "missions",
-      "answer_letters": "MISSIONS",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        17,
+        117,
+        15,
+        132,
+        90,
+        162,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        119,
+        143,
+        150,
+        51,
+        97,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "locals",
+      "answer_letters": "LOCALS",
+      "indices": [
+        152,
+        182,
+        89,
+        39,
+        40,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italian",
+      "answer_letters": "ITALIAN",
+      "indices": [
+        148,
+        114,
+        55,
+        171,
+        96,
+        11,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overdose",
+      "answer_letters": "OVERDOSE",
+      "indices": [
+        35,
+        47,
+        142,
+        46,
+        4,
+        139,
+        101,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tiffany",
+      "answer_letters": "TIFFANY",
+      "indices": [
+        124,
+        5,
+        154,
+        85,
+        163,
+        52,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mascot",
+      "answer_letters": "MASCOT",
       "indices": [
         10,
-        81,
-        87,
-        101,
+        24,
+        67,
+        31,
+        104,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "impose",
+      "answer_letters": "IMPOSE",
+      "indices": [
         170,
-        182,
-        56,
+        61,
+        28,
+        42,
+        169,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        57,
+        88,
+        34,
+        80,
+        186,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "donkey",
+      "answer_letters": "DONKEY",
+      "indices": [
+        95,
+        60,
+        131,
+        25,
+        167,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ladies",
+      "answer_letters": "LADIES",
+      "indices": [
+        14,
+        0,
+        159,
+        64,
+        66,
         135
       ]
     },
     {
       "clue": null,
-      "answer": "autumn",
-      "answer_letters": "AUTUMN",
+      "answer": "enthusiasts",
+      "answer_letters": "ENTHUSIASTS",
       "indices": [
+        74,
+        12,
+        103,
+        73,
+        183,
+        53,
+        122,
         108,
-        94,
-        72,
-        88,
-        2,
-        70
+        79,
+        118,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "recipe",
-      "answer_letters": "RECIPE",
+      "answer": "macbeth",
+      "answer_letters": "MACBETH",
       "indices": [
-        138,
-        119,
-        143,
-        15,
-        117,
-        97
+        127,
+        7,
+        6,
+        43,
+        155,
+        176,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "chatham",
-      "answer_letters": "CHATHAM",
+      "answer": "amount",
+      "answer_letters": "AMOUNT",
+      "indices": [
+        178,
+        23,
+        125,
+        134,
+        181,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "relationships",
+      "answer_letters": "RELATIONSHIPS",
+      "indices": [
+        78,
+        175,
+        111,
+        48,
+        82,
+        37,
+        84,
+        70,
+        29,
+        147,
+        153,
+        140,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "choctaw",
+      "answer_letters": "CHOCTAW",
       "indices": [
         38,
-        73,
-        157,
-        186,
-        141,
-        39,
-        116
+        185,
+        21,
+        149,
+        93,
+        168,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "hooked",
-      "answer_letters": "HOOKED",
+      "answer": "humidity",
+      "answer_letters": "HUMIDITY",
       "indices": [
         165,
-        51,
-        35,
-        16,
-        175,
-        57
+        77,
+        2,
+        110,
+        120,
+        50,
+        179,
+        172
       ]
     }
   ],

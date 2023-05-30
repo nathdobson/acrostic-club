@@ -6,236 +6,289 @@
   "clues": [
     {
       "clue": null,
-      "answer": "samantha",
-      "answer_letters": "SAMANTHA",
+      "answer": "shafts",
+      "answer_letters": "SHAFTS",
       "indices": [
-        147,
-        156,
-        98,
-        58,
-        79,
-        118,
-        3,
-        123
+        150,
+        72,
+        176,
+        116,
+        112,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "congress",
-      "answer_letters": "CONGRESS",
+      "answer": "carlisle",
+      "answer_letters": "CARLISLE",
       "indices": [
         24,
-        155,
-        143,
-        174,
-        120,
-        7,
-        139,
-        42
+        29,
+        8,
+        94,
+        102,
+        42,
+        30,
+        111
       ]
     },
     {
       "clue": null,
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
+      "answer": "output",
+      "answer_letters": "OUTPUT",
       "indices": [
         145,
-        144,
-        80,
+        117,
+        141,
+        109,
+        119,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tariff",
+      "answer_letters": "TARIFF",
+      "indices": [
+        86,
+        123,
+        83,
+        87,
+        128,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tropics",
+      "answer_letters": "TROPICS",
+      "indices": [
+        183,
+        101,
+        155,
+        85,
+        12,
+        91,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wealth",
+      "answer_letters": "WEALTH",
+      "indices": [
+        0,
+        66,
+        52,
+        125,
+        136,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        106,
+        50,
         22,
-        78,
+        47,
+        110,
         131
       ]
     },
     {
       "clue": null,
-      "answer": "teaches",
-      "answer_letters": "TEACHES",
+      "answer": "summit",
+      "answer_letters": "SUMMIT",
       "indices": [
-        10,
-        39,
-        29,
-        91,
-        65,
-        66,
-        150
+        154,
+        84,
+        98,
+        181,
+        31,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "thrilling",
-      "answer_letters": "THRILLING",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
-        25,
-        105,
-        21,
-        168,
-        103,
-        55,
-        130,
-        89,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "webber",
-      "answer_letters": "WEBBER",
-      "indices": [
-        48,
-        134,
-        162,
-        161,
-        45,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elites",
-      "answer_letters": "ELITES",
-      "indices": [
-        36,
-        94,
-        70,
-        141,
-        23,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "spitfire",
-      "answer_letters": "SPITFIRE",
-      "indices": [
-        75,
-        85,
-        172,
-        32,
-        62,
-        54,
-        107,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thesis",
-      "answer_letters": "THESIS",
-      "indices": [
-        86,
+        2,
         167,
-        56,
-        68,
-        1,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evolve",
-      "answer_letters": "EVOLVE",
-      "indices": [
-        170,
-        6,
-        127,
-        125,
+        20,
+        114,
         169,
-        100
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "rafael",
-      "answer_letters": "RAFAEL",
+      "answer": "estonia",
+      "answer_letters": "ESTONIA",
+      "indices": [
+        37,
+        35,
+        32,
+        17,
+        143,
+        54,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reality",
+      "answer_letters": "REALITY",
       "indices": [
         171,
-        176,
-        50,
-        152,
-        28,
-        30
+        81,
+        149,
+        55,
+        97,
+        76,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "ferrari",
-      "answer_letters": "FERRARI",
+      "answer": "finely",
+      "answer_letters": "FINELY",
       "indices": [
         133,
-        106,
-        83,
-        110,
-        52,
-        27,
-        102
+        130,
+        177,
+        142,
+        69,
+        184
       ]
     },
     {
       "clue": null,
-      "answer": "editing",
-      "answer_letters": "EDITING",
+      "answer": "ellsworth",
+      "answer_letters": "ELLSWORTH",
       "indices": [
-        111,
-        95,
-        12,
-        136,
-        97,
-        13,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawyers",
-      "answer_letters": "LAWYERS",
-      "indices": [
+        134,
         124,
-        138,
-        0,
-        9,
-        74,
-        82,
-        16
+        103,
+        16,
+        48,
+        92,
+        51,
+        80,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
-        178,
-        93,
         135,
-        84,
-        76,
+        56,
+        46,
+        70,
+        71,
         11
       ]
     },
     {
       "clue": null,
-      "answer": "python",
-      "answer_letters": "PYTHON",
+      "answer": "drives",
+      "answer_letters": "DRIVES",
       "indices": [
-        182,
-        184,
-        183,
-        46,
-        92,
-        177
+        95,
+        27,
+        1,
+        6,
+        45,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
+      "answer": "pepper",
+      "answer_letters": "PEPPER",
       "indices": [
-        101,
-        117,
+        157,
+        39,
+        182,
+        19,
+        180,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robbie",
+      "answer_letters": "ROBBIE",
+      "indices": [
+        82,
+        127,
+        162,
+        159,
+        78,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "engage",
+      "answer_letters": "ENGAGE",
+      "indices": [
+        100,
+        13,
+        174,
+        138,
+        53,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thomas",
+      "answer_letters": "THOMAS",
+      "indices": [
+        113,
+        3,
+        43,
+        38,
+        156,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trudeau",
+      "answer_letters": "TRUDEAU",
+      "indices": [
+        73,
+        120,
+        144,
+        178,
+        5,
+        58,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ingredients",
+      "answer_letters": "INGREDIENTS",
+      "indices": [
+        172,
+        89,
+        14,
+        107,
+        36,
+        40,
+        168,
+        7,
         173,
-        47,
-        128,
-        116
+        10,
+        166
       ]
     },
     {
@@ -243,81 +296,28 @@
       "answer": "employee",
       "answer_letters": "EMPLOYEE",
       "indices": [
-        142,
-        38,
-        157,
-        163,
-        17,
-        33,
         121,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tribute",
-      "answer_letters": "TRIBUTE",
-      "indices": [
-        64,
-        51,
-        61,
-        159,
-        160,
-        113,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tipped",
-      "answer_letters": "TIPPED",
-      "indices": [
-        112,
-        31,
-        99,
-        19,
-        20,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "images",
-      "answer_letters": "IMAGES",
-      "indices": [
-        87,
         44,
-        149,
-        53,
-        5,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "employ",
-      "answer_letters": "EMPLOY",
-      "indices": [
-        81,
-        181,
-        109,
-        69,
+        99,
+        163,
         88,
-        114
+        9,
+        164,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
+      "answer": "subunit",
+      "answer_letters": "SUBUNIT",
       "indices": [
-        59,
-        72,
-        146,
-        73,
-        43,
-        119,
-        2
+        139,
+        160,
+        161,
+        93,
+        79,
+        61,
+        118
       ]
     }
   ],

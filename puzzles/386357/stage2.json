@@ -6,55 +6,56 @@
   "clues": [
     {
       "clue": null,
-      "answer": "gustavo",
-      "answer_letters": "GUSTAVO",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
       "indices": [
-        147,
-        127,
-        23,
-        78,
-        108,
-        139,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adhere",
-      "answer_letters": "ADHERE",
-      "indices": [
-        90,
-        105,
-        149,
-        67,
-        83,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        130,
-        32,
-        24,
-        129,
-        99,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "itunes",
-      "answer_letters": "ITUNES",
-      "indices": [
-        3,
-        36,
-        82,
-        146,
+        66,
+        98,
         60,
-        113
+        109,
+        149,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "always",
+      "answer_letters": "ALWAYS",
+      "indices": [
+        52,
+        27,
+        17,
+        56,
+        80,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        108,
+        155,
+        118,
+        70,
+        150,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhabits",
+      "answer_letters": "INHABITS",
+      "indices": [
+        10,
+        146,
+        51,
+        115,
+        32,
+        42,
+        34,
+        100
       ]
     },
     {
@@ -63,212 +64,211 @@
       "answer_letters": "KOSOVO",
       "indices": [
         12,
-        126,
-        151,
-        48,
+        154,
+        161,
+        159,
         103,
-        87
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "eastwood",
-      "answer_letters": "EASTWOOD",
+      "answer": "eldest",
+      "answer_letters": "ELDEST",
       "indices": [
+        134,
+        136,
+        4,
         96,
+        151,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "novels",
+      "answer_letters": "NOVELS",
+      "indices": [
+        131,
+        87,
+        139,
+        138,
+        135,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statute",
+      "answer_letters": "STATUTE",
+      "indices": [
+        113,
+        6,
         58,
-        53,
         68,
-        120,
+        77,
+        63,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "usable",
+      "answer_letters": "USABLE",
+      "indices": [
+        33,
+        39,
+        18,
+        26,
+        116,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "publish",
+      "answer_letters": "PUBLISH",
+      "indices": [
+        21,
+        82,
+        76,
+        91,
+        3,
+        24,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embodied",
+      "answer_letters": "EMBODIED",
+      "indices": [
+        84,
+        92,
+        99,
         81,
-        64,
+        105,
+        145,
+        122,
         2
       ]
     },
     {
       "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
+      "answer": "routes",
+      "answer_letters": "ROUTES",
       "indices": [
-        57,
-        101,
-        70,
-        122,
-        94,
-        164
+        102,
+        48,
+        127,
+        158,
+        67,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "scottish",
-      "answer_letters": "SCOTTISH",
+      "answer": "northwestern",
+      "answer_letters": "NORTHWESTERN",
       "indices": [
-        41,
-        89,
-        154,
-        34,
-        143,
-        163,
-        100,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unbeaten",
-      "answer_letters": "UNBEATEN",
-      "indices": [
-        112,
-        5,
-        26,
-        28,
-        18,
-        6,
+        11,
+        126,
+        141,
+        164,
+        107,
+        120,
         140,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pathology",
-      "answer_letters": "PATHOLOGY",
-      "indices": [
-        21,
-        56,
+        19,
         43,
-        95,
-        98,
-        116,
-        71,
-        59,
-        125
+        28,
+        83,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "ensued",
-      "answer_letters": "ENSUED",
+      "answer": "associated",
+      "answer_letters": "ASSOCIATED",
       "indices": [
+        45,
+        23,
+        41,
+        22,
+        129,
+        38,
+        130,
+        78,
         156,
-        155,
-        110,
-        44,
-        84,
         61
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
       "indices": [
-        141,
-        144,
-        142,
-        46,
-        51,
-        92,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        123,
-        10,
-        153,
-        37,
         15,
-        161
+        95,
+        64,
+        112,
+        59,
+        37,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "abilities",
-      "answer_letters": "ABILITIES",
+      "answer": "uniting",
+      "answer_letters": "UNITING",
       "indices": [
-        45,
-        76,
-        42,
-        135,
+        44,
+        5,
         14,
-        8,
-        145,
-        104,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
-      "indices": [
-        158,
-        52,
-        121,
+        143,
         25,
-        133,
-        38
+        123,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "usually",
-      "answer_letters": "USUALLY",
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
       "indices": [
+        72,
+        144,
+        125,
+        46,
+        9,
+        55,
+        163,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "austin",
+      "answer_letters": "AUSTIN",
+      "indices": [
+        90,
         114,
-        86,
-        33,
-        115,
-        27,
-        91,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        102,
-        107,
-        118,
-        63,
-        162,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "altitudes",
-      "answer_letters": "ALTITUDES",
-      "indices": [
-        150,
-        136,
-        109,
+        110,
+        8,
         47,
-        106,
-        77,
-        4,
-        74,
-        73
+        49
       ]
     },
     {
       "clue": null,
-      "answer": "lowering",
-      "answer_letters": "LOWERING",
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
       "indices": [
         117,
-        22,
-        17,
-        138,
-        72,
         0,
-        11,
-        66
+        147,
+        121,
+        133,
+        94
       ]
     }
   ],

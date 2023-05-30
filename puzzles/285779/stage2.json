@@ -6,147 +6,152 @@
   "clues": [
     {
       "clue": null,
-      "answer": "cowboy",
-      "answer_letters": "COWBOY",
+      "answer": "continues",
+      "answer_letters": "CONTINUES",
       "indices": [
         67,
-        140,
-        163,
-        90,
-        125,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hollow",
-      "answer_letters": "HOLLOW",
-      "indices": [
-        169,
-        151,
-        182,
-        181,
         98,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        110,
-        102,
-        54,
-        77,
-        164,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
+        126,
+        49,
         185,
-        65,
-        79,
-        180,
-        93,
-        4
+        160,
+        19,
+        91,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "seized",
-      "answer_letters": "SEIZED",
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
       "indices": [
+        102,
+        43,
+        161,
+        120,
+        174,
+        56,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refined",
+      "answer_letters": "REFINED",
+      "indices": [
+        129,
+        165,
+        99,
+        159,
+        15,
+        138,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inside",
+      "answer_letters": "INSIDE",
+      "indices": [
+        145,
+        58,
         64,
-        128,
-        85,
-        71,
-        96,
-        117
+        70,
+        146,
+        187
       ]
     },
     {
       "clue": null,
-      "answer": "twenty",
-      "answer_letters": "TWENTY",
+      "answer": "swedish",
+      "answer_letters": "SWEDISH",
       "indices": [
-        179,
-        131,
-        121,
-        44,
-        184,
+        65,
+        163,
+        8,
+        59,
+        85,
+        178,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        168,
+        101,
+        33,
+        124,
+        38,
         23
       ]
     },
     {
       "clue": null,
-      "answer": "in-house",
-      "answer_letters": "INHOUSE",
+      "answer": "induce",
+      "answer_letters": "INDUCE",
       "indices": [
-        43,
-        160,
-        7,
-        48,
+        180,
+        44,
+        150,
         94,
-        95,
-        170
+        61,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
       "indices": [
-        147,
-        68,
-        45,
-        158,
-        157,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
-      "indices": [
-        0,
-        47,
-        133,
-        124,
-        87,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "encoded",
-      "answer_letters": "ENCODED",
-      "indices": [
-        165,
-        58,
-        81,
+        116,
         136,
-        59,
-        72,
-        146
+        139,
+        106,
+        117,
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "norway",
-      "answer_letters": "NORWAY",
+      "answer": "alabama",
+      "answer_letters": "ALABAMA",
       "indices": [
+        115,
+        88,
+        87,
+        75,
+        26,
+        21,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
+        11,
         86,
-        103,
-        10,
-        101,
-        38,
-        17
+        148,
+        68,
+        157,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nassau",
+      "answer_letters": "NASSAU",
+      "indices": [
+        34,
+        93,
+        135,
+        176,
+        109,
+        76
       ]
     },
     {
@@ -154,12 +159,12 @@
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
-        161,
-        51,
-        138,
-        168,
-        132,
-        11
+        45,
+        103,
+        121,
+        77,
+        164,
+        170
       ]
     },
     {
@@ -167,153 +172,148 @@
       "answer": "endowed",
       "answer_letters": "ENDOWED",
       "indices": [
-        156,
-        34,
-        141,
-        14,
-        174,
-        28,
-        37
+        172,
+        166,
+        144,
+        18,
+        131,
+        128,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "lumpur",
-      "answer_letters": "LUMPUR",
+      "answer": "lorenzo",
+      "answer_letters": "LORENZO",
+      "indices": [
+        53,
+        125,
+        110,
+        28,
+        147,
+        71,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "applies",
+      "answer_letters": "APPLIES",
+      "indices": [
+        22,
+        1,
+        31,
+        181,
+        83,
+        35,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bamboo",
+      "answer_letters": "BAMBOO",
+      "indices": [
+        41,
+        79,
+        137,
+        90,
+        154,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lawson",
+      "answer_letters": "LAWSON",
       "indices": [
         62,
-        30,
-        186,
-        31,
-        76,
-        129
+        63,
+        25,
+        13,
+        14,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "amendment",
+      "answer_letters": "AMENDMENT",
       "indices": [
-        56,
-        41,
-        139,
-        154,
-        49,
+        2,
+        155,
+        156,
+        52,
+        37,
+        186,
+        111,
+        47,
         6
       ]
     },
     {
       "clue": null,
-      "answer": "bursts",
-      "answer_letters": "BURSTS",
+      "answer": "county",
+      "answer_letters": "COUNTY",
       "indices": [
-        75,
-        19,
-        171,
-        153,
-        3,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lankan",
-      "answer_letters": "LANKAN",
-      "indices": [
-        88,
-        22,
-        122,
-        27,
-        2,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amadeus",
-      "answer_letters": "AMADEUS",
-      "indices": [
-        115,
-        84,
-        175,
-        144,
-        91,
-        107,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "confident",
-      "answer_letters": "CONFIDENT",
-      "indices": [
-        61,
-        33,
+        81,
+        151,
+        30,
         73,
-        99,
-        70,
-        150,
-        172,
-        126,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
-      "indices": [
-        120,
-        187,
-        5,
-        127,
-        12,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "animation",
-      "answer_letters": "ANIMATION",
-      "indices": [
-        109,
-        116,
-        83,
-        21,
-        63,
         119,
-        159,
-        18,
-        15
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "remain",
-      "answer_letters": "REMAIN",
+      "answer": "hourly",
+      "answer_letters": "HOURLY",
       "indices": [
-        82,
-        35,
-        137,
-        26,
-        145,
-        52
+        4,
+        48,
+        107,
+        171,
+        182,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "telescope",
-      "answer_letters": "TELESCOPE",
+      "answer": "attack",
+      "answer_letters": "ATTACK",
+      "indices": [
+        0,
+        184,
+        3,
+        12,
+        92,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        10,
+        158,
+        105,
+        179,
+        132,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "they're",
+      "answer_letters": "THEYRE",
       "indices": [
         69,
-        111,
-        53,
-        8,
-        176,
-        92,
-        106,
-        1,
-        42
+        169,
+        96,
+        133,
+        82,
+        72
       ]
     }
   ],

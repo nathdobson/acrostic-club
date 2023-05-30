@@ -6,18 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "griffiths",
-      "answer_letters": "GRIFFITHS",
+      "answer": "gospels",
+      "answer_letters": "GOSPELS",
       "indices": [
-        73,
-        100,
-        84,
-        151,
-        26,
-        105,
-        167,
-        64,
-        60
+        39,
+        127,
+        137,
+        41,
+        12,
+        54,
+        85
       ]
     },
     {
@@ -25,109 +23,13 @@
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
-        90,
-        80,
-        89,
-        19,
+        172,
+        149,
+        110,
+        75,
         126,
-        154,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obtain",
-      "answer_letters": "OBTAIN",
-      "indices": [
-        25,
-        4,
-        174,
-        118,
-        88,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rustic",
-      "answer_letters": "RUSTIC",
-      "indices": [
-        1,
-        133,
-        119,
-        36,
-        99,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "grenoble",
-      "answer_letters": "GRENOBLE",
-      "indices": [
-        160,
-        9,
-        124,
-        72,
-        52,
-        102,
-        54,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elliott",
-      "answer_letters": "ELLIOTT",
-      "indices": [
-        97,
-        153,
-        117,
-        34,
-        143,
-        44,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epsilon",
-      "answer_letters": "EPSILON",
-      "indices": [
-        59,
-        41,
-        98,
-        152,
-        33,
-        79,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lyndon",
-      "answer_letters": "LYNDON",
-      "indices": [
-        87,
-        23,
-        93,
-        11,
-        29,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "innings",
-      "answer_letters": "INNINGS",
-      "indices": [
-        57,
-        128,
-        58,
-        37,
-        135,
-        39,
-        138
+        167,
+        120
       ]
     },
     {
@@ -135,180 +37,278 @@
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
-        109,
-        110,
-        149,
-        173,
-        136,
-        82
+        148,
+        89,
+        80,
+        2,
+        124,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "two-day",
-      "answer_letters": "TWODAY",
+      "answer": "rwandan",
+      "answer_letters": "RWANDAN",
       "indices": [
-        8,
-        21,
-        10,
-        165,
-        177,
-        107
+        100,
+        51,
+        101,
+        93,
+        55,
+        22,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "months",
-      "answer_letters": "MONTHS",
+      "answer": "ghosts",
+      "answer_letters": "GHOSTS",
       "indices": [
-        0,
+        73,
+        64,
         68,
-        67,
-        63,
-        168,
-        129
+        180,
+        154,
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
       "indices": [
-        42,
-        76,
-        47,
-        32,
-        159,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "descends",
-      "answer_letters": "DESCENDS",
-      "indices": [
-        49,
         43,
-        120,
         112,
-        169,
-        74,
+        123,
+        25,
+        97,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ecuador",
+      "answer_letters": "ECUADOR",
+      "indices": [
+        65,
+        145,
+        113,
+        16,
         176,
+        79,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "landing",
+      "answer_letters": "LANDING",
+      "indices": [
+        104,
+        35,
+        144,
+        94,
+        131,
+        67,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "initiative",
+      "answer_letters": "INITIATIVE",
+      "indices": [
+        57,
+        58,
+        103,
+        122,
+        42,
+        140,
+        174,
+        37,
+        18,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obtain",
+      "answer_letters": "OBTAIN",
+      "indices": [
+        29,
+        171,
+        36,
+        177,
+        71,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        141,
+        83,
+        152,
+        72,
+        181,
         13
       ]
     },
     {
       "clue": null,
-      "answer": "devote",
-      "answer_letters": "DEVOTE",
-      "indices": [
-        96,
-        146,
-        18,
-        127,
-        122,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
-      "indices": [
-        104,
-        148,
-        51,
-        65,
-        137,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "establish",
-      "answer_letters": "ESTABLISH",
-      "indices": [
-        75,
-        180,
-        114,
-        101,
-        171,
-        6,
-        131,
-        2,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "macintosh",
-      "answer_letters": "MACINTOSH",
+      "answer": "massif",
+      "answer_letters": "MASSIF",
       "indices": [
         178,
-        163,
-        130,
-        71,
-        15,
-        106,
-        132,
-        134,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alaska",
-      "answer_letters": "ALASKA",
-      "indices": [
-        16,
-        56,
-        179,
+        92,
+        173,
         77,
-        181,
-        92
+        84,
+        26
       ]
     },
     {
       "clue": null,
-      "answer": "russia's",
-      "answer_letters": "RUSSIAS",
+      "answer": "insults",
+      "answer_letters": "INSULTS",
       "indices": [
-        158,
-        5,
-        61,
-        7,
-        103,
-        22,
-        85
+        32,
+        128,
+        134,
+        133,
+        33,
+        63,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "candidacy",
-      "answer_letters": "CANDIDACY",
+      "answer": "detectors",
+      "answer_letters": "DETECTORS",
       "indices": [
+        11,
+        169,
+        114,
+        59,
         28,
-        35,
+        8,
+        52,
+        1,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "definitely",
+      "answer_letters": "DEFINITELY",
+      "indices": [
+        165,
+        146,
+        151,
+        105,
         164,
-        94,
         17,
-        55,
-        140,
-        145,
+        106,
+        136,
+        6,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "hungry",
-      "answer_letters": "HUNGRY",
+      "answer": "ligand",
+      "answer_letters": "LIGAND",
       "indices": [
-        70,
-        113,
-        48,
+        117,
+        88,
         116,
+        47,
+        48,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "easily",
+      "answer_letters": "EASILY",
+      "indices": [
+        19,
+        118,
+        61,
+        99,
+        87,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monthly",
+      "answer_letters": "MONTHLY",
+      "indices": [
+        0,
+        109,
+        38,
+        82,
+        155,
+        153,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abs-cbn",
+      "answer_letters": "ABSCBN",
+      "indices": [
+        179,
+        102,
+        60,
+        31,
+        4,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "railways",
+      "answer_letters": "RAILWAYS",
+      "indices": [
         53,
-        156
+        163,
+        34,
+        56,
+        21,
+        159,
+        156,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chords",
+      "answer_letters": "CHORDS",
+      "indices": [
+        130,
+        70,
+        10,
+        9,
+        49,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "houston",
+      "answer_letters": "HOUSTON",
+      "indices": [
+        168,
+        132,
+        5,
+        98,
+        69,
+        143,
+        74
       ]
     }
   ],

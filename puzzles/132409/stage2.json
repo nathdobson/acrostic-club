@@ -6,152 +6,30 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kathryn",
-      "answer_letters": "KATHRYN",
+      "answer": "keystone",
+      "answer_letters": "KEYSTONE",
       "indices": [
         83,
-        97,
-        122,
-        16,
-        175,
+        84,
         107,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "airways",
-      "answer_letters": "AIRWAYS",
-      "indices": [
-        118,
-        58,
-        145,
-        81,
-        46,
-        66,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "throws",
-      "answer_letters": "THROWS",
-      "indices": [
-        73,
-        131,
-        51,
-        113,
-        156,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hottest",
-      "answer_letters": "HOTTEST",
-      "indices": [
-        76,
-        24,
-        13,
-        78,
-        105,
-        34,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lyndon",
-      "answer_letters": "LYNDON",
-      "indices": [
-        60,
-        90,
-        47,
-        147,
-        42,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "east-west",
-      "answer_letters": "EASTWEST",
-      "indices": [
-        29,
-        37,
-        128,
-        172,
-        164,
-        53,
-        168,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
-      "indices": [
-        170,
-        30,
-        143,
-        121,
-        104,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
-      "indices": [
-        85,
-        77,
-        162,
-        82,
         32,
-        117,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "walter",
-      "answer_letters": "WALTER",
-      "indices": [
-        116,
-        158,
-        26,
-        57,
-        61,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intact",
-      "answer_letters": "INTACT",
-      "indices": [
-        171,
-        7,
-        0,
-        6,
-        63,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noticed",
-      "answer_letters": "NOTICED",
-      "indices": [
-        71,
+        114,
         72,
-        154,
-        50,
-        5,
-        20,
-        36
+        19,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anthem",
+      "answer_letters": "ANTHEM",
+      "indices": [
+        165,
+        7,
+        99,
+        16,
+        61,
+        11
       ]
     },
     {
@@ -159,69 +37,110 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        167,
+        93,
         21,
         153,
-        124,
-        140,
+        143,
+        77,
         3
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
       "indices": [
-        132,
-        27,
-        11,
-        144,
-        126,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhodesia",
-      "answer_letters": "RHODESIA",
-      "indices": [
-        138,
-        94,
-        64,
-        10,
-        137,
-        150,
-        12,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arthritis",
-      "answer_letters": "ARTHRITIS",
-      "indices": [
-        103,
-        52,
-        106,
-        173,
-        41,
-        68,
-        33,
-        109,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        19,
-        17,
+        157,
+        2,
         75,
-        174,
-        100,
+        86,
+        73,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehman",
+      "answer_letters": "LEHMAN",
+      "indices": [
+        60,
+        53,
+        131,
+        134,
+        37,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethical",
+      "answer_letters": "ETHICAL",
+      "indices": [
+        29,
+        57,
+        76,
+        58,
+        5,
+        9,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "essayist",
+      "answer_letters": "ESSAYIST",
+      "indices": [
+        40,
+        168,
+        56,
+        46,
+        66,
+        68,
+        65,
         159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwards",
+      "answer_letters": "NORTHWARDS",
+      "indices": [
+        152,
+        64,
+        145,
+        154,
+        117,
+        23,
+        158,
+        25,
+        48,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wishes",
+      "answer_letters": "WISHES",
+      "indices": [
+        124,
+        109,
+        102,
+        173,
+        137,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        55,
+        0,
+        94,
+        82,
+        63,
+        135
       ]
     },
     {
@@ -229,12 +148,54 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        112,
-        86,
-        39,
-        157,
-        130,
-        56
+        85,
+        139,
+        88,
+        1,
+        13,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "traitor",
+      "answer_letters": "TRAITOR",
+      "indices": [
+        162,
+        51,
+        103,
+        12,
+        106,
+        24,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edwards",
+      "answer_letters": "EDWARDS",
+      "indices": [
+        132,
+        27,
+        96,
+        97,
+        52,
+        147,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runways",
+      "answer_letters": "RUNWAYS",
+      "indices": [
+        138,
+        92,
+        87,
+        81,
+        125,
+        90,
+        34
       ]
     },
     {
@@ -242,58 +203,97 @@
       "answer": "awaiting",
       "answer_letters": "AWAITING",
       "indices": [
-        9,
-        96,
-        125,
-        161,
-        136,
-        55,
-        166,
-        88
+        6,
+        116,
+        80,
+        171,
+        119,
+        50,
+        112,
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "built-in",
-      "answer_letters": "BUILTIN",
+      "answer": "notation",
+      "answer_letters": "NOTATION",
+      "indices": [
+        71,
+        42,
+        172,
+        140,
+        15,
+        149,
+        91,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newton",
+      "answer_letters": "NEWTON",
+      "indices": [
+        38,
+        174,
+        156,
+        130,
+        144,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "antitrust",
+      "answer_letters": "ANTITRUST",
+      "indices": [
+        118,
+        126,
+        127,
+        121,
+        122,
+        41,
+        43,
+        69,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bowled",
+      "answer_letters": "BOWLED",
       "indices": [
         59,
-        43,
-        149,
+        113,
+        164,
+        26,
+        20,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exists",
+      "answer_letters": "EXISTS",
+      "indices": [
+        17,
+        30,
+        161,
+        150,
+        167,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifted",
+      "answer_letters": "LIFTED",
+      "indices": [
         146,
-        93,
         31,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enthusiasm",
-      "answer_letters": "ENTHUSIASM",
-      "indices": [
-        40,
-        98,
-        99,
-        1,
-        92,
-        65,
-        139,
-        165,
-        102,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
-      "indices": [
-        141,
-        91,
-        23,
-        2,
-        54,
-        114
+        104,
+        33,
+        105,
+        10
       ]
     }
   ],

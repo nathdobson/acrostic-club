@@ -6,251 +6,57 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        124,
-        46,
-        6,
-        84,
-        113,
-        99
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        91,
-        71,
-        44,
-        134,
         177,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        15,
-        144,
-        17,
         117,
-        86,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lethal",
-      "answer_letters": "LETHAL",
-      "indices": [
-        66,
-        179,
-        73,
-        116,
-        106,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        16,
-        81,
-        123,
-        130,
-        90,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alaska",
-      "answer_letters": "ALASKA",
-      "indices": [
-        87,
-        93,
-        0,
-        108,
-        127,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inherent",
-      "answer_letters": "INHERENT",
-      "indices": [
-        4,
-        1,
-        41,
-        58,
-        28,
-        125,
-        95,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "meteor",
-      "answer_letters": "METEOR",
-      "indices": [
-        98,
-        163,
-        49,
-        20,
-        96,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attach",
-      "answer_letters": "ATTACH",
-      "indices": [
-        69,
-        60,
-        167,
-        31,
-        40,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novelty",
-      "answer_letters": "NOVELTY",
-      "indices": [
-        32,
-        138,
-        180,
-        112,
-        160,
-        76,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        65,
-        133,
-        184,
-        103,
-        18,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "marshes",
-      "answer_letters": "MARSHES",
-      "indices": [
-        148,
-        27,
-        157,
-        162,
-        50,
-        185,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        55,
-        158,
-        102,
-        14,
-        164,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rahman",
-      "answer_letters": "RAHMAN",
-      "indices": [
-        182,
-        56,
-        36,
-        29,
-        75,
+        115,
+        23,
+        99,
         100
       ]
     },
     {
       "clue": null,
-      "answer": "innocence",
-      "answer_letters": "INNOCENCE",
+      "answer": "enhance",
+      "answer_letters": "ENHANCE",
       "indices": [
-        141,
-        21,
-        12,
-        129,
-        25,
-        171,
-        88,
-        78,
+        156,
+        124,
+        116,
+        31,
+        70,
+        164,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inmate",
+      "answer_letters": "INMATE",
+      "indices": [
+        46,
+        120,
+        82,
+        75,
+        22,
         109
       ]
     },
     {
       "clue": null,
-      "answer": "currents",
-      "answer_letters": "CURRENTS",
+      "answer": "launcher",
+      "answer_letters": "LAUNCHER",
       "indices": [
-        110,
+        92,
+        42,
         139,
-        43,
-        111,
-        19,
-        7,
-        135,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aftermath",
-      "answer_letters": "AFTERMATH",
-      "indices": [
-        80,
-        63,
-        38,
+        21,
+        86,
+        79,
         181,
-        104,
-        82,
-        11,
-        151,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        120,
-        8,
-        172,
-        118,
-        170,
-        155,
-        51,
-        131,
-        22
+        182
       ]
     },
     {
@@ -258,51 +64,245 @@
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
-        53,
-        149,
-        156,
-        35,
-        26,
-        173
+        16,
+        62,
+        58,
+        113,
+        17,
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "oceans",
-      "answer_letters": "OCEANS",
+      "answer": "ardent",
+      "answer_letters": "ARDENT",
       "indices": [
-        121,
-        175,
-        166,
-        176,
-        128,
+        80,
+        104,
+        33,
+        20,
+        12,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        84,
+        162,
+        158,
+        56,
+        145,
+        106,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "muscles",
+      "answer_letters": "MUSCLES",
+      "indices": [
+        98,
+        159,
+        131,
+        40,
+        66,
+        14,
         150
       ]
     },
     {
       "clue": null,
-      "answer": "dunlop",
-      "answer_letters": "DUNLOP",
+      "answer": "albums",
+      "answer_letters": "ALBUMS",
       "indices": [
-        2,
-        159,
-        70,
+        37,
         67,
-        154,
-        153
+        133,
+        134,
+        148,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "shower",
-      "answer_letters": "SHOWER",
+      "answer": "narrow",
+      "answer_letters": "NARROW",
       "indices": [
-        142,
-        145,
-        62,
-        9,
-        146,
+        88,
+        87,
+        81,
+        165,
+        121,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "asphalt",
+      "answer_letters": "ASPHALT",
+      "indices": [
+        69,
+        108,
+        153,
+        36,
+        176,
+        160,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
+      "indices": [
+        29,
+        96,
+        26,
+        0,
+        130,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        179,
+        102,
+        63,
+        171,
+        175,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
+      "indices": [
+        43,
+        51,
+        184,
+        154,
+        103,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inventor",
+      "answer_letters": "INVENTOR",
+      "indices": [
+        4,
+        1,
+        180,
+        91,
+        7,
+        144,
+        149,
         54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "creole",
+      "answer_letters": "CREOLE",
+      "indices": [
+        110,
+        172,
+        146,
+        123,
+        93,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attract",
+      "answer_letters": "ATTRACT",
+      "indices": [
+        27,
+        18,
+        151,
+        28,
+        11,
+        25,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
+      "indices": [
+        95,
+        8,
+        111,
+        60,
+        74,
+        9,
+        125,
+        59,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
+      "indices": [
+        53,
+        170,
+        185,
+        49,
+        167,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-third",
+      "answer_letters": "ONETHIRD",
+      "indices": [
+        138,
+        32,
+        112,
+        169,
+        41,
+        15,
+        157,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "daytime",
+      "answer_letters": "DAYTIME",
+      "indices": [
+        71,
+        65,
+        137,
+        135,
+        141,
+        44,
+        55
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sketch",
+      "answer_letters": "SKETCH",
+      "indices": [
+        47,
+        127,
+        163,
+        38,
+        78,
+        50
       ]
     }
   ],

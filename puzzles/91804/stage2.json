@@ -6,153 +6,143 @@
   "clues": [
     {
       "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
+      "answer": "dublin",
+      "answer_letters": "DUBLIN",
       "indices": [
         138,
-        3,
-        68,
-        167,
-        128,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "achilles",
-      "answer_letters": "ACHILLES",
-      "indices": [
-        143,
-        13,
-        154,
-        162,
-        146,
-        50,
-        40,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        121,
-        79,
-        78,
-        129,
-        119,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iconic",
-      "answer_letters": "ICONIC",
-      "indices": [
-        103,
-        16,
-        35,
-        57,
-        181,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kaufman",
-      "answer_letters": "KAUFMAN",
-      "indices": [
-        175,
-        107,
         42,
-        45,
-        92,
-        117,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "artworks",
-      "answer_letters": "ARTWORKS",
-      "indices": [
-        151,
-        7,
-        64,
-        157,
-        84,
-        11,
-        14,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "saline",
-      "answer_letters": "SALINE",
-      "indices": [
-        144,
-        17,
-        47,
-        120,
-        69,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        169,
-        158,
-        1,
-        104,
-        12,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "osborn",
-      "answer_letters": "OSBORN",
-      "indices": [
-        147,
-        159,
         39,
-        20,
-        85,
-        137
+        163,
+        129,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
+      "answer": "afrikaans",
+      "answer_letters": "AFRIKAANS",
       "indices": [
-        148,
-        99,
-        37,
         89,
-        5,
-        72,
-        51
+        45,
+        63,
+        56,
+        78,
+        41,
+        99,
+        18,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "ethernet",
-      "answer_letters": "ETHERNET",
+      "answer": "negotiation",
+      "answer_letters": "NEGOTIATION",
       "indices": [
-        62,
-        43,
-        31,
-        114,
-        97,
-        66,
-        32,
-        30
+        21,
+        96,
+        122,
+        65,
+        94,
+        162,
+        151,
+        141,
+        181,
+        178,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insight",
+      "answer_letters": "INSIGHT",
+      "indices": [
+        165,
+        137,
+        5,
+        120,
+        167,
+        111,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kuwait",
+      "answer_letters": "KUWAIT",
+      "indices": [
+        14,
+        46,
+        59,
+        93,
+        140,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "almost",
+      "answer_letters": "ALMOST",
+      "indices": [
+        51,
+        164,
+        92,
+        84,
+        159,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stockton",
+      "answer_letters": "STOCKTON",
+      "indices": [
+        36,
+        37,
+        27,
+        52,
+        175,
+        1,
+        133,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "throws",
+      "answer_letters": "THROWS",
+      "indices": [
+        182,
+        88,
+        7,
+        20,
+        116,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        76,
+        83,
+        177,
+        81,
+        25,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        100,
+        40,
+        49,
+        72,
+        112,
+        3
       ]
     },
     {
@@ -160,140 +150,150 @@
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
-        8,
-        28,
-        83,
-        27,
-        179,
-        182
+        53,
+        124,
+        135,
+        173,
+        126,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "detroit",
-      "answer_letters": "DETROIT",
+      "answer": "estonia",
+      "answer_letters": "ESTONIA",
+      "indices": [
+        8,
+        108,
+        132,
+        23,
+        57,
+        44,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doctor",
+      "answer_letters": "DOCTOR",
       "indices": [
         9,
-        96,
-        87,
-        63,
-        173,
-        0,
-        95
+        147,
+        16,
+        104,
+        35,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "gemini",
-      "answer_letters": "GEMINI",
+      "answer": "growth",
+      "answer_letters": "GROWTH",
       "indices": [
-        122,
-        53,
-        34,
-        165,
-        100,
-        56
+        149,
+        97,
+        125,
+        157,
+        169,
+        154
       ]
     },
     {
       "clue": null,
-      "answer": "employs",
-      "answer_letters": "EMPLOYS",
+      "answer": "ethical",
+      "answer_letters": "ETHICAL",
       "indices": [
-        80,
-        130,
-        49,
-        164,
-        133,
-        19,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        23,
-        135,
-        124,
-        81,
-        111,
-        65,
-        76,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "flowing",
-      "answer_letters": "FLOWING",
-      "indices": [
-        177,
-        172,
-        170,
-        59,
-        140,
-        24,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "writes",
-      "answer_letters": "WRITES",
-      "indices": [
-        161,
-        75,
-        44,
-        94,
         73,
-        152
+        119,
+        128,
+        103,
+        77,
+        143,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "oracle",
+      "answer_letters": "ORACLE",
       "indices": [
-        136,
-        141,
-        88,
-        41,
-        52,
-        60
+        170,
+        75,
+        60,
+        13,
+        146,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "literature",
-      "answer_letters": "LITERATURE",
+      "answer": "finite",
+      "answer_letters": "FINITE",
       "indices": [
-        163,
+        28,
         118,
-        90,
-        155,
-        113,
-        93,
-        61,
-        46,
-        126,
-        112
+        148,
+        0,
+        64,
+        80
       ]
     },
     {
       "clue": null,
-      "answer": "downtown",
-      "answer_letters": "DOWNTOWN",
+      "answer": "weather",
+      "answer_letters": "WEATHER",
+      "indices": [
+        106,
+        155,
+        158,
+        30,
+        31,
+        114,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "immortality",
+      "answer_letters": "IMMORTALITY",
+      "indices": [
+        79,
+        34,
+        130,
+        174,
+        179,
+        71,
+        17,
+        47,
+        136,
+        110,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "linear",
+      "answer_letters": "LINEAR",
+      "indices": [
+        50,
+        68,
+        24,
+        32,
+        107,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dawson",
+      "answer_letters": "DAWSON",
       "indices": [
         101,
-        174,
-        116,
-        21,
-        110,
-        125,
-        106,
-        166
+        4,
+        161,
+        152,
+        12,
+        69
       ]
     }
   ],

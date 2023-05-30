@@ -6,156 +6,244 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
       "indices": [
         93,
-        23,
-        79,
-        25,
-        109,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "allowed",
-      "answer_letters": "ALLOWED",
-      "indices": [
-        184,
-        10,
-        175,
-        9,
-        140,
-        134,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nativity",
-      "answer_letters": "NATIVITY",
-      "indices": [
-        143,
-        19,
-        153,
-        63,
-        64,
-        125,
-        1,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chaired",
-      "answer_letters": "CHAIRED",
-      "indices": [
-        100,
-        167,
-        162,
-        77,
-        58,
         59,
+        103,
+        157,
+        38,
         164
       ]
     },
     {
       "clue": null,
-      "answer": "yankees",
-      "answer_letters": "YANKEES",
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
       "indices": [
-        148,
-        111,
-        133,
-        45,
-        142,
-        39,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whiskey",
-      "answer_letters": "WHISKEY",
-      "indices": [
-        22,
-        73,
-        96,
-        160,
-        18,
-        68,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        47,
-        57,
+        19,
+        1,
         137,
-        43,
-        13,
-        150
+        14,
+        134,
+        172,
+        142,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
+      "answer": "netted",
+      "answer_letters": "NETTED",
       "indices": [
-        159,
-        69,
-        67,
+        122,
+        68,
+        153,
+        109,
+        13,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cottage",
+      "answer_letters": "COTTAGE",
+      "indices": [
+        100,
         151,
+        116,
+        42,
+        108,
+        79,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
+      "indices": [
+        169,
         138,
+        11,
+        145,
+        35,
+        82,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "worker",
+      "answer_letters": "WORKER",
+      "indices": [
+        140,
+        9,
+        181,
+        45,
+        99,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "environment",
+      "answer_letters": "ENVIRONMENT",
+      "indices": [
+        65,
+        152,
+        64,
+        101,
+        159,
+        83,
+        70,
+        52,
+        121,
+        78,
         87
       ]
     },
     {
       "clue": null,
-      "answer": "looted",
-      "answer_letters": "LOOTED",
+      "answer": "roadways",
+      "answer_letters": "ROADWAYS",
       "indices": [
-        14,
-        83,
-        17,
-        42,
+        119,
+        129,
+        81,
+        179,
+        136,
+        184,
+        33,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leftist",
+      "answer_letters": "LEFTIST",
+      "indices": [
+        175,
+        147,
+        118,
+        166,
+        77,
+        61,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "institut",
+      "answer_letters": "INSTITUT",
+      "indices": [
+        23,
+        37,
+        4,
+        72,
+        74,
+        183,
+        155,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notified",
+      "answer_letters": "NOTIFIED",
+      "indices": [
+        178,
+        43,
+        24,
+        96,
+        31,
+        0,
+        180,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhabit",
+      "answer_letters": "INHABIT",
+      "indices": [
+        125,
+        143,
+        146,
+        6,
+        7,
+        3,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mannheim",
+      "answer_letters": "MANNHEIM",
+      "indices": [
+        27,
+        92,
+        75,
+        133,
+        73,
+        114,
+        30,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "punches",
+      "answer_letters": "PUNCHES",
+      "indices": [
+        48,
+        84,
+        156,
+        57,
+        88,
+        56,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "odyssey",
+      "answer_letters": "ODYSSEY",
+      "indices": [
+        34,
+        150,
+        148,
+        126,
+        55,
+        47,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showed",
+      "answer_letters": "SHOWED",
+      "indices": [
+        171,
+        25,
+        51,
+        22,
         28,
         102
       ]
     },
     {
       "clue": null,
-      "answer": "instituto",
-      "answer_letters": "INSTITUTO",
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
       "indices": [
-        101,
-        75,
-        126,
-        106,
-        120,
-        116,
-        84,
-        161,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nintendo",
-      "answer_letters": "NINTENDO",
-      "indices": [
-        78,
-        30,
-        70,
-        183,
+        90,
+        141,
         53,
-        156,
-        94,
-        132
+        63,
+        18,
+        107
       ]
     },
     {
@@ -163,145 +251,57 @@
       "answer": "inhabited",
       "answer_letters": "INHABITED",
       "indices": [
-        3,
-        122,
-        88,
-        92,
-        113,
-        74,
-        12,
-        168,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mustered",
-      "answer_letters": "MUSTERED",
-      "indices": [
-        27,
-        155,
-        115,
-        145,
-        65,
-        181,
-        180,
+        120,
+        185,
+        167,
+        111,
+        67,
+        89,
+        85,
+        131,
         104
       ]
     },
     {
       "clue": null,
-      "answer": "punishment",
-      "answer_letters": "PUNISHMENT",
+      "answer": "bundled",
+      "answer_letters": "BUNDLED",
       "indices": [
-        48,
-        35,
-        152,
-        89,
-        61,
-        146,
-        130,
-        121,
-        178,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
-        34,
+        113,
         177,
-        24,
-        90,
-        46,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shifts",
-      "answer_letters": "SHIFTS",
-      "indices": [
-        55,
-        141,
-        173,
-        31,
-        172,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sweeney",
-      "answer_letters": "SWEENEY",
-      "indices": [
-        182,
-        136,
-        158,
-        114,
         163,
-        131,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "issued",
-      "answer_letters": "ISSUED",
-      "indices": [
-        0,
-        171,
-        50,
-        11,
-        99,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "botany",
-      "answer_letters": "BOTANY",
-      "indices": [
-        82,
-        129,
-        72,
-        6,
-        37,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "left-handed",
-      "answer_letters": "LEFTHANDED",
-      "indices": [
-        174,
-        103,
-        118,
-        85,
-        107,
-        108,
-        185,
-        179,
-        147,
+        94,
+        10,
+        46,
         40
       ]
     },
     {
       "clue": null,
-      "answer": "embarked",
-      "answer_letters": "EMBARKED",
+      "answer": "looked",
+      "answer_letters": "LOOKED",
       "indices": [
-        56,
-        52,
-        7,
-        81,
-        119,
+        174,
+        132,
+        17,
         76,
-        38,
-        186
+        158,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "essayist",
+      "answer_letters": "ESSAYIST",
+      "indices": [
+        168,
+        182,
+        160,
+        162,
+        15,
+        173,
+        50,
+        12
       ]
     }
   ],

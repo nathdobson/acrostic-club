@@ -6,61 +6,46 @@
   "clues": [
     {
       "clue": null,
-      "answer": "definite",
-      "answer_letters": "DEFINITE",
+      "answer": "downtown",
+      "answer_letters": "DOWNTOWN",
       "indices": [
-        25,
-        35,
-        45,
-        40,
-        12,
-        154,
-        27,
-        130
+        128,
+        125,
+        14,
+        109,
+        140,
+        54,
+        6,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "agatha",
-      "answer_letters": "AGATHA",
+      "answer": "analog",
+      "answer_letters": "ANALOG",
       "indices": [
-        155,
-        110,
         123,
-        39,
-        34,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "variation",
-      "answer_letters": "VARIATION",
-      "indices": [
-        73,
-        143,
-        19,
-        50,
+        127,
         152,
-        91,
-        159,
+        105,
         63,
-        86
+        160
       ]
     },
     {
       "clue": null,
-      "answer": "einstein",
-      "answer_letters": "EINSTEIN",
+      "answer": "viewpoint",
+      "answer_letters": "VIEWPOINT",
       "indices": [
+        131,
+        108,
         121,
-        139,
+        64,
+        48,
+        135,
+        88,
         62,
-        141,
-        9,
-        74,
-        150,
-        136
+        112
       ]
     },
     {
@@ -68,26 +53,27 @@
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
+        74,
+        80,
+        50,
+        3,
+        1,
         20,
-        38,
-        88,
-        83,
-        161,
-        100,
-        69
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
+      "answer": "evident",
+      "answer_letters": "EVIDENT",
       "indices": [
-        52,
-        106,
-        18,
-        33,
-        67,
-        31
+        166,
+        73,
+        40,
+        97,
+        82,
+        86,
+        151
       ]
     },
     {
@@ -95,184 +81,198 @@
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
-        160,
-        1,
-        24,
-        151,
-        162,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        102,
-        128,
-        163,
-        22,
-        96,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "review",
-      "answer_letters": "REVIEW",
-      "indices": [
-        165,
-        132,
-        131,
-        84,
-        95,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stamps",
-      "answer_letters": "STAMPS",
-      "indices": [
-        4,
+        110,
+        17,
+        114,
+        60,
         16,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gamble",
+      "answer_letters": "GAMBLE",
+      "indices": [
+        52,
         68,
         79,
-        80,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-hour",
-      "answer_letters": "TWOHOUR",
-      "indices": [
-        147,
-        99,
-        72,
-        92,
-        78,
-        59,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hutton",
-      "answer_letters": "HUTTON",
-      "indices": [
-        17,
-        55,
-        60,
-        3,
-        37,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethanol",
-      "answer_letters": "ETHANOL",
-      "indices": [
-        137,
-        66,
-        7,
-        148,
-        109,
-        146,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cowboys",
-      "answer_letters": "COWBOYS",
-      "indices": [
-        104,
-        44,
-        14,
         58,
-        135,
-        134,
+        81,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        132,
+        139,
+        49,
+        67,
+        95,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
+      "indices": [
+        153,
+        44,
+        30,
+        72,
+        39,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "interpretations",
-      "answer_letters": "INTERPRETATIONS",
+      "answer": "sutton",
+      "answer_letters": "SUTTON",
       "indices": [
-        117,
-        42,
-        140,
-        13,
-        101,
-        48,
-        153,
-        166,
-        56,
-        164,
-        112,
-        108,
-        47,
-        127,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robertson",
-      "answer_letters": "ROBERTSON",
-      "indices": [
-        124,
-        125,
-        30,
-        82,
-        118,
-        145,
-        70,
-        41,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "clutch",
-      "answer_letters": "CLUTCH",
-      "indices": [
-        77,
-        105,
+        141,
         126,
-        0,
-        116,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawson",
-      "answer_letters": "LAWSON",
-      "indices": [
-        81,
-        2,
-        6,
-        107,
-        85,
+        66,
+        27,
+        78,
         158
       ]
     },
     {
       "clue": null,
-      "answer": "elector",
-      "answer_letters": "ELECTOR",
+      "answer": "tomatoes",
+      "answer_letters": "TOMATOES",
       "indices": [
+        33,
+        106,
+        163,
+        155,
+        69,
+        28,
         93,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        113,
+        24,
+        99,
+        159,
+        91,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erroneously",
+      "answer_letters": "ERRONEOUSLY",
+      "indices": [
+        130,
+        19,
+        165,
+        37,
+        136,
+        102,
+        47,
+        59,
+        23,
         120,
-        114,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chihuahua",
+      "answer_letters": "CHIHUAHUA",
+      "indices": [
+        104,
+        161,
+        117,
+        7,
+        55,
+        143,
+        34,
+        22,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intact",
+      "answer_letters": "INTACT",
+      "indices": [
+        154,
+        12,
+        56,
+        8,
+        116,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "recipient",
+      "answer_letters": "RECIPIENT",
+      "indices": [
+        118,
+        35,
         119,
-        49,
-        54,
-        133
+        150,
+        38,
+        84,
+        100,
+        42,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "confronted",
+      "answer_letters": "CONFRONTED",
+      "indices": [
+        77,
+        85,
+        156,
+        45,
+        133,
+        146,
+        51,
+        162,
+        13,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lasers",
+      "answer_letters": "LASERS",
+      "indices": [
+        149,
+        2,
+        70,
+        137,
+        101,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "earth's",
+      "answer_letters": "EARTHS",
+      "indices": [
+        18,
+        164,
+        75,
+        145,
+        92,
+        10
       ]
     }
   ],

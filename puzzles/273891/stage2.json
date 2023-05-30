@@ -6,95 +6,99 @@
   "clues": [
     {
       "clue": null,
-      "answer": "robson",
-      "answer_letters": "ROBSON",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
       "indices": [
-        112,
-        98,
-        123,
-        68,
-        1,
-        157
+        24,
+        94,
+        3,
+        29,
+        144,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "athena",
-      "answer_letters": "ATHENA",
+      "answer": "artery",
+      "answer_letters": "ARTERY",
       "indices": [
-        134,
-        69,
-        49,
-        141,
-        131,
-        153
+        153,
+        42,
+        50,
+        14,
+        28,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "surely",
-      "answer_letters": "SURELY",
+      "answer": "sawyer",
+      "answer_letters": "SAWYER",
       "indices": [
         15,
-        41,
-        28,
-        94,
-        128,
-        101
+        80,
+        22,
+        132,
+        74,
+        99
       ]
     },
     {
       "clue": null,
-      "answer": "studio",
-      "answer_letters": "STUDIO",
+      "answer": "showing",
+      "answer_letters": "SHOWING",
       "indices": [
-        154,
-        50,
-        64,
-        25,
-        156,
-        29
+        152,
+        140,
+        23,
+        82,
+        83,
+        53,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
+      "answer": "offenses",
+      "answer_letters": "OFFENSES",
+      "indices": [
+        8,
+        97,
+        37,
+        89,
+        76,
+        26,
+        127,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outdoors",
+      "answer_letters": "OUTDOORS",
       "indices": [
         18,
-        2,
-        57,
-        130,
-        147,
-        71,
-        39
+        72,
+        73,
+        110,
+        36,
+        102,
+        112,
+        79
       ]
     },
     {
       "clue": null,
-      "answer": "outdoor",
-      "answer_letters": "OUTDOOR",
+      "answer": "loyalty",
+      "answer_letters": "LOYALTY",
       "indices": [
-        144,
-        103,
-        139,
-        77,
-        8,
-        117,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ludlow",
-      "answer_letters": "LUDLOW",
-      "indices": [
-        56,
-        47,
-        66,
+        128,
+        46,
+        32,
+        150,
         84,
-        33,
-        22
+        71,
+        90
       ]
     },
     {
@@ -103,174 +107,117 @@
       "answer_letters": "JEWISH",
       "indices": [
         121,
-        111,
-        92,
-        83,
-        116,
-        140
+        60,
+        107,
+        147,
+        130,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "improves",
-      "answer_letters": "IMPROVES",
+      "answer": "insert",
+      "answer_letters": "INSERT",
       "indices": [
-        12,
-        133,
-        95,
-        0,
-        108,
-        59,
-        4,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bursts",
-      "answer_letters": "BURSTS",
-      "indices": [
-        30,
-        34,
-        5,
+        70,
+        131,
         155,
-        44,
-        6
+        10,
+        124,
+        139
       ]
     },
     {
       "clue": null,
-      "answer": "rescue",
-      "answer_letters": "RESCUE",
+      "answer": "boycott",
+      "answer_letters": "BOYCOTT",
+      "indices": [
+        123,
+        33,
+        101,
+        137,
+        63,
+        69,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rupert",
+      "answer_letters": "RUPERT",
       "indices": [
         113,
-        74,
-        51,
-        137,
-        72,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "always",
-      "answer_letters": "ALWAYS",
-      "indices": [
-        75,
-        85,
-        107,
-        52,
-        132,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        14,
-        97,
-        37,
-        126,
-        148,
+        47,
+        143,
+        145,
+        20,
         146
       ]
     },
     {
       "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
+      "answer": "admits",
+      "answer_letters": "ADMITS",
       "indices": [
-        10,
-        135,
-        73,
-        70,
-        87,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowered",
-      "answer_letters": "LOWERED",
-      "indices": [
-        119,
-        40,
-        82,
-        89,
-        42,
-        127,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shapiro",
-      "answer_letters": "SHAPIRO",
-      "indices": [
-        7,
-        88,
-        150,
-        143,
-        105,
-        99,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nguyễn",
-      "answer_letters": "NGUYEN",
-      "indices": [
-        109,
-        48,
-        19,
-        90,
-        67,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        32,
-        114,
+        75,
+        66,
         13,
-        125,
-        45,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "moore's",
-      "answer_letters": "MOORES",
-      "indices": [
-        9,
-        118,
-        46,
-        20,
-        60,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "asteroids",
-      "answer_letters": "ASTEROIDS",
-      "indices": [
-        80,
-        115,
+        12,
         11,
-        93,
-        124,
-        102,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evasion",
+      "answer_letters": "EVASION",
+      "indices": [
+        57,
+        59,
+        58,
+        7,
         122,
-        110,
-        79
+        108,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "europa",
+      "answer_letters": "EUROPA",
+      "indices": [
+        67,
+        64,
+        5,
+        98,
+        95,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lucius",
+      "answer_letters": "LUCIUS",
+      "indices": [
+        85,
+        19,
+        148,
+        105,
+        103,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showed",
+      "answer_letters": "SHOWED",
+      "indices": [
+        151,
+        49,
+        118,
+        92,
+        111,
+        77
       ]
     },
     {
@@ -278,12 +225,65 @@
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
-        76,
-        36,
-        3,
-        23,
-        81,
-        62
+        109,
+        117,
+        2,
+        40,
+        54,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yields",
+      "answer_letters": "YIELDS",
+      "indices": [
+        39,
+        156,
+        4,
+        56,
+        25,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mohamed",
+      "answer_letters": "MOHAMED",
+      "indices": [
+        9,
+        1,
+        45,
+        114,
+        133,
+        126,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abuses",
+      "answer_letters": "ABUSES",
+      "indices": [
+        125,
+        30,
+        34,
+        51,
+        141,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neural",
+      "answer_letters": "NEURAL",
+      "indices": [
+        157,
+        93,
+        41,
+        0,
+        134,
+        119
       ]
     }
   ],

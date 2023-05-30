@@ -6,15 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "modify",
-      "answer_letters": "MODIFY",
+      "answer": "mahmoud",
+      "answer_letters": "MAHMOUD",
       "indices": [
-        29,
-        75,
-        133,
-        51,
-        154,
-        82
+        7,
+        24,
+        50,
+        167,
+        123,
+        69,
+        22
       ]
     },
     {
@@ -22,180 +23,45 @@
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
-        15,
-        52,
+        35,
+        182,
         54,
-        81,
+        159,
         97,
-        152,
+        161,
         186
       ]
     },
     {
       "clue": null,
-      "answer": "nissan",
-      "answer_letters": "NISSAN",
+      "answer": "notorious",
+      "answer_letters": "NOTORIOUS",
       "indices": [
-        32,
-        56,
-        60,
-        192,
-        185,
-        149
+        149,
+        155,
+        77,
+        132,
+        165,
+        11,
+        75,
+        193,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "differently",
-      "answer_letters": "DIFFERENTLY",
+      "answer": "diffusion",
+      "answer_letters": "DIFFUSION",
       "indices": [
         13,
-        35,
-        84,
-        106,
-        118,
-        94,
-        40,
-        36,
-        61,
-        45,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        135,
-        169,
-        177,
-        27,
-        141,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kaufman",
-      "answer_letters": "KAUFMAN",
-      "indices": [
-        183,
-        145,
-        18,
+        56,
         74,
-        167,
-        95,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "australasia",
-      "answer_letters": "AUSTRALASIA",
-      "indices": [
-        72,
-        69,
-        96,
-        77,
-        85,
-        43,
-        39,
-        114,
+        164,
+        18,
         174,
-        120,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "logistical",
-      "answer_letters": "LOGISTICAL",
-      "indices": [
-        17,
-        155,
-        67,
-        65,
-        143,
-        5,
-        11,
-        99,
-        127,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        122,
-        182,
-        159,
-        148,
-        79,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        12,
-        31,
-        150,
-        132,
-        162,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gastropod",
-      "answer_letters": "GASTROPOD",
-      "indices": [
-        20,
-        62,
-        191,
-        89,
-        165,
-        156,
-        70,
-        166,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "woodlands",
-      "answer_letters": "WOODLANDS",
-      "indices": [
-        160,
-        131,
-        123,
-        109,
-        119,
-        140,
-        146,
-        33,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "housewife",
-      "answer_letters": "HOUSEWIFE",
-      "indices": [
-        90,
-        3,
-        137,
-        125,
-        21,
-        80,
-        28,
-        48,
-        57
+        111,
+        47,
+        179
       ]
     },
     {
@@ -203,91 +69,225 @@
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
-        187,
-        173,
-        10,
-        100,
-        37,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "not-for-profit",
-      "answer_letters": "NOTFORPROFIT",
-      "indices": [
-        19,
-        104,
-        157,
-        130,
-        136,
-        55,
-        189,
-        172,
-        190,
-        164,
-        0,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outcome",
-      "answer_letters": "OUTCOME",
-      "indices": [
-        47,
-        124,
-        171,
-        121,
-        76,
-        87,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thousands",
-      "answer_letters": "THOUSANDS",
-      "indices": [
-        144,
-        50,
-        86,
-        193,
-        4,
-        161,
-        179,
-        22,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "midlands",
-      "answer_letters": "MIDLANDS",
-      "indices": [
-        7,
-        111,
-        41,
-        44,
+        135,
         178,
+        10,
+        114,
+        175,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kansas",
+      "answer_letters": "KANSAS",
+      "indices": [
+        183,
+        100,
         103,
+        125,
+        181,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afforded",
+      "answer_letters": "AFFORDED",
+      "indices": [
+        185,
+        154,
+        48,
+        3,
+        94,
+        147,
+        91,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "landings",
+      "answer_letters": "LANDINGS",
+      "indices": [
+        44,
+        127,
+        146,
         64,
+        51,
+        19,
+        20,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "implicated",
+      "answer_letters": "IMPLICATED",
+      "indices": [
+        0,
+        29,
+        189,
+        17,
+        65,
+        99,
+        79,
+        61,
+        40,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nationalists",
+      "answer_letters": "NATIONALISTS",
+      "indices": [
+        63,
+        169,
+        89,
+        122,
+        190,
+        32,
+        72,
+        119,
+        148,
+        58,
+        5,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gymnastics",
+      "answer_letters": "GYMNASTICS",
+      "indices": [
+        150,
+        82,
+        87,
+        36,
+        145,
+        115,
+        141,
+        15,
+        121,
         112
       ]
     },
     {
       "clue": null,
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
+      "answer": "weapons",
+      "answer_letters": "WEAPONS",
       "indices": [
+        160,
         139,
-        117,
-        194,
+        62,
+        70,
+        131,
+        12,
+        192
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "half-hour",
+      "answer_letters": "HALFHOUR",
+      "indices": [
+        27,
+        152,
+        45,
+        84,
+        37,
+        104,
+        137,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yearly",
+      "answer_letters": "YEARLY",
+      "indices": [
+        8,
+        57,
+        173,
+        55,
+        39,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nowadays",
+      "answer_letters": "NOWADAYS",
+      "indices": [
+        101,
         108,
-        66,
-        93,
+        80,
+        38,
+        133,
+        31,
+        187,
+        191
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        156,
+        106,
+        130,
+        60,
+        90,
         107,
-        63
+        86,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        25,
+        95,
+        157,
+        93,
+        166,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "misleading",
+      "answer_letters": "MISLEADING",
+      "indices": [
+        194,
+        120,
+        4,
+        2,
+        21,
+        81,
+        117,
+        28,
+        66,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "educator",
+      "answer_letters": "EDUCATOR",
+      "indices": [
+        118,
+        33,
+        124,
+        177,
+        43,
+        144,
+        136,
+        172
       ]
     }
   ],

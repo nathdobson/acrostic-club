@@ -6,108 +6,86 @@
   "clues": [
     {
       "clue": null,
-      "answer": "left-wing",
-      "answer_letters": "LEFTWING",
+      "answer": "lakshmi",
+      "answer_letters": "LAKSHMI",
       "indices": [
-        13,
-        7,
-        123,
-        113,
-        27,
-        61,
-        33,
-        72
+        110,
+        173,
+        3,
+        22,
+        18,
+        10,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "in-house",
-      "answer_letters": "INHOUSE",
+      "answer": "inhibition",
+      "answer_letters": "INHIBITION",
       "indices": [
-        83,
-        108,
-        100,
-        41,
-        79,
-        76,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "survivor",
-      "answer_letters": "SURVIVOR",
-      "indices": [
-        84,
-        96,
-        147,
-        102,
         32,
-        145,
-        49,
-        92
+        176,
+        45,
+        83,
+        128,
+        136,
+        44,
+        19,
+        151,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "abraham",
-      "answer_letters": "ABRAHAM",
+      "answer": "shadow",
+      "answer_letters": "SHADOW",
+      "indices": [
+        6,
+        82,
+        101,
+        63,
+        115,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "apache",
+      "answer_letters": "APACHE",
       "indices": [
         75,
-        128,
-        152,
+        36,
         140,
-        18,
-        157,
-        30
+        48,
+        66,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "kharkiv",
-      "answer_letters": "KHARKIV",
+      "answer": "khalid",
+      "answer_letters": "KHALID",
       "indices": [
-        3,
-        87,
-        168,
-        58,
         23,
-        70,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estimated",
-      "answer_letters": "ESTIMATED",
-      "indices": [
-        103,
-        35,
-        170,
-        4,
-        118,
+        100,
         28,
-        38,
-        146,
+        51,
+        24,
         153
       ]
     },
     {
       "clue": null,
-      "answer": "stewardship",
-      "answer_letters": "STEWARDSHIP",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        80,
-        44,
-        106,
-        134,
-        101,
-        172,
-        160,
-        6,
+        139,
+        69,
+        88,
+        170,
         138,
-        136,
-        74
+        126,
+        158
       ]
     },
     {
@@ -115,138 +93,89 @@
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
-        16,
+        80,
         0,
+        95,
+        94,
+        160,
         50,
-        60,
-        63,
-        111,
-        65,
-        176
+        53,
+        169
       ]
     },
     {
       "clue": null,
-      "answer": "listened",
-      "answer_letters": "LISTENED",
+      "answer": "supervisors",
+      "answer_letters": "SUPERVISORS",
       "indices": [
-        97,
-        24,
-        5,
-        77,
-        1,
-        132,
-        175,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epilepsy",
-      "answer_letters": "EPILEPSY",
-      "indices": [
-        139,
-        15,
-        37,
-        51,
-        144,
-        69,
         89,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robbins",
-      "answer_letters": "ROBBINS",
-      "indices": [
-        125,
-        124,
-        121,
-        105,
+        165,
+        15,
+        144,
+        141,
+        145,
         54,
-        62,
+        5,
+        49,
+        152,
         20
       ]
     },
     {
       "clue": null,
-      "answer": "widowed",
-      "answer_letters": "WIDOWED",
+      "answer": "lineup",
+      "answer_letters": "LINEUP",
       "indices": [
-        94,
-        88,
-        98,
-        151,
-        86,
-        119,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
-        95,
-        165,
-        158,
-        90,
-        129,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lichen",
-      "answer_letters": "LICHEN",
-      "indices": [
-        110,
-        14,
-        48,
-        82,
-        122,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fishery",
-      "answer_letters": "FISHERY",
-      "indices": [
-        42,
-        19,
-        22,
-        45,
-        91,
-        141,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
-      "indices": [
-        10,
-        115,
-        130,
-        164,
-        155,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
-        161,
-        169,
+        97,
+        70,
+        71,
         46,
-        150,
-        173,
-        11
+        129,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
+      "indices": [
+        91,
+        174,
+        107,
+        172,
+        11,
+        105,
+        164,
+        8,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rapids",
+      "answer_letters": "RAPIDS",
+      "indices": [
+        92,
+        157,
+        74,
+        14,
+        142,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "weymouth",
+      "answer_letters": "WEYMOUTH",
+      "indices": [
+        134,
+        39,
+        148,
+        118,
+        161,
+        96,
+        113,
+        156
       ]
     },
     {
@@ -254,28 +183,99 @@
       "answer": "ownership",
       "answer_letters": "OWNERSHIP",
       "indices": [
-        133,
-        167,
-        71,
-        57,
-        29,
-        112,
-        156,
-        67,
-        68
+        124,
+        60,
+        132,
+        119,
+        125,
+        35,
+        87,
+        61,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "answer": "left-wing",
+      "answer_letters": "LEFTWING",
       "indices": [
+        13,
+        175,
+        123,
+        77,
+        150,
+        4,
         116,
-        107,
-        36,
-        66,
-        126,
-        53
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fewest",
+      "answer_letters": "FEWEST",
+      "indices": [
+        42,
+        106,
+        27,
+        1,
+        16,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "minute",
+      "answer_letters": "MINUTE",
+      "indices": [
+        30,
+        67,
+        25,
+        79,
+        130,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "onward",
+      "answer_letters": "ONWARD",
+      "indices": [
+        133,
+        62,
+        86,
+        168,
+        147,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "observers",
+      "answer_letters": "OBSERVERS",
+      "indices": [
+        111,
+        121,
+        112,
+        146,
+        29,
+        102,
+        57,
+        58,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        33,
+        7,
+        65,
+        38,
+        41,
+        167,
+        55
       ]
     }
   ],

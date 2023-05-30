@@ -6,310 +6,310 @@
   "clues": [
     {
       "clue": null,
-      "answer": "debuted",
-      "answer_letters": "DEBUTED",
+      "answer": "drought",
+      "answer_letters": "DROUGHT",
       "indices": [
-        33,
-        53,
-        172,
-        116,
-        69,
-        150,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "agreeing",
-      "answer_letters": "AGREEING",
-      "indices": [
-        35,
-        94,
-        73,
-        120,
-        173,
-        177,
-        32,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nantes",
-      "answer_letters": "NANTES",
-      "indices": [
-        98,
-        115,
-        42,
-        5,
-        57,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inherited",
-      "answer_letters": "INHERITED",
-      "indices": [
-        137,
-        178,
-        24,
-        74,
-        85,
-        141,
-        38,
-        84,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighteenth",
-      "answer_letters": "EIGHTEENTH",
-      "indices": [
-        15,
-        105,
-        117,
-        118,
-        119,
-        89,
-        17,
-        93,
-        60,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-level",
-      "answer_letters": "LOWLEVEL",
-      "indices": [
-        56,
+        112,
+        175,
         106,
-        83,
-        114,
-        81,
-        99,
-        25,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "absorption",
-      "answer_letters": "ABSORPTION",
-      "indices": [
-        67,
-        127,
-        186,
-        97,
-        90,
-        52,
-        77,
-        20,
-        135,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "minogue",
-      "answer_letters": "MINOGUE",
-      "indices": [
-        134,
-        130,
-        157,
-        155,
-        91,
-        183,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offering",
-      "answer_letters": "OFFERING",
-      "indices": [
-        54,
-        170,
-        50,
-        86,
-        16,
-        92,
-        149,
-        139
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        80,
-        1,
-        187,
-        195,
-        196,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
-      "indices": [
-        70,
-        103,
-        107,
-        164,
-        46,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "macarthur",
-      "answer_letters": "MACARTHUR",
-      "indices": [
-        88,
-        59,
-        96,
-        180,
-        7,
-        14,
-        78,
         194,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isotopes",
-      "answer_letters": "ISOTOPES",
-      "indices": [
-        12,
-        36,
-        128,
-        13,
-        144,
-        66,
-        2,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "netting",
-      "answer_letters": "NETTING",
-      "indices": [
-        142,
-        174,
-        104,
-        185,
-        148,
-        21,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        49,
-        62,
-        160,
-        6,
-        75,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rockford",
-      "answer_letters": "ROCKFORD",
-      "indices": [
-        68,
-        193,
-        182,
-        28,
-        190,
-        169,
-        101,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "slaughter",
-      "answer_letters": "SLAUGHTER",
-      "indices": [
-        27,
-        11,
-        31,
-        43,
         10,
-        161,
-        23,
-        131,
-        154
+        63,
+        104
       ]
     },
     {
       "clue": null,
-      "answer": "nursery",
-      "answer_letters": "NURSERY",
+      "answer": "architects",
+      "answer_letters": "ARCHITECTS",
       "indices": [
-        111,
-        156,
-        121,
-        108,
-        79,
-        184,
+        180,
+        47,
+        182,
+        39,
+        148,
+        23,
+        81,
+        96,
+        77,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
+      "indices": [
+        21,
+        135,
+        154,
+        60,
+        118,
+        75,
+        15,
+        151,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "itself",
+      "answer_letters": "ITSELF",
+      "indices": [
+        130,
+        185,
+        167,
+        25,
+        56,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "engage",
+      "answer_letters": "ENGAGE",
+      "indices": [
+        53,
+        42,
+        94,
+        123,
+        166,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "longevity",
+      "answer_letters": "LONGEVITY",
+      "indices": [
+        114,
+        128,
+        142,
+        72,
+        64,
+        136,
+        105,
+        5,
         29
       ]
     },
     {
       "clue": null,
-      "answer": "overhead",
-      "answer_letters": "OVERHEAD",
+      "answer": "alterations",
+      "answer_letters": "ALTERATIONS",
       "indices": [
+        103,
+        11,
+        160,
+        46,
+        121,
+        31,
+        69,
+        177,
         189,
-        136,
-        100,
-        47,
-        39,
-        162,
-        110,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bypass",
-      "answer_letters": "BYPASS",
-      "indices": [
-        45,
-        192,
-        55,
-        123,
-        167,
+        157,
         102
       ]
     },
     {
       "clue": null,
-      "answer": "students",
-      "answer_letters": "STUDENTS",
+      "answer": "murphy",
+      "answer_letters": "MURPHY",
+      "indices": [
+        44,
+        145,
+        101,
+        55,
+        24,
+        192
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        193,
+        138,
+        57,
+        49,
+        170,
+        190
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reorganised",
+      "answer_letters": "REORGANISED",
+      "indices": [
+        90,
+        89,
+        155,
+        7,
+        139,
+        35,
+        93,
+        141,
+        27,
+        40,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        187,
+        169,
+        156,
+        62,
+        78,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "makeup",
+      "answer_letters": "MAKEUP",
+      "indices": [
+        134,
+        110,
+        28,
+        100,
+        116,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "integer",
+      "answer_letters": "INTEGER",
+      "indices": [
+        20,
+        107,
+        38,
+        173,
+        117,
+        17,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nevada",
+      "answer_letters": "NEVADA",
+      "indices": [
+        32,
+        165,
+        99,
+        115,
+        158,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obesity",
+      "answer_letters": "OBESITY",
+      "indices": [
+        144,
+        172,
+        84,
+        108,
+        92,
+        14,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "retain",
+      "answer_letters": "RETAIN",
+      "indices": [
+        85,
+        174,
+        0,
+        67,
+        12,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "slaughtered",
+      "answer_letters": "SLAUGHTERED",
+      "indices": [
+        132,
+        147,
+        59,
+        183,
+        91,
+        1,
+        146,
+        86,
+        68,
+        131,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "number",
+      "answer_letters": "NUMBER",
+      "indices": [
+        124,
+        43,
+        88,
+        45,
+        120,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-third",
+      "answer_letters": "ONETHIRD",
+      "indices": [
+        97,
+        98,
+        150,
+        119,
+        161,
+        137,
+        184,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "breakdown",
+      "answer_letters": "BREAKDOWN",
+      "indices": [
+        127,
+        16,
+        162,
+        153,
+        164,
+        129,
+        54,
+        83,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stephens",
+      "answer_letters": "STEPHENS",
       "indices": [
         4,
-        146,
-        145,
-        129,
-        40,
-        124,
-        0,
-        151
+        195,
+        79,
+        66,
+        196,
+        74,
+        149,
+        8
       ]
     }
   ],

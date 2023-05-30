@@ -6,119 +6,110 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kawasaki",
-      "answer_letters": "KAWASAKI",
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
       "indices": [
         128,
-        109,
-        43,
-        52,
-        116,
-        133,
-        93,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "automation",
-      "answer_letters": "AUTOMATION",
-      "indices": [
-        38,
-        118,
-        0,
-        63,
-        4,
-        84,
-        113,
-        149,
-        56,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        64,
-        24,
-        159,
-        143,
         59,
-        77,
-        165
+        104,
+        36,
+        2,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
+      "answer": "achieving",
+      "answer_letters": "ACHIEVING",
       "indices": [
-        25,
-        17,
-        58,
-        46,
-        119,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ninety",
-      "answer_letters": "NINETY",
-      "indices": [
-        163,
-        155,
+        133,
+        127,
+        122,
+        145,
+        138,
+        34,
+        149,
         156,
-        9,
-        121,
-        167
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "mystery",
-      "answer_letters": "MYSTERY",
+      "answer": "routes",
+      "answer_letters": "ROUTES",
+      "indices": [
+        141,
+        160,
+        97,
+        39,
+        40,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emulate",
+      "answer_letters": "EMULATE",
+      "indices": [
+        123,
+        77,
+        106,
+        62,
+        38,
+        45,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        92,
+        12,
+        147,
+        87,
+        23,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monkey",
+      "answer_letters": "MONKEY",
       "indices": [
         27,
-        104,
-        168,
-        150,
-        7,
-        37,
+        114,
+        102,
+        93,
+        20,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        154,
+        163,
+        167,
+        82,
+        162,
         68
       ]
     },
     {
       "clue": null,
-      "answer": "achieve",
-      "answer_letters": "ACHIEVE",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        67,
-        127,
-        144,
-        87,
-        47,
-        139,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-of-way",
-      "answer_letters": "RIGHTOFWAY",
-      "indices": [
-        48,
-        70,
-        19,
-        90,
-        85,
-        160,
-        71,
-        108,
-        162,
-        95
+        37,
+        83,
+        159,
+        143,
+        46,
+        99
       ]
     },
     {
@@ -126,157 +117,166 @@
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
-        91,
+        17,
         131,
-        122,
-        42,
-        102,
-        2
+        117,
+        63,
+        110,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "errors",
-      "answer_letters": "ERRORS",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        100,
-        158,
-        29,
-        28,
-        141,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "market",
-      "answer_letters": "MARKET",
-      "indices": [
-        99,
-        79,
-        6,
-        147,
-        20,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
-        114,
-        126,
-        54,
-        66,
-        49,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nouveau",
-      "answer_letters": "NOUVEAU",
-      "indices": [
-        92,
-        74,
-        130,
-        34,
-        123,
-        152,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "infant",
-      "answer_letters": "INFANT",
-      "indices": [
-        35,
-        80,
+        78,
+        71,
         125,
-        101,
-        134,
+        96,
+        29,
+        54,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "murder",
+      "answer_letters": "MURDER",
+      "indices": [
+        4,
+        57,
+        158,
+        161,
+        100,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        105,
+        150,
+        85,
+        152,
+        108,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        137,
+        74,
+        60,
+        70,
+        42,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "institut",
+      "answer_letters": "INSTITUT",
+      "indices": [
+        32,
+        146,
+        165,
+        113,
+        155,
+        0,
+        126,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "netted",
-      "answer_letters": "NETTED",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
       "indices": [
-        146,
-        78,
-        13,
-        21,
-        40,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        153,
-        105,
-        140,
-        60,
+        134,
+        56,
+        6,
+        119,
         1,
-        138
+        168,
+        28,
+        130,
+        111,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "indian",
-      "answer_letters": "INDIAN",
+      "answer": "gateway",
+      "answer_letters": "GATEWAY",
       "indices": [
-        12,
-        41,
-        15,
-        145,
-        166,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cowboy",
-      "answer_letters": "COWBOY",
-      "indices": [
-        11,
-        5,
-        82,
-        36,
-        96,
+        19,
+        52,
+        13,
+        9,
+        43,
+        84,
         73
       ]
     },
     {
       "clue": null,
-      "answer": "exhaust",
-      "answer_letters": "EXHAUST",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
       "indices": [
-        14,
-        10,
-        83,
-        154,
-        57,
-        69,
-        45
+        91,
+        66,
+        67,
+        35,
+        79,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "answer": "cheung",
+      "answer_letters": "CHEUNG",
       "indices": [
-        161,
-        97,
-        62,
-        106,
-        39,
-        55
+        11,
+        144,
+        47,
+        118,
+        80,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exhausted",
+      "answer_letters": "EXHAUSTED",
+      "indices": [
+        14,
+        10,
+        55,
+        101,
+        75,
+        50,
+        121,
+        140,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "devote",
+      "answer_letters": "DEVOTE",
+      "indices": [
+        135,
+        25,
+        139,
+        5,
+        21,
+        49
       ]
     }
   ],

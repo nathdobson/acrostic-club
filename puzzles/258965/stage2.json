@@ -6,265 +6,142 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kellogg",
-      "answer_letters": "KELLOGG",
+      "answer": "khalid",
+      "answer_letters": "KHALID",
       "indices": [
         52,
-        69,
-        92,
-        171,
-        131,
-        150,
-        32
+        100,
+        93,
+        172,
+        47,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "isabelle",
-      "answer_letters": "ISABELLE",
+      "answer": "itself",
+      "answer_letters": "ITSELF",
       "indices": [
-        13,
-        98,
-        125,
-        174,
-        53,
-        184,
-        160,
-        61
+        143,
+        164,
+        144,
+        61,
+        76,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "newport",
-      "answer_letters": "NEWPORT",
+      "answer": "narrowly",
+      "answer_letters": "NARROWLY",
       "indices": [
         117,
-        36,
-        94,
-        25,
-        112,
-        122,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "griffiths",
-      "answer_letters": "GRIFFITHS",
-      "indices": [
-        181,
-        147,
-        170,
-        109,
-        132,
-        108,
-        17,
-        135,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showers",
-      "answer_letters": "SHOWERS",
-      "indices": [
-        73,
-        43,
-        139,
-        177,
-        96,
-        62,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-lying",
-      "answer_letters": "LOWLYING",
-      "indices": [
-        76,
-        23,
-        102,
-        172,
-        152,
-        161,
-        167,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        9,
-        141,
-        50,
-        79,
-        129,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yeshiva",
-      "answer_letters": "YESHIVA",
-      "indices": [
-        30,
-        123,
-        185,
-        100,
-        165,
-        104,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "october",
-      "answer_letters": "OCTOBER",
-      "indices": [
-        72,
-        162,
-        126,
-        84,
-        7,
-        2,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "priorities",
-      "answer_letters": "PRIORITIES",
-      "indices": [
-        35,
-        106,
-        127,
-        33,
-        5,
-        116,
-        29,
-        63,
-        105,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
-      "indices": [
-        113,
-        158,
-        8,
-        28,
-        91,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "world's",
-      "answer_letters": "WORLDS",
-      "indices": [
-        169,
-        101,
-        155,
-        95,
-        86,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "airways",
-      "answer_letters": "AIRWAYS",
-      "indices": [
-        93,
-        143,
+        183,
         85,
-        83,
+        147,
+        84,
+        169,
+        37,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "george",
+      "answer_letters": "GEORGE",
+      "indices": [
+        71,
+        105,
+        23,
+        120,
+        78,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "speedway",
+      "answer_letters": "SPEEDWAY",
+      "indices": [
+        97,
+        60,
+        19,
+        75,
+        86,
+        102,
         44,
-        111,
-        24
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "report",
-      "answer_letters": "REPORT",
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
       "indices": [
-        57,
-        103,
-        21,
-        148,
-        178,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isotopes",
-      "answer_letters": "ISOTOPES",
-      "indices": [
-        47,
-        81,
-        128,
-        48,
-        186,
-        121,
-        119,
+        95,
+        116,
+        150,
+        18,
+        124,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        10,
-        157,
-        67,
-        134,
-        15,
-        75,
+        9,
+        109,
+        132,
+        179,
+        62,
+        29,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        111,
+        96,
+        171,
+        92,
+        58,
         12
       ]
     },
     {
       "clue": null,
-      "answer": "appropriate",
-      "answer_letters": "APPROPRIATE",
+      "answer": "optics",
+      "answer_letters": "OPTICS",
       "indices": [
-        183,
+        139,
         56,
-        74,
-        22,
-        58,
-        4,
-        120,
-        88,
-        163,
-        64,
-        26
+        0,
+        39,
+        162,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
+      "answer": "premiership",
+      "answer_letters": "PREMIERSHIP",
       "indices": [
-        180,
-        166,
-        0,
-        19,
-        138,
-        153,
-        27,
-        42,
-        18,
-        65
+        159,
+        140,
+        2,
+        10,
+        108,
+        53,
+        122,
+        98,
+        43,
+        165,
+        25
       ]
     },
     {
@@ -273,38 +150,161 @@
       "answer_letters": "UPTOWN",
       "indices": [
         154,
-        159,
+        4,
         45,
-        179,
-        146,
-        149
+        112,
+        138,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "esports",
-      "answer_letters": "ESPORTS",
+      "answer": "withdrew",
+      "answer_letters": "WITHDREW",
       "indices": [
+        177,
+        88,
+        17,
+        135,
+        80,
+        106,
+        119,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aviator",
+      "answer_letters": "AVIATOR",
+      "indices": [
+        157,
+        104,
+        28,
+        51,
+        42,
+        186,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ribbon",
+      "answer_letters": "RIBBON",
+      "indices": [
+        27,
+        13,
+        174,
+        7,
+        131,
+        180
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
+      "indices": [
+        170,
+        24,
+        166,
+        67,
+        72,
+        158,
         136,
-        54,
-        60,
-        6,
-        140,
-        14,
-        144
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "metropolis",
+      "answer_letters": "METROPOLIS",
       "indices": [
-        37,
+        50,
+        36,
+        134,
+        178,
+        33,
+        21,
+        148,
+        8,
+        63,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "astrology",
+      "answer_letters": "ASTROLOGY",
+      "indices": [
+        125,
+        73,
+        14,
+        114,
+        79,
+        184,
+        101,
+        32,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
+      "indices": [
+        149,
+        128,
+        57,
+        48,
+        1,
+        146,
+        103,
+        185,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "upright",
+      "answer_letters": "UPRIGHT",
+      "indices": [
+        113,
+        35,
+        155,
+        161,
+        181,
+        15,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
+      "indices": [
         175,
+        127,
+        81,
+        123,
+        129,
         68,
-        39,
-        78,
-        1
+        153,
+        94,
+        26,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "laptop",
+      "answer_letters": "LAPTOP",
+      "indices": [
+        160,
+        163,
+        74,
+        64,
+        6,
+        121
       ]
     }
   ],

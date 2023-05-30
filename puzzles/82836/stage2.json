@@ -6,84 +6,159 @@
   "clues": [
     {
       "clue": null,
-      "answer": "konrad",
-      "answer_letters": "KONRAD",
+      "answer": "kowloon",
+      "answer_letters": "KOWLOON",
       "indices": [
         5,
-        174,
-        89,
-        111,
-        0,
-        51
+        110,
+        131,
+        134,
+        164,
+        150,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "infant",
-      "answer_letters": "INFANT",
+      "answer": "ideology",
+      "answer_letters": "IDEOLOGY",
       "indices": [
         61,
-        38,
-        35,
-        46,
-        126,
-        163
+        104,
+        27,
+        132,
+        8,
+        83,
+        16,
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "refused",
-      "answer_letters": "REFUSED",
+      "answer": "romans",
+      "answer_letters": "ROMANS",
       "indices": [
-        59,
-        178,
-        92,
-        133,
-        22,
-        114,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alcohol",
-      "answer_letters": "ALCOHOL",
-      "indices": [
-        97,
-        156,
-        154,
-        107,
-        172,
-        37,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noticed",
-      "answer_letters": "NOTICED",
-      "indices": [
-        68,
-        94,
-        149,
-        128,
-        145,
-        71,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "methods",
-      "answer_letters": "METHODS",
-      "indices": [
+        42,
+        174,
         109,
-        33,
-        160,
+        60,
+        57,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alfred",
+      "answer_letters": "ALFRED",
+      "indices": [
+        75,
+        168,
+        14,
+        147,
+        161,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
+        98,
+        103,
+        24,
+        123,
+        178,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mother",
+      "answer_letters": "MOTHER",
+      "indices": [
+        100,
+        67,
+        176,
+        70,
+        79,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "agatha",
+      "answer_letters": "AGATHA",
+      "indices": [
+        46,
+        137,
+        159,
+        102,
+        172,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nighttime",
+      "answer_letters": "NIGHTTIME",
+      "indices": [
+        62,
+        128,
+        65,
         40,
-        110,
-        74,
-        113
+        149,
+        90,
+        63,
+        95,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reconnaissance",
+      "answer_letters": "RECONNAISSANCE",
+      "indices": [
+        93,
+        23,
+        153,
+        107,
+        68,
+        64,
+        101,
+        99,
+        32,
+        113,
+        97,
+        38,
+        7,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amount",
+      "answer_letters": "AMOUNT",
+      "indices": [
+        125,
+        20,
+        94,
+        167,
+        50,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "looted",
+      "answer_letters": "LOOTED",
+      "indices": [
+        34,
+        19,
+        84,
+        139,
+        41,
+        11
       ]
     },
     {
@@ -91,201 +166,126 @@
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
-        3,
-        166,
-        116,
-        9,
-        121,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neither",
-      "answer_letters": "NEITHER",
-      "indices": [
-        50,
-        138,
-        30,
-        25,
-        44,
-        157,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "raceway",
-      "answer_letters": "RACEWAY",
-      "indices": [
-        42,
-        56,
-        7,
-        41,
-        131,
         146,
-        76
+        116,
+        166,
+        37,
+        72,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "attested",
-      "answer_letters": "ATTESTED",
+      "answer": "ludlow",
+      "answer_letters": "LUDLOW",
       "indices": [
-        159,
-        139,
-        129,
-        27,
-        32,
-        24,
-        54,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowland",
-      "answer_letters": "LOWLAND",
-      "indices": [
-        177,
-        164,
-        87,
+        156,
+        133,
+        28,
         26,
-        75,
-        57,
-        104
+        9,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "aftermath",
-      "answer_letters": "AFTERMATH",
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
       "indices": [
-        60,
-        14,
-        31,
-        88,
-        93,
-        100,
+        169,
+        49,
+        10,
+        55,
+        124,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "affect",
+      "answer_letters": "AFFECT",
+      "indices": [
         141,
-        176,
-        78
+        92,
+        35,
+        54,
+        145,
+        25
       ]
     },
     {
       "clue": null,
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
-      "indices": [
-        17,
-        120,
-        118,
-        83,
-        106,
-        70,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "letterman",
-      "answer_letters": "LETTERMAN",
-      "indices": [
-        168,
-        161,
-        175,
-        102,
-        45,
-        173,
-        95,
-        117,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aground",
-      "answer_letters": "AGROUND",
-      "indices": [
-        101,
-        65,
-        158,
-        19,
-        167,
-        64,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bologna",
-      "answer_letters": "BOLOGNA",
+      "answer": "bartlett",
+      "answer_letters": "BARTLETT",
       "indices": [
         53,
-        112,
-        134,
-        18,
-        16,
-        62,
-        49
+        56,
+        59,
+        106,
+        17,
+        114,
+        163,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "outcome",
-      "answer_letters": "OUTCOME",
+      "answer": "ordered",
+      "answer_letters": "ORDERED",
       "indices": [
-        13,
-        10,
-        90,
-        153,
-        132,
-        82,
-        155
+        18,
+        80,
+        74,
+        45,
+        4,
+        33,
+        85
       ]
     },
     {
       "clue": null,
-      "answer": "altogether",
-      "answer_letters": "ALTOGETHER",
+      "answer": "alteration",
+      "answer_letters": "ALTERATION",
       "indices": [
         152,
-        34,
+        177,
+        175,
+        120,
+        173,
+        3,
         119,
-        84,
-        137,
-        79,
-        123,
-        124,
-        23,
-        4
+        30,
+        13,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "reform",
-      "answer_letters": "REFORM",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
-        80,
-        103,
-        143,
-        67,
-        72,
-        20
+        111,
+        112,
+        31,
+        44,
+        155,
+        158,
+        78,
+        0,
+        82
       ]
     },
     {
       "clue": null,
-      "answer": "digital",
-      "answer_letters": "DIGITAL",
+      "answer": "defect",
+      "answer_letters": "DEFECT",
       "indices": [
         135,
-        63,
-        55,
-        99,
-        171,
-        125,
-        169
+        71,
+        143,
+        157,
+        154,
+        160
       ]
     }
   ],

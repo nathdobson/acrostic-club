@@ -6,36 +6,31 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chemotherapy",
-      "answer_letters": "CHEMOTHERAPY",
+      "answer": "chiefly",
+      "answer_letters": "CHIEFLY",
       "indices": [
-        6,
-        48,
-        45,
-        8,
-        145,
-        0,
-        21,
-        164,
-        111,
-        90,
-        185,
+        123,
+        1,
+        99,
+        188,
+        109,
+        134,
         37
       ]
     },
     {
       "clue": null,
-      "answer": "downfall",
-      "answer_letters": "DOWNFALL",
+      "answer": "downtown",
+      "answer_letters": "DOWNTOWN",
       "indices": [
         35,
-        26,
-        20,
-        187,
-        109,
-        12,
-        63,
-        134
+        7,
+        170,
+        17,
+        83,
+        72,
+        172,
+        100
       ]
     },
     {
@@ -43,74 +38,71 @@
       "answer": "rookie",
       "answer_letters": "ROOKIE",
       "indices": [
-        159,
-        72,
-        169,
+        141,
+        150,
+        64,
         154,
+        122,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enjoyment",
+      "answer_letters": "ENJOYMENT",
+      "indices": [
+        66,
+        31,
+        177,
+        169,
+        25,
+        8,
+        164,
+        104,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inputs",
+      "answer_letters": "INPUTS",
+      "indices": [
         133,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eisenhower",
-      "answer_letters": "EISENHOWER",
-      "indices": [
-        186,
-        76,
-        91,
-        139,
-        77,
-        173,
-        118,
-        172,
-        2,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "in-depth",
-      "answer_letters": "INDEPTH",
-      "indices": [
-        79,
-        17,
-        144,
-        57,
+        147,
         184,
-        74,
-        127
+        27,
+        97,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "showdown",
-      "answer_letters": "SHOWDOWN",
-      "indices": [
-        52,
-        182,
-        54,
-        146,
-        189,
-        110,
-        131,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "southwest",
-      "answer_letters": "SOUTHWEST",
+      "answer": "shawnee",
+      "answer_letters": "SHAWNEE",
       "indices": [
         157,
-        53,
-        158,
-        126,
-        1,
+        173,
+        153,
         29,
-        160,
+        187,
+        4,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
+      "indices": [
         10,
-        175
+        94,
+        158,
+        107,
+        75,
+        131,
+        42,
+        67,
+        124
       ]
     },
     {
@@ -119,87 +111,93 @@
       "answer_letters": "MONKEY",
       "indices": [
         152,
-        64,
-        100,
+        118,
+        77,
         78,
-        61,
+        139,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authenticity",
+      "answer_letters": "AUTHENTICITY",
+      "indices": [
+        183,
+        178,
+        175,
+        84,
+        135,
+        168,
+        137,
+        69,
+        6,
+        16,
+        71,
         140
       ]
     },
     {
       "clue": null,
-      "answer": "autumn",
-      "answer_letters": "AUTUMN",
+      "answer": "reworked",
+      "answer_letters": "REWORKED",
       "indices": [
-        42,
-        178,
-        97,
-        27,
-        116,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
+        159,
+        2,
+        146,
+        145,
         50,
-        60,
-        25,
-        107,
-        98,
-        129
+        167,
+        186,
+        189
       ]
     },
     {
       "clue": null,
-      "answer": "rejection",
-      "answer_letters": "REJECTION",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
-        119,
-        22,
-        177,
-        87,
-        123,
-        113,
-        122,
-        94,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insurrection",
-      "answer_letters": "INSURRECTION",
-      "indices": [
-        30,
-        147,
-        179,
-        39,
+        111,
+        15,
+        126,
+        21,
+        61,
         3,
-        86,
-        9,
-        41,
-        83,
-        46,
-        38,
-        43
+        132,
+        90,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "anywhere",
-      "answer_letters": "ANYWHERE",
+      "answer": "inherent",
+      "answer_letters": "INHERENT",
       "indices": [
-        153,
-        34,
-        165,
-        89,
-        114,
-        188,
-        141,
-        142
+        103,
+        80,
+        163,
+        45,
+        119,
+        87,
+        23,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authorship",
+      "answer_letters": "AUTHORSHIP",
+      "indices": [
+        33,
+        39,
+        74,
+        56,
+        54,
+        86,
+        52,
+        182,
+        30,
+        185
       ]
     },
     {
@@ -207,12 +205,70 @@
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
+        101,
+        26,
+        96,
+        180,
+        60,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elements",
+      "answer_letters": "ELEMENTS",
+      "indices": [
+        142,
+        63,
+        85,
+        129,
+        57,
+        43,
+        113,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "goodwin",
+      "answer_letters": "GOODWIN",
+      "indices": [
         81,
-        150,
-        4,
+        38,
+        53,
+        144,
+        20,
+        76,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "antioch",
+      "answer_letters": "ANTIOCH",
+      "indices": [
+        12,
+        70,
+        18,
+        46,
+        110,
+        41,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matthews",
+      "answer_letters": "MATTHEWS",
+      "indices": [
+        116,
+        174,
+        0,
         162,
-        132,
-        66
+        48,
+        155,
+        89,
+        179
       ]
     },
     {
@@ -220,69 +276,13 @@
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
-        115,
+        49,
         14,
-        106,
-        47,
-        163,
-        85,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ghetto",
-      "answer_letters": "GHETTO",
-      "indices": [
-        101,
-        84,
-        135,
-        137,
-        180,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anti-tank",
-      "answer_letters": "ANTITANK",
-      "indices": [
-        183,
-        31,
+        79,
         55,
-        69,
-        18,
-        33,
-        80,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        95,
-        15,
-        56,
-        174,
-        170,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entities",
-      "answer_letters": "ENTITIES",
-      "indices": [
-        128,
-        23,
-        59,
-        16,
-        149,
-        103,
-        155,
-        93
+        127,
+        22,
+        47
       ]
     },
     {
@@ -290,12 +290,12 @@
       "answer": "sheikh",
       "answer_letters": "SHEIKH",
       "indices": [
-        65,
-        138,
-        96,
-        99,
+        91,
+        98,
+        115,
+        106,
         121,
-        75
+        114
       ]
     }
   ],

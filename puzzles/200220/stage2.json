@@ -6,186 +6,180 @@
   "clues": [
     {
       "clue": null,
-      "answer": "redundant",
-      "answer_letters": "REDUNDANT",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        53,
-        116,
-        151,
-        56,
-        69,
-        162,
+        170,
+        154,
+        108,
+        90,
+        123,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enabling",
+      "answer_letters": "ENABLING",
+      "indices": [
+        92,
+        5,
         114,
+        89,
+        161,
+        64,
         10,
-        46
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "emphasised",
-      "answer_letters": "EMPHASISED",
+      "answer": "disadvantage",
+      "answer_letters": "DISADVANTAGE",
       "indices": [
-        185,
-        22,
-        172,
-        131,
+        162,
+        26,
+        153,
         126,
-        140,
-        101,
-        8,
-        182,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "devastated",
-      "answer_letters": "DEVASTATED",
-      "indices": [
         111,
-        167,
-        166,
-        79,
-        20,
-        183,
-        34,
-        156,
-        134,
-        176
+        115,
+        48,
+        73,
+        102,
+        138,
+        122,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "three-time",
-      "answer_letters": "THREETIME",
+      "answer": "theaters",
+      "answer_letters": "THEATERS",
       "indices": [
         49,
-        154,
-        76,
-        58,
-        171,
-        90,
-        155,
+        47,
+        116,
+        149,
+        124,
+        182,
+        174,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "admits",
+      "answer_letters": "ADMITS",
+      "indices": [
+        104,
+        74,
         178,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "activists",
-      "answer_letters": "ACTIVISTS",
-      "indices": [
-        165,
-        3,
-        118,
-        36,
-        115,
-        94,
-        133,
-        184,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sabbath",
-      "answer_letters": "SABBATH",
-      "indices": [
-        87,
-        173,
-        146,
-        181,
-        138,
-        102,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hourly",
-      "answer_letters": "HOURLY",
-      "indices": [
-        164,
-        21,
-        110,
-        170,
-        128,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "townships",
-      "answer_letters": "TOWNSHIPS",
-      "indices": [
-        93,
-        142,
-        44,
-        73,
-        153,
-        123,
         13,
-        169,
+        70,
         55
       ]
     },
     {
       "clue": null,
-      "answer": "roundabout",
-      "answer_letters": "ROUNDABOUT",
+      "answer": "subunit",
+      "answer_letters": "SUBUNIT",
       "indices": [
-        139,
-        30,
+        140,
         72,
-        5,
-        81,
-        48,
-        60,
-        159,
-        121,
-        124
+        181,
+        7,
+        27,
+        155,
+        184
       ]
     },
     {
       "clue": null,
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
+      "answer": "hawker",
+      "answer_letters": "HAWKER",
       "indices": [
-        1,
-        61,
-        130,
-        6,
-        105,
-        52,
-        16
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laughter",
-      "answer_letters": "LAUGHTER",
-      "indices": [
-        106,
+        164,
         17,
-        160,
-        35,
-        119,
-        78,
-        137,
-        186
+        44,
+        25,
+        171,
+        139
       ]
     },
     {
       "clue": null,
-      "answer": "liking",
-      "answer_letters": "LIKING",
+      "answer": "toulon",
+      "answer_letters": "TOULON",
       "indices": [
-        161,
-        67,
-        41,
-        9,
+        183,
+        4,
+        110,
+        106,
+        30,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "resulted",
+      "answer_letters": "RESULTED",
+      "indices": [
+        53,
+        85,
+        96,
+        56,
+        127,
+        156,
+        175,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opinions",
+      "answer_letters": "OPINIONS",
+      "indices": [
+        147,
+        169,
+        94,
         80,
-        122
+        67,
+        159,
+        69,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        91,
+        61,
+        31,
+        83,
+        158,
+        165,
+        51,
+        143,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "likelihood",
+      "answer_letters": "LIKELIHOOD",
+      "indices": [
+        105,
+        9,
+        41,
+        134,
+        128,
+        39,
+        145,
+        142,
+        1,
+        81
       ]
     },
     {
@@ -193,99 +187,105 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        4,
-        31,
-        51,
-        77,
-        145,
         109,
-        147,
-        62
+        99,
+        6,
+        133,
+        131,
+        21,
+        132,
+        93
       ]
     },
     {
       "clue": null,
-      "answer": "rocket",
-      "answer_letters": "ROCKET",
+      "answer": "right-handed",
+      "answer_letters": "RIGHTHANDED",
       "indices": [
-        174,
-        98,
-        37,
-        25,
-        175,
+        76,
+        36,
+        35,
+        119,
+        130,
+        113,
+        34,
+        150,
+        68,
+        43,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doubts",
+      "answer_letters": "DOUBTS",
+      "indices": [
+        176,
+        52,
+        160,
+        146,
+        78,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
+      "indices": [
+        95,
+        173,
+        20,
+        46,
+        16,
+        185,
+        8,
         14
       ]
     },
     {
       "clue": null,
-      "answer": "downfall",
-      "answer_letters": "DOWNFALL",
-      "indices": [
-        66,
-        120,
-        158,
-        27,
-        143,
-        149,
-        127,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighteen",
-      "answer_letters": "EIGHTEEN",
-      "indices": [
-        75,
-        26,
-        11,
-        84,
-        83,
-        179,
-        95,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "refuse",
-      "answer_letters": "REFUSE",
+      "answer": "reproductive",
+      "answer_letters": "REPRODUCTIVE",
       "indices": [
         57,
-        43,
-        99,
-        7,
-        0,
+        75,
+        172,
+        186,
+        98,
+        151,
+        121,
+        37,
+        118,
+        101,
+        166,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "became",
+      "answer_letters": "BECAME",
+      "indices": [
+        60,
+        167,
+        3,
+        79,
+        22,
         23
       ]
     },
     {
       "clue": null,
-      "answer": "beaumont",
-      "answer_letters": "BEAUMONT",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
-        89,
-        92,
-        104,
+        136,
+        120,
         88,
-        33,
-        132,
-        150,
-        70
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yiddish",
-      "answer_letters": "YIDDISH",
-      "indices": [
-        108,
-        39,
-        28,
-        74,
-        64,
-        96,
-        113
+        62,
+        84,
+        18
       ]
     }
   ],

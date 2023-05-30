@@ -6,69 +6,67 @@
   "clues": [
     {
       "clue": null,
-      "answer": "velvet",
-      "answer_letters": "VELVET",
+      "answer": "vaults",
+      "answer_letters": "VAULTS",
       "indices": [
-        5,
-        86,
-        155,
         49,
-        59,
-        12
+        89,
+        64,
+        74,
+        26,
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
+      "answer": "employ",
+      "answer_letters": "EMPLOY",
       "indices": [
-        146,
-        113,
-        104,
-        31,
-        25,
-        120
+        50,
+        10,
+        128,
+        30,
+        167,
+        21
       ]
     },
     {
       "clue": null,
-      "answer": "renewed",
-      "answer_letters": "RENEWED",
+      "answer": "rushes",
+      "answer_letters": "RUSHES",
       "indices": [
-        87,
-        163,
-        70,
-        136,
-        39,
-        20,
-        91
+        115,
+        141,
+        58,
+        13,
+        1,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
+      "answer": "outlaw",
+      "answer_letters": "OUTLAW",
       "indices": [
-        48,
-        154,
-        160,
-        124,
+        140,
         75,
-        148
+        160,
+        155,
+        159,
+        0
       ]
     },
     {
       "clue": null,
-      "answer": "netball",
-      "answer_letters": "NETBALL",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
-        37,
-        62,
-        66,
-        145,
-        150,
-        98,
-        40
+        109,
+        122,
+        83,
+        139,
+        99,
+        39
       ]
     },
     {
@@ -76,210 +74,212 @@
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
-        32,
-        77,
-        76,
-        11,
-        142,
-        79
+        108,
+        96,
+        8,
+        136,
+        65,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "chapels",
-      "answer_letters": "CHAPELS",
+      "answer": "clements",
+      "answer_letters": "CLEMENTS",
       "indices": [
         131,
-        139,
-        114,
-        83,
-        132,
-        65,
-        58
+        57,
+        59,
+        123,
+        174,
+        106,
+        93,
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "awakening",
-      "answer_letters": "AWAKENING",
+      "answer": "alphabet",
+      "answer_letters": "ALPHABET",
       "indices": [
-        95,
-        135,
-        46,
-        116,
-        171,
-        33,
-        14,
-        119,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        115,
-        3,
-        126,
-        172,
-        149,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outputs",
-      "answer_letters": "OUTPUTS",
-      "indices": [
-        9,
-        64,
-        157,
-        128,
-        141,
-        125,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        18,
-        162,
-        140,
-        23,
         72,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "howell",
-      "answer_letters": "HOWELL",
-      "indices": [
-        94,
-        80,
-        168,
-        56,
-        53,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "donetsk",
-      "answer_letters": "DONETSK",
-      "indices": [
-        101,
-        167,
-        166,
-        1,
-        110,
-        8,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        69,
-        102,
-        153,
-        130,
-        19,
-        118,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "variables",
-      "answer_letters": "VARIABLES",
-      "indices": [
-        28,
-        29,
-        175,
-        108,
-        100,
-        170,
-        129,
-        41,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elegant",
-      "answer_letters": "ELEGANT",
-      "indices": [
-        6,
         54,
-        44,
-        16,
-        4,
-        15,
-        96
+        124,
+        158,
+        118,
+        47,
+        171,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "redwood",
-      "answer_letters": "REDWOOD",
+      "answer": "rwandan",
+      "answer_letters": "RWANDAN",
       "indices": [
         81,
-        50,
+        162,
+        130,
+        119,
         143,
-        0,
+        100,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
         38,
+        31,
+        110,
+        79,
+        142,
         111,
-        42
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "gables",
-      "answer_letters": "GABLES",
+      "answer": "taught",
+      "answer_letters": "TAUGHT",
       "indices": [
-        34,
-        159,
-        47,
-        57,
+        66,
+        29,
+        154,
+        43,
+        3,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "health",
+      "answer_letters": "HEALTH",
+      "indices": [
+        149,
         105,
-        63
+        114,
+        40,
+        77,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "ethanol",
-      "answer_letters": "ETHANOL",
+      "answer": "downloadable",
+      "answer_letters": "DOWNLOADABLE",
       "indices": [
-        99,
-        26,
-        158,
-        52,
-        151,
+        113,
+        48,
+        135,
+        15,
+        53,
         84,
-        74
+        4,
+        120,
+        46,
+        170,
+        129,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "newmarket",
-      "answer_letters": "NEWMARKET",
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
       "indices": [
-        106,
-        174,
-        85,
-        123,
-        89,
+        14,
+        33,
+        28,
+        9,
+        36,
+        86,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "varying",
+      "answer_letters": "VARYING",
+      "indices": [
+        5,
+        95,
         61,
-        152,
-        122,
+        126,
+        32,
+        166,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eldest",
+      "answer_letters": "ELDEST",
+      "indices": [
+        62,
+        98,
+        42,
+        132,
+        63,
         173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "retain",
+      "answer_letters": "RETAIN",
+      "indices": [
+        175,
+        41,
+        125,
+        52,
+        69,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotten",
+      "answer_letters": "GOTTEN",
+      "indices": [
+        16,
+        80,
+        148,
+        12,
+        163,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embarked",
+      "answer_letters": "EMBARKED",
+      "indices": [
+        20,
+        104,
+        145,
+        150,
+        87,
+        116,
+        6,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        90,
+        11,
+        85,
+        138,
+        168,
+        146,
+        56,
+        165
       ]
     },
     {
@@ -287,12 +287,12 @@
       "answer": "thanks",
       "answer_letters": "THANKS",
       "indices": [
-        93,
-        13,
+        18,
+        19,
         24,
-        109,
-        36,
-        138
+        151,
+        152,
+        67
       ]
     }
   ],

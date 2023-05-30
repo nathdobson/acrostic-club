@@ -6,32 +6,122 @@
   "clues": [
     {
       "clue": null,
-      "answer": "getting",
-      "answer_letters": "GETTING",
+      "answer": "guardian",
+      "answer_letters": "GUARDIAN",
       "indices": [
-        128,
-        12,
-        21,
-        117,
-        126,
-        162,
-        115
+        115,
+        10,
+        54,
+        125,
+        13,
+        8,
+        168,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "automated",
-      "answer_letters": "AUTOMATED",
+      "answer": "attempted",
+      "answer_letters": "ATTEMPTED",
       "indices": [
-        168,
-        10,
+        161,
+        32,
+        117,
+        44,
+        139,
+        70,
+        101,
+        2,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inactivated",
+      "answer_letters": "INACTIVATED",
+      "indices": [
+        171,
+        100,
+        93,
+        55,
         41,
-        177,
-        37,
+        140,
+        172,
         74,
+        90,
+        173,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "liberation",
+      "answer_letters": "LIBERATION",
+      "indices": [
+        17,
+        126,
+        135,
+        180,
+        11,
+        164,
+        30,
+        18,
+        145,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "charting",
+      "answer_letters": "CHARTING",
+      "indices": [
+        137,
+        28,
+        111,
+        67,
         170,
-        116,
-        151
+        104,
+        60,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "asthma",
+      "answer_letters": "ASTHMA",
+      "indices": [
+        95,
+        35,
+        182,
+        33,
+        98,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remove",
+      "answer_letters": "REMOVE",
+      "indices": [
+        120,
+        147,
+        153,
+        154,
+        88,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "repeat",
+      "answer_letters": "REPEAT",
+      "indices": [
+        86,
+        99,
+        175,
+        156,
+        89,
+        107
       ]
     },
     {
@@ -39,263 +129,173 @@
       "answer": "imprint",
       "answer_letters": "IMPRINT",
       "indices": [
-        34,
-        144,
-        175,
-        125,
-        104,
-        51,
-        66
+        82,
+        122,
+        85,
+        167,
+        69,
+        40,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "litter",
-      "answer_letters": "LITTER",
+      "answer": "godfather",
+      "answer_letters": "GODFATHER",
       "indices": [
-        17,
-        87,
-        182,
-        63,
-        2,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "charity",
-      "answer_letters": "CHARITY",
-      "indices": [
-        181,
-        43,
+        142,
+        177,
+        46,
+        159,
         5,
+        56,
+        81,
+        22,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estonia",
+      "answer_letters": "ESTONIA",
+      "indices": [
+        109,
+        102,
+        66,
+        64,
+        78,
+        4,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "right-arm",
+      "answer_letters": "RIGHTARM",
+      "indices": [
+        124,
+        34,
+        128,
+        20,
+        166,
+        39,
+        155,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shepherd",
+      "answer_letters": "SHEPHERD",
+      "indices": [
+        71,
+        43,
+        38,
+        94,
+        108,
+        16,
+        176,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "office",
+      "answer_letters": "OFFICE",
+      "indices": [
+        158,
+        53,
+        7,
+        47,
+        169,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "underway",
+      "answer_letters": "UNDERWAY",
+      "indices": [
+        77,
+        51,
+        151,
+        136,
         96,
-        140,
-        97,
+        131,
+        29,
         25
       ]
     },
     {
       "clue": null,
-      "answer": "attractive",
-      "answer_letters": "ATTRACTIVE",
+      "answer": "literal",
+      "answer_letters": "LITERAL",
       "indices": [
-        93,
-        32,
-        113,
-        86,
-        132,
-        55,
-        56,
-        69,
-        172,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "revolt",
-      "answer_letters": "REVOLT",
-      "indices": [
-        67,
-        129,
-        88,
-        145,
-        112,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-handed",
-      "answer_letters": "RIGHTHANDED",
-      "indices": [
-        176,
-        8,
-        19,
-        28,
-        30,
-        33,
-        54,
-        78,
-        61,
+        24,
+        87,
+        58,
         91,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        47,
-        102,
-        161,
-        171,
-        127,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        142,
-        75,
-        76,
-        131,
-        166,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
-      "indices": [
-        147,
-        46,
-        139,
-        138,
-        40,
-        27,
-        154,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remastered",
-      "answer_letters": "REMASTERED",
-      "indices": [
-        124,
-        136,
-        98,
-        149,
-        71,
-        90,
-        72,
         146,
-        44,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "spartan",
-      "answer_letters": "SPARTAN",
-      "indices": [
-        178,
-        85,
-        111,
-        155,
-        165,
         68,
-        150
+        1
       ]
     },
     {
       "clue": null,
-      "answer": "oaxaca",
-      "answer_letters": "OAXACA",
+      "answer": "locate",
+      "answer_letters": "LOCATE",
       "indices": [
-        158,
-        95,
+        112,
+        76,
+        181,
+        0,
+        21,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exempt",
+      "answer_letters": "EXEMPT",
+      "indices": [
+        72,
         3,
-        89,
-        137,
-        29
+        116,
+        144,
+        179,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "unspecified",
-      "answer_letters": "UNSPECIFIED",
+      "answer": "statehood",
+      "answer_letters": "STATEHOOD",
       "indices": [
-        77,
-        105,
-        35,
-        179,
-        180,
-        169,
-        4,
-        159,
-        18,
-        173,
+        83,
+        97,
+        127,
+        165,
+        129,
+        118,
+        138,
+        114,
         48
       ]
     },
     {
       "clue": null,
-      "answer": "lambeth",
-      "answer_letters": "LAMBETH",
-      "indices": [
-        1,
-        39,
-        153,
-        135,
-        59,
-        58,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "latino",
-      "answer_letters": "LATINO",
-      "indices": [
-        24,
-        123,
-        107,
-        50,
-        141,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emerge",
-      "answer_letters": "EMERGE",
-      "indices": [
-        119,
-        122,
-        16,
-        167,
-        9,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "spearheaded",
-      "answer_letters": "SPEARHEADED",
-      "indices": [
-        83,
-        70,
-        109,
-        164,
-        11,
-        118,
-        99,
-        0,
-        23,
-        38,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "spin-off",
-      "answer_letters": "SPINOFF",
+      "answer": "standings",
+      "answer_letters": "STANDINGS",
       "indices": [
         133,
-        94,
-        82,
-        60,
-        114,
-        7,
-        53
+        113,
+        132,
+        162,
+        15,
+        50,
+        105,
+        19,
+        178
       ]
     }
   ],

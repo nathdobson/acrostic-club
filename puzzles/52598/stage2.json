@@ -6,31 +6,30 @@
   "clues": [
     {
       "clue": null,
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
+      "answer": "messages",
+      "answer_letters": "MESSAGES",
       "indices": [
         110,
-        137,
-        6,
-        77,
-        27,
-        24,
-        95
+        105,
+        70,
+        16,
+        11,
+        2,
+        146,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "asbestos",
-      "answer_letters": "ASBESTOS",
+      "answer": "arches",
+      "answer_letters": "ARCHES",
       "indices": [
         98,
-        74,
-        35,
-        4,
-        42,
-        12,
-        50,
-        176
+        37,
+        26,
+        27,
+        168,
+        112
       ]
     },
     {
@@ -38,25 +37,133 @@
       "answer": "robbed",
       "answer_letters": "ROBBED",
       "indices": [
-        41,
+        108,
         163,
-        22,
         66,
-        62,
-        103
+        100,
+        9,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "thrust",
-      "answer_letters": "THRUST",
+      "answer": "thursday",
+      "answer_letters": "THURSDAY",
       "indices": [
-        166,
-        17,
-        93,
+        12,
+        92,
+        170,
+        78,
+        74,
+        161,
+        87,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isolated",
+      "answer_letters": "ISOLATED",
+      "indices": [
+        133,
+        176,
+        154,
+        128,
+        25,
+        6,
+        159,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nutrient",
+      "answer_letters": "NUTRIENT",
+      "indices": [
+        15,
+        60,
+        81,
+        3,
+        79,
+        28,
+        120,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "blessing",
+      "answer_letters": "BLESSING",
+      "indices": [
+        35,
+        49,
+        127,
+        55,
+        76,
+        18,
+        88,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "u-boats",
+      "answer_letters": "UBOATS",
+      "indices": [
         68,
-        70,
-        144
+        22,
+        50,
+        47,
+        31,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bibliography",
+      "answer_letters": "BIBLIOGRAPHY",
+      "indices": [
+        131,
+        13,
+        149,
+        83,
+        72,
+        44,
+        135,
+        41,
+        5,
+        19,
+        17,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        132,
+        115,
+        45,
+        4,
+        138,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reviewers",
+      "answer_letters": "REVIEWERS",
+      "indices": [
+        38,
+        174,
+        173,
+        172,
+        24,
+        95,
+        113,
+        175,
+        29
       ]
     },
     {
@@ -64,112 +171,12 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        133,
-        126,
-        5,
-        119,
-        0,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        120,
-        72,
-        121,
-        167,
-        59,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "biggest",
-      "answer_letters": "BIGGEST",
-      "indices": [
-        149,
+        39,
+        96,
+        148,
         102,
-        2,
-        135,
-        127,
-        76,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "usable",
-      "answer_letters": "USABLE",
-      "indices": [
-        170,
-        29,
-        11,
-        117,
-        83,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "belfast",
-      "answer_letters": "BELFAST",
-      "indices": [
-        100,
-        168,
-        49,
-        129,
-        160,
-        64,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "errors",
-      "answer_letters": "ERRORS",
-      "indices": [
-        132,
-        38,
-        8,
-        44,
-        78,
-        16
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "resources",
-      "answer_letters": "RESOURCES",
-      "indices": [
-        158,
-        28,
-        152,
-        109,
-        65,
-        108,
-        26,
-        159,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interested",
-      "answer_letters": "INTERESTED",
-      "indices": [
-        172,
-        15,
-        123,
-        177,
-        37,
-        40,
-        151,
-        31,
-        118,
-        89
+        36,
+        167
       ]
     },
     {
@@ -177,110 +184,103 @@
       "answer": "affordable",
       "answer_letters": "AFFORDABLE",
       "indices": [
-        36,
-        51,
+        160,
+        129,
         155,
-        154,
-        23,
-        161,
-        25,
-        131,
+        109,
+        93,
+        103,
+        137,
+        117,
         10,
         33
       ]
     },
     {
       "clue": null,
-      "answer": "nationals",
-      "answer_letters": "NATIONALS",
+      "answer": "nicolas",
+      "answer_letters": "NICOLAS",
       "indices": [
-        88,
-        87,
-        52,
-        13,
-        140,
         171,
-        148,
-        57,
-        141
+        119,
+        80,
+        94,
+        114,
+        0,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "differs",
-      "answer_letters": "DIFFERS",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
-        61,
-        39,
-        107,
-        164,
-        105,
-        175,
-        96
+        157,
+        85,
+        58,
+        121,
+        145,
+        52
       ]
     },
     {
       "clue": null,
-      "answer": "torpedoes",
-      "answer_letters": "TORPEDOES",
+      "answer": "testosterone",
+      "answer_letters": "TESTOSTERONE",
       "indices": [
         91,
-        124,
-        3,
-        19,
-        69,
-        67,
-        14,
-        9,
-        55
+        118,
+        64,
+        123,
+        56,
+        151,
+        73,
+        177,
+        8,
+        140,
+        134,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "highway",
-      "answer_letters": "HIGHWAY",
+      "answer": "hartford",
+      "answer_letters": "HARTFORD",
       "indices": [
         32,
-        18,
-        104,
-        145,
-        85,
         84,
-        150
+        23,
+        144,
+        164,
+        124,
+        139,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "officially",
-      "answer_letters": "OFFICIALLY",
+      "answer": "offers",
+      "answer_letters": "OFFERS",
       "indices": [
-        94,
-        45,
-        115,
-        58,
-        80,
-        79,
-        47,
-        114,
-        128,
-        53
+        14,
+        107,
+        51,
+        69,
+        158,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "undercover",
-      "answer_letters": "UNDERCOVER",
+      "answer": "ulster",
+      "answer_letters": "ULSTER",
       "indices": [
-        60,
-        134,
-        157,
-        113,
-        101,
-        138,
-        56,
-        173,
-        174,
-        139
+        65,
+        57,
+        42,
+        77,
+        62,
+        101
       ]
     }
   ],

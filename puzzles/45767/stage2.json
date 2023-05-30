@@ -6,185 +6,188 @@
   "clues": [
     {
       "clue": null,
-      "answer": "ghetto",
-      "answer_letters": "GHETTO",
+      "answer": "gunboat",
+      "answer_letters": "GUNBOAT",
       "indices": [
         49,
-        56,
-        13,
-        183,
-        23,
-        127
+        33,
+        48,
+        98,
+        127,
+        158,
+        32
       ]
     },
     {
       "clue": null,
-      "answer": "ejected",
-      "answer_letters": "EJECTED",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        130,
+        166,
+        63,
+        184,
+        55,
+        46,
+        86,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "o'clock",
+      "answer_letters": "OCLOCK",
+      "indices": [
+        161,
+        110,
+        150,
+        83,
+        82,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rejected",
+      "answer_letters": "REJECTED",
+      "indices": [
+        34,
+        2,
         85,
-        99,
-        165,
-        41,
-        103,
-        141
+        133,
+        87,
+        183,
+        13,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "objected",
-      "answer_letters": "OBJECTED",
-      "indices": [
-        68,
-        16,
-        29,
-        91,
-        178,
-        88,
-        43,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ribbon",
-      "answer_letters": "RIBBON",
-      "indices": [
-        154,
-        114,
-        5,
-        152,
-        38,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guthrie",
-      "answer_letters": "GUTHRIE",
+      "answer": "geoffrey",
+      "answer_letters": "GEOFFREY",
       "indices": [
         132,
-        89,
-        172,
-        46,
+        99,
+        106,
+        168,
+        78,
         147,
-        47,
-        174
+        174,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "everyone",
-      "answer_letters": "EVERYONE",
+      "answer": "enjoys",
+      "answer_letters": "ENJOYS",
       "indices": [
-        148,
-        1,
-        35,
-        34,
-        4,
-        24,
-        71,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elliott",
-      "answer_letters": "ELLIOTT",
-      "indices": [
-        116,
-        10,
-        129,
-        61,
-        27,
-        120,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowell",
-      "answer_letters": "LOWELL",
-      "indices": [
-        159,
-        161,
-        128,
         20,
-        160,
-        186
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "incapable",
-      "answer_letters": "INCAPABLE",
-      "indices": [
-        184,
-        28,
-        87,
-        140,
-        63,
-        52,
-        98,
-        64,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oklahoma",
-      "answer_letters": "OKLAHOMA",
-      "indices": [
-        179,
-        12,
-        150,
-        57,
-        42,
-        111,
-        180,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "they're",
-      "answer_letters": "THEYRE",
-      "indices": [
-        32,
-        139,
-        30,
+        96,
+        29,
+        79,
         65,
-        90,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "encounter",
+      "answer_letters": "ENCOUNTER",
+      "indices": [
+        91,
+        126,
+        178,
+        111,
+        89,
+        117,
+        19,
+        130,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
+      "indices": [
+        160,
+        57,
+        102,
+        16,
+        43,
+        118,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "immediate",
+      "answer_letters": "IMMEDIATE",
+      "indices": [
+        47,
+        62,
+        180,
+        153,
+        141,
+        176,
+        52,
+        23,
         108
       ]
     },
     {
       "clue": null,
-      "answer": "mansion",
-      "answer_letters": "MANSION",
+      "answer": "orlando",
+      "answer_letters": "ORLANDO",
       "indices": [
-        62,
-        163,
-        84,
-        93,
-        151,
-        146,
-        112
+        6,
+        90,
+        156,
+        182,
+        58,
+        131,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "thrown",
+      "answer_letters": "THROWN",
       "indices": [
-        11,
-        60,
-        113,
-        135,
-        173,
+        45,
+        37,
+        80,
+        72,
+        162,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
+      "indices": [
+        145,
+        27,
+        139,
         101,
-        96
+        73,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhabited",
+      "answer_letters": "INHABITED",
+      "indices": [
+        151,
+        112,
+        173,
+        122,
+        152,
+        114,
+        41,
+        187,
+        115
       ]
     },
     {
@@ -193,127 +196,124 @@
       "answer_letters": "DOWNTOWN",
       "indices": [
         137,
-        79,
-        162,
-        164,
-        18,
+        24,
+        128,
+        84,
+        120,
         94,
         51,
-        48
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "detached",
-      "answer_letters": "DETACHED",
+      "answer": "defiance",
+      "answer_letters": "DEFIANCE",
       "indices": [
-        115,
-        153,
-        118,
-        155,
-        110,
-        37,
-        166,
-        14
+        7,
+        103,
+        113,
+        75,
+        135,
+        28,
+        31,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "lawyers",
-      "answer_letters": "LAWYERS",
+      "answer": "litter",
+      "answer_letters": "LITTER",
       "indices": [
-        156,
-        182,
-        39,
-        8,
-        133,
-        107,
-        53
+        186,
+        11,
+        18,
+        67,
+        30,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "embankment",
-      "answer_letters": "EMBANKMENT",
+      "answer": "elephant",
+      "answer_letters": "ELEPHANT",
       "indices": [
         17,
-        145,
-        185,
-        143,
-        117,
-        125,
-        102,
-        187,
-        136,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
-      "indices": [
-        105,
-        106,
-        67,
-        6,
-        73,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "accident",
-      "answer_letters": "ACCIDENT",
-      "indices": [
-        158,
-        26,
-        100,
-        176,
-        131,
-        86,
-        123,
+        64,
+        116,
+        181,
+        42,
+        163,
+        177,
         76
       ]
     },
     {
       "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
+      "answer": "miller's",
+      "answer_letters": "MILLERS",
       "indices": [
-        3,
-        33,
-        58,
-        95,
-        168,
-        78
+        105,
+        61,
+        129,
+        10,
+        148,
+        154,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "cockpit",
-      "answer_letters": "COCKPIT",
+      "answer": "avalon",
+      "answer_letters": "AVALON",
       "indices": [
-        82,
-        83,
-        31,
-        70,
-        181,
-        75,
-        55
+        140,
+        1,
+        155,
+        159,
+        146,
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "horror",
-      "answer_letters": "HORROR",
+      "answer": "robert",
+      "answer_letters": "ROBERT",
       "indices": [
-        121,
-        72,
-        80,
+        21,
+        68,
+        5,
+        0,
         170,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cowboys",
+      "answer_letters": "COWBOYS",
+      "indices": [
+        26,
+        95,
+        39,
+        185,
         169,
-        21
+        8,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hancock",
+      "answer_letters": "HANCOCK",
+      "indices": [
+        56,
+        143,
+        71,
+        165,
+        179,
+        100,
+        70
       ]
     }
   ],

@@ -6,128 +6,124 @@
   "clues": [
     {
       "clue": null,
-      "answer": "differentiate",
-      "answer_letters": "DIFFERENTIATE",
+      "answer": "deposits",
+      "answer_letters": "DEPOSITS",
       "indices": [
         120,
-        155,
-        44,
-        153,
-        175,
-        93,
-        9,
-        157,
-        123,
-        107,
-        133,
-        91,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "afterwards",
-      "answer_letters": "AFTERWARDS",
-      "indices": [
-        18,
-        42,
-        86,
-        156,
-        131,
-        95,
-        126,
-        49,
-        110,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "viewership",
-      "answer_letters": "VIEWERSHIP",
-      "indices": [
-        176,
-        161,
         32,
-        28,
-        177,
-        4,
-        136,
-        53,
-        138,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insect",
-      "answer_letters": "INSECT",
-      "indices": [
-        114,
-        10,
-        127,
-        24,
-        139,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deities",
-      "answer_letters": "DEITIES",
-      "indices": [
-        11,
-        59,
-        85,
-        73,
-        122,
-        118,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newspapers",
-      "answer_letters": "NEWSPAPERS",
-      "indices": [
-        115,
-        2,
-        125,
-        116,
-        146,
-        90,
-        76,
-        132,
-        174,
+        162,
+        74,
+        57,
+        135,
+        164,
         159
       ]
     },
     {
       "clue": null,
-      "answer": "inspire",
-      "answer_letters": "INSPIRE",
+      "answer": "anti-war",
+      "answer_letters": "ANTIWAR",
       "indices": [
-        64,
-        78,
-        19,
-        15,
-        14,
-        7,
-        112
+        133,
+        62,
+        66,
+        85,
+        17,
+        151,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "chennai",
-      "answer_letters": "CHENNAI",
+      "answer": "variables",
+      "answer_letters": "VARIABLES",
+      "indices": [
+        176,
+        90,
+        178,
+        64,
+        18,
+        35,
+        30,
+        2,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "in-depth",
+      "answer_letters": "INDEPTH",
+      "indices": [
+        111,
+        37,
+        158,
+        104,
+        15,
+        105,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "difficult",
+      "answer_letters": "DIFFICULT",
+      "indices": [
+        33,
+        161,
+        44,
+        6,
+        3,
+        139,
+        36,
+        134,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        115,
+        132,
+        76,
+        39,
+        92,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "interceptions",
+      "answer_letters": "INTERCEPTIONS",
+      "indices": [
+        77,
+        130,
+        0,
+        144,
+        174,
+        148,
+        48,
+        146,
+        149,
+        8,
+        70,
+        157,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "catfish",
+      "answer_letters": "CATFISH",
       "indices": [
         38,
-        39,
-        144,
-        130,
-        62,
-        26,
-        3
+        126,
+        108,
+        172,
+        29,
+        116,
+        1
       ]
     },
     {
@@ -135,153 +131,157 @@
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
-        58,
-        147,
-        84,
-        77,
-        101,
-        117
+        96,
+        59,
+        125,
+        138,
+        31,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
+      "answer": "otherwise",
+      "answer_letters": "OTHERWISE",
+      "indices": [
+        142,
+        86,
+        58,
+        175,
+        154,
+        47,
+        22,
+        65,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        167,
+        147,
+        87,
+        14,
+        79,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lawful",
+      "answer_letters": "LAWFUL",
+      "indices": [
+        45,
+        168,
+        95,
+        42,
+        129,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "steward",
+      "answer_letters": "STEWARD",
+      "indices": [
+        127,
+        73,
+        156,
+        84,
+        26,
+        4,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfield",
+      "answer_letters": "OUTFIELD",
       "indices": [
         165,
-        129,
-        164,
-        6,
-        61,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowell",
-      "answer_letters": "LOWELL",
-      "indices": [
-        30,
-        74,
-        17,
-        104,
-        167,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lordship",
-      "answer_letters": "LORDSHIP",
-      "indices": [
-        103,
-        70,
-        178,
-        158,
-        169,
-        87,
-        135,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stockport",
-      "answer_letters": "STOCKPORT",
-      "indices": [
-        12,
-        0,
-        41,
-        148,
-        23,
-        75,
-        46,
-        154,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        100,
         81,
-        137,
-        172,
-        45,
-        142,
-        47
+        141,
+        153,
+        107,
+        9,
+        103,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
         71,
-        151,
-        52,
-        160,
+        100,
+        131,
+        91,
+        53,
+        89,
+        112,
+        12,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exists",
+      "answer_letters": "EXISTS",
+      "indices": [
+        67,
+        145,
+        122,
+        136,
+        55,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "destination",
+      "answer_letters": "DESTINATION",
+      "indices": [
+        11,
+        118,
+        50,
+        123,
+        114,
+        10,
         119,
+        117,
+        155,
+        41,
         99
       ]
     },
     {
       "clue": null,
-      "answer": "exhibited",
-      "answer_letters": "EXHIBITED",
+      "answer": "appoint",
+      "answer_letters": "APPOINT",
       "indices": [
-        67,
-        145,
-        96,
-        8,
-        35,
-        22,
-        31,
-        48,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        68,
-        89,
-        111,
-        79,
-        1,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "atlantis",
-      "answer_letters": "ATLANTIS",
-      "indices": [
-        168,
-        105,
-        21,
         54,
-        37,
-        170,
-        29,
-        63
+        82,
+        75,
+        173,
+        61,
+        78,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "yorker",
+      "answer_letters": "YORKER",
       "indices": [
         97,
-        173,
-        36,
-        149,
-        13,
-        50
+        46,
+        49,
+        23,
+        24,
+        93
       ]
     }
   ],

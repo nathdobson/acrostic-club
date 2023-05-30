@@ -6,28 +6,84 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lyceum",
-      "answer_letters": "LYCEUM",
+      "answer": "labour",
+      "answer_letters": "LABOUR",
       "indices": [
         154,
-        151,
-        137,
-        125,
+        131,
+        100,
+        35,
         55,
-        74
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "infinite",
+      "answer_letters": "INFINITE",
       "indices": [
-        147,
-        166,
-        93,
-        138,
-        117,
-        13
+        84,
+        14,
+        155,
+        40,
+        29,
+        17,
+        129,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheriff",
+      "answer_letters": "SHERIFF",
+      "indices": [
+        148,
+        12,
+        51,
+        72,
+        28,
+        18,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anatomy",
+      "answer_letters": "ANATOMY",
+      "indices": [
+        97,
+        158,
+        113,
+        63,
+        169,
+        150,
+        176
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kapoor",
+      "answer_letters": "KAPOOR",
+      "indices": [
+        50,
+        157,
+        34,
+        58,
+        165,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embryo",
+      "answer_letters": "EMBRYO",
+      "indices": [
+        120,
+        114,
+        127,
+        107,
+        76,
+        5
       ]
     },
     {
@@ -36,166 +92,152 @@
       "answer_letters": "SOMEHOW",
       "indices": [
         115,
-        87,
-        114,
-        9,
-        61,
-        77,
-        102
+        118,
+        74,
+        181,
+        8,
+        4,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "affair",
-      "answer_letters": "AFFAIR",
-      "indices": [
-        157,
-        155,
-        142,
-        67,
-        17,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
-      "indices": [
-        50,
-        44,
-        177,
-        49,
-        98,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
-      "indices": [
-        94,
-        164,
-        110,
-        73,
-        23,
-        69,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sweeney",
-      "answer_letters": "SWEENEY",
-      "indices": [
-        148,
-        36,
-        89,
-        24,
-        171,
-        112,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sophomore",
-      "answer_letters": "SOPHOMORE",
+      "answer": "safety",
+      "answer_letters": "SAFETY",
       "indices": [
         152,
-        141,
-        34,
-        178,
-        4,
-        31,
-        165,
-        90,
-        181
+        13,
+        143,
+        153,
+        60,
+        32
       ]
     },
     {
       "clue": null,
-      "answer": "lumpur",
-      "answer_letters": "LUMPUR",
+      "answer": "louvre",
+      "answer_letters": "LOUVRE",
       "indices": [
-        132,
-        124,
-        150,
-        65,
-        128,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embryo",
-      "answer_letters": "EMBRYO",
-      "indices": [
-        26,
-        119,
-        127,
-        180,
-        32,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
+        66,
+        82,
+        44,
+        88,
         10,
-        0,
-        53,
-        63,
-        12,
-        162
+        69
       ]
     },
     {
       "clue": null,
-      "answer": "notation",
-      "answer_letters": "NOTATION",
+      "answer": "encouraged",
+      "answer_letters": "ENCOURAGED",
       "indices": [
+        106,
         175,
-        101,
-        129,
-        174,
-        92,
-        20,
-        43,
-        158
+        117,
+        77,
+        128,
+        79,
+        49,
+        168,
+        37,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "invariably",
-      "answer_letters": "INVARIABLY",
+      "answer": "remote",
+      "answer_letters": "REMOTE",
       "indices": [
-        170,
-        139,
-        83,
-        62,
-        25,
-        40,
-        97,
-        100,
-        133,
-        176
+        90,
+        125,
+        81,
+        87,
+        48,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "gotten",
-      "answer_letters": "GOTTEN",
+      "answer": "norwich",
+      "answer_letters": "NORWICH",
+      "indices": [
+        139,
+        141,
+        145,
+        177,
+        161,
+        68,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "identify",
+      "answer_letters": "IDENTIFY",
+      "indices": [
+        147,
+        46,
+        179,
+        99,
+        122,
+        20,
+        142,
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "guelph",
+      "answer_letters": "GUELPH",
       "indices": [
         172,
-        169,
-        57,
+        124,
+        24,
+        132,
+        65,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hitherto",
+      "answer_letters": "HITHERTO",
+      "indices": [
+        93,
+        170,
         3,
-        106,
-        29
+        61,
+        9,
+        25,
+        166,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        21,
+        104,
+        101,
+        102,
+        174,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "commute",
+      "answer_letters": "COMMUTE",
+      "indices": [
+        137,
+        43,
+        31,
+        119,
+        78,
+        57,
+        1
       ]
     },
     {
@@ -203,96 +245,54 @@
       "answer": "hawker",
       "answer_letters": "HAWKER",
       "indices": [
-        8,
-        113,
+        105,
+        67,
         42,
         6,
-        108,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-time",
-      "answer_letters": "TWOTIME",
-      "indices": [
-        122,
-        104,
-        5,
-        60,
-        161,
-        81,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "clifton",
-      "answer_letters": "CLIFTON",
-      "indices": [
-        68,
-        45,
-        84,
-        18,
-        48,
-        118,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hoover",
-      "answer_letters": "HOOVER",
-      "indices": [
-        105,
-        54,
-        58,
-        88,
-        120,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inferior",
-      "answer_letters": "INFERIOR",
-      "indices": [
-        28,
-        99,
-        143,
-        153,
-        96,
-        135,
-        35,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "league",
-      "answer_letters": "LEAGUE",
-      "indices": [
-        66,
-        179,
-        131,
-        168,
-        78,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deferred",
-      "answer_letters": "DEFERRED",
-      "indices": [
-        159,
         144,
-        71,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "interval",
+      "answer_letters": "INTERVAL",
+      "indices": [
+        135,
+        171,
+        92,
         85,
-        107,
-        79,
-        1,
-        46
+        123,
+        83,
+        138,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowered",
+      "answer_letters": "LOWERED",
+      "indices": [
+        45,
+        73,
+        23,
+        94,
+        180,
+        26,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "damien",
+      "answer_letters": "DAMIEN",
+      "indices": [
+        15,
+        62,
+        162,
+        98,
+        112,
+        164
       ]
     }
   ],

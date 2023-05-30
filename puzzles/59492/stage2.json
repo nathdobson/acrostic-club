@@ -6,15 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "career",
-      "answer_letters": "CAREER",
+      "answer": "coyotes",
+      "answer_letters": "COYOTES",
       "indices": [
         92,
-        144,
-        113,
-        23,
-        18,
-        59
+        117,
+        163,
+        53,
+        122,
+        80,
+        127
       ]
     },
     {
@@ -22,197 +23,198 @@
       "answer": "yorker",
       "answer_letters": "YORKER",
       "indices": [
-        147,
-        98,
-        46,
-        39,
-        60,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "notice",
-      "answer_letters": "NOTICE",
-      "indices": [
-        66,
-        9,
-        62,
-        106,
-        71,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tomato",
-      "answer_letters": "TOMATO",
-      "indices": [
-        122,
-        57,
-        12,
-        139,
-        95,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hooker",
-      "answer_letters": "HOOKER",
-      "indices": [
-        137,
+        85,
         109,
-        21,
-        25,
-        94,
-        76
+        113,
+        6,
+        45,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "islamist",
-      "answer_letters": "ISLAMIST",
+      "answer": "noting",
+      "answer_letters": "NOTING",
       "indices": [
-        142,
-        100,
-        145,
-        38,
-        79,
-        42,
-        90,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "admitting",
-      "answer_letters": "ADMITTING",
-      "indices": [
-        112,
-        111,
-        22,
-        65,
-        153,
-        82,
-        167,
-        110,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "honorary",
-      "answer_letters": "HONORARY",
-      "indices": [
-        128,
-        117,
         5,
-        86,
-        141,
-        50,
-        63,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anybody",
-      "answer_letters": "ANYBODY",
-      "indices": [
-        132,
-        73,
-        8,
-        17,
         83,
-        28,
-        116
+        158,
+        106,
+        27,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "nativity",
-      "answer_letters": "NATIVITY",
+      "answer": "territory",
+      "answer_letters": "TERRITORY",
       "indices": [
-        173,
-        172,
-        158,
-        0,
-        166,
-        108,
+        15,
+        104,
+        46,
+        54,
+        26,
         43,
+        86,
+        157,
         64
       ]
     },
     {
       "clue": null,
-      "answer": "devote",
-      "answer_letters": "DEVOTE",
+      "answer": "healthcare",
+      "answer_letters": "HEALTHCARE",
       "indices": [
-        160,
-        125,
-        74,
-        150,
-        48,
+        154,
+        18,
+        50,
+        145,
+        2,
+        44,
+        71,
+        172,
+        88,
         91
       ]
     },
     {
       "clue": null,
-      "answer": "ulster",
-      "answer_letters": "ULSTER",
+      "answer": "intake",
+      "answer_letters": "INTAKE",
       "indices": [
-        151,
-        146,
-        127,
-        77,
-        75,
-        99
+        142,
+        173,
+        140,
+        38,
+        25,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "nonetheless",
-      "answer_letters": "NONETHELESS",
+      "answer": "atrium",
+      "answer_letters": "ATRIUM",
       "indices": [
-        27,
+        132,
+        77,
+        63,
+        108,
+        87,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hosting",
+      "answer_letters": "HOSTING",
+      "indices": [
+        3,
         30,
-        114,
-        101,
-        51,
-        49,
-        41,
-        171,
-        80,
         20,
+        48,
+        65,
+        114,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "armistice",
+      "answer_letters": "ARMISTICE",
+      "indices": [
+        156,
+        99,
+        79,
+        4,
+        100,
+        62,
+        42,
+        143,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "novels",
+      "answer_letters": "NOVELS",
+      "indices": [
+        73,
+        70,
+        166,
+        37,
+        105,
         134
       ]
     },
     {
       "clue": null,
-      "answer": "eighty",
-      "answer_letters": "EIGHTY",
+      "answer": "dorothy",
+      "answer_letters": "DOROTHY",
       "indices": [
-        165,
-        4,
-        67,
-        44,
+        160,
+        57,
+        36,
+        9,
         69,
-        85
+        49,
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "amherst",
-      "answer_letters": "AMHERST",
+      "answer": "undrafted",
+      "answer_letters": "UNDRAFTED",
       "indices": [
-        156,
-        124,
-        3,
-        138,
-        88,
+        118,
+        66,
+        111,
+        103,
+        139,
+        35,
+        153,
+        94,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikolay",
+      "answer_letters": "NIKOLAY",
+      "indices": [
+        110,
+        167,
+        39,
+        121,
+        171,
+        144,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embryo",
+      "answer_letters": "EMBRYO",
+      "indices": [
+        159,
+        12,
+        17,
+        59,
+        133,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "autopsy",
+      "answer_letters": "AUTOPSY",
+      "indices": [
+        33,
+        13,
+        95,
+        21,
+        170,
         131,
-        15
+        149
       ]
     },
     {
@@ -221,69 +223,67 @@
       "answer_letters": "REFUGEES",
       "indices": [
         93,
-        159,
-        35,
-        118,
-        120,
-        37,
-        45,
+        75,
+        31,
+        151,
+        107,
+        138,
+        41,
         14
       ]
     },
     {
       "clue": null,
-      "answer": "two-year",
-      "answer_letters": "TWOYEAR",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
-        140,
-        155,
-        53,
-        163,
-        129,
-        33,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hickory",
-      "answer_letters": "HICKORY",
-      "indices": [
-        154,
-        26,
-        143,
-        6,
-        121,
-        54,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lumpur",
-      "answer_letters": "LUMPUR",
-      "indices": [
-        168,
-        10,
-        162,
-        170,
-        58,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
-      "indices": [
-        56,
-        70,
-        13,
-        2,
+        82,
         97,
-        31,
-        87,
-        105
+        129,
+        56,
+        74,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "helium",
+      "answer_letters": "HELIUM",
+      "indices": [
+        137,
+        101,
+        168,
+        0,
+        58,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
+      "indices": [
+        146,
+        150,
+        155,
+        23,
+        90,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yarmouth",
+      "answer_letters": "YARMOUTH",
+      "indices": [
+        8,
+        112,
+        76,
+        22,
+        72,
+        10,
+        51,
+        128
       ]
     }
   ],

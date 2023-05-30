@@ -6,44 +6,42 @@
   "clues": [
     {
       "clue": null,
-      "answer": "bolshevik",
-      "answer_letters": "BOLSHEVIK",
+      "answer": "beauty",
+      "answer_letters": "BEAUTY",
       "indices": [
-        133,
-        1,
-        68,
-        70,
-        31,
-        130,
+        178,
+        138,
+        55,
+        83,
+        152,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remove",
+      "answer_letters": "REMOVE",
+      "indices": [
+        24,
+        39,
+        16,
+        151,
         38,
-        32,
-        111
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "robbed",
-      "answer_letters": "ROBBED",
-      "indices": [
-        2,
-        114,
-        26,
-        27,
-        126,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
       "indices": [
         162,
-        77,
-        115,
-        101,
-        171,
-        91
+        123,
+        95,
+        122,
+        18,
+        26,
+        130
       ]
     },
     {
@@ -51,236 +49,238 @@
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
-        17,
-        76,
-        175,
-        89,
-        7,
-        59,
-        158,
+        167,
+        56,
+        169,
+        36,
+        141,
+        25,
+        9,
         42
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
       "indices": [
-        150,
-        20,
-        9,
-        155,
-        107,
-        35
+        168,
+        28,
+        134,
+        160,
+        22,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "methyl",
-      "answer_letters": "METHYL",
+      "answer": "method",
+      "answer_letters": "METHOD",
       "indices": [
         57,
-        14,
-        127,
-        73,
-        113,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lothian",
-      "answer_letters": "LOTHIAN",
-      "indices": [
-        6,
-        123,
-        71,
-        117,
-        105,
-        69,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italian",
-      "answer_letters": "ITALIAN",
-      "indices": [
-        109,
-        122,
-        118,
-        56,
-        172,
-        86,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tomato",
-      "answer_letters": "TOMATO",
-      "indices": [
-        94,
-        78,
-        13,
-        55,
-        152,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
-      "indices": [
-        0,
-        103,
-        83,
-        140,
-        50,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        62,
-        93,
-        37,
-        147,
-        167,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nouveau",
-      "answer_letters": "NOUVEAU",
-      "indices": [
-        110,
-        163,
-        164,
-        119,
         97,
-        65,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "temperate",
-      "answer_letters": "TEMPERATE",
-      "indices": [
         136,
-        43,
-        16,
-        84,
-        134,
-        24,
-        4,
-        87,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hooked",
-      "answer_letters": "HOOKED",
-      "indices": [
-        144,
-        176,
+        108,
         159,
-        79,
-        102,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embedded",
-      "answer_letters": "EMBEDDED",
-      "indices": [
-        120,
-        173,
-        178,
-        22,
-        160,
-        29,
-        156,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stunned",
-      "answer_letters": "STUNNED",
-      "indices": [
-        52,
-        11,
-        95,
-        48,
-        168,
-        179,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "whitish",
-      "answer_letters": "WHITISH",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
-        166,
-        108,
-        12,
-        99,
+        6,
+        43,
+        117,
         51,
+        140,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italia",
+      "answer_letters": "ITALIA",
+      "indices": [
+        62,
+        11,
+        65,
+        125,
+        105,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        87,
+        31,
+        78,
+        59,
+        158,
+        89,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "festivals",
+      "answer_letters": "FESTIVALS",
+      "indices": [
+        0,
+        120,
+        70,
+        107,
+        147,
+        119,
+        4,
+        76,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "imposed",
+      "answer_letters": "IMPOSED",
+      "indices": [
+        172,
+        173,
+        54,
+        176,
         33,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outline",
-      "answer_letters": "OUTLINE",
-      "indices": [
-        151,
-        25,
-        169,
-        63,
-        90,
-        98,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reacted",
-      "answer_letters": "REACTED",
-      "indices": [
-        19,
-        74,
-        44,
-        21,
-        61,
-        80,
+        156,
         142
       ]
     },
     {
       "clue": null,
-      "answer": "deputies",
-      "answer_letters": "DEPUTIES",
+      "answer": "notation",
+      "answer_letters": "NOTATION",
       "indices": [
-        40,
-        28,
-        54,
-        131,
+        48,
+        163,
+        154,
+        44,
         66,
+        20,
+        7,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tahiti",
+      "answer_letters": "TAHITI",
+      "indices": [
+        61,
+        118,
+        50,
         47,
-        39,
-        148
+        127,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "haunted",
+      "answer_letters": "HAUNTED",
+      "indices": [
+        155,
+        69,
+        164,
+        60,
+        94,
+        126,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embarked",
+      "answer_letters": "EMBARKED",
+      "indices": [
+        74,
+        13,
+        133,
+        37,
+        2,
+        111,
+        14,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "spokane",
+      "answer_letters": "SPOKANE",
+      "indices": [
+        52,
+        84,
+        103,
+        79,
+        17,
+        110,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "website",
+      "answer_letters": "WEBSITE",
+      "indices": [
+        166,
+        102,
+        27,
+        91,
+        109,
+        101,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "onions",
+      "answer_letters": "ONIONS",
+      "indices": [
+        1,
+        8,
+        32,
+        77,
+        150,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rothschild",
+      "answer_letters": "ROTHSCHILD",
+      "indices": [
+        19,
+        114,
+        175,
+        171,
+        35,
+        21,
+        137,
+        12,
+        63,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        129,
+        131,
+        68,
+        115,
+        71,
+        144
       ]
     }
   ],

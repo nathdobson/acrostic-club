@@ -6,239 +6,75 @@
   "clues": [
     {
       "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         13,
-        143,
-        155,
-        1,
-        133,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emilio",
-      "answer_letters": "EMILIO",
-      "indices": [
-        156,
-        165,
-        92,
-        180,
-        27,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abolitionist",
-      "answer_letters": "ABOLITIONIST",
-      "indices": [
-        88,
-        73,
-        113,
-        25,
-        41,
-        56,
-        137,
-        179,
-        59,
-        104,
-        126,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nottinghamshire",
-      "answer_letters": "NOTTINGHAMSHIRE",
-      "indices": [
-        105,
-        178,
-        95,
-        75,
-        51,
-        45,
-        10,
-        149,
-        62,
-        125,
-        158,
-        34,
-        153,
-        154,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        175,
-        134,
-        120,
-        58,
-        70,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "o'clock",
-      "answer_letters": "OCLOCK",
-      "indices": [
-        35,
-        61,
-        52,
-        11,
-        42,
-        139
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        161,
-        162,
-        116,
-        103,
         39,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nowhere",
-      "answer_letters": "NOWHERE",
-      "indices": [
-        63,
-        142,
-        90,
-        43,
-        124,
-        130,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tactical",
-      "answer_letters": "TACTICAL",
-      "indices": [
-        145,
-        109,
-        48,
-        107,
-        69,
-        23,
-        152,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "zagreb",
-      "answer_letters": "ZAGREB",
-      "indices": [
-        54,
-        21,
-        93,
-        174,
-        150,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "danish",
-      "answer_letters": "DANISH",
-      "indices": [
-        99,
-        55,
-        18,
-        57,
-        81,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eastman",
-      "answer_letters": "EASTMAN",
-      "indices": [
-        131,
-        8,
-        65,
-        37,
-        114,
-        83,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnicity",
-      "answer_letters": "ETHNICITY",
-      "indices": [
-        91,
-        15,
-        102,
-        28,
-        5,
-        101,
         77,
-        33,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "posthumous",
-      "answer_letters": "POSTHUMOUS",
-      "indices": [
-        177,
-        167,
-        136,
-        2,
-        16,
-        66,
-        118,
-        86,
-        74,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawsuits",
-      "answer_letters": "LAWSUITS",
-      "indices": [
-        26,
-        24,
-        31,
-        128,
-        129,
-        80,
-        163,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yeshiva",
-      "answer_letters": "YESHIVA",
-      "indices": [
-        141,
-        119,
-        112,
+        93,
         108,
-        53,
-        68,
-        97
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eviction",
+      "answer_letters": "EVICTION",
+      "indices": [
+        124,
+        70,
+        80,
+        42,
+        107,
+        153,
+        167,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "airways",
+      "answer_letters": "AIRWAYS",
+      "indices": [
+        83,
+        32,
+        130,
+        90,
+        88,
+        3,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nationalist",
+      "answer_letters": "NATIONALIST",
+      "indices": [
+        138,
+        55,
+        78,
+        92,
+        146,
+        45,
+        8,
+        52,
+        41,
+        81,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kuwait",
+      "answer_letters": "KUWAIT",
+      "indices": [
+        139,
+        129,
+        31,
+        170,
+        49,
+        133
       ]
     },
     {
@@ -246,41 +82,205 @@
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
-        12,
+        11,
         36,
-        148,
+        95,
         168,
-        32,
-        78
+        5,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "dagger",
-      "answer_letters": "DAGGER",
+      "answer": "overhaul",
+      "answer_letters": "OVERHAUL",
+      "indices": [
+        142,
+        50,
+        131,
+        174,
+        16,
+        173,
+        143,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neolithic",
+      "answer_letters": "NEOLITHIC",
+      "indices": [
+        63,
+        91,
+        58,
+        180,
+        51,
+        33,
+        40,
+        53,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takahashi",
+      "answer_letters": "TAKAHASHI",
+      "indices": [
+        110,
+        24,
+        175,
+        21,
+        34,
+        152,
+        157,
+        43,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "zambia",
+      "answer_letters": "ZAMBIA",
+      "indices": [
+        54,
+        103,
+        125,
+        73,
+        137,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doncaster",
+      "answer_letters": "DONCASTER",
+      "indices": [
+        99,
+        178,
+        59,
+        23,
+        109,
+        112,
+        145,
+        71,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "economists",
+      "answer_letters": "ECONOMISTS",
+      "indices": [
+        115,
+        61,
+        113,
+        98,
+        161,
+        118,
+        117,
+        85,
+        2,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emulate",
+      "answer_letters": "EMULATE",
+      "indices": [
+        156,
+        165,
+        66,
+        26,
+        97,
+        162,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
+      "indices": [
+        177,
+        149,
+        134,
+        163,
+        164,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "logistics",
+      "answer_letters": "LOGISTICS",
+      "indices": [
+        25,
+        12,
+        29,
+        27,
+        158,
+        116,
+        104,
+        48,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        141,
+        35,
+        74,
+        37,
+        102,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oversight",
+      "answer_letters": "OVERSIGHT",
+      "indices": [
+        179,
+        68,
+        150,
+        67,
+        128,
+        57,
+        19,
+        94,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "demons",
+      "answer_letters": "DEMONS",
       "indices": [
         0,
-        173,
-        19,
-        29,
         123,
-        67
+        114,
+        86,
+        28,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "divisions",
-      "answer_letters": "DIVISIONS",
+      "answer": "doubling",
+      "answer_letters": "DOUBLING",
       "indices": [
         172,
-        117,
-        50,
-        49,
-        6,
+        46,
+        1,
+        160,
+        84,
         17,
-        164,
-        98,
-        157
+        18,
+        10
       ]
     }
   ],

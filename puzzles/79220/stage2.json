@@ -6,30 +6,98 @@
   "clues": [
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "illicit",
+      "answer_letters": "ILLICIT",
       "indices": [
-        95,
-        157,
-        38,
+        134,
+        91,
+        92,
         20,
-        178,
-        162
+        71,
+        42,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "nicholls",
-      "answer_letters": "NICHOLLS",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
       "indices": [
-        130,
-        0,
-        71,
-        24,
-        105,
-        77,
-        64,
-        53
+        27,
+        28,
+        103,
+        8,
+        58,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "galway",
+      "answer_letters": "GALWAY",
+      "indices": [
+        161,
+        129,
+        2,
+        106,
+        50,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
+      "indices": [
+        164,
+        144,
+        154,
+        37,
+        172,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bethel",
+      "answer_letters": "BETHEL",
+      "indices": [
+        176,
+        155,
+        23,
+        62,
+        109,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "olivier",
+      "answer_letters": "OLIVIER",
+      "indices": [
+        43,
+        35,
+        65,
+        41,
+        116,
+        45,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhodesian",
+      "answer_letters": "RHODESIAN",
+      "indices": [
+        165,
+        59,
+        63,
+        131,
+        66,
+        146,
+        76,
+        138,
+        46
       ]
     },
     {
@@ -38,245 +106,90 @@
       "answer_letters": "GILLES",
       "indices": [
         29,
-        42,
-        140,
-        136,
-        177,
-        97
+        14,
+        148,
+        77,
+        166,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "eldest",
-      "answer_letters": "ELDEST",
-      "indices": [
-        66,
-        81,
-        52,
-        172,
-        127,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ballast",
-      "answer_letters": "BALLAST",
+      "answer": "births",
+      "answer_letters": "BIRTHS",
       "indices": [
         108,
-        138,
-        91,
-        114,
-        12,
-        74,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "otherwise",
-      "answer_letters": "OTHERWISE",
-      "indices": [
-        5,
-        47,
-        30,
-        45,
+        170,
         104,
-        4,
-        112,
-        67,
-        155
+        151,
+        30,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "real-life",
-      "answer_letters": "REALLIFE",
+      "answer": "allies",
+      "answer_letters": "ALLIES",
       "indices": [
-        165,
-        166,
-        90,
-        100,
-        139,
-        99,
-        149,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guilty",
-      "answer_letters": "GUILTY",
-      "indices": [
-        103,
-        160,
-        33,
-        94,
-        68,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bethel",
-      "answer_letters": "BETHEL",
-      "indices": [
-        154,
-        147,
-        23,
-        8,
-        109,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amanda",
-      "answer_letters": "AMANDA",
-      "indices": [
-        50,
-        15,
         174,
-        56,
-        167,
-        159
+        169,
+        17,
+        0,
+        124,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "climbs",
-      "answer_letters": "CLIMBS",
+      "answer": "caliph",
+      "answer_letters": "CALIPH",
       "indices": [
         80,
-        92,
-        14,
-        144,
-        176,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "highly",
-      "answer_letters": "HIGHLY",
-      "indices": [
-        59,
-        65,
-        161,
-        49,
-        34,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "murphy",
-      "answer_letters": "MURPHY",
-      "indices": [
-        119,
-        82,
-        6,
+        90,
+        139,
+        99,
         10,
-        85,
-        120
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "athlete",
-      "answer_letters": "ATHLETE",
+      "answer": "hostile",
+      "answer_letters": "HOSTILE",
       "indices": [
-        129,
-        83,
-        62,
-        169,
-        96,
-        58,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        21,
-        164,
-        133,
-        163,
-        72,
-        106,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novelist",
-      "answer_letters": "NOVELIST",
-      "indices": [
-        73,
+        162,
         141,
-        41,
-        60,
-        78,
-        76,
-        146,
-        180
+        18,
+        88,
+        112,
+        64,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "millwall",
-      "answer_letters": "MILLWALL",
+      "answer": "mellon",
+      "answer_letters": "MELLON",
       "indices": [
-        126,
-        70,
+        15,
+        177,
         135,
-        101,
-        142,
-        16,
-        2,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arnold",
-      "answer_letters": "ARNOLD",
-      "indices": [
-        113,
-        123,
-        27,
-        43,
-        17,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "london",
-      "answer_letters": "LONDON",
-      "indices": [
-        35,
-        63,
-        51,
-        122,
+        78,
         152,
-        117
+        56
       ]
     },
     {
       "clue": null,
-      "answer": "illicit",
-      "answer_letters": "ILLICIT",
+      "answer": "always",
+      "answer_letters": "ALWAYS",
       "indices": [
-        170,
-        37,
-        44,
-        134,
-        84,
-        28,
-        88
+        16,
+        114,
+        142,
+        87,
+        120,
+        179
       ]
     },
     {
@@ -284,25 +197,112 @@
       "answer": "nikola",
       "answer_letters": "NIKOLA",
       "indices": [
-        13,
-        116,
+        73,
+        33,
         171,
-        55,
-        148,
-        125
+        5,
+        81,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "assist",
-      "answer_letters": "ASSIST",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
-        87,
-        110,
-        18,
+        130,
+        25,
+        4,
+        163,
+        72,
+        133,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "multitude",
+      "answer_letters": "MULTITUDE",
+      "indices": [
+        119,
+        160,
+        136,
+        47,
         9,
-        179,
-        151
+        180,
+        82,
+        122,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "all-state",
+      "answer_letters": "ALLSTATE",
+      "indices": [
+        113,
+        140,
+        158,
+        97,
+        111,
+        12,
+        83,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lastly",
+      "answer_letters": "LASTLY",
+      "indices": [
+        101,
+        178,
+        127,
+        31,
+        100,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inland",
+      "answer_letters": "INLAND",
+      "indices": [
+        95,
+        21,
+        94,
+        125,
+        117,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nicholls",
+      "answer_letters": "NICHOLLS",
+      "indices": [
+        51,
+        70,
+        84,
+        49,
+        55,
+        1,
+        44,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ashford",
+      "answer_letters": "ASHFORD",
+      "indices": [
+        159,
+        7,
+        85,
+        149,
+        105,
+        6,
+        167
       ]
     }
   ],

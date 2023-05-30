@@ -6,205 +6,45 @@
   "clues": [
     {
       "clue": null,
-      "answer": "enjoys",
-      "answer_letters": "ENJOYS",
+      "answer": "emphasized",
+      "answer_letters": "EMPHASIZED",
       "indices": [
-        152,
-        162,
-        136,
-        154,
-        134,
-        176
+        113,
+        172,
+        126,
+        109,
+        35,
+        140,
+        30,
+        36,
+        110,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "viewing",
-      "answer_letters": "VIEWING",
+      "answer": "verses",
+      "answer_letters": "VERSES",
       "indices": [
         112,
-        16,
-        148,
-        104,
-        94,
-        85,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ambush",
-      "answer_letters": "AMBUSH",
-      "indices": [
-        70,
-        34,
-        147,
-        101,
-        140,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nasser",
-      "answer_letters": "NASSER",
-      "indices": [
-        155,
-        173,
-        17,
-        128,
-        50,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
-      "indices": [
-        86,
-        46,
-        150,
-        124,
-        133,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endings",
-      "answer_letters": "ENDINGS",
-      "indices": [
-        79,
-        175,
-        75,
-        161,
-        107,
-        7,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lothian",
-      "answer_letters": "LOTHIAN",
-      "indices": [
-        144,
-        12,
-        96,
-        92,
-        37,
-        74,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabits",
-      "answer_letters": "INHABITS",
-      "indices": [
-        174,
-        38,
-        29,
-        33,
-        19,
-        30,
-        159,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shafts",
-      "answer_letters": "SHAFTS",
-      "indices": [
-        102,
-        160,
-        127,
-        47,
-        82,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thanks",
-      "answer_letters": "THANKS",
-      "indices": [
-        123,
-        66,
-        2,
-        89,
-        4,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "josiah",
-      "answer_letters": "JOSIAH",
-      "indices": [
-        98,
-        84,
-        100,
-        58,
-        116,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
-      "indices": [
-        21,
-        43,
-        11,
-        5,
-        15,
-        67,
+        137,
         83,
-        99
+        5,
+        171,
+        61
       ]
     },
     {
       "clue": null,
-      "answer": "rested",
-      "answer_letters": "RESTED",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
       "indices": [
-        170,
-        76,
-        138,
-        168,
-        120,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "durham",
-      "answer_letters": "DURHAM",
-      "indices": [
-        9,
-        139,
-        13,
-        151,
-        25,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amazing",
-      "answer_letters": "AMAZING",
-      "indices": [
-        35,
-        172,
-        167,
-        36,
-        42,
-        51,
-        41
+        133,
+        47,
+        7,
+        124,
+        111,
+        117
       ]
     },
     {
@@ -212,86 +52,246 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        117,
-        53,
+        114,
+        58,
         55,
-        69,
-        44,
-        61
+        66,
+        165,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "whitish",
-      "answer_letters": "WHITISH",
+      "answer": "goodbye",
+      "answer_letters": "GOODBYE",
+      "indices": [
+        39,
+        22,
+        62,
+        75,
+        147,
+        134,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethnic",
+      "answer_letters": "ETHNIC",
+      "indices": [
+        76,
+        0,
+        92,
+        26,
+        53,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "larson",
+      "answer_letters": "LARSON",
+      "indices": [
+        145,
+        116,
+        170,
+        81,
+        21,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhabitants",
+      "answer_letters": "INHABITANTS",
+      "indices": [
+        42,
+        63,
+        151,
+        121,
+        19,
+        161,
+        96,
+        74,
+        54,
+        159,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
+      "indices": [
+        31,
+        69,
+        148,
+        16,
+        4,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "throne",
+      "answer_letters": "THRONE",
+      "indices": [
+        123,
+        29,
+        93,
+        8,
+        85,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "james's",
+      "answer_letters": "JAMESS",
+      "indices": [
+        136,
+        2,
+        34,
+        106,
+        49,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        154,
+        175,
+        99,
+        46,
+        43,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        122,
+        57,
+        157,
+        82,
+        105,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dawson",
+      "answer_letters": "DAWSON",
+      "indices": [
+        52,
+        131,
+        142,
+        95,
+        84,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adjoining",
+      "answer_letters": "ADJOINING",
+      "indices": [
+        25,
+        118,
+        98,
+        12,
+        174,
+        3,
+        88,
+        89,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "naming",
+      "answer_letters": "NAMING",
+      "indices": [
+        107,
+        70,
+        78,
+        94,
+        162,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "widows",
+      "answer_letters": "WIDOWS",
       "indices": [
         132,
-        105,
-        143,
-        0,
-        88,
-        31,
-        109
+        37,
+        9,
+        67,
+        65,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "entrenched",
-      "answer_letters": "ENTRENCHED",
+      "answer": "earth's",
+      "answer_letters": "EARTHS",
       "indices": [
-        110,
-        3,
-        165,
-        122,
-        113,
-        63,
-        91,
-        166,
-        106,
-        27
+        152,
+        127,
+        13,
+        168,
+        1,
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "lagoon",
-      "answer_letters": "LAGOON",
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
       "indices": [
-        156,
-        121,
-        39,
-        8,
-        22,
-        54
+        144,
+        167,
+        101,
+        163,
+        160,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "lowlands",
-      "answer_letters": "LOWLANDS",
+      "answer": "lawsuits",
+      "answer_letters": "LAWSUITS",
       "indices": [
         20,
-        62,
-        142,
-        145,
-        111,
-        26,
-        118,
-        95
+        173,
+        104,
+        138,
+        139,
+        143,
+        150,
+        129
       ]
     },
     {
       "clue": null,
-      "answer": "speedway",
-      "answer_letters": "SPEEDWAY",
+      "answer": "shetland",
+      "answer_letters": "SHETLAND",
       "indices": [
-        81,
-        126,
-        137,
-        171,
-        23,
-        65,
-        131,
-        157
+        128,
+        15,
+        79,
+        44,
+        156,
+        33,
+        51,
+        23
       ]
     }
   ],

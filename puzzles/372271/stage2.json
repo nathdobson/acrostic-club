@@ -9,38 +9,39 @@
       "answer": "spoken",
       "answer_letters": "SPOKEN",
       "indices": [
-        45,
+        148,
         42,
-        64,
-        75,
-        48,
+        36,
+        145,
+        9,
         35
       ]
     },
     {
       "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
+      "answer": "titans",
+      "answer_letters": "TITANS",
       "indices": [
-        97,
-        129,
-        50,
-        121,
-        84,
-        101
+        131,
+        73,
+        22,
+        182,
+        1,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
       "indices": [
-        99,
-        166,
-        19,
-        40,
-        80,
-        127
+        165,
+        110,
+        69,
+        154,
+        170,
+        103,
+        4
       ]
     },
     {
@@ -48,65 +49,66 @@
       "answer": "potato",
       "answer_letters": "POTATO",
       "indices": [
-        69,
+        155,
+        101,
+        118,
+        109,
+        162,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hampton",
+      "answer_letters": "HAMPTON",
+      "indices": [
+        98,
+        132,
+        47,
+        156,
+        112,
         172,
-        67,
-        29,
-        39,
-        16
+        130
       ]
     },
     {
       "clue": null,
-      "answer": "helmet",
-      "answer_letters": "HELMET",
+      "answer": "estates",
+      "answer_letters": "ESTATES",
       "indices": [
-        176,
-        177,
-        27,
-        5,
-        115,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "efforts",
-      "answer_letters": "EFFORTS",
-      "indices": [
-        108,
-        82,
-        95,
-        136,
-        179,
-        86,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newark",
-      "answer_letters": "NEWARK",
-      "indices": [
-        17,
-        134,
-        142,
+        28,
+        161,
+        107,
         43,
-        113,
-        11
+        67,
+        177,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
       "indices": [
-        114,
-        148,
-        126,
+        146,
+        168,
+        54,
+        88,
+        116,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
         151,
-        59,
-        153
+        17,
+        63,
+        129,
+        123,
+        147
       ]
     },
     {
@@ -114,193 +116,191 @@
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
-        143,
+        52,
         91,
-        157,
-        22,
-        175,
-        9,
-        13
+        12,
+        86,
+        7,
+        108,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "mondays",
-      "answer_letters": "MONDAYS",
+      "answer": "morally",
+      "answer_letters": "MORALLY",
       "indices": [
         139,
-        36,
-        31,
-        61,
+        16,
+        179,
         163,
-        164,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "equality",
-      "answer_letters": "EQUALITY",
-      "indices": [
-        124,
-        71,
-        169,
-        132,
-        57,
-        178,
-        102,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
-      "indices": [
-        77,
-        182,
-        1,
-        123,
-        165,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        68,
-        173,
-        137,
-        92,
-        74,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        30,
-        8,
-        140,
-        63,
-        103,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trumpet",
-      "answer_letters": "TRUMPET",
-      "indices": [
-        162,
-        83,
-        72,
-        25,
-        156,
-        104,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "weekday",
-      "answer_letters": "WEEKDAY",
-      "indices": [
-        181,
-        147,
-        23,
-        145,
-        33,
-        24,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
-      "indices": [
-        79,
-        112,
-        154,
+        158,
         76,
-        4,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        104,
+        95,
+        137,
+        99,
+        74,
+        39,
         149
       ]
     },
     {
       "clue": null,
-      "answer": "living",
-      "answer_letters": "LIVING",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
+        159,
+        23,
         56,
-        0,
-        128,
-        73,
-        60,
-        133
+        27,
+        84,
+        181
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "equity",
+      "answer_letters": "EQUITY",
       "indices": [
-        94,
-        161,
-        89,
-        144,
-        51,
-        109,
-        130
+        143,
+        71,
+        169,
+        178,
+        175,
+        183
       ]
     },
     {
       "clue": null,
-      "answer": "goodbye",
-      "answer_letters": "GOODBYE",
+      "answer": "reading",
+      "answer_letters": "READING",
       "indices": [
-        3,
-        88,
-        119,
-        116,
-        54,
-        183,
-        52
+        113,
+        115,
+        29,
+        61,
+        114,
+        31,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "hamilton",
-      "answer_letters": "HAMILTON",
+      "answer": "treasure",
+      "answer_letters": "TREASURE",
       "indices": [
-        98,
-        122,
-        47,
-        12,
-        158,
-        7,
-        168,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "transept",
-      "answer_letters": "TRANSEPT",
-      "indices": [
-        107,
+        97,
+        30,
+        48,
+        24,
+        14,
+        72,
         105,
-        55,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whitman",
+      "answer_letters": "WHITMAN",
+      "indices": [
+        142,
+        176,
+        94,
+        37,
+        25,
+        122,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invaded",
+      "answer_letters": "INVADED",
+      "indices": [
+        157,
         85,
-        44,
-        28,
-        155,
-        118
+        128,
+        59,
+        127,
+        124,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lakshmi",
+      "answer_letters": "LAKSHMI",
+      "indices": [
+        57,
+        55,
+        75,
+        66,
+        51,
+        5,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inform",
+      "answer_letters": "INFORM",
+      "indices": [
+        79,
+        60,
+        173,
+        64,
+        83,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
+      "indices": [
+        133,
+        153,
+        32,
+        102,
+        121,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
+      "indices": [
+        8,
+        134,
+        140,
+        33,
+        144,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        50,
+        126,
+        11,
+        68,
+        119,
+        89,
+        82
       ]
     }
   ],

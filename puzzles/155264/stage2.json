@@ -6,57 +6,103 @@
   "clues": [
     {
       "clue": null,
-      "answer": "grabbed",
-      "answer_letters": "GRABBED",
+      "answer": "gothenburg",
+      "answer_letters": "GOTHENBURG",
       "indices": [
-        90,
+        35,
+        42,
+        167,
+        60,
+        105,
+        6,
+        170,
+        144,
         21,
-        16,
-        139,
-        129,
-        28,
-        18
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "kenneth",
-      "answer_letters": "KENNETH",
+      "answer": "keeping",
+      "answer_letters": "KEEPING",
       "indices": [
         66,
-        105,
+        79,
+        156,
+        98,
+        92,
         39,
-        41,
-        86,
-        146,
-        27
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "cantata",
-      "answer_letters": "CANTATA",
+      "answer": "cannon",
+      "answer_letters": "CANNON",
       "indices": [
-        135,
+        104,
         50,
-        137,
-        153,
-        91,
-        112,
-        81
+        108,
+        70,
+        12,
+        55
       ]
     },
     {
       "clue": null,
-      "answer": "heaven",
-      "answer_letters": "HEAVEN",
+      "answer": "havana",
+      "answer_letters": "HAVANA",
       "indices": [
-        119,
+        27,
+        69,
+        78,
+        65,
+        17,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everything",
+      "answer_letters": "EVERYTHING",
+      "indices": [
+        61,
+        23,
         140,
-        89,
-        51,
-        4,
-        177
+        76,
+        57,
+        59,
+        113,
+        103,
+        41,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stabbed",
+      "answer_letters": "STABBED",
+      "indices": [
+        145,
+        165,
+        22,
+        45,
+        164,
+        147,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        26,
+        118,
+        168,
+        63,
+        16,
+        110
       ]
     },
     {
@@ -64,138 +110,12 @@
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
-        156,
+        52,
         159,
         1,
-        24,
-        101,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stirling",
-      "answer_letters": "STIRLING",
-      "indices": [
-        30,
-        142,
-        103,
-        11,
-        56,
-        95,
-        70,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-day",
-      "answer_letters": "TWODAY",
-      "indices": [
-        87,
-        63,
-        162,
-        83,
-        38,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eugene",
-      "answer_letters": "EUGENE",
-      "indices": [
-        116,
-        144,
-        14,
-        79,
-        124,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "recycling",
-      "answer_letters": "RECYCLING",
-      "indices": [
-        130,
-        171,
-        37,
-        57,
-        104,
-        109,
-        92,
-        6,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-part",
-      "answer_letters": "TWOPART",
-      "indices": [
-        43,
-        118,
-        33,
-        98,
-        123,
-        76,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "osborne",
-      "answer_letters": "OSBORNE",
-      "indices": [
-        107,
-        115,
-        45,
-        120,
-        99,
-        82,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
-      "indices": [
-        151,
-        0,
-        126,
-        176,
-        161,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hobart",
-      "answer_letters": "HOBART",
-      "indices": [
-        113,
-        168,
-        3,
-        100,
-        32,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evacuate",
-      "answer_letters": "EVACUATE",
-      "indices": [
         127,
-        78,
-        136,
-        122,
-        163,
-        22,
-        10,
-        73
+        68,
+        146
       ]
     },
     {
@@ -203,87 +123,167 @@
       "answer": "robbins",
       "answer_letters": "ROBBINS",
       "indices": [
-        49,
+        11,
         54,
-        72,
-        170,
-        154,
-        93,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "environments",
-      "answer_letters": "ENVIRONMENTS",
-      "indices": [
-        147,
-        108,
-        23,
-        5,
-        143,
-        42,
-        55,
-        155,
-        133,
-        13,
-        102,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tobago",
-      "answer_letters": "TOBAGO",
-      "indices": [
-        26,
-        158,
+        48,
         20,
-        69,
-        35,
-        114
+        95,
+        177,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "invented",
-      "answer_letters": "INVENTED",
+      "answer": "trenton",
+      "answer_letters": "TRENTON",
       "indices": [
-        150,
-        17,
-        132,
-        64,
+        102,
+        143,
+        28,
+        137,
+        174,
+        0,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "observed",
+      "answer_letters": "OBSERVED",
+      "indices": [
+        33,
+        72,
+        173,
+        133,
+        32,
+        51,
+        86,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nagoya",
+      "answer_letters": "NAGOYA",
+      "indices": [
+        34,
+        131,
+        178,
+        114,
+        85,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hobart",
+      "answer_letters": "HOBART",
+      "indices": [
+        119,
+        158,
+        129,
+        81,
+        175,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "element",
+      "answer_letters": "ELEMENT",
+      "indices": [
+        116,
+        56,
+        24,
+        155,
+        171,
         96,
-        165,
-        52,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rabbit",
+      "answer_letters": "RABBIT",
+      "indices": [
+        49,
+        100,
+        139,
+        126,
+        154,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enabled",
+      "answer_letters": "ENABLED",
+      "indices": [
+        64,
+        13,
+        123,
+        3,
+        109,
+        73,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "carbon",
-      "answer_letters": "CARBON",
+      "answer": "tobacco",
+      "answer_letters": "TOBACCO",
       "indices": [
-        68,
-        77,
-        175,
+        153,
+        120,
         75,
-        12,
-        34
+        91,
+        122,
+        101,
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "sabbath",
-      "answer_letters": "SABBATH",
+      "answer": "irvine",
+      "answer_letters": "IRVINE",
       "indices": [
-        173,
-        131,
-        48,
-        164,
-        65,
-        59,
-        60
+        150,
+        130,
+        132,
+        5,
+        82,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "constructed",
+      "answer_letters": "CONSTRUCTED",
+      "indices": [
+        135,
+        176,
+        124,
+        9,
+        10,
+        99,
+        163,
+        37,
+        31,
+        46,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sonata",
+      "answer_letters": "SONATA",
+      "indices": [
+        30,
+        162,
+        151,
+        89,
+        112,
+        136
       ]
     }
   ],

@@ -6,103 +6,208 @@
   "clues": [
     {
       "clue": null,
-      "answer": "alzheimer's",
-      "answer_letters": "ALZHEIMERS",
+      "answer": "analyzed",
+      "answer_letters": "ANALYZED",
       "indices": [
         19,
-        1,
-        136,
-        114,
-        117,
-        15,
-        164,
-        190,
-        162,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newsletter",
-      "answer_letters": "NEWSLETTER",
-      "indices": [
-        109,
-        125,
-        91,
-        152,
-        17,
-        73,
-        75,
-        178,
-        24,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nightly",
-      "answer_letters": "NIGHTLY",
-      "indices": [
-        168,
-        43,
-        169,
-        160,
-        189,
-        2,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aforementioned",
-      "answer_letters": "AFOREMENTIONED",
-      "indices": [
-        0,
-        34,
-        108,
-        180,
-        82,
-        88,
-        121,
         26,
-        95,
-        124,
-        119,
-        64,
-        32,
-        83
+        165,
+        138,
+        89,
+        136,
+        190,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "bucket",
-      "answer_letters": "BUCKET",
+      "answer": "nightmare",
+      "answer_letters": "NIGHTMARE",
+      "indices": [
+        69,
+        93,
+        79,
+        150,
+        103,
+        88,
+        132,
+        58,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        74,
+        73,
+        175,
+        47,
+        24,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "agreements",
+      "answer_letters": "AGREEMENTS",
+      "indices": [
+        52,
+        169,
+        180,
+        59,
+        100,
+        146,
+        125,
+        64,
+        148,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bethlehem",
+      "answer_letters": "BETHLEHEM",
       "indices": [
         105,
-        135,
-        67,
-        166,
-        161,
-        154
+        117,
+        75,
+        5,
+        107,
+        151,
+        51,
+        188,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "displacement",
-      "answer_letters": "DISPLACEMENT",
+      "answer": "domestically",
+      "answer_letters": "DOMESTICALLY",
       "indices": [
-        65,
+        22,
+        158,
+        39,
+        121,
+        42,
+        189,
         48,
-        56,
-        134,
-        97,
+        126,
         147,
-        183,
-        151,
+        97,
+        17,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "optimistic",
+      "answer_letters": "OPTIMISTIC",
+      "indices": [
+        119,
+        123,
+        159,
+        124,
+        37,
+        6,
+        152,
+        154,
+        98,
+        183
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emphasized",
+      "answer_letters": "EMPHASIZED",
+      "indices": [
+        45,
         29,
-        139,
-        120,
-        85
+        186,
+        114,
+        63,
+        56,
+        176,
+        137,
+        161,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "legitimate",
+      "answer_letters": "LEGITIMATE",
+      "indices": [
+        16,
+        156,
+        110,
+        71,
+        141,
+        167,
+        164,
+        0,
+        144,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outspoken",
+      "answer_letters": "OUTSPOKEN",
+      "indices": [
+        23,
+        135,
+        95,
+        111,
+        134,
+        30,
+        99,
+        181,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sticky",
+      "answer_letters": "STICKY",
+      "indices": [
+        49,
+        4,
+        15,
+        149,
+        166,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "touched",
+      "answer_letters": "TOUCHED",
+      "indices": [
+        85,
+        184,
+        81,
+        177,
+        160,
+        127,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "foothills",
+      "answer_letters": "FOOTHILLS",
+      "indices": [
+        70,
+        108,
+        86,
+        27,
+        155,
+        43,
+        80,
+        187,
+        7
       ]
     },
     {
@@ -110,174 +215,69 @@
       "answer": "overwhelmed",
       "answer_letters": "OVERWHELMED",
       "indices": [
-        129,
-        31,
-        45,
-        58,
-        14,
-        155,
-        100,
-        16,
-        20,
-        156,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        59,
-        98,
-        79,
-        142,
-        113,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lafayette",
-      "answer_letters": "LAFAYETTE",
-      "indices": [
-        60,
-        92,
-        70,
-        143,
-        40,
-        115,
-        4,
-        148,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "optimized",
-      "answer_letters": "OPTIMIZED",
-      "indices": [
-        86,
-        186,
-        144,
-        93,
-        11,
-        167,
-        137,
-        127,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stockholm",
-      "answer_letters": "STOCKHOLM",
-      "indices": [
-        25,
-        141,
-        68,
-        177,
-        99,
-        172,
-        30,
-        76,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "three-time",
-      "answer_letters": "THREETIME",
-      "indices": [
-        103,
-        47,
-        35,
-        12,
-        188,
-        159,
-        102,
-        37,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "falmouth",
-      "answer_letters": "FALMOUTH",
-      "indices": [
-        130,
-        52,
-        187,
-        39,
-        184,
-        81,
-        27,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "olympiacos",
-      "answer_letters": "OLYMPIACOS",
-      "indices": [
-        23,
-        80,
-        89,
-        185,
-        123,
-        176,
-        165,
-        126,
-        158,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upheld",
-      "answer_letters": "UPHELD",
-      "indices": [
-        57,
-        175,
-        150,
-        106,
-        138,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nationality",
-      "answer_letters": "NATIONALITY",
-      "indices": [
-        53,
-        63,
-        171,
-        6,
         36,
-        69,
-        132,
-        107,
-        71,
-        9,
-        61
+        31,
+        139,
+        116,
+        91,
+        172,
+        173,
+        1,
+        20,
+        106,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "discussing",
-      "answer_letters": "DISCUSSING",
+      "answer": "ultimately",
+      "answer_letters": "ULTIMATELY",
       "indices": [
-        44,
-        10,
-        7,
-        149,
         179,
-        49,
-        111,
+        60,
+        171,
+        10,
+        11,
+        143,
+        113,
+        115,
+        2,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "north-central",
+      "answer_letters": "NORTHCENTRAL",
+      "indices": [
+        120,
+        68,
+        162,
+        178,
+        142,
+        67,
+        12,
+        53,
+        9,
+        35,
+        92,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "diffusion",
+      "answer_letters": "DIFFUSION",
+      "indices": [
+        83,
         18,
-        74,
-        110
+        34,
+        130,
+        57,
+        94,
+        102,
+        129,
+        109
       ]
     }
   ],

@@ -6,292 +6,236 @@
   "clues": [
     {
       "clue": null,
-      "answer": "bombings",
-      "answer_letters": "BOMBINGS",
+      "answer": "benito",
+      "answer_letters": "BENITO",
       "indices": [
         109,
-        107,
-        7,
+        103,
+        120,
+        164,
+        132,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "albion",
+      "answer_letters": "ALBION",
+      "indices": [
+        90,
+        174,
         163,
         37,
+        148,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nowhere",
+      "answer_letters": "NOWHERE",
+      "indices": [
+        10,
+        159,
+        0,
+        71,
+        153,
+        155,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ageing",
+      "answer_letters": "AGEING",
+      "indices": [
+        110,
+        121,
+        11,
+        97,
+        179,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "networks",
+      "answer_letters": "NETWORKS",
+      "indices": [
         3,
-        57,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "artillery",
-      "answer_letters": "ARTILLERY",
-      "indices": [
-        151,
-        66,
-        70,
-        42,
-        15,
-        99,
-        50,
-        104,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        61,
-        34,
-        35,
-        1,
+        72,
         13,
+        89,
+        9,
+        104,
+        54,
         23
       ]
     },
     {
       "clue": null,
-      "answer": "atkins",
-      "answer_letters": "ATKINS",
+      "answer": "authentic",
+      "answer_letters": "AUTHENTIC",
       "indices": [
-        143,
-        94,
-        54,
-        55,
-        86,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newbury",
-      "answer_letters": "NEWBURY",
-      "indices": [
-        181,
-        125,
-        96,
-        33,
-        21,
-        49,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arisen",
-      "answer_letters": "ARISEN",
-      "indices": [
-        53,
-        172,
-        29,
-        136,
-        2,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
-      "indices": [
-        63,
-        26,
-        59,
-        83,
-        160,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        115,
-        52,
+        151,
+        48,
         79,
-        75,
-        127,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "songwriter",
-      "answer_letters": "SONGWRITER",
-      "indices": [
-        157,
-        24,
-        10,
-        121,
-        134,
-        82,
-        175,
-        177,
-        81,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hygiene",
-      "answer_letters": "HYGIENE",
-      "indices": [
         142,
-        91,
-        182,
-        97,
-        101,
-        179,
-        72
+        62,
+        76,
+        27,
+        29,
+        111
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
-        166,
-        161,
-        90,
-        93,
-        128,
-        28
+        46,
+        83,
+        99,
+        15,
+        115,
+        134
       ]
     },
     {
       "clue": null,
-      "answer": "mickey",
-      "answer_letters": "MICKEY",
+      "answer": "overtime",
+      "answer_letters": "OVERTIME",
       "indices": [
-        73,
+        139,
+        144,
+        2,
+        172,
+        38,
         131,
-        111,
-        43,
-        14,
+        73,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "symbols",
+      "answer_letters": "SYMBOLS",
+      "indices": [
+        176,
+        63,
+        59,
+        33,
+        107,
+        41,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
+      "indices": [
+        28,
+        175,
+        35,
+        124,
+        127,
+        143,
         129
       ]
     },
     {
       "clue": null,
-      "answer": "one-time",
-      "answer_letters": "ONETIME",
+      "answer": "italy's",
+      "answer_letters": "ITALYS",
       "indices": [
-        6,
-        30,
-        44,
-        114,
-        162,
-        25,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tonight",
-      "answer_letters": "TONIGHT",
-      "indices": [
-        38,
-        47,
-        120,
-        164,
-        31,
-        124,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
-      "indices": [
-        9,
-        65,
-        170,
-        5,
-        118,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twelve",
-      "answer_letters": "TWELVE",
-      "indices": [
-        123,
-        89,
-        8,
-        98,
-        144,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        71,
-        178,
-        0,
-        180,
-        132,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        11,
-        56,
-        67,
-        140,
-        106,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "looked",
-      "answer_letters": "LOOKED",
-      "indices": [
+        34,
+        167,
+        75,
         165,
-        159,
-        148,
-        112,
-        156,
-        77
+        91,
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "absolutely",
-      "answer_letters": "ABSOLUTELY",
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
       "indices": [
-        110,
-        117,
-        84,
-        139,
-        41,
-        48,
-        150,
-        153,
-        16,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        152,
-        60,
-        176,
-        171,
+        68,
+        6,
+        123,
+        162,
         102,
-        87
+        156,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oyster",
+      "answer_letters": "OYSTER",
+      "indices": [
+        87,
+        19,
+        136,
+        94,
+        26,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tuning",
+      "answer_letters": "TUNING",
+      "indices": [
+        114,
+        21,
+        160,
+        42,
+        30,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfits",
+      "answer_letters": "OUTFITS",
+      "indices": [
+        24,
+        140,
+        147,
+        65,
+        55,
+        177,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thereof",
+      "answer_letters": "THEREOF",
+      "indices": [
+        52,
+        80,
+        81,
+        49,
+        125,
+        60,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hiking",
+      "answer_letters": "HIKING",
+      "indices": [
+        1,
+        180,
+        112,
+        93,
+        61,
+        106
       ]
     },
     {
@@ -299,12 +243,68 @@
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
-        103,
-        68,
+        44,
+        25,
         158,
-        174,
-        20,
+        16,
+        67,
         138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "linking",
+      "answer_letters": "LINKING",
+      "indices": [
+        98,
+        119,
+        86,
+        43,
+        166,
+        56,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awesome",
+      "answer_letters": "AWESOME",
+      "indices": [
+        128,
+        96,
+        118,
+        5,
+        171,
+        7,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "keyboard",
+      "answer_letters": "KEYBOARD",
+      "indices": [
+        152,
+        145,
+        168,
+        117,
+        47,
+        135,
+        66,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estate",
+      "answer_letters": "ESTATE",
+      "indices": [
+        101,
+        161,
+        150,
+        53,
+        70,
+        8
       ]
     }
   ],

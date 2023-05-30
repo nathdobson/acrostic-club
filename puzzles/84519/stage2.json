@@ -6,90 +6,144 @@
   "clues": [
     {
       "clue": null,
-      "answer": "onstage",
-      "answer_letters": "ONSTAGE",
+      "answer": "outside",
+      "answer_letters": "OUTSIDE",
       "indices": [
-        118,
-        189,
+        53,
+        119,
+        22,
         123,
-        159,
-        111,
-        97,
-        126
+        177,
+        109,
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         166,
-        58,
-        100,
-        85,
-        105,
-        10,
-        19
+        48,
+        11,
+        159,
+        165,
+        34
       ]
     },
     {
       "clue": null,
-      "answer": "seventh",
-      "answer_letters": "SEVENTH",
+      "answer": "sensitivity",
+      "answer_letters": "SENSITIVITY",
       "indices": [
-        64,
-        167,
-        125,
-        31,
-        112,
-        82,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlaw",
-      "answer_letters": "OUTLAW",
-      "indices": [
-        45,
-        68,
-        162,
-        186,
-        161,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nursing",
-      "answer_letters": "NURSING",
-      "indices": [
-        38,
-        133,
-        32,
-        176,
-        128,
-        63,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "subdivisions",
-      "answer_letters": "SUBDIVISIONS",
-      "indices": [
-        1,
-        54,
-        99,
-        113,
-        37,
-        30,
-        66,
-        140,
-        70,
-        78,
+        26,
+        175,
         16,
-        26
+        8,
+        115,
+        138,
+        84,
+        125,
+        14,
+        47,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obesity",
+      "answer_letters": "OBESITY",
+      "indices": [
+        4,
+        148,
+        167,
+        19,
+        155,
+        164,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norton",
+      "answer_letters": "NORTON",
+      "indices": [
+        189,
+        50,
+        49,
+        85,
+        118,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shutdown",
+      "answer_letters": "SHUTDOWN",
+      "indices": [
+        176,
+        81,
+        68,
+        154,
+        178,
+        71,
+        87,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cutting",
+      "answer_letters": "CUTTING",
+      "indices": [
+        117,
+        79,
+        42,
+        146,
+        37,
+        183,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        78,
+        15,
+        129,
+        88,
+        13,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trident",
+      "answer_letters": "TRIDENT",
+      "indices": [
+        153,
+        174,
+        145,
+        135,
+        29,
+        72,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        65,
+        105,
+        45,
+        133,
+        97,
+        91,
+        67
       ]
     },
     {
@@ -98,159 +152,102 @@
       "answer_letters": "CHOCTAW",
       "indices": [
         151,
-        160,
-        188,
-        61,
-        22,
-        141,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        71,
-        69,
-        76,
-        102,
-        13,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tightly",
-      "answer_letters": "TIGHTLY",
-      "indices": [
-        55,
-        115,
-        94,
-        48,
-        154,
-        120,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twentieth",
-      "answer_letters": "TWENTIETH",
-      "indices": [
-        67,
-        24,
-        143,
-        41,
-        153,
-        14,
-        59,
-        181,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "constituted",
-      "answer_letters": "CONSTITUTED",
-      "indices": [
-        117,
-        53,
-        183,
-        187,
-        42,
-        155,
-        47,
-        79,
-        15,
-        185,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anthony",
-      "answer_letters": "ANTHONY",
-      "indices": [
-        108,
-        180,
-        129,
-        91,
-        136,
-        156,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "resided",
-      "answer_letters": "RESIDED",
-      "indices": [
-        174,
-        40,
-        18,
-        95,
-        178,
-        17,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "daytona",
-      "answer_letters": "DAYTONA",
-      "indices": [
-        5,
-        92,
-        35,
-        138,
-        4,
-        137,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edition",
-      "answer_letters": "EDITION",
-      "indices": [
-        179,
-        169,
-        74,
-        164,
-        21,
+        58,
         62,
-        96
+        61,
+        104,
+        102,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "motivation",
-      "answer_letters": "MOTIVATION",
+      "answer": "advantage",
+      "answer_letters": "ADVANTAGE",
       "indices": [
-        34,
-        50,
-        39,
-        84,
-        142,
-        0,
+        168,
+        113,
+        30,
+        92,
+        93,
         44,
-        7,
-        132,
-        93
+        141,
+        157,
+        31
       ]
     },
     {
       "clue": null,
-      "answer": "patent",
-      "answer_letters": "PATENT",
+      "answer": "rowland",
+      "answer_letters": "ROWLAND",
+      "indices": [
+        106,
+        136,
+        51,
+        120,
+        161,
+        180,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "delegations",
+      "answer_letters": "DELEGATIONS",
+      "indices": [
+        169,
+        17,
+        186,
+        179,
+        94,
+        124,
+        76,
+        66,
+        132,
+        28,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
+        126,
+        63,
+        39,
+        70,
+        55,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "magnitude",
+      "answer_letters": "MAGNITUDE",
+      "indices": [
+        10,
+        111,
+        3,
+        96,
+        74,
+        82,
+        54,
+        5,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "punish",
+      "answer_letters": "PUNISH",
       "indices": [
         173,
-        88,
-        104,
-        107,
-        28,
-        57
+        152,
+        41,
+        184,
+        64,
+        160
       ]
     },
     {
@@ -258,41 +255,44 @@
       "answer": "inhibits",
       "answer_letters": "INHIBITS",
       "indices": [
-        145,
-        72,
-        165,
-        177,
-        148,
-        184,
-        146,
-        89
+        21,
+        137,
+        77,
+        7,
+        99,
+        95,
+        69,
+        1
       ]
     },
     {
       "clue": null,
-      "answer": "rugged",
-      "answer_letters": "RUGGED",
+      "answer": "renovate",
+      "answer_letters": "RENOVATE",
       "indices": [
-        49,
-        119,
-        3,
-        80,
-        175,
-        121
+        32,
+        59,
+        112,
+        188,
+        142,
+        0,
+        162,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "estuary",
-      "answer_letters": "ESTUARY",
+      "answer": "essayist",
+      "answer_letters": "ESSAYIST",
       "indices": [
-        29,
-        8,
-        65,
-        152,
+        185,
+        140,
+        187,
         25,
-        106,
-        131
+        131,
+        128,
+        18,
+        181
       ]
     }
   ],

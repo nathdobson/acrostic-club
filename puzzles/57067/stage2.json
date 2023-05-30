@@ -6,58 +6,59 @@
   "clues": [
     {
       "clue": null,
-      "answer": "monthly",
-      "answer_letters": "MONTHLY",
+      "answer": "matthias",
+      "answer_letters": "MATTHIAS",
       "indices": [
-        32,
-        155,
-        13,
-        173,
-        18,
-        23,
-        131
+        175,
+        19,
+        76,
+        84,
+        166,
+        128,
+        96,
+        82
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "initial",
+      "answer_letters": "INITIAL",
       "indices": [
-        152,
-        89,
-        22,
-        65,
-        140,
-        159
+        115,
+        36,
+        31,
+        110,
+        61,
+        137,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "knowledge",
-      "answer_letters": "KNOWLEDGE",
+      "answer": "knight",
+      "answer_letters": "KNIGHT",
       "indices": [
         14,
-        178,
-        92,
-        78,
-        45,
-        33,
-        5,
-        162,
-        108
+        156,
+        184,
+        63,
+        107,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
+      "answer": "elevated",
+      "answer_letters": "ELEVATED",
       "indices": [
-        71,
-        99,
-        70,
-        160,
-        30,
-        141
+        113,
+        24,
+        135,
+        55,
+        102,
+        158,
+        28,
+        5
       ]
     },
     {
@@ -65,155 +66,157 @@
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
-        100,
+        186,
         124,
-        49,
-        139,
-        59,
+        132,
+        42,
+        7,
         95
       ]
     },
     {
       "clue": null,
-      "answer": "athlete",
-      "answer_letters": "ATHLETE",
+      "answer": "annette",
+      "answer_letters": "ANNETTE",
       "indices": [
-        68,
-        153,
-        119,
-        103,
-        113,
-        38,
-        4
+        140,
+        69,
+        99,
+        90,
+        30,
+        26,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "answer": "yeshiva",
+      "answer_letters": "YESHIVA",
       "indices": [
         58,
-        171,
-        75,
-        7,
-        166,
-        129,
-        2,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "levant",
-      "answer_letters": "LEVANT",
-      "indices": [
-        125,
-        135,
+        4,
+        89,
+        79,
+        12,
         97,
-        102,
-        156,
-        76
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "eliminate",
-      "answer_letters": "ELIMINATE",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
-        28,
-        24,
-        184,
-        112,
-        16,
-        185,
-        177,
-        182,
-        176
+        23,
+        86,
+        27,
+        160,
+        150,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "dominated",
-      "answer_letters": "DOMINATED",
+      "answer": "editions",
+      "answer_letters": "EDITIONS",
+      "indices": [
+        71,
+        126,
+        152,
+        81,
+        65,
+        43,
+        62,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         46,
-        8,
-        175,
-        61,
-        161,
-        145,
-        165,
-        120,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
-      "indices": [
-        12,
-        62,
-        60,
+        78,
         35,
-        74,
-        148,
-        110,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        149,
-        31,
-        186,
-        79,
-        106,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        69,
-        54,
-        122,
-        81,
-        43,
-        144,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evident",
-      "answer_letters": "EVIDENT",
-      "indices": [
-        56,
-        55,
-        115,
-        170,
-        86,
-        172,
+        100,
+        159,
         10
       ]
     },
     {
       "clue": null,
-      "answer": "rushed",
-      "answer_letters": "RUSHED",
+      "answer": "institute",
+      "answer_letters": "INSTITUTE",
+      "indices": [
+        16,
+        185,
+        142,
+        168,
+        111,
+        153,
+        2,
+        118,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nominated",
+      "answer_letters": "NOMINATED",
+      "indices": [
+        149,
+        171,
+        112,
+        0,
+        178,
+        80,
+        59,
+        56,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notable",
+      "answer_letters": "NOTABLE",
+      "indices": [
+        172,
+        123,
+        48,
+        180,
+        74,
+        45,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enshrined",
+      "answer_letters": "ENSHRINED",
+      "indices": [
+        54,
+        161,
+        3,
+        85,
+        57,
+        98,
+        13,
+        120,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rutland",
+      "answer_letters": "RUTLAND",
       "indices": [
         134,
-        133,
-        142,
-        183,
-        90,
-        20
+        88,
+        106,
+        125,
+        145,
+        116,
+        170
       ]
     },
     {
@@ -221,68 +224,65 @@
       "answer": "fought",
       "answer_letters": "FOUGHT",
       "indices": [
-        93,
-        123,
-        88,
-        150,
-        39,
-        147
+        129,
+        8,
+        133,
+        162,
+        119,
+        182
       ]
     },
     {
       "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
       "indices": [
-        132,
-        118,
-        158,
-        137,
-        67,
-        167
+        49,
+        75,
+        173,
+        93,
+        138,
+        155,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "right-hand",
-      "answer_letters": "RIGHTHAND",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         44,
-        128,
-        63,
         11,
-        168,
-        85,
-        80,
-        36,
-        51
+        141,
+        165,
+        39,
+        32
       ]
     },
     {
       "clue": null,
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        84,
-        19,
-        107,
-        111,
-        26,
-        98
+        70,
+        67,
+        92,
+        144,
+        177,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "walters",
-      "answer_letters": "WALTERS",
+      "answer": "wealth",
+      "answer_letters": "WEALTH",
       "indices": [
-        42,
-        96,
-        138,
-        48,
-        40,
-        57,
-        3
+        139,
+        176,
+        167,
+        104,
+        38,
+        183
       ]
     },
     {
@@ -291,11 +291,11 @@
       "answer_letters": "ODISHA",
       "indices": [
         52,
-        72,
-        0,
-        146,
-        27,
-        180
+        20,
+        148,
+        163,
+        60,
+        22
       ]
     }
   ],

@@ -6,73 +6,70 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lafayette",
-      "answer_letters": "LAFAYETTE",
+      "answer": "lovely",
+      "answer_letters": "LOVELY",
       "indices": [
-        139,
-        85,
-        68,
-        7,
-        136,
-        54,
-        17,
-        9,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        33,
-        109,
-        125,
-        36,
-        53,
-        182
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ipswich",
-      "answer_letters": "IPSWICH",
-      "indices": [
-        0,
-        156,
-        35,
-        112,
-        118,
-        86,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loyola",
-      "answer_letters": "LOYOLA",
-      "indices": [
+        46,
+        110,
+        151,
+        90,
         66,
-        160,
-        76,
-        137,
-        142,
-        80
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "answer": "eating",
+      "answer_letters": "EATING",
       "indices": [
-        176,
-        45,
-        20,
-        72,
-        77,
-        169,
-        107,
-        183
+        24,
+        184,
+        56,
+        0,
+        96,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        122,
+        101,
+        60,
+        105,
+        85,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "looted",
+      "answer_letters": "LOOTED",
+      "indices": [
+        117,
+        133,
+        12,
+        123,
+        33,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "affection",
+      "answer_letters": "AFFECTION",
+      "indices": [
+        172,
+        125,
+        177,
+        5,
+        52,
+        173,
+        118,
+        144,
+        37
       ]
     },
     {
@@ -80,15 +77,84 @@
       "answer": "southwark",
       "answer_letters": "SOUTHWARK",
       "indices": [
-        58,
+        29,
         69,
         138,
-        93,
-        87,
-        74,
-        60,
-        89,
+        17,
+        72,
+        163,
+        80,
+        153,
         119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anywhere",
+      "answer_letters": "ANYWHERE",
+      "indices": [
+        3,
+        106,
+        154,
+        134,
+        18,
+        174,
+        34,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "levels",
+      "answer_letters": "LEVELS",
+      "indices": [
+        91,
+        150,
+        4,
+        54,
+        142,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "editor",
+      "answer_letters": "EDITOR",
+      "indices": [
+        65,
+        64,
+        27,
+        185,
+        63,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sparrow",
+      "answer_letters": "SPARROW",
+      "indices": [
+        130,
+        82,
+        44,
+        13,
+        111,
+        160,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "pharaoh",
+      "answer_letters": "PHARAOH",
+      "indices": [
+        156,
+        98,
+        55,
+        83,
+        147,
+        73,
+        10
       ]
     },
     {
@@ -96,211 +162,145 @@
       "answer": "arroyo",
       "answer_letters": "ARROYO",
       "indices": [
-        55,
+        7,
+        70,
         28,
-        13,
-        73,
-        154,
+        165,
+        14,
         40
       ]
     },
     {
       "clue": null,
-      "answer": "landmarks",
-      "answer_letters": "LANDMARKS",
+      "answer": "southward",
+      "answer_letters": "SOUTHWARD",
       "indices": [
-        140,
-        3,
-        161,
-        15,
-        62,
-        184,
-        70,
-        145,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evolve",
-      "answer_letters": "EVOLVE",
-      "indices": [
-        65,
-        151,
-        104,
-        46,
-        4,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shadow",
-      "answer_letters": "SHADOW",
-      "indices": [
-        159,
-        98,
-        19,
-        171,
-        95,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "promotions",
-      "answer_letters": "PROMOTIONS",
-      "indices": [
-        82,
-        34,
-        143,
-        128,
-        110,
-        173,
-        27,
-        144,
-        106,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alleged",
-      "answer_letters": "ALLEGED",
-      "indices": [
-        127,
-        91,
-        117,
-        150,
-        103,
-        152,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheriff",
-      "answer_letters": "SHERIFF",
-      "indices": [
-        130,
-        2,
-        5,
-        153,
-        94,
-        43,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thereof",
-      "answer_letters": "THEREOF",
-      "indices": [
-        56,
-        18,
-        120,
-        83,
-        24,
-        12,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "purity",
-      "answer_letters": "PURITY",
-      "indices": [
-        100,
-        78,
-        111,
-        99,
-        22,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
-        57,
-        178,
-        23,
-        122,
-        165,
-        81,
-        105,
-        147,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotary",
-      "answer_letters": "ROTARY",
-      "indices": [
-        50,
+        35,
         49,
-        148,
-        113,
+        169,
+        182,
+        132,
+        112,
+        176,
         180,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trophy",
+      "answer_letters": "TROPHY",
+      "indices": [
+        20,
+        158,
+        95,
+        100,
+        87,
         39
       ]
     },
     {
       "clue": null,
-      "answer": "fortuna",
-      "answer_letters": "FORTUNA",
+      "answer": "pamphlet",
+      "answer_letters": "PAMPHLET",
       "indices": [
-        48,
-        84,
-        158,
-        30,
-        41,
-        37,
-        44
+        32,
+        92,
+        62,
+        81,
+        183,
+        140,
+        120,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "eastwood",
-      "answer_letters": "EASTWOOD",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
         157,
-        92,
-        101,
-        123,
-        134,
-        168,
-        133,
-        64
+        109,
+        43,
+        84,
+        89,
+        148,
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "cheaper",
-      "answer_letters": "CHEAPER",
+      "answer": "retain",
+      "answer_letters": "RETAIN",
       "indices": [
-        52,
-        164,
+        53,
         129,
-        172,
-        32,
-        90,
-        114
+        93,
+        127,
+        94,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "theory",
-      "answer_letters": "THEORY",
+      "answer": "flourished",
+      "answer_letters": "FLOURISHED",
       "indices": [
-        185,
-        132,
+        48,
+        45,
+        104,
+        78,
+        114,
+        99,
+        97,
+        23,
         11,
-        63,
-        126,
-        14
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "etymology",
+      "answer_letters": "ETYMOLOGY",
+      "indices": [
+        179,
+        178,
+        167,
+        128,
+        143,
+        139,
+        77,
+        107,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "co-author",
+      "answer_letters": "COAUTHOR",
+      "indices": [
+        86,
+        137,
+        19,
+        41,
+        22,
+        2,
+        168,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        9,
+        113,
+        145,
+        152,
+        36,
+        26,
+        68
       ]
     }
   ],

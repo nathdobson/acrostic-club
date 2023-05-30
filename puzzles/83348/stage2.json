@@ -6,262 +6,168 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lifelong",
-      "answer_letters": "LIFELONG",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
       "indices": [
-        23,
-        73,
-        176,
-        179,
-        12,
-        10,
-        170,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        83,
-        57,
-        117,
-        175,
-        171,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
-      "indices": [
-        45,
-        95,
-        82,
-        77,
-        98,
-        152,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "characterised",
-      "answer_letters": "CHARACTERISED",
-      "indices": [
-        151,
-        155,
-        134,
-        0,
-        105,
-        145,
-        54,
-        156,
-        9,
-        29,
-        30,
-        5,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hickory",
-      "answer_letters": "HICKORY",
-      "indices": [
-        68,
-        125,
-        3,
-        131,
-        80,
-        84,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "improves",
-      "answer_letters": "IMPROVES",
-      "indices": [
-        56,
-        118,
-        126,
-        137,
-        92,
-        90,
-        132,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lander",
-      "answer_letters": "LANDER",
-      "indices": [
-        100,
-        138,
-        87,
-        14,
-        18,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "differs",
-      "answer_letters": "DIFFERS",
-      "indices": [
-        148,
-        143,
-        66,
-        115,
-        101,
-        78,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "algorithm",
-      "answer_letters": "ALGORITHM",
-      "indices": [
-        42,
-        93,
-        32,
-        159,
-        43,
-        130,
-        165,
-        17,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wholesale",
-      "answer_letters": "WHOLESALE",
-      "indices": [
-        24,
-        158,
-        61,
         22,
-        94,
-        161,
-        25,
-        178,
+        175,
+        39,
+        76,
+        48,
+        2,
+        59,
+        115,
         162
       ]
     },
     {
       "clue": null,
-      "answer": "affinity",
-      "answer_letters": "AFFINITY",
+      "answer": "emphasize",
+      "answer_letters": "EMPHASIZE",
       "indices": [
-        2,
-        40,
-        102,
-        169,
-        150,
-        110,
-        96,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northamptonshire",
-      "answer_letters": "NORTHAMPTONSHIRE",
-      "indices": [
-        106,
-        52,
-        60,
-        63,
-        112,
-        49,
-        168,
+        152,
+        70,
         8,
-        113,
-        146,
-        62,
-        144,
-        72,
+        124,
+        105,
+        79,
         91,
-        116,
+        139,
         13
       ]
     },
     {
       "clue": null,
-      "answer": "throws",
-      "answer_letters": "THROWS",
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
       "indices": [
-        103,
+        179,
+        93,
+        86,
+        82,
+        49,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "churchill",
+      "answer_letters": "CHURCHILL",
+      "indices": [
+        151,
         20,
-        109,
-        166,
-        11,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "efforts",
-      "answer_letters": "EFFORTS",
-      "indices": [
-        122,
-        39,
-        177,
-        65,
-        6,
-        154,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
-      "indices": [
-        46,
         33,
-        97,
-        160,
-        37,
-        28
+        116,
+        136,
+        28,
+        110,
+        100,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "makeshift",
-      "answer_letters": "MAKESHIFT",
+      "answer": "hochschule",
+      "answer_letters": "HOCHSCHULE",
       "indices": [
-        70,
-        21,
-        85,
-        1,
-        164,
-        124,
-        69,
-        59,
-        16
+        17,
+        52,
+        3,
+        112,
+        127,
+        145,
+        72,
+        160,
+        23,
+        132
       ]
     },
     {
       "clue": null,
-      "answer": "auschwitz",
-      "answer_letters": "AUSCHWITZ",
+      "answer": "intensive",
+      "answer_letters": "INTENSIVE",
+      "indices": [
+        29,
+        34,
+        113,
+        101,
+        106,
+        164,
+        38,
+        90,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
+      "indices": [
+        129,
+        130,
+        111,
+        174,
+        54,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deforestation",
+      "answer_letters": "DEFORESTATION",
+      "indices": [
+        107,
+        94,
+        102,
+        92,
+        6,
+        18,
+        36,
+        165,
+        138,
+        96,
+        125,
+        10,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "arrows",
+      "answer_letters": "ARROWS",
+      "indices": [
+        42,
+        109,
+        60,
+        159,
+        11,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whisky",
+      "answer_letters": "WHISKY",
+      "indices": [
+        24,
+        121,
+        169,
+        30,
+        131,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "armagh",
+      "answer_letters": "ARMAGH",
       "indices": [
         149,
-        53,
-        74,
-        136,
-        121,
-        48,
-        86,
-        76,
-        139
+        84,
+        168,
+        21,
+        171,
+        68
       ]
     },
     {
@@ -269,13 +175,107 @@
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
-        34,
-        38,
-        88,
-        174,
-        120,
-        129,
+        95,
+        143,
+        32,
+        158,
+        16,
+        97,
         26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "three-story",
+      "answer_letters": "THREESTORY",
+      "indices": [
+        103,
+        155,
+        0,
+        45,
+        83,
+        74,
+        63,
+        80,
+        43,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eruption",
+      "answer_letters": "ERUPTION",
+      "indices": [
+        5,
+        78,
+        53,
+        126,
+        154,
+        69,
+        61,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "demonstrating",
+      "answer_letters": "DEMONSTRATING",
+      "indices": [
+        148,
+        156,
+        44,
+        77,
+        150,
+        161,
+        120,
+        137,
+        134,
+        37,
+        56,
+        62,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "modify",
+      "answer_letters": "MODIFY",
+      "indices": [
+        118,
+        65,
+        14,
+        73,
+        176,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afforded",
+      "answer_letters": "AFFORDED",
+      "indices": [
+        25,
+        177,
+        66,
+        166,
+        167,
+        46,
+        1,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norfolk",
+      "answer_letters": "NORFOLK",
+      "indices": [
+        170,
+        146,
+        9,
+        40,
+        117,
+        178,
+        85
       ]
     }
   ],

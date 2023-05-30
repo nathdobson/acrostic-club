@@ -6,274 +6,274 @@
   "clues": [
     {
       "clue": null,
+      "answer": "motorway",
+      "answer_letters": "MOTORWAY",
+      "indices": [
+        70,
+        76,
+        75,
+        63,
+        166,
+        122,
+        150,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
+      "indices": [
+        10,
+        24,
+        48,
+        138,
+        159,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
+      "indices": [
+        14,
+        123,
+        131,
+        139,
+        2,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outward",
+      "answer_letters": "OUTWARD",
+      "indices": [
+        1,
+        163,
+        47,
+        93,
+        165,
+        81,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "defined",
+      "answer_letters": "DEFINED",
+      "indices": [
+        91,
+        6,
+        20,
+        36,
+        74,
+        25,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "year-end",
+      "answer_letters": "YEAREND",
+      "indices": [
+        161,
+        98,
+        49,
+        144,
+        16,
+        101,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "localized",
+      "answer_letters": "LOCALIZED",
+      "indices": [
+        86,
+        130,
+        174,
+        13,
+        158,
+        116,
+        157,
+        55,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "expectations",
+      "answer_letters": "EXPECTATIONS",
+      "indices": [
+        132,
+        173,
+        176,
+        22,
+        12,
+        50,
+        89,
+        177,
+        73,
+        170,
+        128,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "experimentation",
+      "answer_letters": "EXPERIMENTATION",
+      "indices": [
+        118,
+        148,
+        154,
+        30,
+        85,
+        21,
+        15,
+        111,
+        90,
+        27,
+        120,
+        102,
+        100,
+        147,
+        44
+      ]
+    },
+    {
+      "clue": null,
       "answer": "maharaja",
       "answer_letters": "MAHARAJA",
       "indices": [
-        15,
-        112,
-        9,
-        135,
-        5,
-        89,
+        97,
+        143,
+        110,
+        43,
+        113,
+        4,
         129,
         67
       ]
     },
     {
       "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "answer": "on-site",
+      "answer_letters": "ONSITE",
       "indices": [
-        10,
-        173,
-        93,
-        36,
-        20,
-        167
+        162,
+        39,
+        53,
+        178,
+        8,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "lucknow",
-      "answer_letters": "LUCKNOW",
-      "indices": [
-        121,
-        2,
-        24,
-        38,
-        180,
-        179,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlawed",
-      "answer_letters": "OUTLAWED",
+      "answer": "outlaws",
+      "answer_letters": "OUTLAWS",
       "indices": [
         103,
-        155,
-        50,
-        14,
-        43,
-        122,
-        172,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dorothea",
-      "answer_letters": "DOROTHEA",
-      "indices": [
-        45,
-        162,
-        23,
-        76,
-        75,
-        48,
-        111,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yeovil",
-      "answer_letters": "YEOVIL",
-      "indices": [
-        131,
-        16,
-        106,
-        117,
-        73,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "located",
-      "answer_letters": "LOCATED",
-      "indices": [
-        158,
-        40,
-        12,
-        145,
-        114,
-        25,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        175,
-        56,
-        84,
-        80,
-        137,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "empowered",
-      "answer_letters": "EMPOWERED",
-      "indices": [
-        98,
-        97,
-        29,
-        1,
-        68,
-        30,
-        144,
-        22,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "modernization",
-      "answer_letters": "MODERNIZATION",
-      "indices": [
-        70,
-        57,
-        140,
-        118,
-        166,
-        101,
-        21,
-        157,
-        13,
-        8,
-        178,
-        139,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "opposition",
-      "answer_letters": "OPPOSITION",
-      "indices": [
-        33,
-        176,
-        142,
-        147,
-        125,
-        100,
-        62,
-        116,
-        94,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "orthodoxy",
-      "answer_letters": "ORTHODOXY",
-      "indices": [
-        63,
-        108,
-        47,
-        60,
-        130,
-        146,
-        79,
-        148,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
-      "indices": [
-        151,
-        138,
-        81,
-        41,
-        165,
-        78,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guaranteed",
-      "answer_letters": "GUARANTEED",
-      "indices": [
-        59,
-        58,
-        143,
-        85,
-        120,
-        74,
-        27,
-        71,
-        55,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yunnan",
-      "answer_letters": "YUNNAN",
-      "indices": [
-        124,
         107,
-        34,
-        39,
-        123,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "protections",
-      "answer_letters": "PROTECTIONS",
-      "indices": [
-        154,
-        66,
-        170,
-        102,
-        127,
-        174,
-        18,
-        52,
-        95,
-        44,
+        62,
+        121,
+        135,
+        68,
         32
       ]
     },
     {
       "clue": null,
-      "answer": "suárez",
-      "answer_letters": "SUAREZ",
+      "answer": "norwood",
+      "answer_letters": "NORWOOD",
       "indices": [
-        53,
-        163,
-        49,
+        151,
+        40,
         31,
-        159,
-        156
+        41,
+        79,
+        57,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "yesterday",
-      "answer_letters": "YESTERDAY",
+      "answer": "greenwood",
+      "answer_letters": "GREENWOOD",
       "indices": [
-        0,
-        132,
-        26,
-        177,
-        6,
-        113,
-        87,
-        150,
-        161
+        59,
+        5,
+        175,
+        71,
+        180,
+        83,
+        94,
+        106,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "year-round",
+      "answer_letters": "YEARROUND",
+      "indices": [
+        78,
+        172,
+        145,
+        108,
+        66,
+        179,
+        80,
+        34,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photography",
+      "answer_letters": "PHOTOGRAPHY",
+      "indices": [
+        29,
+        60,
+        33,
+        114,
+        84,
+        137,
+        23,
+        112,
+        142,
+        9,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "suzuki",
+      "answer_letters": "SUZUKI",
+      "indices": [
+        17,
+        58,
+        156,
+        155,
+        38,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yvonne",
+      "answer_letters": "YVONNE",
+      "indices": [
+        105,
+        117,
+        95,
+        169,
+        56,
+        167
       ]
     }
   ],

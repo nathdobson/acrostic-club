@@ -6,74 +6,70 @@
   "clues": [
     {
       "clue": null,
-      "answer": "repeats",
-      "answer_letters": "REPEATS",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
       "indices": [
-        89,
-        62,
-        30,
-        42,
-        140,
-        38,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
-      "indices": [
+        31,
+        186,
+        100,
         57,
-        35,
-        128,
-        3,
-        154,
-        14
+        85,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "beethoven",
-      "answer_letters": "BEETHOVEN",
+      "answer": "output",
+      "answer_letters": "OUTPUT",
+      "indices": [
+        39,
+        188,
+        179,
+        114,
+        17,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "behave",
+      "answer_letters": "BEHAVE",
       "indices": [
         176,
-        72,
-        65,
-        36,
-        182,
-        151,
-        68,
-        166,
-        147
+        52,
+        135,
+        69,
+        108,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "endeavour",
-      "answer_letters": "ENDEAVOUR",
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
       "indices": [
         158,
-        111,
-        124,
-        99,
-        28,
-        137,
-        132,
-        104,
-        61
+        49,
+        55,
+        5,
+        23,
+        166,
+        145,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "rudolf",
-      "answer_letters": "RUDOLF",
+      "answer": "royalty",
+      "answer_letters": "ROYALTY",
       "indices": [
-        18,
-        71,
-        2,
-        39,
-        70,
-        85
+        89,
+        162,
+        74,
+        53,
+        94,
+        159,
+        102
       ]
     },
     {
@@ -81,233 +77,237 @@
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
-        44,
-        78,
-        19,
-        74,
-        108,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "without",
-      "answer_letters": "WITHOUT",
-      "indices": [
-        23,
-        171,
-        120,
-        98,
-        112,
-        186,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
-      "indices": [
-        53,
-        123,
+        169,
+        45,
+        90,
         131,
-        126,
-        107,
-        102
+        80,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "laureate",
-      "answer_letters": "LAUREATE",
+      "answer": "whatever",
+      "answer_letters": "WHATEVER",
       "indices": [
-        94,
-        122,
-        152,
-        31,
-        190,
-        79,
-        10,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shankar",
-      "answer_letters": "SHANKAR",
-      "indices": [
-        55,
-        135,
-        175,
-        25,
-        173,
+        97,
+        127,
         24,
-        156
+        64,
+        62,
+        165,
+        42,
+        66
       ]
     },
     {
       "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
+      "answer": "amounting",
+      "answer_letters": "AMOUNTING",
       "indices": [
-        138,
+        8,
+        41,
+        92,
+        152,
+        25,
+        120,
+        46,
         119,
-        187,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lithuanian",
+      "answer_letters": "LITHUANIAN",
+      "indices": [
+        70,
         0,
-        179,
+        187,
+        170,
+        104,
+        107,
+        123,
+        171,
+        63,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "seafood",
+      "answer_letters": "SEAFOOD",
+      "indices": [
+        33,
+        128,
+        28,
+        14,
+        177,
+        75,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        118,
+        9,
+        132,
+        15,
+        60,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rupture",
+      "answer_letters": "RUPTURE",
+      "indices": [
+        143,
+        76,
+        30,
+        44,
+        86,
+        54,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "typhoon",
+      "answer_letters": "TYPHOON",
+      "indices": [
+        16,
+        150,
+        50,
+        78,
+        3,
+        112,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hannah",
+      "answer_letters": "HANNAH",
+      "indices": [
+        106,
+        140,
+        147,
+        172,
+        83,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everest",
+      "answer_letters": "EVEREST",
+      "indices": [
+        190,
+        137,
+        116,
+        18,
+        183,
+        117,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        36,
+        12,
+        173,
+        32,
+        155,
+        154,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "audrey",
+      "answer_letters": "AUDREY",
+      "indices": [
+        136,
+        133,
+        2,
+        61,
+        144,
         95
       ]
     },
     {
       "clue": null,
-      "answer": "runaway",
-      "answer_letters": "RUNAWAY",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
-        66,
-        86,
-        4,
-        12,
-        7,
-        8,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tomatoes",
-      "answer_letters": "TOMATOES",
-      "indices": [
-        148,
-        103,
-        41,
-        69,
-        161,
-        92,
-        109,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "haunting",
-      "answer_letters": "HAUNTING",
-      "indices": [
-        127,
-        63,
-        15,
-        9,
-        87,
-        46,
-        93,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        144,
-        58,
-        185,
-        162,
-        54,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "though",
-      "answer_letters": "THOUGH",
-      "indices": [
-        26,
-        106,
-        75,
-        76,
-        157,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "approve",
-      "answer_letters": "APPROVE",
-      "indices": [
-        83,
-        51,
-        50,
-        143,
-        155,
-        165,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        172,
-        52,
-        114,
-        45,
-        164,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nunavut",
-      "answer_letters": "NUNAVUT",
-      "indices": [
-        129,
-        133,
         167,
-        136,
-        80,
-        188,
-        5
+        99,
+        7,
+        161,
+        151,
+        126,
+        129
       ]
     },
     {
       "clue": null,
-      "answer": "europe's",
-      "answer_letters": "EUROPES",
+      "answer": "napier",
+      "answer_letters": "NAPIER",
       "indices": [
-        81,
-        178,
-        189,
-        177,
+        93,
+        79,
         142,
-        146,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reunite",
-      "answer_letters": "REUNITE",
-      "indices": [
-        115,
-        116,
-        88,
-        100,
         21,
-        16,
-        34
+        19,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "statue",
-      "answer_letters": "STATUE",
+      "answer": "europa",
+      "answer_letters": "EUROPA",
       "indices": [
-        145,
-        64,
-        49,
-        159,
-        17,
-        118
+        34,
+        71,
+        189,
+        103,
+        51,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "revenue",
+      "answer_letters": "REVENUE",
+      "indices": [
+        156,
+        65,
+        68,
+        72,
+        4,
+        88,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statute",
+      "answer_letters": "STATUTE",
+      "indices": [
+        47,
+        87,
+        122,
+        181,
+        178,
+        148,
+        138
       ]
     }
   ],

@@ -6,157 +6,182 @@
   "clues": [
     {
       "clue": null,
-      "answer": "dallas",
-      "answer_letters": "DALLAS",
+      "answer": "design",
+      "answer_letters": "DESIGN",
       "indices": [
-        54,
-        52,
-        15,
-        157,
-        148,
+        90,
+        42,
+        24,
+        144,
+        134,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
+      "indices": [
+        158,
+        137,
+        74,
+        75,
+        167,
         32
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "answer": "northern",
+      "answer_letters": "NORTHERN",
       "indices": [
-        13,
-        126,
-        155,
-        57,
-        53,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "notice",
-      "answer_letters": "NOTICE",
-      "indices": [
-        110,
-        16,
-        145,
-        156,
-        167,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        89,
-        34,
-        143,
-        81,
-        2,
-        93,
-        170,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        88,
-        19,
-        100,
-        161,
-        23,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "scottish",
-      "answer_letters": "SCOTTISH",
-      "indices": [
-        25,
-        150,
-        108,
-        179,
-        4,
-        109,
-        76,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheriff",
-      "answer_letters": "SHERIFF",
-      "indices": [
-        7,
-        146,
-        116,
-        56,
-        144,
-        41,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "herself",
-      "answer_letters": "HERSELF",
-      "indices": [
-        5,
-        120,
-        85,
-        118,
-        114,
-        36,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "admits",
-      "answer_letters": "ADMITS",
-      "indices": [
-        177,
-        162,
-        141,
-        45,
-        44,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rebellions",
-      "answer_letters": "REBELLIONS",
-      "indices": [
-        50,
-        64,
-        176,
-        125,
-        46,
-        66,
-        75,
-        173,
         133,
-        154
+        151,
+        101,
+        179,
+        119,
+        64,
+        50,
+        83
       ]
     },
     {
       "clue": null,
-      "answer": "pathology",
-      "answer_letters": "PATHOLOGY",
+      "answer": "neolithic",
+      "answer_letters": "NEOLITHIC",
+      "indices": [
+        71,
+        105,
+        16,
+        10,
+        6,
+        145,
+        29,
+        109,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ismail",
+      "answer_letters": "ISMAIL",
+      "indices": [
+        45,
+        19,
+        141,
+        97,
+        178,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shelley",
+      "answer_letters": "SHELLEY",
+      "indices": [
+        76,
+        113,
+        114,
+        157,
+        35,
+        165,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stokes",
+      "answer_letters": "STOKES",
+      "indices": [
+        154,
+        28,
+        17,
+        131,
+        79,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "height",
+      "answer_letters": "HEIGHT",
+      "indices": [
+        96,
+        34,
+        161,
+        111,
+        146,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "acclaim",
+      "answer_letters": "ACCLAIM",
+      "indices": [
+        148,
+        12,
+        150,
+        22,
+        122,
+        156,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rainbow",
+      "answer_letters": "RAINBOW",
+      "indices": [
+        85,
+        100,
+        88,
+        53,
+        176,
+        130,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "profiles",
+      "answer_letters": "PROFILES",
       "indices": [
         9,
-        80,
+        56,
+        173,
+        39,
+        47,
+        67,
+        49,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastward",
+      "answer_letters": "EASTWARD",
+      "indices": [
+        102,
+        136,
+        118,
         58,
-        29,
-        168,
-        35,
-        130,
-        134,
+        0,
+        80,
+        63,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whisky",
+      "answer_letters": "WHISKY",
+      "indices": [
+        164,
+        139,
+        140,
+        25,
+        124,
         152
       ]
     },
@@ -165,134 +190,109 @@
       "answer": "emilio",
       "answer_letters": "EMILIO",
       "indices": [
-        42,
-        87,
-        140,
-        22,
-        178,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "weimar",
-      "answer_letters": "WEIMAR",
-      "indices": [
-        95,
-        158,
-        47,
-        33,
-        65,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enzyme",
-      "answer_letters": "ENZYME",
-      "indices": [
-        49,
-        71,
-        48,
-        68,
-        169,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "doctor",
-      "answer_letters": "DOCTOR",
-      "indices": [
-        90,
-        38,
-        12,
-        98,
-        82,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikolai",
-      "answer_letters": "NIKOLAI",
-      "indices": [
-        83,
-        6,
-        131,
-        17,
-        10,
-        11,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elsewhere",
-      "answer_letters": "ELSEWHERE",
-      "indices": [
-        30,
-        67,
-        123,
-        102,
-        164,
-        139,
-        105,
-        63,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "somali",
-      "answer_letters": "SOMALI",
-      "indices": [
-        61,
-        129,
+        13,
         92,
-        97,
-        128,
-        132
+        132,
+        66,
+        60,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
+      "answer": "doomed",
+      "answer_letters": "DOOMED",
       "indices": [
         160,
-        0,
-        70,
-        111,
-        119,
-        28
+        57,
+        38,
+        169,
+        125,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "artwork",
-      "answer_letters": "ARTWORK",
+      "answer": "newmarket",
+      "answer_letters": "NEWMARKET",
       "indices": [
-        122,
+        110,
+        116,
+        143,
+        87,
+        65,
         174,
-        73,
-        104,
-        1,
-        101,
-        18
+        18,
+        170,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
+      "indices": [
+        86,
+        41,
+        172,
+        129,
+        43,
+        44,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showed",
+      "answer_letters": "SHOWED",
+      "indices": [
+        81,
+        5,
+        82,
+        95,
+        93,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dalmatia",
+      "answer_letters": "DALMATIA",
+      "indices": [
+        107,
+        177,
+        15,
+        155,
+        11,
+        98,
+        70,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "azores",
+      "answer_letters": "AZORES",
+      "indices": [
+        52,
+        48,
+        1,
+        115,
+        120,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
         26,
-        136,
-        21,
-        96,
-        137,
-        24
+        30,
+        46,
+        36,
+        108,
+        104
       ]
     }
   ],

@@ -6,167 +6,165 @@
   "clues": [
     {
       "clue": null,
-      "answer": "attempt",
-      "answer_letters": "ATTEMPT",
+      "answer": "alteration",
+      "answer_letters": "ALTERATION",
       "indices": [
-        174,
-        99,
-        69,
-        166,
-        66,
-        165,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        125,
-        62,
-        184,
-        173,
-        139,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikola",
-      "answer_letters": "NIKOLA",
-      "indices": [
-        115,
-        43,
-        123,
-        90,
-        127,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elimination",
-      "answer_letters": "ELIMINATION",
-      "indices": [
-        12,
-        33,
-        114,
-        31,
-        147,
-        7,
-        120,
-        42,
-        24,
-        65,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "brotherhood",
-      "answer_letters": "BROTHERHOOD",
-      "indices": [
-        71,
-        146,
-        19,
-        118,
-        11,
-        190,
-        78,
-        149,
-        95,
-        0,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rebirth",
-      "answer_letters": "REBIRTH",
-      "indices": [
-        85,
-        128,
-        145,
-        131,
-        41,
-        48,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outraged",
-      "answer_letters": "OUTRAGED",
-      "indices": [
-        160,
-        72,
-        141,
-        60,
         87,
-        4,
-        2,
+        127,
+        93,
+        177,
+        91,
+        112,
+        141,
+        114,
+        19,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notified",
+      "answer_letters": "NOTIFIED",
+      "indices": [
+        44,
+        65,
+        168,
+        24,
+        154,
+        147,
+        21,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "native",
+      "answer_letters": "NATIVE",
+      "indices": [
+        132,
+        143,
+        118,
+        80,
+        16,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "euroleague",
+      "answer_letters": "EUROLEAGUE",
+      "indices": [
+        17,
+        55,
+        78,
+        0,
+        5,
+        77,
+        186,
+        97,
+        72,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ballot",
+      "answer_letters": "BALLOT",
+      "indices": [
+        54,
+        15,
+        27,
+        23,
+        164,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rahman",
+      "answer_letters": "RAHMAN",
+      "indices": [
+        140,
+        40,
+        163,
+        31,
+        36,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
+      "indices": [
+        95,
+        96,
+        73,
+        155,
+        105,
+        50,
+        179,
         175
       ]
     },
     {
       "clue": null,
-      "answer": "nepalese",
-      "answer_letters": "NEPALESE",
+      "answer": "nighttime",
+      "answer_letters": "NIGHTTIME",
       "indices": [
-        20,
-        28,
-        39,
-        15,
-        5,
-        138,
-        189,
-        177
+        81,
+        83,
+        4,
+        137,
+        42,
+        25,
+        131,
+        64,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "thomas",
-      "answer_letters": "THOMAS",
+      "answer": "theirs",
+      "answer_letters": "THEIRS",
       "indices": [
-        93,
-        163,
-        164,
-        157,
-        51,
+        56,
+        169,
+        67,
+        32,
+        85,
         52
       ]
     },
     {
       "clue": null,
-      "answer": "evaluating",
-      "answer_letters": "EVALUATING",
+      "answer": "enslaved",
+      "answer_letters": "ENSLAVED",
       "indices": [
-        151,
+        128,
+        191,
+        189,
+        33,
+        6,
         178,
-        186,
-        155,
-        96,
-        40,
-        73,
-        124,
-        68,
-        45
+        28,
+        129
       ]
     },
     {
       "clue": null,
-      "answer": "artifact",
-      "answer_letters": "ARTIFACT",
+      "answer": "aftermath",
+      "answer_letters": "AFTERMATH",
       "indices": [
-        156,
-        103,
-        168,
-        83,
-        154,
-        6,
-        8,
-        150
+        62,
+        161,
+        99,
+        104,
+        187,
+        110,
+        108,
+        121,
+        119
       ]
     },
     {
@@ -174,120 +172,122 @@
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
-        14,
+        116,
         59,
-        25,
-        76,
-        36,
-        64
+        26,
+        94,
+        170,
+        134
       ]
     },
     {
       "clue": null,
-      "answer": "number",
-      "answer_letters": "NUMBER",
+      "answer": "neighbor",
+      "answer_letters": "NEIGHBOR",
       "indices": [
-        132,
-        55,
-        110,
-        54,
-        21,
-        91
+        125,
+        9,
+        47,
+        148,
+        11,
+        145,
+        160,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "everywhere",
-      "answer_letters": "EVERYWHERE",
+      "answer": "editor-in-chief",
+      "answer_letters": "EDITORINCHIEF",
       "indices": [
-        158,
-        16,
+        190,
+        88,
+        188,
+        184,
+        90,
+        41,
+        101,
+        113,
+        8,
+        149,
+        43,
         111,
-        140,
-        182,
-        50,
-        169,
-        67,
-        180,
-        17
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "settled",
-      "answer_letters": "SETTLED",
+      "answer": "sheppard",
+      "answer_letters": "SHEPPARD",
       "indices": [
         30,
-        9,
-        37,
-        75,
-        23,
-        79,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ghanaian",
-      "answer_letters": "GHANAIAN",
-      "indices": [
-        116,
-        94,
-        112,
-        1,
-        105,
-        80,
-        170,
-        191
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reaffirmed",
-      "answer_letters": "REAFFIRMED",
-      "indices": [
-        187,
-        77,
-        143,
-        58,
-        161,
-        101,
+        76,
+        138,
+        165,
+        39,
+        156,
         152,
-        134,
-        86,
-        126
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "eighteenth",
-      "answer_letters": "EIGHTEENTH",
+      "answer": "garbage",
+      "answer_letters": "GARBAGE",
       "indices": [
-        34,
-        32,
-        148,
-        137,
-        26,
-        179,
-        104,
-        171,
-        56,
-        98
+        45,
+        174,
+        60,
+        71,
+        139,
+        14,
+        151
       ]
     },
     {
       "clue": null,
-      "answer": "yielding",
-      "answer_letters": "YIELDING",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
+        180,
+        173,
         135,
-        47,
+        37,
+        98,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entertainment",
+      "answer_letters": "ENTERTAINMENT",
+      "indices": [
+        79,
+        68,
+        150,
         183,
-        27,
-        129,
-        188,
-        44,
-        97
+        103,
+        75,
+        51,
+        124,
+        20,
+        157,
+        166,
+        115,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
+      "indices": [
+        182,
+        120,
+        7,
+        123,
+        158,
+        12
       ]
     }
   ],

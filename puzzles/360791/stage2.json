@@ -6,222 +6,45 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
+      "answer": "kolkata",
+      "answer_letters": "KOLKATA",
       "indices": [
-        19,
-        44,
-        174,
-        164,
-        140,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adults",
-      "answer_letters": "ADULTS",
-      "indices": [
-        6,
-        22,
-        149,
-        119,
-        9,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "turkish",
-      "answer_letters": "TURKISH",
-      "indices": [
-        25,
-        100,
-        176,
         29,
-        92,
-        39,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "howell",
-      "answer_letters": "HOWELL",
-      "indices": [
-        124,
-        75,
-        84,
-        60,
-        27,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-of-way",
-      "answer_letters": "RIGHTOFWAY",
-      "indices": [
-        162,
-        187,
-        158,
-        42,
-        146,
-        184,
-        76,
-        144,
-        53,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        132,
-        117,
-        59,
-        131,
-        57,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        8,
-        110,
-        15,
-        180,
-        105,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sorrow",
-      "answer_letters": "SORROW",
-      "indices": [
-        56,
-        104,
-        108,
-        73,
-        148,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tripoli",
-      "answer_letters": "TRIPOLI",
-      "indices": [
-        41,
-        181,
-        7,
-        130,
-        70,
-        17,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        175,
-        50,
-        127,
-        78,
-        52,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "climbed",
-      "answer_letters": "CLIMBED",
-      "indices": [
-        169,
+        135,
         35,
-        49,
-        103,
-        11,
-        20,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kickoff",
-      "answer_letters": "KICKOFF",
-      "indices": [
-        170,
-        23,
-        69,
-        177,
-        72,
-        93,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emerge",
-      "answer_letters": "EMERGE",
-      "indices": [
-        63,
-        155,
-        67,
-        95,
-        123,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tightly",
-      "answer_letters": "TIGHTLY",
-      "indices": [
-        150,
-        122,
-        45,
-        139,
-        182,
-        12,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twentieth",
-      "answer_letters": "TWENTIETH",
-      "indices": [
-        47,
-        36,
-        4,
-        113,
+        19,
+        13,
         87,
-        18,
-        88,
-        65,
-        85
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "there's",
-      "answer_letters": "THERES",
+      "answer": "aluminum",
+      "answer_letters": "ALUMINUM",
       "indices": [
-        188,
+        58,
+        71,
+        44,
+        3,
+        92,
+        91,
+        100,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-hour",
+      "answer_letters": "TWOHOUR",
+      "indices": [
+        127,
+        82,
+        175,
         66,
-        142,
-        24,
-        30,
-        54
+        104,
+        90,
+        181
       ]
     },
     {
@@ -229,83 +52,260 @@
       "answer": "hawaii",
       "answer_letters": "HAWAII",
       "indices": [
-        106,
-        13,
-        82,
-        2,
-        145,
-        32
+        1,
+        34,
+        144,
+        6,
+        18,
+        86
       ]
     },
     {
       "clue": null,
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        159,
-        157,
-        3,
-        128,
-        80,
-        125,
-        161,
-        121
+        111,
+        46,
+        38,
+        105,
+        139,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "harbour",
-      "answer_letters": "HARBOUR",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
-        147,
-        172,
+        98,
+        88,
+        119,
+        17,
+        70,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "narrow",
+      "answer_letters": "NARROW",
+      "indices": [
+        121,
+        78,
+        176,
         136,
-        62,
-        112,
-        156,
-        101
+        161,
+        138
       ]
     },
     {
       "clue": null,
-      "answer": "economies",
-      "answer_letters": "ECONOMIES",
+      "answer": "strike",
+      "answer_letters": "STRIKE",
+      "indices": [
+        0,
+        25,
+        162,
+        180,
+        170,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "timber",
+      "answer_letters": "TIMBER",
+      "indices": [
+        182,
+        110,
+        103,
+        11,
+        20,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        184,
+        149,
+        50,
+        76,
+        140,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "casinos",
+      "answer_letters": "CASINOS",
+      "indices": [
+        169,
+        152,
+        39,
+        32,
+        8,
+        43,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "knowledge",
+      "answer_letters": "KNOWLEDGE",
+      "indices": [
+        177,
+        113,
+        94,
+        174,
+        118,
+        81,
+        157,
+        123,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "editor",
+      "answer_letters": "EDITOR",
       "indices": [
         114,
+        115,
+        23,
+        41,
+        148,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tobacco",
+      "answer_letters": "TOBACCO",
+      "indices": [
+        47,
+        128,
+        62,
+        164,
         14,
-        135,
-        91,
-        94,
-        96,
-        86,
-        168,
+        69,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takahashi",
+      "answer_letters": "TAKAHASHI",
+      "indices": [
+        188,
+        117,
+        15,
+        53,
+        106,
+        172,
+        54,
+        124,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "throws",
+      "answer_letters": "THROWS",
+      "indices": [
+        65,
+        42,
+        95,
+        75,
+        84,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "lahore",
-      "answer_letters": "LAHORE",
+      "answer": "haitian",
+      "answer_letters": "HAITIAN",
       "indices": [
-        118,
-        152,
-        1,
-        43,
-        111,
-        81
+        57,
+        2,
+        122,
+        150,
+        145,
+        37,
+        80
       ]
     },
     {
       "clue": null,
-      "answer": "pounds",
-      "answer_letters": "POUNDS",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        167,
+        30,
+        134,
+        93,
         99,
-        90,
-        185,
+        108,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "height",
+      "answer_letters": "HEIGHT",
+      "indices": [
+        147,
+        4,
+        187,
+        45,
+        85,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "employee",
+      "answer_letters": "EMPLOYEE",
+      "indices": [
+        159,
+        155,
+        167,
+        27,
+        112,
+        132,
+        63,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ludwig",
+      "answer_letters": "LUDWIG",
+      "indices": [
+        12,
+        156,
+        22,
+        36,
+        49,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "president",
+      "answer_letters": "PRESIDENT",
+      "indices": [
+        130,
+        101,
+        107,
+        56,
+        28,
         179,
-        166
+        168,
+        185,
+        125
       ]
     }
   ],

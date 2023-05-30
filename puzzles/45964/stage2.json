@@ -6,63 +6,64 @@
   "clues": [
     {
       "clue": null,
-      "answer": "diminished",
-      "answer_letters": "DIMINISHED",
+      "answer": "demise",
+      "answer_letters": "DEMISE",
       "indices": [
-        27,
-        55,
-        87,
-        102,
-        184,
-        151,
-        156,
-        40,
-        155,
-        49
+        49,
+        52,
+        168,
+        110,
+        172,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "rushes",
-      "answer_letters": "RUSHES",
+      "answer": "rochelle",
+      "answer_letters": "ROCHELLE",
       "indices": [
-        51,
-        157,
-        100,
-        149,
-        175,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "accurate",
-      "answer_letters": "ACCURATE",
-      "indices": [
-        169,
+        141,
+        41,
         53,
-        166,
-        80,
-        143,
-        22,
-        64,
-        85
+        74,
+        134,
+        17,
+        162,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "geologist",
-      "answer_letters": "GEOLOGIST",
+      "answer": "allegations",
+      "answer_letters": "ALLEGATIONS",
       "indices": [
-        120,
-        5,
-        9,
+        45,
         117,
-        70,
+        61,
+        1,
+        120,
+        75,
+        76,
+        165,
+        2,
+        114,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gunpowder",
+      "answer_letters": "GUNPOWDER",
+      "indices": [
         164,
-        29,
-        185,
-        96
+        80,
+        26,
+        0,
+        163,
+        59,
+        83,
+        186,
+        152
       ]
     },
     {
@@ -71,219 +72,218 @@
       "answer_letters": "OUTFLOW",
       "indices": [
         95,
-        71,
-        54,
+        12,
+        96,
         34,
-        61,
-        41,
-        59
+        62,
+        115,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "snowfall",
-      "answer_letters": "SNOWFALL",
+      "answer": "skopje",
+      "answer_letters": "SKOPJE",
       "indices": [
-        88,
-        26,
-        163,
-        116,
-        146,
-        45,
-        104,
-        62
+        13,
+        113,
+        79,
+        3,
+        11,
+        85
       ]
     },
     {
       "clue": null,
-      "answer": "bowlers",
-      "answer_letters": "BOWLERS",
+      "answer": "by-elections",
+      "answer_letters": "BYELECTIONS",
       "indices": [
         103,
+        69,
+        65,
+        158,
+        109,
+        135,
+        159,
+        139,
         56,
-        7,
-        66,
-        121,
-        81,
+        57,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "resources",
+      "answer_letters": "RESOURCES",
+      "indices": [
+        23,
+        131,
+        124,
+        145,
+        71,
+        154,
+        179,
+        128,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "atherton",
+      "answer_letters": "ATHERTON",
+      "indices": [
+        86,
+        136,
+        127,
+        118,
+        176,
+        126,
+        24,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "towers",
+      "answer_letters": "TOWERS",
+      "indices": [
+        54,
+        70,
+        116,
+        175,
+        111,
         160
       ]
     },
     {
       "clue": null,
-      "answer": "relocated",
-      "answer_letters": "RELOCATED",
-      "indices": [
-        176,
-        150,
-        162,
-        115,
-        179,
-        90,
-        148,
-        118,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "asleep",
-      "answer_letters": "ASLEEP",
-      "indices": [
-        86,
-        13,
-        17,
-        186,
-        171,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty-three",
-      "answer_letters": "TWENTYTHREE",
-      "indices": [
-        126,
-        37,
-        35,
-        46,
-        14,
-        47,
-        20,
-        127,
-        84,
-        52,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "artillery",
-      "answer_letters": "ARTILLERY",
+      "answer": "auditorium",
+      "answer_letters": "AUDITORIUM",
       "indices": [
         19,
-        23,
-        107,
-        60,
-        67,
-        32,
-        134,
+        42,
+        27,
+        29,
+        20,
+        142,
+        143,
+        151,
+        157,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stepmother",
+      "answer_letters": "STEPMOTHER",
+      "indices": [
+        100,
+        14,
+        105,
+        130,
+        138,
+        99,
+        64,
+        8,
+        178,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afterlife",
+      "answer_letters": "AFTERLIFE",
+      "indices": [
+        22,
+        177,
+        148,
+        5,
+        81,
+        104,
+        50,
+        133,
+        183
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        30,
+        35,
+        43,
+        7,
+        18,
         140,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utility",
+      "answer_letters": "UTILITY",
+      "indices": [
+        25,
+        39,
+        102,
+        4,
+        60,
+        107,
         78
       ]
     },
     {
       "clue": null,
-      "answer": "strikeouts",
-      "answer_letters": "STRIKEOUTS",
+      "answer": "philanthropist",
+      "answer_letters": "PHILANTHROPIST",
       "indices": [
-        182,
-        73,
-        152,
-        165,
-        113,
-        1,
-        99,
-        25,
-        43,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "atmosphere",
-      "answer_letters": "ATMOSPHERE",
-      "indices": [
-        75,
-        76,
-        138,
-        2,
-        124,
-        130,
-        74,
-        128,
-        141,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "not-for-profit",
-      "answer_letters": "NOTFORPROFIT",
-      "indices": [
-        114,
-        79,
-        180,
-        133,
-        24,
-        91,
         174,
-        111,
-        142,
-        16,
-        38,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unlike",
-      "answer_letters": "UNLIKE",
-      "indices": [
-        12,
-        30,
-        158,
-        110,
-        170,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "projectile",
-      "answer_letters": "PROJECTILE",
-      "indices": [
-        98,
-        132,
-        18,
-        11,
-        131,
-        135,
-        159,
-        123,
-        4,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "humphrey",
-      "answer_letters": "HUMPHREY",
-      "indices": [
         108,
-        42,
-        168,
-        3,
-        8,
-        154,
-        183,
-        69
+        55,
+        32,
+        90,
+        94,
+        180,
+        149,
+        84,
+        9,
+        98,
+        33,
+        101,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "definition",
-      "answer_letters": "DEFINITION",
+      "answer": "hillary",
+      "answer_letters": "HILLARY",
       "indices": [
-        83,
-        178,
-        177,
-        139,
-        94,
-        33,
-        136,
-        50,
-        145,
-        57
+        40,
+        38,
+        66,
+        67,
+        169,
+        132,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "differences",
+      "answer_letters": "DIFFERENCES",
+      "indices": [
+        119,
+        123,
+        146,
+        16,
+        150,
+        91,
+        121,
+        184,
+        166,
+        171,
+        88
       ]
     }
   ],

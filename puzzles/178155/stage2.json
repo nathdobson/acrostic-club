@@ -6,155 +6,44 @@
   "clues": [
     {
       "clue": null,
-      "answer": "volume",
-      "answer_letters": "VOLUME",
+      "answer": "voodoo",
+      "answer_letters": "VOODOO",
       "indices": [
-        16,
-        28,
-        35,
-        177,
-        81,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        57,
-        126,
-        118,
-        140,
-        48,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "needed",
-      "answer_letters": "NEEDED",
-      "indices": [
-        144,
-        119,
-        127,
-        77,
-        5,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newborn",
-      "answer_letters": "NEWBORN",
-      "indices": [
-        133,
-        12,
-        67,
-        94,
+        169,
         115,
-        178,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "choose",
-      "answer_letters": "CHOOSE",
-      "indices": [
-        120,
-        8,
         112,
-        153,
-        149,
-        98
+        29,
+        176,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "high-rise",
-      "answer_letters": "HIGHRISE",
+      "answer": "ability",
+      "answer_letters": "ABILITY",
       "indices": [
-        105,
-        34,
-        134,
-        62,
-        52,
-        102,
-        64,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "otherwise",
-      "answer_letters": "OTHERWISE",
-      "indices": [
-        54,
-        61,
-        79,
-        180,
-        53,
-        33,
-        20,
-        139,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "willow",
-      "answer_letters": "WILLOW",
-      "indices": [
-        116,
-        129,
-        148,
-        91,
-        69,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "submit",
-      "answer_letters": "SUBMIT",
-      "indices": [
-        123,
-        40,
+        30,
         74,
-        46,
-        136,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hollow",
-      "answer_letters": "HOLLOW",
-      "indices": [
-        68,
-        49,
-        166,
-        36,
-        84,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "automobile",
-      "answer_letters": "AUTOMOBILE",
-      "indices": [
-        121,
-        122,
-        109,
-        143,
-        50,
-        9,
-        41,
-        167,
+        20,
         13,
-        124
+        45,
+        42,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        137,
+        124,
+        33,
+        149,
+        55,
+        15,
+        127,
+        162
       ]
     },
     {
@@ -162,153 +51,264 @@
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
-        137,
-        147,
-        145,
-        29,
-        4,
-        76
+        58,
+        12,
+        95,
+        38,
+        166,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "greenwood",
-      "answer_letters": "GREENWOOD",
+      "answer": "compute",
+      "answer_letters": "COMPUTE",
       "indices": [
-        23,
-        113,
-        165,
-        168,
-        173,
-        89,
-        39,
-        63,
-        25
+        120,
+        51,
+        81,
+        0,
+        177,
+        109,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "however",
-      "answer_letters": "HOWEVER",
+      "answer": "hiding",
+      "answer_letters": "HIDING",
       "indices": [
         44,
-        160,
-        7,
-        154,
-        99,
-        130,
+        14,
+        25,
+        132,
+        156,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obsession",
+      "answer_letters": "OBSESSION",
+      "indices": [
+        39,
+        94,
+        179,
+        170,
+        155,
+        64,
+        90,
+        84,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whoever",
+      "answer_letters": "WHOEVER",
+      "indices": [
+        89,
+        8,
+        143,
+        145,
+        16,
+        165,
         114
       ]
     },
     {
       "clue": null,
-      "answer": "amplifier",
-      "answer_letters": "AMPLIFIER",
+      "answer": "submitted",
+      "answer_letters": "SUBMITTED",
       "indices": [
-        30,
-        141,
-        0,
-        181,
-        14,
-        182,
-        172,
-        1,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invited",
-      "answer_letters": "INVITED",
-      "indices": [
-        45,
-        103,
-        131,
-        90,
-        157,
-        17,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikolai",
-      "answer_letters": "NIKOLAI",
-      "indices": [
-        58,
-        97,
-        162,
-        51,
-        92,
-        86,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "omitted",
-      "answer_letters": "OMITTED",
-      "indices": [
-        72,
-        107,
-        106,
-        42,
-        75,
-        95,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bombed",
-      "answer_letters": "BOMBED",
-      "indices": [
-        11,
-        2,
-        111,
+        123,
+        122,
         164,
-        142,
-        18
+        141,
+        80,
+        83,
+        75,
+        5,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "odyssey",
-      "answer_letters": "ODYSSEY",
+      "answer": "humble",
+      "answer_letters": "HUMBLE",
       "indices": [
-        176,
-        59,
-        87,
-        155,
-        179,
-        170,
+        68,
+        73,
+        107,
+        41,
+        4,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "albeit",
+      "answer_letters": "ALBEIT",
+      "indices": [
+        86,
+        148,
+        11,
+        98,
+        102,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
+      "indices": [
+        103,
+        69,
+        126,
+        2,
+        71,
         175
       ]
     },
     {
       "clue": null,
-      "answer": "dunlop",
-      "answer_letters": "DUNLOP",
+      "answer": "giulio",
+      "answer_letters": "GIULIO",
       "indices": [
-        38,
-        73,
-        156,
-        96,
-        110,
-        3
+        134,
+        167,
+        40,
+        91,
+        129,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "yeovil",
-      "answer_letters": "YEOVIL",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        105,
+        140,
+        36,
+        92,
+        28,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "allied",
+      "answer_letters": "ALLIED",
+      "indices": [
+        121,
+        35,
+        181,
+        97,
+        119,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
+      "indices": [
+        136,
+        46,
+        3,
+        113,
+        9,
+        131,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        144,
+        150,
+        7,
+        61,
+        54,
+        67,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overtime",
+      "answer_letters": "OVERTIME",
+      "indices": [
+        63,
+        99,
+        130,
+        53,
+        157,
+        34,
+        50,
+        180
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bathroom",
+      "answer_letters": "BATHROOM",
+      "indices": [
+        118,
+        57,
+        27,
+        62,
+        161,
+        160,
+        24,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ordered",
+      "answer_letters": "ORDERED",
+      "indices": [
+        72,
+        178,
+        77,
+        168,
+        52,
+        1,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "define",
+      "answer_letters": "DEFINE",
+      "indices": [
+        85,
+        76,
+        182,
+        172,
+        173,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellowish",
+      "answer_letters": "YELLOWISH",
       "indices": [
         31,
-        100,
-        24,
-        169,
-        132,
-        128
+        154,
+        96,
+        128,
+        49,
+        116,
+        106,
+        139,
+        79
       ]
     }
   ],

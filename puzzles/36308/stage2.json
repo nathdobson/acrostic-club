@@ -6,206 +6,210 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mammal",
-      "answer_letters": "MAMMAL",
+      "answer": "mounts",
+      "answer_letters": "MOUNTS",
       "indices": [
-        156,
-        57,
-        110,
+        26,
+        145,
+        109,
+        79,
+        21,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "in-game",
+      "answer_letters": "INGAME",
+      "indices": [
+        22,
+        62,
+        80,
+        134,
         131,
-        38,
-        23
+        113
       ]
     },
     {
       "clue": null,
-      "answer": "issues",
-      "answer_letters": "ISSUES",
-      "indices": [
-        58,
-        102,
-        101,
-        66,
-        141,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "consists",
-      "answer_letters": "CONSISTS",
+      "answer": "competed",
+      "answer_letters": "COMPETED",
       "indices": [
         172,
-        47,
-        108,
-        128,
-        33,
-        12,
-        46,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "helped",
-      "answer_letters": "HELPED",
-      "indices": [
-        51,
-        49,
-        125,
-        124,
-        54,
+        27,
+        156,
+        18,
+        1,
+        69,
+        81,
         0
       ]
     },
     {
       "clue": null,
-      "answer": "earliest",
-      "answer_letters": "EARLIEST",
+      "answer": "halted",
+      "answer_letters": "HALTED",
       "indices": [
-        126,
+        84,
         61,
-        3,
-        176,
-        52,
-        40,
-        14,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "likened",
-      "answer_letters": "LIKENED",
-      "indices": [
-        135,
-        78,
-        153,
-        85,
-        105,
-        9,
+        95,
+        149,
+        120,
         144
       ]
     },
     {
       "clue": null,
-      "answer": "absent",
-      "answer_letters": "ABSENT",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
       "indices": [
-        152,
+        173,
+        37,
         31,
-        114,
-        32,
-        34,
-        21
+        74,
+        126,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "nellie",
-      "answer_letters": "NELLIE",
+      "answer": "likewise",
+      "answer_letters": "LIKEWISE",
       "indices": [
-        59,
+        91,
+        78,
+        159,
         160,
-        24,
-        95,
-        67,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goodwin",
-      "answer_letters": "GOODWIN",
-      "indices": [
-        35,
-        27,
-        177,
-        98,
-        93,
-        22,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eileen",
-      "answer_letters": "EILEEN",
-      "indices": [
-        100,
-        171,
-        53,
-        29,
-        122,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-level",
-      "answer_letters": "LOWLEVEL",
-      "indices": [
-        75,
-        145,
-        151,
-        77,
-        81,
-        169,
-        129,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "o'brien",
-      "answer_letters": "OBRIEN",
-      "indices": [
-        148,
-        89,
-        28,
+        178,
         96,
-        161,
-        112
+        45,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "boosted",
-      "answer_letters": "BOOSTED",
+      "answer": "allowed",
+      "answer_letters": "ALLOWED",
       "indices": [
-        94,
-        92,
-        6,
-        71,
-        139,
-        138,
+        38,
+        176,
+        75,
+        47,
+        93,
+        122,
         63
       ]
     },
     {
       "clue": null,
-      "answer": "useful",
-      "answer_letters": "USEFUL",
+      "answer": "nobles",
+      "answer_letters": "NOBLES",
       "indices": [
-        109,
-        115,
-        16,
-        43,
-        166,
-        74
+        142,
+        136,
+        89,
+        23,
+        138,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
+      "answer": "guests",
+      "answer_letters": "GUESTS",
       "indices": [
-        42,
+        35,
+        166,
+        40,
+        174,
+        5,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        85,
+        139,
+        140,
+        171,
+        170,
+        124,
+        33,
+        104,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "listened",
+      "answer_letters": "LISTENED",
+      "indices": [
+        77,
+        58,
+        20,
+        46,
+        49,
+        147,
+        132,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oneself",
+      "answer_letters": "ONESELF",
+      "indices": [
+        148,
+        112,
+        29,
+        128,
+        141,
+        135,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bodies",
+      "answer_letters": "BODIES",
+      "indices": [
         111,
-        91,
-        136,
-        137,
-        80
+        6,
+        106,
+        67,
+        161,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unknown",
+      "answer_letters": "UNKNOWN",
+      "indices": [
+        66,
+        48,
+        153,
+        108,
+        92,
+        50,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overall",
+      "answer_letters": "OVERALL",
+      "indices": [
+        165,
+        169,
+        9,
+        86,
+        57,
+        125,
+        15
       ]
     },
     {
@@ -213,96 +217,92 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        62,
-        157,
-        162,
-        140,
-        154,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "antelope",
-      "answer_letters": "ANTELOPE",
-      "indices": [
-        104,
-        48,
-        118,
-        120,
-        68,
-        165,
+        34,
+        16,
         56,
-        1
+        51,
+        87,
+        151
       ]
     },
     {
       "clue": null,
-      "answer": "regent",
-      "answer_letters": "REGENT",
+      "answer": "assets",
+      "answer_letters": "ASSETS",
+      "indices": [
+        152,
+        115,
+        114,
+        32,
+        72,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remedy",
+      "answer_letters": "REMEDY",
       "indices": [
         167,
-        90,
-        65,
-        87,
-        147,
-        69
+        17,
+        8,
+        54,
+        98,
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "raphael",
+      "answer_letters": "RAPHAEL",
       "indices": [
-        82,
+        28,
+        2,
+        162,
         119,
-        164,
-        5,
-        84,
-        26
+        127,
+        90,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "okinawa",
-      "answer_letters": "OKINAWA",
+      "answer": "orioles",
+      "answer_letters": "ORIOLES",
       "indices": [
-        170,
-        159,
+        42,
+        3,
+        73,
+        177,
+        53,
+        154,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "treble",
+      "answer_letters": "TREBLE",
+      "indices": [
+        118,
+        82,
+        157,
+        94,
+        68,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inning",
+      "answer_letters": "INNING",
+      "indices": [
+        52,
+        97,
+        59,
         11,
         99,
-        134,
-        178,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tandem",
-      "answer_letters": "TANDEM",
-      "indices": [
-        149,
-        127,
-        142,
-        106,
-        113,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "impressed",
-      "answer_letters": "IMPRESSED",
-      "indices": [
-        73,
-        37,
-        18,
-        86,
-        132,
-        174,
-        20,
-        173,
-        39
+        65
       ]
     }
   ],

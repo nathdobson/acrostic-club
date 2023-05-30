@@ -6,270 +6,70 @@
   "clues": [
     {
       "clue": null,
-      "answer": "wastewater",
-      "answer_letters": "WASTEWATER",
+      "answer": "woodstock",
+      "answer_letters": "WOODSTOCK",
       "indices": [
         58,
-        117,
-        73,
-        61,
-        132,
-        136,
-        169,
-        70,
-        2,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "advent",
-      "answer_letters": "ADVENT",
-      "indices": [
-        60,
-        150,
-        1,
-        154,
-        44,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-level",
-      "answer_letters": "LOWLEVEL",
-      "indices": [
-        83,
-        114,
-        115,
-        11,
-        62,
-        42,
-        6,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tricks",
-      "answer_letters": "TRICKS",
-      "indices": [
-        127,
-        65,
-        72,
-        21,
-        125,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enlist",
-      "answer_letters": "ENLIST",
-      "indices": [
-        148,
-        91,
-        145,
-        43,
-        98,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robots",
-      "answer_letters": "ROBOTS",
-      "indices": [
-        158,
-        10,
-        4,
-        142,
-        156,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        171,
-        128,
-        50,
-        159,
-        63,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italians",
-      "answer_letters": "ITALIANS",
-      "indices": [
-        97,
-        122,
-        69,
-        113,
-        110,
-        94,
-        141,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reports",
-      "answer_letters": "REPORTS",
-      "indices": [
-        134,
-        111,
-        168,
-        79,
-        40,
-        9,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        118,
-        41,
-        139,
-        86,
-        164,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
-      "indices": [
-        160,
-        75,
-        89,
-        17,
-        18,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "phylogeny",
-      "answer_letters": "PHYLOGENY",
-      "indices": [
-        26,
-        131,
-        24,
-        106,
         137,
-        45,
-        56,
-        152,
-        15
+        114,
+        150,
+        121,
+        9,
+        128,
+        124,
+        139
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "allied",
+      "answer_letters": "ALLIED",
       "indices": [
-        133,
-        121,
-        36,
-        90,
-        47,
+        81,
+        11,
+        106,
+        86,
+        148,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        113,
+        132,
+        103,
+        146,
+        161,
         39
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "thrive",
+      "answer_letters": "THRIVE",
       "indices": [
-        147,
-        0,
-        161,
-        68,
-        130,
-        29
+        88,
+        157,
+        158,
+        22,
+        42,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "trunks",
-      "answer_letters": "TRUNKS",
-      "indices": [
-        99,
-        77,
-        105,
-        7,
-        92,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
-      "indices": [
-        103,
-        146,
-        170,
-        31,
-        53,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "electrode",
-      "answer_letters": "ELECTRODE",
+      "answer": "eldest",
+      "answer_letters": "ELDEST",
       "indices": [
         5,
-        109,
-        64,
-        153,
-        38,
-        138,
-        27,
-        119,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aesthetics",
-      "answer_letters": "AESTHETICS",
-      "indices": [
-        81,
-        33,
-        28,
-        49,
-        157,
-        30,
-        67,
-        123,
-        124,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intended",
-      "answer_letters": "INTENDED",
-      "indices": [
-        22,
-        55,
-        88,
-        76,
-        80,
-        12,
+        82,
+        107,
         166,
-        19
+        172,
+        99
       ]
     },
     {
@@ -277,13 +77,213 @@
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
-        95,
+        77,
+        89,
+        24,
+        156,
         165,
-        84,
-        143,
-        59,
         14,
-        78
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
+      "indices": [
+        125,
+        10,
+        50,
+        159,
+        63,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italy's",
+      "answer_letters": "ITALYS",
+      "indices": [
+        133,
+        143,
+        36,
+        83,
+        15,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rivers",
+      "answer_letters": "RIVERS",
+      "indices": [
+        95,
+        72,
+        1,
+        33,
+        138,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nationale",
+      "answer_letters": "NATIONALE",
+      "indices": [
+        7,
+        151,
+        38,
+        97,
+        79,
+        55,
+        169,
+        109,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utility",
+      "answer_letters": "UTILITY",
+      "indices": [
+        105,
+        130,
+        110,
+        145,
+        41,
+        122,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "passports",
+      "answer_letters": "PASSPORTS",
+      "indices": [
+        26,
+        117,
+        73,
+        28,
+        75,
+        104,
+        134,
+        61,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insert",
+      "answer_letters": "INSERT",
+      "indices": [
+        123,
+        118,
+        102,
+        64,
+        65,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        152,
+        0,
+        45,
+        162,
+        67,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thickness",
+      "answer_letters": "THICKNESS",
+      "indices": [
+        23,
+        59,
+        43,
+        21,
+        92,
+        147,
+        30,
+        78,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hawthorn",
+      "answer_letters": "HAWTHORN",
+      "indices": [
+        68,
+        94,
+        136,
+        96,
+        131,
+        17,
+        40,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
+      "indices": [
+        111,
+        80,
+        12,
+        142,
+        115,
+        54,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "acceptable",
+      "answer_letters": "ACCEPTABLE",
+      "indices": [
+        69,
+        153,
+        53,
+        56,
+        168,
+        127,
+        60,
+        4,
+        18,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
+        90,
+        141,
+        70,
+        47,
+        171,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "returns",
+      "answer_letters": "RETURNS",
+      "indices": [
+        48,
+        6,
+        49,
+        160,
+        170,
+        91,
+        52
       ]
     }
   ],

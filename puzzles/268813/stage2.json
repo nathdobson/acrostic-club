@@ -6,133 +6,132 @@
   "clues": [
     {
       "clue": null,
-      "answer": "positive",
-      "answer_letters": "POSITIVE",
+      "answer": "pivotal",
+      "answer_letters": "PIVOTAL",
       "indices": [
         123,
-        58,
-        25,
         117,
-        97,
-        17,
-        180,
-        143
+        28,
+        66,
+        0,
+        140,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "equals",
-      "answer_letters": "EQUALS",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        4,
+        45,
+        59,
+        35,
+        118,
+        27,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toulouse",
+      "answer_letters": "TOULOUSE",
+      "indices": [
+        173,
+        113,
+        11,
+        172,
+        58,
+        50,
+        46,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "equivalents",
+      "answer_letters": "EQUIVALENTS",
+      "indices": [
+        63,
         73,
         74,
-        80,
-        32,
-        67
+        53,
+        54,
+        130,
+        56,
+        72,
+        176,
+        167,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "tomatoes",
-      "answer_letters": "TOMATOES",
+      "answer": "riviera",
+      "answer_letters": "RIVIERA",
       "indices": [
-        141,
-        118,
-        126,
-        177,
-        15,
-        122,
-        99,
-        46
+        144,
+        179,
+        180,
+        85,
+        181,
+        156,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "elevations",
-      "answer_letters": "ELEVATIONS",
+      "answer": "whether",
+      "answer_letters": "WHETHER",
       "indices": [
-        83,
-        131,
-        155,
-        28,
-        110,
-        47,
-        147,
-        34,
-        7,
-        49
+        102,
+        16,
+        152,
+        68,
+        168,
+        4,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        175,
-        154,
-        81,
-        44,
-        38,
-        79,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whatever",
-      "answer_letters": "WHATEVER",
-      "indices": [
-        150,
-        151,
-        136,
-        93,
-        162,
-        30,
-        45,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "author",
-      "answer_letters": "AUTHOR",
+      "answer": "attach",
+      "answer_letters": "ATTACH",
       "indices": [
         31,
-        11,
-        116,
-        1,
-        113,
-        100
+        153,
+        76,
+        80,
+        12,
+        151
       ]
     },
     {
       "clue": null,
-      "answer": "thrive",
-      "answer_letters": "THRIVE",
+      "answer": "tottenham",
+      "answer_letters": "TOTTENHAM",
       "indices": [
-        37,
-        103,
-        3,
-        42,
-        52,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "teammates",
-      "answer_letters": "TEAMMATES",
-      "indices": [
-        68,
-        181,
-        75,
-        95,
-        65,
-        96,
         159,
-        169,
-        120
+        122,
+        98,
+        86,
+        104,
+        119,
+        1,
+        177,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thames",
+      "answer_letters": "THAMES",
+      "indices": [
+        47,
+        154,
+        70,
+        126,
+        143,
+        145
       ]
     },
     {
@@ -140,160 +139,161 @@
       "answer": "statutes",
       "answer_letters": "STATUTES",
       "indices": [
-        91,
-        43,
-        127,
-        124,
+        112,
+        44,
+        55,
+        141,
         115,
-        134,
-        104,
-        165
+        124,
+        169,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "battista",
-      "answer_letters": "BATTISTA",
+      "answer": "batsman",
+      "answer_letters": "BATSMAN",
       "indices": [
         161,
-        163,
-        0,
-        86,
-        125,
+        96,
+        105,
         148,
-        98,
-        140
+        79,
+        127,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
       "indices": [
-        56,
-        130,
-        102,
-        41,
-        26,
-        172
+        32,
+        110,
+        139,
+        82,
+        155,
+        93,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "intervals",
-      "answer_letters": "INTERVALS",
+      "answer": "invasive",
+      "answer_letters": "INVASIVE",
       "indices": [
-        179,
-        176,
-        61,
-        107,
-        27,
-        54,
-        55,
-        128,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nineteenth",
-      "answer_letters": "NINETEENTH",
-      "indices": [
+        29,
         92,
+        30,
+        171,
+        120,
         158,
-        18,
-        152,
-        164,
-        90,
-        2,
-        119,
-        167,
-        13
+        52,
+        162
       ]
     },
     {
       "clue": null,
-      "answer": "dartmouth",
-      "answer_letters": "DARTMOUTH",
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
+      "indices": [
+        18,
+        34,
+        43,
+        99,
+        150,
+        8,
+        100,
+        164,
+        103,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "defeated",
+      "answer_letters": "DEFEATED",
       "indices": [
         88,
-        22,
-        144,
-        153,
-        139,
-        89,
-        50,
-        178,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheriff",
-      "answer_letters": "SHERIFF",
-      "indices": [
-        5,
-        135,
-        63,
-        108,
-        29,
-        59,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isolated",
-      "answer_letters": "ISOLATED",
-      "indices": [
-        53,
-        112,
-        8,
-        114,
-        171,
-        173,
         39,
+        41,
+        77,
+        136,
+        61,
+        83,
         71
       ]
     },
     {
       "clue": null,
-      "answer": "ghetto",
-      "answer_letters": "GHETTO",
+      "answer": "smith's",
+      "answer_letters": "SMITHS",
+      "indices": [
+        23,
+        65,
+        147,
+        134,
+        106,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "illustrates",
+      "answer_letters": "ILLUSTRATES",
+      "indices": [
+        42,
+        128,
+        114,
+        26,
+        49,
+        37,
+        175,
+        75,
+        97,
+        174,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ghosts",
+      "answer_letters": "GHOSTS",
       "indices": [
         19,
-        16,
-        77,
-        105,
-        142,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hirsch",
-      "answer_letters": "HIRSCH",
-      "indices": [
-        106,
-        85,
-        156,
-        23,
-        12,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tablets",
-      "answer_letters": "TABLETS",
-      "indices": [
-        137,
-        70,
-        82,
-        132,
-        174,
-        76,
+        38,
+        89,
+        5,
+        178,
         20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "harriet",
+      "answer_letters": "HARRIET",
+      "indices": [
+        62,
+        163,
+        108,
+        51,
+        17,
+        107,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thistle",
+      "answer_letters": "THISTLE",
+      "indices": [
+        15,
+        13,
+        125,
+        165,
+        116,
+        132,
+        90
       ]
     }
   ],

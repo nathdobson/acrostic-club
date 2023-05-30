@@ -6,98 +6,101 @@
   "clues": [
     {
       "clue": null,
-      "answer": "repeats",
-      "answer_letters": "REPEATS",
+      "answer": "rebirth",
+      "answer_letters": "REBIRTH",
       "indices": [
-        45,
-        2,
-        31,
-        170,
-        178,
-        75,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "itself",
-      "answer_letters": "ITSELF",
-      "indices": [
-        74,
-        121,
-        57,
-        159,
-        142,
-        81
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "clarinet",
-      "answer_letters": "CLARINET",
-      "indices": [
-        102,
-        175,
-        5,
-        33,
-        66,
-        89,
-        95,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
-      "indices": [
-        139,
-        108,
+        63,
+        162,
         99,
+        55,
         28,
-        77,
-        41
+        133,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "interest",
+      "answer_letters": "INTEREST",
       "indices": [
-        135,
-        13,
-        113,
-        173,
-        124,
-        164
+        68,
+        72,
+        93,
+        154,
+        33,
+        170,
+        126,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "rejected",
-      "answer_letters": "REJECTED",
+      "answer": "chechen",
+      "answer_letters": "CHECHEN",
       "indices": [
-        78,
-        149,
+        56,
+        158,
+        108,
+        47,
+        84,
+        95,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hubert",
+      "answer_letters": "HUBERT",
+      "indices": [
+        26,
+        15,
+        119,
+        38,
+        45,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adjust",
+      "answer_letters": "ADJUST",
+      "indices": [
+        59,
+        117,
         100,
-        143,
-        172,
-        136,
-        90,
-        131
+        174,
+        35,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "deemed",
-      "answer_letters": "DEEMED",
+      "answer": "retake",
+      "answer_letters": "RETAKE",
+      "indices": [
+        179,
+        85,
+        54,
+        5,
+        88,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deployment",
+      "answer_letters": "DEPLOYMENT",
       "indices": [
         61,
-        73,
-        48,
-        86,
-        162,
-        111
+        165,
+        31,
+        142,
+        51,
+        3,
+        129,
+        20,
+        60,
+        164
       ]
     },
     {
@@ -106,200 +109,197 @@
       "answer_letters": "WESSEX",
       "indices": [
         22,
-        140,
-        37,
-        35,
-        64,
+        73,
+        57,
+        97,
+        2,
         39
       ]
     },
     {
       "clue": null,
-      "answer": "retake",
-      "answer_letters": "RETAKE",
+      "answer": "refugees",
+      "answer_letters": "REFUGEES",
       "indices": [
-        166,
-        154,
-        147,
-        12,
-        88,
-        112
+        78,
+        112,
+        81,
+        120,
+        7,
+        143,
+        116,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "insights",
-      "answer_letters": "INSIGHTS",
+      "answer": "impetus",
+      "answer_letters": "IMPETUS",
       "indices": [
-        53,
-        153,
-        104,
-        123,
+        74,
+        86,
+        50,
+        140,
+        75,
+        181,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
+      "indices": [
         67,
         94,
-        103,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guthrie",
-      "answer_letters": "GUTHRIE",
-      "indices": [
-        180,
-        181,
-        106,
-        169,
-        179,
-        55,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "henrietta",
-      "answer_letters": "HENRIETTA",
-      "indices": [
-        107,
-        128,
-        72,
-        63,
-        68,
-        20,
-        18,
-        83,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thwarted",
-      "answer_letters": "THWARTED",
-      "indices": [
-        157,
-        76,
-        155,
-        59,
-        6,
-        168,
-        182,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bethlehem",
-      "answer_letters": "BETHLEHEM",
-      "indices": [
-        119,
-        127,
-        25,
-        134,
-        52,
-        101,
-        148,
-        27,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
-      "indices": [
-        65,
-        130,
-        60,
-        7,
-        163,
-        1,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attached",
-      "answer_letters": "ATTACHED",
-      "indices": [
-        46,
-        34,
-        0,
-        24,
-        56,
-        26,
-        165,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "co-authored",
-      "answer_letters": "COAUTHORED",
-      "indices": [
-        47,
-        69,
-        42,
-        98,
-        16,
-        84,
-        32,
-        43,
-        116,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kyushu",
-      "answer_letters": "KYUSHU",
-      "indices": [
-        152,
-        3,
-        174,
-        145,
-        19,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "between",
-      "answer_letters": "BETWEEN",
-      "indices": [
-        161,
-        85,
-        138,
-        91,
         23,
-        38,
+        124,
+        163,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
+      "indices": [
+        19,
+        98,
+        18,
+        147,
+        32,
         70
       ]
     },
     {
       "clue": null,
-      "answer": "outpost",
-      "answer_letters": "OUTPOST",
+      "answer": "trustee",
+      "answer_letters": "TRUSTEE",
       "indices": [
-        80,
-        120,
-        93,
-        50,
-        14,
-        97,
-        54
+        136,
+        43,
+        8,
+        37,
+        83,
+        182,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "bandwidth",
+      "answer_letters": "BANDWIDTH",
       "indices": [
+        13,
+        135,
+        89,
+        111,
+        41,
+        123,
+        176,
+        34,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leather",
+      "answer_letters": "LEATHER",
+      "indices": [
+        65,
+        90,
+        24,
+        121,
+        76,
+        159,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aesthetic",
+      "answer_letters": "AESTHETIC",
+      "indices": [
+        46,
+        127,
+        145,
+        157,
+        134,
+        48,
+        16,
+        53,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cottage",
+      "answer_letters": "COTTAGE",
+      "indices": [
+        172,
+        173,
+        103,
+        138,
+        12,
+        180,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
+      "indices": [
+        152,
+        169,
         150,
-        51,
-        8,
+        113,
+        128,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "beheaded",
+      "answer_letters": "BEHEADED",
+      "indices": [
+        161,
+        27,
+        1,
+        101,
+        178,
+        10,
+        9,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        69,
         115,
-        158,
-        30
+        25,
+        114,
+        91,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellowish",
+      "answer_letters": "YELLOWISH",
+      "indices": [
+        109,
+        130,
+        175,
+        52,
+        14,
+        155,
+        66,
+        144,
+        107
       ]
     }
   ],

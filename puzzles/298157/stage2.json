@@ -6,170 +6,173 @@
   "clues": [
     {
       "clue": null,
-      "answer": "monthly",
-      "answer_letters": "MONTHLY",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
-        49,
-        147,
-        83,
-        37,
+        141,
+        1,
+        122,
+        118,
+        68,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        135,
+        132,
+        11,
+        116,
         26,
-        107,
-        150
+        31
       ]
     },
     {
       "clue": null,
-      "answer": "one-hour",
-      "answer_letters": "ONEHOUR",
+      "answer": "likeness",
+      "answer_letters": "LIKENESS",
       "indices": [
-        152,
-        153,
-        27,
-        38,
-        97,
-        2,
-        105
+        13,
+        109,
+        65,
+        20,
+        69,
+        113,
+        138,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "lloyd's",
-      "answer_letters": "LLOYDS",
-      "indices": [
-        9,
-        149,
-        169,
-        114,
-        165,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "involve",
-      "answer_letters": "INVOLVE",
+      "answer": "inherently",
+      "answer_letters": "INHERENTLY",
       "indices": [
         21,
-        66,
-        72,
-        95,
+        110,
+        85,
+        61,
+        90,
+        71,
+        12,
+        170,
         63,
-        22,
-        78
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "eyewitness",
-      "answer_letters": "EYEWITNESS",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
       "indices": [
-        115,
-        6,
-        20,
-        60,
-        11,
-        155,
-        119,
-        17,
-        87,
+        159,
+        33,
+        126,
+        86,
+        152,
+        8,
+        102,
+        50,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhymes",
+      "answer_letters": "RHYMES",
+      "indices": [
+        79,
+        101,
+        130,
+        4,
+        129,
         58
       ]
     },
     {
       "clue": null,
-      "answer": "retire",
-      "answer_letters": "RETIRE",
+      "answer": "ellison",
+      "answer_letters": "ELLISON",
       "indices": [
-        35,
-        159,
-        134,
-        178,
-        39,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eighteen",
-      "answer_letters": "EIGHTEEN",
-      "indices": [
-        55,
-        57,
-        111,
-        45,
-        29,
-        145,
-        61,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-hour",
-      "answer_letters": "TWOHOUR",
-      "indices": [
-        89,
-        161,
-        174,
-        156,
-        34,
-        91,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hickory",
-      "answer_letters": "HICKORY",
-      "indices": [
-        122,
-        32,
-        94,
-        52,
-        1,
-        18,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
-      "indices": [
-        137,
-        168,
-        74,
-        143,
+        80,
+        107,
         96,
-        62
+        57,
+        87,
+        169,
+        83
       ]
     },
     {
       "clue": null,
-      "answer": "mikhail",
-      "answer_letters": "MIKHAIL",
+      "answer": "turkey's",
+      "answer_letters": "TURKEYS",
       "indices": [
-        179,
-        102,
-        65,
-        126,
-        5,
+        29,
+        2,
+        30,
+        172,
+        17,
+        6,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "higher",
+      "answer_letters": "HIGHER",
+      "indices": [
+        162,
+        140,
+        111,
+        54,
+        131,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        23,
+        94,
+        43,
+        40,
+        55,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "munitions",
+      "answer_letters": "MUNITIONS",
+      "indices": [
+        49,
+        91,
+        153,
+        178,
+        89,
         46,
-        108
+        106,
+        128,
+        124
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "indycar",
+      "answer_letters": "INDYCAR",
       "indices": [
-        109,
-        116,
-        31,
-        86,
+        32,
+        168,
+        120,
+        150,
+        19,
         10,
-        85
+        105
       ]
     },
     {
@@ -177,125 +180,122 @@
       "answer": "somehow",
       "answer_letters": "SOMEHOW",
       "indices": [
-        124,
-        166,
-        141,
-        92,
-        54,
-        127,
+        47,
+        157,
+        179,
+        145,
+        177,
+        34,
         76
       ]
     },
     {
       "clue": null,
-      "answer": "assyrian",
-      "answer_letters": "ASSYRIAN",
+      "answer": "author",
+      "answer_letters": "AUTHOR",
       "indices": [
-        50,
-        144,
-        138,
-        75,
-        98,
-        140,
-        118,
-        128
+        5,
+        41,
+        134,
+        156,
+        163,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
-        12,
-        71,
-        175,
-        103,
-        68,
+        119,
+        78,
+        161,
         73,
-        113,
-        172
+        51,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "tennis",
-      "answer_letters": "TENNIS",
+      "answer": "township",
+      "answer_letters": "TOWNSHIP",
       "indices": [
         25,
-        129,
-        110,
-        173,
+        127,
+        175,
+        148,
+        144,
+        45,
         82,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hip-hop",
-      "answer_letters": "HIPHOP",
-      "indices": [
-        162,
-        123,
-        142,
-        177,
-        67,
         16
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
       "indices": [
-        79,
-        43,
-        14,
-        33,
-        77,
-        4,
-        51
+        38,
+        174,
+        9,
+        62,
+        97,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "oncology",
-      "answer_letters": "ONCOLOGY",
+      "answer": "rooney",
+      "answer_letters": "ROONEY",
       "indices": [
-        106,
+        39,
+        67,
+        95,
         136,
-        19,
-        163,
-        13,
-        40,
+        92,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oversight",
+      "answer_letters": "OVERSIGHT",
+      "indices": [
+        143,
+        72,
+        137,
+        74,
+        99,
+        123,
         42,
-        130
+        77,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "photos",
-      "answer_letters": "PHOTOS",
+      "answer": "poorly",
+      "answer_letters": "POORLY",
       "indices": [
-        8,
-        101,
-        157,
-        170,
-        135,
-        99
+        142,
+        147,
+        166,
+        18,
+        108,
+        0
       ]
     },
     {
       "clue": null,
-      "answer": "endured",
-      "answer_letters": "ENDURED",
+      "answer": "evelyn",
+      "answer_letters": "EVELYN",
       "indices": [
-        131,
-        69,
-        120,
-        41,
-        30,
-        23,
-        132
+        27,
+        22,
+        115,
+        149,
+        114,
+        66
       ]
     }
   ],

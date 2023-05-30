@@ -6,62 +6,57 @@
   "clues": [
     {
       "clue": null,
-      "answer": "meanwhile",
-      "answer_letters": "MEANWHILE",
+      "answer": "mystic",
+      "answer_letters": "MYSTIC",
       "indices": [
         55,
-        68,
-        25,
-        88,
-        181,
-        13,
-        125,
-        70,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eastwood",
-      "answer_letters": "EASTWOOD",
-      "indices": [
-        163,
-        145,
+        71,
         2,
-        156,
-        83,
-        110,
-        173,
-        59
+        150,
+        125,
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "radically",
-      "answer_letters": "RADICALLY",
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
       "indices": [
-        29,
-        124,
-        67,
-        100,
-        142,
-        61,
-        41,
-        144,
-        42
+        94,
+        64,
+        35,
+        140,
+        183,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "vacant",
-      "answer_letters": "VACANT",
+      "answer": "rationale",
+      "answer_letters": "RATIONALE",
+      "indices": [
+        54,
+        124,
+        159,
+        166,
+        53,
+        167,
+        5,
+        41,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "vested",
+      "answer_letters": "VESTED",
       "indices": [
         133,
-        113,
-        89,
-        57,
-        114,
-        10
+        14,
+        179,
+        23,
+        177,
+        148
       ]
     },
     {
@@ -69,235 +64,240 @@
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
-        71,
-        17,
-        107,
-        151,
-        92,
+        42,
+        75,
+        89,
+        93,
+        12,
         104
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "nicholson",
+      "answer_letters": "NICHOLSON",
       "indices": [
-        40,
-        96,
-        154,
-        157,
-        99,
-        51
+        114,
+        80,
+        139,
+        0,
+        9,
+        70,
+        178,
+        132,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "plantations",
-      "answer_letters": "PLANTATIONS",
+      "answer": "packed",
+      "answer_letters": "PACKED",
       "indices": [
         123,
-        44,
-        101,
-        153,
-        12,
-        169,
-        23,
-        152,
-        132,
-        97,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estrada",
-      "answer_letters": "ESTRADA",
-      "indices": [
-        116,
-        85,
-        52,
-        54,
-        84,
-        38,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        73,
-        74,
-        130,
-        139,
-        171,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kyushu",
-      "answer_letters": "KYUSHU",
-      "indices": [
+        61,
+        142,
         46,
-        183,
-        65,
-        6,
-        105,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estadio",
-      "answer_letters": "ESTADIO",
-      "indices": [
-        47,
-        178,
-        81,
-        182,
-        37,
-        1,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thanked",
-      "answer_letters": "THANKED",
-      "indices": [
-        76,
-        16,
-        137,
-        120,
-        108,
-        90,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "italia",
-      "answer_letters": "ITALIA",
-      "indices": [
-        80,
-        18,
-        158,
-        176,
-        166,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thesis",
-      "answer_letters": "THESIS",
-      "indices": [
-        150,
-        93,
-        147,
-        33,
-        30,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "undergoes",
-      "answer_letters": "UNDERGOES",
-      "indices": [
-        36,
-        8,
-        66,
-        94,
-        19,
-        115,
-        106,
-        32,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "salient",
-      "answer_letters": "SALIENT",
-      "indices": [
-        62,
-        140,
-        172,
-        98,
         77,
-        167,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        161,
-        162,
-        9,
-        128,
-        146,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "renewed",
-      "answer_letters": "RENEWED",
-      "indices": [
-        117,
-        177,
-        69,
-        20,
-        164,
-        134,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oswald",
-      "answer_letters": "OSWALD",
-      "indices": [
-        87,
-        78,
-        4,
-        49,
-        102,
         21
       ]
     },
     {
       "clue": null,
-      "answer": "ashford",
-      "answer_letters": "ASHFORD",
+      "answer": "establish",
+      "answer_letters": "ESTABLISH",
       "indices": [
-        5,
-        64,
-        0,
-        111,
-        53,
-        135,
-        175
+        163,
+        130,
+        99,
+        49,
+        74,
+        141,
+        152,
+        31,
+        13
       ]
     },
     {
       "clue": null,
-      "answer": "natalie",
-      "answer_letters": "NATALIE",
+      "answer": "abdullah",
+      "answer_letters": "ABDULLAH",
       "indices": [
-        126,
-        129,
-        26,
-        75,
-        141,
+        84,
+        171,
+        175,
+        143,
+        44,
+        144,
+        101,
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "khalifa",
+      "answer_letters": "KHALIFA",
+      "indices": [
+        108,
+        16,
+        182,
+        176,
+        30,
+        111,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastwood",
+      "answer_letters": "EASTWOOD",
+      "indices": [
+        116,
+        145,
+        78,
+        156,
+        181,
+        106,
+        174,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "throws",
+      "answer_letters": "THROWS",
+      "indices": [
+        52,
+        157,
+        162,
+        87,
+        128,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "innate",
+      "answer_letters": "INNATE",
+      "indices": [
         45,
-        14
+        97,
+        153,
+        119,
+        92,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "taiwan",
+      "answer_letters": "TAIWAN",
+      "indices": [
+        10,
+        129,
+        100,
+        83,
+        17,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unwanted",
+      "answer_letters": "UNWANTED",
+      "indices": [
+        65,
+        126,
+        4,
+        57,
+        120,
+        26,
+        47,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shades",
+      "answer_letters": "SHADES",
+      "indices": [
+        62,
+        24,
+        169,
+        121,
+        39,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "guiding",
+      "answer_letters": "GUIDING",
+      "indices": [
+        115,
+        36,
+        98,
+        67,
+        1,
+        69,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "regard",
+      "answer_letters": "REGARD",
+      "indices": [
+        117,
+        32,
+        154,
+        25,
+        29,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        110,
+        146,
+        76,
+        137,
+        164,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "allied",
+      "answer_letters": "ALLIED",
+      "indices": [
+        73,
+        172,
+        102,
+        96,
+        147,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northeastern",
+      "answer_letters": "NORTHEASTERN",
+      "indices": [
+        88,
+        173,
+        19,
+        18,
+        105,
+        90,
+        28,
+        6,
+        81,
+        68,
+        135,
+        58
       ]
     }
   ],
