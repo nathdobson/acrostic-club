@@ -22,7 +22,7 @@ use safe_once_async::sync::AsyncStaticLock;
 use ustr::Ustr;
 use acrostic_core::letter::Letter;
 use crate::conflict_set::ConflictSet;
-use crate::segment::get_alpha;
+// use crate::segment::get_alpha;
 use crate::turtle::{TURTLE, Turtle, TurtleIndex};
 use crate::util::lazy_async::CloneError;
 

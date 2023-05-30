@@ -12,6 +12,7 @@ pub struct LetterString(Vec<Letter>);
 #[derive(Clone)]
 pub struct Grapheme {
     string: String,
+    ascii: String,
     letters: Vec<Letter>,
 }
 
@@ -31,6 +32,7 @@ impl GraphemeString {
             }
             result.push(Grapheme {
                 string: grapheme.to_string(),
+                ascii,
                 letters,
             });
         }
@@ -53,6 +55,12 @@ impl GraphemeString {
             }
         } else { false })
     }
+}
+
+impl Grapheme {
+    pub fn string(&self) -> &str { &self.string }
+    pub fn ascii(&self) -> &str { &self.ascii }
+    pub fn letters(&self) -> &[Letter] { &self.letters }
 }
 
 impl LetterString {

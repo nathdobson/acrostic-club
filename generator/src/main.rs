@@ -53,7 +53,7 @@ use trie::build_trie;
 use crate::chat::{add_chat, ClueClient};
 use crate::quote::add_quote;
 use crate::search::add_answers;
-use crate::segment::add_letters;
+// use crate::segment::add_letters;
 use crate::site::build_site;
 use crate::turtle::build_turtle;
 
@@ -63,7 +63,7 @@ pub mod trie_table;
 pub mod model;
 pub mod search;
 pub mod puzzle;
-pub mod segment;
+// pub mod segment;
 pub mod quote;
 pub mod chat;
 pub mod site;
@@ -75,6 +75,9 @@ pub mod gpt;
 pub mod conflict_set;
 pub mod subseq;
 mod banned;
+mod add_letters;
+
+use add_letters::add_letters;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -155,9 +158,11 @@ async fn main() -> anyhow::Result<()> {
                     if e.downcast_ref::<io::Error>()
                         .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
                     {
-                        eprintln!("puzzle={} {:?}", puzzle, e);
+                        eprintln!("puzzle={} {}", puzzle, e);
                         errors.push(e)
                     }
+                } else {
+                    eprintln!("puzzle={} done", puzzle);
                 }
             }
             mem::drop(client);

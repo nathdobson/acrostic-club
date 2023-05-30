@@ -184,7 +184,7 @@ impl Search {
         for i in 0..10 {
             self.optimize(sol);
             if sol.is_done() {
-                println!("{}", self.format(sol));
+                // println!("{}", self.format(sol));
                 return true;
             }
             self.randomize(sol);
@@ -196,7 +196,7 @@ impl Search {
         if self.anneal(&mut solution) {
             return Some(solution);
         } else {
-            println!("failed: {} {} {}", self.format(&solution), self.access.load(Relaxed), self.cache.len());
+            // println!("failed: {} {} {}", self.format(&solution), self.access.load(Relaxed), self.cache.len());
         }
         return None;
     }
@@ -267,7 +267,7 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
         .bytes()
         .flat_map(|x| Letter::new(x))
         .collect();
-    println!("{:?}", source);
+    // println!("{:?}", source);
     let search = Arc::new(Search::new(quote, source).await?);
     let sol = stream::iter(0..1000).map(|seed| {
         let search = search.clone();
@@ -282,6 +282,7 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
         .next().await
         .ok_or(io::Error::new(ErrorKind::TimedOut, "timed out"))?;
     let words = search.get_words(&sol);
+    let mut rng=XorShiftRng::seed_from_u64(pindex as u64);
     let mut positions: LetterMap<Vec<usize>> = Letter::all()
         .map(|l| {
             let mut result: Vec<_> = puzzle
@@ -291,7 +292,7 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
                 .chars()
                 .positions(|l2| l.to_char() == l2)
                 .collect();
-            result.shuffle(&mut thread_rng());
+            result.shuffle(&mut rng);
             result
         })
         .collect();
@@ -312,8 +313,8 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
     for clue in clues {
         clues2[Letter::new(clue.answer_letters.bytes().next().expect("first letter")).expect("ascii")].push(clue);
     }
-    println!("{:?}", clues2);
-    println!("{:?}", puzzle.source_letters);
+    // println!("{:?}", clues2);
+    // println!("{:?}", puzzle.source_letters);
     let clues3 = puzzle
         .source_letters
         .as_ref()
