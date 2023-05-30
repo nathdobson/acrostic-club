@@ -1,6 +1,6 @@
 {
   "quote": "Not only is there a right to be happy  there is a duty to be happy. So much sadness exists in the world that we are all under obligation to contribute as much joy as lies within our powers.",
-  "quote_letters": "NOT ONLY IS THERE A RIGHT TO BE HAPPY  THERE IS A DUTY TO BE HAPPY SO MUCH SADNESS EXISTS IN THE WORLD THAT WE ARE ALL UNDER OBLIGATION TO CONTRIBUTE AS MUCH JOY AS LIES WITHIN OUR POWERS",
+  "quote_letters": "NOT ONLY IS THERE A RIGHT TO BE HAPPY THERE IS A DUTY TO BE HAPPY SO MUCH SADNESS EXISTS IN THE WORLD THAT WE ARE ALL UNDER OBLIGATION TO CONTRIBUTE AS MUCH JOY AS LIES WITHIN OUR POWERS",
   "source": "John Sutherland Bonnell",
   "source_letters": "JOHNSUTHERLANDBONNELL",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "juliet",
       "answer_letters": "JULIET",
       "indices": [
-        158,
-        119,
-        6,
+        157,
+        145,
+        116,
         9,
-        14,
-        147
+        108,
+        51
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "option",
       "answer_letters": "OPTION",
       "indices": [
-        133,
-        35,
-        106,
-        174,
-        125,
-        141
+        55,
+        62,
+        102,
+        165,
+        27,
+        119
       ]
     },
     {
@@ -35,14 +35,14 @@
       "answer": "humphrey",
       "answer_letters": "HUMPHREY",
       "indices": [
+        72,
+        50,
+        69,
+        63,
+        39,
+        111,
         40,
-        71,
-        70,
-        181,
-        104,
-        15,
-        95,
-        36
+        159
       ]
     },
     {
@@ -50,13 +50,13 @@
       "answer": "notices",
       "answer_letters": "NOTICES",
       "indices": [
-        0,
-        98,
+        140,
+        1,
         2,
-        144,
-        139,
-        113,
-        67
+        143,
+        154,
+        121,
+        185
       ]
     },
     {
@@ -64,14 +64,14 @@
       "answer": "solitary",
       "answer_letters": "SOLITARY",
       "indices": [
-        46,
-        182,
-        117,
-        21,
-        142,
-        111,
-        179,
-        7
+        45,
+        97,
+        99,
+        170,
+        171,
+        129,
+        178,
+        36
       ]
     },
     {
@@ -79,13 +79,13 @@
       "answer": "uppsala",
       "answer_letters": "UPPSALA",
       "indices": [
-        178,
-        64,
-        63,
-        163,
-        33,
-        100,
-        105
+        118,
+        35,
+        34,
+        66,
+        110,
+        6,
+        61
       ]
     },
     {
@@ -93,13 +93,13 @@
       "answer": "timothy",
       "answer_letters": "TIMOTHY",
       "indices": [
-        12,
-        132,
-        153,
-        27,
-        131,
-        13,
-        160
+        105,
+        173,
+        152,
+        139,
+        54,
+        23,
+        7
       ]
     },
     {
@@ -107,13 +107,13 @@
       "answer": "heather",
       "answer_letters": "HEATHER",
       "indices": [
-        94,
-        167,
-        18,
-        136,
-        156,
-        109,
-        123
+        93,
+        166,
+        149,
+        130,
+        103,
+        16,
+        15
       ]
     },
     {
@@ -121,12 +121,12 @@
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
-        16,
-        84,
-        73,
-        45,
-        58,
-        171,
+        82,
+        83,
+        32,
+        21,
+        29,
+        44,
         24
       ]
     },
@@ -135,13 +135,13 @@
       "answer": "rabbits",
       "answer_letters": "RABBITS",
       "indices": [
-        42,
-        62,
-        29,
-        145,
-        85,
-        93,
-        88
+        122,
+        33,
+        57,
+        125,
+        89,
+        146,
+        85
       ]
     },
     {
@@ -149,13 +149,13 @@
       "answer": "lodging",
       "answer_letters": "LODGING",
       "indices": [
-        116,
-        56,
-        101,
-        22,
+        115,
+        181,
+        76,
         128,
-        175,
-        129
+        127,
+        90,
+        22
       ]
     },
     {
@@ -163,15 +163,15 @@
       "answer": "accounted",
       "answer_letters": "ACCOUNTED",
       "indices": [
-        48,
-        72,
-        155,
-        68,
-        146,
-        78,
-        55,
-        30,
-        121
+        161,
+        71,
+        138,
+        67,
+        153,
+        77,
+        141,
+        42,
+        100
       ]
     },
     {
@@ -179,12 +179,12 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        5,
-        43,
-        34,
-        61,
-        83,
-        170
+        0,
+        183,
+        180,
+        60,
+        30,
+        107
       ]
     },
     {
@@ -192,13 +192,13 @@
       "answer": "destroy",
       "answer_letters": "DESTROY",
       "indices": [
-        77,
-        41,
-        168,
-        26,
-        185,
-        140,
-        65
+        49,
+        78,
+        150,
+        92,
+        184,
+        158,
+        52
       ]
     },
     {
@@ -206,12 +206,12 @@
       "answer": "bushes",
       "answer_letters": "BUSHES",
       "indices": [
-        126,
-        51,
-        151,
-        32,
-        148,
-        10
+        144,
+        177,
+        167,
+        155,
+        112,
+        87
       ]
     },
     {
@@ -219,12 +219,12 @@
       "answer": "odessa",
       "answer_letters": "ODESSA",
       "indices": [
-        1,
-        50,
-        122,
-        75,
-        186,
-        76
+        136,
+        120,
+        58,
+        10,
+        80,
+        47
       ]
     },
     {
@@ -232,12 +232,12 @@
       "answer": "narrow",
       "answer_letters": "NARROW",
       "indices": [
-        120,
-        150,
-        20,
-        99,
-        4,
-        108
+        5,
+        114,
+        41,
+        98,
+        176,
+        182
       ]
     },
     {
@@ -245,16 +245,16 @@
       "answer": "noteworthy",
       "answer_letters": "NOTEWORTHY",
       "indices": [
-        134,
-        137,
-        87,
-        59,
-        97,
-        177,
-        112,
+        174,
+        124,
+        12,
+        94,
+        169,
+        4,
+        20,
+        38,
         172,
-        173,
-        53
+        64
       ]
     },
     {
@@ -262,12 +262,12 @@
       "answer": "easter",
       "answer_letters": "EASTER",
       "indices": [
-        184,
+        14,
+        18,
         162,
-        81,
-        103,
-        79,
-        143
+        135,
+        147,
+        142
       ]
     },
     {
@@ -275,14 +275,14 @@
       "answer": "lawsuits",
       "answer_letters": "LAWSUITS",
       "indices": [
-        165,
-        115,
-        183,
-        80,
-        154,
-        90,
-        52,
-        86
+        164,
+        104,
+        96,
+        74,
+        70,
+        131,
+        26,
+        79
       ]
     },
     {
@@ -290,13 +290,13 @@
       "answer": "lothian",
       "answer_letters": "LOTHIAN",
       "indices": [
-        127,
-        159,
-        39,
-        23,
-        166,
-        130,
-        91
+        126,
+        132,
+        86,
+        13,
+        84,
+        75,
+        133
       ]
     }
   ],

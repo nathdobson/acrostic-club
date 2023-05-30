@@ -10,11 +10,11 @@
       "answer_letters": "MATTHEW",
       "indices": [
         179,
-        14,
-        17,
-        149,
+        127,
+        32,
+        42,
         177,
-        97,
+        150,
         44
       ]
     },
@@ -23,12 +23,12 @@
       "answer": "albedo",
       "answer_letters": "ALBEDO",
       "indices": [
-        155,
-        62,
+        77,
+        73,
         21,
-        106,
-        128,
-        11
+        97,
+        103,
+        35
       ]
     },
     {
@@ -36,13 +36,13 @@
       "answer": "roberta",
       "answer_letters": "ROBERTA",
       "indices": [
-        3,
-        144,
+        154,
+        114,
         90,
-        173,
-        151,
-        130,
-        111
+        109,
+        95,
+        48,
+        70
       ]
     },
     {
@@ -51,11 +51,11 @@
       "answer_letters": "INFANT",
       "indices": [
         30,
-        82,
+        26,
         88,
-        123,
-        56,
-        138
+        111,
+        78,
+        93
       ]
     },
     {
@@ -63,12 +63,12 @@
       "answer": "length",
       "answer_letters": "LENGTH",
       "indices": [
-        31,
-        134,
-        10,
+        62,
+        38,
+        82,
         153,
-        59,
-        66
+        84,
+        126
       ]
     },
     {
@@ -76,12 +76,12 @@
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
-        46,
-        114,
+        15,
+        49,
         29,
         69,
         1,
-        53
+        98
       ]
     },
     {
@@ -89,13 +89,13 @@
       "answer": "nonstop",
       "answer_letters": "NONSTOP",
       "indices": [
-        96,
-        131,
-        41,
+        143,
+        171,
+        34,
         75,
-        32,
-        87,
-        136
+        163,
+        144,
+        108
       ]
     },
     {
@@ -103,14 +103,14 @@
       "answer": "nowadays",
       "answer_letters": "NOWADAYS",
       "indices": [
-        115,
-        49,
-        55,
-        61,
-        51,
+        56,
+        131,
+        6,
         167,
-        15,
-        98
+        105,
+        22,
+        46,
+        85
       ]
     },
     {
@@ -118,15 +118,15 @@
       "answer": "elongated",
       "answer_letters": "ELONGATED",
       "indices": [
-        150,
-        63,
-        54,
-        102,
-        72,
-        70,
-        148,
-        38,
-        24
+        94,
+        31,
+        18,
+        10,
+        28,
+        20,
+        59,
+        140,
+        79
       ]
     },
     {
@@ -134,14 +134,14 @@
       "answer": "reworked",
       "answer_letters": "REWORKED",
       "indices": [
-        124,
+        110,
         74,
         13,
-        35,
-        95,
+        25,
+        124,
         81,
-        147,
-        103
+        2,
+        128
       ]
     },
     {
@@ -149,14 +149,14 @@
       "answer": "offended",
       "answer_letters": "OFFENDED",
       "indices": [
-        83,
+        11,
         121,
         166,
         122,
-        26,
-        79,
-        140,
-        119
+        23,
+        141,
+        106,
+        37
       ]
     },
     {
@@ -165,12 +165,12 @@
       "answer_letters": "BAGHDAD",
       "indices": [
         133,
-        117,
-        28,
-        126,
-        141,
-        22,
-        161
+        160,
+        72,
+        159,
+        24,
+        61,
+        51
       ]
     },
     {
@@ -178,18 +178,18 @@
       "answer": "inaccessible",
       "answer_letters": "INACCESSIBLE",
       "indices": [
-        52,
-        71,
-        101,
-        156,
+        58,
+        115,
+        155,
         39,
-        2,
+        156,
+        157,
         99,
-        8,
-        137,
+        53,
+        113,
         146,
-        169,
-        94
+        168,
+        178
       ]
     },
     {
@@ -197,12 +197,12 @@
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
-        34,
-        109,
-        48,
+        41,
+        173,
         92,
-        40,
-        105
+        0,
+        147,
+        161
       ]
     },
     {
@@ -210,12 +210,12 @@
       "answer": "stated",
       "answer_letters": "STATED",
       "indices": [
-        85,
-        93,
-        160,
-        0,
-        4,
-        37
+        8,
+        112,
+        7,
+        17,
+        67,
+        119
       ]
     },
     {
@@ -223,12 +223,12 @@
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
-        171,
-        112,
+        54,
         176,
-        7,
-        6,
-        77
+        130,
+        45,
+        55,
+        14
       ]
     },
     {
@@ -236,11 +236,11 @@
       "answer": "norris",
       "answer_letters": "NORRIS",
       "indices": [
-        78,
-        164,
-        154,
-        110,
-        139,
+        71,
+        87,
+        3,
+        174,
+        52,
         107
       ]
     },
@@ -249,12 +249,12 @@
       "answer": "levant",
       "answer_letters": "LEVANT",
       "indices": [
-        168,
-        67,
+        169,
+        40,
         172,
-        45,
+        123,
         118,
-        163
+        138
       ]
     },
     {
@@ -262,12 +262,12 @@
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
-        58,
-        108,
-        159,
-        18,
-        23,
-        178
+        137,
+        136,
+        66,
+        164,
+        102,
+        134
       ]
     },
     {
@@ -275,12 +275,12 @@
       "answer": "latino",
       "answer_letters": "LATINO",
       "indices": [
-        73,
-        20,
-        42,
-        113,
-        143,
-        25
+        63,
+        101,
+        148,
+        91,
+        96,
+        83
       ]
     },
     {
@@ -288,12 +288,12 @@
       "answer": "attire",
       "answer_letters": "ATTIRE",
       "indices": [
-        127,
-        84,
+        117,
         65,
-        91,
-        174,
-        157
+        149,
+        139,
+        151,
+        4
       ]
     }
   ],

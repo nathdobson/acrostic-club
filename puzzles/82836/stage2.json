@@ -1,6 +1,6 @@
 {
   "quote": "A dark cloud of gloom settled itself on her head and began raining on her day. Her mood went from animated to morose faster than it would get a F1 car to accelerate to full throttle.",
-  "quote_letters": "A DARK CLOUD OF GLOOM SETTLED ITSELF ON HER HEAD AND BEGAN RAINING ON HER DAY HER MOOD WENT FROM ANIMATED TO MOROSE FASTER THAN IT WOULD GET A F CAR TO ACCELERATE TO FULL THROTTLE",
+  "quote_letters": "A DARK CLOUD OF GLOOM SETTLED ITSELF ON HER HEAD AND BEGAN RAINING ON HER DAY HER MOOD WENT FROM ANIMATED TO MOROSE FASTER THAN IT WOULD GET A F'1' CAR TO ACCELERATE TO FULL THROTTLE",
   "source": "Kiran Manral, All Aboard!",
   "source_letters": "KIRANMANRALALLABOARD",
   "clues": [
@@ -10,11 +10,11 @@
       "answer_letters": "KOWLOON",
       "indices": [
         5,
-        110,
-        131,
-        134,
-        164,
-        150,
+        94,
+        87,
+        171,
+        112,
+        18,
         89
       ]
     },
@@ -23,13 +23,13 @@
       "answer": "ideology",
       "answer_letters": "IDEOLOGY",
       "indices": [
-        61,
+        63,
         104,
-        27,
-        132,
-        8,
-        83,
-        16,
+        103,
+        13,
+        17,
+        67,
+        55,
         76
       ]
     },
@@ -38,12 +38,12 @@
       "answer": "romans",
       "answer_letters": "ROMANS",
       "indices": [
-        42,
-        174,
-        109,
+        111,
+        132,
+        95,
         60,
-        57,
-        22
+        98,
+        118
       ]
     },
     {
@@ -51,12 +51,12 @@
       "answer": "alfred",
       "answer_letters": "ALFRED",
       "indices": [
-        75,
-        168,
+        125,
+        34,
         14,
-        147,
         161,
-        2
+        27,
+        135
       ]
     },
     {
@@ -64,12 +64,12 @@
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
-        98,
-        103,
-        24,
-        123,
-        178,
-        47
+        68,
+        23,
+        102,
+        139,
+        158,
+        74
       ]
     },
     {
@@ -77,12 +77,12 @@
       "answer": "mother",
       "answer_letters": "MOTHER",
       "indices": [
-        100,
-        67,
-        176,
-        70,
-        79,
-        121
+        20,
+        153,
+        174,
+        175,
+        164,
+        176
       ]
     },
     {
@@ -92,10 +92,10 @@
       "indices": [
         46,
         137,
-        159,
-        102,
-        172,
-        117
+        3,
+        31,
+        78,
+        155
       ]
     },
     {
@@ -103,15 +103,15 @@
       "answer": "nighttime",
       "answer_letters": "NIGHTTIME",
       "indices": [
-        62,
-        128,
-        65,
+        38,
+        99,
+        16,
         40,
-        149,
-        90,
-        63,
-        95,
-        138
+        119,
+        163,
+        30,
+        100,
+        114
       ]
     },
     {
@@ -119,20 +119,20 @@
       "answer": "reconnaissance",
       "answer_letters": "RECONNAISSANCE",
       "indices": [
-        93,
-        23,
-        153,
-        107,
-        68,
-        64,
-        101,
-        99,
-        32,
-        113,
-        97,
-        38,
+        42,
+        79,
         7,
-        88
+        110,
+        64,
+        57,
+        56,
+        61,
+        22,
+        113,
+        141,
+        62,
+        148,
+        181
       ]
     },
     {
@@ -140,12 +140,12 @@
       "answer": "amount",
       "answer_letters": "AMOUNT",
       "indices": [
-        125,
-        20,
-        94,
+        149,
+        82,
         167,
-        50,
-        129
+        133,
+        126,
+        179
       ]
     },
     {
@@ -153,12 +153,12 @@
       "answer": "looted",
       "answer_letters": "LOOTED",
       "indices": [
-        34,
-        19,
+        134,
         84,
-        139,
-        41,
-        11
+        107,
+        24,
+        71,
+        85
       ]
     },
     {
@@ -166,12 +166,12 @@
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
-        146,
+        162,
+        143,
         116,
-        166,
-        37,
-        72,
-        51
+        177,
+        150,
+        47
       ]
     },
     {
@@ -179,12 +179,12 @@
       "answer": "ludlow",
       "answer_letters": "LUDLOW",
       "indices": [
-        156,
-        133,
-        28,
-        26,
-        9,
-        87
+        172,
+        170,
+        2,
+        8,
+        19,
+        131
       ]
     },
     {
@@ -192,12 +192,12 @@
       "answer": "laughs",
       "answer_letters": "LAUGHS",
       "indices": [
-        169,
-        49,
+        26,
+        97,
         10,
-        55,
-        124,
-        118
+        65,
+        44,
+        32
       ]
     },
     {
@@ -205,12 +205,12 @@
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
-        141,
-        92,
+        117,
         35,
-        54,
-        145,
-        25
+        169,
+        120,
+        157,
+        90
       ]
     },
     {
@@ -219,13 +219,13 @@
       "answer_letters": "BARTLETT",
       "indices": [
         53,
-        56,
-        59,
-        106,
-        17,
-        114,
-        163,
-        171
+        0,
+        4,
+        129,
+        159,
+        33,
+        166,
+        152
       ]
     },
     {
@@ -233,13 +233,13 @@
       "answer": "ordered",
       "answer_letters": "ORDERED",
       "indices": [
-        18,
-        80,
-        74,
+        83,
+        93,
+        28,
         45,
-        4,
-        33,
-        85
+        72,
+        88,
+        51
       ]
     },
     {
@@ -247,16 +247,16 @@
       "answer": "alteration",
       "answer_letters": "ALTERATION",
       "indices": [
-        152,
-        177,
-        175,
-        120,
-        173,
-        3,
-        119,
-        30,
-        13,
-        126
+        49,
+        180,
+        178,
+        160,
+        80,
+        75,
+        106,
+        128,
+        37,
+        50
       ]
     },
     {
@@ -264,15 +264,15 @@
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
-        111,
-        112,
-        31,
-        44,
-        155,
-        158,
-        78,
-        0,
-        82
+        121,
+        9,
+        123,
+        124,
+        41,
+        59,
+        70,
+        101,
+        109
       ]
     },
     {
@@ -280,12 +280,12 @@
       "answer": "defect",
       "answer_letters": "DEFECT",
       "indices": [
-        135,
-        71,
-        143,
-        157,
-        154,
-        160
+        11,
+        138,
+        92,
+        54,
+        156,
+        25
       ]
     }
   ],

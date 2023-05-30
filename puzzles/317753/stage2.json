@@ -1,6 +1,6 @@
 {
   "quote": "The reason why employee relations have lost its sheen in aiding productivity, is to be searched for , within the doors of your corporate structure , i.e. your human resource department.",
-  "quote_letters": "THE REASON WHY EMPLOYEE RELATIONS HAVE LOST ITS SHEEN IN AIDING PRODUCTIVITY IS TO BE SEARCHED FOR  WITHIN THE DOORS OF YOUR CORPORATE STRUCTURE  IE YOUR HUMAN RESOURCE DEPARTMENT",
+  "quote_letters": "THE REASON WHY EMPLOYEE RELATIONS HAVE LOST ITS SHEEN IN AIDING PRODUCTIVITY IS TO BE SEARCHED FOR WITHIN THE DOORS OF YOUR CORPORATE STRUCTURE IE YOUR HUMAN RESOURCE DEPARTMENT",
   "source": "Henrietta Newton Martin",
   "source_letters": "HENRIETTANEWTONMARTIN",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "heroic",
       "answer_letters": "HEROIC",
       "indices": [
-        34,
-        15,
-        165,
-        117,
-        73,
-        90
+        91,
+        37,
+        129,
+        19,
+        60,
+        124
       ]
     },
     {
@@ -22,13 +22,13 @@
       "answer": "evicted",
       "answer_letters": "EVICTED",
       "indices": [
-        133,
+        132,
         72,
-        101,
-        166,
-        136,
-        22,
-        59
+        77,
+        90,
+        139,
+        174,
+        93
       ]
     },
     {
@@ -36,12 +36,12 @@
       "answer": "normal",
       "answer_letters": "NORMAL",
       "indices": [
-        105,
-        66,
-        123,
-        156,
-        172,
-        26
+        9,
+        161,
+        122,
+        173,
+        6,
+        39
       ]
     },
     {
@@ -49,12 +49,12 @@
       "answer": "rushed",
       "answer_letters": "RUSHED",
       "indices": [
-        97,
-        122,
-        162,
-        49,
-        84,
-        169
+        150,
+        149,
+        46,
+        1,
+        51,
+        167
       ]
     },
     {
@@ -62,12 +62,12 @@
       "answer": "insult",
       "answer_letters": "INSULT",
       "indices": [
-        77,
-        55,
-        7,
-        141,
-        39,
-        132
+        29,
+        31,
+        160,
+        153,
+        26,
+        101
       ]
     },
     {
@@ -75,17 +75,17 @@
       "answer": "effectively",
       "answer_letters": "EFFECTIVELY",
       "indices": [
-        37,
-        118,
-        95,
-        109,
-        69,
-        42,
-        54,
-        36,
         92,
+        117,
+        95,
+        25,
+        164,
+        28,
+        58,
+        36,
+        165,
         18,
-        75
+        13
       ]
     },
     {
@@ -93,12 +93,12 @@
       "answer": "theory",
       "answer_letters": "THEORY",
       "indices": [
-        74,
-        154,
-        21,
-        113,
-        114,
-        149
+        131,
+        107,
+        5,
+        96,
+        163,
+        75
       ]
     },
     {
@@ -106,12 +106,12 @@
       "answer": "thrust",
       "answer_letters": "THRUST",
       "indices": [
-        28,
-        91,
-        137,
-        155,
-        46,
-        178
+        0,
+        34,
+        171,
+        68,
+        78,
+        106
       ]
     },
     {
@@ -119,13 +119,13 @@
       "answer": "arcades",
       "answer_letters": "ARCADES",
       "indices": [
-        157,
-        130,
-        139,
-        57,
-        93,
-        170,
-        48
+        35,
+        97,
+        138,
+        155,
+        67,
+        2,
+        32
       ]
     },
     {
@@ -133,13 +133,13 @@
       "answer": "nemesis",
       "answer_letters": "NEMESIS",
       "indices": [
-        31,
-        2,
-        16,
-        25,
-        41,
-        60,
-        32
+        156,
+        50,
+        154,
+        145,
+        86,
+        100,
+        41
       ]
     },
     {
@@ -147,15 +147,15 @@
       "answer": "education",
       "answer_letters": "EDUCATION",
       "indices": [
-        51,
-        111,
-        68,
-        125,
-        27,
-        45,
-        71,
-        19,
-        158
+        108,
+        59,
+        140,
+        69,
+        130,
+        80,
+        54,
+        128,
+        61
       ]
     },
     {
@@ -163,13 +163,13 @@
       "answer": "whereby",
       "answer_letters": "WHEREBY",
       "indices": [
-        100,
-        108,
-        50,
-        173,
-        5,
+        11,
+        152,
+        87,
+        126,
+        159,
         83,
-        120
+        20
       ]
     },
     {
@@ -177,10 +177,10 @@
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
-        174,
-        103,
-        112,
-        164,
+        42,
+        49,
+        81,
+        162,
         62,
         12
       ]
@@ -190,14 +190,14 @@
       "answer": "operated",
       "answer_letters": "OPERATED",
       "indices": [
-        163,
-        171,
-        87,
-        65,
-        35,
-        140,
-        176,
-        67
+        111,
+        64,
+        168,
+        4,
+        170,
+        45,
+        84,
+        110
       ]
     },
     {
@@ -205,12 +205,12 @@
       "answer": "napier",
       "answer_letters": "NAPIER",
       "indices": [
-        177,
-        131,
-        128,
-        44,
-        167,
-        89
+        175,
+        88,
+        169,
+        73,
+        21,
+        136
       ]
     },
     {
@@ -218,12 +218,12 @@
       "answer": "moore's",
       "answer_letters": "MOORES",
       "indices": [
-        175,
-        81,
-        150,
+        16,
+        116,
+        148,
+        24,
         142,
-        147,
-        135
+        114
       ]
     },
     {
@@ -231,13 +231,13 @@
       "answer": "autopsy",
       "answer_letters": "AUTOPSY",
       "indices": [
-        88,
-        151,
-        102,
-        40,
-        64,
-        78,
-        20
+        57,
+        121,
+        74,
+        66,
+        127,
+        7,
+        147
       ]
     },
     {
@@ -245,16 +245,16 @@
       "answer": "repository",
       "answer_letters": "REPOSITORY",
       "indices": [
-        4,
-        143,
+        141,
+        15,
         17,
-        126,
-        86,
-        58,
-        107,
         8,
-        160,
-        13
+        134,
+        44,
+        176,
+        40,
+        113,
+        119
       ]
     },
     {
@@ -262,13 +262,13 @@
       "answer": "two-hour",
       "answer_letters": "TWOHOUR",
       "indices": [
-        70,
-        11,
+        172,
+        99,
+        125,
+        102,
         30,
-        1,
-        96,
-        138,
-        127
+        137,
+        65
       ]
     },
     {
@@ -276,14 +276,14 @@
       "answer": "interior",
       "answer_letters": "INTERIOR",
       "indices": [
-        104,
+        103,
         52,
-        0,
-        161,
-        24,
-        29,
-        121,
-        152
+        70,
+        22,
+        89,
+        71,
+        120,
+        158
       ]
     },
     {
@@ -291,13 +291,13 @@
       "answer": "nations",
       "answer_letters": "NATIONS",
       "indices": [
-        61,
-        6,
-        80,
-        146,
-        129,
-        9,
-        115
+        55,
+        27,
+        135,
+        144,
+        112,
+        104,
+        48
       ]
     }
   ],

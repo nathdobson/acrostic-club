@@ -1,6 +1,6 @@
 {
   "quote": "Greaser ' didn't have anything to do with it. My buddy over there wouldn't have done it. Maybe you would have done the same thing, maybe a friend of yours wouldn't have. It's the individual.",
-  "quote_letters": "GREASER  DIDNT HAVE ANYTHING TO DO WITH IT MY BUDDY OVER THERE WOULDNT HAVE DONE IT MAYBE YOU WOULD HAVE DONE THE SAME THING MAYBE A FRIEND OF YOURS WOULDNT HAVE ITS THE INDIVIDUAL",
+  "quote_letters": "GREASER DIDNT HAVE ANYTHING TO DO WITH IT MY BUDDY OVER THERE WOULDNT HAVE DONE IT MAYBE YOU WOULD HAVE DONE THE SAME THING MAYBE A FRIEND OF YOURS WOULDNT HAVE ITS THE INDIVIDUAL",
   "source": "S.E. Hinton, The Outsiders",
   "source_letters": "SEHINTONTHEOUTSIDERS",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "shadow",
       "answer_letters": "SHADOW",
       "indices": [
-        147,
-        167,
-        72,
-        98,
-        95,
-        63
+        163,
+        156,
+        157,
+        104,
+        29,
+        93
       ]
     },
     {
@@ -22,16 +22,16 @@
       "answer": "everything",
       "answer_letters": "EVERYTHING",
       "indices": [
-        136,
-        159,
-        2,
+        60,
+        101,
+        17,
         6,
-        90,
-        57,
-        15,
-        25,
-        137,
-        0
+        142,
+        12,
+        70,
+        134,
+        121,
+        26
       ]
     },
     {
@@ -39,17 +39,17 @@
       "answer": "half-brother",
       "answer_letters": "HALFBROTHER",
       "indices": [
-        38,
-        158,
-        179,
-        141,
-        46,
-        55,
-        52,
-        155,
-        157,
-        168,
-        134
+        166,
+        84,
+        96,
+        140,
+        86,
+        54,
+        139,
+        154,
+        14,
+        116,
+        145
       ]
     },
     {
@@ -57,13 +57,13 @@
       "answer": "imagine",
       "answer_letters": "IMAGINE",
       "indices": [
-        175,
-        125,
-        3,
-        27,
-        135,
-        78,
-        160
+        174,
+        42,
+        100,
+        122,
+        24,
+        106,
+        87
       ]
     },
     {
@@ -71,14 +71,14 @@
       "answer": "nativity",
       "answer_letters": "NATIVITY",
       "indices": [
-        21,
-        178,
-        13,
-        10,
-        17,
-        121,
-        119,
-        127
+        20,
+        19,
+        40,
+        120,
+        52,
+        161,
+        56,
+        126
       ]
     },
     {
@@ -86,12 +86,12 @@
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
-        41,
-        58,
-        112,
-        44,
-        53,
-        5
+        118,
+        57,
+        107,
+        49,
+        72,
+        111
       ]
     },
     {
@@ -99,12 +99,12 @@
       "answer": "onward",
       "answer_letters": "ONWARD",
       "indices": [
-        106,
-        12,
-        149,
-        126,
-        1,
-        105
+        63,
+        170,
+        34,
+        130,
+        59,
+        47
       ]
     },
     {
@@ -112,13 +112,13 @@
       "answer": "nouveau",
       "answer_letters": "NOUVEAU",
       "indices": [
-        154,
-        150,
-        92,
-        102,
-        129,
-        115,
-        47
+        77,
+        90,
+        91,
+        158,
+        58,
+        177,
+        64
       ]
     },
     {
@@ -126,13 +126,13 @@
       "answer": "thyroid",
       "answer_letters": "THYROID",
       "indices": [
-        166,
-        71,
-        22,
-        146,
-        77,
-        40,
-        76
+        165,
+        37,
+        43,
+        133,
+        143,
+        9,
+        137
       ]
     },
     {
@@ -140,12 +140,12 @@
       "answer": "heyday",
       "answer_letters": "HEYDAY",
       "indices": [
-        100,
-        88,
-        143,
-        32,
-        101,
-        86
+        23,
+        135,
+        21,
+        48,
+        125,
+        85
       ]
     },
     {
@@ -153,12 +153,12 @@
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
-        79,
-        48,
-        116,
-        144,
-        68,
-        153
+        167,
+        10,
+        124,
+        105,
+        136,
+        8
       ]
     },
     {
@@ -166,15 +166,15 @@
       "answer": "obtaining",
       "answer_letters": "OBTAINING",
       "indices": [
-        140,
-        87,
-        110,
-        85,
-        170,
-        26,
-        36,
-        171,
-        123
+        149,
+        127,
+        109,
+        114,
+        172,
+        67,
+        80,
+        11,
+        0
       ]
     },
     {
@@ -182,14 +182,14 @@
       "answer": "unlawful",
       "answer_letters": "UNLAWFUL",
       "indices": [
-        96,
-        122,
-        152,
-        16,
-        94,
-        133,
+        95,
+        25,
         151,
-        66
+        3,
+        148,
+        132,
+        150,
+        65
       ]
     },
     {
@@ -197,13 +197,13 @@
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
-        82,
-        24,
-        81,
-        117,
+        22,
+        110,
+        169,
         73,
-        103,
-        114
+        16,
+        159,
+        113
       ]
     },
     {
@@ -211,13 +211,13 @@
       "answer": "shuttle",
       "answer_letters": "SHUTTLE",
       "indices": [
-        164,
-        111,
-        65,
-        23,
-        37,
-        97,
-        18
+        4,
+        99,
+        144,
+        68,
+        81,
+        178,
+        53
       ]
     },
     {
@@ -225,13 +225,13 @@
       "answer": "invited",
       "answer_letters": "INVITED",
       "indices": [
+        39,
+        153,
         173,
-        107,
-        174,
-        162,
-        69,
-        54,
-        67
+        35,
+        36,
+        5,
+        31
       ]
     },
     {
@@ -239,12 +239,12 @@
       "answer": "doomed",
       "answer_letters": "DOOMED",
       "indices": [
-        138,
-        64,
-        30,
-        43,
-        74,
-        49
+        75,
+        94,
+        32,
+        83,
+        128,
+        66
       ]
     },
     {
@@ -252,14 +252,14 @@
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
-        108,
-        84,
-        128,
-        61,
-        172,
-        11,
-        59,
-        176
+        102,
+        115,
+        45,
+        78,
+        152,
+        171,
+        2,
+        97
       ]
     },
     {
@@ -267,13 +267,13 @@
       "answer": "roadway",
       "answer_letters": "ROADWAY",
       "indices": [
-        60,
-        91,
-        20,
-        9,
-        35,
-        131,
-        50
+        1,
+        76,
+        15,
+        175,
+        62,
+        71,
+        89
       ]
     },
     {
@@ -281,13 +281,13 @@
       "answer": "shutout",
       "answer_letters": "SHUTOUT",
       "indices": [
-        4,
-        120,
-        145,
-        163,
-        33,
-        177,
-        29
+        146,
+        119,
+        46,
+        162,
+        51,
+        176,
+        28
       ]
     }
   ],

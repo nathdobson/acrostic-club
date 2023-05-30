@@ -9,12 +9,12 @@
       "answer": "shafts",
       "answer_letters": "SHAFTS",
       "indices": [
-        150,
-        72,
+        166,
+        167,
         176,
         116,
-        112,
-        59
+        113,
+        139
       ]
     },
     {
@@ -22,14 +22,14 @@
       "answer": "carlisle",
       "answer_letters": "CARLISLE",
       "indices": [
-        24,
-        29,
-        8,
-        94,
-        102,
-        42,
+        91,
+        52,
+        107,
+        69,
+        70,
+        154,
         30,
-        111
+        170
       ]
     },
     {
@@ -37,12 +37,12 @@
       "answer": "output",
       "answer_letters": "OUTPUT",
       "indices": [
-        145,
-        117,
-        141,
-        109,
+        155,
         119,
-        25
+        32,
+        99,
+        117,
+        112
       ]
     },
     {
@@ -50,10 +50,10 @@
       "answer": "tariff",
       "answer_letters": "TARIFF",
       "indices": [
-        86,
-        123,
-        83,
-        87,
+        80,
+        149,
+        120,
+        31,
         128,
         62
       ]
@@ -63,13 +63,13 @@
       "answer": "tropics",
       "answer_letters": "TROPICS",
       "indices": [
-        183,
-        101,
-        155,
+        73,
+        21,
+        17,
         85,
-        12,
-        91,
-        68
+        78,
+        24,
+        75
       ]
     },
     {
@@ -78,11 +78,11 @@
       "answer_letters": "WEALTH",
       "indices": [
         0,
-        66,
-        52,
-        125,
-        136,
-        105
+        23,
+        123,
+        163,
+        76,
+        11
       ]
     },
     {
@@ -90,11 +90,11 @@
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
-        106,
-        50,
+        134,
+        133,
         22,
-        47,
-        110,
+        92,
+        51,
         131
       ]
     },
@@ -103,12 +103,12 @@
       "answer": "summit",
       "answer_letters": "SUMMIT",
       "indices": [
-        154,
-        84,
-        98,
+        150,
+        160,
+        38,
         181,
-        31,
-        64
+        12,
+        183
       ]
     },
     {
@@ -117,11 +117,11 @@
       "answer_letters": "THEYVE",
       "indices": [
         2,
-        167,
-        20,
+        3,
+        56,
         114,
-        169,
-        23
+        6,
+        28
       ]
     },
     {
@@ -129,12 +129,12 @@
       "answer": "estonia",
       "answer_letters": "ESTONIA",
       "indices": [
-        37,
+        39,
         35,
-        32,
-        17,
-        143,
-        54,
+        136,
+        88,
+        79,
+        130,
         152
       ]
     },
@@ -143,12 +143,12 @@
       "answer": "reality",
       "answer_letters": "REALITY",
       "indices": [
-        171,
+        110,
         81,
-        149,
-        55,
-        97,
-        76,
+        156,
+        124,
+        172,
+        64,
         33
       ]
     },
@@ -157,12 +157,12 @@
       "answer": "finely",
       "answer_letters": "FINELY",
       "indices": [
-        133,
-        130,
-        177,
-        142,
-        69,
-        184
+        50,
+        97,
+        143,
+        20,
+        125,
+        9
       ]
     },
     {
@@ -170,15 +170,15 @@
       "answer": "ellsworth",
       "answer_letters": "ELLSWORTH",
       "indices": [
-        134,
-        124,
+        66,
         103,
+        135,
         16,
         48,
-        92,
-        51,
-        80,
-        65
+        145,
+        171,
+        10,
+        105
       ]
     },
     {
@@ -186,12 +186,12 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        135,
-        56,
-        46,
-        70,
-        71,
-        11
+        55,
+        111,
+        65,
+        54,
+        14,
+        46
       ]
     },
     {
@@ -199,12 +199,12 @@
       "answer": "drives",
       "answer_letters": "DRIVES",
       "indices": [
-        95,
-        27,
+        178,
+        82,
         1,
-        6,
-        45,
-        75
+        169,
+        5,
+        147
       ]
     },
     {
@@ -212,12 +212,12 @@
       "answer": "pepper",
       "answer_letters": "PEPPER",
       "indices": [
-        157,
-        39,
-        182,
         19,
-        180,
-        21
+        45,
+        182,
+        157,
+        37,
+        83
       ]
     },
     {
@@ -225,12 +225,12 @@
       "answer": "robbie",
       "answer_letters": "ROBBIE",
       "indices": [
-        82,
-        127,
+        8,
+        47,
         162,
-        159,
-        78,
-        74
+        161,
+        61,
+        164
       ]
     },
     {
@@ -238,12 +238,12 @@
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
-        100,
-        13,
+        106,
+        173,
         174,
-        138,
-        53,
-        28
+        29,
+        71,
+        121
       ]
     },
     {
@@ -251,12 +251,12 @@
       "answer": "thomas",
       "answer_letters": "THOMAS",
       "indices": [
-        113,
-        3,
+        118,
+        72,
         43,
-        38,
-        156,
-        147
+        98,
+        138,
+        42
       ]
     },
     {
@@ -264,13 +264,13 @@
       "answer": "trudeau",
       "answer_letters": "TRUDEAU",
       "indices": [
-        73,
-        120,
-        144,
-        178,
-        5,
+        25,
+        27,
+        93,
+        40,
+        100,
         58,
-        146
+        84
       ]
     },
     {
@@ -278,17 +278,17 @@
       "answer": "ingredients",
       "answer_letters": "INGREDIENTS",
       "indices": [
-        172,
+        87,
+        177,
+        53,
+        101,
+        74,
+        95,
+        102,
+        180,
         89,
-        14,
-        107,
-        36,
-        40,
-        168,
-        7,
-        173,
-        10,
-        166
+        86,
+        59
       ]
     },
     {
@@ -296,14 +296,14 @@
       "answer": "employee",
       "answer_letters": "EMPLOYEE",
       "indices": [
-        121,
+        142,
         44,
-        99,
-        163,
-        88,
-        9,
-        164,
-        170
+        109,
+        94,
+        127,
+        184,
+        36,
+        7
       ]
     },
     {
@@ -311,13 +311,13 @@
       "answer": "subunit",
       "answer_letters": "SUBUNIT",
       "indices": [
-        139,
-        160,
-        161,
-        93,
-        79,
-        61,
-        118
+        68,
+        146,
+        159,
+        144,
+        13,
+        168,
+        141
       ]
     }
   ],

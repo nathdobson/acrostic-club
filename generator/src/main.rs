@@ -34,6 +34,7 @@ use std::io::ErrorKind;
 use std::ops::{Deref, Index, IndexMut};
 use std::path::{Path, PathBuf};
 use std::sync::LazyLock;
+use futures::{SinkExt, stream};
 
 use memmap::MmapOptions;
 use ndarray::Array2;
@@ -78,6 +79,7 @@ mod banned;
 mod add_letters;
 
 use add_letters::add_letters;
+use crate::stream::StreamExt;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -132,7 +134,6 @@ async fn main() -> anyhow::Result<()> {
         }
         Some("puzzle") => {
             let target = args.next().unwrap();
-            let mut errors: Vec<anyhow::Error> = vec![];
             let mut puzzles = BTreeSet::new();
             for puzzle in args {
                 if let Some((start, end)) = puzzle.split_once("-") {
@@ -144,27 +145,36 @@ async fn main() -> anyhow::Result<()> {
                 }
             }
             let (client, cleanup) = ClueClient::new().await?;
-            for puzzle in puzzles {
-                let e: anyhow::Result<()> = try {
-                    match target.deref() {
-                        "quote" => add_quote(puzzle).await?,
-                        "letters" => add_letters(puzzle).await?,
-                        "answers" => add_answers(puzzle).await?,
-                        "chat" => add_chat(puzzle, &client).await?,
-                        x => panic!("Unknown puzzle target {}", x)
+            let concurrency = match target.deref() {
+                "chat" => 10,
+                _ => 1,
+            };
+            let errors = stream::iter(puzzles.into_iter()).map(|puzzle| {
+                let target = &target;
+                let client = &client;
+                async move {
+                    let e: anyhow::Result<()> = try {
+                        match target.deref() {
+                            "quote" => add_quote(puzzle).await?,
+                            "letters" => add_letters(puzzle).await?,
+                            "answers" => add_answers(puzzle).await?,
+                            "chat" => add_chat(puzzle, &client).await?,
+                            x => panic!("Unknown puzzle target {}", x)
+                        }
+                    };
+                    if let Err(e) = e {
+                        if e.downcast_ref::<io::Error>()
+                            .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
+                        {
+                            eprintln!("puzzle={} {}", puzzle, e);
+                            return Some(e);
+                        }
+                    } else {
+                        eprintln!("puzzle={} done", puzzle);
                     }
-                };
-                if let Err(e) = e {
-                    if e.downcast_ref::<io::Error>()
-                        .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
-                    {
-                        eprintln!("puzzle={} {}", puzzle, e);
-                        errors.push(e)
-                    }
-                } else {
-                    eprintln!("puzzle={} done", puzzle);
+                    None
                 }
-            }
+            }).buffered(concurrency).collect::<Vec<Option<anyhow::Error>>>().await;
             mem::drop(client);
             cleanup.cleanup().await?;
             // client.shutdown().await?;

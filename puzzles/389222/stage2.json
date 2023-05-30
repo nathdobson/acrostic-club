@@ -9,12 +9,12 @@
       "answer": "cheung",
       "answer_letters": "CHEUNG",
       "indices": [
-        0,
-        152,
-        98,
-        162,
-        170,
-        61
+        53,
+        136,
+        127,
+        56,
+        148,
+        37
       ]
     },
     {
@@ -22,15 +22,15 @@
       "answer": "off-season",
       "answer_letters": "OFFSEASON",
       "indices": [
-        64,
-        95,
-        161,
+        88,
+        63,
+        79,
         156,
-        108,
-        169,
-        29,
-        167,
-        128
+        40,
+        32,
+        122,
+        133,
+        45
       ]
     },
     {
@@ -38,12 +38,12 @@
       "answer": "norfolk",
       "answer_letters": "NORFOLK",
       "indices": [
-        60,
-        27,
-        43,
-        63,
-        177,
-        81,
+        34,
+        91,
+        115,
+        95,
+        167,
+        163,
         28
       ]
     },
@@ -52,13 +52,13 @@
       "answer": "forbade",
       "answer_letters": "FORBADE",
       "indices": [
-        31,
-        88,
-        96,
+        161,
+        64,
+        15,
         113,
-        153,
-        176,
-        2
+        158,
+        171,
+        121
       ]
     },
     {
@@ -66,15 +66,15 @@
       "answer": "underwood",
       "answer_letters": "UNDERWOOD",
       "indices": [
-        80,
-        45,
-        90,
-        160,
-        5,
+        147,
+        13,
+        176,
+        4,
+        112,
         33,
-        26,
         146,
-        85
+        114,
+        90
       ]
     },
     {
@@ -82,12 +82,12 @@
       "answer": "coffin",
       "answer_letters": "COFFIN",
       "indices": [
-        135,
+        46,
         51,
+        31,
         145,
-        79,
-        12,
-        99
+        93,
+        66
       ]
     },
     {
@@ -95,16 +95,16 @@
       "answer": "initiating",
       "answer_letters": "INITIATING",
       "indices": [
-        106,
-        117,
         55,
+        128,
+        106,
         49,
-        35,
-        32,
-        69,
-        116,
-        22,
-        14
+        18,
+        19,
+        165,
+        21,
+        36,
+        23
       ]
     },
     {
@@ -112,17 +112,17 @@
       "answer": "ultraviolet",
       "answer_letters": "ULTRAVIOLET",
       "indices": [
-        147,
-        9,
+        138,
+        81,
         131,
-        112,
-        158,
+        39,
+        16,
         3,
-        93,
+        97,
         166,
-        1,
-        123,
-        17
+        101,
+        98,
+        151
       ]
     },
     {
@@ -130,13 +130,13 @@
       "answer": "sherman",
       "answer_letters": "SHERMAN",
       "indices": [
-        132,
+        87,
         110,
-        121,
-        15,
+        42,
+        5,
         126,
-        111,
-        142
+        153,
+        99
       ]
     },
     {
@@ -144,12 +144,12 @@
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
-        154,
-        70,
-        174,
-        138,
-        23,
-        136
+        125,
+        105,
+        177,
+        80,
+        61,
+        152
       ]
     },
     {
@@ -157,12 +157,12 @@
       "answer": "herman",
       "answer_letters": "HERMAN",
       "indices": [
-        105,
-        47,
-        39,
-        58,
-        16,
-        84
+        75,
+        2,
+        43,
+        77,
+        111,
+        142
       ]
     },
     {
@@ -170,16 +170,16 @@
       "answer": "evaluation",
       "answer_letters": "EVALUATION",
       "indices": [
-        127,
+        44,
         41,
-        19,
-        107,
-        56,
         8,
-        151,
-        141,
-        91,
-        124
+        107,
+        162,
+        169,
+        17,
+        137,
+        174,
+        170
       ]
     },
     {
@@ -187,12 +187,12 @@
       "answer": "admits",
       "answer_letters": "ADMITS",
       "indices": [
-        83,
+        76,
         67,
-        159,
-        18,
-        129,
-        74
+        140,
+        116,
+        154,
+        173
       ]
     },
     {
@@ -200,12 +200,12 @@
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
-        34,
-        97,
+        22,
+        12,
         143,
-        54,
-        7,
-        163,
+        157,
+        129,
+        25,
         102
       ]
     },
@@ -214,13 +214,13 @@
       "answer": "aground",
       "answer_letters": "AGROUND",
       "indices": [
-        76,
+        71,
         118,
-        115,
-        133,
+        120,
+        27,
         65,
-        148,
-        171
+        117,
+        149
       ]
     },
     {
@@ -228,14 +228,14 @@
       "answer": "ligament",
       "answer_letters": "LIGAMENT",
       "indices": [
-        101,
-        21,
-        37,
-        71,
-        140,
-        4,
-        66,
-        165
+        9,
+        59,
+        14,
+        83,
+        159,
+        78,
+        84,
+        72
       ]
     },
     {
@@ -243,14 +243,14 @@
       "answer": "enlisted",
       "answer_letters": "ENLISTED",
       "indices": [
-        44,
-        13,
-        25,
-        137,
-        122,
-        20,
-        78,
-        149
+        123,
+        124,
+        1,
+        141,
+        132,
+        7,
+        47,
+        100
       ]
     },
     {
@@ -258,12 +258,12 @@
       "answer": "chicks",
       "answer_letters": "CHICKS",
       "indices": [
-        53,
-        157,
-        179,
-        46,
+        135,
+        54,
+        35,
+        0,
         10,
-        87
+        74
       ]
     },
     {
@@ -271,10 +271,10 @@
       "answer": "throws",
       "answer_letters": "THROWS",
       "indices": [
-        125,
-        75,
-        120,
-        114,
+        69,
+        70,
+        96,
+        26,
         104,
         50
       ]
@@ -284,14 +284,14 @@
       "answer": "sediment",
       "answer_letters": "SEDIMENT",
       "indices": [
-        173,
-        40,
-        100,
-        59,
-        77,
-        42,
-        36,
-        72
+        29,
+        160,
+        85,
+        179,
+        58,
+        108,
+        60,
+        20
       ]
     }
   ],

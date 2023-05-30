@@ -9,15 +9,15 @@
       "answer": "attacking",
       "answer_letters": "ATTACKING",
       "indices": [
+        68,
+        168,
+        93,
         58,
-        40,
-        38,
-        19,
-        97,
-        66,
-        15,
-        147,
-        17
+        145,
+        126,
+        134,
+        80,
+        148
       ]
     },
     {
@@ -26,11 +26,11 @@
       "answer_letters": "BOUNTY",
       "indices": [
         28,
-        154,
+        52,
         155,
-        144,
-        72,
-        153
+        135,
+        77,
+        76
       ]
     },
     {
@@ -38,11 +38,11 @@
       "answer": "beyond",
       "answer_letters": "BEYOND",
       "indices": [
-        43,
+        69,
         140,
-        21,
-        96,
-        80,
+        51,
+        101,
+        65,
         7
       ]
     },
@@ -51,12 +51,12 @@
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
-        3,
-        20,
+        55,
+        59,
         35,
-        36,
+        71,
         49,
-        12
+        128
       ]
     },
     {
@@ -64,12 +64,12 @@
       "answer": "giulio",
       "answer_letters": "GIULIO",
       "indices": [
-        111,
-        146,
-        53,
+        26,
+        142,
+        130,
         84,
-        109,
-        137
+        24,
+        8
       ]
     },
     {
@@ -78,11 +78,11 @@
       "answer_letters": "LAYOUT",
       "indices": [
         5,
-        48,
-        76,
+        74,
+        106,
         70,
-        98,
-        107
+        36,
+        122
       ]
     },
     {
@@ -90,14 +90,14 @@
       "answer": "inherent",
       "answer_letters": "INHERENT",
       "indices": [
-        24,
-        102,
-        123,
-        86,
-        131,
-        158,
+        88,
         105,
-        13
+        169,
+        47,
+        171,
+        170,
+        92,
+        72
       ]
     },
     {
@@ -105,12 +105,12 @@
       "answer": "naming",
       "answer_letters": "NAMING",
       "indices": [
-        135,
+        125,
         104,
-        150,
-        64,
-        110,
-        148
+        166,
+        0,
+        138,
+        17
       ]
     },
     {
@@ -118,13 +118,13 @@
       "answer": "economy",
       "answer_letters": "ECONOMY",
       "indices": [
-        119,
-        145,
-        41,
-        25,
-        114,
-        166,
-        106
+        117,
+        90,
+        96,
+        144,
+        154,
+        150,
+        21
       ]
     },
     {
@@ -132,12 +132,12 @@
       "answer": "shelby",
       "answer_letters": "SHELBY",
       "indices": [
-        85,
-        63,
-        83,
+        37,
+        14,
+        163,
         4,
-        69,
-        128
+        43,
+        12
       ]
     },
     {
@@ -145,13 +145,13 @@
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
-        65,
-        88,
-        26,
-        108,
-        22,
+        75,
+        79,
+        111,
+        23,
+        62,
         29,
-        51
+        153
       ]
     },
     {
@@ -159,14 +159,14 @@
       "answer": "enchanted",
       "answer_letters": "ENCHANTED",
       "indices": [
-        117,
-        92,
-        57,
-        14,
-        74,
-        11,
-        62,
-        151,
+        172,
+        157,
+        97,
+        78,
+        10,
+        110,
+        13,
+        86,
         160
       ]
     },
@@ -175,13 +175,13 @@
       "answer": "venetian",
       "answer_letters": "VENETIAN",
       "indices": [
-        139,
-        163,
+        118,
+        158,
         16,
-        172,
-        60,
-        142,
-        10,
+        119,
+        22,
+        31,
+        30,
         141
       ]
     },
@@ -190,11 +190,11 @@
       "answer": "erotic",
       "answer_letters": "EROTIC",
       "indices": [
-        44,
-        32,
-        8,
-        168,
-        79,
+        143,
+        120,
+        129,
+        40,
+        124,
         136
       ]
     },
@@ -203,11 +203,11 @@
       "answer": "reviews",
       "answer_letters": "REVIEWS",
       "indices": [
-        171,
-        47,
-        118,
-        0,
-        170,
+        32,
+        159,
+        139,
+        15,
+        132,
         2,
         113
       ]
@@ -217,12 +217,12 @@
       "answer": "thanks",
       "answer_letters": "THANKS",
       "indices": [
-        122,
-        78,
+        38,
+        108,
         91,
-        125,
-        126,
-        37
+        147,
+        66,
+        85
       ]
     },
     {
@@ -230,9 +230,9 @@
       "answer": "outing",
       "answer_letters": "OUTING",
       "indices": [
-        101,
-        71,
-        77,
+        137,
+        98,
+        107,
         165,
         46,
         81
@@ -243,13 +243,13 @@
       "answer": "one-time",
       "answer_letters": "ONETIME",
       "indices": [
-        52,
-        138,
-        143,
-        93,
-        31,
+        41,
+        20,
+        151,
+        60,
+        146,
         162,
-        132
+        83
       ]
     },
     {
@@ -258,11 +258,11 @@
       "answer_letters": "FINISH",
       "indices": [
         95,
-        134,
-        59,
-        55,
+        3,
+        11,
+        109,
         99,
-        169
+        123
       ]
     },
     {
@@ -270,12 +270,12 @@
       "answer": "aachen",
       "answer_letters": "AACHEN",
       "indices": [
-        30,
-        68,
-        90,
-        23,
-        159,
-        157
+        19,
+        48,
+        57,
+        63,
+        33,
+        116
       ]
     },
     {
@@ -283,13 +283,13 @@
       "answer": "reunion",
       "answer_letters": "REUNION",
       "indices": [
-        120,
-        33,
-        130,
-        116,
-        124,
-        129,
-        75
+        131,
+        44,
+        53,
+        25,
+        64,
+        114,
+        102
       ]
     }
   ],

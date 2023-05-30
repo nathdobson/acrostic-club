@@ -9,12 +9,12 @@
       "answer": "astros",
       "answer_letters": "ASTROS",
       "indices": [
-        63,
+        143,
         135,
-        171,
-        40,
-        132,
-        9
+        28,
+        54,
+        87,
+        51
       ]
     },
     {
@@ -22,13 +22,13 @@
       "answer": "lighter",
       "answer_letters": "LIGHTER",
       "indices": [
-        111,
+        68,
         101,
-        41,
-        29,
-        127,
-        25,
-        170
+        21,
+        45,
+        84,
+        124,
+        107
       ]
     },
     {
@@ -36,13 +36,13 @@
       "answer": "yucatán",
       "answer_letters": "YUCATAN",
       "indices": [
-        86,
-        163,
-        76,
-        17,
-        77,
+        176,
+        47,
+        53,
+        56,
+        95,
         83,
-        74
+        31
       ]
     },
     {
@@ -50,14 +50,14 @@
       "answer": "shooters",
       "answer_letters": "SHOOTERS",
       "indices": [
-        150,
-        128,
-        87,
+        94,
+        29,
+        72,
         112,
-        103,
-        65,
-        64,
-        92
+        175,
+        16,
+        170,
+        102
       ]
     },
     {
@@ -65,14 +65,14 @@
       "answer": "outright",
       "answer_letters": "OUTRIGHT",
       "indices": [
-        46,
-        47,
-        161,
-        107,
-        123,
-        21,
-        153,
-        84
+        132,
+        133,
+        50,
+        99,
+        149,
+        3,
+        82,
+        146
       ]
     },
     {
@@ -80,12 +80,12 @@
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
-        31,
-        61,
-        81,
+        157,
         58,
-        94,
-        175
+        60,
+        129,
+        10,
+        103
       ]
     },
     {
@@ -93,12 +93,12 @@
       "answer": "nasser",
       "answer_letters": "NASSER",
       "indices": [
-        7,
-        56,
-        51,
-        13,
-        154,
-        26
+        74,
+        17,
+        150,
+        131,
+        23,
+        64
       ]
     },
     {
@@ -106,13 +106,13 @@
       "answer": "o'malley",
       "answer_letters": "OMALLEY",
       "indices": [
-        140,
-        168,
-        67,
-        69,
-        68,
-        98,
-        159
+        46,
+        139,
+        172,
+        173,
+        134,
+        91,
+        86
       ]
     },
     {
@@ -120,13 +120,13 @@
       "answer": "elector",
       "answer_letters": "ELECTOR",
       "indices": [
-        75,
-        18,
-        55,
+        109,
+        111,
+        6,
         71,
-        146,
+        152,
         169,
-        162
+        26
       ]
     },
     {
@@ -134,13 +134,13 @@
       "answer": "lithium",
       "answer_letters": "LITHIUM",
       "indices": [
-        173,
-        166,
-        50,
+        69,
+        12,
+        44,
         15,
-        34,
-        133,
-        139
+        145,
+        88,
+        168
       ]
     },
     {
@@ -148,12 +148,12 @@
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
-        114,
-        145,
-        106,
-        45,
-        109,
-        2
+        154,
+        34,
+        161,
+        49,
+        117,
+        40
       ]
     },
     {
@@ -161,14 +161,14 @@
       "answer": "visiting",
       "answer_letters": "VISITING",
       "indices": [
-        118,
-        12,
-        100,
-        4,
-        152,
-        149,
-        157,
-        32
+        24,
+        123,
+        9,
+        93,
+        77,
+        30,
+        7,
+        48
       ]
     },
     {
@@ -176,12 +176,12 @@
       "answer": "easier",
       "answer_letters": "EASIER",
       "indices": [
-        23,
-        172,
-        102,
+        65,
+        67,
+        13,
         19,
-        16,
-        120
+        25,
+        90
       ]
     },
     {
@@ -189,14 +189,14 @@
       "answer": "received",
       "answer_letters": "RECEIVED",
       "indices": [
-        90,
-        6,
-        53,
-        164,
-        30,
+        162,
+        8,
+        76,
+        37,
+        4,
         113,
-        117,
-        122
+        39,
+        79
       ]
     },
     {
@@ -204,11 +204,11 @@
       "answer": "levels",
       "answer_letters": "LEVELS",
       "indices": [
-        158,
-        37,
-        5,
-        124,
         144,
+        114,
+        5,
+        164,
+        18,
         104
       ]
     },
@@ -217,13 +217,13 @@
       "answer": "anonymous",
       "answer_letters": "ANONYMOUS",
       "indices": [
-        143,
-        116,
-        1,
+        63,
+        73,
+        156,
         38,
-        27,
-        167,
-        72,
+        147,
+        138,
+        140,
         108,
         35
       ]
@@ -233,12 +233,12 @@
       "answer": "surrey",
       "answer_letters": "SURREY",
       "indices": [
-        125,
-        88,
-        54,
-        99,
-        8,
-        42
+        92,
+        163,
+        120,
+        2,
+        98,
+        27
       ]
     },
     {
@@ -246,16 +246,16 @@
       "answer": "twenty-five",
       "answer_letters": "TWENTYFIVE",
       "indices": [
-        44,
-        60,
+        142,
+        81,
         119,
         20,
-        28,
-        147,
+        106,
+        159,
         0,
         137,
-        24,
-        39
+        118,
+        61
       ]
     },
     {
@@ -263,15 +263,15 @@
       "answer": "impressed",
       "answer_letters": "IMPRESSED",
       "indices": [
-        93,
-        138,
+        174,
+        167,
         97,
         141,
-        129,
-        131,
-        10,
-        91,
-        79
+        78,
+        125,
+        100,
+        75,
+        122
       ]
     },
     {
@@ -279,13 +279,13 @@
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
-        73,
-        174,
-        48,
-        82,
-        95,
-        134,
-        176
+        116,
+        166,
+        41,
+        153,
+        57,
+        158,
+        42
       ]
     },
     {
@@ -293,12 +293,12 @@
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
-        3,
-        49,
-        78,
-        142,
-        57,
-        156
+        32,
+        128,
+        55,
+        171,
+        127,
+        1
       ]
     }
   ],

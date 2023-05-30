@@ -9,12 +9,12 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        47,
-        164,
-        174,
-        75,
         63,
-        12
+        140,
+        111,
+        4,
+        147,
+        168
       ]
     },
     {
@@ -22,11 +22,11 @@
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
-        29,
-        30,
-        65,
+        164,
+        154,
+        25,
         176,
-        169,
+        90,
         118
       ]
     },
@@ -35,13 +35,13 @@
       "answer": "notices",
       "answer_letters": "NOTICES",
       "indices": [
-        91,
+        39,
         165,
-        115,
-        89,
+        18,
+        97,
         31,
-        16,
-        64
+        161,
+        50
       ]
     },
     {
@@ -49,12 +49,12 @@
       "answer": "ex-wife",
       "answer_letters": "EXWIFE",
       "indices": [
-        71,
+        43,
         83,
         166,
         120,
         155,
-        43
+        73
       ]
     },
     {
@@ -63,11 +63,11 @@
       "answer_letters": "SHAFTS",
       "indices": [
         134,
-        70,
-        76,
+        5,
+        0,
         10,
-        25,
-        59
+        115,
+        113
       ]
     },
     {
@@ -75,15 +75,15 @@
       "answer": "torpedoes",
       "answer_letters": "TORPEDOES",
       "indices": [
-        172,
-        90,
-        173,
+        152,
+        40,
+        19,
         84,
-        82,
+        112,
         137,
-        158,
-        73,
-        88
+        169,
+        108,
+        54
       ]
     },
     {
@@ -91,13 +91,13 @@
       "answer": "unknown",
       "answer_letters": "UNKNOWN",
       "indices": [
-        14,
-        140,
-        122,
-        22,
-        80,
-        4,
-        48
+        107,
+        79,
+        28,
+        29,
+        102,
+        75,
+        1
       ]
     },
     {
@@ -105,17 +105,17 @@
       "answer": "attribution",
       "answer_letters": "ATTRIBUTION",
       "indices": [
-        0,
+        135,
         7,
-        41,
-        15,
-        66,
-        105,
-        170,
         142,
-        139,
+        173,
+        56,
+        105,
+        35,
+        41,
+        9,
         34,
-        39
+        94
       ]
     },
     {
@@ -123,14 +123,14 @@
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
-        19,
+        44,
         51,
-        111,
-        152,
-        143,
+        12,
+        172,
+        70,
         46,
-        128,
-        146
+        139,
+        100
       ]
     },
     {
@@ -138,12 +138,12 @@
       "answer": "timely",
       "answer_letters": "TIMELY",
       "indices": [
-        18,
-        93,
+        177,
+        66,
         129,
-        86,
-        103,
-        20
+        150,
+        148,
+        174
       ]
     },
     {
@@ -151,12 +151,12 @@
       "answer": "choose",
       "answer_letters": "CHOOSE",
       "indices": [
-        160,
-        5,
+        146,
+        116,
         13,
-        26,
-        50,
-        110
+        80,
+        59,
+        86
       ]
     },
     {
@@ -164,14 +164,14 @@
       "answer": "outraged",
       "answer_letters": "OUTRAGED",
       "indices": [
-        154,
-        35,
-        69,
-        44,
+        101,
+        14,
+        65,
+        85,
         6,
         23,
-        161,
-        2
+        52,
+        57
       ]
     },
     {
@@ -179,17 +179,17 @@
       "answer": "lincolnshire",
       "answer_letters": "LINCOLNSHIRE",
       "indices": [
+        103,
+        89,
+        22,
+        62,
+        158,
         106,
-        123,
-        94,
-        100,
-        102,
-        148,
-        79,
-        87,
-        131,
-        21,
-        85,
+        48,
+        162,
+        143,
+        159,
+        61,
         117
       ]
     },
@@ -198,14 +198,14 @@
       "answer": "dorothea",
       "answer_letters": "DOROTHEA",
       "indices": [
-        57,
-        101,
-        72,
-        40,
-        36,
+        2,
+        30,
+        15,
+        26,
+        69,
         96,
-        132,
-        55
+        82,
+        38
       ]
     },
     {
@@ -213,12 +213,12 @@
       "answer": "avenue",
       "answer_letters": "AVENUE",
       "indices": [
-        60,
+        76,
         157,
-        144,
-        1,
-        107,
-        108
+        16,
+        91,
+        170,
+        71
       ]
     },
     {
@@ -227,15 +227,15 @@
       "answer_letters": "SKIRMISHES",
       "indices": [
         125,
-        28,
-        9,
-        61,
+        122,
+        123,
+        72,
         149,
         136,
-        151,
-        127,
-        150,
-        54
+        88,
+        131,
+        110,
+        151
       ]
     },
     {
@@ -243,11 +243,11 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        97,
-        162,
-        147,
-        159,
-        135,
+        93,
+        98,
+        55,
+        128,
+        47,
         42
       ]
     },
@@ -256,12 +256,12 @@
       "answer": "checks",
       "answer_letters": "CHECKS",
       "indices": [
+        160,
+        127,
+        144,
         67,
-        116,
-        112,
-        62,
         32,
-        98
+        77
       ]
     },
     {
@@ -269,14 +269,14 @@
       "answer": "essayist",
       "answer_letters": "ESSAYIST",
       "indices": [
-        52,
-        77,
+        132,
         124,
-        38,
-        168,
-        56,
-        113,
-        177
+        87,
+        60,
+        20,
+        21,
+        64,
+        36
       ]
     }
   ],

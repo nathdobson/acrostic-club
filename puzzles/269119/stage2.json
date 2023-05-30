@@ -1,6 +1,6 @@
 {
   "quote": "And then ... perhaps someone will write a book about making a film about a story that is taken from this book which is taken from a real-life story that was copied from a story in a book. You know?",
-  "quote_letters": "AND THEN  PERHAPS SOMEONE WILL WRITE A BOOK ABOUT MAKING A FILM ABOUT A STORY THAT IS TAKEN FROM THIS BOOK WHICH IS TAKEN FROM A REAL-LIFE STORY THAT WAS COPIED FROM A STORY IN A BOOK YOU KNOW",
+  "quote_letters": "AND THEN PERHAPS SOMEONE WILL WRITE A BOOK ABOUT MAKING A FILM ABOUT A STORY THAT IS TAKEN FROM THIS BOOK WHICH IS TAKEN FROM A REAL-LIFE STORY THAT WAS COPIED FROM A STORY IN A BOOK YOU KNOW",
   "source": "Richard House, The Kills",
   "source_letters": "RICHARDHOUSETHEKILLS",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        123,
-        13,
-        143,
-        86,
-        5,
-        164
+        11,
+        107,
+        142,
+        139,
+        78,
+        61
       ]
     },
     {
@@ -22,15 +22,15 @@
       "answer": "infirmary",
       "answer_letters": "INFIRMARY",
       "indices": [
-        27,
-        23,
-        122,
-        113,
-        75,
-        62,
-        147,
-        162,
-        172
+        82,
+        22,
+        160,
+        59,
+        170,
+        163,
+        43,
+        92,
+        171
       ]
     },
     {
@@ -38,12 +38,12 @@
       "answer": "cowboy",
       "answer_letters": "COWBOY",
       "indices": [
-        110,
-        46,
-        150,
-        102,
-        185,
-        76
+        153,
+        45,
+        190,
+        64,
+        189,
+        75
       ]
     },
     {
@@ -51,14 +51,14 @@
       "answer": "hokkaido",
       "answer_letters": "HOKKAIDO",
       "indices": [
-        79,
-        141,
-        188,
-        182,
-        80,
-        109,
-        2,
-        124
+        145,
+        103,
+        117,
+        87,
+        116,
+        52,
+        158,
+        169
       ]
     },
     {
@@ -66,12 +66,12 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
+        126,
         44,
-        65,
-        39,
-        181,
-        34,
-        73
+        178,
+        140,
+        33,
+        147
       ]
     },
     {
@@ -79,13 +79,13 @@
       "answer": "roanoke",
       "answer_letters": "ROANOKE",
       "indices": [
-        142,
-        104,
-        37,
-        7,
-        40,
-        42,
-        35
+        122,
+        180,
+        0,
+        89,
+        39,
+        51,
+        20
       ]
     },
     {
@@ -93,14 +93,14 @@
       "answer": "donation",
       "answer_letters": "DONATION",
       "indices": [
-        159,
-        180,
-        54,
-        70,
-        148,
-        99,
-        94,
-        1
+        2,
+        179,
+        188,
+        130,
+        144,
+        32,
+        18,
+        53
       ]
     },
     {
@@ -108,14 +108,14 @@
       "answer": "hamilton",
       "answer_letters": "HAMILTON",
       "indices": [
-        111,
-        57,
-        50,
-        53,
-        61,
-        4,
-        170,
-        90
+        5,
+        150,
+        94,
+        108,
+        28,
+        96,
+        73,
+        1
       ]
     },
     {
@@ -123,14 +123,14 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        103,
-        92,
-        136,
-        16,
-        108,
-        66,
-        22,
-        97
+        102,
+        91,
+        58,
+        113,
+        12,
+        154,
+        21,
+        77
       ]
     },
     {
@@ -138,12 +138,12 @@
       "answer": "upbeat",
       "answer_letters": "UPBEAT",
       "indices": [
-        47,
-        15,
-        179,
-        6,
-        166,
-        116
+        66,
+        155,
+        38,
+        10,
+        165,
+        80
       ]
     },
     {
@@ -151,15 +151,15 @@
       "answer": "southwark",
       "answer_letters": "SOUTHWARK",
       "indices": [
-        72,
-        190,
-        67,
-        81,
-        146,
-        191,
-        0,
-        12,
-        88
+        83,
+        65,
+        185,
+        115,
+        110,
+        149,
+        50,
+        74,
+        181
       ]
     },
     {
@@ -167,12 +167,12 @@
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
-        137,
-        59,
-        161,
-        11,
-        154,
-        78
+        157,
+        121,
+        135,
+        6,
+        109,
+        4
       ]
     },
     {
@@ -180,13 +180,13 @@
       "answer": "two-part",
       "answer_letters": "TWOPART",
       "indices": [
-        145,
-        31,
-        74,
-        156,
+        67,
+        106,
+        93,
         14,
-        32,
-        68
+        176,
+        31,
+        47
       ]
     },
     {
@@ -194,12 +194,12 @@
       "answer": "hawaii",
       "answer_letters": "HAWAII",
       "indices": [
+        97,
+        69,
+        25,
+        56,
         98,
-        64,
-        107,
-        87,
-        83,
-        174
+        112
       ]
     },
     {
@@ -207,19 +207,19 @@
       "answer": "embarrassment",
       "answer_letters": "EMBARRASSMENT",
       "indices": [
-        158,
-        20,
-        45,
-        51,
-        171,
-        129,
-        117,
-        152,
-        139,
-        95,
-        89,
-        120,
-        140
+        88,
+        19,
+        101,
+        36,
+        128,
+        141,
+        63,
+        167,
+        15,
+        49,
+        118,
+        174,
+        85
       ]
     },
     {
@@ -227,14 +227,14 @@
       "answer": "killings",
       "answer_letters": "KILLINGS",
       "indices": [
-        105,
-        157,
-        29,
+        41,
+        173,
+        27,
+        131,
         134,
-        60,
-        189,
-        55,
-        84
+        7,
+        54,
+        17
       ]
     },
     {
@@ -242,14 +242,14 @@
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
-        33,
-        114,
-        19,
-        48,
-        155,
-        10,
-        24,
-        168
+        26,
+        71,
+        162,
+        168,
+        40,
+        9,
+        136,
+        151
       ]
     },
     {
@@ -257,14 +257,14 @@
       "answer": "leukemia",
       "answer_letters": "LEUKEMIA",
       "indices": [
-        28,
-        21,
-        186,
-        118,
-        130,
-        125,
-        135,
-        177
+        60,
+        23,
+        46,
+        187,
+        129,
+        124,
+        156,
+        79
       ]
     },
     {
@@ -272,12 +272,12 @@
       "answer": "lawyer",
       "answer_letters": "LAWYER",
       "indices": [
-        132,
-        151,
-        26,
-        184,
-        119,
-        93
+        133,
+        13,
+        30,
+        183,
+        34,
+        161
       ]
     },
     {
@@ -285,15 +285,15 @@
       "answer": "saskatoon",
       "answer_letters": "SASKATOON",
       "indices": [
-        18,
-        131,
-        100,
-        52,
-        127,
-        169,
-        41,
-        163,
-        175
+        138,
+        86,
+        99,
+        104,
+        146,
+        72,
+        123,
+        184,
+        119
       ]
     }
   ],

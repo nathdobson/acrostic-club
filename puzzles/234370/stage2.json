@@ -9,11 +9,11 @@
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
-        168,
-        133,
-        134,
+        170,
+        104,
+        109,
         152,
-        136,
+        4,
         90
       ]
     },
@@ -22,11 +22,11 @@
       "answer": "nascar",
       "answer_letters": "NASCAR",
       "indices": [
-        128,
-        116,
-        26,
-        4,
-        138,
+        75,
+        177,
+        17,
+        136,
+        168,
         146
       ]
     },
@@ -35,13 +35,13 @@
       "answer": "devised",
       "answer_letters": "DEVISED",
       "indices": [
-        172,
-        31,
+        100,
+        165,
         117,
-        127,
-        63,
-        77,
-        100
+        151,
+        20,
+        83,
+        172
       ]
     },
     {
@@ -49,14 +49,14 @@
       "answer": "refining",
       "answer_letters": "REFINING",
       "indices": [
-        73,
-        118,
-        108,
-        97,
-        164,
-        82,
+        176,
+        61,
+        85,
+        19,
         171,
-        88
+        97,
+        93,
+        76
       ]
     },
     {
@@ -64,13 +64,13 @@
       "answer": "elegans",
       "answer_letters": "ELEGANS",
       "indices": [
-        89,
-        24,
-        95,
-        76,
-        92,
-        6,
-        20
+        113,
+        23,
+        118,
+        88,
+        121,
+        164,
+        58
       ]
     },
     {
@@ -78,12 +78,12 @@
       "answer": "ashore",
       "answer_letters": "ASHORE",
       "indices": [
-        170,
-        17,
-        115,
-        5,
-        176,
-        124
+        22,
+        167,
+        15,
+        142,
+        73,
+        32
       ]
     },
     {
@@ -91,12 +91,12 @@
       "answer": "harbor",
       "answer_letters": "HARBOR",
       "indices": [
-        15,
+        141,
         74,
         144,
         106,
-        160,
-        156
+        175,
+        161
       ]
     },
     {
@@ -104,14 +104,14 @@
       "answer": "emotions",
       "answer_letters": "EMOTIONS",
       "indices": [
-        3,
+        40,
         79,
-        149,
-        9,
-        16,
-        132,
-        56,
-        98
+        99,
+        154,
+        137,
+        27,
+        6,
+        123
       ]
     },
     {
@@ -119,12 +119,12 @@
       "answer": "latvia",
       "answer_letters": "LATVIA",
       "indices": [
-        23,
-        11,
+        41,
+        138,
         129,
         81,
-        36,
-        177
+        44,
+        11
       ]
     },
     {
@@ -132,12 +132,12 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        72,
-        112,
-        99,
+        9,
         48,
-        22,
-        34
+        5,
+        112,
+        51,
+        110
       ]
     },
     {
@@ -145,13 +145,13 @@
       "answer": "specify",
       "answer_letters": "SPECIFY",
       "indices": [
-        71,
-        120,
-        39,
+        122,
+        96,
+        53,
         29,
-        158,
-        85,
-        162
+        0,
+        38,
+        34
       ]
     },
     {
@@ -159,12 +159,12 @@
       "answer": "latino",
       "answer_letters": "LATINO",
       "indices": [
-        43,
-        121,
-        12,
-        135,
-        93,
-        145
+        24,
+        92,
+        66,
+        36,
+        56,
+        132
       ]
     },
     {
@@ -172,12 +172,12 @@
       "answer": "escape",
       "answer_letters": "ESCAPE",
       "indices": [
-        113,
-        123,
+        46,
+        2,
         174,
-        51,
-        33,
-        101
+        116,
+        120,
+        89
       ]
     },
     {
@@ -185,12 +185,12 @@
       "answer": "yorker",
       "answer_letters": "YORKER",
       "indices": [
-        110,
-        142,
-        161,
+        162,
+        64,
+        157,
         45,
-        53,
-        157
+        77,
+        143
       ]
     },
     {
@@ -199,10 +199,10 @@
       "answer_letters": "DIFFER",
       "indices": [
         125,
-        44,
-        104,
+        16,
         69,
-        83,
+        133,
+        31,
         87
       ]
     },
@@ -211,13 +211,13 @@
       "answer": "imports",
       "answer_letters": "IMPORTS",
       "indices": [
-        137,
-        148,
-        96,
-        80,
-        52,
-        14,
-        2
+        135,
+        60,
+        33,
+        160,
+        156,
+        159,
+        26
       ]
     },
     {
@@ -225,12 +225,12 @@
       "answer": "stereo",
       "answer_letters": "STEREO",
       "indices": [
-        167,
-        159,
-        61,
-        65,
-        165,
-        64
+        166,
+        12,
+        155,
+        52,
+        39,
+        130
       ]
     },
     {
@@ -238,13 +238,13 @@
       "answer": "stories",
       "answer_letters": "STORIES",
       "indices": [
-        58,
-        66,
-        59,
-        143,
-        55,
-        40,
-        122
+        98,
+        14,
+        149,
+        65,
+        127,
+        124,
+        63
       ]
     },
     {
@@ -252,14 +252,14 @@
       "answer": "offshore",
       "answer_letters": "OFFSHORE",
       "indices": [
-        68,
-        109,
-        38,
-        166,
-        10,
-        130,
+        145,
+        108,
+        134,
+        71,
+        115,
+        80,
         30,
-        46
+        95
       ]
     },
     {
@@ -267,13 +267,13 @@
       "answer": "lithium",
       "answer_letters": "LITHIUM",
       "indices": [
-        41,
-        19,
-        154,
-        141,
-        151,
+        43,
+        55,
+        72,
+        10,
+        82,
         107,
-        60
+        148
       ]
     },
     {
@@ -282,10 +282,10 @@
       "answer_letters": "VOODOO",
       "indices": [
         150,
+        59,
         103,
-        27,
         7,
-        175,
+        68,
         86
       ]
     },
@@ -294,12 +294,12 @@
       "answer": "eileen",
       "answer_letters": "EILEEN",
       "indices": [
-        32,
-        0,
-        139,
-        155,
         49,
-        75
+        158,
+        139,
+        101,
+        3,
+        128
       ]
     }
   ],

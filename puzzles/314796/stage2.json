@@ -9,14 +9,14 @@
       "answer": "melville",
       "answer_letters": "MELVILLE",
       "indices": [
-        125,
-        115,
-        7,
-        12,
+        140,
+        37,
+        64,
+        57,
         91,
+        156,
         55,
-        85,
-        137
+        93
       ]
     },
     {
@@ -24,14 +24,14 @@
       "answer": "alphabet",
       "answer_letters": "ALPHABET",
       "indices": [
-        72,
-        157,
-        114,
-        131,
         47,
+        85,
+        42,
+        71,
+        72,
         15,
-        17,
-        120
+        40,
+        143
       ]
     },
     {
@@ -39,14 +39,14 @@
       "answer": "refugees",
       "answer_letters": "REFUGEES",
       "indices": [
-        107,
-        145,
-        61,
-        23,
+        138,
+        62,
+        83,
+        6,
         88,
-        101,
-        132,
-        73
+        137,
+        170,
+        147
       ]
     },
     {
@@ -55,11 +55,11 @@
       "answer_letters": "CHOOSES",
       "indices": [
         24,
-        4,
-        28,
+        151,
+        121,
         5,
-        65,
-        152,
+        146,
+        115,
         75
       ]
     },
@@ -68,13 +68,13 @@
       "answer": "emotion",
       "answer_letters": "EMOTION",
       "indices": [
-        178,
-        169,
-        50,
-        143,
-        1,
-        127,
-        79
+        162,
+        177,
+        56,
+        35,
+        168,
+        77,
+        165
       ]
     },
     {
@@ -82,10 +82,10 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        156,
-        148,
+        157,
+        101,
         123,
-        168,
+        155,
         53,
         36
       ]
@@ -95,12 +95,12 @@
       "answer": "parent",
       "answer_letters": "PARENT",
       "indices": [
-        42,
-        116,
-        144,
-        63,
+        114,
+        160,
+        22,
+        84,
         87,
-        35
+        167
       ]
     },
     {
@@ -108,11 +108,11 @@
       "answer": "rushed",
       "answer_letters": "RUSHED",
       "indices": [
-        138,
-        6,
-        149,
-        71,
-        162,
+        144,
+        51,
+        20,
+        10,
+        145,
         8
       ]
     },
@@ -121,13 +121,13 @@
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
-        56,
-        106,
+        134,
         90,
+        128,
         81,
-        44,
-        110,
-        170
+        1,
+        102,
+        63
       ]
     },
     {
@@ -135,15 +135,15 @@
       "answer": "unfinished",
       "answer_letters": "UNFINISHED",
       "indices": [
-        51,
+        23,
         52,
-        128,
-        124,
-        165,
-        95,
-        20,
+        61,
+        44,
+        79,
+        82,
+        65,
         136,
-        58,
+        13,
         27
       ]
     },
@@ -152,14 +152,14 @@
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
-        147,
-        159,
-        86,
-        29,
-        111,
-        121,
-        99,
-        102
+        3,
+        4,
+        28,
+        67,
+        92,
+        69,
+        76,
+        18
       ]
     },
     {
@@ -167,13 +167,13 @@
       "answer": "two-time",
       "answer_letters": "TWOTIME",
       "indices": [
-        135,
-        154,
-        173,
-        21,
-        141,
-        140,
-        13
+        130,
+        29,
+        50,
+        96,
+        124,
+        125,
+        148
       ]
     },
     {
@@ -182,11 +182,11 @@
       "answer_letters": "SHEIKH",
       "indices": [
         118,
-        151,
-        109,
-        82,
+        100,
+        152,
+        141,
         117,
-        10
+        131
       ]
     },
     {
@@ -194,10 +194,10 @@
       "answer": "whisky",
       "answer_letters": "WHISKY",
       "indices": [
-        76,
-        100,
-        108,
-        41,
+        99,
+        68,
+        164,
+        73,
         25,
         33
       ]
@@ -207,12 +207,12 @@
       "answer": "avatar",
       "answer_letters": "AVATAR",
       "indices": [
-        160,
+        116,
         161,
-        11,
-        96,
         43,
-        22
+        135,
+        104,
+        59
       ]
     },
     {
@@ -220,12 +220,12 @@
       "answer": "novice",
       "answer_letters": "NOVICE",
       "indices": [
-        18,
-        77,
-        57,
-        155,
+        110,
+        176,
+        12,
+        95,
         175,
-        40
+        58
       ]
     },
     {
@@ -234,11 +234,11 @@
       "answer_letters": "NOBODY",
       "indices": [
         30,
-        134,
+        86,
         32,
-        69,
+        127,
         39,
-        97
+        49
       ]
     },
     {
@@ -246,11 +246,11 @@
       "answer": "softer",
       "answer_letters": "SOFTER",
       "indices": [
-        113,
-        176,
-        83,
+        142,
+        173,
+        106,
         172,
-        84,
+        109,
         78
       ]
     },
@@ -259,13 +259,13 @@
       "answer": "wrestle",
       "answer_letters": "WRESTLE",
       "indices": [
-        67,
-        59,
-        37,
-        146,
-        130,
-        64,
-        16
+        154,
+        45,
+        132,
+        149,
+        120,
+        7,
+        17
       ]
     },
     {
@@ -273,13 +273,13 @@
       "answer": "amherst",
       "answer_letters": "AMHERST",
       "indices": [
-        104,
-        177,
-        68,
-        62,
-        45,
-        3,
-        167
+        11,
+        169,
+        159,
+        16,
+        107,
+        113,
+        21
       ]
     },
     {
@@ -287,12 +287,12 @@
       "answer": "yields",
       "answer_letters": "YIELDS",
       "indices": [
-        49,
-        164,
-        93,
+        97,
+        108,
+        178,
         94,
-        92,
-        142
+        111,
+        41
       ]
     }
   ],

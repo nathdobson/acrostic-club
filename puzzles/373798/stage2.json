@@ -9,12 +9,12 @@
       "answer": "benito",
       "answer_letters": "BENITO",
       "indices": [
-        109,
-        103,
-        120,
-        164,
+        117,
+        125,
+        160,
+        162,
         132,
-        20
+        159
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "albion",
       "answer_letters": "ALBION",
       "indices": [
-        90,
-        174,
+        151,
+        16,
         163,
-        37,
-        148,
-        181
+        175,
+        67,
+        86
       ]
     },
     {
@@ -35,13 +35,13 @@
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
-        10,
-        159,
-        0,
-        71,
-        153,
-        155,
-        178
+        76,
+        24,
+        96,
+        1,
+        44,
+        66,
+        101
       ]
     },
     {
@@ -49,12 +49,12 @@
       "answer": "ageing",
       "answer_letters": "AGEING",
       "indices": [
-        110,
+        135,
         121,
-        11,
-        97,
-        179,
-        57
+        14,
+        119,
+        3,
+        35
       ]
     },
     {
@@ -62,14 +62,14 @@
       "answer": "networks",
       "answer_letters": "NETWORKS",
       "indices": [
-        3,
-        72,
-        13,
+        120,
+        50,
+        177,
         89,
-        9,
+        148,
         104,
-        54,
-        23
+        152,
+        84
       ]
     },
     {
@@ -77,14 +77,14 @@
       "answer": "authentic",
       "answer_letters": "AUTHENTIC",
       "indices": [
-        151,
+        143,
         48,
         79,
-        142,
-        62,
-        76,
-        27,
-        29,
+        80,
+        81,
+        30,
+        147,
+        42,
         111
       ]
     },
@@ -94,10 +94,10 @@
       "answer_letters": "YELLOW",
       "indices": [
         46,
-        83,
-        99,
+        178,
+        165,
         15,
-        115,
+        47,
         134
       ]
     },
@@ -106,14 +106,14 @@
       "answer": "overtime",
       "answer_letters": "OVERTIME",
       "indices": [
-        139,
-        144,
-        2,
+        87,
+        102,
+        156,
         172,
-        38,
+        94,
         131,
         73,
-        50
+        2
       ]
     },
     {
@@ -121,13 +121,13 @@
       "answer": "symbols",
       "answer_letters": "SYMBOLS",
       "indices": [
-        176,
+        17,
         63,
-        59,
+        25,
         33,
-        107,
-        41,
-        157
+        115,
+        174,
+        23
       ]
     },
     {
@@ -136,12 +136,12 @@
       "answer_letters": "HIGHWAY",
       "indices": [
         28,
-        175,
-        35,
+        34,
+        31,
         124,
         127,
-        143,
-        129
+        90,
+        19
       ]
     },
     {
@@ -149,12 +149,12 @@
       "answer": "italy's",
       "answer_letters": "ITALYS",
       "indices": [
-        34,
-        167,
-        75,
-        165,
-        91,
-        84
+        180,
+        150,
+        110,
+        98,
+        129,
+        39
       ]
     },
     {
@@ -162,13 +162,13 @@
       "answer": "motives",
       "answer_letters": "MOTIVES",
       "indices": [
-        68,
+        59,
         6,
-        123,
-        162,
-        102,
-        156,
-        17
+        13,
+        29,
+        144,
+        8,
+        176
       ]
     },
     {
@@ -176,12 +176,12 @@
       "answer": "oyster",
       "answer_letters": "OYSTER",
       "indices": [
-        87,
-        19,
-        136,
-        94,
-        26,
-        82
+        171,
+        138,
+        157,
+        52,
+        72,
+        49
       ]
     },
     {
@@ -190,11 +190,11 @@
       "answer_letters": "TUNING",
       "indices": [
         114,
-        21,
-        160,
-        42,
-        30,
-        182
+        140,
+        61,
+        93,
+        179,
+        106
       ]
     },
     {
@@ -202,13 +202,13 @@
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
-        24,
-        140,
-        147,
-        65,
-        55,
-        177,
-        39
+        60,
+        21,
+        27,
+        170,
+        164,
+        38,
+        161
       ]
     },
     {
@@ -216,13 +216,13 @@
       "answer": "thereof",
       "answer_letters": "THEREOF",
       "indices": [
-        52,
-        80,
-        81,
-        49,
-        125,
-        60,
-        170
+        123,
+        142,
+        103,
+        82,
+        83,
+        9,
+        65
       ]
     },
     {
@@ -230,12 +230,12 @@
       "answer": "hiking",
       "answer_letters": "HIKING",
       "indices": [
-        1,
-        180,
+        71,
+        166,
         112,
-        93,
-        61,
-        106
+        97,
+        56,
+        57
       ]
     },
     {
@@ -243,12 +243,12 @@
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
-        44,
-        25,
+        26,
+        7,
         158,
-        16,
-        67,
-        138
+        99,
+        107,
+        91
       ]
     },
     {
@@ -256,13 +256,13 @@
       "answer": "linking",
       "answer_letters": "LINKING",
       "indices": [
-        98,
-        119,
-        86,
+        41,
+        37,
+        181,
         43,
-        166,
-        56,
-        31
+        55,
+        10,
+        182
       ]
     },
     {
@@ -270,13 +270,13 @@
       "answer": "awesome",
       "answer_letters": "AWESOME",
       "indices": [
-        128,
-        96,
-        118,
+        53,
+        0,
+        62,
         5,
-        171,
-        7,
-        14
+        139,
+        68,
+        145
       ]
     },
     {
@@ -284,13 +284,13 @@
       "answer": "keyboard",
       "answer_letters": "KEYBOARD",
       "indices": [
-        152,
-        145,
+        54,
+        11,
         168,
-        117,
-        47,
-        135,
-        66,
+        109,
+        20,
+        75,
+        155,
         77
       ]
     },
@@ -299,12 +299,12 @@
       "answer": "estate",
       "answer_letters": "ESTATE",
       "indices": [
-        101,
-        161,
-        150,
-        53,
+        153,
+        136,
         70,
-        8
+        128,
+        167,
+        118
       ]
     }
   ],

@@ -62,6 +62,7 @@ impl ClueClient {
         let clue = &clue;
         let clue = clue.strip_prefix("Answer: ").unwrap_or(clue);
         let clue = clue.strip_prefix("A: ").unwrap_or(clue);
+        let clue = clue.strip_prefix("Possible clue: ").unwrap_or(clue);
         Ok(Some(clue.to_string()))
     }
     pub async fn create_clue_list(&self, word: &str) -> anyhow::Result<Vec<String>> {
@@ -126,7 +127,7 @@ async fn test_clue_client() -> anyhow::Result<()> {
     let (client, cleanup) = ClueClient::new().await?;
     {
         let start = Instant::now();
-        for word in &["extant", "netball", "nathan", "andrew", "john"] {
+        for word in &["extant", "netball", "nathan", "andrew", "john", "hindwings"] {
             let clues = client.create_clue(word).await?;
             println!("{:?}", clues);
         }

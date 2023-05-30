@@ -10,11 +10,11 @@
       "answer_letters": "GILLIAN",
       "indices": [
         28,
-        74,
+        108,
+        49,
         73,
-        38,
-        131,
-        65,
+        93,
+        16,
         66
       ]
     },
@@ -23,15 +23,15 @@
       "answer": "alternate",
       "answer_letters": "ALTERNATE",
       "indices": [
-        16,
-        147,
-        24,
-        76,
-        114,
-        171,
         30,
-        82,
-        136
+        38,
+        92,
+        136,
+        25,
+        171,
+        19,
+        70,
+        2
       ]
     },
     {
@@ -39,12 +39,12 @@
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
-        63,
+        101,
         167,
         13,
-        1,
-        90,
-        11
+        151,
+        82,
+        132
       ]
     },
     {
@@ -52,12 +52,12 @@
       "answer": "lifted",
       "answer_letters": "LIFTED",
       "indices": [
-        37,
-        108,
-        47,
-        45,
-        84,
-        119
+        103,
+        104,
+        78,
+        124,
+        36,
+        67
       ]
     },
     {
@@ -65,12 +65,12 @@
       "answer": "enlist",
       "answer_letters": "ENLIST",
       "indices": [
-        15,
-        20,
+        153,
+        7,
         50,
-        104,
-        89,
-        70
+        57,
+        129,
+        58
       ]
     },
     {
@@ -78,13 +78,13 @@
       "answer": "flemish",
       "answer_letters": "FLEMISH",
       "indices": [
-        105,
+        145,
         14,
-        2,
+        113,
         100,
-        69,
-        159,
-        59
+        44,
+        51,
+        1
       ]
     },
     {
@@ -92,12 +92,12 @@
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
-        62,
-        86,
-        78,
-        174,
-        153,
-        124
+        26,
+        47,
+        105,
+        11,
+        162,
+        90
       ]
     },
     {
@@ -105,12 +105,12 @@
       "answer": "reader",
       "answer_letters": "READER",
       "indices": [
-        25,
-        172,
-        19,
-        67,
+        161,
         106,
-        80
+        163,
+        119,
+        95,
+        154
       ]
     },
     {
@@ -118,12 +118,12 @@
       "answer": "morale",
       "answer_letters": "MORALE",
       "indices": [
-        94,
-        144,
-        154,
-        163,
-        49,
-        54
+        53,
+        5,
+        114,
+        117,
+        37,
+        15
       ]
     },
     {
@@ -131,12 +131,12 @@
       "answer": "adolph",
       "answer_letters": "ADOLPH",
       "indices": [
-        33,
-        164,
+        65,
+        112,
         157,
-        103,
-        160,
-        122
+        147,
+        169,
+        127
       ]
     },
     {
@@ -144,11 +144,11 @@
       "answer": "nikita",
       "answer_letters": "NIKITA",
       "indices": [
-        7,
-        87,
-        75,
+        141,
         170,
-        121,
+        75,
+        10,
+        24,
         40
       ]
     },
@@ -158,11 +158,11 @@
       "answer_letters": "JUDITH",
       "indices": [
         61,
-        110,
-        21,
-        97,
-        134,
-        135
+        149,
+        42,
+        87,
+        142,
+        83
       ]
     },
     {
@@ -170,11 +170,11 @@
       "answer": "urgent",
       "answer_letters": "URGENT",
       "indices": [
-        149,
-        17,
+        110,
+        80,
         150,
-        162,
-        27,
+        84,
+        41,
         126
       ]
     },
@@ -183,12 +183,12 @@
       "answer": "shifts",
       "answer_letters": "SHIFTS",
       "indices": [
-        173,
-        127,
-        140,
-        145,
-        0,
-        129
+        115,
+        122,
+        69,
+        86,
+        45,
+        23
       ]
     },
     {
@@ -196,12 +196,12 @@
       "answer": "throws",
       "answer_letters": "THROWS",
       "indices": [
-        58,
-        151,
-        88,
-        79,
+        121,
+        135,
+        17,
+        144,
         56,
-        31
+        174
       ]
     },
     {
@@ -209,13 +209,13 @@
       "answer": "opponents",
       "answer_letters": "OPPONENTS",
       "indices": [
-        26,
-        168,
+        139,
         138,
-        5,
-        41,
-        113,
-        118,
+        168,
+        79,
+        27,
+        172,
+        111,
         152,
         4
       ]
@@ -225,12 +225,12 @@
       "answer": "number",
       "answer_letters": "NUMBER",
       "indices": [
-        111,
+        20,
         6,
-        53,
+        94,
         35,
-        36,
-        161
+        54,
+        88
       ]
     },
     {
@@ -238,15 +238,15 @@
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
-        95,
-        92,
+        76,
+        156,
         166,
-        93,
-        139,
-        169,
-        44,
+        97,
+        62,
+        160,
+        140,
         123,
-        141
+        98
       ]
     },
     {
@@ -255,12 +255,12 @@
       "answer_letters": "DISTANT",
       "indices": [
         8,
-        128,
-        115,
-        156,
-        148,
-        98,
-        142
+        48,
+        159,
+        116,
+        33,
+        118,
+        0
       ]
     },
     {
@@ -268,12 +268,12 @@
       "answer": "assist",
       "answer_letters": "ASSIST",
       "indices": [
-        117,
-        23,
-        51,
-        10,
-        132,
-        116
+        148,
+        71,
+        31,
+        74,
+        173,
+        134
       ]
     },
     {
@@ -281,13 +281,13 @@
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
-        101,
-        48,
-        112,
-        42,
-        57,
-        71,
-        83
+        63,
+        131,
+        21,
+        164,
+        128,
+        89,
+        59
       ]
     }
   ],

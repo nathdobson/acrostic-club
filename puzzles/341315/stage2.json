@@ -1,6 +1,6 @@
 {
   "quote": "Martha thanks Sylvia, gesturing with the book. \"\"Just remember not to try to hard with understanding it, \"\" Sylvia says. \"\"Like people, they're best not to be too thoroughly understood.",
-  "quote_letters": "MARTHA THANKS SYLVIA GESTURING WITH THE BOOK JUST REMEMBER NOT TO TRY TO HARD WITH UNDERSTANDING IT  SYLVIA SAYS LIKE PEOPLE THEYRE BEST NOT TO BE TOO THOROUGHLY UNDERSTOOD",
+  "quote_letters": "MARTHA THANKS SYLVIA GESTURING WITH THE BOOK JUST REMEMBER NOT TO TRY TO HARD WITH UNDERSTANDING IT SYLVIA SAYS LIKE PEOPLE THEYRE BEST NOT TO BE TOO THOROUGHLY UNDERSTOOD",
   "source": "Naomi Wood, Mrs. Hemingway",
   "source_letters": "NAOMIWOODMRSHEMINGWAY",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
-        84,
-        155,
-        40,
-        142,
-        76,
-        110
+        91,
+        64,
+        143,
+        42,
+        163,
+        101
       ]
     },
     {
@@ -22,15 +22,15 @@
       "answer": "attribute",
       "answer_letters": "ATTRIBUTE",
       "indices": [
-        1,
-        98,
-        70,
-        87,
-        93,
-        132,
-        162,
-        125,
-        130
+        90,
+        80,
+        150,
+        153,
+        27,
+        55,
+        155,
+        124,
+        164
       ]
     },
     {
@@ -38,13 +38,13 @@
       "answer": "observe",
       "answer_letters": "OBSERVE",
       "indices": [
-        120,
-        144,
-        12,
-        38,
-        2,
-        104,
-        22
+        41,
+        40,
+        107,
+        86,
+        128,
+        103,
+        53
       ]
     },
     {
@@ -52,12 +52,12 @@
       "answer": "matter",
       "answer_letters": "MATTER",
       "indices": [
-        52,
-        74,
-        48,
-        66,
-        56,
-        57
+        54,
+        1,
+        63,
+        98,
+        144,
+        75
       ]
     },
     {
@@ -65,15 +65,15 @@
       "answer": "investors",
       "answer_letters": "INVESTORS",
       "indices": [
-        105,
-        137,
+        93,
+        94,
         17,
-        53,
-        167,
-        7,
-        138,
-        26,
-        47
+        126,
+        110,
+        36,
+        168,
+        165,
+        14
       ]
     },
     {
@@ -81,12 +81,12 @@
       "answer": "wright",
       "answer_letters": "WRIGHT",
       "indices": [
-        31,
-        166,
-        18,
-        95,
-        37,
-        36
+        78,
+        2,
+        32,
+        156,
+        4,
+        70
       ]
     },
     {
@@ -94,13 +94,13 @@
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
-        170,
-        46,
-        63,
-        103,
-        51,
-        33,
-        111
+        152,
+        161,
+        140,
+        121,
+        38,
+        89,
+        12
       ]
     },
     {
@@ -108,13 +108,13 @@
       "answer": "oratory",
       "answer_letters": "ORATORY",
       "indices": [
-        153,
-        129,
-        5,
-        89,
-        149,
-        75,
-        160
+        154,
+        26,
+        9,
+        66,
+        147,
+        50,
+        68
       ]
     },
     {
@@ -122,12 +122,12 @@
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
-        171,
+        76,
         83,
-        122,
-        156,
-        61,
-        4
+        16,
+        25,
+        146,
+        151
       ]
     },
     {
@@ -136,14 +136,14 @@
       "answer_letters": "METHODIST",
       "indices": [
         0,
-        145,
-        168,
-        152,
-        169,
+        122,
+        48,
+        37,
+        71,
         85,
-        97,
-        23,
-        147
+        79,
+        88,
+        7
       ]
     },
     {
@@ -151,12 +151,12 @@
       "answer": "replay",
       "answer_letters": "REPLAY",
       "indices": [
-        154,
-        119,
-        121,
-        113,
-        9,
-        15
+        57,
+        115,
+        120,
+        112,
+        74,
+        159
       ]
     },
     {
@@ -164,12 +164,12 @@
       "answer": "shinto",
       "answer_letters": "SHINTO",
       "indices": [
-        108,
-        81,
-        79,
-        163,
-        141,
-        148
+        133,
+        34,
+        97,
+        59,
+        167,
+        60
       ]
     },
     {
@@ -177,12 +177,12 @@
       "answer": "highly",
       "answer_letters": "HIGHLY",
       "indices": [
-        8,
-        114,
-        21,
-        34,
-        16,
-        68
+        125,
+        104,
+        95,
+        73,
+        158,
+        127
       ]
     },
     {
@@ -190,12 +190,12 @@
       "answer": "enters",
       "answer_letters": "ENTERS",
       "indices": [
-        116,
-        94,
-        135,
-        127,
-        50,
-        101
+        132,
+        10,
+        33,
+        56,
+        67,
+        166
       ]
     },
     {
@@ -203,13 +203,13 @@
       "answer": "majesty",
       "answer_letters": "MAJESTY",
       "indices": [
-        54,
-        90,
+        52,
+        105,
         45,
-        165,
-        14,
-        3,
-        128
+        129,
+        100,
+        61,
+        15
       ]
     },
     {
@@ -217,13 +217,13 @@
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
-        32,
-        59,
+        18,
+        84,
         92,
-        123,
         118,
-        139,
-        73
+        117,
+        138,
+        157
       ]
     },
     {
@@ -232,12 +232,12 @@
       "answer_letters": "NOTHING",
       "indices": [
         28,
-        60,
-        80,
-        158,
-        27,
-        91,
-        157
+        119,
+        24,
+        8,
+        113,
+        162,
+        29
       ]
     },
     {
@@ -245,12 +245,12 @@
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
-        29,
-        126,
-        86,
-        151,
-        24,
-        64
+        21,
+        81,
+        22,
+        3,
+        134,
+        169
       ]
     },
     {
@@ -258,12 +258,12 @@
       "answer": "worked",
       "answer_letters": "WORKED",
       "indices": [
-        78,
-        71,
-        67,
-        115,
-        133,
-        164
+        31,
+        137,
+        87,
+        11,
+        51,
+        170
       ]
     },
     {
@@ -272,11 +272,11 @@
       "answer_letters": "ALBANS",
       "indices": [
         19,
-        159,
-        55,
-        109,
-        10,
-        134
+        102,
+        131,
+        108,
+        136,
+        47
       ]
     },
     {
@@ -284,14 +284,14 @@
       "answer": "yokosuka",
       "answer_letters": "YOKOSUKA",
       "indices": [
-        102,
-        42,
+        109,
+        141,
+        114,
+        148,
+        23,
+        46,
         43,
-        41,
-        88,
-        25,
-        11,
-        106
+        5
       ]
     }
   ],

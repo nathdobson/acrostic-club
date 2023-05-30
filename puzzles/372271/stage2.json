@@ -9,12 +9,12 @@
       "answer": "spoken",
       "answer_letters": "SPOKEN",
       "indices": [
-        148,
-        42,
-        36,
+        14,
+        156,
+        136,
         145,
-        9,
-        35
+        134,
+        17
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "titans",
       "answer_letters": "TITANS",
       "indices": [
-        131,
-        73,
         22,
-        182,
-        1,
-        45
+        114,
+        37,
+        122,
+        80,
+        148
       ]
     },
     {
@@ -35,13 +35,13 @@
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
-        165,
-        110,
+        143,
+        25,
         69,
-        154,
-        170,
-        103,
-        4
+        126,
+        131,
+        51,
+        140
       ]
     },
     {
@@ -49,12 +49,12 @@
       "answer": "potato",
       "answer_letters": "POTATO",
       "indices": [
-        155,
-        101,
-        118,
+        42,
+        64,
+        102,
         109,
-        162,
-        40
+        39,
+        168
       ]
     },
     {
@@ -62,13 +62,13 @@
       "answer": "hampton",
       "answer_letters": "HAMPTON",
       "indices": [
-        98,
-        132,
-        47,
-        156,
-        112,
-        172,
-        130
+        176,
+        43,
+        91,
+        155,
+        175,
+        40,
+        85
       ]
     },
     {
@@ -76,13 +76,13 @@
       "answer": "estates",
       "answer_letters": "ESTATES",
       "indices": [
-        28,
+        52,
         161,
-        107,
-        43,
+        112,
+        24,
         67,
-        177,
-        44
+        48,
+        149
       ]
     },
     {
@@ -90,12 +90,12 @@
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
-        146,
-        168,
+        60,
+        16,
         54,
-        88,
-        116,
-        20
+        119,
+        33,
+        77
       ]
     },
     {
@@ -103,12 +103,12 @@
       "answer": "intake",
       "answer_letters": "INTAKE",
       "indices": [
-        151,
-        17,
-        63,
-        129,
+        79,
+        1,
+        7,
+        163,
         123,
-        147
+        32
       ]
     },
     {
@@ -116,13 +116,13 @@
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
-        52,
-        91,
-        12,
-        86,
-        7,
-        108,
-        166
+        177,
+        19,
+        151,
+        118,
+        97,
+        99,
+        13
       ]
     },
     {
@@ -130,13 +130,13 @@
       "answer": "morally",
       "answer_letters": "MORALLY",
       "indices": [
-        139,
-        16,
-        179,
-        163,
-        158,
-        76,
-        77
+        110,
+        84,
+        105,
+        55,
+        27,
+        57,
+        183
       ]
     },
     {
@@ -144,13 +144,13 @@
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
-        104,
-        95,
+        165,
         137,
-        99,
+        95,
+        104,
         74,
-        39,
-        149
+        63,
+        66
       ]
     },
     {
@@ -158,11 +158,11 @@
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
-        159,
+        4,
         23,
         56,
-        27,
-        84,
+        76,
+        172,
         181
       ]
     },
@@ -171,12 +171,12 @@
       "answer": "equity",
       "answer_letters": "EQUITY",
       "indices": [
-        143,
+        9,
         71,
         169,
         178,
-        175,
-        183
+        162,
+        20
       ]
     },
     {
@@ -184,13 +184,13 @@
       "answer": "reading",
       "answer_letters": "READING",
       "indices": [
-        113,
+        30,
         115,
-        29,
-        61,
-        114,
-        31,
-        3
+        182,
+        127,
+        73,
+        146,
+        133
       ]
     },
     {
@@ -198,14 +198,14 @@
       "answer": "treasure",
       "answer_letters": "TREASURE",
       "indices": [
-        97,
-        30,
-        48,
-        24,
-        14,
+        86,
+        179,
+        68,
+        132,
+        45,
         72,
-        105,
-        92
+        83,
+        124
       ]
     },
     {
@@ -214,12 +214,12 @@
       "answer_letters": "WHITMAN",
       "indices": [
         142,
-        176,
+        153,
         94,
-        37,
-        25,
-        122,
-        80
+        170,
+        139,
+        29,
+        130
       ]
     },
     {
@@ -227,13 +227,13 @@
       "answer": "invaded",
       "answer_letters": "INVADED",
       "indices": [
-        157,
-        85,
+        0,
+        31,
         128,
-        59,
-        127,
-        124,
-        13
+        129,
+        116,
+        108,
+        166
       ]
     },
     {
@@ -241,13 +241,13 @@
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
-        57,
-        55,
+        158,
+        154,
         75,
-        66,
-        51,
-        5,
-        0
+        44,
+        103,
+        47,
+        12
       ]
     },
     {
@@ -255,12 +255,12 @@
       "answer": "inform",
       "answer_letters": "INFORM",
       "indices": [
-        79,
-        60,
-        173,
-        64,
-        83,
-        19
+        157,
+        35,
+        89,
+        101,
+        113,
+        5
       ]
     },
     {
@@ -268,12 +268,12 @@
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
-        133,
-        153,
-        32,
-        102,
+        3,
+        8,
+        147,
         121,
-        136
+        107,
+        36
       ]
     },
     {
@@ -281,11 +281,11 @@
       "answer": "heyday",
       "answer_letters": "HEYDAY",
       "indices": [
-        8,
-        134,
-        140,
-        33,
-        144,
+        98,
+        92,
+        159,
+        61,
+        59,
         164
       ]
     },
@@ -295,12 +295,12 @@
       "answer_letters": "TAKEOFF",
       "indices": [
         50,
-        126,
+        144,
         11,
-        68,
-        119,
-        89,
-        82
+        28,
+        88,
+        82,
+        173
       ]
     }
   ],

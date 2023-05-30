@@ -9,13 +9,13 @@
       "answer": "skating",
       "answer_letters": "SKATING",
       "indices": [
-        126,
+        149,
         81,
-        101,
-        127,
-        120,
-        162,
-        47
+        130,
+        75,
+        0,
+        148,
+        69
       ]
     },
     {
@@ -23,14 +23,14 @@
       "answer": "attempts",
       "answer_letters": "ATTEMPTS",
       "indices": [
-        82,
-        97,
-        121,
-        9,
-        5,
+        158,
+        132,
+        43,
+        161,
+        61,
         50,
-        29,
-        24
+        97,
+        12
       ]
     },
     {
@@ -38,12 +38,12 @@
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
-        56,
-        64,
+        14,
+        139,
         106,
-        147,
+        7,
         37,
-        44
+        29
       ]
     },
     {
@@ -51,14 +51,14 @@
       "answer": "authored",
       "answer_letters": "AUTHORED",
       "indices": [
-        16,
-        125,
+        101,
+        49,
         65,
-        150,
-        23,
+        157,
+        80,
         141,
-        161,
-        94
+        64,
+        169
       ]
     },
     {
@@ -66,13 +66,13 @@
       "answer": "heather",
       "answer_letters": "HEATHER",
       "indices": [
-        100,
-        104,
-        85,
-        75,
-        90,
+        150,
+        42,
+        144,
+        89,
+        138,
         142,
-        14
+        39
       ]
     },
     {
@@ -80,12 +80,12 @@
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
-        87,
+        94,
         174,
-        154,
-        63,
-        59,
-        58
+        179,
+        47,
+        90,
+        44
       ]
     },
     {
@@ -93,13 +93,13 @@
       "answer": "eclipse",
       "answer_letters": "ECLIPSE",
       "indices": [
-        52,
-        21,
-        143,
-        11,
-        152,
-        111,
-        42
+        107,
+        99,
+        18,
+        67,
+        160,
+        122,
+        52
       ]
     },
     {
@@ -107,12 +107,12 @@
       "answer": "sources",
       "answer_letters": "SOURCES",
       "indices": [
-        163,
-        80,
+        3,
+        166,
         34,
-        39,
-        99,
-        60,
+        56,
+        21,
+        170,
         51
       ]
     },
@@ -121,13 +121,13 @@
       "answer": "spotify",
       "answer_letters": "SPOTIFY",
       "indices": [
-        73,
-        129,
-        55,
-        155,
-        77,
-        115,
-        165
+        24,
+        72,
+        114,
+        176,
+        151,
+        135,
+        83
       ]
     },
     {
@@ -135,15 +135,15 @@
       "answer": "ethnicity",
       "answer_letters": "ETHNICITY",
       "indices": [
-        91,
-        180,
+        9,
+        58,
         177,
         102,
-        67,
+        154,
         108,
-        0,
-        53,
-        83
+        11,
+        66,
+        92
       ]
     },
     {
@@ -151,16 +151,16 @@
       "answer": "noteworthy",
       "answer_letters": "NOTEWORTHY",
       "indices": [
-        148,
-        7,
-        137,
-        15,
+        8,
+        4,
+        127,
+        25,
         27,
         134,
         131,
-        66,
-        138,
-        32
+        53,
+        30,
+        36
       ]
     },
     {
@@ -169,11 +169,11 @@
       "answer_letters": "JOINED",
       "indices": [
         124,
-        166,
-        175,
-        96,
-        139,
-        169
+        147,
+        45,
+        86,
+        6,
+        87
       ]
     },
     {
@@ -181,13 +181,13 @@
       "answer": "unusual",
       "answer_letters": "UNUSUAL",
       "indices": [
-        110,
-        46,
-        49,
-        12,
         167,
-        158,
-        22
+        46,
+        71,
+        126,
+        38,
+        85,
+        17
       ]
     },
     {
@@ -195,12 +195,12 @@
       "answer": "sights",
       "answer_letters": "SIGHTS",
       "indices": [
-        3,
+        78,
         146,
-        103,
-        157,
-        176,
-        78
+        41,
+        100,
+        137,
+        163
       ]
     },
     {
@@ -208,13 +208,13 @@
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
-        89,
-        151,
-        135,
+        145,
+        120,
+        115,
         1,
-        109,
-        86,
-        92
+        16,
+        96,
+        32
       ]
     },
     {
@@ -222,12 +222,12 @@
       "answer": "loyola",
       "answer_letters": "LOYOLA",
       "indices": [
-        17,
+        22,
         33,
-        36,
-        4,
-        18,
-        130
+        19,
+        23,
+        172,
+        109
       ]
     },
     {
@@ -235,12 +235,12 @@
       "answer": "impose",
       "answer_letters": "IMPOSE",
       "indices": [
-        179,
-        61,
-        72,
+        117,
+        5,
+        129,
         95,
-        149,
-        74
+        73,
+        60
       ]
     },
     {
@@ -248,12 +248,12 @@
       "answer": "supply",
       "answer_letters": "SUPPLY",
       "indices": [
-        122,
-        71,
-        160,
+        111,
+        125,
+        152,
         159,
-        172,
-        19
+        143,
+        165
       ]
     },
     {
@@ -261,11 +261,11 @@
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
-        43,
-        171,
-        30,
-        117,
-        145,
+        180,
+        82,
+        59,
+        77,
+        155,
         28
       ]
     },
@@ -274,12 +274,12 @@
       "answer": "eugene",
       "answer_letters": "EUGENE",
       "indices": [
-        107,
-        38,
-        41,
-        25,
+        112,
+        110,
+        63,
+        104,
         68,
-        112
+        74
       ]
     },
     {
@@ -287,15 +287,15 @@
       "answer": "negotiate",
       "answer_letters": "NEGOTIATE",
       "indices": [
-        8,
-        170,
-        69,
-        114,
+        162,
+        91,
+        103,
+        55,
+        121,
+        175,
+        171,
         118,
-        45,
-        144,
-        132,
-        6
+        15
       ]
     }
   ],

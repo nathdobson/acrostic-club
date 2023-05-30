@@ -9,14 +9,14 @@
       "answer": "position",
       "answer_letters": "POSITION",
       "indices": [
-        59,
-        88,
-        143,
-        79,
+        66,
+        122,
+        70,
+        51,
         151,
-        39,
+        103,
         152,
-        11
+        165
       ]
     },
     {
@@ -24,14 +24,14 @@
       "answer": "homicide",
       "answer_letters": "HOMICIDE",
       "indices": [
-        167,
-        144,
-        89,
-        98,
+        7,
+        88,
+        123,
+        168,
         129,
-        119,
-        111,
-        86
+        49,
+        75,
+        33
       ]
     },
     {
@@ -39,17 +39,17 @@
       "answer": "illustrious",
       "answer_letters": "ILLUSTRIOUS",
       "indices": [
-        51,
+        24,
         113,
-        30,
-        105,
-        46,
-        91,
+        20,
+        155,
+        64,
+        3,
         156,
         146,
-        122,
-        155,
-        134
+        72,
+        105,
+        120
       ]
     },
     {
@@ -57,12 +57,12 @@
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
-        20,
-        133,
-        50,
-        163,
-        170,
-        60
+        62,
+        125,
+        102,
+        101,
+        40,
+        167
       ]
     },
     {
@@ -70,13 +70,13 @@
       "answer": "provost",
       "answer_letters": "PROVOST",
       "indices": [
-        66,
-        158,
-        42,
-        115,
-        63,
-        40,
-        94
+        169,
+        16,
+        141,
+        50,
+        19,
+        135,
+        91
       ]
     },
     {
@@ -84,14 +84,14 @@
       "answer": "handsome",
       "answer_letters": "HANDSOME",
       "indices": [
-        71,
-        125,
-        80,
-        75,
-        135,
-        10,
-        123,
-        33
+        95,
+        133,
+        11,
+        87,
+        46,
+        63,
+        0,
+        159
       ]
     },
     {
@@ -99,13 +99,13 @@
       "answer": "invited",
       "answer_letters": "INVITED",
       "indices": [
-        101,
-        110,
-        102,
-        136,
-        55,
-        85,
-        87
+        163,
+        80,
+        115,
+        79,
+        148,
+        86,
+        121
       ]
     },
     {
@@ -113,12 +113,12 @@
       "answer": "loading",
       "answer_letters": "LOADING",
       "indices": [
-        107,
-        19,
-        161,
-        121,
-        61,
-        165,
+        21,
+        144,
+        109,
+        104,
+        119,
+        110,
         53
       ]
     },
@@ -127,10 +127,10 @@
       "answer": "offices",
       "answer_letters": "OFFICES",
       "indices": [
-        137,
-        14,
+        154,
         83,
-        24,
+        18,
+        136,
         145,
         116,
         166
@@ -141,12 +141,12 @@
       "answer": "splash",
       "answer_letters": "SPLASH",
       "indices": [
-        120,
+        170,
         132,
         48,
-        28,
-        64,
-        7
+        161,
+        8,
+        60
       ]
     },
     {
@@ -154,11 +154,11 @@
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
-        164,
+        42,
         118,
-        32,
-        103,
-        52,
+        138,
+        61,
+        126,
         26
       ]
     },
@@ -167,12 +167,12 @@
       "answer": "format",
       "answer_letters": "FORMAT",
       "indices": [
-        18,
-        92,
-        78,
-        131,
-        109,
-        148
+        36,
+        114,
+        158,
+        43,
+        28,
+        162
       ]
     },
     {
@@ -180,12 +180,12 @@
       "answer": "rights",
       "answer_letters": "RIGHTS",
       "indices": [
-        16,
-        49,
+        78,
+        98,
         81,
-        56,
-        3,
-        70
+        71,
+        9,
+        143
       ]
     },
     {
@@ -193,13 +193,13 @@
       "answer": "erosion",
       "answer_letters": "EROSION",
       "indices": [
-        159,
+        12,
         84,
-        141,
-        8,
-        168,
-        4,
-        138
+        22,
+        134,
+        39,
+        15,
+        99
       ]
     },
     {
@@ -207,12 +207,12 @@
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
-        57,
-        0,
-        169,
-        160,
-        15,
-        1
+        85,
+        131,
+        59,
+        107,
+        10,
+        149
       ]
     },
     {
@@ -221,11 +221,11 @@
       "answer_letters": "COWBOY",
       "indices": [
         6,
-        65,
-        38,
+        4,
+        23,
         77,
-        114,
-        149
+        92,
+        68
       ]
     },
     {
@@ -234,11 +234,11 @@
       "answer_letters": "HOLLOW",
       "indices": [
         67,
-        72,
-        21,
-        62,
-        22,
-        23
+        137,
+        160,
+        74,
+        130,
+        38
       ]
     },
     {
@@ -246,11 +246,11 @@
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
-        96,
-        41,
+        57,
+        100,
         45,
-        9,
-        147,
+        55,
+        96,
         127
       ]
     },
@@ -259,12 +259,12 @@
       "answer": "nation",
       "answer_letters": "NATION",
       "indices": [
-        126,
+        25,
         106,
-        162,
+        94,
         31,
-        154,
-        25
+        35,
+        32
       ]
     },
     {
@@ -272,12 +272,12 @@
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
-        12,
-        104,
-        43,
-        35,
-        99,
-        100
+        147,
+        111,
+        89,
+        65,
+        52,
+        41
       ]
     },
     {
@@ -285,14 +285,14 @@
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
-        68,
-        130,
-        5,
-        140,
-        95,
-        36,
+        1,
+        164,
         73,
-        74
+        140,
+        56,
+        14,
+        5,
+        30
       ]
     }
   ],

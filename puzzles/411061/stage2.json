@@ -1,6 +1,6 @@
 {
   "quote": "An ear for music is very different from a taste for music. I have no ear whatever  I could not sing an air to save my life  but I have the intensest delight in music  and can detect good from bad.",
-  "quote_letters": "AN EAR FOR MUSIC IS VERY DIFFERENT FROM A TASTE FOR MUSIC I HAVE NO EAR WHATEVER  I COULD NOT SING AN AIR TO SAVE MY LIFE  BUT I HAVE THE INTENSEST DELIGHT IN MUSIC  AND CAN DETECT GOOD FROM BAD",
+  "quote_letters": "AN EAR FOR MUSIC IS VERY DIFFERENT FROM A TASTE FOR MUSIC I HAVE NO EAR WHATEVER I COULD NOT SING AN AIR TO SAVE MY LIFE BUT I HAVE THE INTENSEST DELIGHT IN MUSIC AND CAN DETECT GOOD FROM BAD",
   "source": "Samuel Taylor Coleridge",
   "source_letters": "SAMUELTAYLORCOLERIDGE",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "suffer",
       "answer_letters": "SUFFER",
       "indices": [
-        109,
-        86,
-        119,
-        48,
-        76,
-        79
+        44,
+        122,
+        7,
+        35,
+        21,
+        50
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "active",
       "answer_letters": "ACTIVE",
       "indices": [
-        166,
-        163,
-        179,
-        17,
-        77,
-        68
+        189,
+        83,
+        173,
+        81,
+        110,
+        174
       ]
     },
     {
@@ -35,14 +35,14 @@
       "answer": "matching",
       "answer_letters": "MATCHING",
       "indices": [
-        159,
-        171,
-        42,
-        178,
-        129,
-        127,
-        90,
-        181
+        38,
+        98,
+        33,
+        15,
+        60,
+        154,
+        137,
+        178
       ]
     },
     {
@@ -50,12 +50,12 @@
       "answer": "unfair",
       "answer_letters": "UNFAIR",
       "indices": [
-        124,
-        142,
+        85,
+        99,
         28,
-        192,
-        82,
-        22
+        101,
+        17,
+        30
       ]
     },
     {
@@ -63,14 +63,14 @@
       "answer": "endorsed",
       "answer_letters": "ENDORSED",
       "indices": [
-        29,
-        172,
-        148,
-        85,
-        9,
-        18,
-        112,
-        88
+        46,
+        32,
+        181,
+        66,
+        70,
+        13,
+        139,
+        165
       ]
     },
     {
@@ -78,12 +78,12 @@
       "answer": "levine",
       "answer_letters": "LEVINE",
       "indices": [
-        87,
-        149,
-        62,
-        138,
-        167,
-        144
+        148,
+        31,
+        20,
+        94,
+        95,
+        119
       ]
     },
     {
@@ -92,13 +92,13 @@
       "answer_letters": "TOMATOES",
       "indices": [
         45,
-        183,
-        189,
-        0,
-        106,
-        182,
-        141,
-        161
+        37,
+        113,
+        43,
+        105,
+        179,
+        111,
+        141
       ]
     },
     {
@@ -106,15 +106,15 @@
       "answer": "advocated",
       "answer_letters": "ADVOCATED",
       "indices": [
-        40,
-        168,
-        20,
-        37,
-        15,
-        110,
-        154,
-        46,
-        25
+        163,
+        25,
+        62,
+        180,
+        56,
+        69,
+        75,
+        142,
+        146
       ]
     },
     {
@@ -123,11 +123,11 @@
       "answer_letters": "YACHTS",
       "indices": [
         23,
-        130,
-        170,
-        73,
-        134,
-        44
+        61,
+        175,
+        151,
+        123,
+        159
       ]
     },
     {
@@ -135,12 +135,12 @@
       "answer": "lumber",
       "answer_letters": "LUMBER",
       "indices": [
-        117,
-        160,
-        38,
-        123,
-        21,
-        36
+        86,
+        12,
+        186,
+        121,
+        172,
+        9
       ]
     },
     {
@@ -148,15 +148,15 @@
       "answer": "offensive",
       "answer_letters": "OFFENSIVE",
       "indices": [
-        8,
-        7,
-        186,
+        49,
+        183,
+        118,
         63,
-        96,
-        13,
-        103,
-        111,
-        3
+        164,
+        143,
+        136,
+        77,
+        68
       ]
     },
     {
@@ -164,14 +164,14 @@
       "answer": "rasmussen",
       "answer_letters": "RASMUSSEN",
       "indices": [
-        187,
-        74,
-        54,
-        52,
-        12,
-        94,
-        143,
-        136,
+        79,
+        4,
+        18,
+        11,
+        158,
+        93,
+        108,
+        130,
         65
       ]
     },
@@ -180,12 +180,12 @@
       "answer": "church",
       "answer_letters": "CHURCH",
       "indices": [
-        56,
-        60,
+        167,
+        133,
         53,
         5,
-        84,
-        153
+        161,
+        127
       ]
     },
     {
@@ -193,12 +193,12 @@
       "answer": "obtain",
       "answer_letters": "OBTAIN",
       "indices": [
-        91,
-        191,
-        146,
-        4,
-        26,
-        100
+        90,
+        188,
+        132,
+        0,
+        117,
+        155
       ]
     },
     {
@@ -206,12 +206,12 @@
       "answer": "latvia",
       "answer_letters": "LATVIA",
       "indices": [
-        150,
-        99,
-        92,
-        131,
-        58,
-        69
+        116,
+        168,
+        91,
+        129,
+        160,
+        74
       ]
     },
     {
@@ -219,13 +219,13 @@
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
-        31,
-        114,
-        14,
-        140,
-        176,
-        175,
-        184
+        147,
+        157,
+        58,
+        42,
+        138,
+        76,
+        87
       ]
     },
     {
@@ -233,12 +233,12 @@
       "answer": "rotary",
       "answer_letters": "ROTARY",
       "indices": [
-        30,
-        66,
-        125,
-        43,
-        50,
-        115
+        103,
+        8,
+        144,
+        109,
+        22,
+        114
       ]
     },
     {
@@ -246,16 +246,16 @@
       "answer": "initiating",
       "answer_letters": "INITIATING",
       "indices": [
-        162,
-        139,
-        95,
-        75,
-        118,
+        149,
+        89,
+        14,
+        176,
         102,
-        33,
-        55,
-        32,
-        152
+        128,
+        152,
+        26,
+        1,
+        150
       ]
     },
     {
@@ -263,12 +263,12 @@
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
-        174,
-        151,
+        190,
+        125,
         27,
-        35,
-        78,
-        104
+        48,
+        29,
+        36
       ]
     },
     {
@@ -276,13 +276,13 @@
       "answer": "goodman",
       "answer_letters": "GOODMAN",
       "indices": [
-        97,
-        188,
-        107,
-        193,
-        11,
-        61,
-        1
+        96,
+        84,
+        185,
+        171,
+        52,
+        40,
+        169
       ]
     },
     {
@@ -290,16 +290,16 @@
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
-        120,
-        156,
-        145,
-        132,
-        157,
-        135,
-        49,
+        78,
+        55,
+        54,
+        134,
+        140,
+        73,
+        106,
         72,
-        177,
-        70
+        3,
+        184
       ]
     }
   ],
