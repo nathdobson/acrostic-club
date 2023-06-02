@@ -1,0 +1,293 @@
+{
+  "quote": "He had never seen her body so abandoned, so unconscious of all but the desire to be taken and satisfied. She bloomed under his caresses, no longer the girl but the woman already being born.",
+  "quote_letters": "HE HAD NEVER SEEN HER BODY SO ABANDONED SO UNCONSCIOUS OF ALL BUT THE DESIRE TO BE TAKEN AND SATISFIED SHE BLOOMED UNDER HIS CARESSES NO LONGER THE GIRL BUT THE WOMAN ALREADY BEING BORN",
+  "source": "Anaïs Nin, Little Birds",
+  "source_letters": "ANAISNINLITTLEBIRDS",
+  "clues": [
+    {
+      "clue": "Medical procedures that terminate a pregnancy.",
+      "answer": "abortions",
+      "answer_letters": "ABORTIONS",
+      "indices": [
+        126,
+        153,
+        41,
+        11,
+        157,
+        99,
+        28,
+        165,
+        129
+      ]
+    },
+    {
+      "clue": "Necessary or essential.",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
+      "indices": [
+        90,
+        75,
+        141,
+        24,
+        71,
+        91
+      ]
+    },
+    {
+      "clue": "City in southern California known for its film industry.",
+      "answer": "angeles",
+      "answer_letters": "ANGELES",
+      "indices": [
+        4,
+        47,
+        140,
+        14,
+        151,
+        100,
+        97
+      ]
+    },
+    {
+      "clue": "Containing harmful microorganisms.",
+      "answer": "infected",
+      "answer_letters": "INFECTED",
+      "indices": [
+        149,
+        36,
+        98,
+        159,
+        49,
+        95,
+        112,
+        38
+      ]
+    },
+    {
+      "clue": "Botanist known for his work on plant development and growth.",
+      "answer": "seymour",
+      "answer_letters": "SEYMOUR",
+      "indices": [
+        53,
+        131,
+        25,
+        111,
+        110,
+        43,
+        169
+      ]
+    },
+    {
+      "clue": "A cloud of dust and gas in space.",
+      "answer": "nebula",
+      "answer_letters": "NEBULA",
+      "indices": [
+        16,
+        176,
+        22,
+        115,
+        137,
+        84
+      ]
+    },
+    {
+      "clue": "Called upon, like the protagonist in a Neil Gaiman novel.",
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
+      "indices": [
+        177,
+        44,
+        9,
+        23,
+        85,
+        10,
+        113
+      ]
+    },
+    {
+      "clue": "A place that doesn't exist.",
+      "answer": "nowhere",
+      "answer_letters": "NOWHERE",
+      "indices": [
+        33,
+        78,
+        161,
+        145,
+        170,
+        142,
+        19
+      ]
+    },
+    {
+      "clue": "A beacon on the coast for guiding ships.",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
+      "indices": [
+        59,
+        96,
+        179,
+        0,
+        155,
+        3,
+        55,
+        63,
+        48,
+        86
+      ]
+    },
+    {
+      "clue": "Points of connection between different systems or programs.",
+      "answer": "interfaces",
+      "answer_letters": "INTERFACES",
+      "indices": [
+        73,
+        116,
+        83,
+        8,
+        119,
+        56,
+        30,
+        125,
+        68,
+        103
+      ]
+    },
+    {
+      "clue": "A conjunction indicating a contrast or concession.",
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        66,
+        67,
+        138,
+        52,
+        148,
+        104
+      ]
+    },
+    {
+      "clue": "Items used to sew garments.",
+      "answer": "threads",
+      "answer_letters": "THREADS",
+      "indices": [
+        77,
+        121,
+        20,
+        118,
+        32,
+        117,
+        72
+      ]
+    },
+    {
+      "clue": "Adele's birthplace.",
+      "answer": "london-based",
+      "answer_letters": "LONDONBASED",
+      "indices": [
+        60,
+        182,
+        87,
+        34,
+        46,
+        7,
+        175,
+        94,
+        132,
+        105,
+        101
+      ]
+    },
+    {
+      "clue": "Repeated a sound.",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        81,
+        45,
+        18,
+        35,
+        37,
+        70
+      ]
+    },
+    {
+      "clue": "Sci-fi movie directed by Christopher Nolan.",
+      "answer": "beyond",
+      "answer_letters": "BEYOND",
+      "indices": [
+        181,
+        146,
+        173,
+        162,
+        134,
+        172
+      ]
+    },
+    {
+      "clue": "Character in the Animal Crossing video game series.",
+      "answer": "isabelle",
+      "answer_letters": "ISABELLE",
+      "indices": [
+        122,
+        40,
+        171,
+        31,
+        15,
+        168,
+        108,
+        128
+      ]
+    },
+    {
+      "clue": "Self-help author and motivational speaker with the first name Tony.",
+      "answer": "robbins",
+      "answer_letters": "ROBBINS",
+      "indices": [
+        74,
+        109,
+        62,
+        80,
+        50,
+        178,
+        13
+      ]
+    },
+    {
+      "clue": "Protesters who gather to express their views publicly.",
+      "answer": "demonstrators",
+      "answer_letters": "DEMONSTRATORS",
+      "indices": [
+        5,
+        1,
+        163,
+        51,
+        139,
+        27,
+        144,
+        150,
+        58,
+        64,
+        135,
+        183,
+        130
+      ]
+    },
+    {
+      "clue": "Region of Africa south of the Sahara Desert.",
+      "answer": "sub-saharan",
+      "answer_letters": "SUBSAHARAN",
+      "indices": [
+        93,
+        154,
+        107,
+        123,
+        164,
+        158,
+        89,
+        127,
+        167,
+        184
+      ]
+    }
+  ],
+  "chat": null
+}

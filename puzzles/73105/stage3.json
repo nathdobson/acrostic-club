@@ -5,263 +5,263 @@
   "source_letters": "EMDENNINGBOOMERANG",
   "clues": [
     {
-      "clue": "In an incorrect manner.",
-      "answer": "erroneously",
-      "answer_letters": "ERRONEOUSLY",
+      "clue": "Reverberations bouncing off walls and returning to the listener.",
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
       "indices": [
+        1,
+        127,
+        121,
+        11,
+        149,
+        123
+      ]
+    },
+    {
+      "clue": "Relating to chemical processes in the body that convert food into energy.",
+      "answer": "metabolic",
+      "answer_letters": "METABOLIC",
+      "indices": [
+        63,
+        8,
+        135,
+        86,
+        16,
+        40,
+        164,
+        139,
+        166
+      ]
+    },
+    {
+      "clue": "To position troops or resources strategically in a battle or mission.",
+      "answer": "deploy",
+      "answer_letters": "DEPLOY",
+      "indices": [
+        112,
         141,
-        79,
-        73,
-        71,
+        84,
+        117,
+        44,
+        33
+      ]
+    },
+    {
+      "clue": "Ability to understand and share the feelings of others.",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        29,
+        151,
+        114,
+        32,
+        41,
+        106,
+        152
+      ]
+    },
+    {
+      "clue": "In name only.",
+      "answer": "nominally",
+      "answer_letters": "NOMINALLY",
+      "indices": [
         56,
-        167,
-        60,
-        115,
-        123,
+        144,
+        138,
+        91,
+        28,
+        76,
         2,
+        116,
         70
       ]
     },
     {
-      "clue": "A region of India.",
-      "answer": "madhya",
-      "answer_letters": "MADHYA",
-      "indices": [
-        151,
-        103,
-        119,
-        106,
-        152,
-        55
-      ]
-    },
-    {
-      "clue": "Last name of a Welsh footballer.",
-      "answer": "davies",
-      "answer_letters": "DAVIES",
-      "indices": [
-        31,
-        6,
-        7,
-        122,
-        107,
-        90
-      ]
-    },
-    {
-      "clue": "Examined and judged.",
-      "answer": "evaluated",
-      "answer_letters": "EVALUATED",
-      "indices": [
-        118,
-        77,
-        165,
-        3,
-        72,
-        97,
-        41,
-        8,
-        108
-      ]
-    },
-    {
-      "clue": "A male relative of yours' sibling.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        140,
-        25,
-        84,
-        22,
-        1,
-        132
-      ]
-    },
-    {
-      "clue": "A common female name.",
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
+      "clue": "Indigenous people of a land.",
+      "answer": "natives",
+      "answer_letters": "NATIVES",
       "indices": [
         133,
-        86,
-        135,
-        147,
-        89,
-        42,
-        76
-      ]
-    },
-    {
-      "clue": "A high-tech device made by Apple.",
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
-      "indices": [
-        139,
-        163,
-        36,
-        51,
-        28,
-        37
-      ]
-    },
-    {
-      "clue": "Became aware of.",
-      "answer": "noticed",
-      "answer_letters": "NOTICED",
-      "indices": [
-        98,
-        78,
+        103,
         21,
-        80,
-        18,
-        23,
-        112
-      ]
-    },
-    {
-      "clue": "A Canadian city in Ontario.",
-      "answer": "guelph",
-      "answer_letters": "GUELPH",
-      "indices": [
-        13,
-        145,
-        161,
-        85,
-        114,
-        121
-      ]
-    },
-    {
-      "clue": "In essence.",
-      "answer": "basically",
-      "answer_letters": "BASICALLY",
-      "indices": [
-        39,
-        155,
-        48,
         100,
-        87,
-        32,
-        116,
-        67,
-        50
-      ]
-    },
-    {
-      "clue": "A drainage.",
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        14,
-        47,
-        81,
-        125,
-        92,
-        131,
-        0
-      ]
-    },
-    {
-      "clue": "A place for work and administration.",
-      "answer": "office",
-      "answer_letters": "OFFICE",
-      "indices": [
-        40,
-        154,
-        75,
-        91,
-        166,
-        128
-      ]
-    },
-    {
-      "clue": "Small units of matter that form the building blocks of all physical substances.",
-      "answer": "molecules",
-      "answer_letters": "MOLECULES",
-      "indices": [
-        63,
-        11,
-        68,
-        88,
-        127,
-        52,
-        93,
-        149,
+        77,
+        23,
         58
       ]
     },
     {
-      "clue": "All people.",
-      "answer": "everybody",
-      "answer_letters": "EVERYBODY",
+      "clue": "Greek island home to Odysseus.",
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
       "indices": [
-        82,
-        156,
-        29,
-        24,
-        64,
-        16,
+        80,
+        10,
+        42,
+        165,
+        87,
+        17
+      ]
+    },
+    {
+      "clue": "Currently.",
+      "answer": "nowadays",
+      "answer_letters": "NOWADAYS",
+      "indices": [
+        98,
         27,
-        130,
+        0,
+        155,
+        31,
+        147,
+        50,
+        89
+      ]
+    },
+    {
+      "clue": "Actor who played Captain Hook in the classic 1991 film Hook.",
+      "answer": "geoffrey",
+      "answer_letters": "GEOFFREY",
+      "indices": [
+        105,
+        88,
+        60,
+        45,
+        125,
+        148,
+        118,
         143
       ]
     },
     {
-      "clue": "A consistent beat in music.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "clue": "An American conservationist who championed the conservation of bison.",
+      "answer": "buffalo",
+      "answer_letters": "BUFFALO",
       "indices": [
-        148,
-        5,
-        33,
-        35,
-        59,
-        138
-      ]
-    },
-    {
-      "clue": "Operates without human intervention or control.",
-      "answer": "automatic",
-      "answer_letters": "AUTOMATIC",
-      "indices": [
-        17,
+        39,
         104,
-        160,
-        157,
-        96,
-        110,
-        10,
-        159,
-        54
+        154,
+        75,
+        6,
+        102,
+        131
       ]
     },
     {
-      "clue": "English county on the east coast.",
-      "answer": "norfolk",
-      "answer_letters": "NORFOLK",
+      "clue": "No longer legal.",
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
       "indices": [
+        51,
+        115,
+        81,
+        92,
+        97,
+        132,
+        37,
+        119
+      ]
+    },
+    {
+      "clue": "A brief period of time.",
+      "answer": "one-hour",
+      "answer_letters": "ONEHOUR",
+      "indices": [
+        157,
         111,
+        82,
+        22,
         136,
-        158,
-        45,
-        44,
-        117,
+        145,
+        73
+      ]
+    },
+    {
+      "clue": "Hairstyle famously worn by Travis Barker.",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
+      "indices": [
+        96,
+        71,
+        36,
+        110,
+        61,
         19
       ]
     },
     {
-      "clue": "A type of cattle breed.",
-      "answer": "galloway",
-      "answer_letters": "GALLOWAY",
+      "clue": "Biology concept famously associated with Charles Darwin.",
+      "answer": "evolved",
+      "answer_letters": "EVOLVED",
       "indices": [
-        105,
-        126,
-        164,
-        102,
-        144,
-        61,
+        107,
+        7,
+        78,
+        67,
+        156,
+        128,
+        130
+      ]
+    },
+    {
+      "clue": "Reindeer with a bright red nose.",
+      "answer": "rudolph",
+      "answer_letters": "RUDOLPH",
+      "indices": [
+        158,
+        47,
+        108,
+        14,
+        85,
+        163,
+        5
+      ]
+    },
+    {
+      "clue": "In truth, not just in appearance.",
+      "answer": "actually",
+      "answer_letters": "ACTUALLY",
+      "indices": [
         66,
+        54,
+        35,
+        72,
+        126,
+        93,
+        3,
         94
+      ]
+    },
+    {
+      "clue": "Indicating that something must occur.",
+      "answer": "necessarily",
+      "answer_letters": "NECESSARILY",
+      "indices": [
+        140,
+        25,
+        18,
+        161,
+        48,
+        90,
+        55,
+        79,
+        159,
+        68,
+        64
+      ]
+    },
+    {
+      "clue": "Folk singer-songwriter who wrote \"This Land Is Your Land\".",
+      "answer": "guthrie",
+      "answer_letters": "GUTHRIE",
+      "indices": [
+        13,
+        52,
+        160,
+        59,
+        24,
+        122,
+        167
       ]
     }
   ],

@@ -5,305 +5,305 @@
   "source_letters": "MICHAELMORPURGOFARMBOY",
   "clues": [
     {
-      "clue": "Units of time.",
-      "answer": "months",
-      "answer_letters": "MONTHS",
+      "clue": "Elements with high thermal and electrical conductivity.",
+      "answer": "metals",
+      "answer_letters": "METALS",
       "indices": [
-        18,
-        13,
-        33,
-        23,
-        75,
+        100,
+        115,
+        43,
+        65,
+        161,
         167
       ]
     },
     {
-      "clue": "Refused to give up on a demand.",
-      "answer": "insisted",
-      "answer_letters": "INSISTED",
+      "clue": "Measurement between feet and yards.",
+      "answer": "inches",
+      "answer_letters": "INCHES",
       "indices": [
-        106,
-        67,
-        81,
         50,
-        118,
-        43,
-        1,
-        16
+        3,
+        20,
+        45,
+        4,
+        71
       ]
     },
     {
-      "clue": "Selected from a group.",
-      "answer": "chosen",
-      "answer_letters": "CHOSEN",
+      "clue": "Describing a song that sticks in one's head.",
+      "answer": "catchy",
+      "answer_letters": "CATCHY",
       "indices": [
-        11,
-        0,
-        24,
-        138,
-        124,
-        154
-      ]
-    },
-    {
-      "clue": "Distance from base to summit.",
-      "answer": "height",
-      "answer_letters": "HEIGHT",
-      "indices": [
-        87,
-        104,
-        178,
-        180,
-        21,
-        77
-      ]
-    },
-    {
-      "clue": "A Spanish male name.",
-      "answer": "antonio",
-      "answer_letters": "ANTONIO",
-      "indices": [
-        120,
-        107,
+        57,
+        36,
         86,
-        58,
-        14,
-        169,
-        111
+        27,
+        87,
+        164
       ]
     },
     {
-      "clue": "A country in Europe.",
-      "answer": "england",
-      "answer_letters": "ENGLAND",
+      "clue": "Advanced and modern technology.",
+      "answer": "high-tech",
+      "answer_letters": "HIGHTECH",
       "indices": [
-        131,
-        94,
-        34,
-        132,
-        42,
-        90,
+        28,
+        106,
+        108,
+        75,
+        40,
+        130,
+        11,
+        21
+      ]
+    },
+    {
+      "clue": "Socially uncomfortable or ungraceful.",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
+      "indices": [
+        173,
+        172,
+        12,
+        141,
+        142,
+        113,
+        122
+      ]
+    },
+    {
+      "clue": "Billionaire philanthropist known for his charitable giving.",
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
+      "indices": [
+        137,
+        37,
+        51,
+        84,
+        83,
+        149,
         176
       ]
     },
     {
-      "clue": "Multiple levels or strata.",
-      "answer": "layered",
-      "answer_letters": "LAYERED",
+      "clue": "In a relaxed manner.",
+      "answer": "loosely",
+      "answer_letters": "LOOSELY",
       "indices": [
-        148,
-        125,
-        143,
+        132,
+        58,
+        29,
+        165,
+        117,
+        31,
+        110
+      ]
+    },
+    {
+      "clue": "Hairstyle famously worn by Travis Barker.",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
+      "indices": [
+        69,
+        145,
+        41,
+        76,
+        74,
+        102
+      ]
+    },
+    {
+      "clue": "Made available for access.",
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        91,
+        105,
+        6,
+        67,
+        158,
+        16
+      ]
+    },
+    {
+      "clue": "Famous and celebrated.",
+      "answer": "renowned",
+      "answer_letters": "RENOWNED",
+      "indices": [
+        7,
         64,
-        113,
-        103,
+        94,
+        13,
+        162,
+        179,
+        131,
         38
       ]
     },
     {
-      "clue": "Soft-bodied animals with no backbone.",
-      "answer": "mollusks",
-      "answer_letters": "MOLLUSKS",
-      "indices": [
-        100,
-        91,
-        31,
-        161,
-        112,
-        26,
-        12,
-        174
-      ]
-    },
-    {
-      "clue": "To take control or possess, as in land or a building.",
-      "answer": "occupy",
-      "answer_letters": "OCCUPY",
-      "indices": [
-        30,
-        20,
-        27,
-        55,
-        105,
-        116
-      ]
-    },
-    {
-      "clue": "A safe haven for those in need.",
-      "answer": "refuge",
-      "answer_letters": "REFUGE",
-      "indices": [
-        66,
-        6,
-        146,
-        19,
-        95,
-        115
-      ]
-    },
-    {
-      "clue": "The study of matter and energy.",
-      "answer": "physics",
-      "answer_letters": "PHYSICS",
+      "clue": "A legal protection for an invention.",
+      "answer": "patent",
+      "answer_letters": "PATENT",
       "indices": [
         129,
-        45,
-        110,
-        165,
-        93,
-        57,
-        127
-      ]
-    },
-    {
-      "clue": "Not conscious or informed.",
-      "answer": "unaware",
-      "answer_letters": "UNAWARE",
-      "indices": [
-        59,
-        3,
-        80,
-        83,
         150,
-        9,
-        10
+        23,
+        124,
+        154,
+        139
       ]
     },
     {
-      "clue": "Paved paths for vehicles and pedestrians.",
-      "answer": "roadways",
-      "answer_letters": "ROADWAYS",
+      "clue": "Not being utilized.",
+      "answer": "unused",
+      "answer_letters": "UNUSED",
       "indices": [
-        85,
-        29,
-        49,
-        51,
-        79,
-        142,
-        164,
-        48
-      ]
-    },
-    {
-      "clue": "Prominent German writer.",
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        108,
-        177,
-        46,
-        72,
-        41,
-        15
-      ]
-    },
-    {
-      "clue": "A coastal Indian state.",
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
-      "indices": [
-        84,
-        122,
-        153,
-        71,
-        157,
-        65
-      ]
-    },
-    {
-      "clue": "To cease remembering.",
-      "answer": "forget",
-      "answer_letters": "FORGET",
-      "indices": [
-        97,
-        70,
-        151,
-        155,
-        133,
-        40
-      ]
-    },
-    {
-      "clue": "Not able to move with ease or grace.",
-      "answer": "awkward",
-      "answer_letters": "AWKWARD",
-      "indices": [
-        76,
-        74,
-        89,
-        162,
-        36,
-        7,
-        134
-      ]
-    },
-    {
-      "clue": "The act of refreshing or reviving something.",
-      "answer": "renewal",
-      "answer_letters": "RENEWAL",
-      "indices": [
-        126,
-        130,
-        37,
-        158,
-        92,
-        173,
-        60
-      ]
-    },
-    {
-      "clue": "Record label founded in Detroit, Michigan.",
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
-      "indices": [
-        69,
-        99,
-        139,
-        54,
-        172,
-        179
-      ]
-    },
-    {
-      "clue": "Famous family of actors and activists.",
-      "answer": "baldwin",
-      "answer_letters": "BALDWIN",
-      "indices": [
-        136,
-        160,
-        63,
-        170,
-        141,
-        32,
-        121
-      ]
-    },
-    {
-      "clue": "Above in position or location.",
-      "answer": "overhead",
-      "answer_letters": "OVERHEAD",
-      "indices": [
-        145,
-        5,
-        117,
-        98,
-        28,
-        4,
-        163,
+        55,
+        90,
+        19,
+        48,
+        104,
         61
       ]
     },
     {
-      "clue": "A term used to describe someone from the United States.",
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
+      "clue": "A glamorous coastal region popular for its beaches and luxury resorts.",
+      "answer": "riviera",
+      "answer_letters": "RIVIERA",
+      "indices": [
+        126,
+        153,
+        5,
+        178,
+        103,
+        9,
+        160
+      ]
+    },
+    {
+      "clue": "Apparitions of the deceased that haunt the living.",
+      "answer": "ghosts",
+      "answer_letters": "GHOSTS",
+      "indices": [
+        95,
+        0,
+        99,
+        26,
+        77,
+        127
+      ]
+    },
+    {
+      "clue": "City on the Mississippi River known for its French Quarter.",
+      "answer": "orleans",
+      "answer_letters": "ORLEANS",
+      "indices": [
+        70,
+        151,
+        63,
+        10,
+        42,
+        121,
+        81
+      ]
+    },
+    {
+      "clue": "Leaves of a plant.",
+      "answer": "foliage",
+      "answer_letters": "FOLIAGE",
+      "indices": [
+        97,
+        30,
+        60,
+        169,
+        49,
+        155,
+        133
+      ]
+    },
+    {
+      "clue": "Actor who played Gomez Addams in The Addams Family.",
+      "answer": "alfonso",
+      "answer_letters": "ALFONSO",
+      "indices": [
+        125,
+        148,
+        146,
+        24,
+        14,
+        118,
+        54
+      ]
+    },
+    {
+      "clue": "A long strip for takeoff and landing of airplanes.",
+      "answer": "runway",
+      "answer_letters": "RUNWAY",
+      "indices": [
+        98,
+        112,
+        33,
+        79,
+        120,
+        143
+      ]
+    },
+    {
+      "clue": "Famous American bowhunter and outdoor personality with his own TV show.",
+      "answer": "mathews",
+      "answer_letters": "MATHEWS",
+      "indices": [
+        18,
+        163,
+        72,
+        157,
+        15,
+        92,
+        174
+      ]
+    },
+    {
+      "clue": "A 1992 film starring Whitney Houston and Kevin Costner.",
+      "answer": "bodyguard",
+      "answer_letters": "BODYGUARD",
+      "indices": [
+        136,
+        177,
+        134,
+        116,
+        34,
+        59,
+        80,
+        85,
+        170
+      ]
+    },
+    {
+      "clue": "The ancestry or source of something.",
+      "answer": "origin",
+      "answer_letters": "ORIGIN",
+      "indices": [
+        111,
+        66,
+        32,
+        180,
+        93,
+        152
+      ]
+    },
+    {
+      "clue": "Baseball team based in the Bronx, NYC.",
+      "answer": "yankees",
+      "answer_letters": "YANKEES",
       "indices": [
         53,
         168,
-        152,
-        102,
-        149,
-        137
+        107,
+        89,
+        1,
+        46,
+        138
       ]
     }
   ],

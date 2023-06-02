@@ -5,286 +5,286 @@
   "source_letters": "ALFREDDEVIGNYSTELLO",
   "clues": [
     {
-      "clue": "Possible clue: A vague location.",
-      "answer": "anywhere",
-      "answer_letters": "ANYWHERE",
+      "clue": "Greek goddess of wisdom and war.",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
       "indices": [
-        124,
-        49,
-        157,
-        159,
-        92,
-        45,
-        142,
-        177
+        180,
+        55,
+        176,
+        79,
+        172,
+        136
       ]
     },
     {
-      "clue": "Long and time-consuming.",
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
+      "clue": "A beacon on the coast for guiding ships.",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
-        39,
-        116,
-        112,
+        33,
+        77,
         59,
-        114,
-        185,
+        115,
+        51,
+        56,
+        107,
+        43,
+        134,
+        121
+      ]
+    },
+    {
+      "clue": "TV presenter and journalist who hosted Strictly Come Dancing.",
+      "answer": "forsyth",
+      "answer_letters": "FORSYTH",
+      "indices": [
+        89,
+        169,
+        44,
+        31,
+        94,
+        144,
+        12
+      ]
+    },
+    {
+      "clue": "Famous song by Bon Jovi.",
+      "answer": "runaway",
+      "answer_letters": "RUNAWAY",
+      "indices": [
+        147,
+        100,
+        101,
+        119,
+        123,
+        10,
         125
       ]
     },
     {
-      "clue": "A university located in New York.",
-      "answer": "fordham",
-      "answer_letters": "FORDHAM",
-      "indices": [
-        34,
-        169,
-        151,
-        131,
-        145,
-        150,
-        29
-      ]
-    },
-    {
-      "clue": "An official who enforces rules in a game or competition.",
-      "answer": "referee",
-      "answer_letters": "REFEREE",
-      "indices": [
-        133,
-        86,
-        89,
-        121,
-        97,
-        152,
-        40
-      ]
-    },
-    {
-      "clue": "A regal name fit for a queen.",
+      "clue": "Queen known for her long reign in England.",
       "answer": "elisabeth",
       "answer_letters": "ELISABETH",
       "indices": [
-        70,
-        21,
-        127,
-        60,
-        119,
-        14,
-        132,
-        144,
-        115
-      ]
-    },
-    {
-      "clue": "Irish surname.",
-      "answer": "doherty",
-      "answer_letters": "DOHERTY",
-      "indices": [
-        109,
-        164,
-        176,
-        98,
-        44,
-        55,
-        30
-      ]
-    },
-    {
-      "clue": "The act of spreading or delivering something to many people or places.",
-      "answer": "distribution",
-      "answer_letters": "DISTRIBUTION",
-      "indices": [
-        138,
-        74,
-        179,
-        42,
-        147,
-        3,
-        69,
-        129,
-        16,
-        25,
-        108,
-        168
-      ]
-    },
-    {
-      "clue": "Began a journey, perhaps on a ship.",
-      "answer": "embarked",
-      "answer_letters": "EMBARKED",
-      "indices": [
         8,
-        120,
-        36,
-        160,
-        104,
-        167,
-        182,
-        46
+        39,
+        186,
+        118,
+        6,
+        14,
+        40,
+        16,
+        5
       ]
     },
     {
-      "clue": "A region in northeast Italy.",
-      "answer": "veneto",
-      "answer_letters": "VENETO",
+      "clue": "A long line of rulers from the same family.",
+      "answer": "dynasty",
+      "answer_letters": "DYNASTY",
+      "indices": [
+        131,
+        30,
+        156,
+        155,
+        71,
+        42,
+        157
+      ]
+    },
+    {
+      "clue": "Supernatural beings often associated with evil.",
+      "answer": "demons",
+      "answer_letters": "DEMONS",
+      "indices": [
+        102,
+        37,
+        120,
+        18,
+        137,
+        84
+      ]
+    },
+    {
+      "clue": "Used to indicate a choice between two options.",
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        152,
+        15,
+        175,
+        145,
+        148,
+        104
+      ]
+    },
+    {
+      "clue": "The physical phenomena that allow us to hear sound.",
+      "answer": "vibrations",
+      "answer_letters": "VIBRATIONS",
       "indices": [
         7,
-        103,
-        58,
-        148,
-        23,
-        82
-      ]
-    },
-    {
-      "clue": "City in Iran known for its Islamic architecture.",
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        171,
-        84,
-        19,
-        155,
-        52,
-        180,
-        130
-      ]
-    },
-    {
-      "clue": "Increased in amount or quantity.",
-      "answer": "gained",
-      "answer_letters": "GAINED",
-      "indices": [
-        188,
-        10,
-        15,
-        187,
-        53,
-        102
-      ]
-    },
-    {
-      "clue": "City in the East Midlands region of England.",
-      "answer": "nottingham",
-      "answer_letters": "NOTTINGHAM",
-      "indices": [
-        101,
-        0,
-        91,
-        81,
-        186,
-        65,
-        173,
-        56,
-        13,
-        154
-      ]
-    },
-    {
-      "clue": "Luxury vessels used for pleasure sailing.",
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        94,
-        96,
-        41,
-        12,
-        175,
-        105
-      ]
-    },
-    {
-      "clue": "Occurrences of gunfire.",
-      "answer": "shootings",
-      "answer_letters": "SHOOTINGS",
-      "indices": [
-        31,
-        5,
-        141,
-        66,
-        51,
         57,
-        26,
-        27,
-        134
-      ]
-    },
-    {
-      "clue": "A pair of double digits.",
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
-      "indices": [
+        69,
+        142,
+        13,
         135,
-        170,
-        79,
-        137,
-        184,
-        161,
-        106,
-        123,
-        48
+        127,
+        164,
+        49,
+        179
       ]
     },
     {
-      "clue": "An avid admirer or supporter.",
-      "answer": "enthusiast",
-      "answer_letters": "ENTHUSIAST",
+      "clue": "Without any delay.",
+      "answer": "immediate",
+      "answer_letters": "IMMEDIATE",
       "indices": [
-        37,
-        156,
-        24,
-        1,
-        43,
-        118,
-        88,
-        136,
-        162,
-        72
-      ]
-    },
-    {
-      "clue": "A type of cancer affecting blood cells.",
-      "answer": "leukemia",
-      "answer_letters": "LEUKEMIA",
-      "indices": [
-        33,
-        22,
-        100,
-        64,
-        85,
+        111,
+        154,
         181,
-        77,
-        6
+        22,
+        46,
+        62,
+        160,
+        114,
+        98
       ]
     },
     {
-      "clue": "In a similar manner.",
-      "answer": "likewise",
-      "answer_letters": "LIKEWISE",
+      "clue": "German writer known for his novel 'Faust'.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        173,
+        82,
+        116,
+        23,
+        1,
+        182
+      ]
+    },
+    {
+      "clue": "Magazine that has been around since 1933.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        187,
+        103,
+        170,
+        60,
+        67,
+        177,
+        132,
+        64
+      ]
+    },
+    {
+      "clue": "A Japanese city located on the east coast of Honshu island.",
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
+      "indices": [
+        161,
+        108,
+        78,
+        141,
+        105,
+        129,
+        167,
+        96
+      ]
+    },
+    {
+      "clue": "A Mississippi River icon.",
+      "answer": "steamboat",
+      "answer_letters": "STEAMBOAT",
+      "indices": [
+        162,
+        24,
+        146,
+        124,
+        29,
+        36,
+        48,
+        150,
+        91
+      ]
+    },
+    {
+      "clue": "Stephen King novel about weight loss.",
+      "answer": "thinner",
+      "answer_letters": "THINNER",
+      "indices": [
+        81,
+        185,
+        25,
+        112,
+        58,
+        32,
+        151
+      ]
+    },
+    {
+      "clue": "The well-known journalist Anna Wintour holds this position at Vogue.",
+      "answer": "editor-in-chief",
+      "answer_letters": "EDITORINCHIEF",
+      "indices": [
+        86,
+        109,
+        171,
+        184,
+        66,
+        97,
+        3,
+        168,
+        41,
+        52,
+        88,
+        70,
+        165
+      ]
+    },
+    {
+      "clue": "Measurement of how long something is.",
+      "answer": "length",
+      "answer_letters": "LENGTH",
+      "indices": [
+        21,
+        85,
+        130,
+        27,
+        72,
+        92
+      ]
+    },
+    {
+      "clue": "Political ideology that emphasizes equality and social justice.",
+      "answer": "left-wing",
+      "answer_letters": "LEFTWING",
       "indices": [
         76,
-        62,
-        78,
-        146,
-        67,
-        111,
-        71,
-        32
+        53,
+        34,
+        106,
+        159,
+        74,
+        65,
+        188
       ]
     },
     {
-      "clue": "A singular occurrence.",
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
+      "clue": "Someone who breaks the law.",
+      "answer": "offender",
+      "answer_letters": "OFFENDER",
       "indices": [
-        18,
-        172,
-        93,
-        107,
+        0,
+        19,
         140,
-        165
+        45,
+        26,
+        138,
+        93,
+        133
       ]
     }
   ],

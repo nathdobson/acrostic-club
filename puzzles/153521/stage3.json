@@ -1,0 +1,313 @@
+{
+  "quote": "What kills a person at twenty-five? Leukemia. An accident. But George knows the better odds are that someone who passes at that age dies of unhappiness. Drug overdose. Suicide. Reckless behavior.",
+  "quote_letters": "WHAT KILLS A PERSON AT TWENTY-FIVE LEUKEMIA AN ACCIDENT BUT GEORGE KNOWS THE BETTER ODDS ARE THAT SOMEONE WHO PASSES AT THAT AGE DIES OF UNHAPPINESS DRUG OVERDOSE SUICIDE RECKLESS BEHAVIOR",
+  "source": "Scott Turow, Limitations",
+  "source_letters": "SCOTTTUROWLIMITATIONS",
+  "clues": [
+    {
+      "clue": "Linens used to cover a bed.",
+      "answer": "sheets",
+      "answer_letters": "SHEETS",
+      "indices": [
+        87,
+        94,
+        169,
+        81,
+        21,
+        163
+      ]
+    },
+    {
+      "clue": "The frame of a car or truck.",
+      "answer": "chassis",
+      "answer_letters": "CHASSIS",
+      "indices": [
+        48,
+        107,
+        89,
+        9,
+        113,
+        41,
+        132
+      ]
+    },
+    {
+      "clue": "A place for work or business affairs.",
+      "answer": "office",
+      "answer_letters": "OFFICE",
+      "indices": [
+        159,
+        135,
+        30,
+        165,
+        166,
+        181
+      ]
+    },
+    {
+      "clue": "A word meaning 'current date'.",
+      "answer": "today's",
+      "answer_letters": "TODAYS",
+      "indices": [
+        123,
+        154,
+        86,
+        2,
+        28,
+        178
+      ]
+    },
+    {
+      "clue": "Adolescents navigating high school and puberty.",
+      "answer": "teenagers",
+      "answer_letters": "TEENAGERS",
+      "indices": [
+        3,
+        14,
+        65,
+        68,
+        42,
+        152,
+        114,
+        157,
+        177
+      ]
+    },
+    {
+      "clue": "Given a duty to perform.",
+      "answer": "tasked",
+      "answer_letters": "TASKED",
+      "indices": [
+        73,
+        95,
+        115,
+        67,
+        145,
+        168
+      ]
+    },
+    {
+      "clue": "Not fitting or appropriate for a particular purpose.",
+      "answer": "unsuitable",
+      "answer_letters": "UNSUITABLE",
+      "indices": [
+        164,
+        45,
+        147,
+        57,
+        143,
+        93,
+        111,
+        180,
+        7,
+        33
+      ]
+    },
+    {
+      "clue": "Surname shared by a family of duck hunters from Louisiana.",
+      "answer": "robertson",
+      "answer_letters": "ROBERTSON",
+      "indices": [
+        150,
+        108,
+        77,
+        25,
+        82,
+        79,
+        98,
+        17,
+        18
+      ]
+    },
+    {
+      "clue": "A simple summary.",
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
+      "indices": [
+        84,
+        155,
+        75,
+        187,
+        184,
+        31,
+        127,
+        106
+      ]
+    },
+    {
+      "clue": "Measured the mass of an object.",
+      "answer": "weighed",
+      "answer_letters": "WEIGHED",
+      "indices": [
+        70,
+        156,
+        50,
+        126,
+        74,
+        176,
+        51
+      ]
+    },
+    {
+      "clue": "The distance between baseball bases.",
+      "answer": "leagues",
+      "answer_letters": "LEAGUES",
+      "indices": [
+        8,
+        131,
+        11,
+        64,
+        37,
+        161,
+        160
+      ]
+    },
+    {
+      "clue": "The process of consuming or absorbing something.",
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
+        6,
+        103,
+        54,
+        183,
+        38,
+        61
+      ]
+    },
+    {
+      "clue": "Ways of achieving a goal or solving a problem.",
+      "answer": "methods",
+      "answer_letters": "METHODS",
+      "indices": [
+        40,
+        172,
+        96,
+        121,
+        186,
+        129,
+        112
+      ]
+    },
+    {
+      "clue": "Not able to accomplish tasks.",
+      "answer": "incapable",
+      "answer_letters": "INCAPABLE",
+      "indices": [
+        130,
+        138,
+        173,
+        20,
+        110,
+        140,
+        56,
+        35,
+        101
+      ]
+    },
+    {
+      "clue": "A play by Shakespeare.",
+      "answer": "tempest",
+      "answer_letters": "TEMPEST",
+      "indices": [
+        120,
+        78,
+        100,
+        142,
+        39,
+        146,
+        118
+      ]
+    },
+    {
+      "clue": "Socially uncomfortable or ungraceful.",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
+      "indices": [
+        122,
+        24,
+        174,
+        0,
+        47,
+        15,
+        85
+      ]
+    },
+    {
+      "clue": "Capital city of Kansas.",
+      "answer": "topeka",
+      "answer_letters": "TOPEKA",
+      "indices": [
+        80,
+        102,
+        141,
+        104,
+        5,
+        125
+      ]
+    },
+    {
+      "clue": "Enter and take control of a foreign country.",
+      "answer": "invade",
+      "answer_letters": "INVADE",
+      "indices": [
+        167,
+        144,
+        32,
+        44,
+        149,
+        91
+      ]
+    },
+    {
+      "clue": "One who provides assistance or direction over the phone.",
+      "answer": "operator",
+      "answer_letters": "OPERATOR",
+      "indices": [
+        62,
+        13,
+        52,
+        90,
+        117,
+        27,
+        134,
+        63
+      ]
+    },
+    {
+      "clue": "A directionally opposed pair.",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        26,
+        69,
+        171,
+        58,
+        182,
+        71,
+        99,
+        137,
+        23,
+        1
+      ]
+    },
+    {
+      "clue": "The organization of time and events.",
+      "answer": "scheduling",
+      "answer_letters": "SCHEDULING",
+      "indices": [
+        16,
+        49,
+        139,
+        36,
+        158,
+        151,
+        175,
+        185,
+        53,
+        60
+      ]
+    }
+  ],
+  "chat": null
+}

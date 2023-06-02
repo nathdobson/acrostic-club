@@ -5,295 +5,295 @@
   "source_letters": "CHARLIEHIGSONTHEENEMY",
   "clues": [
     {
-      "clue": "A historic cathedral city.",
-      "answer": "chichester",
-      "answer_letters": "CHICHESTER",
+      "clue": "A New Jersey city across the Delaware River from Philadelphia.",
+      "answer": "camden",
+      "answer_letters": "CAMDEN",
       "indices": [
         5,
-        160,
-        149,
-        168,
-        86,
-        22,
-        125,
-        66,
-        82,
-        38
-      ]
-    },
-    {
-      "clue": "Having a high temperature.",
-      "answer": "heated",
-      "answer_letters": "HEATED",
-      "indices": [
-        109,
-        117,
-        65,
-        12,
-        164,
-        171
-      ]
-    },
-    {
-      "clue": "A popular TV network in the Philippines.",
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        110,
-        21,
-        27,
-        113,
-        79,
-        9
-      ]
-    },
-    {
-      "clue": "City in Illinois.",
-      "answer": "rockford",
-      "answer_letters": "ROCKFORD",
-      "indices": [
-        99,
-        128,
-        29,
-        54,
-        68,
-        18,
-        14,
-        139
-      ]
-    },
-    {
-      "clue": "The span of one's existence.",
-      "answer": "lifetime",
-      "answer_letters": "LIFETIME",
-      "indices": [
-        80,
-        23,
-        19,
-        151,
-        157,
-        83,
-        47,
-        94
-      ]
-    },
-    {
-      "clue": "Biblical prophet.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        87,
-        74,
-        43,
-        0,
-        98,
-        175
-      ]
-    },
-    {
-      "clue": "A mass departure of people.",
-      "answer": "exodus",
-      "answer_letters": "EXODUS",
-      "indices": [
-        39,
-        49,
-        101,
-        34,
-        81,
-        152
-      ]
-    },
-    {
-      "clue": "Tropical US state with diverse natural beauty.",
-      "answer": "hawaii",
-      "answer_letters": "HAWAII",
-      "indices": [
-        64,
-        161,
-        57,
-        114,
-        52,
-        124
-      ]
-    },
-    {
-      "clue": "To request the presence of someone.",
-      "answer": "invite",
-      "answer_letters": "INVITE",
-      "indices": [
-        50,
-        55,
-        116,
-        28,
-        174,
-        141
-      ]
-    },
-    {
-      "clue": "A city loved by Batman.",
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
-      "indices": [
-        25,
-        60,
-        127,
-        102,
-        75,
-        150
-      ]
-    },
-    {
-      "clue": "A district in London.",
-      "answer": "southwark",
-      "answer_letters": "SOUTHWARK",
-      "indices": [
-        72,
-        155,
-        167,
-        63,
-        59,
-        61,
-        32,
-        115,
-        30
-      ]
-    },
-    {
-      "clue": "A coastal Indian state.",
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
-      "indices": [
-        92,
-        154,
-        44,
-        91,
-        123,
-        8
-      ]
-    },
-    {
-      "clue": "A popular 90s action movie character.",
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        162,
-        135,
-        89,
-        76,
-        36,
-        105
-      ]
-    },
-    {
-      "clue": "Considers mentally.",
-      "answer": "thinks",
-      "answer_letters": "THINKS",
-      "indices": [
-        85,
-        104,
-        4,
-        24,
-        6,
-        3
-      ]
-    },
-    {
-      "clue": "Past tense of give with direction.",
-      "answer": "handed",
-      "answer_letters": "HANDED",
-      "indices": [
-        146,
         145,
-        156,
-        106,
-        136,
-        10
-      ]
-    },
-    {
-      "clue": "A city in Oklahoma.",
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        144,
-        16,
-        1,
-        120,
-        33,
-        77
-      ]
-    },
-    {
-      "clue": "Burst with great force.",
-      "answer": "exploded",
-      "answer_letters": "EXPLODED",
-      "indices": [
-        69,
-        134,
-        96,
-        71,
-        172,
+        129,
         142,
-        176,
+        69,
+        88
+      ]
+    },
+    {
+      "clue": "A compilation of sayings and actions attributed to the Prophet Muhammad.",
+      "answer": "hadith",
+      "answer_letters": "HADITH",
+      "indices": [
+        104,
+        100,
+        139,
+        76,
+        111,
+        59
+      ]
+    },
+    {
+      "clue": "Confesses to wrongdoing or truthfully acknowledges something.",
+      "answer": "admits",
+      "answer_letters": "ADMITS",
+      "indices": [
+        105,
+        34,
+        150,
+        23,
+        85,
+        125
+      ]
+    },
+    {
+      "clue": "Regular patterns of sound or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        38,
+        175,
+        177,
+        63,
+        146,
+        166,
+        27
+      ]
+    },
+    {
+      "clue": "Goddess of wealth and prosperity in Hindu mythology.",
+      "answer": "lakshmi",
+      "answer_letters": "LAKSHMI",
+      "indices": [
+        71,
+        133,
+        30,
+        3,
+        109,
+        47,
+        4
+      ]
+    },
+    {
+      "clue": "Made unusable, like vaccines.",
+      "answer": "inactivated",
+      "answer_letters": "INACTIVATED",
+      "indices": [
+        37,
+        156,
+        110,
+        168,
+        127,
+        124,
+        116,
+        114,
+        36,
+        141,
         45
       ]
     },
     {
-      "clue": "City in the East Midlands region of England.",
-      "answer": "nottingham",
-      "answer_letters": "NOTTINGHAM",
+      "clue": "Jerry Seinfeld's ex-girlfriend on the sitcom Seinfeld.",
+      "answer": "elaine",
+      "answer_letters": "ELAINE",
       "indices": [
-        121,
-        56,
-        111,
-        148,
-        37,
-        88,
-        163,
-        97,
-        138,
-        166
+        117,
+        80,
+        98,
+        13,
+        33,
+        70
       ]
     },
     {
-      "clue": "Immersed within.",
-      "answer": "embedded",
-      "answer_letters": "EMBEDDED",
+      "clue": "Japan's northernmost island.",
+      "answer": "hokkaido",
+      "answer_letters": "HOKKAIDO",
       "indices": [
-        51,
+        102,
+        18,
+        6,
+        54,
+        75,
+        135,
+        10,
+        155
+      ]
+    },
+    {
+      "clue": "Formally installed into an organization or group.",
+      "answer": "inducted",
+      "answer_letters": "INDUCTED",
+      "indices": [
+        28,
+        55,
+        106,
+        81,
+        29,
+        148,
+        151,
+        40
+      ]
+    },
+    {
+      "clue": "A vain and arrogant antagonist in a Disney classic.",
+      "answer": "gaston",
+      "answer_letters": "GASTON",
+      "indices": [
+        163,
+        65,
+        42,
+        157,
+        101,
+        162
+      ]
+    },
+    {
+      "clue": "Main character of the video game series, Mass Effect.",
+      "answer": "shepard",
+      "answer_letters": "SHEPARD",
+      "indices": [
+        74,
+        160,
+        15,
+        96,
+        48,
+        14,
+        154
+      ]
+    },
+    {
+      "clue": "To acquire through effort or persistence.",
+      "answer": "obtain",
+      "answer_letters": "OBTAIN",
+      "indices": [
+        56,
+        21,
+        66,
+        32,
+        0,
+        24
+      ]
+    },
+    {
+      "clue": "A collection of interlinked communication systems.",
+      "answer": "networks",
+      "answer_letters": "NETWORKS",
+      "indices": [
+        9,
+        94,
+        174,
+        61,
+        172,
+        99,
+        89,
+        72
+      ]
+    },
+    {
+      "clue": "The part of the body that protects the lungs and heart.",
+      "answer": "thorax",
+      "answer_letters": "THORAX",
+      "indices": [
+        12,
+        86,
+        128,
+        115,
+        8,
+        134
+      ]
+    },
+    {
+      "clue": "Aviator who set many aviation records.",
+      "answer": "hughes",
+      "answer_letters": "HUGHES",
+      "indices": [
+        64,
+        167,
+        25,
+        123,
+        39,
+        91
+      ]
+    },
+    {
+      "clue": "The former Mrs. Brad Pitt.",
+      "answer": "ex-wife",
+      "answer_letters": "EXWIFE",
+      "indices": [
+        82,
+        49,
+        57,
+        149,
+        68,
+        176
+      ]
+    },
+    {
+      "clue": "Become a physical manifestation of a concept or idea (past tense).",
+      "answer": "embodied",
+      "answer_letters": "EMBODIED",
+      "indices": [
+        144,
         93,
         130,
-        70,
-        40,
-        140,
-        15,
-        118
+        92,
+        171,
+        52,
+        164,
+        140
       ]
     },
     {
-      "clue": "A spiritual seeker with an otherworldly aura.",
-      "answer": "mystic",
-      "answer_letters": "MYSTIC",
+      "clue": "A country in southwestern Africa.",
+      "answer": "namibia",
+      "answer_letters": "NAMIBIA",
       "indices": [
+        121,
+        138,
         132,
-        143,
-        42,
-        108,
-        13,
-        159
+        87,
+        79,
+        83,
+        43
       ]
     },
     {
-      "clue": "A Japanese motorcycle brand.",
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
+      "clue": "Repeated a sound.",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
       "indices": [
-        177,
-        133,
-        129,
-        100,
+        136,
+        113,
         169,
-        48
+        60,
+        51,
+        77
+      ]
+    },
+    {
+      "clue": "Adjusted or changed slightly.",
+      "answer": "modified",
+      "answer_letters": "MODIFIED",
+      "indices": [
+        1,
+        120,
+        118,
+        44,
+        19,
+        50,
+        22,
+        16
+      ]
+    },
+    {
+      "clue": "Luxury vessels used for leisure sailing.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        143,
+        161,
+        159,
+        97,
+        108,
+        152
       ]
     }
   ],

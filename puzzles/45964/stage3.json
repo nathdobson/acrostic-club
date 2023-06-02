@@ -5,285 +5,285 @@
   "source_letters": "DRAGOSBRATASANUPHD",
   "clues": [
     {
-      "clue": "Made smaller or less.",
-      "answer": "diminished",
-      "answer_letters": "DIMINISHED",
+      "clue": "The downfall or end of something.",
+      "answer": "demise",
+      "answer_letters": "DEMISE",
       "indices": [
         27,
-        55,
-        87,
-        102,
-        184,
-        151,
-        156,
-        40,
-        155,
-        49
-      ]
-    },
-    {
-      "clue": "Thin, stiff stalks found in wetlands.",
-      "answer": "rushes",
-      "answer_letters": "RUSHES",
-      "indices": [
-        51,
-        157,
-        100,
-        149,
         175,
-        101
-      ]
-    },
-    {
-      "clue": "Precisely correct.",
-      "answer": "accurate",
-      "answer_letters": "ACCURATE",
-      "indices": [
-        169,
-        53,
-        166,
-        80,
-        143,
-        22,
-        64,
-        85
-      ]
-    },
-    {
-      "clue": "A rock expert.",
-      "answer": "geologist",
-      "answer_letters": "GEOLOGIST",
-      "indices": [
-        120,
-        5,
-        9,
-        117,
-        70,
-        164,
-        29,
+        87,
+        139,
         185,
-        96
+        131
       ]
     },
     {
-      "clue": "A drainage.",
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
+      "clue": "Parisian region known for its picturesque town by the Mediterranean.",
+      "answer": "rochelle",
+      "answer_letters": "ROCHELLE",
       "indices": [
-        95,
-        71,
-        54,
-        34,
-        61,
-        41,
-        59
-      ]
-    },
-    {
-      "clue": "A winter occurrence.",
-      "answer": "snowfall",
-      "answer_letters": "SNOWFALL",
-      "indices": [
-        88,
-        26,
-        163,
-        116,
-        146,
-        45,
-        104,
-        62
-      ]
-    },
-    {
-      "clue": "Athletes who aim to knock down pins in a game.",
-      "answer": "bowlers",
-      "answer_letters": "BOWLERS",
-      "indices": [
-        103,
-        56,
-        7,
-        66,
-        121,
-        81,
-        160
-      ]
-    },
-    {
-      "clue": "Changed address, perhaps?",
-      "answer": "relocated",
-      "answer_letters": "RELOCATED",
-      "indices": [
-        176,
-        150,
-        162,
-        115,
-        179,
-        90,
-        148,
-        118,
-        119
-      ]
-    },
-    {
-      "clue": "Not conscious and dreaming.",
-      "answer": "asleep",
-      "answer_letters": "ASLEEP",
-      "indices": [
-        86,
-        13,
-        17,
-        186,
-        171,
-        0
-      ]
-    },
-    {
-      "clue": "A combination of two prime numbers.",
-      "answer": "twenty-three",
-      "answer_letters": "TWENTYTHREE",
-      "indices": [
-        126,
-        37,
-        35,
-        46,
-        14,
-        47,
-        20,
-        127,
-        84,
-        52,
-        105
-      ]
-    },
-    {
-      "clue": "Military weapons with large caliber and long range.",
-      "answer": "artillery",
-      "answer_letters": "ARTILLERY",
-      "indices": [
-        19,
-        23,
-        107,
-        60,
-        67,
-        32,
-        134,
         140,
-        78
-      ]
-    },
-    {
-      "clue": "A pitcher's successes.",
-      "answer": "strikeouts",
-      "answer_letters": "STRIKEOUTS",
-      "indices": [
-        182,
-        73,
-        152,
-        165,
-        113,
-        1,
-        99,
-        25,
-        43,
-        172
-      ]
-    },
-    {
-      "clue": "A layer of gases surrounding the planet.",
-      "answer": "atmosphere",
-      "answer_letters": "ATMOSPHERE",
-      "indices": [
-        75,
-        76,
-        138,
-        2,
-        124,
-        130,
-        74,
-        128,
-        141,
-        65
-      ]
-    },
-    {
-      "clue": "An organization without commercial purpose.",
-      "answer": "not-for-profit",
-      "answer_letters": "NOTFORPROFIT",
-      "indices": [
-        114,
-        79,
-        180,
-        133,
-        24,
-        91,
-        174,
-        111,
-        142,
-        16,
-        38,
-        39
-      ]
-    },
-    {
-      "clue": "Not similar.",
-      "answer": "unlike",
-      "answer_letters": "UNLIKE",
-      "indices": [
-        12,
-        30,
-        158,
-        110,
-        170,
-        92
-      ]
-    },
-    {
-      "clue": "An object that is thrown or launched with force.",
-      "answer": "projectile",
-      "answer_letters": "PROJECTILE",
-      "indices": [
-        98,
-        132,
-        18,
-        11,
-        131,
+        145,
         135,
-        159,
-        123,
-        4,
+        127,
+        171,
+        32,
+        67,
         109
       ]
     },
     {
-      "clue": "Actor Bogart's first name.",
-      "answer": "humphrey",
-      "answer_letters": "HUMPHREY",
+      "clue": "Controversial claims made against someone.",
+      "answer": "allegations",
+      "answer_letters": "ALLEGATIONS",
       "indices": [
-        108,
-        42,
-        168,
-        3,
-        8,
+        19,
+        61,
+        66,
+        134,
+        120,
+        169,
+        64,
+        29,
+        79,
+        94,
+        88
+      ]
+    },
+    {
+      "clue": "Explosive substance.",
+      "answer": "gunpowder",
+      "answer_letters": "GUNPOWDER",
+      "indices": [
+        164,
+        12,
+        46,
+        98,
+        2,
+        7,
+        119,
+        155,
+        91
+      ]
+    },
+    {
+      "clue": "A river's discharge.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        18,
+        71,
+        159,
+        133,
+        4,
+        70,
+        37
+      ]
+    },
+    {
+      "clue": "Capital city of North Macedonia.",
+      "answer": "skopje",
+      "answer_letters": "SKOPJE",
+      "indices": [
+        101,
+        170,
+        24,
+        174,
+        11,
+        85
+      ]
+    },
+    {
+      "clue": "Special elections held to fill a recently vacated political position.",
+      "answer": "by-elections",
+      "answer_letters": "BYELECTIONS",
+      "indices": [
+        103,
+        78,
+        65,
+        117,
+        128,
+        166,
+        148,
+        33,
+        163,
+        26,
+        124
+      ]
+    },
+    {
+      "clue": "Assets available for use.",
+      "answer": "resources",
+      "answer_letters": "RESOURCES",
+      "indices": [
+        81,
+        5,
+        182,
+        56,
+        157,
+        176,
+        179,
+        150,
+        160
+      ]
+    },
+    {
+      "clue": "English cricketer who played for Lancashire and England.",
+      "answer": "atherton",
+      "answer_letters": "ATHERTON",
+      "indices": [
+        75,
+        73,
+        74,
+        118,
+        152,
+        39,
+        95,
+        114
+      ]
+    },
+    {
+      "clue": "Tallest man-made structures.",
+      "answer": "towers",
+      "answer_letters": "TOWERS",
+      "indices": [
+        136,
+        115,
+        59,
+        178,
         154,
-        183,
+        172
+      ]
+    },
+    {
+      "clue": "A venue for concerts, speeches, and other events.",
+      "answer": "auditorium",
+      "answer_letters": "AUDITORIUM",
+      "indices": [
+        45,
+        80,
+        83,
+        50,
+        20,
+        9,
+        51,
+        60,
+        25,
+        138
+      ]
+    },
+    {
+      "clue": "A fairy tale villain.",
+      "answer": "stepmother",
+      "answer_letters": "STEPMOTHER",
+      "indices": [
+        13,
+        96,
+        52,
+        0,
+        168,
+        99,
+        126,
+        149,
+        1,
+        23
+      ]
+    },
+    {
+      "clue": "The concept of a spiritual realm beyond death.",
+      "answer": "afterlife",
+      "answer_letters": "AFTERLIFE",
+      "indices": [
+        86,
+        146,
+        14,
+        35,
+        143,
+        104,
+        165,
+        34,
+        183
+      ]
+    },
+    {
+      "clue": "A system of interconnected computers or devices.",
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        184,
+        92,
+        107,
+        116,
+        142,
+        141,
+        113
+      ]
+    },
+    {
+      "clue": "A useful tool or service.",
+      "answer": "utility",
+      "answer_letters": "UTILITY",
+      "indices": [
+        42,
+        54,
+        110,
+        158,
+        38,
+        180,
         69
       ]
     },
     {
-      "clue": "A statement that explains the meaning of a word.",
-      "answer": "definition",
-      "answer_letters": "DEFINITION",
+      "clue": "A wealthy benefactor known for their generosity towards charitable causes.",
+      "answer": "philanthropist",
+      "answer_letters": "PHILANTHROPIST",
       "indices": [
-        83,
-        178,
+        130,
+        108,
+        123,
+        62,
+        22,
+        30,
+        76,
+        40,
+        84,
+        41,
+        3,
+        102,
+        100,
+        43
+      ]
+    },
+    {
+      "clue": "Politician who ran for US presidency in 2016.",
+      "answer": "hillary",
+      "answer_letters": "HILLARY",
+      "indices": [
+        8,
+        151,
+        162,
+        17,
+        90,
+        111,
+        47
+      ]
+    },
+    {
+      "clue": "Ways in which two things do not match.",
+      "answer": "differences",
+      "answer_letters": "DIFFERENCES",
+      "indices": [
+        49,
+        55,
         177,
-        139,
-        94,
-        33,
-        136,
-        50,
-        145,
-        57
+        16,
+        105,
+        132,
+        121,
+        57,
+        53,
+        186,
+        156
       ]
     }
   ],

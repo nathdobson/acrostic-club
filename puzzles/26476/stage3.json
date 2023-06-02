@@ -5,288 +5,288 @@
   "source_letters": "CINDYGERARDTOTHEBRINK",
   "clues": [
     {
-      "clue": "A popular morning beverage.",
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "clue": "Small dog breed named after a state in Mexico.",
+      "answer": "chihuahua",
+      "answer_letters": "CHIHUAHUA",
       "indices": [
-        100,
-        172,
-        82,
-        148,
+        27,
+        166,
+        34,
+        44,
+        167,
+        141,
+        22,
+        90,
+        147
+      ]
+    },
+    {
+      "clue": "Biblical prophet known for writing a book in the Old Testament.",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        25,
+        35,
+        121,
+        52,
+        129,
+        24
+      ]
+    },
+    {
+      "clue": "Martial artist and actor who starred in Walker, Texas Ranger.",
+      "answer": "norris",
+      "answer_letters": "NORRIS",
+      "indices": [
+        48,
+        0,
+        75,
+        113,
+        95,
+        15
+      ]
+    },
+    {
+      "clue": "An entrance into a new space.",
+      "answer": "doorway",
+      "answer_letters": "DOORWAY",
+      "indices": [
+        105,
+        138,
+        158,
+        149,
+        128,
+        150,
+        118
+      ]
+    },
+    {
+      "clue": "Ready to give way.",
+      "answer": "yielding",
+      "answer_letters": "YIELDING",
+      "indices": [
+        133,
+        29,
         6,
+        58,
+        40,
+        10,
+        39,
+        161
+      ]
+    },
+    {
+      "clue": "German writer known for his novel 'Faust'.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        49,
+        172,
+        54,
+        109,
+        94,
         70
       ]
     },
     {
-      "clue": "Biblical prophet.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "clue": "A clear liquid often used as a fuel.",
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
       "indices": [
-        144,
-        41,
-        77,
-        52,
-        129,
-        37
-      ]
-    },
-    {
-      "clue": "Japanese automaker.",
-      "answer": "nissan",
-      "answer_letters": "NISSAN",
-      "indices": [
-        48,
-        14,
-        43,
-        137,
+        74,
+        131,
+        5,
         117,
-        130
+        160,
+        89,
+        51
       ]
     },
     {
-      "clue": "Seaport city on Lake Superior.",
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
-      "indices": [
-        152,
-        90,
-        59,
-        173,
-        26,
-        5
-      ]
-    },
-    {
-      "clue": "A Japanese motorcycle brand.",
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        118,
-        9,
-        85,
-        150,
-        44,
-        141
-      ]
-    },
-    {
-      "clue": "Italian male name.",
-      "answer": "giulio",
-      "answer_letters": "GIULIO",
-      "indices": [
-        161,
-        25,
-        167,
-        58,
-        69,
-        158
-      ]
-    },
-    {
-      "clue": "At risk of extinction.",
-      "answer": "endangered",
-      "answer_letters": "ENDANGERED",
-      "indices": [
-        108,
-        30,
-        142,
-        103,
-        98,
-        49,
-        54,
-        78,
-        99,
-        105
-      ]
-    },
-    {
-      "clue": "Paved paths for vehicles and pedestrians.",
-      "answer": "roadways",
-      "answer_letters": "ROADWAYS",
-      "indices": [
-        18,
-        134,
-        115,
-        71,
-        128,
-        121,
-        3,
-        107
-      ]
-    },
-    {
-      "clue": "A name commonly given to boys.",
-      "answer": "archie",
-      "answer_letters": "ARCHIE",
-      "indices": [
-        45,
-        149,
-        27,
-        13,
-        34,
-        74
-      ]
-    },
-    {
-      "clue": "In a lavish manner.",
-      "answer": "richly",
-      "answer_letters": "RICHLY",
-      "indices": [
-        68,
-        151,
-        123,
-        24,
-        51,
-        124
-      ]
-    },
-    {
-      "clue": "A city in North Carolina.",
-      "answer": "durham",
-      "answer_letters": "DURHAM",
-      "indices": [
-        11,
-        135,
-        83,
-        73,
-        147,
-        145
-      ]
-    },
-    {
-      "clue": "Considers mentally.",
-      "answer": "thinks",
-      "answer_letters": "THINKS",
-      "indices": [
-        169,
-        28,
-        95,
-        91,
-        101,
-        8
-      ]
-    },
-    {
-      "clue": "A coastal Indian state.",
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
-      "indices": [
-        138,
-        92,
-        159,
-        35,
-        94,
-        87
-      ]
-    },
-    {
-      "clue": "Japanese surname.",
-      "answer": "tanaka",
-      "answer_letters": "TANAKA",
-      "indices": [
-        109,
-        61,
-        39,
-        38,
-        1,
-        20
-      ]
-    },
-    {
-      "clue": "Having a curved point for catching or grasping.",
-      "answer": "hooked",
-      "answer_letters": "HOOKED",
-      "indices": [
-        56,
-        84,
-        0,
-        46,
-        112,
-        40
-      ]
-    },
-    {
-      "clue": "The numerical position after seventh.",
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        19,
-        29,
-        31,
-        166,
-        163,
-        22
-      ]
-    },
-    {
-      "clue": "An illegal act of exchanging money or gifts to influence someone's decision.",
-      "answer": "bribery",
-      "answer_letters": "BRIBERY",
-      "indices": [
-        17,
-        113,
-        47,
-        140,
-        65,
-        168,
-        171
-      ]
-    },
-    {
-      "clue": "A consistent beat in music.",
+      "clue": "A pattern of beats and accents in music.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        122,
-        64,
-        133,
-        131,
-        33,
+        168,
+        111,
+        171,
+        163,
+        37,
         155
       ]
     },
     {
-      "clue": "Difficult to ignore or forget.",
-      "answer": "imposing",
-      "answer_letters": "IMPOSING",
+      "clue": "Actress who played Emily in the TV series \"Gilmore Girls\".",
+      "answer": "amanda",
+      "answer_letters": "AMANDA",
       "indices": [
-        154,
-        79,
-        67,
-        164,
-        80,
-        10,
-        160,
+        45,
+        145,
+        2,
+        104,
+        92,
+        61
+      ]
+    },
+    {
+      "clue": "A bone in your forearm.",
+      "answer": "radius",
+      "answer_letters": "RADIUS",
+      "indices": [
+        83,
+        115,
+        152,
+        126,
+        173,
+        43
+      ]
+    },
+    {
+      "clue": "Sliding sideways in a high-speed race or on a deserted road.",
+      "answer": "drifting",
+      "answer_letters": "DRIFTING",
+      "indices": [
+        11,
+        78,
+        14,
+        82,
+        26,
+        144,
+        30,
         157
       ]
     },
     {
-      "clue": "In the direction of the Arctic.",
-      "answer": "northward",
-      "answer_letters": "NORTHWARD",
+      "clue": "Expression of gratitude.",
+      "answer": "thanks",
+      "answer_letters": "THANKS",
       "indices": [
-        104,
-        89,
-        88,
-        21,
-        111,
-        116,
-        2,
-        75,
-        120
+        169,
+        73,
+        103,
+        91,
+        101,
+        62
       ]
     },
     {
-      "clue": "Affectionate lip contacts.",
-      "answer": "kisses",
-      "answer_letters": "KISSES",
+      "clue": "A state located on the east coast of India.",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
       "indices": [
-        53,
-        126,
-        96,
-        62,
+        84,
+        120,
+        47,
+        8,
+        13,
+        87
+      ]
+    },
+    {
+      "clue": "Commonly used contraction.",
+      "answer": "they're",
+      "answer_letters": "THEYRE",
+      "indices": [
+        21,
+        56,
+        99,
+        3,
+        122,
+        65
+      ]
+    },
+    {
+      "clue": "A former Chicago Bears player known as the \"Galloping Ghost.\"",
+      "answer": "halfback",
+      "answer_letters": "HALFBACK",
+      "indices": [
+        33,
+        77,
+        59,
+        148,
+        140,
+        9,
+        123,
+        53
+      ]
+    },
+    {
+      "clue": "British actor who plays Batman in Christopher Nolan's Batman trilogy.",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
+      "indices": [
+        108,
+        71,
+        116,
+        38,
+        68,
+        142
+      ]
+    },
+    {
+      "clue": "High-ranking members of the clergy in certain denominations.",
+      "answer": "bishops",
+      "answer_letters": "BISHOPS",
+      "indices": [
+        17,
+        69,
+        107,
+        28,
+        134,
+        67,
+        96
+      ]
+    },
+    {
+      "clue": "2012 Republican Presidential candidate.",
+      "answer": "romney",
+      "answer_letters": "ROMNEY",
+      "indices": [
+        88,
+        164,
+        79,
+        130,
+        19,
+        124
+      ]
+    },
+    {
+      "clue": "Visual representations.",
+      "answer": "images",
+      "answer_letters": "IMAGES",
+      "indices": [
+        154,
+        85,
+        20,
+        31,
+        112,
+        137
+      ]
+    },
+    {
+      "clue": "Small specialized areas within a larger market.",
+      "answer": "niches",
+      "answer_letters": "NICHES",
+      "indices": [
+        98,
+        159,
+        100,
+        64,
         57,
-        15
+        80
+      ]
+    },
+    {
+      "clue": "Book review publication known for its honesty and integrity.",
+      "answer": "kirkus",
+      "answer_letters": "KIRKUS",
+      "indices": [
+        46,
+        151,
+        18,
+        1,
+        135,
+        41
       ]
     }
   ],

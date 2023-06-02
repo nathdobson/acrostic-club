@@ -9,8 +9,10 @@ use itertools::Itertools;
 use ordered_float::NotNan;
 use tokio::{io, spawn};
 use acrostic_core::letter::Letter;
-use crate::gpt::chat_client::{BaseClient, CacheClient, ChatClient};
+use crate::gpt::cache_client::CacheClient;
+use crate::gpt::chat_client::{BaseClient, ChatClient};
 use crate::gpt::key_value_file::KeyValueFileCleanup;
+use crate::gpt::new_client;
 use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
 use crate::ontology::{Ontology, ONTOLOGY};
 use crate::PACKAGE_PATH;
@@ -21,17 +23,16 @@ use crate::subseq::longest_subsequence;
 use crate::util::lazy_async::CloneError;
 
 pub struct ClueClient {
-    client: Box<dyn ChatClient>,
+    client: Arc<dyn ChatClient>,
     ontology: Arc<Ontology>,
 }
 
 
 impl ClueClient {
     pub async fn new() -> anyhow::Result<(Self, KeyValueFileCleanup)> {
-        let (kvf, cleanup) = CacheClient::new(Arc::new(BaseClient::new().await?),
-                                              &PACKAGE_PATH.join("build/chat_cache.txt")).await?;
+        let (client, cleanup) = new_client().await?;
         Ok((ClueClient {
-            client: Box::new(kvf),
+            client,
             ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
         }, cleanup))
     }
@@ -43,7 +44,7 @@ impl ClueClient {
             let banned_letters = LetterString::from_str(&banned);
             if banned_letters.len() >= 3 {
                 if clue_letters.windows(banned_letters.len()).any(|x| x == &*banned_letters) {
-                    eprintln!("clue {:?} contains {:?} which is banned for {:?}", clue, banned, word);
+                    // eprintln!("clue {:?} contains {:?} which is banned for {:?}", clue, banned, word);
                     is_banned = true;
                 }
             }
@@ -99,7 +100,7 @@ A: Actor known for portraying Mal on Firefly.
             ..Default::default()
         };
         let request = ChatRequest { endpoint: Endpoint::Chat, body };
-        let response = self.client.chat(request).await?;
+        let response = self.client.chat(&request).await?;
         Ok(response.choices.iter()
             .filter(|x| x.finish_reason.unwrap() == FinishReason::Stop)
             .map(|x| x.message.content.to_string()).collect())
@@ -113,7 +114,7 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
     let mut puzzle = Puzzle::read(pindex, "stage2.json").await?;
     try_join_all(puzzle.clues.as_mut().unwrap().iter_mut().map(|clue| async move {
         clue.clue = client.create_clue(&clue.answer).await?;
-        println!("{:?}: {:?}", clue.answer, clue.clue);
+        // println!("{:?}: {:?}", clue.answer, clue.clue);
         anyhow::Result::<_>::Ok(())
     })).await?;
     if puzzle.clues.as_ref().unwrap().iter().all(|x| x.clue.is_some()) {

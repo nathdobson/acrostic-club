@@ -1,0 +1,307 @@
+{
+  "quote": "I threw my hands on my hips, shocked by the irony. A Mather helping a Greensmith? Hell was freezing over somewhere beneath our feet and every kind of farm animal was sprouting wings to fly.",
+  "quote_letters": "I THREW MY HANDS ON MY HIPS SHOCKED BY THE IRONY A MATHER HELPING A GREENSMITH HELL WAS FREEZING OVER SOMEWHERE BENEATH OUR FEET AND EVERY KIND OF FARM ANIMAL WAS SPROUTING WINGS TO FLY",
+  "source": "Leigh Goff, Disenchanted",
+  "source_letters": "LEIGHGOFFDISENCHANTED",
+  "clues": [
+    {
+      "clue": "Investment bank that declared bankruptcy in 2008.",
+      "answer": "lehman",
+      "answer_letters": "LEHMAN",
+      "indices": [
+        183,
+        91,
+        79,
+        104,
+        152,
+        114
+      ]
+    },
+    {
+      "clue": "A protein that catalyzes chemical reactions in living organisms.",
+      "answer": "enzyme",
+      "answer_letters": "ENZYME",
+      "indices": [
+        126,
+        175,
+        92,
+        184,
+        8,
+        59
+      ]
+    },
+    {
+      "clue": "To restrain or suppress, like the effect of alcohol on the brain.",
+      "answer": "inhibit",
+      "answer_letters": "INHIBIT",
+      "indices": [
+        169,
+        170,
+        11,
+        154,
+        36,
+        62,
+        76
+      ]
+    },
+    {
+      "clue": "Singer known as the Empress of Soul.",
+      "answer": "gladys",
+      "answer_letters": "GLADYS",
+      "indices": [
+        171,
+        82,
+        156,
+        131,
+        21,
+        163
+      ]
+    },
+    {
+      "clue": "A compilation of sayings and actions attributed to the Prophet Muhammad.",
+      "answer": "hadith",
+      "answer_letters": "HADITH",
+      "indices": [
+        29,
+        148,
+        142,
+        24,
+        2,
+        107
+      ]
+    },
+    {
+      "clue": "German writer known for his novel 'Faust'.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        95,
+        120,
+        125,
+        53,
+        77,
+        99
+      ]
+    },
+    {
+      "clue": "Causing resentment or displeasure.",
+      "answer": "offensive",
+      "answer_letters": "OFFENSIVE",
+      "indices": [
+        30,
+        124,
+        182,
+        110,
+        18,
+        177,
+        93,
+        134,
+        70
+      ]
+    },
+    {
+      "clue": "Late-night talk show host who succeeded Jay Leno.",
+      "answer": "fallon",
+      "answer_letters": "FALLON",
+      "indices": [
+        145,
+        129,
+        157,
+        60,
+        17,
+        94
+      ]
+    },
+    {
+      "clue": "A prestigious Indian entertainment award.",
+      "answer": "filmfare",
+      "answer_letters": "FILMFARE",
+      "indices": [
+        147,
+        140,
+        81,
+        74,
+        88,
+        116,
+        44,
+        113
+      ]
+    },
+    {
+      "clue": "Depictions on paper or canvas.",
+      "answer": "drawings",
+      "answer_letters": "DRAWINGS",
+      "indices": [
+        14,
+        69,
+        160,
+        84,
+        0,
+        141,
+        176,
+        161
+      ]
+    },
+    {
+      "clue": "Author who wrote \"The Legend of Sleepy Hollow\".",
+      "answer": "irving",
+      "answer_letters": "IRVING",
+      "indices": [
+        43,
+        122,
+        98,
+        174,
+        153,
+        64
+      ]
+    },
+    {
+      "clue": "Rapid rainfall during the spring season.",
+      "answer": "showers",
+      "answer_letters": "SHOWERS",
+      "indices": [
+        86,
+        3,
+        97,
+        159,
+        71,
+        89,
+        102
+      ]
+    },
+    {
+      "clue": "An early stage of prenatal development.",
+      "answer": "embryo",
+      "answer_letters": "EMBRYO",
+      "indices": [
+        55,
+        20,
+        112,
+        165,
+        9,
+        144
+      ]
+    },
+    {
+      "clue": "Mathematician who co-created game theory.",
+      "answer": "neumann",
+      "answer_letters": "NEUMANN",
+      "indices": [
+        46,
+        90,
+        121,
+        150,
+        85,
+        130,
+        63
+      ]
+    },
+    {
+      "clue": "The personal best achievement in one's profession or field.",
+      "answer": "career-high",
+      "answer_letters": "CAREERHIGH",
+      "indices": [
+        31,
+        49,
+        100,
+        115,
+        41,
+        149,
+        54,
+        75,
+        68,
+        118
+      ]
+    },
+    {
+      "clue": "Actor who played Rick in the film Casablanca.",
+      "answer": "humphrey",
+      "answer_letters": "HUMPHREY",
+      "indices": [
+        40,
+        167,
+        51,
+        61,
+        58,
+        136,
+        105,
+        47
+      ]
+    },
+    {
+      "clue": "Perception or knowledge of something.",
+      "answer": "awareness",
+      "answer_letters": "AWARENESS",
+      "indices": [
+        52,
+        6,
+        66,
+        109,
+        108,
+        13,
+        33,
+        28,
+        15
+      ]
+    },
+    {
+      "clue": "A system of interconnected computers or devices.",
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        72,
+        133,
+        179,
+        173,
+        166,
+        4,
+        32
+      ]
+    },
+    {
+      "clue": "A building with two levels.",
+      "answer": "two-storey",
+      "answer_letters": "TWOSTOREY",
+      "indices": [
+        168,
+        106,
+        103,
+        73,
+        117,
+        180,
+        56,
+        80,
+        37
+      ]
+    },
+    {
+      "clue": "Ability to understand and share the feelings of others.",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        135,
+        155,
+        25,
+        12,
+        39,
+        23,
+        137
+      ]
+    },
+    {
+      "clue": "A computer workstation.",
+      "answer": "desktop",
+      "answer_letters": "DESKTOP",
+      "indices": [
+        34,
+        5,
+        26,
+        139,
+        127,
+        45,
+        164
+      ]
+    }
+  ],
+  "chat": null
+}

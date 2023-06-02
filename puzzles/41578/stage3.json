@@ -5,291 +5,291 @@
   "source_letters": "VIRGINIAWOOLFORLANDO",
   "clues": [
     {
-      "clue": "A team sport played with a ball over a net.",
-      "answer": "volleyball",
-      "answer_letters": "VOLLEYBALL",
+      "clue": "People who offer their services without payment.",
+      "answer": "volunteers",
+      "answer_letters": "VOLUNTEERS",
       "indices": [
         15,
-        123,
-        47,
-        115,
-        101,
-        110,
-        96,
-        30,
-        84,
-        124
-      ]
-    },
-    {
-      "clue": "A driving force or motivation for action.",
-      "answer": "impetus",
-      "answer_letters": "IMPETUS",
-      "indices": [
-        48,
-        100,
-        130,
-        63,
-        52,
-        145,
-        160
-      ]
-    },
-    {
-      "clue": "A consistent beat in music.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        157,
-        59,
-        53,
-        152,
-        119,
-        105
-      ]
-    },
-    {
-      "clue": "The study of Earth's structure and materials.",
-      "answer": "geology",
-      "answer_letters": "GEOLOGY",
-      "indices": [
-        62,
-        131,
-        106,
-        6,
         55,
-        49,
-        24
-      ]
-    },
-    {
-      "clue": "A financial contribution towards future earnings.",
-      "answer": "investment",
-      "answer_letters": "INVESTMENT",
-      "indices": [
-        136,
-        93,
-        11,
-        21,
-        33,
-        83,
-        150,
-        154,
-        178,
-        41
-      ]
-    },
-    {
-      "clue": "A sharp tool used for sewing or injecting medicine.",
-      "answer": "needle",
-      "answer_letters": "NEEDLE",
-      "indices": [
-        140,
-        43,
-        163,
-        7,
-        138,
-        158
-      ]
-    },
-    {
-      "clue": "Having a bad reputation or widely known for something negative.",
-      "answer": "infamous",
-      "answer_letters": "INFAMOUS",
-      "indices": [
-        149,
-        77,
-        56,
-        46,
-        45,
-        88,
-        133,
-        108
-      ]
-    },
-    {
-      "clue": "All people, without exception.",
-      "answer": "anyone",
-      "answer_letters": "ANYONE",
-      "indices": [
-        159,
-        23,
-        18,
-        68,
-        184,
-        97
-      ]
-    },
-    {
-      "clue": "Conditions outside.",
-      "answer": "weather",
-      "answer_letters": "WEATHER",
-      "indices": [
-        135,
-        179,
-        168,
-        112,
-        26,
-        171,
-        17
-      ]
-    },
-    {
-      "clue": "Result of a process.",
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
-        141,
+        115,
         161,
-        156,
-        20,
-        5,
-        73
-      ]
-    },
-    {
-      "clue": "No longer legal.",
-      "answer": "outlawed",
-      "answer_letters": "OUTLAWED",
-      "indices": [
-        165,
-        176,
-        67,
-        116,
-        104,
-        3,
-        60,
-        180
-      ]
-    },
-    {
-      "clue": "In a similar manner.",
-      "answer": "likewise",
-      "answer_letters": "LIKEWISE",
-      "indices": [
-        173,
-        127,
-        90,
-        74,
-        70,
-        38,
-        39,
-        78
-      ]
-    },
-    {
-      "clue": "Which form of ordinal number is represented by the number 15?",
-      "answer": "fifteenth",
-      "answer_letters": "FIFTEENTH",
-      "indices": [
-        166,
-        10,
-        103,
+        128,
         58,
-        185,
-        111,
-        50,
-        118,
-        36
-      ]
-    },
-    {
-      "clue": "People who possess something legally.",
-      "answer": "owners",
-      "answer_letters": "OWNERS",
-      "indices": [
-        4,
-        170,
-        22,
+        63,
         27,
-        71,
+        132,
         31
       ]
     },
     {
-      "clue": "Debris from a destroyed building.",
-      "answer": "rubble",
-      "answer_letters": "RUBBLE",
+      "clue": "Done working within the company.",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
       "indices": [
-        64,
+        149,
+        77,
+        119,
+        99,
         107,
-        144,
-        87,
-        172,
+        108,
+        158
+      ]
+    },
+    {
+      "clue": "A pattern of beats and accents in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        157,
+        0,
+        18,
+        83,
+        29,
+        100
+      ]
+    },
+    {
+      "clue": "Comedian known for smashing watermelons with a large hammer.",
+      "answer": "gallagher",
+      "answer_letters": "GALLAGHER",
+      "indices": [
+        62,
+        104,
+        80,
+        84,
+        46,
+        49,
+        153,
+        163,
+        177
+      ]
+    },
+    {
+      "clue": "By its own nature or essence.",
+      "answer": "inherently",
+      "answer_letters": "INHERENTLY",
+      "indices": [
+        81,
+        22,
+        36,
+        97,
+        71,
+        12,
+        178,
+        82,
+        182,
+        110
+      ]
+    },
+    {
+      "clue": "Referring to one of two options.",
+      "answer": "neither",
+      "answer_letters": "NEITHER",
+      "indices": [
+        140,
+        21,
+        183,
+        112,
+        42,
+        78,
+        64
+      ]
+    },
+    {
+      "clue": "To request someone's presence formally.",
+      "answer": "invite",
+      "answer_letters": "INVITE",
+      "indices": [
+        136,
+        50,
+        11,
+        48,
+        52,
+        85
+      ]
+    },
+    {
+      "clue": "Warrior tribe from present-day Arizona and New Mexico.",
+      "answer": "apache",
+      "answer_letters": "APACHE",
+      "indices": [
+        168,
+        20,
+        92,
+        98,
+        59,
         14
       ]
     },
     {
-      "clue": "A university located in Pennsylvania.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "clue": "Material used to make Pinocchio's nose.",
+      "answer": "wooden",
+      "answer_letters": "WOODEN",
       "indices": [
-        137,
-        85,
-        148,
-        72,
-        122,
-        0
+        3,
+        141,
+        89,
+        180,
+        154,
+        23
       ]
     },
     {
-      "clue": "A place filled with weapons and ammunition.",
-      "answer": "armory",
-      "answer_letters": "ARMORY",
+      "clue": "A place where you can find discounted prices on brand-name products.",
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
       "indices": [
-        114,
-        162,
-        65,
+        106,
+        176,
+        156,
+        6,
+        131,
+        175
+      ]
+    },
+    {
+      "clue": "A river's discharge.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
         76,
-        132,
+        145,
+        152,
+        56,
+        137,
+        68,
+        135
+      ]
+    },
+    {
+      "clue": "Headquarters of the CIA located in Virginia.",
+      "answer": "langley",
+      "answer_letters": "LANGLEY",
+      "indices": [
+        116,
+        30,
+        93,
+        122,
+        124,
+        171,
+        53
+      ]
+    },
+    {
+      "clue": "Engages in physical altercations.",
+      "answer": "fights",
+      "answer_letters": "FIGHTS",
+      "indices": [
+        103,
+        38,
+        9,
+        148,
+        67,
+        39
+      ]
+    },
+    {
+      "clue": "A player like Willie Mays.",
+      "answer": "outfielder",
+      "answer_letters": "OUTFIELDER",
+      "indices": [
+        4,
+        133,
+        73,
+        166,
+        51,
+        185,
+        172,
+        94,
+        101,
+        17
+      ]
+    },
+    {
+      "clue": "Working from a distance.",
+      "answer": "remotely",
+      "answer_letters": "REMOTELY",
+      "indices": [
+        162,
+        1,
+        45,
+        165,
+        41,
+        111,
+        173,
+        24
+      ]
+    },
+    {
+      "clue": "A geographic region or area.",
+      "answer": "locality",
+      "answer_letters": "LOCALITY",
+      "indices": [
+        47,
+        88,
+        35,
+        159,
+        138,
+        10,
+        142,
         146
       ]
     },
     {
-      "clue": "An ancient period of human history.",
-      "answer": "neolithic",
-      "answer_letters": "NEOLITHIC",
+      "clue": "Caught off guard by surprise attack.",
+      "answer": "ambushed",
+      "answer_letters": "AMBUSHED",
       "indices": [
-        128,
-        120,
-        89,
-        182,
-        81,
-        142,
-        29,
-        183,
-        35
+        114,
+        105,
+        87,
+        5,
+        160,
+        26,
+        179,
+        125
       ]
     },
     {
-      "clue": "Full of joy and satisfaction.",
-      "answer": "delighted",
-      "answer_letters": "DELIGHTED",
+      "clue": "Magazine that has been around since 1933.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
-        125,
-        12,
-        80,
-        51,
-        9,
-        153,
-        82,
-        1,
-        94
-      ]
-    },
-    {
-      "clue": "Effort aimed at connecting with a wider community.",
-      "answer": "outreach",
-      "answer_letters": "OUTREACH",
-      "indices": [
-        99,
-        34,
-        175,
-        177,
+        184,
+        60,
+        170,
+        33,
+        70,
         16,
-        92,
-        98,
-        42
+        120,
+        90
+      ]
+    },
+    {
+      "clue": "Actress and singer who performed the hit song \"Blondie\".",
+      "answer": "debbie",
+      "answer_letters": "DEBBIE",
+      "indices": [
+        7,
+        43,
+        144,
+        96,
+        127,
+        74
+      ]
+    },
+    {
+      "clue": "Best possible.",
+      "answer": "optimum",
+      "answer_letters": "OPTIMUM",
+      "indices": [
+        123,
+        130,
+        118,
+        72,
+        65,
+        34,
+        150
       ]
     }
   ],

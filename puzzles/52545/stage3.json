@@ -5,275 +5,275 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "A wealthy Indian ruler.",
-      "answer": "maharaja",
-      "answer_letters": "MAHARAJA",
+      "clue": "A high-speed road with multiple lanes for fast-moving vehicles.",
+      "answer": "motorway",
+      "answer_letters": "MOTORWAY",
       "indices": [
         15,
-        112,
-        9,
-        135,
-        5,
-        89,
-        129,
-        67
-      ]
-    },
-    {
-      "clue": "A former spouse.",
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
-      "indices": [
-        10,
-        173,
-        93,
-        36,
-        20,
-        167
-      ]
-    },
-    {
-      "clue": "A city in Uttar Pradesh, India.",
-      "answer": "lucknow",
-      "answer_letters": "LUCKNOW",
-      "indices": [
-        121,
-        2,
-        24,
-        38,
-        180,
-        179,
-        83
-      ]
-    },
-    {
-      "clue": "No longer legal.",
-      "answer": "outlawed",
-      "answer_letters": "OUTLAWED",
-      "indices": [
-        103,
-        155,
-        50,
-        14,
-        43,
+        147,
+        8,
+        162,
+        81,
         122,
+        165,
+        131
+      ]
+    },
+    {
+      "clue": "Reverberations bouncing off walls and returning to the listener.",
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
+      "indices": [
         172,
+        174,
+        60,
+        40,
+        22,
+        17
+      ]
+    },
+    {
+      "clue": "Arrangement of elements on a web page or printed material.",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
+      "indices": [
+        86,
+        120,
+        105,
+        106,
+        80,
+        27
+      ]
+    },
+    {
+      "clue": "Directed away from the center or interior.",
+      "answer": "outward",
+      "answer_letters": "OUTWARD",
+      "indices": [
+        95,
+        2,
+        102,
+        83,
+        112,
+        166,
+        87
+      ]
+    },
+    {
+      "clue": "Clear in meaning.",
+      "answer": "defined",
+      "answer_letters": "DEFINED",
+      "indices": [
+        45,
+        132,
+        20,
+        36,
+        128,
+        175,
+        65
+      ]
+    },
+    {
+      "clue": "The final days of December.",
+      "answer": "year-end",
+      "answer_letters": "YEAREND",
+      "indices": [
+        124,
+        16,
+        67,
+        23,
+        6,
+        39,
         133
       ]
     },
     {
-      "clue": "A classic female given name.",
-      "answer": "dorothea",
-      "answer_letters": "DOROTHEA",
+      "clue": "Not spread out over a wide area.",
+      "answer": "localized",
+      "answer_letters": "LOCALIZED",
       "indices": [
-        45,
-        162,
-        23,
-        76,
-        75,
-        48,
-        111,
-        4
-      ]
-    },
-    {
-      "clue": "A town in Somerset, England.",
-      "answer": "yeovil",
-      "answer_letters": "YEOVIL",
-      "indices": [
-        131,
-        16,
-        106,
-        117,
-        73,
-        86
-      ]
-    },
-    {
-      "clue": "In a specific position.",
-      "answer": "located",
-      "answer_letters": "LOCATED",
-      "indices": [
-        158,
-        40,
-        12,
-        145,
-        114,
+        121,
+        33,
+        24,
+        49,
+        14,
+        116,
+        156,
         25,
         152
       ]
     },
     {
-      "clue": "Adequate for the task at hand.",
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
+      "clue": "What Charles Dickens' novel \"Great\" was full of.",
+      "answer": "expectations",
+      "answer_letters": "EXPECTATIONS",
       "indices": [
-        175,
-        56,
-        84,
-        80,
-        137,
-        110
-      ]
-    },
-    {
-      "clue": "Capable of taking action and making decisions with confidence.",
-      "answer": "empowered",
-      "answer_letters": "EMPOWERED",
-      "indices": [
-        98,
-        97,
-        29,
-        1,
-        68,
-        30,
-        144,
-        22,
-        91
-      ]
-    },
-    {
-      "clue": "Process of making something current or contemporary.",
-      "answer": "modernization",
-      "answer_letters": "MODERNIZATION",
-      "indices": [
-        70,
-        57,
-        140,
-        118,
-        166,
-        101,
-        21,
-        157,
-        13,
-        8,
-        178,
-        139,
-        169
-      ]
-    },
-    {
-      "clue": "A word that means resistance or contrast to something else.",
-      "answer": "opposition",
-      "answer_letters": "OPPOSITION",
-      "indices": [
-        33,
-        176,
-        142,
-        147,
-        125,
-        100,
-        62,
-        116,
-        94,
-        128
-      ]
-    },
-    {
-      "clue": "A strict adherence to established beliefs and traditions.",
-      "answer": "orthodoxy",
-      "answer_letters": "ORTHODOXY",
-      "indices": [
-        63,
-        108,
-        47,
-        60,
-        130,
-        146,
-        79,
-        148,
-        105
-      ]
-    },
-    {
-      "clue": "A country in Scandinavia.",
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
-      "indices": [
-        151,
-        138,
-        81,
-        41,
-        165,
-        78,
-        17
-      ]
-    },
-    {
-      "clue": "Not uncertain or doubtful.",
-      "answer": "guaranteed",
-      "answer_letters": "GUARANTEED",
-      "indices": [
-        59,
-        58,
-        143,
-        85,
-        120,
-        74,
-        27,
         71,
-        55,
-        65
-      ]
-    },
-    {
-      "clue": "Southwestern Chinese province.",
-      "answer": "yunnan",
-      "answer_letters": "YUNNAN",
-      "indices": [
-        124,
-        107,
-        34,
-        39,
-        123,
-        90
-      ]
-    },
-    {
-      "clue": "Safeguards put in place to prevent harm.",
-      "answer": "protections",
-      "answer_letters": "PROTECTIONS",
-      "indices": [
+        173,
         154,
-        66,
-        170,
-        102,
-        127,
-        174,
+        30,
+        12,
         18,
-        52,
-        95,
-        44,
+        43,
+        62,
+        73,
+        130,
+        90,
         32
       ]
     },
     {
-      "clue": "Uruguay's famous footballer.",
-      "answer": "suárez",
-      "answer_letters": "SUAREZ",
+      "clue": "The method of seeking knowledge through trial and error.",
+      "answer": "experimentation",
+      "answer_letters": "EXPERIMENTATION",
       "indices": [
-        53,
-        163,
-        49,
-        31,
-        159,
-        156
+        127,
+        148,
+        29,
+        98,
+        108,
+        178,
+        97,
+        167,
+        169,
+        47,
+        123,
+        75,
+        21,
+        79,
+        44
       ]
     },
     {
-      "clue": "The day that came before today.",
-      "answer": "yesterday",
-      "answer_letters": "YESTERDAY",
+      "clue": "A title given to Indian rulers in the past.",
+      "answer": "maharaja",
+      "answer_letters": "MAHARAJA",
       "indices": [
-        0,
-        132,
-        26,
-        177,
-        6,
-        113,
-        87,
+        70,
+        145,
+        9,
         150,
-        161
+        85,
+        89,
+        129,
+        4
+      ]
+    },
+    {
+      "clue": "Available at the location.",
+      "answer": "on-site",
+      "answer_letters": "ONSITE",
+      "indices": [
+        94,
+        101,
+        26,
+        100,
+        114,
+        111
+      ]
+    },
+    {
+      "clue": "The Wild West's most notorious criminals.",
+      "answer": "outlaws",
+      "answer_letters": "OUTLAWS",
+      "indices": [
+        139,
+        107,
+        177,
+        158,
+        143,
+        68,
+        53
+      ]
+    },
+    {
+      "clue": "A neighborhood in South London known for its historic cemetery.",
+      "answer": "norwood",
+      "answer_letters": "NORWOOD",
+      "indices": [
+        34,
+        76,
+        66,
+        93,
+        170,
+        63,
+        146
+      ]
+    },
+    {
+      "clue": "Last name of the lead guitarist for Radiohead.",
+      "answer": "greenwood",
+      "answer_letters": "GREENWOOD",
+      "indices": [
+        59,
+        113,
+        10,
+        159,
+        74,
+        41,
+        138,
+        179,
+        140
+      ]
+    },
+    {
+      "clue": "Hawaiian climate.",
+      "answer": "year-round",
+      "answer_letters": "YEARROUND",
+      "indices": [
+        78,
+        55,
+        13,
+        144,
+        5,
+        1,
+        163,
+        56,
+        91
+      ]
+    },
+    {
+      "clue": "The art of capturing images with a camera.",
+      "answer": "photography",
+      "answer_letters": "PHOTOGRAPHY",
+      "indices": [
+        176,
+        48,
+        84,
+        50,
+        57,
+        137,
+        31,
+        135,
+        142,
+        110,
+        0
+      ]
+    },
+    {
+      "clue": "Japanese company known for producing automobiles and motorcycles.",
+      "answer": "suzuki",
+      "answer_letters": "SUZUKI",
+      "indices": [
+        125,
+        58,
+        157,
+        155,
+        38,
+        52
+      ]
+    },
+    {
+      "clue": "Actress who played Sarah Walker in the TV series Chuck.",
+      "answer": "yvonne",
+      "answer_letters": "YVONNE",
+      "indices": [
+        161,
+        117,
+        103,
+        151,
+        180,
+        118
       ]
     }
   ],

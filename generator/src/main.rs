@@ -174,7 +174,7 @@ async fn main() -> anyhow::Result<()> {
                     }
                     None
                 }
-            }).buffered(concurrency).collect::<Vec<Option<anyhow::Error>>>().await;
+            }).buffer_unordered(concurrency).collect::<Vec<Option<anyhow::Error>>>().await;
             mem::drop(client);
             cleanup.cleanup().await?;
             // client.shutdown().await?;

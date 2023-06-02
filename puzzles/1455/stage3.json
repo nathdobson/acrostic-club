@@ -5,282 +5,282 @@
   "source_letters": "RAINBOWROWELLCARRYON",
   "clues": [
     {
-      "clue": "A system of transportation tracks.",
-      "answer": "railways",
-      "answer_letters": "RAILWAYS",
-      "indices": [
-        10,
-        151,
-        137,
-        128,
-        0,
-        54,
-        156,
-        97
-      ]
-    },
-    {
-      "clue": "A popular TV network in the Philippines.",
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        9,
-        114,
-        82,
-        59,
-        72,
-        23
-      ]
-    },
-    {
-      "clue": "Suggested or pointed out.",
-      "answer": "indicated",
-      "answer_letters": "INDICATED",
-      "indices": [
-        144,
-        38,
-        31,
-        73,
-        171,
-        169,
-        170,
-        166,
-        63
-      ]
-    },
-    {
-      "clue": "Fast-paced court sport played with seven players on a team.",
-      "answer": "netball",
-      "answer_letters": "NETBALL",
-      "indices": [
-        64,
-        68,
-        51,
-        67,
-        160,
-        111,
-        139
-      ]
-    },
-    {
-      "clue": "The most sizable or extensive.",
-      "answer": "biggest",
-      "answer_letters": "BIGGEST",
-      "indices": [
-        157,
-        35,
-        29,
-        75,
-        131,
-        90,
-        136
-      ]
-    },
-    {
-      "clue": "The final result.",
-      "answer": "outcome",
-      "answer_letters": "OUTCOME",
-      "indices": [
-        60,
-        19,
-        86,
-        159,
-        42,
-        168,
-        101
-      ]
-    },
-    {
-      "clue": "A popular alcoholic beverage made from fermented grains.",
-      "answer": "whiskey",
-      "answer_letters": "WHISKEY",
-      "indices": [
-        165,
-        83,
-        129,
-        14,
-        95,
-        142,
-        152
-      ]
-    },
-    {
-      "clue": "A consistent beat in music.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        53,
-        155,
-        45,
-        105,
-        134,
-        79
-      ]
-    },
-    {
-      "clue": "Capital of Canada.",
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        93,
-        92,
-        145,
-        115,
-        154,
-        120
-      ]
-    },
-    {
-      "clue": "Frequency of 52 times per year.",
-      "answer": "weekly",
-      "answer_letters": "WEEKLY",
-      "indices": [
-        43,
-        52,
-        89,
-        117,
-        112,
-        124
-      ]
-    },
-    {
-      "clue": "Residents of a continent.",
-      "answer": "europeans",
-      "answer_letters": "EUROPEANS",
-      "indices": [
-        148,
-        61,
-        27,
-        46,
-        109,
-        80,
-        70,
-        121,
-        40
-      ]
-    },
-    {
-      "clue": "Arrangement of an object or space.",
-      "answer": "layout",
-      "answer_letters": "LAYOUT",
-      "indices": [
-        62,
-        135,
-        57,
-        125,
-        110,
-        133
-      ]
-    },
-    {
-      "clue": "A type of cancer affecting blood cells.",
-      "answer": "leukemia",
-      "answer_letters": "LEUKEMIA",
-      "indices": [
-        56,
-        84,
-        7,
-        130,
-        76,
-        36,
-        88,
-        2
-      ]
-    },
-    {
-      "clue": "A payment verification method.",
-      "answer": "checks",
-      "answer_letters": "CHECKS",
-      "indices": [
-        20,
-        147,
-        163,
-        116,
-        21,
-        98
-      ]
-    },
-    {
-      "clue": "Not clear in meaning or intent.",
-      "answer": "ambiguous",
-      "answer_letters": "AMBIGUOUS",
-      "indices": [
-        16,
-        100,
-        103,
-        22,
-        74,
-        161,
-        140,
-        47,
-        162
-      ]
-    },
-    {
-      "clue": "Without hesitation.",
-      "answer": "readily",
-      "answer_letters": "READILY",
+      "clue": "TV chef known for his fiery personality and high culinary standards.",
+      "answer": "ramsey",
+      "answer_letters": "RAMSEY",
       "indices": [
         87,
-        11,
-        28,
-        122,
-        96,
-        49,
+        16,
+        168,
+        34,
+        166,
         32
       ]
     },
     {
-      "clue": "Thin, stiff stalks found in wetlands.",
-      "answer": "rushes",
-      "answer_letters": "RUSHES",
+      "clue": "To strike with force.",
+      "answer": "attack",
+      "answer_letters": "ATTACK",
       "indices": [
-        77,
-        126,
-        34,
-        1,
-        30,
+        115,
+        133,
+        26,
+        151,
+        159,
+        130
+      ]
+    },
+    {
+      "clue": "An adherent of a controversial political ideology often associated with radicalism.",
+      "answer": "islamist",
+      "answer_letters": "ISLAMIST",
+      "indices": [
+        88,
+        82,
+        62,
+        9,
+        100,
+        35,
+        150,
+        3
+      ]
+    },
+    {
+      "clue": "A country in southwestern Africa.",
+      "answer": "namibia",
+      "answer_letters": "NAMIBIA",
+      "indices": [
+        121,
+        135,
+        36,
+        73,
+        67,
+        137,
+        28
+      ]
+    },
+    {
+      "clue": "Mark's famous co-founder of Facebook.",
+      "answer": "begins",
+      "answer_letters": "BEGINS",
+      "indices": [
+        72,
+        131,
+        24,
+        144,
+        23,
+        98
+      ]
+    },
+    {
+      "clue": "The result of a process or activity.",
+      "answer": "output",
+      "answer_letters": "OUTPUT",
+      "indices": [
+        37,
+        104,
+        105,
+        109,
+        7,
+        170
+      ]
+    },
+    {
+      "clue": "Days excluding Saturday and Sunday.",
+      "answer": "weekdays",
+      "answer_letters": "WEEKDAYS",
+      "indices": [
+        0,
+        68,
+        158,
+        95,
+        31,
+        169,
+        152,
         81
       ]
     },
     {
-      "clue": "A town in Somerset, England.",
-      "answer": "yeovil",
-      "answer_letters": "YEOVIL",
+      "clue": "Era in British history known for lavish parties and fashion.",
+      "answer": "regency",
+      "answer_letters": "REGENCY",
       "indices": [
-        5,
-        158,
-        37,
-        141,
-        13,
-        55
+        27,
+        142,
+        29,
+        84,
+        38,
+        171,
+        124
       ]
     },
     {
-      "clue": "Articles of clothing worn together.",
-      "answer": "outfits",
-      "answer_letters": "OUTFITS",
+      "clue": "Clear as day, like a catch by Willie Mays.",
+      "answer": "obviously",
+      "answer_letters": "OBVIOUSLY",
+      "indices": [
+        125,
+        103,
+        141,
+        129,
+        60,
+        47,
+        14,
+        55,
+        45
+      ]
+    },
+    {
+      "clue": "A term indicating a lack of something.",
+      "answer": "without",
+      "answer_letters": "WITHOUT",
+      "indices": [
+        154,
+        96,
+        145,
+        147,
+        46,
+        19,
+        136
+      ]
+    },
+    {
+      "clue": "Without difficulty or effort.",
+      "answer": "easily",
+      "answer_letters": "EASILY",
+      "indices": [
+        80,
+        54,
+        97,
+        50,
+        49,
+        156
+      ]
+    },
+    {
+      "clue": "A molecule that binds specifically to a receptor.",
+      "answer": "ligand",
+      "answer_letters": "LIGAND",
+      "indices": [
+        112,
+        22,
+        75,
+        2,
+        64,
+        63
+      ]
+    },
+    {
+      "clue": "Wood used for building and construction.",
+      "answer": "lumber",
+      "answer_letters": "LUMBER",
+      "indices": [
+        128,
+        161,
+        79,
+        157,
+        52,
+        77
+      ]
+    },
+    {
+      "clue": "A word to describe a scene with disorder and confusion.",
+      "answer": "chaotic",
+      "answer_letters": "CHAOTIC",
+      "indices": [
+        59,
+        1,
+        70,
+        42,
+        65,
+        107,
+        116
+      ]
+    },
+    {
+      "clue": "A conjunction used to introduce a contrasting statement.",
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
+      "indices": [
+        160,
+        139,
+        86,
+        83,
+        93,
+        110,
+        74,
+        134
+      ]
+    },
+    {
+      "clue": "In an abundant or opulent manner.",
+      "answer": "richly",
+      "answer_letters": "RICHLY",
+      "indices": [
+        10,
+        13,
+        20,
+        155,
+        111,
+        5
+      ]
+    },
+    {
+      "clue": "To film a scene again for a movie or television show.",
+      "answer": "retake",
+      "answer_letters": "RETAKE",
+      "indices": [
+        53,
+        89,
+        92,
+        120,
+        117,
+        163
+      ]
+    },
+    {
+      "clue": "Having the energy and vigor of a young person.",
+      "answer": "youthful",
+      "answer_letters": "YOUTHFUL",
+      "indices": [
+        57,
+        140,
+        61,
+        51,
+        172,
+        18,
+        126,
+        56
+      ]
+    },
+    {
+      "clue": "Compulsively preoccupied with something.",
+      "answer": "obsessed",
+      "answer_letters": "OBSESSED",
       "indices": [
         6,
-        104,
-        3,
-        18,
-        50,
-        26,
-        153
+        114,
+        162,
+        11,
+        153,
+        90,
+        30,
+        122
       ]
     },
     {
-      "clue": "A time when stars shine.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "clue": "Magazine that has been around since 1933.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
         41,
-        107,
-        24,
-        172,
-        65,
-        150
+        148,
+        165,
+        40,
+        43,
+        76,
+        101,
+        21
       ]
     }
   ],

@@ -5,278 +5,278 @@
   "source_letters": "KARENMARIEMONINGICED",
   "clues": [
     {
-      "clue": "A Japanese motorcycle brand.",
-      "answer": "kawasaki",
-      "answer_letters": "KAWASAKI",
+      "clue": "A historic mountain pass in the Hindu Kush range connecting Pakistan and Afghanistan.",
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
       "indices": [
         128,
-        109,
-        43,
-        52,
-        116,
-        133,
-        93,
-        32
+        122,
+        73,
+        36,
+        25,
+        37
       ]
     },
     {
-      "clue": "A process of mechanizing tasks.",
-      "answer": "automation",
-      "answer_letters": "AUTOMATION",
+      "clue": "Successfully completing a task or goal.",
+      "answer": "achieving",
+      "answer_letters": "ACHIEVING",
       "indices": [
-        38,
-        118,
-        0,
-        63,
-        4,
-        84,
-        113,
-        149,
-        56,
-        110
+        152,
+        11,
+        90,
+        17,
+        78,
+        139,
+        35,
+        137,
+        153
       ]
     },
     {
-      "clue": "Regular patterns of beats.",
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "clue": "Options for travel.",
+      "answer": "routes",
+      "answer_letters": "ROUTES",
       "indices": [
         64,
-        24,
-        159,
-        143,
-        59,
-        77,
-        165
+        28,
+        126,
+        113,
+        140,
+        69
       ]
     },
     {
-      "clue": "The numerical position after seventh.",
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
+      "clue": "Strive to follow in someone's footsteps.",
+      "answer": "emulate",
+      "answer_letters": "EMULATE",
       "indices": [
-        25,
-        17,
-        58,
-        46,
-        119,
-        117
-      ]
-    },
-    {
-      "clue": "Ten less than one hundred.",
-      "answer": "ninety",
-      "answer_letters": "NINETY",
-      "indices": [
-        163,
-        155,
-        156,
-        9,
-        121,
-        167
-      ]
-    },
-    {
-      "clue": "A puzzle or enigma to be solved.",
-      "answer": "mystery",
-      "answer_letters": "MYSTERY",
-      "indices": [
+        138,
         27,
-        104,
-        168,
-        150,
-        7,
-        37,
-        68
-      ]
-    },
-    {
-      "clue": "To successfully attain a goal or a result.",
-      "answer": "achieve",
-      "answer_letters": "ACHIEVE",
-      "indices": [
-        67,
-        127,
-        144,
-        87,
-        47,
-        139,
-        30
-      ]
-    },
-    {
-      "clue": "A term used in traffic laws.",
-      "answer": "right-of-way",
-      "answer_letters": "RIGHTOFWAY",
-      "indices": [
-        48,
-        70,
-        19,
-        90,
-        85,
-        160,
-        71,
-        108,
-        162,
-        95
-      ]
-    },
-    {
-      "clue": "A high-tech device made by Apple.",
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
-      "indices": [
-        91,
-        131,
-        122,
-        42,
-        102,
+        75,
+        62,
+        154,
+        60,
         2
       ]
     },
     {
-      "clue": "Mistakes that can affect the outcome.",
-      "answer": "errors",
-      "answer_letters": "ERRORS",
+      "clue": "Famous female spy portrayed by Maggie Q in a TV series.",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
       "indices": [
-        100,
-        158,
-        29,
-        28,
-        141,
-        50
-      ]
-    },
-    {
-      "clue": "A bustling commercial hub.",
-      "answer": "market",
-      "answer_letters": "MARKET",
-      "indices": [
-        99,
-        79,
-        6,
-        147,
-        20,
-        111
-      ]
-    },
-    {
-      "clue": "The beginning or starting point.",
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
-        114,
-        126,
-        54,
-        66,
-        49,
-        23
-      ]
-    },
-    {
-      "clue": "A modern style or design.",
-      "answer": "nouveau",
-      "answer_letters": "NOUVEAU",
-      "indices": [
-        92,
-        74,
-        130,
-        34,
-        123,
-        152,
-        75
-      ]
-    },
-    {
-      "clue": "A newborn baby.",
-      "answer": "infant",
-      "answer_letters": "INFANT",
-      "indices": [
-        35,
-        80,
-        125,
-        101,
         134,
-        89
+        32,
+        93,
+        87,
+        119,
+        162
       ]
     },
     {
-      "clue": "Caught with a mesh.",
-      "answer": "netted",
-      "answer_letters": "NETTED",
+      "clue": "A primate known for its playful and curious nature.",
+      "answer": "monkey",
+      "answer_letters": "MONKEY",
       "indices": [
-        146,
-        78,
+        77,
+        105,
+        102,
+        147,
+        49,
+        167
+      ]
+    },
+    {
+      "clue": "However nonetheless.",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        79,
+        80,
+        104,
+        108,
+        38,
+        95
+      ]
+    },
+    {
+      "clue": "A pattern of beats and accents in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        158,
+        144,
+        68,
+        85,
+        117,
+        99
+      ]
+    },
+    {
+      "clue": "A popular smartphone created by a tech giant based in Cupertino, California.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        145,
+        131,
+        46,
+        74,
+        92,
+        123
+      ]
+    },
+    {
+      "clue": "Actions taken towards achieving a goal.",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
+      "indices": [
+        9,
+        125,
+        71,
+        96,
+        48,
+        54,
+        165
+      ]
+    },
+    {
+      "clue": "The act of unlawfully killing someone.",
+      "answer": "murder",
+      "answer_letters": "MURDER",
+      "indices": [
+        4,
+        106,
+        6,
+        161,
+        14,
+        29
+      ]
+    },
+    {
+      "clue": "Capital city of Canada.",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        160,
         13,
+        150,
+        101,
+        82,
+        109
+      ]
+    },
+    {
+      "clue": "A general idea or understanding.",
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        156,
+        56,
+        23,
+        70,
+        63,
+        146
+      ]
+    },
+    {
+      "clue": "A place of learning and research.",
+      "answer": "institut",
+      "answer_letters": "INSTITUT",
+      "indices": [
+        12,
+        163,
+        50,
+        89,
+        155,
+        111,
+        57,
+        0
+      ]
+    },
+    {
+      "clue": "A directionally opposed pair.",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        110,
+        42,
+        141,
+        39,
+        24,
+        168,
+        114,
+        130,
+        45,
+        59
+      ]
+    },
+    {
+      "clue": "An iconic structure found in St. Louis.",
+      "answer": "gateway",
+      "answer_letters": "GATEWAY",
+      "indices": [
+        19,
+        67,
         21,
         40,
+        43,
+        133,
+        159
+      ]
+    },
+    {
+      "clue": "Biblical prophet known for writing a book in the Old Testament.",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        91,
+        116,
+        52,
+        149,
+        84,
+        1
+      ]
+    },
+    {
+      "clue": "Last name of Hong Kong actress Cecilia.",
+      "answer": "cheung",
+      "answer_letters": "CHEUNG",
+      "indices": [
+        127,
+        55,
+        20,
+        118,
+        41,
+        58
+      ]
+    },
+    {
+      "clue": "Feeling completely drained of energy.",
+      "answer": "exhausted",
+      "answer_letters": "EXHAUSTED",
+      "indices": [
+        47,
+        10,
+        83,
+        166,
+        97,
+        66,
+        121,
+        7,
         135
       ]
     },
     {
-      "clue": "Prominent German writer.",
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
+      "clue": "To commit oneself entirely to a particular purpose or cause.",
+      "answer": "devote",
+      "answer_letters": "DEVOTE",
       "indices": [
-        153,
-        105,
-        140,
-        60,
-        1,
-        138
-      ]
-    },
-    {
-      "clue": "A person from South Asia.",
-      "answer": "indian",
-      "answer_letters": "INDIAN",
-      "indices": [
-        12,
-        41,
         15,
-        145,
-        166,
-        137
-      ]
-    },
-    {
-      "clue": "Rider of horses on the open range.",
-      "answer": "cowboy",
-      "answer_letters": "COWBOY",
-      "indices": [
-        11,
+        30,
+        34,
         5,
-        82,
-        36,
-        96,
-        73
-      ]
-    },
-    {
-      "clue": "A pipe component.",
-      "answer": "exhaust",
-      "answer_letters": "EXHAUST",
-      "indices": [
-        14,
-        10,
-        83,
-        154,
-        57,
-        69,
-        45
-      ]
-    },
-    {
-      "clue": "Seaport city on Lake Superior.",
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
-      "indices": [
-        161,
-        97,
-        62,
-        106,
-        39,
-        55
+        143,
+        100
       ]
     }
   ],

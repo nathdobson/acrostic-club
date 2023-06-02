@@ -5,293 +5,293 @@
   "source_letters": "MOHSINHAMIDMOTHSMOKE",
   "clues": [
     {
-      "clue": "A driving force.",
-      "answer": "motivation",
-      "answer_letters": "MOTIVATION",
+      "clue": "Animals used for riding or carrying loads.",
+      "answer": "mounts",
+      "answer_letters": "MOUNTS",
       "indices": [
-        46,
-        115,
-        101,
-        14,
-        4,
-        32,
-        139,
-        0,
-        140,
-        114
+        61,
+        72,
+        156,
+        114,
+        41,
+        150
       ]
     },
     {
-      "clue": "A source for electricity or retail goods.",
-      "answer": "outlet",
-      "answer_letters": "OUTLET",
+      "clue": "Canadian province known for its vast forests and numerous lakes.",
+      "answer": "ontario",
+      "answer_letters": "ONTARIO",
       "indices": [
         109,
-        156,
-        7,
-        147,
-        27,
-        22
-      ]
-    },
-    {
-      "clue": "Someone who swings a bat or racket at a ball.",
-      "answer": "hitter",
-      "answer_letters": "HITTER",
-      "indices": [
-        162,
-        75,
-        133,
-        64,
-        91,
-        165
-      ]
-    },
-    {
-      "clue": "A creator of lyrics and melodies.",
-      "answer": "songwriter",
-      "answer_letters": "SONGWRITER",
-      "indices": [
-        150,
-        45,
-        171,
-        130,
-        54,
-        25,
-        78,
-        169,
-        80,
-        70
-      ]
-    },
-    {
-      "clue": "Curious about something.",
-      "answer": "interested",
-      "answer_letters": "INTERESTED",
-      "indices": [
-        82,
-        28,
-        103,
-        47,
+        57,
+        149,
+        66,
         183,
-        40,
-        96,
-        48,
-        137,
-        142
+        14,
+        128
       ]
     },
     {
-      "clue": "A popular 90s action movie character.",
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
+      "clue": "Aviator who set many aviation records.",
+      "answer": "hughes",
+      "answer_letters": "HUGHES",
       "indices": [
-        127,
-        26,
-        113,
-        9,
-        84,
-        3
+        55,
+        129,
+        130,
+        104,
+        40,
+        44
       ]
     },
     {
-      "clue": "A common surname.",
-      "answer": "howell",
-      "answer_letters": "HOWELL",
+      "clue": "Groups of words that convey a complete thought.",
+      "answer": "sentences",
+      "answer_letters": "SENTENCES",
+      "indices": [
+        96,
+        159,
+        73,
+        169,
+        56,
+        186,
+        38,
+        27,
+        178
+      ]
+    },
+    {
+      "clue": "A historic city located in Iran.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        49,
+        36,
+        182,
+        174,
+        8,
+        3,
+        171
+      ]
+    },
+    {
+      "clue": "A Connecticut town where a tragic shooting occurred in 2012.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        15,
+        91,
+        116,
+        64,
+        140,
+        54,
+        28
+      ]
+    },
+    {
+      "clue": "An inclined piece of land.",
+      "answer": "hillside",
+      "answer_letters": "HILLSIDE",
       "indices": [
         13,
-        128,
-        116,
-        148,
-        124,
-        77
+        78,
+        87,
+        141,
+        10,
+        144,
+        142,
+        5
       ]
     },
     {
-      "clue": "A popular first name for girls.",
-      "answer": "ashley",
-      "answer_letters": "ASHLEY",
+      "clue": "Collectively, it means \"in sum.\"",
+      "answer": "altogether",
+      "answer_letters": "ALTOGETHER",
       "indices": [
         177,
-        42,
-        2,
-        123,
-        159,
-        106
-      ]
-    },
-    {
-      "clue": "Italian female name.",
-      "answer": "michele",
-      "answer_letters": "MICHELE",
-      "indices": [
-        50,
-        49,
-        38,
-        131,
-        85,
-        87,
-        126
-      ]
-    },
-    {
-      "clue": "An order from a court.",
-      "answer": "injunction",
-      "answer_letters": "INJUNCTION",
-      "indices": [
-        173,
-        186,
-        155,
-        129,
-        57,
-        98,
-        89,
-        59,
-        20,
-        73
-      ]
-    },
-    {
-      "clue": "No longer present.",
-      "answer": "deleted",
-      "answer_letters": "DELETED",
-      "indices": [
-        157,
-        37,
-        141,
-        122,
-        161,
-        51,
-        29
-      ]
-    },
-    {
-      "clue": "Last name of a famous Canadian NHL player.",
-      "answer": "matthews",
-      "answer_letters": "MATTHEWS",
-      "indices": [
-        152,
-        18,
-        111,
-        149,
-        90,
-        163,
-        121,
-        36
-      ]
-    },
-    {
-      "clue": "An action that violates a rule or social norm.",
-      "answer": "offense",
-      "answer_letters": "OFFENSE",
-      "indices": [
-        134,
-        182,
-        24,
-        100,
-        15,
-        44,
-        56
-      ]
-    },
-    {
-      "clue": "A violent storm.",
-      "answer": "tempest",
-      "answer_letters": "TEMPEST",
-      "indices": [
-        41,
-        62,
-        118,
-        167,
-        170,
-        71,
-        172
-      ]
-    },
-    {
-      "clue": "Distance from base to summit.",
-      "answer": "height",
-      "answer_letters": "HEIGHT",
-      "indices": [
-        104,
-        63,
-        184,
-        158,
-        8,
-        145
-      ]
-    },
-    {
-      "clue": "A type of train car.",
-      "answer": "sleeper",
-      "answer_letters": "SLEEPER",
-      "indices": [
-        10,
         86,
-        153,
+        48,
+        134,
+        16,
         97,
-        68,
-        185,
+        7,
+        2,
+        51,
         39
       ]
     },
     {
-      "clue": "Wetlands with low-lying vegetation.",
-      "answer": "marshes",
-      "answer_letters": "MARSHES",
+      "clue": "A diverse, interactive presentation.",
+      "answer": "multimedia",
+      "answer_letters": "MULTIMEDIA",
       "indices": [
         92,
-        174,
-        99,
-        178,
-        55,
-        119,
-        30
-      ]
-    },
-    {
-      "clue": "A necessary duty.",
-      "answer": "obligation",
-      "answer_letters": "OBLIGATION",
-      "indices": [
-        168,
-        136,
-        175,
-        144,
-        16,
-        66,
-        12,
-        164,
-        72,
-        33
-      ]
-    },
-    {
-      "clue": "City in Lithuania.",
-      "answer": "kaunas",
-      "answer_letters": "KAUNAS",
-      "indices": [
-        79,
-        180,
         21,
-        110,
-        94,
-        52
+        124,
+        101,
+        59,
+        50,
+        63,
+        157,
+        0,
+        94
       ]
     },
     {
-      "clue": "Immersed within.",
-      "answer": "embedded",
-      "answer_letters": "EMBEDDED",
+      "clue": "A time period between two events or actions.",
+      "answer": "interval",
+      "answer_letters": "INTERVAL",
       "indices": [
-        5,
-        61,
-        19,
-        69,
-        187,
+        184,
+        110,
+        145,
+        137,
+        165,
+        4,
+        180,
+        175
+      ]
+    },
+    {
+      "clue": "Clear and unambiguous.",
+      "answer": "definite",
+      "answer_letters": "DEFINITE",
+      "indices": [
         108,
+        100,
+        24,
+        164,
+        33,
+        75,
+        84,
+        85
+      ]
+    },
+    {
+      "clue": "Having made an error.",
+      "answer": "mistaken",
+      "answer_letters": "MISTAKEN",
+      "indices": [
+        46,
+        82,
+        71,
+        89,
+        18,
+        79,
+        119,
+        127
+      ]
+    },
+    {
+      "clue": "Against something.",
+      "answer": "opposed",
+      "answer_letters": "OPPOSED",
+      "indices": [
+        45,
+        68,
+        167,
+        168,
+        42,
+        163,
+        187
+      ]
+    },
+    {
+      "clue": "Simultaneously in one place.",
+      "answer": "together",
+      "answer_letters": "TOGETHER",
+      "indices": [
+        133,
+        20,
+        158,
+        69,
+        139,
+        90,
+        37,
+        70
+      ]
+    },
+    {
+      "clue": "Tennis player who won the US Open in 2001.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        162,
         105,
+        121,
+        173,
+        12,
+        161
+      ]
+    },
+    {
+      "clue": "Remaining in a chair.",
+      "answer": "seated",
+      "answer_letters": "SEATED",
+      "indices": [
+        30,
+        47,
+        32,
+        172,
+        148,
         34
+      ]
+    },
+    {
+      "clue": "A type of cereal grain often used in birdseed.",
+      "answer": "millet",
+      "answer_letters": "MILLET",
+      "indices": [
+        152,
+        26,
+        77,
+        123,
+        62,
+        103
+      ]
+    },
+    {
+      "clue": "Expressed disapproval.",
+      "answer": "objected",
+      "answer_letters": "OBJECTED",
+      "indices": [
+        115,
+        19,
+        155,
+        153,
+        98,
+        22,
+        80,
+        29
+      ]
+    },
+    {
+      "clue": "Australian city known for its diamond mines.",
+      "answer": "kimberley",
+      "answer_letters": "KIMBERLEY",
+      "indices": [
+        113,
+        9,
+        118,
+        136,
+        170,
+        25,
+        147,
+        126,
+        106
+      ]
+    },
+    {
+      "clue": "One of the heroes of the Old Testament.",
+      "answer": "esther",
+      "answer_letters": "ESTHER",
+      "indices": [
+        185,
+        52,
+        111,
+        131,
+        122,
+        99
       ]
     }
   ],

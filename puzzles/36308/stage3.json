@@ -5,304 +5,304 @@
   "source_letters": "MICHELANGELOBUONARROTI",
   "clues": [
     {
-      "clue": "A warm-blooded creature with hair or fur.",
-      "answer": "mammal",
-      "answer_letters": "MAMMAL",
+      "clue": "Animals used for riding or carrying loads.",
+      "answer": "mounts",
+      "answer_letters": "MOUNTS",
       "indices": [
-        156,
-        57,
-        110,
-        131,
-        38,
-        23
+        26,
+        27,
+        109,
+        97,
+        139,
+        20
       ]
     },
     {
-      "clue": "Problems or concerns.",
-      "answer": "issues",
-      "answer_letters": "ISSUES",
+      "clue": "Related to a video or computerized competition.",
+      "answer": "in-game",
+      "answer_letters": "INGAME",
       "indices": [
-        58,
-        102,
-        101,
-        66,
-        141,
-        45
+        78,
+        59,
+        35,
+        127,
+        8,
+        160
       ]
     },
     {
-      "clue": "Involves being made up of something.",
-      "answer": "consists",
-      "answer_letters": "CONSISTS",
+      "clue": "Took part in a contest or game.",
+      "answer": "competed",
+      "answer_letters": "COMPETED",
       "indices": [
         172,
         47,
-        108,
-        128,
-        33,
-        12,
-        46,
-        121
-      ]
-    },
-    {
-      "clue": "Gave assistance to.",
-      "answer": "helped",
-      "answer_letters": "HELPED",
-      "indices": [
-        51,
-        49,
-        125,
-        124,
+        131,
+        56,
+        120,
+        118,
         54,
-        0
-      ]
-    },
-    {
-      "clue": "The initial point in time.",
-      "answer": "earliest",
-      "answer_letters": "EARLIEST",
-      "indices": [
-        126,
-        61,
-        3,
-        176,
-        52,
-        40,
-        14,
-        72
-      ]
-    },
-    {
-      "clue": "Compares in similarity.",
-      "answer": "likened",
-      "answer_letters": "LIKENED",
-      "indices": [
-        135,
-        78,
-        153,
-        85,
-        105,
-        9,
         144
       ]
     },
     {
-      "clue": "Not in attendance.",
-      "answer": "absent",
-      "answer_letters": "ABSENT",
+      "clue": "Stopped abruptly or came to a sudden standstill.",
+      "answer": "halted",
+      "answer_letters": "HALTED",
       "indices": [
-        152,
-        31,
-        114,
-        32,
-        34,
-        21
-      ]
-    },
-    {
-      "clue": "A female name.",
-      "answer": "nellie",
-      "answer_letters": "NELLIE",
-      "indices": [
-        59,
-        160,
-        24,
-        95,
-        67,
-        17
-      ]
-    },
-    {
-      "clue": "Last name of the American historian who wrote \"Team of Rivals.\"",
-      "answer": "goodwin",
-      "answer_letters": "GOODWIN",
-      "indices": [
-        35,
-        27,
-        177,
-        98,
-        93,
-        22,
-        97
-      ]
-    },
-    {
-      "clue": "Name that means \"bright, shining one\".",
-      "answer": "eileen",
-      "answer_letters": "EILEEN",
-      "indices": [
-        100,
-        171,
-        53,
-        29,
-        122,
-        79
-      ]
-    },
-    {
-      "clue": "Position with minimum authority and responsibility.",
-      "answer": "low-level",
-      "answer_letters": "LOWLEVEL",
-      "indices": [
-        75,
-        145,
-        151,
-        77,
-        81,
-        169,
+        140,
+        57,
+        135,
+        69,
         129,
-        15
+        106
       ]
     },
     {
-      "clue": "Common Irish surname.",
-      "answer": "o'brien",
-      "answer_letters": "OBRIEN",
+      "clue": "Symbol representing an organization or country.",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
       "indices": [
-        148,
-        89,
-        28,
-        96,
-        161,
-        112
-      ]
-    },
-    {
-      "clue": "Increased or raised, as in morale or horsepower.",
-      "answer": "boosted",
-      "answer_letters": "BOOSTED",
-      "indices": [
+        122,
+        110,
         94,
-        92,
-        6,
+        23,
+        154,
+        37
+      ]
+    },
+    {
+      "clue": "In a similar way.",
+      "answer": "likewise",
+      "answer_letters": "LIKEWISE",
+      "indices": [
+        74,
+        96,
+        159,
+        157,
+        93,
+        58,
         71,
-        139,
+        113
+      ]
+    },
+    {
+      "clue": "Permissible.",
+      "answer": "allowed",
+      "answer_letters": "ALLOWED",
+      "indices": [
+        38,
+        77,
+        75,
+        177,
+        178,
+        100,
+        0
+      ]
+    },
+    {
+      "clue": "Members of the aristocracy.",
+      "answer": "nobles",
+      "answer_letters": "NOBLES",
+      "indices": [
+        112,
+        92,
+        89,
+        125,
+        126,
+        115
+      ]
+    },
+    {
+      "clue": "People invited to an event or location.",
+      "answer": "guests",
+      "answer_letters": "GUESTS",
+      "indices": [
+        65,
+        66,
+        1,
+        114,
+        46,
+        102
+      ]
+    },
+    {
+      "clue": "Country in East Africa known for its rich history and diverse culture.",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        85,
+        72,
+        119,
+        73,
+        170,
+        162,
+        33,
+        152,
+        48
+      ]
+    },
+    {
+      "clue": "Paid attention to something that was said.",
+      "answer": "listened",
+      "answer_letters": "LISTENED",
+      "indices": [
+        68,
+        171,
+        174,
+        5,
         138,
-        63
+        62,
+        81,
+        39
       ]
     },
     {
-      "clue": "Beneficial for a purpose.",
-      "answer": "useful",
-      "answer_letters": "USEFUL",
+      "clue": "Referring to your own being.",
+      "answer": "oneself",
+      "answer_letters": "ONESELF",
       "indices": [
-        109,
-        115,
-        16,
-        43,
-        166,
-        74
-      ]
-    },
-    {
-      "clue": "A shape resembling a stretched-out circle.",
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
-      "indices": [
-        42,
-        111,
-        91,
         136,
-        137,
-        80
+        99,
+        132,
+        128,
+        29,
+        15,
+        43
       ]
     },
     {
-      "clue": "A male relative of yours' sibling.",
+      "clue": "Things that make up a human or animal organism.",
+      "answer": "bodies",
+      "answer_letters": "BODIES",
+      "indices": [
+        31,
+        145,
+        63,
+        11,
+        161,
+        14
+      ]
+    },
+    {
+      "clue": "The director of the 2011 sci-fi thriller 'In Time'.",
+      "answer": "unknown",
+      "answer_letters": "UNKNOWN",
+      "indices": [
+        166,
+        142,
+        153,
+        34,
+        42,
+        151,
+        137
+      ]
+    },
+    {
+      "clue": "Article of clothing commonly worn by mechanics and made of denim or canvas.",
+      "answer": "overall",
+      "answer_letters": "OVERALL",
+      "indices": [
+        165,
+        169,
+        16,
+        3,
+        61,
+        24,
+        53
+      ]
+    },
+    {
+      "clue": "The son of your sibling.",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        62,
-        157,
-        162,
-        140,
-        154,
+        108,
+        173,
+        18,
+        51,
+        49,
         50
       ]
     },
     {
-      "clue": "A swift mammal with horns.",
-      "answer": "antelope",
-      "answer_letters": "ANTELOPE",
+      "clue": "Things owned by an individual or organization.",
+      "answer": "assets",
+      "answer_letters": "ASSETS",
       "indices": [
-        104,
-        48,
-        118,
-        120,
-        68,
-        165,
-        56,
-        1
+        134,
+        45,
+        121,
+        17,
+        21,
+        12
       ]
     },
     {
-      "clue": "One who rules on behalf of a monarch.",
-      "answer": "regent",
-      "answer_letters": "REGENT",
+      "clue": "A solution or cure for a problem or ailment.",
+      "answer": "remedy",
+      "answer_letters": "REMEDY",
+      "indices": [
+        28,
+        87,
+        156,
+        32,
+        98,
+        164
+      ]
+    },
+    {
+      "clue": "Italian painter known for his works in the Vatican.",
+      "answer": "raphael",
+      "answer_letters": "RAPHAEL",
       "indices": [
         167,
-        90,
-        65,
-        87,
-        147,
-        69
-      ]
-    },
-    {
-      "clue": "A consistent beat in music.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        82,
-        119,
-        164,
-        5,
+        2,
+        124,
         84,
-        26
+        104,
+        141,
+        95
       ]
     },
     {
-      "clue": "An island prefecture of Japan.",
-      "answer": "okinawa",
-      "answer_letters": "OKINAWA",
+      "clue": "A baseball team from Maryland.",
+      "answer": "orioles",
+      "answer_letters": "ORIOLES",
       "indices": [
-        170,
-        159,
-        11,
-        99,
-        134,
-        178,
-        2
+        6,
+        86,
+        22,
+        148,
+        176,
+        90,
+        101
       ]
     },
     {
-      "clue": "A two-person bicycle.",
-      "answer": "tandem",
-      "answer_letters": "TANDEM",
+      "clue": "Musical symbol indicating high pitch.",
+      "answer": "treble",
+      "answer_letters": "TREBLE",
       "indices": [
         149,
-        127,
-        142,
-        106,
-        113,
-        8
+        82,
+        9,
+        111,
+        91,
+        40
       ]
     },
     {
-      "clue": "Left with a positive opinion.",
-      "answer": "impressed",
-      "answer_letters": "IMPRESSED",
+      "clue": "A part of a baseball game.",
+      "answer": "inning",
+      "answer_letters": "INNING",
       "indices": [
-        73,
-        37,
-        18,
-        86,
-        132,
-        174,
-        20,
-        173,
-        39
+        52,
+        147,
+        79,
+        67,
+        105,
+        80
       ]
     }
   ],

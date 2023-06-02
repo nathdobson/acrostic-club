@@ -5,271 +5,271 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "A mischievous primate.",
-      "answer": "monkey",
-      "answer_letters": "MONKEY",
+      "clue": "Founder of Islam.",
+      "answer": "mohammed",
+      "answer_letters": "MOHAMMED",
       "indices": [
+        161,
+        31,
+        4,
+        132,
         83,
-        74,
-        118,
-        104,
-        122,
-        99
-      ]
-    },
-    {
-      "clue": "A developing organism in early stages.",
-      "answer": "embryo",
-      "answer_letters": "EMBRYO",
-      "indices": [
-        159,
         169,
-        86,
-        131,
-        36,
-        97
+        7,
+        79
       ]
     },
     {
-      "clue": "A world of fiction, non-fiction, and poetry.",
-      "answer": "literature",
-      "answer_letters": "LITERATURE",
+      "clue": "Completely and without exception.",
+      "answer": "entirely",
+      "answer_letters": "ENTIRELY",
       "indices": [
-        22,
-        27,
+        147,
+        118,
         40,
-        134,
-        176,
-        17,
-        59,
-        140,
-        33,
-        48
-      ]
-    },
-    {
-      "clue": "A road sign indicating direction with no exits.",
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
-        24,
-        105,
-        35,
-        110,
-        15,
+        27,
+        131,
+        107,
+        65,
         0
       ]
     },
     {
-      "clue": "Fictional character from Kansas.",
-      "answer": "dorothy",
-      "answer_letters": "DOROTHY",
-      "indices": [
-        155,
-        100,
-        87,
-        173,
-        96,
-        114,
-        20
-      ]
-    },
-    {
-      "clue": "Peninsula in Mexico.",
-      "answer": "yucatán",
-      "answer_letters": "YUCATAN",
-      "indices": [
-        92,
-        63,
-        148,
-        11,
-        9,
-        153,
-        89
-      ]
-    },
-    {
-      "clue": "In accordance with rules and regulations.",
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
+      "clue": "Taking a considerable amount of time to complete.",
+      "answer": "lengthy",
+      "answer_letters": "LENGTHY",
       "indices": [
         64,
-        132,
-        54,
-        14,
-        162,
-        65
+        106,
+        89,
+        90,
+        175,
+        10,
+        177
       ]
     },
     {
-      "clue": "Giving their name to something.",
+      "clue": "The result of a process or activity.",
+      "answer": "output",
+      "answer_letters": "OUTPUT",
+      "indices": [
+        23,
+        69,
+        149,
+        116,
+        2,
+        142
+      ]
+    },
+    {
+      "clue": "Folk singer-songwriter who wrote \"Sunshine Superman.\"",
+      "answer": "donovan",
+      "answer_letters": "DONOVAN",
+      "indices": [
+        155,
+        166,
+        105,
+        93,
+        6,
+        153,
+        146
+      ]
+    },
+    {
+      "clue": "The Beatles' hit song.",
+      "answer": "yesterday",
+      "answer_letters": "YESTERDAY",
+      "indices": [
+        92,
+        144,
+        113,
+        73,
+        37,
+        102,
+        126,
+        55,
+        170
+      ]
+    },
+    {
+      "clue": "Arrangement of elements on a web page or printed material.",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
+      "indices": [
+        22,
+        15,
+        136,
+        111,
+        63,
+        12
+      ]
+    },
+    {
+      "clue": "Former, like the lead singer of Genesis.",
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
+      "indices": [
+        122,
+        87,
+        38,
+        9,
+        18,
+        41,
+        115,
+        135,
+        134
+      ]
+    },
+    {
+      "clue": "Giving one's name to something.",
       "answer": "eponymous",
       "answer_letters": "EPONYMOUS",
       "indices": [
-        127,
-        116,
-        68,
-        28,
-        67,
-        161,
-        166,
-        2,
-        108
-      ]
-    },
-    {
-      "clue": "Ubiquitous location.",
-      "answer": "everywhere",
-      "answer_letters": "EVERYWHERE",
-      "indices": [
-        174,
-        6,
         81,
-        151,
-        30,
-        18,
-        10,
-        37,
-        112,
-        147
-      ]
-    },
-    {
-      "clue": "State of being fully grown and developed.",
-      "answer": "maturity",
-      "answer_letters": "MATURITY",
-      "indices": [
-        121,
-        42,
-        43,
-        69,
-        80,
-        115,
-        142,
-        136
-      ]
-    },
-    {
-      "clue": "A lengthy voyage or adventure.",
-      "answer": "odyssey",
-      "answer_letters": "ODYSSEY",
-      "indices": [
-        31,
-        79,
-        138,
-        49,
-        84,
-        52,
-        77
-      ]
-    },
-    {
-      "clue": "Not afraid to express opinions.",
-      "answer": "outspoken",
-      "answer_letters": "OUTSPOKEN",
-      "indices": [
-        93,
-        101,
-        149,
-        163,
         62,
-        111,
-        47,
-        106,
-        72
-      ]
-    },
-    {
-      "clue": "A period between sunset and sunrise.",
-      "answer": "nighttime",
-      "answer_letters": "NIGHTTIME",
-      "indices": [
-        56,
-        88,
-        90,
-        41,
-        12,
-        175,
-        117,
+        1,
+        154,
+        138,
         45,
-        164
-      ]
-    },
-    {
-      "clue": "Not uncertain or doubtful.",
-      "answer": "guaranteed",
-      "answer_letters": "GUARANTEED",
-      "indices": [
-        119,
-        94,
-        55,
-        16,
-        5,
-        146,
-        133,
-        144,
-        7,
-        126
-      ]
-    },
-    {
-      "clue": "Adolescents and teenagers.",
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
-      "indices": [
-        170,
-        23,
-        32,
-        157,
-        158,
-        113
-      ]
-    },
-    {
-      "clue": "Raised surfaces to stand on.",
-      "answer": "platforms",
-      "answer_letters": "PLATFORMS",
-      "indices": [
-        129,
-        135,
-        82,
-        73,
-        167,
-        60,
-        102,
-        76,
+        173,
+        101,
         128
       ]
     },
     {
-      "clue": "A common female name.",
-      "answer": "stephanie",
-      "answer_letters": "STEPHANIE",
+      "clue": "A small-scale version of an object or scene.",
+      "answer": "miniature",
+      "answer_letters": "MINIATURE",
       "indices": [
-        38,
-        57,
-        130,
-        172,
-        4,
-        46,
-        154,
+        51,
         71,
-        107
+        56,
+        88,
+        42,
+        133,
+        162,
+        151,
+        130
       ]
     },
     {
-      "clue": "Port city in Japan.",
-      "answer": "yokohama",
-      "answer_letters": "YOKOHAMA",
+      "clue": "A sudden occurrence of a disease in a specific location.",
+      "answer": "outbreak",
+      "answer_letters": "OUTBREAK",
       "indices": [
-        177,
-        1,
+        60,
+        140,
+        59,
+        86,
+        33,
+        48,
+        150,
+        104
+      ]
+    },
+    {
+      "clue": "Not on the coast, out to sea.",
+      "answer": "offshore",
+      "answer_letters": "OFFSHORE",
+      "indices": [
+        100,
+        167,
+        14,
+        163,
+        158,
+        97,
+        80,
+        159
+      ]
+    },
+    {
+      "clue": "Scandinavian country known for its fjords and picturesque landscapes.",
+      "answer": "norway",
+      "answer_letters": "NORWAY",
+      "indices": [
+        28,
+        24,
+        176,
+        110,
+        11,
+        30
+      ]
+    },
+    {
+      "clue": "An iconic structure found in St. Louis.",
+      "answer": "gateway",
+      "answer_letters": "GATEWAY",
+      "indices": [
+        119,
+        82,
+        57,
+        164,
+        54,
+        5,
+        67
+      ]
+    },
+    {
+      "clue": "A coastal town in Massachusetts.",
+      "answer": "yarmouth",
+      "answer_letters": "YARMOUTH",
+      "indices": [
+        77,
+        19,
+        112,
+        76,
+        68,
+        32,
+        157,
+        114
+      ]
+    },
+    {
+      "clue": "A mountain range bordering France and Spain.",
+      "answer": "pyrenees",
+      "answer_letters": "PYRENEES",
+      "indices": [
+        129,
+        36,
+        16,
+        35,
+        72,
+        52,
+        127,
+        49
+      ]
+    },
+    {
+      "clue": "Identifying with someone else's feelings.",
+      "answer": "sympathetic",
+      "answer_letters": "SYMPATHETIC",
+      "indices": [
+        84,
+        20,
+        121,
+        172,
+        17,
+        43,
+        143,
+        174,
+        96,
+        117,
+        148
+      ]
+    },
+    {
+      "clue": "A Japanese city located on the east coast of Honshu island.",
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
+      "indices": [
+        99,
+        74,
         25,
         139,
-        143,
-        150,
-        51,
-        19
+        108,
+        94,
+        47,
+        46
       ]
     }
   ],

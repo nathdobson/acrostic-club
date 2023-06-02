@@ -5,294 +5,294 @@
   "source_letters": "LISIHARRISONTHECLIQUE",
   "clues": [
     {
-      "clue": "First or last name of a former US president.",
-      "answer": "lyndon",
-      "answer_letters": "LYNDON",
+      "clue": "Second-most populous city in Pakistan.",
+      "answer": "lahore",
+      "answer_letters": "LAHORE",
       "indices": [
         63,
-        20,
-        66,
-        7,
+        31,
+        176,
         105,
-        114
+        140,
+        34
       ]
     },
     {
-      "clue": "Never changing.",
-      "answer": "invariant",
-      "answer_letters": "INVARIANT",
+      "clue": "Name shared by the first prophet in Islam and a professional footballer.",
+      "answer": "ibrahim",
+      "answer_letters": "IBRAHIM",
       "indices": [
-        145,
-        122,
-        15,
-        156,
-        91,
-        13,
-        138,
-        56,
-        72
-      ]
-    },
-    {
-      "clue": "Official language in Stockholm.",
-      "answer": "swedish",
-      "answer_letters": "SWEDISH",
-      "indices": [
-        41,
-        134,
-        173,
-        9,
-        43,
-        107,
-        112
-      ]
-    },
-    {
-      "clue": "Group of people from the Middle East.",
-      "answer": "israelites",
-      "answer_letters": "ISRAELITES",
-      "indices": [
-        152,
-        106,
-        88,
-        121,
-        57,
-        100,
-        157,
-        160,
-        153,
-        47
-      ]
-    },
-    {
-      "clue": "In need of nourishment.",
-      "answer": "hungry",
-      "answer_letters": "HUNGRY",
-      "indices": [
-        166,
-        164,
-        132,
-        67,
-        162,
-        101
-      ]
-    },
-    {
-      "clue": "A popular TV network in the Philippines.",
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
-      "indices": [
-        46,
-        33,
-        143,
-        103,
+        3,
         30,
-        14
+        76,
+        40,
+        86,
+        62,
+        39
       ]
     },
     {
-      "clue": "A novice or beginner.",
-      "answer": "rookie",
-      "answer_letters": "ROOKIE",
+      "clue": "A popular pub name in England.",
+      "answer": "smith's",
+      "answer_letters": "SMITHS",
       "indices": [
-        170,
-        115,
-        133,
-        48,
-        11,
-        108
+        93,
+        148,
+        117,
+        69,
+        168,
+        150
       ]
     },
     {
-      "clue": "A consistent beat in music.",
+      "clue": "To cross each other.",
+      "answer": "intersect",
+      "answer_letters": "INTERSECT",
+      "indices": [
+        65,
+        66,
+        172,
+        169,
+        54,
+        143,
+        53,
+        103,
+        99
+      ]
+    },
+    {
+      "clue": "Promoting wellness and well-being.",
+      "answer": "healthy",
+      "answer_letters": "HEALTHY",
+      "indices": [
+        98,
+        108,
+        82,
+        1,
+        95,
+        166,
+        28
+      ]
+    },
+    {
+      "clue": "In a foreign country.",
+      "answer": "abroad",
+      "answer_letters": "ABROAD",
+      "indices": [
+        144,
+        33,
+        162,
+        133,
+        90,
+        146
+      ]
+    },
+    {
+      "clue": "A glamorous coastal region popular for its beaches and luxury resorts.",
+      "answer": "riviera",
+      "answer_letters": "RIVIERA",
+      "indices": [
+        91,
+        77,
+        15,
+        16,
+        74,
+        4,
+        156
+      ]
+    },
+    {
+      "clue": "A pattern of beats and accents in music.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        54,
-        110,
-        28,
-        95,
-        73,
+        104,
+        161,
+        101,
+        61,
+        112,
         92
       ]
     },
     {
-      "clue": "Biblical prophet.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "clue": "A medical diagnostic tool used to visualize internal structures of the body.",
+      "answer": "imaging",
+      "answer_letters": "IMAGING",
       "indices": [
-        65,
-        150,
-        40,
-        3,
-        90,
-        79
+        8,
+        119,
+        2,
+        97,
+        152,
+        56,
+        67
       ]
     },
     {
-      "clue": "Having the ability to see.",
-      "answer": "sighted",
-      "answer_letters": "SIGHTED",
+      "clue": "Full of surprise and disbelief.",
+      "answer": "shocked",
+      "answer_letters": "SHOCKED",
       "indices": [
         42,
-        8,
-        97,
-        176,
-        64,
-        44,
-        84
-      ]
-    },
-    {
-      "clue": "Very angry or upset.",
-      "answer": "outraged",
-      "answer_letters": "OUTRAGED",
-      "indices": [
-        127,
-        111,
-        61,
-        104,
-        144,
-        78,
-        34,
-        50
-      ]
-    },
-    {
-      "clue": "A popular 90s action movie character.",
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        83,
-        77,
-        131,
-        96,
-        175,
-        31
-      ]
-    },
-    {
-      "clue": "A winding river in southeast England.",
-      "answer": "thames",
-      "answer_letters": "THAMES",
-      "indices": [
-        99,
-        52,
-        82,
-        39,
-        53,
-        155
-      ]
-    },
-    {
-      "clue": "An act of great courage.",
-      "answer": "heroism",
-      "answer_letters": "HEROISM",
-      "indices": [
-        168,
-        74,
-        4,
+        79,
         25,
-        62,
-        93,
-        27
-      ]
-    },
-    {
-      "clue": "Chosen through democratic means.",
-      "answer": "elected",
-      "answer_letters": "ELECTED",
-      "indices": [
-        141,
-        137,
+        136,
+        48,
         49,
-        58,
-        24,
-        174,
         126
       ]
     },
     {
-      "clue": "A series of links for binding or confining.",
-      "answer": "chains",
-      "answer_letters": "CHAINS",
+      "clue": "Having possession of something.",
+      "answer": "owning",
+      "answer_letters": "OWNING",
       "indices": [
-        0,
-        98,
-        149,
-        124,
-        128,
-        151
+        127,
+        134,
+        132,
+        13,
+        14,
+        165
       ]
     },
     {
-      "clue": "Past tense of observe with eyes.",
-      "answer": "looked",
-      "answer_letters": "LOOKED",
+      "clue": "One who is named after someone else.",
+      "answer": "namesake",
+      "answer_letters": "NAMESAKE",
       "indices": [
-        1,
-        70,
-        21,
-        59,
-        5,
-        109
+        122,
+        121,
+        27,
+        44,
+        107,
+        138,
+        131,
+        87
       ]
     },
     {
-      "clue": "Moved to a new country.",
-      "answer": "immigrated",
-      "answer_letters": "IMMIGRATED",
+      "clue": "Provided instruction.",
+      "answer": "taught",
+      "answer_letters": "TAUGHT",
       "indices": [
+        24,
+        46,
+        164,
+        78,
+        73,
+        175
+      ]
+    },
+    {
+      "clue": "A type of tree commonly associated with a certain southern dish.",
+      "answer": "hickory",
+      "answer_letters": "HICKORY",
+      "indices": [
+        110,
         139,
-        148,
-        119,
-        117,
-        165,
-        76,
-        2,
-        129,
-        37,
+        58,
+        59,
+        163,
+        170,
+        20
+      ]
+    },
+    {
+      "clue": "Wore away gradually, like the Grand Canyon.",
+      "answer": "eroded",
+      "answer_letters": "ERODED",
+      "indices": [
+        120,
+        88,
+        70,
+        7,
+        174,
         158
       ]
     },
     {
-      "clue": "Referred to a source's words.",
+      "clue": "Took the lead position in a meeting or committee.",
+      "answer": "chaired",
+      "answer_letters": "CHAIRED",
+      "indices": [
+        0,
+        52,
+        149,
+        43,
+        32,
+        5,
+        9
+      ]
+    },
+    {
+      "clue": "Small, abnormal areas of tissue damage or disease.",
+      "answer": "lesions",
+      "answer_letters": "LESIONS",
+      "indices": [
+        137,
+        141,
+        47,
+        11,
+        115,
+        83,
+        155
+      ]
+    },
+    {
+      "clue": "Established, as the rules of a new organization.",
+      "answer": "instituted",
+      "answer_letters": "INSTITUTED",
+      "indices": [
+        96,
+        114,
+        41,
+        129,
+        157,
+        80,
+        111,
+        17,
+        153,
+        50
+      ]
+    },
+    {
+      "clue": "Repeating someone's exact words.",
       "answer": "quoted",
       "answer_letters": "QUOTED",
       "indices": [
         35,
         36,
-        163,
-        69,
+        21,
+        64,
         18,
-        146
+        109
       ]
     },
     {
-      "clue": "City in the Netherlands.",
-      "answer": "utrecht",
-      "answer_letters": "UTRECHT",
+      "clue": "The name of an American airline company.",
+      "answer": "united's",
+      "answer_letters": "UNITEDS",
       "indices": [
         22,
-        80,
-        32,
-        169,
-        136,
-        161,
-        17
+        128,
+        124,
+        160,
+        57,
+        84,
+        151
       ]
     },
     {
-      "clue": "One of two.",
-      "answer": "either",
-      "answer_letters": "EITHER",
+      "clue": "Powerful and influential members of a society or group.",
+      "answer": "elites",
+      "answer_letters": "ELITES",
       "indices": [
-        87,
-        16,
-        172,
-        86,
-        120,
-        140
+        37,
+        100,
+        145,
+        72,
+        173,
+        106
       ]
     }
   ],

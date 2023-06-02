@@ -5,296 +5,296 @@
   "source_letters": "HEATHERBURCHHALFLINGS",
   "clues": [
     {
-      "clue": "A spiny mammal.",
-      "answer": "hedgehog",
-      "answer_letters": "HEDGEHOG",
+      "clue": "The sport of pursuing and killing wild animals for food or recreation.",
+      "answer": "hunting",
+      "answer_letters": "HUNTING",
       "indices": [
-        22,
-        43,
-        12,
+        42,
+        18,
+        46,
+        129,
+        104,
+        4,
+        142
+      ]
+    },
+    {
+      "clue": "Adequate to fulfill a need.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        95,
+        60,
+        17,
+        114,
         133,
-        124,
-        15,
+        20
+      ]
+    },
+    {
+      "clue": "Actor who played Gomez Addams in The Addams Family.",
+      "answer": "alfonso",
+      "answer_letters": "ALFONSO",
+      "indices": [
+        71,
+        49,
+        84,
+        27,
+        37,
+        116,
+        57
+      ]
+    },
+    {
+      "clue": "Ideas and reflections in one's mind.",
+      "answer": "thoughts",
+      "answer_letters": "THOUGHTS",
+      "indices": [
+        88,
+        117,
         135,
-        38
+        171,
+        47,
+        15,
+        91,
+        39
       ]
     },
     {
-      "clue": "City in Alberta, Canada.",
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
+      "clue": "Capital city of the Lower Saxony state in Germany.",
+      "answer": "hannover",
+      "answer_letters": "HANNOVER",
       "indices": [
-        11,
-        147,
-        170,
-        144,
-        79,
-        41,
-        31,
-        136
+        103,
+        1,
+        32,
+        105,
+        28,
+        96,
+        124,
+        127
       ]
     },
     {
-      "clue": "Past mistreatment.",
-      "answer": "abused",
-      "answer_letters": "ABUSED",
+      "clue": "Became a soldier by joining the army.",
+      "answer": "enlisted",
+      "answer_letters": "ENLISTED",
       "indices": [
-        166,
-        123,
-        145,
-        6,
+        3,
+        53,
+        10,
+        23,
+        59,
+        107,
         175,
+        162
+      ]
+    },
+    {
+      "clue": "A pattern of beats and accents in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        0,
+        155,
+        81,
+        76,
+        63,
+        170
+      ]
+    },
+    {
+      "clue": "A notorious aircraft used in warfare.",
+      "answer": "bomber",
+      "answer_letters": "BOMBER",
+      "indices": [
+        173,
+        52,
+        165,
+        123,
+        93,
+        143
+      ]
+    },
+    {
+      "clue": "The highest level; Bruce Lee's nickname.",
+      "answer": "ultimate",
+      "answer_letters": "ULTIMATE",
+      "indices": [
+        160,
+        30,
+        151,
+        131,
+        70,
+        45,
+        154,
+        48
+      ]
+    },
+    {
+      "clue": "Done in a hurry.",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
+      "indices": [
+        16,
+        64,
+        89,
+        68,
+        156,
+        12
+      ]
+    },
+    {
+      "clue": "TV game show hosted by Jeff Stelling.",
+      "answer": "countdown",
+      "answer_letters": "COUNTDOWN",
+      "indices": [
+        167,
+        118,
+        145,
+        72,
+        138,
+        121,
+        8,
+        126,
+        110
+      ]
+    },
+    {
+      "clue": "Empty inside, like Ichabod Crane's pumpkin.",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        92,
+        159,
+        80,
+        174,
+        144,
+        149
+      ]
+    },
+    {
+      "clue": "Scottish geologist who proposed the theory of uniformitarianism.",
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
+      "indices": [
+        139,
+        69,
+        41,
+        14,
+        113,
+        132
+      ]
+    },
+    {
+      "clue": "Taken against their will, like the Betty and Barney Hill incident.",
+      "answer": "abducted",
+      "answer_letters": "ABDUCTED",
+      "indices": [
+        83,
+        35,
+        147,
+        119,
+        87,
+        66,
+        11,
+        56
+      ]
+    },
+    {
+      "clue": "Made less high.",
+      "answer": "lowered",
+      "answer_letters": "LOWERED",
+      "indices": [
+        120,
+        78,
+        100,
+        43,
+        65,
+        58,
         176
       ]
     },
     {
-      "clue": "The current evening.",
-      "answer": "tonight",
-      "answer_letters": "TONIGHT",
+      "clue": "Engages in physical altercations.",
+      "answer": "fights",
+      "answer_letters": "FIGHTS",
       "indices": [
+        85,
+        150,
+        38,
+        108,
         26,
-        8,
-        146,
-        101,
-        47,
-        117,
-        14
+        73
       ]
     },
     {
-      "clue": "Australian tennis player and former world No. 1.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "clue": "Private research university located in Pennsylvania.",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
-        68,
-        93,
-        9,
-        75,
-        76,
-        91
-      ]
-    },
-    {
-      "clue": "A gift of financial resources.",
-      "answer": "endowment",
-      "answer_letters": "ENDOWMENT",
-      "indices": [
-        3,
-        32,
-        162,
-        17,
-        149,
-        165,
-        156,
-        53,
-        66
-      ]
-    },
-    {
-      "clue": "Entitlements that cannot be taken away.",
-      "answer": "rights",
-      "answer_letters": "RIGHTS",
-      "indices": [
-        127,
-        131,
-        142,
+        98,
+        140,
         152,
+        128,
+        33,
+        130
+      ]
+    },
+    {
+      "clue": "Reveals of valuable knowledge or understanding.",
+      "answer": "insights",
+      "answer_letters": "INSIGHTS",
+      "indices": [
+        101,
+        146,
+        6,
+        97,
+        54,
+        22,
         61,
         51
       ]
     },
     {
-      "clue": "Fellow members of a group or organization.",
-      "answer": "brethren",
-      "answer_letters": "BRETHREN",
+      "clue": "Someone who is inexperienced or new to a particular activity or skill.",
+      "answer": "novice",
+      "answer_letters": "NOVICE",
       "indices": [
-        35,
-        16,
-        95,
-        154,
-        155,
-        143,
-        58,
-        4
-      ]
-    },
-    {
-      "clue": "Without a name.",
-      "answer": "untitled",
-      "answer_letters": "UNTITLED",
-      "indices": [
-        119,
-        110,
-        107,
-        150,
-        151,
-        10,
-        140,
-        56
-      ]
-    },
-    {
-      "clue": "Regular patterns of beats.",
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        65,
-        139,
-        81,
-        88,
-        92,
-        172,
-        39
-      ]
-    },
-    {
-      "clue": "Religious institution's.",
-      "answer": "church's",
-      "answer_letters": "CHURCHS",
-      "indices": [
-        167,
-        108,
-        114,
-        0,
-        7,
-        63,
-        73
-      ]
-    },
-    {
-      "clue": "An empty space.",
-      "answer": "hollow",
-      "answer_letters": "HOLLOW",
-      "indices": [
-        103,
-        57,
-        174,
-        120,
-        52,
-        126
-      ]
-    },
-    {
-      "clue": "A street in North London.",
-      "answer": "holloway",
-      "answer_letters": "HOLLOWAY",
-      "indices": [
-        130,
-        118,
-        30,
-        80,
-        78,
-        100,
-        1,
-        112
-      ]
-    },
-    {
-      "clue": "Tending to harm or mistreat others.",
-      "answer": "abusive",
-      "answer_letters": "ABUSIVE",
-      "indices": [
-        36,
-        173,
-        160,
-        116,
-        128,
+        79,
+        31,
         2,
-        48
+        75,
+        7,
+        168
       ]
     },
     {
-      "clue": "A comfortable area to relax.",
-      "answer": "lounge",
-      "answer_letters": "LOUNGE",
+      "clue": "Athlete who performs acrobatic feats on a mat or apparatus.",
+      "answer": "gymnast",
+      "answer_letters": "GYMNAST",
       "indices": [
-        49,
-        159,
-        18,
-        105,
-        54,
-        109
-      ]
-    },
-    {
-      "clue": "A program's purpose or task.",
-      "answer": "function",
-      "answer_letters": "FUNCTION",
-      "indices": [
-        84,
-        69,
-        46,
-        87,
-        129,
-        97,
-        27,
-        37
-      ]
-    },
-    {
-      "clue": "A Belgian city.",
-      "answer": "leuven",
-      "answer_letters": "LEUVEN",
-      "indices": [
-        98,
-        86,
-        171,
-        96,
-        168,
-        72
-      ]
-    },
-    {
-      "clue": "City in Iran known for its Islamic architecture.",
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        104,
-        24,
-        85,
-        83,
-        42,
-        45,
-        132
-      ]
-    },
-    {
-      "clue": "A time when stars shine.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        60,
-        23,
         19,
-        158,
-        138,
-        163
-      ]
-    },
-    {
-      "clue": "A city loved by Batman.",
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
-      "indices": [
-        33,
-        113,
-        102,
-        20,
-        71,
-        70
-      ]
-    },
-    {
-      "clue": "Vibrations that can be heard.",
-      "answer": "sounds",
-      "answer_letters": "SOUNDS",
-      "indices": [
-        89,
-        28,
-        64,
+        112,
+        172,
         161,
-        121,
-        59
+        36,
+        163,
+        102
+      ]
+    },
+    {
+      "clue": "Native American tribe from the Great Plains.",
+      "answer": "shawnee",
+      "answer_letters": "SHAWNEE",
+      "indices": [
+        24,
+        158,
+        166,
+        9,
+        136,
+        86,
+        109
       ]
     }
   ],

@@ -1,301 +1,301 @@
 {
   "quote": "It was impossible to get the Dimitri and Tasha thing out of my head, but at least packing and getting ready made sure I didn't devote 100 percent of my brain power to him. More like 95 percent.",
-  "quote_letters": "IT WAS IMPOSSIBLE TO GET THE DIMITRI AND TASHA THING OUT OF MY HEAD BUT AT LEAST PACKING AND GETTING READY MADE SURE I DIDNT DEVOTE  PERCENT OF MY BRAIN POWER TO HIM MORE LIKE  PERCENT",
+  "quote_letters": "IT WAS IMPOSSIBLE TO GET THE DIMITRI AND TASHA THING OUT OF MY HEAD BUT AT LEAST PACKING AND GETTING READY MADE SURE I DIDNT DEVOTE '1''0''0' PERCENT OF MY BRAIN POWER TO HIM MORE LIKE '9''5' PERCENT",
   "source": "Richelle Mead, Frostbite",
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "A thin strip of fabric used for decoration or gift wrapping.",
-      "answer": "ribbon",
-      "answer_letters": "RIBBON",
+      "clue": "An ethnic group with origins in the Indian subcontinent.",
+      "answer": "romani",
+      "answer_letters": "ROMANI",
       "indices": [
-        179,
-        13,
-        147,
-        68,
-        57,
-        50
+        114,
+        53,
+        153,
+        158,
+        98,
+        32
       ]
     },
     {
-      "clue": "Biblical prophet.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "clue": "Peninsula in Europe that encompasses Spain and Portugal.",
+      "answer": "iberia",
+      "answer_letters": "IBERIA",
       "indices": [
-        120,
-        78,
-        108,
         30,
-        45,
-        162
+        68,
+        22,
+        101,
+        85,
+        72
       ]
     },
     {
-      "clue": "Skilled and capable.",
-      "answer": "competent",
-      "answer_letters": "COMPETENT",
+      "clue": "Past tense of capture.",
+      "answer": "caught",
+      "answer_letters": "CAUGHT",
       "indices": [
         83,
-        167,
-        31,
-        133,
-        22,
-        70,
-        156,
-        138,
-        23
+        65,
+        113,
+        93,
+        48,
+        95
       ]
     },
     {
-      "clue": "An unlawful killing of a person.",
-      "answer": "homicide",
-      "answer_letters": "HOMICIDE",
+      "clue": "A place where doctors and nurses care for sick and injured patients.",
+      "answer": "hospital",
+      "answer_letters": "HOSPITAL",
       "indices": [
-        63,
-        10,
-        60,
-        0,
-        180,
-        7,
-        39,
-        181
-      ]
-    },
-    {
-      "clue": "A traditional male name.",
-      "answer": "edward",
-      "answer_letters": "EDWARD",
-      "indices": [
-        110,
-        121,
-        155,
-        4,
-        101,
-        125
-      ]
-    },
-    {
-      "clue": "Paid attention to sound.",
-      "answer": "listened",
-      "answer_letters": "LISTENED",
-      "indices": [
-        75,
+        26,
         150,
-        43,
-        95,
-        137,
-        122,
-        102,
-        66
+        12,
+        192,
+        35,
+        41,
+        4,
+        75
       ]
     },
     {
-      "clue": "The act of making something descend.",
-      "answer": "lowering",
-      "answer_letters": "LOWERING",
+      "clue": "A rough calculation or guess.",
+      "answer": "estimate",
+      "answer_letters": "ESTIMATE",
+      "indices": [
+        102,
+        43,
+        129,
+        97,
+        60,
+        82,
+        23,
+        196
+      ]
+    },
+    {
+      "clue": "Historic region in southeast Scotland.",
+      "answer": "lothian",
+      "answer_letters": "LOTHIAN",
+      "indices": [
+        180,
+        163,
+        148,
+        171,
+        117,
+        37,
+        38
+      ]
+    },
+    {
+      "clue": "Joined together in a chain or network.",
+      "answer": "linked",
+      "answer_letters": "LINKED",
       "indices": [
         15,
-        53,
-        3,
-        115,
-        168,
-        117,
-        98,
+        0,
+        197,
+        182,
+        178,
+        109
+      ]
+    },
+    {
+      "clue": "Refining written work.",
+      "answer": "editing",
+      "answer_letters": "EDITING",
+      "indices": [
+        130,
+        104,
+        7,
+        79,
+        120,
+        147,
         21
       ]
     },
     {
-      "clue": "Let out or produced.",
-      "answer": "emitted",
-      "answer_letters": "EMITTED",
+      "clue": "A bustling place of commerce.",
+      "answer": "market",
+      "answer_letters": "MARKET",
       "indices": [
-        64,
-        164,
-        163,
-        33,
-        183,
-        76,
-        104
-      ]
-    },
-    {
-      "clue": "A bustling island borough.",
-      "answer": "manhattan",
-      "answer_letters": "MANHATTAN",
-      "indices": [
-        8,
-        72,
-        151,
-        26,
-        37,
-        41,
-        55,
-        65,
-        90
-      ]
-    },
-    {
-      "clue": "Committed to be married.",
-      "answer": "engaged",
-      "answer_letters": "ENGAGED",
-      "indices": [
-        178,
-        86,
-        99,
-        42,
-        93,
-        94,
-        29
-      ]
-    },
-    {
-      "clue": "Noted mystery novelist.",
-      "answer": "agatha",
-      "answer_letters": "AGATHA",
-      "indices": [
-        77,
-        51,
-        89,
-        139,
-        48,
-        149
-      ]
-    },
-    {
-      "clue": "An underwater sport.",
-      "answer": "diving",
-      "answer_letters": "DIVING",
-      "indices": [
-        109,
-        49,
-        127,
-        32,
-        182,
-        87
-      ]
-    },
-    {
-      "clue": "With a decided and unyielding attitude.",
-      "answer": "firmly",
-      "answer_letters": "FIRMLY",
-      "indices": [
-        142,
-        85,
-        148,
-        144,
-        171,
-        145
-      ]
-    },
-    {
-      "clue": "A high platform on a building.",
-      "answer": "rooftop",
-      "answer_letters": "ROOFTOP",
-      "indices": [
-        157,
-        160,
-        154,
-        58,
-        123,
-        19,
-        153
-      ]
-    },
-    {
-      "clue": "The beginning or starting point.",
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
-        128,
-        54,
-        18,
-        5,
-        169,
-        47
-      ]
-    },
-    {
-      "clue": "Arranged in a vertical formation.",
-      "answer": "stacked",
-      "answer_letters": "STACKED",
-      "indices": [
-        12,
-        79,
-        82,
-        136,
         173,
-        16,
-        91
+        108,
+        177,
+        84,
+        146,
+        55
       ]
     },
     {
-      "clue": "A former president's possession.",
-      "answer": "trump's",
-      "answer_letters": "TRUMPS",
+      "clue": "Past tense of imagine or conceive.",
+      "answer": "envisaged",
+      "answer_letters": "ENVISAGED",
       "indices": [
-        73,
-        135,
-        69,
-        107,
-        9,
-        112
+        110,
+        160,
+        127,
+        181,
+        112,
+        42,
+        99,
+        115,
+        125
       ]
     },
     {
-      "clue": "Famous Hollywood family name.",
-      "answer": "beatty",
-      "answer_letters": "BEATTY",
+      "clue": "An institution for higher learning and research.",
+      "answer": "academy",
+      "answer_letters": "ACADEMY",
       "indices": [
-        14,
-        126,
-        103,
-        96,
-        1,
+        89,
+        195,
+        77,
+        39,
+        143,
+        8,
         105
       ]
     },
     {
-      "clue": "Confined and locked away.",
-      "answer": "imprisoned",
-      "answer_letters": "IMPRISONED",
+      "clue": "Method used to enhance athletic performance, famously used by Lance Armstrong.",
+      "answer": "doping",
+      "answer_letters": "DOPING",
       "indices": [
-        35,
-        166,
-        81,
-        34,
-        172,
-        11,
-        141,
-        38,
-        27,
-        119
+        66,
+        169,
+        9,
+        49,
+        86,
+        87
       ]
     },
     {
-      "clue": "A bird commonly served for Thanksgiving dinner.",
-      "answer": "turkey",
-      "answer_letters": "TURKEY",
+      "clue": "County in Pennsylvania known for its coal mining history.",
+      "answer": "fayette",
+      "answer_letters": "FAYETTE",
       "indices": [
-        159,
-        113,
-        114,
-        84,
-        174,
-        61
+        58,
+        45,
+        61,
+        64,
+        168,
+        123,
+        76
       ]
     },
     {
-      "clue": "A descriptive nickname or term.",
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "clue": "An Anglican priest in charge of a parish.",
+      "answer": "rector",
+      "answer_letters": "RECTOR",
       "indices": [
-        134,
-        177,
-        97,
+        157,
+        193,
+        145,
         25,
+        19,
+        144
+      ]
+    },
+    {
+      "clue": "Neutral mediator for disputes or complaints.",
+      "answer": "ombudsman",
+      "answer_letters": "OMBUDSMAN",
+      "indices": [
+        128,
+        175,
+        14,
+        69,
+        119,
+        5,
+        107,
+        103,
+        50
+      ]
+    },
+    {
+      "clue": "Moved up or down, one foot at a time.",
+      "answer": "stepped",
+      "answer_letters": "STEPPED",
+      "indices": [
+        11,
+        96,
+        183,
+        81,
+        142,
+        165,
+        29
+      ]
+    },
+    {
+      "clue": "The century we are currently in.",
+      "answer": "twenty-first",
+      "answer_letters": "TWENTYFIRST",
+      "indices": [
+        73,
+        3,
+        94,
+        122,
+        70,
+        154,
+        151,
+        159,
+        166,
+        78,
+        33
+      ]
+    },
+    {
+      "clue": "Lawyer and author who wrote the novel \"The Da Vinci Code\".",
+      "answer": "browne",
+      "answer_letters": "BROWNE",
+      "indices": [
+        156,
+        34,
+        57,
+        164,
+        90,
+        27
+      ]
+    },
+    {
+      "clue": "The act of bringing in goods from another country.",
+      "answer": "import",
+      "answer_letters": "IMPORT",
+      "indices": [
+        172,
+        31,
+        162,
+        176,
+        194,
+        47
+      ]
+    },
+    {
+      "clue": "An idea.",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        1,
         44,
-        130,
-        129
+        10,
+        54,
+        51,
+        63,
+        18
+      ]
+    },
+    {
+      "clue": "Made changes to written work.",
+      "answer": "edited",
+      "answer_letters": "EDITED",
+      "indices": [
+        126,
+        91,
+        13,
+        198,
+        16,
+        121
       ]
     }
   ],

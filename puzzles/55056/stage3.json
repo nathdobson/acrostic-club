@@ -5,294 +5,294 @@
   "source_letters": "RACHELVANDYKENTHEBET",
   "clues": [
     {
-      "clue": "Direct the traffic or send something to a different destination.",
-      "answer": "routed",
-      "answer_letters": "ROUTED",
+      "clue": "Published again, like a famous album from musician **Prince**.",
+      "answer": "reissued",
+      "answer_letters": "REISSUED",
       "indices": [
-        34,
-        149,
-        80,
-        96,
-        129,
-        160
+        30,
+        21,
+        74,
+        37,
+        10,
+        173,
+        112,
+        114
       ]
     },
     {
-      "clue": "Despite everything.",
+      "clue": "However nonetheless.",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        145,
-        68,
-        44,
+        92,
+        58,
+        171,
         151,
-        36,
-        61
+        110,
+        78
       ]
     },
     {
-      "clue": "A self-service dining area.",
-      "answer": "cafeteria",
-      "answer_letters": "CAFETERIA",
+      "clue": "Covered with a layer of paint or another substance.",
+      "answer": "coated",
+      "answer_letters": "COATED",
       "indices": [
-        52,
-        141,
-        28,
-        2,
-        59,
-        35,
-        49,
-        177,
-        183
+        12,
+        53,
+        107,
+        123,
+        89,
+        120
       ]
     },
     {
-      "clue": "A virtue highly esteemed.",
-      "answer": "honour",
-      "answer_letters": "HONOUR",
+      "clue": "A period of peak success or popularity.",
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
       "indices": [
-        73,
-        121,
-        54,
-        64,
-        46,
-        174
+        140,
+        179,
+        61,
+        76,
+        113,
+        162
       ]
     },
     {
-      "clue": "A vertical transport device.",
-      "answer": "elevator",
-      "answer_letters": "ELEVATOR",
+      "clue": "To assess something's worth or significance.",
+      "answer": "evaluate",
+      "answer_letters": "EVALUATE",
       "indices": [
-        133,
-        63,
-        103,
+        72,
         168,
-        57,
-        101,
-        65,
-        93
+        32,
+        14,
+        84,
+        36,
+        19,
+        103
       ]
     },
     {
-      "clue": "Those who support a particular cause or person with unwavering devotion.",
-      "answer": "loyalists",
-      "answer_letters": "LOYALISTS",
+      "clue": "Jesuit saint and founder of the Society of Jesus.",
+      "answer": "loyola",
+      "answer_letters": "LOYOLA",
       "indices": [
-        159,
-        98,
-        153,
-        187,
         15,
-        167,
-        37,
-        19,
+        98,
+        82,
+        79,
+        63,
+        145
+      ]
+    },
+    {
+      "clue": "A measure of electric potential energy.",
+      "answer": "voltage",
+      "answer_letters": "VOLTAGE",
+      "indices": [
+        128,
+        157,
+        166,
+        139,
+        57,
+        69,
+        35
+      ]
+    },
+    {
+      "clue": "Hopes and dreams for the future.",
+      "answer": "aspirations",
+      "answer_letters": "ASPIRATIONS",
+      "indices": [
+        187,
+        55,
+        4,
+        9,
+        85,
+        5,
+        7,
+        177,
+        117,
+        122,
+        148
+      ]
+    },
+    {
+      "clue": "French general and emperor.",
+      "answer": "napoleon's",
+      "answer_letters": "NAPOLEONS",
+      "indices": [
+        68,
+        48,
+        23,
+        64,
+        159,
+        94,
+        149,
+        39,
         90
       ]
     },
     {
-      "clue": "A place of grape cultivation.",
-      "answer": "vineyards",
-      "answer_letters": "VINEYARDS",
+      "clue": "An entrance into a new space.",
+      "answer": "doorway",
+      "answer_letters": "DOORWAY",
       "indices": [
-        128,
-        41,
-        75,
-        94,
-        82,
-        113,
-        126,
-        125,
-        10
-      ]
-    },
-    {
-      "clue": "On land after being at sea.",
-      "answer": "ashore",
-      "answer_letters": "ASHORE",
-      "indices": [
-        107,
-        55,
-        152,
-        83,
-        30,
-        179
-      ]
-    },
-    {
-      "clue": "Caught with a mesh.",
-      "answer": "netted",
-      "answer_letters": "NETTED",
-      "indices": [
-        99,
-        16,
-        131,
-        123,
-        21,
-        76
-      ]
-    },
-    {
-      "clue": "A phrase describing regular occurrences.",
-      "answer": "day-to-day",
-      "answer_letters": "DAYTODAY",
-      "indices": [
-        114,
-        32,
-        88,
-        184,
-        79,
         17,
-        110,
+        38,
+        45,
+        174,
+        186,
+        24,
         146
       ]
     },
     {
-      "clue": "Energetic and sprightly.",
+      "clue": "Having the energy and vigor of a young person.",
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
-        78,
-        38,
-        84,
-        181,
-        102,
-        42,
-        158,
-        60
+        44,
+        172,
+        118,
+        96,
+        156,
+        178,
+        80,
+        176
       ]
     },
     {
-      "clue": "A person from a country in East Africa.",
-      "answer": "kenyan",
-      "answer_letters": "KENYAN",
+      "clue": "Third largest island in Japan.",
+      "answer": "kyushu",
+      "answer_letters": "KYUSHU",
       "indices": [
         66,
-        169,
-        95,
-        116,
-        5,
-        58
+        153,
+        46,
+        6,
+        111,
+        158
       ]
     },
     {
-      "clue": "A country in East Africa.",
-      "answer": "ethiopia",
-      "answer_letters": "ETHIOPIA",
+      "clue": "A strenuous attempt.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
         87,
-        26,
-        1,
-        127,
-        106,
-        4,
-        74,
-        136
+        28,
+        42,
+        29,
+        126,
+        26
       ]
     },
     {
-      "clue": "At present time.",
-      "answer": "nowadays",
-      "answer_letters": "NOWADAYS",
+      "clue": "Deserving of attention.",
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
       "indices": [
-        39,
-        117,
+        95,
+        121,
+        56,
+        16,
         144,
-        48,
-        108,
-        92,
-        162,
-        6
-      ]
-    },
-    {
-      "clue": "Points scored in football games.",
-      "answer": "touchdowns",
-      "answer_letters": "TOUCHDOWNS",
-      "indices": [
-        7,
-        157,
-        164,
-        135,
-        182,
-        120,
-        172,
-        186,
-        122,
-        155
-      ]
-    },
-    {
-      "clue": "A time period of 30 minutes.",
-      "answer": "half-hour",
-      "answer_letters": "HALFHOUR",
-      "indices": [
-        111,
-        13,
-        166,
-        178,
-        156,
-        45,
-        173,
-        85
-      ]
-    },
-    {
-      "clue": "A descriptive nickname or term.",
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        72,
-        23,
-        9,
+        163,
+        49,
         0,
-        140,
-        112,
-        142
+        20,
+        88
       ]
     },
     {
-      "clue": "A circular courtyard surrounded by a defensive wall.",
-      "answer": "bailey",
-      "answer_letters": "BAILEY",
+      "clue": "A powerful and destructive weather phenomenon.",
+      "answer": "tornado",
+      "answer_letters": "TORNADO",
       "indices": [
-        71,
-        24,
-        67,
-        14,
-        50,
+        181,
+        106,
+        93,
+        54,
+        13,
+        160,
+        83
+      ]
+    },
+    {
+      "clue": "A structure of individuals or groups ranked according to authority.",
+      "answer": "hierarchy",
+      "answer_letters": "HIERARCHY",
+      "indices": [
+        132,
+        167,
+        133,
+        137,
+        183,
+        105,
+        135,
+        1,
         188
       ]
     },
     {
-      "clue": "People who accompany someone for a particular purpose.",
-      "answer": "escorts",
-      "answer_letters": "ESCORTS",
+      "clue": "A person's cultural background.",
+      "answer": "ethnicity",
+      "answer_letters": "ETHNICITY",
       "indices": [
-        89,
-        148,
-        12,
-        163,
-        137,
-        139,
-        25
+        129,
+        101,
+        102,
+        75,
+        67,
+        52,
+        41,
+        142,
+        116
       ]
     },
     {
-      "clue": "In a complete and exhaustive manner.",
-      "answer": "thoroughly",
-      "answer_letters": "THOROUGHLY",
+      "clue": "Follower of the teachings of Siddhartha Gautama.",
+      "answer": "buddhist",
+      "answer_letters": "BUDDHIST",
       "indices": [
-        56,
-        132,
-        29,
-        105,
-        53,
-        118,
-        69,
-        20,
-        176,
-        171
+        71,
+        164,
+        125,
+        108,
+        182,
+        127,
+        155,
+        59
+      ]
+    },
+    {
+      "clue": "A clear liquid often used as a fuel.",
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
+      "indices": [
+        169,
+        131,
+        73,
+        136,
+        99,
+        65,
+        60
+      ]
+    },
+    {
+      "clue": "A former prime minister of the United Kingdom.",
+      "answer": "theresa",
+      "answer_letters": "THERESA",
+      "indices": [
+        184,
+        152,
+        50,
+        34,
+        2,
+        25,
+        141
       ]
     }
   ],

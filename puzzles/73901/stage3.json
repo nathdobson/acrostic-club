@@ -5,283 +5,283 @@
   "source_letters": "DAVIDNICHOLLSONEDAY",
   "clues": [
     {
-      "clue": "Distinguish one thing from another.",
-      "answer": "differentiate",
-      "answer_letters": "DIFFERENTIATE",
+      "clue": "Funds put into a bank account.",
+      "answer": "deposits",
+      "answer_letters": "DEPOSITS",
       "indices": [
-        120,
-        155,
-        44,
-        153,
-        175,
-        93,
-        9,
-        157,
-        123,
-        107,
-        133,
-        91,
-        92
-      ]
-    },
-    {
-      "clue": "Later on.",
-      "answer": "afterwards",
-      "answer_letters": "AFTERWARDS",
-      "indices": [
-        18,
-        42,
-        86,
-        156,
-        131,
-        95,
-        126,
-        49,
         110,
-        57
-      ]
-    },
-    {
-      "clue": "The number of people watching a program.",
-      "answer": "viewership",
-      "answer_letters": "VIEWERSHIP",
-      "indices": [
-        176,
-        161,
-        32,
-        28,
-        177,
-        4,
-        136,
-        53,
-        138,
-        162
-      ]
-    },
-    {
-      "clue": "A small arthropod with six legs.",
-      "answer": "insect",
-      "answer_letters": "INSECT",
-      "indices": [
-        114,
-        10,
-        127,
-        24,
-        139,
-        66
-      ]
-    },
-    {
-      "clue": "Higher beings in various religions.",
-      "answer": "deities",
-      "answer_letters": "DEITIES",
-      "indices": [
-        11,
-        59,
-        85,
-        73,
-        122,
-        118,
+        9,
+        82,
+        165,
+        12,
+        135,
+        170,
         65
       ]
     },
     {
-      "clue": "Printed publications with current events and stories.",
-      "answer": "newspapers",
-      "answer_letters": "NEWSPAPERS",
+      "clue": "Opposed to military conflict or aggression.",
+      "answer": "anti-war",
+      "answer_letters": "ANTIWAR",
       "indices": [
-        115,
-        2,
-        125,
-        116,
-        146,
-        90,
-        76,
-        132,
-        174,
-        159
-      ]
-    },
-    {
-      "clue": "To fill with motivation and encouragement.",
-      "answer": "inspire",
-      "answer_letters": "INSPIRE",
-      "indices": [
-        64,
-        78,
-        19,
-        15,
-        14,
-        7,
-        112
-      ]
-    },
-    {
-      "clue": "A bustling Indian metropolis.",
-      "answer": "chennai",
-      "answer_letters": "CHENNAI",
-      "indices": [
-        38,
-        39,
-        144,
-        130,
-        62,
-        26,
-        3
-      ]
-    },
-    {
-      "clue": "Australian tennis player and former world No. 1.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        58,
-        147,
-        84,
-        77,
-        101,
-        117
-      ]
-    },
-    {
-      "clue": "An ensemble of clothing.",
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
-      "indices": [
-        165,
-        129,
-        164,
-        6,
+        168,
+        37,
+        86,
         61,
+        89,
+        151,
+        131
+      ]
+    },
+    {
+      "clue": "Unknowns in math equations.",
+      "answer": "variables",
+      "answer_letters": "VARIABLES",
+      "indices": [
+        176,
+        26,
+        4,
+        22,
+        18,
+        35,
+        134,
+        175,
+        19
+      ]
+    },
+    {
+      "clue": "Extensive or thorough investigation and analysis.",
+      "answer": "in-depth",
+      "answer_letters": "INDEPTH",
+      "indices": [
+        3,
+        157,
+        33,
+        156,
+        146,
+        31,
+        96
+      ]
+    },
+    {
+      "clue": "Not easy to accomplish.",
+      "answer": "difficult",
+      "answer_letters": "DIFFICULT",
+      "indices": [
+        120,
+        29,
+        44,
+        42,
+        8,
+        38,
+        36,
+        45,
         55
       ]
     },
     {
-      "clue": "Birthplace of American Industrial Revolution.",
-      "answer": "lowell",
-      "answer_letters": "LOWELL",
+      "clue": "The son of your sibling.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
-        30,
-        74,
-        17,
-        104,
-        167,
-        134
+        99,
+        32,
+        15,
+        39,
+        112,
+        17
       ]
     },
     {
-      "clue": "Title of a nobleman.",
-      "answer": "lordship",
-      "answer_letters": "LORDSHIP",
+      "clue": "Football plays that thwart passing attempts.",
+      "answer": "interceptions",
+      "answer_letters": "INTERCEPTIONS",
       "indices": [
-        103,
-        70,
-        178,
-        158,
-        169,
-        87,
-        135,
-        82
-      ]
-    },
-    {
-      "clue": "A town in Greater Manchester, England.",
-      "answer": "stockport",
-      "answer_letters": "STOCKPORT",
-      "indices": [
-        12,
-        0,
-        41,
-        148,
-        23,
-        75,
-        46,
-        154,
-        141
-      ]
-    },
-    {
-      "clue": "A drainage.",
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        100,
-        81,
-        137,
-        172,
-        45,
-        142,
-        47
-      ]
-    },
-    {
-      "clue": "A male given name.",
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        71,
-        151,
+        107,
+        115,
         52,
-        160,
-        119,
-        99
-      ]
-    },
-    {
-      "clue": "Put on display.",
-      "answer": "exhibited",
-      "answer_letters": "EXHIBITED",
-      "indices": [
+        92,
+        174,
+        139,
         67,
-        145,
-        96,
-        8,
-        35,
-        22,
-        31,
-        48,
-        33
-      ]
-    },
-    {
-      "clue": "A character from The Office.",
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        68,
-        89,
-        111,
-        79,
-        1,
-        108
-      ]
-    },
-    {
-      "clue": "Mythical sunken city.",
-      "answer": "atlantis",
-      "answer_letters": "ATLANTIS",
-      "indices": [
-        168,
-        105,
-        21,
-        54,
-        37,
-        170,
-        29,
+        162,
+        117,
+        14,
+        74,
+        71,
         63
       ]
     },
     {
-      "clue": "Adolescents and teenagers.",
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "clue": "A freshwater fish with whisker-like barbels around its mouth.",
+      "answer": "catfish",
+      "answer_letters": "CATFISH",
+      "indices": [
+        148,
+        119,
+        91,
+        6,
+        85,
+        127,
+        160
+      ]
+    },
+    {
+      "clue": "Tennis player who won the US Open in 2001.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        1,
+        104,
+        84,
+        122,
+        123,
+        101
+      ]
+    },
+    {
+      "clue": "A conjunction meaning \"in a different way\".",
+      "answer": "otherwise",
+      "answer_letters": "OTHERWISE",
+      "indices": [
+        70,
+        0,
+        13,
+        59,
+        154,
+        125,
+        111,
+        50,
+        144
+      ]
+    },
+    {
+      "clue": "Private research university located in Pennsylvania.",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        103,
+        24,
+        87,
+        155,
+        79,
+        58
+      ]
+    },
+    {
+      "clue": "Conforming to the rules or regulations of a society.",
+      "answer": "lawful",
+      "answer_letters": "LAWFUL",
+      "indices": [
+        30,
+        54,
+        28,
+        172,
+        129,
+        21
+      ]
+    },
+    {
+      "clue": "Person responsible for the comfort and safety of passengers on an airplane.",
+      "answer": "steward",
+      "answer_letters": "STEWARD",
+      "indices": [
+        57,
+        105,
+        48,
+        47,
+        126,
+        178,
+        68
+      ]
+    },
+    {
+      "clue": "The position played by baseball player Joe DiMaggio.",
+      "answer": "outfield",
+      "answer_letters": "OUTFIELD",
+      "indices": [
+        173,
+        81,
+        141,
+        153,
+        114,
+        132,
+        167,
+        158
+      ]
+    },
+    {
+      "clue": "Direction in which Seattle, WA is located.",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
+      "indices": [
+        130,
+        41,
+        7,
+        73,
+        53,
+        95,
+        2,
+        116,
+        66
+      ]
+    },
+    {
+      "clue": "To be present or have being.",
+      "answer": "exists",
+      "answer_letters": "EXISTS",
+      "indices": [
+        177,
+        145,
+        64,
+        136,
+        137,
+        169
+      ]
+    },
+    {
+      "clue": "A place of arrival.",
+      "answer": "destination",
+      "answer_letters": "DESTINATION",
+      "indices": [
+        11,
+        147,
+        159,
+        108,
+        138,
+        10,
+        90,
+        149,
+        161,
+        46,
+        62
+      ]
+    },
+    {
+      "clue": "Give an official job or task to someone.",
+      "answer": "appoint",
+      "answer_letters": "APPOINT",
+      "indices": [
+        133,
+        75,
+        76,
+        100,
+        77,
+        78,
+        164
+      ]
+    },
+    {
+      "clue": "A type of delivery in cricket.",
+      "answer": "yorker",
+      "answer_letters": "YORKER",
       "indices": [
         97,
-        173,
-        36,
-        149,
-        13,
-        50
+        142,
+        49,
+        23,
+        118,
+        93
       ]
     }
   ],

@@ -5,284 +5,284 @@
   "source_letters": "YANNMARTELLIFEOFPI",
   "clues": [
     {
-      "clue": "A Japanese naval base.",
-      "answer": "yokosuka",
-      "answer_letters": "YOKOSUKA",
+      "clue": "A video-sharing platform.",
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
       "indices": [
         71,
-        11,
-        48,
-        188,
-        145,
-        38,
-        95,
-        67
+        21,
+        34,
+        74,
+        181,
+        15,
+        105
       ]
     },
     {
-      "clue": "A popular TV network in the Philippines.",
-      "answer": "abs-cbn",
-      "answer_letters": "ABSCBN",
+      "clue": "Former Prime Minister of Australia.",
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
       "indices": [
-        61,
-        161,
-        35,
-        135,
-        113,
-        171
-      ]
-    },
-    {
-      "clue": "A male given name.",
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        22,
-        96,
+        67,
+        37,
+        87,
+        177,
         186,
-        1,
-        24,
-        47
+        83
       ]
     },
     {
-      "clue": "An alert message.",
-      "answer": "notification",
-      "answer_letters": "NOTIFICATION",
+      "clue": "Easy to perceive.",
+      "answer": "noticeable",
+      "answer_letters": "NOTICEABLE",
       "indices": [
-        178,
-        156,
-        152,
-        173,
-        131,
+        189,
+        52,
+        10,
         118,
         147,
-        88,
-        74,
-        20,
-        33,
-        120
-      ]
-    },
-    {
-      "clue": "Last name of a famous Canadian NHL player.",
-      "answer": "matthews",
-      "answer_letters": "MATTHEWS",
-      "indices": [
-        80,
+        164,
         79,
-        41,
-        107,
-        136,
-        105,
-        69,
-        142
+        45,
+        51,
+        85
       ]
     },
     {
-      "clue": "The process of confirming identity.",
-      "answer": "authentication",
-      "answer_letters": "AUTHENTICATION",
+      "clue": "A county in central England.",
+      "answer": "northamptonshire",
+      "answer_letters": "NORTHAMPTONSHIRE",
+      "indices": [
+        53,
+        11,
+        115,
+        107,
+        42,
+        24,
+        98,
+        169,
+        6,
+        180,
+        127,
+        190,
+        102,
+        162,
+        32,
+        114
+      ]
+    },
+    {
+      "clue": "A temporary solution.",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
+      "indices": [
+        30,
+        50,
+        95,
+        103,
+        78,
+        108,
+        64,
+        139,
+        19
+      ]
+    },
+    {
+      "clue": "A sudden and unplanned event.",
+      "answer": "accident",
+      "answer_letters": "ACCIDENT",
       "indices": [
         116,
-        141,
-        0,
-        102,
-        114,
-        174,
-        56,
-        162,
         123,
-        134,
-        10,
-        144,
-        130,
-        127
+        185,
+        112,
+        159,
+        31,
+        174,
+        128
       ]
     },
     {
-      "clue": "A collection of works.",
-      "answer": "repertory",
-      "answer_letters": "REPERTORY",
+      "clue": "Famous and celebrated.",
+      "answer": "renowned",
+      "answer_letters": "RENOWNED",
       "indices": [
         17,
-        26,
-        4,
-        16,
-        104,
-        83,
-        119,
-        25,
-        62
-      ]
-    },
-    {
-      "clue": "A large number.",
-      "answer": "thousands",
-      "answer_letters": "THOUSANDS",
-      "indices": [
-        117,
-        84,
-        177,
-        34,
-        65,
-        99,
-        189,
-        165,
-        8
-      ]
-    },
-    {
-      "clue": "Held closely in a warm hug.",
-      "answer": "embraced",
-      "answer_letters": "EMBRACED",
-      "indices": [
-        168,
-        30,
-        37,
-        97,
-        70,
-        185,
-        170,
-        154
-      ]
-    },
-    {
-      "clue": "Had an absence of something.",
-      "answer": "lacked",
-      "answer_letters": "LACKED",
-      "indices": [
-        111,
-        50,
-        124,
-        90,
         2,
-        159
-      ]
-    },
-    {
-      "clue": "A highly distinguished award winner.",
-      "answer": "laureate",
-      "answer_letters": "LAUREATE",
-      "indices": [
-        51,
-        184,
-        181,
-        148,
-        103,
-        18,
-        163,
-        43
-      ]
-    },
-    {
-      "clue": "Occupy by people.",
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        112,
-        53,
-        57,
-        5,
-        45,
-        151,
-        128,
-        160,
-        150
-      ]
-    },
-    {
-      "clue": "Mishandling of an object.",
-      "answer": "fumble",
-      "answer_letters": "FUMBLE",
-      "indices": [
-        139,
-        29,
-        98,
-        87,
-        13,
-        31
-      ]
-    },
-    {
-      "clue": "Ordinal number for the integer following 17.",
-      "answer": "eighteenth",
-      "answer_letters": "EIGHTEENTH",
-      "indices": [
-        81,
-        64,
-        175,
-        108,
-        19,
-        133,
-        153,
         89,
-        39,
-        7
-      ]
-    },
-    {
-      "clue": "Already present in a vehicle or vessel.",
-      "answer": "onboard",
-      "answer_letters": "ONBOARD",
-      "indices": [
-        180,
-        28,
-        15,
-        138,
-        122,
-        182,
+        33,
+        101,
+        178,
+        43,
         172
       ]
     },
     {
-      "clue": "A type of habitat found far from the ocean.",
-      "answer": "freshwater",
-      "answer_letters": "FRESHWATER",
+      "clue": "Creator of the popular manga and anime series \"Initial D\".",
+      "answer": "takahashi",
+      "answer_letters": "TAKAHASHI",
       "indices": [
-        93,
-        32,
-        76,
-        78,
-        42,
-        60,
-        46,
-        6,
-        149,
-        157
+        163,
+        88,
+        90,
+        61,
+        57,
+        122,
+        142,
+        136,
+        151
       ]
     },
     {
-      "clue": "An entity with great strength and influence.",
+      "clue": "Direction taken by the characters in the TV show of the same name.",
+      "answer": "eastbound",
+      "answer_letters": "EASTBOUND",
+      "indices": [
+        76,
+        18,
+        8,
+        56,
+        113,
+        125,
+        29,
+        47,
+        150
+      ]
+    },
+    {
+      "clue": "Deadly and dangerous.",
+      "answer": "lethal",
+      "answer_letters": "LETHAL",
+      "indices": [
+        68,
+        109,
+        41,
+        75,
+        99,
+        111
+      ]
+    },
+    {
+      "clue": "The distance between baseball bases.",
+      "answer": "leagues",
+      "answer_letters": "LEAGUES",
+      "indices": [
+        13,
+        26,
+        184,
+        54,
+        126,
+        16,
+        65
+      ]
+    },
+    {
+      "clue": "Engages in communication or exchange.",
+      "answer": "interacts",
+      "answer_letters": "INTERACTS",
+      "indices": [
+        144,
+        22,
+        117,
+        133,
+        104,
+        70,
+        135,
+        39,
+        35
+      ]
+    },
+    {
+      "clue": "The part of the face above the eyes.",
+      "answer": "forehead",
+      "answer_letters": "FOREHEAD",
+      "indices": [
+        131,
+        130,
+        157,
+        153,
+        7,
+        149,
+        96,
+        165
+      ]
+    },
+    {
+      "clue": "Providing knowledge and instruction.",
+      "answer": "educating",
+      "answer_letters": "EDUCATING",
+      "indices": [
+        81,
+        167,
+        141,
+        124,
+        5,
+        152,
+        173,
+        28,
+        175
+      ]
+    },
+    {
+      "clue": "A cricket format.",
+      "answer": "one-day",
+      "answer_letters": "ONEDAY",
+      "indices": [
+        138,
+        120,
+        58,
+        154,
+        46,
+        62
+      ]
+    },
+    {
+      "clue": "A basic structure for software development.",
+      "answer": "framework",
+      "answer_letters": "FRAMEWORK",
+      "indices": [
+        93,
+        25,
+        134,
+        80,
+        168,
+        69,
+        188,
+        97,
+        48
+      ]
+    },
+    {
+      "clue": "An energetic and influential person.",
       "answer": "powerhouse",
       "answer_letters": "POWERHOUSE",
       "indices": [
-        169,
-        21,
-        101,
-        164,
-        115,
-        75,
+        4,
+        119,
+        60,
+        170,
+        182,
+        1,
         92,
-        126,
-        190,
-        58
+        38,
+        145,
+        160
       ]
     },
     {
-      "clue": "Systems of beliefs and values.",
-      "answer": "ideologies",
-      "answer_letters": "IDEOLOGIES",
+      "clue": "Molecules that slow down chemical reactions.",
+      "answer": "inhibitors",
+      "answer_letters": "INHIBITORS",
       "indices": [
         187,
-        167,
-        85,
-        125,
-        68,
-        52,
-        54,
+        171,
+        84,
         14,
-        109,
+        161,
+        20,
+        0,
+        156,
+        148,
         72
       ]
     }

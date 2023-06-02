@@ -5,282 +5,282 @@
   "source_letters": "PIERCEBROWNREDRISING",
   "clues": [
     {
-      "clue": "After death.",
+      "clue": "The way in which some works are recognized after the author's death.",
       "answer": "posthumously",
       "answer_letters": "POSTHUMOUSLY",
       "indices": [
         48,
-        1,
+        70,
         133,
-        98,
-        97,
-        2,
-        87,
-        115,
-        138,
-        105,
-        120,
-        136
-      ]
-    },
-    {
-      "clue": "Visualization aids.",
-      "answer": "images",
-      "answer_letters": "IMAGES",
-      "indices": [
-        168,
-        103,
-        31,
-        96,
-        134,
-        112
-      ]
-    },
-    {
-      "clue": "Having natural gifts or talents.",
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
-      "indices": [
-        126,
-        148,
-        4,
-        60,
-        123,
-        19,
-        59
-      ]
-    },
-    {
-      "clue": "Members of a monarchy.",
-      "answer": "royals",
-      "answer_letters": "ROYALS",
-      "indices": [
-        155,
-        141,
-        0,
-        79,
-        121,
-        53
-      ]
-    },
-    {
-      "clue": "A wild canine found in North America.",
-      "answer": "coyote",
-      "answer_letters": "COYOTE",
-      "indices": [
-        130,
-        175,
-        158,
-        5,
-        34,
-        91
-      ]
-    },
-    {
-      "clue": "Adequate for the task at hand.",
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        164,
-        169,
-        167,
-        25,
-        43,
-        90
-      ]
-    },
-    {
-      "clue": "Large mammal with horns commonly found in North America.",
-      "answer": "buffalo",
-      "answer_letters": "BUFFALO",
-      "indices": [
-        128,
-        57,
-        11,
-        66,
-        131,
-        14,
-        144
-      ]
-    },
-    {
-      "clue": "A person who has fled their country due to persecution or war.",
-      "answer": "refugee",
-      "answer_letters": "REFUGEE",
-      "indices": [
-        94,
-        22,
-        118,
-        132,
-        109,
-        129,
-        74
-      ]
-    },
-    {
-      "clue": "The final result.",
-      "answer": "outcome",
-      "answer_letters": "OUTCOME",
-      "indices": [
-        159,
-        104,
-        89,
-        23,
-        15,
-        125,
-        82
-      ]
-    },
-    {
-      "clue": "A neighborhood in Los Angeles.",
-      "answer": "westwood",
-      "answer_letters": "WESTWOOD",
-      "indices": [
-        150,
-        44,
-        100,
-        9,
-        16,
-        137,
-        56,
-        140
-      ]
-    },
-    {
-      "clue": "A vague idea or belief.",
-      "answer": "notion",
-      "answer_letters": "NOTION",
-      "indices": [
-        62,
-        12,
         64,
-        52,
-        67,
-        7
-      ]
-    },
-    {
-      "clue": "To start up again.",
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
-      "indices": [
-        40,
-        156,
-        93,
-        8,
-        119,
-        46
-      ]
-    },
-    {
-      "clue": "To display an object or artwork to the public.",
-      "answer": "exhibit",
-      "answer_letters": "EXHIBIT",
-      "indices": [
-        154,
-        50,
-        35,
-        111,
-        21,
-        172,
-        101
-      ]
-    },
-    {
-      "clue": "A formal argument with rules and structure.",
-      "answer": "debate",
-      "answer_letters": "DEBATE",
-      "indices": [
-        174,
-        99,
-        76,
-        162,
-        106,
-        27
-      ]
-    },
-    {
-      "clue": "A Virginia colony that mysteriously disappeared.",
-      "answer": "roanoke",
-      "answer_letters": "ROANOKE",
-      "indices": [
-        163,
-        149,
-        107,
-        108,
-        63,
-        147,
-        77
-      ]
-    },
-    {
-      "clue": "A narrow strip of land connecting two larger land masses.",
-      "answer": "isthmus",
-      "answer_letters": "ISTHMUS",
-      "indices": [
-        95,
-        38,
-        39,
-        153,
-        18,
-        160,
-        26
-      ]
-    },
-    {
-      "clue": "To consume food or liquid with your throat.",
-      "answer": "swallow",
-      "answer_letters": "SWALLOW",
-      "indices": [
-        45,
-        71,
-        24,
-        68,
-        13,
-        41,
-        152
-      ]
-    },
-    {
-      "clue": "Protection from disease or infection.",
-      "answer": "immunity",
-      "answer_letters": "IMMUNITY",
-      "indices": [
-        29,
+        97,
+        25,
         73,
-        32,
-        80,
-        143,
-        84,
-        145,
+        41,
+        138,
+        38,
+        13,
         55
       ]
     },
     {
-      "clue": "A city in Japan.",
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
+      "clue": "A medical diagnostic tool used to visualize internal structures of the body.",
+      "answer": "imaging",
+      "answer_letters": "IMAGING",
+      "indices": [
+        111,
+        87,
+        79,
+        170,
+        52,
+        169,
+        43
+      ]
+    },
+    {
+      "clue": "Large area of land owned or occupied by a single owner.",
+      "answer": "estate",
+      "answer_letters": "ESTATE",
+      "indices": [
+        44,
+        100,
+        34,
+        162,
+        89,
+        36
+      ]
+    },
+    {
+      "clue": "A long strip for takeoff and landing of airplanes.",
+      "answer": "runway",
+      "answer_letters": "RUNWAY",
+      "indices": [
+        155,
+        80,
+        7,
+        123,
+        24,
+        114
+      ]
+    },
+    {
+      "clue": "Wild animals occasionally heard howling at night.",
+      "answer": "coyotes",
+      "answer_letters": "COYOTES",
+      "indices": [
+        78,
+        122,
+        0,
+        67,
+        46,
+        126,
+        26
+      ]
+    },
+    {
+      "clue": "Reverberations bouncing off walls and returning to the listener.",
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
+      "indices": [
+        19,
+        130,
+        153,
+        15,
+        74,
+        112
+      ]
+    },
+    {
+      "clue": "Made a reservation or appointment.",
+      "answer": "booked",
+      "answer_letters": "BOOKED",
+      "indices": [
+        76,
+        144,
+        60,
+        147,
+        156,
+        59
+      ]
+    },
+    {
+      "clue": "Working from a distance.",
+      "answer": "remotely",
+      "answer_letters": "REMOTELY",
+      "indices": [
+        94,
+        77,
+        125,
+        149,
+        106,
+        99,
+        69,
+        158
+      ]
+    },
+    {
+      "clue": "A river's discharge.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
+      "indices": [
+        5,
+        57,
+        101,
+        118,
+        121,
+        141,
+        152
+      ]
+    },
+    {
+      "clue": "Fashion designer who created many iconic red carpet looks.",
+      "answer": "westwood",
+      "answer_letters": "WESTWOOD",
+      "indices": [
+        16,
+        27,
+        45,
+        39,
+        150,
+        1,
+        12,
+        140
+      ]
+    },
+    {
+      "clue": "A cloud of dust and gas in space.",
+      "answer": "nebula",
+      "answer_letters": "NEBULA",
       "indices": [
         42,
-        49,
-        166,
-        122,
-        114,
+        22,
+        128,
+        104,
+        68,
         86
       ]
     },
     {
-      "clue": "A simple sugar found in many foods.",
-      "answer": "glucose",
-      "answer_letters": "GLUCOSE",
+      "clue": "A term used in technology to describe a computer system starting up again.",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
       "indices": [
-        170,
-        69,
+        40,
+        91,
+        21,
+        63,
+        119,
+        98
+      ]
+    },
+    {
+      "clue": "The former Mrs. Brad Pitt.",
+      "answer": "ex-wife",
+      "answer_letters": "EXWIFE",
+      "indices": [
+        129,
+        50,
+        71,
+        172,
+        66,
+        82
+      ]
+    },
+    {
+      "clue": "Minor league baseball level above single-A.",
+      "answer": "double-a",
+      "answer_letters": "DOUBLEA",
+      "indices": [
+        4,
+        159,
+        2,
+        93,
+        120,
+        134,
+        107
+      ]
+    },
+    {
+      "clue": "Approximately, like estimating a number with some degree of inaccuracy.",
+      "answer": "roughly",
+      "answer_letters": "ROUGHLY",
+      "indices": [
+        163,
+        167,
         116,
-        78,
-        70,
-        81,
-        36
+        109,
+        90,
+        14,
+        136
+      ]
+    },
+    {
+      "clue": "Visual representations.",
+      "answer": "images",
+      "answer_letters": "IMAGES",
+      "indices": [
+        29,
+        32,
+        131,
+        96,
+        164,
+        105
+      ]
+    },
+    {
+      "clue": "A Michael Jackson hit song.",
+      "answer": "smooth",
+      "answer_letters": "SMOOTH",
+      "indices": [
+        53,
+        103,
+        8,
+        175,
+        9,
+        35
+      ]
+    },
+    {
+      "clue": "Having a reputation for doing evil deeds; associated with notoriety.",
+      "answer": "infamous",
+      "answer_letters": "INFAMOUS",
+      "indices": [
+        84,
+        62,
+        11,
+        31,
+        18,
+        115,
+        160,
+        81
+      ]
+    },
+    {
+      "clue": "A general idea or understanding.",
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        143,
+        137,
+        145,
+        168,
+        56,
+        108
+      ]
+    },
+    {
+      "clue": "A term synonymous with advice or direction.",
+      "answer": "guidance",
+      "answer_letters": "GUIDANCE",
+      "indices": [
+        166,
+        132,
+        95,
+        174,
+        49,
+        148,
+        23,
+        154
       ]
     }
   ],

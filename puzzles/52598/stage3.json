@@ -1,286 +1,286 @@
 {
   "quote": "A great relationship ... breaches the barriers of a lofty solitude, subdues its strict law, and throws a bridge from self-being to self-being across the abyss of dread of the universe.",
-  "quote_letters": "A GREAT RELATIONSHIP  BREACHES THE BARRIERS OF A LOFTY SOLITUDE SUBDUES ITS STRICT LAW AND THROWS A BRIDGE FROM SELF-BEING TO SELF-BEING ACROSS THE ABYSS OF DREAD OF THE UNIVERSE",
+  "quote_letters": "A GREAT RELATIONSHIP BREACHES THE BARRIERS OF A LOFTY SOLITUDE SUBDUES ITS STRICT LAW AND THROWS A BRIDGE FROM SELF-BEING TO SELF-BEING ACROSS THE ABYSS OF DREAD OF THE UNIVERSE",
   "source": "Martin Buber, I and Thou",
   "source_letters": "MARTINBUBERIANDTHOU",
   "clues": [
     {
-      "clue": "A name commonly given to boys.",
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
+      "clue": "Bits of information sent electronically or through paper.",
+      "answer": "messages",
+      "answer_letters": "MESSAGES",
       "indices": [
-        110,
-        137,
-        6,
-        77,
-        27,
-        24,
-        95
+        109,
+        68,
+        54,
+        69,
+        159,
+        120,
+        126,
+        175
       ]
     },
     {
-      "clue": "A harmful mineral often found in insulation and building materials.",
-      "answer": "asbestos",
-      "answer_letters": "ASBESTOS",
+      "clue": "Structure that supports weight through a curved shape.",
+      "answer": "arches",
+      "answer_letters": "ARCHES",
       "indices": [
-        98,
-        74,
-        35,
-        4,
-        42,
-        12,
-        50,
-        176
+        86,
+        174,
+        79,
+        17,
+        131,
+        41
       ]
     },
     {
-      "clue": "Took something unlawfully.",
+      "clue": "Took unlawfully.",
       "answer": "robbed",
       "answer_letters": "ROBBED",
       "indices": [
-        41,
-        163,
         22,
-        66,
-        62,
-        103
+        153,
+        34,
+        130,
+        4,
+        66
       ]
     },
     {
-      "clue": "A sudden forward movement.",
-      "answer": "thrust",
-      "answer_letters": "THRUST",
+      "clue": "The day of the week named after the Norse god of thunder.",
+      "answer": "thursday",
+      "answer_letters": "THURSDAY",
       "indices": [
-        166,
-        17,
-        93,
-        68,
-        70,
-        144
+        90,
+        91,
+        59,
+        3,
+        73,
+        160,
+        97,
+        149
       ]
     },
     {
-      "clue": "Biblical prophet.",
+      "clue": "Having little contact with others or outside influences.",
+      "answer": "isolated",
+      "answer_letters": "ISOLATED",
+      "indices": [
+        18,
+        111,
+        93,
+        56,
+        35,
+        72,
+        27,
+        102
+      ]
+    },
+    {
+      "clue": "A vital substance for a healthy body.",
+      "answer": "nutrient",
+      "answer_letters": "NUTRIENT",
+      "indices": [
+        119,
+        64,
+        80,
+        36,
+        38,
+        173,
+        133,
+        165
+      ]
+    },
+    {
+      "clue": "A gift from above.",
+      "answer": "blessing",
+      "answer_letters": "BLESSING",
+      "indices": [
+        99,
+        82,
+        104,
+        95,
+        63,
+        78,
+        170,
+        134
+      ]
+    },
+    {
+      "clue": "German submarines during World War II.",
+      "answer": "u-boats",
+      "answer_letters": "UBOATS",
+      "indices": [
+        169,
+        116,
+        49,
+        5,
+        76,
+        75
+      ]
+    },
+    {
+      "clue": "A list of sources used in research.",
+      "answer": "bibliography",
+      "answer_letters": "BIBLIOGRAPHY",
+      "indices": [
+        148,
+        57,
+        65,
+        10,
+        118,
+        108,
+        2,
+        77,
+        24,
+        19,
+        31,
+        52
+      ]
+    },
+    {
+      "clue": "The result of a cause.",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        9,
+        128,
+        50,
+        176,
+        137,
+        122
+      ]
+    },
+    {
+      "clue": "People who critique and evaluate artistic or literary works for a living.",
+      "answer": "reviewers",
+      "answer_letters": "REVIEWERS",
+      "indices": [
+        92,
+        112,
+        172,
+        71,
+        39,
+        94,
+        117,
+        138,
+        28
+      ]
+    },
+    {
+      "clue": "Biblical prophet known for writing a book in the Old Testament.",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        133,
-        126,
-        5,
-        119,
-        0,
-        92
-      ]
-    },
-    {
-      "clue": "A time when stars shine.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        120,
-        72,
-        121,
-        167,
-        59,
-        142
-      ]
-    },
-    {
-      "clue": "The most sizable or extensive.",
-      "answer": "biggest",
-      "answer_letters": "BIGGEST",
-      "indices": [
-        149,
-        102,
-        2,
-        135,
-        127,
-        76,
-        81
-      ]
-    },
-    {
-      "clue": "Possible clue: Practical and functional.",
-      "answer": "usable",
-      "answer_letters": "USABLE",
-      "indices": [
-        170,
-        29,
-        11,
-        117,
-        83,
-        146
-      ]
-    },
-    {
-      "clue": "Northern Irish city.",
-      "answer": "belfast",
-      "answer_letters": "BELFAST",
-      "indices": [
-        100,
-        168,
-        49,
-        129,
-        160,
-        64,
-        73
-      ]
-    },
-    {
-      "clue": "Mistakes that can affect the outcome.",
-      "answer": "errors",
-      "answer_letters": "ERRORS",
-      "indices": [
-        132,
-        38,
-        8,
-        44,
-        78,
-        16
-      ]
-    },
-    {
-      "clue": "Assets available for use.",
-      "answer": "resources",
-      "answer_letters": "RESOURCES",
-      "indices": [
-        158,
-        28,
-        152,
-        109,
-        65,
-        108,
-        26,
-        159,
-        112
-      ]
-    },
-    {
-      "clue": "Curious about something.",
-      "answer": "interested",
-      "answer_letters": "INTERESTED",
-      "indices": [
-        172,
-        15,
-        123,
-        177,
-        37,
-        40,
+        171,
         151,
-        31,
-        118,
-        89
+        136,
+        101,
+        147,
+        26
       ]
     },
     {
-      "clue": "Not expensive.",
+      "clue": "Won't break the bank.",
       "answer": "affordable",
       "answer_letters": "AFFORDABLE",
       "indices": [
-        36,
-        51,
-        155,
-        154,
-        23,
-        161,
-        25,
-        131,
-        10,
-        33
-      ]
-    },
-    {
-      "clue": "Members of a certain MLB team based in Washington, D.C.",
-      "answer": "nationals",
-      "answer_letters": "NATIONALS",
-      "indices": [
+        46,
+        114,
+        44,
+        123,
+        100,
         88,
+        0,
+        21,
+        48,
+        23
+      ]
+    },
+    {
+      "clue": "Actor who played the lead role in National Treasure.",
+      "answer": "nicolas",
+      "answer_letters": "NICOLAS",
+      "indices": [
         87,
-        52,
         13,
-        140,
-        171,
-        148,
-        57,
-        141
-      ]
-    },
-    {
-      "clue": "Varies from the norm.",
-      "answer": "differs",
-      "answer_letters": "DIFFERS",
-      "indices": [
-        61,
-        39,
-        107,
-        164,
-        105,
-        175,
-        96
-      ]
-    },
-    {
-      "clue": "Underwater weapons that can sink a ship.",
-      "answer": "torpedoes",
-      "answer_letters": "TORPEDOES",
-      "indices": [
-        91,
-        124,
-        3,
-        19,
-        69,
-        67,
-        14,
-        9,
-        55
-      ]
-    },
-    {
-      "clue": "A busy road for long-distance travel.",
-      "answer": "highway",
-      "answer_letters": "HIGHWAY",
-      "indices": [
-        32,
-        18,
-        104,
-        145,
-        85,
-        84,
+        25,
+        139,
+        113,
+        11,
         150
       ]
     },
     {
-      "clue": "According to the rules.",
-      "answer": "officially",
-      "answer_letters": "OFFICIALLY",
+      "clue": "Assistant to the Regional Manager on The Office.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
-        94,
-        45,
-        115,
-        58,
-        80,
-        79,
-        47,
-        114,
-        128,
-        53
+        60,
+        84,
+        132,
+        103,
+        144,
+        6
       ]
     },
     {
-      "clue": "A sneaky disguise.",
-      "answer": "undercover",
-      "answer_letters": "UNDERCOVER",
+      "clue": "A male hormone.",
+      "answer": "testosterone",
+      "answer_letters": "TESTOSTERONE",
       "indices": [
-        60,
-        134,
+        51,
+        61,
+        16,
+        58,
+        14,
+        141,
+        12,
+        145,
+        8,
+        55,
+        15,
+        32
+      ]
+    },
+    {
+      "clue": "Capital of Connecticut.",
+      "answer": "hartford",
+      "answer_letters": "HARTFORD",
+      "indices": [
+        166,
+        83,
         157,
-        113,
-        101,
-        138,
-        56,
-        173,
-        174,
-        139
+        143,
+        163,
+        162,
+        37,
+        156
+      ]
+    },
+    {
+      "clue": "Proposes a transaction.",
+      "answer": "offers",
+      "answer_letters": "OFFERS",
+      "indices": [
+        43,
+        106,
+        154,
+        158,
+        107,
+        125
+      ]
+    },
+    {
+      "clue": "A traditional garment worn in Ireland and Scotland.",
+      "answer": "ulster",
+      "answer_letters": "ULSTER",
+      "indices": [
+        67,
+        127,
+        140,
+        30,
+        167,
+        40
       ]
     }
   ],

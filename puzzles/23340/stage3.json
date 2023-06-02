@@ -5,295 +5,295 @@
   "source_letters": "LEMONYSNICKETTHEEND",
   "clues": [
     {
-      "clue": "A measure of distance from the Prime Meridian.",
-      "answer": "longitude",
-      "answer_letters": "LONGITUDE",
+      "clue": "Factors that restrict something's ability.",
+      "answer": "limitations",
+      "answer_letters": "LIMITATIONS",
       "indices": [
-        50,
-        144,
-        179,
-        151,
-        39,
-        61,
-        129,
-        126,
-        115
-      ]
-    },
-    {
-      "clue": "A widespread disease outbreak.",
-      "answer": "epidemic",
-      "answer_letters": "EPIDEMIC",
-      "indices": [
-        25,
-        156,
-        170,
-        66,
-        185,
-        114,
-        137,
-        63
-      ]
-    },
-    {
-      "clue": "A tech corporation founded in the 70s.",
-      "answer": "microsoft",
-      "answer_letters": "MICROSOFT",
-      "indices": [
-        145,
-        160,
-        36,
-        155,
-        58,
-        141,
-        56,
-        17,
-        130
-      ]
-    },
-    {
-      "clue": "Different types of jobs.",
-      "answer": "occupations",
-      "answer_letters": "OCCUPATIONS",
-      "indices": [
-        181,
-        95,
-        88,
-        176,
-        135,
-        45,
-        147,
-        188,
-        113,
-        102,
-        46
-      ]
-    },
-    {
-      "clue": "A lively venue for dancing and music.",
-      "answer": "nightclub",
-      "answer_letters": "NIGHTCLUB",
-      "indices": [
-        150,
-        29,
-        162,
-        148,
-        103,
-        119,
-        69,
-        38,
-        110
-      ]
-    },
-    {
-      "clue": "A Jewish religious school.",
-      "answer": "yeshiva",
-      "answer_letters": "YESHIVA",
-      "indices": [
-        108,
-        172,
-        153,
-        89,
-        158,
-        76,
-        35
-      ]
-    },
-    {
-      "clue": "Very impressive.",
-      "answer": "spectacular",
-      "answer_letters": "SPECTACULAR",
-      "indices": [
-        14,
-        21,
-        48,
-        74,
-        1,
-        68,
-        55,
-        104,
         106,
-        117,
-        40
-      ]
-    },
-    {
-      "clue": "A country in Scandinavia.",
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
-      "indices": [
-        59,
-        92,
-        65,
-        85,
-        6,
-        91,
-        10
-      ]
-    },
-    {
-      "clue": "A type of cuisine.",
-      "answer": "italian",
-      "answer_letters": "ITALIAN",
-      "indices": [
-        87,
-        122,
-        96,
-        107,
-        140,
-        32,
-        33
-      ]
-    },
-    {
-      "clue": "The conditions surrounding a situation.",
-      "answer": "circumstances",
-      "answer_letters": "CIRCUMSTANCES",
-      "indices": [
-        57,
-        3,
-        157,
-        78,
-        120,
-        8,
-        134,
-        189,
-        105,
-        97,
-        180,
-        164,
-        121
-      ]
-    },
-    {
-      "clue": "Newest independent country in Europe.",
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        52,
-        64,
-        26,
-        123,
-        100,
-        175
-      ]
-    },
-    {
-      "clue": "One of two.",
-      "answer": "either",
-      "answer_letters": "EITHER",
-      "indices": [
-        111,
-        77,
-        11,
-        167,
-        101,
-        72
-      ]
-    },
-    {
-      "clue": "Long, narrow excavations.",
-      "answer": "trenches",
-      "answer_letters": "TRENCHES",
-      "indices": [
-        184,
-        186,
-        75,
-        161,
-        166,
-        19,
-        99,
-        4
-      ]
-    },
-    {
-      "clue": "An important French city in the Occitanie region.",
-      "answer": "toulouse",
-      "answer_letters": "TOULOUSE",
-      "indices": [
-        47,
-        83,
-        60,
-        7,
-        71,
-        93,
-        143,
-        146
-      ]
-    },
-    {
-      "clue": "Restricted in movement or progress.",
-      "answer": "hampered",
-      "answer_letters": "HAMPERED",
-      "indices": [
-        79,
-        136,
-        171,
-        22,
-        133,
-        138,
-        178,
-        42
-      ]
-    },
-    {
-      "clue": "Full of eagerness and passion.",
-      "answer": "enthusiastic",
-      "answer_letters": "ENTHUSIASTIC",
-      "indices": [
-        125,
-        24,
-        44,
-        86,
-        154,
-        159,
         16,
-        13,
-        30,
+        145,
+        87,
         82,
-        51,
-        112
+        136,
+        169,
+        3,
+        181,
+        150,
+        141
       ]
     },
     {
-      "clue": "A concept related to fairness in finance and law.",
-      "answer": "equity",
-      "answer_letters": "EQUITY",
+      "clue": "A state of balance.",
+      "answer": "equilibrium",
+      "answer_letters": "EQUILIBRIUM",
       "indices": [
-        80,
+        101,
         37,
-        182,
-        23,
-        169,
+        154,
+        39,
+        69,
+        51,
+        128,
+        186,
+        158,
+        176,
+        114
+      ]
+    },
+    {
+      "clue": "Recurring themes in literature, art, or music.",
+      "answer": "motifs",
+      "answer_letters": "MOTIFS",
+      "indices": [
+        171,
+        113,
+        103,
+        77,
+        17,
+        26
+      ]
+    },
+    {
+      "clue": "The state of being present or residing in a place.",
+      "answer": "occupancy",
+      "answer_letters": "OCCUPANCY",
+      "indices": [
+        9,
+        118,
+        74,
+        93,
+        156,
+        20,
+        161,
+        88,
         174
       ]
     },
     {
-      "clue": "A southwestern African country.",
-      "answer": "namibia",
-      "answer_letters": "NAMIBIA",
+      "clue": "Italian city known for its delicious pizza.",
+      "answer": "naples",
+      "answer_letters": "NAPLES",
       "indices": [
-        183,
-        165,
-        124,
-        149,
-        128,
-        0,
-        20
+        24,
+        13,
+        135,
+        50,
+        125,
+        14
       ]
     },
     {
-      "clue": "A geographic region under a bishop's jurisdiction.",
-      "answer": "diocese",
-      "answer_letters": "DIOCESE",
+      "clue": "Capital city of Armenia.",
+      "answer": "yerevan",
+      "answer_letters": "YEREVAN",
       "indices": [
-        132,
-        67,
-        9,
-        118,
-        53,
+        91,
+        146,
+        72,
+        172,
+        76,
+        6,
+        59
+      ]
+    },
+    {
+      "clue": "Relating to an individual's financial and social position.",
+      "answer": "socioeconomic",
+      "answer_letters": "SOCIOECONOMIC",
+      "indices": [
         27,
+        175,
+        95,
+        23,
+        92,
+        164,
+        180,
+        144,
+        97,
+        64,
+        8,
+        170,
+        57
+      ]
+    },
+    {
+      "clue": "A popular motorsport known for its high-speed oval racing.",
+      "answer": "nascar",
+      "answer_letters": "NASCAR",
+      "indices": [
+        102,
+        32,
+        46,
+        166,
+        45,
+        157
+      ]
+    },
+    {
+      "clue": "Required by authority or force.",
+      "answer": "imposed",
+      "answer_letters": "IMPOSED",
+      "indices": [
+        149,
+        124,
+        22,
+        71,
+        30,
+        111,
+        126
+      ]
+    },
+    {
+      "clue": "A political gathering used for selecting candidates.",
+      "answer": "caucus",
+      "answer_letters": "CAUCUS",
+      "indices": [
+        119,
+        68,
+        60,
+        78,
+        120,
+        121
+      ]
+    },
+    {
+      "clue": "Medieval warriors on horseback.",
+      "answer": "knights",
+      "answer_letters": "KNIGHTS",
+      "indices": [
+        52,
+        183,
+        29,
+        151,
+        89,
+        61,
+        143
+      ]
+    },
+    {
+      "clue": "Ubiquitous location.",
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
+      "indices": [
+        178,
+        100,
+        133,
+        155,
+        108,
+        85,
+        148,
+        48,
+        65,
+        53
+      ]
+    },
+    {
+      "clue": "Ideas and reflections in one's mind.",
+      "answer": "thoughts",
+      "answer_letters": "THOUGHTS",
+      "indices": [
+        44,
+        79,
+        123,
+        129,
+        162,
+        86,
+        184,
+        159
+      ]
+    },
+    {
+      "clue": "Providing remedial treatment to promote healing and well-being.",
+      "answer": "therapeutic",
+      "answer_letters": "THERAPEUTIC",
+      "indices": [
+        11,
+        19,
+        75,
+        138,
+        117,
+        21,
+        115,
+        38,
+        147,
+        160,
+        112
+      ]
+    },
+    {
+      "clue": "Period of time when a beloved TV show goes off the air.",
+      "answer": "hiatus",
+      "answer_letters": "HIATUS",
+      "indices": [
+        167,
+        0,
+        35,
+        122,
+        104,
+        134
+      ]
+    },
+    {
+      "clue": "Different versions of a book or magazine.",
+      "answer": "editions",
+      "answer_letters": "EDITIONS",
+      "indices": [
+        99,
+        66,
+        140,
+        1,
+        188,
+        83,
+        179,
+        4
+      ]
+    },
+    {
+      "clue": "Professionals who teach and shape young minds.",
+      "answer": "educators",
+      "answer_letters": "EDUCATORS",
+      "indices": [
+        185,
+        132,
+        182,
+        63,
+        165,
+        189,
+        58,
+        40,
+        10
+      ]
+    },
+    {
+      "clue": "Easy to perceive.",
+      "answer": "noticeable",
+      "answer_letters": "NOTICEABLE",
+      "indices": [
+        33,
+        56,
+        130,
+        137,
+        55,
+        80,
+        105,
+        110,
+        7,
         41
+      ]
+    },
+    {
+      "clue": "Different variations of a language spoken within a specific region or community.",
+      "answer": "dialects",
+      "answer_letters": "DIALECTS",
+      "indices": [
+        42,
+        67,
+        96,
+        107,
+        25,
+        36,
+        47,
+        153
       ]
     }
   ],

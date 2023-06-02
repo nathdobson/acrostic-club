@@ -5,288 +5,288 @@
   "source_letters": "DAVIDNICHOLLSONEDAY",
   "clues": [
     {
-      "clue": "Fictional character from Kansas.",
-      "answer": "dorothy",
-      "answer_letters": "DOROTHY",
+      "clue": "Character from Harry Potter who bullies the protagonist.",
+      "answer": "dudley",
+      "answer_letters": "DUDLEY",
       "indices": [
-        153,
-        149,
-        68,
-        1,
-        143,
-        167,
+        29,
+        2,
+        118,
+        188,
+        189,
         47
       ]
     },
     {
-      "clue": "Capable of taking in or soaking up.",
-      "answer": "absorbing",
-      "answer_letters": "ABSORBING",
+      "clue": "Relating to the sense of hearing.",
+      "answer": "auditory",
+      "answer_letters": "AUDITORY",
       "indices": [
-        24,
-        133,
-        53,
-        19,
+        27,
+        17,
+        182,
+        160,
+        108,
+        7,
         164,
-        105,
-        34,
-        155,
-        140
+        0
       ]
     },
     {
-      "clue": "Emerging as the winner.",
-      "answer": "victorious",
-      "answer_letters": "VICTORIOUS",
+      "clue": "An adventurous journey, often taken by sea.",
+      "answer": "voyage",
+      "answer_letters": "VOYAGE",
       "indices": [
         44,
+        1,
+        86,
+        168,
+        25,
+        181
+      ]
+    },
+    {
+      "clue": "A medical shot.",
+      "answer": "injection",
+      "answer_letters": "INJECTION",
+      "indices": [
         117,
-        156,
-        166,
-        16,
-        72,
-        31,
-        48,
-        52,
-        111
-      ]
-    },
-    {
-      "clue": "Operated or done within a company's own staff.",
-      "answer": "in-house",
-      "answer_letters": "INHOUSE",
-      "indices": [
-        124,
-        186,
-        137,
-        171,
-        2,
-        176,
-        178
-      ]
-    },
-    {
-      "clue": "The act of guiding a production.",
-      "answer": "directing",
-      "answer_letters": "DIRECTING",
-      "indices": [
-        182,
-        110,
-        78,
-        154,
-        177,
-        136,
-        160,
-        57,
-        6
-      ]
-    },
-    {
-      "clue": "Informed through official means.",
-      "answer": "notified",
-      "answer_letters": "NOTIFIED",
-      "indices": [
         179,
-        114,
-        74,
-        61,
-        146,
-        92,
-        79,
-        103
-      ]
-    },
-    {
-      "clue": "A set of beliefs and values that shape a person's worldview.",
-      "answer": "ideology",
-      "answer_letters": "IDEOLOGY",
-      "indices": [
-        152,
-        131,
-        122,
+        51,
+        67,
+        36,
+        81,
+        110,
         87,
-        188,
-        128,
-        9,
-        15
+        155
       ]
     },
     {
-      "clue": "Responded to an argument or action.",
-      "answer": "countered",
-      "answer_letters": "COUNTERED",
+      "clue": "Feeling down-hearted after a setback.",
+      "answer": "discouraged",
+      "answer_letters": "DISCOURAGED",
+      "indices": [
+        21,
+        96,
+        80,
+        113,
+        145,
+        88,
+        172,
+        174,
+        9,
+        159,
+        153
+      ]
+    },
+    {
+      "clue": "A bustling venue for dancing and socializing after dark.",
+      "answer": "nightclub",
+      "answer_letters": "NIGHTCLUB",
+      "indices": [
+        150,
+        141,
+        6,
+        137,
+        63,
+        156,
+        91,
+        52,
+        105
+      ]
+    },
+    {
+      "clue": "Verb meaning to recognize and name someone or something accurately.",
+      "answer": "identified",
+      "answer_letters": "IDENTIFIED",
+      "indices": [
+        43,
+        40,
+        76,
+        186,
+        136,
+        31,
+        32,
+        92,
+        157,
+        131
+      ]
+    },
+    {
+      "clue": "A popular morning beverage.",
+      "answer": "coffee",
+      "answer_letters": "COFFEE",
       "indices": [
         148,
-        7,
-        101,
-        28,
-        161,
-        45,
-        8,
-        163,
-        21
-      ]
-    },
-    {
-      "clue": "To a great extent.",
-      "answer": "hugely",
-      "answer_letters": "HUGELY",
-      "indices": [
-        109,
-        129,
-        25,
-        134,
-        130,
-        86
-      ]
-    },
-    {
-      "clue": "A place for work tasks.",
-      "answer": "offices",
-      "answer_letters": "OFFICES",
-      "indices": [
         100,
-        62,
-        84,
-        96,
-        121,
-        106,
-        13
-      ]
-    },
-    {
-      "clue": "A widely told story.",
-      "answer": "legend",
-      "answer_letters": "LEGEND",
-      "indices": [
-        91,
-        67,
-        42,
-        181,
-        150,
-        29
-      ]
-    },
-    {
-      "clue": "A WWII German air force.",
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
-      "indices": [
-        102,
-        12,
-        151,
-        54,
-        99,
-        185,
-        116,
         142,
-        157
-      ]
-    },
-    {
-      "clue": "A violent exchange of gunfire.",
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
-      "indices": [
-        80,
-        23,
-        145,
-        11,
-        97,
-        37,
-        88,
-        81
-      ]
-    },
-    {
-      "clue": "Relating to supernatural or mystical beliefs and practices.",
-      "answer": "occult",
-      "answer_letters": "OCCULT",
-      "indices": [
-        56,
-        113,
-        36,
-        49,
-        20,
-        180
-      ]
-    },
-    {
-      "clue": "A place of emptiness and absence.",
-      "answer": "nowhere",
-      "answer_letters": "NOWHERE",
-      "indices": [
-        115,
-        71,
-        127,
-        75,
-        10,
-        3,
-        76
-      ]
-    },
-    {
-      "clue": "Forced out or removed forcefully.",
-      "answer": "ejected",
-      "answer_letters": "EJECTED",
-      "indices": [
-        58,
-        51,
-        159,
-        184,
-        169,
-        138,
-        187
-      ]
-    },
-    {
-      "clue": "Made distinct from other things.",
-      "answer": "differentiated",
-      "answer_letters": "DIFFERENTIATED",
-      "indices": [
-        40,
-        141,
-        93,
-        32,
-        94,
-        89,
-        119,
-        120,
-        63,
-        43,
-        168,
-        125,
-        189,
-        118
-      ]
-    },
-    {
-      "clue": "A typical score.",
-      "answer": "average",
-      "answer_letters": "AVERAGE",
-      "indices": [
-        174,
-        66,
-        4,
-        172,
-        27,
-        60,
+        146,
+        122,
         65
       ]
     },
     {
-      "clue": "Energetic and sprightly.",
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "clue": "Place where a family lives.",
+      "answer": "household",
+      "answer_letters": "HOUSEHOLD",
       "indices": [
-        0,
+        75,
+        19,
+        12,
+        13,
+        58,
+        23,
+        48,
+        130,
+        103
+      ]
+    },
+    {
+      "clue": "Individuals tasked with enforcing the law.",
+      "answer": "officers",
+      "answer_letters": "OFFICERS",
+      "indices": [
+        37,
+        116,
+        70,
+        152,
+        184,
+        163,
+        3,
+        111
+      ]
+    },
+    {
+      "clue": "The act of decreasing something.",
+      "answer": "lowering",
+      "answer_letters": "LOWERING",
+      "indices": [
+        39,
+        11,
+        127,
+        138,
+        68,
+        124,
+        115,
+        60
+      ]
+    },
+    {
+      "clue": "Nazi Germany's air force during World War II.",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        20,
+        49,
+        151,
+        74,
+        99,
+        185,
+        93,
+        62,
+        4
+      ]
+    },
+    {
+      "clue": "An intense exchange of gunfire.",
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
+      "indices": [
+        176,
+        109,
+        16,
+        56,
+        169,
         83,
         38,
-        108,
+        161
+      ]
+    },
+    {
+      "clue": "A month in the calendar year when Halloween is celebrated.",
+      "answer": "october",
+      "answer_letters": "OCTOBER",
+      "indices": [
+        128,
+        121,
+        180,
+        71,
+        133,
+        10,
+        78
+      ]
+    },
+    {
+      "clue": "Subatomic particle with no charge, discovered by James Chadwick.",
+      "answer": "neutron",
+      "answer_letters": "NEUTRON",
+      "indices": [
+        120,
+        154,
+        129,
+        166,
+        8,
+        114,
+        57
+      ]
+    },
+    {
+      "clue": "Used to indicate a choice between two options.",
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        178,
+        61,
+        97,
         162,
-        70,
-        17,
-        39
+        119,
+        72
+      ]
+    },
+    {
+      "clue": "Not up to standard.",
+      "answer": "defective",
+      "answer_letters": "DEFECTIVE",
+      "indices": [
+        187,
+        94,
+        84,
+        45,
+        177,
+        125,
+        34,
+        66,
+        79
+      ]
+    },
+    {
+      "clue": "Collectively, it means \"in sum.\"",
+      "answer": "altogether",
+      "answer_letters": "ALTOGETHER",
+      "indices": [
+        24,
+        102,
+        143,
+        149,
+        140,
+        106,
+        54,
+        167,
+        134,
+        89
+      ]
+    },
+    {
+      "clue": "Author of the novel \"The Adventures of Huckleberry Finn\".",
+      "answer": "young's",
+      "answer_letters": "YOUNGS",
+      "indices": [
+        15,
+        171,
+        101,
+        28,
+        42,
+        53
       ]
     }
   ],

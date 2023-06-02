@@ -1,0 +1,315 @@
+{
+  "quote": "So far I had the god of evil and the god of terror on my side. My good-guy image was taking a serious beating. Maybe I should recruit some unicorns or kittens with rainbow powers to even us out.",
+  "quote_letters": "SO FAR I HAD THE GOD OF EVIL AND THE GOD OF TERROR ON MY SIDE MY GOOD-GUY IMAGE WAS TAKING A SERIOUS BEATING MAYBE I SHOULD RECRUIT SOME UNICORNS OR KITTENS WITH RAINBOW POWERS TO EVEN US OUT",
+  "source": "Ilona Andrews, Magic Binds",
+  "source_letters": "ILONAANDREWSMAGICBINDS",
+  "clues": [
+    {
+      "clue": "To pay no attention to something or someone.",
+      "answer": "ignore",
+      "answer_letters": "IGNORE",
+      "indices": [
+        164,
+        65,
+        138,
+        66,
+        124,
+        173
+      ]
+    },
+    {
+      "clue": "A person on a ship or tower who watches for danger.",
+      "answer": "lookout",
+      "answer_letters": "LOOKOUT",
+      "indices": [
+        27,
+        21,
+        133,
+        86,
+        48,
+        71,
+        151
+      ]
+    },
+    {
+      "clue": "A set of clothing.",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        38,
+        128,
+        177,
+        42,
+        115,
+        13
+      ]
+    },
+    {
+      "clue": "Term used to describe a person of no importance or significance.",
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
+      "indices": [
+        52,
+        141,
+        101,
+        51,
+        68,
+        111
+      ]
+    },
+    {
+      "clue": "Site of one of golf’s four major championships.",
+      "answer": "augusta",
+      "answer_letters": "AUGUSTA",
+      "indices": [
+        4,
+        120,
+        89,
+        189,
+        144,
+        33,
+        110
+      ]
+    },
+    {
+      "clue": "Protected with a metal covering.",
+      "answer": "armored",
+      "answer_letters": "ARMORED",
+      "indices": [
+        103,
+        174,
+        62,
+        188,
+        95,
+        35,
+        59
+      ]
+    },
+    {
+      "clue": "A system of interconnected computers or devices.",
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        30,
+        78,
+        159,
+        157,
+        146,
+        162,
+        149
+      ]
+    },
+    {
+      "clue": "Splits into separate parts.",
+      "answer": "divides",
+      "answer_letters": "DIVIDES",
+      "indices": [
+        11,
+        158,
+        181,
+        58,
+        19,
+        102,
+        93
+      ]
+    },
+    {
+      "clue": "Long, powerful firearms used in combat and hunting.",
+      "answer": "rifles",
+      "answer_letters": "RIFLES",
+      "indices": [
+        127,
+        96,
+        3,
+        121,
+        153,
+        82
+      ]
+    },
+    {
+      "clue": "Adequate to fulfill a need.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        135,
+        143,
+        119,
+        185,
+        77,
+        118
+      ]
+    },
+    {
+      "clue": "A large storage facility.",
+      "answer": "warehouse",
+      "answer_letters": "WAREHOUSE",
+      "indices": [
+        168,
+        85,
+        47,
+        45,
+        34,
+        67,
+        137,
+        0,
+        180
+      ]
+    },
+    {
+      "clue": "Remaining in a chair.",
+      "answer": "seated",
+      "answer_letters": "SEATED",
+      "indices": [
+        186,
+        182,
+        81,
+        84,
+        125,
+        31
+      ]
+    },
+    {
+      "clue": "Failed to hit the target.",
+      "answer": "missed",
+      "answer_letters": "MISSED",
+      "indices": [
+        134,
+        105,
+        117,
+        57,
+        60,
+        122
+      ]
+    },
+    {
+      "clue": "A type of blanket named after a country in South Asia.",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        163,
+        22,
+        37,
+        14,
+        29,
+        154
+      ]
+    },
+    {
+      "clue": "Annual award given to musicians.",
+      "answer": "grammy",
+      "answer_letters": "GRAMMY",
+      "indices": [
+        17,
+        46,
+        76,
+        109,
+        75,
+        72
+      ]
+    },
+    {
+      "clue": "Providing or releasing, as with official documents or statements.",
+      "answer": "issuing",
+      "answer_letters": "ISSUING",
+      "indices": [
+        150,
+        155,
+        132,
+        98,
+        26,
+        165,
+        107
+      ]
+    },
+    {
+      "clue": "A Western hero on horseback.",
+      "answer": "cowboy",
+      "answer_letters": "COWBOY",
+      "indices": [
+        140,
+        97,
+        80,
+        112,
+        171,
+        63
+      ]
+    },
+    {
+      "clue": "A chess piece that moves diagonally.",
+      "answer": "bishop",
+      "answer_letters": "BISHOP",
+      "indices": [
+        166,
+        87,
+        175,
+        9,
+        41,
+        170
+      ]
+    },
+    {
+      "clue": "A repeated process.",
+      "answer": "iteration",
+      "answer_letters": "ITERATION",
+      "indices": [
+        7,
+        152,
+        24,
+        147,
+        10,
+        44,
+        139,
+        1,
+        106
+      ]
+    },
+    {
+      "clue": "Deserving of attention.",
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
+      "indices": [
+        88,
+        167,
+        190,
+        113,
+        172,
+        178,
+        49,
+        104,
+        160,
+        55
+      ]
+    },
+    {
+      "clue": "Legal separation from a spouse.",
+      "answer": "divorce",
+      "answer_letters": "DIVORCE",
+      "indices": [
+        39,
+        74,
+        25,
+        18,
+        142,
+        126,
+        15
+      ]
+    },
+    {
+      "clue": "A way to watch movies and TV shows online.",
+      "answer": "streaming",
+      "answer_letters": "STREAMING",
+      "indices": [
+        99,
+        130,
+        5,
+        94,
+        91,
+        54,
+        129,
+        183,
+        70
+      ]
+    }
+  ],
+  "chat": null
+}

@@ -5,308 +5,308 @@
   "source_letters": "BANANAYOSHIMOTOKITCHEN",
   "clues": [
     {
-      "clue": "To accept as true without proof.",
-      "answer": "believe",
-      "answer_letters": "BELIEVE",
+      "clue": "Had a conviction without proof.",
+      "answer": "believed",
+      "answer_letters": "BELIEVED",
       "indices": [
         184,
-        80,
-        165,
-        31,
-        91,
-        139,
-        77
+        186,
+        137,
+        103,
+        125,
+        167,
+        160,
+        145
       ]
     },
     {
-      "clue": "At any time.",
-      "answer": "always",
-      "answer_letters": "ALWAYS",
+      "clue": "A busy street in New York City famously lined with skyscrapers.",
+      "answer": "avenue",
+      "answer_letters": "AVENUE",
       "indices": [
-        183,
-        185,
-        54,
         14,
-        129,
-        143
+        40,
+        46,
+        176,
+        175,
+        100
       ]
     },
     {
-      "clue": "A female name.",
-      "answer": "nellie",
-      "answer_letters": "NELLIE",
+      "clue": "Recently released or produced.",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
         104,
-        125,
-        55,
-        120,
-        142,
-        160
+        91,
+        10,
+        140,
+        5,
+        48
       ]
     },
     {
-      "clue": "A large religious district.",
-      "answer": "archdiocese",
-      "answer_letters": "ARCHDIOCESE",
+      "clue": "Gaining entry to a computer system or website.",
+      "answer": "accessing",
+      "answer_letters": "ACCESSING",
       "indices": [
-        161,
-        107,
-        28,
-        29,
-        102,
-        56,
-        53,
+        177,
+        32,
         179,
-        26,
+        11,
+        119,
         58,
-        112
+        31,
+        148,
+        170
       ]
     },
     {
-      "clue": "A magazine publication.",
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "clue": "A sharp sewing tool.",
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
       "indices": [
         131,
-        46,
-        69,
-        151,
-        0,
-        100,
-        95,
-        99
+        77,
+        163,
+        85,
+        153,
+        117
       ]
     },
     {
-      "clue": "Recommendation or suggestion given to someone.",
-      "answer": "advice",
-      "answer_letters": "ADVICE",
+      "clue": "To reduce pain or suffering.",
+      "answer": "alleviate",
+      "answer_letters": "ALLEVIATE",
       "indices": [
-        67,
-        92,
-        40,
-        166,
-        32,
-        127
+        161,
+        68,
+        165,
+        36,
+        126,
+        56,
+        89,
+        114,
+        132
       ]
     },
     {
-      "clue": "A bright hue often associated with happiness.",
+      "clue": "A color resembling the sun or a banana.",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
-        146,
-        110,
-        21,
-        43,
+        129,
+        135,
+        52,
+        38,
         130,
         61
       ]
     },
     {
-      "clue": "Extra work hours.",
-      "answer": "overtime",
-      "answer_letters": "OVERTIME",
+      "clue": "Something that triggers anger or displeasure.",
+      "answer": "offense",
+      "answer_letters": "OFFENSE",
+      "indices": [
+        62,
+        76,
+        87,
+        50,
+        105,
+        65,
+        112
+      ]
+    },
+    {
+      "clue": "Shut tightly to prevent air or water from entering or escaping.",
+      "answer": "sealed",
+      "answer_letters": "SEALED",
+      "indices": [
+        72,
+        26,
+        70,
+        43,
+        33,
+        102
+      ]
+    },
+    {
+      "clue": "An archipelago in the Pacific Ocean.",
+      "answer": "hawaii",
+      "answer_letters": "HAWAII",
+      "indices": [
+        1,
+        183,
+        0,
+        78,
+        152,
+        22
+      ]
+    },
+    {
+      "clue": "Against the law or forbidden.",
+      "answer": "illicit",
+      "answer_letters": "ILLICIT",
+      "indices": [
+        142,
+        21,
+        55,
+        166,
+        178,
+        4,
+        23
+      ]
+    },
+    {
+      "clue": "Only or nothing more than what is needed.",
+      "answer": "merely",
+      "answer_letters": "MERELY",
+      "indices": [
+        97,
+        122,
+        107,
+        57,
+        185,
+        71
+      ]
+    },
+    {
+      "clue": "A simple summary.",
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
       "indices": [
         30,
         15,
-        117,
-        63,
-        59,
-        4,
-        97,
-        57
+        127,
+        128,
+        139,
+        7,
+        110,
+        54
       ]
     },
     {
-      "clue": "A system's dirty output.",
-      "answer": "sewage",
-      "answer_letters": "SEWAGE",
+      "clue": "Enabling communication in both directions.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        162,
-        106,
+        79,
+        69,
+        157,
         116,
-        98,
-        149,
-        41
+        67,
+        2
       ]
     },
     {
-      "clue": "Australian tennis player and former world No. 1.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        1,
-        75,
-        35,
-        22,
-        114,
-        8
-      ]
-    },
-    {
-      "clue": "Being apart from others.",
-      "answer": "isolated",
-      "answer_letters": "ISOLATED",
-      "indices": [
-        152,
-        173,
-        62,
-        154,
-        89,
-        24,
-        36,
-        85
-      ]
-    },
-    {
-      "clue": "Wide open spaces with lush green grasses.",
-      "answer": "meadows",
-      "answer_letters": "MEADOWS",
-      "indices": [
-        64,
-        140,
-        70,
-        145,
-        138,
-        10,
-        72
-      ]
-    },
-    {
-      "clue": "Made accessible or visible.",
-      "answer": "opened",
-      "answer_letters": "OPENED",
+      "clue": "The science concerned with light and vision.",
+      "answer": "optics",
+      "answer_letters": "OPTICS",
       "indices": [
         19,
         181,
-        163,
-        169,
-        16,
-        81
-      ]
-    },
-    {
-      "clue": "Italian port city.",
-      "answer": "trieste",
-      "answer_letters": "TRIESTE",
-      "indices": [
-        90,
-        128,
+        156,
         168,
-        121,
-        18,
-        182,
-        11
+        159,
+        151
       ]
     },
     {
-      "clue": "Criminals on the run.",
-      "answer": "outlaws",
-      "answer_letters": "OUTLAWS",
-      "indices": [
-        157,
-        175,
-        23,
-        68,
-        177,
-        134,
-        5
-      ]
-    },
-    {
-      "clue": "Ended someone's life.",
-      "answer": "killed",
-      "answer_letters": "KILLED",
+      "clue": "Famous actress who played Jackie Harris on Roseanne.",
+      "answer": "kelley",
+      "answer_letters": "KELLEY",
       "indices": [
         45,
-        103,
-        137,
-        153,
+        41,
+        25,
+        120,
+        95,
+        146
+      ]
+    },
+    {
+      "clue": "Variations of an element with differing atomic weights.",
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
+      "indices": [
+        39,
+        18,
+        138,
+        8,
+        53,
+        123,
         88,
+        162
+      ]
+    },
+    {
+      "clue": "A novel by Stephenie Meyer.",
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
+      "indices": [
+        59,
+        109,
+        44,
+        154,
+        172,
+        149,
+        13,
+        182
+      ]
+    },
+    {
+      "clue": "One who studies the properties and composition of matter.",
+      "answer": "chemist",
+      "answer_letters": "CHEMIST",
+      "indices": [
+        28,
+        29,
+        16,
+        64,
+        147,
+        143,
+        24
+      ]
+    },
+    {
+      "clue": "Something that has been warmed and is now uncomfortably hot.",
+      "answer": "heated",
+      "answer_letters": "HEATED",
+      "indices": [
+        49,
+        121,
+        98,
+        90,
+        106,
+        92
+      ]
+    },
+    {
+      "clue": "British actor who plays Batman in Christopher Nolan's Batman trilogy.",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
+      "indices": [
+        75,
+        81,
+        35,
+        113,
+        63,
         74
       ]
     },
     {
-      "clue": "Home country for pizza and gelato.",
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
+      "clue": "Magazine that has been around since 1933.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
-        172,
-        79,
-        113,
-        25,
-        2,
-        65
-      ]
-    },
-    {
-      "clue": "Total number of months in a year.",
-      "answer": "twelve",
-      "answer_letters": "TWELVE",
-      "indices": [
-        48,
-        109,
-        122,
-        38,
-        126,
-        132
-      ]
-    },
-    {
-      "clue": "Someone who is not a member of the military or law enforcement.",
-      "answer": "civilian",
-      "answer_letters": "CIVILIAN",
-      "indices": [
-        159,
-        7,
-        167,
-        39,
-        52,
-        44,
-        78,
-        105
-      ]
-    },
-    {
-      "clue": "The practice of maintaining cleanliness and good health.",
-      "answer": "hygiene",
-      "answer_letters": "HYGIENE",
-      "indices": [
-        49,
-        71,
-        170,
-        147,
+        169,
+        80,
+        94,
+        173,
+        134,
         180,
-        176,
-        33
-      ]
-    },
-    {
-      "clue": "The outcomes or consequences of something.",
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
-      "indices": [
-        50,
-        87,
-        76,
         86,
-        178,
-        156,
-        119
-      ]
-    },
-    {
-      "clue": "A male relative of yours' sibling.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        148,
-        135,
-        123,
-        13,
-        186,
-        94
+        99
       ]
     }
   ],

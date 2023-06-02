@@ -1,0 +1,312 @@
+{
+  "quote": "Nothing fortified me, and simple loneliness all but destroyed me, yet I felt swamped by the belief that life must mean something- otherwise why was it there? Why was anything anything?",
+  "quote_letters": "NOTHING FORTIFIED ME AND SIMPLE LONELINESS ALL BUT DESTROYED ME YET I FELT SWAMPED BY THE BELIEF THAT LIFE MUST MEAN SOMETHING- OTHERWISE WHY WAS IT THERE WHY WAS ANYTHING ANYTHING",
+  "source": "Morrissey, Autobiography",
+  "source_letters": "MORRISSEYAUTOBIOGRAPHY",
+  "clues": [
+    {
+      "clue": "A chemical compound commonly found in organic molecules.",
+      "answer": "methyl",
+      "answer_letters": "METHYL",
+      "indices": [
+        112,
+        136,
+        147,
+        139,
+        84,
+        102
+      ]
+    },
+    {
+      "clue": "A condition characterized by excessive body weight and adipose tissue.",
+      "answer": "obesity",
+      "answer_letters": "OBESITY",
+      "indices": [
+        1,
+        47,
+        58,
+        135,
+        123,
+        175,
+        174
+      ]
+    },
+    {
+      "clue": "HTML attribute for merging cells vertically.",
+      "answer": "rowspan",
+      "answer_letters": "ROWSPAN",
+      "indices": [
+        10,
+        118,
+        138,
+        53,
+        28,
+        77,
+        178
+      ]
+    },
+    {
+      "clue": "A pattern of beats and accents in music.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        132,
+        87,
+        157,
+        129,
+        98,
+        18
+      ]
+    },
+    {
+      "clue": "A purpose or goal.",
+      "answer": "intent",
+      "answer_letters": "INTENT",
+      "indices": [
+        168,
+        0,
+        166,
+        131,
+        22,
+        86
+      ]
+    },
+    {
+      "clue": "Appeared to be.",
+      "answer": "seemed",
+      "answer_letters": "SEEMED",
+      "indices": [
+        75,
+        105,
+        91,
+        27,
+        62,
+        59
+      ]
+    },
+    {
+      "clue": "Native American tribe from the Great Plains.",
+      "answer": "shawnee",
+      "answer_letters": "SHAWNEE",
+      "indices": [
+        41,
+        122,
+        143,
+        142,
+        124,
+        30,
+        15
+      ]
+    },
+    {
+      "clue": "Symbol representing an organization or country.",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
+      "indices": [
+        35,
+        119,
+        83,
+        36,
+        120,
+        107
+      ]
+    },
+    {
+      "clue": "A color that is similar to the hue of ripe bananas.",
+      "answer": "yellowish",
+      "answer_letters": "YELLOWISH",
+      "indices": [
+        140,
+        19,
+        32,
+        92,
+        33,
+        155,
+        103,
+        109,
+        176
+      ]
+    },
+    {
+      "clue": "Greek goddess of wisdom and war.",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
+      "indices": [
+        172,
+        66,
+        3,
+        52,
+        5,
+        43
+      ]
+    },
+    {
+      "clue": "An Islamic caliphate dynasty ruling from 661 to 750.",
+      "answer": "umayyad",
+      "answer_letters": "UMAYYAD",
+      "indices": [
+        48,
+        78,
+        21,
+        57,
+        165,
+        114,
+        51
+      ]
+    },
+    {
+      "clue": "Common recurring ideas in literature, art, or music.",
+      "answer": "themes",
+      "answer_letters": "THEMES",
+      "indices": [
+        49,
+        150,
+        153,
+        61,
+        39,
+        25
+      ]
+    },
+    {
+      "clue": "A printing technique using ink and a plate.",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        128,
+        8,
+        104,
+        40,
+        94,
+        97
+      ]
+    },
+    {
+      "clue": "Position located at the back.",
+      "answer": "behind",
+      "answer_letters": "BEHIND",
+      "indices": [
+        90,
+        113,
+        156,
+        12,
+        38,
+        23
+      ]
+    },
+    {
+      "clue": "Borough of London known for its trendy nightlife and popular marketplace.",
+      "answer": "islington",
+      "answer_letters": "ISLINGTON",
+      "indices": [
+        93,
+        161,
+        44,
+        26,
+        164,
+        125,
+        110,
+        9,
+        34
+      ]
+    },
+    {
+      "clue": "Having possession of something.",
+      "answer": "owning",
+      "answer_letters": "OWNING",
+      "indices": [
+        56,
+        159,
+        169,
+        14,
+        115,
+        179
+      ]
+    },
+    {
+      "clue": "Legendary Swedish king who ruled during the 18th century.",
+      "answer": "gustaf",
+      "answer_letters": "GUSTAF",
+      "indices": [
+        6,
+        108,
+        144,
+        2,
+        160,
+        13
+      ]
+    },
+    {
+      "clue": "Changed in wording or composition.",
+      "answer": "rewritten",
+      "answer_letters": "REWRITTEN",
+      "indices": [
+        55,
+        65,
+        76,
+        152,
+        146,
+        54,
+        149,
+        88,
+        173
+      ]
+    },
+    {
+      "clue": "Having a connection to an organization or group.",
+      "answer": "affiliated",
+      "answer_letters": "AFFILIATED",
+      "indices": [
+        163,
+        95,
+        70,
+        68,
+        72,
+        134,
+        99,
+        100,
+        151,
+        16
+      ]
+    },
+    {
+      "clue": "A difficult or challenging situation.",
+      "answer": "plight",
+      "answer_letters": "PLIGHT",
+      "indices": [
+        79,
+        45,
+        4,
+        170,
+        130,
+        121
+      ]
+    },
+    {
+      "clue": "Tennis player who won the US Open in 2001.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        167,
+        71,
+        133,
+        37,
+        73,
+        11
+      ]
+    },
+    {
+      "clue": "Produces, as crops or profits.",
+      "answer": "yields",
+      "answer_letters": "YIELDS",
+      "indices": [
+        64,
+        177,
+        80,
+        29,
+        81,
+        117
+      ]
+    }
+  ],
+  "chat": null
+}

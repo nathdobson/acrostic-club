@@ -5,298 +5,298 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "People who answer questions or participate in a survey.",
-      "answer": "respondents",
-      "answer_letters": "RESPONDENTS",
+      "clue": "An adverb used to indicate preference or degree.",
+      "answer": "rather",
+      "answer_letters": "RATHER",
       "indices": [
-        172,
-        178,
-        124,
-        121,
-        21,
-        111,
-        37,
-        7,
-        157,
-        96,
-        29
+        101,
+        5,
+        0,
+        14,
+        18,
+        78
       ]
     },
     {
-      "clue": "To have a specific purpose.",
-      "answer": "intend",
-      "answer_letters": "INTEND",
+      "clue": "Arranged in alphabetical or numerical order.",
+      "answer": "indexed",
+      "answer_letters": "INDEXED",
       "indices": [
-        30,
-        149,
-        12,
-        24,
-        28,
-        25
-      ]
-    },
-    {
-      "clue": "A female name.",
-      "answer": "christy",
-      "answer_letters": "CHRISTY",
-      "indices": [
-        114,
-        91,
-        62,
-        119,
-        137,
-        94,
-        163
-      ]
-    },
-    {
-      "clue": "Actor Bogart's first name.",
-      "answer": "humphrey",
-      "answer_letters": "HUMPHREY",
-      "indices": [
-        84,
-        131,
-        74,
-        20,
-        68,
-        93,
-        32,
-        129
-      ]
-    },
-    {
-      "clue": "Shakespearean king with the same name.",
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        110,
+        179,
+        168,
         31,
+        61,
+        19,
+        24,
+        117
+      ]
+    },
+    {
+      "clue": "The center of government.",
+      "answer": "capital",
+      "answer_letters": "CAPITAL",
+      "indices": [
+        72,
+        15,
+        20,
+        82,
+        96,
+        85,
+        128
+      ]
+    },
+    {
+      "clue": "Assisted in completing a task.",
+      "answer": "helped",
+      "answer_letters": "HELPED",
+      "indices": [
+        10,
+        151,
+        162,
+        121,
+        2,
+        48
+      ]
+    },
+    {
+      "clue": "A feeling inside.",
+      "answer": "emotion",
+      "answer_letters": "EMOTION",
+      "indices": [
+        145,
+        74,
+        73,
+        66,
+        125,
+        171,
+        111
+      ]
+    },
+    {
+      "clue": "A key element of stage production.",
+      "answer": "lighting",
+      "answer_letters": "LIGHTING",
+      "indices": [
+        22,
+        119,
+        161,
+        84,
+        150,
+        38,
+        55,
+        6
+      ]
+    },
+    {
+      "clue": "NFL position that blocks for the quarterback.",
+      "answer": "lineman",
+      "answer_letters": "LINEMAN",
+      "indices": [
+        123,
+        65,
+        146,
+        127,
+        174,
+        156,
+        104
+      ]
+    },
+    {
+      "clue": "The result of a cause.",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        144,
+        170,
+        40,
+        7,
+        114,
+        132
+      ]
+    },
+    {
+      "clue": "Hairstyle famously worn by Travis Barker.",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
+      "indices": [
+        120,
+        21,
+        91,
+        140,
+        57,
+        54
+      ]
+    },
+    {
+      "clue": "Made changes to written work.",
+      "answer": "edited",
+      "answer_letters": "EDITED",
+      "indices": [
+        178,
+        44,
+        136,
+        115,
+        32,
+        16
+      ]
+    },
+    {
+      "clue": "Confesses to wrongdoing or truthfully acknowledges something.",
+      "answer": "admits",
+      "answer_letters": "ADMITS",
+      "indices": [
+        11,
+        70,
         80,
-        41,
-        51,
+        27,
+        12,
+        42
+      ]
+    },
+    {
+      "clue": "No longer in a romantic relationship.",
+      "answer": "dumped",
+      "answer_letters": "DUMPED",
+      "indices": [
+        25,
+        122,
+        98,
+        99,
+        63,
         181
       ]
     },
     {
-      "clue": "A Greek letter often used in mathematical notations.",
-      "answer": "lambda",
-      "answer_letters": "LAMBDA",
+      "clue": "Established a popular social media platform, past participle.",
+      "answer": "founded",
+      "answer_letters": "FOUNDED",
       "indices": [
-        123,
-        156,
-        98,
-        130,
-        141,
-        5
-      ]
-    },
-    {
-      "clue": "The span of one's existence.",
-      "answer": "lifetime",
-      "answer_letters": "LIFETIME",
-      "indices": [
-        22,
-        179,
-        108,
-        144,
-        0,
-        38,
-        120,
-        100
-      ]
-    },
-    {
-      "clue": "A city in Oklahoma.",
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        165,
-        48,
-        34,
-        171,
-        152,
-        105
-      ]
-    },
-    {
-      "clue": "A cosmetic product.",
-      "answer": "makeup",
-      "answer_letters": "MAKEUP",
-      "indices": [
-        174,
-        113,
-        54,
-        61,
+        39,
+        92,
         160,
-        99
+        149,
+        105,
+        165,
+        23
       ]
     },
     {
-      "clue": "The numerical position after seventh.",
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
+      "clue": "Changed the order of a set of figures.",
+      "answer": "renumbered",
+      "answer_letters": "RENUMBERED",
       "indices": [
-        154,
+        4,
+        75,
+        152,
+        41,
+        34,
+        130,
+        43,
+        172,
+        175,
+        86
+      ]
+    },
+    {
+      "clue": "A state located on the east coast of India.",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        79,
+        158,
         46,
-        6,
+        124,
         60,
+        103
+      ]
+    },
+    {
+      "clue": "Collects opinions and data from individuals or groups.",
+      "answer": "surveys",
+      "answer_letters": "SURVEYS",
+      "indices": [
+        90,
+        131,
+        93,
+        126,
+        100,
+        129,
+        153
+      ]
+    },
+    {
+      "clue": "American president known for championing national parks and nature conservation.",
+      "answer": "theodore",
+      "answer_letters": "THEODORE",
+      "indices": [
+        109,
+        68,
+        116,
+        107,
+        141,
+        56,
+        180,
+        97
+      ]
+    },
+    {
+      "clue": "A measure of data transfer capacity.",
+      "answer": "bandwidth",
+      "answer_letters": "BANDWIDTH",
+      "indices": [
+        143,
+        69,
+        28,
+        37,
+        177,
+        148,
+        50,
         9,
         1
       ]
     },
     {
-      "clue": "Part of a larger group.",
-      "answer": "affiliated",
-      "answer_letters": "AFFILIATED",
+      "clue": "A historic city located in Iran.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
       "indices": [
-        103,
-        170,
-        40,
-        49,
-        128,
-        27,
-        11,
-        66,
-        175,
-        44
-      ]
-    },
-    {
-      "clue": "To lose a battle or contest.",
-      "answer": "defeat",
-      "answer_letters": "DEFEAT",
-      "indices": [
-        16,
-        63,
-        39,
-        151,
-        85,
-        115
-      ]
-    },
-    {
-      "clue": "An instrument with strings.",
-      "answer": "fiddle",
-      "answer_letters": "FIDDLE",
-      "indices": [
+        30,
+        29,
         77,
-        82,
-        158,
-        50,
-        162,
-        116
+        113,
+        135,
+        88,
+        157
       ]
     },
     {
-      "clue": "A place typically found near a highway or street.",
-      "answer": "roadside",
-      "answer_letters": "ROADSIDE",
-      "indices": [
-        101,
-        79,
-        69,
-        86,
-        153,
-        125,
-        70,
-        43
-      ]
-    },
-    {
-      "clue": "City in Mexico known for its colorful culture and delicious cuisine.",
-      "answer": "oaxaca",
-      "answer_letters": "OAXACA",
-      "indices": [
-        92,
-        140,
-        19,
-        15,
-        72,
-        88
-      ]
-    },
-    {
-      "clue": "A daily activity to cleanse oneself.",
-      "answer": "shower",
-      "answer_letters": "SHOWER",
-      "indices": [
-        42,
-        139,
-        56,
-        57,
-        97,
-        78
-      ]
-    },
-    {
-      "clue": "Despite it.",
-      "answer": "though",
-      "answer_letters": "THOUGH",
-      "indices": [
-        132,
-        10,
-        107,
-        122,
-        161,
-        14
-      ]
-    },
-    {
-      "clue": "Last name of British author of \"Pride and Prejudice\".",
-      "answer": "bennett",
-      "answer_letters": "BENNETT",
-      "indices": [
-        143,
-        145,
-        168,
-        146,
-        167,
-        52,
-        109
-      ]
-    },
-    {
-      "clue": "A process of questioning potential candidates.",
-      "answer": "interviews",
-      "answer_letters": "INTERVIEWS",
-      "indices": [
-        148,
-        55,
-        150,
-        18,
-        4,
-        166,
-        65,
-        35,
-        177,
-        90
-      ]
-    },
-    {
-      "clue": "To be successful and grow vigorously.",
-      "answer": "thrive",
-      "answer_letters": "THRIVE",
+      "clue": "One quarter of a hundred.",
+      "answer": "twenty-five",
+      "answer_letters": "TWENTYFIVE",
       "indices": [
         134,
-        135,
-        180,
-        136,
-        126,
-        75
+        59,
+        35,
+        51,
+        94,
+        163,
+        108,
+        49,
+        166,
+        167
       ]
     },
     {
-      "clue": "Having natural gifts or talents.",
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
+      "clue": "One of the heroes of the Old Testament.",
+      "answer": "esther",
+      "answer_letters": "ESTHER",
       "indices": [
-        2,
-        104,
-        23,
-        73,
-        59,
-        127,
-        117
+        154,
+        137,
+        52,
+        139,
+        110,
+        62
       ]
     }
   ],

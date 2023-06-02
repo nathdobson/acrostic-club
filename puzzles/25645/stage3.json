@@ -5,290 +5,290 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "A boy's name.",
-      "answer": "richie",
-      "answer_letters": "RICHIE",
+      "clue": "To spin on an axis.",
+      "answer": "rotate",
+      "answer_letters": "ROTATE",
       "indices": [
         66,
-        108,
-        4,
-        36,
-        52,
-        178
-      ]
-    },
-    {
-      "clue": "A variant form of an element.",
-      "answer": "isotope",
-      "answer_letters": "ISOTOPE",
-      "indices": [
-        99,
-        33,
-        152,
-        111,
-        176,
-        154,
-        67
-      ]
-    },
-    {
-      "clue": "Collaborative writer.",
-      "answer": "co-editor",
-      "answer_letters": "COEDITOR",
-      "indices": [
-        12,
-        128,
-        73,
-        130,
-        47,
-        151,
-        91,
-        155
-      ]
-    },
-    {
-      "clue": "Someone who swings a bat or racket at a ball.",
-      "answer": "hitter",
-      "answer_letters": "HITTER",
-      "indices": [
-        112,
-        96,
-        143,
-        97,
-        115,
-        42
-      ]
-    },
-    {
-      "clue": "The sum of 70 and 10.",
-      "answer": "eighty",
-      "answer_letters": "EIGHTY",
-      "indices": [
-        65,
-        102,
-        123,
-        163,
-        90,
-        171
-      ]
-    },
-    {
-      "clue": "A game of chance involving tickets and cash prizes.",
-      "answer": "lottery",
-      "answer_letters": "LOTTERY",
-      "indices": [
-        87,
-        166,
-        45,
-        56,
-        83,
-        22,
-        117
-      ]
-    },
-    {
-      "clue": "Pleasing to the senses.",
-      "answer": "lovely",
-      "answer_letters": "LOVELY",
-      "indices": [
-        175,
-        41,
-        177,
-        18,
-        15,
-        69
-      ]
-    },
-    {
-      "clue": "The numerical position after seventh.",
-      "answer": "eighth",
-      "answer_letters": "EIGHTH",
-      "indices": [
-        158,
-        26,
-        75,
-        134,
-        79,
-        64
-      ]
-    },
-    {
-      "clue": "A European male name.",
-      "answer": "moritz",
-      "answer_letters": "MORITZ",
-      "indices": [
-        95,
-        16,
-        38,
-        142,
-        7,
-        27
-      ]
-    },
-    {
-      "clue": "Multiple versions of a publication.",
-      "answer": "editions",
-      "answer_letters": "EDITIONS",
-      "indices": [
-        88,
-        94,
-        55,
-        32,
-        44,
-        124,
-        167,
-        149
-      ]
-    },
-    {
-      "clue": "A long, straight road in a city.",
-      "answer": "avenue",
-      "answer_letters": "AVENUE",
-      "indices": [
-        93,
-        17,
-        23,
-        49,
-        71,
-        39
-      ]
-    },
-    {
-      "clue": "Deeply religious.",
-      "answer": "devout",
-      "answer_letters": "DEVOUT",
-      "indices": [
-        29,
-        113,
-        72,
-        10,
-        2,
-        160
-      ]
-    },
-    {
-      "clue": "A high-speed road with multiple lanes.",
-      "answer": "freeway",
-      "answer_letters": "FREEWAY",
-      "indices": [
-        53,
-        140,
-        137,
-        13,
-        133,
-        146,
-        0
-      ]
-    },
-    {
-      "clue": "To start up again.",
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
-      "indices": [
-        11,
-        164,
-        86,
-        60,
-        1,
-        63
-      ]
-    },
-    {
-      "clue": "The beginning or starting point.",
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
         80,
-        119,
-        61,
-        169,
-        28,
-        100
-      ]
-    },
-    {
-      "clue": "A legal rule.",
-      "answer": "statute",
-      "answer_letters": "STATUTE",
-      "indices": [
-        48,
-        145,
-        135,
-        162,
-        173,
-        136,
-        139
-      ]
-    },
-    {
-      "clue": "A permanent body marking.",
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        106,
-        85,
+        111,
+        93,
         50,
-        127,
-        156,
-        70
+        158
       ]
     },
     {
-      "clue": "Someone who studies plants.",
-      "answer": "botanist",
-      "answer_letters": "BOTANIST",
+      "clue": "Large-scale commercial operations.",
+      "answer": "industries",
+      "answer_letters": "INDUSTRIES",
       "indices": [
-        82,
-        172,
-        157,
-        24,
+        102,
         59,
-        20,
-        57,
-        77
+        130,
+        2,
+        169,
+        157,
+        38,
+        105,
+        83,
+        33
       ]
     },
     {
-      "clue": "Require participation.",
-      "answer": "involve",
-      "answer_letters": "INVOLVE",
+      "clue": "A wily predator found in many parts of North America.",
+      "answer": "coyote",
+      "answer_letters": "COYOTE",
       "indices": [
-        105,
-        6,
-        138,
-        76,
-        25,
-        120,
+        4,
+        10,
+        0,
+        152,
+        61,
         168
       ]
     },
     {
-      "clue": "The moment when a plane leaves the ground.",
-      "answer": "takeoff",
-      "answer_letters": "TAKEOFF",
+      "clue": "Capital city of Tasmania, Australia.",
+      "answer": "hobart",
+      "answer_letters": "HOBART",
       "indices": [
-        35,
-        5,
-        147,
-        37,
-        131,
-        103,
-        9
+        64,
+        124,
+        86,
+        85,
+        114,
+        35
       ]
     },
     {
-      "clue": "Known or understood by only a few.",
-      "answer": "esoteric",
-      "answer_letters": "ESOTERIC",
+      "clue": "Forced removal from a property.",
+      "answer": "eviction",
+      "answer_letters": "EVICTION",
       "indices": [
-        148,
-        109,
-        118,
+        164,
+        138,
+        26,
+        159,
+        127,
+        44,
+        176,
+        49
+      ]
+    },
+    {
+      "clue": "Revolutionary War hero and French military officer.",
+      "answer": "lafayette",
+      "answer_letters": "LAFAYETTE",
+      "indices": [
+        87,
+        146,
+        9,
+        24,
+        69,
+        73,
+        100,
+        151,
+        18
+      ]
+    },
+    {
+      "clue": "A person on a ship or tower who watches for danger.",
+      "answer": "lookout",
+      "answer_letters": "LOOKOUT",
+      "indices": [
+        175,
+        128,
+        172,
+        147,
+        70,
+        119,
+        160
+      ]
+    },
+    {
+      "clue": "A descriptive nickname given to Achilles in Homer's Iliad.",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        113,
+        154,
+        20,
+        143,
+        36,
+        37,
+        45
+      ]
+    },
+    {
+      "clue": "The driving forces behind one's actions and decisions.",
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
+      "indices": [
+        95,
+        1,
         125,
+        96,
+        17,
+        28,
+        109
+      ]
+    },
+    {
+      "clue": "Used to indicate a choice between two options.",
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        137,
+        52,
+        106,
+        134,
+        148,
+        42
+      ]
+    },
+    {
+      "clue": "A group of islands in the Atlantic Ocean.",
+      "answer": "azores",
+      "answer_letters": "AZORES",
+      "indices": [
+        5,
+        27,
+        91,
+        140,
+        39,
+        48
+      ]
+    },
+    {
+      "clue": "Committed to religious faith.",
+      "answer": "devout",
+      "answer_letters": "DEVOUT",
+      "indices": [
+        29,
+        65,
+        72,
+        16,
+        173,
+        63
+      ]
+    },
+    {
+      "clue": "To fail to remember something.",
+      "answer": "forget",
+      "answer_letters": "FORGET",
+      "indices": [
+        53,
+        166,
+        22,
+        123,
+        178,
+        162
+      ]
+    },
+    {
+      "clue": "Director known for the Sherlock Holmes films starring Robert Downey Jr.",
+      "answer": "ritchie",
+      "answer_letters": "RITCHIE",
+      "indices": [
+        11,
+        108,
+        7,
+        12,
+        112,
+        99,
+        23
+      ]
+    },
+    {
+      "clue": "A set of clothing.",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        118,
+        71,
+        136,
+        103,
+        55,
+        32
+      ]
+    },
+    {
+      "clue": "Not as fast.",
+      "answer": "slower",
+      "answer_letters": "SLOWER",
+      "indices": [
+        149,
+        25,
+        60,
+        133,
+        13,
+        155
+      ]
+    },
+    {
+      "clue": "City in Ohio known for its glass industry.",
+      "answer": "toledo",
+      "answer_letters": "TOLEDO",
+      "indices": [
+        79,
+        156,
+        15,
+        139,
+        94,
+        41
+      ]
+    },
+    {
+      "clue": "Capital city of Colombia.",
+      "answer": "bogotá",
+      "answer_letters": "BOGOTA",
+      "indices": [
+        82,
+        131,
+        75,
+        76,
+        97,
+        135
+      ]
+    },
+    {
+      "clue": "Asks people to come to an event.",
+      "answer": "invites",
+      "answer_letters": "INVITES",
+      "indices": [
+        47,
+        167,
+        120,
+        142,
+        145,
+        67,
+        57
+      ]
+    },
+    {
+      "clue": "A contraction used to indicate the present perfect tense.",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
+      "indices": [
+        90,
+        163,
+        88,
+        171,
+        177,
+        115
+      ]
+    },
+    {
+      "clue": "A philosophical term for something that exists and can be recognized.",
+      "answer": "entity",
+      "answer_letters": "ENTITY",
+      "indices": [
         121,
-        114,
+        6,
+        56,
         31,
-        159
+        77,
+        117
       ]
     }
   ],
