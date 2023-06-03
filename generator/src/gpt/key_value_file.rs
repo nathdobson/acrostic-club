@@ -12,7 +12,6 @@ use parking_lot::Mutex;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::async_once::AsyncOnce;
 use safe_once_async::sync::AsyncOnceLock;
-use safe_once_map::async_once_map::AsyncOnceLockMap;
 use serde::de::DeserializeOwned;
 use tokio::fs::{File, OpenOptions};
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
@@ -23,6 +22,7 @@ use tokio::task::JoinHandle;
 use tempfile::{tempdir, tempfile, TempPath};
 use crate::util::lazy_async::CloneError;
 use std::backtrace::Backtrace;
+use safe_once_map::sync::AsyncOnceLockMap;
 
 pub struct KeyValueFile<K, V> {
     // map: Mutex<HashMap<K, Arc<AsyncOnceLock<anyhow::Result<Arc<V>>>>>>,
