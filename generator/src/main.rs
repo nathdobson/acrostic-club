@@ -86,8 +86,6 @@ pub mod conflict_set;
 pub mod subseq;
 mod banned;
 mod add_letters;
-mod serialize;
-// mod serialize;
 
 use add_letters::add_letters;
 use crate::stream::StreamExt;
