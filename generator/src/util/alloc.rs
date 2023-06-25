@@ -4,12 +4,16 @@ use std::fmt::Debug;
 use std::mem::size_of;
 use std::path::{Path, PathBuf};
 use std::ptr::{NonNull, null_mut, slice_from_raw_parts};
+use csv::ErrorKind;
 
 use memmap::{Mmap, MmapMut, MmapOptions};
+use rkyv::{Archive, Archived, CheckBytes, Fallible, Serialize};
+use rkyv::ser::serializers::AllocSerializer;
+use rkyv::validation::validators::DefaultValidator;
 use tokio::fs::File;
 use acrostic_core::letter::LetterSet;
 
-use crate::write_path;
+use crate::{Deserialize, read_path, write_path};
 
 pub struct MmapAllocator {
     file: File,
@@ -32,6 +36,18 @@ unsafe impl<A, B> AnyRepr for (A, B)
         A: AnyRepr,
         B: AnyRepr,
 {}
+
+pub async fn save_rkyv<T: Archive + Serialize<AllocSerializer<256>>>(file: &Path, value: &T) -> io::Result<()> {
+    write_path(file, &rkyv::to_bytes::<_, 256>(value).map_err(|e| {
+        io::Error::new(io::ErrorKind::InvalidInput, e)
+    })?).await?;
+    Ok(())
+}
+
+pub async fn restore_rkyv<T: Archive>(file: &Path) -> io::Result<&'static Archived<T>> where for<'a> Archived<T>: CheckBytes<DefaultValidator<'a>> {
+    let data: &'static Vec<u8> = Box::leak(Box::new(read_path(file).await?));
+    Ok(rkyv::validation::validators::check_archived_root::<T>(&data).map_err(|e| { io::Error::new(io::ErrorKind::InvalidInput, format!("{:?}", e)) })?)
+}
 
 pub async fn save_vec<T: AnyRepr>(file: &Path, value: &[T]) -> io::Result<()> {
     unsafe {
@@ -94,3 +110,4 @@ pub async fn restore_vec<T: AnyRepr>(filename: &Path) -> io::Result<Box<[T], Mma
 //     save_vec(Path::new(file), &value);
 //     assert_eq!(*value, *restore_vec::<u32>(Path::new(file)));
 // }
+

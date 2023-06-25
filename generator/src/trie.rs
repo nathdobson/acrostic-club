@@ -19,6 +19,7 @@ use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::PACKAGE_PATH;
 use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
+use crate::util::lazy_async::CloneError;
 use crate::util::parallel::Parallelism;
 
 #[repr(C)]
@@ -281,7 +282,7 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 }
 
 pub async fn build_trie() -> io::Result<()> {
-    let dict = FLAT_WORDS.get().await?;
+    let dict = FLAT_WORDS.get().await.clone_error()?;
     let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
     for l in Letter::all() {
@@ -293,7 +294,7 @@ pub async fn build_trie() -> io::Result<()> {
         }
     }
     let mut words = vec![];
-    for word in &*dict {
+    for word in dict.iter() {
         if word.letters.count() > 5 {
             words.push(word);
         }

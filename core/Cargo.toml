@@ -9,3 +9,4 @@ edition = "2021"
 serde = "1.0.156"
 rand = "0.8.5"
 any_ascii = "0.1.2"
+rkyv = { version = "0.7.40", features = ["validation"] }

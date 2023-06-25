@@ -11,31 +11,35 @@ use acrostic_core::letter::{Letter, LetterSet};
 use crate::{PACKAGE_PATH, read_path_to_string};
 use crate::banned::BANNED_WORDS;
 
-use crate::util::alloc::{AnyRepr, save_vec};
-use crate::util::lazy_async::LazyMmap;
-// use crate::util::lazy_async::LazyMmap;
+use crate::util::alloc::{AnyRepr, restore_rkyv, save_rkyv, save_vec};
+use crate::util::lazy_async::{CloneError, LazyMmap};
+use rkyv::{Archive, Archived};
+use safe_once_async::async_lazy::AsyncLazy;
+use safe_once_async::async_static::AsyncStatic;
+use safe_once_async::sync::AsyncStaticLock;
 
-// use crate::util::lazy_async::LazyMmap;
-
-#[derive(Debug)]
-#[repr(C)]
-pub struct FlatWord {
-    pub word: ArrayString<256>,
-    pub letter_vec: ArrayVec<Letter, 128>,
+#[derive(Archive, rkyv::Deserialize, rkyv::Serialize)]
+#[archive(check_bytes, archived = "FlatWord")]
+pub struct FlatWordBuilder {
+    pub word: String,
+    pub letter_vec: Vec<Letter>,
     pub letters: LetterSet,
     pub frequency: u64,
 }
 
 unsafe impl AnyRepr for FlatWord {}
 
-pub static FLAT_WORDS: LazyMmap<FlatWord> =
-    LazyMmap::<FlatWord>::new(|| PACKAGE_PATH.join("build/dict.dat"));
+// pub static FLAT_WORDS: LazyMmap<FlatWord> =
+//     LazyMmap::<FlatWord>::new(|| PACKAGE_PATH.join("build/dict.dat"));
 
+pub static FLAT_WORDS: AsyncStaticLock<io::Result<&'static Archived<Vec<FlatWordBuilder>>>> = AsyncStatic::new(async {
+    restore_rkyv::<Vec<FlatWordBuilder>>(&PACKAGE_PATH.join("build/dict.dat")).await
+});
 
-// #[test]
-// fn test_flat_word() {
-//     println!("{:?}", FlatWord::get());
-// }
+#[tokio::test]
+async fn test_flat_word() {
+    println!("{:?}", FLAT_WORDS.get().await.clone_error().unwrap().len());
+}
 
 pub async fn build_dict() -> io::Result<()> {
     let contents = read_path_to_string(
@@ -49,7 +53,7 @@ pub async fn build_dict() -> io::Result<()> {
         }
         let (word, freq) = line.split_once(" ").unwrap();
         let freq: usize = freq.parse().unwrap();
-        let mut letter_vec = ArrayVec::new();
+        let mut letter_vec = Vec::new();
         let mut letters = LetterSet::new();
         for c in any_ascii::any_ascii(&word).chars() {
             if let Ok(letter) = Letter::new(c.try_into().unwrap()) {
@@ -58,7 +62,7 @@ pub async fn build_dict() -> io::Result<()> {
             }
         }
         if !BANNED_WORDS.contains(word) {
-            words.push(FlatWord {
+            words.push(FlatWordBuilder {
                 word: (*word.to_string()).try_into().unwrap(),
                 letter_vec,
                 letters,
@@ -67,6 +71,6 @@ pub async fn build_dict() -> io::Result<()> {
         }
     }
 
-    save_vec(&PACKAGE_PATH.join("build/dict.dat"), &words).await?;
+    save_rkyv(&PACKAGE_PATH.join("build/dict.dat"), &words).await?;
     Ok(())
 }

@@ -11,6 +11,7 @@ use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::PACKAGE_PATH;
 use crate::trie::{FlatTrie, FlatTrieEntry};
 use crate::util::alloc::MmapAllocator;
+use crate::util::lazy_async::CloneError;
 // use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;
@@ -45,7 +46,7 @@ impl FlatTrieTable {
                 );
             }
             Ok(FlatTrieTable {
-                dict: FLAT_WORDS.get().await?,
+                dict: FLAT_WORDS.get().await.clone_error()?,
                 unary,
                 binary,
             })

@@ -188,6 +188,8 @@ class Puzzle {
         this.solution = document.createElement("p")
         this.solution.className = "solution"
         this.solution.appendChild(document.createTextNode(puzzle.quote))
+        this.solution.appendChild(document.createElement("br"))
+        this.solution.appendChild(document.createTextNode(puzzle.source))
         this.solution.style.display = "none"
         this.div.appendChild(this.solution)
 

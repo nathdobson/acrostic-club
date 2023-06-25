@@ -22,6 +22,15 @@
 #![feature(provide_any)]
 #![feature(impl_trait_in_assoc_type)]
 #![feature(unboxed_closures)]
+#![feature(impl_trait_projections)]
+#![feature(arbitrary_self_types)]
+#![feature(unwrap_infallible)]
+#![feature(associated_type_defaults)]
+#![feature(never_type)]
+#![feature(offset_of)]
+#![feature(raw_ref_op)]
+#![feature(ptr_metadata)]
+#![feature(layout_for_ptr)]
 
 extern crate core;
 
@@ -77,6 +86,8 @@ pub mod conflict_set;
 pub mod subseq;
 mod banned;
 mod add_letters;
+mod serialize;
+// mod serialize;
 
 use add_letters::add_letters;
 use crate::stream::StreamExt;

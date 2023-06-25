@@ -10,6 +10,7 @@ use rand::Rng;
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
 use serde::de::{Error, Visitor};
 use any_ascii::any_ascii;
+use rkyv::{Archive, Archived, Fallible, Infallible};
 
 #[derive(Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash, Default)]
 pub struct Letter(u8);
@@ -50,31 +51,30 @@ impl Letter {
 pub struct LetterMap<V>([V; Letter::LETTERS]);
 
 #[derive(Eq, Ord, PartialEq, PartialOrd, Hash, Copy, Clone, Default)]
-#[repr(C)]
 pub struct LetterSet(LetterMap<u8>);
 
 
 impl<V> LetterMap<V> {
     pub fn new() -> Self
-    where
-        V: Default,
+        where
+            V: Default,
     {
         LetterMap(default())
     }
     pub fn map<V2>(self, f: impl FnMut(V) -> V2) -> LetterMap<V2> { LetterMap(self.0.map(f)) }
-    pub fn iter(&self) -> impl Iterator<Item = (Letter, &V)> + Clone {
+    pub fn iter(&self) -> impl Iterator<Item=(Letter, &V)> + Clone {
         self.0
             .iter()
             .enumerate()
             .map(|(l, v)| (Letter(l.try_into().unwrap()), v))
     }
-    pub fn iter_mut(&mut self) -> impl Iterator<Item = (Letter, &mut V)> {
+    pub fn iter_mut(&mut self) -> impl Iterator<Item=(Letter, &mut V)> {
         self.0
             .iter_mut()
             .enumerate()
             .map(|(l, v)| (Letter(l.try_into().unwrap()), v))
     }
-    pub fn into_iter(self) -> impl Iterator<Item = (Letter, V)> {
+    pub fn into_iter(self) -> impl Iterator<Item=(Letter, V)> {
         self.0
             .into_iter()
             .enumerate()
@@ -84,8 +84,8 @@ impl<V> LetterMap<V> {
         LetterMap(self.0.zip(other.0))
     }
     pub fn is_subset(self, other: Self) -> bool
-    where
-        V: Ord,
+        where
+            V: Ord,
     {
         self.zip(other).iter().all(|(_, (a, b))| a <= b)
     }
@@ -106,12 +106,12 @@ impl LetterSet {
         LetterSet(LetterMap::<u8>(w.try_into().unwrap()))
     }
     pub fn count(&self) -> usize { self.0.iter().map(|(_, x)| *x as usize).sum::<usize>() }
-    pub fn multiset_iter<'a>(&'a self) -> impl 'a + Iterator<Item = Letter> + Clone {
+    pub fn multiset_iter<'a>(&'a self) -> impl 'a + Iterator<Item=Letter> + Clone {
         self.iter()
             .flat_map(|(l, c)| iter::repeat(l).take(c as usize))
     }
     pub fn new() -> Self { LetterSet(LetterMap::new()) }
-    pub fn iter<'a>(&'a self) -> impl 'a + Iterator<Item = (Letter, usize)> + Clone {
+    pub fn iter<'a>(&'a self) -> impl 'a + Iterator<Item=(Letter, usize)> + Clone {
         self.0.iter().map(|(x, y)| (x, *y as usize))
     }
     pub fn is_subset(self, other: Self) -> bool {
@@ -171,7 +171,7 @@ impl Step for Letter {
 }
 
 impl FromIterator<Letter> for LetterSet {
-    fn from_iter<T: IntoIterator<Item = Letter>>(iter: T) -> Self {
+    fn from_iter<T: IntoIterator<Item=Letter>>(iter: T) -> Self {
         let mut set = LetterSet::new();
         for letter in iter {
             set[letter] += 1;
@@ -181,7 +181,7 @@ impl FromIterator<Letter> for LetterSet {
 }
 
 impl<V> FromIterator<V> for LetterMap<V> {
-    fn from_iter<T: IntoIterator<Item = V>>(iter: T) -> Self {
+    fn from_iter<T: IntoIterator<Item=V>>(iter: T) -> Self {
         LetterMap(
             iter.into_iter()
                 .collect::<Vec<_>>()
@@ -193,16 +193,16 @@ impl<V> FromIterator<V> for LetterMap<V> {
 }
 
 impl<A, B> Sub<LetterMap<B>> for LetterMap<A>
-where
-    A: Sub<B>,
+    where
+        A: Sub<B>,
 {
     type Output = LetterMap<A::Output>;
     fn sub(self, rhs: LetterMap<B>) -> Self::Output { self.zip(rhs).map(|(a, b)| a - b) }
 }
 
 impl<A, B> Add<LetterMap<B>> for LetterMap<A>
-where
-    A: Add<B>,
+    where
+        A: Add<B>,
 {
     type Output = LetterMap<A::Output>;
     fn add(self, rhs: LetterMap<B>) -> Self::Output { self.zip(rhs).map(|(a, b)| a + b) }
@@ -226,8 +226,8 @@ impl Distribution<Letter> for Standard {
 
 impl Serialize for Letter {
     fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error>
-    where
-        S: Serializer,
+        where
+            S: Serializer,
     {
         serializer.serialize_char(('A' as u32 + self.0 as u32).try_into().unwrap())
     }
@@ -235,16 +235,16 @@ impl Serialize for Letter {
 
 impl<'de> Deserialize<'de> for Letter {
     fn deserialize<D>(deserializer: D) -> Result<Self, D::Error>
-    where
-        D: Deserializer<'de>,
+        where
+            D: Deserializer<'de>,
     {
         struct Vis;
         impl<'de> Visitor<'de> for Vis {
             type Value = Letter;
             fn expecting(&self, f: &mut Formatter) -> std::fmt::Result { write!(f, "character") }
             fn visit_str<E>(self, v: &str) -> Result<Self::Value, E>
-            where
-                E: Error,
+                where
+                    E: Error,
             {
                 Ok(Letter::new(v.chars().next().unwrap().try_into().unwrap()).unwrap())
             }
@@ -252,3 +252,39 @@ impl<'de> Deserialize<'de> for Letter {
         deserializer.deserialize_char(Vis)
     }
 }
+
+macro_rules! derive_archive_trivial {
+    ($T:ty) =>{
+        impl Archive for $T {
+            type Archived = $T;
+            type Resolver = ();
+            unsafe fn resolve(&self, pos: usize, resolver: Self::Resolver, out: *mut Self::Archived) {
+                out.write(*self)
+            }
+        }
+
+        impl<S: Fallible + ?Sized> rkyv::Serialize<S> for $T {
+            fn serialize(&self, _: &mut S) -> Result<Self::Resolver, S::Error> {
+                Ok(())
+            }
+        }
+
+        impl<D: Fallible + ?Sized> rkyv::Deserialize<$T, D> for $T {
+            fn deserialize(&self, _: &mut D) -> Result<$T, D::Error> {
+                Ok(*self)
+            }
+        }
+
+        impl<V> rkyv::CheckBytes<V> for $T {
+            type Error = std::convert::Infallible;
+            unsafe fn check_bytes<'a>(value: * const Self, context: & mut V) -> Result<&'a Self, Self::Error> {
+                Ok(&*value)
+            }
+        }
+    }
+}
+
+
+
+derive_archive_trivial!(Letter);
+derive_archive_trivial!(LetterSet);
