@@ -1,6 +1,5 @@
 use std::cell::{Cell, RefCell};
 use std::collections::{HashMap, HashSet};
-use std::default::default;
 use std::fmt::Write;
 use std::io;
 use std::io::ErrorKind;
@@ -35,7 +34,7 @@ pub struct Search {
 }
 
 impl Search {
-    pub async fn new(quote: LetterSet, source: Vec<Letter>) -> io::Result<Self> {
+    pub async fn new(quote: LetterSet, source: Vec<Letter>) -> anyhow::Result<Self> {
         Ok(Search {
             table: FLAT_TRIE_TABLE.get().await.clone_error_static()?,
             cache: Default::default(),
@@ -251,7 +250,7 @@ impl Solution {
     }
 }
 
-pub async fn add_answers(pindex: usize) -> io::Result<()> {
+pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage1.json").await?;
     let quote: LetterSet = puzzle
         .quote_letters
@@ -331,7 +330,7 @@ pub async fn add_answers(pindex: usize) -> io::Result<()> {
 }
 
 #[tokio::test]
-async fn test_search() -> io::Result<()> {
+async fn test_search() -> anyhow::Result<()> {
     let firsts = (Letter::new(b'e').unwrap(), Letter::new(b'i').unwrap());
     let word = LetterSet::from_str("AEEEEEEEEEEEGIIKKKKLLLNNNOPPTTTWWWW");
     FLAT_TRIE_TABLE.get().await.clone_error()?;

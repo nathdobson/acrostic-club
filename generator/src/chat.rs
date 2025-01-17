@@ -1,6 +1,5 @@
 #![allow(unused_variables, unused_mut)]
 
-use std::default::default;
 use std::{fs, future, mem};
 use std::sync::Arc;
 use std::time::Instant;

@@ -1,6 +1,5 @@
 use std::{iter, mem};
 use std::cmp::Ordering;
-use std::default::default;
 use std::fmt::{Debug, Display, Formatter};
 use std::iter::Step;
 use std::ops::{Add, Index, IndexMut, Range, RangeInclusive, Sub};
@@ -10,6 +9,7 @@ use rand::Rng;
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
 use serde::de::{Error, Visitor};
 use any_ascii::any_ascii;
+use arrayvec::ArrayVec;
 use rkyv::{Archive, Archived, Fallible, Infallible};
 
 #[derive(Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash, Default)]
@@ -59,7 +59,7 @@ impl<V> LetterMap<V> {
         where
             V: Default,
     {
-        LetterMap(default())
+        LetterMap(Default::default())
     }
     pub fn map<V2>(self, f: impl FnMut(V) -> V2) -> LetterMap<V2> { LetterMap(self.0.map(f)) }
     pub fn iter(&self) -> impl Iterator<Item=(Letter, &V)> + Clone {
@@ -81,7 +81,7 @@ impl<V> LetterMap<V> {
             .map(|(l, v)| (Letter::from_index(l).unwrap(), v))
     }
     pub fn zip<V2>(self, other: LetterMap<V2>) -> LetterMap<(V, V2)> {
-        LetterMap(self.0.zip(other.0))
+        LetterMap(self.0.into_iter().zip(other.0.into_iter()).collect::<ArrayVec<(V, V2), { Letter::LETTERS }>>().into_inner().ok().unwrap())
     }
     pub fn is_subset(self, other: Self) -> bool
         where

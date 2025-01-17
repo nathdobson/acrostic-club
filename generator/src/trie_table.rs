@@ -12,6 +12,7 @@ use crate::PACKAGE_PATH;
 use crate::trie::{FlatTrie, FlatTrieEntry};
 use crate::util::alloc::MmapAllocator;
 use crate::util::lazy_async::CloneError;
+use crate::util::persist::PersistentFile;
 // use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;
@@ -23,11 +24,11 @@ pub struct FlatTrieTable {
     pub binary: HashMap<(Letter, Letter), Box<FlatTrie<(LetterSet, LetterSet)>, MmapAllocator>>,
 }
 
-pub static FLAT_TRIE_TABLE: AsyncStaticLock<io::Result<FlatTrieTable>> =
+pub static FLAT_TRIE_TABLE: AsyncStaticLock<anyhow::Result<FlatTrieTable>> =
     AsyncStaticLock::new(async { FlatTrieTable::new().await });
 
 impl FlatTrieTable {
-    async fn new() -> io::Result<Self> {
+    async fn new() -> anyhow::Result<Self> {
         unsafe {
             let mut unary: LetterMap<Option<Box<FlatTrie<LetterSet>, MmapAllocator>>> = LetterMap::new();
             for x in Letter::all() {
@@ -46,7 +47,7 @@ impl FlatTrieTable {
                 );
             }
             Ok(FlatTrieTable {
-                dict: FLAT_WORDS.get().await.clone_error()?,
+                dict: FLAT_WORDS.get_static().await?,
                 unary,
                 binary,
             })

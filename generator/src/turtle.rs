@@ -1,5 +1,4 @@
 use std::collections::{BTreeSet, HashMap, HashSet};
-use std::default::default;
 use std::{any, io};
 use std::cmp::Ordering;
 use std::fmt::{Debug, Formatter};

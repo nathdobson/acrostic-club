@@ -1,10 +1,12 @@
 [workspace]
 resolver = "2"
-
 members = [
+
     "generator",
     "server",
     "core",
+]
+exclude = ["submodules/llama-rust","submodules/llama2.rs",
 ]
 
 [profile.release]

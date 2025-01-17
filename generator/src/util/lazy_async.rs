@@ -1,3 +1,4 @@
+use std::error::Request;
 use std::fmt::{Debug, Display, Formatter};
 use std::future::Future;
 use std::path::{Path, PathBuf};
@@ -9,8 +10,8 @@ use futures::FutureExt;
 use safe_once_async::sync::{AsyncLazyLock, AsyncStaticLock};
 use tokio::io;
 use tokio::sync::Mutex;
+use crate::util::alloc::{MmapAllocator, restore_vec};
 
-use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec};
 //
 // pub struct LazyAsync<T> {
 //     thunk: Mutex<Option<BoxFuture<'static, T>>>,
@@ -126,11 +127,10 @@ impl std::error::Error for AnyhowRef {
     fn cause(&self) -> Option<&dyn std::error::Error> {
         self.0.cause()
     }
-    fn provide<'a>(&'a self, demand: &mut std::any::Demand<'a>) {
-        self.0.provide(demand)
+    fn provide<'a>(&'a self, request: &mut Request<'a>) {
+        self.0.provide(request)
     }
 }
-
 
 impl<T> CloneError for anyhow::Result<T> {
     type Value = T;
@@ -144,7 +144,7 @@ impl<T> CloneError for anyhow::Result<T> {
     }
 }
 
-impl<T: AnyRepr> LazyMmap<T> {
+impl<T: 'static + Send + Sync> LazyMmap<T> {
     pub const fn new(path: fn() -> PathBuf) -> Self {
         LazyMmap(AsyncStaticLock::new(async move {
             restore_vec(&path()).await

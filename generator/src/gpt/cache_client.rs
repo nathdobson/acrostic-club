@@ -1,4 +1,3 @@
-use std::default::default;
 use std::{io, mem};
 use std::path::Path;
 use std::sync::Arc;
@@ -53,7 +52,7 @@ async fn test_cache_client() -> anyhow::Result<()> {
                     content: "hello".to_string(),
                 },
             ],
-            ..default()
+            ..Default::default()
         },
     }).await?;
     mem::drop(cache_client);

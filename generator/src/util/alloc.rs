@@ -25,31 +25,23 @@ unsafe impl Allocator for MmapAllocator {
     unsafe fn deallocate(&self, ptr: NonNull<u8>, layout: Layout) {}
 }
 
-pub unsafe trait AnyRepr: 'static + Send + Sync {}
+// pub unsafe trait AnyRepr: 'static + Send + Sync {}
+//
+// unsafe impl AnyRepr for u32 {}
+//
+// unsafe impl AnyRepr for LetterSet {}
+//
+// unsafe impl<A, B> AnyRepr for (A, B)
+//     where
+//         A: AnyRepr,
+//         B: AnyRepr,
+// {}
 
-unsafe impl AnyRepr for u32 {}
 
-unsafe impl AnyRepr for LetterSet {}
 
-unsafe impl<A, B> AnyRepr for (A, B)
-    where
-        A: AnyRepr,
-        B: AnyRepr,
-{}
 
-pub async fn save_rkyv<T: Archive + Serialize<AllocSerializer<256>>>(file: &Path, value: &T) -> io::Result<()> {
-    write_path(file, &rkyv::to_bytes::<_, 256>(value).map_err(|e| {
-        io::Error::new(io::ErrorKind::InvalidInput, e)
-    })?).await?;
-    Ok(())
-}
 
-pub async fn restore_rkyv<T: Archive>(file: &Path) -> io::Result<&'static Archived<T>> where for<'a> Archived<T>: CheckBytes<DefaultValidator<'a>> {
-    let data: &'static Vec<u8> = Box::leak(Box::new(read_path(file).await?));
-    Ok(rkyv::validation::validators::check_archived_root::<T>(&data).map_err(|e| { io::Error::new(io::ErrorKind::InvalidInput, format!("{:?}", e)) })?)
-}
-
-pub async fn save_vec<T: AnyRepr>(file: &Path, value: &[T]) -> io::Result<()> {
+pub async fn save_vec<T>(file: &Path, value: &[T]) -> io::Result<()> {
     unsafe {
         let start = value.as_ptr();
         let end = start.offset(value.len() as isize);
@@ -61,7 +53,8 @@ pub async fn save_vec<T: AnyRepr>(file: &Path, value: &[T]) -> io::Result<()> {
     }
 }
 
-pub async fn restore_vec<T: AnyRepr>(filename: &Path) -> io::Result<Box<[T], MmapAllocator>> {
+
+pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocator>> {
     Ok(unsafe {
         let file = tokio::fs::OpenOptions::new()
             .read(true)

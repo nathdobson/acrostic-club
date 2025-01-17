@@ -1,5 +1,4 @@
 use std::collections::HashSet;
-use std::default::default;
 use std::fmt::{Debug, Formatter};
 use std::sync::Arc;
 use brotli::interface::Command::Dict;
@@ -29,19 +28,19 @@ impl ConflictSet {
     pub fn new(ontology: Arc<Ontology>) -> Self {
         ConflictSet {
             ontology,
-            origins: default(),
-            writtens: default(),
-            forms: default(),
-            lexicals: default(),
-            etyms: default(),
-            relateds: default(),
-            pages: default(),
-            etyms_down: default(),
-            pages_down: default(),
-            lexicals_down: default(),
-            writtens_down: default(),
-            forms_down: default(),
-            terminals: default(),
+            origins: Default::default(),
+            writtens: Default::default(),
+            forms: Default::default(),
+            lexicals: Default::default(),
+            etyms: Default::default(),
+            relateds: Default::default(),
+            pages: Default::default(),
+            etyms_down: Default::default(),
+            pages_down: Default::default(),
+            lexicals_down: Default::default(),
+            writtens_down: Default::default(),
+            forms_down: Default::default(),
+            terminals: Default::default(),
         }
     }
     pub fn add_origin(&mut self, origin: String) {

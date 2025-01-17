@@ -1,7 +1,5 @@
 #![allow(unused_imports, unused_variables, dead_code)]
-#![feature(default_free_fn)]
 #![feature(map_try_insert)]
-#![feature(array_zip)]
 #![feature(step_trait)]
 #![feature(option_get_or_insert_default)]
 #![feature(slice_group_by)]
@@ -19,10 +17,8 @@
 #![feature(trait_alias)]
 #![feature(trait_upcasting)]
 #![feature(error_generic_member_access)]
-#![feature(provide_any)]
 #![feature(impl_trait_in_assoc_type)]
 #![feature(unboxed_closures)]
-#![feature(impl_trait_projections)]
 #![feature(arbitrary_self_types)]
 #![feature(unwrap_infallible)]
 #![feature(associated_type_defaults)]
@@ -31,12 +27,10 @@
 #![feature(raw_ref_op)]
 #![feature(ptr_metadata)]
 #![feature(layout_for_ptr)]
-
 extern crate core;
 
 use std::{env, fs, io, mem};
 use std::collections::{BTreeMap, BTreeSet, HashMap};
-use std::default::default;
 use std::fmt::{Debug, Display, Formatter};
 use std::fs::File;
 use std::io::ErrorKind;

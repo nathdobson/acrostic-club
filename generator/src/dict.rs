@@ -11,15 +11,16 @@ use acrostic_core::letter::{Letter, LetterSet};
 use crate::{PACKAGE_PATH, read_path_to_string};
 use crate::banned::BANNED_WORDS;
 
-use crate::util::alloc::{AnyRepr, restore_rkyv, save_rkyv, save_vec};
 use crate::util::lazy_async::{CloneError, LazyMmap};
 use rkyv::{Archive, Archived};
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::async_static::AsyncStatic;
 use safe_once_async::sync::AsyncStaticLock;
+use crate::util::persist::PersistentFile;
 
 #[derive(Archive, rkyv::Deserialize, rkyv::Serialize)]
 #[archive(check_bytes, archived = "FlatWord")]
+#[archive_attr(derive(Debug))]
 pub struct FlatWordBuilder {
     pub word: String,
     pub letter_vec: Vec<Letter>,
@@ -27,18 +28,20 @@ pub struct FlatWordBuilder {
     pub frequency: u64,
 }
 
-unsafe impl AnyRepr for FlatWord {}
-
 // pub static FLAT_WORDS: LazyMmap<FlatWord> =
 //     LazyMmap::<FlatWord>::new(|| PACKAGE_PATH.join("build/dict.dat"));
 
-pub static FLAT_WORDS: AsyncStaticLock<io::Result<&'static Archived<Vec<FlatWordBuilder>>>> = AsyncStatic::new(async {
-    restore_rkyv::<Vec<FlatWordBuilder>>(&PACKAGE_PATH.join("build/dict.dat")).await
+pub static FLAT_WORDS: LazyLock<PersistentFile<Vec<FlatWordBuilder>>> = LazyLock::new(|| {
+    PersistentFile::new(&PACKAGE_PATH.join("build/dict.dat"))
 });
 
 #[tokio::test]
 async fn test_flat_word() {
-    println!("{:?}", FLAT_WORDS.get().await.clone_error().unwrap().len());
+    let words = FLAT_WORDS.get_static().await.unwrap();
+    println!("{:?}", words.len());
+    for word in words.iter().take(10) {
+        println!("{:?}", word);
+    }
 }
 
 pub async fn build_dict() -> io::Result<()> {
@@ -71,6 +74,6 @@ pub async fn build_dict() -> io::Result<()> {
         }
     }
 
-    save_rkyv(&PACKAGE_PATH.join("build/dict.dat"), &words).await?;
+    FLAT_WORDS.set(&words).await?;
     Ok(())
 }

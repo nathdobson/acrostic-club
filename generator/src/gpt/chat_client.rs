@@ -1,5 +1,4 @@
 use std::any::Any;
-use std::default::default;
 use std::future::Future;
 use std::{io, mem};
 use std::path::Path;
@@ -88,7 +87,7 @@ async fn test_base_client() -> anyhow::Result<()> {
                     content: "hello".to_string(),
                 },
             ],
-            ..default()
+            ..Default::default()
         },
     }).await?;
     Ok(())

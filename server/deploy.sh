@@ -9,6 +9,9 @@ cargo build \
   --target x86_64-unknown-linux-musl \
   --target-dir target/x86_64-unknown-linux-musl
 
+gcloud compute ssh --zone "us-west1-a" "micro" --project "acrostic-club" -- \
+ "screen -XS server quit;" || true
+
 gcloud compute scp \
   target/x86_64-unknown-linux-musl/x86_64-unknown-linux-musl/smol/acrostic-server \
   micro:/home/nathan/workspace/acrostic-club/target/x86_64-unknown-linux-musl/smol/acrostic-server \
@@ -17,8 +20,7 @@ gcloud compute scp \
 
 gcloud compute ssh --zone "us-west1-a" "micro" --project "acrostic-club" -- \
   "
-  screen -XS server quit;
-  screen -S server sh -c '
+    screen -S server sh -c '
     cd /home/nathan/workspace/acrostic-club
     sudo RUST_LOG=trace ./target/x86_64-unknown-linux-musl/smol/acrostic-server \
       --bind-https 0.0.0.0:443 \

@@ -1,6 +1,5 @@
 use std::any::{Any, type_name};
 use std::collections::{HashMap, HashSet};
-use std::default::default;
 use std::fmt::{Debug, Formatter};
 use std::io;
 use std::marker::PhantomData;

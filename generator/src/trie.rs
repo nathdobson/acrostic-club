@@ -18,7 +18,7 @@ use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
 use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::PACKAGE_PATH;
-use crate::util::alloc::{AnyRepr, MmapAllocator, restore_vec, save_vec};
+use crate::util::alloc::{MmapAllocator, restore_vec, save_vec};
 use crate::util::lazy_async::CloneError;
 use crate::util::parallel::Parallelism;
 
@@ -45,8 +45,6 @@ pub enum FlatTrieView<'a, V> {
     },
 }
 
-unsafe impl<V: AnyRepr> AnyRepr for FlatTrieEntry<V> {}
-
 impl<V: Clone> FlatTrie<V> {
     pub fn new_unchecked_box<A: Allocator + Sized>(b: Box<[FlatTrieEntry<V>], A>) -> Box<Self, A> {
         unsafe {
@@ -60,8 +58,6 @@ impl<V: Clone> FlatTrie<V> {
         }
     }
     pub async unsafe fn restore(filename: &Path) -> io::Result<Box<Self, MmapAllocator>>
-        where
-            V: AnyRepr,
     {
         let vec: Box<[FlatTrieEntry<V>], MmapAllocator> = restore_vec(filename).await?;
         Ok(Self::new_unchecked_box(vec))
@@ -281,8 +277,8 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
     }
 }
 
-pub async fn build_trie() -> io::Result<()> {
-    let dict = FLAT_WORDS.get().await.clone_error()?;
+pub async fn build_trie() -> anyhow::Result<()> {
+    let dict = FLAT_WORDS.get_static().await?;
     let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
     for l in Letter::all() {
