@@ -6,8 +6,6 @@ members = [
     "server",
     "core",
 ]
-exclude = ["submodules/llama-rust","submodules/llama2.rs",
-]
 
 [profile.release]
 debug = true

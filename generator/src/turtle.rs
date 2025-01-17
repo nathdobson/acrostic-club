@@ -1,17 +1,18 @@
-use std::collections::{BTreeSet, HashMap, HashSet};
-use std::{any, io};
-use std::cmp::Ordering;
-use std::fmt::{Debug, Formatter};
-use std::sync::LazyLock;
+use crate::util::lazy_async::CloneError;
+use crate::PACKAGE_PATH;
 use rio_api::model::{Literal, Subject, Term};
 use rio_api::parser::TriplesParser;
 use rio_turtle::{TurtleError, TurtleParser};
-use safe_once_async::sync::AsyncStaticLock;
-use tokio::fs;
-use crate::PACKAGE_PATH;
-use serde::Serialize;
+use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
-use crate::util::lazy_async::CloneError;
+use serde::Serialize;
+use std::cmp::Ordering;
+use std::collections::{BTreeSet, HashMap, HashSet};
+use std::fmt::{Debug, Formatter};
+use std::sync::LazyLock;
+use std::{any, io};
+use tokio::fs;
 // use crate::util::lazy_async::LazyAsync;
 
 #[derive(Serialize, Deserialize)]
@@ -32,37 +33,42 @@ pub struct TurtleDebug<'a>(&'a Turtle, TurtleIndex);
 impl Turtle {
     pub async fn new() -> anyhow::Result<Self> {
         let ontolex = fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_ontolex.ttl")).await?;
-        let morphology = fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_morphology.ttl")).await?;
-        let etymology = fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_etymology.ttl")).await?;
+        let morphology =
+            fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_morphology.ttl")).await?;
+        let etymology =
+            fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_etymology.ttl")).await?;
         let mut triples = vec![];
         for buffer in &[ontolex, morphology, etymology] {
             let mut parser = TurtleParser::new(buffer.as_ref(), None);
             parser.parse_all(&mut |t| {
                 let subject = match t.subject {
                     Subject::NamedNode(node) => node.iri,
-                    Subject::BlankNode(x) => { x.id }
+                    Subject::BlankNode(x) => x.id,
                     _ => panic!("{:?}", t.subject),
                 };
                 let predicate = t.predicate.iri;
                 let object = match t.object {
-                    Term::Literal(literal) => {
-                        match literal {
-                            Literal::Simple { value } => value,
-                            Literal::LanguageTaggedString { value, language } => value,
-                            Literal::Typed { value, .. } => value,
-                        }
-                    }
+                    Term::Literal(literal) => match literal {
+                        Literal::Simple { value } => value,
+                        Literal::LanguageTaggedString { value, language } => value,
+                        Literal::Typed { value, .. } => value,
+                    },
                     Term::NamedNode(x) => x.iri,
                     Term::BlankNode(x) => x.id,
-                    _ => panic!("{:?}", t.object)
+                    _ => panic!("{:?}", t.object),
                 };
-                triples.push((subject.to_string(), predicate.to_string(), object.to_string()));
+                triples.push((
+                    subject.to_string(),
+                    predicate.to_string(),
+                    object.to_string(),
+                ));
                 Ok(()) as Result<(), TurtleError>
             })?;
         }
-        let id_set = triples.iter().flat_map(
-            |(x, y, z)| [&**x, &**y, &**z].into_iter()
-        ).collect::<HashSet<&str>>();
+        let id_set = triples
+            .iter()
+            .flat_map(|(x, y, z)| [&**x, &**y, &**z].into_iter())
+            .collect::<HashSet<&str>>();
         let mut ids: Vec<String> = id_set.into_iter().map(|x| x.to_string()).collect();
         ids.sort();
         let mut id_map = HashMap::new();
@@ -72,24 +78,39 @@ impl Turtle {
         let mut forward = vec![];
         let mut reverse = vec![];
         for (s, p, o) in triples {
-            let (s, p, o) = (*id_map.get(&s).unwrap(), *id_map.get(&p).unwrap(), *id_map.get(&o).unwrap());
+            let (s, p, o) = (
+                *id_map.get(&s).unwrap(),
+                *id_map.get(&p).unwrap(),
+                *id_map.get(&o).unwrap(),
+            );
             forward.push((s, p, o));
             reverse.push((o, p, s));
         }
         forward.sort();
         reverse.sort();
-        Ok(Turtle { ids, forward: EdgeList(forward), reverse: EdgeList(reverse) })
+        Ok(Turtle {
+            ids,
+            forward: EdgeList(forward),
+            reverse: EdgeList(reverse),
+        })
     }
     pub fn get_name(&self, index: TurtleIndex) -> &str {
         &self.ids[index.0 as usize]
     }
     pub fn get_index(&self, name: &str) -> Option<TurtleIndex> {
-        Some(TurtleIndex(self.ids.binary_search_by(|other: &String| (&**other).cmp(name)).ok()? as u32))
+        Some(TurtleIndex(
+            self.ids
+                .binary_search_by(|other: &String| (&**other).cmp(name))
+                .ok()? as u32,
+        ))
     }
     pub fn debug<'a>(&'a self, index: TurtleIndex) -> TurtleDebug<'a> {
         TurtleDebug(self, index)
     }
-    pub fn debug_all<'a>(&'a self, input: impl IntoIterator<Item=TurtleIndex>) -> Vec<TurtleDebug<'a>> {
+    pub fn debug_all<'a>(
+        &'a self,
+        input: impl IntoIterator<Item = TurtleIndex>,
+    ) -> Vec<TurtleDebug<'a>> {
         input.into_iter().map(|x| self.debug(x)).collect()
     }
     pub fn get_forward(&self, s: TurtleIndex, p: TurtleIndex) -> Vec<TurtleIndex> {
@@ -101,42 +122,54 @@ impl Turtle {
 }
 
 fn binary_search_range<A, B: Ord, F: FnMut(&A) -> B>(slice: &[A], pivot: B, mut get: F) -> &[A] {
-    let lower_bound =
-        slice.binary_search_by(|other| match get(other).cmp(&pivot) {
+    let lower_bound = slice
+        .binary_search_by(|other| match get(other).cmp(&pivot) {
             Ordering::Equal => Ordering::Greater,
             ord => ord,
-        }).unwrap_err();
-    let upper_bound =
-        slice.binary_search_by(|other| match get(other).cmp(&pivot) {
+        })
+        .unwrap_err();
+    let upper_bound = slice
+        .binary_search_by(|other| match get(other).cmp(&pivot) {
             Ordering::Equal => Ordering::Less,
             ord => ord,
-        }).unwrap_err();
+        })
+        .unwrap_err();
     &slice[lower_bound..upper_bound]
 }
-
 
 impl EdgeList {
     pub fn get_node(&self, index: TurtleIndex) -> Vec<(TurtleIndex, TurtleIndex)> {
         binary_search_range(&self.0, index, |x| x.0)
-            .into_iter().map(|(a, b, c)| (*b, *c)).collect()
+            .into_iter()
+            .map(|(a, b, c)| (*b, *c))
+            .collect()
     }
     pub fn get_edges(&self, index: TurtleIndex, pred: TurtleIndex) -> Vec<TurtleIndex> {
-        binary_search_range(&self.0, (index, pred),
-                            |(a, b, c)| (*a, *b))
-            .into_iter().map(|(a, b, c)| *c).collect()
+        binary_search_range(&self.0, (index, pred), |(a, b, c)| (*a, *b))
+            .into_iter()
+            .map(|(a, b, c)| *c)
+            .collect()
     }
 }
-
 
 pub async fn build_turtle() -> anyhow::Result<()> {
     let turtle = Turtle::new().await?;
-    fs::write(PACKAGE_PATH.join("build/turtle.dat"), bincode::serialize(&turtle)?).await?;
+    fs::write(
+        PACKAGE_PATH.join("build/turtle.dat"),
+        bincode::serialize(&turtle)?,
+    )
+    .await?;
     Ok(())
 }
 
-pub static TURTLE: AsyncStaticLock<anyhow::Result<Turtle>> = AsyncStaticLock::new(async move {
-    Ok(bincode::deserialize(&fs::read(PACKAGE_PATH.join("build/turtle.dat")).await?)?)
-});
+pub static TURTLE: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Turtle>>>> =
+    LazyLock::new(|| {
+        AsyncLazyLock::new(spawn_transparent(async move {
+            Ok(bincode::deserialize(
+                &fs::read(PACKAGE_PATH.join("build/turtle.dat")).await?,
+            )?)
+        }))
+    });
 
 impl<'a> Debug for TurtleDebug<'a> {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
@@ -161,6 +194,12 @@ async fn read_turtle2() -> anyhow::Result<()> {
 
 #[test]
 fn test_binary_search() {
-    assert_eq!([(0, "a"), (0, "b")], binary_search_range(&[(0, "a"), (0, "b"), (1, "c"), (1, "d")], 0, |x| x.0));
-    assert_eq!([(1, "c"), (1, "d")], binary_search_range(&[(0, "a"), (0, "b"), (1, "c"), (1, "d")], 1, |x| x.0));
+    assert_eq!(
+        [(0, "a"), (0, "b")],
+        binary_search_range(&[(0, "a"), (0, "b"), (1, "c"), (1, "d")], 0, |x| x.0)
+    );
+    assert_eq!(
+        [(1, "c"), (1, "d")],
+        binary_search_range(&[(0, "a"), (0, "b"), (1, "c"), (1, "d")], 1, |x| x.0)
+    );
 }

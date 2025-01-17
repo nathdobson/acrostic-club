@@ -1,18 +1,20 @@
-use std::{fs, io, slice};
 use std::io::{Cursor, ErrorKind, Read};
 use std::sync::LazyLock;
 use std::time::Instant;
+use std::{fs, io, slice};
 
 use itertools::{peek_nth, PeekNth};
 use rand::seq::SliceRandom;
 use rand::thread_rng;
-use safe_once_async::sync::AsyncStaticLock;
+use safe_once_async::async_lazy::AsyncLazy;
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
+use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
 use serde::Serialize;
 
-use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
 use crate::puzzle::Puzzle;
 use crate::util::lazy_async::CloneError;
+use crate::{read_path, read_path_to_string, write_path, PACKAGE_PATH};
 // use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;
@@ -24,9 +26,14 @@ pub struct Quote {
     pub topics: Vec<String>,
 }
 
-pub static QUOTES: AsyncStaticLock<io::Result<Vec<Quote>>> = AsyncStaticLock::new(async {
-    Ok(serde_json::from_str(&read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?)?)
-});
+pub static QUOTES: LazyLock<AsyncLazyLock<JoinTransparent<io::Result<Vec<Quote>>>>> =
+    LazyLock::new(|| {
+        AsyncLazy::new(spawn_transparent(async {
+            Ok(serde_json::from_str(
+                &read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?,
+            )?)
+        }))
+    });
 
 struct Parser<'a>(PeekNth<slice::Iter<'a, u8>>);
 
@@ -46,12 +53,17 @@ impl<'a> Parser<'a> {
         }
         self.read_exact(expected)
     }
-    fn eof(&mut self) -> bool { self.0.peek().is_none() }
-    fn read(&mut self) -> Option<u8> { self.0.next().copied() }
+    fn eof(&mut self) -> bool {
+        self.0.peek().is_none()
+    }
+    fn read(&mut self) -> Option<u8> {
+        self.0.next().copied()
+    }
 }
 
 pub async fn build_quotes() -> io::Result<()> {
-    let mut contents = read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
+    let mut contents =
+        read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
     let mut dec = brotli::Decompressor::new(Cursor::new(&contents), 4096);
     let mut c2 = vec![];
     dec.read_to_end(&mut c2).unwrap();
@@ -132,13 +144,12 @@ pub async fn build_quotes() -> io::Result<()> {
         &PACKAGE_PATH.join("build/quotes.json"),
         serde_json::to_string_pretty(&entries)?.as_bytes(),
     )
-        .await?;
+    .await?;
     let start = Instant::now();
 
     println!("{:?}", start.elapsed());
     Ok(())
 }
-
 
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
     let mut quotes = QUOTES.get().await.clone_error_static()?;
@@ -146,7 +157,8 @@ pub async fn add_quote(pindex: usize) -> io::Result<()> {
     if !(quote.source.len() > 24
         && quote.source.len() <= 26
         && quote.quote.len() > 180
-        && quote.quote.len() < 200) {
+        && quote.quote.len() < 200)
+    {
         return Err(io::Error::new(ErrorKind::InvalidInput, "bad quote"));
     }
 

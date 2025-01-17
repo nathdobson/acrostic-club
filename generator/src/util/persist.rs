@@ -1,17 +1,20 @@
-use std::alloc::{Allocator, AllocError, Layout};
-use std::{io, slice};
+use crate::util::lazy_async::CloneError;
+use crate::{read_path, write_path};
+use futures::future::BoxFuture;
+use memmap::{MmapMut, MmapOptions};
+use rkyv::ser::serializers::AllocSerializer;
+use rkyv::validation::validators::DefaultValidator;
+use rkyv::validation::CheckTypeError;
+use rkyv::{check_archived_root, Archive, Archived, CheckBytes, Serialize};
+use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::sync::{AsyncLazyLock, AsyncOnceLock};
+use std::alloc::{AllocError, Allocator, Layout};
 use std::ops::Deref;
 use std::path::{Path, PathBuf};
 use std::ptr::NonNull;
-use memmap::{MmapMut, MmapOptions};
-use rkyv::{Archive, Archived, check_archived_root, CheckBytes, Serialize};
-use rkyv::ser::serializers::AllocSerializer;
-use rkyv::validation::CheckTypeError;
-use rkyv::validation::validators::DefaultValidator;
-use safe_once_async::sync::{AsyncLazyLock, AsyncOnceLock, AsyncStaticLock};
+use std::{io, slice};
 use tokio::fs::File;
-use crate::{read_path, write_path};
-use crate::util::lazy_async::CloneError;
+use tokio::task::JoinHandle;
 
 pub struct MmapAllocator {
     file: File,
@@ -19,7 +22,9 @@ pub struct MmapAllocator {
 }
 
 unsafe impl Allocator for MmapAllocator {
-    fn allocate(&self, layout: Layout) -> Result<NonNull<[u8]>, AllocError> { todo!() }
+    fn allocate(&self, layout: Layout) -> Result<NonNull<[u8]>, AllocError> {
+        todo!()
+    }
     unsafe fn deallocate(&self, ptr: NonNull<u8>, layout: Layout) {}
 }
 
@@ -27,7 +32,8 @@ pub async fn mmap_bytes(filename: &Path) -> io::Result<Box<[u8], MmapAllocator>>
     Ok(unsafe {
         let file = tokio::fs::OpenOptions::new()
             .read(true)
-            .open(filename).await
+            .open(filename)
+            .await
             .unwrap_or_else(|e| panic!("Cannot open {:?}: {}", filename, e));
         let len = file.metadata().await?.len();
         if len == 0 {
@@ -54,8 +60,12 @@ pub struct ArchivedOwned<T: Archive, A: Allocator> {
 }
 
 impl<T: Archive, A: Allocator> ArchivedOwned<T, A> {
-    pub fn new(b: Box<[u8], A>) -> anyhow::Result<Self> where for<'a> T::Archived: CheckBytes<DefaultValidator<'a>> {
-        let r: *const _ = check_archived_root::<T>(&*b).map_err(|e| anyhow::Error::msg(format!("{:?}", e)))?;
+    pub fn new(b: Box<[u8], A>) -> anyhow::Result<Self>
+    where
+        for<'a> T::Archived: CheckBytes<DefaultValidator<'a>>,
+    {
+        let r: *const _ =
+            check_archived_root::<T>(&*b).map_err(|e| anyhow::Error::msg(format!("{:?}", e)))?;
         Ok(ArchivedOwned { b, r })
     }
 }
@@ -69,24 +79,24 @@ impl<T: Archive, A: Allocator> Deref for ArchivedOwned<T, A> {
 
 pub struct PersistentFile<T: Archive> {
     path: PathBuf,
-    value: AsyncLazyLock<anyhow::Result<ArchivedOwned<T, MmapAllocator>>>,
+    value: AsyncLazyLock<JoinTransparent<anyhow::Result<ArchivedOwned<T, MmapAllocator>>>>,
 }
 
 unsafe impl<T: Archive, A: Allocator + Send> Send for ArchivedOwned<T, A> where Archived<T>: Send {}
 
 unsafe impl<T: Archive, A: Allocator + Sync> Sync for ArchivedOwned<T, A> where Archived<T>: Sync {}
 
-impl<T: 'static + Archive> PersistentFile<T> where
-        for<'a> T::Archived: Send + CheckBytes<DefaultValidator<'a>>,
-        T: Serialize<AllocSerializer<256>> {
+impl<T: 'static + Archive> PersistentFile<T>
+where
+    for<'a> T::Archived: Send + CheckBytes<DefaultValidator<'a>>,
+    T: Serialize<AllocSerializer<256>>,
+{
     pub fn new(path: &Path) -> Self {
         PersistentFile {
             path: path.to_path_buf(),
             value: AsyncLazyLock::new({
                 let path = path.to_path_buf();
-                async move {
-                    Ok(ArchivedOwned::new(mmap_bytes(&path).await?)?)
-                }
+                spawn_transparent(async move { Ok(ArchivedOwned::new(mmap_bytes(&path).await?)?) })
             }),
         }
     }
@@ -94,9 +104,12 @@ impl<T: 'static + Archive> PersistentFile<T> where
         Ok(&*self.value.get().await.clone_error_static()?)
     }
     pub async fn set(&self, value: &T) -> io::Result<()> {
-        write_path(&self.path, &rkyv::to_bytes::<_, 256>(value).map_err(|e| {
-            io::Error::new(io::ErrorKind::InvalidInput, e)
-        })?).await?;
+        write_path(
+            &self.path,
+            &rkyv::to_bytes::<_, 256>(value)
+                .map_err(|e| io::Error::new(io::ErrorKind::InvalidInput, e))?,
+        )
+        .await?;
         Ok(())
     }
 }

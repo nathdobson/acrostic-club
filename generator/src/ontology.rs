@@ -1,4 +1,4 @@
-use std::any::{Any, type_name};
+use std::any::{type_name, Any};
 use std::collections::{HashMap, HashSet};
 use std::fmt::{Debug, Formatter};
 use std::io;
@@ -6,7 +6,9 @@ use std::marker::PhantomData;
 use std::sync::Arc;
 use tokio::fs;
 // use turtle_syntax::{Document, Parse};
+use crate::conflict_set::ConflictSet;
 use crate::PACKAGE_PATH;
+use acrostic_core::letter::Letter;
 use codespan_reporting;
 use codespan_reporting::diagnostic::{Diagnostic, Label};
 use codespan_reporting::files::SimpleFiles;
@@ -15,14 +17,15 @@ use futures::StreamExt;
 use itertools::Itertools;
 use locspan::Meta;
 use rio_api::model::{Literal, NamedNode, Subject, Term};
-use rio_turtle::{TurtleError, TurtleParser};
 use rio_api::parser::TriplesParser;
-use safe_once_async::sync::AsyncStaticLock;
+use rio_turtle::{TurtleError, TurtleParser};
+use safe_once::sync::LazyLock;
+use safe_once_async::async_lazy::AsyncLazy;
+use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::sync::AsyncLazyLock;
 use ustr::Ustr;
-use acrostic_core::letter::Letter;
-use crate::conflict_set::ConflictSet;
 // use crate::segment::get_alpha;
-use crate::turtle::{TURTLE, Turtle, TurtleIndex};
+use crate::turtle::{Turtle, TurtleIndex, TURTLE};
 use crate::util::lazy_async::CloneError;
 
 pub struct Ontology {
@@ -48,15 +51,35 @@ impl Ontology {
     pub async fn new() -> anyhow::Result<Self> {
         let graph = TURTLE.get().await.clone_error_static()?;
         Ok(Ontology {
-            other_form: graph.get_index("http://www.w3.org/ns/lemon/ontolex#otherForm").unwrap(),
-            written_rep: graph.get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep").unwrap(),
-            canonical_form: graph.get_index("http://www.w3.org/ns/lemon/ontolex#canonicalForm").unwrap(),
-            describes: graph.get_index("http://kaiko.getalp.org/dbnary#describes").unwrap(),
-            typ: graph.get_index("http://www.w3.org/1999/02/22-rdf-syntax-ns#type").unwrap(),
-            type_etymology: graph.get_index("http://etytree-virtuoso.wmflabs.org/dbnaryetymology#EtymologyEntry").unwrap(),
-            type_page: graph.get_index("http://kaiko.getalp.org/dbnary#Page").unwrap(),
-            etym_related: graph.get_index("http://etytree-virtuoso.wmflabs.org/dbnaryetymology#etymologicallyRelatedTo").unwrap(),
-            derived_from: graph.get_index("http://kaiko.getalp.org/dbnary#derivedFrom").unwrap(),
+            other_form: graph
+                .get_index("http://www.w3.org/ns/lemon/ontolex#otherForm")
+                .unwrap(),
+            written_rep: graph
+                .get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep")
+                .unwrap(),
+            canonical_form: graph
+                .get_index("http://www.w3.org/ns/lemon/ontolex#canonicalForm")
+                .unwrap(),
+            describes: graph
+                .get_index("http://kaiko.getalp.org/dbnary#describes")
+                .unwrap(),
+            typ: graph
+                .get_index("http://www.w3.org/1999/02/22-rdf-syntax-ns#type")
+                .unwrap(),
+            type_etymology: graph
+                .get_index("http://etytree-virtuoso.wmflabs.org/dbnaryetymology#EtymologyEntry")
+                .unwrap(),
+            type_page: graph
+                .get_index("http://kaiko.getalp.org/dbnary#Page")
+                .unwrap(),
+            etym_related: graph
+                .get_index(
+                    "http://etytree-virtuoso.wmflabs.org/dbnaryetymology#etymologicallyRelatedTo",
+                )
+                .unwrap(),
+            derived_from: graph
+                .get_index("http://kaiko.getalp.org/dbnary#derivedFrom")
+                .unwrap(),
             graph,
         })
     }
@@ -64,22 +87,46 @@ impl Ontology {
         Some(Written(self.graph.get_index(text)?))
     }
     pub fn written_rep_of(&self, x: Written) -> Vec<Form> {
-        self.graph.get_reverse(x.0, self.written_rep).into_iter().map(Form).collect()
+        self.graph
+            .get_reverse(x.0, self.written_rep)
+            .into_iter()
+            .map(Form)
+            .collect()
     }
     pub fn written_rep(&self, x: Form) -> Vec<Written> {
-        self.graph.get_forward(x.0, self.written_rep).into_iter().map(Written).collect()
+        self.graph
+            .get_forward(x.0, self.written_rep)
+            .into_iter()
+            .map(Written)
+            .collect()
     }
     pub fn canonical_form_of(&self, x: Form) -> Vec<Lexical> {
-        self.graph.get_reverse(x.0, self.canonical_form).into_iter().map(Lexical).collect()
+        self.graph
+            .get_reverse(x.0, self.canonical_form)
+            .into_iter()
+            .map(Lexical)
+            .collect()
     }
     pub fn canonical_form(&self, x: Lexical) -> Vec<Form> {
-        self.graph.get_forward(x.0, self.canonical_form).into_iter().map(Form).collect()
+        self.graph
+            .get_forward(x.0, self.canonical_form)
+            .into_iter()
+            .map(Form)
+            .collect()
     }
     pub fn other_form_of(&self, x: Form) -> Vec<Lexical> {
-        self.graph.get_reverse(x.0, self.other_form).into_iter().map(Lexical).collect()
+        self.graph
+            .get_reverse(x.0, self.other_form)
+            .into_iter()
+            .map(Lexical)
+            .collect()
     }
     pub fn other_form(&self, x: Lexical) -> Vec<Form> {
-        self.graph.get_forward(x.0, self.other_form).into_iter().map(Form).collect()
+        self.graph
+            .get_forward(x.0, self.other_form)
+            .into_iter()
+            .map(Form)
+            .collect()
     }
     pub fn describes_of(&self, rep: Lexical) -> (Vec<Etymology>, Vec<Page>) {
         let mut ees = vec![];
@@ -97,19 +144,39 @@ impl Ontology {
         (ees, ps)
     }
     pub fn describes_etym(&self, x: Etymology) -> Vec<Lexical> {
-        self.graph.get_forward(x.0, self.describes).into_iter().map(Lexical).collect()
+        self.graph
+            .get_forward(x.0, self.describes)
+            .into_iter()
+            .map(Lexical)
+            .collect()
     }
     pub fn describes_page(&self, x: Page) -> Vec<Lexical> {
-        self.graph.get_forward(x.0, self.describes).into_iter().map(Lexical).collect()
+        self.graph
+            .get_forward(x.0, self.describes)
+            .into_iter()
+            .map(Lexical)
+            .collect()
     }
     pub fn etym_related_to(&self, x: Etymology) -> Vec<Etymology> {
-        self.graph.get_forward(x.0, self.etym_related).into_iter().map(Etymology).collect()
+        self.graph
+            .get_forward(x.0, self.etym_related)
+            .into_iter()
+            .map(Etymology)
+            .collect()
     }
     pub fn derived_from(&self, x: Page) -> Vec<Lexical> {
-        self.graph.get_forward(x.0, self.derived_from).into_iter().map(Lexical).collect()
+        self.graph
+            .get_forward(x.0, self.derived_from)
+            .into_iter()
+            .map(Lexical)
+            .collect()
     }
     pub fn derived_from_of(&self, x: Lexical) -> Vec<Page> {
-        self.graph.get_reverse(x.0, self.derived_from).into_iter().map(Page).collect()
+        self.graph
+            .get_reverse(x.0, self.derived_from)
+            .into_iter()
+            .map(Page)
+            .collect()
     }
     pub fn get_conflicts(self: &Arc<Self>, x: &str) -> Vec<String> {
         let mut set = ConflictSet::new(self.clone());
@@ -164,9 +231,12 @@ pub struct Translation(pub TurtleIndex);
 #[derive(Debug, Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash)]
 pub struct Other(pub TurtleIndex);
 
-pub static ONTOLOGY: AsyncStaticLock<anyhow::Result<Arc<Ontology>>> = AsyncStaticLock::new(async move {
-    Ok(Arc::new(Ontology::new().await?))
-});
+pub static ONTOLOGY: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Arc<Ontology>>>>> =
+    LazyLock::new(|| {
+        AsyncLazyLock::new(spawn_transparent(async move {
+            Ok(Arc::new(Ontology::new().await?))
+        }))
+    });
 
 #[tokio::test]
 async fn read_turtle_graph() -> anyhow::Result<()> {
@@ -200,7 +270,6 @@ async fn test_ontology() -> anyhow::Result<()> {
     //         }
     //     }
     // }
-
 
     Ok(())
 }

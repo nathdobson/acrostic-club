@@ -5,12 +5,14 @@ use std::path::{Path, PathBuf};
 use std::pin::Pin;
 use std::sync::{LazyLock, OnceLock};
 
+use crate::util::alloc::{restore_vec, MmapAllocator};
 use futures::future::BoxFuture;
 use futures::FutureExt;
-use safe_once_async::sync::{AsyncLazyLock, AsyncStaticLock};
+use safe_once_async::async_lazy::AsyncLazy;
+use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::sync::AsyncLazyLock;
 use tokio::io;
 use tokio::sync::Mutex;
-use crate::util::alloc::{MmapAllocator, restore_vec};
 
 //
 // pub struct LazyAsync<T> {
@@ -81,7 +83,7 @@ use crate::util::alloc::{MmapAllocator, restore_vec};
 //     }
 // }
 
-pub struct LazyMmap<T> (AsyncStaticLock<io::Result<Box<[T], MmapAllocator>>>);
+pub struct LazyMmap<T>(AsyncLazyLock<JoinTransparent<io::Result<Box<[T], MmapAllocator>>>>);
 
 pub trait CloneError {
     type Value;
@@ -97,7 +99,8 @@ impl<T> CloneError for io::Result<T> {
         self.as_ref().map_err(|e| io::Error::new(e.kind(), e))
     }
     fn clone_error(&self) -> Result<&Self::Value, Self::Error> {
-        self.as_ref().map_err(|e| io::Error::new(e.kind(), e.to_string()))
+        self.as_ref()
+            .map_err(|e| io::Error::new(e.kind(), e.to_string()))
     }
 }
 
@@ -145,14 +148,12 @@ impl<T> CloneError for anyhow::Result<T> {
 }
 
 impl<T: 'static + Send + Sync> LazyMmap<T> {
-    pub const fn new(path: fn() -> PathBuf) -> Self {
-        LazyMmap(AsyncStaticLock::new(async move {
+    pub fn new(path: fn() -> PathBuf) -> Self {
+        LazyMmap(AsyncLazyLock::new(spawn_transparent(async move {
             restore_vec(&path()).await
-        }))
+        })))
     }
-    pub fn get(&'static self) -> impl Send + Future<Output=io::Result<&'static [T]>> {
-        async move {
-            Ok(&**(self.0.get().await.clone_error_static()?))
-        }
+    pub fn get(&'static self) -> impl Send + Future<Output = io::Result<&'static [T]>> {
+        async move { Ok(&**(self.0.get().await.clone_error_static()?)) }
     }
 }
