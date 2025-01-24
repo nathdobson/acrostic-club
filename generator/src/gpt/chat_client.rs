@@ -1,52 +1,83 @@
-use std::any::Any;
-use std::future::Future;
-use std::{io, mem};
-use std::path::Path;
-use std::sync::Arc;
+use crate::gpt::key_value_file::{KeyValueFile, KeyValueFileCleanup};
+use anyhow::anyhow;
 use backoff::backoff::Backoff;
 use backoff::ExponentialBackoff;
-use reqwest::header::{AUTHORIZATION, HeaderMap, HeaderValue};
-use serde::Serialize;
-use serde::Deserialize;
-use tokio::fs;
 use chrono::{DateTime, Utc};
 use futures::future::BoxFuture;
 use futures::FutureExt;
+use ollama_rs::error::{OllamaError, ToolCallError};
+use ollama_rs::generation::completion::request::GenerationRequest;
+use ollama_rs::generation::completion::GenerationResponse;
+use ollama_rs::generation::options::GenerationOptions;
+use ollama_rs::generation::parameters::{FormatType, JsonStructure};
+use ollama_rs::Ollama;
+use reqwest::header::{HeaderMap, HeaderValue, AUTHORIZATION};
+use serde::Deserialize;
+use serde::Serialize;
+use std::any::Any;
+use std::future::Future;
+use std::path::Path;
+use std::sync::Arc;
+use std::{io, mem};
+use tokio::fs;
 use tokio::time::sleep;
-use crate::gpt::key_value_file::{KeyValueFile, KeyValueFileCleanup};
-use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
+// use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
 use crate::PACKAGE_PATH;
 
 pub struct BaseClient {
-    inner: reqwest::Client,
-    base_url: String,
+    inner: Ollama,
 }
 
 pub trait ChatClient: Send + Sync + 'static {
-    fn chat<'a>(&'a self, input: &'a ChatRequest) -> BoxFuture<'a, anyhow::Result<ChatResponse>>;
+    fn chat<'a>(
+        &'a self,
+        input: &'a GenerationRequest,
+    ) -> BoxFuture<'a, anyhow::Result<GenerationResponse>>;
 }
 
 impl ChatClient for BaseClient {
-    fn chat<'a>(&'a self, input: &'a ChatRequest) -> BoxFuture<'a, anyhow::Result<ChatResponse>> {
+    fn chat<'a>(
+        &'a self,
+        input: &'a GenerationRequest,
+    ) -> BoxFuture<'a, anyhow::Result<GenerationResponse>> {
         async move {
-            let resp =
-                self.inner.post(format!("{}{}", self.base_url, input.endpoint.as_uri()))
-                    .json(&input.body)
-                    .send().await?
-                    .bytes().await?;
-            match serde_json::from_slice::<ChatResponseResult>(&resp) {
-                Ok(ChatResponseResult::ChatResponse(x)) => return Ok(x),
-                Ok(ChatResponseResult::ChatResponseError(x)) => {
-                    println!("Error: {:?}", x.error.typ);
-                    return Err(x.into());
-                }
-                Err(e) => {
-                    eprintln!("{:?}", resp);
-                    return Err(e.into());
-                }
-            }
+            Ok(self
+                .inner
+                .generate(input.clone())
+                .await
+                .map_err(|e| match e {
+                    OllamaError::ToolCallError(e) => match e {
+                        ToolCallError::UnknownToolName => anyhow!("UnknownToolName"),
+                        ToolCallError::InvalidToolArguments(e) => anyhow::Error::from(e),
+                        ToolCallError::InternalToolError(e) => anyhow!("InternalToolError {}", e),
+                    },
+                    OllamaError::JsonError(e) => anyhow::Error::from(e),
+                    OllamaError::ReqwestError(e) => anyhow::Error::from(e),
+                    OllamaError::InternalError(e) => anyhow!("InternalError {}", e.message),
+                    OllamaError::Other(e) => anyhow!("Other {}", e),
+                })?)
+            // let resp = self
+            //     .inner
+            //     .post(format!("{}{}", self.base_url, input.endpoint.as_uri()))
+            //     .json(&input.body)
+            //     .send()
+            //     .await?
+            //     .bytes()
+            //     .await?;
+            // match serde_json::from_slice::<ChatResponseResult>(&resp) {
+            //     Ok(ChatResponseResult::ChatResponse(x)) => return Ok(x),
+            //     Ok(ChatResponseResult::ChatResponseError(x)) => {
+            //         println!("Error: {:?}", x.error.typ);
+            //         return Err(x.into());
+            //     }
+            //     Err(e) => {
+            //         eprintln!("{:?}", resp);
+            //         return Err(e.into());
+            //     }
             // }
-        }.boxed()
+            // }
+        }
+        .boxed()
     }
 }
 
@@ -60,35 +91,24 @@ impl BaseClient {
             AUTHORIZATION,
             HeaderValue::from_bytes(format!("Bearer {api_key}").as_bytes())?,
         );
-        let client = reqwest::ClientBuilder::new()
-            .default_headers(headers)
-            .build()?;
-        Ok(Arc::new(BaseClient {
-            inner: client,
-            base_url: "https://api.openai.com".to_string(),
-        }))
+        let client = Ollama::default();
+        Ok(Arc::new(BaseClient { inner: client }))
     }
 }
 
 #[tokio::test]
 async fn test_base_client() -> anyhow::Result<()> {
     let base_client = BaseClient::new().await?;
-    let response = base_client.chat(&ChatRequest {
-        endpoint: Endpoint::Chat,
-        body: ChatRequestBody {
-            model: Model::GPT_3_5_TURBO,
-            messages: vec![
-                ChatMessage {
-                    role: ChatRole::System,
-                    content: "You are a dog.".to_string(),
-                },
-                ChatMessage {
-                    role: ChatRole::User,
-                    content: "hello".to_string(),
-                },
-            ],
-            ..Default::default()
-        },
-    }).await?;
+    let response = base_client
+        .chat(
+            &GenerationRequest::new(
+                "llama3.2:3b".to_string(),
+                "What does a dog say?".to_string(),
+            )
+            .options(GenerationOptions::default().seed(123553))
+            .format(FormatType::StructuredJson(JsonStructure::new::<String>())),
+        )
+        .await?;
+    assert_eq!(response.response, "\"Drool\"");
     Ok(())
 }

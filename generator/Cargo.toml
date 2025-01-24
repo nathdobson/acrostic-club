@@ -56,3 +56,5 @@ pin-project = "1"
 pinned-init = "0.0.6"
 rkyv = { version = "0.7.45", features = ["validation"] }
 bytecheck = "0.7.0"
+ollama-rs = "0.2.4"
+schemars = "0.8.21"

@@ -7,7 +7,7 @@ use itertools::{peek_nth, PeekNth};
 use rand::seq::SliceRandom;
 use rand::thread_rng;
 use safe_once_async::async_lazy::AsyncLazy;
-use safe_once_async::detached::{JoinTransparent, spawn_transparent};
+use safe_once_async::detached::{spawn_transparent, JoinTransparent};
 use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
 use serde::Serialize;
@@ -154,12 +154,15 @@ pub async fn build_quotes() -> io::Result<()> {
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
     let mut quotes = QUOTES.get().await.clone_error_static()?;
     let quote = &quotes[pindex];
-    if !(quote.source.len() > 24
+    if !(quote.source.len() >= 23
         && quote.source.len() <= 26
         && quote.quote.len() > 180
         && quote.quote.len() < 200)
     {
-        return Err(io::Error::new(ErrorKind::InvalidInput, "bad quote"));
+        return Err(io::Error::new(
+            ErrorKind::InvalidInput,
+            format!("bad quote {} {}", quote.source.len(), quote.quote.len()),
+        ));
     }
 
     // let (index, selected) = quotes.into_iter().enumerate()
