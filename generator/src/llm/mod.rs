@@ -1,8 +1,8 @@
-use crate::gpt::cache_client::CacheClient;
-use crate::gpt::chat_client::{BaseClient, ChatClient};
-use crate::gpt::key_value_file::KeyValueFileCleanup;
-use crate::gpt::rate_limit_client::RateLimitClient;
-use crate::gpt::retry_client::RetryClient;
+use crate::llm::cache_client::CacheClient;
+use crate::llm::chat_client::{BaseClient, ChatClient};
+use crate::llm::key_value_file::KeyValueFileCleanup;
+use crate::llm::rate_limit_client::RateLimitClient;
+use crate::llm::retry_client::RetryClient;
 use crate::util::clock::Clock;
 use crate::util::rate_limit::RateLimit;
 use crate::PACKAGE_PATH;

@@ -1,5 +1,5 @@
-use crate::gpt::chat_client::ChatClient;
-use crate::gpt::{ollama_to_anyhow, FULL_MODEL, TEST_MODEL};
+use crate::llm::chat_client::ChatClient;
+use crate::llm::{ollama_to_anyhow, FULL_MODEL, TEST_MODEL};
 use futures::stream::iter;
 use futures::StreamExt;
 use ollama_rs::generation::chat::request::ChatMessageRequest;

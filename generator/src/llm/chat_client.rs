@@ -1,4 +1,4 @@
-use crate::gpt::key_value_file::{KeyValueFile, KeyValueFileCleanup};
+use crate::llm::key_value_file::{KeyValueFile, KeyValueFileCleanup};
 use anyhow::anyhow;
 use backoff::backoff::Backoff;
 use backoff::ExponentialBackoff;
@@ -21,7 +21,7 @@ use std::sync::Arc;
 use std::{io, mem};
 use tokio::fs;
 use tokio::time::sleep;
-// use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
+// use crate::llm::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
 use crate::PACKAGE_PATH;
 
 pub struct BaseClient {

@@ -1,4 +1,4 @@
-use crate::gpt::chat_client::ChatClient;
+use crate::llm::chat_client::ChatClient;
 use backoff::backoff::Backoff;
 use backoff::ExponentialBackoff;
 use futures::future::BoxFuture;
@@ -9,7 +9,7 @@ use parking_lot::Mutex;
 use std::sync::Arc;
 use std::time::Instant;
 use tokio::time::sleep;
-// use crate::gpt::types::{ChatRequest, ChatResponse};
+// use crate::llm::types::{ChatRequest, ChatResponse};
 use crate::util::rate_limit::RateLimit;
 
 pub struct RateLimitClient {

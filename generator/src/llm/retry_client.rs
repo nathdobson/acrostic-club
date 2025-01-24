@@ -1,4 +1,4 @@
-use crate::gpt::chat_client::ChatClient;
+use crate::llm::chat_client::ChatClient;
 use backoff::backoff::{Backoff, Zero};
 use backoff::{ExponentialBackoff, ExponentialBackoffBuilder};
 use futures::future::BoxFuture;
@@ -8,7 +8,7 @@ use ollama_rs::generation::completion::GenerationResponse;
 use std::sync::Arc;
 use std::time::Duration;
 use tokio::time::sleep;
-// use crate::gpt::types::{ChatRequest, ChatResponse};
+// use crate::llm::types::{ChatRequest, ChatResponse};
 
 pub struct RetryClient {
     inner: Arc<dyn ChatClient>,

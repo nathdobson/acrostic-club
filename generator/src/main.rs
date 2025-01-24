@@ -70,7 +70,7 @@ pub mod util;
 pub mod string;
 pub mod ontology;
 pub mod turtle;
-pub mod gpt;
+pub mod llm;
 pub mod conflict_set;
 pub mod subseq;
 mod banned;

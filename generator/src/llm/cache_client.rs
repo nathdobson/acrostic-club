@@ -1,5 +1,5 @@
-use crate::gpt::chat_client::{BaseClient, ChatClient};
-use crate::gpt::key_value_file::{KeyValueFile, KeyValueFileCleanup};
+use crate::llm::chat_client::{BaseClient, ChatClient};
+use crate::llm::key_value_file::{KeyValueFile, KeyValueFileCleanup};
 use futures::future::BoxFuture;
 use futures::FutureExt;
 use ollama_rs::generation::completion::request::GenerationRequest;
@@ -7,7 +7,7 @@ use ollama_rs::generation::completion::GenerationResponse;
 use std::path::Path;
 use std::sync::Arc;
 use std::{io, mem};
-// use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatRole, Endpoint, Model};
+// use crate::llm::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatRole, Endpoint, Model};
 use crate::PACKAGE_PATH;
 
 pub struct CacheClient {
