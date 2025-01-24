@@ -58,8 +58,8 @@ impl<Resp: JsonSchema + for<'de> Deserialize<'de>> RpcBuilder<Resp> {
 
 #[derive(Serialize)]
 pub struct ClueRequest {
-    answer: String,
-    clue_count: usize,
+    pub answer: String,
+    pub clue_count: usize,
 }
 
 #[derive(JsonSchema, Deserialize, Debug)]
@@ -68,21 +68,17 @@ pub struct ClueResponse {
     clues: Vec<String>,
 }
 
-pub fn generate_clues(answer: &str, count: usize) -> anyhow::Result<RpcBuilder<ClueResponse>> {
-    RpcBuilder::new(
-        &ClueRequest {
-            answer: answer.to_string(),
-            clue_count: 0,
-        },
-        "You are a crossword clue generator.".to_string(),
-    )
+impl ClueRequest {
+    pub fn build(self) -> anyhow::Result<RpcBuilder<ClueResponse>> {
+        RpcBuilder::new(&self, "You are a crossword clue generator.".to_string())
+    }
 }
 
 #[derive(Serialize)]
 pub struct AnswerRequest {
-    clue: String,
-    letter_count: usize,
-    answer_count: usize,
+    pub clue: String,
+    pub letter_count: usize,
+    pub answer_count: usize,
 }
 
 #[derive(JsonSchema, Deserialize, Debug)]
@@ -90,51 +86,26 @@ pub struct AnswerResponse {
     answers: Vec<String>,
 }
 
-pub fn generate_answers(
-    ollama: &Ollama,
-    clue: &str,
-    letter_count: usize,
-    answer_count: usize,
-) -> anyhow::Result<RpcBuilder<AnswerResponse>> {
-    RpcBuilder::new(
-        &AnswerRequest {
-            clue: clue.to_string(),
-            letter_count: letter_count,
-            answer_count: answer_count,
-        },
-        "You are a crossword clue solver. You provide several possible answers for a crossword clue.".to_string(),
-    )
+impl AnswerRequest {
+    pub fn build(self) -> anyhow::Result<RpcBuilder<AnswerResponse>> {
+        RpcBuilder::new(
+            &self,
+            "You are a crossword clue solver. You provide several possible answers for a crossword clue.".to_string(),
+        )
+    }
 }
 
 #[tokio::test]
 async fn test() -> anyhow::Result<()> {
     let ollama = Ollama::default();
     let answer = "extant";
-    let concurrency = 2;
-    let mut buf = iter(0..10)
-        .map(|seed| {
-            let ollama = &ollama;
-            async move {
-                let result = anyhow::Result::<ClueResponse>::Ok(
-                    generate_clues(answer, 10)?.seed(seed).send(&ollama).await?,
-                );
-                result
-            }
-        })
-        .buffered(concurrency);
-    let start = Instant::now();
-    while let Some(next) = buf.next().await {
-        let next = next?;
-        println!("{:?}", next.clues);
+    let clues = ClueRequest {
+        answer: answer.to_string(),
+        clue_count: 10,
     }
-    println!("{}", start.elapsed().as_secs_f64());
-    // let clues = generate_clues(answer, 10)?.send(&ollama).await?;
-    // for clue in &clues.clues {
-    //     println!("{}", clue);
-    //     let answers = generate_answers(&ollama, clue, answer.len(), 10)?
-    //         .send(&ollama)
-    //         .await?;
-    //     println!("{:?}", answers);
-    // }
+    .build()?
+    .send(&ollama)
+    .await?;
+    println!("{:?}", clues);
     Ok(())
 }
