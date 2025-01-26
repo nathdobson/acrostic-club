@@ -35,8 +35,11 @@ pub struct KeyValueFile<K, V> {
 pub struct KeyValueFileCleanup(Option<JoinHandle<io::Result<()>>>);
 
 impl KeyValueFileCleanup {
-    pub async fn cleanup(mut self) -> io::Result<()> {
-        self.0.take().unwrap().await.unwrap()
+    pub async fn cleanup(mut self) -> anyhow::Result<()> {
+        if let Some(cleanup) = self.0.take() {
+            cleanup.await??;
+        }
+        Ok(())
     }
 }
 
@@ -124,7 +127,7 @@ impl Drop for KeyValueFileCleanup {
 }
 
 #[tokio::test]
-async fn test_key_value_file() -> io::Result<()> {
+async fn test_key_value_file() -> anyhow::Result<()> {
     let dir = tempdir()?;
     let path = dir.path().join("my-temporary-note.txt");
     let (mut kvf, mut cleanup) = KeyValueFile::<usize, usize>::new(&path).await?;

@@ -49,7 +49,7 @@ use dict::build_dict;
 use quote::build_quotes;
 use trie::build_trie;
 
-use crate::chat::{add_chat, ClueClient};
+use crate::clues::{add_chat, ClueClient};
 use crate::quote::add_quote;
 use crate::search::add_answers;
 // use crate::segment::add_letters;
@@ -64,7 +64,7 @@ pub mod search;
 pub mod puzzle;
 // pub mod segment;
 pub mod quote;
-pub mod chat;
+pub mod clues;
 pub mod site;
 pub mod util;
 pub mod string;

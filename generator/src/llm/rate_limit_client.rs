@@ -8,6 +8,8 @@ use ollama_rs::generation::completion::GenerationResponse;
 use parking_lot::Mutex;
 use std::sync::Arc;
 use std::time::Instant;
+use ollama_rs::generation::chat::ChatMessageResponse;
+use ollama_rs::generation::chat::request::ChatMessageRequest;
 use tokio::time::sleep;
 // use crate::llm::types::{ChatRequest, ChatResponse};
 use crate::util::rate_limit::RateLimit;
@@ -27,14 +29,14 @@ impl RateLimitClient {
 }
 
 impl ChatClient for RateLimitClient {
-    fn chat<'a>(
+    fn send_chat_messages<'a>(
         &'a self,
-        input: &'a GenerationRequest,
-    ) -> BoxFuture<'a, anyhow::Result<GenerationResponse>> {
+        input: &'a ChatMessageRequest,
+    ) -> BoxFuture<'a, anyhow::Result<ChatMessageResponse>> {
         async move {
             let time = self.rate.lock().spawn();
             tokio::time::sleep_until(time).await;
-            let resp = self.inner.chat(input).await?;
+            let resp = self.inner.send_chat_messages(input).await?;
             Ok(resp)
         }
         .boxed()

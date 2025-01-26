@@ -3,10 +3,12 @@ use backoff::backoff::{Backoff, Zero};
 use backoff::{ExponentialBackoff, ExponentialBackoffBuilder};
 use futures::future::BoxFuture;
 use futures::FutureExt;
+use ollama_rs::generation::chat::request::ChatMessageRequest;
 use ollama_rs::generation::completion::request::GenerationRequest;
 use ollama_rs::generation::completion::GenerationResponse;
 use std::sync::Arc;
 use std::time::Duration;
+use ollama_rs::generation::chat::ChatMessageResponse;
 use tokio::time::sleep;
 // use crate::llm::types::{ChatRequest, ChatResponse};
 
@@ -44,14 +46,14 @@ impl RetryClient {
 }
 
 impl ChatClient for RetryClient {
-    fn chat<'a>(
+    fn send_chat_messages<'a>(
         &'a self,
-        input: &'a GenerationRequest,
-    ) -> BoxFuture<'a, anyhow::Result<GenerationResponse>> {
+        input: &'a ChatMessageRequest,
+    ) -> BoxFuture<'a, anyhow::Result<ChatMessageResponse>> {
         async move {
             let mut backoff = (self.backoff)();
             loop {
-                match self.inner.chat(input).await {
+                match self.inner.send_chat_messages(input).await {
                     Ok(x) => return Ok(x),
                     Err(e) => {
                         if let Some(backoff) = backoff.next_backoff() {

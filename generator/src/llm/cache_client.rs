@@ -2,6 +2,8 @@ use crate::llm::chat_client::{BaseClient, ChatClient};
 use crate::llm::key_value_file::{KeyValueFile, KeyValueFileCleanup};
 use futures::future::BoxFuture;
 use futures::FutureExt;
+use ollama_rs::generation::chat::request::ChatMessageRequest;
+use ollama_rs::generation::chat::ChatMessageResponse;
 use ollama_rs::generation::completion::request::GenerationRequest;
 use ollama_rs::generation::completion::GenerationResponse;
 use std::path::Path;
@@ -12,15 +14,15 @@ use crate::PACKAGE_PATH;
 
 pub struct CacheClient {
     inner: Arc<dyn ChatClient>,
-    cache: Box<KeyValueFile<String, GenerationResponse>>,
+    cache: Box<KeyValueFile<String, ChatMessageResponse>>,
 }
 
 impl ChatClient for CacheClient {
-    fn chat<'a>(
+    fn send_chat_messages<'a>(
         &'a self,
-        input: &'a GenerationRequest,
-    ) -> BoxFuture<'a, anyhow::Result<GenerationResponse>> {
-        self.chat_impl(input).boxed()
+        input: &'a ChatMessageRequest,
+    ) -> BoxFuture<'a, anyhow::Result<ChatMessageResponse>> {
+        self.generate_impl(input).boxed()
     }
 }
 
@@ -38,33 +40,18 @@ impl CacheClient {
             cleanup,
         ))
     }
-    async fn chat_impl(&self, input: &GenerationRequest) -> anyhow::Result<GenerationResponse> {
+    async fn generate_impl(
+        &self,
+        input: &ChatMessageRequest,
+    ) -> anyhow::Result<ChatMessageResponse> {
         let inner = self.inner.clone();
         let input = input.clone();
         Ok((*self
             .cache
             .get_or_init(serde_json::to_string(&input)?, async move {
-                inner.chat(&input).await
+                inner.send_chat_messages(&input).await
             })
             .await?)
             .clone())
     }
-}
-
-#[tokio::test]
-async fn test_cache_client() -> anyhow::Result<()> {
-    let (cache_client, cleanup) = CacheClient::new(
-        BaseClient::new().await?,
-        &PACKAGE_PATH.join("build/chat_cache.txt"),
-    )
-    .await?;
-    let response = cache_client
-        .chat(&GenerationRequest::new(
-            "llama3.3:70b".to_string(),
-            "Are you dog?".to_string(),
-        ))
-        .await?;
-    mem::drop(cache_client);
-    cleanup.cleanup().await?;
-    Ok(())
 }

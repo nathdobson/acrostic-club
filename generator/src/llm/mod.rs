@@ -6,27 +6,24 @@ use crate::llm::retry_client::RetryClient;
 use crate::util::clock::Clock;
 use crate::util::rate_limit::RateLimit;
 use crate::PACKAGE_PATH;
+use anyhow::anyhow;
 use ollama_rs::error::{OllamaError, ToolCallError};
 use std::io;
 use std::sync::Arc;
-use anyhow::anyhow;
 
 pub mod cache_client;
 pub mod chat_client;
-mod json;
 pub mod key_value_file;
 pub mod rate_limit_client;
 pub mod retry_client;
-pub mod types;
+pub mod rpcs;
 
-pub const TEST_MODEL: &'static str = "llama3.2:3b";
-pub const FULL_MODEL: &'static str = "llama3.3:70b";
-
+pub const MODEL_NAME: &'static str = "gemma2:27b";
 pub async fn new_client() -> anyhow::Result<(Arc<dyn ChatClient>, KeyValueFileCleanup)> {
     let client = BaseClient::new().await?;
-    let rate = RateLimit::new(Clock::Real, 50, 1.0);
-    let client = RateLimitClient::new(client, rate);
-    let client = RetryClient::new_exponential(client);
+    // let rate = RateLimit::new(Clock::Real, 50, 1.0);
+    // let client = RateLimitClient::new(client, rate);
+    // let client = RetryClient::new_exponential(client);
     let (client, cleanup) =
         CacheClient::new(client, &PACKAGE_PATH.join("build/chat_cache.txt")).await?;
     Ok((client, cleanup))
