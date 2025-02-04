@@ -5,7 +5,7 @@
   "source_letters": "DAVIDNICHOLLSONEDAY",
   "clues": [
     {
-      "clue": "Harry Potter's awful cousin.",
+      "clue": "The name shares phonetic similarity with the word 'dull' or 'dud'.",
       "answer": "dudley",
       "answer_letters": "DUDLEY",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Concerning the sense of sound",
+      "clue": "Sense of sound.",
       "answer": "auditory",
       "answer_letters": "AUDITORY",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Long journey, especially by sea.",
+      "clue": "Maritime journey.",
       "answer": "voyage",
       "answer_letters": "VOYAGE",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "A shot in the arm",
+      "clue": "An act of administering a drug through hypodermic needle.",
       "answer": "injection",
       "answer_letters": "INJECTION",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Lacking motivation and hope.",
+      "clue": "Feeling dejected or demoralized",
       "answer": "discouraged",
       "answer_letters": "DISCOURAGED",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Place for dancing and drinks",
+      "clue": "Location for live music and dancing, typically operating after dark.",
       "answer": "nightclub",
       "answer_letters": "NIGHTCLUB",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "Recognized",
+      "clue": "Recognized someone or something.",
       "answer": "identified",
       "answer_letters": "IDENTIFIED",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Morning pick-me-up",
+      "clue": "A morning pick-me-up.",
       "answer": "coffee",
       "answer_letters": "COFFEE",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Domestic domain.",
+      "clue": "The occupants of a residence.",
       "answer": "household",
       "answer_letters": "HOUSEHOLD",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Those who enforce the law.",
+      "clue": "Leaders in an organization or military.",
       "answer": "officers",
       "answer_letters": "OFFICERS",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Reducing in position",
+      "clue": "A reduction or decline.",
       "answer": "lowering",
       "answer_letters": "LOWERING",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "German air force during WWII",
+      "clue": "The German air force in WWII.",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Gunfight at the O.K. Corral",
+      "clue": "Confrontation between gunmen.",
       "answer": "shootout",
       "answer_letters": "SHOOTOUT",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Month with Halloween",
+      "clue": "Final month of fall.",
       "answer": "october",
       "answer_letters": "OCTOBER",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Subatomic particle with no charge",
+      "clue": "Atomic particle with no charge.",
       "answer": "neutron",
       "answer_letters": "NEUTRON",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "Could be this or that",
+      "clue": "Can imply choice between two options.",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Faulty",
+      "clue": "Having faults or flaws.",
       "answer": "defective",
       "answer_letters": "DEFECTIVE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "In total",
+      "clue": "In all, including everything.",
       "answer": "altogether",
       "answer_letters": "ALTOGETHER",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "It determines material stiffness",
+      "clue": "Young, the optical physicist behind the principle of superposition.",
       "answer": "young's",
       "answer_letters": "YOUNGS",
       "indices": [

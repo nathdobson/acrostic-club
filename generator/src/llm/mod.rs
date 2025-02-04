@@ -18,7 +18,7 @@ pub mod rate_limit_client;
 pub mod retry_client;
 pub mod rpcs;
 
-pub const MODEL_NAME: &'static str = "gemma2:27b";
+pub const MODEL_NAME: &'static str = "phi4";
 pub async fn new_client(cleanup: CleanupSender) -> anyhow::Result<Arc<dyn ChatClient>> {
     let client = BaseClient::new().await?;
     // let rate = RateLimit::new(Clock::Real, 50, 1.0);

@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYWARANDPEACE",
   "clues": [
     {
-      "clue": "Private research university located in Pennsylvania.",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Gases released into the atmosphere by vehicles.",
+      "clue": "Foul gases expelled by cars",
       "answer": "emissions",
       "answer_letters": "EMISSIONS",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "A new branch stemming from a main organization or group.",
+      "clue": "Side project emerging from an original idea.",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Past tense of fling, hurl or toss.",
+      "clue": "Past participle of hurl",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "A shape like a stretched oval.",
+      "clue": "Elliptical in shape.",
       "answer": "oblong",
       "answer_letters": "OBLONG",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Goddess of wealth and prosperity in Hindu mythology.",
+      "clue": "Hindu goddess of wealth and fortune",
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "An iconic representation often used in mathematics.",
+      "clue": "Hieroglyph or ideogram.",
       "answer": "symbol",
       "answer_letters": "SYMBOL",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "A fencing move.",
+      "clue": "Powering a rocket upward.",
       "answer": "thrust",
       "answer_letters": "THRUST",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Feeling hurt or insulted.",
+      "clue": "Sore about something said or done",
       "answer": "offended",
       "answer_letters": "OFFENDED",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Teenagers who are not yet adults.",
+      "clue": "Teens or adolescents.",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Painter known for his famous painting \"American Gothic.\"",
+      "clue": "Artist of 'The Gulf Stream'.",
       "answer": "winslow",
       "answer_letters": "WINSLOW",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "A season known for its colorful foliage.",
+      "clue": "Fall season.",
       "answer": "autumn",
       "answer_letters": "AUTUMN",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Changed into a new version.",
+      "clue": "Restyled for modern audiences.",
       "answer": "remade",
       "answer_letters": "REMADE",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "A historical region in modern-day Turkey.",
+      "clue": "Region encompassing parts of modern Turkey.",
       "answer": "anatolia",
       "answer_letters": "ANATOLIA",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "A Connecticut town where a tragic shooting occurred in 2012.",
+      "clue": "Place known for the heartbreaking 2012 shooting.",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Expressing disagreement with the majority.",
+      "clue": "Opposing an established opinion.",
       "answer": "dissenting",
       "answer_letters": "DISSENTING",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Different stages of a moon's appearance.",
+      "clue": "Periods in a woman's life.",
       "answer": "phases",
       "answer_letters": "PHASES",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "A football club from Liverpool.",
+      "clue": "Managed by Rafael Benitez (as of early 2020s).",
       "answer": "everton",
       "answer_letters": "EVERTON",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "The 1899 novel by Kate Chopin.",
+      "clue": "Gradual emergence into consciousness.",
       "answer": "awakening",
       "answer_letters": "AWAKENING",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Repetition of words or phrases, often in a rhythmic fashion.",
+      "clue": "Vocal repetition in religious practice",
       "answer": "chanting",
       "answer_letters": "CHANTING",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Actions taken towards achieving a goal.",
+      "clue": "Strivings.",
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
