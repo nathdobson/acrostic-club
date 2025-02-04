@@ -5,7 +5,7 @@
   "source_letters": "DANIELGUERINANARCHISM",
   "clues": [
     {
-      "clue": "Funds put into a bank account.",
+      "clue": "Placements in a bank.",
       "answer": "deposits",
       "answer_letters": "DEPOSITS",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Early Christian theologian known for his literary works.",
+      "clue": "Historian of late antiquity, Saint ___,",
       "answer": "ambrose",
       "answer_letters": "AMBROSE",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "County in eastern England.",
+      "clue": "City in Virginia, USA.",
       "answer": "norfolk",
       "answer_letters": "NORFOLK",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Continued to assert strongly.",
+      "clue": "Wouldn't let go of the idea until it was a reality.",
       "answer": "insisted",
       "answer_letters": "INSISTED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "The study of how organisms interact with each other and their environment.",
+      "clue": "Science of interactions among organisms and their environments.",
       "answer": "ecology",
       "answer_letters": "ECOLOGY",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "A legal professional who represents clients in court.",
+      "clue": "Esquire, often abbreviated as Esq.",
       "answer": "lawyer",
       "answer_letters": "LAWYER",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Female deities in mythology.",
+      "clue": "Ancient female deities.",
       "answer": "goddesses",
       "answer_letters": "GODDESSES",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Not compensated for services rendered.",
+      "clue": "Work done without compensation",
       "answer": "unpaid",
       "answer_letters": "UNPAID",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Specialized knowledge and skills in a particular field.",
+      "clue": "Technical acumen or know-how.",
       "answer": "expertise",
       "answer_letters": "EXPERTISE",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Director known for the Sherlock Holmes films starring Robert Downey Jr.",
+      "clue": "Co-author of 'The Art of Computer Programming'.",
       "answer": "ritchie",
       "answer_letters": "RITCHIE",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Character in the Animal Crossing video game series.",
+      "clue": "French-Canadian actress Huppert.",
       "answer": "isabelle",
       "answer_letters": "ISABELLE",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "To plot a course, like Captain Cook.",
+      "clue": "Maneuver through challenges with skill.",
       "answer": "navigate",
       "answer_letters": "NAVIGATE",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Confesses to wrongdoing or truthfully acknowledges something.",
+      "clue": "Confesses under pressure.",
       "answer": "admits",
       "answer_letters": "ADMITS",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Famous seaside city in Rhode Island.",
+      "clue": "Location of the International Tennis Hall of Fame.",
       "answer": "newport",
       "answer_letters": "NEWPORT",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Organizations or groups associated with a particular person or entity.",
+      "clue": "Involvements indicating allegiance or partnership.",
       "answer": "affiliations",
       "answer_letters": "AFFILIATIONS",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Nobel Prize-winning physicist who conducted the famous gold foil experiment.",
+      "clue": "He probed gold foil with alpha particles.",
       "answer": "rutherford",
       "answer_letters": "RUTHERFORD",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Religious figure said to be the son of God.",
+      "clue": "A title also given to Jesus.",
       "answer": "christ",
       "answer_letters": "CHRIST",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "A South Korean automaker.",
+      "clue": "Automaker with Genesis luxury division.",
       "answer": "hyundai",
       "answer_letters": "HYUNDAI",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "A popular smartphone created by a tech giant based in Cupertino, California.",
+      "clue": "Apple's smart device.",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Lacking intelligence.",
+      "clue": "Opposite of smart.",
       "answer": "stupid",
       "answer_letters": "STUPID",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "A chemical compound commonly found in organic molecules.",
+      "clue": "Common organic substituent",
       "answer": "methyl",
       "answer_letters": "METHYL",
       "indices": [

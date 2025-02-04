@@ -5,7 +5,7 @@
   "source_letters": "BFSKINNERWALDENTWO",
   "clues": [
     {
-      "clue": "Birthplace of Charles Darwin.",
+      "clue": "Located in Derbyshire, England.",
       "answer": "buxton",
       "answer_letters": "BUXTON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Governing bodies composed of smaller groups.",
+      "clue": "Consolidated groups with common interests.",
       "answer": "federations",
       "answer_letters": "FEDERATIONS",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Emotion often depicted by a blue cartoon character.",
+      "clue": "Depression or sorrow.",
       "answer": "sadness",
       "answer_letters": "SADNESS",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Home state of Colonel Sanders.",
+      "clue": "Capital: Frankfort",
       "answer": "kentucky",
       "answer_letters": "KENTUCKY",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Found at the start of a book or presentation.",
+      "clue": "Basic and preliminary in nature.",
       "answer": "introductory",
       "answer_letters": "INTRODUCTORY",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "A cloud of dust and gas in space.",
+      "clue": "Cloudy region in space.",
       "answer": "nebula",
       "answer_letters": "NEBULA",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "City in Japan, known for its castle and automobile industry.",
+      "clue": "City in Japan's Chubu region.",
       "answer": "nagoya",
       "answer_letters": "NAGOYA",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Large sports venue in Spanish-speaking countries.",
+      "clue": "Spanish for stadium.",
       "answer": "estadio",
       "answer_letters": "ESTADIO",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Capable of being trusted to do what is expected or required.",
+      "clue": "Not negligent.",
       "answer": "responsible",
       "answer_letters": "RESPONSIBLE",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Electromagnetic measurements.",
+      "clue": "Units used to describe colors of light.",
       "answer": "wavelengths",
       "answer_letters": "WAVELENGTHS",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Made operational or turned on, like a spy ready for a mission.",
+      "clue": "Made operational",
       "answer": "activated",
       "answer_letters": "ACTIVATED",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "A person from Beirut or Tripoli.",
+      "clue": "Cousins to Syrians and Palestinians in regional terms.",
       "answer": "lebanese",
       "answer_letters": "LEBANESE",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "An entrance into a new space.",
+      "clue": "Where one steps through to enter.",
       "answer": "doorway",
       "answer_letters": "DOORWAY",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Ability to understand and share the feelings of others.",
+      "clue": "Affective understanding of another's situation.",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "A direction to travel towards Maine, Vermont, and New Hampshire.",
+      "clue": "Opposite of southwest on a compass.",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Buddhist monk from a region nestled within the Himalayas.",
+      "clue": "Language of Tibet.",
       "answer": "tibetan",
       "answer_letters": "TIBETAN",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "An expression used to convey indifference or a lack of interest.",
+      "clue": "Expression signifying 'I don't mind'.",
       "answer": "whatever",
       "answer_letters": "WHATEVER",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "The characteristic of being unique and creative.",
+      "clue": "Foundation of inventive ideas.",
       "answer": "originality",
       "answer_letters": "ORIGINALITY",
       "indices": [

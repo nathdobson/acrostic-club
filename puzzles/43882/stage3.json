@@ -5,7 +5,7 @@
   "source_letters": "ANNASEWELLBLACKBEAUTY",
   "clues": [
     {
-      "clue": "A respiratory condition.",
+      "clue": "A chronic respiratory condition.",
       "answer": "asthma",
       "answer_letters": "ASTHMA",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A material used to catch fish.",
+      "clue": "Tight weave for catching fish or balls.",
       "answer": "netting",
       "answer_letters": "NETTING",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Informed, like how journalists receive updates.",
+      "clue": "Sent a message to inform.",
       "answer": "notified",
       "answer_letters": "NOTIFIED",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Actor known for starring in That '70s Show and Punk'd.",
+      "clue": "Partnered with Mila Kunis in a popular romantic comedy series.",
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Linens used to cover a bed.",
+      "clue": "Can be crisp or rumpled.",
       "answer": "sheets",
       "answer_letters": "SHEETS",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "A segment of a TV series.",
+      "clue": "Chapter in a TV series.",
       "answer": "episode",
       "answer_letters": "EPISODE",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Surrounded by.",
+      "clue": "Contained in limits of.",
       "answer": "within",
       "answer_letters": "WITHIN",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "A physicist who developed the theory of relativity.",
+      "clue": "German form of 'Edward'.",
       "answer": "eduard",
       "answer_letters": "EDUARD",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Private research university located in Pennsylvania.",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "A person on a ship or tower who watches for danger.",
+      "clue": "Place for a view.",
       "answer": "lookout",
       "answer_letters": "LOOKOUT",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Region in southeastern Europe.",
+      "clue": "Region home to Montenegro, Serbia, Kosovo, and others.",
       "answer": "balkan",
       "answer_letters": "BALKAN",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "London borough known for its iconic wheel.",
+      "clue": "A district in South London named after a medieval bridge.",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Lawyer who argues for a client in court.",
+      "clue": "Lawyer in court.",
       "answer": "advocate",
       "answer_letters": "ADVOCATE",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "To gather information from various sources and create a coherent document or program.",
+      "clue": "Process data to produce a report.",
       "answer": "compile",
       "answer_letters": "COMPILE",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "South Indian state known for its palm-lined beaches and backwaters.",
+      "clue": "Tropical state in India known for its backwaters.",
       "answer": "kerala",
       "answer_letters": "KERALA",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "A character in Shakespeare's A Midsummer Night's Dream.",
+      "clue": "Underneath in terms of layers.",
       "answer": "bottom",
       "answer_letters": "BOTTOM",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Actor who played Andrew Clark in The Breakfast Club.",
+      "clue": "Estevez Sr., the patriarch.",
       "answer": "emilio",
       "answer_letters": "EMILIO",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Oregon city named after a wealthy fur trader.",
+      "clue": "Region where you might find the Socrates Sculpture Park.",
       "answer": "astoria",
       "answer_letters": "ASTORIA",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Basic foundation or hidden cause.",
+      "clue": "Not overtly visible but integral.",
       "answer": "underlying",
       "answer_letters": "UNDERLYING",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Buddhist monk from a region nestled within the Himalayas.",
+      "clue": "Language of Tibet.",
       "answer": "tibetan",
       "answer_letters": "TIBETAN",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Teenagers who are not yet adults.",
+      "clue": "Teens or adolescents.",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [

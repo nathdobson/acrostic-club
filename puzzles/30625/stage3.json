@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue": "A place where grapes are grown.",
+      "clue": "Location for grape cultivation.",
       "answer": "vineyard",
       "answer_letters": "VINEYARD",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Symbol representing an organization or country.",
+      "clue": "Iconic representation, often used on uniforms or flags.",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Reacting to someone or something.",
+      "clue": "Giving an answer or reaction.",
       "answer": "responding",
       "answer_letters": "RESPONDING",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Out of date or antique in style or design.",
+      "clue": "Vintage approach.",
       "answer": "old-fashioned",
       "answer_letters": "OLDFASHIONED",
       "indices": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "clue": "Necessary or essential.",
+      "clue": "Necessary for a particular purpose.",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "clue": "An educational course designed to be completed in a short amount of time.",
+      "clue": "Type of farming with high input costs.",
       "answer": "intensive",
       "answer_letters": "INTENSIVE",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "A traditional leader of a Scottish clan.",
+      "clue": "Tribal head or leader.",
       "answer": "chieftain",
       "answer_letters": "CHIEFTAIN",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Not merely theoretical, but put into practice.",
+      "clue": "This kind of mathematics often involves problem-solving.",
       "answer": "applied",
       "answer_letters": "APPLIED",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "A pattern of beats and accents in music.",
+      "clue": "Time signature component.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "A river's discharge.",
+      "clue": "The movement of molten lava from a volcano.",
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "The moment when a plane leaves the ground and begins its flight.",
+      "clue": "Aeroplane's beginning flight phase.",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Language spoken in Israel.",
+      "clue": "Spoken in parts of Israel today.",
       "answer": "hebrew",
       "answer_letters": "HEBREW",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Low-carb diet pioneer.",
+      "clue": "Name associated with a low-carb diet plan.",
       "answer": "atkins",
       "answer_letters": "ATKINS",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "The duration of a human existence.",
+      "clue": "Age from infancy to demise.",
       "answer": "lifetime",
       "answer_letters": "LIFETIME",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Terms affixed to products",
+      "clue": "Identifiers on products.",
       "answer": "labels",
       "answer_letters": "LABELS",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Moral principles for right and wrong conduct.",
+      "clue": "Rules of conduct or morality.",
       "answer": "ethics",
       "answer_letters": "ETHICS",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Managed a country or state, as Margaret Thatcher once did.",
+      "clue": "Regulated according to rules.",
       "answer": "governed",
       "answer_letters": "GOVERNED",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "Measurement between feet and yards.",
+      "clue": "Imperial units of length.",
       "answer": "inches",
       "answer_letters": "INCHES",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "However nonetheless.",
+      "clue": "Come hell or high water.",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Something new and original.",
+      "clue": "The essence of something original and amusing.",
       "answer": "novelty",
       "answer_letters": "NOVELTY",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "A treatment method for mental health.",
+      "clue": "Form of treatment.",
       "answer": "therapy",
       "answer_letters": "THERAPY",
       "indices": [

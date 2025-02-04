@@ -5,7 +5,7 @@
   "source_letters": "ILONAANDREWSBAYOUMOON",
   "clues": [
     {
-      "clue": "Measurement between feet and yards.",
+      "clue": "Imperial units of length.",
       "answer": "inches",
       "answer_letters": "INCHES",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Private research university located in Pennsylvania.",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Directed away from the center or interior.",
+      "clue": "Beyond internal aspects",
       "answer": "outward",
       "answer_letters": "OUTWARD",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "The son of your sibling.",
+      "clue": "Daughter's son.",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Permissible.",
+      "clue": "Gave permission to do something.",
       "answer": "allowed",
       "answer_letters": "ALLOWED",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "A mind-altering substance made from fermented fruits or grains.",
+      "clue": "Substance that can lead to addiction.",
       "answer": "alcohol",
       "answer_letters": "ALCOHOL",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Almost there.",
+      "clue": "Not quite; almost.",
       "answer": "nearly",
       "answer_letters": "NEARLY",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Related to electronics and technology.",
+      "clue": "Age of information.",
       "answer": "digital",
       "answer_letters": "DIGITAL",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "A Yorkshire town known for its steel industry.",
+      "clue": "East Yorkshire town, known for steel and glass works.",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "A descriptive nickname given to Achilles in Homer's Iliad.",
+      "clue": "Synonym for moniker.",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "A physicist known for his contributions to quantum mechanics and lattice dynamics.",
+      "clue": "Clifford, a physicist involved with quantum mechanics.",
       "answer": "wheeler",
       "answer_letters": "WHEELER",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "A popular menu category at Red Lobster restaurants.",
+      "clue": "Delicacies like oysters, scallops, and lobster.",
       "answer": "seafood",
       "answer_letters": "SEAFOOD",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "A Biblical city that means \"house of God\".",
+      "clue": "Biblical location where Joshua encountered God.",
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "College town in Massachusetts, home to Emily Dickinson.",
+      "clue": "U.S. college town in Massachusetts",
       "answer": "amherst",
       "answer_letters": "AMHERST",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "A language commonly spoken in Nigeria and other parts of West Africa.",
+      "clue": "Culture and language spoken by many in southwestern Nigeria.",
       "answer": "yoruba",
       "answer_letters": "YORUBA",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "The fraction that represents 33.33% of a whole.",
+      "clue": "Fractional equivalent of 33.3%.",
       "answer": "one-third",
       "answer_letters": "ONETHIRD",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "To maintain in accordance with the law or rules of an organization.",
+      "clue": "Sustain or maintain.",
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "A device that performs a specific task, often powered by electricity.",
+      "clue": "Can perform tasks repetitively without tiring.",
       "answer": "machine",
       "answer_letters": "MACHINE",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Not on the coast, out to sea.",
+      "clue": "Out at sea.",
       "answer": "offshore",
       "answer_letters": "OFFSHORE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "A place where Oliver Twist was raised.",
+      "clue": "Children's home.",
       "answer": "orphanage",
       "answer_letters": "ORPHANAGE",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "Necessary or essential.",
+      "clue": "Necessary for a particular purpose.",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [

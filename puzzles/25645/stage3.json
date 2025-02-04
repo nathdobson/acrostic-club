@@ -5,7 +5,7 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "To spin on an axis.",
+      "clue": "Move in a circle.",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Large-scale commercial operations.",
+      "clue": "Segments with significant economic impact.",
       "answer": "industries",
       "answer_letters": "INDUSTRIES",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "A wily predator found in many parts of North America.",
+      "clue": "Mammal known for its vocal yipping calls.",
       "answer": "coyote",
       "answer_letters": "COYOTE",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Capital city of Tasmania, Australia.",
+      "clue": "Second city of Tasmania.",
       "answer": "hobart",
       "answer_letters": "HOBART",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Forced removal from a property.",
+      "clue": "Legal removal from premises.",
       "answer": "eviction",
       "answer_letters": "EVICTION",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Revolutionary War hero and French military officer.",
+      "clue": "Allied general in American Revolution",
       "answer": "lafayette",
       "answer_letters": "LAFAYETTE",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "A person on a ship or tower who watches for danger.",
+      "clue": "Place for a view.",
       "answer": "lookout",
       "answer_letters": "LOOKOUT",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "A descriptive nickname given to Achilles in Homer's Iliad.",
+      "clue": "Synonym for moniker.",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "The driving forces behind one's actions and decisions.",
+      "clue": "Causal factors in conduct.",
       "answer": "motives",
       "answer_letters": "MOTIVES",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "Used to indicate a choice between two options.",
+      "clue": "Can imply choice between two options.",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "A group of islands in the Atlantic Ocean.",
+      "clue": "A group of Portuguese islands in the Atlantic.",
       "answer": "azores",
       "answer_letters": "AZORES",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Committed to religious faith.",
+      "clue": "Wholeheartedly committed to faith.",
       "answer": "devout",
       "answer_letters": "DEVOUT",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "To fail to remember something.",
+      "clue": "Omit from recollection.",
       "answer": "forget",
       "answer_letters": "FORGET",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Director known for the Sherlock Holmes films starring Robert Downey Jr.",
+      "clue": "Co-author of 'The Art of Computer Programming'.",
       "answer": "ritchie",
       "answer_letters": "RITCHIE",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "A set of clothing.",
+      "clue": "Wardrobe ensemble.",
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Not as fast.",
+      "clue": "Adjective for less rapid.",
       "answer": "slower",
       "answer_letters": "SLOWER",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "City in Ohio known for its glass industry.",
+      "clue": "City in Ohio known for its glass production.",
       "answer": "toledo",
       "answer_letters": "TOLEDO",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Capital city of Colombia.",
+      "clue": "Colombia's capital.",
       "answer": "bogotá",
       "answer_letters": "BOGOTA",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Asks people to come to an event.",
+      "clue": "Calls to attend something.",
       "answer": "invites",
       "answer_letters": "INVITES",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "A contraction used to indicate the present perfect tense.",
+      "clue": "Contraction of they and have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "A philosophical term for something that exists and can be recognized.",
+      "clue": "Corporate body or individual with legal standing",
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [

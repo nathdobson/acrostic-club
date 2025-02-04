@@ -5,305 +5,305 @@
   "source_letters": "ISAACMARIONWARMBODIES",
   "clues": [
     {
-      "clue": "Obstruction or disruption of a signal.",
-      "answer": "interference",
-      "answer_letters": "INTERFERENCE",
-      "indices": [
-        55,
-        147,
-        105,
-        92,
-        34,
-        87,
-        183,
-        81,
-        68,
-        115,
-        110,
-        116
-      ]
-    },
-    {
-      "clue": "A professional who maps out terrain and measures land boundaries.",
-      "answer": "surveyor",
-      "answer_letters": "SURVEYOR",
-      "indices": [
-        130,
-        40,
-        101,
-        182,
-        99,
-        176,
-        15,
-        18
-      ]
-    },
-    {
-      "clue": "A notice of caution.",
-      "answer": "advisory",
-      "answer_letters": "ADVISORY",
-      "indices": [
-        43,
-        20,
-        168,
-        72,
-        107,
-        177,
-        3,
-        171
-      ]
-    },
-    {
-      "clue": "A shimmering display in the night sky.",
-      "answer": "aurora",
-      "answer_letters": "AURORA",
-      "indices": [
-        8,
-        63,
-        91,
-        128,
-        170,
-        100
-      ]
-    },
-    {
-      "clue": "An indigenous nation originally from southeastern United States.",
-      "answer": "cherokee",
-      "answer_letters": "CHEROKEE",
-      "indices": [
-        109,
-        84,
-        139,
-        151,
-        152,
-        162,
-        167,
-        160
-      ]
-    },
-    {
-      "clue": "A female parent.",
-      "answer": "mother",
-      "answer_letters": "MOTHER",
-      "indices": [
-        9,
-        76,
-        138,
-        111,
-        35,
-        142
-      ]
-    },
-    {
-      "clue": "A record of financial transactions.",
-      "answer": "account",
-      "answer_letters": "ACCOUNT",
-      "indices": [
-        136,
-        45,
-        161,
-        25,
-        90,
-        36,
-        85
-      ]
-    },
-    {
-      "clue": "Possible clue: Navigation options.",
-      "answer": "routes",
-      "answer_letters": "ROUTES",
-      "indices": [
-        6,
-        172,
-        23,
-        133,
-        157,
-        73
-      ]
-    },
-    {
-      "clue": "The act of recognizing or pointing out something or someone.",
+      "clue": "Pinpointing characteristics for classification",
       "answer": "identifying",
       "answer_letters": "IDENTIFYING",
       "indices": [
-        114,
-        127,
-        121,
-        47,
-        89,
-        143,
-        59,
+        82,
+        141,
+        160,
+        173,
+        135,
+        72,
+        87,
         14,
         46,
-        56,
-        83
+        47,
+        48
       ]
     },
     {
-      "clue": "A suggested donation or contribution.",
-      "answer": "offering",
-      "answer_letters": "OFFERING",
+      "clue": "Home to Aldeburgh and Bawdsey.",
+      "answer": "suffolk",
+      "answer_letters": "SUFFOLK",
       "indices": [
-        181,
+        12,
+        60,
         165,
         150,
-        103,
-        69,
-        146,
-        53,
-        148
-      ]
-    },
-    {
-      "clue": "Last name of the English author who wrote \"One Day.\"",
-      "answer": "nicholls",
-      "answer_letters": "NICHOLLS",
-      "indices": [
-        102,
-        52,
-        61,
-        118,
-        119,
-        180,
+        128,
         24,
-        65
+        62
       ]
     },
     {
-      "clue": "A popular alcoholic beverage made from fermented grains.",
-      "answer": "whiskey",
-      "answer_letters": "WHISKEY",
+      "clue": "Relating to the style and planning of buildings.",
+      "answer": "architectural",
+      "answer_letters": "ARCHITECTURAL",
       "indices": [
-        125,
-        156,
-        21,
-        137,
-        62,
-        169,
-        94
+        43,
+        81,
+        109,
+        67,
+        146,
+        138,
+        70,
+        110,
+        133,
+        40,
+        97,
+        8,
+        180
       ]
     },
     {
-      "clue": "Danish city with a prominent university.",
-      "answer": "aarhus",
-      "answer_letters": "AARHUS",
+      "clue": "Circumvents or steers clear of",
+      "answer": "avoids",
+      "answer_letters": "AVOIDS",
       "indices": [
         108,
-        112,
-        51,
-        30,
-        96,
+        182,
+        95,
+        114,
+        127,
         104
       ]
     },
     {
-      "clue": "Second-place finisher.",
-      "answer": "runner-up",
-      "answer_letters": "RUNNERUP",
+      "clue": "Educational institution in Spanish.",
+      "answer": "colegio",
+      "answer_letters": "COLEGIO",
       "indices": [
-        78,
-        77,
-        54,
-        44,
-        70,
-        11,
-        88,
-        120
+        61,
+        15,
+        32,
+        99,
+        148,
+        52,
+        25
       ]
     },
     {
-      "clue": "Irish name often associated with potatoes.",
+      "clue": "Fastest orbiting celestial body around the Sun.",
+      "answer": "mercury",
+      "answer_letters": "MERCURY",
+      "indices": [
+        9,
+        183,
+        3,
+        29,
+        26,
+        51,
+        38
+      ]
+    },
+    {
+      "clue": "Energized or stimulated.",
+      "answer": "aroused",
+      "answer_letters": "AROUSED",
+      "indices": [
+        100,
+        101,
+        181,
+        23,
+        73,
+        103,
+        42
+      ]
+    },
+    {
+      "clue": "Initial footage shot for consideration in editing.",
+      "answer": "rushes",
+      "answer_letters": "RUSHES",
+      "indices": [
+        78,
+        178,
+        130,
+        84,
+        174,
+        65
+      ]
+    },
+    {
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        19,
+        120,
+        118,
+        164,
+        56,
+        68
+      ]
+    },
+    {
+      "clue": "Suitable moment.",
+      "answer": "occasion",
+      "answer_letters": "OCCASION",
+      "indices": [
+        152,
+        161,
+        45,
+        136,
+        137,
+        132,
+        172,
+        54
+      ]
+    },
+    {
+      "clue": "A beginner.",
+      "answer": "novice",
+      "answer_letters": "NOVICE",
+      "indices": [
+        36,
+        1,
+        168,
+        55,
+        22,
+        7
+      ]
+    },
+    {
+      "clue": "Deserving of respect or reward.",
+      "answer": "worthy",
+      "answer_letters": "WORTHY",
+      "indices": [
+        125,
+        76,
+        18,
+        155,
+        111,
+        0
+      ]
+    },
+    {
+      "clue": "Crafted a book or article.",
+      "answer": "authored",
+      "answer_letters": "AUTHORED",
+      "indices": [
+        112,
+        90,
+        105,
+        156,
+        39,
+        170,
+        139,
+        20
+      ]
+    },
+    {
+      "clue": "Almost a champion.",
+      "answer": "runner-up",
+      "answer_letters": "RUNNERUP",
+      "indices": [
+        142,
+        63,
+        115,
+        159,
+        92,
+        11,
+        77,
+        144
+      ]
+    },
+    {
+      "clue": "'Anything that can go wrong, will...' is named after him.",
       "answer": "murphy",
       "answer_letters": "MURPHY",
       "indices": [
         153,
-        178,
-        97,
-        144,
+        96,
+        6,
+        64,
         123,
         75
       ]
     },
     {
-      "clue": "Obtaining goods or services in exchange for currency.",
+      "clue": "Economic activity involving payment to obtain an item.",
       "answer": "buying",
       "answer_letters": "BUYING",
       "indices": [
         80,
-        26,
-        38,
+        88,
+        176,
         31,
-        159,
-        50
+        44,
+        57
       ]
     },
     {
-      "clue": "Barely visible formations on the surface.",
-      "answer": "outcrops",
-      "answer_letters": "OUTCROPS",
+      "clue": "Region once under Viking rule, now part of Scotland.",
+      "answer": "orkney",
+      "answer_letters": "ORKNEY",
       "indices": [
-        164,
-        2,
-        155,
-        29,
+        177,
         113,
-        95,
-        64,
-        12
+        162,
+        102,
+        167,
+        171
       ]
     },
     {
-      "clue": "To come to a conclusion or make a choice.",
-      "answer": "decide",
-      "answer_letters": "DECIDE",
+      "clue": "Placed something carefully for safekeeping",
+      "answer": "deposited",
+      "answer_letters": "DEPOSITED",
       "indices": [
         33,
-        10,
-        22,
-        82,
-        5,
-        7
-      ]
-    },
-    {
-      "clue": "A set of beliefs and values that shape a person's worldview.",
-      "answer": "ideology",
-      "answer_letters": "IDEOLOGY",
-      "indices": [
-        19,
-        141,
-        129,
+        157,
+        145,
         124,
-        32,
-        1,
-        48,
-        0
+        107,
+        143,
+        85,
+        116,
+        5
       ]
     },
     {
-      "clue": "Adequate for the task at hand.",
+      "clue": "Mess with someone's business.",
+      "answer": "interfere",
+      "answer_letters": "INTERFERE",
+      "indices": [
+        21,
+        147,
+        89,
+        10,
+        69,
+        59,
+        129,
+        91,
+        35
+      ]
+    },
+    {
+      "clue": "As many as necessary.",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
-        174,
-        173,
-        39,
-        60,
-        57,
-        67
+        121,
+        53,
+        119,
+        2,
+        83,
+        30
       ]
     },
     {
-      "clue": "Lacking intelligence or common sense.",
-      "answer": "stupid",
-      "answer_letters": "STUPID",
+      "clue": "A hospital's critical area",
+      "answer": "surgery",
+      "answer_letters": "SURGERY",
       "indices": [
         27,
-        135,
         16,
-        145,
-        132,
-        42
+        34,
+        50,
+        169,
+        151,
+        94
       ]
     }
   ],

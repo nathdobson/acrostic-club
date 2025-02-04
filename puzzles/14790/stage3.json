@@ -5,7 +5,7 @@
   "source_letters": "SARAHDESSENJUSTLISTEN",
   "clues": [
     {
-      "clue": "An Olympic sport on ice.",
+      "clue": "A winter pastime on ice.",
       "answer": "skating",
       "answer_letters": "SKATING",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Actions taken to achieve a goal.",
+      "clue": "Repetitions aiming for success.",
       "answer": "attempts",
       "answer_letters": "ATTEMPTS",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "A term used in technology to describe a computer system starting up again.",
+      "clue": "A new version of an existing show.",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Wrote a best-selling book under a pen name.",
+      "clue": "Crafted a book or article.",
       "answer": "authored",
       "answer_letters": "AUTHORED",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Actress and model who portrayed Veronica Mars on television.",
+      "clue": "Commonly seen in moorland scenery",
       "answer": "heather",
       "answer_letters": "HEATHER",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Assistant to the Regional Manager on The Office.",
+      "clue": "Michele's husband on 'The Office'.",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "A celestial event where the moon partially or completely covers the sun.",
+      "clue": "Sun or moon is obscured.",
       "answer": "eclipse",
       "answer_letters": "ECLIPSE",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Methods used to obtain information or data.",
+      "clue": "Entry points for data collection.",
       "answer": "sources",
       "answer_letters": "SOURCES",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "A music streaming service.",
+      "clue": "Music streaming service.",
       "answer": "spotify",
       "answer_letters": "SPOTIFY",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "A person's cultural background.",
+      "clue": "Cultural group belonging.",
       "answer": "ethnicity",
       "answer_letters": "ETHNICITY",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Deserving of attention.",
+      "clue": "Meriting consideration or remark.",
       "answer": "noteworthy",
       "answer_letters": "NOTEWORTHY",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Became a member.",
+      "clue": "Became part of a group",
       "answer": "joined",
       "answer_letters": "JOINED",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Not commonly seen or heard of.",
+      "clue": "Strange, out of the norm.",
       "answer": "unusual",
       "answer_letters": "UNUSUAL",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Things worth seeing.",
+      "clue": "Things to admire or look at.",
       "answer": "sights",
       "answer_letters": "SIGHTS",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Famous jewelry brand founded in the mid-19th century.",
+      "clue": "Celebrated designer of jewelry, born in 1848.",
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Jesuit saint and founder of the Society of Jesus.",
+      "clue": "Name of a Jesuit university.",
       "answer": "loyola",
       "answer_letters": "LOYOLA",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "To lay on as a burden or duty.",
+      "clue": "Enforce or apply (something)",
       "answer": "impose",
       "answer_letters": "IMPOSE",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "To provide something needed or demanded.",
+      "clue": "Provide or furnish.",
       "answer": "supply",
       "answer_letters": "SUPPLY",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "A French Polynesian island famously painted by Paul Gauguin.",
+      "clue": "Pearl of the South Seas.",
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Famous physicist and mathematician known for his theory of relativity.",
+      "clue": "____ de Beauharnais, an emperor's consort.",
       "answer": "eugene",
       "answer_letters": "EUGENE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "To discuss and bargain in order to reach an agreement.",
+      "clue": "Engage in discussion to reach an agreement.",
       "answer": "negotiate",
       "answer_letters": "NEGOTIATE",
       "indices": [

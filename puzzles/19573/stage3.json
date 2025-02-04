@@ -5,7 +5,7 @@
   "source_letters": "JOSESARAMAGOTHECAVE",
   "clues": [
     {
-      "clue": "A gemstone often found in red, brown, or yellow hues.",
+      "clue": "Common name for a type of quartz.",
       "answer": "jasper",
       "answer_letters": "JASPER",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A river's discharge.",
+      "clue": "The movement of molten lava from a volcano.",
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Done in a distinct way, not together.",
+      "clue": "Not collectively",
       "answer": "separately",
       "answer_letters": "SEPARATELY",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "The planet we live on.",
+      "clue": "Home of humanity, excluding water",
       "answer": "earth's",
       "answer_letters": "EARTHS",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "A well-known publishing company.",
+      "clue": "Concerned with learning and education.",
       "answer": "scholastic",
       "answer_letters": "SCHOLASTIC",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Occurs visually or becomes present to an audience.",
+      "clue": "Presenting itself; manifest.",
       "answer": "appearing",
       "answer_letters": "APPEARING",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Agreed to walk down the aisle for a second time.",
+      "clue": "Ex-husband or ex-wife once more in the bonds of matrimony.",
       "answer": "remarried",
       "answer_letters": "REMARRIED",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "Boxer known as \"Canelo\".",
+      "clue": "Last name of a notable physicist and Nobel laureate, Luis.",
       "answer": "álvarez",
       "answer_letters": "ALVAREZ",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Soft and spongy tissue found inside bones.",
+      "clue": "Found deep within skeletal structures.",
       "answer": "marrow",
       "answer_letters": "MARROW",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "Enticing someone's attention.",
+      "clue": "Luring someone closer, whether physically or metaphorically.",
       "answer": "attracting",
       "answer_letters": "ATTRACTING",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "The study of rocks and the Earth's crust.",
+      "clue": "Discipline focused on plate tectonics and seismic activity.",
       "answer": "geology",
       "answer_letters": "GEOLOGY",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Fruit tree groves.",
+      "clue": "Places where apples might be found in abundance.",
       "answer": "orchards",
       "answer_letters": "ORCHARDS",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Relating to advanced devices and systems.",
+      "clue": "Relating to the development and application of tools, machines, systems, or methods.",
       "answer": "technological",
       "answer_letters": "TECHNOLOGICAL",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Actor who played Indiana Jones and Han Solo.",
+      "clue": "Father of Beatle George.",
       "answer": "harrison",
       "answer_letters": "HARRISON",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "In due course.",
+      "clue": "After some time has passed.",
       "answer": "eventually",
       "answer_letters": "EVENTUALLY",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Without pause or interruption.",
+      "clue": "Without pause or stop.",
       "answer": "continuously",
       "answer_letters": "CONTINUOUSLY",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Members of a group or organization.",
+      "clue": "Partners in business.",
       "answer": "affiliates",
       "answer_letters": "AFFILIATES",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "A measure of electric potential energy.",
+      "clue": "Electrical potential difference.",
       "answer": "voltage",
       "answer_letters": "VOLTAGE",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Archimedes' exclamation.",
+      "clue": "Ah-ha! moment.",
       "answer": "eureka",
       "answer_letters": "EUREKA",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "TANAFRENCHINTHEWOODS",
   "clues": [
     {
-      "clue": "An idea.",
+      "clue": "Consideration or speculation.",
       "answer": "thought",
       "answer_letters": "THOUGHT",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Greek goddess of wisdom and war.",
+      "clue": "Wisdom goddess in Greek mythology.",
       "answer": "athena",
       "answer_letters": "ATHENA",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "The birth of Jesus Christ.",
+      "clue": "Story of Jesus' birth.",
       "answer": "nativity",
       "answer_letters": "NATIVITY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "A patriotic song that represents a country.",
+      "clue": "Tune for national pride.",
       "answer": "anthem",
       "answer_letters": "ANTHEM",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "A neighborhood in Queens, New York City.",
+      "clue": "Where Citi Field, home to the Mets, is located.",
       "answer": "flushing",
       "answer_letters": "FLUSHING",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "An adverb meaning \"in a striking or impressive way.\"",
+      "clue": "To an exceptional degree.",
       "answer": "remarkably",
       "answer_letters": "REMARKABLY",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Member of The Beatles.",
+      "clue": "People whose national sport could be rugby or soccer.",
       "answer": "englishman",
       "answer_letters": "ENGLISHMAN",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "A quantitative value.",
+      "clue": "Digit or digits.",
       "answer": "number",
       "answer_letters": "NUMBER",
       "indices": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "clue": "A formal gathering for a specific purpose.",
+      "clue": "Political party meeting to nominate candidates.",
       "answer": "convention",
       "answer_letters": "CONVENTION",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Practices that promote cleanliness and health.",
+      "clue": "Cleansing process to maintain well-being.",
       "answer": "hygiene",
       "answer_letters": "HYGIENE",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Hurt and wounded.",
+      "clue": "Wounded, as in a battle.",
       "answer": "injured",
       "answer_letters": "INJURED",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "A five-cent coin.",
+      "clue": "Five-cent piece.",
       "answer": "nickel",
       "answer_letters": "NICKEL",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Ended abruptly or put to an end suddenly.",
+      "clue": "Concluded or ended.",
       "answer": "terminated",
       "answer_letters": "TERMINATED",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Artist known for his colorful and emotive paintings.",
+      "clue": "Celebrated cricketer who was also a prolific author.",
       "answer": "hussain",
       "answer_letters": "HUSSAIN",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "A geographical orientation.",
+      "clue": "Horizonal directional span.",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Receptive to visitors and guests.",
+      "clue": "Characterized by warmth and friendliness.",
       "answer": "welcoming",
       "answer_letters": "WELCOMING",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Against something.",
+      "clue": "In disagreement.",
       "answer": "opposed",
       "answer_letters": "OPPOSED",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "A region in Russia governed by a governor.",
+      "clue": "Regional division in Russia.",
       "answer": "oblast",
       "answer_letters": "OBLAST",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "First appeared in public, like a famous person on a talk show.",
+      "clue": "Appeared for the initial time.",
       "answer": "debuted",
       "answer_letters": "DEBUTED",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Exceptionally modern or advanced.",
+      "clue": "Cutting-edge innovation.",
       "answer": "state-of-the-art",
       "answer_letters": "STATEOFTHEART",
       "indices": [

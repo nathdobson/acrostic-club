@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDGOLIATH",
   "clues": [
     {
-      "clue": "Part of a shirt.",
+      "clue": "Part of a garment that fits around one's arm.",
       "answer": "sleeve",
       "answer_letters": "SLEEVE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A pathway for water or other fluids to flow through.",
+      "clue": "Passage between two bodies of water",
       "answer": "channel",
       "answer_letters": "CHANNEL",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Capital city of Canada.",
+      "clue": "Formerly named Bytown.",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "A seat of power in a castle or palace.",
+      "clue": "Sovereign's seat.",
       "answer": "throne",
       "answer_letters": "THRONE",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "A traveling theater group.",
+      "clue": "Thespian ensemble.",
       "answer": "troupe",
       "answer_letters": "TROUPE",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "A measure of heaviness.",
+      "clue": "Heavy responsibility, perhaps?",
       "answer": "weight",
       "answer_letters": "WEIGHT",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Relating to the portion of the Earth where the sun rises.",
+      "clue": "Opposite of Western",
       "answer": "eastern",
       "answer_letters": "EASTERN",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Displaying for exhibition, as a museum does.",
+      "clue": "Highlighted during exhibition.",
       "answer": "showcased",
       "answer_letters": "SHOWCASED",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "A system of transportation that runs on rails and is powered by electricity.",
+      "clue": "Path designated for electric cars on rails.",
       "answer": "tramway",
       "answer_letters": "TRAMWAY",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Iberian country bordered by France and Portugal.",
+      "clue": "This country's capital is Madrid.",
       "answer": "españa",
       "answer_letters": "ESPANA",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "TV series about a sportswriter and his eccentric family.",
+      "clue": "Cousin of Bertrand and Rene.",
       "answer": "raymond",
       "answer_letters": "RAYMOND",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Explorer who circumnavigated Australia and gave the country its name.",
+      "clue": "Explorer who mapped Australian coast in 1802-03.",
       "answer": "flinders",
       "answer_letters": "FLINDERS",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Repeated a sound.",
+      "clue": "Made the same sound again",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Place with sea-level altitude.",
+      "clue": "Bottom rank in a hierarchy.",
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "To investigate and uncover evidence of wrongdoings.",
+      "clue": "Pinpoint or discover through analysis.",
       "answer": "detect",
       "answer_letters": "DETECT",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "TV host known for interviewing celebrities on a cozy couch.",
+      "clue": "Scottish clan surname, as in Robert the Bruce's nemesis.",
       "answer": "graham",
       "answer_letters": "GRAHAM",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Former president of the United States.",
+      "clue": "First African-American US President's family name.",
       "answer": "obama's",
       "answer_letters": "OBAMAS",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "A picturesque coastal town in Southern California.",
+      "clue": "Lakeside in Spanish.",
       "answer": "laguna",
       "answer_letters": "LAGUNA",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "The process of consuming or absorbing something.",
+      "clue": "Admission to school is known as an _.",
       "answer": "intake",
       "answer_letters": "INTAKE",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Greek goddess of wisdom and war.",
+      "clue": "Wisdom goddess in Greek mythology.",
       "answer": "athena",
       "answer_letters": "ATHENA",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "A district in India's administrative system.",
+      "clue": "Administrative unit under a Zila Parishad.",
       "answer": "taluka",
       "answer_letters": "TALUKA",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Neighborhood in northern Manhattan known for its vibrant artistic and cultural heritage.",
+      "clue": "Location of the Apollo Theater.",
       "answer": "harlem",
       "answer_letters": "HARLEM",
       "indices": [

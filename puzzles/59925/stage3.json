@@ -5,301 +5,301 @@
   "source_letters": "SHERWOODSMITHCROWNDUEL",
   "clues": [
     {
-      "clue": "To a certain extent.",
-      "answer": "somewhat",
-      "answer_letters": "SOMEWHAT",
+      "clue": "Esteemed actor with Middle Eastern roots.",
+      "answer": "sharif",
+      "answer_letters": "SHARIF",
       "indices": [
-        166,
-        137,
-        25,
-        17,
-        32,
-        87,
-        40,
-        120
-      ]
-    },
-    {
-      "clue": "Australian tennis player and former world No. 1.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
+        139,
         121,
-        155,
-        84,
-        80,
-        78,
-        54
+        85,
+        173,
+        19,
+        145
       ]
     },
     {
-      "clue": "Sign up for a course.",
-      "answer": "enroll",
-      "answer_letters": "ENROLL",
+      "clue": "Managed a presentation or show.",
+      "answer": "hosted",
+      "answer_letters": "HOSTED",
       "indices": [
-        81,
-        60,
-        153,
-        146,
-        143,
-        18
-      ]
-    },
-    {
-      "clue": "Political ideology that supports a conservative government.",
-      "answer": "right-wing",
-      "answer_letters": "RIGHTWING",
-      "indices": [
-        46,
-        117,
-        107,
-        72,
-        162,
-        67,
-        37,
-        114,
-        175
-      ]
-    },
-    {
-      "clue": "A virtual location.",
-      "answer": "website",
-      "answer_letters": "WEBSITE",
-      "indices": [
-        43,
-        29,
-        8,
-        154,
-        47,
-        118,
-        127
-      ]
-    },
-    {
-      "clue": "A place for performers.",
-      "answer": "onstage",
-      "answer_letters": "ONSTAGE",
-      "indices": [
-        180,
-        89,
-        86,
-        159,
-        165,
-        90,
-        27
-      ]
-    },
-    {
-      "clue": "Former President's possessive.",
-      "answer": "obama's",
-      "answer_letters": "OBAMAS",
-      "indices": [
+        2,
         104,
-        26,
-        10,
-        112,
-        149,
+        86,
+        162,
+        27,
+        115
+      ]
+    },
+    {
+      "clue": "Synonym for moniker.",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        13,
+        125,
+        126,
+        177,
+        62,
+        97,
+        52
+      ]
+    },
+    {
+      "clue": "A mild term for 'instead'.",
+      "answer": "rather",
+      "answer_letters": "RATHER",
+      "indices": [
+        56,
+        34,
+        54,
+        87,
+        24,
+        46
+      ]
+    },
+    {
+      "clue": "Had a famous connection to the Royal Family.",
+      "answer": "wallis",
+      "answer_letters": "WALLIS",
+      "indices": [
+        67,
+        74,
+        142,
+        18,
+        59,
         101
       ]
     },
     {
-      "clue": "A principle of Eastern religions.",
-      "answer": "dharma",
-      "answer_letters": "DHARMA",
+      "clue": "Counterbalance in terms.",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
       "indices": [
-        115,
-        68,
-        132,
-        56,
-        23,
-        85
-      ]
-    },
-    {
-      "clue": "Areas of darkness caused by the obstruction of light.",
-      "answer": "shadows",
-      "answer_letters": "SHADOWS",
-      "indices": [
-        170,
-        96,
-        63,
-        82,
-        55,
-        99,
-        123
-      ]
-    },
-    {
-      "clue": "A hairstyle featuring a strip of hair down the middle of the scalp.",
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        16,
-        152,
-        33,
-        34,
-        131,
-        12
-      ]
-    },
-    {
-      "clue": "Biblical prophet.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        174,
-        5,
-        100,
-        88,
-        74,
-        62
-      ]
-    },
-    {
-      "clue": "A Polynesian island paradise.",
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
-      "indices": [
-        93,
-        141,
-        2,
-        19,
-        14,
-        126
-      ]
-    },
-    {
-      "clue": "The need for sustenance.",
-      "answer": "hunger",
-      "answer_letters": "HUNGER",
-      "indices": [
-        176,
-        158,
-        75,
-        103,
-        24,
-        73
-      ]
-    },
-    {
-      "clue": "Act of being dishonest in an exam or a relationship.",
-      "answer": "cheating",
-      "answer_letters": "CHEATING",
-      "indices": [
-        128,
-        151,
-        97,
-        0,
-        35,
-        76,
-        106,
-        49
-      ]
-    },
-    {
-      "clue": "To answer back.",
-      "answer": "rejoin",
-      "answer_letters": "REJOIN",
-      "indices": [
-        79,
-        22,
-        168,
-        136,
-        161,
-        70
-      ]
-    },
-    {
-      "clue": "Not connected to the internet.",
-      "answer": "offline",
-      "answer_letters": "OFFLINE",
-      "indices": [
-        3,
-        145,
+        146,
         179,
-        64,
-        59,
-        48,
-        57
-      ]
-    },
-    {
-      "clue": "One who creates stories and books.",
-      "answer": "writer",
-      "answer_letters": "WRITER",
-      "indices": [
-        39,
-        21,
-        51,
-        52,
-        44,
-        173
-      ]
-    },
-    {
-      "clue": "Recently created or developed.",
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        11,
-        129,
-        164,
-        69,
-        133,
-        171
-      ]
-    },
-    {
-      "clue": "Discussions with opposing viewpoints.",
-      "answer": "debates",
-      "answer_letters": "DEBATES",
-      "indices": [
-        30,
-        6,
-        157,
-        45,
-        177,
-        13,
-        41
-      ]
-    },
-    {
-      "clue": "To raise something or someone to a higher level or position.",
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
-      "indices": [
-        169,
-        125,
-        142,
-        105,
         65,
+        95,
+        22,
+        78
+      ]
+    },
+    {
+      "clue": "Island where WWII's last major battle occurred.",
+      "answer": "okinawa",
+      "answer_letters": "OKINAWA",
+      "indices": [
+        136,
+        12,
+        88,
+        60,
+        132,
+        164,
+        149
+      ]
+    },
+    {
+      "clue": "Michele's husband on 'The Office'.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        82,
+        131,
+        105,
+        107,
+        151,
         135
       ]
     },
     {
-      "clue": "Mistakes that can affect the outcome.",
-      "answer": "errors",
-      "answer_letters": "ERRORS",
+      "clue": "It's time to shine! (informal)",
+      "answer": "showtime",
+      "answer_letters": "SHOWTIME",
       "indices": [
-        113,
-        4,
-        147,
-        110,
-        28,
-        139
+        170,
+        176,
+        55,
+        32,
+        171,
+        51,
+        16,
+        57
       ]
     },
     {
-      "clue": "Boundaries or borders.",
-      "answer": "limits",
-      "answer_letters": "LIMITS",
+      "clue": "Recollections, often nostalgic.",
+      "answer": "memories",
+      "answer_letters": "MEMORIES",
       "indices": [
-        9,
-        92,
         140,
+        155,
+        25,
+        137,
+        21,
+        174,
+        127,
+        41
+      ]
+    },
+    {
+      "clue": "Contemplate or visualize.",
+      "answer": "imagine",
+      "answer_letters": "IMAGINE",
+      "indices": [
+        37,
+        23,
+        45,
+        175,
+        80,
+        70,
+        44
+      ]
+    },
+    {
+      "clue": "Undulating land.",
+      "answer": "terrain",
+      "answer_letters": "TERRAIN",
+      "indices": [
+        93,
+        6,
+        73,
+        147,
+        10,
+        47,
+        11
+      ]
+    },
+    {
+      "clue": "Superlative degree.",
+      "answer": "highest",
+      "answer_letters": "HIGHEST",
+      "indices": [
+        96,
+        92,
+        103,
+        72,
+        17,
+        166,
+        159
+      ]
+    },
+    {
+      "clue": "Places where legal disputes are adjudicated.",
+      "answer": "courts",
+      "answer_letters": "COURTS",
+      "indices": [
+        128,
+        3,
+        158,
+        28,
+        14,
+        5
+      ]
+    },
+    {
+      "clue": "First name of Scottish footballer Robert Snodgrass.",
+      "answer": "robbie",
+      "answer_letters": "ROBBIE",
+      "indices": [
+        153,
+        110,
+        26,
+        8,
         122,
+        129
+      ]
+    },
+    {
+      "clue": "Formerly named Bytown.",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        180,
         109,
-        95
+        120,
+        100,
+        99,
+        141
+      ]
+    },
+    {
+      "clue": "Pioneers of modern aviation",
+      "answer": "wright's",
+      "answer_letters": "WRIGHTS",
+      "indices": [
+        39,
+        79,
+        76,
+        49,
+        68,
+        35,
+        123
+      ]
+    },
+    {
+      "clue": "Oscar-winning actor Paul ______.",
+      "answer": "newman",
+      "answer_letters": "NEWMAN",
+      "indices": [
+        89,
+        113,
+        84,
+        112,
+        165,
+        75
+      ]
+    },
+    {
+      "clue": "His last name is a Canadian province.",
+      "answer": "dawson",
+      "answer_letters": "DAWSON",
+      "indices": [
+        30,
+        40,
+        43,
+        154,
+        152,
+        114
+      ]
+    },
+    {
+      "clue": "Trouble or turmoil.",
+      "answer": "unrest",
+      "answer_letters": "UNREST",
+      "indices": [
+        169,
+        48,
+        4,
+        69,
+        133,
+        118
+      ]
+    },
+    {
+      "clue": "A prophet in the Old Testament.",
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
+      "indices": [
+        81,
+        9,
+        161,
+        168,
+        0,
+        33
+      ]
+    },
+    {
+      "clue": "Attaching names or identifiers to objects.",
+      "answer": "labeling",
+      "answer_letters": "LABELING",
+      "indices": [
+        64,
+        63,
+        157,
+        29,
+        143,
+        117,
+        106,
+        90
       ]
     }
   ],

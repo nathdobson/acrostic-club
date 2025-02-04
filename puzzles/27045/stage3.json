@@ -5,7 +5,7 @@
   "source_letters": "HEATHERBURCHHALFLINGS",
   "clues": [
     {
-      "clue": "The sport of pursuing and killing wild animals for food or recreation.",
+      "clue": "Targeted outdoor activity.",
       "answer": "hunting",
       "answer_letters": "HUNTING",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Adequate to fulfill a need.",
+      "clue": "As many as necessary.",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Actor who played Gomez Addams in The Addams Family.",
+      "clue": "A Spanish King (reigned 1874-85).",
       "answer": "alfonso",
       "answer_letters": "ALFONSO",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Ideas and reflections in one's mind.",
+      "clue": "Contemplations or reflections.",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Capital city of the Lower Saxony state in Germany.",
+      "clue": "Capital of Lower Saxony before 1990",
       "answer": "hannover",
       "answer_letters": "HANNOVER",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Became a soldier by joining the army.",
+      "clue": "Became a member of an army",
       "answer": "enlisted",
       "answer_letters": "ENLISTED",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "A pattern of beats and accents in music.",
+      "clue": "Time signature component.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "A notorious aircraft used in warfare.",
+      "clue": "Type of aircraft used in military strikes.",
       "answer": "bomber",
       "answer_letters": "BOMBER",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "The highest level; Bruce Lee's nickname.",
+      "clue": "Superlative or final.",
       "answer": "ultimate",
       "answer_letters": "ULTIMATE",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Done in a hurry.",
+      "clue": "Moved with haste or speed.",
       "answer": "rushed",
       "answer_letters": "RUSHED",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "TV game show hosted by Jeff Stelling.",
+      "clue": "Seconds to lift-off.",
       "answer": "countdown",
       "answer_letters": "COUNTDOWN",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Empty inside, like Ichabod Crane's pumpkin.",
+      "clue": "Emptiness inside.",
       "answer": "hollow",
       "answer_letters": "HOLLOW",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Scottish geologist who proposed the theory of uniformitarianism.",
+      "clue": "18th-century geologist who influenced Lyell",
       "answer": "hutton",
       "answer_letters": "HUTTON",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Taken against their will, like the Betty and Barney Hill incident.",
+      "clue": "Ruthlessly taken away.",
       "answer": "abducted",
       "answer_letters": "ABDUCTED",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Made less high.",
+      "clue": "Depressed or diminished in level",
       "answer": "lowered",
       "answer_letters": "LOWERED",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Engages in physical altercations.",
+      "clue": "Physical altercations.",
       "answer": "fights",
       "answer_letters": "FIGHTS",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Private research university located in Pennsylvania.",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Reveals of valuable knowledge or understanding.",
+      "clue": "Perceptions gleaned through analysis.",
       "answer": "insights",
       "answer_letters": "INSIGHTS",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Someone who is inexperienced or new to a particular activity or skill.",
+      "clue": "A beginner.",
       "answer": "novice",
       "answer_letters": "NOVICE",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Athlete who performs acrobatic feats on a mat or apparatus.",
+      "clue": "One who competes on the beam, rings, or vault",
       "answer": "gymnast",
       "answer_letters": "GYMNAST",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "Native American tribe from the Great Plains.",
+      "clue": "Participants in Tecumseh's confederacy.",
       "answer": "shawnee",
       "answer_letters": "SHAWNEE",
       "indices": [

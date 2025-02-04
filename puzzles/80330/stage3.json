@@ -5,295 +5,295 @@
   "source_letters": "CHLOERATTRAYSACRENOIR",
   "clues": [
     {
-      "clue": "Steep rocky formations.",
-      "answer": "cliffs",
-      "answer_letters": "CLIFFS",
-      "indices": [
-        80,
-        114,
-        52,
-        83,
-        63,
-        31
-      ]
-    },
-    {
-      "clue": "Intermission during a sports game.",
-      "answer": "halftime",
-      "answer_letters": "HALFTIME",
-      "indices": [
-        72,
-        160,
-        69,
-        94,
-        51,
-        36,
-        49,
-        44
-      ]
-    },
-    {
-      "clue": "A bankrupt investment bank.",
-      "answer": "lehman",
-      "answer_letters": "LEHMAN",
-      "indices": [
-        148,
-        73,
-        137,
-        77,
-        115,
-        103
-      ]
-    },
-    {
-      "clue": "Lee Harvey ___ .",
-      "answer": "oswald",
-      "answer_letters": "OSWALD",
-      "indices": [
-        143,
-        47,
-        163,
-        90,
-        65,
-        172
-      ]
-    },
-    {
-      "clue": "To display an object or artwork to the public.",
-      "answer": "exhibit",
-      "answer_letters": "EXHIBIT",
-      "indices": [
-        15,
-        111,
-        1,
-        2,
-        57,
-        102,
-        0
-      ]
-    },
-    {
-      "clue": "Showing no mercy or pity.",
-      "answer": "ruthless",
-      "answer_letters": "RUTHLESS",
-      "indices": [
-        42,
-        43,
-        61,
-        14,
-        45,
-        170,
-        10,
-        27
-      ]
-    },
-    {
-      "clue": "A season of changing leaves.",
-      "answer": "autumn",
-      "answer_letters": "AUTUMN",
-      "indices": [
-        59,
-        133,
-        142,
-        60,
-        53,
-        87
-      ]
-    },
-    {
-      "clue": "A period of the day just before dark.",
-      "answer": "twilight",
-      "answer_letters": "TWILIGHT",
-      "indices": [
-        11,
-        129,
-        5,
-        21,
-        151,
-        88,
-        153,
-        35
-      ]
-    },
-    {
-      "clue": "Gave evidence in court.",
-      "answer": "testified",
-      "answer_letters": "TESTIFIED",
-      "indices": [
-        75,
-        110,
-        55,
-        99,
-        76,
-        23,
-        176,
-        24,
-        127
-      ]
-    },
-    {
-      "clue": "What's left after the fact.",
-      "answer": "remains",
-      "answer_letters": "REMAINS",
-      "indices": [
-        95,
-        130,
-        174,
-        147,
-        119,
-        107,
-        6
-      ]
-    },
-    {
-      "clue": "Sharing a common border or touching.",
-      "answer": "adjoining",
-      "answer_letters": "ADJOINING",
-      "indices": [
-        165,
-        145,
-        8,
-        48,
-        22,
-        91,
-        113,
-        101,
-        121
-      ]
-    },
-    {
-      "clue": "A Japanese motorcycle brand.",
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        19,
-        125,
-        33,
-        117,
-        98,
-        18
-      ]
-    },
-    {
-      "clue": "A sculpted figure.",
-      "answer": "statue",
-      "answer_letters": "STATUE",
-      "indices": [
-        3,
-        13,
-        138,
-        118,
-        84,
-        38
-      ]
-    },
-    {
-      "clue": "To fine-tune or modify.",
-      "answer": "adjust",
-      "answer_letters": "ADJUST",
-      "indices": [
-        67,
-        108,
-        132,
-        9,
-        177,
-        135
-      ]
-    },
-    {
-      "clue": "The framework of a vehicle.",
-      "answer": "chassis",
-      "answer_letters": "CHASSIS",
+      "clue": "Smallest of dog breeds.",
+      "answer": "chihuahua",
+      "answer_letters": "CHIHUAHUA",
       "indices": [
         41,
-        159,
-        106,
-        162,
-        39,
-        155,
-        134
+        153,
+        2,
+        72,
+        84,
+        18,
+        1,
+        64,
+        115
       ]
     },
     {
-      "clue": "An assessment of something.",
-      "answer": "review",
-      "answer_letters": "REVIEW",
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
       "indices": [
-        169,
-        140,
-        139,
-        96,
+        137,
         100,
-        17
-      ]
-    },
-    {
-      "clue": "The number of years until legal adulthood.",
-      "answer": "eighteen",
-      "answer_letters": "EIGHTEEN",
-      "indices": [
-        171,
-        86,
-        104,
-        164,
-        71,
-        146,
-        50,
-        126
-      ]
-    },
-    {
-      "clue": "Caught with a mesh.",
-      "answer": "netted",
-      "answer_letters": "NETTED",
-      "indices": [
-        82,
-        34,
+        150,
+        52,
         156,
+        71
+      ]
+    },
+    {
+      "clue": "The German air force in WWII.",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        69,
+        60,
+        168,
         152,
-        58,
+        129,
+        67,
+        83,
+        23,
+        140
+      ]
+    },
+    {
+      "clue": "Beyond home plate in a game of ball",
+      "answer": "outfield",
+      "answer_letters": "OUTFIELD",
+      "indices": [
+        143,
+        9,
+        135,
+        63,
+        26,
+        54,
+        68,
         92
       ]
     },
     {
-      "clue": "A drainage.",
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
+      "clue": "A prophet in the Old Testament.",
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
       "indices": [
-        173,
-        64,
-        158,
-        168,
-        68,
-        32,
-        150
+        78,
+        114,
+        96,
+        132,
+        117,
+        164
       ]
     },
     {
-      "clue": "A sudden realization.",
-      "answer": "insight",
-      "answer_letters": "INSIGHT",
-      "indices": [
-        26,
-        120,
-        85,
-        62,
-        97,
-        112,
-        166
-      ]
-    },
-    {
-      "clue": "Distant in space or time.",
-      "answer": "remote",
-      "answer_letters": "REMOTE",
+      "clue": "Chemical substance leftover.",
+      "answer": "residue",
+      "answer_letters": "RESIDUE",
       "indices": [
         116,
-        54,
-        37,
-        81,
+        50,
+        134,
+        62,
+        108,
+        43,
+        15
+      ]
+    },
+    {
+      "clue": "Change slightly for improvement.",
+      "answer": "adjust",
+      "answer_letters": "ADJUST",
+      "indices": [
+        90,
+        172,
+        8,
+        133,
+        162,
+        13
+      ]
+    },
+    {
+      "clue": "Dusk or dawn period",
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
+      "indices": [
+        0,
+        17,
+        113,
+        148,
+        36,
+        104,
+        14,
+        61
+      ]
+    },
+    {
+      "clue": "Granted an honorific",
+      "answer": "titled",
+      "answer_letters": "TITLED",
+      "indices": [
+        118,
+        76,
+        142,
+        21,
+        170,
+        127
+      ]
+    },
+    {
+      "clue": "Eternal city's inhabitants.",
+      "answer": "romans",
+      "answer_letters": "ROMANS",
+      "indices": [
+        95,
+        173,
+        49,
+        160,
+        103,
+        27
+      ]
+    },
+    {
+      "clue": "Complementing primary efforts.",
+      "answer": "assisting",
+      "answer_letters": "ASSISTING",
+      "indices": [
+        59,
+        55,
+        39,
+        155,
+        85,
         161,
-        78
+        102,
+        107,
+        97
+      ]
+    },
+    {
+      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
+      "answer": "yemeni",
+      "answer_letters": "YEMENI",
+      "indices": [
+        19,
+        171,
+        33,
+        58,
+        101,
+        86
+      ]
+    },
+    {
+      "clue": "Chutes through which coal is lowered to the surface.",
+      "answer": "shafts",
+      "answer_letters": "SHAFTS",
+      "indices": [
+        177,
+        159,
+        138,
+        94,
+        166,
+        47
+      ]
+    },
+    {
+      "clue": "Sports stars, in short.",
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
+      "indices": [
+        165,
+        99,
+        98,
+        65,
+        130,
+        11,
+        24,
+        3
+      ]
+    },
+    {
+      "clue": "Engage oneself morally or legally.",
+      "answer": "commit",
+      "answer_letters": "COMMIT",
+      "indices": [
+        80,
+        81,
+        53,
+        37,
+        119,
+        51
+      ]
+    },
+    {
+      "clue": "Dominions or territories.",
+      "answer": "realms",
+      "answer_letters": "REALMS",
+      "indices": [
+        42,
+        34,
+        106,
+        45,
+        77,
+        10
+      ]
+    },
+    {
+      "clue": "Leads on from here.",
+      "answer": "extends",
+      "answer_letters": "EXTENDS",
+      "indices": [
+        146,
+        111,
+        35,
+        38,
+        87,
+        145,
+        31
+      ]
+    },
+    {
+      "clue": "An empty set.",
+      "answer": "nothing",
+      "answer_letters": "NOTHING",
+      "indices": [
+        82,
+        32,
+        158,
+        112,
+        22,
+        126,
+        88
+      ]
+    },
+    {
+      "clue": "Achieve possession of.",
+      "answer": "obtain",
+      "answer_letters": "OBTAIN",
+      "indices": [
+        48,
+        57,
+        75,
+        147,
+        5,
+        91
+      ]
+    },
+    {
+      "clue": "Happening during playtime.",
+      "answer": "in-game",
+      "answer_letters": "INGAME",
+      "indices": [
+        151,
+        120,
+        121,
+        125,
+        174,
+        110
+      ]
+    },
+    {
+      "clue": "Critiques or assessments.",
+      "answer": "reviews",
+      "answer_letters": "REVIEWS",
+      "indices": [
+        169,
+        44,
+        139,
+        176,
+        73,
+        163,
+        6
       ]
     }
   ],

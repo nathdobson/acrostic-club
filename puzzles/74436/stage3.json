@@ -5,7 +5,7 @@
   "source_letters": "MOHSINHAMIDMOTHSMOKE",
   "clues": [
     {
-      "clue": "Animals used for riding or carrying loads.",
+      "clue": "Ascends or elevates.",
       "answer": "mounts",
       "answer_letters": "MOUNTS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Canadian province known for its vast forests and numerous lakes.",
+      "clue": "A Canadian province.",
       "answer": "ontario",
       "answer_letters": "ONTARIO",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Aviator who set many aviation records.",
+      "clue": "'Let America Be America Again' author.",
       "answer": "hughes",
       "answer_letters": "HUGHES",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Groups of words that convey a complete thought.",
+      "clue": "Complete thoughts.",
       "answer": "sentences",
       "answer_letters": "SENTENCES",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "A historic city located in Iran.",
+      "clue": "City with bridges named Si-o-se-pol.",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "A Connecticut town where a tragic shooting occurred in 2012.",
+      "clue": "Place known for the heartbreaking 2012 shooting.",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "An inclined piece of land.",
+      "clue": "Incline covered with trees.",
       "answer": "hillside",
       "answer_letters": "HILLSIDE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Collectively, it means \"in sum.\"",
+      "clue": "In all, including everything.",
       "answer": "altogether",
       "answer_letters": "ALTOGETHER",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "A diverse, interactive presentation.",
+      "clue": "Vivid and varied content presentation.",
       "answer": "multimedia",
       "answer_letters": "MULTIMEDIA",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "A time period between two events or actions.",
+      "clue": "Period between events.",
       "answer": "interval",
       "answer_letters": "INTERVAL",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Clear and unambiguous.",
+      "clue": "Not vague.",
       "answer": "definite",
       "answer_letters": "DEFINITE",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Having made an error.",
+      "clue": "Wrong about facts.",
       "answer": "mistaken",
       "answer_letters": "MISTAKEN",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Against something.",
+      "clue": "In disagreement.",
       "answer": "opposed",
       "answer_letters": "OPPOSED",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Simultaneously in one place.",
+      "clue": "Hand in hand.",
       "answer": "together",
       "answer_letters": "TOGETHER",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Tennis player who won the US Open in 2001.",
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Remaining in a chair.",
+      "clue": "In a chair, perhaps?",
       "answer": "seated",
       "answer_letters": "SEATED",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "A type of cereal grain often used in birdseed.",
+      "clue": "A type of cereal crop grown in hot climates.",
       "answer": "millet",
       "answer_letters": "MILLET",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "Expressed disapproval.",
+      "clue": "Counterargued with disapproval",
       "answer": "objected",
       "answer_letters": "OBJECTED",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Australian city known for its diamond mines.",
+      "clue": "Mining area in South Africa.",
       "answer": "kimberley",
       "answer_letters": "KIMBERLEY",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "One of the heroes of the Old Testament.",
+      "clue": "Subject of an annual celebration on Purim",
       "answer": "esther",
       "answer_letters": "ESTHER",
       "indices": [

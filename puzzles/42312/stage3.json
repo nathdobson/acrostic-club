@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDTHEFOUNTAINHEAD",
   "clues": [
     {
-      "clue": "Something that is truly existing, not just imagined.",
+      "clue": "Truly existing or occurring.",
       "answer": "actual",
       "answer_letters": "ACTUAL",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A language often spoken by Ashkenazi Jews.",
+      "clue": "Spoken by many Eastern European Jews before WWII.",
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "A system of written symbols used to represent musical pitches and rhythms.",
+      "clue": "Writing system for music.",
       "answer": "notation",
       "answer_letters": "NOTATION",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "To put something into new words.",
+      "clue": "To compose anew, often improving the original.",
       "answer": "rewrite",
       "answer_letters": "REWRITE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Happening subsequently.",
+      "clue": "Following that.",
       "answer": "afterwards",
       "answer_letters": "AFTERWARDS",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "To propose someone for an award or office.",
+      "clue": "Suggest formally for approval or election",
       "answer": "nominate",
       "answer_letters": "NOMINATE",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Minor league baseball level above single-A.",
+      "clue": "A step up from A-ball in baseball's developmental ladder.",
       "answer": "double-a",
       "answer_letters": "DOUBLEA",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "Electronic devices with touchscreens, like those made by Apple and Samsung.",
+      "clue": "Compact medication forms.",
       "answer": "tablets",
       "answer_letters": "TABLETS",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Abe Lincoln was known for being this.",
+      "clue": "Possessing integrity.",
       "answer": "honest",
       "answer_letters": "HONEST",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "The result of a cause.",
+      "clue": "Result of a cause.",
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "An ecosystem dominated by trees.",
+      "clue": "Dense, leafy environment.",
       "answer": "forest",
       "answer_letters": "FOREST",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Television personality known for his conservative political views.",
+      "clue": "Company behind the famous \"Linux Bible.\"",
       "answer": "o'reilly",
       "answer_letters": "OREILLY",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "A useful tool or service.",
+      "clue": "Usefulness.",
       "answer": "utility",
       "answer_letters": "UTILITY",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Inventor who developed the alternating current (AC) electrical system.",
+      "clue": "Scientist who dreamed of providing free energy to the world.",
       "answer": "nikola",
       "answer_letters": "NIKOLA",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "A psychological wound.",
+      "clue": "Psychological aftermath of an event.",
       "answer": "trauma",
       "answer_letters": "TRAUMA",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Mixture of two or more metals.",
+      "clue": "Non-stoichiometric compounds can be examples of these.",
       "answer": "alloys",
       "answer_letters": "ALLOYS",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "The money a person earns.",
+      "clue": "Revenues, for better or worse.",
       "answer": "incomes",
       "answer_letters": "INCOMES",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Actor known for portraying Mal on Firefly.",
+      "clue": "Adviser to King David, a counselor during his reign.",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "An adverb that means to an exceptional degree.",
+      "clue": "To a remarkable or noteworthy level.",
       "answer": "highly",
       "answer_letters": "HIGHLY",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "To completely empty or deplete a resource.",
+      "clue": "Tailpipe emission.",
       "answer": "exhaust",
       "answer_letters": "EXHAUST",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "The study of bodily structures.",
+      "clue": "Bodily structure study.",
       "answer": "anatomy",
       "answer_letters": "ANATOMY",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "A game played with black and white tiles.",
+      "clue": "It can topple in a line, triggering others.",
       "answer": "domino",
       "answer_letters": "DOMINO",
       "indices": [

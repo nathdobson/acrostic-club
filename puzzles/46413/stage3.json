@@ -5,7 +5,7 @@
   "source_letters": "OLIVIASUDJICSYMPATHY",
   "clues": [
     {
-      "clue": "A unique event or occurrence.",
+      "clue": "Sole edition item.",
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Conforming to the rules or regulations of a society.",
+      "clue": "Within legal boundaries.",
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Greek island home to Odysseus.",
+      "clue": "Isle of Odysseus.",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Past tense of 'see'",
+      "clue": "Beheld something remarkable.",
       "answer": "viewed",
       "answer_letters": "VIEWED",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "A level between beginner and advanced.",
+      "clue": "Transitional phase or level.",
       "answer": "intermediate",
       "answer_letters": "INTERMEDIATE",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Mystery novelist and creator of detective Miss Marple.",
+      "clue": "Christie of mystery fame.",
       "answer": "agatha",
       "answer_letters": "AGATHA",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "To a certain extent or degree.",
+      "clue": "To an extent but not entirely.",
       "answer": "somewhat",
       "answer_letters": "SOMEWHAT",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Discovered after a long period of being buried.",
+      "clue": "Exposed buried secrets.",
       "answer": "unearthed",
       "answer_letters": "UNEARTHED",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Assistant to the Regional Manager on The Office.",
+      "clue": "Michele's husband on 'The Office'.",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Biblical figure who led the Israelites into Canaan.",
+      "clue": "A biblical figure who led Israel into the Promised Land.",
       "answer": "joshua",
       "answer_letters": "JOSHUA",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "It combines or merges things together.",
+      "clue": "Adopts into an existing framework.",
       "answer": "incorporates",
       "answer_letters": "INCORPORATES",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Prepared through heat.",
+      "clue": "What eggs become after the skillet.",
       "answer": "cooked",
       "answer_letters": "COOKED",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Displaying for exhibition, as a museum does.",
+      "clue": "Highlighted during exhibition.",
       "answer": "showcased",
       "answer_letters": "SHOWCASED",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Produces, as crops or profits.",
+      "clue": "Delivers results or outcomes",
       "answer": "yields",
       "answer_letters": "YIELDS",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Gospel writer and apostle.",
+      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Issues or difficulties that need solving.",
+      "clue": "Complications in life or work.",
       "answer": "problems",
       "answer_letters": "PROBLEMS",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "To influence or change something.",
+      "clue": "To impact a situation or outcome",
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Suggested an idea without firm evidence.",
+      "clue": "Conjectured in scientific terms.",
       "answer": "theorized",
       "answer_letters": "THEORIZED",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "A competition with only two participants.",
+      "clue": "One-on-one encounter.",
       "answer": "head-to-head",
       "answer_letters": "HEADTOHEAD",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Luxury vessels used for leisure sailing.",
+      "clue": "Types of leisure vessels.",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [

@@ -5,284 +5,284 @@
   "source_letters": "LOUISEPENNYSTILLLIFE",
   "clues": [
     {
-      "clue": "Unit of measurement for distance.",
-      "answer": "length",
-      "answer_letters": "LENGTH",
-      "indices": [
-        68,
-        128,
-        155,
-        37,
-        163,
-        160
-      ]
-    },
-    {
-      "clue": "A last name often associated with Spiderman's arch-nemesis.",
-      "answer": "osborn",
-      "answer_letters": "OSBORN",
-      "indices": [
-        156,
-        61,
-        39,
-        84,
-        170,
-        115
-      ]
-    },
-    {
-      "clue": "Improved to a higher standard.",
-      "answer": "upgraded",
-      "answer_letters": "UPGRADED",
-      "indices": [
-        67,
-        97,
-        82,
-        129,
-        133,
-        116,
-        54,
-        140
-      ]
-    },
-    {
-      "clue": "A Greek island mentioned in Homer's Odyssey.",
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        121,
-        74,
-        18,
-        114,
-        151,
-        4
-      ]
-    },
-    {
-      "clue": "A district in London.",
-      "answer": "southwark",
-      "answer_letters": "SOUTHWARK",
-      "indices": [
-        111,
-        7,
-        8,
-        118,
-        164,
-        157,
-        44,
-        99,
-        154
-      ]
-    },
-    {
-      "clue": "Written compositions.",
-      "answer": "essays",
-      "answer_letters": "ESSAYS",
-      "indices": [
-        165,
-        45,
-        49,
-        80,
-        130,
-        103
-      ]
-    },
-    {
-      "clue": "Captured moments.",
-      "answer": "photos",
-      "answer_letters": "PHOTOS",
-      "indices": [
-        21,
-        24,
-        25,
-        56,
-        101,
-        73
-      ]
-    },
-    {
-      "clue": "To make something legally binding.",
-      "answer": "enforce",
-      "answer_letters": "ENFORCE",
-      "indices": [
-        169,
-        3,
-        59,
-        88,
-        31,
-        65,
-        112
-      ]
-    },
-    {
-      "clue": "A city in central India.",
-      "answer": "nagpur",
-      "answer_letters": "NAGPUR",
-      "indices": [
-        15,
-        19,
-        76,
-        20,
-        150,
-        122
-      ]
-    },
-    {
-      "clue": "A male relative of yours' sibling.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        102,
-        139,
-        142,
-        138,
-        120,
-        159
-      ]
-    },
-    {
-      "clue": "The day that came before today.",
-      "answer": "yesterday",
-      "answer_letters": "YESTERDAY",
-      "indices": [
-        147,
-        77,
-        28,
-        146,
-        51,
-        125,
-        69,
-        95,
-        22
-      ]
-    },
-    {
-      "clue": "Obstacles or hindrances that impede progress.",
-      "answer": "setbacks",
-      "answer_letters": "SETBACKS",
-      "indices": [
-        137,
-        144,
-        93,
-        105,
-        92,
-        132,
-        90,
-        100
-      ]
-    },
-    {
-      "clue": "Painstakingly exhaustive.",
-      "answer": "thorough",
-      "answer_letters": "THOROUGH",
-      "indices": [
-        78,
-        62,
-        40,
-        134,
-        106,
-        26,
-        124,
-        50
-      ]
-    },
-    {
-      "clue": "Harm caused by an accident or physical activity.",
-      "answer": "injury",
-      "answer_letters": "INJURY",
-      "indices": [
-        58,
-        36,
-        71,
-        72,
-        27,
-        1
-      ]
-    },
-    {
-      "clue": "A surname of English origin.",
+      "clue": "Name associated with 'Wuthering Heights'.",
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
-        55,
-        66,
-        109,
-        42,
-        33,
-        89,
-        32,
-        85
-      ]
-    },
-    {
-      "clue": "Inexpensive or budget-friendly.",
-      "answer": "low-cost",
-      "answer_letters": "LOWCOST",
-      "indices": [
-        87,
-        126,
-        168,
-        6,
-        107,
-        12,
-        135
-      ]
-    },
-    {
-      "clue": "An American aerospace company.",
-      "answer": "lockheed",
-      "answer_letters": "LOCKHEED",
-      "indices": [
-        9,
+        68,
         83,
         127,
         108,
-        119,
-        63,
-        46,
+        157,
+        7,
+        84,
         10
       ]
     },
     {
-      "clue": "Put in place by authority.",
-      "answer": "imposed",
-      "answer_letters": "IMPOSED",
+      "clue": "Various people besides you and I.",
+      "answer": "others",
+      "answer_letters": "OTHERS",
       "indices": [
-        35,
-        0,
+        32,
+        118,
+        119,
+        51,
+        27,
+        73
+      ]
+    },
+    {
+      "clue": "Better versions of software or hardware.",
+      "answer": "upgrades",
+      "answer_letters": "UPGRADES",
+      "indices": [
+        26,
         13,
-        161,
-        47,
-        14,
+        124,
+        129,
+        44,
+        116,
+        98,
+        34
+      ]
+    },
+    {
+      "clue": "Made aware",
+      "answer": "informed",
+      "answer_letters": "INFORMED",
+      "indices": [
+        121,
+        15,
+        59,
+        126,
+        122,
+        149,
+        46,
         16
       ]
     },
     {
-      "clue": "Scottish surname.",
-      "answer": "forsyth",
-      "answer_letters": "FORSYTH",
+      "clue": "Tunnel for trains beneath a city",
+      "answer": "subway",
+      "answer_letters": "SUBWAY",
       "indices": [
-        53,
-        41,
-        143,
-        34,
-        166,
-        145,
-        152
+        49,
+        8,
+        39,
+        168,
+        110,
+        130
       ]
     },
     {
-      "clue": "A loving hug.",
-      "answer": "embrace",
-      "answer_letters": "EMBRACE",
+      "clue": "To begin a journey or venture",
+      "answer": "embark",
+      "answer_letters": "EMBARK",
       "indices": [
-        171,
-        149,
+        120,
+        0,
+        105,
+        19,
+        134,
+        90
+      ]
+    },
+    {
+      "clue": "Tasks or undertakings in planning stages.",
+      "answer": "projects",
+      "answer_letters": "PROJECTS",
+      "indices": [
+        142,
+        170,
+        107,
+        71,
+        14,
+        132,
+        56,
+        45
+      ]
+    },
+    {
+      "clue": "Home of humanity, excluding water",
+      "answer": "earth's",
+      "answer_letters": "EARTHS",
+      "indices": [
+        144,
+        133,
+        143,
+        74,
+        160,
+        28
+      ]
+    },
+    {
+      "clue": "Up to a higher point in latitude.",
+      "answer": "northward",
+      "answer_letters": "NORTHWARD",
+      "indices": [
+        155,
+        25,
+        125,
+        163,
+        50,
+        33,
+        92,
+        31,
+        140
+      ]
+    },
+    {
+      "clue": "In proximity to; adjacent.",
+      "answer": "nearby",
+      "answer_letters": "NEARBY",
+      "indices": [
+        3,
+        77,
+        4,
+        99,
         30,
-        2,
-        110,
+        166
+      ]
+    },
+    {
+      "clue": "Where Japan's Maritime Self-Defense Forces have a major base.",
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
+      "indices": [
+        1,
+        156,
+        154,
+        40,
+        137,
+        72,
+        42,
+        95
+      ]
+    },
+    {
+      "clue": "To be thought of as, though perhaps incorrectly.",
+      "answer": "supposed",
+      "answer_letters": "SUPPOSED",
+      "indices": [
+        12,
+        150,
+        97,
+        21,
+        101,
+        61,
+        128,
+        69
+      ]
+    },
+    {
+      "clue": "Consideration or speculation.",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        93,
+        18,
+        89,
+        67,
+        82,
+        62,
+        145
+      ]
+    },
+    {
+      "clue": "Imperial units of length.",
+      "answer": "inches",
+      "answer_letters": "INCHES",
+      "indices": [
+        35,
+        115,
+        151,
+        152,
+        165,
+        103
+      ]
+    },
+    {
+      "clue": "Not brief, concise, or succinct",
+      "answer": "lengthy",
+      "answer_letters": "LENGTHY",
+      "indices": [
+        87,
+        63,
+        102,
+        37,
+        146,
+        164,
+        22
+      ]
+    },
+    {
+      "clue": "Heirloom passed down through generations.",
+      "answer": "legacy",
+      "answer_letters": "LEGACY",
+      "indices": [
+        55,
+        171,
+        76,
+        80,
+        6,
+        147
+      ]
+    },
+    {
+      "clue": "Cheaply priced.",
+      "answer": "low-cost",
+      "answer_letters": "LOWCOST",
+      "indices": [
+        9,
+        106,
+        159,
         43,
-        98
+        66,
+        111,
+        78
+      ]
+    },
+    {
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        58,
+        20,
+        24,
+        41,
+        36,
+        169
+      ]
+    },
+    {
+      "clue": "Projections based on data analysis.",
+      "answer": "forecasts",
+      "answer_letters": "FORECASTS",
+      "indices": [
+        53,
+        88,
+        2,
+        54,
+        65,
+        114,
+        100,
+        135,
+        47
+      ]
+    },
+    {
+      "clue": "Made the same sound again",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        139,
+        109,
+        138,
+        161,
+        112,
+        85
       ]
     }
   ],

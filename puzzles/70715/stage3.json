@@ -5,7 +5,7 @@
   "source_letters": "DANBROWNANGELSDEMONS",
   "clues": [
     {
-      "clue": "Slow on arrival or execution.",
+      "clue": "On hold, awaiting further action.",
       "answer": "delayed",
       "answer_letters": "DELAYED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "A stage of life when one assumes greater responsibilities and becomes independent.",
+      "clue": "The phase after adolescence.",
       "answer": "adulthood",
       "answer_letters": "ADULTHOOD",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Currently.",
+      "clue": "Contemporary times.",
       "answer": "nowadays",
       "answer_letters": "NOWADAYS",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Overcoming an opponent or achieving victory.",
+      "clue": "Act of hammering repeatedly.",
       "answer": "beating",
       "answer_letters": "BEATING",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "A pattern of beats and accents in music.",
+      "clue": "Time signature component.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Program designed to provide services or assistance to a wider community.",
+      "clue": "Community program aimed at engaging the public.",
       "answer": "outreach",
       "answer_letters": "OUTREACH",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "A path designed for pedestrians.",
+      "clue": "Outdoor path for pedestrians.",
       "answer": "walkway",
       "answer_letters": "WALKWAY",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Making a brief record of something.",
+      "clue": "Process of recording observations.",
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "A Policeman's power.",
+      "clue": "Official power to make decisions and judgments",
       "answer": "authority",
       "answer_letters": "AUTHORITY",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Scandinavian country known for its fjords and picturesque landscapes.",
+      "clue": "King Harald's realm.",
       "answer": "norway",
       "answer_letters": "NORWAY",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Eliciting a feeling of remorse.",
+      "clue": "Blameworthy.",
       "answer": "guilty",
       "answer_letters": "GUILTY",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Main character in Jane Austen's novel 'Mansfield Park'.",
+      "clue": "Character who betrays his siblings to the White Witch",
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Place with sea-level altitude.",
+      "clue": "Bottom rank in a hierarchy.",
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "A leader in Arabic culture and religion.",
+      "clue": "Title for an Islamic religious leader.",
       "answer": "sheikh",
       "answer_letters": "SHEIKH",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "A system used to remove excess water from fields or streets.",
+      "clue": "The process of allowing soil to dry out by removing excess water.",
       "answer": "drainage",
       "answer_letters": "DRAINAGE",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Rival individuals or groups.",
+      "clue": "Those who are against you or your cause.",
       "answer": "enemies",
       "answer_letters": "ENEMIES",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "A member of a prominent historical warrior caste in India.",
+      "clue": "Key figures include Sambhaji and Bajirao I.",
       "answer": "maratha",
       "answer_letters": "MARATHA",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "People not included in a particular group or category.",
+      "clue": "Various people besides you and I.",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "A quantitative value.",
+      "clue": "Digit or digits.",
       "answer": "number",
       "answer_letters": "NUMBER",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "The largest island in the Mediterranean.",
+      "clue": "Italians' largest island.",
       "answer": "sicily",
       "answer_letters": "SICILY",
       "indices": [

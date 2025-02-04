@@ -5,7 +5,7 @@
   "source_letters": "TADWILLIAMSSHADOWRISE",
   "clues": [
     {
-      "clue": "All over an area or during an entire period of time.",
+      "clue": "At all points in time or space; at every stage of.",
       "answer": "throughout",
       "answer_letters": "THROUGHOUT",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "A hair color often associated with actress Emma Stone.",
+      "clue": "Tint of hair dye.",
       "answer": "auburn",
       "answer_letters": "AUBURN",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Location of a famous NASCAR race.",
+      "clue": "2007 IndyCar race site",
       "answer": "daytona",
       "answer_letters": "DAYTONA",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Australian actor who played Michael Scofield in Prison Break.",
+      "clue": "The estate where Mr. Darcy lives.",
       "answer": "wentworth",
       "answer_letters": "WENTWORTH",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Media player and library application created by Apple Inc.",
+      "clue": "Home to millions of tracks available for purchase or streaming.",
       "answer": "itunes",
       "answer_letters": "ITUNES",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Movement away from a place or situation.",
+      "clue": "Exodus; departure.",
       "answer": "leaving",
       "answer_letters": "LEAVING",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "A venue where Aristotle taught in ancient Athens.",
+      "clue": "Classical term for a school or educational establishment.",
       "answer": "lyceum",
       "answer_letters": "LYCEUM",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "First female Prime Minister of India.",
+      "clue": "Daughter of Jawaharlal Nehru",
       "answer": "indira",
       "answer_letters": "INDIRA",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "However nonetheless.",
+      "clue": "Come hell or high water.",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "Civil rights activist and leader during the 1960s.",
+      "clue": "Macbeth's son, killed when he resisted Macduff.",
       "answer": "malcolm",
       "answer_letters": "MALCOLM",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Ethnic group from Central Europe.",
+      "clue": "The nationality of Jozef Mengele's victims' homeland.",
       "answer": "slovak",
       "answer_letters": "SLOVAK",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "An intense exchange of gunfire.",
+      "clue": "Confrontation between gunmen.",
       "answer": "shootout",
       "answer_letters": "SHOOTOUT",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Language spoken in Israel.",
+      "clue": "Spoken in parts of Israel today.",
       "answer": "hebrew",
       "answer_letters": "HEBREW",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Former Prime Minister of Australia.",
+      "clue": "Author of the 'Flatland' novella.",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Language spoken in Germany.",
+      "clue": "Country's official tongue in Berlin",
       "answer": "deutsche",
       "answer_letters": "DEUTSCHE",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Against something.",
+      "clue": "In disagreement.",
       "answer": "opposed",
       "answer_letters": "OPPOSED",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "A lexicographer who wrote the American Dictionary of the English Language.",
+      "clue": "Compiled an early English language dictionary.",
       "answer": "webster",
       "answer_letters": "WEBSTER",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Someone who has fled their country due to persecution or instability.",
+      "clue": "Potentially stateless until granted asylum.",
       "answer": "refugee",
       "answer_letters": "REFUGEE",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "A historic city located in Iran.",
+      "clue": "City with bridges named Si-o-se-pol.",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Actress who won an Oscar for her role in \"The Reader\".",
+      "clue": "Given name for an intelligent young girl.",
       "answer": "sophie",
       "answer_letters": "SOPHIE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Giving one's name to something.",
+      "clue": "Characteristic of something that bears the same name.",
       "answer": "eponymous",
       "answer_letters": "EPONYMOUS",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "MICHELANGELOBUONARROTI",
   "clues": [
     {
-      "clue": "Animals used for riding or carrying loads.",
+      "clue": "Ascends or elevates.",
       "answer": "mounts",
       "answer_letters": "MOUNTS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Related to a video or computerized competition.",
+      "clue": "Happening during playtime.",
       "answer": "in-game",
       "answer_letters": "INGAME",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Took part in a contest or game.",
+      "clue": "Fought against other contestants to win.",
       "answer": "competed",
       "answer_letters": "COMPETED",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Stopped abruptly or came to a sudden standstill.",
+      "clue": "Brought to a stop.",
       "answer": "halted",
       "answer_letters": "HALTED",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Symbol representing an organization or country.",
+      "clue": "Iconic representation, often used on uniforms or flags.",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "In a similar way.",
+      "clue": "Agreeable to say so too.",
       "answer": "likewise",
       "answer_letters": "LIKEWISE",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Permissible.",
+      "clue": "Gave permission to do something.",
       "answer": "allowed",
       "answer_letters": "ALLOWED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Members of the aristocracy.",
+      "clue": "Higher social class, often hereditary.",
       "answer": "nobles",
       "answer_letters": "NOBLES",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "People invited to an event or location.",
+      "clue": "They're expected to be polite and leave clean-up behind.",
       "answer": "guests",
       "answer_letters": "GUESTS",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Country in East Africa known for its rich history and diverse culture.",
+      "clue": "Inhabitant of Africa's second-most populous country.",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Paid attention to something that was said.",
+      "clue": "Heeded advice with care.",
       "answer": "listened",
       "answer_letters": "LISTENED",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Referring to your own being.",
+      "clue": "An imperative: 'Be true to _____.",
       "answer": "oneself",
       "answer_letters": "ONESELF",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Things that make up a human or animal organism.",
+      "clue": "Corporeal forms (9)",
       "answer": "bodies",
       "answer_letters": "BODIES",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "The director of the 2011 sci-fi thriller 'In Time'.",
+      "clue": "A variable in mathematics yet to be solved.",
       "answer": "unknown",
       "answer_letters": "UNKNOWN",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Article of clothing commonly worn by mechanics and made of denim or canvas.",
+      "clue": "Clothing item for painters or builders",
       "answer": "overall",
       "answer_letters": "OVERALL",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "The son of your sibling.",
+      "clue": "Daughter's son.",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Things owned by an individual or organization.",
+      "clue": "Strengths or advantages.",
       "answer": "assets",
       "answer_letters": "ASSETS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "A solution or cure for a problem or ailment.",
+      "clue": "Healing agent.",
       "answer": "remedy",
       "answer_letters": "REMEDY",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Italian painter known for his works in the Vatican.",
+      "clue": "Esteemed Renaissance artist.",
       "answer": "raphael",
       "answer_letters": "RAPHAEL",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "A baseball team from Maryland.",
+      "clue": "A Baltimore baseball team.",
       "answer": "orioles",
       "answer_letters": "ORIOLES",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Musical symbol indicating high pitch.",
+      "clue": "A boy soprano singer.",
       "answer": "treble",
       "answer_letters": "TREBLE",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "A part of a baseball game.",
+      "clue": "Part of a baseball game.",
       "answer": "inning",
       "answer_letters": "INNING",
       "indices": [
