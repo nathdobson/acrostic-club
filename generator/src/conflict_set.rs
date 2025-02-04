@@ -1,11 +1,11 @@
+use crate::dict::FLAT_WORDS;
+use crate::ontology::{Etymology, Form, Lexical, Ontology, Page, Written, ONTOLOGY};
+use crate::turtle::TurtleIndex;
+use crate::util::lazy_async::CloneError;
+use brotli::interface::Command::Dict;
 use std::collections::HashSet;
 use std::fmt::{Debug, Formatter};
 use std::sync::Arc;
-use brotli::interface::Command::Dict;
-use crate::dict::FLAT_WORDS;
-use crate::ontology::{Etymology, Form, Lexical, Ontology, ONTOLOGY, Page, Written};
-use crate::turtle::TurtleIndex;
-use crate::util::lazy_async::CloneError;
 
 pub struct ConflictSet {
     ontology: Arc<Ontology>,
@@ -145,7 +145,10 @@ impl ConflictSet {
     pub fn add_terminal(&mut self, terminal: &str) {
         self.terminals.insert(terminal.to_string());
     }
-    pub fn terminals(&self) -> impl Iterator<Item=&str> {
+    pub fn origins(&self) -> impl Iterator<Item = &str> {
+        self.origins.iter().map(|x| &**x)
+    }
+    pub fn terminals(&self) -> impl Iterator<Item = &str> {
         self.terminals.iter().map(|x| &**x)
     }
 }
@@ -153,54 +156,96 @@ impl ConflictSet {
 impl Debug for ConflictSet {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         f.debug_struct("ConflictSet")
-            .field("origins",
-                   &self.origins)
-            .field("writtens",
-                   &self.writtens.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("forms",
-                   &self.forms.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("lexicals",
-                   &self.lexicals.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("etyms",
-                   &self.etyms.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("relateds",
-                   &self.relateds.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("pages",
-                   &self.pages.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("etyms_down",
-                   &self.etyms_down.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("pages_down",
-                   &self.pages_down.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("lexicals_down",
-                   &self.pages_down.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("writtens_down",
-                   &self.pages_down.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("forms_down",
-                   &self.pages_down.iter()
-                       .map(|x| self.ontology.graph.get_name(x.0))
-                       .collect::<Vec<_>>())
-            .field("terminals",
-                   &self.terminals)
+            .field("origins", &self.origins)
+            .field(
+                "writtens",
+                &self
+                    .writtens
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "forms",
+                &self
+                    .forms
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "lexicals",
+                &self
+                    .lexicals
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "etyms",
+                &self
+                    .etyms
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "relateds",
+                &self
+                    .relateds
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "pages",
+                &self
+                    .pages
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "etyms_down",
+                &self
+                    .etyms_down
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "pages_down",
+                &self
+                    .pages_down
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "lexicals_down",
+                &self
+                    .pages_down
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "writtens_down",
+                &self
+                    .pages_down
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field(
+                "forms_down",
+                &self
+                    .pages_down
+                    .iter()
+                    .map(|x| self.ontology.graph.get_name(x.0))
+                    .collect::<Vec<_>>(),
+            )
+            .field("terminals", &self.terminals)
             .finish()
         // ontology: Arc<Ontology>,
         // origins: HashSet<String>,

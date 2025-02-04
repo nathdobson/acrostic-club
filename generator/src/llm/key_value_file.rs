@@ -1,3 +1,4 @@
+use crate::util::interrupt::{channel, CleanupSender};
 use crate::util::lazy_async::CloneError;
 use parking_lot::Mutex;
 use safe_once_async::async_lazy::AsyncLazy;
@@ -26,21 +27,8 @@ use tokio::sync::mpsc::{unbounded_channel, UnboundedSender};
 use tokio::task::JoinHandle;
 
 pub struct KeyValueFile<K, V> {
-    // map: Mutex<HashMap<K, Arc<AsyncOnceLock<anyhow::Result<Arc<V>>>>>>,
     map: AsyncOnceLockMap<K, JoinTransparent<anyhow::Result<V>>>,
     sender: UnboundedSender<KeyValueEntry<K, V>>,
-}
-
-#[must_use]
-pub struct KeyValueFileCleanup(Option<JoinHandle<io::Result<()>>>);
-
-impl KeyValueFileCleanup {
-    pub async fn cleanup(mut self) -> anyhow::Result<()> {
-        if let Some(cleanup) = self.0.take() {
-            cleanup.await??;
-        }
-        Ok(())
-    }
 }
 
 #[derive(Serialize, Deserialize)]
@@ -54,7 +42,7 @@ impl<
         V: Serialize + DeserializeOwned + Clone + Send + Sync + 'static,
     > KeyValueFile<K, V>
 {
-    pub async fn new(path: &Path) -> io::Result<(Self, KeyValueFileCleanup)> {
+    pub async fn new(path: &Path, cleanup: CleanupSender) -> io::Result<Self> {
         let mut option = OpenOptions::new();
         option.read(true);
         option.write(true);
@@ -71,7 +59,7 @@ impl<
                 .await;
         }
         let (tx, mut rx) = unbounded_channel::<KeyValueEntry<K, V>>();
-        let writer = tokio::spawn(async move {
+        cleanup.send(async move {
             while let Some(x) = rx.recv().await {
                 let mut m = serde_json::to_string(&x).unwrap();
                 m.push('\n');
@@ -79,10 +67,7 @@ impl<
             }
             Ok(())
         });
-        Ok((
-            KeyValueFile { map, sender: tx },
-            KeyValueFileCleanup(Some(writer)),
-        ))
+        Ok(KeyValueFile { map, sender: tx })
     }
     pub async fn get_or_init<'a>(
         &'a self,
@@ -118,19 +103,12 @@ impl<
     }
 }
 
-impl Drop for KeyValueFileCleanup {
-    fn drop(&mut self) {
-        if self.0.is_some() {
-            println!("Warning: forgot to flush cache: {}", Backtrace::capture());
-        }
-    }
-}
-
 #[tokio::test]
 async fn test_key_value_file() -> anyhow::Result<()> {
     let dir = tempdir()?;
     let path = dir.path().join("my-temporary-note.txt");
-    let (mut kvf, mut cleanup) = KeyValueFile::<usize, usize>::new(&path).await?;
+    let (tx, rx) = channel();
+    let mut kvf = KeyValueFile::<usize, usize>::new(&path, tx).await?;
     assert_eq!(
         2,
         *kvf.get_or_init(1, async { anyhow::Result::Ok(2usize) })
@@ -144,8 +122,10 @@ async fn test_key_value_file() -> anyhow::Result<()> {
             .unwrap()
     );
     mem::drop(kvf);
-    cleanup.cleanup().await?;
-    (kvf, cleanup) = KeyValueFile::new(&path).await?;
+    rx.cleanup().await?;
+
+    let (tx, rx) = channel();
+    kvf = KeyValueFile::new(&path, tx).await?;
     assert_eq!(
         2,
         *kvf.get_or_init(1, async { anyhow::Result::Ok(todo!()) })
@@ -159,7 +139,6 @@ async fn test_key_value_file() -> anyhow::Result<()> {
             .unwrap()
     );
     mem::drop(kvf);
-    cleanup.cleanup().await?;
-
+    rx.cleanup().await?;
     Ok(())
 }

@@ -14,7 +14,6 @@ use std::{fs, future, mem};
 use tokio::{io, spawn};
 // use crate::gpt::cache_client::CacheClient;
 use crate::llm::chat_client::{BaseClient, ChatClient};
-use crate::llm::key_value_file::KeyValueFileCleanup;
 use crate::llm::new_client;
 use crate::llm::rpcs::{AnswerRequest, ClueRequest};
 // use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
@@ -24,6 +23,7 @@ use crate::PACKAGE_PATH;
 use crate::puzzle::Puzzle;
 use crate::string::LetterString;
 use crate::subseq::longest_subsequence;
+use crate::util::interrupt::{channel, CleanupSender};
 use crate::util::lazy_async::CloneError;
 
 static MODEL: &str = "llama3.2:3b";
@@ -34,17 +34,14 @@ pub struct ClueClient {
 }
 
 impl ClueClient {
-    pub async fn new() -> anyhow::Result<(Self, KeyValueFileCleanup)> {
-        let (client, cleanup) = new_client().await?;
-        Ok((
-            ClueClient {
-                client,
-                ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
-            },
-            cleanup,
-        ))
+    pub async fn new(cleanup: CleanupSender) -> anyhow::Result<Self> {
+        let client = new_client(cleanup).await?;
+        Ok(ClueClient {
+            client,
+            ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
+        })
     }
-    pub fn score(&self, word: &str, clue: &str) -> NotNan<f64> {
+    pub fn score(&self, word: &str, clue: &str) -> Option<NotNan<f64>> {
         let word_letters = LetterString::from_str(word);
         let clue_letters = LetterString::from_str(clue);
         let mut is_banned = false;
@@ -61,125 +58,77 @@ impl ClueClient {
             }
         }
         if is_banned {
-            NotNan::new(-f64::INFINITY).unwrap()
+            None
         } else {
-            -(NotNan::new(longest_subsequence(&word_letters, &clue_letters) as f64).unwrap())
+            Some(-(NotNan::new(longest_subsequence(&word_letters, &clue_letters) as f64).unwrap()))
         }
     }
     pub async fn create_clue(&self, answer: &str) -> anyhow::Result<Option<String>> {
-        let mut clues = ClueRequest {
-            answer: answer.to_string(),
-            clue_count: 10,
-        }
-        .build()?
-        .send(&*self.client)
-        .await?
-        .clues;
-        clues.sort_by_cached_key(|x| {
-            let score = -self.score(&answer, x);
-            score
-        });
-        println!("{:?}", clues);
-        for clue in clues {
-            let answers = AnswerRequest {
-                clue: clue.clone(),
-                letter_count: answer.len(),
-                answer_count: 10,
+        println!("creating clue for `{}`", answer);
+        for seed in 0..10 {
+            let mut clues = ClueRequest {
+                answer: answer.to_string(),
+                clue_count: 10,
             }
             .build()?
+            .seed(123455454 + seed)
             .send(&*self.client)
             .await?
-            .answers;
-            println!("{:?}", answers);
-            if answers
-                .iter()
-                .any(|x| LetterString::from_str(x) == LetterString::from_str(answer))
-            {
-                return Ok(Some(clue));
+            .clues;
+            let mut clues = clues
+                .into_iter()
+                .filter_map(|clue| {
+                    let score = self.score(&answer, &clue)?;
+                    Some((clue, score))
+                })
+                .collect::<Vec<_>>();
+            clues.sort_by_key(|x| -x.1);
+            let clues = clues
+                .into_iter()
+                .map(|(clue, score)| clue)
+                .collect::<Vec<_>>();
+            println!("    candidate clues {:?}", clues);
+            for clue in clues {
+                println!("    candidate clue {}", clue);
+                let answers = AnswerRequest {
+                    clue: clue.clone(),
+                    letter_count: answer.len(),
+                    answer_count: 10,
+                }
+                .build()?
+                .send(&*self.client)
+                .await?
+                .answers;
+                println!("        candidate answers {:?}", answers);
+                if answers
+                    .iter()
+                    .any(|x| LetterString::from_str(x) == LetterString::from_str(answer))
+                {
+                    println!("       Done! `{}` <= `{}`", answer, clue);
+                    return Ok(Some(clue));
+                }
             }
         }
         Ok(None)
-        // let mut clues = self.create_clue_list(word).await?;
-        // let mut solved = false;
-        // for clue in &clues {
-        //     if self.solve_clue(clue, word.len(), word).await? {
-        //         solved = true;
-        //         break;
-        //     }
-        // }
-        // if !solved {
-        //     return Ok(None);
-        // }
-        // clues.sort_by_cached_key(|x| self.score(&word, x));
-        // let clue = if let Some(clue) = clues.pop() {
-        //     clue
-        // } else {
-        //     return Ok(None);
-        // };
-        // let clue = &clue;
-        // let clue = clue.strip_prefix("Answer: ").unwrap_or(clue);
-        // let clue = clue.strip_prefix("A: ").unwrap_or(clue);
-        // let clue = clue.strip_prefix("Possible clue: ").unwrap_or(clue);
-        // Ok(Some(clue.to_string()))
     }
-    // pub async fn solve_clue(
-    //     &self,
-    //     clue: &str,
-    //     len: usize,
-    //     actual_answer: &str,
-    // ) -> anyhow::Result<bool> {
-    //     println!("Trying to solve '{}'", clue);
-    //     for seed in 0..10 {
-    //         let response = self
-    //             .client
-    //             .send_chat_messages(
-    //                 &GenerationRequest::new(
-    //                     MODEL.to_string(),
-    //                     format!(
-    //                         "Provide 5 possible {}-letter answers to the crossword clue '{}'.",
-    //                         len, clue
-    //                     ),
-    //                 )
-    //                 .options(
-    //                     GenerationOptions::default()
-    //                         .seed(23443 + seed)
-    //                         .num_predict(100),
-    //                 )
-    //                 .format(FormatType::StructuredJson(JsonStructure::new::<
-    //                     AnswerResponse,
-    //                 >())),
-    //             )
-    //             .await?;
-    //         let response = serde_json::from_str::<AnswerResponse>(&response.response)?;
-    //         println!("response={:?}", response);
-    //         for answer in &response.answers {
-    //             if answer == actual_answer {
-    //                 return Ok(true);
-    //             }
-    //         }
-    //     }
-    //     Ok(false)
-    //     // let response = serde_json::from_str::<ClueResponse>(&response.response)?;
-    //     // println!("answers are {:#?}", response);
-    //     // Ok(response.clues)
-    // }
 }
 
 pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage2.json").await?;
-    try_join_all(
-        puzzle
-            .clues
-            .as_mut()
-            .unwrap()
-            .iter_mut()
-            .map(|clue| async move {
-                clue.clue = client.create_clue(&clue.answer).await?;
-                // println!("{:?}: {:?}", clue.answer, clue.clue);
-                anyhow::Result::<_>::Ok(())
-            }),
-    )
-    .await?;
+    let clues = puzzle
+        .clues
+        .as_mut()
+        .unwrap()
+        .iter_mut()
+        .map(|clue| async move {
+            clue.clue = client.create_clue(&clue.answer).await?;
+            // println!("{:?}: {:?}", clue.answer, clue.clue);
+            anyhow::Result::<_>::Ok(())
+        });
+    for clue in clues {
+        clue.await?;
+    }
+    // try_join_all(clues).await?;
     if puzzle
         .clues
         .as_ref()
@@ -194,19 +143,21 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
 
 #[tokio::test]
 async fn test_clue_client() -> anyhow::Result<()> {
-    let (client, cleanup) = ClueClient::new().await?;
+    let (tx, mut rx) = channel();
+    let client = ClueClient::new(tx).await?;
     {
         let start = Instant::now();
         for word in &[
             // "extant", "netball",
-            "nathan",
+            // "nathan",
             // "andrew", "john", "hindwings"
+            "dudley",
         ] {
             let clues = client.create_clue(word).await?;
             println!("{:?}", clues);
         }
     }
     mem::drop(client);
-    cleanup.cleanup().await?;
+    rx.cleanup().await?;
     Ok(())
 }

@@ -181,7 +181,10 @@ impl Ontology {
     pub fn get_conflicts(self: &Arc<Self>, x: &str) -> Vec<String> {
         let mut set = ConflictSet::new(self.clone());
         set.add_origin(x.to_string());
-        set.terminals().map(|x| x.to_string()).collect()
+        set.terminals()
+            .map(|x| x.to_string())
+            .chain(set.origins().map(|x| x.to_string()))
+            .collect()
     }
     // pub fn get_conflict_keys(&self, x: &str) -> Vec<&str> {
     //     let rep = self.find_written(x).unwrap();

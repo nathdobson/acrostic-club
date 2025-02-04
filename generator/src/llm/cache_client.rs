@@ -1,5 +1,5 @@
 use crate::llm::chat_client::{BaseClient, ChatClient};
-use crate::llm::key_value_file::{KeyValueFile, KeyValueFileCleanup};
+use crate::llm::key_value_file::KeyValueFile;
 use futures::future::BoxFuture;
 use futures::FutureExt;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
@@ -10,6 +10,7 @@ use std::path::Path;
 use std::sync::Arc;
 use std::{io, mem};
 // use crate::llm::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatRole, Endpoint, Model};
+use crate::util::interrupt::CleanupSender;
 use crate::PACKAGE_PATH;
 
 pub struct CacheClient {
@@ -30,15 +31,13 @@ impl CacheClient {
     pub async fn new(
         x: Arc<dyn ChatClient>,
         path: &Path,
-    ) -> io::Result<(Arc<Self>, KeyValueFileCleanup)> {
-        let (kvf, cleanup) = KeyValueFile::new(path).await?;
-        Ok((
-            Arc::new(CacheClient {
-                inner: x,
-                cache: Box::new(kvf),
-            }),
-            cleanup,
-        ))
+        cleanup: CleanupSender,
+    ) -> io::Result<Arc<Self>> {
+        let kvf = KeyValueFile::new(path, cleanup).await?;
+        Ok(Arc::new(CacheClient {
+            inner: x,
+            cache: Box::new(kvf),
+        }))
     }
     async fn generate_impl(
         &self,

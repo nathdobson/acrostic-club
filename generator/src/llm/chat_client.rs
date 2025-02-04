@@ -1,4 +1,4 @@
-use crate::llm::key_value_file::{KeyValueFile, KeyValueFileCleanup};
+use crate::llm::key_value_file::KeyValueFile;
 use crate::llm::ollama_to_anyhow;
 use anyhow::anyhow;
 use backoff::backoff::Backoff;
