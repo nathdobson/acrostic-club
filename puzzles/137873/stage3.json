@@ -5,7 +5,7 @@
   "source_letters": "IDRIESSHAHREFLECTIONS",
   "clues": [
     {
-      "clue": "Conquered territory.",
+      "clue": "Encroached upon territory.",
       "answer": "invaded",
       "answer_letters": "INVADED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "A flaw or imperfection in something.",
+      "clue": "Blemish that diminishes value.",
       "answer": "defect",
       "answer_letters": "DEFECT",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Citations used in academic writing.",
+      "clue": "Contextual nods within a speech.",
       "answer": "references",
       "answer_letters": "REFERENCES",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Having a physical or mental disability.",
+      "clue": "Suffering from disability",
       "answer": "impaired",
       "answer_letters": "IMPAIRED",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Rulers of ancient Rome.",
+      "clue": "Titans of a realm, such as Napoleon or Charlemagne.",
       "answer": "emperors",
       "answer_letters": "EMPERORS",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "US region with hot deserts and the Grand Canyon.",
+      "clue": "US airline known for budget flights.",
       "answer": "southwest",
       "answer_letters": "SOUTHWEST",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "In the direction of Antarctica's ice shelf.",
+      "clue": "Toward the Antarctic.",
       "answer": "southwards",
       "answer_letters": "SOUTHWARDS",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Basketball player who starred in \"Space Jam\".",
+      "clue": "He was a director of Poltergeist.",
       "answer": "hooper",
       "answer_letters": "HOOPER",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "The process of operating machinery and software without human intervention.",
+      "clue": "Increasingly used in manufacturing to improve efficiency.",
       "answer": "automation",
       "answer_letters": "AUTOMATION",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "A fast-paced ice sport commonly played in Canada and northern United States.",
+      "clue": "Sport that features a rink and nets.",
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "A word to describe a dance routine set to a steady beat.",
+      "clue": "Accompanied by a beat",
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Having a right to something.",
+      "clue": "Deserving of respect or recognition; having a legitimate claim.",
       "answer": "entitled",
       "answer_letters": "ENTITLED",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "A neighborhood in Queens, New York City.",
+      "clue": "Where Citi Field, home to the Mets, is located.",
       "answer": "flushing",
       "answer_letters": "FLUSHING",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Political commentator and talk show host, Rachel ____.",
+      "clue": "Not a right-winger.",
       "answer": "leftist",
       "answer_letters": "LEFTIST",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Used to indicate a choice between two options.",
+      "clue": "Can imply choice between two options.",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Capital of Wyoming.",
+      "clue": "It was featured in films like \"Dances With Wolves.\"",
       "answer": "cheyenne",
       "answer_letters": "CHEYENNE",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Japanese car brand known for their reliable vehicles.",
+      "clue": "They manufacture Corollas.",
       "answer": "toyota",
       "answer_letters": "TOYOTA",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Country shaped like a high-heeled boot.",
+      "clue": "Where Leonardo da Vinci was born.",
       "answer": "italia",
       "answer_letters": "ITALIA",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "The result of a decision or action.",
+      "clue": "A possible result, as in gambling or decision-making.",
       "answer": "outcome",
       "answer_letters": "OUTCOME",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Scandinavian country known for its fjords and picturesque landscapes.",
+      "clue": "King Harald's realm.",
       "answer": "norway",
       "answer_letters": "NORWAY",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "A perfect game for a goalkeeper.",
+      "clue": "Soccer goalie's dream.",
       "answer": "shutout",
       "answer_letters": "SHUTOUT",
       "indices": [

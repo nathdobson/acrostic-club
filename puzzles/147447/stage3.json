@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYANNAKARENINA",
   "clues": [
     {
-      "clue": "A place for books.",
+      "clue": "A place where knowledge is shelved, with an apostrophe",
       "answer": "library's",
       "answer_letters": "LIBRARYS",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Interacts actively.",
+      "clue": "Takes part in an activity.",
       "answer": "engages",
       "answer_letters": "ENGAGES",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Made more efficient, like how Google made their search engine.",
+      "clue": "Improved for efficiency.",
       "answer": "optimized",
       "answer_letters": "OPTIMIZED",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Verified through experimentation or examination.",
+      "clue": "Verified the facts.",
       "answer": "tested",
       "answer_letters": "TESTED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Created a rough draft or sketch.",
+      "clue": "Gave brief description of proposal.",
       "answer": "outlined",
       "answer_letters": "OUTLINED",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Immature form of an insect.",
+      "clue": "Growth phase preceding full development",
       "answer": "larval",
       "answer_letters": "LARVAL",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Changed positions or places.",
+      "clue": "Interchanged positions.",
       "answer": "switched",
       "answer_letters": "SWITCHED",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "A contraction used to indicate the present perfect tense.",
+      "clue": "Contraction of they and have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "A type of street.",
+      "clue": "Path where you can't go back.",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "A person hailing from the southwestern corner of the Arabian Peninsula.",
+      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "However nonetheless.",
+      "clue": "Come hell or high water.",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Necessary or essential.",
+      "clue": "Necessary for a particular purpose.",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "A brief alert or message.",
+      "clue": "Email alert.",
       "answer": "notification",
       "answer_letters": "NOTIFICATION",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Designer of the Guggenheim Museum in Bilbao, Spain.",
+      "clue": "Creator of blueprints.",
       "answer": "architect",
       "answer_letters": "ARCHITECT",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Medieval warriors on horseback.",
+      "clue": "Mounted medieval warriors.",
       "answer": "knights",
       "answer_letters": "KNIGHTS",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "A place where historic documents and records are stored.",
+      "clue": "Collection of digital files, perhaps.",
       "answer": "archive",
       "answer_letters": "ARCHIVE",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Assessments written by customers or critics.",
+      "clue": "Critiques or assessments.",
       "answer": "reviews",
       "answer_letters": "REVIEWS",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "All-encompassing noun.",
+      "clue": "The whole shebang.",
       "answer": "everything",
       "answer_letters": "EVERYTHING",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Caught using mesh.",
+      "clue": "Successfully caught or trapped.",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Required by authority or force.",
+      "clue": "Made mandatory",
       "answer": "imposed",
       "answer_letters": "IMPOSED",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Australian soap opera.",
+      "clue": "TV show set in Australia.",
       "answer": "neighbours",
       "answer_letters": "NEIGHBOURS",
       "indices": [
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "clue": "Collection of music recordings.",
+      "clue": "Collections of music tracks.",
       "answer": "albums",
       "answer_letters": "ALBUMS",
       "indices": [

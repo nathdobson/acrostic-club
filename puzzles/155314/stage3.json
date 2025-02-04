@@ -5,7 +5,7 @@
   "source_letters": "RUPIKAURMILKANDHONEY",
   "clues": [
     {
-      "clue": "Someone who has fled their country due to persecution or instability.",
+      "clue": "Potentially stateless until granted asylum.",
       "answer": "refugee",
       "answer_letters": "REFUGEE",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Not formally recognized or authorized.",
+      "clue": "Not formally recognized.",
       "answer": "unofficial",
       "answer_letters": "UNOFFICIAL",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Interconnecting routes.",
+      "clue": "Neural connections in neuroscience.",
       "answer": "pathways",
       "answer_letters": "PATHWAYS",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Had a profound effect or influence.",
+      "clue": "Influenced significantly",
       "answer": "impacted",
       "answer_letters": "IMPACTED",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "Aware or cognizant.",
+      "clue": "Conscious of a fact or situation.",
       "answer": "knowing",
       "answer_letters": "KNOWING",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "State known for its gulf coast beaches.",
+      "clue": "State tree is the Longleaf Pine.",
       "answer": "alabama",
       "answer_letters": "ALABAMA",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "Against the law.",
+      "clue": "Illicit or illegal.",
       "answer": "unlawful",
       "answer_letters": "UNLAWFUL",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "A colorful meteorological phenomenon.",
+      "clue": "An arc in the sky following a storm.",
       "answer": "rainbow",
       "answer_letters": "RAINBOW",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Actress famous for her role as Margaret Thatcher in The Crown.",
+      "clue": "A heroine from a novel by George Eliot.",
       "answer": "maggie",
       "answer_letters": "MAGGIE",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Administered medication through a needle.",
+      "clue": "Added forcefully into a system.",
       "answer": "injected",
       "answer_letters": "INJECTED",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "London borough known for its iconic wheel.",
+      "clue": "A district in South London named after a medieval bridge.",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Comedian and writer known for his surreal and innovative style of comedy.",
+      "clue": "Co-writer of 'Being John Malkovich.'",
       "answer": "kaufman",
       "answer_letters": "KAUFMAN",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Impressive and inspiring.",
+      "clue": "Superb, fantastic, terrific.",
       "answer": "awesome",
       "answer_letters": "AWESOME",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "A direction on a compass.",
+      "clue": "Opposite of southward.",
       "answer": "northbound",
       "answer_letters": "NORTHBOUND",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Maggie Smith's character in Downton Abbey.",
+      "clue": "In some contexts, synonymous with 'lady of leisure.'",
       "answer": "dowager",
       "answer_letters": "DOWAGER",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Indicating a contrast in a sentence.",
+      "clue": "Despite what was previously mentioned.",
       "answer": "however",
       "answer_letters": "HOWEVER",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Robin Hood was a famous one of these.",
+      "clue": "Antonym of law-abiding citizen.",
       "answer": "outlaw",
       "answer_letters": "OUTLAW",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "A direction to travel towards Maine, Vermont, and New Hampshire.",
+      "clue": "Opposite of southwest on a compass.",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Conductive pads used in physical therapy and medical procedures.",
+      "clue": "Essential components in medical defibrillators.",
       "answer": "electrodes",
       "answer_letters": "ELECTRODES",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "National park in the United States known for its geothermal features.",
+      "clue": "Famous for its geothermal features.",
       "answer": "yellowstone",
       "answer_letters": "YELLOWSTONE",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "ERNESTHEMINGWAYPOEMS",
   "clues": [
     {
-      "clue": "Main character in Jane Austen's novel 'Mansfield Park'.",
+      "clue": "Character who betrays his siblings to the White Witch",
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Points or mentions something specifically.",
+      "clue": "Speaks of, in various contexts.",
       "answer": "refers",
       "answer_letters": "REFERS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Subatomic particle with no charge, discovered by James Chadwick.",
+      "clue": "Atomic particle with no charge.",
       "answer": "neutron",
       "answer_letters": "NEUTRON",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Adverb meaning 'in another place'.",
+      "clue": "Location not here.",
       "answer": "elsewhere",
       "answer_letters": "ELSEWHERE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "An abnormal enlargement of a body part.",
+      "clue": "Enlargement caused by excess fluid accumulation.",
       "answer": "swelling",
       "answer_letters": "SWELLING",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Expression of gratitude.",
+      "clue": "A way to express gratitude.",
       "answer": "thanks",
       "answer_letters": "THANKS",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "High temperature-wise, like the city of Death Valley.",
+      "clue": "Opposite of 'coldest' in terms of temperature.",
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Something safe to eat.",
+      "clue": "Good for consumption.",
       "answer": "edible",
       "answer_letters": "EDIBLE",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Lead singer of The Doors.",
+      "clue": "His 1969 LP included \"Light My Fire.\"",
       "answer": "morrison",
       "answer_letters": "MORRISON",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "To offend or belittle someone's dignity or pride.",
+      "clue": "To say something cutting.",
       "answer": "insult",
       "answer_letters": "INSULT",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Italian city known for its delicious pizza.",
+      "clue": "Italians' southern capital city.",
       "answer": "naples",
       "answer_letters": "NAPLES",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Chess champion that has achieved the highest title.",
+      "clue": "Expert recognized by the World Chess Federation (FIDE).",
       "answer": "grandmaster",
       "answer_letters": "GRANDMASTER",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Boxing division below 154 pounds.",
+      "clue": "This term describes fighters who are not light nor heavy, but in-between.",
       "answer": "welterweight",
       "answer_letters": "WELTERWEIGHT",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Individuals who participate in sports competitively or recreationally.",
+      "clue": "Sports stars, in short.",
       "answer": "athletes",
       "answer_letters": "ATHLETES",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Japanese motorcycle brand.",
+      "clue": "Motorcycle brand.",
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "City known for its famous cheesesteak sandwich.",
+      "clue": "Home to the Eagles.",
       "answer": "philadelphia",
       "answer_letters": "PHILADELPHIA",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Made available for access.",
+      "clue": "Made accessible by removing obstructions.",
       "answer": "opened",
       "answer_letters": "OPENED",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "One of the heroes of the Old Testament.",
+      "clue": "Subject of an annual celebration on Purim",
       "answer": "esther",
       "answer_letters": "ESTHER",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Kept watch over.",
+      "clue": "Under surveillance.",
       "answer": "monitored",
       "answer_letters": "MONITORED",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Past tense of divide.",
+      "clue": "Used in reference to expenses or duties divided equally.",
       "answer": "shared",
       "answer_letters": "SHARED",
       "indices": [

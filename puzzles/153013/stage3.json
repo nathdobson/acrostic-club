@@ -5,7 +5,7 @@
   "source_letters": "MARCELPROUSTSWANNSWAY",
   "clues": [
     {
-      "clue": "A coastal city in California known for its aquarium and Cannery Row.",
+      "clue": "Pacific coast city known for its bay",
       "answer": "monterey",
       "answer_letters": "MONTEREY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Individuals who participate in sports competitively or recreationally.",
+      "clue": "Sports stars, in short.",
       "answer": "athletes",
       "answer_letters": "ATHLETES",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "To unlock once again.",
+      "clue": "To begin anew after closing or ending.",
       "answer": "reopen",
       "answer_letters": "REOPEN",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "A popular morning beverage.",
+      "clue": "A morning pick-me-up.",
       "answer": "coffee",
       "answer_letters": "COFFEE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Reverberations bouncing off walls and returning to the listener.",
+      "clue": "Sounds that bounce back.",
       "answer": "echoes",
       "answer_letters": "ECHOES",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "A country surrounded by South Africa.",
+      "clue": "Capital city: Maseru.",
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Moved with force.",
+      "clue": "Propelled onward.",
       "answer": "pushed",
       "answer_letters": "PUSHED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "A type of precipitation.",
+      "clue": "Term for drops from clouds hitting ground.",
       "answer": "rainfall",
       "answer_letters": "RAINFALL",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "City in California known for its extensive history with the Black Panther Party.",
+      "clue": "Home of the Golden State Bridge.",
       "answer": "oakland",
       "answer_letters": "OAKLAND",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "An inspiring emotion or action.",
+      "clue": "Boost or raise to a higher position",
       "answer": "uplift",
       "answer_letters": "UPLIFT",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "At an unspecified time.",
+      "clue": "Used for indicating an indefinite future or past moment.",
       "answer": "sometime",
       "answer_letters": "SOMETIME",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "A conjunction indicating a contrast or concession.",
+      "clue": "Despite what was mentioned before.",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "A set of circumstances.",
+      "clue": "Setting or circumstances.",
       "answer": "situation",
       "answer_letters": "SITUATION",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Cleaned with water and soap.",
+      "clue": "Rinsed thoroughly in water.",
       "answer": "washed",
       "answer_letters": "WASHED",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Former Prime Minister of Australia.",
+      "clue": "Author of the 'Flatland' novella.",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Oldest period of the Stone Age.",
+      "clue": "Ancient Stone Age period.",
       "answer": "neolithic",
       "answer_letters": "NEOLITHIC",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Members of the aristocracy.",
+      "clue": "Higher social class, often hereditary.",
       "answer": "nobles",
       "answer_letters": "NOBLES",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "A Biblical figure known for leading his flock and famously carrying a staff.",
+      "clue": "Title of someone with a job in a pasture.",
       "answer": "shepherd",
       "answer_letters": "SHEPHERD",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "A meteorologist's concern.",
+      "clue": "Used to introduce a clause expressing a condition.",
       "answer": "whether",
       "answer_letters": "WHETHER",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Made an effort.",
+      "clue": "Gave it a shot.",
       "answer": "attempted",
       "answer_letters": "ATTEMPTED",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "A person hailing from the southwestern corner of the Arabian Peninsula.",
+      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [

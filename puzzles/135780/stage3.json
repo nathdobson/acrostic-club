@@ -5,7 +5,7 @@
   "source_letters": "MUSEENIGMATICEVOLUTION",
   "clues": [
     {
-      "clue": "Failed to hit the target.",
+      "clue": "Lost an opportunity.",
       "answer": "missed",
       "answer_letters": "MISSED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A traditional garment worn in Ireland and Scotland.",
+      "clue": "Home to the Giant's Causeway.",
       "answer": "ulster",
       "answer_letters": "ULSTER",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "A place to cleanse oneself.",
+      "clue": "Time for a quick rinse.",
       "answer": "shower",
       "answer_letters": "SHOWER",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "British actor who plays Batman in Christopher Nolan's Batman trilogy.",
+      "clue": "Brother to George III",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "One of the heroes of the Old Testament.",
+      "clue": "Subject of an annual celebration on Purim",
       "answer": "esther",
       "answer_letters": "ESTHER",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Large city in New Jersey, home to a major international airport.",
+      "clue": "Site of a major airport in NJ.",
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "Language spoken by over 200 million people.",
+      "clue": "Speaks Bahasa.",
       "answer": "indonesian",
       "answer_letters": "INDONESIAN",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Increase in size or quantity.",
+      "clue": "Business expansion or development.",
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Posed for a photographer or artist, past tense.",
+      "clue": "Created a replica of, perhaps in clay.",
       "answer": "modelled",
       "answer_letters": "MODELLED",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Stays away from.",
+      "clue": "Circumvents or steers clear of",
       "answer": "avoids",
       "answer_letters": "AVOIDS",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "A congested road condition.",
+      "clue": "Road congestion.",
       "answer": "traffic",
       "answer_letters": "TRAFFIC",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Biblical prophet known for writing a book in the Old Testament.",
+      "clue": "One of the 'major' prophets in the Hebrew Bible.",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "A type of tree commonly associated with winter holidays.",
+      "clue": "A horse with a particular coat color.",
       "answer": "chestnut",
       "answer_letters": "CHESTNUT",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "A written piece expressing the views of a newspaper or magazine.",
+      "clue": "Opinion piece in a publication.",
       "answer": "editorial",
       "answer_letters": "EDITORIAL",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "A type of religion practiced in Haiti and Louisiana.",
+      "clue": "Folk religion of Haiti.",
       "answer": "voodoo",
       "answer_letters": "VOODOO",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Beginning stage or point.",
+      "clue": "Beginning of a period or project.",
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Private research university located in Pennsylvania.",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Against the law.",
+      "clue": "Illicit or illegal.",
       "answer": "unlawful",
       "answer_letters": "UNLAWFUL",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "A boundary that marks the beginning or end of a room or building.",
+      "clue": "Starting point or level.",
       "answer": "threshold",
       "answer_letters": "THRESHOLD",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Make something better.",
+      "clue": "Enhance or make better",
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "People not included in a particular group or category.",
+      "clue": "Various people besides you and I.",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Groups of people with shared history, culture, and government.",
+      "clue": "Their flags adorn the UN building.",
       "answer": "nations",
       "answer_letters": "NATIONS",
       "indices": [

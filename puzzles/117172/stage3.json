@@ -5,7 +5,7 @@
   "source_letters": "MORRISSEYAUTOBIOGRAPHY",
   "clues": [
     {
-      "clue": "A chemical compound commonly found in organic molecules.",
+      "clue": "Common organic substituent",
       "answer": "methyl",
       "answer_letters": "METHYL",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A condition characterized by excessive body weight and adipose tissue.",
+      "clue": "Public health concern worldwide.",
       "answer": "obesity",
       "answer_letters": "OBESITY",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "HTML attribute for merging cells vertically.",
+      "clue": "HTML term for extending a table cell vertically",
       "answer": "rowspan",
       "answer_letters": "ROWSPAN",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "A pattern of beats and accents in music.",
+      "clue": "Time signature component.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "A purpose or goal.",
+      "clue": "Purposeful aim.",
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Appeared to be.",
+      "clue": "The project ____ straightforward at first glance.",
       "answer": "seemed",
       "answer_letters": "SEEMED",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Native American tribe from the Great Plains.",
+      "clue": "Participants in Tecumseh's confederacy.",
       "answer": "shawnee",
       "answer_letters": "SHAWNEE",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Symbol representing an organization or country.",
+      "clue": "Iconic representation, often used on uniforms or flags.",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "A color that is similar to the hue of ripe bananas.",
+      "clue": "Lemony in hue.",
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Greek goddess of wisdom and war.",
+      "clue": "Wisdom goddess in Greek mythology.",
       "answer": "athena",
       "answer_letters": "ATHENA",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "An Islamic caliphate dynasty ruling from 661 to 750.",
+      "clue": "Historic Arab dynasty.",
       "answer": "umayyad",
       "answer_letters": "UMAYYAD",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Common recurring ideas in literature, art, or music.",
+      "clue": "Common motifs in literature or music.",
       "answer": "themes",
       "answer_letters": "THEMES",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "A printing technique using ink and a plate.",
+      "clue": "Counterbalance in terms.",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Position located at the back.",
+      "clue": "To the rear.",
       "answer": "behind",
       "answer_letters": "BEHIND",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Borough of London known for its trendy nightlife and popular marketplace.",
+      "clue": "Known for its diverse food market at Upper Street.",
       "answer": "islington",
       "answer_letters": "ISLINGTON",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Having possession of something.",
+      "clue": "Being in possession of something.",
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Legendary Swedish king who ruled during the 18th century.",
+      "clue": "It might be Hjalmars or Per-Albin's first name.",
       "answer": "gustaf",
       "answer_letters": "GUSTAF",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Changed in wording or composition.",
+      "clue": "Script adjusted for a new version.",
       "answer": "rewritten",
       "answer_letters": "REWRITTEN",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Having a connection to an organization or group.",
+      "clue": "Tied to a group or cause",
       "answer": "affiliated",
       "answer_letters": "AFFILIATED",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "A difficult or challenging situation.",
+      "clue": "Dire straits.",
       "answer": "plight",
       "answer_letters": "PLIGHT",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Tennis player who won the US Open in 2001.",
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "Produces, as crops or profits.",
+      "clue": "Delivers results or outcomes",
       "answer": "yields",
       "answer_letters": "YIELDS",
       "indices": [

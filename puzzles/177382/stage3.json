@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue": "A particular edition or iteration.",
+      "clue": "Variant form of something familiar.",
       "answer": "version",
       "answer_letters": "VERSION",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Occasions that occur on specific dates or times.",
+      "clue": "Things that take place.",
       "answer": "events",
       "answer_letters": "EVENTS",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "An outcome or consequence.",
+      "clue": "What you get when you finish adding numbers.",
       "answer": "result",
       "answer_letters": "RESULT",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "A character in the novel 'Oliver Twist'.",
+      "clue": "No parents.",
       "answer": "orphan",
       "answer_letters": "ORPHAN",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "A time of day associated with stars and the moon.",
+      "clue": "Hours of darkness.",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Free from fault or error.",
+      "clue": "Pristine condition.",
       "answer": "immaculate",
       "answer_letters": "IMMACULATE",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "A physicist who contributed to the development of the theory of black holes.",
+      "clue": "He measured Earth's mass using gravity.",
       "answer": "cavendish",
       "answer_letters": "CAVENDISH",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "The act of requesting information.",
+      "clue": "Seeking information or clarification",
       "answer": "asking",
       "answer_letters": "ASKING",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "A divisive individual with preconceived prejudices.",
+      "clue": "Biased against others based on race.",
       "answer": "racist",
       "answer_letters": "RACIST",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Flipped on its head.",
+      "clue": "Tilted so that its top part is now at the bottom.",
       "answer": "overturned",
       "answer_letters": "OVERTURNED",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "The number of Michael Jordan's basketball jersey.",
+      "clue": "The sum of thirteen and ten",
       "answer": "twenty-three",
       "answer_letters": "TWENTYTHREE",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Tennis player who won the US Open in 2001.",
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "A region on the east coast of Great Britain.",
+      "clue": "It includes Norfolk and Suffolk.",
       "answer": "anglia",
       "answer_letters": "ANGLIA",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Private research university located in Pennsylvania.",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Goddess of wealth and prosperity in Hindu mythology.",
+      "clue": "Hindu goddess of wealth and fortune",
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "The act of creating a new company or organization.",
+      "clue": "Introductory shots for location.",
       "answer": "establishing",
       "answer_letters": "ESTABLISHING",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "German writer known for his novel 'Faust'.",
+      "clue": "Faust's author.",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Someone who is disabled or has a chronic illness.",
+      "clue": "Unaccepted legal claim.",
       "answer": "invalid",
       "answer_letters": "INVALID",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "The level of sound or signal strength.",
+      "clue": "The range over which a wave varies.",
       "answer": "amplitude",
       "answer_letters": "AMPLITUDE",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Assigning a title or word to identify something.",
+      "clue": "Selecting and bestowing an appellation.",
       "answer": "naming",
       "answer_letters": "NAMING",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "A social media platform known for its brief messages and blue bird logo.",
+      "clue": "Place to 'tweet' your thoughts",
       "answer": "twitter",
       "answer_letters": "TWITTER",
       "indices": [

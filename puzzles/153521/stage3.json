@@ -5,7 +5,7 @@
   "source_letters": "SCOTTTUROWLIMITATIONS",
   "clues": [
     {
-      "clue": "Linens used to cover a bed.",
+      "clue": "Can be crisp or rumpled.",
       "answer": "sheets",
       "answer_letters": "SHEETS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "The frame of a car or truck.",
+      "clue": "Support structure of a vehicle.",
       "answer": "chassis",
       "answer_letters": "CHASSIS",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "A place for work or business affairs.",
+      "clue": "Site for business meetings.",
       "answer": "office",
       "answer_letters": "OFFICE",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "A word meaning 'current date'.",
+      "clue": "Current times.",
       "answer": "today's",
       "answer_letters": "TODAYS",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Adolescents navigating high school and puberty.",
+      "clue": "13-year-olds.",
       "answer": "teenagers",
       "answer_letters": "TEENAGERS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Given a duty to perform.",
+      "clue": "Charged with a job or mission.",
       "answer": "tasked",
       "answer_letters": "TASKED",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Not fitting or appropriate for a particular purpose.",
+      "clue": "Inappropriate for a given purpose",
       "answer": "unsuitable",
       "answer_letters": "UNSUITABLE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Surname shared by a family of duck hunters from Louisiana.",
+      "clue": "Creator of Big Bang theory precursor.",
       "answer": "robertson",
       "answer_letters": "ROBERTSON",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "A simple summary.",
+      "clue": "Broad examination without detail.",
       "answer": "overview",
       "answer_letters": "OVERVIEW",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Measured the mass of an object.",
+      "clue": "Assessed the heaviness of an object.",
       "answer": "weighed",
       "answer_letters": "WEIGHED",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "The distance between baseball bases.",
+      "clue": "Categories within a sport's organizational framework.",
       "answer": "leagues",
       "answer_letters": "LEAGUES",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "The process of consuming or absorbing something.",
+      "clue": "Admission to school is known as an _.",
       "answer": "intake",
       "answer_letters": "INTAKE",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Ways of achieving a goal or solving a problem.",
+      "clue": "Procedures or techniques used in a particular field.",
       "answer": "methods",
       "answer_letters": "METHODS",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Not able to accomplish tasks.",
+      "clue": "Unfit for a task.",
       "answer": "incapable",
       "answer_letters": "INCAPABLE",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "A play by Shakespeare.",
+      "clue": "Metaphor for chaos.",
       "answer": "tempest",
       "answer_letters": "TEMPEST",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Socially uncomfortable or ungraceful.",
+      "clue": "Socially uncomfortable situation.",
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Capital city of Kansas.",
+      "clue": "Site of the Brown v. Board of Education trials.",
       "answer": "topeka",
       "answer_letters": "TOPEKA",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Enter and take control of a foreign country.",
+      "clue": "Enter forcefully, often with hostility",
       "answer": "invade",
       "answer_letters": "INVADE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "One who provides assistance or direction over the phone.",
+      "clue": "The person behind the console in this context might be managing calls.",
       "answer": "operator",
       "answer_letters": "OPERATOR",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "A directionally opposed pair.",
+      "clue": "Opposite of east-west.",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "The organization of time and events.",
+      "clue": "Computerized task arrangement.",
       "answer": "scheduling",
       "answer_letters": "SCHEDULING",
       "indices": [

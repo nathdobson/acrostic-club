@@ -5,7 +5,7 @@
   "source_letters": "DIANNEBRIGHTSOULREADER",
   "clues": [
     {
-      "clue": "Level of education earned.",
+      "clue": "You earn them at a university.",
       "answer": "degrees",
       "answer_letters": "DEGREES",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Country shaped like a high-heeled boot.",
+      "clue": "Where Leonardo da Vinci was born.",
       "answer": "italia",
       "answer_letters": "ITALIA",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "A phrase used to describe the best of the best.",
+      "clue": "Spanning the entirety of history.",
       "answer": "all-time",
       "answer_letters": "ALLTIME",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Film director known for The Graduate and Working Girl.",
+      "clue": "He directed 'The Graduate'.",
       "answer": "nichols",
       "answer_letters": "NICHOLS",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "A team sport similar to basketball, primarily played by women.",
+      "clue": "This sport is popular in Commonwealth nations and requires teamwork.",
       "answer": "netball",
       "answer_letters": "NETBALL",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "NHL player ___________ helmet policy in 1979.",
+      "clue": "Made sure rules were followed",
       "answer": "enforced",
       "answer_letters": "ENFORCED",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Possessing qualities that please the senses.",
+      "clue": "Lovely or pretty in nature.",
       "answer": "beautiful",
       "answer_letters": "BEAUTIFUL",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "An involuntary response to a stimulus.",
+      "clue": "Action without conscious thought.",
       "answer": "reflex",
       "answer_letters": "REFLEX",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "A deep blue color that's often associated with royalty.",
+      "clue": "Named for a plant used to produce its rich color.",
       "answer": "indigo",
       "answer_letters": "INDIGO",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "City where Batman defends against villains.",
+      "clue": "Brick city for Batman.",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "A district in west London known for its iconic bridge.",
+      "clue": "Location of the BBC Television Centre in 1960s-80s",
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "A pre-designed form for a document or webpage.",
+      "clue": "Standard model used in production.",
       "answer": "template",
       "answer_letters": "TEMPLATE",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Having marks or dots on the surface.",
+      "clue": "A dalmatian's coat.",
       "answer": "spotted",
       "answer_letters": "SPOTTED",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "A printing technique using ink and a plate.",
+      "clue": "Counterbalance in terms.",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "City in the Netherlands.",
+      "clue": "Home to a prominent university, established in 1636.",
       "answer": "utrecht",
       "answer_letters": "UTRECHT",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Nazi Germany's air force during World War II.",
+      "clue": "The German air force in WWII.",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "To spin on an axis.",
+      "clue": "Move in a circle.",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "To be present or have being.",
+      "clue": "Continues to have being or reality.",
       "answer": "exists",
       "answer_letters": "EXISTS",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "A betrayal of marriage vows.",
+      "clue": "Marital infidelity.",
       "answer": "adultery",
       "answer_letters": "ADULTERY",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Actress famous for her roles in the Fifty Shades film series.",
+      "clue": "State with Bismarck as capital",
       "answer": "dakota",
       "answer_letters": "DAKOTA",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Prepared with necessary tools or objects for a task.",
+      "clue": "Having all necessary tools at hand.",
       "answer": "equipped",
       "answer_letters": "EQUIPPED",
       "indices": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "clue": "A pattern of beats and accents in music.",
+      "clue": "Time signature component.",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "ORSONSCOTTCARDEMPIRE",
   "clues": [
     {
-      "clue": "A religious donation.",
+      "clue": "What you might give as a gift or contribution.",
       "answer": "offering",
       "answer_letters": "OFFERING",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "A gathering of family or old friends.",
+      "clue": "An assembly of old friends or former members",
       "answer": "reunion",
       "answer_letters": "REUNION",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Only and nothing else; not accompanied by any other factors or elements.",
+      "clue": "Without any others involved.",
       "answer": "solely",
       "answer_letters": "SOLELY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Friendly and sociable, like the former US president Barack Obama.",
+      "clue": "Not reserved or shy.",
       "answer": "outgoing",
       "answer_letters": "OUTGOING",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Art style that emerged in the late 19th century.",
+      "clue": "Term often used in culinary contexts to describe a new wave of restaurants",
       "answer": "nouveau",
       "answer_letters": "NOUVEAU",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "The day of the week known for college football.",
+      "clue": "Weekend's first day.",
       "answer": "saturdays",
       "answer_letters": "SATURDAYS",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Someone who is not a member of the military or police force.",
+      "clue": "Not a member of the armed forces.",
       "answer": "civilian",
       "answer_letters": "CIVILIAN",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "The result of a process or activity.",
+      "clue": "The yield or return on an investment.",
       "answer": "output",
       "answer_letters": "OUTPUT",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Weight measurement used for ships.",
+      "clue": "Mass of a ship's cargo",
       "answer": "tonnage",
       "answer_letters": "TONNAGE",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "A system of job security for professors and academics.",
+      "clue": "Occupation duration.",
       "answer": "tenure",
       "answer_letters": "TENURE",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Singer and judge on The Greatest Dancer.",
+      "clue": "First name of Coleen.",
       "answer": "cheryl",
       "answer_letters": "CHERYL",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Streets running parallel to each other in a grid pattern.",
+      "clue": "Main streets",
       "answer": "avenues",
       "answer_letters": "AVENUES",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Luxury car brand often associated with the wealthy elite.",
+      "clue": "Iconic name in British engineering.",
       "answer": "rolls-royce",
       "answer_letters": "ROLLSROYCE",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "To lose in a competition or war.",
+      "clue": "Not a victory.",
       "answer": "defeat",
       "answer_letters": "DEFEAT",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "One of Jupiter's largest moons.",
+      "clue": "Moon of Jupiter",
       "answer": "europa",
       "answer_letters": "EUROPA",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "A Dravidian language spoken primarily in southern India.",
+      "clue": "This Indian language has a rich literary tradition dating back centuries.",
       "answer": "malayalam",
       "answer_letters": "MALAYALAM",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "The art of capturing images with a camera.",
+      "clue": "Art that started with Daguerreotype.",
       "answer": "photography",
       "answer_letters": "PHOTOGRAPHY",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "A physical harm or wound to the body.",
+      "clue": "Reason to visit an ER.",
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "A medical program for specialized training.",
+      "clue": "Final stage of medical training.",
       "answer": "residency",
       "answer_letters": "RESIDENCY",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "To scrutinize closely.",
+      "clue": "Look over closely.",
       "answer": "examine",
       "answer_letters": "EXAMINE",
       "indices": [

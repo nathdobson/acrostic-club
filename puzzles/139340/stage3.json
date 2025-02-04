@@ -5,7 +5,7 @@
   "source_letters": "GEORGEORWELLWHYIWRITE",
   "clues": [
     {
-      "clue": "Charitable organization that accepts donations.",
+      "clue": "Amicable relationship attribute.",
       "answer": "goodwill",
       "answer_letters": "GOODWILL",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "The power to produce a desired result.",
+      "clue": "Ability to produce a desired result.",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Robin Hood was a famous one of these.",
+      "clue": "Antonym of law-abiding citizen.",
       "answer": "outlaw",
       "answer_letters": "OUTLAW",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "A type of tire design used on bicycles and cars.",
+      "clue": "Wheel's spoke direction.",
       "answer": "radial",
       "answer_letters": "RADIAL",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "British actor who played Uncle Vernon in the Harry Potter film series.",
+      "clue": "Famous Welsh comedian with the surname ___.",
       "answer": "griffiths",
       "answer_letters": "GRIFFITHS",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "A strenuous attempt.",
+      "clue": "Vigorous or determined attempt to do something.",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "A person's job or profession.",
+      "clue": "Way to earn a living.",
       "answer": "occupation",
       "answer_letters": "OCCUPATION",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "An era in European history marked by religious upheaval and change.",
+      "clue": "Significant religious movement in Europe starting around the 16th century.",
       "answer": "reformation",
       "answer_letters": "REFORMATION",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "An expression used to convey indifference or a lack of interest.",
+      "clue": "Expression signifying 'I don't mind'.",
       "answer": "whatever",
       "answer_letters": "WHATEVER",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "A measure of disorder and randomness in a thermodynamic system.",
+      "clue": "Related to the second law of thermodynamics.",
       "answer": "entropy",
       "answer_letters": "ENTROPY",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "A citizen of the country where Riga is the capital.",
+      "clue": "Native of the Baltic state bordered by Estonia, Lithuania, and Russia.",
       "answer": "latvian",
       "answer_letters": "LATVIAN",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "The act of starting or introducing something new and innovative.",
+      "clue": "Get off to a good start.",
       "answer": "launch",
       "answer_letters": "LAUNCH",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "A city in West Yorkshire, England.",
+      "clue": "English cathedral city in Yorkshire",
       "answer": "wakefield",
       "answer_letters": "WAKEFIELD",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "A compilation of sayings and actions attributed to the Prophet Muhammad.",
+      "clue": "Second most important source in Islamic law after the Quran.",
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Luxury vessels used for leisure sailing.",
+      "clue": "Types of leisure vessels.",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Restricts or prevents from doing something.",
+      "clue": "Causes suppression of a function or response.",
       "answer": "inhibits",
       "answer_letters": "INHIBITS",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "A day between Monday and Friday.",
+      "clue": "Typical time to attend school or go to the office.",
       "answer": "weekday",
       "answer_letters": "WEEKDAY",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Growing or spreading without control.",
+      "clue": "Growing out of control.",
       "answer": "rampant",
       "answer_letters": "RAMPANT",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "The earliest stage of life.",
+      "clue": "Babyhood stage.",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Caused to rotate out of its original shape.",
+      "clue": "Bent out of its normal shape.",
       "answer": "twisted",
       "answer_letters": "TWISTED",
       "indices": [
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "clue": "One of America's most notorious serial killers, John _____.",
+      "clue": "Jonathan, a preacher of New England Calvinism.",
       "answer": "edwards",
       "answer_letters": "EDWARDS",
       "indices": [

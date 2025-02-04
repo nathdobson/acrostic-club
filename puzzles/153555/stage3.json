@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "A notorious celebrity tabloid.",
+      "clue": "Town talk.",
       "answer": "gossip",
       "answer_letters": "GOSSIP",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Written compositions on various topics.",
+      "clue": "Literary works that ponder life and thought.",
       "answer": "essays",
       "answer_letters": "ESSAYS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Best possible.",
+      "clue": "Ideal point for growth or performance.",
       "answer": "optimum",
       "answer_letters": "OPTIMUM",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "NBA award for the best first-year player.",
+      "clue": "First-year player in sports.",
       "answer": "rookie",
       "answer_letters": "ROOKIE",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Classy guys.",
+      "clue": "A polite way to address males in mixed company.",
       "answer": "gentlemen",
       "answer_letters": "GENTLEMEN",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "A descriptive nickname given to Achilles in Homer's Iliad.",
+      "clue": "Synonym for moniker.",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Repeated a sound.",
+      "clue": "Made the same sound again",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "People who are native to a particular place.",
+      "clue": "Dwellers nearby.",
       "answer": "locals",
       "answer_letters": "LOCALS",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "A famous chef known for his authentic cuisine.",
+      "clue": "Language spoken in Rome.",
       "answer": "italian",
       "answer_letters": "ITALIAN",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "An incident caused by an excessive amount of ingested medication or drugs.",
+      "clue": "Taking too much of a drug, medicine or alcohol.",
       "answer": "overdose",
       "answer_letters": "OVERDOSE",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Famous jewelry brand founded in the mid-19th century.",
+      "clue": "Celebrated designer of jewelry, born in 1848.",
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "A character representing a brand or team.",
+      "clue": "Lovable figure representing brands or teams.",
       "answer": "mascot",
       "answer_letters": "MASCOT",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "To lay on as a burden or duty.",
+      "clue": "Enforce or apply (something)",
       "answer": "impose",
       "answer_letters": "IMPOSE",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Port city in Minnesota, known for its scenic lakeside views.",
+      "clue": "Minnesotan port city near Lakes Superior and Superior.",
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "An animal related to horses that is known for its stubbornness.",
+      "clue": "Horse's close relative.",
       "answer": "donkey",
       "answer_letters": "DONKEY",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "A group of women.",
+      "clue": "Gentlewomen.",
       "answer": "ladies",
       "answer_letters": "LADIES",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "People who are avid and passionate about a particular hobby or interest.",
+      "clue": "Amateurs of a particular interest or hobby.",
       "answer": "enthusiasts",
       "answer_letters": "ENTHUSIASTS",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Famous Scottish play written by William Shakespeare.",
+      "clue": "Tragic Shakespearean hero.",
       "answer": "macbeth",
       "answer_letters": "MACBETH",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "A quantity of something.",
+      "clue": "How much?",
       "answer": "amount",
       "answer_letters": "AMOUNT",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Beyoncé sang about them in \"Love on Top.\"",
+      "clue": "Interpersonal ties.",
       "answer": "relationships",
       "answer_letters": "RELATIONSHIPS",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Native American tribe from Mississippi.",
+      "clue": "Indigenous people of Mississippi.",
       "answer": "choctaw",
       "answer_letters": "CHOCTAW",
       "indices": [
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "clue": "Moisture in the air.",
+      "clue": "Measurement of atmospheric moisture.",
       "answer": "humidity",
       "answer_letters": "HUMIDITY",
       "indices": [
