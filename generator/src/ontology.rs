@@ -6,7 +6,6 @@ use std::marker::PhantomData;
 use std::sync::Arc;
 use tokio::fs;
 // use turtle_syntax::{Document, Parse};
-use crate::conflict_set::ConflictSet;
 use crate::PACKAGE_PATH;
 use acrostic_core::letter::Letter;
 use codespan_reporting;
@@ -16,16 +15,19 @@ use codespan_reporting::term::termcolor::{ColorChoice, StandardStream};
 use futures::StreamExt;
 use itertools::Itertools;
 use locspan::Meta;
-use rio_api::model::{Literal, NamedNode, Subject, Term};
-use rio_api::parser::TriplesParser;
-use rio_turtle::{TurtleError, TurtleParser};
+// use rio_api::model::{Literal, NamedNode, Subject, Term};
+// use rio_api::parser::TriplesParser;
+// use rio_turtle::{TurtleError, TurtleParser};
+use crate::string::LetterString;
 use safe_once::sync::LazyLock;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{spawn_transparent, JoinTransparent};
 use safe_once_async::sync::AsyncLazyLock;
 use ustr::Ustr;
+use crate::conflict_set::ConflictSet;
+use crate::turtle::db::TURTLE;
+use crate::turtle::graph::{Turtle, TurtleIndex};
 // use crate::segment::get_alpha;
-use crate::turtle::{Turtle, TurtleIndex, TURTLE};
 use crate::util::lazy_async::CloneError;
 
 pub struct Ontology {
@@ -39,6 +41,7 @@ pub struct Ontology {
     type_page: TurtleIndex,
     etym_related: TurtleIndex,
     derived_from: TurtleIndex,
+    written_table: HashMap<LetterString, Vec<Written>>,
 }
 
 impl Debug for Ontology {
@@ -50,13 +53,22 @@ impl Debug for Ontology {
 impl Ontology {
     pub async fn new() -> anyhow::Result<Self> {
         let graph = TURTLE.get().await.clone_error_static()?;
+        let written_rep = graph
+            .get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep")
+            .unwrap();
+        let mut written_table = HashMap::<LetterString, Vec<Written>>::new();
+        for (s, o) in graph.get_edges_by_predicate(written_rep) {
+            let name = graph.get_name(o);
+            written_table
+                .entry(LetterString::from_str(name))
+                .or_default()
+                .push(Written(o));
+        }
         Ok(Ontology {
             other_form: graph
                 .get_index("http://www.w3.org/ns/lemon/ontolex#otherForm")
                 .unwrap(),
-            written_rep: graph
-                .get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep")
-                .unwrap(),
+            written_rep,
             canonical_form: graph
                 .get_index("http://www.w3.org/ns/lemon/ontolex#canonicalForm")
                 .unwrap(),
@@ -81,10 +93,15 @@ impl Ontology {
                 .get_index("http://kaiko.getalp.org/dbnary#derivedFrom")
                 .unwrap(),
             graph,
+            written_table,
         })
     }
-    pub fn find_written(&self, text: &str) -> Option<Written> {
-        Some(Written(self.graph.get_index(text)?))
+    pub fn find_written(&self, text: &LetterString) -> Vec<Written> {
+        if let Some(x) = self.written_table.get(text) {
+            x.clone()
+        } else {
+            vec![]
+        }
     }
     pub fn written_rep_of(&self, x: Written) -> Vec<Form> {
         self.graph
@@ -247,32 +264,33 @@ async fn read_turtle_graph() -> anyhow::Result<()> {
     Ok(())
 }
 
-#[tokio::test]
-async fn test_ontology() -> anyhow::Result<()> {
-    let ontology = ONTOLOGY.get().await.clone_error()?;
-    // println!("{:?}", ontology.get_directed_conflicts("netball"));
-    // let rep = ontology.find_written("netball").unwrap();
-
-    // dbg!(ontology.graph.debug(rep.0));
-    // for form in ontology.written_rep_of(rep) {
-    //     dbg!(ontology.graph.debug(form.0));
-    //     for cf in ontology.canonical_form_of(form) {
-    //         dbg!(ontology.graph.debug(cf.0));
-    //         let (ees, ps) = ontology.describes_of(cf);
-    //         for ee in ees {
-    //             dbg!(ontology.graph.debug(ee.0));
-    //             for ee2 in ontology.etym_related_to(ee) {
-    //                 dbg!(ontology.graph.debug(ee2.0));
-    //             }
-    //         }
-    //         for p in ps {
-    //             dbg!(ontology.graph.debug(p.0));
-    //             for df in ontology.derived_from(p) {
-    //                 dbg!(ontology.graph.debug(df.0));
-    //             }
-    //         }
-    //     }
-    // }
-
-    Ok(())
-}
+// #[tokio::test]
+// async fn test_ontology() -> anyhow::Result<()> {
+//     let ontology = ONTOLOGY.get().await.clone_error()?;
+//     let word = "islamist";
+//     println!("{:?}", ontology.get_directed_conflicts(word));
+//     let rep = ontology.find_written("netball").unwrap();
+//
+//     dbg!(ontology.graph.debug(rep.0));
+//     for form in ontology.written_rep_of(rep) {
+//         dbg!(ontology.graph.debug(form.0));
+//         for cf in ontology.canonical_form_of(form) {
+//             dbg!(ontology.graph.debug(cf.0));
+//             let (ees, ps) = ontology.describes_of(cf);
+//             for ee in ees {
+//                 dbg!(ontology.graph.debug(ee.0));
+//                 for ee2 in ontology.etym_related_to(ee) {
+//                     dbg!(ontology.graph.debug(ee2.0));
+//                 }
+//             }
+//             for p in ps {
+//                 dbg!(ontology.graph.debug(p.0));
+//                 for df in ontology.derived_from(p) {
+//                     dbg!(ontology.graph.debug(df.0));
+//                 }
+//             }
+//         }
+//     }
+//
+//     Ok(())
+// }

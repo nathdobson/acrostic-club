@@ -1,5 +1,6 @@
 #![allow(unused_variables, unused_mut)]
 
+use crate::lemma::{Lemma, LEMMA};
 use acrostic_core::letter::Letter;
 use futures::future::{join_all, try_join_all};
 use itertools::Itertools;
@@ -31,6 +32,7 @@ static MODEL: &str = "llama3.2:3b";
 pub struct ClueClient {
     client: Arc<dyn ChatClient>,
     ontology: Arc<Ontology>,
+    lemma: Arc<Lemma>,
 }
 
 impl ClueClient {
@@ -39,13 +41,21 @@ impl ClueClient {
         Ok(ClueClient {
             client,
             ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
+            lemma: LEMMA.get().await.clone_error_static()?.clone(),
         })
     }
     pub fn score(&self, word: &str, clue: &str) -> Option<NotNan<f64>> {
         let word_letters = LetterString::from_str(word);
         let clue_letters = LetterString::from_str(clue);
         let mut is_banned = false;
-        for banned in self.ontology.get_conflicts(word) {
+
+        for banned in self
+            .lemma
+            .alternates(word)
+            .iter()
+            .chain(self.lemma.canonicals(word).iter())
+            .chain(self.ontology.get_conflicts(word).iter())
+        {
             let banned_letters = LetterString::from_str(&banned);
             if banned_letters.len() >= 3 {
                 if clue_letters

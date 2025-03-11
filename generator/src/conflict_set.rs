@@ -1,6 +1,6 @@
 use crate::dict::FLAT_WORDS;
 use crate::ontology::{Etymology, Form, Lexical, Ontology, Page, Written, ONTOLOGY};
-use crate::turtle::TurtleIndex;
+use crate::string::LetterString;
 use crate::util::lazy_async::CloneError;
 use brotli::interface::Command::Dict;
 use std::collections::HashSet;
@@ -45,7 +45,8 @@ impl ConflictSet {
     }
     pub fn add_origin(&mut self, origin: String) {
         if self.origins.insert(origin.clone()) {
-            if let Some(written) = self.ontology.find_written(&origin) {
+            let letters = LetterString::from_str(&origin);
+            for written in self.ontology.find_written(&letters) {
                 self.add_written(written);
             }
         }
@@ -267,10 +268,11 @@ impl Debug for ConflictSet {
 #[tokio::test]
 async fn test_find_conflicts() -> anyhow::Result<()> {
     let ontology = ONTOLOGY.get().await.clone_error()?.clone();
-    for word in ["definition", "cowboy", "cattle"] {
+    for word in ["bought", "definition", "cowboy", "cattle", "Islam"] {
         let mut conflicts = ConflictSet::new(ontology.clone());
         conflicts.add_origin(word.to_string());
         println!("{:#?}", conflicts);
+        println!("{:#?}", conflicts.terminals().collect::<Vec<_>>());
     }
     Ok(())
 }

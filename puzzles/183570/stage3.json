@@ -1,0 +1,307 @@
+{
+  "quote": "It reminds me that no embrace will ever feel the same again, because no one will ever be like her again, because she's gone. She's gone, and crying feels so useless, so stupid, but it's all I can do.",
+  "quote_letters": "IT REMINDS ME THAT NO EMBRACE WILL EVER FEEL THE SAME AGAIN BECAUSE NO ONE WILL EVER BE LIKE HER AGAIN BECAUSE SHES GONE SHES GONE AND CRYING FEELS SO USELESS SO STUPID BUT ITS ALL I CAN DO",
+  "source": "Veronica Roth, Allegiant",
+  "source_letters": "VERONICAROTHALLEGIANT",
+  "clues": [
+    {
+      "clue": "Core beliefs that shape decisions.",
+      "answer": "values",
+      "answer_letters": "VALUES",
+      "indices": [
+        81,
+        26,
+        88,
+        164,
+        109,
+        124
+      ]
+    },
+    {
+      "clue": "Science of interactions among organisms and their environments.",
+      "answer": "ecology",
+      "answer_letters": "ECOLOGY",
+      "indices": [
+        129,
+        62,
+        160,
+        78,
+        69,
+        126,
+        137
+      ]
+    },
+    {
+      "clue": "Stocks of essential goods set aside by governments or businesses.",
+      "answer": "reserves",
+      "answer_letters": "RESERVES",
+      "indices": [
+        83,
+        35,
+        159,
+        143,
+        3,
+        36,
+        153,
+        146
+      ]
+    },
+    {
+      "clue": "Made accessible by removing obstructions.",
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        20,
+        165,
+        28,
+        68,
+        12,
+        167
+      ]
+    },
+    {
+      "clue": "Cloudy region in space.",
+      "answer": "nebula",
+      "answer_letters": "NEBULA",
+      "indices": [
+        118,
+        113,
+        169,
+        151,
+        145,
+        50
+      ]
+    },
+    {
+      "clue": "Fancied in one's mind, possibly unreal.",
+      "answer": "imagined",
+      "answer_letters": "IMAGINED",
+      "indices": [
+        6,
+        51,
+        131,
+        116,
+        31,
+        132,
+        119,
+        187
+      ]
+    },
+    {
+      "clue": "This ion often pairs with sodium.",
+      "answer": "chloride",
+      "answer_letters": "CHLORIDE",
+      "indices": [
+        27,
+        15,
+        33,
+        117,
+        38,
+        181,
+        133,
+        86
+      ]
+    },
+    {
+      "clue": "Multiple departments.",
+      "answer": "agencies",
+      "answer_letters": "AGENCIES",
+      "indices": [
+        97,
+        98,
+        82,
+        19,
+        105,
+        89,
+        37,
+        152
+      ]
+    },
+    {
+      "clue": "Practices for an upcoming show.",
+      "answer": "rehearsals",
+      "answer_letters": "REHEARSALS",
+      "indices": [
+        95,
+        66,
+        112,
+        61,
+        184,
+        25,
+        148,
+        177,
+        77,
+        175
+      ]
+    },
+    {
+      "clue": "Gave brief description of proposal.",
+      "answer": "outlined",
+      "answer_letters": "OUTLINED",
+      "indices": [
+        188,
+        64,
+        1,
+        154,
+        76,
+        58,
+        4,
+        8
+      ]
+    },
+    {
+      "clue": "N.J.'s capital city",
+      "answer": "trenton",
+      "answer_letters": "TRENTON",
+      "indices": [
+        174,
+        136,
+        80,
+        139,
+        45,
+        149,
+        7
+      ]
+    },
+    {
+      "clue": "Routine practices.",
+      "answer": "habits",
+      "answer_letters": "HABITS",
+      "indices": [
+        122,
+        63,
+        60,
+        173,
+        163,
+        111
+      ]
+    },
+    {
+      "clue": "State of being away.",
+      "answer": "absence",
+      "answer_letters": "ABSENCE",
+      "indices": [
+        106,
+        24,
+        121,
+        42,
+        128,
+        135,
+        123
+      ]
+    },
+    {
+      "clue": "The name of Parks and Recreation's perpetually upbeat city manager.",
+      "answer": "leslie",
+      "answer_letters": "LESLIE",
+      "indices": [
+        178,
+        91,
+        162,
+        43,
+        0,
+        52
+      ]
+    },
+    {
+      "clue": "Echoes of amusement.",
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
+      "indices": [
+        179,
+        99,
+        170,
+        140,
+        46,
+        156
+      ]
+    },
+    {
+      "clue": "Sovereign nation's offices in a foreign land.",
+      "answer": "embassies",
+      "answer_letters": "EMBASSIES",
+      "indices": [
+        94,
+        5,
+        85,
+        56,
+        108,
+        157,
+        166,
+        47,
+        114
+      ]
+    },
+    {
+      "clue": "Type of novel featuring brooding heroes and damsel in distress.",
+      "answer": "gothic",
+      "answer_letters": "GOTHIC",
+      "indices": [
+        55,
+        71,
+        14,
+        93,
+        57,
+        183
+      ]
+    },
+    {
+      "clue": "Substantially greater than average.",
+      "answer": "immense",
+      "answer_letters": "IMMENSE",
+      "indices": [
+        138,
+        11,
+        23,
+        22,
+        72,
+        65,
+        155
+      ]
+    },
+    {
+      "clue": "Living in wealth.",
+      "answer": "affluent",
+      "answer_letters": "AFFLUENT",
+      "indices": [
+        16,
+        142,
+        40,
+        32,
+        107,
+        41,
+        185,
+        17
+      ]
+    },
+    {
+      "clue": "The magazine is known for its influential covers and in-depth reporting.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        101,
+        104,
+        75,
+        9,
+        30,
+        73,
+        144,
+        90
+      ]
+    },
+    {
+      "clue": "__ Smollett, novelist.",
+      "answer": "tobias",
+      "answer_letters": "TOBIAS",
+      "indices": [
+        171,
+        127,
+        103,
+        100,
+        54,
+        49
+      ]
+    }
+  ],
+  "chat": null
+}

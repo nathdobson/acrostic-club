@@ -1,0 +1,318 @@
+{
+  "quote": "Sadly for my wedding plans, I learned that Nestor is a bardash. I envy the men who enjoy his favors. He has always treated me with friendship which I now value more than my old romantic feelings.",
+  "quote_letters": "SADLY FOR MY WEDDING PLANS I LEARNED THAT NESTOR IS A BARDASH I ENVY THE MEN WHO ENJOY HIS FAVORS HE HAS ALWAYS TREATED ME WITH FRIENDSHIP WHICH I NOW VALUE MORE THAN MY OLD ROMANTIC FEELINGS",
+  "source": "Tamora Pierce, Bloodhound",
+  "source_letters": "TAMORAPIERCEBLOODHOUND",
+  "clues": [
+    {
+      "clue": "Customized with a particular subject.",
+      "answer": "themed",
+      "answer_letters": "THEMED",
+      "indices": [
+        112,
+        87,
+        117,
+        176,
+        185,
+        57
+      ]
+    },
+    {
+      "clue": "TV news reporter's role.",
+      "answer": "anchor",
+      "answer_letters": "ANCHOR",
+      "indices": [
+        39,
+        33,
+        181,
+        60,
+        175,
+        174
+      ]
+    },
+    {
+      "clue": "First name of Prophet Muhammad.",
+      "answer": "mohammad",
+      "answer_letters": "MOHAMMAD",
+      "indices": [
+        167,
+        148,
+        70,
+        115,
+        157,
+        120,
+        108,
+        15
+      ]
+    },
+    {
+      "clue": "Gathering of athletes every four years.",
+      "answer": "olympiad",
+      "answer_letters": "OLYMPIAD",
+      "indices": [
+        7,
+        186,
+        67,
+        73,
+        137,
+        130,
+        31,
+        118
+      ]
+    },
+    {
+      "clue": "In a non-absolute manner, often used in physics.",
+      "answer": "relatively",
+      "answer_letters": "RELATIVELY",
+      "indices": [
+        8,
+        131,
+        171,
+        52,
+        162,
+        62,
+        93,
+        74,
+        29,
+        11
+      ]
+    },
+    {
+      "clue": "Used to enhance food flavor, color, or preservation.",
+      "answer": "additive",
+      "answer_letters": "ADDITIVE",
+      "indices": [
+        23,
+        133,
+        172,
+        17,
+        116,
+        180,
+        151,
+        81
+      ]
+    },
+    {
+      "clue": "Conversational units.",
+      "answer": "phrases",
+      "answer_letters": "PHRASES",
+      "indices": [
+        21,
+        98,
+        95,
+        58,
+        190,
+        14,
+        89
+      ]
+    },
+    {
+      "clue": "City with bridges named Si-o-se-pol.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        187,
+        110,
+        128,
+        105,
+        163,
+        164,
+        165
+      ]
+    },
+    {
+      "clue": "Not with difficulty.",
+      "answer": "easily",
+      "answer_letters": "EASILY",
+      "indices": [
+        155,
+        55,
+        44,
+        27,
+        3,
+        109
+      ]
+    },
+    {
+      "clue": "Time signature component.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        32,
+        126,
+        168,
+        179,
+        140,
+        10
+      ]
+    },
+    {
+      "clue": "Football team from Kansas City.",
+      "answer": "chiefs",
+      "answer_letters": "CHIEFS",
+      "indices": [
+        142,
+        135,
+        136,
+        71,
+        91,
+        96
+      ]
+    },
+    {
+      "clue": "A prophet in the Old Testament.",
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
+      "indices": [
+        30,
+        106,
+        141,
+        83,
+        177,
+        101
+      ]
+    },
+    {
+      "clue": "Geographical depressions.",
+      "answer": "basins",
+      "answer_letters": "BASINS",
+      "indices": [
+        54,
+        102,
+        103,
+        124,
+        132,
+        50
+      ]
+    },
+    {
+      "clue": "Bottom rank in a hierarchy.",
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
+      "indices": [
+        153,
+        46,
+        77,
+        160,
+        134,
+        37
+      ]
+    },
+    {
+      "clue": "Infractions or crimes",
+      "answer": "offenses",
+      "answer_letters": "OFFENSES",
+      "indices": [
+        79,
+        6,
+        183,
+        34,
+        147,
+        59,
+        184,
+        0
+      ]
+    },
+    {
+      "clue": "Path where you can't go back.",
+      "answer": "one-way",
+      "answer_letters": "ONEWAY",
+      "indices": [
+        94,
+        75,
+        43,
+        139,
+        92,
+        4
+      ]
+    },
+    {
+      "clue": "Competitive discipline judged on execution and technique",
+      "answer": "diving",
+      "answer_letters": "DIVING",
+      "indices": [
+        2,
+        88,
+        66,
+        145,
+        42,
+        189
+      ]
+    },
+    {
+      "clue": "Scribe of 'The Scarlet Letter' (surname)",
+      "answer": "hawthorne",
+      "answer_letters": "HAWTHORNE",
+      "indices": [
+        38,
+        152,
+        123,
+        69,
+        143,
+        158,
+        113,
+        82,
+        121
+      ]
+    },
+    {
+      "clue": "Being in possession of something.",
+      "answer": "owning",
+      "answer_letters": "OWNING",
+      "indices": [
+        170,
+        107,
+        178,
+        49,
+        18,
+        19
+      ]
+    },
+    {
+      "clue": "Experienced first-hand an occurrence.",
+      "answer": "underwent",
+      "answer_letters": "UNDERWENT",
+      "indices": [
+        154,
+        65,
+        16,
+        99,
+        159,
+        13,
+        64,
+        188,
+        125
+      ]
+    },
+    {
+      "clue": "The compass direction opposite southeast",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
+      "indices": [
+        24,
+        84,
+        129,
+        40,
+        78,
+        149,
+        114,
+        25,
+        45
+      ]
+    },
+    {
+      "clue": "__ F. Zanuck, producer of 'Casablanca'.",
+      "answer": "darryl",
+      "answer_letters": "DARRYL",
+      "indices": [
+        35,
+        1,
+        56,
+        47,
+        85,
+        22
+      ]
+    }
+  ],
+  "chat": null
+}

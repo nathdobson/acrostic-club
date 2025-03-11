@@ -13,3 +13,5 @@ debug = true
 [profile.smol]
 inherits = "release"
 strip = true
+
+[workspace.dependencies]

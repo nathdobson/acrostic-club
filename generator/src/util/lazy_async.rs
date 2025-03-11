@@ -143,7 +143,8 @@ impl<T> CloneError for anyhow::Result<T> {
     }
 
     fn clone_error(&self) -> Result<&Self::Value, Self::Error> {
-        self.as_ref().map_err(|e| anyhow::Error::msg(e.to_string()))
+        self.as_ref()
+            .map_err(|e| anyhow::Error::msg(format!("{:?}", e)))
     }
 }
 

@@ -10,8 +10,9 @@ This project draws upon several data sources for generating puzzles:
 2. A dictionary based on terms in wikipedia:
     https://github.com/IlyaSemenov/wikipedia-word-frequency
 
-3. The ChatGPT API for clue generation:
-    https://platform.openai.com/docs/guides/chat
+3. Ollama and Phi4 for generating clues.
 
 4. The Dbnary project for etymology:
     http://kaiko.getalp.org/about-dbnary/download/
+
+8. Lin Wei's English Lemma Database: https://github.com/skywind3000/lemma.en/tree/master

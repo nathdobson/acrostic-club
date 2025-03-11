@@ -55,7 +55,7 @@ use crate::quote::add_quote;
 use crate::search::add_answers;
 // use crate::segment::add_letters;
 use crate::site::build_site;
-use crate::turtle::build_turtle;
+// use crate::turtle::build_turtle;
 
 pub mod dict;
 pub mod model;
@@ -67,7 +67,6 @@ pub mod trie_table;
 mod add_letters;
 mod banned;
 pub mod clues;
-pub mod conflict_set;
 pub mod llm;
 pub mod ontology;
 pub mod quote;
@@ -76,10 +75,13 @@ pub mod string;
 pub mod subseq;
 pub mod turtle;
 pub mod util;
+mod lemma;
+pub mod conflict_set;
 
 use crate::stream::StreamExt;
 use crate::util::interrupt::{CleanupSender, run_with_interrupts};
 use add_letters::add_letters;
+use crate::turtle::db::build_ontolex_turtle;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -142,7 +144,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             Some("dict") => build_dict().await?,
             Some("trie") => build_trie().await?,
             Some("site") => build_site().await?,
-            Some("turtle") => build_turtle().await?,
+            Some("turtle") => build_ontolex_turtle().await?,
             x => panic!("Unknown global target {:?}", x),
         },
         Some("puzzle") => {

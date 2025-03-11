@@ -1,19 +1,7 @@
-use crate::util::lazy_async::CloneError;
-use crate::PACKAGE_PATH;
-use rio_api::model::{Literal, Subject, Term};
-use rio_api::parser::TriplesParser;
-use rio_turtle::{TurtleError, TurtleParser};
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
-use safe_once_async::sync::AsyncLazyLock;
-use serde::Deserialize;
-use serde::Serialize;
+use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
-use std::collections::{BTreeSet, HashMap, HashSet};
+use std::collections::{HashMap, HashSet};
 use std::fmt::{Debug, Formatter};
-use std::sync::LazyLock;
-use std::{any, io};
-use tokio::fs;
-// use crate::util::lazy_async::LazyAsync;
 
 #[derive(Serialize, Deserialize)]
 pub struct Turtle {
@@ -31,40 +19,7 @@ pub struct TurtleIndex(u32);
 pub struct TurtleDebug<'a>(&'a Turtle, TurtleIndex);
 
 impl Turtle {
-    pub async fn new() -> anyhow::Result<Self> {
-        let ontolex = fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_ontolex.ttl")).await?;
-        let morphology =
-            fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_morphology.ttl")).await?;
-        let etymology =
-            fs::read_to_string(&PACKAGE_PATH.join("build/en_dbnary_etymology.ttl")).await?;
-        let mut triples = vec![];
-        for buffer in &[ontolex, morphology, etymology] {
-            let mut parser = TurtleParser::new(buffer.as_ref(), None);
-            parser.parse_all(&mut |t| {
-                let subject = match t.subject {
-                    Subject::NamedNode(node) => node.iri,
-                    Subject::BlankNode(x) => x.id,
-                    _ => panic!("{:?}", t.subject),
-                };
-                let predicate = t.predicate.iri;
-                let object = match t.object {
-                    Term::Literal(literal) => match literal {
-                        Literal::Simple { value } => value,
-                        Literal::LanguageTaggedString { value, language } => value,
-                        Literal::Typed { value, .. } => value,
-                    },
-                    Term::NamedNode(x) => x.iri,
-                    Term::BlankNode(x) => x.id,
-                    _ => panic!("{:?}", t.object),
-                };
-                triples.push((
-                    subject.to_string(),
-                    predicate.to_string(),
-                    object.to_string(),
-                ));
-                Ok(()) as Result<(), TurtleError>
-            })?;
-        }
+    pub fn new(triples: Vec<(String, String, String)>) -> anyhow::Result<Self> {
         let id_set = triples
             .iter()
             .flat_map(|(x, y, z)| [&**x, &**y, &**z].into_iter())
@@ -119,6 +74,9 @@ impl Turtle {
     pub fn get_reverse(&self, o: TurtleIndex, p: TurtleIndex) -> Vec<TurtleIndex> {
         self.reverse.get_edges(o, p)
     }
+    pub fn get_edges_by_predicate(&self, p: TurtleIndex) -> Vec<(TurtleIndex, TurtleIndex)> {
+        self.forward.get_edges_by_pred(p)
+    }
 }
 
 fn binary_search_range<A, B: Ord, F: FnMut(&A) -> B>(slice: &[A], pivot: B, mut get: F) -> &[A] {
@@ -150,27 +108,13 @@ impl EdgeList {
             .map(|(a, b, c)| *c)
             .collect()
     }
+    pub fn get_edges_by_pred(&self, pred: TurtleIndex) -> Vec<(TurtleIndex, TurtleIndex)> {
+        self.0
+            .iter()
+            .filter_map(|&(s, p, o)| (pred == p).then_some((s, o)))
+            .collect()
+    }
 }
-
-pub async fn build_turtle() -> anyhow::Result<()> {
-    let turtle = Turtle::new().await?;
-    fs::write(
-        PACKAGE_PATH.join("build/turtle.dat"),
-        bincode::serialize(&turtle)?,
-    )
-    .await?;
-    Ok(())
-}
-
-pub static TURTLE: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Turtle>>>> =
-    LazyLock::new(|| {
-        AsyncLazyLock::new(spawn_transparent(async move {
-            Ok(bincode::deserialize(
-                &fs::read(PACKAGE_PATH.join("build/turtle.dat")).await?,
-            )?)
-        }))
-    });
-
 impl<'a> Debug for TurtleDebug<'a> {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         let mut m = f.debug_map();
@@ -184,12 +128,6 @@ impl<'a> Debug for TurtleDebug<'a> {
         // }
         m.finish()
     }
-}
-
-#[tokio::test]
-async fn read_turtle2() -> anyhow::Result<()> {
-    TURTLE.get().await.clone_error()?;
-    Ok(())
 }
 
 #[test]
