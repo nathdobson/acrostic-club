@@ -6,43 +6,44 @@
   "clues": [
     {
       "clue": null,
-      "answer": "algeria",
-      "answer_letters": "ALGERIA",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
       "indices": [
-        125,
-        142,
-        53,
-        140,
-        135,
-        143,
-        79
+        79,
+        83,
+        42,
+        124,
+        16,
+        20,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "macbeth",
-      "answer_letters": "MACBETH",
+      "answer": "matthias",
+      "answer_letters": "MATTHIAS",
       "indices": [
-        102,
+        153,
         22,
-        34,
-        46,
-        29,
         26,
-        87
+        126,
+        7,
+        68,
+        71,
+        49
       ]
     },
     {
       "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "answer": "yields",
+      "answer_letters": "YIELDS",
       "indices": [
         160,
-        71,
-        98,
-        7,
-        126,
-        119
+        121,
+        94,
+        24,
+        113,
+        0
       ]
     },
     {
@@ -50,190 +51,189 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        11,
-        43,
+        28,
+        29,
         145,
-        68,
+        25,
         66,
         128
       ]
     },
     {
       "clue": null,
-      "answer": "almeida",
-      "answer_letters": "ALMEIDA",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
       "indices": [
-        92,
-        81,
-        8,
-        4,
-        25,
-        57,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nebula",
-      "answer_letters": "NEBULA",
-      "indices": [
-        130,
-        158,
-        72,
-        74,
-        99,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethical",
-      "answer_letters": "ETHICAL",
-      "indices": [
-        156,
-        105,
-        133,
-        51,
-        32,
-        61,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "caught",
-      "answer_letters": "CAUGHT",
-      "indices": [
-        17,
-        120,
-        148,
-        131,
-        95,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "happiness",
-      "answer_letters": "HAPPINESS",
-      "indices": [
-        50,
-        40,
-        149,
-        154,
-        129,
-        56,
-        134,
-        41,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affect",
-      "answer_letters": "AFFECT",
-      "indices": [
-        14,
-        137,
-        91,
-        63,
-        151,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "scroll",
-      "answer_letters": "SCROLL",
-      "indices": [
-        64,
-        59,
-        20,
-        1,
-        47,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        84,
-        93,
-        37,
-        106,
-        109,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isabel",
-      "answer_letters": "ISABEL",
-      "indices": [
-        101,
-        89,
-        31,
+        138,
+        102,
         108,
-        38,
-        155
+        6,
+        36,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
+      "answer": "nassau",
+      "answer_letters": "NASSAU",
       "indices": [
-        69,
-        82,
-        157,
-        3,
-        121,
+        56,
+        31,
+        77,
+        89,
+        100,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "engages",
+      "answer_letters": "ENGAGES",
+      "indices": [
+        96,
+        130,
+        131,
+        55,
+        53,
+        156,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "calling",
+      "answer_letters": "CALLING",
+      "indices": [
+        93,
+        120,
+        47,
+        159,
+        51,
         52,
         144
       ]
     },
     {
       "clue": null,
-      "answer": "sulawesi",
-      "answer_letters": "SULAWESI",
+      "answer": "habitat",
+      "answer_letters": "HABITAT",
       "indices": [
-        62,
-        48,
-        24,
+        60,
+        40,
+        72,
+        143,
+        105,
+        125,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "albedo",
+      "answer_letters": "ALBEDO",
+      "indices": [
+        14,
+        155,
+        46,
+        43,
+        122,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "steele",
+      "answer_letters": "STEELE",
+      "indices": [
+        64,
+        75,
+        38,
+        158,
+        142,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        84,
+        137,
+        91,
+        109,
+        151,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        129,
+        157,
+        50,
         10,
-        124,
-        96,
-        77,
-        88
+        59,
+        61
       ]
     },
     {
       "clue": null,
-      "answer": "howard",
-      "answer_letters": "HOWARD",
+      "answer": "nicole",
+      "answer_letters": "NICOLE",
       "indices": [
-        116,
-        19,
-        83,
-        138,
-        67,
-        122
+        69,
+        88,
+        98,
+        1,
+        99,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "assumes",
-      "answer_letters": "ASSUMES",
+      "answer": "schumacher",
+      "answer_letters": "SCHUMACHER",
+      "indices": [
+        119,
+        17,
+        116,
+        148,
+        8,
+        92,
+        32,
+        133,
+        4,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hip-hop",
+      "answer_letters": "HIPHOP",
+      "indices": [
+        3,
+        101,
+        149,
+        37,
+        152,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alcohol",
+      "answer_letters": "ALCOHOL",
       "indices": [
         111,
-        49,
-        0,
-        6,
-        153,
-        94,
-        36
+        11,
+        34,
+        82,
+        87,
+        106,
+        81
       ]
     },
     {
@@ -251,28 +251,28 @@
     },
     {
       "clue": null,
-      "answer": "o'clock",
-      "answer_letters": "OCLOCK",
+      "answer": "occurs",
+      "answer_letters": "OCCURS",
       "indices": [
-        152,
-        15,
-        80,
         73,
+        15,
         112,
-        42
+        74,
+        135,
+        41
       ]
     },
     {
       "clue": null,
-      "answer": "wealth",
-      "answer_letters": "WEALTH",
+      "answer": "welles",
+      "answer_letters": "WELLES",
       "indices": [
         78,
-        117,
-        16,
+        140,
+        80,
         12,
-        146,
-        60
+        117,
+        103
       ]
     }
   ],

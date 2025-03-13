@@ -6,31 +6,71 @@
   "clues": [
     {
       "clue": null,
-      "answer": "affairs",
-      "answer_letters": "AFFAIRS",
+      "answer": "anaheim",
+      "answer_letters": "ANAHEIM",
       "indices": [
         141,
-        92,
-        130,
+        72,
         117,
-        75,
-        36,
-        77
+        140,
+        115,
+        154,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "yokohama",
-      "answer_letters": "YOKOHAMA",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
         1,
         93,
-        106,
-        39,
+        35,
+        113,
         119,
-        9,
-        76,
-        33
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nonlinear",
+      "answer_letters": "NONLINEAR",
+      "indices": [
+        32,
+        129,
+        102,
+        79,
+        61,
+        68,
+        78,
+        48,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "revive",
+      "answer_letters": "REVIVE",
+      "indices": [
+        167,
+        37,
+        122,
+        158,
+        52,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assess",
+      "answer_letters": "ASSESS",
+      "indices": [
+        168,
+        162,
+        176,
+        123,
+        155,
+        151
       ]
     },
     {
@@ -38,81 +78,42 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        59,
-        53,
-        143,
+        25,
+        85,
+        171,
         74,
-        177,
+        83,
         101
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        173,
-        153,
-        22,
-        28,
-        132,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alonso",
-      "answer_letters": "ALONSO",
-      "indices": [
-        48,
-        42,
-        13,
-        65,
-        176,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nemesis",
-      "answer_letters": "NEMESIS",
-      "indices": [
-        126,
-        146,
-        57,
-        78,
-        90,
-        144,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "definite",
-      "answer_letters": "DEFINITE",
+      "answer": "dinner",
+      "answer_letters": "DINNER",
       "indices": [
         111,
-        11,
-        44,
-        87,
-        49,
         43,
-        89,
-        45
+        138,
+        49,
+        45,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "annette",
-      "answer_letters": "ANNETTE",
+      "answer": "annexation",
+      "answer_letters": "ANNEXATION",
       "indices": [
-        18,
-        25,
+        33,
         110,
-        161,
-        113,
-        21,
-        67
+        59,
+        146,
+        86,
+        18,
+        3,
+        133,
+        39,
+        65
       ]
     },
     {
@@ -120,171 +121,170 @@
       "answer": "themes",
       "answer_letters": "THEMES",
       "indices": [
-        3,
-        160,
-        121,
+        34,
+        82,
+        161,
         165,
-        51,
-        155
+        67,
+        77
       ]
     },
     {
       "clue": null,
-      "answer": "lawson",
-      "answer_letters": "LAWSON",
+      "answer": "likewise",
+      "answer_letters": "LIKEWISE",
       "indices": [
-        169,
-        168,
+        42,
+        120,
+        106,
+        53,
         137,
-        151,
-        175,
-        32
+        20,
+        104,
+        177
       ]
     },
     {
       "clue": null,
-      "answer": "achieve",
-      "answer_letters": "ACHIEVE",
+      "answer": "amphibians",
+      "answer_letters": "AMPHIBIANS",
       "indices": [
         64,
-        10,
+        76,
+        143,
         4,
         150,
-        85,
-        122,
-        83
+        0,
+        144,
+        9,
+        126,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "sheriff",
-      "answer_letters": "SHERIFF",
+      "answer": "sophie",
+      "answer_letters": "SOPHIE",
+      "indices": [
+        62,
+        175,
+        142,
+        132,
+        71,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shooters",
+      "answer_letters": "SHOOTERS",
       "indices": [
         148,
-        82,
-        17,
-        54,
-        20,
-        80,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "six-month",
-      "answer_letters": "SIXMONTH",
-      "indices": [
-        104,
-        120,
-        86,
-        47,
-        136,
-        102,
-        34,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "historia",
-      "answer_letters": "HISTORIA",
-      "indices": [
-        140,
-        154,
-        134,
+        153,
+        13,
+        166,
         163,
-        100,
-        167,
-        71,
+        5,
+        54,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "helena",
+      "answer_letters": "HELENA",
+      "indices": [
+        29,
+        51,
+        169,
+        17,
+        145,
         109
       ]
     },
     {
       "clue": null,
-      "answer": "rebels",
-      "answer_letters": "REBELS",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
         8,
-        107,
-        0,
-        123,
-        79,
+        160,
+        22,
+        21,
+        96,
+        57,
         98
       ]
     },
     {
       "clue": null,
-      "answer": "unhappy",
-      "answer_letters": "UNHAPPY",
+      "answer": "uplift",
+      "answer_letters": "UPLIFT",
       "indices": [
-        35,
-        68,
-        29,
+        172,
+        174,
+        19,
+        97,
+        80,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        159,
+        100,
+        89,
+        114,
+        105,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "godfather",
+      "answer_letters": "GODFATHER",
+      "indices": [
+        7,
+        136,
+        69,
+        40,
         24,
-        171,
-        142,
+        127,
+        157,
+        125,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efficacy",
+      "answer_letters": "EFFICACY",
+      "indices": [
+        11,
+        14,
+        44,
+        87,
+        10,
+        58,
+        118,
         55
       ]
     },
     {
       "clue": null,
-      "answer": "gunfire",
-      "answer_letters": "GUNFIRE",
-      "indices": [
-        159,
-        172,
-        145,
-        14,
-        97,
-        94,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gandhi",
-      "answer_letters": "GANDHI",
-      "indices": [
-        7,
-        105,
-        72,
-        69,
-        157,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elephants",
-      "answer_letters": "ELEPHANTS",
-      "indices": [
-        30,
-        19,
-        125,
-        174,
-        114,
-        58,
-        138,
-        127,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "discoveries",
-      "answer_letters": "DISCOVERIES",
+      "answer": "differs",
+      "answer_letters": "DIFFERS",
       "indices": [
         26,
-        133,
-        88,
-        118,
-        129,
-        52,
-        115,
-        16,
-        61,
-        5,
-        162
+        75,
+        92,
+        130,
+        107,
+        36,
+        88
       ]
     }
   ],

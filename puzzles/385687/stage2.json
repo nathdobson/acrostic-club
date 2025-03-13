@@ -6,301 +6,301 @@
   "clues": [
     {
       "clue": null,
-      "answer": "imposing",
-      "answer_letters": "IMPOSING",
+      "answer": "isotope",
+      "answer_letters": "ISOTOPE",
       "indices": [
-        13,
-        102,
-        31,
+        9,
+        121,
+        18,
+        160,
         65,
-        10,
-        45,
-        46,
-        151
+        59,
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "depths",
-      "answer_letters": "DEPTHS",
+      "answer": "distal",
+      "answer_letters": "DISTAL",
       "indices": [
         29,
-        36,
-        130,
-        73,
-        173,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "repeal",
-      "answer_letters": "REPEAL",
-      "indices": [
-        86,
-        87,
-        52,
-        104,
-        38,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "in-depth",
-      "answer_letters": "INDEPTH",
-      "indices": [
         115,
-        140,
-        141,
-        50,
-        56,
-        6,
-        100
+        177,
+        73,
+        85,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "enabling",
-      "answer_letters": "ENABLING",
+      "answer": "rebels",
+      "answer_letters": "REBELS",
       "indices": [
-        54,
-        2,
-        168,
-        89,
-        4,
+        39,
+        128,
+        42,
+        87,
+        114,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intense",
+      "answer_letters": "INTENSE",
+      "indices": [
         165,
-        116,
+        136,
+        6,
+        20,
+        124,
+        159,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embark",
+      "answer_letters": "EMBARK",
+      "indices": [
+        156,
+        145,
+        25,
+        90,
+        86,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sabbath",
+      "answer_letters": "SABBATH",
+      "indices": [
+        103,
+        111,
+        89,
+        0,
+        75,
+        67,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "string",
+      "answer_letters": "STRING",
+      "indices": [
+        143,
+        78,
+        119,
+        80,
+        46,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hapoel",
+      "answer_letters": "HAPOEL",
+      "indices": [
+        148,
+        95,
+        52,
+        26,
+        61,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aleppo",
+      "answer_letters": "ALEPPO",
+      "indices": [
+        113,
+        131,
+        57,
+        127,
+        49,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hoping",
+      "answer_letters": "HOPING",
+      "indices": [
+        173,
+        22,
+        56,
+        13,
+        81,
         47
       ]
     },
     {
       "clue": null,
-      "answer": "skeletons",
-      "answer_letters": "SKELETONS",
+      "answer": "retaining",
+      "answer_letters": "RETAINING",
       "indices": [
-        121,
-        14,
-        107,
-        169,
-        132,
-        67,
-        144,
-        162,
-        103
+        157,
+        36,
+        122,
+        135,
+        5,
+        140,
+        149,
+        166,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "saratoga",
-      "answer_letters": "SARATOGA",
+      "answer": "envelope",
+      "answer_letters": "ENVELOPE",
       "indices": [
-        143,
-        3,
-        119,
-        92,
+        104,
+        70,
+        106,
+        101,
+        105,
+        51,
+        34,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "flyweight",
+      "answer_letters": "FLYWEIGHT",
+      "indices": [
+        138,
+        170,
+        7,
+        63,
+        158,
+        45,
+        82,
+        100,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "labels",
+      "answer_letters": "LABELS",
+      "indices": [
+        53,
+        38,
+        110,
+        32,
+        35,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entertained",
+      "answer_letters": "ENTERTAINED",
+      "indices": [
+        15,
+        2,
+        117,
+        40,
+        19,
         172,
-        22,
-        163,
-        113
+        3,
+        69,
+        116,
+        28,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "helped",
-      "answer_letters": "HELPED",
+      "answer": "client",
+      "answer_letters": "CLIENT",
       "indices": [
+        134,
+        4,
+        161,
+        54,
+        154,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "taller",
+      "answer_letters": "TALLER",
+      "indices": [
+        76,
+        1,
+        93,
+        169,
+        118,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "imminent",
+      "answer_letters": "IMMINENT",
+      "indices": [
+        139,
+        23,
+        102,
+        174,
+        112,
+        120,
+        91,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orphan",
+      "answer_letters": "ORPHAN",
+      "indices": [
+        43,
+        44,
+        31,
+        64,
+        168,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neighborhood",
+      "answer_letters": "NEIGHBORHOOD",
+      "indices": [
+        162,
+        132,
+        123,
+        151,
+        79,
+        17,
+        129,
+        96,
         74,
-        61,
-        114,
-        49,
-        128,
+        58,
+        144,
         21
       ]
     },
     {
       "clue": null,
-      "answer": "all-big",
-      "answer_letters": "ALLBIG",
-      "indices": [
-        95,
-        131,
-        60,
-        25,
-        5,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hooker",
-      "answer_letters": "HOOKER",
-      "indices": [
-        79,
-        33,
-        26,
-        71,
-        57,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rebirth",
-      "answer_letters": "REBIRTH",
-      "indices": [
-        157,
-        20,
-        42,
-        174,
-        19,
-        122,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emerge",
-      "answer_letters": "EMERGE",
-      "indices": [
-        101,
-        23,
-        97,
-        27,
-        125,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fabian",
-      "answer_letters": "FABIAN",
-      "indices": [
-        138,
-        90,
-        17,
-        149,
-        1,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-level",
-      "answer_letters": "LOWLEVEL",
-      "indices": [
-        170,
-        51,
-        63,
-        53,
-        32,
-        106,
-        156,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enables",
-      "answer_letters": "ENABLES",
-      "indices": [
-        15,
-        166,
-        135,
-        110,
-        12,
-        40,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "christi",
-      "answer_letters": "CHRISTI",
-      "indices": [
-        134,
-        68,
-        44,
-        69,
-        108,
-        78,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "topping",
-      "answer_letters": "TOPPING",
-      "indices": [
-        147,
-        18,
-        34,
-        59,
-        80,
-        175,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "innate",
-      "answer_letters": "INNATE",
-      "indices": [
-        139,
-        112,
-        91,
-        85,
-        155,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ornamentation",
-      "answer_letters": "ORNAMENTATION",
-      "indices": [
-        43,
-        96,
-        81,
-        111,
-        145,
-        118,
-        70,
-        99,
-        75,
-        76,
-        161,
-        129,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nobility",
-      "answer_letters": "NOBILITY",
-      "indices": [
-        150,
-        58,
-        0,
-        9,
-        93,
-        123,
-        160,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stephen",
-      "answer_letters": "STEPHEN",
+      "answer": "speaking",
+      "answer_letters": "SPEAKING",
       "indices": [
         83,
-        117,
-        28,
-        127,
-        64,
+        130,
         146,
-        136
+        92,
+        71,
+        153,
+        175,
+        176
       ]
     }
   ],

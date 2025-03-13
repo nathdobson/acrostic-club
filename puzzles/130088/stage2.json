@@ -6,15 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "either",
-      "answer_letters": "EITHER",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
       "indices": [
-        23,
-        49,
-        128,
-        110,
-        163,
-        58
+        84,
+        72,
+        16,
+        39,
+        161,
+        132,
+        93
       ]
     },
     {
@@ -22,141 +23,136 @@
       "answer": "rhodes",
       "answer_letters": "RHODES",
       "indices": [
-        177,
+        67,
         135,
-        56,
+        71,
         121,
-        157,
-        169
+        76,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "insists",
-      "answer_letters": "INSISTS",
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
       "indices": [
-        3,
-        40,
-        104,
         114,
-        37,
-        166,
+        104,
+        18,
+        86,
+        31,
+        73,
+        119,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "confederates",
+      "answer_letters": "CONFEDERATES",
+      "indices": [
+        50,
+        44,
+        40,
+        100,
+        81,
+        164,
+        125,
+        177,
+        26,
+        137,
+        28,
         102
       ]
     },
     {
       "clue": null,
-      "answer": "chiefly",
-      "answer_letters": "CHIEFLY",
+      "answer": "matthews",
+      "answer_letters": "MATTHEWS",
       "indices": [
-        50,
-        48,
-        98,
-        125,
-        100,
-        147,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "moments",
-      "answer_letters": "MOMENTS",
-      "indices": [
-        27,
-        18,
-        10,
-        81,
-        112,
+        159,
+        11,
         83,
+        166,
+        176,
+        54,
+        131,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "impetus",
-      "answer_letters": "IMPETUS",
+      "answer": "insisted",
+      "answer_letters": "INSISTED",
       "indices": [
+        148,
+        92,
+        115,
         7,
-        159,
-        156,
-        63,
+        169,
         109,
-        15,
-        85
+        96,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "answer": "chinese",
+      "answer_letters": "CHINESE",
       "indices": [
         70,
-        71,
-        89,
-        5,
-        54,
-        119
+        48,
+        3,
+        112,
+        157,
+        85,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "highways",
-      "answer_letters": "HIGHWAYS",
+      "answer": "hottest",
+      "answer_letters": "HOTTEST",
       "indices": [
-        51,
-        139,
-        123,
-        132,
-        53,
-        39,
-        93,
-        142
+        170,
+        178,
+        151,
+        162,
+        111,
+        34,
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "awesome",
-      "answer_letters": "AWESOME",
+      "answer": "amenities",
+      "answer_letters": "AMENITIES",
       "indices": [
         91,
-        47,
-        68,
-        34,
-        178,
         107,
-        145
+        68,
+        30,
+        49,
+        38,
+        139,
+        145,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
+      "answer": "employees",
+      "answer_letters": "EMPLOYEES",
       "indices": [
         13,
-        45,
-        19,
+        10,
+        156,
+        97,
+        74,
+        103,
         122,
-        41,
-        21,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lighthouse",
-      "answer_letters": "LIGHTHOUSE",
-      "indices": [
-        2,
-        160,
-        149,
-        80,
-        38,
-        170,
-        167,
-        57,
-        140,
-        173
+        4,
+        75
       ]
     },
     {
@@ -164,132 +160,136 @@
       "answer": "lobbied",
       "answer_letters": "LOBBIED",
       "indices": [
-        97,
-        44,
+        2,
+        167,
         0,
         36,
-        171,
-        1,
+        160,
+        173,
         77
       ]
     },
     {
       "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        99,
-        16,
-        153,
-        79,
-        118,
-        60,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "venice",
-      "answer_letters": "VENICE",
-      "indices": [
-        62,
-        4,
-        172,
-        133,
-        134,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enterprises",
-      "answer_letters": "ENTERPRISES",
-      "indices": [
-        106,
-        92,
-        175,
-        76,
-        124,
-        73,
-        67,
-        148,
-        59,
-        96,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        32,
-        129,
-        158,
-        151,
-        22,
-        131,
-        111,
-        8,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thomson",
-      "answer_letters": "THOMSON",
-      "indices": [
-        117,
-        181,
-        74,
-        72,
-        75,
-        88,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "head-to-head",
-      "answer_letters": "HEADTOHEAD",
-      "indices": [
-        176,
-        28,
-        11,
-        12,
-        86,
-        31,
-        138,
-        126,
-        26,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "august",
-      "answer_letters": "AUGUST",
-      "indices": [
-        143,
-        179,
-        180,
-        35,
-        64,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lambeth",
-      "answer_letters": "LAMBETH",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
         61,
+        1,
+        181,
+        171,
+        149,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        99,
+        45,
+        19,
+        60,
+        41,
+        79,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "vacuum",
+      "answer_letters": "VACUUM",
+      "indices": [
+        62,
         66,
-        144,
+        134,
+        35,
+        57,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        106,
+        89,
+        5,
+        56,
+        124,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        172,
+        23,
+        53,
+        21,
+        88,
+        47,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theirs",
+      "answer_letters": "THEIRS",
+      "indices": [
+        128,
+        80,
+        163,
+        133,
+        158,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "higher",
+      "answer_letters": "HIGHER",
+      "indices": [
+        138,
+        98,
+        180,
+        118,
+        126,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
+      "indices": [
+        143,
+        27,
         95,
-        42,
-        161,
+        15,
+        64,
         150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
+      "indices": [
+        147,
+        153,
+        123,
+        110,
+        105,
+        22,
+        129,
+        179,
+        8,
+        42
       ]
     }
   ],

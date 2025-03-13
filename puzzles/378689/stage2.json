@@ -6,44 +6,47 @@
   "clues": [
     {
       "clue": null,
-      "answer": "ancient",
-      "answer_letters": "ANCIENT",
+      "answer": "alphabet",
+      "answer_letters": "ALPHABET",
       "indices": [
+        3,
+        101,
+        158,
+        124,
         20,
-        26,
-        61,
-        59,
-        133,
-        181,
-        179
+        78,
+        29,
+        46
       ]
     },
     {
       "clue": null,
-      "answer": "neptune",
-      "answer_letters": "NEPTUNE",
+      "answer": "netted",
+      "answer_letters": "NETTED",
       "indices": [
         97,
         186,
-        142,
-        54,
-        168,
-        153,
-        63
+        115,
+        187,
+        63,
+        49
       ]
     },
     {
       "clue": null,
-      "answer": "neither",
-      "answer_letters": "NEITHER",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
       "indices": [
         120,
-        109,
-        127,
-        18,
-        40,
-        104,
-        100
+        79,
+        100,
+        80,
+        170,
+        31,
+        85,
+        4,
+        73,
+        116
       ]
     },
     {
@@ -51,192 +54,66 @@
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
-        27,
-        156,
+        169,
+        40,
         98,
-        80,
-        73,
-        85
+        34,
+        183,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "inhabitants",
-      "answer_letters": "INHABITANTS",
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
       "indices": [
-        108,
-        64,
-        166,
+        127,
+        154,
+        156,
         172,
-        78,
-        25,
-        115,
-        119,
-        21,
-        187,
-        178
+        128,
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "methodist",
-      "answer_letters": "METHODIST",
+      "answer": "monkey",
+      "answer_letters": "MONKEY",
       "indices": [
         105,
-        162,
-        34,
-        124,
-        141,
-        95,
-        72,
-        31,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pockets",
-      "answer_letters": "POCKETS",
-      "indices": [
-        106,
         182,
-        128,
+        153,
         58,
-        48,
-        154,
-        43
+        162,
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "elisabeth",
-      "answer_letters": "ELISABETH",
+      "answer": "patient",
+      "answer_letters": "PATIENT",
       "indices": [
-        32,
-        175,
-        112,
-        5,
-        3,
-        0,
-        29,
-        126,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lafayette",
-      "answer_letters": "LAFAYETTE",
-      "indices": [
-        30,
-        76,
-        132,
-        51,
-        185,
-        1,
-        107,
-        66,
-        143
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elephant",
-      "answer_letters": "ELEPHANT",
-      "indices": [
-        176,
-        101,
-        41,
-        158,
-        150,
+        142,
         90,
-        17,
-        52
+        52,
+        108,
+        48,
+        64,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        177,
-        47,
-        81,
-        170,
-        79,
-        4,
-        169,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
-      "indices": [
-        148,
-        35,
+        6,
+        106,
+        72,
         135,
-        24,
-        70,
-        11,
-        140,
-        151,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tweeted",
-      "answer_letters": "TWEETED",
-      "indices": [
-        123,
-        14,
-        160,
-        130,
-        46,
-        12,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
-      "indices": [
-        55,
-        121,
-        102,
-        163,
-        93,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "spotted",
-      "answer_letters": "SPOTTED",
-      "indices": [
-        16,
-        159,
-        38,
-        45,
-        165,
-        56,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bethel",
-      "answer_letters": "BETHEL",
-      "indices": [
-        68,
-        117,
-        173,
-        9,
-        83,
-        82
+        166,
+        32,
+        123
       ]
     },
     {
@@ -244,59 +121,182 @@
       "answer": "left-handed",
       "answer_letters": "LEFTHANDED",
       "indices": [
+        30,
+        1,
+        131,
+        113,
+        9,
+        15,
+        17,
+        152,
+        143,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "esoteric",
+      "answer_letters": "ESOTERIC",
+      "indices": [
+        176,
+        43,
+        35,
+        126,
+        41,
+        148,
+        25,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attested",
+      "answer_letters": "ATTESTED",
+      "indices": [
+        177,
+        81,
+        18,
+        109,
+        178,
+        54,
+        104,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "re-established",
+      "answer_letters": "REESTABLISHED",
+      "indices": [
+        11,
+        133,
+        70,
+        5,
+        45,
+        151,
+        0,
         69,
-        89,
-        86,
-        8,
-        62,
-        67,
-        161,
-        49,
-        6,
+        112,
+        16,
+        150,
+        160,
         37
       ]
     },
     {
       "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
+      "answer": "techno",
+      "answer_letters": "TECHNO",
+      "indices": [
+        165,
+        130,
+        2,
+        62,
+        21,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "healthy",
+      "answer_letters": "HEALTHY",
+      "indices": [
+        137,
+        12,
+        93,
+        175,
+        173,
+        24,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stealth",
+      "answer_letters": "STEALTH",
+      "indices": [
+        122,
+        107,
+        121,
+        76,
+        82,
+        66,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "beheaded",
+      "answer_letters": "BEHEADED",
+      "indices": [
+        68,
+        56,
+        55,
+        117,
+        51,
+        144,
+        83,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        47,
+        168,
+        86,
+        179,
+        14,
+        67,
+        132,
+        146,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opening",
+      "answer_letters": "OPENING",
       "indices": [
         167,
-        113,
-        23,
-        15,
-        71,
-        99
+        159,
+        125,
+        26,
+        59,
+        181,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "offences",
-      "answer_letters": "OFFENCES",
+      "answer": "one-way",
+      "answer_letters": "ONEWAY",
       "indices": [
         147,
-        146,
-        131,
+        161,
         10,
-        94,
-        2,
-        125,
-        122
+        71,
+        99,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "detached",
-      "answer_letters": "DETACHED",
+      "answer": "detachment",
+      "answer_letters": "DETACHMENT",
       "indices": [
-        91,
+        110,
         44,
-        60,
+        23,
         157,
         134,
         74,
+        88,
         138,
-        110
+        94,
+        60
       ]
     }
   ],

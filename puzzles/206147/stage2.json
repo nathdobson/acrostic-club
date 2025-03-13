@@ -6,123 +6,124 @@
   "clues": [
     {
       "clue": null,
-      "answer": "showing",
-      "answer_letters": "SHOWING",
+      "answer": "sheriff",
+      "answer_letters": "SHERIFF",
       "indices": [
-        163,
-        83,
-        145,
-        80,
-        31,
-        156,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "takeoff",
-      "answer_letters": "TAKEOFF",
-      "indices": [
-        82,
-        1,
-        9,
-        69,
-        86,
-        144,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "esther",
-      "answer_letters": "ESTHER",
-      "indices": [
-        151,
         24,
-        14,
         171,
-        52,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "valuable",
-      "answer_letters": "VALUABLE",
-      "indices": [
-        45,
-        74,
-        6,
-        103,
-        133,
-        64,
-        165,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        164,
-        92,
-        59,
-        49,
+        151,
         106,
-        33
+        31,
+        59,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "nikola",
-      "answer_letters": "NIKOLA",
+      "answer": "toilet",
+      "answer_letters": "TOILET",
+      "indices": [
+        14,
+        145,
+        35,
+        27,
+        52,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embark",
+      "answer_letters": "EMBARK",
+      "indices": [
+        53,
+        25,
+        153,
+        1,
+        162,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "verify",
+      "answer_letters": "VERIFY",
+      "indices": [
+        2,
+        95,
+        125,
+        3,
+        136,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eduardo",
+      "answer_letters": "EDUARDO",
+      "indices": [
+        69,
+        0,
+        41,
+        20,
+        61,
+        4,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neuronal",
+      "answer_letters": "NEURONAL",
+      "indices": [
+        134,
+        138,
+        103,
+        146,
+        57,
+        21,
+        128,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mathews",
+      "answer_letters": "MATHEWS",
+      "indices": [
+        143,
+        133,
+        174,
+        16,
+        126,
+        168,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        13,
+        96,
+        157,
+        43,
+        63,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notice",
+      "answer_letters": "NOTICE",
       "indices": [
         71,
-        169,
-        111,
-        97,
-        75,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "melody",
-      "answer_letters": "MELODY",
-      "indices": [
-        58,
-        95,
-        54,
-        7,
-        11,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "arroyo",
-      "answer_letters": "ARROYO",
-      "indices": [
-        128,
-        146,
-        88,
-        142,
-        120,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nebula",
-      "answer_letters": "NEBULA",
-      "indices": [
-        77,
-        17,
-        94,
-        107,
-        139,
-        63
+        8,
+        62,
+        155,
+        56,
+        90
       ]
     },
     {
@@ -132,24 +133,118 @@
       "indices": [
         141,
         60,
-        168,
-        68,
+        80,
+        149,
         113,
         39
       ]
     },
     {
       "clue": null,
-      "answer": "halfway",
-      "answer_letters": "HALFWAY",
+      "answer": "hybrid",
+      "answer_letters": "HYBRID",
+      "indices": [
+        83,
+        85,
+        68,
+        18,
+        70,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        78,
+        54,
+        75,
+        81,
+        102,
+        33,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stefano",
+      "answer_letters": "STEFANO",
+      "indices": [
+        163,
+        105,
+        137,
+        92,
+        44,
+        36,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toulon",
+      "answer_letters": "TOULON",
+      "indices": [
+        48,
+        160,
+        107,
+        139,
+        173,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embarked",
+      "answer_letters": "EMBARKED",
+      "indices": [
+        66,
+        58,
+        94,
+        124,
+        88,
+        111,
+        28,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rudolf",
+      "answer_letters": "RUDOLF",
+      "indices": [
+        177,
+        87,
+        130,
+        86,
+        65,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cookie",
+      "answer_letters": "COOKIE",
+      "indices": [
+        132,
+        7,
+        142,
+        37,
+        169,
+        176
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
       "indices": [
         34,
-        148,
-        27,
-        96,
-        116,
-        20,
-        85
+        118,
+        165,
+        91,
+        97,
+        116
       ]
     },
     {
@@ -157,160 +252,65 @@
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
-        137,
-        36,
-        173,
-        41,
-        72,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seldom",
-      "answer_letters": "SELDOM",
-      "indices": [
-        89,
-        176,
-        108,
-        4,
-        160,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tender",
-      "answer_letters": "TENDER",
-      "indices": [
-        105,
-        66,
-        21,
-        130,
-        28,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evident",
-      "answer_letters": "EVIDENT",
-      "indices": [
-        126,
-        2,
-        70,
-        0,
-        138,
-        134,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rebuilt",
-      "answer_letters": "REBUILT",
-      "indices": [
-        177,
-        53,
-        153,
-        87,
-        35,
-        65,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "coined",
-      "answer_letters": "COINED",
-      "indices": [
-        132,
-        40,
-        81,
-        112,
         10,
-        22
+        77,
+        76,
+        161,
+        72,
+        175
       ]
     },
     {
       "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
-      "indices": [
-        16,
-        90,
-        109,
-        29,
-        44,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emilia",
-      "answer_letters": "EMILIA",
-      "indices": [
-        46,
-        143,
-        3,
-        91,
-        155,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "suffolk",
-      "answer_letters": "SUFFOLK",
+      "answer": "subway",
+      "answer_letters": "SUBWAY",
       "indices": [
         178,
         122,
-        166,
-        136,
-        76,
-        150,
-        37
+        64,
+        114,
+        74,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "two-hour",
-      "answer_letters": "TWOHOUR",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
         147,
-        114,
-        8,
         117,
-        57,
-        161,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
-      "indices": [
         99,
-        62,
-        175,
-        129,
-        26,
-        56
+        120,
+        45,
+        154
       ]
     },
     {
       "clue": null,
-      "answer": "roberto",
-      "answer_letters": "ROBERTO",
+      "answer": "enfield",
+      "answer_letters": "ENFIELD",
       "indices": [
-        18,
-        102,
-        149,
-        78,
-        61,
-        48,
-        121
+        46,
+        129,
+        166,
+        26,
+        17,
+        150,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "royale",
+      "answer_letters": "ROYALE",
+      "indices": [
+        98,
+        121,
+        159,
+        148,
+        108,
+        164
       ]
     }
   ],

@@ -6,77 +6,87 @@
   "clues": [
     {
       "clue": null,
-      "answer": "abolished",
-      "answer_letters": "ABOLISHED",
+      "answer": "albrecht",
+      "answer_letters": "ALBRECHT",
       "indices": [
         86,
+        43,
         70,
-        45,
-        58,
-        164,
-        46,
+        0,
+        28,
+        99,
         111,
-        84,
-        161
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "sketches",
-      "answer_letters": "SKETCHES",
+      "answer": "sympathetic",
+      "answer_letters": "SYMPATHETIC",
       "indices": [
-        91,
-        5,
-        35,
-        63,
-        85,
+        76,
+        148,
+        133,
+        139,
+        29,
+        135,
         34,
-        115,
-        76
+        178,
+        171,
+        101,
+        55
       ]
     },
     {
       "clue": null,
-      "answer": "artery",
-      "answer_letters": "ARTERY",
+      "answer": "adhere",
+      "answer_letters": "ADHERE",
       "indices": [
-        140,
-        144,
-        33,
-        37,
-        65,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laughs",
-      "answer_letters": "LAUGHS",
-      "indices": [
-        158,
         124,
-        109,
-        182,
-        56,
-        31
+        161,
+        114,
+        89,
+        144,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "achievement",
-      "answer_letters": "ACHIEVEMENT",
+      "answer": "leicestershire",
+      "answer_letters": "LEICESTERSHIRE",
+      "indices": [
+        58,
+        84,
+        180,
+        141,
+        154,
+        31,
+        150,
+        132,
+        65,
+        46,
+        56,
+        164,
+        81,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "accelerated",
+      "answer_letters": "ACCELERATED",
       "indices": [
         59,
         121,
-        62,
-        180,
+        110,
         126,
-        79,
+        159,
         123,
-        44,
+        100,
+        9,
+        49,
         142,
-        169,
-        49
+        127
       ]
     },
     {
@@ -85,11 +95,28 @@
       "answer_letters": "ROBBIE",
       "indices": [
         36,
-        151,
+        106,
         83,
         73,
-        101,
-        177
+        157,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "season-high",
+      "answer_letters": "SEASONHIGH",
+      "indices": [
+        13,
+        160,
+        6,
+        113,
+        78,
+        130,
+        23,
+        67,
+        20,
+        92
       ]
     },
     {
@@ -97,188 +124,161 @@
       "answer": "schumacher",
       "answer_letters": "SCHUMACHER",
       "indices": [
-        13,
-        99,
-        16,
-        19,
-        133,
-        129,
-        4,
-        23,
-        102,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "schedules",
-      "answer_letters": "SCHEDULES",
-      "indices": [
         138,
-        141,
+        4,
         172,
-        93,
-        147,
-        54,
-        74,
-        160,
-        105
+        71,
+        44,
+        118,
+        85,
+        16,
+        145,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
+      "answer": "overdose",
+      "answer_letters": "OVERDOSE",
       "indices": [
+        51,
+        79,
+        35,
+        122,
+        147,
         18,
-        60,
-        171,
-        176,
-        8,
-        106,
+        88,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        181,
+        102,
+        134,
+        166,
+        173,
         163
       ]
     },
     {
       "clue": null,
-      "answer": "neighborhood",
-      "answer_letters": "NEIGHBORHOOD",
-      "indices": [
-        181,
-        178,
-        67,
-        11,
-        92,
-        72,
-        78,
-        174,
-        166,
-        170,
-        51,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "steeplechase",
-      "answer_letters": "STEEPLECHASE",
+      "answer": "shifts",
+      "answer_letters": "SHIFTS",
       "indices": [
         119,
-        150,
-        28,
-        24,
-        134,
-        43,
-        145,
-        110,
         12,
-        42,
-        97,
-        75
+        39,
+        176,
+        63,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "upstream",
-      "answer_letters": "UPSTREAM",
+      "answer": "usable",
+      "answer_letters": "USABLE",
       "indices": [
         87,
-        139,
-        113,
-        27,
-        30,
-        173,
-        6,
-        108
+        91,
+        96,
+        72,
+        8,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "nearby",
-      "answer_letters": "NEARBY",
+      "answer": "nebula",
+      "answer_letters": "NEBULA",
       "indices": [
-        130,
-        64,
-        146,
-        25,
+        169,
+        93,
         2,
-        148
+        19,
+        179,
+        129
       ]
     },
     {
       "clue": null,
-      "answer": "slaughtered",
-      "answer_letters": "SLAUGHTERED",
+      "answer": "self-taught",
+      "answer_letters": "SELFTAUGHT",
       "indices": [
         40,
-        159,
-        9,
+        1,
+        158,
+        156,
+        165,
+        140,
         10,
         61,
-        114,
-        165,
-        1,
-        100,
-        89,
-        127
+        62,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "thatcher",
-      "answer_letters": "THATCHER",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
       "indices": [
-        15,
+        68,
         117,
-        96,
-        135,
-        55,
+        170,
+        60,
+        11,
         95,
-        80,
-        122
+        125
       ]
     },
     {
       "clue": null,
-      "answer": "orbital",
-      "answer_letters": "ORBITAL",
+      "answer": "outbreaks",
+      "answer_letters": "OUTBREAKS",
       "indices": [
         50,
-        0,
+        54,
+        15,
         153,
-        39,
-        47,
-        118,
-        179
+        174,
+        75,
+        146,
+        5,
+        105
       ]
     },
     {
       "clue": null,
-      "answer": "refugee",
-      "answer_letters": "REFUGEE",
+      "answer": "regulatory",
+      "answer_letters": "REGULATORY",
       "indices": [
-        81,
-        154,
-        156,
-        71,
-        20,
-        132,
-        3
+        25,
+        24,
+        182,
+        109,
+        74,
+        42,
+        27,
+        45,
+        17,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "matthias",
-      "answer_letters": "MATTHIAS",
+      "answer": "mohamed",
+      "answer_letters": "MOHAMED",
       "indices": [
-        53,
-        29,
-        68,
-        125,
+        108,
+        151,
         21,
-        157,
         168,
-        88
+        53,
+        177,
+        103
       ]
     }
   ],

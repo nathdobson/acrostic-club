@@ -6,76 +6,215 @@
   "clues": [
     {
       "clue": null,
-      "answer": "muzzle",
-      "answer_letters": "MUZZLE",
+      "answer": "mackenzie",
+      "answer_letters": "MACKENZIE",
       "indices": [
-        161,
-        105,
+        118,
+        123,
+        44,
+        92,
+        67,
+        41,
         101,
-        2,
-        75,
-        61
+        102,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "utilization",
-      "answer_letters": "UTILIZATION",
+      "answer": "unlike",
+      "answer_letters": "UNLIKE",
       "indices": [
-        18,
-        39,
-        162,
-        14,
-        143,
-        100,
-        139,
-        65,
-        88,
-        13,
-        34
+        105,
+        34,
+        124,
+        154,
+        134,
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "provoked",
-      "answer_letters": "PROVOKED",
+      "answer": "puzzles",
+      "answer_letters": "PUZZLES",
       "indices": [
         23,
-        62,
-        99,
-        109,
-        29,
-        134,
-        159,
-        144
+        148,
+        3,
+        100,
+        75,
+        77,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "password",
-      "answer_letters": "PASSWORD",
+      "answer": "pitchfork",
+      "answer_letters": "PITCHFORK",
       "indices": [
         19,
-        9,
-        63,
-        129,
-        153,
-        59,
-        111,
-        15
+        162,
+        26,
+        47,
+        115,
+        30,
+        147,
+        160,
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "entire",
-      "answer_letters": "ENTIRE",
+      "answer": "elizabeth",
+      "answer_letters": "ELIZABETH",
       "indices": [
         5,
-        41,
+        83,
+        52,
+        2,
+        21,
+        7,
+        126,
+        36,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-hour",
+      "answer_letters": "TWOHOUR",
+      "indices": [
         89,
+        137,
+        85,
+        45,
+        55,
+        56,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "smooth",
+      "answer_letters": "SMOOTH",
+      "indices": [
+        16,
+        69,
+        27,
+        151,
+        50,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "module",
+      "answer_letters": "MODULE",
+      "indices": [
+        95,
+        84,
+        150,
+        18,
+        14,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overthrow",
+      "answer_letters": "OVERTHROW",
+      "indices": [
+        25,
+        109,
+        8,
+        62,
+        57,
+        81,
+        10,
+        108,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "schoolteacher",
+      "answer_letters": "SCHOOLTEACHER",
+      "indices": [
+        35,
+        107,
+        130,
+        99,
+        29,
+        120,
+        76,
+        42,
+        74,
+        32,
+        156,
+        61,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theorists",
+      "answer_letters": "THEORISTS",
+      "indices": [
+        97,
+        12,
+        116,
+        80,
+        131,
+        4,
+        135,
+        155,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wiltshire",
+      "answer_letters": "WILTSHIRE",
+      "indices": [
+        122,
+        132,
+        71,
+        125,
+        53,
+        138,
+        40,
+        78,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "avoids",
+      "answer_letters": "AVOIDS",
+      "indices": [
+        37,
+        60,
+        119,
         96,
+        15,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
+      "indices": [
+        106,
+        70,
+        140,
+        133,
+        73,
+        33,
         94,
-        126
+        114,
+        66,
+        146
       ]
     },
     {
@@ -83,182 +222,43 @@
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
-        114,
-        37,
-        86,
-        133,
-        85,
-        30,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sketches",
-      "answer_letters": "SKETCHES",
-      "indices": [
-        135,
-        92,
-        67,
-        50,
-        44,
-        12,
-        103,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "motorized",
-      "answer_letters": "MOTORIZED",
-      "indices": [
-        95,
-        84,
-        26,
-        147,
-        160,
-        154,
-        3,
-        46,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "o'clock",
-      "answer_letters": "OCLOCK",
-      "indices": [
-        25,
-        107,
-        120,
-        108,
-        32,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
-      "indices": [
-        16,
-        81,
-        42,
-        4,
-        158,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
-      "indices": [
-        97,
-        138,
-        8,
-        146,
-        60,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "woolwich",
-      "answer_letters": "WOOLWICH",
-      "indices": [
-        73,
-        27,
-        151,
-        71,
-        137,
-        132,
-        58,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "automobiles",
-      "answer_letters": "AUTOMOBILES",
-      "indices": [
-        123,
-        148,
-        155,
-        80,
-        118,
-        119,
-        7,
-        40,
-        83,
-        93,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "north-south",
-      "answer_letters": "NORTHSOUTH",
-      "indices": [
-        38,
-        70,
-        78,
-        125,
-        45,
-        112,
-        33,
-        56,
-        140,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thatcher",
-      "answer_letters": "THATCHER",
-      "indices": [
-        76,
-        130,
-        74,
-        57,
-        47,
-        156,
-        72,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "erstwhile",
-      "answer_letters": "ERSTWHILE",
-      "indices": [
-        77,
-        10,
-        35,
         163,
-        122,
-        115,
-        102,
-        124,
-        121
+        9,
+        48,
+        72,
+        59,
+        0,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "deformation",
-      "answer_letters": "DEFORMATION",
+      "answer": "estimation",
+      "answer_letters": "ESTIMATION",
       "indices": [
-        142,
-        110,
-        98,
-        55,
-        127,
-        69,
-        21,
-        36,
-        52,
+        121,
+        129,
+        39,
+        143,
+        161,
+        139,
+        65,
+        88,
+        13,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "docked",
+      "answer_letters": "DOCKED",
+      "indices": [
+        144,
         1,
-        106
+        58,
+        86,
+        110,
+        142
       ]
     }
   ],

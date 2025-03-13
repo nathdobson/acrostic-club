@@ -6,89 +6,30 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mohammed",
-      "answer_letters": "MOHAMMED",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
       "indices": [
-        161,
-        31,
-        4,
-        132,
         83,
-        169,
-        7,
-        79
+        11,
+        142,
+        57,
+        41,
+        48,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "entirely",
-      "answer_letters": "ENTIRELY",
+      "answer": "ernesto",
+      "answer_letters": "ERNESTO",
       "indices": [
-        147,
-        118,
-        40,
-        27,
-        131,
         107,
-        65,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
-      "indices": [
-        64,
-        106,
+        33,
         89,
-        90,
-        175,
-        10,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
-        23,
-        69,
+        7,
+        128,
         149,
-        116,
-        2,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "donovan",
-      "answer_letters": "DONOVAN",
-      "indices": [
-        155,
-        166,
-        105,
-        93,
-        6,
-        153,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yesterday",
-      "answer_letters": "YESTERDAY",
-      "indices": [
-        92,
-        144,
-        113,
-        73,
-        37,
-        102,
-        126,
-        55,
-        170
+        93
       ]
     },
     {
@@ -96,180 +37,239 @@
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
-        22,
-        15,
-        136,
-        111,
-        63,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "erstwhile",
-      "answer_letters": "ERSTWHILE",
-      "indices": [
-        122,
-        87,
-        38,
-        9,
-        18,
-        41,
-        115,
         135,
-        134
+        132,
+        67,
+        97,
+        63,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "eponymous",
-      "answer_letters": "EPONYMOUS",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        139,
+        167,
+        14,
+        163,
+        35,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "daylight",
+      "answer_letters": "DAYLIGHT",
+      "indices": [
+        126,
+        153,
+        0,
+        64,
+        115,
+        90,
+        158,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        170,
+        68,
+        32,
+        73,
+        143,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "literacy",
+      "answer_letters": "LITERACY",
+      "indices": [
+        22,
+        71,
+        133,
+        106,
+        87,
+        15,
+        148,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        147,
+        59,
+        10,
+        27,
+        166,
+        129,
+        117,
+        150,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
       "indices": [
         81,
-        62,
-        1,
-        154,
+        6,
+        159,
+        80,
         138,
-        45,
+        86,
         173,
-        101,
-        128
+        79,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "miniature",
-      "answer_letters": "MINIATURE",
+      "answer": "memorandum",
+      "answer_letters": "MEMORANDUM",
       "indices": [
         51,
-        71,
-        56,
-        88,
-        42,
-        133,
-        162,
+        130,
+        45,
+        1,
         151,
-        130
+        42,
+        56,
+        155,
+        162,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "outbreak",
-      "answer_letters": "OUTBREAK",
+      "answer": "one-way",
+      "answer_letters": "ONEWAY",
       "indices": [
+        74,
+        118,
+        164,
+        110,
+        82,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opportunity",
+      "answer_letters": "OPPORTUNITY",
+      "indices": [
+        111,
+        62,
+        116,
+        100,
+        131,
+        12,
+        101,
+        154,
+        88,
+        175,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "namesake",
+      "answer_letters": "NAMESAKE",
+      "indices": [
+        28,
+        5,
+        169,
+        52,
+        108,
+        19,
+        47,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "guerre",
+      "answer_letters": "GUERRE",
+      "indices": [
+        119,
+        94,
+        174,
+        176,
+        112,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yeomanry",
+      "answer_letters": "YEOMANRY",
+      "indices": [
+        36,
+        37,
+        31,
+        76,
+        17,
+        72,
+        16,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "posthumously",
+      "answer_letters": "POSTHUMOUSLY",
+      "indices": [
+        172,
         60,
+        38,
+        43,
+        4,
         140,
-        59,
-        86,
-        33,
-        48,
-        150,
+        121,
+        23,
+        69,
+        49,
+        65,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
+      "indices": [
+        84,
+        24,
+        2,
+        96,
+        114,
+        54,
+        55,
+        102,
         104
       ]
     },
     {
       "clue": null,
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
       "indices": [
-        100,
-        167,
-        14,
-        163,
-        158,
-        97,
-        80,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norway",
-      "answer_letters": "NORWAY",
-      "indices": [
-        28,
-        24,
-        176,
-        110,
-        11,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
-      "indices": [
-        119,
-        82,
-        57,
-        164,
-        54,
-        5,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yarmouth",
-      "answer_letters": "YARMOUTH",
-      "indices": [
-        77,
-        19,
-        112,
-        76,
-        68,
-        32,
-        157,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pyrenees",
-      "answer_letters": "PYRENEES",
-      "indices": [
-        129,
-        36,
-        16,
-        35,
-        72,
-        52,
-        127,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sympathetic",
-      "answer_letters": "SYMPATHETIC",
-      "indices": [
-        84,
-        20,
-        121,
-        172,
-        17,
-        43,
-        143,
-        174,
-        96,
-        117,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yokosuka",
-      "answer_letters": "YOKOSUKA",
-      "indices": [
-        99,
-        74,
+        30,
+        46,
+        105,
         25,
-        139,
-        108,
-        94,
-        47,
-        46
+        122,
+        134
       ]
     }
   ],

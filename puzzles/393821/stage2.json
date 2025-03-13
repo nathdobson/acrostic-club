@@ -6,252 +6,253 @@
   "clues": [
     {
       "clue": null,
-      "answer": "thereof",
-      "answer_letters": "THEREOF",
+      "answer": "tokens",
+      "answer_letters": "TOKENS",
       "indices": [
         145,
-        106,
-        147,
-        172,
-        157,
         119,
-        118
+        138,
+        157,
+        131,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "orphans",
-      "answer_letters": "ORPHANS",
+      "answer": "oricon",
+      "answer_letters": "ORICON",
       "indices": [
         143,
-        71,
-        170,
-        98,
-        176,
-        85,
-        46
+        41,
+        107,
+        137,
+        90,
+        85
       ]
     },
     {
       "clue": null,
-      "answer": "makeshift",
-      "answer_letters": "MAKESHIFT",
+      "answer": "metaphor",
+      "answer_letters": "METAPHOR",
       "indices": [
-        62,
-        33,
-        121,
-        87,
-        111,
+        57,
+        165,
+        3,
+        84,
+        58,
         152,
-        150,
-        161,
-        114
+        171,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "helicopter",
-      "answer_letters": "HELICOPTER",
+      "answer": "hoffman",
+      "answer_letters": "HOFFMAN",
       "indices": [
         21,
-        31,
-        128,
-        66,
-        86,
         112,
-        24,
-        97,
-        116,
-        91
+        161,
+        118,
+        43,
+        63,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
+      "answer": "orthodox",
+      "answer_letters": "ORTHODOX",
       "indices": [
+        18,
+        71,
+        167,
+        146,
         70,
-        134,
-        124,
-        154,
-        173,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "longer",
-      "answer_letters": "LONGER",
-      "indices": [
-        103,
-        90,
-        11,
-        151,
-        139,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thorax",
-      "answer_letters": "THORAX",
-      "indices": [
-        65,
-        4,
-        171,
-        163,
-        44,
+        80,
+        123,
         27
       ]
     },
     {
       "clue": null,
-      "answer": "length",
-      "answer_letters": "LENGTH",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
         120,
-        5,
-        108,
-        109,
-        8,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "upstate",
-      "answer_letters": "UPSTATE",
-      "indices": [
-        74,
-        58,
-        92,
-        3,
-        56,
-        17,
-        182
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cohort",
-      "answer_letters": "COHORT",
-      "indices": [
-        55,
-        78,
-        30,
-        136,
-        177,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "initials",
-      "answer_letters": "INITIALS",
-      "indices": [
-        36,
-        77,
-        130,
-        159,
-        81,
-        7,
-        178,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "atkins",
-      "answer_letters": "ATKINS",
-      "indices": [
-        180,
-        155,
-        138,
-        179,
-        14,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "threat",
-      "answer_letters": "THREAT",
-      "indices": [
-        20,
-        115,
-        41,
-        53,
-        101,
-        184
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "routed",
-      "answer_letters": "ROUTED",
-      "indices": [
-        64,
-        95,
-        38,
-        29,
-        10,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "images",
-      "answer_letters": "IMAGES",
-      "indices": [
-        107,
-        43,
-        0,
-        132,
         99,
+        149,
+        36,
+        151,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "totals",
+      "answer_letters": "TOTALS",
+      "indices": [
+        89,
+        78,
+        65,
+        56,
+        135,
         60
       ]
     },
     {
       "clue": null,
-      "answer": "uncommon",
-      "answer_letters": "UNCOMMON",
+      "answer": "lutheran",
+      "answer_letters": "LUTHERAN",
       "indices": [
-        59,
-        45,
-        137,
-        73,
-        181,
-        57,
-        162,
-        34
+        129,
+        67,
+        8,
+        115,
+        139,
+        75,
+        0,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "monthly",
-      "answer_letters": "MONTHLY",
+      "answer": "useless",
+      "answer_letters": "USELESS",
       "indices": [
-        169,
-        123,
-        25,
-        48,
-        52,
-        129,
+        74,
+        1,
+        116,
+        178,
+        39,
+        92,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "caesar",
+      "answer_letters": "CAESAR",
+      "indices": [
+        82,
+        13,
+        87,
+        46,
+        44,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inquiry",
+      "answer_letters": "INQUIRY",
+      "indices": [
+        66,
+        77,
+        37,
+        38,
+        179,
+        91,
         26
       ]
     },
     {
       "clue": null,
-      "answer": "paradox",
-      "answer_letters": "PARADOX",
+      "answer": "attempt",
+      "answer_letters": "ATTEMPT",
+      "indices": [
+        180,
+        17,
+        114,
+        147,
+        62,
+        24,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tonight",
+      "answer_letters": "TONIGHT",
+      "indices": [
+        20,
+        73,
+        11,
+        127,
+        109,
+        30,
+        184
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotate",
+      "answer_letters": "ROTATE",
+      "indices": [
+        79,
+        136,
+        29,
+        33,
+        159,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inform",
+      "answer_letters": "INFORM",
+      "indices": [
+        130,
+        34,
+        134,
+        162,
+        163,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unexpected",
+      "answer_letters": "UNEXPECTED",
+      "indices": [
+        59,
+        45,
+        168,
+        166,
+        170,
+        10,
+        55,
+        105,
+        182,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "methane",
+      "answer_letters": "METHANE",
+      "indices": [
+        169,
+        158,
+        48,
+        98,
+        101,
+        25,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "pollock",
+      "answer_letters": "POLLOCK",
       "indices": [
         175,
-        84,
-        79,
-        63,
-        140,
+        95,
+        128,
+        102,
         49,
-        166
+        86,
+        121
       ]
     },
     {
@@ -259,55 +260,54 @@
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
-        146,
+        9,
         42,
         126,
         35,
-        158,
+        53,
         88,
         94
       ]
     },
     {
       "clue": null,
-      "answer": "athletic",
-      "answer_letters": "ATHLETIC",
+      "answer": "airlift",
+      "answer_letters": "AIRLIFT",
       "indices": [
-        13,
-        51,
-        149,
-        135,
-        168,
-        89,
-        127,
-        82
+        7,
+        81,
+        64,
+        103,
+        150,
+        124,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "nielsen",
-      "answer_letters": "NIELSEN",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
       "indices": [
         183,
         12,
-        39,
-        102,
-        68,
-        165,
-        131
+        132,
+        106,
+        155,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "torque",
-      "answer_letters": "TORQUE",
+      "answer": "theresa",
+      "answer_letters": "THERESA",
       "indices": [
         142,
-        18,
+        52,
+        22,
         156,
-        37,
-        67,
-        22
+        173,
+        154,
+        176
       ]
     }
   ],

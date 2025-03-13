@@ -6,29 +6,30 @@
   "clues": [
     {
       "clue": null,
-      "answer": "sleeve",
-      "answer_letters": "SLEEVE",
+      "answer": "santana",
+      "answer_letters": "SANTANA",
       "indices": [
-        67,
-        96,
-        174,
-        158,
-        94,
-        22
+        176,
+        40,
+        169,
+        53,
+        34,
+        6,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "channel",
-      "answer_letters": "CHANNEL",
+      "answer": "correct",
+      "answer_letters": "CORRECT",
       "indices": [
+        18,
+        95,
+        32,
+        149,
+        133,
         88,
-        4,
-        34,
-        41,
-        6,
-        44,
-        12
+        66
       ]
     },
     {
@@ -37,266 +38,265 @@
       "answer_letters": "OTTAWA",
       "indices": [
         79,
-        15,
-        53,
-        40,
-        63,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "throne",
-      "answer_letters": "THRONE",
-      "indices": [
-        172,
-        111,
-        117,
-        131,
-        61,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "troupe",
-      "answer_letters": "TROUPE",
-      "indices": [
-        166,
-        141,
-        153,
-        90,
-        69,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "weight",
-      "answer_letters": "WEIGHT",
-      "indices": [
-        139,
-        161,
-        103,
-        43,
-        16,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eastern",
-      "answer_letters": "EASTERN",
-      "indices": [
-        73,
-        140,
-        76,
-        48,
-        150,
-        149,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showcased",
-      "answer_letters": "SHOWCASED",
-      "indices": [
-        176,
-        27,
-        95,
-        125,
-        160,
-        19,
-        52,
-        82,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tramway",
-      "answer_letters": "TRAMWAY",
-      "indices": [
+        130,
         92,
-        32,
-        159,
-        120,
-        81,
-        42,
-        123
+        75,
+        63,
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "españa",
-      "answer_letters": "ESPANA",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        98,
-        143,
-        157,
-        47,
-        134,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "raymond",
-      "answer_letters": "RAYMOND",
-      "indices": [
-        99,
-        64,
-        127,
-        59,
+        15,
+        139,
         144,
-        23,
-        135
+        125,
+        159,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "flinders",
-      "answer_letters": "FLINDERS",
+      "answer": "tenant",
+      "answer_letters": "TENANT",
       "indices": [
-        162,
-        50,
-        5,
+        55,
+        73,
         122,
-        104,
-        28,
-        175,
-        128
+        42,
+        61,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "answer": "wooded",
+      "answer_letters": "WOODED",
       "indices": [
-        114,
-        18,
-        0,
-        171,
-        57,
+        81,
+        131,
+        11,
+        104,
+        36,
         24
       ]
     },
     {
       "clue": null,
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
+      "answer": "eternal",
+      "answer_letters": "ETERNAL",
       "indices": [
-        85,
-        11,
-        30,
-        146,
-        8,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "detect",
-      "answer_letters": "DETECT",
-      "indices": [
-        45,
-        1,
-        26,
+        98,
+        3,
         155,
-        72,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "graham",
-      "answer_letters": "GRAHAM",
-      "indices": [
-        97,
-        154,
-        71,
-        173,
-        60,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obama's",
-      "answer_letters": "OBAMAS",
-      "indices": [
-        89,
-        106,
-        14,
-        145,
-        84,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laguna",
-      "answer_letters": "LAGUNA",
-      "indices": [
-        35,
-        126,
-        10,
-        163,
+        141,
         91,
-        51
+        64,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "intake",
-      "answer_letters": "INTAKE",
+      "answer": "shelters",
+      "answer_letters": "SHELTERS",
+      "indices": [
+        67,
+        56,
+        44,
+        96,
+        110,
+        174,
+        154,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        108,
+        111,
+        153,
+        107,
+        43,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        1,
+        145,
+        157,
+        140,
+        48,
+        0,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reveal",
+      "answer_letters": "REVEAL",
+      "indices": [
+        113,
+        150,
+        94,
+        118,
+        126,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fumble",
+      "answer_letters": "FUMBLE",
+      "indices": [
+        162,
+        90,
+        59,
+        106,
+        35,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emails",
+      "answer_letters": "EMAILS",
+      "indices": [
+        114,
+        39,
+        31,
+        103,
+        86,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leagues",
+      "answer_letters": "LEAGUES",
+      "indices": [
+        12,
+        161,
+        168,
+        97,
+        163,
+        112,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dharma",
+      "answer_letters": "DHARMA",
+      "indices": [
+        135,
+        27,
+        121,
+        117,
+        120,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "greene",
+      "answer_letters": "GREENE",
+      "indices": [
+        10,
+        175,
+        82,
+        28,
+        134,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ornate",
+      "answer_letters": "ORNATE",
+      "indices": [
+        171,
+        99,
+        20,
+        84,
+        166,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "locked",
+      "answer_letters": "LOCKED",
+      "indices": [
+        164,
+        89,
+        160,
+        7,
+        57,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
       "indices": [
         13,
-        169,
-        110,
-        75,
-        37,
-        133
+        69,
+        8,
+        30,
+        5,
+        72,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "athena",
-      "answer_letters": "ATHENA",
+      "answer": "amassed",
+      "answer_letters": "AMASSED",
       "indices": [
         148,
-        130,
-        167,
-        36,
-        65,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "taluka",
-      "answer_letters": "TALUKA",
-      "indices": [
-        66,
-        116,
-        86,
-        107,
-        7,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harlem",
-      "answer_letters": "HARLEM",
-      "indices": [
-        56,
-        137,
-        113,
-        164,
+        152,
+        19,
+        52,
+        101,
         70,
-        39
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tanaka",
+      "answer_letters": "TANAKA",
+      "indices": [
+        26,
+        14,
+        23,
+        47,
+        37,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hannah",
+      "answer_letters": "HANNAH",
+      "indices": [
+        16,
+        102,
+        41,
+        65,
+        51,
+        173
       ]
     }
   ],

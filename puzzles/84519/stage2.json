@@ -6,89 +6,144 @@
   "clues": [
     {
       "clue": null,
-      "answer": "outside",
-      "answer_letters": "OUTSIDE",
+      "answer": "onward",
+      "answer_letters": "ONWARD",
       "indices": [
-        4,
-        119,
-        65,
-        19,
-        95,
-        169,
-        179
+        53,
+        63,
+        87,
+        141,
+        106,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "ruined",
+      "answer_letters": "RUINED",
       "indices": [
         32,
-        77,
-        131,
-        85,
-        81,
-        34
+        68,
+        184,
+        93,
+        143,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "sensitivity",
-      "answer_letters": "SENSITIVITY",
+      "answer": "substituted",
+      "answer_letters": "SUBSTITUTED",
       "indices": [
-        123,
-        175,
-        63,
         8,
-        74,
-        129,
-        70,
-        125,
-        115,
-        57,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
-      "indices": [
-        50,
+        119,
         148,
-        185,
-        64,
-        21,
+        19,
         42,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norton",
-      "answer_letters": "NORTON",
-      "indices": [
-        96,
-        118,
-        174,
+        95,
         154,
-        53,
-        38
+        54,
+        129,
+        126,
+        169
       ]
     },
     {
       "clue": null,
-      "answer": "shutdown",
-      "answer_letters": "SHUTDOWN",
+      "answer": "olivia",
+      "answer_letters": "OLIVIA",
       "indices": [
-        18,
-        165,
-        152,
+        118,
+        186,
+        70,
+        30,
+        115,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
+      "indices": [
+        183,
+        161,
         146,
-        178,
+        105,
+        108,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shootings",
+      "answer_letters": "SHOOTINGS",
+      "indices": [
+        64,
+        160,
         45,
-        87,
-        183
+        50,
+        22,
+        74,
+        156,
+        3,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "contend",
+      "answer_letters": "CONTEND",
+      "indices": [
+        61,
+        136,
+        189,
+        162,
+        185,
+        72,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outright",
+      "answer_letters": "OUTRIGHT",
+      "indices": [
+        62,
+        152,
+        67,
+        49,
+        21,
+        80,
+        165,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tobago",
+      "answer_letters": "TOBAGO",
+      "indices": [
+        164,
+        188,
+        99,
+        168,
+        157,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "testing",
+      "answer_letters": "TESTING",
+      "indices": [
+        65,
+        17,
+        26,
+        181,
+        145,
+        16,
+        94
       ]
     },
     {
@@ -96,203 +151,148 @@
       "answer": "cutting",
       "answer_letters": "CUTTING",
       "indices": [
-        117,
-        79,
-        104,
-        15,
-        145,
-        189,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        62,
-        67,
-        47,
-        88,
-        24,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trident",
-      "answer_letters": "TRIDENT",
-      "indices": [
-        162,
-        106,
-        7,
-        135,
-        31,
-        16,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        181,
-        105,
-        136,
-        54,
-        80,
-        91,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "choctaw",
-      "answer_letters": "CHOCTAW",
-      "indices": [
         151,
-        160,
-        188,
-        61,
+        79,
+        57,
         76,
-        161,
-        13
+        7,
+        38,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "advantage",
-      "answer_letters": "ADVANTAGE",
+      "answer": "authenticity",
+      "answer_letters": "AUTHENTICITY",
       "indices": [
-        108,
-        109,
-        142,
-        141,
-        72,
-        69,
-        168,
-        97,
-        107
+        25,
+        133,
+        138,
+        91,
+        175,
+        41,
+        104,
+        128,
+        117,
+        84,
+        15,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "rowland",
-      "answer_letters": "ROWLAND",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         166,
-        132,
-        51,
-        186,
-        25,
-        41,
-        5
+        48,
+        149,
+        69,
+        58,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "delegations",
-      "answer_letters": "DELEGATIONS",
+      "answer": "distant",
+      "answer_letters": "DISTANT",
       "indices": [
-        113,
-        40,
-        120,
-        143,
-        94,
-        111,
+        5,
+        37,
+        187,
         55,
-        128,
-        71,
+        111,
         112,
-        26
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
+      "answer": "eyewitness",
+      "answer_letters": "EYEWITNESS",
       "indices": [
-        167,
-        180,
-        82,
+        29,
+        11,
+        59,
+        51,
         177,
         153,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "magnitude",
-      "answer_letters": "MAGNITUDE",
-      "indices": [
-        10,
-        0,
-        157,
-        137,
-        37,
-        39,
-        133,
-        121,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "punish",
-      "answer_letters": "PUNISH",
-      "indices": [
-        173,
-        68,
-        28,
-        155,
+        180,
+        167,
         176,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
-      "indices": [
-        14,
-        93,
-        58,
-        66,
-        99,
-        184,
-        159,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "renovate",
-      "answer_letters": "RENOVATE",
+      "answer": "months",
+      "answer_letters": "MONTHS",
       "indices": [
-        49,
-        126,
-        156,
-        78,
-        30,
-        102,
-        22,
-        17
+        34,
+        71,
+        137,
+        39,
+        77,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
+      "answer": "pathway",
+      "answer_letters": "PATHWAY",
       "indices": [
-        29,
-        187,
-        140,
+        173,
         124,
-        149,
-        84,
-        1,
-        44
+        159,
+        81,
+        13,
+        0,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "identities",
+      "answer_letters": "IDENTITIES",
+      "indices": [
+        155,
+        113,
+        107,
+        28,
+        85,
+        14,
+        82,
+        66,
+        40,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "roadways",
+      "answer_letters": "ROADWAYS",
+      "indices": [
+        174,
+        78,
+        88,
+        178,
+        24,
+        92,
+        100,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evolve",
+      "answer_letters": "EVOLVE",
+      "indices": [
+        179,
+        125,
+        132,
+        120,
+        142,
+        31
       ]
     }
   ],

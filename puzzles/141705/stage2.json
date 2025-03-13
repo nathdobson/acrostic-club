@@ -6,190 +6,192 @@
   "clues": [
     {
       "clue": null,
-      "answer": "prefer",
-      "answer_letters": "PREFER",
+      "answer": "pasture",
+      "answer_letters": "PASTURE",
       "indices": [
         13,
+        71,
+        95,
+        65,
+        101,
         120,
-        1,
-        151,
-        173,
-        93
+        1
       ]
     },
     {
       "clue": null,
-      "answer": "holidays",
-      "answer_letters": "HOLIDAYS",
+      "answer": "hawker",
+      "answer_letters": "HAWKER",
       "indices": [
         8,
-        51,
-        170,
-        159,
-        175,
-        117,
-        32,
-        115
+        67,
+        162,
+        72,
+        48,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
+      "answer": "in-depth",
+      "answer_letters": "INDEPTH",
       "indices": [
-        39,
-        65,
-        104,
-        168,
-        60,
-        71
+        136,
+        148,
+        156,
+        173,
+        135,
+        189,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "lawyers",
-      "answer_letters": "LAWYERS",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
         54,
-        87,
-        162,
-        145,
         105,
-        106,
+        104,
+        114,
+        41,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "physician",
+      "answer_letters": "PHYSICIAN",
+      "indices": [
+        85,
+        83,
+        145,
+        16,
+        164,
+        37,
+        55,
+        43,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hazardous",
+      "answer_letters": "HAZARDOUS",
+      "indices": [
+        38,
+        87,
+        56,
+        30,
+        93,
+        149,
+        127,
+        140,
         74
       ]
     },
     {
       "clue": null,
-      "answer": "phoenix",
-      "answer_letters": "PHOENIX",
+      "answer": "inscription",
+      "answer_letters": "INSCRIPTION",
       "indices": [
-        85,
-        83,
-        35,
-        174,
-        88,
-        164,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hardships",
-      "answer_letters": "HARDSHIPS",
-      "indices": [
-        38,
-        147,
-        62,
-        149,
-        50,
-        91,
-        153,
-        135,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "instructions",
-      "answer_letters": "INSTRUCTIONS",
-      "indices": [
-        25,
-        44,
-        82,
-        34,
-        102,
-        101,
-        37,
-        7,
-        18,
-        22,
+        123,
         26,
-        134
+        50,
+        60,
+        102,
+        153,
+        183,
+        7,
+        39,
+        22,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
+      "answer": "left-handed",
+      "answer_letters": "LEFTHANDED",
       "indices": [
         169,
-        123,
+        174,
         100,
         119,
+        163,
+        168,
+        52,
+        58,
         131,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "outputs",
-      "answer_letters": "OUTPUTS",
+      "answer": "orders",
+      "answer_letters": "ORDERS",
       "indices": [
         89,
-        140,
-        139,
-        47,
-        36,
-        124,
+        106,
+        81,
+        181,
+        111,
         17
       ]
     },
     {
       "clue": null,
-      "answer": "stopped",
-      "answer_letters": "STOPPED",
+      "answer": "suffix",
+      "answer_letters": "SUFFIX",
       "indices": [
         130,
-        189,
-        19,
-        98,
-        160,
-        92,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offence",
-      "answer_letters": "OFFENCE",
-      "indices": [
-        127,
+        36,
+        151,
         23,
-        76,
-        110,
-        172,
-        165,
-        181
+        121,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "frazier",
-      "answer_letters": "FRAZIER",
+      "answer": "ornate",
+      "answer_letters": "ORNATE",
       "indices": [
-        128,
-        111,
-        30,
-        56,
-        136,
-        79,
+        19,
+        62,
+        40,
+        61,
+        139,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "filter",
+      "answer_letters": "FILTER",
+      "indices": [
+        76,
+        4,
+        142,
+        124,
+        92,
         49
       ]
     },
     {
       "clue": null,
-      "answer": "redskins",
-      "answer_letters": "REDSKINS",
+      "answer": "repeatedly",
+      "answer_letters": "REPEATEDLY",
       "indices": [
         184,
+        79,
+        98,
         187,
-        81,
-        157,
-        72,
-        114,
-        52,
-        5
+        53,
+        144,
+        185,
+        175,
+        170,
+        32
       ]
     },
     {
@@ -197,118 +199,116 @@
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
-        97,
+        15,
         12,
-        158,
-        84,
-        180,
-        138,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entertain",
-      "answer_letters": "ENTERTAIN",
-      "indices": [
-        57,
-        155,
-        96,
-        112,
-        137,
-        70,
-        67,
-        28,
-        188
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cheating",
-      "answer_letters": "CHEATING",
-      "indices": [
-        31,
-        66,
-        154,
-        53,
-        90,
-        78,
-        20,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hardship",
-      "answer_letters": "HARDSHIP",
-      "indices": [
-        109,
-        43,
-        152,
-        58,
-        16,
-        163,
-        55,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entities",
-      "answer_letters": "ENTITIES",
-      "indices": [
-        63,
-        40,
-        68,
-        121,
-        103,
-        4,
-        73,
-        186
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northeast",
-      "answer_letters": "NORTHEAST",
-      "indices": [
-        122,
-        178,
-        77,
-        177,
         166,
-        48,
-        141,
-        0,
+        138,
+        180,
+        143,
         108
       ]
     },
     {
       "clue": null,
-      "answer": "external",
-      "answer_letters": "EXTERNAL",
+      "answer": "entries",
+      "answer_letters": "ENTRIES",
       "indices": [
-        185,
-        132,
-        144,
-        11,
-        14,
-        148,
-        61,
-        142
+        97,
+        188,
+        70,
+        137,
+        28,
+        9,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
+      "answer": "cassette",
+      "answer_letters": "CASSETTE",
+      "indices": [
+        165,
+        117,
+        5,
+        186,
+        57,
+        90,
+        96,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "historians",
+      "answer_letters": "HISTORIANS",
+      "indices": [
+        109,
+        25,
+        82,
+        34,
+        35,
+        152,
+        18,
+        147,
+        44,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exempt",
+      "answer_letters": "EXEMPT",
+      "indices": [
+        73,
+        132,
+        154,
+        29,
+        160,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "non-profit",
+      "answer_letters": "NONPROFIT",
+      "indices": [
+        122,
+        51,
+        80,
+        47,
+        77,
+        178,
+        128,
+        84,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "einstein",
+      "answer_letters": "EINSTEIN",
+      "indices": [
+        11,
+        78,
+        20,
+        157,
+        68,
+        63,
+        159,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
       "indices": [
         125,
-        9,
-        29,
-        15,
-        80,
-        143
+        141,
+        31,
+        158,
+        27,
+        0
       ]
     }
   ],

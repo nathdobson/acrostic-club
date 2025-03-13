@@ -6,183 +6,175 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lightweight",
-      "answer_letters": "LIGHTWEIGHT",
+      "answer": "lesions",
+      "answer_letters": "LESIONS",
       "indices": [
         39,
-        143,
-        104,
-        55,
-        50,
-        2,
         148,
-        0,
-        80,
-        5,
-        144
+        4,
+        143,
+        82,
+        90,
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "achieve",
-      "answer_letters": "ACHIEVE",
+      "answer": "authorities",
+      "answer_letters": "AUTHORITIES",
       "indices": [
         159,
-        57,
-        45,
-        160,
-        126,
-        36,
-        169
+        119,
+        25,
+        9,
+        18,
+        140,
+        92,
+        94,
+        78,
+        179,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "uniforms",
-      "answer_letters": "UNIFORMS",
+      "answer": "unlikely",
+      "answer_letters": "UNLIKELY",
       "indices": [
         102,
-        90,
-        31,
-        30,
-        22,
-        110,
-        178,
-        4
+        141,
+        120,
+        0,
+        58,
+        109,
+        101,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "resigned",
-      "answer_letters": "RESIGNED",
+      "answer": "rachel",
+      "answer_letters": "RACHEL",
       "indices": [
         130,
-        155,
-        105,
-        3,
-        189,
-        97,
+        68,
+        57,
+        164,
         133,
-        121
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "extremely",
-      "answer_letters": "EXTREMELY",
+      "answer": "esther",
+      "answer_letters": "ESTHER",
       "indices": [
-        177,
-        86,
-        34,
-        70,
-        16,
-        180,
         98,
-        173,
-        111
+        105,
+        34,
+        26,
+        155,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "nominally",
-      "answer_letters": "NOMINALLY",
+      "answer": "nemesis",
+      "answer_letters": "NEMESIS",
       "indices": [
-        93,
-        64,
-        17,
-        69,
-        41,
+        113,
+        107,
+        127,
+        177,
+        149,
+        160,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "differs",
+      "answer_letters": "DIFFERS",
+      "indices": [
+        185,
+        37,
+        83,
+        23,
+        89,
+        161,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embargo",
+      "answer_letters": "EMBARGO",
+      "indices": [
+        16,
+        125,
+        181,
         13,
-        101,
-        65,
+        19,
+        136,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showdown",
+      "answer_letters": "SHOWDOWN",
+      "indices": [
+        54,
+        51,
+        171,
+        168,
+        66,
+        56,
+        99,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "they've",
+      "answer_letters": "THEYVE",
+      "indices": [
+        77,
+        117,
+        169,
+        174,
+        36,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
+      "indices": [
+        182,
+        47,
+        48,
+        123,
+        186,
+        138,
+        95,
+        146,
         20
       ]
     },
     {
       "clue": null,
-      "answer": "dominion",
-      "answer_letters": "DOMINION",
-      "indices": [
-        11,
-        147,
-        156,
-        7,
-        150,
-        187,
-        171,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        179,
-        188,
-        112,
-        119,
-        136,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "somebody",
-      "answer_letters": "SOMEBODY",
-      "indices": [
-        76,
-        56,
-        127,
-        129,
-        138,
-        95,
-        185,
-        186
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thinkers",
-      "answer_letters": "THINKERS",
-      "indices": [
-        94,
-        9,
-        78,
-        79,
-        58,
-        89,
-        123,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "efforts",
-      "answer_letters": "EFFORTS",
-      "indices": [
-        114,
-        83,
-        23,
-        18,
-        140,
-        166,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "freshman",
-      "answer_letters": "FRESHMAN",
+      "answer": "forming",
+      "answer_letters": "FORMING",
       "indices": [
         61,
-        19,
-        48,
-        149,
-        26,
-        125,
-        68,
-        113
+        118,
+        176,
+        17,
+        69,
+        188,
+        88
       ]
     },
     {
@@ -193,109 +185,117 @@
         165,
         132,
         128,
-        82,
-        42,
-        72
+        22,
+        50,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
+      "answer": "newman",
+      "answer_letters": "NEWMAN",
       "indices": [
-        141,
-        85,
-        28,
-        40,
-        168,
-        139,
-        161,
-        25,
-        73,
-        174
+        172,
+        129,
+        2,
+        15,
+        10,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "observed",
-      "answer_letters": "OBSERVED",
+      "answer": "orthodoxy",
+      "answer_letters": "ORTHODOXY",
       "indices": [
-        118,
-        181,
-        44,
-        154,
-        176,
-        47,
-        182,
-        66
+        38,
+        32,
+        166,
+        45,
+        60,
+        121,
+        64,
+        86,
+        111
       ]
     },
     {
       "clue": null,
-      "answer": "footwear",
-      "answer_letters": "FOOTWEAR",
+      "answer": "fights",
+      "answer_letters": "FIGHTS",
       "indices": [
         158,
-        38,
-        60,
-        151,
-        99,
-        52,
-        10,
-        32
+        187,
+        80,
+        73,
+        28,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "engine",
-      "answer_letters": "ENGINE",
+      "answer": "enlightenment",
+      "answer_letters": "ENLIGHTENMENT",
       "indices": [
-        124,
-        135,
-        88,
-        92,
+        114,
         103,
-        74
+        65,
+        7,
+        104,
+        5,
+        72,
+        52,
+        79,
+        156,
+        126,
+        93,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "videos",
-      "answer_letters": "VIDEOS",
+      "answer": "vomiting",
+      "answer_letters": "VOMITING",
       "indices": [
         108,
-        134,
-        146,
-        107,
         46,
-        153
+        180,
+        134,
+        151,
+        3,
+        97,
+        189
       ]
     },
     {
       "clue": null,
-      "answer": "elastic",
-      "answer_letters": "ELASTIC",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
       "indices": [
-        109,
-        120,
-        27,
-        116,
-        77,
-        37,
-        63
+        124,
+        63,
+        55,
+        147,
+        74,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "reformation",
+      "answer_letters": "REFORMATION",
       "indices": [
+        110,
+        40,
+        30,
+        85,
         183,
-        51,
-        87,
-        163,
-        117,
-        15
+        178,
+        27,
+        42,
+        31,
+        139,
+        150
       ]
     }
   ],

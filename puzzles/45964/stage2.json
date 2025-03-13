@@ -6,78 +6,176 @@
   "clues": [
     {
       "clue": null,
-      "answer": "demise",
-      "answer_letters": "DEMISE",
+      "answer": "descriptions",
+      "answer_letters": "DESCRIPTIONS",
       "indices": [
         27,
-        175,
-        87,
-        139,
-        185,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rochelle",
-      "answer_letters": "ROCHELLE",
-      "indices": [
-        140,
-        145,
+        131,
+        100,
         135,
-        127,
-        171,
-        32,
-        67,
-        109
+        111,
+        151,
+        3,
+        43,
+        139,
+        41,
+        30,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "allegations",
-      "answer_letters": "ALLEGATIONS",
+      "answer": "resolution",
+      "answer_letters": "RESOLUTION",
       "indices": [
-        19,
+        51,
+        155,
+        160,
+        99,
+        4,
+        157,
+        148,
+        29,
+        163,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "allows",
+      "answer_letters": "ALLOWS",
+      "indices": [
+        22,
         61,
         66,
-        134,
+        115,
+        59,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "griffith",
+      "answer_letters": "GRIFFITH",
+      "indices": [
         120,
-        169,
-        64,
-        29,
-        79,
-        94,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gunpowder",
-      "answer_letters": "GUNPOWDER",
-      "indices": [
-        164,
-        12,
-        46,
-        98,
-        2,
-        7,
-        119,
-        155,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        18,
-        71,
-        159,
+        91,
+        33,
+        34,
         133,
-        4,
+        50,
+        96,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "otherwise",
+      "answer_letters": "OTHERWISE",
+      "indices": [
+        2,
+        126,
+        74,
+        5,
+        23,
+        7,
+        60,
+        156,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "schedules",
+      "answer_letters": "SCHEDULES",
+      "indices": [
+        124,
+        179,
+        40,
+        128,
+        83,
+        25,
+        67,
+        171,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bowler",
+      "answer_letters": "BOWLER",
+      "indices": [
+        103,
         70,
-        37
+        37,
+        104,
+        183,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reaffirmed",
+      "answer_letters": "REAFFIRMED",
+      "indices": [
+        81,
+        105,
+        45,
+        16,
+        146,
+        165,
+        176,
+        168,
+        121,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aluminium",
+      "answer_letters": "ALUMINIUM",
+      "indices": [
+        169,
+        32,
+        71,
+        138,
+        38,
+        114,
+        123,
+        80,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "telescope",
+      "answer_letters": "TELESCOPE",
+      "indices": [
+        73,
+        52,
+        117,
+        1,
+        13,
+        53,
+        9,
+        0,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
+      "indices": [
+        19,
+        12,
+        20,
+        108,
+        145,
+        154,
+        110,
+        136,
+        78
       ]
     },
     {
@@ -85,205 +183,107 @@
       "answer": "skopje",
       "answer_letters": "SKOPJE",
       "indices": [
-        101,
-        170,
-        24,
-        174,
-        11,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "by-elections",
-      "answer_letters": "BYELECTIONS",
-      "indices": [
-        103,
-        78,
-        65,
-        117,
-        128,
-        166,
-        148,
-        33,
-        163,
-        26,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "resources",
-      "answer_letters": "RESOURCES",
-      "indices": [
-        81,
-        5,
         182,
-        56,
-        157,
-        176,
-        179,
-        150,
-        160
+        170,
+        18,
+        98,
+        11,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "atherton",
-      "answer_letters": "ATHERTON",
+      "answer": "another",
+      "answer_letters": "ANOTHER",
       "indices": [
         75,
-        73,
-        74,
-        118,
-        152,
-        39,
-        95,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "towers",
-      "answer_letters": "TOWERS",
-      "indices": [
-        136,
-        115,
-        59,
-        178,
-        154,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "auditorium",
-      "answer_letters": "AUDITORIUM",
-      "indices": [
-        45,
-        80,
-        83,
-        50,
-        20,
-        9,
-        51,
-        60,
-        25,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stepmother",
-      "answer_letters": "STEPMOTHER",
-      "indices": [
-        13,
-        96,
-        52,
-        0,
-        168,
-        99,
-        126,
+        46,
+        56,
+        159,
         149,
-        1,
-        23
+        186,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "afterlife",
-      "answer_letters": "AFTERLIFE",
+      "answer": "newsletter",
+      "answer_letters": "NEWSLETTER",
       "indices": [
-        86,
-        146,
-        14,
-        35,
-        143,
-        104,
-        165,
-        34,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "network",
-      "answer_letters": "NETWORK",
-      "indices": [
-        184,
-        92,
-        107,
+        94,
+        109,
         116,
-        142,
-        141,
-        113
+        88,
+        158,
+        178,
+        39,
+        64,
+        118,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "utility",
-      "answer_letters": "UTILITY",
+      "answer": "unlikely",
+      "answer_letters": "UNLIKELY",
       "indices": [
         42,
-        54,
-        110,
-        158,
-        38,
-        180,
+        184,
+        62,
+        102,
+        113,
+        85,
+        162,
         69
       ]
     },
     {
       "clue": null,
-      "answer": "philanthropist",
-      "answer_letters": "PHILANTHROPIST",
+      "answer": "protectorate",
+      "answer_letters": "PROTECTORATE",
       "indices": [
-        130,
-        108,
-        123,
-        62,
-        22,
-        30,
-        76,
-        40,
+        174,
+        141,
+        95,
+        107,
+        134,
+        166,
+        54,
+        24,
         84,
-        41,
-        3,
-        102,
-        100,
-        43
+        90,
+        180,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "hillary",
-      "answer_letters": "HILLARY",
+      "answer": "holotype",
+      "answer_letters": "HOLOTYPE",
       "indices": [
         8,
-        151,
-        162,
+        79,
         17,
-        90,
-        111,
-        47
+        142,
+        76,
+        47,
+        130,
+        175
       ]
     },
     {
       "clue": null,
-      "answer": "differences",
-      "answer_letters": "DIFFERENCES",
+      "answer": "drafting",
+      "answer_letters": "DRAFTING",
       "indices": [
         49,
-        55,
-        177,
-        16,
-        105,
         132,
-        121,
+        86,
+        177,
+        14,
+        55,
         57,
-        53,
-        186,
-        156
+        164
       ]
     }
   ],

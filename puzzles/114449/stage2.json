@@ -6,16 +6,17 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chiefly",
-      "answer_letters": "CHIEFLY",
+      "answer": "cherokee",
+      "answer_letters": "CHEROKEE",
       "indices": [
-        123,
-        1,
-        99,
-        188,
-        109,
-        134,
-        37
+        41,
+        127,
+        4,
+        111,
+        94,
+        154,
+        22,
+        128
       ]
     },
     {
@@ -23,118 +24,127 @@
       "answer": "downtown",
       "answer_letters": "DOWNTOWN",
       "indices": [
-        35,
-        7,
-        170,
-        17,
-        83,
-        72,
+        189,
+        110,
         172,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rookie",
-      "answer_letters": "ROOKIE",
-      "indices": [
-        141,
-        150,
-        64,
-        154,
-        122,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyment",
-      "answer_letters": "ENJOYMENT",
-      "indices": [
-        66,
-        31,
-        177,
-        169,
-        25,
-        8,
-        164,
-        104,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inputs",
-      "answer_letters": "INPUTS",
-      "indices": [
-        133,
-        147,
-        184,
-        27,
-        97,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shawnee",
-      "answer_letters": "SHAWNEE",
-      "indices": [
-        157,
-        173,
-        153,
-        29,
-        187,
-        4,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "southwark",
-      "answer_letters": "SOUTHWARK",
-      "indices": [
-        10,
-        94,
-        158,
-        107,
-        75,
-        131,
-        42,
-        67,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "monkey",
-      "answer_letters": "MONKEY",
-      "indices": [
-        152,
+        34,
+        59,
         118,
-        77,
-        78,
-        139,
-        165
+        131,
+        104
       ]
     },
     {
       "clue": null,
-      "answer": "authenticity",
-      "answer_letters": "AUTHENTICITY",
+      "answer": "retention",
+      "answer_letters": "RETENTION",
       "indices": [
-        183,
-        178,
-        175,
-        84,
-        135,
-        168,
-        137,
-        69,
+        86,
+        85,
+        47,
+        160,
+        70,
+        113,
+        133,
+        169,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
+      "indices": [
+        61,
+        30,
+        179,
+        87,
+        17,
+        98,
+        72,
+        170,
+        57,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        79,
+        185,
+        91,
+        20,
+        106,
         6,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "skopje",
+      "answer_letters": "SKOPJE",
+      "indices": [
+        52,
+        167,
+        64,
+        184,
+        177,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "switch",
+      "answer_letters": "SWITCH",
+      "indices": [
+        65,
+        29,
         16,
-        71,
-        140
+        18,
+        123,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
+      "indices": [
+        116,
+        38,
+        21,
+        90,
+        146,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anthony",
+      "answer_letters": "ANTHONY",
+      "indices": [
+        174,
+        147,
+        175,
+        56,
+        7,
+        43,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        67,
+        138,
+        37,
+        162,
+        48,
+        152
       ]
     },
     {
@@ -142,160 +152,150 @@
       "answer": "reworked",
       "answer_letters": "REWORKED",
       "indices": [
-        159,
-        2,
-        146,
+        3,
+        96,
+        89,
         145,
-        50,
-        167,
-        186,
-        189
+        159,
+        124,
+        135,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
+      "answer": "inherited",
+      "answer_letters": "INHERITED",
       "indices": [
-        111,
-        15,
-        126,
-        21,
-        61,
-        3,
-        132,
-        90,
+        46,
+        187,
+        75,
+        115,
+        119,
+        122,
+        83,
+        139,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "autonomy",
+      "answer_letters": "AUTONOMY",
+      "indices": [
+        33,
+        39,
+        55,
+        53,
+        168,
+        26,
+        8,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        101,
+        150,
+        137,
+        173,
+        42,
         95
       ]
     },
     {
       "clue": null,
-      "answer": "inherent",
-      "answer_letters": "INHERENT",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
       "indices": [
-        103,
-        80,
-        163,
-        45,
-        119,
-        87,
-        23,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authorship",
-      "answer_letters": "AUTHORSHIP",
-      "indices": [
-        33,
-        39,
-        74,
-        56,
-        54,
-        86,
-        52,
-        182,
-        30,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        101,
-        26,
-        96,
-        180,
+        2,
+        126,
         60,
-        160
+        99,
+        15,
+        14,
+        69,
+        12,
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "elements",
-      "answer_letters": "ELEMENTS",
+      "answer": "genuinely",
+      "answer_letters": "GENUINELY",
       "indices": [
+        81,
+        164,
+        100,
+        178,
+        103,
+        77,
         142,
         63,
-        85,
-        129,
-        57,
-        43,
-        113,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
+      "indices": [
+        153,
+        0,
+        182,
+        134,
+        155,
+        71,
+        66,
         93
       ]
     },
     {
       "clue": null,
-      "answer": "goodwin",
-      "answer_letters": "GOODWIN",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
       "indices": [
-        81,
-        38,
-        53,
-        144,
-        20,
-        76,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "antioch",
-      "answer_letters": "ANTIOCH",
-      "indices": [
-        12,
-        70,
-        18,
-        46,
-        110,
-        41,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "matthews",
-      "answer_letters": "MATTHEWS",
-      "indices": [
-        116,
-        174,
-        0,
-        162,
-        48,
-        155,
-        89,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        49,
-        14,
-        79,
-        55,
-        127,
-        22,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
-      "indices": [
-        91,
-        98,
-        115,
-        106,
+        129,
+        183,
         121,
-        114
+        45,
+        10,
+        84,
+        76,
+        109,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethernet",
+      "answer_letters": "ETHERNET",
+      "indices": [
+        9,
+        149,
+        1,
+        186,
+        141,
+        31,
+        188,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
+      "indices": [
+        157,
+        114,
+        27,
+        74,
+        54,
+        158,
+        180
       ]
     }
   ],

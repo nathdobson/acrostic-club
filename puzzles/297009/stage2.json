@@ -6,244 +6,43 @@
   "clues": [
     {
       "clue": null,
-      "answer": "despite",
-      "answer_letters": "DESPITE",
+      "answer": "docked",
+      "answer_letters": "DOCKED",
       "indices": [
-        82,
-        25,
-        50,
-        86,
-        94,
-        66,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adolph",
-      "answer_letters": "ADOLPH",
-      "indices": [
-        118,
-        93,
-        79,
-        97,
-        15,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        111,
-        6,
-        80,
-        110,
-        128,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ipswich",
-      "answer_letters": "IPSWICH",
-      "indices": [
-        157,
-        96,
-        2,
-        108,
-        0,
+        115,
+        40,
         141,
-        142
+        80,
+        120,
+        82
       ]
     },
     {
       "clue": null,
-      "answer": "kitchen",
-      "answer_letters": "KITCHEN",
+      "answer": "arizona",
+      "answer_letters": "ARIZONA",
       "indices": [
-        112,
-        153,
-        131,
-        132,
-        63,
-        114,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anthony",
-      "answer_letters": "ANTHONY",
-      "indices": [
-        98,
-        7,
-        38,
-        13,
-        91,
-        154,
-        99
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "skirts",
-      "answer_letters": "SKIRTS",
-      "indices": [
-        151,
-        34,
-        37,
-        83,
-        150,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thorpe",
-      "answer_letters": "THORPE",
-      "indices": [
-        62,
-        133,
-        78,
-        41,
-        16,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
-      "indices": [
-        70,
-        56,
-        45,
-        103,
-        58,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
-      "indices": [
-        43,
-        134,
-        10,
-        145,
-        126,
-        129,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "energy",
-      "answer_letters": "ENERGY",
-      "indices": [
-        162,
-        105,
-        137,
-        26,
-        4,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elliott",
-      "answer_letters": "ELLIOTT",
-      "indices": [
-        48,
-        32,
-        60,
-        149,
-        29,
-        1,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        88,
-        122,
-        57,
-        117,
-        123,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "grabbed",
-      "answer_letters": "GRABBED",
-      "indices": [
-        8,
+        14,
         139,
-        124,
-        160,
-        77,
+        33,
+        119,
+        78,
+        135,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        105,
         155,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "equity",
-      "answer_letters": "EQUITY",
-      "indices": [
-        87,
-        55,
-        102,
-        146,
-        59,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "opposes",
-      "answer_letters": "OPPOSES",
-      "indices": [
-        11,
-        68,
-        85,
+        122,
+        1,
         5,
-        95,
-        22,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
-      "indices": [
-        71,
-        84,
-        30,
-        136,
-        21,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wealth",
-      "answer_letters": "WEALTH",
-      "indices": [
         20,
-        64,
-        51,
-        113,
-        158,
-        24
+        18
       ]
     },
     {
@@ -251,39 +50,240 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        52,
-        106,
-        159,
-        33,
-        130,
-        74
+        157,
+        2,
+        124,
+        0,
+        51,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "lorenzo",
-      "answer_letters": "LORENZO",
+      "answer": "kapoor",
+      "answer_letters": "KAPOOR",
+      "indices": [
+        112,
+        145,
+        85,
+        91,
+        79,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attend",
+      "answer_letters": "ATTEND",
+      "indices": [
+        98,
+        10,
+        131,
+        114,
+        7,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sights",
+      "answer_letters": "SIGHTS",
+      "indices": [
+        106,
+        153,
+        117,
+        74,
+        150,
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "technique",
+      "answer_letters": "TECHNIQUE",
+      "indices": [
+        62,
+        87,
+        132,
+        63,
+        111,
+        37,
+        55,
+        102,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oblast",
+      "answer_letters": "OBLAST",
+      "indices": [
+        67,
+        77,
+        113,
+        104,
+        95,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "napier",
+      "answer_letters": "NAPIER",
+      "indices": [
+        154,
+        134,
+        16,
+        140,
+        17,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
+      "indices": [
+        75,
+        86,
+        146,
+        45,
+        133,
+        25,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
+      "indices": [
+        137,
+        156,
+        58,
+        26,
+        99,
+        160,
+        70,
+        93,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deaths",
+      "answer_letters": "DEATHS",
+      "indices": [
+        88,
+        64,
+        130,
+        23,
+        47,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gloria",
+      "answer_letters": "GLORIA",
+      "indices": [
+        8,
+        60,
+        84,
+        109,
+        110,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliot",
+      "answer_letters": "ELLIOT",
+      "indices": [
+        162,
+        97,
+        32,
+        6,
+        29,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "output",
+      "answer_letters": "OUTPUT",
+      "indices": [
+        11,
+        56,
+        128,
+        96,
+        30,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fights",
+      "answer_letters": "FIGHTS",
+      "indices": [
+        71,
+        149,
+        4,
+        123,
+        158,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whisky",
+      "answer_letters": "WHISKY",
+      "indices": [
+        108,
+        21,
+        57,
+        103,
+        34,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        52,
+        68,
+        129,
+        44,
+        43,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
       "indices": [
         161,
-        67,
-        109,
-        75,
-        18,
-        119,
-        40
+        94,
+        136,
+        142,
+        66,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "devoid",
-      "answer_letters": "DEVOID",
+      "answer": "depths",
+      "answer_letters": "DEPTHS",
       "indices": [
         147,
         35,
-        156,
-        44,
-        140,
-        53
+        15,
+        38,
+        13,
+        126
       ]
     }
   ],

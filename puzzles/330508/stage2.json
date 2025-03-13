@@ -6,229 +6,56 @@
   "clues": [
     {
       "clue": null,
-      "answer": "arable",
-      "answer_letters": "ARABLE",
+      "answer": "ashford",
+      "answer_letters": "ASHFORD",
       "indices": [
-        123,
+        171,
+        142,
+        45,
+        78,
+        126,
         24,
-        157,
-        113,
-        129,
-        55
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "lesbian",
-      "answer_letters": "LESBIAN",
+      "answer": "lowered",
+      "answer_letters": "LOWERED",
       "indices": [
         146,
-        145,
-        140,
-        173,
-        110,
-        74,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isotope",
-      "answer_letters": "ISOTOPE",
-      "indices": [
-        106,
-        50,
-        126,
-        17,
         26,
-        22,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "charge",
-      "answer_letters": "CHARGE",
-      "indices": [
-        115,
-        89,
-        171,
-        164,
-        169,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
-      "indices": [
-        108,
-        44,
-        13,
-        91,
-        29,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "headed",
-      "answer_letters": "HEADED",
-      "indices": [
-        62,
-        136,
-        20,
-        8,
-        3,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ordered",
-      "answer_letters": "ORDERED",
-      "indices": [
-        80,
-        138,
-        59,
-        41,
-        174,
-        23,
+        122,
+        114,
+        0,
+        145,
         85
       ]
     },
     {
       "clue": null,
-      "answer": "fayette",
-      "answer_letters": "FAYETTE",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
       "indices": [
-        131,
-        33,
-        86,
-        6,
-        61,
-        70,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fantasy",
-      "answer_letters": "FANTASY",
-      "indices": [
+        110,
+        50,
         127,
-        102,
-        42,
-        147,
-        14,
-        161,
-        124
+        157,
+        82,
+        96,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "medium",
-      "answer_letters": "MEDIUM",
+      "answer": "croatian",
+      "answer_letters": "CROATIAN",
       "indices": [
-        117,
-        118,
-        163,
-        139,
-        34,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assert",
-      "answer_letters": "ASSERT",
-      "indices": [
-        153,
-        142,
-        150,
-        66,
-        54,
-        177
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newark",
-      "answer_letters": "NEWARK",
-      "indices": [
-        4,
-        36,
-        122,
-        165,
-        156,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "luther",
-      "answer_letters": "LUTHER",
-      "indices": [
-        107,
-        53,
-        154,
-        45,
-        99,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        79,
-        12,
-        98,
-        116,
-        166,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chosen",
-      "answer_letters": "CHOSEN",
-      "indices": [
-        92,
-        135,
-        18,
-        25,
-        132,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "avoidance",
-      "answer_letters": "AVOIDANCE",
-      "indices": [
-        149,
-        2,
-        71,
-        9,
-        37,
-        176,
-        27,
-        32,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "latvian",
-      "answer_letters": "LATVIAN",
-      "indices": [
-        158,
+        115,
+        164,
+        80,
         90,
-        73,
-        40,
+        30,
         48,
         160,
         168
@@ -236,70 +63,243 @@
     },
     {
       "clue": null,
-      "answer": "gather",
-      "answer_letters": "GATHER",
+      "answer": "embark",
+      "answer_letters": "EMBARK",
+      "indices": [
+        3,
+        117,
+        113,
+        116,
+        138,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hockey",
+      "answer_letters": "HOCKEY",
+      "indices": [
+        13,
+        71,
+        92,
+        75,
+        6,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        79,
+        22,
+        55,
+        4,
+        99,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fischer",
+      "answer_letters": "FISCHER",
+      "indices": [
+        97,
+        29,
+        161,
+        88,
+        62,
+        118,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fabian",
+      "answer_letters": "FABIAN",
+      "indices": [
+        144,
+        120,
+        173,
+        167,
+        102,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
+      "indices": [
+        65,
+        14,
+        98,
+        147,
+        89,
+        66,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "annette",
+      "answer_letters": "ANNETTE",
+      "indices": [
+        33,
+        152,
+        91,
+        36,
+        61,
+        70,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
+        42,
+        23,
+        177,
+        73,
+        51,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        107,
+        1,
+        178,
+        106,
+        169,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outset",
+      "answer_letters": "OUTSET",
+      "indices": [
+        18,
+        34,
+        44,
+        25,
+        93,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cheese",
+      "answer_letters": "CHEESE",
+      "indices": [
+        52,
+        135,
+        132,
+        108,
+        35,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "actual",
+      "answer_letters": "ACTUAL",
+      "indices": [
+        149,
+        32,
+        134,
+        155,
+        176,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "latvia",
+      "answer_letters": "LATVIA",
+      "indices": [
+        129,
+        153,
+        154,
+        2,
+        139,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gustave",
+      "answer_letters": "GUSTAVE",
       "indices": [
         5,
-        96,
-        30,
-        178,
-        1,
-        100
+        53,
+        150,
+        17,
+        123,
+        40,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "insect",
-      "answer_letters": "INSECT",
+      "answer": "interwar",
+      "answer_letters": "INTERWAR",
       "indices": [
-        167,
-        49,
-        35,
+        9,
+        27,
+        111,
         46,
-        52,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "retake",
-      "answer_letters": "RETAKE",
-      "indices": [
-        0,
-        175,
-        15,
-        57,
-        141,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
-      "indices": [
-        81,
-        155,
-        144,
-        134,
+        54,
         104,
-        83,
-        97,
-        78,
-        76
+        20,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
+      "answer": "raiders",
+      "answer_letters": "RAIDERS",
+      "indices": [
+        84,
+        57,
+        130,
+        59,
+        175,
+        100,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leaked",
+      "answer_letters": "LEAKED",
+      "indices": [
+        158,
+        67,
+        83,
+        68,
+        76,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "safety",
+      "answer_letters": "SAFETY",
       "indices": [
         94,
-        105,
+        74,
+        131,
         39,
-        130,
-        75,
-        82
+        15,
+        86
       ]
     }
   ],

@@ -6,299 +6,299 @@
   "clues": [
     {
       "clue": null,
-      "answer": "sports",
-      "answer_letters": "SPORTS",
+      "answer": "schooner",
+      "answer_letters": "SCHOONER",
       "indices": [
-        14,
-        178,
+        12,
+        166,
+        175,
+        98,
         136,
-        27,
-        2,
-        12
+        103,
+        85,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "adolph",
-      "answer_letters": "ADOLPH",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
       "indices": [
         102,
-        38,
-        69,
-        95,
-        57,
-        175
+        180,
+        97,
+        101,
+        115,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "townsend",
-      "answer_letters": "TOWNSEND",
+      "answer": "thrash",
+      "answer_letters": "THRASH",
       "indices": [
-        15,
-        128,
-        126,
-        5,
-        63,
-        4,
-        103,
-        76
+        134,
+        127,
+        32,
+        124,
+        43,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "accept",
-      "answer_letters": "ACCEPT",
+      "answer": "alonso",
+      "answer_letters": "ALONSO",
       "indices": [
         176,
-        141,
-        165,
-        19,
-        177,
-        160
+        139,
+        121,
+        17,
+        62,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "wilkinson",
-      "answer_letters": "WILKINSON",
+      "answer": "well-known",
+      "answer_letters": "WELLKNOWN",
       "indices": [
-        110,
-        59,
-        147,
+        30,
+        19,
+        132,
+        94,
         142,
-        118,
         52,
-        169,
-        161,
+        41,
+        126,
         159
       ]
     },
     {
       "clue": null,
-      "answer": "kitchens",
-      "answer_letters": "KITCHENS",
+      "answer": "keystone",
+      "answer_letters": "KEYSTONE",
       "indices": [
         33,
-        111,
-        40,
-        45,
-        92,
         93,
+        68,
+        183,
+        160,
+        161,
         74,
-        49
+        181
       ]
     },
     {
       "clue": null,
-      "answer": "subway",
-      "answer_letters": "SUBWAY",
-      "indices": [
-        150,
-        44,
-        154,
-        30,
-        1,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "menace",
-      "answer_letters": "MENACE",
-      "indices": [
-        153,
-        130,
-        60,
-        56,
-        18,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
-      "indices": [
-        3,
-        9,
-        113,
-        158,
-        107,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seafood",
-      "answer_letters": "SEAFOOD",
+      "answer": "stabbed",
+      "answer_letters": "STABBED",
       "indices": [
         48,
-        181,
-        21,
-        137,
-        77,
-        65,
+        119,
+        1,
+        154,
+        117,
+        10,
         53
       ]
     },
     {
       "clue": null,
-      "answer": "authorship",
-      "answer_letters": "AUTHORSHIP",
+      "answer": "mascot",
+      "answer_letters": "MASCOT",
       "indices": [
-        171,
-        146,
-        112,
-        89,
-        133,
-        86,
-        62,
-        25,
+        153,
+        56,
+        169,
+        18,
+        65,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "itunes",
+      "answer_letters": "ITUNES",
+      "indices": [
+        111,
+        88,
+        44,
+        107,
+        90,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "specification",
+      "answer_letters": "SPECIFICATION",
+      "indices": [
+        182,
+        177,
+        130,
+        165,
         13,
-        0
+        137,
+        59,
+        45,
+        21,
+        40,
+        118,
+        77,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "detect",
-      "answer_letters": "DETECT",
+      "answer": "allows",
+      "answer_letters": "ALLOWS",
       "indices": [
-        108,
-        61,
-        104,
-        7,
-        72,
-        88
+        37,
+        95,
+        129,
+        31,
+        110,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "valley",
-      "answer_letters": "VALLEY",
+      "answer": "danish",
+      "answer_letters": "DANISH",
+      "indices": [
+        38,
+        81,
+        22,
+        3,
+        150,
+        55
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "verona",
+      "answer_letters": "VERONA",
       "indices": [
         84,
-        115,
-        129,
-        139,
-        156,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "éireann",
-      "answer_letters": "EIREANN",
-      "indices": [
-        83,
-        179,
+        61,
         122,
-        36,
-        81,
-        180,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "netball",
-      "answer_letters": "NETBALL",
-      "indices": [
+        158,
         172,
-        167,
-        119,
-        117,
-        73,
-        132,
-        94
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "thousands",
-      "answer_letters": "THOUSANDS",
+      "answer": "earth's",
+      "answer_letters": "EARTHS",
+      "indices": [
+        7,
+        106,
+        11,
+        15,
+        89,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        5,
+        156,
+        9,
+        25,
+        83,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "touched",
+      "answer_letters": "TOUCHED",
       "indices": [
         82,
-        127,
-        41,
+        145,
         140,
-        183,
-        37,
-        17,
-        173,
-        182
+        141,
+        80,
+        16,
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "ursula",
-      "answer_letters": "URSULA",
+      "answer": "uphold",
+      "answer_letters": "UPHOLD",
       "indices": [
-        152,
-        66,
-        43,
         99,
+        178,
+        113,
+        128,
         155,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "recycled",
-      "answer_letters": "RECYCLED",
-      "indices": [
-        32,
-        47,
-        6,
-        144,
-        166,
-        35,
-        85,
         23
       ]
     },
     {
       "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
+      "answer": "relates",
+      "answer_letters": "RELATES",
       "indices": [
-        98,
-        134,
-        151,
-        124,
-        79,
-        26
+        66,
+        167,
+        35,
+        51,
+        2,
+        4,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "upward",
-      "answer_letters": "UPWARD",
+      "answer": "occupied",
+      "answer_letters": "OCCUPIED",
       "indices": [
-        164,
+        69,
+        72,
+        6,
+        152,
         58,
-        101,
-        106,
-        11,
+        179,
+        47,
         28
       ]
     },
     {
       "clue": null,
-      "answer": "schoolhouse",
-      "answer_letters": "SCHOOLHOUSE",
+      "answer": "updated",
+      "answer_letters": "UPDATED",
+      "indices": [
+        164,
+        57,
+        108,
+        26,
+        151,
+        36,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sculptural",
+      "answer_letters": "SCULPTURAL",
       "indices": [
         168,
         46,
-        80,
-        31,
-        145,
-        148,
-        55,
-        121,
         70,
-        163,
-        16
+        148,
+        0,
+        112,
+        146,
+        86,
+        171,
+        147
       ]
     }
   ],

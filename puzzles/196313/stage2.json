@@ -6,29 +6,31 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lahore",
-      "answer_letters": "LAHORE",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
-        46,
-        73,
-        58,
-        2,
-        137,
-        167
+        35,
+        167,
+        31,
+        133,
+        143,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "invoked",
-      "answer_letters": "INVOKED",
+      "answer": "indicated",
+      "answer_letters": "INDICATED",
       "indices": [
         0,
         119,
-        69,
-        52,
-        49,
-        77,
-        8
+        4,
+        81,
+        179,
+        26,
+        80,
+        115,
+        173
       ]
     },
     {
@@ -37,252 +39,250 @@
       "answer_letters": "SHOWDOWN",
       "indices": [
         147,
-        121,
-        145,
+        150,
+        108,
         149,
         117,
-        108,
+        40,
         166,
-        85
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "affecting",
-      "answer_letters": "AFFECTING",
+      "answer": "avalanche",
+      "answer_letters": "AVALANCHE",
       "indices": [
+        120,
+        90,
         32,
-        53,
-        93,
-        56,
-        156,
-        41,
-        81,
+        64,
+        161,
         172,
-        39
+        51,
+        127,
+        77
       ]
     },
     {
       "clue": null,
-      "answer": "khalifa",
-      "answer_letters": "KHALIFA",
+      "answer": "katharine",
+      "answer_letters": "KATHARINE",
       "indices": [
         109,
+        116,
+        41,
         114,
-        161,
-        64,
-        103,
-        54,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "electrified",
-      "answer_letters": "ELECTRIFIED",
-      "indices": [
-        101,
-        88,
-        168,
-        48,
-        74,
-        3,
-        133,
-        99,
-        154,
-        151,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showcased",
-      "answer_letters": "SHOWCASED",
-      "indices": [
-        61,
-        160,
-        13,
-        123,
-        179,
         128,
-        79,
-        5,
-        173
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheldon",
-      "answer_letters": "SHELDON",
-      "indices": [
-        183,
-        127,
-        130,
-        82,
-        4,
-        68,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "locomotives",
-      "answer_letters": "LOCOMOTIVES",
-      "indices": [
-        21,
-        40,
-        51,
-        107,
-        62,
-        18,
-        134,
-        180,
-        129,
-        55,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        59,
-        16,
-        150,
-        20,
-        163,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rothschild",
-      "answer_letters": "ROTHSCHILD",
-      "indices": [
-        95,
-        181,
-        14,
-        106,
-        146,
-        97,
-        12,
-        178,
-        35,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bharat",
-      "answer_letters": "BHARAT",
-      "indices": [
-        132,
-        31,
-        10,
-        144,
-        47,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lafayette",
-      "answer_letters": "LAFAYETTE",
-      "indices": [
-        177,
-        26,
-        100,
-        120,
-        112,
-        115,
-        80,
-        23,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unable",
-      "answer_letters": "UNABLE",
-      "indices": [
-        182,
-        140,
-        139,
-        45,
-        83,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "everyone",
-      "answer_letters": "EVERYONE",
-      "indices": [
-        91,
-        90,
-        36,
         71,
-        125,
-        94,
+        103,
         158,
-        102
+        130
       ]
     },
     {
       "clue": null,
-      "answer": "matched",
-      "answer_letters": "MATCHED",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
       "indices": [
-        76,
-        157,
-        135,
+        136,
         19,
         124,
-        7,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "orange",
-      "answer_letters": "ORANGE",
-      "indices": [
-        86,
-        37,
-        171,
-        27,
-        143,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overhead",
-      "answer_letters": "OVERHEAD",
-      "indices": [
-        89,
-        162,
-        70,
-        6,
-        17,
-        65,
-        43,
+        181,
+        101,
         66
       ]
     },
     {
       "clue": null,
-      "answer": "nomadic",
-      "answer_letters": "NOMADIC",
+      "answer": "season-high",
+      "answer_letters": "SEASONHIGH",
+      "indices": [
+        61,
+        91,
+        47,
+        79,
+        145,
+        85,
+        160,
+        178,
+        39,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "solvent",
+      "answer_letters": "SOLVENT",
+      "indices": [
+        183,
+        13,
+        82,
+        69,
+        176,
+        152,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "loaded",
+      "answer_letters": "LOADED",
+      "indices": [
+        21,
+        107,
+        73,
+        175,
+        36,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        102,
+        93,
+        54,
+        5,
+        48,
+        134,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
+      "indices": [
+        95,
+        18,
+        14,
+        106,
+        55,
+        144,
+        12,
+        139,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "betrayed",
+      "answer_letters": "BETRAYED",
+      "indices": [
+        132,
+        59,
+        169,
+        137,
+        157,
+        125,
+        163,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lockwood",
+      "answer_letters": "LOCKWOOD",
+      "indices": [
+        177,
+        52,
+        156,
+        49,
+        123,
+        68,
+        94,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uniform",
+      "answer_letters": "UNIFORM",
+      "indices": [
+        182,
+        27,
+        154,
+        99,
+        20,
+        3,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efficacy",
+      "answer_letters": "EFFICACY",
+      "indices": [
+        56,
+        100,
+        53,
+        180,
+        16,
+        10,
+        97,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "method",
+      "answer_letters": "METHOD",
+      "indices": [
+        111,
+        168,
+        74,
+        17,
+        2,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overall",
+      "answer_letters": "OVERALL",
+      "indices": [
+        86,
+        162,
+        70,
+        37,
+        171,
+        46,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overseas",
+      "answer_letters": "OVERSEAS",
+      "indices": [
+        89,
+        129,
+        151,
+        6,
+        105,
+        7,
+        43,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "noticeable",
+      "answer_letters": "NOTICEABLE",
       "indices": [
         33,
         98,
-        111,
-        22,
-        28,
+        135,
         63,
-        30
+        30,
+        65,
+        22,
+        45,
+        88,
+        24
       ]
     }
   ],

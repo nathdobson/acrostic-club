@@ -6,113 +6,66 @@
   "clues": [
     {
       "clue": null,
-      "answer": "afghan",
-      "answer_letters": "AFGHAN",
+      "answer": "abolished",
+      "answer_letters": "ABOLISHED",
       "indices": [
-        158,
-        58,
-        184,
-        67,
         36,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellowstone",
-      "answer_letters": "YELLOWSTONE",
-      "indices": [
-        65,
-        157,
-        137,
-        156,
-        94,
-        95,
-        110,
-        66,
-        7,
-        143,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        44,
-        56,
-        177,
-        141,
-        75,
-        11,
-        122,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-hand",
-      "answer_letters": "RIGHTHAND",
-      "indices": [
-        37,
-        13,
-        50,
-        32,
-        181,
-        164,
-        63,
-        69,
+        42,
+        113,
+        57,
+        76,
+        55,
+        52,
+        187,
         8
       ]
     },
     {
       "clue": null,
-      "answer": "avenge",
-      "answer_letters": "AVENGE",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
       "indices": [
-        168,
-        186,
+        65,
+        90,
+        125,
+        135,
+        151,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neighborhoods",
+      "answer_letters": "NEIGHBORHOODS",
+      "indices": [
+        44,
         79,
-        49,
-        24,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "now-defunct",
-      "answer_letters": "NOWDEFUNCT",
-      "indices": [
-        93,
+        109,
+        23,
+        167,
+        10,
+        94,
+        179,
+        152,
+        7,
         6,
-        114,
-        98,
-        190,
-        106,
-        160,
-        88,
-        91,
-        151
+        14,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "demonstrates",
-      "answer_letters": "DEMONSTRATES",
+      "answer": "reserves",
+      "answer_letters": "RESERVES",
       "indices": [
-        169,
-        2,
-        100,
-        46,
-        83,
-        34,
-        132,
-        116,
-        43,
-        118,
-        101,
-        145
+        54,
+        73,
+        4,
+        162,
+        37,
+        186,
+        136,
+        0
       ]
     },
     {
@@ -120,29 +73,71 @@
       "answer": "airship",
       "answer_letters": "AIRSHIP",
       "indices": [
-        90,
-        109,
-        121,
-        21,
-        135,
-        33,
-        138
+        158,
+        68,
+        191,
+        142,
+        78,
+        29,
+        175
       ]
     },
     {
       "clue": null,
-      "answer": "three-time",
-      "answer_letters": "THREETIME",
+      "answer": "nominees",
+      "answer_letters": "NOMINEES",
       "indices": [
-        103,
-        167,
-        179,
-        129,
-        144,
-        5,
-        82,
+        143,
+        182,
         19,
-        97
+        18,
+        93,
+        190,
+        173,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        169,
+        75,
+        185,
+        70,
+        72,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "agreements",
+      "answer_letters": "AGREEMENTS",
+      "indices": [
+        168,
+        24,
+        121,
+        122,
+        126,
+        38,
+        140,
+        88,
+        103,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "top-ten",
+      "answer_letters": "TOPTEN",
+      "indices": [
+        181,
+        119,
+        112,
+        60,
+        144,
+        30
       ]
     },
     {
@@ -150,156 +145,161 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        57,
-        187,
-        152,
-        68,
-        23,
-        78
+        96,
+        97,
+        67,
+        48,
+        184,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "anchor",
-      "answer_letters": "ANCHOR",
+      "answer": "adherents",
+      "answer_letters": "ADHERENTS",
       "indices": [
         22,
-        26,
-        125,
+        98,
         108,
-        182,
-        130
+        157,
+        130,
+        87,
+        26,
+        66,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "sophie",
-      "answer_letters": "SOPHIE",
+      "answer": "showdown",
+      "answer_letters": "SHOWDOWN",
       "indices": [
-        146,
-        105,
-        155,
-        189,
-        48,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shropshire",
-      "answer_letters": "SHROPSHIRE",
-      "indices": [
-        159,
-        172,
-        191,
-        176,
-        112,
-        12,
-        52,
-        29,
-        54,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "high-speed",
-      "answer_letters": "HIGHSPEED",
-      "indices": [
+        39,
         17,
-        76,
-        99,
-        128,
-        142,
-        86,
-        136,
-        15,
-        45
+        105,
+        95,
+        80,
+        85,
+        114,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
+      "answer": "shopping",
+      "answer_letters": "SHOPPING",
+      "indices": [
+        77,
+        189,
+        176,
+        155,
+        86,
+        13,
+        69,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "halfback",
+      "answer_letters": "HALFBACK",
+      "indices": [
+        128,
+        63,
+        139,
+        58,
+        148,
+        41,
+        91,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "repulsed",
+      "answer_letters": "REPULSED",
       "indices": [
         161,
-        119,
-        10,
-        42,
-        18,
-        173
+        56,
+        138,
+        160,
+        137,
+        159,
+        11,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "unions",
-      "answer_letters": "UNIONS",
+      "answer": "unseen",
+      "answer_letters": "UNSEEN",
       "indices": [
         124,
-        64,
-        25,
-        85,
         47,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "genome",
-      "answer_letters": "GENOME",
-      "indices": [
-        70,
+        34,
+        15,
         153,
-        102,
-        61,
-        38,
-        115
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "ghosts",
-      "answer_letters": "GHOSTS",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
       "indices": [
         27,
-        1,
+        61,
+        115,
+        132,
+        164,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        50,
         133,
-        77,
-        60,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "established",
-      "answer_letters": "ESTABLISHED",
-      "indices": [
-        53,
-        4,
         171,
-        41,
-        148,
-        139,
-        185,
-        0,
-        72,
-        178,
-        80
+        32,
+        43,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "deployed",
-      "answer_letters": "DEPLOYED",
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
       "indices": [
-        123,
-        126,
-        175,
-        96,
-        113,
-        149,
-        140,
-        14
+        178,
+        25,
+        145,
+        2,
+        83,
+        1,
+        46,
+        177,
+        101,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "definitely",
+      "answer_letters": "DEFINITELY",
+      "indices": [
+        45,
+        165,
+        106,
+        33,
+        49,
+        82,
+        5,
+        129,
+        156,
+        149
       ]
     }
   ],

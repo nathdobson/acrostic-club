@@ -6,306 +6,306 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kolkata",
-      "answer_letters": "KOLKATA",
+      "answer": "killer",
+      "answer_letters": "KILLER",
       "indices": [
-        170,
-        75,
-        27,
         15,
-        13,
-        146,
-        131
+        180,
+        118,
+        119,
+        168,
+        162
       ]
     },
     {
       "clue": null,
-      "answer": "aluminum",
-      "answer_letters": "ALUMINUM",
+      "answer": "awaiting",
+      "answer_letters": "AWAITING",
       "indices": [
-        6,
-        17,
-        149,
-        96,
+        53,
+        52,
+        152,
         23,
-        113,
+        9,
+        86,
+        91,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tailor",
+      "answer_letters": "TAILOR",
+      "indices": [
+        25,
+        172,
+        28,
+        71,
+        161,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "harrow",
+      "answer_letters": "HARROW",
+      "indices": [
+        1,
+        37,
+        136,
+        95,
+        184,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        24,
+        149,
+        80,
+        135,
+        76,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
+      "indices": [
+        132,
+        13,
+        121,
+        19,
+        107,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikolai",
+      "answer_letters": "NIKOLAI",
+      "indices": [
+        185,
+        187,
+        170,
+        72,
+        17,
+        131,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shootout",
+      "answer_letters": "SHOOTOUT",
+      "indices": [
+        0,
+        106,
+        175,
+        94,
+        182,
+        148,
         100,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twitter",
+      "answer_letters": "TWITTER",
+      "indices": [
+        41,
+        138,
+        49,
+        127,
+        188,
+        20,
+        176
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "optimism",
+      "answer_letters": "OPTIMISM",
+      "indices": [
+        112,
+        167,
+        125,
+        110,
+        96,
+        7,
+        154,
         103
       ]
     },
     {
       "clue": null,
-      "answer": "two-hour",
-      "answer_letters": "TWOHOUR",
+      "answer": "chiefs",
+      "answer_letters": "CHIEFS",
       "indices": [
+        14,
+        66,
+        140,
+        60,
+        93,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kolkata",
+      "answer_letters": "KOLKATA",
+      "indices": [
+        29,
+        104,
+        35,
+        177,
+        6,
+        105,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
+      "indices": [
+        81,
+        8,
+        115,
+        128,
+        36,
+        67,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-time",
+      "answer_letters": "TWOTIME",
+      "indices": [
+        141,
+        144,
+        43,
         47,
-        82,
-        99,
+        18,
+        155,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        150,
+        46,
+        75,
+        90,
+        123,
+        147,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "threatens",
+      "answer_letters": "THREATENS",
+      "indices": [
+        65,
+        139,
+        181,
+        142,
+        117,
+        50,
+        30,
+        113,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "harbour",
+      "answer_letters": "HARBOUR",
+      "indices": [
         57,
-        184,
+        164,
+        101,
+        62,
+        99,
         156,
         73
       ]
     },
     {
       "clue": null,
-      "answer": "hawaii",
-      "answer_letters": "HAWAII",
-      "indices": [
-        42,
-        37,
-        174,
-        2,
-        18,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        24,
-        106,
-        98,
-        65,
-        46,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
-      "indices": [
-        132,
-        63,
-        118,
-        119,
-        72,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "narrow",
-      "answer_letters": "NARROW",
-      "indices": [
-        80,
-        34,
-        162,
-        176,
-        175,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "strike",
-      "answer_letters": "STRIKE",
-      "indices": [
-        0,
-        50,
-        111,
-        92,
-        177,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "timber",
-      "answer_letters": "TIMBER",
-      "indices": [
-        141,
-        7,
-        155,
-        62,
-        4,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
-      "indices": [
-        94,
-        90,
-        87,
-        76,
-        145,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "casinos",
-      "answer_letters": "CASINOS",
-      "indices": [
-        14,
-        78,
-        166,
-        110,
-        121,
-        148,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "knowledge",
-      "answer_letters": "KNOWLEDGE",
-      "indices": [
-        29,
-        91,
-        104,
-        52,
-        35,
-        142,
-        179,
-        158,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editor",
-      "answer_letters": "EDITOR",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
       "indices": [
         159,
-        157,
-        28,
-        188,
-        70,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tobacco",
-      "answer_letters": "TOBACCO",
-      "indices": [
-        125,
-        43,
-        11,
-        172,
-        169,
-        69,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "takahashi",
-      "answer_letters": "TAKAHASHI",
-      "indices": [
-        182,
-        53,
-        19,
-        152,
-        147,
-        117,
-        154,
-        66,
-        187
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "throws",
-      "answer_letters": "THROWS",
-      "indices": [
-        105,
-        139,
-        181,
-        135,
-        84,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "haitian",
-      "answer_letters": "HAITIAN",
-      "indices": [
-        1,
-        164,
-        140,
-        41,
-        180,
+        179,
+        82,
         58,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        20,
-        134,
-        93,
-        128,
         108,
-        127
+        157
       ]
     },
     {
       "clue": null,
-      "answer": "height",
-      "answer_letters": "HEIGHT",
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
       "indices": [
         85,
-        107,
-        86,
+        92,
         45,
         124,
-        9
+        84,
+        78,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "employee",
-      "answer_letters": "EMPLOYEE",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
       "indices": [
-        168,
-        3,
-        167,
-        71,
-        112,
-        38,
         88,
-        114
+        59,
+        11,
+        27,
+        114,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "ludwig",
-      "answer_letters": "LUDWIG",
+      "answer": "louisa",
+      "answer_letters": "LOUISA",
       "indices": [
         12,
+        70,
         44,
-        115,
-        36,
         122,
-        123
+        39,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "president",
-      "answer_letters": "PRESIDENT",
+      "answer": "psychic",
+      "answer_letters": "PSYCHIC",
       "indices": [
         130,
-        95,
-        81,
         56,
+        38,
+        169,
+        42,
         32,
-        22,
-        67,
-        8,
-        25
+        69
       ]
     }
   ],

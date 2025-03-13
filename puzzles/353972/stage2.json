@@ -6,41 +6,46 @@
   "clues": [
     {
       "clue": null,
-      "answer": "melvin",
-      "answer_letters": "MELVIN",
+      "answer": "melville",
+      "answer_letters": "MELVILLE",
       "indices": [
         166,
         10,
         16,
         13,
         88,
-        124
+        105,
+        34,
+        169
       ]
     },
     {
       "clue": null,
-      "answer": "anthem",
-      "answer_letters": "ANTHEM",
+      "answer": "attend",
+      "answer_letters": "ATTEND",
       "indices": [
         144,
-        47,
         38,
-        59,
+        58,
         93,
-        95
+        47,
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "ghetto",
-      "answer_letters": "GHETTO",
+      "answer": "griffiths",
+      "answer_letters": "GRIFFITHS",
       "indices": [
-        177,
+        42,
+        152,
+        163,
+        30,
+        72,
+        160,
+        159,
         87,
-        63,
-        164,
-        61,
-        123
+        52
       ]
     },
     {
@@ -49,10 +54,10 @@
       "answer_letters": "AMBUSHED",
       "indices": [
         137,
-        4,
+        89,
         136,
         148,
-        52,
+        186,
         62,
         173,
         106
@@ -60,18 +65,15 @@
     },
     {
       "clue": null,
-      "answer": "nightclub",
-      "answer_letters": "NIGHTCLUB",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
         175,
-        176,
-        155,
-        140,
-        28,
-        102,
-        99,
-        73,
-        65
+        110,
+        143,
+        14,
+        145,
+        179
       ]
     },
     {
@@ -80,10 +82,10 @@
       "answer_letters": "VIEWED",
       "indices": [
         44,
-        163,
-        100,
-        56,
-        19,
+        96,
+        151,
+        185,
+        40,
         138
       ]
     },
@@ -92,27 +94,52 @@
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
-        129,
-        57,
+        125,
+        35,
         108,
-        92,
-        110,
-        49
+        69,
+        129,
+        46
       ]
     },
     {
       "clue": null,
-      "answer": "real-life",
-      "answer_letters": "REALLIFE",
+      "answer": "reuben",
+      "answer_letters": "REUBEN",
       "indices": [
-        76,
+        85,
+        45,
+        73,
+        65,
         114,
-        0,
-        34,
-        32,
-        153,
-        150,
-        77
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neville",
+      "answer_letters": "NEVILLE",
+      "indices": [
+        158,
+        184,
+        18,
+        29,
+        7,
+        2,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        118,
+        157,
+        28,
+        9,
+        57,
+        81
       ]
     },
     {
@@ -121,113 +148,84 @@
       "answer_letters": "NEWTON",
       "indices": [
         113,
-        125,
-        143,
-        70,
-        118,
+        77,
+        56,
+        171,
+        123,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
       "indices": [
-        133,
-        98,
-        67,
-        145,
-        39,
-        167
+        74,
+        103,
+        84,
+        75,
+        155,
+        92,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "nobles",
-      "answer_letters": "NOBLES",
+      "answer": "half-hour",
+      "answer_letters": "HALFHOUR",
+      "indices": [
+        39,
+        26,
+        99,
+        149,
+        140,
+        48,
+        31,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
+      "indices": [
+        100,
+        76,
+        50,
+        70,
+        116,
+        117,
+        153,
+        32,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offline",
+      "answer_letters": "OFFLINE",
+      "indices": [
+        112,
+        150,
+        83,
+        161,
+        8,
+        183,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "numbers",
+      "answer_letters": "NUMBERS",
       "indices": [
         120,
-        84,
-        24,
-        161,
-        25,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thrilling",
-      "answer_letters": "THRILLING",
-      "indices": [
-        171,
-        117,
-        85,
-        29,
-        7,
-        2,
-        35,
-        183,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hutton",
-      "answer_letters": "HUTTON",
-      "indices": [
-        103,
         27,
-        74,
-        91,
-        53,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editorial",
-      "answer_letters": "EDITORIAL",
-      "indices": [
-        45,
-        20,
-        160,
-        159,
-        112,
-        66,
-        96,
-        26,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offensive",
-      "answer_letters": "OFFENSIVE",
-      "indices": [
-        48,
-        83,
-        149,
-        184,
-        54,
-        50,
-        8,
-        18,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        128,
+        4,
+        24,
         36,
-        185,
-        186,
-        116,
-        151,
-        40,
-        127
+        66,
+        147
       ]
     },
     {
@@ -236,69 +234,71 @@
       "answer_letters": "LEHIGH",
       "indices": [
         1,
-        14,
-        69,
-        12,
+        80,
+        178,
+        67,
         68,
-        178
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
         5,
-        121,
-        31,
-        58,
-        109,
-        9,
-        157,
-        180
+        12,
+        98,
+        97,
+        17,
+        79,
+        109
       ]
     },
     {
       "clue": null,
-      "answer": "withdrew",
-      "answer_letters": "WITHDREW",
+      "answer": "woolwich",
+      "answer_letters": "WOOLWICH",
       "indices": [
         130,
-        17,
-        179,
-        132,
-        97,
-        46,
-        80,
-        134
+        43,
+        121,
+        180,
+        134,
+        176,
+        102,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "affirmed",
-      "answer_letters": "AFFIRMED",
+      "answer": "attending",
+      "answer_letters": "ATTENDING",
       "indices": [
         22,
-        30,
-        72,
+        164,
+        61,
+        63,
+        124,
+        168,
         104,
-        152,
-        89,
-        169,
-        168
+        128,
+        177
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "yokohama",
+      "answer_letters": "YOKOHAMA",
       "indices": [
         181,
-        43,
-        75,
-        81,
-        172,
-        79
+        53,
+        127,
+        133,
+        132,
+        0,
+        95,
+        167
       ]
     }
   ],

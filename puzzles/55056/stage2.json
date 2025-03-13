@@ -6,17 +6,20 @@
   "clues": [
     {
       "clue": null,
-      "answer": "reissued",
-      "answer_letters": "REISSUED",
+      "answer": "rescheduled",
+      "answer_letters": "RESCHEDULED",
       "indices": [
         30,
         21,
-        74,
         37,
-        10,
-        173,
+        12,
+        132,
         112,
-        114
+        114,
+        173,
+        60,
+        89,
+        120
       ]
     },
     {
@@ -24,156 +27,246 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        92,
-        58,
-        171,
-        151,
-        110,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "coated",
-      "answer_letters": "COATED",
-      "indices": [
-        12,
-        53,
-        107,
-        123,
-        89,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
-      "indices": [
-        140,
-        179,
-        61,
-        76,
-        113,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evaluate",
-      "answer_letters": "EVALUATE",
-      "indices": [
-        72,
-        168,
-        32,
-        14,
-        84,
-        36,
-        19,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loyola",
-      "answer_letters": "LOYOLA",
-      "indices": [
-        15,
-        98,
+        145,
+        99,
         82,
-        79,
-        63,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "voltage",
-      "answer_letters": "VOLTAGE",
-      "indices": [
-        128,
-        157,
-        166,
-        139,
+        144,
         57,
-        69,
-        35
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "aspirations",
-      "answer_letters": "ASPIRATIONS",
+      "answer": "curator",
+      "answer_letters": "CURATOR",
       "indices": [
-        187,
-        55,
-        4,
-        9,
-        85,
+        135,
+        118,
+        137,
         5,
         7,
-        177,
-        117,
+        53,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "houston",
+      "answer_letters": "HOUSTON",
+      "indices": [
+        140,
+        172,
+        164,
+        155,
+        142,
+        64,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elevation",
+      "answer_letters": "ELEVATION",
+      "indices": [
+        72,
+        14,
+        103,
+        168,
+        36,
+        59,
+        127,
+        29,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
+      "indices": [
+        63,
+        35,
+        55,
+        98,
+        131,
+        20,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "vanuatu",
+      "answer_letters": "VANUATU",
+      "indices": [
+        128,
+        183,
         122,
+        80,
+        136,
+        139,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "alfredo",
+      "answer_letters": "ALFREDO",
+      "indices": [
+        187,
+        15,
+        178,
+        85,
+        133,
+        17,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        75,
+        163,
+        34,
+        0,
+        111,
+        25,
+        38,
+        158,
+        96,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "delays",
+      "answer_letters": "DELAYS",
+      "indices": [
+        76,
+        16,
+        166,
+        110,
+        88,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "napoleon's",
-      "answer_letters": "NAPOLEONS",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
-        68,
-        48,
-        23,
-        64,
-        159,
-        94,
-        149,
-        39,
-        90
+        146,
+        9,
+        125,
+        108,
+        177,
+        6,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "doorway",
-      "answer_letters": "DOORWAY",
-      "indices": [
-        17,
-        38,
-        45,
-        174,
-        186,
-        24,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
-      "indices": [
-        44,
-        172,
-        118,
-        96,
-        156,
-        178,
-        80,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kyushu",
-      "answer_letters": "KYUSHU",
+      "answer": "keynote",
+      "answer_letters": "KEYNOTE",
       "indices": [
         66,
-        153,
-        46,
-        6,
-        111,
-        158
+        129,
+        44,
+        95,
+        121,
+        56,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "educational",
+      "answer_letters": "EDUCATIONAL",
+      "indices": [
+        87,
+        160,
+        84,
+        52,
+        24,
+        184,
+        67,
+        149,
+        39,
+        48,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norway",
+      "answer_letters": "NORWAY",
+      "indices": [
+        58,
+        157,
+        174,
+        186,
+        92,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toyota",
+      "answer_letters": "TOYOTA",
+      "indices": [
+        19,
+        106,
+        162,
+        83,
+        181,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highways",
+      "answer_letters": "HIGHWAYS",
+      "indices": [
+        1,
+        74,
+        69,
+        73,
+        151,
+        107,
+        188,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "epilepsy",
+      "answer_letters": "EPILEPSY",
+      "indices": [
+        50,
+        4,
+        167,
+        176,
+        2,
+        23,
+        90,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bharatiya",
+      "answer_letters": "BHARATIYA",
+      "indices": [
+        71,
+        182,
+        141,
+        93,
+        113,
+        26,
+        41,
+        61,
+        32
       ]
     },
     {
@@ -181,118 +274,25 @@
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
-        87,
+        169,
         28,
         42,
-        29,
-        126,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
-      "indices": [
-        95,
-        121,
-        56,
-        16,
-        144,
-        163,
-        49,
-        0,
-        20,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tornado",
-      "answer_letters": "TORNADO",
-      "indices": [
-        181,
-        106,
-        93,
-        54,
-        13,
-        160,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hierarchy",
-      "answer_letters": "HIERARCHY",
-      "indices": [
-        132,
-        167,
-        133,
-        137,
-        183,
-        105,
-        135,
-        1,
-        188
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnicity",
-      "answer_letters": "ETHNICITY",
-      "indices": [
-        129,
-        101,
-        102,
-        75,
-        67,
-        52,
-        41,
-        142,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "buddhist",
-      "answer_letters": "BUDDHIST",
-      "indices": [
-        71,
-        164,
-        125,
-        108,
-        182,
-        127,
-        155,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethanol",
-      "answer_letters": "ETHANOL",
-      "indices": [
-        169,
-        131,
-        73,
-        136,
-        99,
         65,
-        60
+        49,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "theresa",
-      "answer_letters": "THERESA",
+      "answer": "theory",
+      "answer_letters": "THEORY",
       "indices": [
-        184,
+        101,
         152,
-        50,
-        34,
-        2,
-        25,
-        141
+        179,
+        45,
+        126,
+        116
       ]
     }
   ],

@@ -6,75 +6,76 @@
   "clues": [
     {
       "clue": null,
-      "answer": "authorship",
-      "answer_letters": "AUTHORSHIP",
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
       "indices": [
-        191,
-        20,
-        90,
-        63,
-        2,
-        166,
-        96,
-        181,
-        65,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "by-election",
-      "answer_letters": "BYELECTION",
-      "indices": [
-        138,
-        196,
-        111,
-        4,
-        81,
-        190,
-        82,
-        59,
-        46,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hadley",
-      "answer_letters": "HADLEY",
-      "indices": [
-        110,
         25,
-        107,
-        133,
-        64,
-        12
+        152,
+        116,
+        123,
+        167,
+        128,
+        173,
+        90,
+        34
       ]
     },
     {
       "clue": null,
-      "answer": "influx",
-      "answer_letters": "INFLUX",
+      "answer": "buffer",
+      "answer_letters": "BUFFER",
+      "indices": [
+        54,
+        20,
+        194,
+        158,
+        111,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "homage",
+      "answer_letters": "HOMAGE",
+      "indices": [
+        147,
+        2,
+        153,
+        127,
+        88,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "independent",
+      "answer_letters": "INDEPENDENT",
       "indices": [
         8,
+        84,
+        18,
+        187,
+        3,
+        24,
+        174,
+        136,
+        139,
         192,
-        169,
-        134,
-        68,
-        115
+        183
       ]
     },
     {
       "clue": null,
-      "answer": "khyber",
-      "answer_letters": "KHYBER",
+      "answer": "kickoff",
+      "answer_letters": "KICKOFF",
       "indices": [
         9,
-        147,
-        34,
-        93,
-        144,
-        164
+        163,
+        190,
+        131,
+        46,
+        157,
+        169
       ]
     },
     {
@@ -83,240 +84,239 @@
       "answer_letters": "CYNTHIA",
       "indices": [
         140,
-        125,
-        75,
-        116,
-        123,
-        49,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "happening",
-      "answer_letters": "HAPPENING",
-      "indices": [
+        39,
+        177,
+        36,
         161,
-        141,
-        154,
-        21,
-        162,
-        69,
-        163,
-        60,
-        88
+        132,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "ahmedabad",
-      "answer_letters": "AHMEDABAD",
+      "answer": "header",
+      "answer_letters": "HEADER",
+      "indices": [
+        37,
+        81,
+        41,
+        32,
+        162,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "appeal",
+      "answer_letters": "APPEAL",
       "indices": [
         119,
-        37,
-        153,
+        154,
+        21,
         43,
-        32,
         105,
-        54,
-        41,
-        23
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "three-day",
-      "answer_letters": "THREEDAY",
+      "answer": "therapy",
+      "answer_letters": "THERAPY",
       "indices": [
-        122,
-        186,
-        45,
-        1,
+        146,
+        110,
         129,
-        118,
+        45,
+        191,
+        73,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "textbook",
+      "answer_letters": "TEXTBOOK",
+      "indices": [
+        62,
+        1,
+        115,
+        122,
+        138,
+        156,
+        55,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        38,
+        17,
+        168,
+        97,
+        51,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
+      "indices": [
+        66,
+        13,
+        180,
+        63,
+        83,
+        42,
+        181,
         33,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "japan's",
+      "answer_letters": "JAPANS",
+      "indices": [
+        151,
+        47,
+        98,
+        102,
+        113,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "employ",
+      "answer_letters": "EMPLOY",
+      "indices": [
+        114,
+        48,
+        79,
+        195,
+        28,
         149
       ]
     },
     {
       "clue": null,
-      "answer": "turkey",
-      "answer_letters": "TURKEY",
-      "indices": [
-        62,
-        152,
-        128,
-        131,
-        16,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "europe",
-      "answer_letters": "EUROPE",
-      "indices": [
-        148,
-        56,
-        80,
-        168,
-        98,
-        187
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reputation",
-      "answer_letters": "REPUTATION",
-      "indices": [
-        66,
-        10,
-        73,
-        14,
-        180,
-        47,
-        160,
-        86,
-        156,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "judoka",
-      "answer_letters": "JUDOKA",
-      "indices": [
-        151,
-        142,
-        85,
-        55,
-        175,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "energy",
-      "answer_letters": "ENERGY",
-      "indices": [
-        114,
-        17,
-        38,
-        42,
-        51,
-        188
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmonton",
-      "answer_letters": "EDMONTON",
+      "answer": "entirety",
+      "answer_letters": "ENTIRETY",
       "indices": [
         124,
-        18,
-        48,
-        13,
-        106,
+        29,
+        57,
+        65,
+        80,
+        94,
         76,
-        28,
-        50
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "gotten",
-      "answer_letters": "GOTTEN",
+      "answer": "guyana",
+      "answer_letters": "GUYANA",
       "indices": [
         178,
-        91,
+        142,
+        120,
+        182,
+        106,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edited",
+      "answer_letters": "EDITED",
+      "indices": [
+        99,
+        70,
+        49,
+        160,
+        135,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nutrition",
+      "answer_letters": "NUTRITION",
+      "indices": [
+        50,
+        56,
         109,
+        72,
+        176,
         171,
-        94,
+        86,
+        91,
         103
       ]
     },
     {
       "clue": null,
-      "answer": "elemental",
-      "answer_letters": "ELEMENTAL",
-      "indices": [
-        83,
-        195,
-        99,
-        101,
-        135,
-        29,
-        57,
-        182,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        84,
-        74,
-        183,
-        172,
-        53,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editor",
-      "answer_letters": "EDITOR",
+      "answer": "endured",
+      "answer_letters": "ENDURED",
       "indices": [
         71,
-        70,
-        176,
-        146,
-        167,
-        100
+        75,
+        107,
+        14,
+        100,
+        10,
+        118
       ]
     },
     {
       "clue": null,
-      "answer": "stepped",
-      "answer_letters": "STEPPED",
+      "answer": "salute",
+      "answer_letters": "SALUTE",
       "indices": [
         77,
+        53,
+        134,
+        68,
         185,
-        139,
-        79,
-        3,
-        30,
-        136
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "identify",
-      "answer_letters": "IDENTIFY",
+      "answer": "independently",
+      "answer_letters": "INDEPENDENTLY",
       "indices": [
-        132,
-        26,
+        59,
+        87,
+        23,
         5,
-        177,
-        36,
-        173,
-        194,
-        39
+        0,
+        144,
+        69,
+        26,
+        64,
+        60,
+        82,
+        133,
+        196
       ]
     },
     {
       "clue": null,
-      "answer": "suffer",
-      "answer_letters": "SUFFER",
+      "answer": "shelby",
+      "answer_letters": "SHELBY",
       "indices": [
         143,
-        97,
-        158,
-        157,
-        24,
-        72
+        172,
+        148,
+        7,
+        93,
+        188
       ]
     }
   ],

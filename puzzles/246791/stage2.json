@@ -6,64 +6,62 @@
   "clues": [
     {
       "clue": null,
-      "answer": "shadow",
-      "answer_letters": "SHADOW",
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
       "indices": [
         163,
         156,
-        157,
-        104,
+        150,
+        81,
         29,
-        93
+        144,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "everything",
-      "answer_letters": "EVERYTHING",
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
       "indices": [
-        60,
+        128,
         101,
-        17,
+        60,
         6,
-        142,
-        12,
+        49,
+        86,
+        32,
+        104,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hawthorne",
+      "answer_letters": "HAWTHORNE",
+      "indices": [
+        14,
+        130,
+        62,
+        165,
+        57,
+        105,
+        54,
+        136,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ibrahim",
+      "answer_letters": "IBRAHIM",
+      "indices": [
+        24,
+        127,
+        59,
+        71,
         70,
         134,
-        121,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "half-brother",
-      "answer_letters": "HALFBROTHER",
-      "indices": [
-        166,
-        84,
-        96,
-        140,
-        86,
-        54,
-        139,
-        154,
-        14,
-        116,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imagine",
-      "answer_letters": "IMAGINE",
-      "indices": [
-        174,
-        42,
-        100,
-        122,
-        24,
-        106,
-        87
+        83
       ]
     },
     {
@@ -72,13 +70,56 @@
       "answer_letters": "NATIVITY",
       "indices": [
         20,
-        19,
-        40,
+        84,
+        109,
         120,
         52,
         161,
-        56,
+        40,
         126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tribune",
+      "answer_letters": "TRIBUNE",
+      "indices": [
+        68,
+        145,
+        9,
+        45,
+        95,
+        106,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outdated",
+      "answer_letters": "OUTDATED",
+      "indices": [
+        63,
+        91,
+        154,
+        10,
+        3,
+        118,
+        167,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neumann",
+      "answer_letters": "NEUMANN",
+      "indices": [
+        77,
+        2,
+        46,
+        124,
+        114,
+        67,
+        11
       ]
     },
     {
@@ -86,208 +127,167 @@
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
-        118,
-        57,
-        107,
-        49,
-        72,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "onward",
-      "answer_letters": "ONWARD",
-      "indices": [
-        63,
-        170,
-        34,
-        130,
-        59,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nouveau",
-      "answer_letters": "NOUVEAU",
-      "indices": [
-        77,
-        90,
-        91,
-        158,
+        56,
+        166,
         58,
-        177,
-        64
+        43,
+        72,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "thyroid",
-      "answer_letters": "THYROID",
+      "answer": "highlight",
+      "answer_letters": "HIGHLIGHT",
       "indices": [
-        165,
+        23,
+        35,
+        0,
+        110,
+        151,
+        169,
+        122,
         37,
-        43,
-        133,
-        143,
-        9,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edmund",
+      "answer_letters": "EDMUND",
+      "indices": [
+        116,
+        31,
+        42,
+        176,
+        170,
         137
       ]
     },
     {
       "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
       "indices": [
-        23,
+        139,
+        158,
         135,
-        21,
+        133,
+        16,
+        80,
+        5,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uganda",
+      "answer_letters": "UGANDA",
+      "indices": [
+        64,
+        26,
+        100,
+        25,
+        47,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-day",
+      "answer_letters": "TWODAY",
+      "indices": [
+        22,
+        34,
+        143,
         48,
-        125,
+        19,
         85
       ]
     },
     {
       "clue": null,
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
-      "indices": [
-        167,
-        10,
-        124,
-        105,
-        136,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obtaining",
-      "answer_letters": "OBTAINING",
-      "indices": [
-        149,
-        127,
-        109,
-        114,
-        172,
-        67,
-        80,
-        11,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unlawful",
-      "answer_letters": "UNLAWFUL",
-      "indices": [
-        95,
-        25,
-        151,
-        3,
-        148,
-        132,
-        150,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thieves",
-      "answer_letters": "THIEVES",
-      "indices": [
-        22,
-        110,
-        169,
-        73,
-        16,
-        159,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shuttle",
-      "answer_letters": "SHUTTLE",
+      "answer": "sheffield",
+      "answer_letters": "SHEFFIELD",
       "indices": [
         4,
         99,
-        144,
-        68,
-        81,
-        178,
-        53
+        111,
+        140,
+        132,
+        174,
+        53,
+        65,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "invited",
-      "answer_letters": "INVITED",
+      "answer": "invaded",
+      "answer_letters": "INVADED",
       "indices": [
-        39,
+        172,
         153,
         173,
-        35,
-        36,
-        5,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "doomed",
-      "answer_letters": "DOOMED",
-      "indices": [
-        75,
-        94,
-        32,
-        83,
-        128,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embedded",
-      "answer_letters": "EMBEDDED",
-      "indices": [
-        102,
-        115,
-        45,
-        78,
-        152,
+        177,
         171,
-        2,
+        78,
         97
       ]
     },
     {
       "clue": null,
-      "answer": "roadway",
-      "answer_letters": "ROADWAY",
+      "answer": "downed",
+      "answer_letters": "DOWNED",
       "indices": [
-        1,
-        76,
-        15,
-        175,
-        62,
-        71,
-        89
+        66,
+        94,
+        93,
+        121,
+        87,
+        175
       ]
     },
     {
       "clue": null,
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
+      "answer": "estadio",
+      "answer_letters": "ESTADIO",
+      "indices": [
+        102,
+        113,
+        28,
+        125,
+        152,
+        39,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "royale",
+      "answer_letters": "ROYALE",
+      "indices": [
+        1,
+        76,
+        89,
+        157,
+        178,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "smoothly",
+      "answer_letters": "SMOOTHLY",
       "indices": [
         146,
-        119,
-        46,
-        162,
+        115,
         51,
-        176,
-        28
+        90,
+        162,
+        119,
+        96,
+        21
       ]
     }
   ],

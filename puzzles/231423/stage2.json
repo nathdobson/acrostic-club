@@ -6,158 +6,158 @@
   "clues": [
     {
       "clue": null,
-      "answer": "motivated",
-      "answer_letters": "MOTIVATED",
+      "answer": "method",
+      "answer_letters": "METHOD",
       "indices": [
         137,
-        4,
-        75,
-        9,
-        132,
-        2,
-        91,
         50,
+        75,
+        108,
+        4,
         0
       ]
     },
     {
       "clue": null,
-      "answer": "athletic",
-      "answer_letters": "ATHLETIC",
+      "answer": "agitation",
+      "answer_letters": "AGITATION",
       "indices": [
         79,
-        159,
-        72,
-        169,
-        171,
-        121,
-        61,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "renewal",
-      "answer_letters": "RENEWAL",
-      "indices": [
-        124,
-        105,
-        88,
-        20,
-        145,
-        168,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        126,
-        100,
-        64,
-        74,
-        5,
-        160,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invite",
-      "answer_letters": "INVITE",
-      "indices": [
-        177,
-        110,
-        40,
-        146,
+        111,
+        139,
+        113,
+        106,
         71,
+        53,
+        114,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotate",
+      "answer_letters": "ROTATE",
+      "indices": [
+        102,
+        17,
+        16,
+        168,
+        94,
         118
       ]
     },
     {
       "clue": null,
-      "answer": "neolithic",
-      "answer_letters": "NEOLITHIC",
+      "answer": "toulouse",
+      "answer_letters": "TOULOUSE",
       "indices": [
-        140,
-        128,
+        121,
+        73,
+        83,
+        63,
         92,
-        47,
-        1,
-        54,
-        36,
-        139,
-        167
+        74,
+        10,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "booster",
-      "answer_letters": "BOOSTER",
+      "answer": "instituto",
+      "answer_letters": "INSTITUTO",
+      "indices": [
+        61,
+        110,
+        162,
+        99,
+        1,
+        45,
+        175,
+        26,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neville",
+      "answer_letters": "NEVILLE",
+      "indices": [
+        142,
+        171,
+        40,
+        87,
+        47,
+        38,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bottle",
+      "answer_letters": "BOTTLE",
       "indices": [
         43,
-        131,
-        114,
-        165,
-        45,
-        179,
-        135
+        56,
+        116,
+        58,
+        169,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "unicef",
-      "answer_letters": "UNICEF",
+      "answer": "utrecht",
+      "answer_letters": "UTRECHT",
       "indices": [
         57,
-        142,
-        150,
-        67,
+        126,
+        124,
         123,
-        155
+        67,
+        55,
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "boroughs",
-      "answer_letters": "BOROUGHS",
+      "answer": "boniface",
+      "answer_letters": "BONIFACE",
       "indices": [
         19,
+        48,
+        88,
+        177,
+        155,
+        138,
+        7,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        105,
+        107,
+        72,
         98,
-        102,
-        17,
-        175,
-        111,
-        117,
-        10
+        20,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "elliott",
-      "answer_letters": "ELLIOTT",
+      "answer": "reviewed",
+      "answer_letters": "REVIEWED",
       "indices": [
-        96,
-        3,
-        130,
-        66,
-        73,
-        26,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rooted",
-      "answer_letters": "ROOTED",
-      "indices": [
-        180,
-        120,
-        39,
-        151,
+        104,
+        101,
+        132,
+        70,
         136,
+        33,
+        41,
         23
       ]
     },
@@ -166,51 +166,50 @@
       "answer": "ideologies",
       "answer_letters": "IDEOLOGIES",
       "indices": [
-        161,
-        172,
-        41,
-        13,
-        154,
-        48,
-        143,
         22,
+        172,
         24,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authorities",
-      "answer_letters": "AUTHORITIES",
-      "indices": [
-        62,
-        44,
-        147,
-        108,
-        82,
-        104,
-        27,
-        14,
-        141,
-        101,
+        120,
+        3,
+        39,
+        143,
+        109,
+        78,
         152
       ]
     },
     {
       "clue": null,
-      "answer": "nationwide",
-      "answer_letters": "NATIONWIDE",
+      "answer": "affiliation",
+      "answer_letters": "AFFILIATION",
       "indices": [
-        12,
-        138,
-        16,
-        109,
-        56,
+        2,
+        28,
+        178,
+        9,
+        170,
+        27,
+        62,
+        91,
+        141,
+        82,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neolithic",
+      "answer_letters": "NEOLITHIC",
+      "indices": [
         25,
-        69,
+        30,
+        13,
+        130,
         34,
-        60,
-        78
+        151,
+        117,
+        66,
+        176
       ]
     },
     {
@@ -219,11 +218,11 @@
       "answer_letters": "DWIGHT",
       "indices": [
         31,
-        52,
-        53,
+        145,
+        6,
         65,
-        95,
-        35
+        36,
+        159
       ]
     },
     {
@@ -231,59 +230,60 @@
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
-        116,
-        33,
-        70,
-        170,
+        147,
+        69,
         29,
+        154,
+        161,
         89,
         148,
-        58
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "high-level",
-      "answer_letters": "HIGHLEVEL",
+      "answer": "highlights",
+      "answer_letters": "HIGHLIGHTS",
       "indices": [
-        122,
-        87,
+        95,
+        164,
+        5,
+        100,
+        80,
+        150,
         85,
-        55,
-        38,
-        153,
+        160,
+        54,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overthrow",
+      "answer_letters": "OVERTHROW",
+      "indices": [
+        64,
         49,
         133,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "official",
-      "answer_letters": "OFFICIAL",
-      "indices": [
-        86,
-        28,
-        178,
-        6,
-        107,
-        164,
-        106,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "utrecht",
-      "answer_letters": "UTRECHT",
-      "indices": [
-        83,
-        94,
         77,
-        30,
-        176,
-        127,
-        99
+        35,
+        122,
+        135,
+        86,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ulrich",
+      "answer_letters": "ULRICH",
+      "indices": [
+        44,
+        174,
+        180,
+        146,
+        167,
+        127
       ]
     }
   ],

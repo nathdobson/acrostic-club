@@ -6,58 +6,61 @@
   "clues": [
     {
       "clue": null,
-      "answer": "bandwidth",
-      "answer_letters": "BANDWIDTH",
+      "answer": "barlow",
+      "answer_letters": "BARLOW",
       "indices": [
         18,
         34,
-        15,
-        54,
-        0,
-        9,
-        24,
-        148,
-        173
+        37,
+        164,
+        62,
+        0
       ]
     },
     {
       "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
+      "answer": "rotated",
+      "answer_letters": "ROTATED",
       "indices": [
-        112,
-        117,
-        73,
-        49,
-        110,
-        56
+        93,
+        124,
+        150,
+        119,
+        143,
+        28,
+        80
       ]
     },
     {
       "clue": null,
-      "answer": "yielded",
-      "answer_letters": "YIELDED",
+      "answer": "year-round",
+      "answer_letters": "YEARROUND",
       "indices": [
         127,
-        174,
-        2,
-        164,
-        32,
-        88,
-        108
+        70,
+        137,
+        104,
+        100,
+        103,
+        141,
+        12,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "nagano",
-      "answer_letters": "NAGANO",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
-        51,
-        129,
-        10,
-        171,
         66,
-        116
+        116,
+        58,
+        145,
+        69,
+        98,
+        176,
+        67,
+        30
       ]
     },
     {
@@ -65,228 +68,225 @@
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
-        12,
+        48,
         57,
-        98,
-        22,
-        78,
-        27,
-        42
+        136,
+        41,
+        35,
+        101,
+        78
       ]
     },
     {
       "clue": null,
-      "answer": "marched",
-      "answer_letters": "MARCHED",
+      "answer": "mcmahon",
+      "answer_letters": "MCMAHON",
       "indices": [
+        5,
+        159,
         170,
-        45,
-        8,
-        39,
+        11,
         146,
-        134,
-        121
+        111,
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "yankee",
-      "answer_letters": "YANKEE",
+      "answer": "yorker",
+      "answer_letters": "YORKER",
       "indices": [
         75,
-        147,
-        3,
+        72,
+        7,
         162,
-        60,
-        81
+        81,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "elector",
-      "answer_letters": "ELECTOR",
+      "answer": "engages",
+      "answer_letters": "ENGAGES",
       "indices": [
-        152,
-        74,
-        128,
-        159,
-        160,
-        111,
-        93
+        134,
+        73,
+        21,
+        90,
+        10,
+        94,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "ratios",
-      "answer_letters": "RATIOS",
+      "answer": "rochdale",
+      "answer_letters": "ROCHDALE",
       "indices": [
-        104,
-        95,
-        143,
-        23,
-        124,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stratford",
-      "answer_letters": "STRATFORD",
-      "indices": [
-        138,
-        84,
-        100,
-        119,
-        63,
-        157,
-        6,
         36,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
-      "indices": [
-        37,
-        62,
-        114,
-        41,
-        79,
-        19,
+        85,
+        26,
         115,
-        29,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "english",
-      "answer_letters": "ENGLISH",
-      "indices": [
-        31,
-        120,
-        168,
+        82,
+        95,
         165,
-        38,
-        142,
-        151
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "defines",
-      "answer_letters": "DEFINES",
+      "answer": "sheriff's",
+      "answer_letters": "SHERIFFS",
+      "indices": [
+        118,
+        22,
+        31,
+        112,
+        174,
+        110,
+        56,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reggie",
+      "answer_letters": "REGGIE",
+      "indices": [
+        19,
+        79,
+        92,
+        168,
+        9,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "either",
+      "answer_letters": "EITHER",
+      "indices": [
+        53,
+        23,
+        84,
+        1,
+        152,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dorothea",
+      "answer_letters": "DOROTHEA",
       "indices": [
         46,
-        28,
-        125,
-        64,
+        6,
+        156,
+        49,
+        63,
+        151,
+        128,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edited",
+      "answer_letters": "EDITED",
+      "indices": [
+        2,
+        32,
+        163,
+        114,
+        88,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "manfred",
+      "answer_letters": "MANFRED",
+      "indices": [
+        61,
+        106,
+        167,
+        157,
+        130,
+        42,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "punjabi",
+      "answer_letters": "PUNJABI",
+      "indices": [
+        154,
+        117,
         107,
-        53,
+        140,
+        14,
+        87,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "technicians",
+      "answer_letters": "TECHNICIANS",
+      "indices": [
+        160,
+        52,
+        39,
+        133,
+        77,
+        64,
+        172,
+        166,
+        99,
+        175,
         122
       ]
     },
     {
       "clue": null,
-      "answer": "ecuador",
-      "answer_letters": "ECUADOR",
-      "indices": [
-        155,
-        26,
-        141,
-        137,
-        82,
-        85,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mother",
-      "answer_letters": "MOTHER",
-      "indices": [
-        5,
-        103,
-        150,
-        1,
-        70,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pradesh",
-      "answer_letters": "PRADESH",
-      "indices": [
-        154,
-        156,
-        90,
-        16,
-        94,
-        131,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "threatening",
-      "answer_letters": "THREATENING",
-      "indices": [
-        96,
-        44,
-        58,
-        52,
-        11,
-        145,
-        158,
-        77,
-        166,
-        175,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "inflated",
+      "answer_letters": "INFLATED",
       "indices": [
         20,
-        67,
-        14,
-        102,
-        99,
-        69
+        51,
+        125,
+        74,
+        129,
+        96,
+        158,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "object",
-      "answer_letters": "OBJECT",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
       "indices": [
         65,
-        87,
-        140,
-        176,
-        172,
-        30
+        16,
+        102,
+        131,
+        44,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "norwegian",
-      "answer_letters": "NORWEGIAN",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        48,
-        72,
-        7,
-        136,
-        35,
-        92,
-        163,
-        106,
-        167
+        15,
+        29,
+        148,
+        173,
+        147,
+        3
       ]
     }
   ],

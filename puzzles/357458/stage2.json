@@ -6,302 +6,302 @@
   "clues": [
     {
       "clue": null,
-      "answer": "dining",
-      "answer_letters": "DINING",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         55,
-        63,
-        103,
+        80,
         150,
-        43,
-        90
+        90,
+        1,
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "avoided",
-      "answer_letters": "AVOIDED",
+      "answer": "archer",
+      "answer_letters": "ARCHER",
       "indices": [
-        107,
-        177,
-        147,
-        132,
-        5,
-        106,
-        47
+        101,
+        25,
+        28,
+        160,
+        94,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "nguyễn",
-      "answer_letters": "NGUYEN",
+      "answer": "nashville",
+      "answer_letters": "NASHVILLE",
       "indices": [
         167,
-        168,
-        31,
-        73,
-        12,
-        17
+        161,
+        109,
+        174,
+        177,
+        144,
+        180,
+        36,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "ideological",
-      "answer_letters": "IDEOLOGICAL",
+      "answer": "insulation",
+      "answer_letters": "INSULATION",
       "indices": [
         125,
-        23,
-        112,
-        16,
-        179,
-        37,
-        142,
+        64,
+        38,
+        166,
+        29,
+        67,
+        124,
         88,
-        35,
-        85,
-        29
+        37,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "kentucky",
-      "answer_letters": "KENTUCKY",
+      "answer": "kampala",
+      "answer_letters": "KAMPALA",
       "indices": [
         108,
-        94,
-        126,
-        152,
-        98,
-        28,
-        26,
-        57
+        107,
+        96,
+        105,
+        45,
+        165,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "analysts",
-      "answer_letters": "ANALYSTS",
+      "answer": "albany",
+      "answer_letters": "ALBANY",
       "indices": [
+        138,
+        86,
+        49,
         178,
         46,
-        9,
-        86,
-        119,
-        33,
-        0,
-        4
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "sheriff's",
-      "answer_letters": "SHERIFFS",
+      "answer": "systems",
+      "answer_letters": "SYSTEMS",
       "indices": [
+        4,
+        153,
         121,
-        93,
-        70,
-        25,
-        140,
-        84,
-        52,
+        92,
+        106,
+        59,
         133
       ]
     },
     {
       "clue": null,
-      "answer": "talent",
-      "answer_letters": "TALENT",
+      "answer": "though",
+      "answer_letters": "THOUGH",
       "indices": [
-        170,
-        45,
-        180,
-        181,
-        141,
-        92
+        11,
+        93,
+        147,
+        2,
+        65,
+        69
       ]
     },
     {
       "clue": null,
-      "answer": "obtain",
-      "answer_letters": "OBTAIN",
+      "answer": "orkney",
+      "answer_letters": "ORKNEY",
       "indices": [
         156,
-        49,
-        124,
-        134,
-        42,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nippon",
-      "answer_letters": "NIPPON",
-      "indices": [
-        89,
-        77,
-        135,
-        105,
-        30,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "empathy",
-      "answer_letters": "EMPATHY",
-      "indices": [
-        175,
-        96,
-        136,
-        71,
-        19,
-        116,
+        53,
+        26,
+        145,
+        112,
         50
       ]
     },
     {
       "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
+      "answer": "norman",
+      "answer_letters": "NORMAN",
       "indices": [
-        127,
-        162,
-        69,
-        145,
-        144,
-        164
+        89,
+        30,
+        113,
+        149,
+        9,
+        78
       ]
     },
     {
       "clue": null,
-      "answer": "doherty",
-      "answer_letters": "DOHERTY",
+      "answer": "egg-shaped",
+      "answer_letters": "EGGSHAPED",
       "indices": [
-        40,
-        60,
-        174,
         137,
-        13,
-        146,
+        157,
+        142,
+        129,
+        116,
+        134,
+        136,
+        175,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everyday",
+      "answer_letters": "EVERYDAY",
+      "indices": [
+        114,
+        72,
+        12,
+        61,
+        73,
+        47,
+        6,
         7
       ]
     },
     {
       "clue": null,
-      "answer": "guyana",
-      "answer_letters": "GUYANA",
+      "answer": "drafted",
+      "answer_letters": "DRAFTED",
       "indices": [
-        157,
-        2,
-        182,
-        76,
-        62,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eastwards",
-      "answer_letters": "EASTWARDS",
-      "indices": [
-        21,
-        101,
-        109,
-        11,
-        111,
-        161,
-        61,
         32,
-        129
+        13,
+        71,
+        52,
+        162,
+        21,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "organizes",
-      "answer_letters": "ORGANIZES",
+      "answer": "gently",
+      "answer_letters": "GENTLY",
+      "indices": [
+        168,
+        127,
+        17,
+        146,
+        179,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efficacy",
+      "answer_letters": "EFFICACY",
+      "indices": [
+        181,
+        155,
+        84,
+        42,
+        164,
+        76,
+        35,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "onions",
+      "answer_letters": "ONIONS",
       "indices": [
         171,
-        75,
-        65,
-        81,
-        99,
+        141,
         102,
-        118,
-        114,
+        60,
+        99,
         151
       ]
     },
     {
       "clue": null,
-      "answer": "flavors",
-      "answer_letters": "FLAVORS",
+      "answer": "frozen",
+      "answer_letters": "FROZEN",
       "indices": [
         10,
-        36,
-        56,
-        72,
-        97,
-        53,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "warmth",
-      "answer_letters": "WARMTH",
-      "indices": [
-        80,
-        67,
         3,
-        59,
-        159,
-        20
+        97,
+        118,
+        122,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "informally",
-      "answer_letters": "INFORMALLY",
+      "answer": "wharton",
+      "answer_letters": "WHARTON",
+      "indices": [
+        111,
+        20,
+        56,
+        139,
+        19,
+        16,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "institutional",
+      "answer_letters": "INSTITUTIONAL",
       "indices": [
         54,
         14,
-        155,
+        33,
+        0,
+        132,
+        152,
+        31,
+        170,
+        140,
         15,
-        113,
-        149,
+        126,
         117,
-        87,
-        165,
-        153
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "lutheran",
-      "answer_letters": "LUTHERAN",
+      "answer": "latina",
+      "answer_letters": "LATINA",
       "indices": [
         128,
-        166,
-        173,
-        1,
-        122,
-        139,
-        24,
-        64
+        85,
+        159,
+        63,
+        43,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "deaths",
-      "answer_letters": "DEATHS",
+      "answer": "disputed",
+      "answer_letters": "DISPUTED",
       "indices": [
         131,
-        39,
-        138,
+        77,
+        82,
+        135,
+        98,
         100,
-        160,
-        82
+        39,
+        5
       ]
     }
   ],

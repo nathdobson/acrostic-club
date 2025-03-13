@@ -6,123 +6,115 @@
   "clues": [
     {
       "clue": null,
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
+      "answer": "sleeves",
+      "answer_letters": "SLEEVES",
       "indices": [
         146,
-        35,
-        66,
-        127,
-        143,
-        175,
-        23,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interviewed",
-      "answer_letters": "INTERVIEWED",
-      "indices": [
-        177,
-        126,
-        133,
+        85,
         44,
-        47,
-        86,
-        4,
         106,
-        105,
+        86,
         173,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "matthias",
-      "answer_letters": "MATTHIAS",
-      "indices": [
-        82,
-        141,
-        34,
-        40,
-        18,
-        65,
-        93,
         76
       ]
     },
     {
       "clue": null,
-      "answer": "outcrops",
-      "answer_letters": "OUTCROPS",
+      "answer": "instrumentation",
+      "answer_letters": "INSTRUMENTATION",
       "indices": [
-        157,
-        37,
-        176,
-        59,
-        165,
-        36,
-        55,
-        3
+        177,
+        126,
+        41,
+        143,
+        47,
+        23,
+        82,
+        163,
+        67,
+        110,
+        141,
+        133,
+        4,
+        66,
+        112
       ]
     },
     {
       "clue": null,
-      "answer": "neither",
-      "answer_letters": "NEITHER",
+      "answer": "months",
+      "answer_letters": "MONTHS",
       "indices": [
-        14,
-        84,
-        46,
-        17,
-        101,
-        28,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "plaintiffs",
-      "answer_letters": "PLAINTIFFS",
-      "indices": [
-        29,
-        181,
-        11,
-        152,
-        156,
-        32,
-        13,
-        148,
-        74,
+        1,
+        127,
+        91,
+        34,
+        35,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "enemies",
-      "answer_letters": "ENEMIES",
+      "answer": "orchestrated",
+      "answer_letters": "ORCHESTRATED",
       "indices": [
+        58,
+        165,
+        59,
+        131,
+        99,
+        49,
+        64,
+        94,
+        180,
+        176,
         87,
-        72,
-        27,
-        118,
-        145,
-        81,
-        68
+        113
       ]
     },
     {
       "clue": null,
-      "answer": "grassy",
-      "answer_letters": "GRASSY",
+      "answer": "norwich",
+      "answer_letters": "NORWICH",
       "indices": [
-        38,
+        14,
+        178,
         162,
+        136,
+        108,
+        60,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "philipp",
+      "answer_letters": "PHILIPP",
+      "indices": [
+        29,
+        18,
+        65,
+        181,
+        0,
+        62,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enthusiast",
+      "answer_letters": "ENTHUSIAST",
+      "indices": [
+        102,
+        109,
+        158,
+        137,
+        61,
+        3,
+        73,
         51,
-        88,
-        134,
-        12
+        68,
+        115
       ]
     },
     {
@@ -130,137 +122,145 @@
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
+        38,
+        121,
+        79,
+        101,
+        138,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "geoffrey",
+      "answer_letters": "GEOFFREY",
+      "indices": [
         15,
-        178,
-        128,
-        39,
-        180,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nationalism",
-      "answer_letters": "NATIONALISM",
-      "indices": [
-        112,
-        71,
-        20,
-        169,
+        28,
         123,
-        91,
-        166,
-        85,
-        108,
-        41,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "esoteric",
-      "answer_letters": "ESOTERIC",
-      "indices": [
+        148,
+        74,
+        24,
         30,
-        31,
-        22,
-        77,
-        75,
-        124,
-        90,
-        160
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
-        56,
-        116,
-        8,
-        153,
-        98,
-        5,
+        52,
+        111,
+        105,
+        117,
+        88,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estimated",
+      "answer_letters": "ESTIMATED",
+      "indices": [
+        75,
+        31,
+        128,
+        152,
+        70,
+        71,
+        17,
+        57,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "repairs",
+      "answer_letters": "REPAIRS",
+      "indices": [
+        103,
+        161,
+        55,
+        166,
+        13,
+        124,
         171
       ]
     },
     {
       "clue": null,
-      "answer": "dispatch",
-      "answer_letters": "DISPATCH",
-      "indices": [
-        113,
-        73,
-        49,
-        6,
-        19,
-        64,
-        60,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "departments",
-      "answer_letters": "DEPARTMENTS",
+      "answer": "distortion",
+      "answer_letters": "DISTORTION",
       "indices": [
         53,
-        57,
-        62,
-        132,
-        142,
+        46,
+        10,
         95,
-        70,
-        161,
-        179,
+        157,
+        142,
         130,
-        10
+        90,
+        36,
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "obtained",
-      "answer_letters": "OBTAINED",
+      "answer": "dartmouth",
+      "answer_letters": "DARTMOUTH",
       "indices": [
-        149,
-        164,
+        26,
+        11,
+        56,
+        77,
+        118,
+        22,
+        37,
+        153,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottomans",
+      "answer_letters": "OTTOMANS",
+      "indices": [
+        175,
+        40,
         100,
-        138,
-        0,
-        67,
-        163,
-        26
+        149,
+        174,
+        93,
+        156,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "wentworth",
-      "answer_letters": "WENTWORTH",
+      "answer": "whereby",
+      "answer_letters": "WHEREBY",
       "indices": [
-        136,
-        99,
-        109,
-        158,
         97,
-        58,
-        94,
-        115,
-        80
+        80,
+        27,
+        150,
+        81,
+        164,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "ernesto",
-      "answer_letters": "ERNESTO",
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
       "indices": [
-        111,
-        24,
-        52,
-        117,
-        45,
-        79,
-        121
+        84,
+        32,
+        39,
+        169,
+        160,
+        134
       ]
     },
     {
@@ -278,15 +278,15 @@
     },
     {
       "clue": null,
-      "answer": "luther",
-      "answer_letters": "LUTHER",
+      "answer": "latina",
+      "answer_letters": "LATINA",
       "indices": [
         167,
-        61,
+        132,
         139,
-        137,
-        102,
-        150
+        145,
+        72,
+        19
       ]
     }
   ],

@@ -6,277 +6,277 @@
   "clues": [
     {
       "clue": null,
-      "answer": "county's",
-      "answer_letters": "COUNTYS",
+      "answer": "constance",
+      "answer_letters": "CONSTANCE",
       "indices": [
         110,
         146,
-        81,
         156,
+        36,
         150,
-        79,
-        36
+        115,
+        168,
+        140,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "hypothesis",
-      "answer_letters": "HYPOTHESIS",
+      "answer": "halfway",
+      "answer_letters": "HALFWAY",
       "indices": [
         83,
-        108,
-        33,
-        80,
-        48,
-        120,
-        137,
-        24,
-        42,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lisbon",
-      "answer_letters": "LISBON",
-      "indices": [
-        64,
-        59,
-        37,
-        153,
-        22,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
-      "indices": [
-        13,
-        77,
-        14,
-        149,
-        100,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
-      "indices": [
-        69,
-        97,
-        74,
-        96,
-        62,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norway's",
-      "answer_letters": "NORWAYS",
-      "indices": [
-        104,
-        52,
-        134,
-        126,
-        133,
-        143,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "expands",
-      "answer_letters": "EXPANDS",
-      "indices": [
-        57,
-        138,
-        124,
-        103,
-        168,
-        89,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isabel",
-      "answer_letters": "ISABEL",
-      "indices": [
-        5,
-        94,
-        67,
-        152,
-        26,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowell",
-      "answer_letters": "LOWELL",
-      "indices": [
-        129,
-        154,
-        147,
-        121,
-        142,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehman",
-      "answer_letters": "LEHMAN",
-      "indices": [
-        128,
-        159,
-        145,
-        54,
         167,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
-      "indices": [
-        158,
-        76,
-        34,
-        119,
-        30,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invited",
-      "answer_letters": "INVITED",
-      "indices": [
-        88,
-        99,
-        68,
-        55,
-        163,
-        132,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "labour",
-      "answer_letters": "LABOUR",
-      "indices": [
-        4,
-        87,
-        170,
-        72,
-        151,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dictated",
-      "answer_letters": "DICTATED",
-      "indices": [
-        39,
-        127,
-        166,
-        15,
+        63,
+        77,
+        126,
         139,
-        19,
-        84,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "theory",
-      "answer_letters": "THEORY",
-      "indices": [
-        112,
-        164,
-        18,
-        162,
-        27,
         113
       ]
     },
     {
       "clue": null,
-      "answer": "healthy",
-      "answer_letters": "HEALTHY",
+      "answer": "libretto",
+      "answer_letters": "LIBRETTO",
       "indices": [
-        0,
-        38,
-        115,
-        131,
-        73,
-        49,
+        64,
+        98,
+        152,
+        27,
+        137,
+        163,
+        15,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        76,
+        124,
+        95,
+        96,
+        35,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        132,
+        45,
+        6,
+        103,
+        97,
+        41,
         92
       ]
     },
     {
       "clue": null,
-      "answer": "isthmus",
-      "answer_letters": "ISTHMUS",
+      "answer": "nobody",
+      "answer_letters": "NOBODY",
+      "indices": [
+        116,
+        80,
+        71,
+        52,
+        105,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edible",
+      "answer_letters": "EDIBLE",
+      "indices": [
+        69,
+        117,
+        62,
+        170,
+        4,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "infant",
+      "answer_letters": "INFANT",
+      "indices": [
+        1,
+        135,
+        14,
+        67,
+        104,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luxury",
+      "answer_letters": "LUXURY",
+      "indices": [
+        101,
+        81,
+        138,
+        151,
+        34,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "low-level",
+      "answer_letters": "LOWLEVEL",
+      "indices": [
+        128,
+        22,
+        147,
+        129,
+        84,
+        68,
+        18,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whitish",
+      "answer_letters": "WHITISH",
+      "indices": [
+        158,
+        66,
+        55,
+        51,
+        59,
+        24,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhibits",
+      "answer_letters": "INHIBITS",
+      "indices": [
+        127,
+        99,
+        30,
+        42,
+        153,
+        5,
+        119,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
+      "indices": [
+        131,
+        57,
+        7,
+        13,
+        25,
+        49,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "debuts",
+      "answer_letters": "DEBUTS",
+      "indices": [
+        39,
+        26,
+        161,
+        47,
+        19,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "themes",
+      "answer_letters": "THEMES",
+      "indices": [
+        112,
+        164,
+        171,
+        54,
+        31,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "honesty",
+      "answer_letters": "HONESTY",
+      "indices": [
+        0,
+        72,
+        28,
+        100,
+        149,
+        73,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
       "indices": [
         111,
-        43,
-        51,
-        66,
-        45,
-        47,
-        2
+        33,
+        37,
+        61,
+        88,
+        166,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "answer": "nasser",
+      "answer_letters": "NASSER",
       "indices": [
-        28,
-        95,
-        6,
-        41,
-        35,
-        61
+        56,
+        87,
+        43,
+        2,
+        121,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "gibbons",
-      "answer_letters": "GIBBONS",
+      "answer": "grammy",
+      "answer_letters": "GRAMMY",
       "indices": [
         123,
-        98,
-        161,
-        71,
-        46,
-        116,
-        21
+        134,
+        133,
+        91,
+        107,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "sometime",
-      "answer_letters": "SOMETIME",
+      "answer": "shoots",
+      "answer_letters": "SHOOTS",
       "indices": [
-        12,
+        21,
+        120,
+        46,
         10,
-        91,
-        171,
         141,
-        1,
-        107,
-        31
+        12
       ]
     }
   ],

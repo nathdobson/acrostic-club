@@ -6,59 +6,58 @@
   "clues": [
     {
       "clue": null,
-      "answer": "traits",
-      "answer_letters": "TRAITS",
+      "answer": "two-day",
+      "answer_letters": "TWODAY",
       "indices": [
-        45,
-        20,
-        173,
-        103,
         138,
-        131
+        97,
+        12,
+        22,
+        173,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "habitat",
-      "answer_letters": "HABITAT",
+      "answer": "hindus",
+      "answer_letters": "HINDUS",
       "indices": [
         79,
-        120,
-        66,
         28,
-        11,
-        4,
-        135
+        159,
+        165,
+        67,
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "exponent",
-      "answer_letters": "EXPONENT",
+      "answer": "exposing",
+      "answer_letters": "EXPOSING",
       "indices": [
-        136,
+        21,
         39,
         18,
-        98,
-        70,
-        124,
+        57,
+        176,
+        106,
         23,
-        182
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "convicted",
-      "answer_letters": "CONVICTED",
+      "answer": "cleveland",
+      "answer_letters": "CLEVELAND",
       "indices": [
-        10,
-        134,
-        167,
-        3,
-        181,
-        178,
-        104,
+        52,
+        37,
         114,
+        3,
+        154,
+        141,
+        120,
+        76,
         101
       ]
     },
@@ -67,217 +66,218 @@
       "answer": "onions",
       "answer_letters": "ONIONS",
       "indices": [
-        61,
-        172,
-        106,
-        12,
+        171,
         164,
-        176
+        103,
+        98,
+        111,
+        25
       ]
     },
     {
       "clue": null,
-      "answer": "midday",
-      "answer_letters": "MIDDAY",
+      "answer": "maryland",
+      "answer_letters": "MARYLAND",
       "indices": [
         157,
-        2,
-        115,
-        128,
-        168,
-        42
+        140,
+        16,
+        161,
+        151,
+        19,
+        149,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "monopoly",
-      "answer_letters": "MONOPOLY",
+      "answer": "municipalities",
+      "answer_letters": "MUNICIPALITIES",
       "indices": [
         125,
-        53,
+        40,
         31,
-        158,
-        133,
-        32,
-        37,
+        148,
+        10,
+        2,
+        0,
+        50,
+        174,
+        152,
+        55,
+        109,
+        126,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "iberia",
+      "answer_letters": "IBERIA",
+      "indices": [
+        62,
+        66,
+        136,
+        41,
+        44,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stated",
+      "answer_letters": "STATED",
+      "indices": [
+        73,
+        169,
+        168,
+        146,
+        17,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "specify",
+      "answer_letters": "SPECIFY",
+      "indices": [
+        8,
+        82,
+        24,
+        178,
+        139,
+        58,
         183
       ]
     },
     {
       "clue": null,
-      "answer": "illicit",
-      "answer_letters": "ILLICIT",
+      "answer": "investors",
+      "answer_letters": "INVESTORS",
       "indices": [
-        139,
-        141,
-        174,
-        62,
-        143,
-        44,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "suited",
-      "answer_letters": "SUITED",
-      "indices": [
-        145,
-        179,
         69,
-        146,
-        160,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "supervisor",
-      "answer_letters": "SUPERVISOR",
-      "indices": [
-        26,
-        130,
-        0,
-        126,
-        13,
+        127,
         153,
-        109,
-        29,
-        57,
-        1
+        160,
+        145,
+        104,
+        53,
+        180,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "issues",
-      "answer_letters": "ISSUES",
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
       "indices": [
-        152,
-        54,
-        68,
-        40,
-        154,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oldest",
-      "answer_letters": "OLDEST",
-      "indices": [
-        112,
-        151,
-        22,
-        24,
-        155,
+        158,
+        130,
+        5,
+        100,
+        124,
         122
       ]
     },
     {
       "clue": null,
-      "answer": "napoli",
-      "answer_letters": "NAPOLI",
+      "answer": "noticed",
+      "answer_letters": "NOTICED",
       "indices": [
-        149,
-        163,
-        82,
-        171,
-        100,
-        75
+        70,
+        32,
+        182,
+        75,
+        143,
+        71,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "restaurant",
-      "answer_letters": "RESTAURANT",
+      "answer": "routes",
+      "answer_letters": "ROUTES",
       "indices": [
-        41,
-        9,
-        25,
-        33,
-        117,
+        20,
+        61,
         38,
-        123,
-        35,
-        111,
-        78
+        45,
+        9,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "enacted",
-      "answer_letters": "ENACTED",
+      "answer": "enterprises",
+      "answer_letters": "ENTERPRISES",
       "indices": [
+        177,
+        167,
+        11,
         80,
-        159,
-        50,
-        52,
-        55,
+        113,
+        133,
+        13,
+        181,
+        68,
         6,
-        165
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "presses",
-      "answer_letters": "PRESSES",
+      "answer": "patton",
+      "answer_letters": "PATTON",
       "indices": [
         15,
-        180,
-        71,
-        73,
-        72,
-        21,
-        107
+        35,
+        33,
+        78,
+        112,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "organisation",
-      "answer_letters": "ORGANISATION",
+      "answer": "organist",
+      "answer_letters": "ORGANIST",
       "indices": [
-        83,
-        113,
-        64,
-        140,
-        76,
-        47,
-        84,
-        19,
-        169,
-        148,
         129,
-        137
+        1,
+        64,
+        4,
+        137,
+        47,
+        26,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "resign",
-      "answer_letters": "RESIGN",
+      "answer": "russia",
+      "answer_letters": "RUSSIA",
       "indices": [
-        16,
-        17,
-        8,
+        123,
+        179,
+        72,
+        107,
         170,
-        110,
-        127
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "twenty-four",
-      "answer_letters": "TWENTYFOUR",
+      "answer": "toronto's",
+      "answer_letters": "TORONTOS",
       "indices": [
         118,
-        97,
-        177,
+        144,
+        99,
+        134,
         63,
         85,
-        161,
-        58,
-        144,
-        67,
-        99
+        83,
+        84
       ]
     }
   ],

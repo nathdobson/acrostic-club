@@ -6,202 +6,201 @@
   "clues": [
     {
       "clue": null,
-      "answer": "resembled",
-      "answer_letters": "RESEMBLED",
+      "answer": "regiment",
+      "answer_letters": "REGIMENT",
       "indices": [
         62,
         105,
-        108,
-        68,
+        142,
+        1,
         7,
-        96,
-        104,
-        164,
-        156
+        68,
+        166,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
       "indices": [
-        4,
-        71,
-        147,
-        115,
+        41,
+        13,
         22,
-        50
+        153,
+        74,
+        141,
+        175,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "chambers",
-      "answer_letters": "CHAMBERS",
+      "answer": "chamber",
+      "answer_letters": "CHAMBER",
       "indices": [
-        9,
-        122,
-        90,
+        2,
+        52,
+        4,
         124,
-        48,
+        71,
         145,
-        45,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "husband's",
+      "answer_letters": "HUSBANDS",
+      "indices": [
+        176,
+        116,
+        151,
+        147,
+        11,
+        59,
+        86,
         92
       ]
     },
     {
       "clue": null,
-      "answer": "homage",
-      "answer_letters": "HOMAGE",
-      "indices": [
-        176,
-        16,
-        163,
-        84,
-        98,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "everyone",
-      "answer_letters": "EVERYONE",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
         154,
-        40,
+        100,
+        8,
+        129,
+        172,
         35,
-        101,
-        131,
-        127,
-        81,
-        53
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "lobbied",
+      "answer_letters": "LOBBIED",
       "indices": [
-        13,
+        104,
+        173,
+        96,
+        48,
+        148,
         12,
-        52,
-        97,
-        78,
-        153
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "communes",
-      "answer_letters": "COMMUNES",
+      "answer": "community's",
+      "answer_letters": "COMMUNITYS",
       "indices": [
         73,
-        56,
+        31,
         106,
         75,
         133,
         27,
-        57,
-        58
+        20,
+        161,
+        131,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "appointment",
-      "answer_letters": "APPOINTMENT",
+      "answer": "anaheim",
+      "answer_letters": "ANAHEIM",
       "indices": [
         94,
-        43,
-        100,
-        31,
-        1,
-        166,
-        171,
-        42,
-        158,
         30,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intimate",
-      "answer_letters": "INTIMATE",
-      "indices": [
-        20,
-        24,
-        21,
-        111,
-        66,
-        41,
-        91,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
-      "indices": [
-        136,
-        11,
-        60,
-        165,
-        36,
-        89,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
-      "indices": [
-        72,
-        85,
-        74,
-        141,
-        142,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goodbye",
-      "answer_letters": "GOODBYE",
-      "indices": [
-        175,
-        102,
-        132,
-        86,
-        67,
-        114,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "housed",
-      "answer_letters": "HOUSED",
-      "indices": [
+        90,
         3,
-        173,
-        49,
-        151,
-        46,
-        126
+        164,
+        97,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
+      "answer": "infant",
+      "answer_letters": "INFANT",
       "indices": [
-        109,
-        116,
-        169,
+        168,
+        24,
         112,
-        44,
-        88
+        84,
+        77,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        128,
+        80,
+        60,
+        76,
+        109,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eugene",
+      "answer_letters": "EUGENE",
+      "indices": [
+        57,
+        49,
+        78,
+        46,
+        85,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "geometry",
+      "answer_letters": "GEOMETRY",
+      "indices": [
+        15,
+        53,
+        127,
+        66,
+        82,
+        149,
+        101,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hospice",
+      "answer_letters": "HOSPICE",
+      "indices": [
+        144,
+        56,
+        58,
+        43,
+        111,
+        9,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        137,
+        6,
+        28,
+        89,
+        38,
+        0
       ]
     },
     {
@@ -210,27 +209,25 @@
       "answer_letters": "SOMEHOW",
       "indices": [
         159,
-        137,
-        64,
-        23,
+        16,
+        163,
+        120,
         140,
-        80,
+        157,
         32
       ]
     },
     {
       "clue": null,
-      "answer": "thinking",
-      "answer_letters": "THINKING",
+      "answer": "thanks",
+      "answer_letters": "THANKS",
       "indices": [
-        149,
+        88,
         34,
-        123,
+        165,
         160,
         135,
-        8,
-        128,
-        15
+        36
       ]
     },
     {
@@ -238,53 +235,56 @@
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
-        17,
+        169,
         10,
-        119,
-        0,
-        65,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obtained",
-      "answer_letters": "OBTAINED",
-      "indices": [
-        157,
-        103,
-        129,
-        26,
-        168,
-        59,
         150,
+        64,
+        23,
         55
       ]
     },
     {
       "clue": null,
-      "answer": "wilbur",
-      "answer_letters": "WILBUR",
+      "answer": "obvious",
+      "answer_letters": "OBVIOUS",
+      "indices": [
+        102,
+        67,
+        40,
+        44,
+        132,
+        174,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "webber",
+      "answer_letters": "WEBBER",
       "indices": [
         138,
-        76,
-        6,
+        119,
+        103,
         19,
-        174,
+        65,
         69
       ]
     },
     {
       "clue": null,
-      "answer": "niches",
-      "answer_letters": "NICHES",
+      "answer": "negotiated",
+      "answer_letters": "NEGOTIATED",
       "indices": [
-        77,
-        148,
-        2,
-        172,
+        81,
+        5,
+        98,
+        115,
+        21,
+        123,
+        26,
+        91,
         63,
-        118
+        126
       ]
     }
   ],

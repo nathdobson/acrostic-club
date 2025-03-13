@@ -6,84 +6,88 @@
   "clues": [
     {
       "clue": null,
-      "answer": "judoka",
-      "answer_letters": "JUDOKA",
+      "answer": "judicial",
+      "answer_letters": "JUDICIAL",
       "indices": [
         89,
         171,
         133,
-        28,
-        68,
-        4
+        87,
+        110,
+        103,
+        4,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "octave",
-      "answer_letters": "OCTAVE",
+      "answer": "oxygen",
+      "answer_letters": "OXYGEN",
       "indices": [
-        170,
-        52,
-        148,
-        8,
-        102,
-        174
+        47,
+        31,
+        175,
+        105,
+        3,
+        132
       ]
     },
     {
       "clue": null,
-      "answer": "health",
-      "answer_letters": "HEALTH",
+      "answer": "headmaster",
+      "answer_letters": "HEADMASTER",
       "indices": [
         32,
-        17,
+        57,
         157,
-        108,
+        10,
+        129,
+        166,
+        91,
+        82,
+        17,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "natalia",
+      "answer_letters": "NATALIA",
+      "indices": [
+        21,
+        8,
+        164,
+        53,
+        16,
+        139,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "growth",
+      "answer_letters": "GROWTH",
+      "indices": [
+        22,
+        161,
+        85,
+        79,
         12,
         144
       ]
     },
     {
       "clue": null,
-      "answer": "nanjing",
-      "answer_letters": "NANJING",
+      "answer": "revoked",
+      "answer_letters": "REVOKED",
       "indices": [
-        104,
-        137,
-        132,
-        169,
-        24,
-        21,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "genealogy",
-      "answer_letters": "GENEALOGY",
-      "indices": [
-        22,
-        136,
-        56,
-        14,
-        166,
-        135,
+        60,
+        59,
+        121,
         63,
-        62,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remain",
-      "answer_letters": "REMAIN",
-      "indices": [
-        149,
+        68,
         119,
-        146,
-        114,
-        20,
-        154
+        116
       ]
     },
     {
@@ -91,193 +95,189 @@
       "answer": "evening",
       "answer_letters": "EVENING",
       "indices": [
-        160,
-        5,
-        59,
-        9,
-        0,
-        40,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "england's",
-      "answer_letters": "ENGLANDS",
-      "indices": [
-        111,
-        54,
-        41,
-        167,
-        101,
-        115,
-        10,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noticeable",
-      "answer_letters": "NOTICEABLE",
-      "indices": [
-        123,
-        47,
-        38,
-        39,
-        110,
-        76,
-        131,
-        65,
-        2,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pickup",
-      "answer_letters": "PICKUP",
-      "indices": [
-        152,
-        33,
-        67,
-        94,
-        90,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "albanian",
-      "answer_letters": "ALBANIAN",
-      "indices": [
-        109,
-        118,
-        70,
-        18,
-        140,
-        43,
-        120,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pamphlets",
-      "answer_letters": "PAMPHLETS",
-      "indices": [
-        162,
-        37,
-        129,
-        97,
-        80,
-        99,
         100,
-        126,
-        27
+        19,
+        160,
+        154,
+        50,
+        173,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "exhaust",
-      "answer_letters": "EXHAUST",
+      "answer": "enthusiast",
+      "answer_letters": "ENTHUSIAST",
       "indices": [
         96,
-        31,
+        140,
+        143,
         13,
-        66,
         165,
-        91,
+        25,
+        33,
+        131,
+        27,
         72
       ]
     },
     {
       "clue": null,
-      "answer": "reveal",
-      "answer_letters": "REVEAL",
+      "answer": "nightclub",
+      "answer_letters": "NIGHTCLUB",
       "indices": [
-        161,
-        6,
-        58,
-        95,
-        150,
-        34
+        46,
+        0,
+        41,
+        80,
+        38,
+        52,
+        167,
+        90,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "talked",
-      "answer_letters": "TALKED",
+      "answer": "pamphlet",
+      "answer_letters": "PAMPHLET",
       "indices": [
-        92,
-        35,
-        16,
-        45,
-        3,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "operative",
-      "answer_letters": "OPERATIVE",
-      "indices": [
-        85,
-        107,
-        128,
-        172,
-        81,
-        82,
-        87,
-        138,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wainwright",
-      "answer_letters": "WAINWRIGHT",
-      "indices": [
-        79,
-        53,
-        50,
-        173,
-        48,
-        36,
-        122,
-        155,
+        97,
+        18,
+        146,
+        152,
         127,
-        164
+        2,
+        30,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "nighttime",
-      "answer_letters": "NIGHTTIME",
+      "answer": "adventure",
+      "answer_letters": "ADVENTURE",
       "indices": [
-        77,
-        103,
-        124,
+        109,
+        84,
+        102,
+        111,
+        40,
+        126,
+        71,
+        36,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "paving",
+      "answer_letters": "PAVING",
+      "indices": [
+        162,
+        37,
+        5,
+        20,
+        9,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elephant",
+      "answer_letters": "ELEPHANT",
+      "indices": [
+        6,
+        34,
+        95,
+        107,
         75,
-        74,
-        143,
-        153,
+        101,
+        123,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "receiving",
+      "answer_letters": "RECEIVING",
+      "indices": [
+        149,
+        136,
+        67,
+        14,
+        39,
+        58,
+        43,
+        115,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tanaka",
+      "answer_letters": "TANAKA",
+      "indices": [
+        148,
+        120,
+        104,
+        114,
+        94,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-man",
+      "answer_letters": "ONEMAN",
+      "indices": [
+        28,
+        77,
+        128,
         151,
+        81,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "willie",
+      "answer_letters": "WILLIE",
+      "indices": [
+        48,
+        122,
+        99,
+        118,
+        24,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "navigable",
+      "answer_letters": "NAVIGABLE",
+      "indices": [
+        54,
+        150,
+        138,
+        153,
+        124,
+        66,
+        65,
+        135,
         163
       ]
     },
     {
       "clue": null,
-      "answer": "survived",
-      "answer_letters": "SURVIVED",
+      "answer": "skopje",
+      "answer_letters": "SKOPJE",
       "indices": [
         112,
-        71,
-        60,
-        19,
-        139,
-        121,
-        145,
-        116
+        45,
+        170,
+        159,
+        169,
+        145
       ]
     }
   ],

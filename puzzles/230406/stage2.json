@@ -6,88 +6,89 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
+      "answer": "methane",
+      "answer_letters": "METHANE",
       "indices": [
         13,
-        102,
+        142,
+        101,
         61,
         14,
-        67,
-        159
+        28,
+        93
       ]
     },
     {
       "clue": null,
-      "answer": "avoidance",
-      "answer_letters": "AVOIDANCE",
+      "answer": "awesome",
+      "answer_letters": "AWESOME",
       "indices": [
-        168,
-        1,
-        71,
-        22,
-        70,
-        19,
-        63,
-        44,
-        58
+        32,
+        164,
+        82,
+        85,
+        126,
+        167,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "unified",
-      "answer_letters": "UNIFIED",
+      "answer": "unknown",
+      "answer_letters": "UNKNOWN",
       "indices": [
         173,
+        100,
+        53,
         119,
-        149,
-        139,
-        131,
-        54,
-        117
+        102,
+        48,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "reveals",
-      "answer_letters": "REVEALS",
+      "answer": "rewritten",
+      "answer_letters": "REWRITTEN",
       "indices": [
         174,
-        134,
-        178,
-        49,
-        150,
-        177,
-        85
+        129,
+        104,
+        83,
+        43,
+        36,
+        56,
+        2,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "inserted",
-      "answer_letters": "INSERTED",
+      "answer": "involved",
+      "answer_letters": "INVOLVED",
       "indices": [
         105,
-        137,
-        113,
-        16,
-        3,
-        73,
-        7,
-        94
+        63,
+        1,
+        120,
+        106,
+        178,
+        25,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "sweeney",
-      "answer_letters": "SWEENEY",
+      "answer": "swedish",
+      "answer_letters": "SWEDISH",
       "indices": [
         175,
-        48,
-        68,
+        67,
         147,
-        100,
-        87,
-        4
+        162,
+        99,
+        17,
+        41
       ]
     },
     {
@@ -97,79 +98,80 @@
       "indices": [
         145,
         74,
-        0,
-        136,
-        53,
+        68,
+        62,
+        169,
         156
       ]
     },
     {
       "clue": null,
-      "answer": "awesome",
-      "answer_letters": "AWESOME",
+      "answer": "achieved",
+      "answer_letters": "ACHIEVED",
       "indices": [
-        79,
-        121,
+        150,
+        40,
+        86,
+        136,
+        87,
+        133,
         27,
-        17,
-        120,
-        167,
-        25
+        125
       ]
     },
     {
       "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
+      "answer": "griffith",
+      "answer_letters": "GRIFFITH",
       "indices": [
         64,
-        172,
-        132,
+        3,
+        149,
+        23,
+        139,
+        131,
         141,
-        41,
-        157
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
+      "answer": "umayyad",
+      "answer_letters": "UMAYYAD",
       "indices": [
         96,
-        97,
-        152,
-        62,
-        23,
-        101
+        78,
+        52,
+        76,
+        4,
+        79,
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "intensely",
-      "answer_letters": "INTENSELY",
+      "answer": "intake",
+      "answer_letters": "INTAKE",
       "indices": [
-        99,
-        28,
-        60,
-        30,
+        123,
         11,
-        65,
-        112,
-        106,
-        76
+        60,
+        19,
+        159,
+        0
       ]
     },
     {
       "clue": null,
-      "answer": "behest",
-      "answer_letters": "BEHEST",
+      "answer": "belief",
+      "answer_letters": "BELIEF",
       "indices": [
         128,
-        45,
-        86,
-        110,
-        46,
-        36
+        132,
+        151,
+        160,
+        157,
+        24
       ]
     },
     {
@@ -177,40 +179,40 @@
       "answer": "o'clock",
       "answer_letters": "OCLOCK",
       "indices": [
-        91,
-        40,
-        151,
-        126,
+        172,
         148,
+        107,
+        91,
+        44,
         15
       ]
     },
     {
       "clue": null,
-      "answer": "rhymes",
-      "answer_letters": "RHYMES",
+      "answer": "restless",
+      "answer_letters": "RESTLESS",
       "indices": [
         8,
-        57,
-        153,
-        51,
-        176,
+        54,
+        113,
+        73,
+        177,
+        16,
+        46,
         180
       ]
     },
     {
       "clue": null,
-      "answer": "downfall",
-      "answer_letters": "DOWNFALL",
+      "answer": "denote",
+      "answer_letters": "DENOTE",
       "indices": [
         34,
-        42,
-        104,
+        38,
         33,
-        24,
-        140,
-        89,
-        130
+        42,
+        155,
+        179
       ]
     },
     {
@@ -218,84 +220,82 @@
       "answer": "weekly",
       "answer_letters": "WEEKLY",
       "indices": [
-        164,
-        129,
-        2,
+        121,
+        110,
+        176,
         92,
-        107,
-        111
+        89,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "achieve",
-      "answer_letters": "ACHIEVE",
+      "answer": "asleep",
+      "answer_letters": "ASLEEP",
       "indices": [
         115,
-        29,
-        37,
-        123,
-        142,
-        133,
-        93
+        65,
+        152,
+        75,
+        170,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "remake",
-      "answer_letters": "REMAKE",
+      "answer": "reached",
+      "answer_letters": "REACHED",
       "indices": [
         26,
-        75,
-        78,
-        52,
-        169,
-        170
+        30,
+        168,
+        29,
+        37,
+        112,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "posted",
-      "answer_letters": "POSTED",
+      "answer": "potatoes",
+      "answer_letters": "POTATOES",
       "indices": [
-        6,
-        90,
-        108,
-        81,
-        165,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entertain",
-      "answer_letters": "ENTERTAIN",
-      "indices": [
-        38,
-        116,
-        80,
-        179,
-        83,
-        155,
-        32,
-        43,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deposited",
-      "answer_letters": "DEPOSITED",
-      "indices": [
-        162,
-        82,
         146,
         10,
+        81,
+        140,
+        80,
+        71,
+        58,
+        108
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "employee",
+      "answer_letters": "EMPLOYEE",
+      "indices": [
+        134,
+        51,
+        6,
+        130,
+        90,
+        111,
+        49,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "denise",
+      "answer_letters": "DENISE",
+      "indices": [
+        21,
+        7,
+        116,
+        22,
         9,
-        160,
-        56,
-        144,
-        125
+        45
       ]
     }
   ],

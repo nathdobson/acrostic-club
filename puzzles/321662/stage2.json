@@ -6,297 +6,297 @@
   "clues": [
     {
       "clue": null,
-      "answer": "retracted",
-      "answer_letters": "RETRACTED",
+      "answer": "report",
+      "answer_letters": "REPORT",
       "indices": [
-        115,
-        143,
-        5,
         79,
-        118,
-        105,
-        98,
         31,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "agatha",
-      "answer_letters": "AGATHA",
-      "indices": [
-        78,
-        37,
-        84,
-        100,
-        20,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "instagram",
-      "answer_letters": "INSTAGRAM",
-      "indices": [
-        104,
-        134,
-        136,
-        29,
-        57,
-        77,
-        129,
-        6,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "netted",
-      "answer_letters": "NETTED",
-      "indices": [
-        43,
-        90,
-        52,
-        161,
-        93,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "billed",
-      "answer_letters": "BILLED",
-      "indices": [
-        96,
-        132,
-        60,
-        15,
-        179,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oblast",
-      "answer_letters": "OBLAST",
-      "indices": [
-        148,
-        156,
-        152,
-        150,
-        4,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "warrant",
-      "answer_letters": "WARRANT",
-      "indices": [
-        83,
-        75,
+        103,
+        133,
         47,
-        7,
-        69,
-        62,
-        137
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "reopen",
-      "answer_letters": "REOPEN",
+      "answer": "antibody",
+      "answer_letters": "ANTIBODY",
       "indices": [
-        76,
-        25,
-        166,
-        109,
-        126,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outfielder",
-      "answer_letters": "OUTFIELDER",
-      "indices": [
-        177,
-        39,
-        122,
-        142,
-        138,
-        80,
-        56,
-        163,
-        97,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whiskey",
-      "answer_letters": "WHISKEY",
-      "indices": [
-        171,
-        34,
-        158,
-        180,
-        106,
-        162,
+        130,
+        178,
+        100,
+        104,
+        96,
+        155,
+        50,
         70
       ]
     },
     {
       "clue": null,
-      "answer": "ethics",
-      "answer_letters": "ETHICS",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
       "indices": [
-        2,
-        111,
-        1,
         48,
-        24,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lisbon",
-      "answer_letters": "LISBON",
-      "indices": [
-        157,
-        61,
-        85,
-        71,
-        155,
+        22,
+        142,
+        84,
+        176,
+        168,
         17
       ]
     },
     {
       "clue": null,
-      "answer": "lightly",
-      "answer_letters": "LIGHTLY",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        140,
-        114,
-        18,
-        176,
-        81,
-        26,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehman",
-      "answer_letters": "LEHMAN",
-      "indices": [
-        139,
-        128,
-        30,
-        68,
-        14,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "apparel",
-      "answer_letters": "APPAREL",
-      "indices": [
-        42,
-        117,
-        103,
-        160,
-        173,
-        172,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nippon",
-      "answer_letters": "NIPPON",
-      "indices": [
-        178,
-        16,
-        175,
-        40,
-        101,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "delegates",
-      "answer_letters": "DELEGATES",
-      "indices": [
-        50,
-        72,
-        151,
-        9,
-        125,
+        134,
         87,
-        145,
-        54,
+        161,
+        20,
+        57,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bestseller",
+      "answer_letters": "BESTSELLER",
+      "indices": [
+        89,
+        80,
+        4,
+        5,
+        123,
+        97,
+        15,
+        56,
+        162,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        177,
+        175,
+        113,
+        127,
+        49,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "writer",
+      "answer_letters": "WRITER",
+      "indices": [
+        83,
+        7,
+        158,
+        165,
+        128,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "resistant",
+      "answer_letters": "RESISTANT",
+      "indices": [
+        76,
+        25,
+        170,
+        21,
+        180,
+        92,
+        42,
+        32,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outright",
+      "answer_letters": "OUTRIGHT",
+      "indices": [
+        166,
+        108,
+        98,
+        119,
+        132,
+        18,
+        34,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "writers",
+      "answer_letters": "WRITERS",
+      "indices": [
+        171,
+        94,
+        138,
+        137,
+        143,
+        115,
         0
       ]
     },
     {
       "clue": null,
-      "answer": "length",
-      "answer_letters": "LENGTH",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        2,
+        147,
+        40,
+        6,
+        111,
+        1,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
+      "indices": [
+        157,
+        78,
+        68,
+        71,
+        93,
+        52,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lakshmi",
+      "answer_letters": "LAKSHMI",
+      "indices": [
+        139,
+        69,
+        106,
+        136,
+        112,
+        74,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "logging",
+      "answer_letters": "LOGGING",
       "indices": [
         27,
-        49,
-        127,
-        159,
-        165,
+        101,
+        37,
+        125,
+        16,
+        36,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "appeal",
+      "answer_letters": "APPEAL",
+      "indices": [
+        160,
+        109,
+        117,
+        126,
+        118,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netball",
+      "answer_letters": "NETBALL",
+      "indices": [
+        169,
+        90,
+        145,
+        156,
+        14,
+        140,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        10,
+        35,
+        151,
+        39,
+        29,
         53
       ]
     },
     {
       "clue": null,
-      "answer": "instituto",
-      "answer_letters": "INSTITUTO",
+      "answer": "located",
+      "answer_letters": "LOCATED",
       "indices": [
-        21,
-        121,
-        170,
-        92,
+        152,
+        148,
+        24,
+        75,
+        81,
+        54,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intended",
+      "answer_letters": "INTENDED",
+      "indices": [
         13,
-        46,
-        108,
+        121,
         131,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "numbered",
-      "answer_letters": "NUMBERED",
-      "indices": [
+        172,
         58,
-        35,
-        74,
-        89,
+        59,
         120,
-        119,
-        63,
-        59
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "earth's",
-      "answer_letters": "EARTHS",
+      "answer": "neglect",
+      "answer_letters": "NEGLECT",
       "indices": [
-        113,
-        130,
-        149,
-        8,
-        112,
-        123
+        62,
+        63,
+        159,
+        60,
+        179,
+        105,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "easier",
+      "answer_letters": "EASIER",
+      "indices": [
+        72,
+        150,
+        85,
+        114,
+        9,
+        129
       ]
     }
   ],

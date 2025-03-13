@@ -6,32 +6,47 @@
   "clues": [
     {
       "clue": null,
-      "answer": "two-thirds",
-      "answer_letters": "TWOTHIRDS",
+      "answer": "takahashi",
+      "answer_letters": "TAKAHASHI",
       "indices": [
         83,
-        95,
-        26,
-        155,
+        131,
+        48,
+        103,
         162,
-        106,
-        116,
-        127,
-        124
+        49,
+        124,
+        167,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "emotion",
-      "answer_letters": "EMOTION",
+      "answer": "enormous",
+      "answer_letters": "ENORMOUS",
       "indices": [
         112,
-        39,
+        75,
         156,
-        135,
-        45,
+        173,
+        39,
         42,
-        75
+        64,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "revoked",
+      "answer_letters": "REVOKED",
+      "indices": [
+        117,
+        147,
+        151,
+        120,
+        73,
+        115,
+        36
       ]
     },
     {
@@ -39,243 +54,228 @@
       "answer": "rookie",
       "answer_letters": "ROOKIE",
       "indices": [
-        25,
+        24,
         21,
         70,
-        73,
+        88,
         38,
-        163
+        61
       ]
     },
     {
       "clue": null,
-      "answer": "reliefs",
-      "answer_letters": "RELIEFS",
-      "indices": [
-        117,
-        147,
-        10,
-        0,
-        115,
-        68,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yvonne",
-      "answer_letters": "YVONNE",
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
       "indices": [
         62,
-        151,
-        150,
+        3,
         56,
         50,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showdown",
-      "answer_letters": "SHOWDOWN",
-      "indices": [
-        91,
-        167,
-        81,
-        169,
-        31,
-        140,
-        27,
+        13,
         35
       ]
     },
     {
       "clue": null,
-      "answer": "pathways",
-      "answer_letters": "PATHWAYS",
+      "answer": "seasons",
+      "answer_letters": "SEASONS",
       "indices": [
-        18,
-        49,
-        101,
-        129,
-        12,
-        146,
-        57,
+        78,
+        4,
+        96,
+        91,
+        59,
+        99,
         5
       ]
     },
     {
       "clue": null,
-      "answer": "eagles",
-      "answer_letters": "EAGLES",
+      "answer": "potatoes",
+      "answer_letters": "POTATOES",
       "indices": [
-        61,
-        13,
-        2,
-        9,
-        126,
+        18,
+        150,
+        101,
+        89,
+        114,
+        81,
+        152,
         53
       ]
     },
     {
       "clue": null,
-      "answer": "arkansas",
-      "answer_letters": "ARKANSAS",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        143,
-        173,
-        14,
-        74,
-        108,
-        93,
-        111,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reinforced",
-      "answer_letters": "REINFORCED",
-      "indices": [
-        132,
-        4,
-        34,
-        30,
-        86,
-        59,
-        24,
-        139,
-        152,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "denmark",
-      "answer_letters": "DENMARK",
-      "indices": [
-        133,
-        130,
-        41,
-        58,
-        89,
-        69,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "royale",
-      "answer_letters": "ROYALE",
-      "indices": [
-        65,
-        85,
-        122,
-        103,
-        105,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affair",
-      "answer_letters": "AFFAIR",
-      "indices": [
-        55,
+        170,
         33,
         110,
-        77,
-        8,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
-      "indices": [
-        158,
-        23,
+        140,
+        132,
         119,
-        125,
-        29,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ourselves",
-      "answer_letters": "OURSELVES",
-      "indices": [
-        120,
-        64,
-        60,
-        6,
-        172,
-        149,
-        171,
-        165,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "notation",
-      "answer_letters": "NOTATION",
-      "indices": [
-        90,
-        168,
-        20,
-        92,
-        161,
-        118,
-        159,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fordham",
-      "answer_letters": "FORDHAM",
-      "indices": [
-        145,
-        107,
-        164,
-        153,
-        136,
-        52,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amounts",
-      "answer_letters": "AMOUNTS",
-      "indices": [
-        96,
-        22,
-        100,
-        17,
-        99,
-        114,
         51
       ]
     },
     {
       "clue": null,
-      "answer": "eurobasket",
-      "answer_letters": "EUROBASKET",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
+      "indices": [
+        74,
+        27,
+        14,
+        12,
+        111,
+        164,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rooney",
+      "answer_letters": "ROONEY",
+      "indices": [
+        65,
+        63,
+        85,
+        30,
+        137,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "donate",
+      "answer_letters": "DONATE",
+      "indices": [
+        127,
+        23,
+        90,
+        77,
+        161,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rematch",
+      "answer_letters": "REMATCH",
+      "indices": [
+        121,
+        66,
+        22,
+        146,
+        43,
+        139,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assumes",
+      "answer_letters": "ASSUMES",
+      "indices": [
+        29,
+        6,
+        76,
+        17,
+        71,
+        130,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gloria",
+      "answer_letters": "GLORIA",
+      "indices": [
+        2,
+        105,
+        168,
+        69,
+        8,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overwhelmingly",
+      "answer_letters": "OVERWHELMINGLY",
+      "indices": [
+        159,
+        171,
+        163,
+        25,
+        95,
+        125,
+        172,
+        9,
+        80,
+        118,
+        46,
+        158,
+        10,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northward",
+      "answer_letters": "NORTHWARD",
+      "indices": [
+        108,
+        107,
+        142,
+        135,
+        136,
+        169,
+        52,
+        60,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "failed",
+      "answer_letters": "FAILED",
+      "indices": [
+        145,
+        143,
+        45,
+        149,
+        165,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ambitions",
+      "answer_letters": "AMBITIONS",
+      "indices": [
+        55,
+        58,
+        141,
+        34,
+        20,
+        0,
+        100,
+        41,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
         15,
-        3,
-        121,
-        63,
-        141,
-        131,
-        78,
-        48,
-        66,
-        43
+        86,
+        68,
+        26,
+        116,
+        155
       ]
     }
   ],

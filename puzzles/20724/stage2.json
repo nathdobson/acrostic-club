@@ -6,15 +6,142 @@
   "clues": [
     {
       "clue": null,
-      "answer": "magnet",
-      "answer_letters": "MAGNET",
+      "answer": "manifesto",
+      "answer_letters": "MANIFESTO",
       "indices": [
         21,
-        112,
-        142,
+        7,
         37,
+        72,
+        147,
         155,
-        61
+        19,
+        54,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orthogonal",
+      "answer_letters": "ORTHOGONAL",
+      "indices": [
+        33,
+        149,
+        181,
+        168,
+        148,
+        5,
+        28,
+        187,
+        1,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reflections",
+      "answer_letters": "REFLECTIONS",
+      "indices": [
+        115,
+        159,
+        153,
+        176,
+        189,
+        184,
+        30,
+        22,
+        119,
+        132,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yearbook",
+      "answer_letters": "YEARBOOK",
+      "indices": [
+        179,
+        17,
+        173,
+        52,
+        58,
+        165,
+        51,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aesthetics",
+      "answer_letters": "AESTHETICS",
+      "indices": [
+        160,
+        137,
+        82,
+        150,
+        12,
+        56,
+        122,
+        130,
+        80,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hosted",
+      "answer_letters": "HOSTED",
+      "indices": [
+        185,
+        131,
+        162,
+        164,
+        94,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dolphin",
+      "answer_letters": "DOLPHIN",
+      "indices": [
+        161,
+        36,
+        158,
+        63,
+        0,
+        98,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "easton",
+      "answer_letters": "EASTON",
+      "indices": [
+        47,
+        186,
+        68,
+        61,
+        182,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "microscope",
+      "answer_letters": "MICROSCOPE",
+      "indices": [
+        44,
+        90,
+        144,
+        9,
+        67,
+        23,
+        26,
+        69,
+        70,
+        116
       ]
     },
     {
@@ -22,287 +149,160 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        131,
-        153,
-        147,
-        60,
-        168,
-        36,
-        152,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "relationships",
-      "answer_letters": "RELATIONSHIPS",
-      "indices": [
-        115,
-        159,
-        176,
-        160,
-        164,
-        90,
-        145,
-        106,
+        85,
+        41,
+        50,
         87,
         55,
-        171,
-        63,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        179,
-        45,
-        184,
-        12,
-        181,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assemblies",
-      "answer_letters": "ASSEMBLIES",
-      "indices": [
-        1,
-        134,
-        162,
-        189,
-        146,
-        58,
-        158,
-        78,
-        17,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "higher",
-      "answer_letters": "HIGHER",
-      "indices": [
-        185,
-        20,
-        5,
-        0,
-        137,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "divorce",
-      "answer_letters": "DIVORCE",
-      "indices": [
-        77,
-        84,
-        2,
-        119,
-        9,
-        80,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
-        47,
-        101,
-        102,
-        177,
-        105,
-        16,
-        72,
-        186,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "molluscs",
-      "answer_letters": "MOLLUSCS",
-      "indices": [
-        44,
-        51,
-        39,
-        75,
-        81,
-        23,
-        144,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outfits",
-      "answer_letters": "OUTFITS",
-      "indices": [
         123,
-        126,
-        150,
-        50,
-        98,
-        122,
-        95
+        145,
+        129
       ]
     },
     {
       "clue": null,
-      "answer": "thinking",
-      "answer_letters": "THINKING",
+      "answer": "tbilisi",
+      "answer_letters": "TBILISI",
       "indices": [
-        167,
-        139,
+        154,
+        174,
         65,
-        172,
-        46,
+        31,
         40,
-        120,
+        60,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thrilling",
+      "answer_letters": "THRILLING",
+      "indices": [
+        11,
+        139,
+        14,
+        20,
+        75,
+        113,
+        84,
+        172,
         188
       ]
     },
     {
       "clue": null,
-      "answer": "toronto",
-      "answer_letters": "TORONTO",
+      "answer": "tunisia",
+      "answer_letters": "TUNISIA",
       "indices": [
-        92,
-        148,
-        93,
-        28,
+        178,
+        126,
         141,
-        54,
-        32
+        171,
+        128,
+        78,
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "toronto's",
-      "answer_letters": "TORONTOS",
+      "answer": "investigator",
+      "answer_letters": "INVESTIGATOR",
       "indices": [
-        154,
-        67,
-        14,
-        69,
-        187,
+        140,
+        120,
+        2,
+        111,
+        18,
         24,
-        33,
-        18
+        177,
+        142,
+        112,
+        92,
+        32,
+        93
       ]
     },
     {
       "clue": null,
-      "answer": "isabelle",
-      "answer_letters": "ISABELLE",
-      "indices": [
-        175,
-        19,
-        117,
-        174,
-        116,
-        113,
-        31,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "manifestations",
-      "answer_letters": "MANIFESTATIONS",
+      "answer": "masses",
+      "answer_letters": "MASSES",
       "indices": [
         136,
         10,
-        132,
-        22,
-        41,
-        127,
         79,
-        129,
-        173,
-        30,
-        130,
-        85,
-        4,
-        91
+        91,
+        127,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "equations",
-      "answer_letters": "EQUATIONS",
+      "answer": "equity",
+      "answer_letters": "EQUITY",
       "indices": [
         103,
         125,
-        29,
-        7,
-        138,
-        140,
-        135,
-        156,
-        68
+        81,
+        25,
+        167,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "lacked",
-      "answer_letters": "LACKED",
+      "answer": "leonard",
+      "answer_letters": "LEONARD",
       "indices": [
         66,
-        74,
-        26,
-        34,
         169,
+        105,
+        156,
+        74,
+        110,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "escorted",
-      "answer_letters": "ESCORTED",
+      "answer": "encompass",
+      "answer_letters": "ENCOMPASS",
       "indices": [
-        94,
-        96,
-        73,
-        165,
-        149,
-        178,
         13,
-        161
+        106,
+        73,
+        152,
+        146,
+        16,
+        45,
+        83,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "sophie",
-      "answer_letters": "SOPHIE",
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
       "indices": [
         99,
-        182,
-        70,
-        71,
+        64,
+        59,
         3,
-        59
+        34,
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "shirley",
-      "answer_letters": "SHIRLEY",
+      "answer": "shuttle",
+      "answer_letters": "SHUTTLE",
       "indices": [
         118,
-        64,
-        25,
-        110,
+        102,
+        29,
+        138,
+        101,
         107,
-        42,
-        108
+        42
       ]
     }
   ],

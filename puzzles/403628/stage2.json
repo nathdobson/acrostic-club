@@ -6,304 +6,304 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chatham",
-      "answer_letters": "CHATHAM",
+      "answer": "cultural",
+      "answer_letters": "CULTURAL",
       "indices": [
         44,
-        34,
-        131,
+        144,
+        10,
         33,
-        172,
-        156,
-        185
+        96,
+        62,
+        131,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "analytic",
-      "answer_letters": "ANALYTIC",
+      "answer": "assaults",
+      "answer_letters": "ASSAULTS",
       "indices": [
+        156,
+        19,
+        36,
         99,
-        164,
-        173,
-        10,
-        139,
+        85,
+        136,
         60,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        82,
+        173,
+        182,
+        179,
+        143,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "headed",
+      "answer_letters": "HEADED",
+      "indices": [
+        34,
+        9,
+        58,
+        52,
+        37,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effective",
+      "answer_letters": "EFFECTIVE",
+      "indices": [
+        176,
+        42,
+        25,
+        51,
+        54,
+        47,
+        27,
+        92,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rendered",
+      "answer_letters": "RENDERED",
+      "indices": [
+        70,
+        93,
+        29,
+        133,
+        184,
+        105,
+        28,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insane",
+      "answer_letters": "INSANE",
+      "indices": [
+        49,
+        90,
+        31,
+        138,
+        145,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newcomer",
+      "answer_letters": "NEWCOMER",
+      "indices": [
+        80,
+        74,
+        0,
+        154,
+        18,
+        13,
+        163,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estonian",
+      "answer_letters": "ESTONIAN",
+      "indices": [
+        4,
+        170,
+        125,
+        45,
+        46,
+        79,
+        22,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dealer",
+      "answer_letters": "DEALER",
+      "indices": [
+        175,
+        128,
+        48,
+        109,
+        91,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        152,
+        149,
+        139,
+        167,
+        16,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        123,
+        100,
+        140,
+        65,
+        169,
+        142,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nelson",
+      "answer_letters": "NELSON",
+      "indices": [
+        97,
+        88,
+        108,
+        8,
+        104,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kramer",
+      "answer_letters": "KRAMER",
+      "indices": [
+        127,
+        1,
+        126,
+        122,
+        150,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emerson",
+      "answer_letters": "EMERSON",
+      "indices": [
+        120,
+        185,
+        20,
+        94,
+        129,
+        17,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rothschild",
+      "answer_letters": "ROTHSCHILD",
+      "indices": [
+        57,
+        84,
+        146,
+        98,
+        39,
+        59,
+        183,
+        107,
+        41,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "benson",
+      "answer_letters": "BENSON",
+      "indices": [
+        86,
+        159,
+        132,
+        124,
+        35,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
+      "indices": [
+        67,
+        113,
+        71,
+        5,
+        75,
+        166,
+        61,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whiskey",
+      "answer_letters": "WHISKEY",
+      "indices": [
+        137,
+        162,
+        151,
+        63,
+        119,
+        114,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethnographic",
+      "answer_letters": "ETHNOGRAPHIC",
+      "indices": [
+        76,
+        3,
+        172,
+        164,
+        180,
+        158,
+        115,
+        135,
+        101,
+        55,
         2,
         15
       ]
     },
     {
       "clue": null,
-      "answer": "thrash",
-      "answer_letters": "THRASH",
+      "answer": "natasha",
+      "answer_letters": "NATASHA",
       "indices": [
-        82,
-        55,
-        62,
-        58,
-        19,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harris",
-      "answer_letters": "HARRIS",
-      "indices": [
-        183,
-        135,
-        115,
-        57,
-        107,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "errors",
-      "answer_letters": "ERRORS",
-      "indices": [
-        74,
-        105,
-        5,
-        67,
-        26,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "resentment",
-      "answer_letters": "RESENTMENT",
-      "indices": [
-        1,
-        61,
-        31,
-        114,
-        111,
-        148,
-        13,
-        176,
-        29,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "income",
-      "answer_letters": "INCOME",
-      "indices": [
-        166,
-        97,
-        154,
-        12,
-        122,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newfoundland",
-      "answer_letters": "NEWFOUNDLAND",
-      "indices": [
-        132,
-        163,
-        0,
-        25,
-        18,
-        85,
-        73,
-        133,
-        108,
-        22,
-        80,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evolve",
-      "answer_letters": "EVOLVE",
-      "indices": [
-        159,
-        75,
-        104,
-        41,
-        92,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deaths",
-      "answer_letters": "DEATHS",
-      "indices": [
-        177,
-        150,
-        48,
-        3,
-        155,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhodesia",
-      "answer_letters": "RHODESIA",
-      "indices": [
-        152,
-        149,
-        143,
-        11,
-        4,
-        6,
-        79,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imagery",
-      "answer_letters": "IMAGERY",
-      "indices": [
-        169,
-        117,
-        69,
-        158,
-        20,
-        83,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        174,
-        184,
-        65,
-        28,
-        129,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kowloon",
-      "answer_letters": "KOWLOON",
-      "indices": [
-        127,
-        180,
-        161,
-        136,
-        84,
-        17,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elective",
-      "answer_letters": "ELECTIVE",
-      "indices": [
-        91,
-        87,
-        112,
-        54,
-        179,
-        49,
-        113,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "residue",
-      "answer_letters": "RESIDUE",
-      "indices": [
-        94,
-        76,
-        23,
-        123,
-        52,
-        144,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "behalf",
-      "answer_letters": "BEHALF",
-      "indices": [
-        86,
-        51,
-        16,
-        126,
-        109,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outskirts",
-      "answer_letters": "OUTSKIRTS",
-      "indices": [
-        45,
-        96,
-        125,
-        8,
-        119,
-        151,
-        77,
-        47,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worshipped",
-      "answer_letters": "WORSHIPPED",
-      "indices": [
-        137,
-        35,
-        70,
-        124,
-        162,
-        27,
-        101,
-        100,
-        40,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enhance",
-      "answer_letters": "ENHANCE",
-      "indices": [
-        9,
         50,
-        66,
         56,
-        157,
-        59,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nascent",
-      "answer_letters": "NASCENT",
-      "indices": [
-        90,
-        118,
-        39,
-        142,
-        128,
-        145,
-        182
+        148,
+        69,
+        6,
+        155,
+        118
       ]
     }
   ],

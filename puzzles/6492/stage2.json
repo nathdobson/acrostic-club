@@ -6,284 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "longest",
+      "answer_letters": "LONGEST",
       "indices": [
-        154,
-        15,
-        61,
-        177,
-        34,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emissions",
-      "answer_letters": "EMISSIONS",
-      "indices": [
-        49,
-        178,
-        93,
-        37,
-        13,
-        83,
-        168,
-        7,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        59,
-        182,
-        124,
-        17,
-        92,
-        32,
-        8,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thrown",
-      "answer_letters": "THROWN",
-      "indices": [
-        51,
-        52,
-        81,
-        136,
-        135,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
-      "indices": [
-        173,
-        97,
         99,
-        100,
-        146,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lakshmi",
-      "answer_letters": "LAKSHMI",
-      "indices": [
-        31,
-        36,
-        145,
-        16,
-        176,
-        63,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "symbol",
-      "answer_letters": "SYMBOL",
-      "indices": [
-        121,
-        90,
-        131,
-        54,
-        162,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thrust",
-      "answer_letters": "THRUST",
-      "indices": [
-        91,
-        39,
-        89,
-        122,
-        116,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offended",
-      "answer_letters": "OFFENDED",
-      "indices": [
-        75,
-        42,
-        78,
-        110,
-        20,
-        69,
-        88,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
-      "indices": [
-        21,
-        142,
-        163,
-        143,
-        150,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "winslow",
-      "answer_letters": "WINSLOW",
-      "indices": [
-        65,
-        127,
+        59,
         128,
-        29,
-        164,
-        12,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "autumn",
-      "answer_letters": "AUTUMN",
-      "indices": [
-        115,
-        55,
-        9,
-        137,
-        156,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remade",
-      "answer_letters": "REMADE",
-      "indices": [
-        111,
+        102,
         125,
-        0,
-        44,
-        48,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anatolia",
-      "answer_letters": "ANATOLIA",
-      "indices": [
-        19,
-        101,
-        28,
-        158,
-        147,
-        138,
-        151,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        2,
-        43,
-        174,
-        169,
-        67,
-        114,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dissenting",
-      "answer_letters": "DISSENTING",
-      "indices": [
-        139,
-        155,
-        46,
-        14,
-        112,
-        133,
-        58,
-        157,
-        33,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "phases",
-      "answer_letters": "PHASES",
-      "indices": [
-        11,
-        109,
-        5,
-        72,
-        98,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "everton",
-      "answer_letters": "EVERTON",
-      "indices": [
-        40,
-        87,
-        71,
-        126,
-        108,
-        70,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "awakening",
-      "answer_letters": "AWAKENING",
-      "indices": [
-        80,
-        148,
-        1,
-        171,
-        86,
-        25,
-        62,
-        6,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chanting",
-      "answer_letters": "CHANTING",
-      "indices": [
-        4,
-        66,
-        132,
-        74,
-        84,
-        24,
-        141,
-        95
+        121,
+        56
       ]
     },
     {
@@ -291,13 +23,281 @@
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
-        79,
+        49,
+        182,
+        124,
+        168,
+        126,
+        84,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "off-road",
+      "answer_letters": "OFFROAD",
+      "indices": [
+        8,
+        42,
+        78,
+        89,
+        142,
+        44,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
+        143,
+        61,
+        45,
+        32,
+        65,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-man",
+      "answer_letters": "ONEMAN",
+      "indices": [
+        136,
+        146,
+        86,
+        131,
+        80,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lawson",
+      "answer_letters": "LAWSON",
+      "indices": [
+        31,
+        36,
+        135,
+        16,
+        119,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statues",
+      "answer_letters": "STATUES",
+      "indices": [
+        17,
+        51,
+        1,
+        76,
+        122,
+        180,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thieves",
+      "answer_letters": "THIEVES",
+      "indices": [
+        91,
+        39,
+        177,
+        88,
+        87,
+        15,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        173,
         106,
         123,
-        119,
-        45,
-        22,
-        179
+        179,
+        176,
+        100,
+        162,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        90,
+        43,
+        154,
+        181,
+        12,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "willow",
+      "answer_letters": "WILLOW",
+      "indices": [
+        148,
+        127,
+        164,
+        138,
+        147,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
+      "indices": [
+        5,
+        156,
+        54,
+        137,
+        13,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "right-wing",
+      "answer_letters": "RIGHTWING",
+      "indices": [
+        81,
+        62,
+        34,
+        52,
+        169,
+        114,
+        151,
+        101,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anything",
+      "answer_letters": "ANYTHING",
+      "indices": [
+        28,
+        2,
+        21,
+        58,
+        92,
+        155,
+        118,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "neumann",
+      "answer_letters": "NEUMANN",
+      "indices": [
+        133,
+        112,
+        163,
+        0,
+        50,
+        33,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dunkirk",
+      "answer_letters": "DUNKIRK",
+      "indices": [
+        139,
+        55,
+        94,
+        145,
+        157,
+        111,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "possessing",
+      "answer_letters": "POSSESSING",
+      "indices": [
+        11,
+        70,
+        46,
+        14,
+        98,
+        72,
+        152,
+        24,
+        74,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "einstein",
+      "answer_letters": "EINSTEIN",
+      "indices": [
+        40,
+        93,
+        141,
+        37,
+        108,
+        71,
+        83,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ashton",
+      "answer_letters": "ASHTON",
+      "indices": [
+        19,
+        29,
+        23,
+        158,
+        67,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chatham",
+      "answer_letters": "CHATHAM",
+      "indices": [
+        4,
+        109,
+        115,
+        9,
+        66,
+        132,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embodied",
+      "answer_letters": "EMBODIED",
+      "indices": [
+        79,
+        63,
+        97,
+        75,
+        69,
+        105,
+        110,
+        165
       ]
     }
   ],

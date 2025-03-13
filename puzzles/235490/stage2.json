@@ -6,287 +6,287 @@
   "clues": [
     {
       "clue": null,
-      "answer": "surely",
-      "answer_letters": "SURELY",
+      "answer": "shrimp",
+      "answer_letters": "SHRIMP",
       "indices": [
         124,
-        85,
+        95,
         57,
-        71,
-        122,
-        149
+        162,
+        59,
+        69
       ]
     },
     {
       "clue": null,
-      "answer": "elites",
-      "answer_letters": "ELITES",
+      "answer": "engages",
+      "answer_letters": "ENGAGES",
       "indices": [
-        19,
-        51,
-        162,
-        97,
-        112,
+        9,
+        76,
+        2,
+        129,
+        173,
+        71,
         17
       ]
     },
     {
       "clue": null,
-      "answer": "holiday",
-      "answer_letters": "HOLIDAY",
-      "indices": [
-        95,
-        49,
-        105,
-        123,
-        131,
-        88,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imprisonment",
-      "answer_letters": "IMPRISONMENT",
-      "indices": [
-        109,
-        53,
-        69,
-        152,
-        16,
-        163,
-        58,
-        113,
-        59,
-        45,
-        76,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        172,
-        75,
-        2,
-        43,
-        92,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "teenager",
-      "answer_letters": "TEENAGER",
-      "indices": [
-        125,
-        67,
-        34,
-        39,
-        134,
-        173,
-        64,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offices",
-      "answer_letters": "OFFICES",
-      "indices": [
-        28,
-        56,
-        83,
-        158,
-        133,
-        33,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "narrows",
-      "answer_letters": "NARROWS",
-      "indices": [
-        127,
-        176,
-        135,
-        44,
-        82,
-        144,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tottenham",
-      "answer_letters": "TOTTENHAM",
-      "indices": [
-        142,
-        140,
-        115,
-        18,
-        52,
-        20,
-        8,
-        138,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "half-hour",
-      "answer_letters": "HALFHOUR",
+      "answer": "householder",
+      "answer_letters": "HOUSEHOLDER",
       "indices": [
         74,
-        103,
-        15,
-        35,
-        170,
-        62,
-        91,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "employ",
-      "answer_letters": "EMPLOY",
-      "indices": [
-        21,
-        167,
-        47,
-        99,
-        150,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outnumbered",
-      "answer_letters": "OUTNUMBERED",
-      "indices": [
-        25,
-        151,
-        94,
-        130,
+        140,
         120,
-        42,
-        139,
-        153,
-        101,
-        136,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "u-boats",
-      "answer_letters": "UBOATS",
-      "indices": [
-        141,
-        32,
-        68,
-        38,
-        24,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "taylor",
-      "answer_letters": "TAYLOR",
-      "indices": [
-        147,
-        12,
-        118,
-        108,
-        116,
+        54,
+        64,
+        170,
+        49,
+        98,
+        40,
+        4,
         177
       ]
     },
     {
       "clue": null,
-      "answer": "stable",
-      "answer_letters": "STABLE",
+      "answer": "insane",
+      "answer_letters": "INSANE",
       "indices": [
+        109,
+        39,
+        5,
+        146,
+        113,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "normally",
+      "answer_letters": "NORMALLY",
+      "indices": [
+        172,
+        43,
+        135,
+        61,
+        78,
+        70,
+        51,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "temporary",
+      "answer_letters": "TEMPORARY",
+      "indices": [
+        125,
+        112,
+        53,
+        47,
+        28,
+        63,
+        134,
+        152,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
+      "indices": [
+        150,
+        141,
+        18,
+        122,
+        19,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nearby",
+      "answer_letters": "NEARBY",
+      "indices": [
+        130,
+        21,
+        75,
+        175,
+        139,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "therapy",
+      "answer_letters": "THERAPY",
+      "indices": [
+        94,
+        11,
+        34,
+        44,
+        138,
+        66,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "homogeneous",
+      "answer_letters": "HOMOGENEOUS",
+      "indices": [
+        145,
+        62,
+        42,
+        119,
+        160,
+        136,
+        79,
+        52,
+        82,
+        91,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estimate",
+      "answer_letters": "ESTIMATE",
+      "indices": [
+        45,
         36,
+        142,
+        123,
+        167,
+        88,
+        115,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "office",
+      "answer_letters": "OFFICE",
+      "indices": [
+        25,
+        35,
+        56,
+        171,
+        133,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unfair",
+      "answer_letters": "UNFAIR",
+      "indices": [
+        85,
+        20,
+        83,
+        38,
+        158,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trouble",
+      "answer_letters": "TROUBLE",
+      "indices": [
+        147,
+        29,
+        116,
+        151,
+        32,
+        104,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stayed",
+      "answer_letters": "STAYED",
+      "indices": [
+        163,
         111,
         156,
-        50,
-        104,
-        4
+        149,
+        102,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "importing",
-      "answer_letters": "IMPORTING",
+      "answer": "island",
+      "answer_letters": "ISLAND",
       "indices": [
         0,
-        27,
-        66,
-        119,
-        29,
-        73,
-        171,
-        79,
-        90
+        110,
+        99,
+        12,
+        127,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "delays",
-      "answer_letters": "DELAYS",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         13,
-        126,
-        70,
-        146,
-        80,
-        5
+        144,
+        16,
+        90,
+        8,
+        169
       ]
     },
     {
       "clue": null,
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
+      "answer": "emulate",
+      "answer_letters": "EMULATE",
       "indices": [
         178,
-        159,
-        166,
+        27,
         3,
-        160,
-        11
+        105,
+        176,
+        73,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "release",
-      "answer_letters": "RELEASE",
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
       "indices": [
         48,
-        102,
-        98,
-        168,
-        129,
-        155,
-        9
+        68,
+        50,
+        58,
+        97,
+        155
       ]
     },
     {
       "clue": null,
-      "answer": "shades",
-      "answer_letters": "SHADES",
+      "answer": "seasonally",
+      "answer_letters": "SEASONALLY",
       "indices": [
         86,
-        145,
-        96,
-        22,
         30,
-        165
+        96,
+        165,
+        166,
+        159,
+        103,
+        15,
+        108,
+        118
       ]
     }
   ],

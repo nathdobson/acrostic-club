@@ -6,270 +6,126 @@
   "clues": [
     {
       "clue": null,
-      "answer": "monthly",
-      "answer_letters": "MONTHLY",
+      "answer": "months",
+      "answer_letters": "MONTHS",
       "indices": [
         145,
-        136,
-        16,
-        113,
-        141,
-        149,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "antagonist",
-      "answer_letters": "ANTAGONIST",
-      "indices": [
-        11,
-        131,
-        180,
-        182,
-        132,
         20,
-        187,
-        70,
-        143,
-        9
+        131,
+        113,
+        27,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "rematch",
-      "answer_letters": "REMATCH",
+      "answer": "attractions",
+      "answer_letters": "ATTRACTIONS",
       "indices": [
-        36,
-        177,
-        33,
-        166,
-        28,
-        170,
-        1
+        15,
+        180,
+        9,
+        135,
+        11,
+        6,
+        102,
+        73,
+        71,
+        187,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
+      "answer": "rotten",
+      "answer_letters": "ROTTEN",
+      "indices": [
+        129,
+        84,
+        28,
+        74,
+        177,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "korean",
+      "answer_letters": "KOREAN",
       "indices": [
         18,
         32,
-        178,
-        130,
-        44,
-        78
+        36,
+        138,
+        166,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "thatcher",
-      "answer_letters": "THATCHER",
+      "answer": "topography",
+      "answer_letters": "TOPOGRAPHY",
       "indices": [
-        116,
-        105,
+        85,
+        126,
+        67,
+        157,
+        132,
+        158,
         93,
-        183,
-        6,
-        81,
-        97,
-        31
+        134,
+        141,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "winthrop",
-      "answer_letters": "WINTHROP",
+      "answer": "without",
+      "answer_letters": "WITHOUT",
       "indices": [
         35,
-        156,
-        19,
-        7,
+        52,
+        116,
         48,
-        69,
         146,
-        41
+        61,
+        183
       ]
     },
     {
       "clue": null,
-      "answer": "aroused",
-      "answer_letters": "AROUSED",
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
       "indices": [
         122,
-        42,
-        157,
-        175,
-        139,
-        82,
-        125
+        63,
+        54,
+        81,
+        189,
+        66,
+        39,
+        86
       ]
     },
     {
       "clue": null,
-      "answer": "interactive",
-      "answer_letters": "INTERACTIVE",
+      "answer": "infrastructure",
+      "answer_letters": "INFRASTRUCTURE",
       "indices": [
         25,
-        38,
-        54,
-        154,
-        96,
-        109,
-        90,
-        85,
-        73,
-        137,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "north-south",
-      "answer_letters": "NORTHSOUTH",
-      "indices": [
-        167,
-        71,
-        135,
-        102,
-        114,
-        65,
-        164,
-        101,
-        60,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "waterfront",
-      "answer_letters": "WATERFRONT",
-      "indices": [
-        128,
-        5,
-        77,
-        55,
-        147,
-        4,
-        88,
-        43,
-        123,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "horsepower",
-      "answer_letters": "HORSEPOWER",
-      "indices": [
-        10,
-        189,
-        176,
-        46,
-        87,
-        67,
-        126,
-        21,
-        92,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affects",
-      "answer_letters": "AFFECTS",
-      "indices": [
-        115,
-        30,
-        108,
-        2,
-        121,
-        104,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thierry",
-      "answer_letters": "THIERRY",
-      "indices": [
-        74,
-        118,
-        159,
-        138,
-        91,
-        171,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "illustrating",
-      "answer_letters": "ILLUSTRATING",
-      "indices": [
-        142,
-        57,
-        56,
-        66,
-        50,
-        94,
-        72,
-        148,
-        12,
-        151,
-        53,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stepfather",
-      "answer_letters": "STEPFATHER",
-      "indices": [
-        98,
-        174,
-        45,
-        134,
+        16,
         153,
-        15,
+        42,
+        109,
+        46,
+        174,
+        31,
+        175,
+        59,
         80,
-        86,
-        58,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "montagu",
-      "answer_letters": "MONTAGU",
-      "indices": [
-        14,
-        84,
-        152,
-        111,
-        62,
-        26,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "architecture",
-      "answer_letters": "ARCHITECTURE",
-      "indices": [
-        173,
-        24,
-        185,
-        181,
-        49,
-        163,
-        172,
-        110,
-        160,
-        61,
-        129,
-        119
+        101,
+        96,
+        68
       ]
     },
     {
@@ -277,16 +133,160 @@
       "answer": "noticeably",
       "answer_letters": "NOTICEABLY",
       "indices": [
-        188,
-        37,
-        190,
-        52,
-        59,
-        106,
-        186,
+        167,
+        164,
+        60,
+        70,
+        90,
+        58,
+        182,
         100,
-        63,
-        168
+        149,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "witchcraft",
+      "answer_letters": "WITCHCRAFT",
+      "indices": [
+        128,
+        159,
+        104,
+        185,
+        1,
+        110,
+        171,
+        5,
+        108,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hemisphere",
+      "answer_letters": "HEMISPHERE",
+      "indices": [
+        10,
+        82,
+        33,
+        156,
+        50,
+        41,
+        105,
+        97,
+        176,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aristocracy",
+      "answer_letters": "ARISTOCRACY",
+      "indices": [
+        115,
+        147,
+        142,
+        178,
+        12,
+        78,
+        170,
+        88,
+        148,
+        121,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "together",
+      "answer_letters": "TOGETHER",
+      "indices": [
+        77,
+        130,
+        26,
+        55,
+        0,
+        181,
+        2,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "involved",
+      "answer_letters": "INVOLVED",
+      "indices": [
+        151,
+        188,
+        44,
+        43,
+        56,
+        137,
+        106,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showers",
+      "answer_letters": "SHOWERS",
+      "indices": [
+        139,
+        114,
+        136,
+        21,
+        45,
+        155,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mutant",
+      "answer_letters": "MUTANT",
+      "indices": [
+        14,
+        95,
+        111,
+        62,
+        152,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afterlife",
+      "answer_letters": "AFTERLIFE",
+      "indices": [
+        173,
+        4,
+        160,
+        172,
+        24,
+        57,
+        49,
+        30,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northeastern",
+      "answer_letters": "NORTHEASTERN",
+      "indices": [
+        19,
+        37,
+        72,
+        190,
+        118,
+        87,
+        186,
+        22,
+        7,
+        92,
+        69,
+        38
       ]
     }
   ],

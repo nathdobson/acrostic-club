@@ -6,305 +6,305 @@
   "clues": [
     {
       "clue": null,
-      "answer": "southeast",
-      "answer_letters": "SOUTHEAST",
+      "answer": "season-high",
+      "answer_letters": "SEASONHIGH",
       "indices": [
         18,
-        13,
-        50,
-        3,
-        147,
         17,
         88,
         86,
-        103
+        13,
+        67,
+        144,
+        100,
+        146,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "affinity",
-      "answer_letters": "AFFINITY",
+      "answer": "anthony",
+      "answer_letters": "ANTHONY",
       "indices": [
-        180,
-        114,
-        87,
-        66,
-        36,
-        91,
-        29,
+        131,
+        27,
+        70,
+        22,
+        8,
+        156,
         61
       ]
     },
     {
       "clue": null,
-      "answer": "mighty",
-      "answer_letters": "MIGHTY",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
       "indices": [
         183,
-        145,
-        57,
+        26,
+        74,
+        40,
+        162,
         110,
-        24,
+        145,
+        114,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unhappy",
+      "answer_letters": "UNHAPPY",
+      "indices": [
+        63,
+        171,
+        107,
+        23,
+        151,
+        168,
         48
       ]
     },
     {
       "clue": null,
-      "answer": "unfortunate",
-      "answer_letters": "UNFORTUNATE",
+      "answer": "enthusiast",
+      "answer_letters": "ENTHUSIAST",
       "indices": [
-        56,
-        156,
-        113,
-        55,
-        125,
-        70,
-        63,
-        171,
-        23,
-        84,
-        127
+        72,
+        136,
+        178,
+        182,
+        50,
+        159,
+        85,
+        177,
+        79,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "exited",
-      "answer_letters": "EXITED",
-      "indices": [
-        75,
-        150,
-        100,
-        59,
-        98,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "looting",
-      "answer_letters": "LOOTING",
+      "answer": "lineages",
+      "answer_letters": "LINEAGES",
       "indices": [
         42,
-        8,
-        174,
-        138,
         12,
         9,
-        109
+        184,
+        83,
+        57,
+        127,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "methane",
-      "answer_letters": "METHANE",
+      "answer": "methodist",
+      "answer_letters": "METHODIST",
       "indices": [
         34,
-        149,
-        164,
-        107,
-        131,
-        27,
-        184
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cheshire",
-      "answer_letters": "CHESHIRE",
-      "indices": [
-        44,
-        4,
-        78,
-        162,
-        58,
-        135,
-        153,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chestnut",
-      "answer_letters": "CHESTNUT",
-      "indices": [
-        89,
-        95,
-        76,
-        101,
-        186,
-        185,
-        14,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "happen",
-      "answer_letters": "HAPPEN",
-      "indices": [
-        182,
-        122,
-        151,
-        168,
-        166,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "onions",
-      "answer_letters": "ONIONS",
-      "indices": [
-        169,
-        93,
-        154,
-        28,
-        132,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "researches",
-      "answer_letters": "RESEARCHES",
-      "indices": [
-        97,
-        72,
-        159,
-        96,
-        177,
-        51,
-        7,
-        144,
-        43,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "danish",
-      "answer_letters": "DANISH",
-      "indices": [
-        68,
-        26,
-        136,
-        115,
-        15,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "connacht",
-      "answer_letters": "CONNACHT",
-      "indices": [
-        181,
-        62,
-        128,
-        16,
-        83,
-        11,
-        104,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "richest",
-      "answer_letters": "RICHEST",
-      "indices": [
-        32,
-        0,
-        116,
-        165,
-        142,
-        141,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
-      "indices": [
-        119,
-        77,
-        117,
-        112,
-        41,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "testified",
-      "answer_letters": "TESTIFIED",
-      "indices": [
-        172,
-        152,
-        19,
-        178,
-        85,
-        124,
-        170,
-        105,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "highest",
-      "answer_letters": "HIGHEST",
-      "indices": [
-        54,
-        126,
-        146,
-        30,
-        158,
+        155,
+        84,
+        139,
+        174,
+        129,
+        91,
         46,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "efficient",
-      "answer_letters": "EFFICIENT",
-      "indices": [
-        40,
-        65,
-        175,
-        108,
-        157,
-        35,
-        31,
-        1,
         90
       ]
     },
     {
       "clue": null,
-      "answer": "rooted",
-      "answer_letters": "ROOTED",
+      "answer": "chiefs",
+      "answer_letters": "CHIEFS",
       "indices": [
-        39,
-        49,
-        92,
-        53,
-        140,
-        129
+        7,
+        4,
+        135,
+        105,
+        41,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
+      "answer": "coffee",
+      "answer_letters": "COFFEE",
+      "indices": [
+        89,
+        62,
+        87,
+        113,
+        158,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
+      "indices": [
+        165,
+        14,
+        21,
+        172,
+        169,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offers",
+      "answer_letters": "OFFERS",
+      "indices": [
+        92,
+        120,
+        124,
+        98,
+        97,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "retention",
+      "answer_letters": "RETENTION",
+      "indices": [
+        51,
+        96,
+        3,
+        43,
+        93,
+        103,
+        170,
+        28,
+        132
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "decree",
+      "answer_letters": "DECREE",
+      "indices": [
+        133,
+        5,
+        116,
+        153,
+        142,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chechen",
+      "answer_letters": "CHECHEN",
+      "indices": [
+        181,
+        104,
+        31,
+        11,
+        95,
+        76,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rented",
+      "answer_letters": "RENTED",
+      "indices": [
+        32,
+        166,
+        185,
+        45,
+        75,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        119,
+        65,
+        175,
+        141,
+        30,
+        112,
+        49,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tahiti",
+      "answer_letters": "TAHITI",
+      "indices": [
+        80,
+        122,
+        58,
+        0,
+        53,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hinted",
+      "answer_letters": "HINTED",
+      "indices": [
+        54,
+        126,
+        16,
+        179,
+        140,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exciting",
+      "answer_letters": "EXCITING",
+      "indices": [
+        149,
+        150,
+        157,
+        108,
+        138,
+        35,
+        1,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "richer",
+      "answer_letters": "RICHER",
+      "indices": [
+        125,
+        115,
+        44,
+        71,
+        78,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "situations",
+      "answer_letters": "SITUATIONS",
       "indices": [
         82,
-        22,
-        155,
         161,
-        74,
-        139
+        29,
+        56,
+        180,
+        164,
+        66,
+        55,
+        36,
+        101
       ]
     }
   ],

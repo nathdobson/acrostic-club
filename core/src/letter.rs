@@ -54,6 +54,18 @@ impl Letter {
     pub fn all() -> RangeInclusive<Letter> {
         Self::MIN..=Self::MAX
     }
+    pub fn scrabble_score(self) -> usize {
+        match self.to_char() {
+            'L' | 'S' | 'U' | 'N' | 'R' | 'T' | 'O' | 'A' | 'I' | 'E' => 1,
+            'G' | 'D' => 2,
+            'B' | 'C' | 'M' | 'P' => 3,
+            'F' | 'H' | 'V' | 'W' | 'Y' => 4,
+            'K' => 5,
+            'J' | 'X' => 8,
+            'Q' | 'Z' => 10,
+            _ => unreachable!(),
+        }
+    }
 }
 
 #[derive(Eq, Ord, PartialEq, PartialOrd, Hash, Copy, Clone, Default)]
@@ -139,6 +151,9 @@ impl LetterSet {
     }
     pub fn is_subset(self, other: Self) -> bool {
         self.0.zip(other.0).iter().all(|(_, (a, b))| a <= b)
+    }
+    pub fn scrabble_score(&self) -> usize {
+        self.iter().map(|(l, c)| l.scrabble_score() * c).sum()
     }
 }
 

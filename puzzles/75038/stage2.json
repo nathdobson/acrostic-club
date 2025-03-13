@@ -6,62 +6,63 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chowdhury",
-      "answer_letters": "CHOWDHURY",
+      "answer": "credited",
+      "answer_letters": "CREDITED",
       "indices": [
         34,
+        29,
+        112,
+        150,
+        71,
+        45,
+        157,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "homicide",
+      "answer_letters": "HOMICIDE",
+      "indices": [
         156,
         55,
-        57,
-        150,
-        107,
-        67,
-        29,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hamlets",
-      "answer_letters": "HAMLETS",
-      "indices": [
-        148,
-        40,
         167,
-        138,
-        112,
-        45,
-        1
+        129,
+        162,
+        74,
+        128,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "adjusted",
-      "answer_letters": "ADJUSTED",
+      "answer": "apoptosis",
+      "answer_letters": "APOPTOSIS",
       "indices": [
-        64,
-        170,
-        62,
-        17,
-        73,
+        40,
+        76,
+        98,
+        137,
         37,
-        157,
-        128
+        16,
+        1,
+        146,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "richards",
-      "answer_letters": "RICHARDS",
+      "answer": "referred",
+      "answer_letters": "REFERRED",
       "indices": [
         26,
-        71,
-        162,
-        39,
-        127,
+        11,
+        32,
+        6,
         109,
-        19,
-        147
+        5,
+        94,
+        19
       ]
     },
     {
@@ -69,222 +70,221 @@
       "answer": "leased",
       "answer_letters": "LEASED",
       "indices": [
-        77,
-        149,
-        3,
-        68,
-        11,
+        138,
+        115,
+        64,
+        147,
+        86,
         80
       ]
     },
     {
       "clue": null,
-      "answer": "exited",
-      "answer_letters": "EXITED",
+      "answer": "electric",
+      "answer_letters": "ELECTRIC",
       "indices": [
         126,
-        113,
-        84,
-        117,
+        18,
         153,
-        87
+        15,
+        117,
+        171,
+        84,
+        114
       ]
     },
     {
       "clue": null,
-      "answer": "stepped",
-      "answer_letters": "STEPPED",
+      "answer": "shields",
+      "answer_letters": "SHIELDS",
       "indices": [
-        132,
-        120,
-        110,
-        92,
-        134,
+        82,
+        46,
+        13,
         90,
-        141
+        8,
+        165,
+        132
       ]
     },
     {
       "clue": null,
-      "answer": "baltic",
-      "answer_letters": "BALTIC",
+      "answer": "bright",
+      "answer_letters": "BRIGHT",
       "indices": [
         23,
-        119,
-        93,
-        21,
-        74,
-        7
+        97,
+        47,
+        131,
+        148,
+        21
       ]
     },
     {
       "clue": null,
-      "answer": "upcoming",
-      "answer_letters": "UPCOMING",
+      "answer": "underway",
+      "answer_letters": "UNDERWAY",
       "indices": [
-        161,
-        76,
-        96,
-        98,
-        75,
-        146,
-        48,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kapoor",
-      "answer_letters": "KAPOOR",
-      "indices": [
-        163,
-        25,
-        89,
-        91,
-        136,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "olympia",
-      "answer_letters": "OLYMPIA",
-      "indices": [
-        66,
-        83,
-        105,
-        122,
-        116,
-        33,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "weighed",
-      "answer_letters": "WEIGHED",
-      "indices": [
-        106,
-        168,
-        58,
-        49,
-        46,
-        63,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sydney",
-      "answer_letters": "SYDNEY",
-      "indices": [
-        160,
-        158,
-        165,
+        17,
         130,
-        115,
+        41,
+        139,
+        125,
+        57,
+        3,
         78
       ]
     },
     {
       "clue": null,
-      "answer": "keeper",
-      "answer_letters": "KEEPER",
+      "answer": "kidney",
+      "answer_letters": "KIDNEY",
       "indices": [
-        85,
-        86,
-        135,
-        137,
-        139,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inter-county",
-      "answer_letters": "INTERCOUNTY",
-      "indices": [
+        163,
         36,
-        20,
-        28,
+        141,
+        48,
         108,
-        125,
-        114,
-        52,
-        9,
-        104,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "optical",
+      "answer_letters": "OPTICAL",
+      "indices": [
+        44,
+        134,
         51,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whistle",
-      "answer_letters": "WHISTLE",
-      "indices": [
-        99,
-        60,
-        13,
-        82,
-        155,
-        65,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "officials",
-      "answer_letters": "OFFICIALS",
-      "indices": [
-        16,
-        32,
-        31,
-        47,
-        15,
-        144,
-        103,
-        8,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "misery",
-      "answer_letters": "MISERY",
-      "indices": [
-        152,
         81,
-        10,
-        164,
-        171,
+        96,
+        25,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "widely",
+      "answer_letters": "WIDELY",
+      "indices": [
+        106,
+        33,
+        54,
+        63,
+        65,
         69
       ]
     },
     {
       "clue": null,
-      "answer": "edited",
-      "answer_letters": "EDITED",
+      "answer": "sympathy",
+      "answer_letters": "SYMPATHY",
       "indices": [
-        6,
-        100,
-        129,
+        160,
+        123,
+        75,
+        92,
+        127,
         59,
-        94,
-        41
+        107,
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "nominal",
-      "answer_letters": "NOMINAL",
+      "answer": "khalifa",
+      "answer_letters": "KHALIFA",
       "indices": [
-        43,
-        44,
+        85,
+        39,
+        119,
+        77,
+        144,
+        31,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "incomes",
+      "answer_letters": "INCOMES",
+      "indices": [
+        58,
+        20,
+        7,
+        66,
+        152,
+        168,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "weymouth",
+      "answer_letters": "WEYMOUTH",
+      "indices": [
+        99,
+        110,
+        172,
+        122,
+        52,
+        9,
+        28,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlets",
+      "answer_letters": "OUTLETS",
+      "indices": [
+        136,
+        161,
+        155,
+        93,
+        24,
+        120,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mapped",
+      "answer_letters": "MAPPED",
+      "indices": [
         143,
+        0,
+        89,
+        116,
+        164,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "exodus",
+      "answer_letters": "EXODUS",
+      "indices": [
+        135,
+        113,
+        91,
+        100,
+        67,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nanjing",
+      "answer_letters": "NANJING",
+      "indices": [
+        104,
+        30,
+        43,
+        62,
         142,
         145,
-        30,
-        18
+        49
       ]
     }
   ],

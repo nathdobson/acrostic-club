@@ -6,267 +6,15 @@
   "clues": [
     {
       "clue": null,
-      "answer": "commits",
-      "answer_letters": "COMMITS",
+      "answer": "critic",
+      "answer_letters": "CRITIC",
       "indices": [
         2,
-        115,
-        27,
-        121,
+        128,
         160,
         112,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yucatán",
-      "answer_letters": "YUCATAN",
-      "indices": [
-        129,
-        50,
-        147,
-        88,
-        101,
-        173,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        137,
-        107,
-        159,
-        23,
-        80,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tariff",
-      "answer_letters": "TARIFF",
-      "indices": [
-        42,
-        30,
-        33,
-        41,
-        68,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
-      "indices": [
-        168,
-        75,
-        51,
-        122,
-        149,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        157,
-        74,
-        43,
-        82,
-        71,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        10,
-        172,
-        78,
-        132,
-        144,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hotels",
-      "answer_letters": "HOTELS",
-      "indices": [
-        152,
-        98,
-        57,
-        14,
-        73,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "august",
-      "answer_letters": "AUGUST",
-      "indices": [
-        25,
-        146,
-        162,
-        1,
-        156,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newark",
-      "answer_letters": "NEWARK",
-      "indices": [
-        83,
-        127,
-        13,
-        79,
-        16,
-        148
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dmitry",
-      "answer_letters": "DMITRY",
-      "indices": [
-        174,
-        106,
-        34,
-        7,
-        89,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "utilizing",
-      "answer_letters": "UTILIZING",
-      "indices": [
-        133,
-        167,
-        143,
-        37,
-        164,
-        36,
-        100,
-        158,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "networks",
-      "answer_letters": "NETWORKS",
-      "indices": [
-        161,
-        59,
-        145,
-        40,
-        104,
-        128,
-        3,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estimation",
-      "answer_letters": "ESTIMATION",
-      "indices": [
-        109,
-        123,
-        170,
-        62,
-        29,
-        93,
-        55,
-        111,
-        67,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aggravated",
-      "answer_letters": "AGGRAVATED",
-      "indices": [
-        117,
-        64,
-        138,
-        154,
-        125,
-        126,
-        17,
-        22,
-        4,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roadway",
-      "answer_letters": "ROADWAY",
-      "indices": [
-        150,
-        8,
-        90,
-        9,
-        118,
-        136,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tractor",
-      "answer_letters": "TRACTOR",
-      "indices": [
-        0,
-        76,
-        119,
-        49,
-        97,
-        72,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hickory",
-      "answer_letters": "HICKORY",
-      "indices": [
-        58,
         20,
-        86,
-        108,
-        47,
-        5,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lodges",
-      "answer_letters": "LODGES",
-      "indices": [
-        87,
-        141,
-        63,
-        95,
-        65,
-        165
+        49
       ]
     },
     {
@@ -274,13 +22,265 @@
       "answer": "yangtze",
       "answer_letters": "YANGTZE",
       "indices": [
+        129,
+        173,
+        21,
+        95,
+        101,
+        36,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        18,
+        127,
+        118,
+        51,
+        50,
+        5,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trilogy",
+      "answer_letters": "TRILOGY",
+      "indices": [
+        103,
+        33,
+        111,
+        37,
+        67,
+        159,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hickory",
+      "answer_letters": "HICKORY",
+      "indices": [
+        168,
+        41,
+        71,
+        148,
+        132,
+        122,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
+      "indices": [
+        157,
+        161,
+        126,
+        47,
+        3,
+        59,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aggregator",
+      "answer_letters": "AGGREGATOR",
+      "indices": [
+        90,
+        64,
+        138,
+        16,
+        75,
+        162,
+        136,
+        170,
+        23,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
+      "indices": [
+        152,
+        4,
+        13,
+        34,
+        74,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "augusta",
+      "answer_letters": "AUGUSTA",
+      "indices": [
+        25,
+        146,
+        114,
+        1,
+        92,
+        57,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "namibia",
+      "answer_letters": "NAMIBIA",
+      "indices": [
+        158,
+        107,
+        29,
+        143,
+        172,
+        164,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "distal",
+      "answer_letters": "DISTAL",
+      "indices": [
+        63,
+        100,
+        156,
+        140,
+        93,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uzbekistan",
+      "answer_letters": "UZBEKISTAN",
+      "indices": [
+        133,
+        35,
+        78,
+        14,
+        108,
+        62,
+        123,
+        7,
+        10,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nowadays",
+      "answer_letters": "NOWADAYS",
+      "indices": [
+        94,
+        115,
+        40,
+        119,
+        84,
+        82,
+        120,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        109,
+        68,
+        69,
+        98,
+        154,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "armand",
+      "answer_letters": "ARMAND",
+      "indices": [
+        125,
+        61,
+        106,
+        17,
+        83,
+        9
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "regatta",
+      "answer_letters": "REGATTA",
+      "indices": [
+        150,
+        149,
+        32,
+        30,
+        55,
+        144,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        145,
+        169,
+        0,
+        97,
+        104,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hammer",
+      "answer_letters": "HAMMER",
+      "indices": [
+        43,
+        117,
+        27,
+        121,
+        153,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "low-cost",
+      "answer_letters": "LOWCOST",
+      "indices": [
+        87,
+        8,
+        46,
+        147,
+        141,
+        165,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
         38,
         28,
-        94,
-        114,
+        86,
+        58,
         45,
-        35,
-        153
+        52
       ]
     }
   ],

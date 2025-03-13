@@ -6,232 +6,180 @@
   "clues": [
     {
       "clue": null,
-      "answer": "reader",
-      "answer_letters": "READER",
+      "answer": "recreational",
+      "answer_letters": "RECREATIONAL",
       "indices": [
         22,
         36,
-        57,
-        133,
-        21,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "always",
-      "answer_letters": "ALWAYS",
-      "indices": [
-        68,
-        35,
-        116,
-        93,
-        101,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "confusion",
-      "answer_letters": "CONFUSION",
-      "indices": [
-        11,
-        102,
-        78,
-        97,
-        114,
-        130,
-        129,
-        81,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hubert",
-      "answer_letters": "HUBERT",
-      "indices": [
-        32,
-        82,
-        46,
-        125,
-        154,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "europa",
-      "answer_letters": "EUROPA",
-      "indices": [
-        132,
-        103,
-        44,
-        122,
-        50,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "locate",
-      "answer_letters": "LOCATE",
-      "indices": [
-        70,
-        74,
-        48,
-        117,
-        20,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "calling",
-      "answer_letters": "CALLING",
-      "indices": [
         4,
-        47,
-        13,
-        85,
-        7,
-        137,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ammonia",
-      "answer_letters": "AMMONIA",
-      "indices": [
-        143,
-        26,
-        91,
+        149,
+        21,
+        57,
+        121,
+        148,
         77,
         145,
-        148,
-        51
+        143,
+        13
       ]
     },
     {
       "clue": null,
-      "answer": "islands",
-      "answer_letters": "ISLANDS",
+      "answer": "affect",
+      "answer_letters": "AFFECT",
       "indices": [
-        58,
-        60,
-        5,
-        37,
-        105,
-        16,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        71,
-        76,
-        147,
-        0,
-        61,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enfield",
-      "answer_letters": "ENFIELD",
-      "indices": [
-        43,
-        94,
-        110,
-        109,
-        65,
-        14,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "golfer",
-      "answer_letters": "GOLFER",
-      "indices": [
-        139,
-        106,
-        150,
+        117,
+        97,
         19,
-        39,
-        83
+        65,
+        52,
+        119
       ]
     },
     {
       "clue": null,
-      "answer": "hottest",
-      "answer_letters": "HOTTEST",
+      "answer": "colonial",
+      "answer_letters": "COLONIAL",
       "indices": [
-        64,
-        72,
-        121,
-        135,
-        1,
-        155,
-        107
+        11,
+        122,
+        14,
+        106,
+        94,
+        58,
+        47,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
+      "answer": "hadith",
+      "answer_letters": "HADITH",
       "indices": [
-        98,
-        40,
-        138,
-        79,
         140,
-        153
+        37,
+        142,
+        138,
+        141,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "smooth",
-      "answer_letters": "SMOOTH",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
-        29,
-        144,
-        136,
-        86,
-        141,
+        125,
+        59,
+        113,
+        114,
+        124,
         156
       ]
     },
     {
       "clue": null,
-      "answer": "teacher",
-      "answer_letters": "TEACHER",
+      "answer": "lifted",
+      "answer_letters": "LIFTED",
       "indices": [
-        126,
-        33,
-        12,
-        52,
-        42,
-        92,
-        8
+        85,
+        129,
+        110,
+        20,
+        43,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "tanaka",
-      "answer_letters": "TANAKA",
+      "answer": "choirs",
+      "answer_letters": "CHOIRS",
       "indices": [
-        95,
-        28,
-        38,
-        6,
-        49,
-        18
+        48,
+        64,
+        72,
+        109,
+        44,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assist",
+      "answer_letters": "ASSIST",
+      "indices": [
+        51,
+        155,
+        130,
+        7,
+        88,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "imagery",
+      "answer_letters": "IMAGERY",
+      "indices": [
+        89,
+        91,
+        68,
+        56,
+        15,
+        99,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nassau",
+      "answer_letters": "NASSAU",
+      "indices": [
+        71,
+        12,
+        87,
+        31,
+        153,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embryo",
+      "answer_letters": "EMBRYO",
+      "indices": [
+        1,
+        26,
+        46,
+        154,
+        101,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        139,
+        136,
+        63,
+        42,
+        93,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "horton",
+      "answer_letters": "HORTON",
+      "indices": [
+        24,
+        74,
+        83,
+        107,
+        102,
+        137
       ]
     },
     {
@@ -239,39 +187,91 @@
       "answer": "orkney",
       "answer_letters": "ORKNEY",
       "indices": [
-        113,
-        99,
-        128,
-        118,
-        9,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whisky",
-      "answer_letters": "WHISKY",
-      "indices": [
-        67,
-        152,
-        25,
-        87,
+        98,
+        8,
         53,
+        118,
+        33,
         112
       ]
     },
     {
       "clue": null,
-      "answer": "nightly",
-      "answer_letters": "NIGHTLY",
+      "answer": "stalls",
+      "answer_letters": "STALLS",
       "indices": [
-        75,
-        89,
-        124,
-        24,
-        119,
+        131,
+        95,
+        28,
+        35,
+        5,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "taluka",
+      "answer_letters": "TALUKA",
+      "indices": [
+        61,
+        6,
         69,
-        80
+        103,
+        49,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        126,
+        0,
+        25,
+        75,
+        128,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-day",
+      "answer_letters": "ONEDAY",
+      "indices": [
+        86,
+        105,
+        9,
+        16,
+        55,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "welding",
+      "answer_letters": "WELDING",
+      "indices": [
+        67,
+        92,
+        150,
+        40,
+        76,
+        38,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        78,
+        132,
+        50,
+        32,
+        39,
+        116
       ]
     }
   ],

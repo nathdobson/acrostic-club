@@ -6,54 +6,64 @@
   "clues": [
     {
       "clue": null,
-      "answer": "ratios",
-      "answer_letters": "RATIOS",
+      "answer": "right-hand",
+      "answer_letters": "RIGHTHAND",
       "indices": [
         76,
-        34,
-        110,
         172,
-        181,
-        177
+        133,
+        49,
+        110,
+        86,
+        34,
+        23,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "intend",
-      "answer_letters": "INTEND",
+      "answer": "implications",
+      "answer_letters": "IMPLICATIONS",
       "indices": [
-        53,
-        108,
+        90,
+        65,
+        144,
+        33,
+        0,
+        168,
+        26,
         175,
-        178,
-        174,
-        6
+        42,
+        148,
+        118,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "custom",
-      "answer_letters": "CUSTOM",
+      "answer": "chechen",
+      "answer_letters": "CHECHEN",
       "indices": [
-        48,
-        57,
-        10,
-        119,
-        3,
-        65
+        56,
+        111,
+        140,
+        106,
+        101,
+        59,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "killer",
-      "answer_letters": "KILLER",
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
       "indices": [
         89,
-        0,
-        33,
-        152,
-        140,
-        58
+        19,
+        32,
+        169,
+        15,
+        124
       ]
     },
     {
@@ -62,242 +72,232 @@
       "answer_letters": "YOUTUBE",
       "indices": [
         185,
-        130,
-        182,
-        85,
-        82,
-        104,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adoption",
-      "answer_letters": "ADOPTION",
-      "indices": [
-        121,
-        24,
-        107,
-        83,
-        98,
-        134,
-        115,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novels",
-      "answer_letters": "NOVELS",
-      "indices": [
-        73,
-        29,
-        15,
-        59,
-        153,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chopin",
-      "answer_letters": "CHOPIN",
-      "indices": [
-        168,
-        71,
-        19,
-        144,
-        90,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enhancing",
-      "answer_letters": "ENHANCING",
-      "indices": [
-        50,
-        147,
-        142,
-        151,
-        170,
-        56,
-        22,
-        91,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
-      "indices": [
-        77,
-        169,
-        46,
-        68,
-        111,
-        125,
-        35,
-        184
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "talbot",
-      "answer_letters": "TALBOT",
-      "indices": [
-        70,
-        94,
-        5,
-        127,
-        159,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "halftime",
-      "answer_letters": "HALFTIME",
-      "indices": [
-        13,
-        167,
-        122,
-        164,
-        38,
-        79,
-        139,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "espionage",
-      "answer_letters": "ESPIONAGE",
-      "indices": [
-        39,
-        137,
-        114,
-        42,
         96,
-        88,
-        26,
-        92,
+        35,
+        61,
+        57,
+        104,
         72
       ]
     },
     {
       "clue": null,
-      "answer": "lightweight",
-      "answer_letters": "LIGHTWEIGHT",
+      "answer": "albeit",
+      "answer_letters": "ALBEIT",
       "indices": [
-        158,
+        121,
+        5,
+        127,
+        136,
+        134,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nutrition",
+      "answer_letters": "NUTRITION",
+      "indices": [
+        108,
+        46,
+        119,
+        51,
         120,
-        36,
-        28,
-        18,
-        2,
-        145,
+        85,
         87,
-        133,
-        62,
+        3,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cliffs",
+      "answer_letters": "CLIFFS",
+      "indices": [
+        48,
+        152,
+        79,
+        21,
+        75,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        66,
+        125,
+        164,
+        50,
+        129,
+        18,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        77,
+        29,
+        97,
+        68,
+        71,
+        183
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toowoomba",
+      "answer_letters": "TOOWOOMBA",
+      "indices": [
+        11,
+        159,
+        107,
+        2,
+        115,
+        181,
+        139,
+        95,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "happen",
+      "answer_letters": "HAPPEN",
+      "indices": [
+        142,
+        128,
+        114,
+        83,
+        102,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
+      "indices": [
+        39,
+        184,
+        155,
+        8,
+        151,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "levant",
+      "answer_letters": "LEVANT",
+      "indices": [
+        153,
+        145,
+        135,
+        14,
+        147,
         149
       ]
     },
     {
       "clue": null,
-      "answer": "archive",
-      "answer_letters": "ARCHIVE",
+      "answer": "aligned",
+      "answer_letters": "ALIGNED",
       "indices": [
-        128,
-        40,
-        106,
-        37,
-        155,
-        135,
-        112
+        67,
+        122,
+        163,
+        92,
+        170,
+        112,
+        6
       ]
     },
     {
       "clue": null,
-      "answer": "subject",
-      "answer_letters": "SUBJECT",
+      "answer": "settling",
+      "answer_letters": "SETTLING",
       "indices": [
-        156,
-        9,
-        95,
-        8,
-        136,
-        129,
-        47
+        177,
+        63,
+        47,
+        70,
+        158,
+        180,
+        91,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
       "indices": [
         54,
-        67,
-        86,
-        163,
-        116,
-        180
+        62,
+        143,
+        9,
+        30,
+        37,
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "southeast",
-      "answer_letters": "SOUTHEAST",
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
       "indices": [
-        183,
-        143,
-        4,
+        156,
+        28,
+        82,
         100,
-        49,
-        63,
-        14,
-        173,
+        130,
+        4,
         80
       ]
     },
     {
       "clue": null,
-      "answer": "there's",
-      "answer_letters": "THERES",
+      "answer": "tenure",
+      "answer_letters": "TENURE",
       "indices": [
-        61,
-        101,
-        16,
-        51,
-        102,
-        32
+        38,
+        117,
+        73,
+        182,
+        40,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "attire",
+      "answer_letters": "ATTIRE",
       "indices": [
+        167,
+        161,
+        43,
+        22,
+        58,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rabbis",
+      "answer_letters": "RABBIS",
+      "indices": [
+        179,
         105,
         166,
         45,
-        124,
-        161,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        179,
-        97,
-        118,
-        148,
-        21,
-        75
+        53,
+        160
       ]
     }
   ],

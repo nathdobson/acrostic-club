@@ -6,235 +6,158 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mounts",
-      "answer_letters": "MOUNTS",
+      "answer": "meeting",
+      "answer_letters": "MEETING",
       "indices": [
         61,
-        72,
-        156,
-        114,
-        41,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ontario",
-      "answer_letters": "ONTARIO",
-      "indices": [
-        109,
-        57,
+        126,
+        185,
         149,
-        66,
-        183,
-        14,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hughes",
-      "answer_letters": "HUGHES",
-      "indices": [
-        55,
-        129,
-        130,
-        104,
-        40,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sentences",
-      "answer_letters": "SENTENCES",
-      "indices": [
-        96,
-        159,
-        73,
-        169,
-        56,
+        59,
         186,
-        38,
-        27,
-        178
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "answer": "obtaining",
+      "answer_letters": "OBTAINING",
+      "indices": [
+        128,
+        136,
+        111,
+        3,
+        0,
+        114,
+        14,
+        57,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hilltop",
+      "answer_letters": "HILLTOP",
+      "indices": [
+        104,
+        75,
+        124,
+        147,
+        139,
+        109,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "student",
+      "answer_letters": "STUDENT",
+      "indices": [
+        150,
+        169,
+        156,
+        108,
+        170,
+        73,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issues",
+      "answer_letters": "ISSUES",
       "indices": [
         49,
-        36,
-        182,
-        174,
-        8,
-        3,
-        171
+        42,
+        44,
+        129,
+        63,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
-        15,
-        91,
-        116,
-        64,
-        140,
-        54,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hillside",
-      "answer_letters": "HILLSIDE",
-      "indices": [
-        13,
-        78,
-        87,
-        141,
-        10,
-        144,
-        142,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "altogether",
-      "answer_letters": "ALTOGETHER",
-      "indices": [
-        177,
-        86,
-        48,
-        134,
-        16,
+        171,
+        5,
+        121,
         97,
-        7,
-        2,
-        51,
-        39
+        36,
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "multimedia",
-      "answer_letters": "MULTIMEDIA",
+      "answer": "hockey",
+      "answer_letters": "HOCKEY",
+      "indices": [
+        2,
+        45,
+        38,
+        79,
+        51,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "avenue",
+      "answer_letters": "AVENUE",
+      "indices": [
+        18,
+        4,
+        119,
+        33,
+        21,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
       "indices": [
         92,
-        21,
-        124,
-        101,
-        59,
-        50,
-        63,
-        157,
-        0,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interval",
-      "answer_letters": "INTERVAL",
-      "indices": [
-        184,
-        110,
-        145,
-        137,
-        165,
-        4,
-        180,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "definite",
-      "answer_letters": "DEFINITE",
-      "indices": [
-        108,
-        100,
-        24,
-        164,
-        33,
-        75,
-        84,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mistaken",
-      "answer_letters": "MISTAKEN",
-      "indices": [
-        46,
-        82,
-        71,
+        174,
         89,
-        18,
-        79,
-        119,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "opposed",
-      "answer_letters": "OPPOSED",
-      "indices": [
-        45,
-        68,
-        167,
-        168,
-        42,
-        163,
-        187
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "together",
-      "answer_letters": "TOGETHER",
-      "indices": [
-        133,
-        20,
-        158,
-        69,
-        139,
-        90,
+        84,
+        8,
         37,
-        70
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "answer": "intestinal",
+      "answer_letters": "INTESTINAL",
       "indices": [
-        162,
-        105,
-        121,
-        173,
-        12,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seated",
-      "answer_letters": "SEATED",
-      "indices": [
-        30,
-        47,
-        32,
+        78,
+        28,
         172,
-        148,
-        34
+        91,
+        71,
+        145,
+        144,
+        127,
+        177,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deported",
+      "answer_letters": "DEPORTED",
+      "indices": [
+        34,
+        163,
+        68,
+        168,
+        39,
+        7,
+        69,
+        142
       ]
     },
     {
@@ -242,56 +165,133 @@
       "answer": "millet",
       "answer_letters": "MILLET",
       "indices": [
-        152,
-        26,
-        77,
-        123,
-        62,
-        103
+        46,
+        82,
+        141,
+        86,
+        85,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "objected",
-      "answer_letters": "OBJECTED",
+      "answer": "offshore",
+      "answer_letters": "OFFSHORE",
       "indices": [
-        115,
-        19,
-        155,
-        153,
-        98,
-        22,
+        20,
+        182,
+        24,
+        178,
+        90,
+        72,
+        70,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "three-time",
+      "answer_letters": "THREETIME",
+      "indices": [
+        101,
+        55,
+        183,
+        159,
+        56,
+        133,
+        164,
+        50,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heightened",
+      "answer_letters": "HEIGHTENED",
+      "indices": [
+        162,
         80,
+        173,
+        16,
+        13,
+        22,
+        105,
+        15,
+        47,
         29
       ]
     },
     {
       "clue": null,
-      "answer": "kimberley",
-      "answer_letters": "KIMBERLEY",
+      "answer": "satellites",
+      "answer_letters": "SATELLITES",
       "indices": [
-        113,
-        9,
-        118,
-        136,
-        170,
-        25,
-        147,
-        126,
-        106
+        30,
+        180,
+        12,
+        148,
+        123,
+        175,
+        184,
+        161,
+        137,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "esther",
-      "answer_letters": "ESTHER",
+      "answer": "morale",
+      "answer_letters": "MORALE",
       "indices": [
-        185,
+        152,
+        115,
+        165,
+        32,
+        77,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "objection",
+      "answer_letters": "OBJECTION",
+      "indices": [
+        140,
+        19,
+        155,
+        153,
+        98,
+        103,
+        26,
+        134,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kashmir",
+      "answer_letters": "KASHMIR",
+      "indices": [
+        113,
+        94,
         52,
-        111,
         131,
+        118,
+        9,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edward",
+      "answer_letters": "EDWARD",
+      "indices": [
         122,
-        99
+        157,
+        54,
+        66,
+        99,
+        187
       ]
     }
   ],

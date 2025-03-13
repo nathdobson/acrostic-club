@@ -6,109 +6,112 @@
   "clues": [
     {
       "clue": null,
-      "answer": "shafts",
-      "answer_letters": "SHAFTS",
+      "answer": "stalls",
+      "answer_letters": "STALLS",
       "indices": [
         166,
-        167,
-        176,
-        116,
         113,
+        176,
+        55,
+        124,
         139
       ]
     },
     {
       "clue": null,
-      "answer": "carlisle",
-      "answer_letters": "CARLISLE",
+      "answer": "comune",
+      "answer_letters": "COMUNE",
       "indices": [
         91,
-        52,
-        107,
-        69,
-        70,
-        154,
-        30,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
         155,
-        119,
-        32,
-        99,
-        117,
-        112
+        98,
+        146,
+        13,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "tariff",
-      "answer_letters": "TARIFF",
+      "answer": "o'neill",
+      "answer_letters": "ONEILL",
       "indices": [
-        80,
-        149,
-        120,
+        43,
+        173,
+        23,
+        70,
+        69,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "topping",
+      "answer_letters": "TOPPING",
+      "indices": [
+        131,
+        92,
+        19,
+        182,
         31,
-        128,
-        62
+        177,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "tropics",
-      "answer_letters": "TROPICS",
+      "answer": "tunisia",
+      "answer_letters": "TUNISIA",
       "indices": [
-        73,
-        21,
-        17,
-        85,
+        86,
+        160,
+        79,
+        130,
+        35,
         78,
-        24,
-        75
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "wealth",
-      "answer_letters": "WEALTH",
+      "answer": "worthy",
+      "answer_letters": "WORTHY",
       "indices": [
         0,
-        23,
-        123,
-        163,
-        76,
-        11
+        47,
+        8,
+        25,
+        3,
+        184
       ]
     },
     {
       "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
+      "answer": "españa",
+      "answer_letters": "ESPANA",
       "indices": [
         134,
-        133,
-        22,
-        92,
-        51,
-        131
+        59,
+        85,
+        152,
+        89,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "summit",
-      "answer_letters": "SUMMIT",
+      "answer": "stimulated",
+      "answer_letters": "STIMULATED",
       "indices": [
         150,
-        160,
+        118,
+        97,
         38,
-        181,
-        12,
-        183
+        144,
+        94,
+        52,
+        76,
+        106,
+        40
       ]
     },
     {
@@ -116,208 +119,205 @@
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
-        2,
-        3,
-        56,
+        183,
+        105,
+        121,
         114,
         6,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "estonia",
-      "answer_letters": "ESTONIA",
-      "indices": [
-        39,
-        35,
-        136,
-        88,
-        79,
-        130,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reality",
-      "answer_letters": "REALITY",
-      "indices": [
-        110,
-        81,
-        156,
-        124,
-        172,
-        64,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "finely",
-      "answer_letters": "FINELY",
-      "indices": [
-        50,
-        97,
-        143,
-        20,
-        125,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ellsworth",
-      "answer_letters": "ELLSWORTH",
-      "indices": [
-        66,
-        103,
-        135,
-        16,
-        48,
-        145,
-        171,
-        10,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
-        55,
-        111,
-        65,
-        54,
-        14,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "drives",
-      "answer_letters": "DRIVES",
-      "indices": [
-        178,
-        82,
-        1,
-        169,
-        5,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pepper",
-      "answer_letters": "PEPPER",
-      "indices": [
-        19,
-        45,
-        182,
-        157,
-        37,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
-      "indices": [
-        8,
-        47,
-        162,
-        161,
-        61,
         164
       ]
     },
     {
       "clue": null,
-      "answer": "engage",
-      "answer_letters": "ENGAGE",
+      "answer": "eating",
+      "answer_letters": "EATING",
       "indices": [
-        106,
-        173,
-        174,
+        180,
         29,
-        71,
-        121
+        80,
+        172,
+        143,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "thomas",
-      "answer_letters": "THOMAS",
+      "answer": "rabbit",
+      "answer_letters": "RABBIT",
       "indices": [
-        118,
-        72,
-        43,
-        98,
+        51,
+        123,
+        162,
+        161,
+        1,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "fought",
+      "answer_letters": "FOUGHT",
+      "indices": [
+        133,
+        88,
+        119,
+        71,
+        65,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        81,
+        22,
+        116,
+        17,
+        21,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "laurel",
+      "answer_letters": "LAUREL",
+      "indices": [
+        125,
+        58,
+        117,
+        120,
+        39,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        95,
+        93,
+        135,
+        84,
+        64,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "primates",
+      "answer_letters": "PRIMATES",
+      "indices": [
+        109,
+        101,
+        54,
+        181,
         138,
+        136,
+        74,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "referees",
+      "answer_letters": "REFEREES",
+      "indices": [
+        83,
+        111,
+        62,
+        5,
+        110,
+        45,
+        37,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
+      "indices": [
+        20,
+        169,
+        66,
+        82,
+        9,
+        159,
+        145,
+        178,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trophies",
+      "answer_letters": "TROPHIES",
+      "indices": [
+        112,
+        27,
+        127,
+        99,
+        11,
+        61,
+        36,
         42
       ]
     },
     {
       "clue": null,
-      "answer": "trudeau",
-      "answer_letters": "TRUDEAU",
+      "answer": "titles",
+      "answer_letters": "TITLES",
       "indices": [
-        25,
-        27,
-        93,
-        40,
-        100,
-        58,
-        84
+        141,
+        12,
+        32,
+        163,
+        142,
+        154
       ]
     },
     {
       "clue": null,
-      "answer": "ingredients",
-      "answer_letters": "INGREDIENTS",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
       "indices": [
         87,
-        177,
-        53,
-        101,
-        74,
-        95,
+        157,
+        75,
+        48,
         102,
-        180,
-        89,
-        86,
-        59
+        24,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "employee",
-      "answer_letters": "EMPLOYEE",
+      "answer": "emerge",
+      "answer_letters": "EMERGE",
       "indices": [
-        142,
+        7,
         44,
-        109,
-        94,
-        127,
-        184,
-        36,
-        7
+        56,
+        171,
+        174,
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "subunit",
-      "answer_letters": "SUBUNIT",
+      "answer": "sheriff",
+      "answer_letters": "SHERIFF",
       "indices": [
         68,
-        146,
-        159,
-        144,
-        13,
+        72,
+        170,
+        107,
         168,
-        141
+        50,
+        128
       ]
     }
   ],

@@ -6,240 +6,58 @@
   "clues": [
     {
       "clue": null,
-      "answer": "hutton",
-      "answer_letters": "HUTTON",
+      "answer": "height",
+      "answer_letters": "HEIGHT",
       "indices": [
         6,
-        151,
-        99,
-        41,
-        1,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        30,
-        133,
-        104,
-        7,
-        180,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roberto",
-      "answer_letters": "ROBERTO",
-      "indices": [
-        39,
-        145,
-        0,
-        137,
-        105,
-        42,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
-      "indices": [
-        144,
-        67,
-        15,
-        170,
-        14,
-        54,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ashford",
-      "answer_letters": "ASHFORD",
-      "indices": [
-        18,
-        16,
-        77,
-        97,
-        96,
-        179,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "namely",
-      "answer_letters": "NAMELY",
-      "indices": [
-        141,
-        74,
-        102,
-        85,
-        57,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        68,
-        11,
-        121,
-        22,
-        153,
-        73,
-        101,
-        26,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "houghton",
-      "answer_letters": "HOUGHTON",
-      "indices": [
-        115,
-        106,
-        56,
+        119,
+        87,
         71,
-        100,
-        5,
-        110,
-        88
+        77,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
+      "answer": "events",
+      "answer_letters": "EVENTS",
       "indices": [
-        36,
-        114,
-        46,
-        19,
-        59,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "soviet",
-      "answer_letters": "SOVIET",
-      "indices": [
-        50,
-        160,
-        172,
-        182,
-        168,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stephen",
-      "answer_letters": "STEPHEN",
-      "indices": [
-        118,
-        135,
-        81,
-        177,
-        3,
         142,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elements",
-      "answer_letters": "ELEMENTS",
-      "indices": [
-        181,
-        174,
-        27,
-        65,
-        163,
-        70,
-        159,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stepmother",
-      "answer_letters": "STEPMOTHER",
-      "indices": [
-        29,
-        167,
-        178,
-        38,
-        60,
-        126,
+        125,
+        30,
+        28,
         2,
-        53,
-        40,
-        150
+        26
       ]
     },
     {
       "clue": null,
-      "answer": "ibrahim",
-      "answer_letters": "IBRAHIM",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        127,
-        91,
-        35,
-        156,
-        112,
-        139,
+        105,
+        100,
+        43,
+        62,
+        86,
         107
       ]
     },
     {
       "clue": null,
-      "answer": "divine",
-      "answer_letters": "DIVINE",
+      "answer": "montevideo",
+      "answer_letters": "MONTEVIDEO",
       "indices": [
-        80,
-        78,
-        183,
-        87,
-        140,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "debuts",
-      "answer_letters": "DEBUTS",
-      "indices": [
-        157,
-        129,
-        84,
-        12,
-        93,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "high-end",
-      "answer_letters": "HIGHEND",
-      "indices": [
-        10,
+        65,
+        126,
+        48,
+        170,
+        116,
+        172,
         69,
-        49,
-        23,
-        173,
-        169,
-        185
+        79,
+        54,
+        160
       ]
     },
     {
@@ -247,70 +65,252 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
-        165,
-        162,
+        18,
         109,
-        92,
-        62,
-        166
+        0,
+        96,
+        99,
+        41
       ]
     },
     {
       "clue": null,
-      "answer": "resident",
-      "answer_letters": "RESIDENT",
+      "answer": "november",
+      "answer_letters": "NOVEMBER",
       "indices": [
-        143,
-        122,
-        75,
+        169,
+        110,
+        183,
+        85,
+        102,
+        91,
+        173,
+        150
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newton",
+      "answer_letters": "NEWTON",
+      "indices": [
+        68,
+        101,
+        33,
+        22,
+        106,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "houston",
+      "answer_letters": "HOUSTON",
+      "indices": [
+        112,
+        132,
+        56,
+        50,
+        9,
+        1,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethnic",
+      "answer_letters": "ETHNIC",
+      "indices": [
+        178,
+        149,
+        10,
+        19,
+        59,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "switch",
+      "answer_letters": "SWITCH",
+      "indices": [
+        29,
+        73,
+        127,
+        135,
+        120,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shooter",
+      "answer_letters": "SHOOTER",
+      "indices": [
+        130,
+        46,
+        92,
+        145,
+        167,
+        81,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        163,
+        174,
+        57,
         171,
-        89,
-        116,
-        48,
+        11,
+        159,
         152
       ]
     },
     {
       "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
+      "answer": "shifted",
+      "answer_letters": "SHIFTED",
       "indices": [
-        147,
-        86,
-        184,
-        43,
-        125,
-        119
+        75,
+        23,
+        182,
+        133,
+        114,
+        40,
+        157
       ]
     },
     {
       "clue": null,
-      "answer": "high-tech",
-      "answer_letters": "HIGHTECH",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
+      "indices": [
+        139,
+        140,
+        104,
+        74,
+        88,
+        180,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "debbie",
+      "answer_letters": "DEBBIE",
+      "indices": [
+        20,
+        168,
+        84,
+        162,
+        78,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "depths",
+      "answer_letters": "DEPTHS",
+      "indices": [
+        80,
+        7,
+        177,
+        45,
+        3,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hughes",
+      "answer_letters": "HUGHES",
+      "indices": [
+        14,
+        12,
+        49,
+        153,
+        36,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aftermath",
+      "answer_letters": "AFTERMATH",
+      "indices": [
+        156,
+        97,
+        93,
+        24,
+        39,
+        60,
+        165,
+        5,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rather",
+      "answer_letters": "RATHER",
+      "indices": [
+        143,
+        67,
+        15,
+        136,
+        122,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trustees",
+      "answer_letters": "TRUSTEES",
+      "indices": [
+        166,
+        179,
+        151,
+        146,
+        42,
+        137,
+        184,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heightened",
+      "answer_letters": "HEIGHTENED",
       "indices": [
         94,
+        63,
         47,
         13,
         155,
         52,
-        63,
-        128,
-        136
+        181,
+        70,
+        27,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "attested",
-      "answer_letters": "ATTESTED",
+      "answer": "attempted",
+      "answer_letters": "ATTEMPTED",
       "indices": [
         61,
         58,
         123,
         66,
-        130,
+        144,
+        38,
         111,
         34,
-        79
+        185
       ]
     }
   ],

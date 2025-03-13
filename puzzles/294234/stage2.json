@@ -6,112 +6,109 @@
   "clues": [
     {
       "clue": null,
-      "answer": "in-depth",
-      "answer_letters": "INDEPTH",
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
       "indices": [
         161,
-        99,
-        0,
-        29,
+        41,
         136,
-        175,
-        144
+        141,
+        45,
+        165,
+        29
       ]
     },
     {
       "clue": null,
-      "answer": "rodney",
-      "answer_letters": "RODNEY",
+      "answer": "reject",
+      "answer_letters": "REJECT",
       "indices": [
-        26,
-        177,
-        74,
-        152,
-        164,
-        168
+        121,
+        134,
+        21,
+        11,
+        39,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "ashore",
-      "answer_letters": "ASHORE",
+      "answer": "allen's",
+      "answer_letters": "ALLENS",
       "indices": [
-        79,
-        34,
-        64,
-        69,
-        104,
-        114
+        72,
+        92,
+        77,
+        37,
+        73,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "keynote",
-      "answer_letters": "KEYNOTE",
+      "answer": "kelley",
+      "answer_letters": "KELLEY",
       "indices": [
         113,
-        53,
-        87,
-        162,
-        65,
-        9,
-        42
+        96,
+        107,
+        84,
+        164,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "informal",
-      "answer_letters": "INFORMAL",
+      "answer": "ignore",
+      "answer_letters": "IGNORE",
       "indices": [
         176,
+        14,
         2,
-        108,
-        45,
-        141,
-        41,
-        72,
-        92
+        111,
+        33,
+        115
       ]
     },
     {
       "clue": null,
-      "answer": "barlow",
-      "answer_letters": "BARLOW",
+      "answer": "bombay",
+      "answer_letters": "BOMBAY",
       "indices": [
-        17,
-        83,
-        167,
-        84,
+        90,
         15,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "royalty",
-      "answer_letters": "ROYALTY",
-      "indices": [
-        58,
-        35,
-        101,
-        125,
-        107,
-        57,
+        28,
+        31,
+        83,
         80
       ]
     },
     {
       "clue": null,
-      "answer": "awesome",
-      "answer_letters": "AWESOME",
+      "answer": "routes",
+      "answer_letters": "ROUTES",
+      "indices": [
+        58,
+        1,
+        120,
+        19,
+        42,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "absolute",
+      "answer_letters": "ABSOLUTE",
       "indices": [
         174,
-        85,
-        134,
-        155,
-        40,
-        12,
-        11
+        17,
+        110,
+        177,
+        5,
+        148,
+        24,
+        32
       ]
     },
     {
@@ -119,12 +116,109 @@
       "answer": "hugely",
       "answer_letters": "HUGELY",
       "indices": [
-        131,
-        148,
-        49,
-        166,
+        64,
+        22,
+        62,
+        47,
         66,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
+      "indices": [
+        129,
+        152,
+        95,
+        119,
+        52,
+        106,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mickey",
+      "answer_letters": "MICKEY",
+      "indices": [
+        156,
+        60,
+        143,
+        133,
+        6,
         138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
+      "indices": [
+        123,
+        98,
+        130,
+        131,
+        78,
+        79,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "upheld",
+      "answer_letters": "UPHELD",
+      "indices": [
+        173,
+        55,
+        128,
+        159,
+        158,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showtime",
+      "answer_letters": "SHOWTIME",
+      "indices": [
+        44,
+        144,
+        102,
+        85,
+        3,
+        171,
+        36,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "summoned",
+      "answer_letters": "SUMMONED",
+      "indices": [
+        81,
+        103,
+        46,
+        30,
+        40,
+        162,
+        27,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "arturo",
+      "answer_letters": "ARTURO",
+      "indices": [
+        125,
+        167,
+        7,
+        18,
+        26,
+        65
       ]
     },
     {
@@ -132,176 +226,82 @@
       "answer": "imagery",
       "answer_letters": "IMAGERY",
       "indices": [
-        171,
-        36,
+        145,
+        12,
         76,
-        14,
-        115,
-        33,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mukherjee",
-      "answer_letters": "MUKHERJEE",
-      "indices": [
-        46,
-        18,
-        133,
-        123,
-        47,
-        121,
-        21,
-        159,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "helmet",
-      "answer_letters": "HELMET",
-      "indices": [
-        10,
-        32,
-        5,
-        156,
+        49,
         54,
-        24
+        104,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "upcoming",
-      "answer_letters": "UPCOMING",
+      "answer": "nonsense",
+      "answer_letters": "NONSENSE",
       "indices": [
-        22,
-        55,
-        39,
-        102,
-        30,
-        60,
         178,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sleeve",
-      "answer_letters": "SLEEVE",
-      "indices": [
+        69,
+        70,
         105,
-        158,
-        106,
         135,
-        165,
+        61,
+        34,
         124
       ]
     },
     {
       "clue": null,
-      "answer": "spouse",
-      "answer_letters": "SPOUSE",
+      "answer": "denote",
+      "answer_letters": "DENOTE",
       "indices": [
-        44,
-        116,
-        119,
-        173,
-        88,
-        37
+        0,
+        94,
+        99,
+        139,
+        175,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
       "indices": [
-        86,
-        90,
-        31,
-        1,
-        19,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "issues",
-      "answer_letters": "ISSUES",
-      "indices": [
-        145,
+        157,
         170,
-        110,
-        120,
-        6,
-        81
+        108,
+        86,
+        10,
+        151,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "notice",
-      "answer_letters": "NOTICE",
-      "indices": [
-        70,
-        111,
-        3,
-        129,
-        143,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "answer": "deputy",
+      "answer_letters": "DEPUTY",
       "indices": [
         153,
-        103,
-        77,
+        114,
+        116,
         140,
         172,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invade",
-      "answer_letters": "INVADE",
-      "indices": [
-        98,
-        73,
-        95,
-        151,
-        126,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "donkey",
-      "answer_letters": "DONKEY",
-      "indices": [
-        67,
-        139,
-        61,
-        52,
-        91,
         118
       ]
     },
     {
       "clue": null,
-      "answer": "imposing",
-      "answer_letters": "IMPOSING",
+      "answer": "isotope",
+      "answer_letters": "ISOTOPE",
       "indices": [
         93,
-        28,
-        149,
-        50,
         23,
-        157,
-        146,
-        130
+        50,
+        57,
+        35,
+        149,
+        53
       ]
     }
   ],

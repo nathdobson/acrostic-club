@@ -6,42 +6,46 @@
   "clues": [
     {
       "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "answer": "ibrahim",
+      "answer_letters": "IBRAHIM",
       "indices": [
         133,
-        125,
-        2,
-        36,
-        49,
-        61
+        128,
+        191,
+        138,
+        137,
+        190,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "devoted",
-      "answer_letters": "DEVOTED",
+      "answer": "dartmouth",
+      "answer_letters": "DARTMOUTH",
       "indices": [
         11,
-        121,
-        28,
+        176,
+        171,
+        183,
+        95,
         52,
+        24,
         78,
-        5,
-        83
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
-        118,
+        126,
+        76,
+        141,
+        139,
         165,
-        64,
-        97,
-        26,
-        153
+        153,
+        63
       ]
     },
     {
@@ -49,244 +53,42 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        0,
+        96,
         192,
-        9,
-        106,
-        122,
-        7
+        68,
+        0,
+        32,
+        93
       ]
     },
     {
       "clue": null,
-      "answer": "everyday",
-      "answer_letters": "EVERYDAY",
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
       "indices": [
-        187,
+        147,
         105,
-        73,
-        191,
-        51,
-        33,
-        19,
-        103
+        29,
+        118,
+        64,
+        108,
+        111,
+        163,
+        120,
+        187
       ]
     },
     {
       "clue": null,
-      "answer": "sahitya",
-      "answer_letters": "SAHITYA",
+      "answer": "statue",
+      "answer_letters": "STATUE",
       "indices": [
         69,
-        112,
-        137,
-        190,
-        136,
-        115,
-        145
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sympathy",
-      "answer_letters": "SYMPATHY",
-      "indices": [
-        100,
-        40,
-        72,
-        56,
-        172,
-        35,
-        18,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "half-hour",
-      "answer_letters": "HALFHOUR",
-      "indices": [
-        181,
-        77,
-        129,
-        175,
-        76,
-        81,
-        117,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        168,
-        87,
-        128,
-        65,
-        180,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "humour",
-      "answer_letters": "HUMOUR",
-      "indices": [
-        162,
-        166,
-        151,
-        58,
-        66,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "relative",
-      "answer_letters": "RELATIVE",
-      "indices": [
-        171,
-        174,
-        123,
-        32,
-        42,
-        96,
-        4,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emblem",
-      "answer_letters": "EMBLEM",
-      "indices": [
-        178,
-        62,
-        59,
-        60,
-        8,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "feature",
-      "answer_letters": "FEATURE",
-      "indices": [
-        189,
-        147,
-        182,
-        80,
-        53,
-        120,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lahore",
-      "answer_letters": "LAHORE",
-      "indices": [
-        14,
-        27,
-        111,
-        23,
-        10,
-        163
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eurobasket",
-      "answer_letters": "EUROBASKET",
-      "indices": [
-        94,
-        24,
-        54,
-        84,
-        154,
-        39,
-        134,
-        70,
-        107,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "château",
-      "answer_letters": "CHATEAU",
-      "indices": [
-        177,
-        31,
-        149,
-        139,
-        130,
-        13,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tomato",
-      "answer_letters": "TOMATO",
-      "indices": [
-        113,
-        48,
-        167,
-        3,
-        193,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inflammatory",
-      "answer_letters": "INFLAMMATORY",
-      "indices": [
-        99,
-        186,
-        159,
-        15,
-        176,
-        45,
-        95,
-        68,
-        183,
-        88,
-        57,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        127,
-        90,
         110,
-        86,
-        108,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newcomers",
-      "answer_letters": "NEWCOMERS",
-      "indices": [
-        169,
-        155,
-        75,
-        173,
-        116,
-        131,
-        46,
-        146,
-        63
+        145,
+        136,
+        89,
+        46
       ]
     },
     {
@@ -294,14 +96,212 @@
       "answer": "shootout",
       "answer_letters": "SHOOTOUT",
       "indices": [
-        38,
-        93,
-        185,
-        43,
-        161,
-        142,
+        100,
+        18,
+        58,
+        65,
+        180,
+        81,
         143,
-        17
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "halfback",
+      "answer_letters": "HALFBACK",
+      "indices": [
+        181,
+        182,
+        15,
+        175,
+        87,
+        27,
+        177,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "automated",
+      "answer_letters": "AUTOMATED",
+      "indices": [
+        168,
+        166,
+        97,
+        23,
+        151,
+        77,
+        80,
+        107,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
+      "indices": [
+        162,
+        94,
+        22,
+        83,
+        172,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rooftop",
+      "answer_letters": "ROOFTOP",
+      "indices": [
+        54,
+        84,
+        185,
+        159,
+        42,
+        43,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emotional",
+      "answer_letters": "EMOTIONAL",
+      "indices": [
+        178,
+        62,
+        48,
+        113,
+        106,
+        158,
+        186,
+        19,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "favour",
+      "answer_letters": "FAVOUR",
+      "indices": [
+        189,
+        149,
+        4,
+        36,
+        66,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehman",
+      "answer_letters": "LEHMAN",
+      "indices": [
+        129,
+        8,
+        26,
+        102,
+        13,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estate",
+      "answer_letters": "ESTATE",
+      "indices": [
+        5,
+        134,
+        20,
+        9,
+        161,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "château",
+      "answer_letters": "CHATEAU",
+      "indices": [
+        173,
+        31,
+        3,
+        193,
+        73,
+        86,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theory",
+      "answer_letters": "THEORY",
+      "indices": [
+        90,
+        2,
+        130,
+        127,
+        10,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
+      "indices": [
+        99,
+        45,
+        56,
+        57,
+        88,
+        28,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "o'malley",
+      "answer_letters": "OMALLEY",
+      "indices": [
+        116,
+        131,
+        112,
+        60,
+        14,
+        61,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        169,
+        155,
+        75,
+        59,
+        53,
+        146,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "steamboat",
+      "answer_letters": "STEAMBOAT",
+      "indices": [
+        38,
+        17,
+        152,
+        122,
+        72,
+        154,
+        142,
+        39,
+        35
       ]
     }
   ],

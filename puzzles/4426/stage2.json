@@ -6,63 +6,58 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kimball",
-      "answer_letters": "KIMBALL",
+      "answer": "keystone",
+      "answer_letters": "KEYSTONE",
       "indices": [
         27,
-        85,
-        154,
-        151,
-        41,
-        48,
-        182
+        175,
+        133,
+        32,
+        63,
+        178,
+        168,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "intermittently",
-      "answer_letters": "INTERMITTENTLY",
+      "answer": "intent",
+      "answer_letters": "INTENT",
       "indices": [
-        49,
+        69,
         42,
-        137,
-        100,
-        61,
-        99,
-        65,
-        91,
-        126,
+        131,
         120,
         179,
-        131,
-        152,
-        62
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
+      "answer": "exempt",
+      "answer_letters": "EXEMPT",
       "indices": [
-        14,
-        140,
-        95,
-        94,
-        1,
-        0
+        58,
+        142,
+        100,
+        15,
+        148,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "reward",
-      "answer_letters": "REWARD",
+      "answer": "remotely",
+      "answer_letters": "REMOTELY",
       "indices": [
         30,
-        22,
-        166,
-        5,
-        110,
-        123
+        146,
+        154,
+        150,
+        7,
+        82,
+        182,
+        159
       ]
     },
     {
@@ -70,234 +65,239 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
-        25,
+        5,
         81,
         24,
-        29,
-        53,
-        97
+        172,
+        97,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "corbett",
-      "answer_letters": "CORBETT",
+      "answer": "chowdhury",
+      "answer_letters": "CHOWDHURY",
       "indices": [
-        177,
+        26,
+        119,
         90,
-        39,
-        174,
-        46,
-        118,
-        20
+        103,
+        184,
+        21,
+        162,
+        1,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "autonomy",
-      "answer_letters": "AUTONOMY",
+      "answer": "atlético",
+      "answer_letters": "ATLETICO",
       "indices": [
-        167,
-        35,
+        41,
         6,
-        178,
-        125,
-        150,
-        56,
-        133
+        89,
+        183,
+        53,
+        8,
+        114,
+        29
       ]
     },
     {
       "clue": null,
-      "answer": "smooth",
-      "answer_letters": "SMOOTH",
+      "answer": "shelton",
+      "answer_letters": "SHELTON",
       "indices": [
-        180,
-        15,
-        34,
-        124,
-        164,
-        119
+        112,
+        54,
+        38,
+        36,
+        171,
+        17,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "showed",
-      "answer_letters": "SHOWED",
+      "answer": "spotted",
+      "answer_letters": "SPOTTED",
       "indices": [
         163,
+        4,
+        34,
+        164,
+        156,
+        105,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tariff",
+      "answer_letters": "TARIFF",
+      "indices": [
+        126,
+        25,
+        39,
+        65,
+        140,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highlighting",
+      "answer_letters": "HIGHLIGHTING",
+      "indices": [
         145,
-        181,
-        128,
-        82,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "techno",
-      "answer_letters": "TECHNO",
-      "indices": [
-        171,
-        58,
-        26,
-        13,
-        106,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hoping",
-      "answer_letters": "HOPING",
-      "indices": [
-        54,
-        134,
-        148,
+        141,
+        67,
+        104,
+        47,
+        98,
+        76,
+        157,
+        20,
         74,
-        86,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoying",
-      "answer_letters": "ENJOYING",
-      "indices": [
-        87,
         18,
-        161,
-        17,
-        159,
-        109,
-        9,
         10
       ]
     },
     {
       "clue": null,
-      "answer": "slowly",
-      "answer_letters": "SLOWLY",
+      "answer": "embargo",
+      "answer_letters": "EMBARGO",
+      "indices": [
+        14,
+        56,
+        174,
+        167,
+        115,
+        72,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sought",
+      "answer_letters": "SOUGHT",
       "indices": [
         70,
-        47,
-        73,
-        103,
-        36,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endangered",
-      "answer_letters": "ENDANGERED",
-      "indices": [
-        183,
-        130,
-        184,
-        129,
-        50,
-        76,
-        105,
-        115,
-        153,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
-      "indices": [
-        111,
-        38,
-        75,
-        108,
-        156,
-        21,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "experts",
-      "answer_letters": "EXPERTS",
-      "indices": [
-        60,
-        142,
-        4,
-        158,
-        149,
-        7,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chiefly",
-      "answer_letters": "CHIEFLY",
-      "indices": [
-        114,
-        33,
-        98,
-        146,
-        84,
-        89,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        45,
-        104,
-        172,
+        134,
         135,
         51,
-        157,
+        33,
         169
       ]
     },
     {
       "clue": null,
-      "answer": "invites",
-      "answer_letters": "INVITES",
+      "answer": "ensign",
+      "answer_letters": "ENSIGN",
       "indices": [
-        8,
-        168,
+        87,
+        9,
+        180,
+        109,
+        108,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifted",
+      "answer_letters": "LIFTED",
+      "indices": [
+        111,
+        49,
+        84,
+        137,
+        46,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evelyn",
+      "answer_letters": "EVELYN",
+      "indices": [
+        158,
         59,
-        141,
-        63,
-        175,
-        32
+        22,
+        48,
+        2,
+        86
       ]
     },
     {
       "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
+      "answer": "cowboys",
+      "answer_letters": "COWBOYS",
       "indices": [
-        138,
-        162,
-        144,
-        112,
-        55,
-        78
+        177,
+        73,
+        166,
+        151,
+        181,
+        116,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "trenton",
+      "answer_letters": "TRENTON",
+      "indices": [
+        0,
+        110,
+        153,
+        130,
+        118,
+        124,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "injury",
+      "answer_letters": "INJURY",
+      "indices": [
+        85,
+        125,
+        161,
+        35,
+        149,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        79,
+        152,
+        43,
+        13,
+        129,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
         66,
-        69,
-        72,
+        138,
+        61,
+        78,
         64,
-        12,
-        101
+        128,
+        55,
+        101,
+        12
       ]
     }
   ],

@@ -6,33 +6,28 @@
   "clues": [
     {
       "clue": null,
-      "answer": "montreal",
-      "answer_letters": "MONTREAL",
+      "answer": "mutiny",
+      "answer_letters": "MUTINY",
       "indices": [
-        132,
-        28,
-        191,
+        75,
+        165,
         177,
-        141,
-        67,
-        136,
-        152
+        38,
+        102,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "ambulance",
-      "answer_letters": "AMBULANCE",
+      "answer": "assess",
+      "answer_letters": "ASSESS",
       "indices": [
-        160,
-        75,
-        126,
-        165,
-        9,
         99,
-        102,
-        34,
-        3
+        76,
+        92,
+        156,
+        115,
+        23
       ]
     },
     {
@@ -44,75 +39,126 @@
         16,
         39,
         65,
-        156,
+        74,
         124
       ]
     },
     {
       "clue": null,
-      "answer": "isthmus",
-      "answer_letters": "ISTHMUS",
+      "answer": "immune",
+      "answer_letters": "IMMUNE",
       "indices": [
-        143,
-        80,
-        69,
-        98,
-        27,
+        190,
+        181,
+        56,
         176,
-        78
+        185,
+        151
       ]
     },
     {
       "clue": null,
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
+      "answer": "matthews",
+      "answer_letters": "MATTHEWS",
       "indices": [
         89,
-        125,
+        160,
         84,
-        173,
+        114,
+        106,
+        3,
         167,
-        113
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
+      "answer": "illegitimate",
+      "answer_letters": "ILLEGITIMATE",
       "indices": [
-        146,
-        105,
-        189,
-        35,
-        122,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "little",
-      "answer_letters": "LITTLE",
-      "indices": [
-        118,
         8,
-        30,
+        152,
+        118,
+        90,
+        103,
+        146,
         49,
-        148,
-        40
+        6,
+        132,
+        189,
+        105,
+        138
       ]
     },
     {
       "clue": null,
-      "answer": "ipswich",
-      "answer_letters": "IPSWICH",
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
       "indices": [
-        38,
-        95,
-        76,
+        9,
+        173,
         145,
+        40,
+        2,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
+      "indices": [
         57,
-        187,
-        106
+        191,
+        135,
+        136,
+        130,
+        34,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
+      "indices": [
+        182,
+        155,
+        154,
+        68,
+        110,
+        19,
+        170,
+        73,
+        111,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "novelty",
+      "answer_letters": "NOVELTY",
+      "indices": [
+        54,
+        164,
+        45,
+        46,
+        148,
+        172,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doubts",
+      "answer_letters": "DOUBTS",
+      "indices": [
+        121,
+        87,
+        36,
+        126,
+        11,
+        29
       ]
     },
     {
@@ -120,207 +166,161 @@
       "answer": "elliot",
       "answer_letters": "ELLIOT",
       "indices": [
-        82,
+        107,
+        26,
         64,
-        22,
-        129,
-        61,
+        143,
+        120,
         14
       ]
     },
     {
       "clue": null,
-      "answer": "nickel",
-      "answer_letters": "NICKEL",
+      "answer": "richly",
+      "answer_letters": "RICHLY",
       "indices": [
-        130,
-        6,
-        83,
-        100,
-        127,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "debbie",
-      "answer_letters": "DEBBIE",
-      "indices": [
-        121,
-        46,
-        66,
-        117,
-        21,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
-      "indices": [
-        154,
-        97,
-        72,
-        112,
-        70,
-        184,
-        5,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        111,
+        179,
+        129,
+        137,
         50,
-        110,
-        86,
-        170,
-        56
+        22,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
+      "answer": "o'clock",
+      "answer_letters": "OCLOCK",
       "indices": [
-        119,
-        135,
-        62,
-        29,
-        15,
-        140,
-        180,
-        158
+        44,
+        187,
+        41,
+        94,
+        83,
+        100
       ]
     },
     {
       "clue": null,
-      "answer": "beauty",
-      "answer_letters": "BEAUTY",
+      "answer": "bastion",
+      "answer_letters": "BASTION",
       "indices": [
-        150,
-        58,
+        66,
         20,
-        79,
-        17,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evelyn",
-      "answer_letters": "EVELYN",
-      "indices": [
-        151,
-        45,
-        107,
-        147,
-        12,
+        80,
+        93,
+        153,
+        119,
         4
       ]
     },
     {
       "clue": null,
-      "answer": "serbian",
-      "answer_letters": "SERBIAN",
+      "answer": "establish",
+      "answer_letters": "ESTABLISH",
       "indices": [
-        59,
-        51,
-        179,
-        7,
-        10,
+        58,
+        78,
+        69,
         0,
-        185
+        117,
+        147,
+        10,
+        97,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "positively",
-      "answer_letters": "POSITIVELY",
+      "answer": "satisfy",
+      "answer_letters": "SATISFY",
+      "indices": [
+        72,
+        112,
+        161,
+        101,
+        5,
+        62,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
       "indices": [
         81,
-        120,
-        192,
-        101,
-        93,
-        190,
-        155,
-        182,
-        26,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isotope",
-      "answer_letters": "ISOTOPE",
-      "indices": [
-        168,
-        37,
-        164,
-        114,
-        87,
-        175,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        55,
-        137,
-        188,
-        44,
-        53,
-        2
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhymes",
-      "answer_letters": "RHYMES",
-      "indices": [
-        68,
         159,
-        163,
-        181,
-        73,
+        140,
+        86,
+        180,
         169
       ]
     },
     {
       "clue": null,
-      "answer": "routing",
-      "answer_letters": "ROUTING",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
       "indices": [
-        47,
-        94,
-        36,
-        11,
-        153,
-        54,
-        103
+        168,
+        175,
+        188,
+        125,
+        113,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "east-west",
-      "answer_letters": "EASTWEST",
+      "answer": "elites",
+      "answer_letters": "ELITES",
       "indices": [
-        90,
+        32,
+        35,
+        21,
+        158,
+        55,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robbie",
+      "answer_letters": "ROBBIE",
+      "indices": [
+        47,
+        61,
+        150,
+        7,
+        184,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "routes",
+      "answer_letters": "ROUTES",
+      "indices": [
+        141,
+        28,
+        79,
+        17,
+        53,
+        192
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        127,
+        27,
+        95,
         25,
-        115,
         109,
-        19,
-        138,
-        23,
-        172
+        15,
+        12
       ]
     }
   ],

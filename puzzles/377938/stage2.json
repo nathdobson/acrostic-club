@@ -6,33 +6,32 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kyushu",
-      "answer_letters": "KYUSHU",
+      "answer": "keystone",
+      "answer_letters": "KEYSTONE",
       "indices": [
         145,
+        23,
         53,
-        148,
         3,
-        72,
-        91
+        154,
+        38,
+        164,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "affirmative",
-      "answer_letters": "AFFIRMATIVE",
+      "answer": "athenian",
+      "answer_letters": "ATHENIAN",
       "indices": [
-        10,
-        128,
-        84,
-        43,
-        170,
-        157,
-        56,
-        39,
+        113,
+        131,
+        22,
+        45,
+        29,
         163,
-        114,
-        45
+        14,
+        18
       ]
     },
     {
@@ -51,73 +50,71 @@
     },
     {
       "clue": null,
-      "answer": "housewife",
-      "answer_letters": "HOUSEWIFE",
+      "answer": "healthy",
+      "answer_letters": "HEALTHY",
       "indices": [
         9,
-        38,
-        122,
-        6,
-        136,
-        142,
-        173,
-        162,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obtained",
-      "answer_letters": "OBTAINED",
-      "indices": [
-        90,
-        111,
-        55,
-        14,
-        117,
-        37,
-        156,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wealthy",
-      "answer_letters": "WEALTHY",
-      "indices": [
-        75,
-        115,
-        124,
+        175,
+        47,
         57,
-        81,
+        71,
         27,
         120
       ]
     },
     {
       "clue": null,
-      "answer": "author",
-      "answer_letters": "AUTHOR",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
       "indices": [
-        47,
-        132,
-        135,
-        13,
-        168,
-        130
+        90,
+        61,
+        44,
+        84,
+        117,
+        55
       ]
     },
     {
       "clue": null,
-      "answer": "runway",
-      "answer_letters": "RUNWAY",
+      "answer": "without",
+      "answer_letters": "WITHOUT",
+      "indices": [
+        75,
+        2,
+        135,
+        1,
+        129,
+        91,
+        26
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "antigua",
+      "answer_letters": "ANTIGUA",
+      "indices": [
+        143,
+        67,
+        68,
+        173,
+        63,
+        122,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refugee",
+      "answer_letters": "REFUGEE",
       "indices": [
         125,
-        61,
-        18,
-        8,
-        113,
-        98
+        73,
+        128,
+        169,
+        30,
+        17,
+        156
       ]
     },
     {
@@ -125,162 +122,165 @@
       "answer": "dorothy",
       "answer_letters": "DOROTHY",
       "indices": [
-        78,
+        87,
         64,
         52,
         151,
-        44,
+        39,
         155,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        108,
+        132,
+        86,
+        121,
+        174,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "olivier",
+      "answer_letters": "OLIVIER",
+      "indices": [
+        147,
+        144,
+        51,
+        114,
+        100,
+        58,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "spirit",
+      "answer_letters": "SPIRIT",
+      "indices": [
+        79,
+        15,
+        66,
+        97,
+        43,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "employ",
+      "answer_letters": "EMPLOY",
+      "indices": [
+        35,
+        157,
+        16,
+        172,
+        104,
         59
       ]
     },
     {
       "clue": null,
-      "answer": "rotation",
-      "answer_letters": "ROTATION",
+      "answer": "subway",
+      "answer_letters": "SUBWAY",
       "indices": [
-        108,
-        139,
-        68,
-        143,
-        11,
-        100,
-        121,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "operas",
-      "answer_letters": "OPERAS",
-      "indices": [
-        147,
-        15,
-        109,
-        92,
-        107,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shower",
-      "answer_letters": "SHOWER",
-      "indices": [
-        94,
-        22,
-        82,
-        21,
-        35,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "equity",
-      "answer_letters": "EQUITY",
-      "indices": [
-        58,
-        41,
-        169,
-        66,
-        0,
+        31,
+        42,
+        111,
+        8,
+        56,
         167
       ]
     },
     {
       "clue": null,
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
-      "indices": [
-        79,
-        1,
-        104,
-        160,
-        159,
-        96,
-        105,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affair",
-      "answer_letters": "AFFAIR",
+      "answer": "aquinas",
+      "answer_letters": "AQUINAS",
       "indices": [
         50,
-        101,
-        49,
-        134,
+        41,
+        148,
         5,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nellie",
-      "answer_letters": "NELLIE",
-      "indices": [
-        29,
-        73,
-        144,
-        172,
-        85,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dupont",
-      "answer_letters": "DUPONT",
-      "indices": [
-        165,
-        42,
-        16,
-        77,
-        67,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rooney",
-      "answer_letters": "ROONEY",
-      "indices": [
-        112,
-        129,
-        76,
         133,
-        175,
+        134,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notorious",
+      "answer_letters": "NOTORIOUS",
+      "indices": [
+        37,
+        160,
+        0,
+        96,
+        170,
+        85,
+        82,
+        105,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doorway",
+      "answer_letters": "DOORWAY",
+      "indices": [
+        78,
+        77,
+        139,
+        112,
+        21,
+        10,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "outgoing",
-      "answer_letters": "OUTGOING",
+      "answer": "routed",
+      "answer_letters": "ROUTED",
       "indices": [
-        60,
+        130,
+        76,
         140,
-        71,
-        63,
-        69,
-        51,
-        164,
-        30
+        11,
+        109,
+        165
       ]
     },
     {
       "clue": null,
-      "answer": "testify",
-      "answer_letters": "TESTIFY",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
       "indices": [
-        154,
-        23,
-        19,
+        60,
+        101,
+        49,
+        6,
+        13,
+        69,
+        168,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "three-way",
+      "answer_letters": "THREEWAY",
+      "indices": [
         149,
-        2,
-        174,
+        72,
+        34,
+        126,
+        115,
+        142,
+        124,
         103
       ]
     }

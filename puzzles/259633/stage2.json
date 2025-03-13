@@ -6,40 +6,42 @@
   "clues": [
     {
       "clue": null,
-      "answer": "notice",
-      "answer_letters": "NOTICE",
+      "answer": "notation",
+      "answer_letters": "NOTATION",
       "indices": [
         151,
         24,
         124,
+        14,
+        139,
         0,
-        44,
-        111
+        93,
+        25
       ]
     },
     {
       "clue": null,
-      "answer": "initials",
-      "answer_letters": "INITIALS",
+      "answer": "isolated",
+      "answer_letters": "ISOLATED",
       "indices": [
         147,
-        25,
-        107,
-        139,
-        168,
-        14,
+        118,
+        87,
         110,
-        118
+        126,
+        108,
+        111,
+        157
       ]
     },
     {
       "clue": null,
-      "answer": "chases",
-      "answer_letters": "CHASES",
+      "answer": "causes",
+      "answer_letters": "CAUSES",
       "indices": [
-        76,
-        125,
-        126,
+        44,
+        115,
+        19,
         27,
         155,
         16
@@ -47,244 +49,242 @@
     },
     {
       "clue": null,
-      "answer": "kidnapped",
-      "answer_letters": "KIDNAPPED",
+      "answer": "kaunas",
+      "answer_letters": "KAUNAS",
       "indices": [
-        84,
-        62,
-        157,
-        3,
+        64,
         58,
-        142,
-        73,
-        75,
-        117
+        161,
+        121,
+        146,
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "layout",
-      "answer_letters": "LAYOUT",
+      "answer": "london's",
+      "answer_letters": "LONDONS",
       "indices": [
         52,
-        115,
-        129,
-        93,
-        141,
-        108
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "analytics",
-      "answer_letters": "ANALYTICS",
-      "indices": [
-        49,
-        91,
-        144,
-        18,
-        66,
-        97,
-        74,
-        133,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kyushu",
-      "answer_letters": "KYUSHU",
-      "indices": [
-        2,
-        86,
-        19,
-        101,
-        114,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "encounter",
-      "answer_letters": "ENCOUNTER",
-      "indices": [
-        164,
-        148,
-        57,
-        35,
-        88,
-        135,
-        109,
-        21,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hopkins",
-      "answer_letters": "HOPKINS",
-      "indices": [
-        98,
-        8,
-        170,
-        61,
-        53,
-        121,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
-      "indices": [
         34,
         103,
-        38,
+        117,
         4,
-        7,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "saskatoon",
-      "answer_letters": "SASKATOON",
-      "indices": [
-        39,
-        83,
-        113,
-        64,
-        150,
-        30,
-        160,
-        17,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "toyota",
-      "answer_letters": "TOYOTA",
-      "indices": [
-        127,
-        130,
-        159,
-        31,
-        50,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ambiguous",
-      "answer_letters": "AMBIGUOUS",
-      "indices": [
-        11,
-        154,
-        80,
-        174,
-        33,
-        131,
-        87,
-        68,
+        59,
         163
       ]
     },
     {
       "clue": null,
-      "answer": "gabled",
-      "answer_letters": "GABLED",
+      "answer": "agatha",
+      "answer_letters": "AGATHA",
       "indices": [
+        150,
         137,
-        102,
-        15,
-        106,
-        26,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enlargement",
-      "answer_letters": "ENLARGEMENT",
-      "indices": [
-        176,
-        12,
-        165,
-        95,
-        162,
-        145,
-        138,
-        173,
-        82,
-        37,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        20,
         134,
-        28,
-        45,
-        99,
-        71
+        97,
+        114,
+        49
       ]
     },
     {
       "clue": null,
-      "answer": "hadith",
-      "answer_letters": "HADITH",
+      "answer": "knocks",
+      "answer_letters": "KNOCKS",
       "indices": [
-        48,
-        146,
-        152,
-        90,
-        70,
-        23
+        2,
+        3,
+        67,
+        76,
+        84,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
+      "answer": "embark",
+      "answer_letters": "EMBARK",
       "indices": [
-        171,
-        100,
-        156,
-        172,
-        42,
-        54
+        21,
+        173,
+        15,
+        95,
+        9,
+        61
       ]
     },
     {
       "clue": null,
-      "answer": "edward",
-      "answer_letters": "EDWARD",
+      "answer": "halfway",
+      "answer_letters": "HALFWAY",
       "indices": [
-        55,
-        36,
+        23,
+        144,
+        165,
+        54,
         5,
-        120,
+        102,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "output",
+      "answer_letters": "OUTPUT",
+      "indices": [
+        99,
+        131,
+        30,
+        142,
+        68,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "specify",
+      "answer_letters": "SPECIFY",
+      "indices": [
+        113,
+        73,
+        38,
+        63,
+        174,
+        7,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "touches",
+      "answer_letters": "TOUCHES",
+      "indices": [
+        127,
+        8,
+        88,
+        57,
+        48,
+        138,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "addison",
+      "answer_letters": "ADDISON",
+      "indices": [
+        11,
+        152,
+        122,
+        107,
+        175,
+        160,
+        91
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "geoffrey",
+      "answer_letters": "GEOFFREY",
+      "indices": [
+        145,
+        26,
+        130,
+        166,
+        42,
         81,
+        55,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        164,
+        109,
+        98,
+        74,
+        35,
+        170,
+        53,
+        43,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tourist",
+      "answer_letters": "TOURIST",
+      "indices": [
+        28,
+        71,
+        100,
+        116,
+        62,
+        40,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "haunted",
+      "answer_letters": "HAUNTED",
+      "indices": [
+        125,
+        83,
+        141,
+        37,
+        70,
+        77,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rotated",
+      "answer_letters": "ROTATED",
+      "indices": [
+        162,
+        172,
+        50,
+        120,
+        47,
+        82,
         104
       ]
     },
     {
       "clue": null,
-      "answer": "escort",
-      "answer_letters": "ESCORT",
+      "answer": "embryonic",
+      "answer_letters": "EMBRYONIC",
       "indices": [
-        77,
-        175,
-        63,
-        67,
-        116,
-        92
+        176,
+        154,
+        80,
+        171,
+        66,
+        31,
+        148,
+        90,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ellington",
+      "answer_letters": "ELLINGTON",
+      "indices": [
+        75,
+        18,
+        106,
+        168,
+        156,
+        33,
+        92,
+        17,
+        12
       ]
     }
   ],

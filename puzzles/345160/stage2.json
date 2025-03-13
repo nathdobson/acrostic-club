@@ -6,100 +6,71 @@
   "clues": [
     {
       "clue": null,
-      "answer": "rhodes",
-      "answer_letters": "RHODES",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        164,
+        126,
         115,
-        100,
-        45,
-        2,
-        20
+        127,
+        119,
+        53,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "outdoors",
-      "answer_letters": "OUTDOORS",
+      "answer": "orkney",
+      "answer_letters": "ORKNEY",
       "indices": [
-        68,
-        142,
-        52,
-        103,
         149,
-        157,
         38,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gunboat",
-      "answer_letters": "GUNBOAT",
-      "indices": [
-        56,
-        69,
+        110,
         140,
-        71,
-        82,
-        10,
-        124
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
-      "indices": [
-        49,
-        19,
-        30,
-        104,
-        67,
-        137,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runway",
-      "answer_letters": "RUNWAY",
-      "indices": [
-        23,
-        31,
-        63,
-        113,
-        46,
+        165,
         106
       ]
     },
     {
       "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
+      "answer": "goodwin",
+      "answer_letters": "GOODWIN",
       "indices": [
-        93,
-        12,
-        92,
-        86,
-        18,
-        64
+        56,
+        157,
+        82,
+        103,
+        113,
+        153,
+        6
       ]
     },
     {
       "clue": null,
-      "answer": "białystok",
-      "answer_letters": "BIALYSTOK",
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
       "indices": [
-        136,
-        153,
-        37,
-        146,
-        127,
-        32,
-        7,
-        5,
-        110
+        137,
+        133,
+        74,
+        30,
+        24,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reduction",
+      "answer_letters": "REDUCTION",
+      "indices": [
+        23,
+        95,
+        4,
+        142,
+        64,
+        124,
+        173,
+        27,
+        154
       ]
     },
     {
@@ -107,142 +78,30 @@
       "answer": "eruption",
       "answer_letters": "ERUPTION",
       "indices": [
-        65,
-        126,
+        163,
+        164,
         158,
         21,
-        36,
-        173,
-        15,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remote",
-      "answer_letters": "REMOTE",
-      "indices": [
-        16,
-        79,
-        47,
-        172,
-        168,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
-      "indices": [
         33,
-        9,
-        163,
-        111,
-        144,
-        148,
-        25,
-        101,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "linked",
-      "answer_letters": "LINKED",
-      "indices": [
-        89,
-        88,
-        143,
-        77,
-        78,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ignition",
-      "answer_letters": "IGNITION",
-      "indices": [
-        139,
-        175,
-        75,
-        74,
-        39,
-        11,
-        107,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
-      "indices": [
-        14,
-        131,
-        108,
-        73,
-        42,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
-      "indices": [
-        95,
-        154,
-        4,
-        27,
-        59,
-        72,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "in-house",
-      "answer_letters": "INHOUSE",
-      "indices": [
-        54,
-        28,
-        120,
-        0,
-        150,
-        35,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "township",
-      "answer_letters": "TOWNSHIP",
-      "indices": [
-        119,
-        62,
-        161,
-        174,
-        129,
-        53,
-        22,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shutdown",
-      "answer_letters": "SHUTDOWN",
-      "indices": [
-        123,
-        99,
-        132,
-        58,
-        50,
+        18,
         112,
-        117,
-        48
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "best-known",
+      "answer_letters": "BESTKNOWN",
+      "indices": [
+        136,
+        65,
+        32,
+        36,
+        77,
+        174,
+        15,
+        59,
+        55
       ]
     },
     {
@@ -250,40 +109,181 @@
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
-        43,
-        6,
-        116,
-        85,
+        2,
+        28,
+        100,
+        69,
         138,
         130
       ]
     },
     {
       "clue": null,
-      "answer": "lothian",
-      "answer_letters": "LOTHIAN",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
       "indices": [
-        133,
-        125,
-        87,
-        162,
-        26,
-        24,
-        55
+        16,
+        79,
+        71,
+        172,
+        68,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "fitting",
-      "answer_letters": "FITTING",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        25,
+        101,
+        104,
+        117,
+        37,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        89,
+        78,
+        99,
+        11,
+        175,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "in-depth",
+      "answer_letters": "INDEPTH",
+      "indices": [
+        139,
+        48,
+        134,
+        49,
+        80,
+        144,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "funding",
+      "answer_letters": "FUNDING",
+      "indices": [
+        14,
+        108,
+        19,
+        155,
+        88,
+        143,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edition",
+      "answer_letters": "EDITION",
+      "indices": [
+        72,
+        97,
+        22,
+        7,
+        26,
+        5,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issued",
+      "answer_letters": "ISSUED",
+      "indices": [
+        167,
+        20,
+        129,
+        85,
+        93,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twenty-two",
+      "answer_letters": "TWENTYTWO",
+      "indices": [
+        87,
+        161,
+        121,
+        1,
+        159,
+        148,
+        91,
+        9,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
+      "indices": [
+        123,
+        120,
+        150,
+        58,
+        131,
+        132,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "easton",
+      "answer_letters": "EASTON",
+      "indices": [
+        43,
+        10,
+        169,
+        52,
+        116,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "looting",
+      "answer_letters": "LOOTING",
+      "indices": [
+        146,
+        125,
+        0,
+        12,
+        54,
+        86,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "foundations",
+      "answer_letters": "FOUNDATIONS",
       "indices": [
         152,
-        167,
-        159,
-        91,
+        107,
+        31,
+        75,
+        50,
+        46,
+        39,
         145,
-        1,
-        171
+        60,
+        96,
+        35
       ]
     }
   ],

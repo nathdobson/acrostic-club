@@ -6,207 +6,208 @@
   "clues": [
     {
       "clue": null,
-      "answer": "goodwill",
-      "answer_letters": "GOODWILL",
+      "answer": "griffith",
+      "answer_letters": "GRIFFITH",
       "indices": [
         149,
-        127,
-        144,
-        147,
-        126,
-        0,
-        87,
-        192
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "efficacy",
-      "answer_letters": "EFFICACY",
-      "indices": [
-        185,
-        172,
-        194,
-        193,
-        143,
-        21,
-        100,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlaw",
-      "answer_letters": "OUTLAW",
-      "indices": [
-        52,
-        176,
-        151,
-        129,
-        108,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "radial",
-      "answer_letters": "RADIAL",
-      "indices": [
-        36,
-        9,
-        42,
-        12,
-        56,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "griffiths",
-      "answer_letters": "GRIFFITHS",
-      "indices": [
-        60,
-        128,
-        30,
-        73,
-        116,
-        25,
-        88,
-        32,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        105,
-        165,
-        55,
-        115,
-        101,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occupation",
-      "answer_letters": "OCCUPATION",
-      "indices": [
-        111,
-        162,
-        22,
-        62,
-        46,
-        103,
-        26,
-        137,
-        35,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reformation",
-      "answer_letters": "REFORMATION",
-      "indices": [
-        50,
-        183,
-        20,
-        156,
-        167,
-        153,
-        67,
-        31,
-        132,
-        47,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whatever",
-      "answer_letters": "WHATEVER",
-      "indices": [
-        135,
-        91,
-        122,
-        90,
-        66,
-        184,
-        102,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entropy",
-      "answer_letters": "ENTROPY",
-      "indices": [
-        4,
-        59,
-        123,
         186,
-        166,
-        118,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "latvian",
-      "answer_letters": "LATVIAN",
-      "indices": [
-        65,
-        44,
-        7,
-        121,
-        97,
-        74,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "launch",
-      "answer_letters": "LAUNCH",
-      "indices": [
-        24,
-        161,
-        145,
-        158,
-        57,
+        0,
+        20,
+        165,
+        132,
+        151,
         96
       ]
     },
     {
       "clue": null,
-      "answer": "wakefield",
-      "answer_letters": "WAKEFIELD",
+      "answer": "eldest",
+      "answer_letters": "ELDEST",
       "indices": [
-        34,
-        40,
-        2,
-        86,
+        49,
+        175,
+        130,
+        185,
+        98,
+        95
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "officiated",
+      "answer_letters": "OFFICIATED",
+      "indices": [
+        52,
+        55,
         53,
-        23,
+        141,
+        22,
+        120,
+        74,
+        113,
+        178,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runway",
+      "answer_letters": "RUNWAY",
+      "indices": [
+        119,
+        145,
+        63,
+        5,
+        56,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gravitational",
+      "answer_letters": "GRAVITATIONAL",
+      "indices": [
+        60,
+        128,
+        173,
+        121,
+        30,
+        88,
+        103,
+        26,
+        25,
+        111,
+        181,
+        15,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        86,
+        85,
+        172,
         124,
+        75,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "off-broadway",
+      "answer_letters": "OFFBROADWAY",
+      "indices": [
+        35,
+        73,
+        116,
+        160,
+        177,
+        127,
+        108,
+        81,
+        29,
+        67,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "revisited",
+      "answer_letters": "REVISITED",
+      "indices": [
+        50,
+        195,
+        184,
+        12,
+        68,
+        174,
+        7,
+        105,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wounds",
+      "answer_letters": "WOUNDS",
+      "indices": [
+        135,
+        47,
+        176,
+        80,
+        188,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        183,
+        31,
+        14,
+        97,
+        166,
+        46,
+        23,
+        44,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leland",
+      "answer_letters": "LELAND",
+      "indices": [
+        65,
+        66,
         146,
+        79,
+        41,
         37
       ]
     },
     {
       "clue": null,
-      "answer": "hadith",
-      "answer_letters": "HADITH",
+      "answer": "lawful",
+      "answer_letters": "LAWFUL",
       "indices": [
-        14,
+        129,
         69,
-        188,
-        141,
-        104,
+        48,
+        194,
+        62,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "warmth",
+      "answer_letters": "WARMTH",
+      "indices": [
+        34,
+        189,
+        101,
+        169,
+        93,
         136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hockey",
+      "answer_letters": "HOCKEY",
+      "indices": [
+        139,
+        156,
+        138,
+        2,
+        102,
+        187
       ]
     },
     {
@@ -215,96 +216,95 @@
       "answer_letters": "YACHTS",
       "indices": [
         190,
-        79,
-        75,
-        139,
-        93,
-        38
+        122,
+        143,
+        91,
+        90,
+        77
       ]
     },
     {
       "clue": null,
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
+      "answer": "india's",
+      "answer_letters": "INDIAS",
       "indices": [
-        174,
+        58,
         3,
-        8,
-        83,
-        160,
-        180,
-        10,
+        42,
+        193,
+        21,
         110
       ]
     },
     {
       "clue": null,
-      "answer": "weekday",
-      "answer_letters": "WEEKDAY",
+      "answer": "warwick",
+      "answer_letters": "WARWICK",
       "indices": [
-        48,
-        178,
-        195,
-        163,
-        106,
-        92,
-        187
+        126,
+        40,
+        167,
+        157,
+        83,
+        57,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "rampant",
-      "answer_letters": "RAMPANT",
+      "answer": "rational",
+      "answer_letters": "RATIONAL",
       "indices": [
         112,
-        15,
-        169,
-        64,
-        18,
-        70,
-        76
+        92,
+        123,
+        137,
+        144,
+        133,
+        161,
+        192
       ]
     },
     {
       "clue": null,
-      "answer": "infancy",
-      "answer_letters": "INFANCY",
+      "answer": "impact",
+      "answer_letters": "IMPACT",
       "indices": [
-        120,
-        80,
-        85,
-        189,
-        63,
-        138,
-        170
+        180,
+        153,
+        64,
+        9,
+        100,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "twisted",
-      "answer_letters": "TWISTED",
+      "answer": "trophy",
+      "answer_letters": "TROPHY",
       "indices": [
         71,
-        5,
-        58,
-        98,
-        95,
-        49,
-        130
+        36,
+        115,
+        118,
+        8,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "edwards",
-      "answer_letters": "EDWARDS",
+      "answer": "enchanted",
+      "answer_letters": "ENCHANTED",
       "indices": [
         150,
-        16,
-        29,
-        173,
-        177,
-        81,
-        77
+        70,
+        162,
+        32,
+        18,
+        59,
+        76,
+        4,
+        16
       ]
     }
   ],

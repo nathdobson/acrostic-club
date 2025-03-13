@@ -6,102 +6,100 @@
   "clues": [
     {
       "clue": null,
-      "answer": "chihuahua",
-      "answer_letters": "CHIHUAHUA",
+      "answer": "chiefs",
+      "answer_letters": "CHIEFS",
       "indices": [
         41,
-        153,
-        2,
         72,
-        84,
-        18,
-        1,
-        64,
-        115
+        2,
+        34,
+        23,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "answer": "himself",
+      "answer_letters": "HIMSELF",
       "indices": [
         137,
+        119,
+        53,
+        31,
         100,
-        150,
-        52,
-        156,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
-      "indices": [
         69,
-        60,
-        168,
-        152,
-        129,
-        67,
-        83,
-        23,
-        140
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "outfield",
-      "answer_letters": "OUTFIELD",
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        65,
+        52,
+        83,
+        140,
+        71,
+        5,
+        37,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offset",
+      "answer_letters": "OFFSET",
       "indices": [
         143,
-        9,
-        135,
+        94,
         63,
-        26,
-        54,
-        68,
-        92
+        134,
+        110,
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
+      "answer": "englishman",
+      "answer_letters": "ENGLISHMAN",
       "indices": [
-        78,
+        58,
+        82,
+        121,
         114,
-        96,
-        132,
-        117,
-        164
+        22,
+        162,
+        112,
+        174,
+        160,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "residue",
-      "answer_letters": "RESIDUE",
+      "answer": "review",
+      "answer_letters": "REVIEW",
       "indices": [
         116,
         50,
-        134,
+        139,
         62,
-        108,
-        43,
-        15
+        15,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "adjust",
-      "answer_letters": "ADJUST",
+      "answer": "assent",
+      "answer_letters": "ASSENT",
       "indices": [
-        90,
-        172,
-        8,
-        133,
-        162,
-        13
+        18,
+        85,
+        177,
+        170,
+        101,
+        161
       ]
     },
     {
@@ -109,191 +107,193 @@
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
-        0,
-        17,
-        113,
-        148,
-        36,
-        104,
-        14,
-        61
+        35,
+        129,
+        155,
+        45,
+        102,
+        97,
+        159,
+        99
       ]
     },
     {
       "clue": null,
-      "answer": "titled",
-      "answer_letters": "TITLED",
+      "answer": "timing",
+      "answer_letters": "TIMING",
       "indices": [
-        118,
-        76,
-        142,
-        21,
-        170,
-        127
+        75,
+        113,
+        49,
+        36,
+        87,
+        104
       ]
     },
     {
       "clue": null,
-      "answer": "romans",
-      "answer_letters": "ROMANS",
+      "answer": "right-handed",
+      "answer_letters": "RIGHTHANDED",
       "indices": [
         95,
-        173,
-        49,
-        160,
+        96,
+        88,
+        1,
+        166,
+        164,
+        115,
         103,
-        27
+        92,
+        171,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "assisting",
-      "answer_letters": "ASSISTING",
+      "answer": "adjutant",
+      "answer_letters": "ADJUTANT",
       "indices": [
         59,
-        55,
-        39,
-        155,
-        85,
-        161,
-        102,
+        172,
+        132,
+        64,
+        11,
+        138,
         107,
-        97
+        118
       ]
     },
     {
       "clue": null,
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
         19,
-        171,
-        33,
-        58,
-        101,
-        86
+        32,
+        9,
+        142,
+        153,
+        55
       ]
     },
     {
       "clue": null,
-      "answer": "shafts",
-      "answer_letters": "SHAFTS",
+      "answer": "statue",
+      "answer_letters": "STATUE",
       "indices": [
-        177,
-        159,
-        138,
-        94,
-        166,
-        47
+        39,
+        0,
+        90,
+        61,
+        43,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
       "indices": [
         165,
-        99,
-        98,
-        65,
-        130,
-        11,
-        24,
-        3
+        33,
+        57,
+        133,
+        6,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "commit",
-      "answer_letters": "COMMIT",
+      "answer": "cotton",
+      "answer_letters": "COTTON",
       "indices": [
         80,
         81,
-        53,
-        37,
-        119,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "realms",
-      "answer_letters": "REALMS",
-      "indices": [
-        42,
-        34,
-        106,
-        45,
-        77,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "extends",
-      "answer_letters": "EXTENDS",
-      "indices": [
-        146,
-        111,
-        35,
-        38,
-        87,
-        145,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
-      "indices": [
-        82,
-        32,
-        158,
-        112,
-        22,
-        126,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obtain",
-      "answer_letters": "OBTAIN",
-      "indices": [
+        51,
+        156,
         48,
-        57,
-        75,
-        147,
-        5,
         91
       ]
     },
     {
       "clue": null,
-      "answer": "in-game",
-      "answer_letters": "INGAME",
+      "answer": "russia",
+      "answer_letters": "RUSSIA",
       "indices": [
-        151,
-        120,
-        121,
-        125,
-        174,
-        110
+        42,
+        84,
+        3,
+        10,
+        86,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "reviews",
-      "answer_letters": "REVIEWS",
+      "answer": "elijah",
+      "answer_letters": "ELIJAH",
+      "indices": [
+        44,
+        148,
+        176,
+        8,
+        147,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        120,
+        78,
+        163,
+        54,
+        27,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
+      "indices": [
+        173,
+        60,
+        152,
+        21,
+        67,
+        150,
+        38,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italia",
+      "answer_letters": "ITALIA",
+      "indices": [
+        26,
+        135,
+        117,
+        68,
+        151,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "remixed",
+      "answer_letters": "REMIXED",
       "indices": [
         169,
-        44,
-        139,
-        176,
         73,
-        163,
-        6
+        77,
+        76,
+        111,
+        130,
+        127
       ]
     }
   ],

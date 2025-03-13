@@ -6,232 +6,231 @@
   "clues": [
     {
       "clue": null,
-      "answer": "whitehead",
-      "answer_letters": "WHITEHEAD",
+      "answer": "walton",
+      "answer_letters": "WALTON",
       "indices": [
         81,
-        140,
-        122,
-        17,
-        10,
-        134,
-        29,
         37,
-        61
+        5,
+        17,
+        46,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "appeal",
-      "answer_letters": "APPEAL",
+      "answer": "attire",
+      "answer_letters": "ATTIRE",
       "indices": [
         12,
-        97,
-        96,
-        85,
-        135,
-        5
+        107,
+        159,
+        122,
+        128,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "leather",
+      "answer_letters": "LEATHER",
       "indices": [
         60,
-        40,
+        29,
+        135,
+        72,
+        140,
+        85,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theodore",
+      "answer_letters": "THEODORE",
+      "indices": [
+        133,
         155,
-        138,
-        113,
-        73
+        4,
+        58,
+        61,
+        152,
+        39,
+        105
       ]
     },
     {
       "clue": null,
-      "answer": "thrash",
-      "answer_letters": "THRASH",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        120,
-        118,
-        44,
-        41,
-        75,
-        108
+        156,
+        170,
+        7,
+        50,
+        18,
+        101,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "either",
-      "answer_letters": "EITHER",
-      "indices": [
-        179,
-        164,
-        173,
-        160,
-        98,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roadway",
-      "answer_letters": "ROADWAY",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         176,
-        51,
-        109,
-        131,
+        82,
+        79,
+        117,
+        174,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        120,
+        77,
+        169,
         28,
-        125,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "takeoff",
-      "answer_letters": "TAKEOFF",
-      "indices": [
-        107,
         119,
-        52,
-        4,
-        46,
-        47,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entered",
-      "answer_letters": "ENTERED",
-      "indices": [
-        105,
-        33,
-        159,
-        156,
-        128,
-        3,
-        115
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "vanity",
-      "answer_letters": "VANITY",
-      "indices": [
-        142,
-        130,
-        99,
-        26,
-        133,
         92
       ]
     },
     {
       "clue": null,
-      "answer": "ireland",
-      "answer_letters": "IRELAND",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
       "indices": [
-        0,
-        88,
-        175,
-        148,
-        91,
-        13,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
-      "indices": [
-        16,
-        82,
-        153,
-        35,
-        169,
-        59,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "modify",
-      "answer_letters": "MODIFY",
-      "indices": [
-        90,
-        172,
-        14,
-        23,
-        170,
+        40,
+        163,
+        97,
+        83,
+        173,
+        134,
         149
       ]
     },
     {
       "clue": null,
-      "answer": "off-road",
-      "answer_letters": "OFFROAD",
+      "answer": "veteran",
+      "answer_letters": "VETERAN",
       "indices": [
-        58,
-        7,
-        67,
-        18,
-        152,
-        78,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "common",
-      "answer_letters": "COMMON",
-      "indices": [
-        154,
-        50,
-        178,
-        104,
-        19,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "korea's",
-      "answer_letters": "KOREAS",
-      "indices": [
-        111,
-        102,
+        142,
+        3,
+        35,
+        69,
         146,
-        161,
-        95,
-        167
+        41,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "infant",
-      "answer_letters": "INFANT",
+      "answer": "innate",
+      "answer_letters": "INNATE",
+      "indices": [
+        0,
+        20,
+        13,
+        125,
+        65,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shapiro",
+      "answer_letters": "SHAPIRO",
+      "indices": [
+        16,
+        94,
+        130,
+        96,
+        164,
+        8,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mughal",
+      "answer_letters": "MUGHAL",
+      "indices": [
+        90,
+        147,
+        113,
+        118,
+        78,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "office",
+      "answer_letters": "OFFICE",
+      "indices": [
+        34,
+        67,
+        2,
+        26,
+        124,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "crimean",
+      "answer_letters": "CRIMEAN",
+      "indices": [
+        57,
+        88,
+        74,
+        178,
+        143,
+        95,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "khalid",
+      "answer_letters": "KHALID",
+      "indices": [
+        52,
+        108,
+        141,
+        148,
+        23,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invade",
+      "answer_letters": "INVADE",
       "indices": [
         55,
-        63,
-        2,
-        141,
         110,
-        136
+        86,
+        91,
+        14,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "newton",
-      "answer_letters": "NEWTON",
+      "answer": "netted",
+      "answer_letters": "NETTED",
       "indices": [
         180,
         129,
-        77,
-        84,
-        34,
-        20
+        151,
+        136,
+        87,
+        166
       ]
     },
     {
@@ -241,63 +240,64 @@
       "indices": [
         21,
         64,
-        87,
-        145,
-        174,
-        31
+        31,
+        84,
+        160,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "butler",
-      "answer_letters": "BUTLER",
+      "answer": "boasted",
+      "answer_letters": "BOASTED",
       "indices": [
         49,
-        147,
-        65,
-        70,
-        9,
-        8
+        51,
+        109,
+        167,
+        145,
+        175,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "insect",
-      "answer_letters": "INSECT",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
       "indices": [
-        74,
-        126,
+        138,
+        165,
+        73,
+        19,
+        59,
         53,
-        143,
-        57,
-        101
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "rematch",
-      "answer_letters": "REMATCH",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
       "indices": [
-        30,
-        69,
-        163,
-        83,
-        72,
-        124,
-        94
+        44,
+        153,
+        99,
+        172,
+        47,
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "devote",
-      "answer_letters": "DEVOTE",
+      "answer": "docked",
+      "answer_letters": "DOCKED",
       "indices": [
-        157,
-        43,
-        86,
+        131,
         114,
-        117,
-        68
+        154,
+        111,
+        68,
+        157
       ]
     }
   ],

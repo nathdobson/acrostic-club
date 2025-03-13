@@ -6,149 +6,20 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nonstop",
-      "answer_letters": "NONSTOP",
+      "answer": "negotiating",
+      "answer_letters": "NEGOTIATING",
       "indices": [
         51,
+        114,
+        64,
         131,
-        158,
-        152,
         35,
-        116,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emblem",
-      "answer_letters": "EMBLEM",
-      "indices": [
-        127,
-        25,
-        185,
-        70,
-        37,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "drinking",
-      "answer_letters": "DRINKING",
-      "indices": [
-        110,
-        5,
-        71,
-        77,
-        40,
-        76,
-        167,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hardship",
-      "answer_letters": "HARDSHIP",
-      "indices": [
-        174,
-        166,
-        10,
-        168,
-        8,
-        14,
-        179,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attempt",
-      "answer_letters": "ATTEMPT",
-      "indices": [
-        124,
-        68,
-        89,
-        106,
-        107,
-        17,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
-      "indices": [
-        41,
-        19,
-        87,
-        59,
-        95,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enthusiasm",
-      "answer_letters": "ENTHUSIASM",
-      "indices": [
-        121,
-        109,
-        125,
-        137,
-        16,
-        177,
-        82,
-        162,
-        111,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stuttgart",
-      "answer_letters": "STUTTGART",
-      "indices": [
-        43,
-        28,
-        55,
-        56,
-        4,
-        136,
-        67,
-        97,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "thatcher",
-      "answer_letters": "THATCHER",
-      "indices": [
-        147,
-        120,
-        176,
-        138,
-        181,
-        141,
-        11,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hat-trick",
-      "answer_letters": "HATTRICK",
-      "indices": [
-        153,
+        135,
         12,
-        173,
-        103,
-        65,
-        61,
-        48,
-        164
+        100,
+        71,
+        158,
+        136
       ]
     },
     {
@@ -156,46 +27,171 @@
       "answer": "entertain",
       "answer_letters": "ENTERTAIN",
       "indices": [
-        2,
-        98,
-        47,
-        148,
-        105,
-        0,
-        145,
-        108,
-        129
+        127,
+        129,
+        138,
+        37,
+        149,
+        125,
+        162,
+        82,
+        109
       ]
     },
     {
       "clue": null,
-      "answer": "envisaged",
-      "answer_letters": "ENVISAGED",
+      "answer": "despair",
+      "answer_letters": "DESPAIR",
       "indices": [
-        142,
-        83,
-        22,
-        50,
-        39,
-        102,
-        159,
-        96,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aircraft",
-      "answer_letters": "AIRCRAFT",
-      "indices": [
-        88,
-        86,
-        62,
-        163,
-        45,
+        110,
+        90,
+        152,
+        92,
         79,
-        132,
-        119
+        183,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hobart",
+      "answer_letters": "HOBART",
+      "indices": [
+        101,
+        116,
+        161,
+        124,
+        45,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "archbishop",
+      "answer_letters": "ARCHBISHOP",
+      "indices": [
+        93,
+        97,
+        87,
+        174,
+        20,
+        157,
+        177,
+        14,
+        54,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
+      "indices": [
+        41,
+        55,
+        167,
+        80,
+        166,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everett",
+      "answer_letters": "EVERETT",
+      "indices": [
+        11,
+        22,
+        7,
+        172,
+        121,
+        0,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "states",
+      "answer_letters": "STATES",
+      "indices": [
+        43,
+        4,
+        31,
+        44,
+        66,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "triumph",
+      "answer_letters": "TRIUMPH",
+      "indices": [
+        146,
+        32,
+        108,
+        16,
+        113,
+        17,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hat-trick",
+      "answer_letters": "HATTRICK",
+      "indices": [
+        1,
+        19,
+        103,
+        119,
+        65,
+        179,
+        13,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embarked",
+      "answer_letters": "EMBARKED",
+      "indices": [
+        2,
+        25,
+        185,
+        176,
+        10,
+        164,
+        148,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        106,
+        155,
+        117,
+        21,
+        128,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attempts",
+      "answer_letters": "ATTEMPTS",
+      "indices": [
+        67,
+        95,
+        140,
+        6,
+        107,
+        123,
+        28,
+        74
       ]
     },
     {
@@ -204,83 +200,69 @@
       "answer_letters": "GROWTH",
       "indices": [
         52,
-        32,
-        54,
+        85,
+        29,
         30,
+        58,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
+      "indices": [
+        134,
+        145,
+        72,
+        73,
+        60,
         94,
         36
       ]
     },
     {
       "clue": null,
-      "answer": "lifeboat",
-      "answer_letters": "LIFEBOAT",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
       "indices": [
-        134,
-        157,
-        117,
-        60,
-        161,
-        29,
-        93,
-        146
+        142,
+        132,
+        170,
+        96,
+        163,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "elephant",
-      "answer_letters": "ELEPHANT",
-      "indices": [
-        66,
-        182,
-        46,
-        144,
-        49,
-        31,
-        80,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "three-time",
-      "answer_letters": "THREETIME",
+      "answer": "threats",
+      "answer_letters": "THREATS",
       "indices": [
         156,
-        101,
-        85,
-        90,
-        6,
+        59,
+        62,
+        46,
+        102,
         126,
-        183,
-        184,
-        23
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
+      "answer": "rothschild",
+      "answer_letters": "ROTHSCHILD",
       "indices": [
-        149,
+        105,
         171,
-        20,
-        73,
+        47,
+        141,
+        111,
+        181,
+        137,
         154,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        26,
-        170,
-        155,
-        21,
-        128,
-        140
+        70,
+        33
       ]
     },
     {
@@ -288,12 +270,30 @@
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
-        114,
-        100,
-        1,
+        23,
+        56,
+        153,
+        98,
+        50,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eliminating",
+      "answer_letters": "ELIMINATING",
+      "indices": [
+        26,
+        182,
+        76,
+        184,
+        61,
         150,
-        135,
-        13
+        88,
+        173,
+        86,
+        77,
+        159
       ]
     }
   ],

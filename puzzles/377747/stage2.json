@@ -6,122 +6,18 @@
   "clues": [
     {
       "clue": null,
-      "answer": "childhood",
-      "answer_letters": "CHILDHOOD",
+      "answer": "chowdhury",
+      "answer_letters": "CHOWDHURY",
       "indices": [
-        68,
-        69,
-        146,
-        132,
-        159,
+        147,
         141,
         43,
-        26,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        161,
-        147,
-        94,
-        66,
-        148,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "denoted",
-      "answer_letters": "DENOTED",
-      "indices": [
-        135,
-        103,
-        30,
-        190,
-        27,
-        91,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-of-way",
-      "answer_letters": "RIGHTOFWAY",
-      "indices": [
-        17,
-        108,
-        6,
-        28,
-        55,
-        133,
-        33,
-        50,
-        128,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        4,
-        155,
-        167,
-        21,
-        3,
-        157,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cooking",
-      "answer_letters": "COOKING",
-      "indices": [
-        90,
-        170,
-        85,
-        119,
-        29,
-        158,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "noticeably",
-      "answer_letters": "NOTICEABLY",
-      "indices": [
-        101,
-        42,
-        2,
-        137,
-        98,
-        127,
-        100,
-        105,
-        126,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youngest",
-      "answer_letters": "YOUNGEST",
-      "indices": [
-        169,
-        134,
-        77,
-        52,
-        41,
-        120,
-        39,
-        140
+        152,
+        63,
+        79,
+        182,
+        61,
+        75
       ]
     },
     {
@@ -129,173 +25,277 @@
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
-        82,
-        5,
+        161,
+        123,
         9,
-        171,
-        8,
-        79
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rewarded",
-      "answer_letters": "REWARDED",
-      "indices": [
-        34,
-        18,
-        152,
-        95,
-        89,
-        124,
-        35,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "afternoon",
-      "answer_letters": "AFTERNOON",
-      "indices": [
-        174,
-        185,
-        176,
-        163,
-        145,
-        71,
-        60,
-        76,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
-      "indices": [
+        77,
         112,
-        153,
-        96,
-        19,
-        59,
-        122,
-        183
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "elevation",
-      "answer_letters": "ELEVATION",
+      "answer": "dubois",
+      "answer_letters": "DUBOIS",
       "indices": [
-        188,
-        62,
-        106,
+        129,
+        48,
+        105,
+        60,
+        108,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "right-of-way",
+      "answer_letters": "RIGHTOFWAY",
+      "indices": [
+        186,
+        4,
+        6,
+        3,
+        2,
+        76,
+        167,
+        50,
+        157,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "involved",
+      "answer_letters": "INVOLVED",
+      "indices": [
+        137,
+        114,
         81,
+        133,
+        151,
+        162,
+        91,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chattanooga",
+      "answer_letters": "CHATTANOOGA",
+      "indices": [
+        90,
+        99,
         80,
         93,
-        166,
-        88,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "afghan",
-      "answer_letters": "AFGHAN",
-      "indices": [
-        70,
-        16,
-        102,
-        56,
-        51,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neighbours",
-      "answer_letters": "NEIGHBOURS",
-      "indices": [
-        109,
-        142,
-        38,
-        31,
-        107,
-        181,
-        118,
-        48,
-        186,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "devoted",
-      "answer_letters": "DEVOTED",
-      "indices": [
-        189,
-        187,
-        162,
-        10,
         84,
-        36,
-        110
+        150,
+        158,
+        170,
+        85,
+        72,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "reformed",
-      "answer_letters": "REFORMED",
+      "answer": "napoleon",
+      "answer_letters": "NAPOLEON",
       "indices": [
-        164,
-        73,
-        87,
-        1,
-        61,
-        191,
-        57,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uptown",
-      "answer_letters": "UPTOWN",
-      "indices": [
-        113,
+        25,
+        100,
         144,
-        65,
         47,
-        173,
-        114
+        126,
+        127,
+        42,
+        101
       ]
     },
     {
       "clue": null,
-      "answer": "isthmus",
-      "answer_letters": "ISTHMUS",
+      "answer": "yankees",
+      "answer_letters": "YANKEES",
       "indices": [
-        13,
-        116,
-        178,
-        99,
-        117,
-        182,
+        169,
+        153,
+        5,
+        119,
+        82,
+        18,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
+      "indices": [
+        35,
+        87,
+        16,
+        179,
+        89,
+        96,
         138
       ]
     },
     {
       "clue": null,
-      "answer": "notably",
-      "answer_letters": "NOTABLY",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        145,
+        56,
+        183,
+        176,
+        94,
+        191,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adolescent",
+      "answer_letters": "ADOLESCENT",
+      "indices": [
+        21,
+        124,
+        66,
+        132,
+        148,
+        14,
+        98,
+        163,
+        71,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
+      "indices": [
+        102,
+        134,
+        55,
+        107,
+        128,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        188,
+        68,
+        69,
+        88,
+        106,
+        189
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "affiliate",
+      "answer_letters": "AFFILIATE",
+      "indices": [
+        122,
+        185,
+        33,
+        146,
+        62,
+        38,
+        174,
+        27,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nguyễn",
+      "answer_letters": "NGUYEN",
+      "indices": [
+        0,
+        31,
+        171,
+        46,
+        142,
+        109
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "debated",
+      "answer_letters": "DEBATED",
+      "indices": [
+        110,
+        187,
+        131,
+        70,
+        178,
+        36,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
+      "indices": [
+        164,
+        73,
+        181,
+        10,
+        1,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "underwood",
+      "answer_letters": "UNDERWOOD",
+      "indices": [
+        113,
+        30,
+        23,
+        103,
+        17,
+        173,
+        118,
+        190,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ignited",
+      "answer_letters": "IGNITED",
+      "indices": [
+        29,
+        41,
+        22,
+        166,
+        140,
+        57,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norwegian",
+      "answer_letters": "NORWEGIAN",
       "indices": [
         175,
-        179,
-        53,
-        150,
-        131,
-        151,
-        75
+        26,
+        34,
+        59,
+        120,
+        8,
+        13,
+        51,
+        52
       ]
     }
   ],

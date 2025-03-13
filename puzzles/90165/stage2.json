@@ -6,263 +6,57 @@
   "clues": [
     {
       "clue": null,
-      "answer": "somewhat",
-      "answer_letters": "SOMEWHAT",
+      "answer": "saline",
+      "answer_letters": "SALINE",
       "indices": [
         22,
-        9,
-        38,
-        33,
-        93,
-        60,
         119,
-        48
+        130,
+        64,
+        100,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "chiefly",
-      "answer_letters": "CHIEFLY",
+      "answer": "chowdhury",
+      "answer_letters": "CHOWDHURY",
       "indices": [
-        120,
+        162,
         72,
-        56,
-        52,
-        139,
-        156,
+        94,
+        30,
+        2,
+        51,
+        47,
+        10,
         189
       ]
     },
     {
       "clue": null,
-      "answer": "others",
-      "answer_letters": "OTHERS",
+      "answer": "oceans",
+      "answer_letters": "OCEANS",
       "indices": [
-        94,
-        14,
-        51,
-        89,
-        10,
+        46,
+        120,
+        52,
+        0,
+        165,
         174
       ]
     },
     {
       "clue": null,
-      "answer": "thrown",
-      "answer_letters": "THROWN",
-      "indices": [
-        170,
-        163,
-        41,
-        143,
-        8,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "throws",
-      "answer_letters": "THROWS",
+      "answer": "trophy",
+      "answer_letters": "TROPHY",
       "indices": [
         149,
-        171,
-        144,
-        42,
-        123,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "welded",
-      "answer_letters": "WELDED",
-      "indices": [
-        20,
-        28,
-        65,
-        168,
-        26,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ellison",
-      "answer_letters": "ELLISON",
-      "indices": [
-        134,
-        131,
-        130,
-        64,
-        125,
+        41,
         181,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "staffed",
-      "answer_letters": "STAFFED",
-      "indices": [
-        82,
-        12,
-        124,
-        90,
-        153,
-        185,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
-      "indices": [
-        4,
-        63,
-        167,
-        165,
-        91,
-        178,
-        128,
-        103,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emotion",
-      "answer_letters": "EMOTION",
-      "indices": [
-        73,
-        182,
-        176,
-        106,
-        129,
-        36,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reigning",
-      "answer_letters": "REIGNING",
-      "indices": [
-        27,
-        172,
-        39,
-        101,
-        1,
-        138,
-        17,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "figure",
-      "answer_letters": "FIGURE",
-      "indices": [
-        147,
-        99,
-        166,
-        136,
-        32,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enters",
-      "answer_letters": "ENTERS",
-      "indices": [
-        151,
-        116,
-        24,
-        108,
-        76,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
-      "indices": [
-        141,
-        159,
-        84,
-        118,
-        47,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "durban",
-      "answer_letters": "DURBAN",
-      "indices": [
-        160,
-        140,
-        177,
-        133,
-        164,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "phosphate",
-      "answer_letters": "PHOSPHATE",
-      "indices": [
-        183,
-        107,
-        69,
-        68,
         75,
-        5,
-        21,
-        59,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "recall",
-      "answer_letters": "RECALL",
-      "indices": [
-        43,
-        113,
-        79,
-        135,
-        188,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
-      "indices": [
-        80,
-        186,
-        25,
-        35,
-        146,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "threat",
-      "answer_letters": "THREAT",
-      "indices": [
-        71,
-        112,
-        53,
-        105,
-        85,
-        50
+        163,
+        178
       ]
     },
     {
@@ -270,54 +64,260 @@
       "answer": "thrash",
       "answer_letters": "THRASH",
       "indices": [
-        175,
-        104,
-        109,
-        0,
-        11,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "israeli",
-      "answer_letters": "ISRAELI",
-      "indices": [
-        16,
-        44,
-        40,
+        106,
+        5,
+        144,
         154,
-        61,
-        184,
-        115
+        44,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "esther",
-      "answer_letters": "ESTHER",
+      "answer": "woolwich",
+      "answer_letters": "WOOLWICH",
+      "indices": [
+        63,
+        176,
+        36,
+        65,
+        103,
+        77,
+        180,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        134,
+        147,
+        118,
+        9,
+        40,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "showdown",
+      "answer_letters": "SHOWDOWN",
+      "indices": [
+        81,
+        150,
+        42,
+        123,
+        66,
+        143,
+        8,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tablet",
+      "answer_letters": "TABLET",
+      "indices": [
+        137,
+        135,
+        133,
+        188,
+        26,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        73,
+        90,
+        153,
+        61,
+        79,
+        59,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "relies",
+      "answer_letters": "RELIES",
+      "indices": [
+        27,
+        6,
+        131,
+        129,
+        172,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "female",
+      "answer_letters": "FEMALE",
+      "indices": [
+        139,
+        185,
+        38,
+        164,
+        88,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "engages",
+      "answer_letters": "ENGAGES",
+      "indices": [
+        80,
+        78,
+        166,
+        21,
+        101,
+        113,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "litter",
+      "answer_letters": "LITTER",
+      "indices": [
+        184,
+        99,
+        128,
+        186,
+        97,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dinner",
+      "answer_letters": "DINNER",
+      "indices": [
+        160,
+        39,
+        1,
+        17,
+        151,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "penrith",
+      "answer_letters": "PENRITH",
+      "indices": [
+        183,
+        108,
+        57,
+        177,
+        138,
+        24,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ritual",
+      "answer_letters": "RITUAL",
+      "indices": [
+        43,
+        146,
+        91,
+        140,
+        159,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
       "indices": [
         31,
-        81,
-        137,
-        150,
-        54,
-        98
+        98,
+        82,
+        4,
+        93,
+        25,
+        56,
+        155,
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "switched",
-      "answer_letters": "SWITCHED",
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
+        71,
+        15,
+        109,
+        69,
+        20,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "themed",
+      "answer_letters": "THEMED",
+      "indices": [
+        175,
+        104,
+        89,
+        182,
+        105,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insight",
+      "answer_letters": "INSIGHT",
+      "indices": [
+        16,
+        95,
+        125,
+        115,
+        18,
+        60,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastward",
+      "answer_letters": "EASTWARD",
+      "indices": [
+        28,
+        85,
+        11,
+        50,
+        84,
+        124,
+        53,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shuttle",
+      "answer_letters": "SHUTTLE",
       "indices": [
         127,
-        30,
-        77,
-        121,
-        162,
         158,
-        187,
-        2
+        136,
+        121,
+        14,
+        156,
+        187
       ]
     }
   ],

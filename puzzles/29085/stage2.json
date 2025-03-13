@@ -6,81 +6,74 @@
   "clues": [
     {
       "clue": null,
-      "answer": "identifying",
-      "answer_letters": "IDENTIFYING",
+      "answer": "identify",
+      "answer_letters": "IDENTIFY",
       "indices": [
-        82,
+        72,
         141,
         160,
-        173,
-        135,
-        72,
-        87,
-        14,
-        46,
         47,
-        48
+        135,
+        46,
+        165,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "suffolk",
-      "answer_letters": "SUFFOLK",
+      "answer": "sulfur",
+      "answer_letters": "SULFUR",
       "indices": [
         12,
-        60,
-        165,
-        150,
-        128,
+        2,
         24,
-        62
+        150,
+        60,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "architectural",
-      "answer_letters": "ARCHITECTURAL",
+      "answer": "auditory",
+      "answer_letters": "AUDITORY",
       "indices": [
-        43,
-        81,
-        109,
-        67,
-        146,
-        138,
-        70,
-        110,
-        133,
-        40,
-        97,
         8,
-        180
+        77,
+        33,
+        31,
+        133,
+        152,
+        113,
+        0
       ]
     },
     {
       "clue": null,
-      "answer": "avoids",
-      "answer_letters": "AVOIDS",
+      "answer": "aroused",
+      "answer_letters": "AROUSED",
       "indices": [
         108,
-        182,
+        101,
         95,
-        114,
-        127,
-        104
+        96,
+        104,
+        103,
+        42
       ]
     },
     {
       "clue": null,
-      "answer": "colegio",
-      "answer_letters": "COLEGIO",
+      "answer": "checking",
+      "answer_letters": "CHECKING",
       "indices": [
-        61,
-        15,
-        32,
-        99,
-        148,
-        52,
-        25
+        109,
+        118,
+        169,
+        110,
+        162,
+        114,
+        56,
+        50
       ]
     },
     {
@@ -89,194 +82,200 @@
       "answer_letters": "MERCURY",
       "indices": [
         9,
-        183,
-        3,
-        29,
-        26,
-        51,
+        174,
+        81,
+        45,
+        178,
+        97,
         38
       ]
     },
     {
       "clue": null,
-      "answer": "aroused",
-      "answer_letters": "AROUSED",
+      "answer": "archery",
+      "answer_letters": "ARCHERY",
       "indices": [
         100,
-        101,
-        181,
-        23,
-        73,
-        103,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rushes",
-      "answer_letters": "RUSHES",
-      "indices": [
-        78,
-        178,
-        130,
-        84,
-        174,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
-      "indices": [
-        19,
-        120,
-        118,
-        164,
-        56,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occasion",
-      "answer_letters": "OCCASION",
-      "indices": [
-        152,
-        161,
-        45,
-        136,
-        137,
-        132,
-        172,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novice",
-      "answer_letters": "NOVICE",
-      "indices": [
-        36,
-        1,
-        168,
-        55,
+        151,
         22,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
-      "indices": [
-        125,
-        76,
-        18,
-        155,
-        111,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authored",
-      "answer_letters": "AUTHORED",
-      "indices": [
-        112,
-        90,
-        105,
-        156,
-        39,
-        170,
-        139,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runner-up",
-      "answer_letters": "RUNNERUP",
-      "indices": [
-        142,
-        63,
-        115,
-        159,
-        92,
-        11,
-        77,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "murphy",
-      "answer_letters": "MURPHY",
-      "indices": [
-        153,
-        96,
-        6,
-        64,
         123,
+        35,
+        170,
         75
       ]
     },
     {
       "clue": null,
-      "answer": "buying",
-      "answer_letters": "BUYING",
+      "answer": "rushing",
+      "answer_letters": "RUSHING",
       "indices": [
-        80,
-        88,
-        176,
-        31,
-        44,
-        57
+        18,
+        40,
+        65,
+        67,
+        132,
+        173,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "orkney",
-      "answer_letters": "ORKNEY",
+      "answer": "integrity",
+      "answer_letters": "INTEGRITY",
       "indices": [
-        177,
-        113,
-        162,
-        102,
-        167,
+        55,
+        44,
+        155,
+        99,
+        57,
+        142,
+        146,
+        138,
         171
       ]
     },
     {
       "clue": null,
-      "answer": "deposited",
-      "answer_letters": "DEPOSITED",
+      "answer": "orioles",
+      "answer_letters": "ORIOLES",
       "indices": [
-        33,
-        157,
-        145,
         124,
-        107,
-        143,
-        85,
-        116,
-        5
+        3,
+        82,
+        119,
+        180,
+        157,
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "interfere",
-      "answer_letters": "INTERFERE",
+      "answer": "necklace",
+      "answer_letters": "NECKLACE",
+      "indices": [
+        54,
+        68,
+        29,
+        62,
+        32,
+        43,
+        161,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whoever",
+      "answer_letters": "WHOEVER",
+      "indices": [
+        125,
+        111,
+        76,
+        7,
+        182,
+        70,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anthony",
+      "answer_letters": "ANTHONY",
+      "indices": [
+        112,
+        115,
+        105,
+        156,
+        15,
+        159,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        6,
+        63,
+        36,
+        164,
+        59,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "minogue",
+      "answer_letters": "MINOGUE",
+      "indices": [
+        153,
+        19,
+        102,
+        25,
+        148,
+        23,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "behaviors",
+      "answer_letters": "BEHAVIORS",
+      "indices": [
+        80,
+        183,
+        84,
+        136,
+        168,
+        143,
+        172,
+        78,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opposed",
+      "answer_letters": "OPPOSED",
+      "indices": [
+        177,
+        144,
+        120,
+        1,
+        130,
+        92,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deputy",
+      "answer_letters": "DEPUTY",
+      "indices": [
+        5,
+        116,
+        145,
+        26,
+        85,
+        176
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "introduces",
+      "answer_letters": "INTRODUCES",
       "indices": [
         21,
         147,
         89,
-        10,
         69,
-        59,
-        129,
-        91,
-        35
+        39,
+        20,
+        16,
+        61,
+        10,
+        27
       ]
     },
     {
@@ -286,24 +285,25 @@
       "indices": [
         121,
         53,
-        119,
-        2,
+        128,
+        88,
         83,
         30
       ]
     },
     {
       "clue": null,
-      "answer": "surgery",
-      "answer_letters": "SURGERY",
+      "answer": "superior",
+      "answer_letters": "SUPERIOR",
       "indices": [
-        27,
-        16,
-        34,
-        50,
-        169,
-        151,
-        94
+        73,
+        90,
+        64,
+        129,
+        91,
+        52,
+        181,
+        34
       ]
     }
   ],

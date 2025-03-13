@@ -6,192 +6,187 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nippon",
-      "answer_letters": "NIPPON",
+      "answer": "nichols",
+      "answer_letters": "NICHOLS",
       "indices": [
         138,
-        69,
-        72,
-        116,
-        150,
-        123
+        51,
+        83,
+        121,
+        130,
+        187,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "inclusive",
-      "answer_letters": "INCLUSIVE",
+      "answer": "indoors",
+      "answer_letters": "INDOORS",
       "indices": [
         61,
         19,
-        83,
-        187,
-        142,
-        78,
-        51,
-        167,
-        26
+        113,
+        65,
+        150,
+        35,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "carnival",
-      "answer_letters": "CARNIVAL",
+      "answer": "classify",
+      "answer_letters": "CLASSIFY",
       "indices": [
         48,
-        22,
-        169,
-        1,
-        29,
-        158,
+        136,
         55,
-        183
+        102,
+        56,
+        0,
+        89,
+        188
       ]
     },
     {
       "clue": null,
-      "answer": "old-fashioned",
-      "answer_letters": "OLDFASHIONED",
+      "answer": "observers",
+      "answer_letters": "OBSERVERS",
       "indices": [
-        99,
-        136,
-        131,
-        89,
+        166,
+        98,
+        23,
+        114,
+        105,
+        176,
+        90,
+        169,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lionel",
+      "answer_letters": "LIONEL",
+      "indices": [
+        151,
+        109,
+        49,
+        163,
+        9,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
+      "indices": [
+        106,
+        167,
+        81,
+        59,
+        132,
+        54,
+        34,
+        5,
+        13,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edited",
+      "answer_letters": "EDITED",
+      "indices": [
+        168,
+        173,
+        3,
+        27,
+        184,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "grossing",
+      "answer_letters": "GROSSING",
+      "indices": [
+        31,
+        160,
+        84,
+        78,
+        139,
+        69,
+        123,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "landed",
+      "answer_letters": "LANDED",
+      "indices": [
+        152,
         42,
-        186,
-        125,
-        122,
-        175,
-        100,
+        75,
+        131,
         180,
         40
       ]
     },
     {
       "clue": null,
-      "answer": "loaned",
-      "answer_letters": "LOANED",
+      "answer": "illusion",
+      "answer_letters": "ILLUSION",
       "indices": [
-        151,
-        49,
-        36,
-        154,
-        9,
-        182
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        106,
-        15,
-        80,
-        16,
-        81,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edinburgh",
-      "answer_letters": "EDINBURGH",
-      "indices": [
-        168,
-        173,
-        0,
-        163,
-        98,
-        66,
-        59,
-        111,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "grooves",
-      "answer_letters": "GROOVES",
-      "indices": [
-        25,
-        160,
-        130,
-        84,
-        143,
-        91,
-        139
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lockdown",
-      "answer_letters": "LOCKDOWN",
-      "indices": [
-        152,
-        166,
-        11,
-        108,
-        4,
-        44,
-        54,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "integers",
-      "answer_letters": "INTEGERS",
-      "indices": [
-        109,
-        110,
-        33,
-        101,
-        63,
-        159,
-        178,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nicholson",
-      "answer_letters": "NICHOLSON",
-      "indices": [
-        30,
-        126,
-        58,
-        121,
-        135,
+        74,
+        17,
         50,
-        37,
-        65,
-        181
+        45,
+        96,
+        95,
+        16,
+        154
       ]
     },
     {
       "clue": null,
-      "answer": "galway",
-      "answer_letters": "GALWAY",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
       "indices": [
-        31,
-        77,
-        86,
-        21,
-        12,
-        132
+        52,
+        119,
+        63,
+        8,
+        46,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "ensured",
-      "answer_letters": "ENSURED",
+      "answer": "graphic",
+      "answer_letters": "GRAPHIC",
+      "indices": [
+        155,
+        149,
+        107,
+        116,
+        94,
+        126,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "educated",
+      "answer_letters": "EDUCATED",
       "indices": [
         177,
-        172,
-        102,
+        4,
         85,
-        149,
+        11,
+        36,
+        67,
         115,
         164
       ]
@@ -201,109 +196,114 @@
       "answer": "rabbit",
       "answer_letters": "RABBIT",
       "indices": [
-        35,
-        146,
-        104,
+        178,
+        77,
         43,
-        74,
-        46
+        129,
+        18,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "wealthy",
-      "answer_letters": "WEALTHY",
+      "answer": "walkway",
+      "answer_letters": "WALKWAY",
       "indices": [
+        21,
+        12,
+        92,
+        108,
         118,
-        5,
-        162,
-        17,
-        7,
-        8,
+        146,
         60
       ]
     },
     {
       "clue": null,
-      "answer": "advise",
-      "answer_letters": "ADVISE",
+      "answer": "achieved",
+      "answer_letters": "ACHIEVED",
       "indices": [
-        73,
-        113,
-        176,
-        95,
-        141,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nassau",
-      "answer_letters": "NASSAU",
-      "indices": [
-        52,
-        171,
-        2,
-        96,
-        107,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tbilisi",
-      "answer_letters": "TBILISI",
-      "indices": [
-        120,
-        129,
-        18,
-        92,
+        162,
+        58,
+        80,
         153,
-        185,
-        119
+        26,
+        143,
+        91,
+        87
       ]
     },
     {
       "clue": null,
-      "answer": "insect",
-      "answer_letters": "INSECT",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
-        137,
-        62,
-        127,
-        90,
-        134,
-        28
+        110,
+        101,
+        72,
+        125,
+        159,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
+      "answer": "taunton",
+      "answer_letters": "TAUNTON",
+      "indices": [
+        7,
+        73,
+        142,
+        30,
+        120,
+        135,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invasions",
+      "answer_letters": "INVASIONS",
+      "indices": [
+        29,
+        1,
+        158,
+        22,
+        127,
+        122,
+        175,
+        100,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nicholson",
+      "answer_letters": "NICHOLSON",
       "indices": [
         70,
-        157,
-        105,
-        67,
+        137,
+        134,
         38,
-        145,
-        114,
+        157,
+        183,
         147,
-        27
+        99,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "greyish",
-      "answer_letters": "GREYISH",
+      "answer": "gunboat",
+      "answer_letters": "GUNBOAT",
       "indices": [
-        155,
-        13,
-        184,
-        188,
-        3,
-        56,
-        34
+        111,
+        66,
+        172,
+        104,
+        44,
+        171,
+        28
       ]
     }
   ],

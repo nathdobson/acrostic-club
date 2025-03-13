@@ -6,235 +6,230 @@
   "clues": [
     {
       "clue": null,
-      "answer": "missed",
-      "answer_letters": "MISSED",
+      "answer": "method",
+      "answer_letters": "METHOD",
       "indices": [
-        154,
-        79,
-        145,
-        142,
-        83,
+        19,
+        12,
+        107,
+        137,
+        71,
         94
       ]
     },
     {
       "clue": null,
-      "answer": "ulster",
-      "answer_letters": "ULSTER",
+      "answer": "utilities",
+      "answer_letters": "UTILITIES",
       "indices": [
-        144,
-        48,
-        89,
+        23,
         122,
-        87,
-        129
+        55,
+        48,
+        51,
+        120,
+        70,
+        178,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "shower",
-      "answer_letters": "SHOWER",
+      "answer": "swords",
+      "answer_letters": "SWORDS",
       "indices": [
         64,
-        150,
-        176,
         132,
-        170,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edward",
-      "answer_letters": "EDWARD",
-      "indices": [
-        38,
-        159,
-        33,
-        114,
-        1,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "esther",
-      "answer_letters": "ESTHER",
-      "indices": [
-        12,
-        54,
-        113,
-        123,
-        172,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newark",
-      "answer_letters": "NEWARK",
-      "indices": [
-        68,
-        99,
-        86,
-        152,
-        173,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "indonesian",
-      "answer_letters": "INDONESIAN",
-      "indices": [
-        70,
-        115,
-        81,
-        134,
-        80,
-        106,
-        62,
-        53,
-        60,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        0,
-        11,
-        71,
-        108,
-        107,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "modelled",
-      "answer_letters": "MODELLED",
-      "indices": [
-        175,
         127,
-        32,
-        139,
-        140,
-        93,
-        97,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "avoids",
-      "answer_letters": "AVOIDS",
-      "indices": [
-        119,
-        98,
-        41,
-        148,
-        141,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "traffic",
-      "answer_letters": "TRAFFIC",
-      "indices": [
-        120,
-        153,
-        2,
-        26,
-        167,
-        51,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        45,
-        69,
-        163,
-        4,
-        14,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chestnut",
-      "answer_letters": "CHESTNUT",
-      "indices": [
-        46,
-        9,
-        10,
-        117,
-        44,
-        96,
-        92,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "editorial",
-      "answer_letters": "EDITORIAL",
-      "indices": [
-        67,
-        116,
-        43,
-        149,
-        110,
         100,
-        34,
-        27,
+        36,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
+      "indices": [
+        124,
+        3,
+        30,
+        114,
+        115,
+        22,
         165
       ]
     },
     {
       "clue": null,
-      "answer": "voodoo",
-      "answer_letters": "VOODOO",
+      "answer": "errors",
+      "answer_letters": "ERRORS",
       "indices": [
-        52,
-        91,
-        155,
-        126,
-        22,
-        56
+        170,
+        104,
+        24,
+        176,
+        11,
+        145
       ]
     },
     {
       "clue": null,
-      "answer": "outset",
-      "answer_letters": "OUTSET",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        68,
+        8,
+        40,
+        133,
+        99,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invaded",
+      "answer_letters": "INVADED",
+      "indices": [
+        53,
+        72,
+        52,
+        152,
+        126,
+        87,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ground",
+      "answer_letters": "GROUND",
+      "indices": [
+        0,
+        177,
+        168,
+        144,
+        35,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "madeira",
+      "answer_letters": "MADEIRA",
+      "indices": [
+        175,
+        47,
+        32,
+        139,
+        43,
+        169,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awards",
+      "answer_letters": "AWARDS",
+      "indices": [
+        163,
+        108,
+        14,
+        129,
+        141,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        75,
+        60,
+        78,
+        63,
+        134,
+        26,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "indigo",
+      "answer_letters": "INDIGO",
+      "indices": [
+        148,
+        96,
+        7,
+        45,
+        105,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "co-host",
+      "answer_letters": "COHOST",
+      "indices": [
+        59,
+        91,
+        90,
+        155,
+        69,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
+      "indices": [
+        97,
+        149,
+        150,
+        34,
+        46,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "vidhan",
+      "answer_letters": "VIDHAN",
+      "indices": [
+        171,
+        4,
+        159,
+        9,
+        2,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "others",
+      "answer_letters": "OTHERS",
       "indices": [
         103,
-        23,
-        75,
-        136,
-        8,
-        5
+        5,
+        109,
+        106,
+        173,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "losses",
+      "answer_letters": "LOSSES",
       "indices": [
         164,
-        63,
-        109,
-        55,
-        105,
-        133
+        76,
+        117,
+        112,
+        38,
+        89
       ]
     },
     {
@@ -244,69 +239,74 @@
       "indices": [
         6,
         158,
-        37,
-        47,
+        140,
+        157,
         147,
         102,
         61,
-        82
+        93
       ]
     },
     {
       "clue": null,
-      "answer": "threshold",
-      "answer_letters": "THRESHOLD",
+      "answer": "toilet",
+      "answer_letters": "TOILET",
       "indices": [
         29,
-        137,
-        156,
-        20,
-        73,
-        90,
-        18,
-        42,
-        7
+        41,
+        79,
+        82,
+        172,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "improve",
-      "answer_letters": "IMPROVE",
+      "answer": "israeli",
+      "answer_letters": "ISRAELI",
       "indices": [
-        28,
-        19,
-        40,
-        24,
-        168,
-        171,
-        124
+        138,
+        39,
+        1,
+        119,
+        67,
+        37,
+        28
       ]
     },
     {
       "clue": null,
-      "answer": "others",
-      "answer_letters": "OTHERS",
+      "answer": "overwhelmed",
+      "answer_letters": "OVERWHELMED",
       "indices": [
-        76,
-        3,
+        56,
+        98,
+        83,
+        153,
+        33,
         17,
-        178,
-        177,
-        112
+        20,
+        42,
+        154,
+        10,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "nations",
-      "answer_letters": "NATIONS",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
       "indices": [
         57,
-        157,
-        66,
-        138,
+        110,
+        156,
+        113,
+        123,
+        142,
         128,
-        35,
-        161
+        92,
+        66,
+        162
       ]
     }
   ],

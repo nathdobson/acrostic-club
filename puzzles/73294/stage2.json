@@ -6,12 +6,173 @@
   "clues": [
     {
       "clue": null,
-      "answer": "needed",
-      "answer_letters": "NEEDED",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
-        70,
+        152,
+        99,
+        140,
         121,
+        171,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
+      "indices": [
+        81,
+        11,
+        60,
+        146,
+        138,
+        58,
+        30,
+        24,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netherlands",
+      "answer_letters": "NETHERLANDS",
+      "indices": [
+        178,
+        47,
+        172,
+        141,
+        13,
+        159,
+        175,
+        108,
+        70,
+        40,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cities",
+      "answer_letters": "CITIES",
+      "indices": [
+        57,
+        23,
+        106,
+        63,
+        46,
+        8
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        15,
+        17,
+        35,
+        72,
+        137,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "weekdays",
+      "answer_letters": "WEEKDAYS",
+      "indices": [
+        136,
+        180,
+        65,
+        76,
+        104,
+        184,
+        148,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "edible",
+      "answer_letters": "EDIBLE",
+      "indices": [
+        142,
+        94,
+        0,
+        7,
+        174,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
+      "indices": [
+        181,
+        88,
+        169,
+        153,
+        73,
+        27,
+        74,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "limestone",
+      "answer_letters": "LIMESTONE",
+      "indices": [
+        10,
+        125,
+        52,
+        39,
+        55,
+        166,
+        43,
+        133,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
+      "indices": [
+        173,
+        143,
+        167,
+        151,
+        177,
+        182,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nation",
+      "answer_letters": "NATION",
+      "indices": [
+        78,
+        111,
+        116,
+        89,
+        34,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intended",
+      "answer_letters": "INTENDED",
+      "indices": [
+        101,
+        37,
+        145,
         69,
+        122,
         157,
         168,
         123
@@ -19,289 +180,128 @@
     },
     {
       "clue": null,
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
+      "answer": "methods",
+      "answer_letters": "METHODS",
       "indices": [
-        111,
-        60,
-        146,
-        175,
-        13,
-        24,
-        46,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "netted",
-      "answer_letters": "NETTED",
-      "indices": [
-        163,
-        180,
-        172,
-        106,
-        65,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cottage",
-      "answer_letters": "COTTAGE",
-      "indices": [
-        57,
-        138,
-        72,
-        183,
-        81,
-        79,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youtube",
-      "answer_letters": "YOUTUBE",
-      "indices": [
-        20,
-        17,
-        11,
-        153,
-        35,
-        82,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "worker",
-      "answer_letters": "WORKER",
-      "indices": [
-        136,
-        129,
-        58,
-        76,
-        147,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "environment",
-      "answer_letters": "ENVIRONMENT",
-      "indices": [
-        142,
-        143,
-        64,
-        0,
-        119,
-        43,
-        93,
-        52,
-        103,
-        133,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "roadways",
-      "answer_letters": "ROADWAYS",
-      "indices": [
-        181,
-        83,
-        184,
-        102,
-        140,
-        19,
-        148,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leftist",
-      "answer_letters": "LEFTIST",
-      "indices": [
-        174,
-        59,
-        118,
-        87,
-        125,
-        55,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "institut",
-      "answer_letters": "INSTITUT",
-      "indices": [
-        77,
-        122,
-        182,
-        145,
-        173,
-        1,
-        84,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "notified",
-      "answer_letters": "NOTIFIED",
-      "indices": [
-        78,
-        34,
-        116,
-        89,
-        31,
-        30,
-        47,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabit",
-      "answer_letters": "INHABIT",
-      "indices": [
-        120,
-        185,
-        137,
-        6,
-        67,
-        3,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mannheim",
-      "answer_letters": "MANNHEIM",
-      "indices": [
-        27,
-        162,
-        75,
-        152,
-        88,
+        130,
         134,
-        101,
-        130
+        1,
+        25,
+        129,
+        98,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "punches",
-      "answer_letters": "PUNCHES",
+      "answer": "phoebe",
+      "answer_letters": "PHOEBE",
       "indices": [
         48,
-        155,
-        37,
-        100,
-        73,
+        107,
+        83,
         114,
-        171
+        82,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "odyssey",
-      "answer_letters": "ODYSSEY",
+      "answer": "off-broadway",
+      "answer_letters": "OFFBROADWAY",
       "indices": [
-        151,
-        98,
-        169,
-        50,
-        115,
-        38,
+        132,
+        31,
+        118,
+        113,
+        119,
+        9,
+        92,
+        150,
+        22,
+        6,
         33
       ]
     },
     {
       "clue": null,
-      "answer": "showed",
-      "answer_letters": "SHOWED",
-      "indices": [
-        90,
-        167,
-        51,
-        22,
-        158,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
+      "answer": "stints",
+      "answer_letters": "STINTS",
       "indices": [
         160,
-        25,
-        28,
-        96,
-        18,
-        107
+        87,
+        77,
+        156,
+        161,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
+      "answer": "suited",
+      "answer_letters": "SUITED",
       "indices": [
-        63,
-        178,
-        141,
-        92,
-        113,
-        74,
-        109,
-        99,
+        115,
+        84,
+        96,
+        12,
+        28,
+        186
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "indeed",
+      "answer_letters": "INDEED",
+      "indices": [
+        3,
+        75,
+        179,
+        53,
+        131,
         164
       ]
     },
     {
       "clue": null,
-      "answer": "bundled",
-      "answer_letters": "BUNDLED",
+      "answer": "bangkok",
+      "answer_letters": "BANGKOK",
       "indices": [
-        7,
-        177,
-        156,
-        186,
-        10,
-        39,
-        94
+        67,
+        162,
+        93,
+        79,
+        45,
+        51,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "looked",
-      "answer_letters": "LOOKED",
+      "answer": "latitude",
+      "answer_letters": "LATITUDE",
       "indices": [
         14,
-        132,
-        9,
-        45,
-        131,
-        179
+        19,
+        42,
+        120,
+        109,
+        155,
+        102,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
+      "answer": "events",
+      "answer_letters": "EVENTS",
       "indices": [
-        53,
-        8,
-        126,
-        108,
-        15,
-        23,
-        128,
-        42
+        56,
+        64,
+        68,
+        185,
+        183,
+        61
       ]
     }
   ],

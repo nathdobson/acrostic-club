@@ -6,71 +6,70 @@
   "clues": [
     {
       "clue": null,
-      "answer": "two-hour",
-      "answer_letters": "TWOHOUR",
+      "answer": "throws",
+      "answer_letters": "THROWS",
       "indices": [
-        127,
-        19,
-        56,
-        146,
+        72,
+        115,
+        100,
         52,
-        44,
-        100
+        164,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "emanuel",
-      "answer_letters": "EMANUEL",
+      "answer": "enshrined",
+      "answer_letters": "ENSHRINED",
       "indices": [
         47,
-        61,
-        102,
+        45,
+        42,
+        126,
+        155,
+        60,
         103,
-        140,
         38,
-        108
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "regards",
-      "answer_letters": "REGARDS",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
       "indices": [
-        51,
-        90,
-        125,
-        157,
-        94,
-        141,
-        96
+        21,
+        53,
+        174,
+        143,
+        153,
+        29
       ]
     },
     {
       "clue": null,
-      "answer": "redwood",
-      "answer_letters": "REDWOOD",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
       "indices": [
-        10,
-        83,
-        46,
-        85,
-        11,
-        43,
+        173,
+        8,
+        87,
+        27,
+        172,
         54
       ]
     },
     {
       "clue": null,
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
       "indices": [
-        109,
-        121,
-        148,
-        172,
-        5,
-        124
+        39,
+        65,
+        171,
+        112,
+        63,
+        111
       ]
     },
     {
@@ -78,212 +77,213 @@
       "answer": "sharif",
       "answer_letters": "SHARIF",
       "indices": [
-        111,
+        160,
         89,
-        65,
-        123,
+        73,
+        51,
         95,
         144
       ]
     },
     {
       "clue": null,
-      "answer": "peninsular",
-      "answer_letters": "PENINSULAR",
+      "answer": "peshawar",
+      "answer_letters": "PESHAWAR",
       "indices": [
-        137,
-        113,
-        98,
-        71,
-        79,
-        166,
-        53,
-        135,
+        50,
+        133,
+        34,
+        59,
         86,
-        37
+        85,
+        40,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "enthusiastic",
-      "answer_letters": "ENTHUSIASTIC",
+      "answer": "ensure",
+      "answer_letters": "ENSURE",
       "indices": [
         175,
-        174,
-        63,
-        120,
-        12,
+        13,
         158,
-        147,
-        73,
-        34,
-        26,
-        25,
-        171
+        12,
+        37,
+        90
       ]
     },
     {
       "clue": null,
-      "answer": "anchor",
-      "answer_letters": "ANCHOR",
+      "answer": "andhra",
+      "answer_letters": "ANDHRA",
       "indices": [
         154,
-        45,
-        168,
-        126,
-        139,
-        155
+        107,
+        14,
+        82,
+        91,
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "rashid",
-      "answer_letters": "RASHID",
+      "answer": "rodney",
+      "answer_letters": "RODNEY",
       "indices": [
-        70,
-        4,
-        87,
-        112,
-        68,
-        22
+        123,
+        11,
+        46,
+        170,
+        121,
+        109
       ]
     },
     {
       "clue": null,
-      "answer": "photos",
-      "answer_letters": "PHOTOS",
+      "answer": "portfolio",
+      "answer_letters": "PORTFOLIO",
       "indices": [
         93,
-        59,
+        43,
+        94,
+        26,
+        57,
         169,
-        74,
-        106,
-        160
+        135,
+        147,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "hatfield",
-      "answer_letters": "HATFIELD",
+      "answer": "housed",
+      "answer_letters": "HOUSED",
       "indices": [
-        115,
-        40,
-        72,
-        153,
-        60,
-        133,
-        30,
-        76
+        120,
+        56,
+        44,
+        151,
+        162,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "apache",
-      "answer_letters": "APACHE",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
       "indices": [
         116,
-        50,
+        132,
+        125,
+        0,
         150,
-        3,
-        161,
-        162
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "northwards",
-      "answer_letters": "NORTHWARDS",
+      "answer": "needles",
+      "answer_letters": "NEEDLES",
       "indices": [
-        107,
-        143,
-        21,
-        119,
-        64,
-        164,
-        165,
-        9,
-        104,
-        7
+        79,
+        78,
+        134,
+        76,
+        30,
+        75,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "thrown",
-      "answer_letters": "THROWN",
+      "answer": "territories",
+      "answer_letters": "TERRITORIES",
       "indices": [
         129,
-        27,
+        1,
         69,
+        138,
+        68,
+        74,
         130,
-        24,
-        170
+        70,
+        124,
+        99,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
       "indices": [
         20,
-        29,
-        132,
-        42,
-        78,
-        66
+        104,
+        71,
+        7,
+        161,
+        165
       ]
     },
     {
       "clue": null,
-      "answer": "madhya",
-      "answer_letters": "MADHYA",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
       "indices": [
         32,
         80,
-        14,
-        82,
-        39,
-        31
+        119,
+        127,
+        64,
+        33,
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "feeder",
-      "answer_letters": "FEEDER",
+      "answer": "falmouth",
+      "answer_letters": "FALMOUTH",
       "indices": [
         36,
-        134,
-        75,
-        48,
-        33,
-        91
+        31,
+        108,
+        61,
+        139,
+        140,
+        66,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "ashford",
-      "answer_letters": "ASHFORD",
+      "answer": "accompanied",
+      "answer_letters": "ACCOMPANIED",
       "indices": [
         16,
-        151,
-        0,
-        57,
+        3,
+        168,
         97,
-        173,
+        148,
+        137,
+        157,
+        5,
+        25,
+        113,
         117
       ]
     },
     {
       "clue": null,
-      "answer": "ensured",
-      "answer_letters": "ENSURED",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
       "indices": [
-        1,
-        13,
-        18,
-        8,
-        138,
-        99,
-        176
+        83,
+        176,
+        24,
+        4,
+        10,
+        22
       ]
     }
   ],

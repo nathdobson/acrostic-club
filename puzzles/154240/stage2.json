@@ -6,16 +6,231 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kannada",
-      "answer_letters": "KANNADA",
+      "answer": "kraków",
+      "answer_letters": "KRAKOW",
       "indices": [
         181,
+        175,
         2,
-        147,
-        43,
-        91,
+        31,
+        69,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insert",
+      "answer_letters": "INSERT",
+      "indices": [
+        36,
+        162,
+        166,
+        6,
+        46,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "roderick",
+      "answer_letters": "RODERICK",
+      "indices": [
+        120,
+        158,
         153,
-        61
+        113,
+        7,
+        32,
+        62,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "they've",
+      "answer_letters": "THEYVE",
+      "indices": [
+        15,
+        89,
+        94,
+        164,
+        5,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "innovation",
+      "answer_letters": "INNOVATION",
+      "indices": [
+        154,
+        33,
+        70,
+        16,
+        112,
+        182,
+        63,
+        57,
+        161,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "downloads",
+      "answer_letters": "DOWNLOADS",
+      "indices": [
+        13,
+        106,
+        0,
+        177,
+        129,
+        50,
+        40,
+        174,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assess",
+      "answer_letters": "ASSESS",
+      "indices": [
+        76,
+        114,
+        178,
+        103,
+        55,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "griffiths",
+      "answer_letters": "GRIFFITHS",
+      "indices": [
+        34,
+        139,
+        101,
+        11,
+        60,
+        67,
+        77,
+        1,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authorised",
+      "answer_letters": "AUTHORISED",
+      "indices": [
+        119,
+        167,
+        156,
+        18,
+        97,
+        95,
+        141,
+        96,
+        123,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "upheld",
+      "answer_letters": "UPHELD",
+      "indices": [
+        87,
+        93,
+        82,
+        12,
+        100,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
+        48,
+        150,
+        107,
+        127,
+        53,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        169,
+        159,
+        118,
+        28,
+        140,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "merely",
+      "answer_letters": "MERELY",
+      "indices": [
+        86,
+        151,
+        172,
+        143,
+        163,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        23,
+        104,
+        91,
+        9,
+        61,
+        122
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "automation",
+      "answer_letters": "AUTOMATION",
+      "indices": [
+        176,
+        128,
+        37,
+        73,
+        22,
+        186,
+        3,
+        19,
+        146,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mounted",
+      "answer_letters": "MOUNTED",
+      "indices": [
+        75,
+        83,
+        44,
+        98,
+        149,
+        4,
+        130
       ]
     },
     {
@@ -23,277 +238,62 @@
       "answer": "inputs",
       "answer_letters": "INPUTS",
       "indices": [
+        29,
+        147,
+        187,
+        173,
+        78,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "causing",
+      "answer_letters": "CAUSING",
+      "indices": [
+        88,
+        111,
+        117,
+        116,
         49,
         24,
-        93,
-        117,
-        134,
-        178
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "rushed",
-      "answer_letters": "RUSHED",
+      "answer": "archbishop",
+      "answer_letters": "ARCHBISHOP",
       "indices": [
-        120,
-        173,
-        104,
-        150,
-        12,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        15,
-        84,
-        133,
-        53,
-        140,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invest",
-      "answer_letters": "INVEST",
-      "indices": [
-        141,
-        162,
-        112,
-        143,
-        116,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "differ",
-      "answer_letters": "DIFFER",
-      "indices": [
-        174,
-        101,
-        60,
-        159,
-        123,
-        139
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adherents",
-      "answer_letters": "ADHERENTS",
-      "indices": [
-        76,
-        25,
-        184,
-        103,
-        110,
-        137,
-        30,
-        45,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gillingham",
-      "answer_letters": "GILLINGHAM",
-      "indices": [
-        118,
-        67,
-        100,
-        163,
-        19,
-        98,
-        168,
+        54,
+        80,
+        109,
+        179,
+        136,
+        47,
+        183,
         126,
-        186,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "authorship",
-      "answer_letters": "AUTHORSHIP",
-      "indices": [
-        111,
-        44,
-        156,
-        82,
-        83,
-        172,
-        114,
-        89,
-        36,
+        133,
         65
       ]
     },
     {
       "clue": null,
-      "answer": "unions",
-      "answer_letters": "UNIONS",
+      "answer": "northwestern",
+      "answer_letters": "NORTHWESTERN",
       "indices": [
-        87,
-        33,
-        154,
-        50,
-        70,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "therefore",
-      "answer_letters": "THEREFORE",
-      "indices": [
-        77,
-        122,
-        94,
-        7,
-        79,
-        11,
-        158,
-        107,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ashanti",
-      "answer_letters": "ASHANTI",
-      "indices": [
-        182,
-        96,
-        1,
-        119,
-        51,
-        149,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "murdoch",
-      "answer_letters": "MURDOCH",
-      "indices": [
-        86,
-        167,
-        46,
-        130,
-        16,
-        109,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhibitor",
-      "answer_letters": "INHIBITOR",
-      "indices": [
-        23,
-        72,
-        179,
-        9,
-        136,
-        47,
-        37,
-        127,
-        80
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "autopsy",
-      "answer_letters": "AUTOPSY",
-      "indices": [
-        169,
-        128,
-        3,
-        106,
-        187,
-        183,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "moscow",
-      "answer_letters": "MOSCOW",
-      "indices": [
-        75,
-        73,
-        166,
-        62,
-        146,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "investigator",
-      "answer_letters": "INVESTIGATOR",
-      "indices": [
-        29,
-        177,
-        5,
-        113,
-        125,
-        78,
-        32,
-        34,
-        40,
-        48,
-        69,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "choose",
-      "answer_letters": "CHOOSE",
-      "indices": [
-        88,
-        18,
-        161,
-        97,
-        55,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aleksandr",
-      "answer_letters": "ALEKSANDR",
-      "indices": [
-        54,
-        129,
-        151,
-        31,
-        142,
-        176,
-        58,
-        144,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "networks",
-      "answer_letters": "NETWORKS",
-      "indices": [
-        132,
-        155,
-        27,
-        39,
+        30,
         66,
+        110,
+        45,
+        184,
+        39,
+        137,
+        41,
+        27,
+        155,
         170,
-        102,
-        41
+        132
       ]
     }
   ],

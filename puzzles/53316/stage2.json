@@ -6,57 +6,15 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
+      "answer": "motown",
+      "answer_letters": "MOTOWN",
       "indices": [
         169,
         12,
-        142,
-        105,
+        175,
+        98,
         6,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "awaiting",
-      "answer_letters": "AWAITING",
-      "indices": [
-        147,
-        29,
-        77,
-        83,
-        9,
-        4,
-        8,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "regard",
-      "answer_letters": "REGARD",
-      "indices": [
-        189,
-        44,
-        167,
-        134,
-        53,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isolate",
-      "answer_letters": "ISOLATE",
-      "indices": [
-        36,
-        18,
-        41,
-        1,
-        73,
-        97,
-        21
+        144
       ]
     },
     {
@@ -64,253 +22,295 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
-        171,
-        149,
-        184,
-        166,
-        122,
-        141
+        182,
+        190,
+        20,
+        27,
+        74,
+        186
       ]
     },
     {
       "clue": null,
-      "answer": "emerge",
-      "answer_letters": "EMERGE",
+      "answer": "righteous",
+      "answer_letters": "RIGHTEOUS",
       "indices": [
-        85,
-        146,
-        153,
         193,
-        60,
+        88,
+        178,
+        165,
+        37,
+        59,
+        107,
+        185,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isabella",
+      "answer_letters": "ISABELLA",
+      "indices": [
+        127,
+        109,
+        73,
+        149,
+        21,
+        2,
+        78,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "auguste",
+      "answer_letters": "AUGUSTE",
+      "indices": [
+        147,
+        42,
+        167,
+        138,
+        123,
+        122,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embark",
+      "answer_letters": "EMBARK",
+      "indices": [
+        191,
+        146,
+        184,
+        7,
+        31,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "little",
+      "answer_letters": "LITTLE",
+      "indices": [
+        79,
+        17,
+        9,
+        24,
+        126,
         91
       ]
     },
     {
       "clue": null,
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
       "indices": [
-        108,
-        93,
-        112,
-        24,
-        68,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
-      "indices": [
-        191,
-        48,
-        32,
-        88,
-        37,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        64,
-        17,
-        178,
-        67,
-        186,
+        150,
+        141,
+        115,
+        47,
+        104,
         121
       ]
     },
     {
       "clue": null,
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
-        30,
-        2,
-        66,
-        119,
-        111,
-        138,
-        49,
-        115
+        92,
+        85,
+        81,
+        153,
+        168,
+        180
       ]
     },
     {
       "clue": null,
-      "answer": "elects",
-      "answer_letters": "ELECTS",
+      "answer": "afghanistan",
+      "answer_letters": "AFGHANISTAN",
       "indices": [
+        0,
+        112,
+        159,
+        119,
+        171,
+        94,
+        63,
+        33,
+        66,
+        45,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elegant",
+      "answer_letters": "ELEGANT",
+      "indices": [
+        188,
+        84,
         173,
+        60,
+        134,
+        64,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "together",
+      "answer_letters": "TOGETHER",
+      "indices": [
+        162,
+        163,
+        118,
+        68,
+        46,
+        82,
+        143,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        116,
         58,
+        87,
+        36,
+        166,
+        90,
+        114
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reggae",
+      "answer_letters": "REGGAE",
+      "indices": [
+        71,
+        55,
+        28,
+        49,
+        23,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        8,
         192,
-        155,
+        35,
         136,
+        120,
+        29,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anthology",
+      "answer_letters": "ANTHOLOGY",
+      "indices": [
+        105,
+        130,
+        97,
+        142,
+        41,
+        1,
+        111,
+        95,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "losses",
+      "answer_letters": "LOSSES",
+      "indices": [
+        108,
+        15,
+        18,
+        61,
+        72,
         139
       ]
     },
     {
       "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
-        46,
-        82,
-        163,
-        52,
-        118,
-        38,
-        100
+        40,
+        83,
+        14,
+        128,
+        4,
+        89,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "eating",
-      "answer_letters": "EATING",
+      "answer": "ortega",
+      "answer_letters": "ORTEGA",
       "indices": [
-        116,
-        0,
-        90,
-        47,
-        130,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reductions",
-      "answer_letters": "REDUCTIONS",
-      "indices": [
-        71,
-        102,
-        172,
-        42,
-        104,
-        175,
-        63,
-        98,
-        144,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        94,
-        179,
-        133,
-        165,
-        150,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "aggies",
-      "answer_letters": "AGGIES",
-      "indices": [
-        23,
-        95,
-        28,
-        127,
-        55,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "letters",
-      "answer_letters": "LETTERS",
-      "indices": [
-        78,
-        72,
-        114,
-        51,
-        188,
-        31,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellowstone",
-      "answer_letters": "YELLOWSTONE",
-      "indices": [
-        148,
-        143,
-        84,
-        79,
-        15,
-        152,
-        135,
-        187,
-        120,
-        157,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "orthogonal",
-      "answer_letters": "ORTHOGONAL",
-      "indices": [
-        160,
-        106,
-        11,
-        26,
-        107,
-        125,
-        27,
-        92,
-        7,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "u-boats",
-      "answer_letters": "UBOATS",
-      "indices": [
-        185,
-        20,
         176,
-        182,
-        162,
-        168
+        189,
+        187,
+        44,
+        131,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "tablets",
-      "answer_letters": "TABLETS",
+      "answer": "upright",
+      "answer_letters": "UPRIGHT",
       "indices": [
-        180,
-        45,
-        190,
-        87,
-        59,
-        74,
-        123
+        52,
+        133,
+        53,
+        93,
+        125,
+        26,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "highways",
-      "answer_letters": "HIGHWAYS",
+      "answer": "two-day",
+      "answer_letters": "TWODAY",
       "indices": [
-        101,
+        32,
+        152,
+        160,
+        172,
+        77,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "high-tech",
+      "answer_letters": "HIGHTECH",
+      "indices": [
+        38,
         129,
         70,
-        76,
-        81,
-        156,
-        40,
-        89
+        101,
+        100,
+        170,
+        155,
+        76
       ]
     }
   ],

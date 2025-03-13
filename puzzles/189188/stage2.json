@@ -6,113 +6,120 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mcintyre",
-      "answer_letters": "MCINTYRE",
+      "answer": "mysore",
+      "answer_letters": "MYSORE",
       "indices": [
         8,
-        154,
-        164,
-        58,
-        84,
         177,
+        132,
+        147,
         107,
         33
       ]
     },
     {
       "clue": null,
-      "answer": "edward",
-      "answer_letters": "EDWARD",
+      "answer": "enraged",
+      "answer_letters": "ENRAGED",
       "indices": [
-        24,
-        17,
-        152,
-        173,
-        165,
-        169
+        122,
+        172,
+        50,
+        48,
+        44,
+        45,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "rodney",
-      "answer_letters": "RODNEY",
+      "answer": "revisited",
+      "answer_letters": "REVISITED",
       "indices": [
         91,
-        147,
-        46,
-        110,
         184,
-        117
+        186,
+        18,
+        52,
+        138,
+        96,
+        181,
+        46
       ]
     },
     {
       "clue": null,
-      "answer": "convoy",
-      "answer_letters": "CONVOY",
+      "answer": "childhood",
+      "answer_letters": "CHILDHOOD",
       "indices": [
-        31,
-        71,
-        168,
-        105,
+        49,
+        1,
+        167,
+        156,
+        38,
+        162,
         51,
-        2
+        56,
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "episodes",
-      "answer_letters": "EPISODES",
+      "answer": "eruptions",
+      "answer_letters": "ERUPTIONS",
       "indices": [
         113,
+        185,
+        78,
         127,
-        18,
-        83,
-        130,
-        29,
-        122,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dynasty",
-      "answer_letters": "DYNASTY",
-      "indices": [
-        111,
-        61,
+        179,
+        170,
+        5,
         11,
-        74,
-        79,
-        32,
-        87
+        83
       ]
     },
     {
       "clue": null,
-      "answer": "eastwood",
-      "answer_letters": "EASTWOOD",
+      "answer": "dortmund",
+      "answer_letters": "DORTMUND",
       "indices": [
-        76,
-        10,
-        141,
-        129,
-        102,
-        143,
-        151,
+        40,
+        130,
+        158,
+        32,
+        73,
+        15,
+        110,
         160
       ]
     },
     {
       "clue": null,
-      "answer": "surveyed",
-      "answer_letters": "SURVEYED",
+      "answer": "estuary",
+      "answer_letters": "ESTUARY",
       "indices": [
-        53,
+        76,
+        79,
+        129,
+        57,
+        119,
+        165,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "suggested",
+      "answer_letters": "SUGGESTED",
+      "indices": [
+        120,
         64,
-        185,
-        186,
+        43,
+        135,
         101,
-        4,
+        115,
+        150,
         66,
         123
       ]
@@ -122,187 +129,180 @@
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
-        112,
+        176,
         90,
-        144,
+        99,
         121,
-        0,
+        102,
         14,
         104,
-        38
+        111
       ]
     },
     {
       "clue": null,
-      "answer": "aftermath",
-      "answer_letters": "AFTERMATH",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
       "indices": [
         42,
-        89,
-        70,
-        109,
-        158,
-        73,
+        183,
+        2,
+        0,
         36,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cyprus",
+      "answer_letters": "CYPRUS",
+      "indices": [
+        154,
+        68,
+        63,
+        41,
+        93,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kannada",
+      "answer_letters": "KANNADA",
+      "indices": [
+        145,
+        10,
+        174,
+        168,
+        74,
+        34,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evolution",
+      "answer_letters": "EVOLUTION",
+      "indices": [
+        187,
+        105,
+        143,
+        116,
+        6,
+        84,
+        164,
+        151,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yesterday",
+      "answer_letters": "YESTERDAY",
+      "indices": [
+        61,
+        106,
+        131,
+        70,
+        24,
+        60,
+        169,
+        173,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bottles",
+      "answer_letters": "BOTTLES",
+      "indices": [
+        28,
+        155,
         59,
+        21,
+        112,
+        109,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ashford",
+      "answer_letters": "ASHFORD",
+      "indices": [
+        81,
+        114,
+        180,
+        89,
+        71,
+        65,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sights",
+      "answer_letters": "SIGHTS",
+      "indices": [
+        94,
+        133,
+        171,
+        100,
+        25,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trough",
+      "answer_letters": "TROUGH",
+      "indices": [
+        175,
+        86,
+        97,
+        30,
+        23,
         142
       ]
     },
     {
       "clue": null,
-      "answer": "clashed",
-      "answer_letters": "CLASHED",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
       "indices": [
-        49,
-        176,
-        81,
-        52,
-        100,
-        181,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kapoor",
-      "answer_letters": "KAPOOR",
-      "indices": [
-        145,
-        48,
-        125,
-        56,
-        155,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eucalyptus",
-      "answer_letters": "EUCALYPTUS",
-      "indices": [
-        187,
-        6,
-        99,
-        119,
-        116,
-        68,
-        63,
-        96,
-        93,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
-      "indices": [
-        13,
-        97,
-        15,
-        179,
-        1,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bought",
-      "answer_letters": "BOUGHT",
-      "indices": [
-        28,
-        85,
-        78,
-        44,
-        162,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ascended",
-      "answer_letters": "ASCENDED",
-      "indices": [
-        27,
-        114,
-        55,
-        45,
-        174,
-        19,
-        106,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "slough",
-      "answer_letters": "SLOUGH",
-      "indices": [
-        139,
-        156,
-        5,
-        57,
-        171,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "trunks",
-      "answer_letters": "TRUNKS",
-      "indices": [
-        21,
-        65,
-        30,
-        172,
-        75,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interfering",
-      "answer_letters": "INTERFERING",
-      "indices": [
-        138,
-        183,
-        150,
-        9,
-        50,
-        148,
-        159,
-        60,
-        170,
+        126,
         134,
-        43
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "original",
-      "answer_letters": "ORIGINAL",
-      "indices": [
-        157,
-        86,
-        133,
-        135,
-        167,
-        20,
+        148,
         163,
-        67
+        20,
+        144,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "answer": "o'clock",
+      "answer_letters": "OCLOCK",
+      "indices": [
+        85,
+        55,
+        67,
+        157,
+        31,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
         37,
-        126,
-        23,
+        9,
+        125,
         137,
-        175,
-        115
+        159,
+        152
       ]
     }
   ],

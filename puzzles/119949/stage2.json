@@ -6,90 +6,88 @@
   "clues": [
     {
       "clue": null,
-      "answer": "boyfriend",
-      "answer_letters": "BOYFRIEND",
+      "answer": "backdrop",
+      "answer_letters": "BACKDROP",
       "indices": [
         35,
-        167,
-        100,
-        41,
+        106,
+        178,
+        137,
+        64,
         169,
-        75,
-        18,
-        6,
-        64
+        167,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "adjusted",
-      "answer_letters": "ADJUSTED",
+      "answer": "although",
+      "answer_letters": "ALTHOUGH",
       "indices": [
-        56,
-        157,
-        90,
+        28,
+        104,
+        70,
+        17,
+        101,
         168,
-        107,
-        93,
-        105,
-        88
+        129,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "newport",
-      "answer_letters": "NEWPORT",
+      "answer": "nemesis",
+      "answer_letters": "NEMESIS",
       "indices": [
         163,
-        110,
-        95,
-        73,
-        132,
-        83,
-        77
+        18,
+        55,
+        149,
+        29,
+        75,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
+      "answer": "attitudes",
+      "answer_letters": "ATTITUDES",
       "indices": [
-        42,
-        156,
-        48,
-        16,
         160,
-        142
+        77,
+        115,
+        127,
+        120,
+        144,
+        117,
+        110,
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "nautical",
-      "answer_letters": "NAUTICAL",
+      "answer": "narrow",
+      "answer_letters": "NARROW",
       "indices": [
         139,
-        47,
-        62,
-        7,
-        127,
-        178,
-        33,
-        104
+        173,
+        174,
+        34,
+        81,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "archduke",
-      "answer_letters": "ARCHDUKE",
+      "answer": "author",
+      "answer_letters": "AUTHOR",
       "indices": [
-        173,
-        43,
-        147,
+        42,
+        62,
+        7,
         123,
-        117,
-        144,
-        137,
-        149
+        132,
+        43
       ]
     },
     {
@@ -97,206 +95,208 @@
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
-        80,
+        48,
         143,
         72,
-        115,
+        11,
         96,
-        29
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "okinawa",
-      "answer_letters": "OKINAWA",
+      "answer": "one-way",
+      "answer_letters": "ONEWAY",
       "indices": [
         38,
-        126,
-        86,
-        31,
-        10,
+        76,
+        105,
         46,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sirius",
-      "answer_letters": "SIRIUS",
-      "indices": [
-        122,
-        54,
-        14,
-        138,
-        155,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "high-tech",
-      "answer_letters": "HIGHTECH",
-      "indices": [
-        20,
-        68,
-        164,
-        148,
-        12,
-        25,
-        125,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "integer",
-      "answer_letters": "INTEGER",
-      "indices": [
-        119,
-        128,
-        19,
-        32,
-        129,
-        58,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mighty",
-      "answer_letters": "MIGHTY",
-      "indices": [
-        9,
-        51,
-        140,
-        50,
-        175,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "optimum",
-      "answer_letters": "OPTIMUM",
-      "indices": [
-        78,
-        153,
-        70,
-        162,
-        85,
-        91,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "toward",
-      "answer_letters": "TOWARD",
-      "indices": [
-        151,
-        154,
-        27,
-        136,
-        145,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "orkney",
-      "answer_letters": "ORKNEY",
-      "indices": [
-        124,
-        22,
-        161,
-        87,
-        180,
+        10,
         36
       ]
     },
     {
       "clue": null,
-      "answer": "armory",
-      "answer_letters": "ARMORY",
+      "answer": "sitting",
+      "answer_letters": "SITTING",
       "indices": [
-        106,
-        174,
-        55,
-        81,
-        34,
+        52,
+        138,
+        151,
+        93,
+        0,
+        98,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hickory",
+      "answer_letters": "HICKORY",
+      "indices": [
+        20,
+        51,
+        147,
+        161,
+        61,
+        39,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "injury",
+      "answer_letters": "INJURY",
+      "indices": [
+        162,
+        87,
+        90,
+        102,
+        145,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "magnitude",
+      "answer_letters": "MAGNITUDE",
+      "indices": [
+        135,
+        136,
+        164,
+        128,
+        86,
+        19,
+        133,
+        157,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        78,
+        31,
+        58,
+        154,
+        41,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "triumph",
+      "answer_letters": "TRIUMPH",
+      "indices": [
+        175,
+        14,
+        54,
+        91,
+        159,
+        153,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-third",
+      "answer_letters": "ONETHIRD",
+      "indices": [
+        124,
+        156,
+        180,
+        12,
+        24,
+        68,
+        83,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        47,
+        6,
+        100,
+        95,
+        33,
         131
       ]
     },
     {
       "clue": null,
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
+      "answer": "swimmer",
+      "answer_letters": "SWIMMER",
       "indices": [
-        92,
-        24,
-        102,
-        120,
-        61,
-        133,
-        11
+        150,
+        27,
+        119,
+        9,
+        85,
+        25,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "left-wing",
-      "answer_letters": "LEFTWING",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
         63,
         113,
-        69,
-        108,
-        60,
-        0,
-        76,
-        57
+        171,
+        4,
+        57,
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "answer": "educated",
+      "answer_letters": "EDUCATED",
       "indices": [
-        13,
-        114,
-        179,
-        101,
         21,
+        3,
+        82,
+        114,
+        56,
+        1,
+        97,
         5
       ]
     },
     {
       "clue": null,
-      "answer": "exhausted",
-      "answer_letters": "EXHAUSTED",
+      "answer": "executed",
+      "answer_letters": "EXECUTED",
       "indices": [
         116,
         111,
-        171,
-        177,
-        82,
-        52,
-        1,
         172,
-        3
+        125,
+        155,
+        108,
+        13,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "permian",
-      "answer_letters": "PERMIAN",
+      "answer": "parkway",
+      "answer_letters": "PARKWAY",
       "indices": [
         112,
-        97,
+        177,
         67,
-        159,
-        4,
+        126,
+        60,
         45,
-        98
+        166
       ]
     }
   ],

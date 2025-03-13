@@ -6,201 +6,182 @@
   "clues": [
     {
       "clue": null,
-      "answer": "version",
-      "answer_letters": "VERSION",
+      "answer": "vaughn",
+      "answer_letters": "VAUGHN",
       "indices": [
         112,
-        144,
-        87,
-        103,
-        180,
-        46,
+        55,
+        47,
+        31,
+        36,
         181
       ]
     },
     {
       "clue": null,
-      "answer": "events",
-      "answer_letters": "EVENTS",
+      "answer": "enlist",
+      "answer_letters": "ENLIST",
       "indices": [
-        161,
-        164,
-        140,
+        148,
         58,
-        129,
-        42
+        106,
+        155,
+        126,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "result",
-      "answer_letters": "RESULT",
+      "answer": "relative",
+      "answer_letters": "RELATIVE",
       "indices": [
         187,
-        134,
-        14,
-        4,
-        29,
-        153
+        163,
+        110,
+        100,
+        104,
+        159,
+        164,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "orphan",
-      "answer_letters": "ORPHAN",
-      "indices": [
-        26,
-        23,
-        136,
-        75,
-        3,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        172,
-        76,
-        70,
-        124,
-        27,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "immaculate",
-      "answer_letters": "IMMACULATE",
-      "indices": [
-        68,
-        101,
-        95,
-        138,
-        40,
-        64,
-        107,
-        109,
-        43,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "cavendish",
-      "answer_letters": "CAVENDISH",
-      "indices": [
-        177,
-        37,
-        149,
-        150,
-        121,
-        92,
-        98,
-        60,
-        51
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "asking",
-      "answer_letters": "ASKING",
-      "indices": [
-        84,
-        44,
-        57,
-        73,
-        169,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "racist",
-      "answer_letters": "RACIST",
-      "indices": [
-        56,
-        184,
-        139,
-        111,
-        175,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overturned",
-      "answer_letters": "OVERTURNED",
+      "answer": "output",
+      "answer_letters": "OUTPUT",
       "indices": [
         178,
-        116,
-        88,
-        151,
-        13,
-        47,
-        145,
-        91,
-        52,
-        10
+        4,
+        123,
+        185,
+        64,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "twenty-three",
-      "answer_letters": "TWENTYTHREE",
+      "answer": "nissan",
+      "answer_letters": "NISSAN",
       "indices": [
-        188,
-        142,
+        172,
+        73,
+        44,
+        61,
+        84,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inherited",
+      "answer_letters": "INHERITED",
+      "indices": [
+        120,
+        169,
+        154,
+        59,
+        166,
+        174,
+        43,
         80,
-        118,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "claims",
+      "answer_letters": "CLAIMS",
+      "indices": [
+        139,
+        16,
+        131,
+        90,
+        179,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aesthetic",
+      "answer_letters": "AESTHETIC",
+      "indices": [
+        109,
+        96,
+        42,
+        27,
+        124,
+        165,
+        188,
+        68,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reviews",
+      "answer_letters": "REVIEWS",
+      "indices": [
+        56,
+        52,
+        116,
+        180,
+        150,
+        171,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outing",
+      "answer_letters": "OUTING",
+      "indices": [
+        46,
+        18,
+        85,
+        0,
+        9,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "timothy",
+      "answer_letters": "TIMOTHY",
+      "indices": [
         50,
-        152,
+        76,
+        95,
+        170,
         48,
         20,
-        166,
-        96,
-        165
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "answer": "harding",
+      "answer_letters": "HARDING",
       "indices": [
         6,
-        115,
-        72,
-        125,
-        33,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anglia",
-      "answer_letters": "ANGLIA",
-      "indices": [
         8,
-        156,
-        19,
-        66,
-        155,
-        41
+        130,
+        10,
+        105,
+        132,
+        5
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "adolph",
+      "answer_letters": "ADOLPH",
       "indices": [
-        106,
-        163,
-        143,
-        174,
-        157,
-        83
+        41,
+        67,
+        26,
+        29,
+        136,
+        32
       ]
     },
     {
@@ -210,100 +191,119 @@
       "indices": [
         2,
         186,
-        168,
-        126,
-        32,
-        179,
-        120
+        57,
+        14,
+        83,
+        101,
+        125
       ]
     },
     {
       "clue": null,
-      "answer": "establishing",
-      "answer_letters": "ESTABLISHING",
+      "answer": "length",
+      "answer_letters": "LENGTH",
       "indices": [
-        146,
-        128,
-        21,
-        55,
-        63,
-        137,
-        0,
-        93,
-        36,
-        12,
+        66,
+        140,
+        156,
+        133,
+        129,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enlargement",
+      "answer_letters": "ENLARGEMENT",
+      "indices": [
+        144,
         69,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        5,
-        170,
-        148,
-        35,
-        154,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invalid",
-      "answer_letters": "INVALID",
-      "indices": [
-        90,
-        25,
-        160,
-        131,
-        16,
-        30,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "amplitude",
-      "answer_letters": "AMPLITUDE",
-      "indices": [
-        100,
-        89,
-        185,
-        110,
-        159,
-        38,
-        18,
-        54,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "naming",
-      "answer_letters": "NAMING",
-      "indices": [
-        9,
-        17,
+        137,
+        184,
+        87,
+        182,
+        146,
         79,
-        65,
-        77,
-        182
+        88,
+        91,
+        21
       ]
     },
     {
       "clue": null,
-      "answer": "twitter",
-      "answer_letters": "TWITTER",
+      "answer": "gabled",
+      "answer_letters": "GABLED",
       "indices": [
-        74,
-        171,
-        105,
-        104,
-        123,
+        70,
+        138,
+        63,
+        107,
+        22,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "interviewing",
+      "answer_letters": "INTERVIEWING",
+      "indices": [
+        12,
+        25,
+        38,
         113,
-        130
+        145,
+        160,
+        111,
+        115,
+        142,
+        65,
+        121,
+        157
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "activists",
+      "answer_letters": "ACTIVISTS",
+      "indices": [
+        37,
+        177,
+        153,
+        30,
+        149,
+        98,
+        93,
+        74,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newmarket",
+      "answer_letters": "NEWMARKET",
+      "indices": [
+        77,
+        117,
+        72,
+        89,
+        17,
+        151,
+        168,
+        134,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thrash",
+      "answer_letters": "THRASH",
+      "indices": [
+        82,
+        51,
+        23,
+        3,
+        60,
+        75
       ]
     }
   ],

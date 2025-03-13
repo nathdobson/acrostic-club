@@ -6,295 +6,295 @@
   "clues": [
     {
       "clue": null,
-      "answer": "assessed",
-      "answer_letters": "ASSESSED",
+      "answer": "affects",
+      "answer_letters": "AFFECTS",
       "indices": [
-        172,
-        50,
-        6,
-        57,
-        118,
-        27,
-        180,
-        40
+        25,
+        129,
+        31,
+        157,
+        58,
+        125,
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "nowadays",
-      "answer_letters": "NOWADAYS",
+      "answer": "netted",
+      "answer_letters": "NETTED",
       "indices": [
         173,
-        161,
-        4,
-        59,
-        73,
-        86,
-        44,
-        151
+        163,
+        75,
+        8,
+        36,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "notably",
-      "answer_letters": "NOTABLY",
+      "answer": "nassau",
+      "answer_letters": "NASSAU",
       "indices": [
         141,
-        43,
-        71,
         81,
-        42,
-        11,
-        89
+        99,
+        107,
+        172,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
       "indices": [
         127,
         148,
         121,
         62,
         85,
-        135,
-        97
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "humber",
-      "answer_letters": "HUMBER",
+      "answer": "hometown",
+      "answer_letters": "HOMETOWN",
       "indices": [
-        51,
-        60,
-        169,
-        38,
-        79,
-        82
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        117,
-        56,
-        114,
-        92,
-        98,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norwood",
-      "answer_letters": "NORWOOD",
-      "indices": [
-        156,
-        34,
-        54,
-        68,
-        53,
-        122,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shores",
-      "answer_letters": "SHORES",
-      "indices": [
-        0,
         65,
-        152,
-        131,
-        170,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "embodied",
-      "answer_letters": "EMBODIED",
-      "indices": [
-        47,
-        19,
-        22,
         76,
-        109,
-        49,
-        20,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        87,
+        19,
         72,
-        178,
-        23,
-        61,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "freedom",
-      "answer_letters": "FREEDOM",
-      "indices": [
-        31,
-        17,
-        106,
-        154,
-        174,
-        14,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "immersed",
-      "answer_letters": "IMMERSED",
-      "indices": [
-        130,
-        35,
-        137,
-        163,
-        105,
-        33,
-        36,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nelson",
-      "answer_letters": "NELSON",
-      "indices": [
-        111,
-        138,
-        12,
-        64,
-        155,
+        98,
+        34,
+        4,
         7
       ]
     },
     {
       "clue": null,
-      "answer": "activated",
-      "answer_letters": "ACTIVATED",
+      "answer": "ashore",
+      "answer_letters": "ASHORE",
+      "indices": [
+        96,
+        119,
+        126,
+        53,
+        131,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nebraska",
+      "answer_letters": "NEBRASKA",
+      "indices": [
+        156,
+        154,
+        22,
+        123,
+        117,
+        6,
+        162,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "seeded",
+      "answer_letters": "SEEDED",
+      "indices": [
+        103,
+        170,
+        47,
+        164,
+        20,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "editors",
+      "answer_letters": "EDITORS",
+      "indices": [
+        106,
+        174,
+        100,
+        167,
+        14,
+        17,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nairobi",
+      "answer_letters": "NAIROBI",
+      "indices": [
+        87,
+        5,
+        140,
+        54,
+        122,
+        114,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "forbes",
+      "answer_letters": "FORBES",
+      "indices": [
+        46,
+        43,
+        105,
+        42,
+        57,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "immediate",
+      "answer_letters": "IMMEDIATE",
+      "indices": [
+        136,
+        35,
+        137,
+        102,
+        116,
+        130,
+        86,
+        71,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "november",
+      "answer_letters": "NOVEMBER",
+      "indices": [
+        111,
+        160,
+        15,
+        138,
+        169,
+        56,
+        95,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assembled",
+      "answer_letters": "ASSEMBLED",
       "indices": [
         115,
-        58,
-        48,
-        140,
-        15,
-        166,
-        112,
+        132,
+        64,
         16,
+        83,
+        38,
+        12,
+        2,
         101
       ]
     },
     {
       "clue": null,
-      "answer": "lifetime",
-      "answer_letters": "LIFETIME",
+      "answer": "lyceum",
+      "answer_letters": "LYCEUM",
       "indices": [
         159,
-        147,
-        91,
+        89,
+        24,
         149,
-        75,
-        136,
-        153,
-        102
+        26,
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "leases",
-      "answer_letters": "LEASES",
+      "answer": "losses",
+      "answer_letters": "LOSSES",
       "indices": [
         146,
-        157,
-        25,
-        99,
+        30,
+        33,
+        151,
         28,
-        107
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "yoruba",
-      "answer_letters": "YORUBA",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
       "indices": [
         144,
-        30,
-        123,
-        26,
-        78,
-        69
+        69,
+        153,
+        39,
+        1,
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "matches",
-      "answer_letters": "MATCHES",
+      "answer": "modify",
+      "answer_letters": "MODIFY",
       "indices": [
         143,
-        39,
-        8,
-        24,
-        1,
-        110,
-        176
+        161,
+        40,
+        147,
+        91,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "answer": "isabel",
+      "answer_letters": "ISABEL",
       "indices": [
-        100,
-        103,
-        10,
         108,
+        27,
         177,
-        126
+        78,
+        180,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "namesake",
-      "answer_letters": "NAMESAKE",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
         70,
-        96,
-        83,
-        2,
-        132,
-        5,
-        162,
-        66
+        155,
+        93,
+        48,
+        51,
+        178,
+        66,
+        61,
+        112
       ]
     },
     {
       "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
+      "answer": "eastwood",
+      "answer_letters": "EASTWOOD",
       "indices": [
-        95,
-        46,
-        129,
-        160,
-        93,
-        133
+        79,
+        166,
+        0,
+        133,
+        68,
+        92,
+        152,
+        109
       ]
     }
   ],

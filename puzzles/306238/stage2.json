@@ -6,114 +6,110 @@
   "clues": [
     {
       "clue": null,
-      "answer": "netted",
-      "answer_letters": "NETTED",
+      "answer": "nikolay",
+      "answer_letters": "NIKOLAY",
       "indices": [
         103,
-        150,
-        55,
-        177,
-        95,
-        97
+        178,
+        49,
+        35,
+        83,
+        143,
+        157
       ]
     },
     {
       "clue": null,
-      "answer": "octagonal",
-      "answer_letters": "OCTAGONAL",
-      "indices": [
-        41,
-        75,
-        113,
-        62,
-        119,
-        23,
-        89,
-        66,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remade",
-      "answer_letters": "REMADE",
-      "indices": [
-        32,
-        102,
-        72,
-        38,
-        18,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adventist",
-      "answer_letters": "ADVENTIST",
-      "indices": [
-        48,
-        175,
-        101,
-        180,
-        63,
-        8,
-        0,
-        106,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ruined",
-      "answer_letters": "RUINED",
-      "indices": [
-        128,
-        105,
-        118,
-        44,
-        165,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlawed",
-      "answer_letters": "OUTLAWED",
+      "answer": "outward",
+      "answer_letters": "OUTWARD",
       "indices": [
         154,
-        159,
-        173,
-        107,
-        139,
+        31,
+        146,
         52,
-        174,
+        26,
+        160,
         70
       ]
     },
     {
       "clue": null,
-      "answer": "beauty",
-      "answer_letters": "BEAUTY",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
-        117,
-        121,
-        26,
-        31,
-        146,
-        132
+        99,
+        138,
+        132,
+        177,
+        29,
+        179,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "esther",
-      "answer_letters": "ESTHER",
+      "answer": "asthma",
+      "answer_letters": "ASTHMA",
       "indices": [
+        62,
+        106,
+        113,
+        53,
+        72,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "revenue",
+      "answer_letters": "REVENUE",
+      "indices": [
+        32,
+        174,
+        101,
+        180,
+        63,
+        105,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        58,
+        45,
+        8,
+        139,
+        170,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ballot",
+      "answer_letters": "BALLOT",
+      "indices": [
+        117,
+        38,
+        107,
+        136,
+        41,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        126,
+        155,
+        164,
         86,
-        12,
-        64,
-        29,
-        141,
-        111
+        75,
+        130
       ]
     },
     {
@@ -121,78 +117,78 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        125,
+        128,
         147,
         57,
-        45,
+        24,
         114,
         42
       ]
     },
     {
       "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
+      "answer": "toulon",
+      "answer_letters": "TOULON",
       "indices": [
-        144,
-        61,
+        78,
         158,
-        10,
-        16,
-        92
+        59,
+        135,
+        104,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "statute",
-      "answer_letters": "STATUTE",
+      "answer": "sewage",
+      "answer_letters": "SEWAGE",
       "indices": [
         168,
-        36,
+        141,
+        2,
         71,
-        13,
-        134,
-        130,
+        120,
         14
       ]
     },
     {
       "clue": null,
-      "answer": "guinea",
-      "answer_letters": "GUINEA",
+      "answer": "ground",
+      "answer_letters": "GROUND",
       "indices": [
-        127,
-        59,
-        178,
-        73,
+        119,
+        111,
+        91,
+        77,
+        89,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
+      "indices": [
         88,
-        11
+        27,
+        68,
+        110,
+        10,
+        115,
+        97
       ]
     },
     {
       "clue": null,
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
+      "answer": "navajo",
+      "answer_letters": "NAVAJO",
       "indices": [
-        126,
-        162,
-        163,
-        90,
-        143,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "norway",
-      "answer_letters": "NORWAY",
-      "indices": [
-        151,
-        80,
-        160,
-        2,
+        34,
+        11,
+        85,
         19,
-        108
+        90,
+        133
       ]
     },
     {
@@ -200,93 +196,97 @@
       "answer": "umayyad",
       "answer_letters": "UMAYYAD",
       "indices": [
-        77,
-        179,
+        134,
+        40,
         100,
-        157,
-        20,
+        92,
+        108,
         54,
-        68
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "infant",
-      "answer_letters": "INFANT",
-      "indices": [
-        79,
-        27,
-        164,
-        171,
-        81,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newton",
-      "answer_letters": "NEWTON",
-      "indices": [
-        22,
-        50,
-        170,
-        123,
-        58,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "english",
-      "answer_letters": "ENGLISH",
-      "indices": [
-        115,
-        34,
-        120,
-        83,
-        167,
-        122,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lookout",
-      "answer_letters": "LOOKOUT",
-      "indices": [
-        5,
-        133,
-        35,
-        49,
-        110,
-        4,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inform",
-      "answer_letters": "INFORM",
+      "answer": "initiate",
+      "answer_letters": "INITIATE",
       "indices": [
         84,
-        7,
-        155,
-        91,
-        99,
-        40
+        81,
+        163,
+        36,
+        79,
+        171,
+        13,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "evolve",
-      "answer_letters": "EVOLVE",
+      "answer": "nutrient",
+      "answer_letters": "NUTRIENT",
       "indices": [
-        148,
-        85,
-        30,
-        135,
+        22,
+        159,
+        123,
+        125,
+        0,
+        50,
+        67,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eugene",
+      "answer_letters": "EUGENE",
+      "indices": [
+        129,
+        4,
+        127,
+        102,
+        73,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lively",
+      "answer_letters": "LIVELY",
+      "indices": [
+        162,
+        167,
         140,
-        129
+        150,
+        5,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intent",
+      "answer_letters": "INTENT",
+      "indices": [
+        118,
+        151,
+        47,
+        43,
+        7,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastwood",
+      "answer_letters": "EASTWOOD",
+      "indices": [
+        121,
+        16,
+        172,
+        55,
+        61,
+        23,
+        30,
+        175
       ]
     },
     {
@@ -294,13 +294,13 @@
       "answer": "seafood",
       "answer_letters": "SEAFOOD",
       "indices": [
-        172,
-        43,
+        12,
+        148,
         76,
         94,
-        104,
         3,
-        152
+        80,
+        6
       ]
     }
   ],

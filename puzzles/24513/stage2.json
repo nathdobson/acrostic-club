@@ -6,258 +6,18 @@
   "clues": [
     {
       "clue": null,
-      "answer": "phoebe",
-      "answer_letters": "PHOEBE",
+      "answer": "pamphlets",
+      "answer_letters": "PAMPHLETS",
       "indices": [
+        114,
+        176,
+        14,
         146,
         99,
-        42,
-        39,
-        117,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "encounter",
-      "answer_letters": "ENCOUNTER",
-      "indices": [
-        26,
-        54,
-        22,
-        1,
-        170,
-        101,
+        46,
+        149,
         33,
-        167,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
-      "indices": [
-        13,
-        71,
-        0,
-        185,
-        57,
-        98,
-        12,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chased",
-      "answer_letters": "CHASED",
-      "indices": [
-        106,
-        20,
-        73,
-        159,
-        47,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "environmental",
-      "answer_letters": "ENVIRONMENTAL",
-      "indices": [
-        193,
-        51,
-        192,
-        157,
-        137,
-        16,
-        129,
-        14,
-        88,
-        82,
-        48,
-        176,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goodbye",
-      "answer_letters": "GOODBYE",
-      "indices": [
-        102,
-        68,
-        34,
-        41,
-        182,
-        134,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yarmouth",
-      "answer_letters": "YARMOUTH",
-      "indices": [
-        52,
-        128,
-        118,
-        96,
-        29,
-        69,
-        44,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "propagation",
-      "answer_letters": "PROPAGATION",
-      "indices": [
-        2,
-        11,
-        187,
-        145,
-        183,
-        31,
-        144,
-        74,
-        100,
-        133,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showing",
-      "answer_letters": "SHOWING",
-      "indices": [
-        94,
-        143,
-        53,
-        25,
-        147,
-        120,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
-      "indices": [
-        76,
-        59,
-        184,
-        162,
-        191,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sabbath",
-      "answer_letters": "SABBATH",
-      "indices": [
-        150,
-        107,
-        104,
-        178,
-        81,
-        62,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offerings",
-      "answer_letters": "OFFERINGS",
-      "indices": [
-        77,
-        188,
-        17,
-        105,
-        92,
-        166,
-        148,
-        140,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unpaid",
-      "answer_letters": "UNPAID",
-      "indices": [
-        108,
-        139,
-        171,
-        161,
-        119,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "livelihood",
-      "answer_letters": "LIVELIHOOD",
-      "indices": [
-        190,
-        173,
-        38,
-        55,
-        28,
-        5,
-        85,
-        91,
-        86,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "self-taught",
-      "answer_letters": "SELFTAUGHT",
-      "indices": [
-        151,
-        3,
-        64,
-        90,
-        158,
-        37,
-        78,
-        121,
-        23,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dispatch",
-      "answer_letters": "DISPATCH",
-      "indices": [
-        130,
-        138,
-        6,
-        114,
-        50,
-        165,
-        80,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoys",
-      "answer_letters": "ENJOYS",
-      "indices": [
-        115,
-        43,
-        124,
-        113,
-        67,
-        109
+        6
       ]
     },
     {
@@ -265,29 +25,269 @@
       "answer": "enjoyable",
       "answer_letters": "ENJOYABLE",
       "indices": [
-        63,
-        174,
-        132,
-        95,
-        126,
-        153,
-        136,
-        163,
-        110
+        167,
+        101,
+        124,
+        42,
+        52,
+        50,
+        117,
+        28,
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "pavilion",
-      "answer_letters": "PAVILION",
+      "answer": "absorb",
+      "answer_letters": "ABSORB",
+      "indices": [
+        153,
+        136,
+        159,
+        68,
+        11,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "childhood",
+      "answer_letters": "CHILDHOOD",
+      "indices": [
+        106,
+        20,
+        166,
+        65,
+        168,
+        23,
+        34,
+        191,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
+      "indices": [
+        26,
+        48,
+        72,
+        161,
+        54,
+        1,
+        190
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "genealogical",
+      "answer_letters": "GENEALOGICAL",
+      "indices": [
+        102,
+        12,
+        30,
+        47,
+        13,
+        163,
+        133,
+        31,
+        119,
+        80,
+        73,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yoruba",
+      "answer_letters": "YORUBA",
+      "indices": [
+        67,
+        91,
+        92,
+        78,
+        104,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "plight",
+      "answer_letters": "PLIGHT",
+      "indices": [
+        145,
+        162,
+        5,
+        121,
+        112,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "subjects",
+      "answer_letters": "SUBJECTS",
+      "indices": [
+        122,
+        170,
+        178,
+        132,
+        193,
+        22,
+        165,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yeovil",
+      "answer_letters": "YEOVIL",
+      "indices": [
+        126,
+        115,
+        29,
+        38,
+        173,
+        184
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sympathy",
+      "answer_letters": "SYMPATHY",
+      "indices": [
+        150,
+        134,
+        96,
+        171,
+        37,
+        158,
+        143,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orientation",
+      "answer_letters": "ORIENTATION",
+      "indices": [
+        86,
+        137,
+        138,
+        59,
+        139,
+        83,
+        128,
+        44,
+        157,
+        53,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uneven",
+      "answer_letters": "UNEVEN",
+      "indices": [
+        69,
+        51,
+        3,
+        192,
+        105,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        64,
+        108,
+        90,
+        62,
+        19,
+        107,
+        188,
+        17,
+        55
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "season-high",
+      "answer_letters": "SEASONHIGH",
+      "indices": [
+        109,
+        97,
+        183,
+        151,
+        77,
+        148,
+        36,
+        147,
+        140,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "downgraded",
+      "answer_letters": "DOWNGRADED",
+      "indices": [
+        155,
+        16,
+        25,
+        82,
+        180,
+        60,
+        81,
+        10,
+        88,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everton",
+      "answer_letters": "EVERTON",
+      "indices": [
+        110,
+        58,
+        57,
+        118,
+        98,
+        187,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        63,
+        71,
+        0,
+        21,
+        113,
+        2,
+        100,
+        8,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "poison",
+      "answer_letters": "POISON",
       "indices": [
         87,
-        8,
-        58,
-        179,
-        65,
-        21,
         125,
+        179,
+        141,
+        95,
         154
       ]
     }

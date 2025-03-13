@@ -6,60 +6,12 @@
   "clues": [
     {
       "clue": null,
-      "answer": "dublin",
-      "answer_letters": "DUBLIN",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         9,
-        42,
-        39,
-        50,
+        3,
         129,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "afrikaans",
-      "answer_letters": "AFRIKAANS",
-      "indices": [
-        93,
-        45,
-        97,
-        103,
-        14,
-        151,
-        99,
-        166,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "negotiation",
-      "answer_letters": "NEGOTIATION",
-      "indices": [
-        21,
-        73,
-        149,
-        125,
-        182,
-        136,
-        117,
-        30,
-        44,
-        23,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insight",
-      "answer_letters": "INSIGHT",
-      "indices": [
-        68,
-        148,
-        81,
-        79,
         122,
         72,
         43
@@ -67,122 +19,168 @@
     },
     {
       "clue": null,
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
+      "answer": "atomic",
+      "answer_letters": "ATOMIC",
+      "indices": [
+        93,
+        61,
+        170,
+        92,
+        103,
+        16
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "narrator",
+      "answer_letters": "NARRATOR",
+      "indices": [
+        69,
+        99,
+        7,
+        11,
+        4,
+        119,
+        12,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhibit",
+      "answer_letters": "INHIBIT",
+      "indices": [
+        68,
+        18,
+        154,
+        79,
+        39,
+        140,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kraków",
+      "answer_letters": "KRAKOW",
       "indices": [
         78,
-        46,
-        116,
+        85,
         17,
-        162,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "almost",
-      "answer_letters": "ALMOST",
-      "indices": [
-        41,
-        164,
-        34,
-        65,
-        152,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "stockton",
-      "answer_letters": "STOCKTON",
-      "indices": [
-        36,
-        169,
-        133,
-        52,
-        175,
-        110,
+        14,
         173,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authors",
+      "answer_letters": "AUTHORS",
+      "indices": [
+        60,
+        46,
+        141,
+        88,
+        65,
+        97,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "saloon",
+      "answer_letters": "SALOON",
+      "indices": [
+        152,
+        151,
+        164,
+        20,
+        125,
         137
       ]
     },
     {
       "clue": null,
-      "answer": "throws",
-      "answer_letters": "THROWS",
+      "answer": "toilet",
+      "answer_letters": "TOILET",
       "indices": [
-        61,
-        31,
-        85,
-        170,
-        59,
-        54
+        182,
+        23,
+        136,
+        172,
+        73,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
+      "answer": "organic",
+      "answer_letters": "ORGANIC",
       "indices": [
         27,
-        124,
-        135,
+        126,
+        167,
+        143,
+        100,
+        165,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notation",
+      "answer_letters": "NOTATION",
+      "indices": [
+        57,
+        174,
+        95,
+        41,
+        169,
+        118,
+        133,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
+      "indices": [
+        8,
+        117,
+        159,
+        37,
+        116,
+        40,
         108,
-        32,
         132
       ]
     },
     {
       "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
       "indices": [
-        121,
-        53,
-        49,
-        88,
-        96,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        25,
+        32,
+        45,
         28,
-        83,
-        178,
-        75,
-        37
+        112,
+        77,
+        90,
+        36
       ]
     },
     {
       "clue": null,
-      "answer": "estonia",
-      "answer_letters": "ESTONIA",
-      "indices": [
-        62,
-        159,
-        64,
-        147,
-        66,
-        165,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "doctor",
-      "answer_letters": "DOCTOR",
+      "answer": "donors",
+      "answer_letters": "DONORS",
       "indices": [
         138,
-        12,
-        13,
-        90,
         35,
-        11
+        66,
+        84,
+        75,
+        54
       ]
     },
     {
@@ -190,110 +188,112 @@
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
-        167,
-        113,
-        84,
-        106,
+        149,
+        179,
+        178,
+        157,
         94,
-        128
+        111
       ]
     },
     {
       "clue": null,
-      "answer": "ethical",
-      "answer_letters": "ETHICAL",
+      "answer": "elites",
+      "answer_letters": "ELITES",
       "indices": [
-        155,
-        119,
-        111,
+        62,
+        47,
         120,
-        77,
-        143,
+        64,
+        25,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "o'neill",
+      "answer_letters": "ONEILL",
+      "indices": [
+        147,
+        21,
+        155,
+        44,
+        163,
         146
       ]
     },
     {
       "clue": null,
-      "answer": "oracle",
-      "answer_letters": "ORACLE",
+      "answer": "fianna",
+      "answer_letters": "FIANNA",
       "indices": [
-        20,
-        7,
-        4,
-        16,
-        163,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "finite",
-      "answer_letters": "FINITE",
-      "indices": [
-        177,
+        83,
         0,
-        100,
+        107,
+        148,
+        24,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "whisky",
+      "answer_letters": "WHISKY",
+      "indices": [
+        59,
+        128,
         56,
-        71,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "weather",
-      "answer_letters": "WEATHER",
-      "indices": [
-        3,
-        8,
-        158,
-        1,
-        154,
-        40,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "immortality",
-      "answer_letters": "IMMORTALITY",
-      "indices": [
-        181,
-        130,
-        92,
-        174,
-        63,
-        104,
-        89,
-        172,
-        118,
-        141,
+        81,
+        175,
         19
       ]
     },
     {
       "clue": null,
-      "answer": "linear",
-      "answer_letters": "LINEAR",
+      "answer": "impeachment",
+      "answer_letters": "IMPEACHMENT",
       "indices": [
-        47,
-        140,
-        24,
-        80,
-        51,
-        126
+        162,
+        34,
+        49,
+        96,
+        89,
+        52,
+        31,
+        130,
+        114,
+        166,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "dawson",
-      "answer_letters": "DAWSON",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        50,
+        42,
+        124,
+        1,
+        106,
+        51,
+        135,
+        177,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "detroit",
+      "answer_letters": "DETROIT",
       "indices": [
         101,
-        60,
-        161,
-        144,
+        53,
+        87,
+        63,
         76,
-        57
+        181,
+        104
       ]
     }
   ],

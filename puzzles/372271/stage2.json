@@ -6,83 +6,83 @@
   "clues": [
     {
       "clue": null,
-      "answer": "spoken",
-      "answer_letters": "SPOKEN",
+      "answer": "stanton",
+      "answer_letters": "STANTON",
       "indices": [
         14,
-        156,
+        50,
+        144,
+        17,
+        162,
         136,
-        145,
-        134,
-        17
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "titans",
-      "answer_letters": "TITANS",
+      "answer": "tastes",
+      "answer_letters": "TASTES",
       "indices": [
         22,
-        114,
-        37,
         122,
-        80,
+        44,
+        37,
+        147,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "empathy",
-      "answer_letters": "EMPATHY",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
         143,
-        25,
         69,
-        126,
-        131,
-        51,
-        140
+        151,
+        86,
+        103,
+        115,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "potato",
-      "answer_letters": "POTATO",
+      "answer": "pigment",
+      "answer_letters": "PIGMENT",
       "indices": [
         42,
-        64,
-        102,
-        109,
-        39,
-        168
+        178,
+        133,
+        19,
+        9,
+        35,
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "hampton",
-      "answer_letters": "HAMPTON",
+      "answer": "hooked",
+      "answer_letters": "HOOKED",
       "indices": [
         176,
-        43,
-        91,
-        155,
-        175,
+        36,
         40,
-        85
+        123,
+        32,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "estates",
-      "answer_letters": "ESTATES",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        52,
-        161,
-        112,
-        24,
-        67,
-        48,
-        149
+        23,
+        137,
+        95,
+        119,
+        105,
+        131
       ]
     },
     {
@@ -90,203 +90,203 @@
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
-        60,
-        16,
+        146,
+        168,
         54,
-        119,
+        16,
+        61,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
+      "indices": [
+        114,
+        85,
+        89,
+        163,
+        80,
+        74,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everyday",
+      "answer_letters": "EVERYDAY",
+      "indices": [
+        177,
+        128,
+        99,
+        113,
+        164,
         33,
+        24,
         77
       ]
     },
     {
       "clue": null,
-      "answer": "intake",
-      "answer_letters": "INTAKE",
+      "answer": "mehmed",
+      "answer_letters": "MEHMED",
       "indices": [
-        79,
-        1,
-        7,
-        163,
-        123,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emitted",
-      "answer_letters": "EMITTED",
-      "indices": [
-        177,
-        19,
-        151,
-        118,
-        97,
-        99,
+        25,
+        52,
+        51,
+        139,
+        48,
         13
       ]
     },
     {
       "clue": null,
-      "answer": "morally",
-      "answer_letters": "MORALLY",
-      "indices": [
-        110,
-        84,
-        105,
-        55,
-        27,
-        57,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
+      "answer": "estates",
+      "answer_letters": "ESTATES",
       "indices": [
         165,
-        137,
-        95,
+        66,
+        118,
+        59,
+        97,
         104,
-        74,
-        63,
-        66
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
+      "answer": "yokohama",
+      "answer_letters": "YOKOHAMA",
       "indices": [
-        4,
-        23,
-        56,
-        76,
-        172,
-        181
+        183,
+        101,
+        11,
+        84,
+        153,
+        126,
+        47,
+        182
       ]
     },
     {
       "clue": null,
-      "answer": "equity",
-      "answer_letters": "EQUITY",
+      "answer": "employ",
+      "answer_letters": "EMPLOY",
       "indices": [
-        9,
-        71,
-        169,
-        178,
-        162,
+        28,
+        5,
+        156,
+        27,
+        64,
         20
       ]
     },
     {
       "clue": null,
-      "answer": "reading",
-      "answer_letters": "READING",
+      "answer": "retreat",
+      "answer_letters": "RETREAT",
       "indices": [
         30,
-        115,
-        182,
-        127,
-        73,
-        146,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "treasure",
-      "answer_letters": "TREASURE",
-      "indices": [
-        86,
-        179,
         68,
+        7,
+        179,
+        124,
         132,
-        45,
-        72,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "triple",
+      "answer_letters": "TRIPLE",
+      "indices": [
+        107,
         83,
-        124
+        73,
+        155,
+        56,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "whitman",
-      "answer_letters": "WHITMAN",
+      "answer": "walkway",
+      "answer_letters": "WALKWAY",
       "indices": [
-        142,
-        153,
-        94,
-        170,
-        139,
+        181,
         29,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invaded",
-      "answer_letters": "INVADED",
-      "indices": [
-        0,
-        31,
-        128,
+        76,
+        75,
+        142,
         129,
-        116,
-        108,
-        166
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "lakshmi",
-      "answer_letters": "LAKSHMI",
+      "answer": "india's",
+      "answer_letters": "INDIAS",
+      "indices": [
+        94,
+        1,
+        127,
+        0,
+        154,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "liquid",
+      "answer_letters": "LIQUID",
       "indices": [
         158,
-        154,
-        75,
-        44,
-        103,
-        47,
-        12
+        12,
+        71,
+        72,
+        79,
+        116
       ]
     },
     {
       "clue": null,
-      "answer": "inform",
-      "answer_letters": "INFORM",
+      "answer": "instant",
+      "answer_letters": "INSTANT",
       "indices": [
         157,
-        35,
-        89,
-        101,
-        113,
-        5
+        130,
+        149,
+        112,
+        55,
+        31,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "ghetto",
-      "answer_letters": "GHETTO",
+      "answer": "gotham",
+      "answer_letters": "GOTHAM",
       "indices": [
         3,
+        172,
+        175,
         8,
-        147,
-        121,
-        107,
-        36
+        43,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
+      "answer": "helmut",
+      "answer_letters": "HELMUT",
       "indices": [
         98,
         92,
-        159,
-        61,
-        59,
-        164
+        57,
+        110,
+        169,
+        63
       ]
     },
     {
@@ -294,10 +294,10 @@
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
-        50,
-        144,
-        11,
-        28,
+        102,
+        109,
+        145,
+        134,
         88,
         82,
         173

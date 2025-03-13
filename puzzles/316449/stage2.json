@@ -6,98 +6,99 @@
   "clues": [
     {
       "clue": null,
-      "answer": "wealth",
-      "answer_letters": "WEALTH",
+      "answer": "watched",
+      "answer_letters": "WATCHED",
       "indices": [
         151,
-        105,
         24,
-        52,
         67,
-        160
+        33,
+        160,
+        105,
+        106
       ]
     },
     {
       "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
       "indices": [
         86,
-        6,
-        20,
-        129,
+        96,
+        119,
+        12,
         140,
-        100
+        138,
+        81
       ]
     },
     {
       "clue": null,
-      "answer": "locals",
-      "answer_letters": "LOCALS",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
         163,
-        15,
-        33,
-        51,
-        88,
-        40
+        89,
+        132,
+        143,
+        146,
+        68
       ]
     },
     {
       "clue": null,
-      "answer": "liaison",
-      "answer_letters": "LIAISON",
+      "answer": "lawsuits",
+      "answer_letters": "LAWSUITS",
       "indices": [
         59,
+        51,
+        2,
+        159,
+        73,
         147,
-        102,
-        143,
-        17,
-        82,
-        134
+        141,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "inherited",
-      "answer_letters": "INHERITED",
+      "answer": "invade",
+      "answer_letters": "INVADE",
       "indices": [
         110,
-        96,
-        132,
-        89,
-        14,
-        4,
-        166,
-        133,
-        90
+        134,
+        78,
+        32,
+        90,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "anybody",
-      "answer_letters": "ANYBODY",
+      "answer": "anchored",
+      "answer_letters": "ANCHORED",
       "indices": [
-        77,
-        93,
-        37,
-        23,
+        145,
+        128,
+        121,
+        152,
         116,
-        164,
-        94
+        124,
+        111,
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "matteo",
-      "answer_letters": "MATTEO",
+      "answer": "murphy",
+      "answer_letters": "MURPHY",
       "indices": [
         65,
-        35,
-        62,
-        57,
-        7,
-        95
+        123,
+        14,
+        6,
+        99,
+        153
       ]
     },
     {
@@ -105,180 +106,179 @@
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
-        72,
-        63,
-        81,
-        112,
+        44,
         75,
+        155,
+        130,
+        76,
         144,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isolate",
+      "answer_letters": "ISOLATE",
+      "indices": [
+        42,
+        16,
+        82,
+        52,
+        102,
+        166,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tornadoes",
+      "answer_letters": "TORNADOES",
+      "indices": [
+        71,
+        95,
+        72,
+        148,
+        139,
+        10,
+        45,
+        100,
         103
       ]
     },
     {
       "clue": null,
-      "answer": "issued",
-      "answer_letters": "ISSUED",
-      "indices": [
-        42,
-        16,
-        159,
-        73,
-        79,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "though",
-      "answer_letters": "THOUGH",
-      "indices": [
-        71,
-        99,
-        161,
-        109,
-        146,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "taiwan",
-      "answer_letters": "TAIWAN",
+      "answer": "thrash",
+      "answer_letters": "THRASH",
       "indices": [
         131,
-        12,
-        136,
-        2,
+        50,
+        8,
         92,
-        148
+        5,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "equally",
-      "answer_letters": "EQUALLY",
+      "answer": "equitable",
+      "answer_letters": "EQUITABLE",
       "indices": [
         9,
         108,
-        162,
-        139,
-        113,
-        53,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "resolved",
-      "answer_letters": "RESOLVED",
-      "indices": [
-        8,
-        64,
-        5,
-        45,
+        109,
+        136,
+        112,
+        39,
+        23,
         87,
-        78,
-        126,
-        10
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "jericho",
-      "answer_letters": "JERICHO",
+      "answer": "rookie",
+      "answer_letters": "ROOKIE",
+      "indices": [
+        25,
+        15,
+        156,
+        104,
+        4,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "juliet",
+      "answer_letters": "JULIET",
       "indices": [
         31,
-        149,
-        44,
+        162,
+        113,
         55,
-        138,
-        76,
-        29
+        21,
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "annette",
-      "answer_letters": "ANNETTE",
+      "answer": "antony",
+      "answer_letters": "ANTONY",
       "indices": [
-        39,
+        77,
         115,
+        28,
+        129,
         165,
-        21,
-        130,
-        19,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cookie",
+      "answer_letters": "COOKIE",
+      "indices": [
+        13,
+        161,
+        29,
+        85,
+        0,
         58
       ]
     },
     {
       "clue": null,
-      "answer": "cheney",
-      "answer_letters": "CHENEY",
+      "answer": "kelley",
+      "answer_letters": "KELLEY",
       "indices": [
-        13,
-        152,
+        34,
         97,
-        128,
+        53,
+        60,
         47,
-        155
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "kisses",
-      "answer_letters": "KISSES",
+      "answer": "athletes",
+      "answer_letters": "ATHLETES",
       "indices": [
-        104,
-        0,
-        49,
+        35,
+        62,
+        20,
+        88,
+        7,
+        57,
+        64,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bonuses",
+      "answer_letters": "BONUSES",
+      "indices": [
+        36,
+        122,
+        93,
+        83,
         46,
-        111,
+        69,
         125
       ]
     },
     {
       "clue": null,
-      "answer": "author",
-      "answer_letters": "AUTHOR",
-      "indices": [
-        32,
-        123,
-        141,
-        68,
-        156,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "backstroke",
-      "answer_letters": "BACKSTROKE",
-      "indices": [
-        36,
-        145,
-        121,
-        85,
-        26,
-        28,
-        124,
-        122,
-        34,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
         114,
         118,
-        83,
+        157,
         74,
         3,
-        119,
-        157,
-        60
+        26
       ]
     }
   ],

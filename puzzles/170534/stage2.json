@@ -6,196 +6,127 @@
   "clues": [
     {
       "clue": null,
-      "answer": "turning",
-      "answer_letters": "TURNING",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
-        153,
-        167,
-        102,
-        22,
-        67,
-        87,
-        93
+        66,
+        125,
+        94,
+        45,
+        137,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "ribbon",
-      "answer_letters": "RIBBON",
+      "answer": "riddle",
+      "answer_letters": "RIDDLE",
       "indices": [
         84,
-        177,
-        59,
-        106,
-        88,
-        92
+        70,
+        50,
+        7,
+        168,
+        83
       ]
     },
     {
       "clue": null,
-      "answer": "angered",
-      "answer_letters": "ANGERED",
+      "answer": "additions",
+      "answer_letters": "ADDITIONS",
       "indices": [
         52,
-        158,
-        179,
-        85,
-        136,
-        150,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "contenders",
-      "answer_letters": "CONTENDERS",
-      "indices": [
-        134,
-        26,
-        132,
-        0,
-        113,
-        42,
-        29,
-        74,
-        152,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
-      "indices": [
-        79,
-        7,
-        97,
-        37,
-        142,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yokohama",
-      "answer_letters": "YOKOHAMA",
-      "indices": [
-        163,
-        36,
-        72,
-        101,
-        125,
-        154,
-        146,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
-      "indices": [
-        94,
-        18,
-        66,
-        116,
-        123,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mahmud",
-      "answer_letters": "MAHMUD",
-      "indices": [
-        44,
-        135,
-        115,
-        47,
-        17,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "industry",
-      "answer_letters": "INDUSTRY",
-      "indices": [
-        70,
-        28,
-        103,
-        64,
-        172,
-        114,
-        15,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novels",
-      "answer_letters": "NOVELS",
-      "indices": [
-        12,
+        156,
+        19,
+        67,
+        153,
+        177,
         16,
-        137,
-        11,
-        90,
+        12,
         104
       ]
     },
     {
       "clue": null,
-      "answer": "showdown",
-      "answer_letters": "SHOWDOWN",
+      "answer": "county's",
+      "answer_letters": "COUNTYS",
       "indices": [
-        8,
-        1,
-        159,
-        10,
-        50,
-        111,
-        82,
+        134,
+        36,
+        64,
+        42,
+        143,
+        147,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embankment",
+      "answer_letters": "EMBANKMENT",
+      "indices": [
+        150,
+        162,
+        59,
+        31,
+        73,
+        72,
+        97,
+        11,
+        158,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
+      "indices": [
+        98,
+        107,
+        28,
+        117,
+        21,
         32
       ]
     },
     {
       "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
-        108,
-        160,
-        91,
-        75,
-        151,
-        147
+        74,
+        22,
+        101,
+        37,
+        93,
+        121
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "mutiny",
+      "answer_letters": "MUTINY",
       "indices": [
-        25,
-        149,
-        98,
-        143,
-        121,
-        56
+        146,
+        27,
+        13,
+        141,
+        87,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "amelia",
-      "answer_letters": "AMELIA",
+      "answer": "island",
+      "answer_letters": "ISLAND",
       "indices": [
-        31,
-        162,
-        2,
+        116,
+        165,
         68,
-        41,
-        171
+        154,
+        92,
+        54
       ]
     },
     {
@@ -203,96 +134,165 @@
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
-        65,
-        144,
-        35,
-        4,
-        48,
+        49,
+        60,
+        175,
+        82,
+        41,
         174,
-        78
+        1
       ]
     },
     {
       "clue": null,
-      "answer": "gunnery",
-      "answer_letters": "GUNNERY",
+      "answer": "symmetry",
+      "answer_letters": "SYMMETRY",
+      "indices": [
+        8,
+        163,
+        44,
+        47,
+        130,
+        0,
+        102,
+        176
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
+        108,
+        149,
+        25,
+        91,
+        160,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rounds",
+      "answer_letters": "ROUNDS",
+      "indices": [
+        152,
+        166,
+        17,
+        132,
+        33,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anywhere",
+      "answer_letters": "ANYWHERE",
+      "indices": [
+        122,
+        178,
+        80,
+        170,
+        115,
+        2,
+        35,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        38,
+        79,
+        100,
+        123,
+        144,
+        10,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "granted",
+      "answer_letters": "GRANTED",
       "indices": [
         118,
-        107,
-        178,
-        38,
-        138,
         95,
-        80
+        135,
+        155,
+        114,
+        85,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "edward",
-      "answer_letters": "EDWARD",
+      "answer": "edmund",
+      "answer_letters": "EDMUND",
       "indices": [
-        130,
+        113,
         39,
-        170,
-        21,
-        6,
+        56,
+        167,
+        18,
         23
       ]
     },
     {
       "clue": null,
-      "answer": "lyndon",
-      "answer_letters": "LYNDON",
+      "answer": "lombardy",
+      "answer_letters": "LOMBARDY",
       "indices": [
-        168,
-        57,
-        155,
-        139,
+        90,
         5,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "antibody",
-      "answer_letters": "ANTIBODY",
-      "indices": [
-        126,
-        53,
-        13,
-        141,
-        129,
-        166,
-        33,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newest",
-      "answer_letters": "NEWEST",
-      "indices": [
-        117,
-        131,
-        100,
-        83,
-        165,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dortmund",
-      "answer_letters": "DORTMUND",
-      "indices": [
-        19,
-        60,
-        175,
-        120,
         112,
-        27,
-        49,
-        61
+        106,
+        171,
+        136,
+        139,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abroad",
+      "answer_letters": "ABROAD",
+      "indices": [
+        151,
+        129,
+        6,
+        26,
+        126,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norwood",
+      "answer_letters": "NORWOOD",
+      "indices": [
+        65,
+        159,
+        15,
+        75,
+        111,
+        88,
+        103
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        61,
+        4,
+        48,
+        179,
+        78,
+        120
       ]
     }
   ],

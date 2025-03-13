@@ -6,139 +6,140 @@
   "clues": [
     {
       "clue": null,
-      "answer": "downward",
-      "answer_letters": "DOWNWARD",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         26,
-        35,
         74,
-        31,
-        44,
-        159,
-        21,
-        10
+        61,
+        142,
+        45,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "eugene",
-      "answer_letters": "EUGENE",
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
       "indices": [
+        143,
+        117,
+        16,
+        109,
         111,
-        179,
-        88,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reggie",
+      "answer_letters": "REGGIE",
+      "indices": [
+        101,
         1,
-        87,
+        180,
+        88,
+        140,
         72
       ]
     },
     {
       "clue": null,
-      "answer": "rabbit",
-      "answer_letters": "RABBIT",
+      "answer": "elevators",
+      "answer_letters": "ELEVATORS",
       "indices": [
-        101,
-        173,
-        148,
-        149,
-        140,
-        77
+        9,
+        181,
+        17,
+        71,
+        20,
+        177,
+        5,
+        84,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
+      "answer": "khalifa",
+      "answer_letters": "KHALIFA",
       "indices": [
-        9,
-        181,
-        61,
-        146,
-        165,
+        37,
+        154,
+        76,
+        34,
+        176,
+        58,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        106,
+        136,
+        90,
+        133,
+        13,
+        41,
+        85,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abandon",
+      "answer_letters": "ABANDON",
+      "indices": [
+        79,
+        148,
+        83,
+        31,
+        10,
+        168,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "netflix",
+      "answer_letters": "NETFLIX",
+      "indices": [
+        87,
+        102,
+        15,
+        139,
+        108,
+        93,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        151,
+        6,
+        94,
+        179,
+        163,
         0
       ]
     },
     {
       "clue": null,
-      "answer": "kangaroo",
-      "answer_letters": "KANGAROO",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
-        37,
-        91,
-        42,
-        142,
-        128,
-        84,
-        27,
-        5
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lightly",
-      "answer_letters": "LIGHTLY",
-      "indices": [
-        94,
-        136,
-        157,
-        69,
-        166,
-        55,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "álvaro",
-      "answer_letters": "ALVARO",
-      "indices": [
-        59,
-        62,
-        71,
-        70,
-        124,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        132,
-        102,
-        119,
-        8,
-        143,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "deaths",
-      "answer_letters": "DEATHS",
-      "indices": [
-        151,
+        113,
         118,
-        49,
-        13,
-        154,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
-      "indices": [
-        182,
-        168,
-        67,
-        163,
-        98,
-        139,
-        6,
-        158
+        55,
+        158,
+        27,
+        23
       ]
     },
     {
@@ -158,152 +159,151 @@
     },
     {
       "clue": null,
-      "answer": "evolve",
-      "answer_letters": "EVOLVE",
+      "answer": "evacuate",
+      "answer_letters": "EVACUATE",
       "indices": [
-        99,
+        150,
         110,
-        131,
-        106,
-        53,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "affects",
-      "answer_letters": "AFFECTS",
-      "indices": [
-        76,
-        90,
-        122,
-        38,
+        91,
         81,
+        67,
+        128,
         97,
-        171
+        99
       ]
     },
     {
       "clue": null,
-      "answer": "tottenham",
-      "answer_letters": "TOTTENHAM",
+      "answer": "apache",
+      "answer_letters": "APACHE",
       "indices": [
-        126,
-        52,
-        177,
+        159,
+        119,
+        165,
+        19,
+        98,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theory",
+      "answer_letters": "THEORY",
+      "indices": [
         47,
-        17,
-        169,
-        45,
-        20,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "health",
-      "answer_letters": "HEALTH",
-      "indices": [
         164,
         115,
-        79,
+        35,
+        21,
+        182
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        75,
+        66,
+        62,
         112,
-        120,
-        75
+        52,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "basically",
-      "answer_letters": "BASICALLY",
+      "answer": "basalt",
+      "answer_letters": "BASALT",
       "indices": [
-        175,
-        83,
-        161,
-        86,
-        3,
+        149,
         104,
+        160,
+        30,
         51,
-        108,
-        100
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
       "indices": [
-        144,
+        124,
         135,
-        95,
+        100,
         129,
         82,
-        85
+        92,
+        86,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "iconic",
-      "answer_letters": "ICONIC",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
       "indices": [
         24,
-        7,
-        123,
         141,
-        93,
-        117
+        122,
+        173,
+        132,
+        7,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "niches",
-      "answer_letters": "NICHES",
+      "answer": "navajo",
+      "answer_letters": "NAVAJO",
       "indices": [
         25,
-        41,
-        19,
-        127,
-        54,
-        137
+        59,
+        53,
+        70,
+        146,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
+      "answer": "growth",
+      "answer_letters": "GROWTH",
       "indices": [
-        180,
-        109,
-        15,
-        16,
-        30,
-        92
+        157,
+        144,
+        123,
+        28,
+        77,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "answer": "enable",
+      "answer_letters": "ENABLE",
       "indices": [
         155,
-        116,
-        23,
-        176,
-        58,
+        42,
+        12,
+        175,
+        105,
         170
       ]
     },
     {
       "clue": null,
-      "answer": "really",
-      "answer_letters": "REALLY",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
         4,
-        150,
-        12,
-        105,
-        34,
-        56
+        69,
+        56,
+        166,
+        127,
+        60,
+        171
       ]
     }
   ],

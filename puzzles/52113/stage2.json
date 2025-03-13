@@ -6,93 +6,98 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
+      "answer": "newark",
+      "answer_letters": "NEWARK",
       "indices": [
-        34,
+        88,
+        67,
+        92,
         53,
-        65,
-        47,
-        0,
-        88
+        112,
+        11
       ]
     },
     {
       "clue": null,
-      "answer": "intact",
-      "answer_letters": "INTACT",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
       "indices": [
         165,
-        147,
-        143,
-        48,
+        142,
+        101,
+        106,
+        132,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cypriot",
+      "answer_letters": "CYPRIOT",
+      "indices": [
         20,
-        95
+        97,
+        157,
+        41,
+        129,
+        120,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "chopra",
-      "answer_letters": "CHOPRA",
+      "answer": "keeper",
+      "answer_letters": "KEEPER",
       "indices": [
-        10,
-        75,
-        118,
-        116,
-        150,
-        23
+        107,
+        122,
+        141,
+        119,
+        151,
+        117
       ]
     },
     {
       "clue": null,
-      "answer": "kerala",
-      "answer_letters": "KERALA",
-      "indices": [
-        11,
-        127,
-        56,
-        148,
-        60,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hawker",
-      "answer_letters": "HAWKER",
+      "answer": "howard",
+      "answer_letters": "HOWARD",
       "indices": [
         3,
-        111,
-        74,
-        107,
-        43,
-        113
+        145,
+        2,
+        94,
+        150,
+        130
       ]
     },
     {
       "clue": null,
-      "answer": "operas",
-      "answer_letters": "OPERAS",
+      "answer": "overtaken",
+      "answer_letters": "OVERTAKEN",
       "indices": [
-        154,
-        161,
-        42,
-        175,
-        137,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "remind",
-      "answer_letters": "REMIND",
-      "indices": [
+        118,
+        166,
+        162,
         158,
-        108,
-        63,
-        129,
-        24,
-        35
+        77,
+        170,
+        21,
+        42,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rappers",
+      "answer_letters": "RAPPERS",
+      "indices": [
+        30,
+        76,
+        161,
+        116,
+        43,
+        171,
+        69
       ]
     },
     {
@@ -101,206 +106,201 @@
       "answer_letters": "NEPHEW",
       "indices": [
         173,
-        162,
+        15,
         169,
         14,
-        131,
-        2
+        167,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "bassist",
-      "answer_letters": "BASSIST",
+      "answer": "babies",
+      "answer_letters": "BABIES",
       "indices": [
         27,
-        9,
-        69,
-        72,
-        144,
-        160,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
-      "indices": [
-        114,
-        145,
-        140,
-        49,
-        126,
-        135,
-        81,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
-      "indices": [
-        93,
-        86,
-        79,
-        44,
-        64,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "invites",
-      "answer_letters": "INVITES",
-      "indices": [
-        71,
-        16,
-        166,
-        37,
-        46,
-        122,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gabriel",
-      "answer_letters": "GABRIEL",
-      "indices": [
-        40,
-        33,
-        110,
-        30,
-        4,
-        67,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "howard",
-      "answer_letters": "HOWARD",
-      "indices": [
-        52,
-        159,
-        92,
-        132,
-        155,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "filters",
-      "answer_letters": "FILTERS",
-      "indices": [
-        153,
-        84,
-        5,
-        164,
-        6,
-        41,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iberia",
-      "answer_letters": "IBERIA",
-      "indices": [
-        106,
+        58,
         8,
+        37,
         174,
-        117,
-        149,
-        58
+        176
       ]
     },
     {
       "clue": null,
-      "answer": "dakota",
-      "answer_letters": "DAKOTA",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
       "indices": [
-        123,
-        39,
-        85,
+        31,
+        0,
+        63,
+        64,
+        75,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        126,
+        154,
+        59,
+        105,
         80,
-        172,
-        101
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "equator",
-      "answer_letters": "EQUATOR",
+      "answer": "inquest",
+      "answer_letters": "INQUEST",
       "indices": [
-        167,
+        149,
+        34,
         139,
         99,
-        28,
-        77,
-        134,
+        86,
+        72,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "guitar",
+      "answer_letters": "GUITAR",
+      "indices": [
+        40,
+        140,
+        19,
+        164,
+        23,
         102
       ]
     },
     {
       "clue": null,
-      "answer": "leopard",
-      "answer_letters": "LEOPARD",
+      "answer": "heated",
+      "answer_letters": "HEATED",
       "indices": [
-        59,
+        93,
+        108,
+        28,
+        54,
         103,
-        98,
-        157,
-        94,
-        29,
-        18
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "intercepted",
-      "answer_letters": "INTERCEPTED",
+      "answer": "forestry",
+      "answer_letters": "FORESTRY",
       "indices": [
-        19,
-        146,
-        66,
+        153,
+        89,
+        155,
         57,
-        112,
-        163,
-        141,
-        119,
+        121,
+        65,
+        56,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "infant",
+      "answer_letters": "INFANT",
+      "indices": [
+        84,
+        147,
+        135,
+        33,
+        146,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dockyard",
+      "answer_letters": "DOCKYARD",
+      "indices": [
+        18,
+        159,
+        10,
+        85,
+        114,
+        148,
+        113,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "earth's",
+      "answer_letters": "EARTHS",
+      "indices": [
+        127,
+        39,
+        29,
         125,
-        15,
+        47,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "little",
+      "answer_letters": "LITTLE",
+      "indices": [
+        60,
+        4,
+        172,
+        49,
+        5,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "identical",
+      "answer_letters": "IDENTICAL",
+      "indices": [
+        144,
+        44,
+        6,
+        16,
+        66,
+        71,
+        163,
+        111,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "toward",
+      "answer_letters": "TOWARD",
+      "indices": [
+        95,
+        98,
+        13,
+        137,
+        175,
         25
       ]
     },
     {
       "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        90,
-        51,
-        120,
-        13,
-        170,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yorker",
-      "answer_letters": "YORKER",
+      "answer": "yoruba",
+      "answer_letters": "YORUBA",
       "indices": [
         61,
-        89,
-        171,
-        21,
-        151,
-        68
+        134,
+        68,
+        81,
+        110,
+        9
       ]
     }
   ],

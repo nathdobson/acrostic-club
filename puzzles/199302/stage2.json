@@ -6,211 +6,213 @@
   "clues": [
     {
       "clue": null,
-      "answer": "melting",
-      "answer_letters": "MELTING",
+      "answer": "mitsubishi",
+      "answer_letters": "MITSUBISHI",
       "indices": [
         49,
-        142,
-        168,
+        107,
         176,
-        28,
+        22,
+        98,
+        97,
+        165,
+        139,
+        69,
+        28
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entitled",
+      "answer_letters": "ENTITLED",
+      "indices": [
+        25,
         88,
+        91,
+        0,
+        118,
+        168,
+        157,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lobbying",
+      "answer_letters": "LOBBYING",
+      "indices": [
+        60,
+        138,
+        2,
+        58,
+        50,
+        146,
+        113,
         7
       ]
     },
     {
       "clue": null,
-      "answer": "edinburgh",
-      "answer_letters": "EDINBURGH",
+      "answer": "ownership",
+      "answer_letters": "OWNERSHIP",
       "indices": [
-        175,
-        123,
-        165,
-        66,
-        2,
-        130,
+        77,
+        9,
+        6,
+        116,
         177,
-        95,
-        24
+        96,
+        24,
+        87,
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
+      "answer": "dubbing",
+      "answer_letters": "DUBBING",
       "indices": [
-        60,
-        53,
-        113,
-        63,
-        143,
-        12,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "officer",
-      "answer_letters": "OFFICER",
-      "indices": [
-        102,
-        78,
-        154,
-        10,
-        82,
-        156,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "definitions",
-      "answer_letters": "DEFINITIONS",
-      "indices": [
-        30,
-        70,
-        52,
-        56,
-        43,
-        146,
-        68,
-        0,
-        129,
+        148,
+        159,
+        163,
+        41,
+        125,
         121,
-        22
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "youtube",
-      "answer_letters": "YOUTUBE",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
         106,
+        59,
+        105,
+        72,
         5,
-        159,
-        18,
-        98,
-        109,
-        59
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "linked",
-      "answer_letters": "LINKED",
+      "answer": "length",
+      "answer_letters": "LENGTH",
       "indices": [
-        147,
-        65,
+        111,
+        54,
+        43,
+        63,
+        31,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enhanced",
+      "answer_letters": "ENHANCED",
+      "indices": [
+        53,
+        117,
+        12,
+        36,
+        66,
+        82,
+        20,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "entertained",
+      "answer_letters": "ENTERTAINED",
+      "indices": [
+        122,
         81,
-        170,
+        99,
+        110,
+        155,
+        140,
+        84,
+        65,
+        94,
         80,
         75
       ]
     },
     {
       "clue": null,
-      "answer": "ethernet",
-      "answer_letters": "ETHERNET",
-      "indices": [
-        20,
-        91,
-        69,
-        25,
-        155,
-        117,
-        157,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elisabeth",
-      "answer_letters": "ELISABETH",
-      "indices": [
-        122,
-        111,
-        169,
-        135,
-        84,
-        163,
-        110,
-        140,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "matthews",
-      "answer_letters": "MATTHEWS",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
       "indices": [
         101,
         150,
-        38,
-        99,
-        83,
+        170,
         42,
-        119,
-        136
+        136,
+        83,
+        169,
+        52,
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "ostensibly",
-      "answer_letters": "OSTENSIBLY",
+      "answer": "obsolete",
+      "answer_letters": "OBSOLETE",
       "indices": [
         61,
+        109,
         103,
-        14,
-        116,
-        6,
-        96,
-        87,
-        58,
+        102,
         4,
-        178
+        175,
+        14,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "obtained",
-      "answer_letters": "OBTAINED",
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
       "indices": [
         174,
-        41,
-        31,
-        36,
-        125,
-        94,
-        54,
-        148
+        130,
+        68,
+        147,
+        70,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
         151,
-        33,
-        145,
+        112,
+        131,
         104,
-        77,
-        27,
-        74
+        15,
+        145,
+        156,
+        166,
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "gilbert",
-      "answer_letters": "GILBERT",
+      "answer": "griffith",
+      "answer_letters": "GRIFFITH",
       "indices": [
         114,
-        93,
-        105,
-        97,
-        35,
         160,
-        23
+        10,
+        78,
+        154,
+        93,
+        55,
+        92
       ]
     },
     {
@@ -218,33 +220,31 @@
       "answer": "yankee",
       "answer_letters": "YANKEE",
       "indices": [
-        141,
+        178,
         45,
-        62,
+        74,
         133,
-        16,
-        171
+        33,
+        35
       ]
     },
     {
       "clue": null,
-      "answer": "philanthropist",
-      "answer_letters": "PHILANTHROPIST",
+      "answer": "penitentiary",
+      "answer_letters": "PENITENTIARY",
       "indices": [
-        158,
-        15,
-        134,
-        72,
-        73,
-        29,
-        55,
-        92,
-        19,
-        112,
         173,
+        16,
+        62,
+        134,
+        46,
+        171,
+        29,
+        86,
         120,
-        166,
-        46
+        73,
+        19,
+        141
       ]
     },
     {
@@ -253,12 +253,12 @@
       "answer_letters": "STRENGTHENED",
       "indices": [
         167,
-        86,
+        11,
         37,
         161,
         126,
         89,
-        11,
+        18,
         47,
         3,
         85,
@@ -275,10 +275,10 @@
         21,
         164,
         137,
-        138,
-        9,
-        107,
-        139,
+        129,
+        119,
+        56,
+        135,
         39
       ]
     }

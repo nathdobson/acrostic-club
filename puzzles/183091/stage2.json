@@ -6,275 +6,208 @@
   "clues": [
     {
       "clue": null,
-      "answer": "howell",
-      "answer_letters": "HOWELL",
+      "answer": "hotels",
+      "answer_letters": "HOTELS",
       "indices": [
-        57,
-        89,
-        56,
-        63,
-        175,
-        104
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elementary",
-      "answer_letters": "ELEMENTARY",
-      "indices": [
-        119,
-        83,
-        30,
-        12,
-        38,
-        37,
-        67,
-        52,
-        16,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lichen",
-      "answer_letters": "LICHEN",
-      "indices": [
-        82,
-        42,
-        93,
         94,
-        174,
-        43
+        89,
+        2,
+        18,
+        104,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "events",
-      "answer_letters": "EVENTS",
+      "answer": "errors",
+      "answer_letters": "ERRORS",
+      "indices": [
+        30,
+        16,
+        50,
+        128,
+        100,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "league",
+      "answer_letters": "LEAGUE",
+      "indices": [
+        83,
+        174,
+        172,
+        130,
+        1,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
       "indices": [
         114,
-        76,
-        58,
-        85,
+        52,
+        127,
         134,
-        127
+        56,
+        58,
+        69,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "negotiated",
-      "answer_letters": "NEGOTIATED",
+      "answer": "nerves",
+      "answer_letters": "NERVES",
       "indices": [
-        168,
-        124,
-        86,
-        24,
-        61,
-        28,
-        152,
-        54,
-        148,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hodges",
-      "answer_letters": "HODGES",
-      "indices": [
-        98,
-        128,
-        6,
-        130,
-        162,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ulster",
-      "answer_letters": "ULSTER",
-      "indices": [
-        1,
-        176,
-        32,
-        132,
-        68,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nearby",
-      "answer_letters": "NEARBY",
-      "indices": [
-        9,
-        33,
-        115,
-        47,
-        49,
-        7
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "theory",
-      "answer_letters": "THEORY",
-      "indices": [
-        35,
-        135,
-        111,
-        75,
-        100,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "javier",
-      "answer_letters": "JAVIER",
-      "indices": [
-        173,
-        142,
-        158,
-        8,
-        77,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "announces",
-      "answer_letters": "ANNOUNCES",
-      "indices": [
-        165,
-        108,
-        5,
-        23,
-        129,
         59,
-        161,
-        46,
+        124,
+        120,
+        158,
+        148,
         40
       ]
     },
     {
       "clue": null,
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "answer": "himself",
+      "answer_letters": "HIMSELF",
       "indices": [
-        80,
-        159,
-        72,
-        102,
-        51,
-        13
+        98,
+        42,
+        12,
+        21,
+        162,
+        82,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "khalid",
-      "answer_letters": "KHALID",
+      "answer": "umayyad",
+      "answer_letters": "UMAYYAD",
       "indices": [
-        29,
-        45,
-        81,
-        27,
-        36,
+        4,
+        14,
+        142,
+        123,
+        140,
+        177,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
+      "answer": "nellie",
+      "answer_letters": "NELLIE",
       "indices": [
-        125,
-        131,
-        151,
-        160,
-        139,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outing",
-      "answer_letters": "OUTING",
-      "indices": [
-        71,
-        4,
-        88,
-        17,
         143,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "namely",
-      "answer_letters": "NAMELY",
-      "indices": [
-        65,
-        172,
-        14,
-        18,
+        122,
         105,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhodesia",
-      "answer_letters": "RHODESIA",
-      "indices": [
-        153,
-        118,
-        107,
-        74,
-        91,
-        19,
+        27,
         167,
-        92
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "albedo",
-      "answer_letters": "ALBEDO",
+      "answer": "three-day",
+      "answer_letters": "THREEDAY",
       "indices": [
-        156,
+        35,
+        57,
+        116,
+        111,
+        77,
+        74,
+        81,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "judith",
+      "answer_letters": "JUDITH",
+      "indices": [
+        173,
+        129,
+        144,
+        8,
+        97,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "albeit",
+      "answer_letters": "ALBEIT",
+      "indices": [
+        165,
         39,
         0,
-        103,
-        144,
-        96
+        46,
+        28,
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "mother",
-      "answer_letters": "MOTHER",
+      "answer": "cohesion",
+      "answer_letters": "COHESION",
       "indices": [
-        171,
-        66,
+        93,
+        159,
+        45,
+        51,
+        164,
+        36,
+        15,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "knights",
+      "answer_letters": "KNIGHTS",
+      "indices": [
+        29,
+        9,
+        160,
+        169,
+        131,
         22,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sheets",
+      "answer_letters": "SHEETS",
+      "indices": [
+        125,
+        110,
+        13,
+        151,
+        88,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overhead",
+      "answer_letters": "OVERHEAD",
+      "indices": [
+        23,
+        76,
+        103,
+        153,
         62,
         136,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "others",
-      "answer_letters": "OTHERS",
-      "indices": [
-        15,
-        97,
-        147,
-        122,
-        112,
-        138
+        152,
+        25
       ]
     },
     {
@@ -282,25 +215,92 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        34,
+        43,
         84,
         10,
         150,
-        2,
-        69
+        132,
+        78
       ]
     },
     {
       "clue": null,
-      "answer": "assess",
-      "answer_letters": "ASSESS",
+      "answer": "rebirth",
+      "answer_letters": "REBIRTH",
       "indices": [
-        177,
-        146,
-        78,
-        99,
-        164,
-        53
+        112,
+        91,
+        49,
+        17,
+        47,
+        61,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        92,
+        102,
+        86,
+        118,
+        156,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "monsoon",
+      "answer_letters": "MONSOON",
+      "indices": [
+        171,
+        66,
+        108,
+        19,
+        71,
+        24,
+        5
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "o'clock",
+      "answer_letters": "OCLOCK",
+      "indices": [
+        107,
+        80,
+        176,
+        96,
+        161,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
+      "indices": [
+        85,
+        38,
+        63,
+        6,
+        175,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anyone",
+      "answer_letters": "ANYONE",
+      "indices": [
+        115,
+        37,
+        7,
+        75,
+        34,
+        99
       ]
     }
   ],

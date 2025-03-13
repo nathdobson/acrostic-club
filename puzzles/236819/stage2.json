@@ -6,113 +6,107 @@
   "clues": [
     {
       "clue": null,
-      "answer": "correlated",
-      "answer_letters": "CORRELATED",
+      "answer": "cortes",
+      "answer_letters": "CORTES",
       "indices": [
         31,
-        157,
-        22,
-        0,
-        14,
-        143,
-        89,
-        86,
+        63,
+        127,
+        162,
         88,
-        117
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "artery",
-      "answer_letters": "ARTERY",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
       "indices": [
-        130,
-        13,
-        83,
-        96,
-        158,
-        47
+        85,
+        75,
+        133,
+        167,
+        20,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "robots",
-      "answer_letters": "ROBOTS",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         106,
-        7,
-        129,
-        80,
-        51,
-        154
+        110,
+        47,
+        151,
+        120,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "lifeboat",
-      "answer_letters": "LIFEBOAT",
+      "answer": "lagoon",
+      "answer_letters": "LAGOON",
       "indices": [
         132,
-        116,
-        25,
-        144,
-        27,
-        36,
-        46,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "horton",
-      "answer_letters": "HORTON",
-      "indices": [
-        120,
-        128,
-        95,
-        105,
-        161,
+        17,
+        2,
+        152,
+        7,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "indigo",
-      "answer_letters": "INDIGO",
+      "answer": "hobart",
+      "answer_letters": "HOBART",
       "indices": [
-        1,
-        79,
-        29,
-        147,
-        2,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "author",
-      "answer_letters": "AUTHOR",
-      "indices": [
-        17,
-        71,
-        138,
         40,
-        170,
-        123
+        80,
+        129,
+        130,
+        95,
+        105
       ]
     },
     {
       "clue": null,
-      "answer": "authors",
-      "answer_letters": "AUTHORS",
+      "answer": "injury",
+      "answer_letters": "INJURY",
+      "indices": [
+        147,
+        79,
+        135,
+        136,
+        0,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "agreed",
+      "answer_letters": "AGREED",
+      "indices": [
+        89,
+        100,
+        13,
+        96,
+        56,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "acetate",
+      "answer_letters": "ACETATE",
       "indices": [
         107,
-        94,
+        140,
+        144,
         119,
-        110,
-        152,
-        98,
-        15
+        46,
+        51,
+        54
       ]
     },
     {
@@ -120,138 +114,104 @@
       "answer": "shootout",
       "answer_letters": "SHOOTOUT",
       "indices": [
-        61,
-        3,
-        93,
-        63,
-        162,
-        24,
-        136,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyed",
-      "answer_letters": "ENJOYED",
-      "indices": [
-        56,
-        108,
-        135,
+        154,
+        11,
         70,
-        133,
-        121,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        75,
-        68,
-        167,
-        4,
         49,
-        45,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "scottish",
-      "answer_letters": "SCOTTISH",
-      "indices": [
-        104,
-        140,
-        64,
-        160,
         146,
-        42,
-        34,
-        90
+        93,
+        71,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "itself",
-      "answer_letters": "ITSELF",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        99,
-        58,
-        137,
-        54,
-        142,
-        156
+        68,
+        25,
+        156,
+        170,
+        158,
+        160,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "co-host",
-      "answer_letters": "COHOST",
+      "answer": "neighbour",
+      "answer_letters": "NEIGHBOUR",
+      "indices": [
+        37,
+        14,
+        1,
+        169,
+        84,
+        131,
+        64,
+        94,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statehood",
+      "answer_letters": "STATEHOOD",
+      "indices": [
+        114,
+        138,
+        111,
+        83,
+        121,
+        3,
+        128,
+        161,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "inhibitor",
+      "answer_letters": "INHIBITOR",
+      "indices": [
+        116,
+        108,
+        90,
+        99,
+        27,
+        42,
+        58,
+        36,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cohort",
+      "answer_letters": "COHORT",
       "indices": [
         145,
         32,
         53,
         74,
-        114,
+        98,
         76
       ]
     },
     {
       "clue": null,
-      "answer": "khyber",
-      "answer_letters": "KHYBER",
+      "answer": "kingston",
+      "answer_letters": "KINGSTON",
       "indices": [
         78,
-        84,
-        122,
-        131,
-        41,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pathogen",
-      "answer_letters": "PATHOGEN",
-      "indices": [
-        126,
-        115,
-        102,
-        62,
-        141,
-        149,
-        12,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "urging",
-      "answer_letters": "URGING",
-      "indices": [
-        50,
-        43,
-        100,
         21,
         6,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pathway",
-      "answer_letters": "PATHWAY",
-      "indices": [
-        33,
-        111,
-        10,
-        101,
-        81,
-        109,
-        92
+        149,
+        104,
+        65,
+        24,
+        165
       ]
     },
     {
@@ -259,29 +219,69 @@
       "answer": "pathways",
       "answer_letters": "PATHWAYS",
       "indices": [
-        19,
-        85,
-        39,
-        11,
+        126,
+        115,
+        102,
+        62,
         8,
-        20,
-        153,
+        28,
+        87,
         163
       ]
     },
     {
       "clue": null,
-      "answer": "yeomanry",
-      "answer_letters": "YEOMANRY",
+      "answer": "underway",
+      "answer_letters": "UNDERWAY",
       "indices": [
-        87,
-        124,
-        166,
-        67,
-        28,
+        50,
         112,
+        117,
+        41,
+        43,
+        45,
+        109,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "protest",
+      "answer_letters": "PROTEST",
+      "indices": [
+        33,
         55,
-        69
+        141,
+        39,
+        12,
+        61,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "photos",
+      "answer_letters": "PHOTOS",
+      "indices": [
+        19,
+        101,
+        59,
+        86,
+        157,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        69,
+        124,
+        142,
+        143,
+        166,
+        81
       ]
     }
   ],

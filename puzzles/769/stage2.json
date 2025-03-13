@@ -6,257 +6,256 @@
   "clues": [
     {
       "clue": null,
-      "answer": "dudley",
-      "answer_letters": "DUDLEY",
+      "answer": "djibouti",
+      "answer_letters": "DJIBOUTI",
       "indices": [
-        29,
-        2,
-        118,
-        188,
-        189,
-        47
+        182,
+        51,
+        141,
+        105,
+        7,
+        17,
+        63,
+        61
       ]
     },
     {
       "clue": null,
-      "answer": "auditory",
-      "answer_letters": "AUDITORY",
+      "answer": "aesthetics",
+      "answer_letters": "AESTHETICS",
       "indices": [
         27,
-        17,
-        182,
-        160,
+        178,
+        111,
+        97,
+        162,
+        119,
         108,
-        7,
-        164,
-        0
+        160,
+        156,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "voyage",
-      "answer_letters": "VOYAGE",
+      "answer": "vehicle",
+      "answer_letters": "VEHICLE",
       "indices": [
-        44,
-        1,
-        86,
-        168,
-        25,
+        66,
+        134,
+        75,
+        43,
+        113,
+        130,
         181
       ]
     },
     {
       "clue": null,
-      "answer": "injection",
-      "answer_letters": "INJECTION",
+      "answer": "ironic",
+      "answer_letters": "IRONIC",
       "indices": [
-        117,
-        179,
-        51,
-        67,
-        36,
-        81,
         110,
-        87,
-        155
+        78,
+        114,
+        179,
+        124,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "discouraged",
-      "answer_letters": "DISCOURAGED",
+      "answer": "dialogue",
+      "answer_letters": "DIALOGUE",
       "indices": [
-        21,
-        96,
-        80,
-        113,
-        145,
+        131,
+        117,
+        168,
+        20,
+        1,
+        25,
         88,
-        172,
-        174,
-        9,
-        159,
-        153
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "nightclub",
-      "answer_letters": "NIGHTCLUB",
+      "answer": "nguyễn",
+      "answer_letters": "NGUYEN",
       "indices": [
-        150,
-        141,
+        115,
         6,
-        137,
-        63,
-        156,
-        91,
-        52,
-        105
+        2,
+        0,
+        10,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "identified",
-      "answer_letters": "IDENTIFIED",
+      "answer": "identifier",
+      "answer_letters": "IDENTIFIER",
       "indices": [
-        43,
+        31,
         40,
         76,
         186,
         136,
-        31,
-        32,
         92,
+        84,
+        96,
         157,
-        131
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "answer": "co-founder",
+      "answer_letters": "COFOUNDER",
       "indices": [
-        148,
-        100,
+        121,
+        87,
         142,
-        146,
-        122,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "household",
-      "answer_letters": "HOUSEHOLD",
-      "indices": [
-        75,
-        19,
+        100,
         12,
-        13,
-        58,
+        155,
+        153,
+        67,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hurley",
+      "answer_letters": "HURLEY",
+      "indices": [
         23,
-        48,
-        130,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "officers",
-      "answer_letters": "OFFICERS",
-      "indices": [
-        37,
-        116,
-        70,
-        152,
-        184,
-        163,
-        3,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowering",
-      "answer_letters": "LOWERING",
-      "indices": [
-        39,
-        11,
-        127,
-        138,
-        68,
-        124,
-        115,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
-      "indices": [
-        20,
         49,
-        151,
-        74,
-        99,
-        185,
+        3,
+        39,
+        122,
+        86
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        56,
         93,
         62,
-        4
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
-      "indices": [
         176,
-        109,
-        16,
-        56,
-        169,
+        137,
         83,
-        38,
-        161
+        37,
+        169
       ]
     },
     {
       "clue": null,
-      "answer": "october",
-      "answer_letters": "OCTOBER",
+      "answer": "logged",
+      "answer_letters": "LOGGED",
       "indices": [
-        128,
-        121,
-        180,
-        71,
-        133,
-        10,
-        78
+        188,
+        11,
+        9,
+        60,
+        58,
+        118
       ]
     },
     {
       "clue": null,
-      "answer": "neutron",
-      "answer_letters": "NEUTRON",
+      "answer": "looted",
+      "answer_letters": "LOOTED",
+      "indices": [
+        91,
+        128,
+        71,
+        81,
+        65,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
+      "indices": [
+        13,
+        109,
+        38,
+        180,
+        16,
+        52,
+        74
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "off-broadway",
+      "answer_letters": "OFFBROADWAY",
+      "indices": [
+        19,
+        146,
+        151,
+        133,
+        72,
+        48,
+        174,
+        103,
+        127,
+        185,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "now-defunct",
+      "answer_letters": "NOWDEFUNCT",
       "indices": [
         120,
+        145,
+        99,
+        21,
         154,
+        32,
         129,
-        166,
-        8,
-        114,
-        57
+        57,
+        36,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "either",
-      "answer_letters": "EITHER",
+      "answer": "effective",
+      "answer_letters": "EFFECTIVE",
       "indices": [
-        178,
-        61,
-        97,
-        162,
-        119,
-        72
+        4,
+        116,
+        70,
+        138,
+        184,
+        161,
+        152,
+        44,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "defective",
-      "answer_letters": "DEFECTIVE",
+      "answer": "discrete",
+      "answer_letters": "DISCRETE",
       "indices": [
         187,
-        94,
-        84,
-        45,
-        177,
-        125,
         34,
-        66,
-        79
+        80,
+        177,
+        89,
+        94,
+        125,
+        45
       ]
     },
     {
@@ -269,24 +268,25 @@
         143,
         149,
         140,
-        106,
+        79,
         54,
         167,
-        134,
-        89
+        106,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "young's",
-      "answer_letters": "YOUNGS",
+      "answer": "younger",
+      "answer_letters": "YOUNGER",
       "indices": [
         15,
         171,
         101,
         28,
         42,
-        53
+        189,
+        164
       ]
     }
   ],

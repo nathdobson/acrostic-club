@@ -21,54 +21,57 @@
     },
     {
       "clue": null,
-      "answer": "ambush",
-      "answer_letters": "AMBUSH",
+      "answer": "avenue",
+      "answer_letters": "AVENUE",
       "indices": [
-        35,
-        11,
-        94,
-        159,
-        59,
-        170
+        10,
+        26,
+        77,
+        125,
+        98,
+        79
       ]
     },
     {
       "clue": null,
-      "answer": "though",
-      "answer_letters": "THOUGH",
+      "answer": "thoughts",
+      "answer_letters": "THOUGHTS",
       "indices": [
-        175,
+        54,
         141,
         177,
         178,
-        72,
-        69
+        179,
+        69,
+        160,
+        148
       ]
     },
     {
       "clue": null,
-      "answer": "yankees",
-      "answer_letters": "YANKEES",
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
       "indices": [
         134,
-        17,
-        66,
-        50,
-        27,
-        104,
-        76
+        115,
+        36,
+        140,
+        18,
+        158,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "execution",
-      "answer_letters": "EXECUTION",
+      "answer": "exhibition",
+      "answer_letters": "EXHIBITION",
       "indices": [
-        42,
-        80,
         133,
-        169,
-        87,
+        80,
+        90,
+        30,
+        86,
+        163,
         68,
         81,
         120,
@@ -77,49 +80,51 @@
     },
     {
       "clue": null,
-      "answer": "veneto",
-      "answer_letters": "VENETO",
+      "answer": "vegetables",
+      "answer_letters": "VEGETABLES",
       "indices": [
         103,
-        20,
-        105,
-        151,
-        54,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abilities",
-      "answer_letters": "ABILITIES",
-      "indices": [
-        1,
-        32,
-        91,
-        47,
-        70,
-        160,
-        22,
-        74,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nonetheless",
-      "answer_letters": "NONETHELESS",
-      "indices": [
-        138,
-        127,
-        71,
-        95,
+        104,
+        72,
+        146,
         117,
-        180,
-        15,
-        24,
-        77,
-        37,
-        19
+        1,
+        14,
+        47,
+        20,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assumes",
+      "answer_letters": "ASSUMES",
+      "indices": [
+        35,
+        64,
+        76,
+        159,
+        164,
+        151,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nickelodeon",
+      "answer_letters": "NICKELODEON",
+      "indices": [
+        9,
+        45,
+        34,
+        2,
+        100,
+        119,
+        121,
+        114,
+        171,
+        49,
+        138
       ]
     },
     {
@@ -129,142 +134,137 @@
       "indices": [
         82,
         162,
-        135,
-        112,
-        2,
+        95,
+        52,
+        50,
         176
       ]
     },
     {
       "clue": null,
-      "answer": "mobile",
-      "answer_letters": "MOBILE",
+      "answer": "misses",
+      "answer_letters": "MISSES",
+      "indices": [
+        11,
+        58,
+        59,
+        37,
+        15,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shelling",
+      "answer_letters": "SHELLING",
+      "indices": [
+        154,
+        57,
+        61,
+        75,
+        147,
+        70,
+        105,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "meanwhile",
+      "answer_letters": "MEANWHILE",
       "indices": [
         92,
-        25,
-        14,
-        142,
-        147,
+        135,
+        97,
+        143,
+        107,
+        129,
+        22,
+        24,
         109
       ]
     },
     {
       "clue": null,
-      "answer": "shutdown",
-      "answer_letters": "SHUTDOWN",
-      "indices": [
-        154,
-        57,
-        36,
-        88,
-        114,
-        49,
-        107,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "munich",
-      "answer_letters": "MUNICH",
-      "indices": [
-        164,
-        18,
-        9,
-        45,
-        34,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assessing",
-      "answer_letters": "ASSESSING",
+      "answer": "attain",
+      "answer_letters": "ATTAIN",
       "indices": [
         168,
-        148,
-        173,
-        33,
-        99,
-        64,
+        175,
+        0,
+        17,
         153,
-        43,
-        179
+        43
       ]
     },
     {
       "clue": null,
-      "answer": "neolithic",
-      "answer_letters": "NEOLITHIC",
+      "answer": "niches",
+      "answer_letters": "NICHES",
       "indices": [
-        143,
-        61,
-        121,
-        75,
-        52,
-        140,
+        110,
+        91,
+        16,
         29,
-        58,
-        16
+        74,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "wheelbase",
-      "answer_letters": "WHEELBASE",
+      "answer": "whites",
+      "answer_letters": "WHITES",
       "indices": [
         40,
-        5,
-        79,
-        100,
-        119,
-        86,
-        97,
-        84,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "height",
-      "answer_letters": "HEIGHT",
-      "indices": [
-        41,
+        170,
+        112,
+        83,
         102,
-        30,
-        144,
-        90,
-        83
+        84
       ]
     },
     {
       "clue": null,
-      "answer": "outcome",
-      "answer_letters": "OUTCOME",
+      "answer": "hochschule",
+      "answer_letters": "HOCHSCHULE",
       "indices": [
-        139,
-        98,
-        126,
+        180,
+        25,
         96,
-        55,
-        31,
+        5,
+        131,
+        169,
+        41,
+        87,
+        172,
         63
       ]
     },
     {
       "clue": null,
-      "answer": "relatives",
-      "answer_letters": "RELATIVES",
+      "answer": "one-time",
+      "answer_letters": "ONETIME",
+      "indices": [
+        127,
+        71,
+        3,
+        126,
+        142,
+        31,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
       "indices": [
         167,
-        3,
-        172,
-        10,
-        181,
-        163,
-        26,
-        149,
-        131
+        42,
+        94,
+        139,
+        55,
+        181
       ]
     },
     {
@@ -272,17 +272,17 @@
       "answer": "exhibitions",
       "answer_letters": "EXHIBITIONS",
       "indices": [
-        146,
+        27,
         152,
         108,
         6,
-        158,
+        32,
         124,
-        0,
+        88,
         130,
-        115,
-        110,
-        136
+        48,
+        66,
+        173
       ]
     }
   ],

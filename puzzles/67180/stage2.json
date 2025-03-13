@@ -9,28 +9,124 @@
       "answer": "suffolk",
       "answer_letters": "SUFFOLK",
       "indices": [
-        135,
-        21,
-        5,
+        36,
+        48,
         107,
-        126,
-        67,
-        84
+        27,
+        68,
+        121,
+        179
       ]
     },
     {
       "clue": null,
-      "answer": "on-screen",
-      "answer_letters": "ONSCREEN",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
       "indices": [
         20,
-        174,
-        57,
-        55,
-        109,
+        66,
+        5,
+        144,
         118,
-        155,
-        85
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        98,
+        6,
+        8,
+        170,
+        116,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yokohama",
+      "answer_letters": "YOKOHAMA",
+      "indices": [
+        129,
+        173,
+        56,
+        69,
+        50,
+        168,
+        177,
+        32
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "advocacy",
+      "answer_letters": "ADVOCACY",
+      "indices": [
+        152,
+        92,
+        104,
+        126,
+        55,
+        113,
+        52,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hammond",
+      "answer_letters": "HAMMOND",
+      "indices": [
+        131,
+        9,
+        141,
+        24,
+        186,
+        153,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "antibody",
+      "answer_letters": "ANTIBODY",
+      "indices": [
+        178,
+        85,
+        158,
+        149,
+        161,
+        99,
+        172,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "regent",
+      "answer_letters": "REGENT",
+      "indices": [
+        46,
+        37,
+        18,
+        142,
+        133,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        123,
+        45,
+        40,
+        17,
+        84,
+        76
       ]
     },
     {
@@ -38,160 +134,65 @@
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
-        33,
-        68,
-        145,
-        78,
-        91,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yielding",
-      "answer_letters": "YIELDING",
-      "indices": [
-        1,
-        59,
-        64,
-        79,
-        156,
-        149,
         41,
+        47,
+        74,
+        95,
+        60,
         125
       ]
     },
     {
       "clue": null,
-      "answer": "aggies",
-      "answer_letters": "AGGIES",
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
       "indices": [
-        152,
-        185,
-        42,
-        95,
-        38,
+        180,
+        91,
+        96,
+        103,
+        151,
+        138,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "trump's",
+      "answer_letters": "TRUMPS",
+      "indices": [
+        139,
+        114,
+        21,
+        128,
+        12,
         10
       ]
     },
     {
       "clue": null,
-      "answer": "halftime",
-      "answer_letters": "HALFTIME",
+      "answer": "totals",
+      "answer_letters": "TOTALS",
       "indices": [
-        50,
-        9,
-        137,
-        66,
-        22,
-        82,
-        141,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attack",
-      "answer_letters": "ATTACK",
-      "indices": [
-        32,
-        44,
-        154,
-        178,
-        52,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        46,
-        14,
-        133,
-        103,
-        27,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        175,
-        54,
-        139,
-        123,
-        99,
-        186
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newman",
-      "answer_letters": "NEWMAN",
-      "indices": [
-        17,
-        105,
-        151,
-        24,
-        132,
-        98
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "earldom",
-      "answer_letters": "EARLDOM",
-      "indices": [
-        142,
-        146,
-        70,
-        87,
-        134,
-        13,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tested",
-      "answer_letters": "TESTED",
-      "indices": [
+        77,
+        108,
         100,
-        28,
-        36,
-        74,
-        86,
-        34
+        90,
+        3,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "toyota",
-      "answer_letters": "TOYOTA",
-      "indices": [
-        158,
-        173,
-        72,
-        69,
-        30,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "swedes",
-      "answer_letters": "SWEDES",
+      "answer": "settle",
+      "answer_letters": "SETTLE",
       "indices": [
         169,
-        8,
         29,
-        172,
-        112,
-        144
+        44,
+        154,
+        166,
+        112
       ]
     },
     {
@@ -199,81 +200,80 @@
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
-        48,
-        12,
-        63,
-        108,
-        3,
+        14,
+        165,
+        117,
+        159,
+        80,
+        34
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reggie",
+      "answer_letters": "REGGIE",
+      "indices": [
+        70,
+        105,
+        185,
+        42,
+        4,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reformed",
+      "answer_letters": "REFORMED",
+      "indices": [
+        15,
+        183,
+        111,
+        13,
+        53,
+        0,
+        162,
         94
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "eagles",
+      "answer_letters": "EAGLES",
       "indices": [
-        53,
-        45,
-        25,
-        88,
-        117,
-        128
+        28,
+        146,
+        163,
+        87,
+        86,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "removed",
-      "answer_letters": "REMOVED",
+      "answer": "nellie",
+      "answer_letters": "NELLIE",
       "indices": [
-        15,
-        6,
-        182,
-        47,
-        104,
-        170,
-        119
+        174,
+        155,
+        79,
+        137,
+        59,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "eligible",
-      "answer_letters": "ELIGIBLE",
+      "answer": "dignity",
+      "answer_letters": "DIGNITY",
       "indices": [
-        180,
-        121,
-        4,
-        49,
+        119,
         16,
-        161,
-        80,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "namely",
-      "answer_letters": "NAMELY",
-      "indices": [
-        153,
-        168,
-        177,
-        167,
-        166,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "desktop",
-      "answer_letters": "DESKTOP",
-      "indices": [
-        96,
-        37,
-        116,
-        179,
-        62,
-        159,
-        165
+        49,
+        33,
+        78,
+        145,
+        25
       ]
     },
     {
@@ -281,28 +281,28 @@
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
-        73,
-        102,
+        38,
+        182,
         39,
-        90,
-        77,
-        131,
+        54,
+        175,
+        63,
         147
       ]
     },
     {
       "clue": null,
-      "answer": "resigned",
-      "answer_letters": "RESIGNED",
+      "answer": "real-time",
+      "answer_letters": "REALTIME",
       "indices": [
-        114,
-        183,
-        76,
-        40,
-        163,
-        60,
-        162,
-        92
+        109,
+        64,
+        132,
+        67,
+        30,
+        82,
+        102,
+        122
       ]
     }
   ],

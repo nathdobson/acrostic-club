@@ -6,126 +6,173 @@
   "clues": [
     {
       "clue": null,
-      "answer": "gunshot",
-      "answer_letters": "GUNSHOT",
+      "answer": "guerrero",
+      "answer_letters": "GUERRERO",
       "indices": [
-        25,
+        12,
         43,
-        74,
-        146,
-        167,
-        20,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emilio",
-      "answer_letters": "EMILIO",
-      "indices": [
         87,
-        72,
-        113,
-        158,
-        29,
-        157
+        19,
+        111,
+        119,
+        82,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "oxford",
-      "answer_letters": "OXFORD",
+      "answer": "enormous",
+      "answer_letters": "ENORMOUS",
       "indices": [
-        130,
-        79,
-        109,
-        148,
-        176,
-        45
+        106,
+        74,
+        20,
+        39,
+        91,
+        157,
+        11,
+        146
       ]
     },
     {
       "clue": null,
-      "answer": "reopen",
-      "answer_letters": "REOPEN",
+      "answer": "outing",
+      "answer_letters": "OUTING",
       "indices": [
-        63,
-        71,
         136,
-        21,
-        81,
-        24
+        1,
+        144,
+        89,
+        85,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "guadeloupe",
-      "answer_letters": "GUADELOUPE",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
+      "indices": [
+        176,
+        62,
+        47,
+        6,
+        71,
+        63,
+        147,
+        36,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "giuseppe",
+      "answer_letters": "GIUSEPPE",
       "indices": [
         104,
+        23,
         172,
-        138,
-        135,
+        107,
         175,
-        150,
-        161,
-        149,
         38,
+        121,
         154
       ]
     },
     {
       "clue": null,
-      "answer": "estonia",
-      "answer_letters": "ESTONIA",
+      "answer": "executed",
+      "answer_letters": "EXECUTED",
       "indices": [
         84,
-        107,
+        79,
+        78,
+        2,
+        149,
         5,
-        171,
-        44,
-        23,
-        33
+        163,
+        135
       ]
     },
     {
       "clue": null,
-      "answer": "colbert",
-      "answer_letters": "COLBERT",
+      "answer": "coffin",
+      "answer_letters": "COFFIN",
       "indices": [
-        170,
+        28,
         40,
-        125,
-        153,
-        119,
-        111,
-        59
+        61,
+        109,
+        29,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "august",
-      "answer_letters": "AUGUST",
+      "answer": "adoptive",
+      "answer_letters": "ADOPTIVE",
       "indices": [
         92,
-        48,
-        12,
-        1,
-        128,
-        47
+        30,
+        56,
+        124,
+        59,
+        57,
+        162,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "rocket",
-      "answer_letters": "ROCKET",
+      "answer": "rollins",
+      "answer_letters": "ROLLINS",
       "indices": [
-        82,
+        118,
         117,
-        28,
-        3,
-        106,
-        144
+        150,
+        158,
+        143,
+        96,
+        70
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "london's",
+      "answer_letters": "LONDONS",
+      "indices": [
+        76,
+        97,
+        52,
+        151,
+        101,
+        24,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "italia",
+      "answer_letters": "ITALIA",
+      "indices": [
+        140,
+        114,
+        15,
+        132,
+        83,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nippon",
+      "answer_letters": "NIPPON",
+      "indices": [
+        173,
+        51,
+        22,
+        55,
+        103,
+        50
       ]
     },
     {
@@ -133,166 +180,119 @@
       "answer": "locked",
       "answer_letters": "LOCKED",
       "indices": [
-        76,
-        97,
-        86,
-        93,
-        122,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
-      "indices": [
-        83,
-        22,
-        129,
+        125,
         123,
-        50,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "narrow",
-      "answer_letters": "NARROW",
-      "indices": [
-        52,
-        99,
-        39,
-        16,
-        103,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "linden",
-      "answer_letters": "LINDEN",
-      "indices": [
-        132,
-        140,
-        96,
-        151,
+        86,
+        3,
         66,
-        173
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "austin",
-      "answer_letters": "AUSTIN",
+      "answer": "abraham",
+      "answer_letters": "ABRAHAM",
       "indices": [
-        15,
-        11,
-        70,
-        166,
-        143,
-        58
+        138,
+        153,
+        16,
+        33,
+        167,
+        27,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "sodium",
-      "answer_letters": "SODIUM",
+      "answer": "stupid",
+      "answer_letters": "STUPID",
       "indices": [
         156,
-        42,
-        141,
-        73,
-        131,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "topographic",
-      "answer_letters": "TOPOGRAPHIC",
-      "indices": [
         174,
-        101,
-        100,
-        56,
-        53,
-        10,
-        68,
-        80,
-        147,
-        51,
-        139
+        131,
+        21,
+        73,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "wilfred",
-      "answer_letters": "WILFRED",
+      "answer": "theodor",
+      "answer_letters": "THEODOR",
+      "indices": [
+        166,
+        129,
+        126,
+        130,
+        133,
+        148,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wrapped",
+      "answer_letters": "WRAPPED",
       "indices": [
         14,
-        57,
-        102,
-        61,
         164,
+        68,
+        100,
+        80,
         94,
         18
       ]
     },
     {
       "clue": null,
-      "answer": "officer",
-      "answer_letters": "OFFICER",
+      "answer": "office",
+      "answer_letters": "OFFICE",
       "indices": [
-        110,
+        161,
         41,
         0,
         105,
-        2,
-        78,
-        49
+        170,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "revamped",
-      "answer_letters": "REVAMPED",
+      "answer": "rowing",
+      "answer_letters": "ROWING",
       "indices": [
-        19,
-        163,
-        162,
-        27,
-        91,
-        121,
-        7,
-        159
+        49,
+        171,
+        32,
+        113,
+        44,
+        25
       ]
     },
     {
       "clue": null,
-      "answer": "domain",
-      "answer_letters": "DOMAIN",
+      "answer": "docked",
+      "answer_letters": "DOCKED",
       "indices": [
-        9,
-        62,
-        65,
-        36,
-        89,
-        85
+        45,
+        42,
+        139,
+        93,
+        81,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "sheppard",
-      "answer_letters": "SHEPPARD",
+      "answer": "samuel",
+      "answer_letters": "SAMUEL",
       "indices": [
         34,
-        6,
-        126,
-        55,
-        124,
         75,
-        118,
-        133
+        65,
+        48,
+        122,
+        102
       ]
     }
   ],

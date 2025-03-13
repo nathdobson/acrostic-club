@@ -6,173 +6,168 @@
   "clues": [
     {
       "clue": null,
-      "answer": "motorway",
-      "answer_letters": "MOTORWAY",
+      "answer": "microwave",
+      "answer_letters": "MICROWAVE",
       "indices": [
         179,
-        95,
-        118,
-        82,
-        37,
+        172,
+        78,
+        21,
+        178,
         103,
-        165,
-        161
+        15,
+        169,
+        31
       ]
     },
     {
       "clue": null,
-      "answer": "evaluations",
-      "answer_letters": "EVALUATIONS",
+      "answer": "everyday",
+      "answer_letters": "EVERYDAY",
       "indices": [
         5,
         166,
-        6,
-        171,
-        96,
-        90,
-        68,
-        70,
-        36,
-        124,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "launchers",
-      "answer_letters": "LAUNCHERS",
-      "indices": [
-        0,
-        15,
-        149,
-        136,
-        18,
-        73,
-        145,
-        89,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overthrow",
-      "answer_letters": "OVERTHROW",
-      "indices": [
-        111,
-        30,
-        31,
-        32,
-        46,
-        139,
-        67,
-        13,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "drawing",
-      "answer_letters": "DRAWING",
-      "indices": [
-        101,
-        128,
-        45,
-        156,
-        1,
-        141,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yiddish",
-      "answer_letters": "YIDDISH",
-      "indices": [
-        22,
-        81,
-        38,
-        10,
-        153,
-        154,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
-        100,
-        125,
-        106,
-        107,
-        75,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "evidently",
-      "answer_letters": "EVIDENTLY",
-      "indices": [
-        44,
-        132,
-        104,
+        167,
+        20,
+        49,
         122,
-        151,
-        43,
-        159,
-        29,
+        45,
         94
       ]
     },
     {
       "clue": null,
-      "answer": "everywhere",
-      "answer_letters": "EVERYWHERE",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
-        65,
-        126,
-        92,
-        62,
-        110,
-        12,
-        64,
-        133,
-        164,
-        140
+        29,
+        28,
+        25,
+        4,
+        8,
+        139,
+        95,
+        149,
+        27,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "marathon",
-      "answer_letters": "MARATHON",
+      "answer": "overland",
+      "answer_letters": "OVERLAND",
+      "indices": [
+        13,
+        30,
+        42,
+        32,
+        171,
+        165,
+        181,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dictionaries",
+      "answer_letters": "DICTIONARIES",
+      "indices": [
+        101,
+        104,
+        18,
+        118,
+        70,
+        36,
+        136,
+        120,
+        89,
+        115,
+        145,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yoruba",
+      "answer_letters": "YORUBA",
+      "indices": [
+        22,
+        50,
+        52,
+        61,
+        163,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lightweight",
+      "answer_letters": "LIGHTWEIGHT",
+      "indices": [
+        0,
+        23,
+        130,
+        106,
+        143,
+        138,
+        125,
+        1,
+        91,
+        47,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eurovision",
+      "answer_letters": "EUROVISION",
+      "indices": [
+        151,
+        96,
+        37,
+        82,
+        132,
+        135,
+        34,
+        131,
+        60,
+        121
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
+      "indices": [
+        92,
+        107,
+        39,
+        133,
+        57,
+        64,
+        79,
+        12,
+        140,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "manslaughter",
+      "answer_letters": "MANSLAUGHTER",
       "indices": [
         14,
         148,
-        7,
+        16,
+        150,
+        100,
         19,
-        175,
+        83,
+        75,
         117,
-        79,
-        16
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overthrown",
-      "answer_letters": "OVERTHROWN",
-      "indices": [
-        60,
-        169,
-        167,
-        20,
-        8,
-        4,
-        21,
-        178,
-        177,
-        3
+        175,
+        65,
+        7
       ]
     },
     {
@@ -180,43 +175,58 @@
       "answer": "okinawa",
       "answer_letters": "OKINAWA",
       "indices": [
-        87,
+        111,
         55,
-        23,
-        57,
-        120,
-        138,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neighbours",
-      "answer_letters": "NEIGHBOURS",
-      "indices": [
-        121,
-        42,
-        115,
-        91,
-        144,
-        163,
-        2,
-        74,
-        158,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "guiana",
-      "answer_letters": "GUIANA",
-      "indices": [
-        25,
-        112,
-        28,
-        180,
+        56,
         24,
-        173
+        6,
+        177,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overthrown",
+      "answer_letters": "OVERTHROWN",
+      "indices": [
+        87,
+        126,
+        9,
+        164,
+        68,
+        73,
+        128,
+        99,
+        156,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        174,
+        127,
+        35,
+        41,
+        74,
+        67,
+        161
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "gunshot",
+      "answer_letters": "GUNSHOT",
+      "indices": [
+        116,
+        112,
+        108,
+        84,
+        144,
+        2,
+        46
       ]
     },
     {
@@ -229,57 +239,47 @@
         51,
         105,
         98,
-        27
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "percussion",
-      "answer_letters": "PERCUSSION",
+      "answer": "pacific",
+      "answer_letters": "PACIFIC",
       "indices": [
         80,
-        127,
-        52,
-        78,
-        61,
-        34,
-        84,
-        135,
-        50,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "significance",
-      "answer_letters": "SIGNIFICANCE",
-      "indices": [
-        71,
-        131,
-        116,
-        174,
-        172,
-        114,
-        56,
+        180,
         86,
-        66,
-        108,
-        147,
-        76
+        81,
+        114,
+        153,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "youtube",
-      "answer_letters": "YOUTUBE",
+      "answer": "shared",
+      "answer_letters": "SHARED",
       "indices": [
-        49,
-        99,
-        83,
-        143,
+        154,
+        160,
+        173,
+        158,
+        76,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
+      "indices": [
+        110,
         88,
-        41,
-        9
+        43,
+        124,
+        170,
+        3
       ]
     }
   ],

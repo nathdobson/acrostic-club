@@ -6,101 +6,97 @@
   "clues": [
     {
       "clue": null,
-      "answer": "newman",
-      "answer_letters": "NEWMAN",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
-        166,
-        148,
+        157,
+        40,
+        44,
+        187,
         5,
-        69,
-        101,
-        141
+        55,
+        148,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "evidently",
-      "answer_letters": "EVIDENTLY",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        170,
-        108,
-        161,
-        142,
-        135,
+        128,
+        26,
+        118,
+        152,
+        110,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invalid",
+      "answer_letters": "INVALID",
+      "indices": [
+        68,
         63,
-        22,
-        117,
+        108,
+        101,
+        174,
+        96,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lonely",
+      "answer_letters": "LONELY",
+      "indices": [
+        100,
+        74,
+        102,
+        184,
+        27,
         136
       ]
     },
     {
       "clue": null,
-      "answer": "insects",
-      "answer_letters": "INSECTS",
-      "indices": [
-        68,
-        157,
-        138,
-        55,
-        7,
-        94,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
-      "indices": [
-        41,
-        184,
-        20,
-        43,
-        35,
-        169,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gabled",
-      "answer_letters": "GABLED",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
         163,
-        2,
-        70,
-        174,
+        23,
         71,
-        175
+        80,
+        159,
+        18
       ]
     },
     {
       "clue": null,
-      "answer": "alcohol",
-      "answer_letters": "ALCOHOL",
+      "answer": "arched",
+      "answer_letters": "ARCHED",
       "indices": [
-        15,
-        149,
+        9,
+        183,
         66,
-        158,
         160,
-        4,
-        85
+        135,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "inferred",
-      "answer_letters": "INFERRED",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
       "indices": [
-        113,
-        97,
-        26,
-        37,
-        30,
-        110,
-        92,
-        3
+        132,
+        58,
+        138,
+        10,
+        161,
+        7,
+        172
       ]
     },
     {
@@ -108,127 +104,12 @@
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
-        186,
-        145,
-        154,
-        112,
-        152,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abdomen",
-      "answer_letters": "ABDOMEN",
-      "indices": [
-        140,
-        54,
-        64,
-        107,
         49,
-        128,
-        121
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        162,
         173,
-        10,
-        179,
-        177,
-        44,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adolph",
-      "answer_letters": "ADOLPH",
-      "indices": [
-        185,
-        13,
-        33,
-        42,
-        58,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "manifesto",
-      "answer_letters": "MANIFESTO",
-      "indices": [
-        114,
-        120,
-        102,
-        132,
-        118,
-        116,
-        0,
-        76,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        137,
-        16,
-        1,
-        74,
-        24,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhodes",
-      "answer_letters": "RHODES",
-      "indices": [
-        17,
+        94,
         144,
-        18,
-        150,
-        40,
-        127
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        86,
-        178,
-        172,
-        165,
-        99,
-        79,
-        90,
-        109,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "christoph",
-      "answer_letters": "CHRISTOPH",
-      "indices": [
-        124,
-        131,
-        56,
-        96,
-        133,
-        105,
-        180,
-        82,
-        36
+        107,
+        167
       ]
     },
     {
@@ -236,80 +117,199 @@
       "answer": "andhra",
       "answer_letters": "ANDHRA",
       "indices": [
-        62,
-        75,
-        182,
-        91,
-        51,
-        59
+        120,
+        121,
+        64,
+        112,
+        30,
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "norfolk",
-      "answer_letters": "NORFOLK",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        87,
+        33,
+        51,
+        154,
+        91,
+        133,
+        177,
+        52,
+        22,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ashford",
+      "answer_letters": "ASHFORD",
+      "indices": [
+        59,
+        19,
+        169,
+        46,
+        29,
+        8,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "modelled",
+      "answer_letters": "MODELLED",
+      "indices": [
+        114,
+        47,
+        182,
+        92,
+        117,
+        149,
+        116,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
+      "indices": [
+        137,
+        16,
+        1,
+        155,
+        24,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "raphael",
+      "answer_letters": "RAPHAEL",
+      "indices": [
+        17,
+        140,
+        82,
+        131,
+        15,
+        145,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intends",
+      "answer_letters": "INTENDS",
+      "indices": [
+        79,
+        75,
+        35,
+        109,
+        97,
+        122,
+        0
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chamber",
+      "answer_letters": "CHAMBER",
+      "indices": [
+        124,
+        36,
+        2,
+        186,
+        53,
+        170,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "allotted",
+      "answer_letters": "ALLOTTED",
+      "indices": [
+        62,
+        11,
+        42,
+        126,
+        76,
+        179,
+        37,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nationally",
+      "answer_letters": "NATIONALLY",
       "indices": [
         153,
+        165,
+        90,
+        86,
         28,
-        8,
-        46,
-        155,
-        84,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "globally",
-      "answer_letters": "GLOBALLY",
-      "indices": [
-        88,
-        100,
-        47,
-        53,
+        178,
         48,
-        27,
-        11,
+        84,
+        41,
         39
       ]
     },
     {
       "clue": null,
-      "answer": "others",
-      "answer_letters": "OTHERS",
+      "answer": "gibson",
+      "answer_letters": "GIBSON",
       "indices": [
-        77,
-        80,
-        23,
-        104,
-        183,
-        187
+        88,
+        113,
+        99,
+        127,
+        43,
+        162
       ]
     },
     {
       "clue": null,
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "answer": "o'donnell",
+      "answer_letters": "ODONNELL",
+      "indices": [
+        180,
+        175,
+        158,
+        166,
+        141,
+        104,
+        125,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dubbed",
+      "answer_letters": "DUBBED",
       "indices": [
         60,
-        52,
-        125,
         83,
-        159,
-        95
+        54,
+        70,
+        12,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "slated",
-      "answer_letters": "SLATED",
+      "answer": "smooth",
+      "answer_letters": "SMOOTH",
       "indices": [
         115,
-        67,
-        9,
+        69,
+        4,
+        77,
         32,
-        12,
-        72
+        95
       ]
     }
   ],

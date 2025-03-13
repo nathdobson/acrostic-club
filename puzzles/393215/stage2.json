@@ -6,271 +6,216 @@
   "clues": [
     {
       "clue": null,
-      "answer": "keeper",
-      "answer_letters": "KEEPER",
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
       "indices": [
         19,
+        158,
+        123,
+        125,
         42,
-        107,
-        53,
-        64,
         174
       ]
     },
     {
       "clue": null,
-      "answer": "remember",
-      "answer_letters": "REMEMBER",
+      "answer": "richter",
+      "answer_letters": "RICHTER",
       "indices": [
         26,
-        142,
-        169,
-        33,
-        138,
-        125,
-        110,
+        7,
+        11,
+        131,
+        165,
+        107,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "ingram",
-      "answer_letters": "INGRAM",
+      "answer": "inmates",
+      "answer_letters": "INMATES",
       "indices": [
-        20,
+        92,
         75,
-        60,
-        109,
+        13,
         1,
-        0
+        140,
+        137,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "somehow",
-      "answer_letters": "SOMEHOW",
+      "answer": "smoothly",
+      "answer_letters": "SMOOTHLY",
       "indices": [
         105,
+        169,
         12,
-        13,
-        137,
-        131,
         18,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-storey",
-      "answer_letters": "TWOSTOREY",
-      "indices": [
-        165,
-        146,
-        31,
-        143,
-        157,
-        17,
-        2,
-        14,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inches",
-      "answer_letters": "INCHES",
-      "indices": [
-        7,
-        70,
-        11,
-        158,
-        89,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        32,
-        102,
-        91,
-        76,
-        126,
-        6,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "high-end",
-      "answer_letters": "HIGHEND",
-      "indices": [
-        94,
-        50,
-        22,
-        106,
-        159,
-        84,
-        46
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adjusted",
-      "answer_letters": "ADJUSTED",
-      "indices": [
-        49,
-        149,
-        66,
-        68,
-        86,
-        116,
-        55,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        119,
-        163,
         93,
-        141,
-        36,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
-      "indices": [
-        103,
-        67,
-        172,
-        147,
-        120,
+        101,
+        16,
         127
       ]
     },
     {
       "clue": null,
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
+      "answer": "themes",
+      "answer_letters": "THEMES",
       "indices": [
-        71,
-        62,
-        82,
-        72,
-        97,
-        135,
-        173,
-        130
+        76,
+        4,
+        110,
+        138,
+        89,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "hammersmith",
-      "answer_letters": "HAMMERSMITH",
+      "answer": "interested",
+      "answer_letters": "INTERESTED",
       "indices": [
-        101,
-        45,
-        171,
-        79,
-        168,
-        98,
-        150,
-        122,
-        92,
+        20,
+        70,
+        157,
+        64,
+        2,
+        142,
+        128,
         41,
-        4
+        33,
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "fischer",
-      "answer_letters": "FISCHER",
+      "answer": "newcomers",
+      "answer_letters": "NEWCOMERS",
       "indices": [
-        24,
-        58,
-        57,
+        21,
+        102,
+        152,
         162,
-        96,
+        147,
+        79,
+        159,
+        69,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hometown",
+      "answer_letters": "HOMETOWN",
+      "indices": [
+        94,
+        126,
+        122,
         154,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehman",
-      "answer_letters": "LEHMAN",
-      "indices": [
-        16,
-        144,
-        44,
-        28,
-        111,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yearbook",
-      "answer_letters": "YEARBOOK",
-      "indices": [
-        160,
-        177,
-        118,
-        54,
-        88,
-        77,
-        132,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "asthma",
-      "answer_letters": "ASTHMA",
-      "indices": [
-        40,
-        113,
-        140,
-        63,
-        176,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wholly",
-      "answer_letters": "WHOLLY",
-      "indices": [
-        133,
-        136,
+        62,
         25,
-        9,
-        8,
+        91,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amnesty",
+      "answer_letters": "AMNESTY",
+      "indices": [
+        118,
+        28,
+        155,
+        177,
+        130,
+        116,
         80
       ]
     },
     {
       "clue": null,
-      "answer": "answered",
-      "answer_letters": "ANSWERED",
+      "answer": "nanjing",
+      "answer_letters": "NANJING",
       "indices": [
+        119,
         83,
-        164,
-        56,
-        100,
-        29,
-        69,
-        170,
-        51
+        59,
+        66,
+        50,
+        32,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "numbers",
+      "answer_letters": "NUMBERS",
+      "indices": [
+        103,
+        68,
+        0,
+        172,
+        14,
+        109,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adolph",
+      "answer_letters": "ADOLPH",
+      "indices": [
+        71,
+        112,
+        132,
+        8,
+        53,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "horseshoe",
+      "answer_letters": "HORSESHOE",
+      "indices": [
+        141,
+        31,
+        98,
+        113,
+        168,
+        57,
+        63,
+        17,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "flowed",
+      "answer_letters": "FLOWED",
+      "indices": [
+        24,
+        72,
+        77,
+        6,
+        144,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        9,
+        97,
+        106,
+        58,
+        22,
+        96
       ]
     },
     {
@@ -278,13 +223,68 @@
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
-        37,
+        160,
         115,
-        85,
-        112,
+        149,
+        35,
         74,
-        48,
-        153
+        86,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
+      "indices": [
+        163,
+        146,
+        39,
+        100,
+        36,
+        167,
+        46
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "weather",
+      "answer_letters": "WEATHER",
+      "indices": [
+        133,
+        173,
+        49,
+        135,
+        82,
+        55,
+        54
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abdomen",
+      "answer_letters": "ABDOMEN",
+      "indices": [
+        45,
+        88,
+        51,
+        67,
+        171,
+        170,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        37,
+        40,
+        176,
+        3,
+        44,
+        111
       ]
     }
   ],

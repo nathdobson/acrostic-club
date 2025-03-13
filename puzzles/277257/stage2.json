@@ -6,110 +6,58 @@
   "clues": [
     {
       "clue": null,
-      "answer": "sleeve",
-      "answer_letters": "SLEEVE",
+      "answer": "subgenus",
+      "answer_letters": "SUBGENUS",
       "indices": [
-        45,
-        2,
-        4,
-        133,
-        137,
-        8
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eleanor",
-      "answer_letters": "ELEANOR",
-      "indices": [
-        186,
-        85,
-        171,
-        184,
+        113,
+        25,
+        55,
+        170,
+        8,
         43,
-        79,
-        132
+        131,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "hypotheses",
-      "answer_letters": "HYPOTHESES",
+      "answer": "employee",
+      "answer_letters": "EMPLOYEE",
       "indices": [
-        175,
-        92,
-        193,
-        86,
-        57,
-        7,
-        153,
-        1,
-        48,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intermediate",
-      "answer_letters": "INTERMEDIATE",
-      "indices": [
-        38,
-        34,
-        21,
-        160,
-        98,
+        70,
         149,
-        51,
-        134,
-        126,
-        109,
-        119,
-        176
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        81,
-        89,
-        158,
-        61,
-        192,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "typhoon",
-      "answer_letters": "TYPHOON",
-      "indices": [
-        179,
-        83,
-        155,
-        80,
-        87,
+        117,
+        2,
         12,
-        177
+        166,
+        4,
+        133
       ]
     },
     {
       "clue": null,
-      "answer": "overlooking",
-      "answer_letters": "OVERLOOKING",
+      "answer": "hip-hop",
+      "answer_letters": "HIPHOP",
       "indices": [
+        32,
+        38,
+        5,
+        175,
         124,
-        47,
-        52,
-        139,
-        19,
-        42,
-        141,
-        13,
-        59,
-        53,
-        96
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        126,
+        155,
+        7,
+        87,
+        95,
+        106
       ]
     },
     {
@@ -117,171 +65,221 @@
       "answer": "non-league",
       "answer_letters": "NONLEAGUE",
       "indices": [
-        103,
-        121,
-        142,
-        10,
-        46,
-        150,
-        40,
+        39,
+        66,
+        53,
+        159,
+        192,
+        162,
+        130,
         168,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twenty-one",
+      "answer_letters": "TWENTYONE",
+      "indices": [
+        179,
+        174,
+        191,
+        177,
+        21,
+        92,
+        157,
+        34,
+        160
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "operates",
+      "answer_letters": "OPERATES",
+      "indices": [
+        141,
+        193,
+        52,
+        132,
+        109,
+        57,
+        143,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "networking",
+      "answer_letters": "NETWORKING",
+      "indices": [
+        103,
+        164,
+        76,
+        100,
+        121,
+        139,
+        13,
+        146,
+        142,
+        40
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theology",
+      "answer_letters": "THEOLOGY",
+      "indices": [
+        50,
+        105,
+        48,
+        11,
+        114,
+        86,
+        36,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "head-to-head",
+      "answer_letters": "HEADTOHEAD",
+      "indices": [
+        74,
+        116,
+        112,
+        147,
+        67,
+        167,
+        61,
+        46,
+        33,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enjoyed",
+      "answer_letters": "ENJOYED",
+      "indices": [
+        28,
+        26,
+        78,
+        42,
+        182,
+        3,
+        145
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ordinary",
+      "answer_letters": "ORDINARY",
+      "indices": [
+        93,
+        29,
+        63,
+        59,
+        81,
+        17,
+        98,
+        140
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unable",
+      "answer_letters": "UNABLE",
+      "indices": [
+        56,
+        49,
+        184,
+        152,
+        10,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "teenager",
+      "answer_letters": "TEENAGER",
+      "indices": [
+        31,
+        97,
+        115,
+        65,
+        0,
+        27,
+        89,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sleeve",
+      "answer_letters": "SLEEVE",
+      "indices": [
+        123,
+        19,
+        51,
+        176,
+        137,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
+        68,
+        82,
+        73,
+        150,
+        88,
         136
       ]
     },
     {
       "clue": null,
-      "answer": "though",
-      "answer_letters": "THOUGH",
+      "answer": "delayed",
+      "answer_letters": "DELAYED",
       "indices": [
-        50,
-        105,
-        11,
-        56,
-        27,
-        32
+        134,
+        186,
+        85,
+        188,
+        83,
+        171,
+        71
       ]
     },
     {
       "clue": null,
-      "answer": "hollywood",
-      "answer_letters": "HOLLYWOOD",
+      "answer": "endeavor",
+      "answer_letters": "ENDEAVOR",
       "indices": [
-        180,
-        24,
-        159,
-        114,
-        23,
-        100,
+        14,
+        169,
+        15,
+        138,
+        75,
+        47,
         37,
-        167,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "engage",
-      "answer_letters": "ENGAGE",
-      "indices": [
-        28,
-        39,
-        130,
-        162,
-        36,
-        3
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-year",
-      "answer_letters": "ONEYEAR",
-      "indices": [
-        66,
-        65,
-        97,
-        182,
-        115,
-        17,
         185
       ]
     },
     {
       "clue": null,
-      "answer": "underground",
-      "answer_letters": "UNDERGROUND",
-      "indices": [
-        25,
-        26,
-        90,
-        143,
-        172,
-        170,
-        29,
-        157,
-        131,
-        49,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "topeka",
-      "answer_letters": "TOPEKA",
-      "indices": [
-        31,
-        93,
-        5,
-        164,
-        88,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "speedy",
-      "answer_letters": "SPEEDY",
-      "indices": [
-        113,
-        117,
-        156,
-        191,
-        145,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhabited",
-      "answer_letters": "INHABITED",
-      "indices": [
-        68,
-        82,
-        74,
-        33,
-        55,
-        146,
-        76,
-        116,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "define",
-      "answer_letters": "DEFINE",
-      "indices": [
-        71,
-        181,
-        128,
-        129,
-        95,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enjoyable",
-      "answer_letters": "ENJOYABLE",
-      "indices": [
-        14,
-        169,
-        78,
-        120,
-        140,
-        112,
-        152,
-        190,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "raceway",
-      "answer_letters": "RACEWAY",
+      "answer": "right-of-way",
+      "answer_letters": "RIGHTOFWAY",
       "indices": [
         163,
-        188,
-        69,
-        70,
+        129,
+        96,
+        80,
+        119,
+        79,
+        128,
         108,
         62,
         151
@@ -289,18 +287,20 @@
     },
     {
       "clue": null,
-      "answer": "southeast",
-      "answer_letters": "SOUTHEAST",
+      "answer": "schoolhouse",
+      "answer_letters": "SCHOOLHOUSE",
       "indices": [
         189,
-        20,
-        94,
-        67,
+        69,
         101,
-        102,
-        75,
+        20,
+        120,
+        190,
+        180,
+        24,
+        94,
         110,
-        73
+        102
       ]
     }
   ],

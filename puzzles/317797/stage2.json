@@ -6,63 +6,70 @@
   "clues": [
     {
       "clue": null,
-      "answer": "analyzed",
-      "answer_letters": "ANALYZED",
+      "answer": "amount",
+      "answer_letters": "AMOUNT",
       "indices": [
+        52,
+        37,
+        158,
+        135,
+        53,
+        178
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "networking",
+      "answer_letters": "NETWORKING",
+      "indices": [
+        168,
+        115,
+        9,
+        91,
+        108,
+        180,
+        166,
+        71,
+        26,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "naturalized",
+      "answer_letters": "NATURALIZED",
+      "indices": [
+        69,
         0,
-        120,
+        141,
+        81,
+        116,
         147,
         97,
-        89,
+        102,
         137,
-        156,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nightmare",
-      "answer_letters": "NIGHTMARE",
-      "indices": [
-        26,
-        71,
-        169,
-        5,
-        75,
-        29,
-        19,
-        180,
-        106
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        53,
-        173,
-        175,
-        150,
         125,
-        14
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "agreements",
-      "answer_letters": "AGREEMENTS",
+      "answer": "advertisement",
+      "answer_letters": "ADVERTISEMENT",
       "indices": [
         63,
-        110,
-        58,
+        22,
+        31,
         121,
+        58,
+        103,
+        167,
+        56,
         12,
         164,
         24,
         64,
-        103,
-        56
+        95
       ]
     },
     {
@@ -71,50 +78,45 @@
       "answer_letters": "BETHLEHEM",
       "indices": [
         105,
-        82,
-        178,
-        47,
+        156,
+        159,
+        142,
         80,
+        82,
+        150,
         139,
-        155,
-        127,
-        37
+        185
       ]
     },
     {
       "clue": null,
-      "answer": "domestically",
-      "answer_letters": "DOMESTICALLY",
+      "answer": "demolished",
+      "answer_letters": "DEMOLISHED",
       "indices": [
-        72,
-        129,
+        54,
+        106,
         11,
-        45,
-        25,
-        9,
-        15,
-        177,
-        165,
-        60,
+        129,
         16,
-        40
+        15,
+        25,
+        5,
+        45,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "optimistic",
-      "answer_letters": "OPTIMISTIC",
+      "answer": "o'reilly",
+      "answer_letters": "OREILLY",
       "indices": [
-        108,
-        123,
-        154,
+        68,
+        35,
+        59,
         93,
-        20,
-        43,
-        94,
-        4,
-        98,
-        126
+        1,
+        2,
+        40
       ]
     },
     {
@@ -122,162 +124,160 @@
       "answer": "emphasized",
       "answer_letters": "EMPHASIZED",
       "indices": [
-        161,
+        100,
         146,
         134,
-        114,
-        52,
+        155,
+        132,
         152,
-        10,
+        48,
         136,
-        151,
+        188,
         44
       ]
     },
     {
       "clue": null,
-      "answer": "legitimate",
-      "answer_letters": "LEGITIMATE",
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
       "indices": [
-        187,
-        181,
-        79,
-        18,
-        159,
-        48,
+        107,
+        89,
         39,
-        92,
-        171,
-        190
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outspoken",
-      "answer_letters": "OUTSPOKEN",
-      "indices": [
-        23,
-        135,
-        113,
-        49,
         186,
-        119,
-        99,
-        59,
-        168
+        51,
+        23,
+        20,
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "sticky",
-      "answer_letters": "STICKY",
+      "answer": "olympiacos",
+      "answer_letters": "OLYMPIACOS",
+      "indices": [
+        119,
+        187,
+        61,
+        88,
+        123,
+        124,
+        165,
+        177,
+        184,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "settlements",
+      "answer_letters": "SETTLEMENTS",
       "indices": [
         111,
+        161,
         27,
-        124,
-        183,
-        166,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "touched",
-      "answer_letters": "TOUCHED",
-      "indices": [
         148,
-        184,
-        179,
-        67,
-        160,
-        73,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "foothills",
-      "answer_letters": "FOOTHILLS",
-      "indices": [
-        130,
-        30,
-        68,
-        189,
-        172,
-        176,
         17,
-        76,
+        151,
+        29,
+        181,
+        74,
+        189,
         42
       ]
     },
     {
       "clue": null,
-      "answer": "overwhelmed",
-      "answer_letters": "OVERWHELMED",
+      "answer": "thought",
+      "answer_letters": "THOUGHT",
+      "indices": [
+        154,
+        114,
+        30,
+        179,
+        110,
+        160,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "flyweight",
+      "answer_letters": "FLYWEIGHT",
+      "indices": [
+        130,
+        76,
+        77,
+        14,
+        190,
+        176,
+        79,
+        172,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offence",
+      "answer_letters": "OFFENCE",
       "indices": [
         36,
-        31,
-        117,
-        35,
-        91,
-        51,
-        100,
-        107,
-        185,
-        188,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ultimately",
-      "answer_letters": "ULTIMATELY",
-      "indices": [
-        57,
-        1,
-        85,
-        6,
-        88,
-        132,
-        144,
-        115,
-        2,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "north-central",
-      "answer_letters": "NORTHCENTRAL",
-      "indices": [
-        109,
-        158,
-        116,
-        95,
-        142,
-        149,
-        32,
-        69,
-        141,
-        162,
-        143,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "diffusion",
-      "answer_letters": "DIFFUSION",
-      "indices": [
-        65,
-        167,
         34,
         70,
-        81,
-        7,
-        102,
+        127,
+        120,
+        126,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utilities",
+      "answer_letters": "UTILITIES",
+      "indices": [
+        57,
+        144,
+        43,
+        60,
+        98,
+        75,
+        6,
+        73,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "necklace",
+      "answer_letters": "NECKLACE",
+      "indices": [
+        109,
+        32,
+        149,
+        99,
+        138,
+        143,
+        183,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dictatorship",
+      "answer_letters": "DICTATORSHIP",
+      "indices": [
+        83,
+        10,
+        67,
+        171,
+        92,
+        113,
         86,
-        74
+        162,
+        7,
+        47,
+        18,
+        175
       ]
     }
   ],

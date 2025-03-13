@@ -6,191 +6,28 @@
   "clues": [
     {
       "clue": null,
-      "answer": "affect",
-      "answer_letters": "AFFECT",
+      "answer": "artist",
+      "answer_letters": "ARTIST",
       "indices": [
         170,
-        104,
-        109,
-        152,
-        4,
-        90
+        176,
+        9,
+        158,
+        17,
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "nascar",
-      "answer_letters": "NASCAR",
+      "answer": "newton",
+      "answer_letters": "NEWTON",
       "indices": [
         75,
-        177,
-        17,
-        136,
-        168,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "devised",
-      "answer_letters": "DEVISED",
-      "indices": [
-        100,
-        165,
-        117,
-        151,
-        20,
-        83,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "refining",
-      "answer_letters": "REFINING",
-      "indices": [
-        176,
-        61,
-        85,
-        19,
-        171,
-        97,
-        93,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elegans",
-      "answer_letters": "ELEGANS",
-      "indices": [
-        113,
-        23,
-        118,
-        88,
-        121,
-        164,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ashore",
-      "answer_letters": "ASHORE",
-      "indices": [
-        22,
-        167,
-        15,
-        142,
-        73,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harbor",
-      "answer_letters": "HARBOR",
-      "indices": [
-        141,
-        74,
-        144,
-        106,
-        175,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emotions",
-      "answer_letters": "EMOTIONS",
-      "indices": [
-        40,
-        79,
-        99,
-        154,
-        137,
-        27,
-        6,
-        123
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "latvia",
-      "answer_letters": "LATVIA",
-      "indices": [
-        41,
-        138,
-        129,
-        81,
-        44,
-        11
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        9,
+        31,
         48,
-        5,
-        112,
-        51,
-        110
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "specify",
-      "answer_letters": "SPECIFY",
-      "indices": [
-        122,
-        96,
-        53,
-        29,
-        0,
-        38,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "latino",
-      "answer_letters": "LATINO",
-      "indices": [
-        24,
-        92,
-        66,
-        36,
-        56,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "escape",
-      "answer_letters": "ESCAPE",
-      "indices": [
-        46,
-        2,
-        174,
-        116,
-        120,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yorker",
-      "answer_letters": "YORKER",
-      "indices": [
-        162,
-        64,
-        157,
-        45,
-        77,
-        143
+        90,
+        142,
+        171
       ]
     },
     {
@@ -198,108 +35,271 @@
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
-        125,
-        16,
-        69,
-        133,
-        31,
-        87
+        172,
+        36,
+        109,
+        38,
+        155,
+        143
       ]
     },
     {
       "clue": null,
-      "answer": "imports",
-      "answer_letters": "IMPORTS",
+      "answer": "receive",
+      "answer_letters": "RECEIVE",
       "indices": [
-        135,
-        60,
-        33,
-        160,
-        156,
-        159,
-        26
+        87,
+        101,
+        136,
+        3,
+        19,
+        117,
+        152
       ]
     },
     {
       "clue": null,
-      "answer": "stereo",
-      "answer_letters": "STEREO",
+      "answer": "errors",
+      "answer_letters": "ERRORS",
+      "indices": [
+        118,
+        156,
+        52,
+        86,
+        30,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "apparel",
+      "answer_letters": "APPAREL",
+      "indices": [
+        22,
+        120,
+        33,
+        177,
+        73,
+        32,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hockey",
+      "answer_letters": "HOCKEY",
+      "indices": [
+        15,
+        175,
+        174,
+        45,
+        40,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        165,
+        85,
+        104,
+        83,
+        29,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
+      "indices": [
+        23,
+        103,
+        112,
+        113,
+        122,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "torino",
+      "answer_letters": "TORINO",
+      "indices": [
+        66,
+        99,
+        161,
+        82,
+        128,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "seated",
+      "answer_letters": "SEATED",
       "indices": [
         166,
-        12,
-        155,
-        52,
         39,
-        130
+        121,
+        12,
+        53,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "stories",
-      "answer_letters": "STORIES",
+      "answer": "lombard",
+      "answer_letters": "LOMBARD",
       "indices": [
-        98,
-        14,
+        24,
+        64,
+        60,
+        106,
+        92,
+        157,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "erosion",
+      "answer_letters": "EROSION",
+      "indices": [
+        77,
+        144,
+        5,
+        2,
+        55,
         149,
-        65,
-        127,
-        124,
+        93
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "young's",
+      "answer_letters": "YOUNGS",
+      "indices": [
+        34,
+        160,
+        107,
+        56,
+        88,
         63
       ]
     },
     {
       "clue": null,
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
+      "answer": "disagree",
+      "answer_letters": "DISAGREE",
       "indices": [
-        145,
-        108,
-        134,
-        71,
-        115,
-        80,
-        30,
-        95
+        125,
+        16,
+        167,
+        168,
+        76,
+        146,
+        61,
+        49
       ]
     },
     {
       "clue": null,
-      "answer": "lithium",
-      "answer_letters": "LITHIUM",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
+      "indices": [
+        137,
+        123,
+        138,
+        151,
+        11,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "soloist",
+      "answer_letters": "SOLOIST",
+      "indices": [
+        20,
+        130,
+        41,
+        145,
+        135,
+        26,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sharia",
+      "answer_letters": "SHARIA",
+      "indices": [
+        98,
+        10,
+        116,
+        65,
+        127,
+        51
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        80,
+        6,
+        95,
+        59,
+        108,
+        134
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
       "indices": [
         43,
-        55,
-        72,
-        10,
-        82,
-        107,
-        148
+        162,
+        148,
+        96,
+        141,
+        132,
+        79,
+        74
       ]
     },
     {
       "clue": null,
-      "answer": "voodoo",
-      "answer_letters": "VOODOO",
+      "answer": "vision",
+      "answer_letters": "VISION",
       "indices": [
         150,
-        59,
-        103,
-        7,
+        0,
+        71,
+        44,
         68,
-        86
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "eileen",
-      "answer_letters": "EILEEN",
+      "answer": "effective",
+      "answer_letters": "EFFECTIVE",
       "indices": [
-        49,
-        158,
-        139,
-        101,
-        3,
-        128
+        46,
+        69,
+        133,
+        89,
+        4,
+        72,
+        97,
+        81,
+        124
       ]
     }
   ],

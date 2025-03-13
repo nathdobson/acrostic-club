@@ -1,28 +1,29 @@
+use futures::{stream, SinkExt, StreamExt};
 use std::cell::{Cell, RefCell};
 use std::collections::{HashMap, HashSet};
 use std::fmt::Write;
-use std::io;
 use std::io::ErrorKind;
 use std::mem::swap;
-use std::sync::Arc;
 use std::sync::atomic::AtomicUsize;
 use std::sync::atomic::Ordering::Relaxed;
+use std::sync::Arc;
 use std::time::Instant;
-use futures::{SinkExt, stream, StreamExt};
+use std::{io, iter};
 
-use itertools::{Itertools, max};
-use rand::{Rng, SeedableRng, thread_rng};
+use acrostic_core::letter::{Letter, LetterMap, LetterSet};
+use itertools::{max, Itertools};
+use ordered_float::{NotNan, OrderedFloat};
 use rand::rngs::StdRng;
 use rand::seq::SliceRandom;
+use rand::{thread_rng, Rng, SeedableRng};
 use rand_xorshift::XorShiftRng;
 use safe_once_map::sync::OnceLockMap;
-use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
 // use crate::trie::Trie;
 use crate::dict::FlatWord;
 use crate::model::{Model, Word};
 use crate::puzzle::{Clue, Puzzle};
-use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
+use crate::trie_table::{FlatTrieTable, FLAT_TRIE_TABLE};
 use crate::util::lazy_async::CloneError;
 
 pub struct Search {
@@ -57,7 +58,11 @@ impl Search {
             }
             remainder = remainder - *word;
         }
-        Some(Solution { words, remainder, rng })
+        Some(Solution {
+            words,
+            remainder,
+            rng,
+        })
     }
     #[inline(never)]
     fn randomize1(&self, solution: &mut Solution, index: usize) {
@@ -65,8 +70,11 @@ impl Search {
         if old.count() > 4 {
             solution.set_word(index, LetterSet::new());
             let mut found = vec![];
-            self.table.unary[self.source[index]]
-                .search_largest_subset(solution.remainder, old.count() - 1, &mut found);
+            self.table.unary[self.source[index]].search_largest_subset(
+                solution.remainder,
+                old.count() - 1,
+                &mut found,
+            );
             if let Some(found) = found.choose(&mut solution.rng) {
                 solution.set_word(index, *found);
             } else {
@@ -88,22 +96,44 @@ impl Search {
         solution.set_word(index, LetterSet::new());
         let min_len = old.count();
         let mut found = vec![];
-        self.table.unary[self.source[index]]
-            .search_smallest_subset(solution.remainder, min_len + 1, &mut found);
-        if let Some(found) = found.choose(&mut solution.rng) {
-            solution.set_word(index, *found);
+        self.table.unary[self.source[index]].search_smallest_subset(
+            solution.remainder,
+            min_len + 1,
+            &mut found,
+        );
+        if found.is_empty() {
+            solution.set_word(index, old);
+            return false;
+        } else {
+            found.sort_by_cached_key(|x| {
+                NotNan::new(-(x.scrabble_score() as f64 / x.count() as f64)).unwrap()
+            });
+            let selected = iter::repeat(())
+                .take_while(|()| solution.rng.gen_bool(0.5))
+                .count()
+                .clamp(0, found.len() - 1);
+            let selected = found[selected];
+            // let selected = *found.choose(&mut solution.rng).unwrap();
+            solution.set_word(index, selected);
             return true;
         }
-
-        solution.set_word(index, old);
-        return false;
     }
     #[inline(never)]
-    fn search_smallest_subset(&self, l1: Letter, l2: Letter, key: LetterSet, min: usize) -> &[(LetterSet, LetterSet)] {
+    fn search_smallest_subset(
+        &self,
+        l1: Letter,
+        l2: Letter,
+        key: LetterSet,
+        min: usize,
+    ) -> &[(LetterSet, LetterSet)] {
         self.access.fetch_add(1, Relaxed);
         &*self.cache[&(l1, l2, key, min)].get_or_init(|| {
             let mut found = vec![];
-            self.table.binary.get(&(l1, l2)).unwrap().search_smallest_subset(key, min, &mut found);
+            self.table
+                .binary
+                .get(&(l1, l2))
+                .unwrap()
+                .search_smallest_subset(key, min, &mut found);
             found
         })
     }
@@ -120,7 +150,12 @@ impl Search {
         }
         // let trie = &self.table.binary.get(&(ls[0], ls[1])).unwrap();
         let start = Instant::now();
-        let found = self.search_smallest_subset(ls[0], ls[1], solution.remainder, old1.count() + old2.count() + 1);
+        let found = self.search_smallest_subset(
+            ls[0],
+            ls[1],
+            solution.remainder,
+            old1.count() + old2.count() + 1,
+        );
         if let Some(found) = found.choose(&mut solution.rng) {
             if found.0.count() <= max_len || found.1.count() <= max_len {
                 if flipped {
@@ -164,6 +199,7 @@ impl Search {
                     }
                 }
             }
+            // println!("{:?}", solution);
             loop {
                 let mut progress = false;
                 for i1 in 0..solution.words.len() {
@@ -242,7 +278,9 @@ impl Solution {
         assert!(word.is_subset(self.remainder));
         self.remainder = self.remainder - word;
     }
-    pub fn words(&self) -> &[LetterSet] { &self.words }
+    pub fn words(&self) -> &[LetterSet] {
+        &self.words
+    }
     pub fn is_done(&self) -> bool {
         self.remainder.count() == 0
             && self.words.iter().all(|x| x.count() > 1)
@@ -268,20 +306,24 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .collect();
     // println!("{:?}", source);
     let search = Arc::new(Search::new(quote, source).await?);
-    let sol = stream::iter(0..1000).map(|seed| {
-        let search = search.clone();
-        async move {
-            tokio::task::spawn_blocking(move || {
-                stream::iter(search.solve((pindex as u64) * 1000 + seed))
-            }).await.unwrap()
-        }
-    })
+    let sol = stream::iter(0..1000)
+        .map(|seed| {
+            let search = search.clone();
+            async move {
+                tokio::task::spawn_blocking(move || {
+                    stream::iter(search.solve((pindex as u64) * 1000 + seed))
+                })
+                .await
+                .unwrap()
+            }
+        })
         .buffered(num_cpus::get())
         .flatten()
-        .next().await
+        .next()
+        .await
         .ok_or(io::Error::new(ErrorKind::TimedOut, "timed out"))?;
     let words = search.get_words(&sol);
-    let mut rng=XorShiftRng::seed_from_u64(pindex as u64);
+    let mut rng = XorShiftRng::seed_from_u64(pindex as u64);
     let mut positions: LetterMap<Vec<usize>> = Letter::all()
         .map(|l| {
             let mut result: Vec<_> = puzzle
@@ -310,7 +352,9 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .collect();
     let mut clues2 = LetterMap::<Vec<Clue>>::new();
     for clue in clues {
-        clues2[Letter::new(clue.answer_letters.bytes().next().expect("first letter")).expect("ascii")].push(clue);
+        clues2[Letter::new(clue.answer_letters.bytes().next().expect("first letter"))
+            .expect("ascii")]
+        .push(clue);
     }
     // println!("{:?}", clues2);
     // println!("{:?}", puzzle.source_letters);
@@ -337,7 +381,14 @@ async fn test_search() -> anyhow::Result<()> {
     let start = Instant::now();
     for i in 0..10000 {
         let mut found = vec![];
-        FLAT_TRIE_TABLE.get().await.clone_error()?.binary.get(&firsts).unwrap().search_smallest_subset(word, 16, &mut found);
+        FLAT_TRIE_TABLE
+            .get()
+            .await
+            .clone_error()?
+            .binary
+            .get(&firsts)
+            .unwrap()
+            .search_smallest_subset(word, 16, &mut found);
     }
     println!("{:?}", start.elapsed());
     Ok(())

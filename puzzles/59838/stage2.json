@@ -6,34 +6,33 @@
   "clues": [
     {
       "clue": null,
-      "answer": "philanthropist",
-      "answer_letters": "PHILANTHROPIST",
+      "answer": "photographers",
+      "answer_letters": "PHOTOGRAPHERS",
       "indices": [
         27,
         49,
-        180,
-        80,
-        124,
-        103,
-        183,
-        97,
-        75,
         137,
+        183,
+        171,
+        145,
+        75,
+        124,
         134,
-        61,
-        26,
-        177
+        97,
+        121,
+        51,
+        26
       ]
     },
     {
       "clue": null,
-      "answer": "exchanged",
-      "answer_letters": "EXCHANGED",
+      "answer": "estranged",
+      "answer_letters": "ESTRANGED",
       "indices": [
         102,
-        150,
-        78,
-        63,
+        176,
+        5,
+        70,
         115,
         125,
         181,
@@ -43,101 +42,94 @@
     },
     {
       "clue": null,
-      "answer": "newscasts",
-      "answer_letters": "NEWSCASTS",
+      "answer": "northwest",
+      "answer_letters": "NORTHWEST",
       "indices": [
-        158,
-        88,
-        185,
-        18,
-        107,
-        10,
-        116,
-        143,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northeastern",
-      "answer_letters": "NORTHEASTERN",
-      "indices": [
-        21,
-        171,
-        51,
-        64,
-        141,
-        13,
-        0,
-        132,
-        96,
-        73,
+        46,
+        93,
         14,
-        46
+        143,
+        141,
+        9,
+        88,
+        116,
+        153
       ]
     },
     {
       "clue": null,
-      "answer": "year-round",
-      "answer_letters": "YEARROUND",
+      "answer": "nottingham",
+      "answer_letters": "NOTTINGHAM",
       "indices": [
-        24,
-        58,
-        108,
-        94,
-        178,
+        103,
         136,
-        119,
-        32,
-        174
+        64,
+        96,
+        180,
+        21,
+        62,
+        182,
+        0,
+        187
       ]
     },
     {
       "clue": null,
-      "answer": "reflective",
-      "answer_letters": "REFLECTIVE",
+      "answer": "youthful",
+      "answer_letters": "YOUTHFUL",
       "indices": [
-        60,
-        173,
+        76,
+        186,
+        119,
+        164,
+        6,
         138,
-        40,
-        7,
-        57,
-        153,
-        82,
-        172,
-        149
+        34,
+        80
       ]
     },
     {
       "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "answer": "relativity",
+      "answer_letters": "RELATIVITY",
+      "indices": [
+        94,
+        58,
+        40,
+        10,
+        48,
+        61,
+        172,
+        82,
+        68,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethical",
+      "answer_letters": "ETHICAL",
       "indices": [
         2,
-        3,
-        130,
-        41,
-        67,
-        69
+        161,
+        127,
+        11,
+        91,
+        90,
+        112
       ]
     },
     {
       "clue": null,
-      "answer": "importantly",
-      "answer_letters": "IMPORTANTLY",
+      "answer": "inland",
+      "answer_letters": "INLAND",
       "indices": [
-        151,
-        123,
-        120,
-        93,
-        122,
-        48,
-        179,
-        189,
-        68,
-        109,
-        38
+        50,
+        32,
+        84,
+        163,
+        74,
+        174
       ]
     },
     {
@@ -155,142 +147,150 @@
     },
     {
       "clue": null,
-      "answer": "lightly",
-      "answer_letters": "LIGHTLY",
+      "answer": "legacy",
+      "answer_letters": "LEGACY",
       "indices": [
-        112,
-        11,
-        62,
-        6,
-        140,
-        1,
+        83,
+        128,
+        166,
+        33,
+        107,
         105
       ]
     },
     {
       "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
+      "answer": "orchards",
+      "answer_letters": "ORCHARDS",
       "indices": [
-        20,
-        12,
-        161,
-        142,
-        9,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "verandah",
-      "answer_letters": "VERANDAH",
-      "indices": [
-        81,
-        128,
-        70,
-        90,
-        99,
-        52,
-        28,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emigrants",
-      "answer_letters": "EMIGRANTS",
-      "indices": [
-        98,
-        23,
-        50,
-        145,
+        167,
         135,
-        163,
-        74,
-        164,
+        57,
+        101,
+        142,
+        122,
+        52,
         118
       ]
     },
     {
       "clue": null,
-      "answer": "haven't",
-      "answer_letters": "HAVENT",
+      "answer": "vidhan",
+      "answer_letters": "VIDHAN",
       "indices": [
+        81,
+        151,
+        168,
         72,
+        157,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elementary",
+      "answer_letters": "ELEMENTARY",
+      "indices": [
+        173,
+        109,
+        7,
+        23,
+        149,
+        158,
+        140,
+        108,
+        178,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "halifax",
+      "answer_letters": "HALIFAX",
+      "indices": [
+        87,
+        28,
+        1,
+        41,
+        67,
         17,
-        110,
-        188,
-        29,
+        3
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "asphalt",
+      "answer_letters": "ASPHALT",
+      "indices": [
+        66,
+        152,
+        54,
+        36,
+        56,
+        170,
         43
       ]
     },
     {
       "clue": null,
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "answer": "chapter",
+      "answer_letters": "CHAPTER",
       "indices": [
-        66,
-        170,
+        78,
+        63,
+        131,
+        120,
         86,
-        127,
-        167,
-        34,
-        166,
-        87
+        69,
+        104
       ]
     },
     {
       "clue": null,
-      "answer": "costal",
-      "answer_letters": "COSTAL",
-      "indices": [
-        91,
-        146,
-        176,
-        5,
-        56,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "khalid",
-      "answer_letters": "KHALID",
+      "answer": "knoxville",
+      "answer_letters": "KNOXVILLE",
       "indices": [
         30,
-        36,
-        131,
-        113,
+        29,
+        146,
+        150,
+        110,
         45,
-        168
+        55,
+        113,
+        188
       ]
     },
     {
       "clue": null,
-      "answer": "empathy",
-      "answer_letters": "EMPATHY",
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
       "indices": [
-        121,
-        187,
-        54,
+        13,
         79,
-        92,
-        182,
-        76
+        132,
+        177,
+        185,
+        73,
+        18,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "dollars",
-      "answer_letters": "DOLLARS",
+      "answer": "downstream",
+      "answer_letters": "DOWNSTREAM",
       "indices": [
         159,
-        186,
-        84,
-        83,
-        33,
-        104,
-        152
+        20,
+        130,
+        189,
+        42,
+        12,
+        60,
+        98,
+        179,
+        123
       ]
     }
   ],

@@ -6,272 +6,272 @@
   "clues": [
     {
       "clue": null,
-      "answer": "jordanian",
-      "answer_letters": "JORDANIAN",
+      "answer": "jalisco",
+      "answer_letters": "JALISCO",
       "indices": [
         89,
-        133,
-        45,
-        109,
         157,
-        99,
+        38,
         171,
+        42,
+        150,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orientation",
+      "answer_letters": "ORIENTATION",
+      "indices": [
+        113,
+        45,
+        46,
+        173,
+        99,
+        57,
         115,
+        111,
+        29,
+        17,
         26
       ]
     },
     {
       "clue": null,
-      "answer": "organizations",
-      "answer_letters": "ORGANIZATIONS",
-      "indices": [
-        113,
-        118,
-        161,
-        47,
-        141,
-        46,
-        97,
-        3,
-        57,
-        29,
-        17,
-        74,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "statewide",
-      "answer_letters": "STATEWIDE",
+      "answer": "stabilization",
+      "answer_letters": "STABILIZATION",
       "indices": [
         34,
-        111,
-        136,
         65,
-        173,
-        85,
+        47,
+        153,
         96,
-        11,
-        5
+        80,
+        103,
+        97,
+        3,
+        106,
+        79,
+        1,
+        141
       ]
     },
     {
       "clue": null,
-      "answer": "emissions",
-      "answer_letters": "EMISSIONS",
+      "answer": "expanded",
+      "answer_letters": "EXPANDED",
       "indices": [
-        151,
-        134,
-        16,
-        9,
-        43,
-        21,
-        164,
-        146,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "principality",
-      "answer_letters": "PRINCIPALITY",
-      "indices": [
-        92,
-        94,
-        159,
-        48,
-        150,
-        112,
+        166,
+        167,
         144,
-        8,
-        38,
-        98,
-        55,
-        40
+        93,
+        137,
+        95,
+        145,
+        27
       ]
     },
     {
       "clue": null,
-      "answer": "herald",
-      "answer_letters": "HERALD",
+      "answer": "premiership",
+      "answer_letters": "PREMIERSHIP",
       "indices": [
-        121,
-        90,
-        169,
-        108,
-        4,
-        132
+        76,
+        118,
+        14,
+        178,
+        159,
+        77,
+        18,
+        172,
+        176,
+        112,
+        92
       ]
     },
     {
       "clue": null,
-      "answer": "hawthorne",
-      "answer_letters": "HAWTHORNE",
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
+      "indices": [
+        102,
+        110,
+        23,
+        121,
+        69,
+        108,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "headwaters",
+      "answer_letters": "HEADWATERS",
       "indices": [
         82,
-        19,
-        7,
-        122,
-        102,
-        41,
-        129,
-        137,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "engagements",
-      "answer_letters": "ENGAGEMENTS",
-      "indices": [
-        177,
-        160,
-        120,
-        44,
-        23,
         59,
-        178,
+        86,
+        11,
+        32,
+        19,
+        55,
         130,
-        114,
-        175,
+        158,
         87
       ]
     },
     {
       "clue": null,
-      "answer": "lesser",
-      "answer_letters": "LESSER",
+      "answer": "emigrated",
+      "answer_letters": "EMIGRATED",
+      "indices": [
+        12,
+        134,
+        98,
+        120,
+        2,
+        44,
+        122,
+        148,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifestyle",
+      "answer_letters": "LIFESTYLE",
+      "indices": [
+        37,
+        119,
+        51,
+        83,
+        104,
+        30,
+        67,
+        54,
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lantern",
+      "answer_letters": "LANTERN",
       "indices": [
         116,
-        131,
-        104,
-        123,
-        83,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lieutenant",
-      "answer_letters": "LIEUTENANT",
-      "indices": [
-        80,
-        140,
-        12,
-        63,
-        30,
-        148,
-        64,
         33,
-        149,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "expeditionary",
-      "answer_letters": "EXPEDITIONARY",
-      "indices": [
-        143,
-        167,
-        76,
-        14,
-        142,
-        103,
-        106,
-        79,
-        1,
         22,
-        70,
-        18,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reaffirmed",
-      "answer_letters": "REAFFIRMED",
-      "indices": [
-        2,
-        166,
-        93,
-        51,
-        128,
-        73,
+        175,
+        131,
         107,
-        0,
-        145,
-        95
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "clouds",
-      "answer_letters": "CLOUDS",
+      "answer": "engage",
+      "answer_letters": "ENGAGE",
+      "indices": [
+        5,
+        74,
+        161,
+        136,
+        100,
+        143
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        78,
+        63,
+        160,
+        41,
+        128,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "countryside",
+      "answer_letters": "COUNTRYSIDE",
       "indices": [
         61,
-        54,
         125,
         53,
-        156,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "abroad",
-      "answer_letters": "ABROAD",
-      "indices": [
-        25,
-        153,
-        66,
-        91,
-        52,
-        147
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "titled",
-      "answer_letters": "TITLED",
-      "indices": [
-        163,
-        110,
+        146,
         20,
-        37,
+        169,
+        40,
+        71,
+        73,
+        132,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "admissions",
+      "answer_letters": "ADMISSIONS",
+      "indices": [
+        36,
+        156,
+        0,
+        140,
+        123,
+        9,
+        16,
+        62,
+        114,
+        43
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "translation",
+      "answer_letters": "TRANSLATION",
+      "indices": [
+        13,
+        66,
+        25,
+        64,
+        49,
+        4,
+        52,
+        163,
+        21,
+        91,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "crowded",
+      "answer_letters": "CROWDED",
+      "indices": [
+        170,
+        15,
+        164,
+        7,
+        147,
         168,
         138
       ]
     },
     {
       "clue": null,
-      "answer": "crawford",
-      "answer_letters": "CRAWFORD",
+      "answer": "hardware",
+      "answer_letters": "HARDWARE",
       "indices": [
-        170,
-        78,
-        36,
-        69,
-        126,
-        62,
-        15,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "highways",
-      "answer_letters": "HIGHWAYS",
-      "indices": [
-        176,
-        119,
-        100,
         58,
-        32,
-        86,
-        154,
-        172
+        70,
+        94,
+        109,
+        85,
+        8,
+        129,
+        177
       ]
     }
   ],

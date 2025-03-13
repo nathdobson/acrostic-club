@@ -6,102 +6,99 @@
   "clues": [
     {
       "clue": null,
-      "answer": "london",
-      "answer_letters": "LONDON",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
       "indices": [
-        147,
-        73,
-        44,
-        23,
-        24,
-        59
+        104,
+        95,
+        90,
+        86,
+        137,
+        8,
+        21
       ]
     },
     {
       "clue": null,
-      "answer": "infant",
-      "answer_letters": "INFANT",
+      "answer": "implementations",
+      "answer_letters": "IMPLEMENTATIONS",
       "indices": [
-        92,
+        40,
+        11,
+        42,
+        121,
+        100,
+        93,
+        75,
         182,
-        29,
-        5,
+        113,
+        158,
+        124,
+        92,
+        186,
         159,
-        113
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "showed",
-      "answer_letters": "SHOWED",
+      "answer": "smoothly",
+      "answer_letters": "SMOOTHLY",
       "indices": [
+        123,
+        155,
+        73,
+        24,
+        77,
+        1,
+        120,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "authorship",
+      "answer_letters": "AUTHORSHIP",
+      "indices": [
+        145,
+        6,
+        61,
+        62,
+        178,
+        167,
         9,
         4,
-        178,
-        109,
-        150,
-        14
+        115,
+        41
       ]
     },
     {
       "clue": null,
-      "answer": "amounted",
-      "answer_letters": "AMOUNTED",
-      "indices": [
-        158,
-        83,
-        28,
-        6,
-        70,
-        124,
-        75,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kimberley",
-      "answer_letters": "KIMBERLEY",
+      "answer": "khorasan",
+      "answer_letters": "KHORASAN",
       "indices": [
         180,
-        43,
-        18,
-        111,
-        84,
-        167,
-        121,
-        127,
-        12
+        149,
+        187,
+        39,
+        67,
+        117,
+        154,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "east-west",
-      "answer_letters": "EASTWEST",
+      "answer": "essence",
+      "answer_letters": "ESSENCE",
       "indices": [
-        51,
-        36,
-        37,
-        54,
-        102,
-        166,
+        2,
         26,
-        185
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seawater",
-      "answer_letters": "SEAWATER",
-      "indices": [
-        69,
-        66,
-        17,
-        58,
-        145,
-        38,
-        91,
-        39
+        172,
+        156,
+        59,
+        144,
+        51
       ]
     },
     {
@@ -109,183 +106,186 @@
       "answer": "swimmer",
       "answer_letters": "SWIMMER",
       "indices": [
-        20,
-        162,
-        115,
-        11,
-        93,
-        100,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "low-cost",
-      "answer_letters": "LOWCOST",
-      "indices": [
-        146,
-        187,
-        25,
-        144,
-        163,
-        117,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elisabeth",
-      "answer_letters": "ELISABETH",
-      "indices": [
-        63,
-        97,
-        181,
         19,
-        67,
-        86,
-        137,
-        135,
-        149
+        162,
+        181,
+        18,
+        47,
+        33,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "relationships",
-      "answer_letters": "RELATIONSHIPS",
+      "answer": "shortages",
+      "answer_letters": "SHORTAGES",
       "indices": [
-        53,
-        2,
-        120,
-        154,
-        77,
-        119,
-        78,
+        175,
+        50,
+        108,
+        126,
+        38,
+        17,
+        45,
+        84,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        147,
+        129,
+        29,
+        54,
+        58,
+        36,
+        105,
+        170,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "endowment",
+      "answer_letters": "ENDOWMENT",
+      "indices": [
+        91,
         142,
-        123,
-        1,
-        169,
-        41,
+        23,
+        141,
+        109,
+        139,
+        150,
+        74,
+        185
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "raphael",
+      "answer_letters": "RAPHAEL",
+      "indices": [
+        15,
+        82,
+        35,
+        136,
+        52,
+        63,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bandits",
+      "answer_letters": "BANDITS",
+      "indices": [
+        111,
+        125,
+        44,
+        56,
+        119,
+        31,
         0
       ]
     },
     {
       "clue": null,
-      "answer": "burnham",
-      "answer_letters": "BURNHAM",
-      "indices": [
-        80,
-        87,
-        15,
-        74,
-        136,
-        132,
-        155
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "loaded",
+      "answer_letters": "LOADED",
       "indices": [
         81,
+        28,
+        5,
+        160,
         16,
-        50,
-        40,
-        45,
-        62
+        14
       ]
     },
     {
       "clue": null,
-      "answer": "upheld",
-      "answer_letters": "UPHELD",
+      "answer": "u-boats",
+      "answer_letters": "UBOATS",
       "indices": [
-        112,
-        35,
-        21,
-        156,
-        177,
-        56
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eponymous",
-      "answer_letters": "EPONYMOUS",
-      "indices": [
-        33,
-        42,
-        186,
-        99,
-        48,
-        47,
-        108,
-        129,
-        175
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "magdalena",
-      "answer_letters": "MAGDALENA",
-      "indices": [
-        139,
-        82,
-        183,
-        165,
-        52,
-        104,
-        174,
-        7,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        71,
-        105,
-        170,
-        65,
-        173,
-        103,
-        57,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottomans",
-      "answer_letters": "OTTOMANS",
-      "indices": [
-        141,
-        31,
-        8,
+        87,
+        80,
         140,
-        90,
-        95,
-        153,
-        172
+        22,
+        133,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "northampton",
-      "answer_letters": "NORTHAMPTON",
+      "answer": "emotionally",
+      "answer_letters": "EMOTIONALLY",
       "indices": [
-        107,
-        98,
-        151,
-        88,
-        32,
-        22,
+        127,
+        83,
+        163,
+        135,
+        43,
+        78,
+        99,
+        132,
+        146,
+        97,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "months",
+      "answer_letters": "MONTHS",
+      "indices": [
         68,
-        130,
+        71,
+        7,
+        88,
+        173,
+        65
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outdoor",
+      "answer_letters": "OUTDOOR",
+      "indices": [
+        57,
+        112,
         118,
+        165,
+        98,
         179,
-        164
+        151
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "owning",
+      "answer_letters": "OWNING",
+      "indices": [
+        103,
+        25,
+        153,
+        169,
+        107,
+        183
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        164,
+        166,
+        130,
+        32,
+        174,
+        102
       ]
     }
   ],

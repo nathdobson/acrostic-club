@@ -6,193 +6,102 @@
   "clues": [
     {
       "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
+      "answer": "textbooks",
+      "answer_letters": "TEXTBOOKS",
       "indices": [
-        63,
-        1,
-        140,
-        152,
-        146,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harmonica",
-      "answer_letters": "HARMONICA",
-      "indices": [
-        158,
-        39,
-        151,
-        29,
-        129,
-        110,
-        105,
-        139,
-        103
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "exodus",
-      "answer_letters": "EXODUS",
-      "indices": [
+        72,
         175,
-        56,
-        28,
-        156,
-        67,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ambiguity",
-      "answer_letters": "AMBIGUITY",
-      "indices": [
-        114,
-        77,
-        97,
-        115,
-        124,
-        24,
-        93,
-        60,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "heyday",
-      "answer_letters": "HEYDAY",
-      "indices": [
-        35,
-        92,
-        37,
-        53,
-        162,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adverse",
-      "answer_letters": "ADVERSE",
-      "indices": [
-        159,
-        4,
-        14,
-        13,
-        68,
-        160,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "retake",
-      "answer_letters": "RETAKE",
-      "indices": [
-        174,
-        165,
-        149,
-        118,
-        87,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reprinted",
-      "answer_letters": "REPRINTED",
-      "indices": [
-        104,
-        10,
-        26,
-        126,
-        12,
-        62,
-        128,
-        55,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "interfere",
-      "answer_letters": "INTERFERE",
-      "indices": [
-        147,
-        138,
-        142,
-        48,
-        113,
-        112,
-        36,
-        5,
-        41
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "selected",
-      "answer_letters": "SELECTED",
-      "indices": [
-        79,
-        122,
-        3,
-        75,
-        0,
-        90,
-        58,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pathogens",
-      "answer_letters": "PATHOGENS",
-      "indices": [
-        57,
-        166,
-        34,
-        143,
-        66,
-        154,
-        88,
-        70,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oxidation",
-      "answer_letters": "OXIDATION",
-      "indices": [
-        23,
         132,
-        136,
-        102,
-        170,
-        20,
+        149,
+        82,
+        150,
+        129,
+        87,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "healthy",
+      "answer_letters": "HEALTHY",
+      "indices": [
+        1,
+        48,
+        111,
+        3,
+        63,
+        158,
+        152
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ecoregion",
+      "answer_letters": "ECOREGION",
+      "indices": [
+        36,
+        148,
+        28,
+        113,
+        41,
+        154,
         30,
-        98,
+        23,
         7
       ]
     },
     {
       "clue": null,
-      "answer": "upwards",
-      "answer_letters": "UPWARDS",
+      "answer": "assign",
+      "answer_letters": "ASSIGN",
       "indices": [
-        173,
+        123,
+        79,
+        95,
+        93,
+        124,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hardest",
+      "answer_letters": "HARDEST",
+      "indices": [
+        143,
+        51,
+        164,
+        167,
+        55,
+        160,
+        47
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adapted",
+      "answer_letters": "ADAPTED",
+      "indices": [
+        162,
+        4,
+        114,
+        26,
+        128,
+        10,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "repair",
+      "answer_letters": "REPAIR",
+      "indices": [
+        174,
+        131,
         133,
-        17,
-        111,
-        135,
-        49,
-        31
+        71,
+        136,
+        151
       ]
     },
     {
@@ -200,97 +109,188 @@
       "answer": "rebranded",
       "answer_letters": "REBRANDED",
       "indices": [
-        40,
-        32,
-        82,
-        164,
-        51,
-        119,
-        167,
-        6,
-        176
+        126,
+        58,
+        97,
+        74,
+        19,
+        62,
+        176,
+        88,
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "tribunal",
-      "answer_letters": "TRIBUNAL",
+      "answer": "invaded",
+      "answer_letters": "INVADED",
+      "indices": [
+        147,
+        138,
+        146,
+        39,
+        156,
+        83,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "symmetry",
+      "answer_letters": "SYMMETRY",
+      "indices": [
+        31,
+        65,
+        77,
+        29,
+        125,
+        90,
+        135,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "picnic",
+      "answer_letters": "PICNIC",
+      "indices": [
+        57,
+        2,
+        0,
+        110,
+        105,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outrage",
+      "answer_letters": "OUTRAGE",
+      "indices": [
+        98,
+        67,
+        20,
+        5,
+        118,
+        107,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "useful",
+      "answer_letters": "USEFUL",
+      "indices": [
+        24,
+        171,
+        140,
+        112,
+        173,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reuben",
+      "answer_letters": "REUBEN",
+      "indices": [
+        104,
+        122,
+        73,
+        9,
+        75,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "three-year-old",
+      "answer_letters": "THREEYEAROLD",
       "indices": [
         80,
-        94,
-        86,
-        9,
-        109,
-        106,
-        61,
-        99
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hourly",
-      "answer_letters": "HOURLY",
-      "indices": [
         91,
-        155,
-        73,
-        27,
-        85,
-        168
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "exclude",
-      "answer_letters": "EXCLUDE",
-      "indices": [
+        94,
         43,
-        44,
+        144,
+        168,
+        13,
+        61,
+        27,
+        155,
+        99,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hierarchy",
+      "answer_letters": "HIERARCHY",
+      "indices": [
+        35,
+        86,
+        134,
+        68,
+        159,
+        40,
         45,
-        11,
-        78,
-        116,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ortega",
-      "answer_letters": "ORTEGA",
-      "indices": [
-        150,
-        74,
-        72,
-        15,
-        107,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        2,
-        47,
         18,
-        123,
-        59,
-        19
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "license",
-      "answer_letters": "LICENSE",
+      "answer": "executive",
+      "answer_letters": "EXECUTIVE",
+      "indices": [
+        92,
+        44,
+        32,
+        59,
+        109,
+        60,
+        115,
+        14,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlaw",
+      "answer_letters": "OUTLAW",
+      "indices": [
+        66,
+        78,
+        34,
+        85,
+        166,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "indexed",
+      "answer_letters": "INDEXED",
+      "indices": [
+        12,
+        70,
+        100,
+        15,
+        56,
+        165,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "latina",
+      "answer_letters": "LATINA",
       "indices": [
         163,
+        103,
+        142,
         46,
-        148,
-        137,
         52,
-        172,
-        83
+        170
       ]
     }
   ],

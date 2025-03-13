@@ -6,58 +6,29 @@
   "clues": [
     {
       "clue": null,
-      "answer": "bharat",
-      "answer_letters": "BHARAT",
+      "answer": "bottles",
+      "answer_letters": "BOTTLES",
       "indices": [
         95,
-        82,
-        165,
-        3,
-        16,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attacked",
-      "answer_letters": "ATTACKED",
-      "indices": [
-        155,
-        125,
-        46,
-        181,
-        69,
-        70,
-        2,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novels",
-      "answer_letters": "NOVELS",
-      "indices": [
-        12,
-        133,
-        145,
-        8,
-        135,
-        44
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "alphabet",
-      "answer_letters": "ALPHABET",
-      "indices": [
-        123,
+        103,
+        86,
+        49,
         149,
-        90,
-        75,
-        59,
-        127,
         55,
-        182
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "athens",
+      "answer_letters": "ATHENS",
+      "indices": [
+        91,
+        182,
+        47,
+        4,
+        42,
+        112
       ]
     },
     {
@@ -65,136 +36,136 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        156,
-        61,
-        53,
-        51,
-        146,
-        34
+        12,
+        96,
+        167,
+        1,
+        8,
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "author",
-      "answer_letters": "AUTHOR",
+      "answer": "accessory",
+      "answer_letters": "ACCESSORY",
       "indices": [
         77,
-        36,
-        49,
-        47,
-        103,
-        78
+        69,
+        161,
+        2,
+        160,
+        18,
+        110,
+        78,
+        118
       ]
     },
     {
       "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
+      "answer": "neurons",
+      "answer_letters": "NEURONS",
+      "indices": [
+        140,
+        83,
+        36,
+        169,
+        98,
+        56,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        165,
+        174,
+        43,
+        82,
+        16,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yearly",
+      "answer_letters": "YEARLY",
       "indices": [
         17,
-        110,
-        104,
-        132,
-        30,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offers",
-      "answer_letters": "OFFERS",
-      "indices": [
-        136,
-        35,
-        97,
-        88,
-        175,
-        112
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "songwriter",
-      "answer_letters": "SONGWRITER",
-      "indices": [
-        160,
-        176,
-        140,
-        43,
-        20,
-        158,
-        68,
-        0,
-        83,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "humane",
-      "answer_letters": "HUMANE",
-      "indices": [
-        1,
-        162,
-        177,
-        25,
-        84,
-        152
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        106,
-        29,
-        21,
-        11,
-        161,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "methane",
-      "answer_letters": "METHANE",
-      "indices": [
-        58,
         31,
-        113,
-        40,
-        129,
-        172,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-story",
-      "answer_letters": "ONESTORY",
-      "indices": [
-        150,
-        147,
-        159,
-        67,
-        73,
-        171,
-        99,
+        123,
+        158,
+        26,
         102
       ]
     },
     {
       "clue": null,
-      "answer": "topeka",
-      "answer_letters": "TOPEKA",
+      "answer": "overhead",
+      "answer_letters": "OVERHEAD",
       "indices": [
-        142,
-        119,
+        136,
+        145,
+        88,
+        99,
+        93,
+        144,
+        11,
+        15
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statute",
+      "answer_letters": "STATUTE",
+      "indices": [
+        107,
+        125,
+        155,
+        46,
+        104,
+        132,
+        22
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "health",
+      "answer_letters": "HEALTH",
+      "indices": [
+        180,
+        115,
+        52,
+        135,
+        39,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        106,
         116,
-        114,
-        60,
-        48
+        40,
+        119,
+        172,
+        76
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mother",
+      "answer_letters": "MOTHER",
+      "indices": [
+        58,
+        141,
+        179,
+        30,
+        128,
+        7
       ]
     },
     {
@@ -202,106 +173,135 @@
       "answer": "output",
       "answer_letters": "OUTPUT",
       "indices": [
-        98,
+        150,
         120,
-        92,
-        54,
+        0,
+        53,
         65,
-        179
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kelley",
-      "answer_letters": "KELLEY",
-      "indices": [
-        138,
-        144,
-        26,
-        27,
-        76,
-        63
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "infant",
-      "answer_letters": "INFANT",
-      "indices": [
-        41,
-        42,
-        174,
-        72,
-        124,
         79
       ]
     },
     {
       "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        39,
-        180,
-        128,
-        13,
-        151,
-        168
+        73,
+        81,
+        133,
+        34,
+        25,
+        63
       ]
     },
     {
       "clue": null,
-      "answer": "chelsea",
-      "answer_letters": "CHELSEA",
+      "answer": "orphan",
+      "answer_letters": "ORPHAN",
       "indices": [
-        122,
-        87,
-        115,
+        176,
+        130,
+        90,
+        75,
+        59,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kampala",
+      "answer_letters": "KAMPALA",
+      "indices": [
+        60,
+        6,
+        177,
+        54,
+        48,
         37,
-        107,
-        163,
         33
       ]
     },
     {
       "clue": null,
-      "answer": "hormones",
-      "answer_letters": "HORMONES",
+      "answer": "italia",
+      "answer_letters": "ITALIA",
       "indices": [
-        93,
-        137,
-        7,
-        10,
-        141,
-        56,
-        4,
-        18
+        68,
+        92,
+        181,
+        27,
+        41,
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "escape",
-      "answer_letters": "ESCAPE",
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
       "indices": [
-        100,
-        109,
+        113,
+        129,
+        138,
+        168,
+        171,
+        35,
+        97
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "census",
+      "answer_letters": "CENSUS",
+      "indices": [
         154,
-        52,
-        167,
-        96
+        114,
+        147,
+        109,
+        162,
+        44
       ]
     },
     {
       "clue": null,
-      "answer": "norway",
-      "answer_letters": "NORWAY",
+      "answer": "hockey",
+      "answer_letters": "HOCKEY",
       "indices": [
-        23,
+        51,
+        137,
+        122,
+        70,
+        159,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethernet",
+      "answer_letters": "ETHERNET",
+      "indices": [
+        163,
+        29,
+        87,
+        152,
+        175,
+        84,
+        100,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "november",
+      "answer_letters": "NOVEMBER",
+      "indices": [
+        156,
         64,
-        169,
-        81,
-        91,
-        118
+        151,
+        61,
+        10,
+        127,
+        146,
+        3
       ]
     }
   ],

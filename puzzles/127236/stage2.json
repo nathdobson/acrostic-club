@@ -6,217 +6,16 @@
   "clues": [
     {
       "clue": null,
-      "answer": "embassy",
-      "answer_letters": "EMBASSY",
-      "indices": [
-        6,
-        32,
-        90,
-        81,
-        135,
-        95,
-        36
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawson",
-      "answer_letters": "LAWSON",
-      "indices": [
-        9,
-        63,
-        144,
-        147,
-        175,
-        146
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outlook",
-      "answer_letters": "OUTLOOK",
-      "indices": [
-        14,
-        140,
-        83,
-        29,
-        8,
-        134,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "complimented",
-      "answer_letters": "COMPLIMENTED",
-      "indices": [
-        65,
-        1,
-        22,
-        12,
-        169,
-        97,
-        34,
-        105,
-        53,
-        126,
-        121,
-        167
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
-      "indices": [
-        177,
-        82,
-        161,
-        70,
-        46,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hadith",
-      "answer_letters": "HADITH",
-      "indices": [
-        127,
-        109,
-        57,
-        166,
-        38,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "atomic",
-      "answer_letters": "ATOMIC",
-      "indices": [
-        52,
-        164,
-        73,
-        35,
-        149,
-        93
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        51,
-        86,
-        150,
-        89,
-        77,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        71,
-        124,
-        108,
-        111,
-        100,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whilst",
-      "answer_letters": "WHILST",
-      "indices": [
-        148,
-        5,
-        28,
-        16,
-        98,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emilio",
-      "answer_letters": "EMILIO",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
       "indices": [
         80,
-        27,
-        103,
-        110,
-        72,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "wembley",
-      "answer_letters": "WEMBLEY",
-      "indices": [
-        180,
-        114,
-        133,
-        79,
-        87,
-        61,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effective",
-      "answer_letters": "EFFECTIVE",
-      "indices": [
-        131,
-        85,
-        104,
-        92,
-        64,
-        174,
-        170,
-        115,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "right-handed",
-      "answer_letters": "RIGHTHANDED",
-      "indices": [
-        117,
-        120,
-        107,
-        39,
-        139,
-        130,
-        26,
-        44,
-        10,
-        40,
-        55
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
-        47,
-        129,
-        112,
-        84,
-        179,
+        35,
         15,
-        19,
-        56,
-        178
+        26,
+        59,
+        162,
+        36
       ]
     },
     {
@@ -224,73 +23,274 @@
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
-        69,
-        43,
-        25,
-        94,
-        153,
-        163,
-        141,
-        0,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "in-house",
-      "answer_letters": "INHOUSE",
-      "indices": [
-        158,
-        20,
-        162,
-        76,
+        9,
         66,
-        122,
-        172
+        104,
+        139,
+        144,
+        81,
+        77,
+        142,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "adjustments",
-      "answer_letters": "ADJUSTMENTS",
+      "answer": "outfield",
+      "answer_letters": "OUTFIELD",
       "indices": [
-        155,
-        54,
-        91,
-        68,
-        159,
-        4,
-        67,
+        179,
+        43,
+        83,
+        141,
+        166,
+        121,
+        169,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "catches",
+      "answer_letters": "CATCHES",
+      "indices": [
+        65,
+        163,
+        126,
+        64,
+        127,
         13,
-        74,
-        156,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "radius",
-      "answer_letters": "RADIUS",
-      "indices": [
-        2,
-        42,
-        119,
-        125,
-        33,
         48
       ]
     },
     {
       "clue": null,
-      "answer": "slight",
-      "answer_letters": "SLIGHT",
+      "answer": "kuwait",
+      "answer_letters": "KUWAIT",
       "indices": [
-        151,
+        171,
+        140,
+        153,
+        70,
+        125,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hoffman",
+      "answer_letters": "HOFFMAN",
+      "indices": [
+        154,
+        14,
+        0,
+        85,
+        34,
+        109,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adolph",
+      "answer_letters": "ADOLPH",
+      "indices": [
+        63,
+        55,
+        89,
         102,
+        12,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "raises",
+      "answer_letters": "RAISES",
+      "indices": [
+        51,
+        52,
         145,
-        50,
-        60,
-        136
+        95,
+        172,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "timetable",
+      "answer_letters": "TIMETABLE",
+      "indices": [
+        4,
+        103,
+        32,
+        114,
+        156,
+        42,
+        90,
+        16,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "widowed",
+      "answer_letters": "WIDOWED",
+      "indices": [
+        180,
+        120,
+        54,
+        113,
+        148,
+        92,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enjoys",
+      "answer_letters": "ENJOYS",
+      "indices": [
+        17,
+        44,
+        91,
+        175,
+        30,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "woolwich",
+      "answer_letters": "WOOLWICH",
+      "indices": [
+        161,
+        8,
+        134,
+        110,
+        124,
+        72,
+        93,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastwood",
+      "answer_letters": "EASTWOOD",
+      "indices": [
+        131,
+        100,
+        98,
+        71,
+        111,
+        1,
+        108,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "routing",
+      "answer_letters": "ROUTING",
+      "indices": [
+        117,
+        76,
+        33,
+        174,
+        158,
+        146,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "establishing",
+      "answer_letters": "ESTABLISHING",
+      "indices": [
+        47,
+        159,
+        129,
+        56,
+        79,
+        69,
+        84,
+        138,
+        112,
+        19,
+        178,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        29,
+        97,
+        25,
+        116,
+        94,
+        46,
+        22,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
+      "indices": [
+        149,
+        20,
+        115,
+        73,
+        177,
+        6,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aluminium",
+      "answer_letters": "ALUMINIUM",
+      "indices": [
+        155,
+        87,
+        82,
+        67,
+        170,
+        74,
+        28,
+        68,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        2,
+        5,
+        23,
+        38,
+        39,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stunts",
+      "answer_letters": "STUNTS",
+      "indices": [
+        122,
+        164,
+        86,
+        150,
+        136,
+        151
       ]
     }
   ],

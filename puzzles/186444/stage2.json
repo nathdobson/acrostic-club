@@ -6,166 +6,49 @@
   "clues": [
     {
       "clue": null,
-      "answer": "authored",
-      "answer_letters": "AUTHORED",
+      "answer": "anthology",
+      "answer_letters": "ANTHOLOGY",
       "indices": [
-        44,
-        104,
-        12,
+        119,
+        59,
+        120,
         74,
-        166,
-        5,
-        56,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bounty",
-      "answer_letters": "BOUNTY",
-      "indices": [
-        4,
         92,
-        67,
-        182,
-        153,
+        63,
+        166,
+        168,
         64
       ]
     },
     {
       "clue": null,
-      "answer": "strengthen",
-      "answer_letters": "STRENGTHEN",
+      "answer": "bicycles",
+      "answer_letters": "BICYCLES",
       "indices": [
-        152,
-        129,
-        133,
-        158,
-        135,
-        144,
-        90,
-        13,
-        99,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hollywood",
-      "answer_letters": "HOLLYWOOD",
-      "indices": [
-        125,
-        78,
-        66,
-        69,
-        72,
-        160,
-        62,
-        89,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elegans",
-      "answer_letters": "ELEGANS",
-      "indices": [
-        116,
-        63,
-        14,
-        105,
-        140,
-        93,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "pitchfork",
-      "answer_letters": "PITCHFORK",
-      "indices": [
-        112,
-        81,
-        162,
+        4,
+        30,
         156,
-        157,
-        22,
-        174,
-        100,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hughes",
-      "answer_letters": "HUGHES",
-      "indices": [
-        61,
-        6,
-        136,
-        1,
-        17,
-        0
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "establishes",
-      "answer_letters": "ESTABLISHES",
-      "indices": [
-        126,
-        20,
-        48,
-        34,
-        71,
+        72,
+        149,
         115,
-        91,
-        110,
-        8,
         108,
-        37
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
+      "answer": "subfamily",
+      "answer_letters": "SUBFAMILY",
       "indices": [
-        109,
-        49,
-        147,
-        132,
-        187,
-        184,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "dharma",
-      "answer_letters": "DHARMA",
-      "indices": [
-        102,
-        28,
-        70,
-        128,
-        25,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tutelage",
-      "answer_letters": "TUTELAGE",
-      "indices": [
-        95,
-        113,
-        27,
-        50,
+        43,
+        83,
+        71,
+        22,
+        155,
+        177,
+        134,
         114,
-        53,
-        168,
-        87
+        123
       ]
     },
     {
@@ -173,47 +56,166 @@
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
-        163,
-        155,
-        177,
-        139,
-        36,
-        31,
-        7,
+        125,
+        44,
         51,
-        134,
-        16,
-        98
+        184,
+        50,
+        19,
+        110,
+        25,
+        91,
+        48,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "endorsed",
-      "answer_letters": "ENDORSED",
+      "answer": "edmond",
+      "answer_letters": "EDMOND",
       "indices": [
-        188,
-        143,
+        116,
+        117,
+        122,
+        89,
+        170,
+        10
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "pardoned",
+      "answer_letters": "PARDONED",
+      "indices": [
+        112,
+        53,
+        31,
         41,
-        82,
-        23,
-        43,
-        9,
+        174,
+        40,
+        17,
         86
       ]
     },
     {
       "clue": null,
-      "answer": "bromwich",
-      "answer_letters": "BROMWICH",
+      "answer": "hawthorne",
+      "answer_letters": "HAWTHORNE",
+      "indices": [
+        157,
+        34,
+        181,
+        186,
+        61,
+        82,
+        175,
+        135,
+        188
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "east-west",
+      "answer_letters": "EASTWEST",
+      "indices": [
+        87,
+        103,
+        37,
+        153,
+        160,
+        126,
+        131,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "right-arm",
+      "answer_letters": "RIGHTARM",
+      "indices": [
+        128,
+        81,
+        46,
+        1,
+        162,
+        140,
+        5,
+        139
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        102,
+        6,
+        69,
+        113,
+        132,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thoughts",
+      "answer_letters": "THOUGHTS",
+      "indices": [
+        95,
+        187,
+        62,
+        67,
+        136,
+        28,
+        27,
+        20
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "healthcare",
+      "answer_letters": "HEALTHCARE",
+      "indices": [
+        163,
+        99,
+        70,
+        66,
+        90,
+        98,
+        60,
+        39,
+        189,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "errors",
+      "answer_letters": "ERRORS",
+      "indices": [
+        9,
+        100,
+        23,
+        78,
+        109,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bolsheviks",
+      "answer_letters": "BOLSHEVIKS",
       "indices": [
         79,
-        189,
         180,
-        55,
-        181,
+        165,
+        7,
+        13,
+        158,
+        88,
         142,
-        60,
-        106
+        141,
+        0
       ]
     },
     {
@@ -222,76 +224,74 @@
       "answer_letters": "EVERYTHING",
       "indices": [
         151,
-        88,
+        80,
         2,
-        175,
-        123,
-        186,
+        133,
+        147,
+        16,
         150,
         169,
-        59,
-        46
+        45,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "annual",
-      "answer_letters": "ANNUAL",
+      "answer": "asthma",
+      "answer_letters": "ASTHMA",
       "indices": [
         58,
-        45,
-        40,
-        83,
-        127,
-        165
+        152,
+        129,
+        106,
+        55,
+        127
       ]
     },
     {
       "clue": null,
-      "answer": "commercially",
-      "answer_letters": "COMMERCIALLY",
+      "answer": "conglomerate",
+      "answer_letters": "CONGLOMERATE",
       "indices": [
-        149,
-        185,
-        122,
-        146,
-        29,
-        19,
         35,
-        30,
-        103,
+        185,
+        143,
+        105,
         68,
-        57,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offset",
-      "answer_letters": "OFFSET",
-      "indices": [
         24,
-        33,
-        173,
-        137,
-        75,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "navigator",
-      "answer_letters": "NAVIGATOR",
-      "indices": [
-        167,
-        119,
-        80,
-        161,
-        171,
+        146,
+        14,
+        76,
         18,
         107,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "offline",
+      "answer_letters": "OFFLINE",
+      "indices": [
         96,
-        76
+        33,
+        173,
+        57,
+        161,
+        182,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nguyễn",
+      "answer_letters": "NGUYEN",
+      "indices": [
+        93,
+        171,
+        104,
+        178,
+        75,
+        167
       ]
     }
   ],

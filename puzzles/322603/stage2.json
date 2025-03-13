@@ -6,281 +6,281 @@
   "clues": [
     {
       "clue": null,
-      "answer": "estonia",
-      "answer_letters": "ESTONIA",
+      "answer": "erebidae",
+      "answer_letters": "EREBIDAE",
       "indices": [
-        86,
-        63,
-        23,
-        145,
-        30,
-        0,
-        125
+        38,
+        160,
+        166,
+        103,
+        128,
+        67,
+        125,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "mendoza",
-      "answer_letters": "MENDOZA",
+      "answer": "monastic",
+      "answer_letters": "MONASTIC",
       "indices": [
         3,
-        134,
-        90,
-        168,
-        114,
-        79,
-        21
+        157,
+        83,
+        2,
+        116,
+        64,
+        61,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "minuscule",
-      "answer_letters": "MINUSCULE",
+      "answer": "monitored",
+      "answer_letters": "MONITORED",
       "indices": [
         97,
+        114,
+        14,
         41,
-        83,
-        159,
-        116,
-        95,
-        29,
-        104,
-        161
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "archaic",
-      "answer_letters": "ARCHAIC",
-      "indices": [
-        87,
-        12,
-        22,
-        43,
-        25,
-        128,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        9,
-        96,
-        160,
-        109,
-        121,
-        40,
-        38,
-        138,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "insulation",
-      "answer_letters": "INSULATION",
-      "indices": [
-        163,
-        10,
-        55,
-        24,
-        124,
-        66,
-        16,
-        69,
-        47,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "created",
-      "answer_letters": "CREATED",
-      "indices": [
-        173,
-        33,
-        141,
-        76,
-        112,
-        167,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hauled",
-      "answer_letters": "HAULED",
-      "indices": [
-        46,
-        172,
-        110,
-        77,
-        144,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "oceans",
-      "answer_letters": "OCEANS",
-      "indices": [
-        157,
-        155,
-        48,
-        123,
-        165,
-        170
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lebanese",
-      "answer_letters": "LEBANESE",
-      "indices": [
-        147,
-        152,
-        103,
-        51,
-        31,
-        11,
-        107,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "swallow",
-      "answer_letters": "SWALLOW",
-      "indices": [
-        49,
-        56,
-        58,
-        156,
-        26,
-        139,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "slovak",
-      "answer_letters": "SLOVAK",
-      "indices": [
-        71,
-        35,
-        99,
-        88,
-        102,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "impending",
-      "answer_letters": "IMPENDING",
-      "indices": [
-        75,
-        140,
-        171,
-        148,
-        115,
-        136,
-        113,
-        62,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "notified",
-      "answer_letters": "NOTIFIED",
-      "indices": [
-        150,
+        59,
         15,
-        64,
-        119,
-        98,
-        82,
-        32,
+        28,
+        135,
         153
       ]
     },
     {
       "clue": null,
-      "answer": "amiens",
-      "answer_letters": "AMIENS",
+      "answer": "appear",
+      "answer_letters": "APPEAR",
       "indices": [
-        5,
-        127,
-        108,
-        166,
-        94,
-        132
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "taipei",
-      "answer_letters": "TAIPEI",
-      "indices": [
-        101,
-        18,
-        89,
+        87,
+        171,
         143,
-        73,
-        36
+        86,
+        25,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "signature",
-      "answer_letters": "SIGNATURE",
+      "answer": "nemesis",
+      "answer_letters": "NEMESIS",
       "indices": [
+        52,
+        167,
+        127,
+        144,
+        55,
+        89,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issuing",
+      "answer_letters": "ISSUING",
+      "indices": [
+        69,
         45,
-        78,
-        91,
-        19,
-        111,
-        42,
-        8,
-        126,
+        71,
+        24,
+        108,
+        10,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "coalition",
+      "answer_letters": "COALITION",
+      "indices": [
+        173,
+        99,
+        123,
+        104,
+        82,
+        16,
+        75,
+        47,
+        62
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "helpful",
+      "answer_letters": "HELPFUL",
+      "indices": [
+        121,
+        134,
+        85,
+        133,
+        98,
+        159,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
+      "indices": [
+        96,
+        29,
+        109,
+        147,
+        51,
+        56,
+        174,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leuven",
+      "answer_letters": "LEUVEN",
+      "indices": [
+        35,
+        32,
+        110,
+        88,
+        148,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "science",
+      "answer_letters": "SCIENCE",
+      "indices": [
+        63,
+        22,
+        0,
+        151,
+        30,
+        74,
         57
       ]
     },
     {
       "clue": null,
-      "answer": "entrepreneur",
-      "answer_letters": "ENTREPRENEUR",
+      "answer": "southland",
+      "answer_letters": "SOUTHLAND",
       "indices": [
-        65,
-        129,
-        59,
-        100,
-        105,
-        72,
-        28,
-        135,
-        14,
-        80,
-        93,
-        7
+        107,
+        145,
+        8,
+        101,
+        43,
+        156,
+        66,
+        19,
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "applies",
-      "answer_letters": "APPLIES",
+      "answer": "inputs",
+      "answer_letters": "INPUTS",
       "indices": [
-        2,
-        133,
-        146,
-        85,
-        61,
-        174,
+        119,
+        115,
+        72,
+        93,
+        42,
         158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newark",
+      "answer_letters": "NEWARK",
+      "indices": [
+        150,
+        161,
+        40,
+        172,
+        7,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awareness",
+      "answer_letters": "AWARENESS",
+      "indices": [
+        5,
+        118,
+        18,
+        33,
+        48,
+        9,
+        152,
+        132,
+        49
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "triangle",
+      "answer_letters": "TRIANGLE",
+      "indices": [
+        23,
+        126,
+        36,
+        58,
+        94,
+        91,
+        26,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "specialization",
+      "answer_letters": "SPECIALIZATION",
+      "indices": [
+        170,
+        146,
+        141,
+        155,
+        113,
+        111,
+        124,
+        78,
+        79,
+        102,
+        120,
+        163,
+        139,
+        31
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "earned",
+      "answer_letters": "EARNED",
+      "indices": [
+        65,
+        21,
+        100,
+        129,
+        105,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anthem",
+      "answer_letters": "ANTHEM",
+      "indices": [
+        76,
+        90,
+        112,
+        46,
+        80,
+        140
       ]
     }
   ],

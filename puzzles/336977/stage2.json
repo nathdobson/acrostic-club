@@ -6,121 +6,123 @@
   "clues": [
     {
       "clue": null,
-      "answer": "ambushed",
-      "answer_letters": "AMBUSHED",
+      "answer": "assassination",
+      "answer_letters": "ASSASSINATION",
       "indices": [
         79,
-        2,
-        122,
-        152,
         176,
+        112,
+        68,
+        8,
+        95,
+        75,
+        63,
+        104,
+        4,
+        97,
+        28,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "phosphate",
+      "answer_letters": "PHOSPHATE",
+      "indices": [
+        13,
         93,
-        173,
+        100,
+        182,
+        163,
+        146,
+        178,
+        167,
+        173
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "resisted",
+      "answer_letters": "RESISTED",
+      "indices": [
+        46,
+        85,
+        54,
+        66,
+        29,
+        105,
+        39,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "investigate",
+      "answer_letters": "INVESTIGATE",
+      "indices": [
+        5,
+        89,
+        80,
+        164,
+        60,
+        94,
+        107,
+        92,
+        62,
+        99,
+        123
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lionel",
+      "answer_letters": "LIONEL",
+      "indices": [
+        131,
+        23,
+        162,
+        130,
+        30,
+        27
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "heated",
+      "answer_letters": "HEATED",
+      "indices": [
+        138,
+        184,
+        48,
+        108,
+        35,
         143
       ]
     },
     {
       "clue": null,
-      "answer": "personality",
-      "answer_letters": "PERSONALITY",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
       "indices": [
-        13,
-        175,
-        171,
-        112,
-        28,
-        63,
-        68,
-        160,
-        75,
-        4,
-        40
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhymes",
-      "answer_letters": "RHYMES",
-      "indices": [
-        46,
-        103,
-        174,
+        139,
         86,
-        81,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "impact",
-      "answer_letters": "IMPACT",
-      "indices": [
-        5,
-        6,
-        10,
-        104,
-        150,
-        33
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawson",
-      "answer_letters": "LAWSON",
-      "indices": [
+        122,
         153,
-        111,
-        52,
-        90,
-        129,
-        142
+        72,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "heightened",
-      "answer_letters": "HEIGHTENED",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
       "indices": [
-        34,
-        147,
-        70,
-        69,
-        168,
-        76,
-        55,
-        98,
-        164,
-        64
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
-      "indices": [
-        7,
-        60,
-        54,
-        62,
-        132,
-        91,
-        29,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nominees",
-      "answer_letters": "NOMINEES",
-      "indices": [
-        130,
-        162,
-        67,
-        23,
         165,
+        7,
         41,
+        180,
         11,
-        156
+        19
       ]
     },
     {
@@ -129,168 +131,166 @@
       "answer_letters": "RHODES",
       "indices": [
         37,
-        84,
-        1,
-        73,
-        126,
-        182
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yeovil",
-      "answer_letters": "YEOVIL",
-      "indices": [
-        148,
-        3,
-        12,
-        80,
-        115,
-        131
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gothic",
-      "answer_letters": "GOTHIC",
-      "indices": [
-        92,
+        103,
         57,
-        105,
-        138,
-        170,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "intensified",
-      "answer_letters": "INTENSIFIED",
-      "indices": [
-        18,
-        58,
-        83,
-        35,
-        179,
-        8,
-        158,
-        44,
-        88,
-        15,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "retitled",
-      "answer_letters": "RETITLED",
-      "indices": [
-        127,
-        141,
-        167,
-        97,
-        145,
-        159,
-        184,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "loaded",
-      "answer_letters": "LOADED",
-      "indices": [
-        27,
-        45,
-        178,
-        17,
-        169,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shifts",
-      "answer_letters": "SHIFTS",
-      "indices": [
-        24,
-        22,
-        107,
-        50,
-        157,
+        31,
+        147,
         0
       ]
     },
     {
       "clue": null,
-      "answer": "tweeted",
-      "answer_letters": "TWEETED",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
-        137,
-        102,
-        30,
-        139,
-        135,
-        72,
-        19
+        174,
+        36,
+        59,
+        64,
+        115,
+        90,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "okinawa",
-      "answer_letters": "OKINAWA",
+      "answer": "genital",
+      "answer_letters": "GENITAL",
       "indices": [
-        120,
-        116,
-        66,
-        71,
-        48,
-        110,
-        134
+        78,
+        55,
+        98,
+        170,
+        119,
+        111,
+        159
       ]
     },
     {
       "clue": null,
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
+      "indices": [
+        158,
+        42,
+        151,
+        83,
+        1,
+        10,
+        175,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
+      "indices": [
+        171,
+        34,
+        40,
+        145,
+        168,
+        2,
+        18,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "leonid",
+      "answer_letters": "LEONID",
       "indices": [
         14,
-        51,
-        95,
-        100,
-        108,
-        146,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        123,
-        163,
-        36,
-        119,
-        125,
-        85,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "neglected",
-      "answer_letters": "NEGLECTED",
-      "indices": [
-        89,
-        39,
-        78,
-        114,
         117,
-        56,
-        99,
+        45,
+        71,
+        91,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "seemed",
+      "answer_letters": "SEEMED",
+      "indices": [
+        156,
         183,
-        154
+        126,
+        6,
+        3,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "twenty-two",
+      "answer_letters": "TWENTYTWO",
+      "indices": [
+        33,
+        110,
+        81,
+        142,
+        157,
+        132,
+        137,
+        52,
+        120
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
+      "indices": [
+        129,
+        152,
+        135,
+        114,
+        169,
+        21
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        160,
+        141,
+        125,
+        88,
+        69,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efficacy",
+      "answer_letters": "EFFICACY",
+      "indices": [
+        15,
+        44,
+        50,
+        70,
+        26,
+        134,
+        150,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        179,
+        51,
+        76,
+        102,
+        12,
+        127,
+        116
       ]
     }
   ],

@@ -6,278 +6,278 @@
   "clues": [
     {
       "clue": null,
-      "answer": "inmates",
-      "answer_letters": "INMATES",
+      "answer": "institutional",
+      "answer_letters": "INSTITUTIONAL",
       "indices": [
         176,
         166,
-        31,
-        143,
+        25,
         158,
-        16,
-        25
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assessing",
-      "answer_letters": "ASSESSING",
-      "indices": [
-        127,
-        19,
-        162,
-        133,
-        51,
-        171,
-        30,
-        144,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novels",
-      "answer_letters": "NOVELS",
-      "indices": [
-        1,
-        114,
-        132,
-        163,
-        10,
-        72
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "medium",
-      "answer_letters": "MEDIUM",
-      "indices": [
-        27,
-        125,
-        102,
-        139,
+        21,
+        88,
         9,
-        13
+        172,
+        42,
+        95,
+        17,
+        143,
+        10
       ]
     },
     {
       "clue": null,
-      "answer": "contradiction",
-      "answer_letters": "CONTRADICTION",
+      "answer": "advocacy",
+      "answer_letters": "ADVOCACY",
       "indices": [
-        104,
-        55,
-        101,
-        66,
-        111,
-        50,
+        121,
         40,
-        108,
-        128,
-        22,
-        68,
-        26,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "efficiency",
-      "answer_letters": "EFFICIENCY",
-      "indices": [
-        44,
-        6,
-        5,
-        130,
+        132,
+        165,
+        8,
+        50,
         142,
-        71,
-        170,
-        153,
-        120,
         54
       ]
     },
     {
       "clue": null,
-      "answer": "worked",
-      "answer_letters": "WORKED",
+      "answer": "neighbors",
+      "answer_letters": "NEIGHBORS",
       "indices": [
-        63,
-        156,
+        144,
+        92,
+        4,
+        98,
+        129,
+        91,
+        14,
         57,
-        52,
-        110,
-        109
+        72
       ]
     },
     {
       "clue": null,
-      "answer": "advent",
-      "answer_letters": "ADVENT",
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
       "indices": [
-        65,
-        94,
+        31,
+        26,
+        66,
+        108,
         149,
         131,
-        17,
-        88
+        19
       ]
     },
     {
       "clue": null,
-      "answer": "negotiating",
-      "answer_letters": "NEGOTIATING",
+      "answer": "consist",
+      "answer_letters": "CONSIST",
       "indices": [
-        122,
-        59,
-        98,
-        95,
-        172,
-        21,
-        121,
-        69,
-        42,
-        177,
-        178
+        128,
+        79,
+        101,
+        162,
+        68,
+        51,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "schmidt",
-      "answer_letters": "SCHMIDT",
+      "answer": "edited",
+      "answer_letters": "EDITED",
       "indices": [
-        80,
-        8,
-        113,
-        78,
-        136,
-        167,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "whitish",
-      "answer_letters": "WHITISH",
-      "indices": [
-        83,
-        129,
-        7,
-        174,
-        4,
-        107,
-        159
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "enfield",
-      "answer_letters": "ENFIELD",
-      "indices": [
-        28,
-        106,
-        137,
+        110,
+        109,
         96,
-        160,
-        60,
+        86,
+        28,
         43
       ]
     },
     {
       "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "answer": "wycombe",
+      "answer_letters": "WYCOMBE",
       "indices": [
-        92,
-        164,
-        175,
-        79,
-        150,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "toowoomba",
-      "answer_letters": "TOOWOOMBA",
-      "indices": [
-        47,
-        39,
-        48,
         115,
-        105,
-        89,
-        15,
-        91,
-        84
+        74,
+        120,
+        152,
+        78,
+        169,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
+      "answer": "absent",
+      "answer_letters": "ABSENT",
+      "indices": [
+        65,
+        124,
+        107,
+        16,
+        122,
+        69
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "norwich",
+      "answer_letters": "NORWICH",
+      "indices": [
+        177,
+        55,
+        111,
+        83,
+        139,
+        104,
+        175
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "saddam",
+      "answer_letters": "SADDAM",
+      "indices": [
+        80,
+        127,
+        134,
+        167,
+        100,
+        13
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "wooded",
+      "answer_letters": "WOODED",
+      "indices": [
+        63,
+        38,
+        148,
+        94,
+        125,
+        102
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "einstein",
+      "answer_letters": "EINSTEIN",
+      "indices": [
+        133,
+        30,
+        1,
+        23,
+        29,
+        163,
+        136,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "economist",
+      "answer_letters": "ECONOMIST",
+      "indices": [
+        59,
+        164,
+        114,
+        97,
+        156,
+        27,
+        7,
+        171,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        155,
+        84,
+        52,
+        170,
+        89,
+        5,
+        61
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "totaling",
+      "answer_letters": "TOTALING",
       "indices": [
         145,
-        45,
+        39,
         18,
-        81,
-        165,
-        14
+        45,
+        60,
+        130,
+        153,
+        37
       ]
     },
     {
       "clue": null,
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
+      "answer": "omitted",
+      "answer_letters": "OMITTED",
       "indices": [
-        75,
-        124,
-        32,
-        33,
-        117,
-        155,
-        74
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outfits",
-      "answer_letters": "OUTFITS",
-      "indices": [
-        152,
-        56,
-        118,
-        61,
-        0,
-        140,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tomato",
-      "answer_letters": "TOMATO",
-      "indices": [
-        86,
-        38,
+        105,
         147,
-        100,
-        11,
-        148
+        71,
+        118,
+        140,
+        44,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "husband",
-      "answer_letters": "HUSBAND",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        48,
+        137,
+        6,
+        33,
+        160,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        11,
+        159,
+        75,
+        56,
+        178,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "humanities",
+      "answer_letters": "HUMANITIES",
       "indices": [
         64,
         76,
-        58,
-        169,
+        15,
         35,
         85,
-        3
+        0,
+        47,
+        117,
+        32,
+        58
       ]
     }
   ],

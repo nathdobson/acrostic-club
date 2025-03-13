@@ -6,72 +6,70 @@
   "clues": [
     {
       "clue": null,
-      "answer": "vacuum",
-      "answer_letters": "VACUUM",
+      "answer": "velvet",
+      "answer_letters": "VELVET",
       "indices": [
         141,
-        15,
-        23,
-        75,
-        53,
-        33
+        41,
+        101,
+        125,
+        126,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "enjoying",
-      "answer_letters": "ENJOYING",
+      "answer": "either",
+      "answer_letters": "EITHER",
       "indices": [
+        60,
+        131,
+        148,
+        90,
         173,
-        92,
-        162,
-        1,
-        102,
-        37,
-        132,
-        39
+        107
       ]
     },
     {
       "clue": null,
-      "answer": "reviewers",
-      "answer_letters": "REVIEWERS",
+      "answer": "romney",
+      "answer_letters": "ROMNEY",
       "indices": [
         127,
-        156,
-        125,
-        91,
-        59,
-        122,
-        182,
-        99,
-        155
+        32,
+        87,
+        44,
+        111,
+        177
       ]
     },
     {
       "clue": null,
-      "answer": "office",
-      "answer_letters": "OFFICE",
+      "answer": "objects",
+      "answer_letters": "OBJECTS",
       "indices": [
-        121,
-        184,
-        58,
-        56,
+        18,
+        150,
+        162,
+        13,
         20,
-        111
+        35,
+        31
       ]
     },
     {
       "clue": null,
-      "answer": "nebula",
-      "answer_letters": "NEBULA",
+      "answer": "navigate",
+      "answer_letters": "NAVIGATE",
       "indices": [
         169,
-        66,
-        150,
-        100,
-        183,
-        47
+        153,
+        82,
+        28,
+        133,
+        47,
+        16,
+        43
       ]
     },
     {
@@ -79,124 +77,129 @@
       "answer": "in-house",
       "answer_letters": "INHOUSE",
       "indices": [
-        28,
+        37,
         3,
         36,
-        115,
-        179,
-        31,
+        159,
+        100,
+        181,
         151
       ]
     },
     {
       "clue": null,
-      "answer": "comedy",
-      "answer_letters": "COMEDY",
+      "answer": "community's",
+      "answer_letters": "COMMUNITYS",
       "indices": [
         167,
-        108,
-        87,
-        78,
-        0,
-        177
+        86,
+        33,
+        112,
+        46,
+        25,
+        147,
+        129,
+        128,
+        96
       ]
     },
     {
       "clue": null,
-      "answer": "actually",
-      "answer_letters": "ACTUALLY",
+      "answer": "approve",
+      "answer_letters": "APPROVE",
       "indices": [
         6,
-        152,
-        148,
-        116,
-        153,
-        8,
-        79,
+        106,
+        175,
+        180,
+        1,
+        42,
+        66
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "refuse",
+      "answer_letters": "REFUSE",
+      "indices": [
+        120,
+        21,
+        184,
+        53,
+        155,
+        156
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outline",
+      "answer_letters": "OUTLINE",
+      "indices": [
+        178,
+        163,
+        45,
+        61,
+        2,
+        19,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        118,
+        122,
+        115,
+        68,
+        104,
         50
       ]
     },
     {
       "clue": null,
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "answer": "hugely",
+      "answer_letters": "HUGELY",
       "indices": [
-        120,
-        130,
-        135,
-        45,
-        119,
-        112
+        69,
+        154,
+        4,
+        70,
+        8,
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "outlook",
-      "answer_letters": "OUTLOOK",
-      "indices": [
-        74,
-        163,
-        89,
-        61,
-        86,
-        32,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tablets",
-      "answer_letters": "TABLETS",
-      "indices": [
-        16,
-        104,
-        52,
-        49,
-        43,
-        118,
-        181
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        90,
-        142,
-        68,
-        95,
-        11,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "augustine",
-      "answer_letters": "AUGUSTINE",
+      "answer": "authenticity",
+      "answer_letters": "AUTHENTICITY",
       "indices": [
         24,
-        160,
-        4,
-        137,
-        85,
-        145,
-        80,
+        179,
+        10,
+        172,
+        142,
         71,
-        34
+        145,
+        91,
+        152,
+        56,
+        98,
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "livery",
-      "answer_letters": "LIVERY",
+      "answer": "likely",
+      "answer_letters": "LIKELY",
       "indices": [
-        63,
-        64,
-        82,
-        60,
-        107,
-        73
+        183,
+        80,
+        65,
+        81,
+        49,
+        102
       ]
     },
     {
@@ -204,103 +207,100 @@
       "answer": "lifeboat",
       "answer_letters": "LIFEBOAT",
       "indices": [
-        48,
-        131,
+        79,
+        95,
         27,
-        81,
-        77,
-        159,
+        34,
+        52,
+        121,
         140,
-        98
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "exponential",
-      "answer_letters": "EXPONENTIAL",
+      "answer": "excuse",
+      "answer_letters": "EXCUSE",
       "indices": [
-        41,
+        83,
         29,
-        106,
-        178,
-        19,
-        126,
-        38,
-        170,
-        2,
-        168,
-        101
+        23,
+        75,
+        164,
+        78
       ]
     },
     {
       "clue": null,
-      "answer": "gesture",
-      "answer_letters": "GESTURE",
+      "answer": "genuine",
+      "answer_letters": "GENUINE",
       "indices": [
-        133,
+        39,
         124,
-        96,
-        54,
-        154,
-        180,
+        92,
+        116,
+        64,
+        132,
         88
       ]
     },
     {
       "clue": null,
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "answer": "itself",
+      "answer_letters": "ITSELF",
       "indices": [
-        147,
-        175,
-        69,
-        18,
-        44,
-        83
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "absolutely",
-      "answer_letters": "ABSOLUTELY",
-      "indices": [
-        144,
-        109,
-        164,
-        136,
-        174,
-        46,
-        129,
-        21,
-        110,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nightly",
-      "answer_letters": "NIGHTLY",
-      "indices": [
-        25,
         9,
+        165,
+        85,
+        182,
+        174,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abdullah",
+      "answer_letters": "ABDULLAH",
+      "indices": [
+        168,
+        77,
+        0,
+        160,
+        110,
+        48,
+        144,
+        130
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notably",
+      "answer_letters": "NOTABLY",
+      "indices": [
+        38,
+        74,
+        89,
+        15,
+        109,
+        12,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "thoroughly",
+      "answer_letters": "THOROUGHLY",
+      "indices": [
+        11,
+        119,
+        108,
+        99,
+        136,
+        137,
         93,
         139,
-        165,
-        12,
-        128
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "they've",
-      "answer_letters": "THEYVE",
-      "indices": [
-        35,
-        172,
-        13,
-        158,
-        42,
-        70
+        63,
+        114
       ]
     }
   ],

@@ -6,15 +6,15 @@
   "clues": [
     {
       "clue": null,
-      "answer": "airbus",
-      "answer_letters": "AIRBUS",
+      "answer": "attire",
+      "answer_letters": "ATTIRE",
       "indices": [
-        15,
+        175,
+        27,
+        179,
         157,
-        115,
-        44,
-        60,
-        13
+        103,
+        2
       ]
     },
     {
@@ -22,271 +22,271 @@
       "answer": "yvonne",
       "answer_letters": "YVONNE",
       "indices": [
-        146,
+        135,
         81,
-        160,
-        96,
+        10,
         159,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
-      "indices": [
-        120,
-        167,
-        90,
-        127,
-        63,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rejection",
-      "answer_letters": "REJECTION",
-      "indices": [
-        51,
-        30,
-        24,
-        155,
-        161,
-        0,
-        178,
-        21,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "athenian",
-      "answer_letters": "ATHENIAN",
-      "indices": [
-        119,
-        27,
-        154,
-        53,
-        72,
-        36,
-        145,
-        32
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nutrient",
-      "answer_letters": "NUTRIENT",
-      "indices": [
         79,
-        25,
-        101,
-        20,
-        116,
-        45,
-        151,
-        117
+        82
       ]
     },
     {
       "clue": null,
-      "answer": "differ",
-      "answer_letters": "DIFFER",
+      "answer": "notified",
+      "answer_letters": "NOTIFIED",
+      "indices": [
+        57,
+        141,
+        90,
+        36,
+        19,
+        6,
+        162,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "recommendation",
+      "answer_letters": "RECOMMENDATION",
+      "indices": [
+        115,
+        169,
+        14,
+        172,
+        22,
+        98,
+        92,
+        32,
+        137,
+        145,
+        0,
+        132,
+        106,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aperture",
+      "answer_letters": "APERTURE",
+      "indices": [
+        63,
+        144,
+        49,
+        83,
+        142,
+        131,
+        3,
+        128
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        151,
+        160,
+        20,
+        101,
+        1,
+        84,
+        68,
+        25,
+        117,
+        127
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dinner",
+      "answer_letters": "DINNER",
       "indices": [
         54,
         80,
-        67,
-        124,
+        48,
+        105,
         88,
         107
       ]
     },
     {
       "clue": null,
-      "answer": "attraction",
-      "answer_letters": "ATTRACTION",
+      "answer": "attain",
+      "answer_letters": "ATTAIN",
       "indices": [
-        99,
-        34,
-        74,
-        83,
         50,
-        40,
+        74,
         134,
+        167,
         28,
-        141,
-        52
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "tipperary",
-      "answer_letters": "TIPPERARY",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
       "indices": [
-        179,
-        6,
-        144,
-        62,
-        4,
-        103,
-        56,
+        171,
+        166,
+        150,
+        146,
+        168,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lennon",
+      "answer_letters": "LENNON",
+      "indices": [
+        133,
+        155,
+        120,
+        9,
+        138,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "antennae",
+      "answer_letters": "ANTENNAE",
+      "indices": [
+        41,
+        42,
+        126,
+        102,
+        61,
+        96,
+        99,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "subject",
+      "answer_letters": "SUBJECT",
+      "indices": [
+        26,
+        78,
+        44,
+        24,
+        76,
+        29,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "sirius",
+      "answer_letters": "SIRIUS",
+      "indices": [
+        13,
+        95,
         69,
+        114,
+        60,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "happen",
+      "answer_letters": "HAPPEN",
+      "indices": [
+        75,
+        119,
+        62,
+        113,
+        17,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ritchie",
+      "answer_letters": "RITCHIE",
+      "indices": [
+        93,
+        116,
+        34,
+        40,
+        154,
+        89,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unhappy",
+      "answer_letters": "UNHAPPY",
+      "indices": [
+        47,
+        110,
+        149,
+        56,
+        16,
+        174,
         176
       ]
     },
     {
       "clue": null,
-      "answer": "lichen",
-      "answer_letters": "LICHEN",
-      "indices": [
-        133,
-        71,
-        29,
-        166,
-        49,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "anthony",
-      "answer_letters": "ANTHONY",
-      "indices": [
-        41,
-        42,
-        126,
-        1,
-        10,
-        61,
-        135
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "seismic",
-      "answer_letters": "SEISMIC",
-      "indices": [
-        26,
-        150,
-        95,
-        7,
-        98,
-        114,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "southend",
-      "answer_letters": "SOUTHEND",
-      "indices": [
-        112,
-        172,
-        78,
-        100,
-        75,
-        128,
-        110,
-        65
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hip-hop",
-      "answer_letters": "HIPHOP",
-      "indices": [
-        149,
-        132,
-        113,
-        35,
-        106,
-        16
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reunion",
-      "answer_letters": "REUNION",
-      "indices": [
-        93,
-        82,
-        131,
-        163,
-        89,
-        68,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uneven",
-      "answer_letters": "UNEVEN",
-      "indices": [
-        47,
-        140,
-        2,
-        168,
-        76,
-        48
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gideon",
-      "answer_letters": "GIDEON",
+      "answer": "griffith",
+      "answer_letters": "GRIFFITH",
       "indices": [
         38,
+        51,
+        123,
+        67,
+        124,
         64,
-        137,
-        169,
-        33,
-        105
+        148,
+        91
       ]
     },
     {
       "clue": null,
-      "answer": "gifted",
-      "answer_letters": "GIFTED",
+      "answer": "gothic",
+      "answer_letters": "GOTHIC",
       "indices": [
         130,
-        123,
-        19,
+        21,
         164,
-        17,
-        121
+        35,
+        178,
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "answer": "estonian",
+      "answer_letters": "ESTONIAN",
       "indices": [
-        92,
-        174,
-        109,
-        148,
-        91,
         85,
-        153
+        7,
+        153,
+        33,
+        37,
+        109,
+        15,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "demonstrate",
-      "answer_letters": "DEMONSTRATE",
+      "answer": "denied",
+      "answer_letters": "DENIED",
       "indices": [
-        58,
-        12,
-        22,
-        138,
-        158,
-        84,
-        142,
-        3,
-        175,
-        171,
-        162
+        65,
+        53,
+        52,
+        71,
+        4,
+        121
       ]
     }
   ],

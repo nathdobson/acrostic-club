@@ -6,96 +6,101 @@
   "clues": [
     {
       "clue": null,
-      "answer": "skopje",
-      "answer_letters": "SKOPJE",
+      "answer": "softer",
+      "answer_letters": "SOFTER",
       "indices": [
         118,
-        47,
         19,
-        9,
-        13,
-        151
+        92,
+        167,
+        151,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "avalon",
-      "answer_letters": "AVALON",
+      "answer": "attending",
+      "answer_letters": "ATTENDING",
       "indices": [
         59,
-        187,
-        96,
-        186,
-        53,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "defeated",
-      "answer_letters": "DEFEATED",
-      "indices": [
-        154,
-        71,
-        92,
-        7,
-        166,
         54,
-        119,
-        42
+        95,
+        66,
+        22,
+        154,
+        145,
+        29,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "hockey",
-      "answer_letters": "HOCKEY",
+      "answer": "dorothea",
+      "answer_letters": "DOROTHEA",
       "indices": [
-        122,
+        42,
+        53,
+        46,
         33,
-        73,
-        137,
-        75,
+        169,
+        122,
+        71,
+        96
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "honesty",
+      "answer_letters": "HONESTY",
+      "indices": [
+        126,
+        83,
+        160,
+        7,
+        106,
+        157,
         111
       ]
     },
     {
       "clue": null,
-      "answer": "getting",
-      "answer_letters": "GETTING",
+      "answer": "geometry",
+      "answer_letters": "GEOMETRY",
       "indices": [
-        80,
+        90,
+        185,
+        155,
+        183,
         182,
         177,
-        167,
-        48,
-        156,
-        90
+        26,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "united",
-      "answer_letters": "UNITED",
+      "answer": "update",
+      "answer_letters": "UPDATE",
       "indices": [
         103,
-        41,
-        99,
-        104,
-        11,
-        172
+        9,
+        172,
+        40,
+        0,
+        123
       ]
     },
     {
       "clue": null,
-      "answer": "retake",
-      "answer_letters": "RETAKE",
+      "answer": "robbed",
+      "answer_letters": "ROBBED",
       "indices": [
-        74,
-        62,
-        169,
-        69,
-        159,
-        147
+        136,
+        21,
+        56,
+        113,
+        129,
+        2
       ]
     },
     {
@@ -103,55 +108,53 @@
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
-        14,
+        60,
         6,
-        157,
-        132,
+        149,
+        170,
         164,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
-      "indices": [
-        108,
-        135,
-        64,
-        161,
-        44,
         89
       ]
     },
     {
       "clue": null,
-      "answer": "yearbook",
-      "answer_letters": "YEARBOOK",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
-        124,
-        85,
+        108,
+        1,
+        65,
         76,
-        143,
-        102,
-        21,
-        170,
-        35
+        175,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "showtime",
-      "answer_letters": "SHOWTIME",
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
       "indices": [
-        184,
-        65,
-        45,
-        175,
-        0,
+        67,
+        69,
+        41,
+        137,
+        62,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "switches",
+      "answer_letters": "SWITCHES",
+      "indices": [
+        82,
+        162,
         28,
-        183,
-        57
+        98,
+        58,
+        87,
+        11,
+        61
       ]
     },
     {
@@ -159,161 +162,158 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        149,
-        32,
-        173,
+        64,
         144,
-        116,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inventory",
-      "answer_letters": "INVENTORY",
-      "indices": [
-        176,
-        94,
-        128,
-        188,
-        49,
-        98,
-        1,
-        26,
+        135,
+        134,
+        3,
         152
       ]
     },
     {
       "clue": null,
-      "answer": "crowns",
-      "answer_letters": "CROWNS",
+      "answer": "investigate",
+      "answer_letters": "INVESTIGATE",
+      "indices": [
+        176,
+        52,
+        187,
+        57,
+        184,
+        16,
+        48,
+        80,
+        127,
+        77,
+        188
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "co-wrote",
+      "answer_letters": "COWROTE",
       "indices": [
         115,
+        161,
+        44,
         34,
-        25,
-        134,
-        79,
-        97
+        45,
+        104,
+        85
       ]
     },
     {
       "clue": null,
-      "answer": "sketches",
-      "answer_letters": "SKETCHES",
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
       "indices": [
-        82,
-        27,
+        97,
+        165,
         114,
-        180,
-        58,
-        181,
-        123,
-        61
+        99,
+        27,
+        181
       ]
     },
     {
       "clue": null,
-      "answer": "macbeth",
-      "answer_letters": "MACBETH",
+      "answer": "motorway",
+      "answer_letters": "MOTORWAY",
       "indices": [
         84,
-        3,
-        100,
-        113,
-        142,
-        131,
-        178
+        173,
+        140,
+        25,
+        74,
+        32,
+        166,
+        124
       ]
     },
     {
       "clue": null,
-      "answer": "upright",
-      "answer_letters": "UPRIGHT",
+      "answer": "unwilling",
+      "answer_letters": "UNWILLING",
       "indices": [
-        60,
-        109,
-        136,
-        107,
-        18,
-        126,
-        95
+        117,
+        37,
+        24,
+        78,
+        10,
+        110,
+        36,
+        79,
+        30
       ]
     },
     {
       "clue": null,
-      "answer": "shanghai",
-      "answer_letters": "SHANGHAI",
+      "answer": "sketch",
+      "answer_letters": "SKETCH",
       "indices": [
         189,
-        150,
-        40,
-        160,
-        30,
-        165,
-        127,
-        145
+        159,
+        142,
+        180,
+        73,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "initials",
-      "answer_letters": "INITIALS",
+      "answer": "innsbruck",
+      "answer_letters": "INNSBRUCK",
       "indices": [
-        78,
-        37,
-        36,
-        140,
         88,
+        94,
+        49,
+        146,
+        102,
+        143,
+        14,
+        100,
+        35
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "navajo",
+      "answer_letters": "NAVAJO",
+      "indices": [
+        156,
+        116,
+        128,
         93,
-        110,
-        146
+        13,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
       "indices": [
-        52,
-        8,
-        16,
-        185,
-        162,
-        155,
-        70,
-        77,
-        87,
-        4
+        18,
+        132,
+        119,
+        131,
+        178,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "goldberg",
-      "answer_letters": "GOLDBERG",
-      "indices": [
-        38,
-        83,
-        10,
-        2,
-        56,
-        129,
-        46,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "southwest",
-      "answer_letters": "SOUTHWEST",
+      "answer": "spotlight",
+      "answer_letters": "SPOTLIGHT",
       "indices": [
         15,
+        109,
         139,
-        117,
         86,
+        186,
+        107,
+        38,
         141,
-        24,
-        66,
-        106,
         121
       ]
     }

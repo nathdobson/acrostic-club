@@ -6,200 +6,198 @@
   "clues": [
     {
       "clue": null,
-      "answer": "bestowed",
-      "answer_letters": "BESTOWED",
+      "answer": "bogotá",
+      "answer_letters": "BOGOTA",
       "indices": [
         46,
-        80,
-        99,
-        8,
         152,
+        21,
+        35,
+        8,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "impact",
+      "answer_letters": "IMPACT",
+      "indices": [
+        52,
+        59,
+        65,
+        95,
+        68,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lennox",
+      "answer_letters": "LENNOX",
+      "indices": [
+        66,
+        32,
+        53,
+        126,
+        91,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
+      "indices": [
+        116,
+        9,
+        87,
+        122,
+        172,
+        104,
+        184
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "youngest",
+      "answer_letters": "YOUNGEST",
+      "indices": [
+        71,
+        50,
+        73,
+        183,
+        107,
+        63,
+        75,
+        138
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "movement",
+      "answer_letters": "MOVEMENT",
+      "indices": [
+        51,
+        149,
+        96,
+        115,
+        150,
+        154,
+        171,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "attorney",
+      "answer_letters": "ATTORNEY",
+      "indices": [
+        0,
+        79,
+        127,
+        130,
+        160,
+        135,
+        151,
+        129
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "routines",
+      "answer_letters": "ROUTINES",
+      "indices": [
+        123,
+        146,
+        92,
+        19,
+        119,
+        18,
+        102,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "symmetry",
+      "answer_letters": "SYMMETRY",
+      "indices": [
+        141,
+        165,
+        114,
+        101,
+        86,
+        76,
+        6,
+        117
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
+      "indices": [
+        29,
+        14,
+        145,
+        23,
+        44,
+        153
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "arturo",
+      "answer_letters": "ARTURO",
+      "indices": [
+        125,
+        31,
+        177,
+        36,
+        57,
+        100
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowered",
+      "answer_letters": "LOWERED",
+      "indices": [
+        164,
+        139,
         185,
+        47,
+        10,
+        22,
+        81
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "located",
+      "answer_letters": "LOCATED",
+      "indices": [
+        163,
+        168,
+        16,
+        134,
+        61,
         169,
         167
       ]
     },
     {
       "clue": null,
-      "answer": "interfere",
-      "answer_letters": "INTERFERE",
+      "answer": "stewart",
+      "answer_letters": "STEWART",
       "indices": [
-        52,
-        40,
-        25,
-        113,
-        6,
-        56,
-        109,
-        112,
-        97
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "layout",
-      "answer_letters": "LAYOUT",
-      "indices": [
-        66,
-        3,
-        12,
-        184,
-        92,
-        23
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
-      "indices": [
-        116,
-        151,
-        135,
-        107,
-        145,
-        157,
-        117
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
-      "indices": [
-        71,
-        139,
-        83,
-        138,
-        29,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "meteor",
-      "answer_letters": "METEOR",
-      "indices": [
-        51,
-        63,
-        136,
-        115,
-        50,
-        10
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "accusation",
-      "answer_letters": "ACCUSATION",
-      "indices": [
-        0,
-        49,
-        68,
-        36,
-        141,
-        162,
-        103,
-        119,
-        122,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rooney",
-      "answer_letters": "ROONEY",
-      "indices": [
-        31,
-        146,
-        44,
-        18,
-        154,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "symptom",
-      "answer_letters": "SYMPTOM",
-      "indices": [
-        148,
-        90,
-        114,
-        121,
-        79,
-        91,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "harrow",
-      "answer_letters": "HARROW",
-      "indices": [
-        62,
-        142,
-        123,
-        78,
-        130,
-        156
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "autonomy",
-      "answer_letters": "AUTONOMY",
-      "indices": [
-        134,
-        73,
-        177,
-        149,
-        171,
-        100,
-        150,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lagoon",
-      "answer_letters": "LAGOON",
-      "indices": [
-        164,
-        77,
-        21,
-        180,
-        168,
-        183
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
-      "indices": [
-        163,
-        35,
-        5,
-        22,
-        170,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shattered",
-      "answer_letters": "SHATTERED",
-      "indices": [
-        87,
-        104,
-        125,
-        19,
+        1,
         124,
-        102,
-        57,
         69,
-        81
+        5,
+        142,
+        78,
+        103
       ]
     },
     {
@@ -207,92 +205,94 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        127,
-        38,
+        43,
+        156,
         158,
-        174,
-        17,
-        143
+        38,
+        162,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "ottoman",
-      "answer_letters": "OTTOMAN",
+      "answer": "outset",
+      "answer_letters": "OUTSET",
       "indices": [
         13,
-        172,
-        76,
-        26,
-        120,
-        95,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "novels",
-      "answer_letters": "NOVELS",
-      "indices": [
-        106,
-        58,
-        96,
-        161,
-        85,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "exempt",
-      "answer_letters": "EXEMPT",
-      "indices": [
-        32,
-        110,
-        86,
-        59,
-        65,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
-      "indices": [
-        182,
         131,
-        133,
-        175,
-        7,
+        111,
+        148,
+        113,
         179
       ]
     },
     {
       "clue": null,
-      "answer": "inches",
-      "answer_letters": "INCHES",
+      "answer": "norway's",
+      "answer_letters": "NORWAYS",
       "indices": [
-        105,
-        176,
-        16,
-        94,
-        47,
-        75
+        106,
+        58,
+        112,
+        133,
+        175,
+        143,
+        88
       ]
     },
     {
       "clue": null,
-      "answer": "neutron",
-      "answer_letters": "NEUTRON",
+      "answer": "economy",
+      "answer_letters": "ECONOMY",
       "indices": [
-        126,
-        9,
-        14,
-        43,
-        160,
+        161,
+        49,
+        26,
+        40,
         72,
-        84
+        120,
+        90
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "khalifa",
+      "answer_letters": "KHALIFA",
+      "indices": [
+        182,
+        157,
+        3,
+        85,
+        7,
+        56,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
+      "indices": [
+        105,
+        176,
+        94,
+        180,
+        83,
+        99,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        84,
+        109,
+        121,
+        62,
+        97,
+        174
       ]
     },
     {

@@ -6,281 +6,281 @@
   "clues": [
     {
       "clue": null,
-      "answer": "rockies",
-      "answer_letters": "ROCKIES",
+      "answer": "rematch",
+      "answer_letters": "REMATCH",
       "indices": [
-        159,
-        102,
-        65,
-        146,
-        76,
+        29,
         17,
-        7
+        122,
+        111,
+        25,
+        65,
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "yankees",
-      "answer_letters": "YANKEES",
+      "answer": "yesterday",
+      "answer_letters": "YESTERDAY",
       "indices": [
         28,
-        37,
-        110,
-        174,
-        52,
         1,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unaware",
-      "answer_letters": "UNAWARE",
-      "indices": [
-        120,
-        116,
-        133,
-        55,
-        150,
-        51,
-        78
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        2,
-        3,
-        26,
-        129,
-        19,
-        77
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unified",
-      "answer_letters": "UNIFIED",
-      "indices": [
-        128,
-        84,
-        15,
-        34,
-        5,
-        6,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reeves",
-      "answer_letters": "REEVES",
-      "indices": [
-        99,
-        73,
-        30,
-        106,
-        27,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attested",
-      "answer_letters": "ATTESTED",
-      "indices": [
-        107,
-        57,
-        161,
-        11,
-        137,
-        149,
-        175,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "kraków",
-      "answer_letters": "KRAKOW",
-      "indices": [
-        66,
-        21,
-        60,
-        16,
-        98,
-        166
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assisted",
-      "answer_letters": "ASSISTED",
-      "indices": [
-        139,
-        32,
-        23,
-        145,
-        94,
+        86,
         63,
-        44,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "motorway",
-      "answer_letters": "MOTORWAY",
-      "indices": [
-        0,
-        42,
-        130,
-        43,
+        6,
         92,
-        113,
+        142,
         80,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "inherited",
-      "answer_letters": "INHERITED",
+      "answer": "unsafe",
+      "answer_letters": "UNSAFE",
       "indices": [
-        56,
-        134,
-        114,
-        91,
-        170,
-        162,
-        90,
-        131,
-        53
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "phosphate",
-      "answer_letters": "PHOSPHATE",
-      "indices": [
-        152,
-        138,
-        33,
-        156,
-        82,
-        58,
-        173,
-        168,
-        95
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ideology",
-      "answer_letters": "IDEOLOGY",
-      "indices": [
-        85,
-        135,
-        147,
-        153,
-        70,
-        119,
-        108,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "everyday",
-      "answer_letters": "EVERYDAY",
-      "indices": [
-        169,
-        49,
-        155,
-        104,
-        101,
-        22,
-        167,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reflex",
-      "answer_letters": "REFLEX",
-      "indices": [
-        4,
-        123,
+        120,
+        116,
+        32,
+        133,
         89,
-        14,
-        83,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mastered",
+      "answer_letters": "MASTERED",
+      "indices": [
+        2,
+        129,
+        125,
+        90,
+        44,
+        104,
+        11,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "undertook",
+      "answer_letters": "UNDERTOOK",
+      "indices": [
+        128,
+        110,
+        151,
+        78,
+        51,
+        57,
+        42,
+        43,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rookie",
+      "answer_letters": "ROOKIE",
+      "indices": [
+        99,
+        20,
+        33,
+        66,
+        5,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "assassination",
+      "answer_letters": "ASSASSINATION",
+      "indices": [
+        139,
+        137,
+        69,
+        60,
+        156,
+        7,
+        64,
+        38,
+        107,
+        168,
+        85,
+        153,
+        163
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kelly's",
+      "answer_letters": "KELLYS",
+      "indices": [
+        16,
+        27,
+        70,
+        154,
+        164,
+        94
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "arthritis",
+      "answer_letters": "ARTHRITIS",
+      "indices": [
+        150,
+        21,
+        149,
+        26,
+        10,
+        145,
+        35,
+        71,
+        23
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "motions",
+      "answer_letters": "MOTIONS",
+      "indices": [
+        0,
+        98,
+        161,
+        15,
+        3,
+        84,
+        171
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "influx",
+      "answer_letters": "INFLUX",
+      "indices": [
+        109,
+        134,
+        34,
+        144,
+        103,
         96
       ]
     },
     {
       "clue": null,
-      "answer": "consoles",
-      "answer_letters": "CONSOLES",
+      "answer": "parkway",
+      "answer_letters": "PARKWAY",
+      "indices": [
+        140,
+        173,
+        159,
+        146,
+        113,
+        167,
+        101
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "improvised",
+      "answer_letters": "IMPROVISED",
+      "indices": [
+        56,
+        72,
+        152,
+        170,
+        102,
+        49,
+        162,
+        62,
+        141,
+        53
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elsewhere",
+      "answer_letters": "ELSEWHERE",
+      "indices": [
+        95,
+        75,
+        176,
+        147,
+        55,
+        138,
+        169,
+        127,
+        155
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "relegated",
+      "answer_letters": "RELEGATED",
+      "indices": [
+        4,
+        123,
+        14,
+        83,
+        108,
+        37,
+        130,
+        52,
+        39
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "coyote",
+      "answer_letters": "COYOTE",
       "indices": [
         47,
         48,
-        124,
-        125,
+        67,
         158,
-        154,
-        50,
-        62
+        126,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "imprisonment",
-      "answer_letters": "IMPRISONMENT",
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
       "indices": [
-        71,
-        72,
-        140,
-        10,
-        64,
-        69,
-        20,
-        38,
-        122,
-        141,
-        163,
-        35
+        76,
+        124,
+        106,
+        119,
+        77,
+        175,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "naturalist",
-      "answer_letters": "NATURALIST",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
         172,
-        111,
-        25,
-        103,
-        127,
-        88,
-        75,
-        109,
-        176,
-        126
+        91,
+        82,
+        114,
+        131,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "greatly",
-      "answer_letters": "GREATLY",
+      "answer": "gateway",
+      "answer_letters": "GATEWAY",
       "indices": [
         41,
-        29,
-        115,
-        9,
+        88,
         12,
-        144,
+        115,
+        19,
+        9,
         118
       ]
     }

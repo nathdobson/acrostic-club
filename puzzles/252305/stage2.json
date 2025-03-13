@@ -6,122 +6,232 @@
   "clues": [
     {
       "clue": null,
-      "answer": "alaskan",
-      "answer_letters": "ALASKAN",
+      "answer": "avant-garde",
+      "answer_letters": "AVANTGARDE",
       "indices": [
+        143,
+        155,
         146,
-        80,
+        128,
+        108,
+        153,
         170,
-        63,
-        31,
-        92,
-        98
+        26,
+        94,
+        48
       ]
     },
     {
       "clue": null,
-      "answer": "scottish",
-      "answer_letters": "SCOTTISH",
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
       "indices": [
-        157,
-        30,
-        11,
-        44,
-        86,
-        39,
-        13,
+        151,
+        47,
+        113,
+        107,
+        31,
         60
       ]
     },
     {
       "clue": null,
-      "answer": "abkhazia",
-      "answer_letters": "ABKHAZIA",
+      "answer": "associates",
+      "answer_letters": "ASSOCIATES",
       "indices": [
+        56,
+        63,
+        105,
+        51,
+        73,
+        34,
         79,
-        28,
-        74,
-        65,
-        43,
-        82,
-        81,
-        143
+        111,
+        29,
+        120
       ]
     },
     {
       "clue": null,
-      "answer": "leighton",
-      "answer_letters": "LEIGHTON",
+      "answer": "loyalty",
+      "answer_letters": "LOYALTY",
       "indices": [
         5,
-        48,
-        54,
-        93,
-        50,
-        129,
-        51,
-        128
+        103,
+        171,
+        43,
+        80,
+        135,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "advocating",
-      "answer_letters": "ADVOCATING",
+      "answer": "asthma",
+      "answer_letters": "ASTHMA",
       "indices": [
         32,
-        126,
-        155,
-        66,
-        73,
-        137,
+        164,
         59,
-        34,
-        102,
-        153
+        142,
+        0,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "railway",
-      "answer_letters": "RAILWAY",
+      "answer": "right-handed",
+      "answer_letters": "RIGHTHANDED",
       "indices": [
         69,
-        1,
         117,
-        147,
-        141,
-        88,
-        150
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "showdown",
-      "answer_letters": "SHOWDOWN",
-      "indices": [
-        109,
-        136,
-        165,
-        148,
+        41,
+        116,
+        144,
+        112,
+        1,
+        7,
         10,
-        127,
-        104,
-        14
+        162,
+        3
       ]
     },
     {
       "clue": null,
-      "answer": "speedway",
-      "answer_letters": "SPEEDWAY",
+      "answer": "sighted",
+      "answer_letters": "SIGHTED",
       "indices": [
-        131,
-        53,
+        157,
+        81,
+        93,
+        87,
+        86,
         70,
-        12,
-        94,
-        67,
+        37
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "saskatchewan",
+      "answer_letters": "SASKATCHEWAN",
+      "indices": [
+        18,
+        61,
+        139,
+        101,
+        149,
+        115,
+        30,
+        65,
+        6,
+        21,
         132,
-        171
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "obligatory",
+      "answer_letters": "OBLIGATORY",
+      "indices": [
+        127,
+        71,
+        57,
+        154,
+        119,
+        75,
+        24,
+        11,
+        163,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        14,
+        72,
+        53,
+        136,
+        97,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "staples",
+      "answer_letters": "STAPLES",
+      "indices": [
+        52,
+        89,
+        17,
+        161,
+        147,
+        78,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "uzbekistan",
+      "answer_letters": "UZBEKISTAN",
+      "indices": [
+        124,
+        82,
+        28,
+        12,
+        74,
+        54,
+        13,
+        55,
+        95,
+        166
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "natasha",
+      "answer_letters": "NATASHA",
+      "indices": [
+        40,
+        8,
+        44,
+        23,
+        109,
+        50,
+        159
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "state-owned",
+      "answer_letters": "STATEOWNED",
+      "indices": [
+        35,
+        129,
+        99,
+        15,
+        156,
+        66,
+        67,
+        102,
+        83,
+        126
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "towing",
+      "answer_letters": "TOWING",
+      "indices": [
+        46,
+        165,
+        169,
+        39,
+        118,
+        2
       ]
     },
     {
@@ -129,148 +239,38 @@
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
-        38,
-        46,
-        24,
-        95,
-        169,
-        75
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nightly",
-      "answer_letters": "NIGHTLY",
-      "indices": [
-        7,
-        107,
-        41,
-        47,
+        123,
+        138,
         62,
-        96,
-        122
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "statements",
-      "answer_letters": "STATEMENTS",
-      "indices": [
-        105,
-        135,
-        149,
-        108,
-        78,
-        0,
-        6,
-        40,
-        89,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uganda",
-      "answer_letters": "UGANDA",
-      "indices": [
-        124,
-        119,
         4,
-        118,
-        3,
+        148,
         168
       ]
     },
     {
       "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        166,
-        123,
-        163,
-        115,
-        87,
-        21,
-        113,
-        139,
-        138
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shakespeare",
-      "answer_letters": "SHAKESPEARE",
-      "indices": [
-        164,
-        142,
-        99,
-        101,
-        156,
-        35,
-        161,
-        83,
-        56,
-        26,
-        29
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "takahashi",
-      "answer_letters": "TAKAHASHI",
-      "indices": [
-        55,
-        8,
-        19,
-        23,
-        116,
-        159,
-        151,
-        112,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "obsessed",
-      "answer_letters": "OBSESSED",
-      "indices": [
-        103,
-        71,
-        52,
-        72,
-        84,
-        18,
-        97,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "regatta",
-      "answer_letters": "REGATTA",
+      "answer": "relays",
+      "answer_letters": "RELAYS",
       "indices": [
         77,
         27,
-        2,
-        17,
-        15,
-        111,
-        61
+        96,
+        92,
+        150,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "methyl",
-      "answer_letters": "METHYL",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
         91,
-        162,
-        144,
+        38,
         22,
-        133,
-        57
+        88,
+        141,
+        19
       ]
     }
   ],

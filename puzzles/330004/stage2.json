@@ -6,217 +6,180 @@
   "clues": [
     {
       "clue": null,
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
       "indices": [
-        26,
-        129,
+        68,
+        15,
         69,
-        12,
-        63,
-        20
+        97,
+        53,
+        86
       ]
     },
     {
       "clue": null,
-      "answer": "devotees",
-      "answer_letters": "DEVOTEES",
+      "answer": "devout",
+      "answer_letters": "DEVOUT",
       "indices": [
         115,
-        99,
-        142,
+        103,
+        154,
         19,
-        85,
-        107,
+        7,
+        85
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "devote",
+      "answer_letters": "DEVOTE",
+      "indices": [
+        106,
         22,
+        142,
+        161,
+        25,
+        110
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "implementations",
+      "answer_letters": "IMPLEMENTATIONS",
+      "indices": [
+        84,
+        167,
+        109,
+        27,
+        171,
+        18,
+        101,
+        162,
+        145,
+        39,
+        10,
+        180,
+        91,
+        104,
         66
       ]
     },
     {
       "clue": null,
-      "answer": "dumbarton",
-      "answer_letters": "DUMBARTON",
-      "indices": [
-        106,
-        7,
-        167,
-        122,
-        113,
-        119,
-        25,
-        161,
-        133
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "improving",
-      "answer_letters": "IMPROVING",
-      "indices": [
-        84,
-        18,
-        109,
-        92,
-        91,
-        154,
-        180,
-        60,
-        31
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "snooker",
-      "answer_letters": "SNOOKER",
+      "answer": "suffrage",
+      "answer_letters": "SUFFRAGE",
       "indices": [
         157,
-        162,
-        166,
-        64,
-        51,
-        110,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "offence",
-      "answer_letters": "OFFENCE",
-      "indices": [
-        79,
+        80,
         90,
         164,
-        2,
-        114,
-        151,
-        56
+        119,
+        113,
+        31,
+        2
       ]
     },
     {
       "clue": null,
-      "answer": "nerves",
-      "answer_letters": "NERVES",
+      "answer": "observes",
+      "answer_letters": "OBSERVES",
       "indices": [
-        179,
-        171,
-        140,
+        79,
+        122,
+        134,
+        169,
+        23,
         170,
-        101,
+        141,
         45
       ]
     },
     {
       "clue": null,
-      "answer": "mighty",
-      "answer_letters": "MIGHTY",
+      "answer": "nickname",
+      "answer_letters": "NICKNAME",
       "indices": [
-        49,
+        179,
         132,
-        95,
-        5,
-        10,
+        118,
+        93,
+        114,
+        131,
+        49,
+        56
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "mickey",
+      "answer_letters": "MICKEY",
+      "indices": [
+        55,
+        160,
+        151,
+        51,
+        124,
         127
       ]
     },
     {
       "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        34,
-        159,
-        81,
-        131,
-        83,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ornaments",
-      "answer_letters": "ORNAMENTS",
+      "answer": "orthography",
+      "answer_letters": "ORTHOGRAPHY",
       "indices": [
         41,
-        23,
-        104,
-        88,
-        121,
-        103,
-        181,
-        145,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "refugee",
-      "answer_letters": "REFUGEE",
-      "indices": [
-        156,
-        74,
-        13,
-        97,
-        98,
-        149,
-        37
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "expose",
-      "answer_letters": "EXPOSE",
-      "indices": [
-        143,
-        47,
-        139,
-        137,
-        53,
-        76
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "employ",
-      "answer_letters": "EMPLOY",
-      "indices": [
-        46,
-        36,
+        92,
+        136,
+        5,
+        34,
+        95,
+        165,
+        50,
         176,
-        27,
-        96,
-        16
+        1,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
+      "answer": "ottoman",
+      "answer_letters": "OTTOMAN",
       "indices": [
-        4,
-        174,
-        6,
-        42,
-        8,
-        148,
-        0
+        166,
+        159,
+        81,
+        64,
+        121,
+        88,
+        181
       ]
     },
     {
       "clue": null,
-      "answer": "heavyweight",
-      "answer_letters": "HEAVYWEIGHT",
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
       "indices": [
-        9,
-        52,
-        158,
+        111,
+        12,
+        129,
+        152,
+        0,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everett",
+      "answer_letters": "EVERETT",
+      "indices": [
+        149,
         102,
-        75,
-        58,
-        155,
-        29,
-        182,
-        86,
-        61
+        37,
+        156,
+        143,
+        61,
+        63
       ]
     },
     {
@@ -224,73 +187,110 @@
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
-        108,
-        126,
+        74,
+        71,
         40,
-        120,
-        111,
+        26,
+        130,
         28
       ]
     },
     {
       "clue": null,
-      "answer": "rushes",
-      "answer_letters": "RUSHES",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        172,
-        80,
-        117,
-        1,
-        124,
-        77
+        4,
+        83,
+        96,
+        58,
+        158,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "entertainment",
-      "answer_letters": "ENTERTAINMENT",
+      "answer": "hip-hop",
+      "answer_letters": "HIPHOP",
       "indices": [
-        169,
+        148,
+        29,
+        139,
+        9,
+        137,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "engagement",
+      "answer_letters": "ENGAGEMENT",
+      "indices": [
+        52,
         30,
-        136,
-        141,
-        130,
-        147,
-        175,
-        160,
+        8,
+        120,
+        182,
+        155,
+        36,
+        46,
         144,
-        55,
-        178,
-        153,
         43
       ]
     },
     {
       "clue": null,
-      "answer": "attack",
-      "answer_letters": "ATTACK",
+      "answer": "reform",
+      "answer_letters": "REFORM",
       "indices": [
-        59,
-        67,
-        33,
-        39,
-        118,
-        93
+        140,
+        178,
+        13,
+        6,
+        172,
+        126
       ]
     },
     {
       "clue": null,
-      "answer": "lymphoma",
-      "answer_letters": "LYMPHOMA",
+      "answer": "exhaust",
+      "answer_letters": "EXHAUST",
+      "indices": [
+        108,
+        47,
+        174,
+        175,
+        42,
+        117,
+        147
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "annette",
+      "answer_letters": "ANNETTE",
+      "indices": [
+        59,
+        133,
+        60,
+        99,
+        67,
+        33,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lengthy",
+      "answer_letters": "LENGTHY",
       "indices": [
         123,
-        72,
-        71,
-        177,
+        76,
+        153,
+        98,
+        20,
         21,
-        152,
-        15,
-        68
+        72
       ]
     }
   ],

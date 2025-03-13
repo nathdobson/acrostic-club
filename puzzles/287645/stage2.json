@@ -6,235 +6,234 @@
   "clues": [
     {
       "clue": null,
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
+      "answer": "everton",
+      "answer_letters": "EVERTON",
       "indices": [
-        4,
-        71,
-        42,
-        181,
-        55,
-        63
+        22,
+        39,
+        19,
+        140,
+        123,
+        11,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "midway",
-      "answer_letters": "MIDWAY",
+      "answer": "mechanized",
+      "answer_letters": "MECHANIZED",
       "indices": [
         67,
-        139,
-        88,
-        96,
+        110,
+        37,
+        1,
         128,
-        12
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "malawi",
-      "answer_letters": "MALAWI",
-      "indices": [
-        158,
-        135,
-        175,
-        38,
-        60,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ashford",
-      "answer_letters": "ASHFORD",
-      "indices": [
-        99,
-        8,
-        6,
-        170,
-        59,
-        18,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reuben",
-      "answer_letters": "REUBEN",
-      "indices": [
-        140,
-        90,
-        129,
-        30,
-        147,
-        91
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inhibitors",
-      "answer_letters": "INHIBITORS",
-      "indices": [
-        171,
-        58,
-        13,
-        142,
-        10,
-        103,
-        178,
-        51,
-        3,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chinatown",
-      "answer_letters": "CHINATOWN",
-      "indices": [
-        127,
-        26,
-        7,
-        100,
-        35,
-        75,
-        15,
-        76,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hangzhou",
-      "answer_letters": "HANGZHOU",
-      "indices": [
-        156,
-        160,
-        164,
-        133,
+        181,
+        174,
         109,
-        79,
-        97,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "leningrad",
-      "answer_letters": "LENINGRAD",
-      "indices": [
-        92,
         53,
-        45,
-        131,
-        132,
-        121,
-        21,
-        108,
         16
       ]
     },
     {
       "clue": null,
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "answer": "meditation",
+      "answer_letters": "MEDITATION",
       "indices": [
+        66,
         32,
-        64,
-        1,
-        77,
-        2,
-        28
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotterdam",
-      "answer_letters": "ROTTERDAM",
-      "indices": [
-        49,
-        65,
-        56,
-        95,
-        124,
-        173,
-        89,
-        83,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "behind",
-      "answer_letters": "BEHIND",
-      "indices": [
-        172,
-        72,
-        146,
-        163,
-        33,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
-        43,
-        104,
-        122,
+        28,
         179,
-        48,
-        149,
-        120,
+        20,
         62,
+        145,
+        120,
+        180,
         143
       ]
     },
     {
       "clue": null,
-      "answer": "motivated",
-      "answer_letters": "MOTIVATED",
+      "answer": "archbishop",
+      "answer_letters": "ARCHBISHOP",
       "indices": [
-        107,
-        180,
-        20,
-        150,
-        39,
         70,
-        145,
-        118,
-        111
+        18,
+        127,
+        6,
+        30,
+        150,
+        8,
+        13,
+        59,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "yankees",
-      "answer_letters": "YANKEES",
+      "answer": "rooted",
+      "answer_letters": "ROOTED",
       "indices": [
-        93,
-        27,
-        114,
+        173,
+        153,
+        167,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
+        142,
+        100,
+        95,
+        99,
         162,
-        22,
-        19,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "countdown",
+      "answer_letters": "COUNTDOWN",
+      "indices": [
+        64,
+        51,
+        87,
+        52,
+        178,
+        88,
+        15,
+        60,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "halfway",
+      "answer_letters": "HALFWAY",
+      "indices": [
+        26,
+        83,
+        175,
+        170,
+        76,
+        35,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lawful",
+      "answer_letters": "LAWFUL",
+      "indices": [
+        92,
+        108,
+        44,
+        168,
+        129,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
+      "indices": [
+        147,
+        151,
+        79,
+        103,
+        63,
         137
       ]
     },
     {
       "clue": null,
-      "answer": "westwood",
-      "answer_letters": "WESTWOOD",
+      "answer": "radiation",
+      "answer_letters": "RADIATION",
       "indices": [
-        0,
-        110,
+        49,
+        135,
+        125,
+        157,
+        38,
+        56,
+        171,
+        65,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bearing",
+      "answer_letters": "BEARING",
+      "indices": [
+        172,
+        4,
+        160,
+        3,
+        7,
+        91,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "embedded",
+      "answer_letters": "EMBEDDED",
+      "indices": [
+        43,
+        107,
+        10,
+        118,
+        111,
+        165,
+        124,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "method",
+      "answer_letters": "METHOD",
+      "indices": [
+        158,
+        40,
+        104,
+        122,
+        48,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
+      "indices": [
+        93,
+        163,
+        101,
+        69,
+        55,
         130,
-        123,
-        44,
-        153,
-        167,
-        73
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "washed",
+      "answer_letters": "WASHED",
+      "indices": [
+        96,
+        27,
+        84,
+        42,
+        31,
+        117
       ]
     },
     {
@@ -242,53 +241,54 @@
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
-        11,
+        68,
         138,
         24,
         23,
-        82,
+        0,
         106
       ]
     },
     {
       "clue": null,
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
       "indices": [
         176,
-        174,
-        168,
-        151,
-        40,
-        115
+        90,
+        86,
+        97,
+        75,
+        156,
+        77
       ]
     },
     {
       "clue": null,
-      "answer": "flooded",
-      "answer_letters": "FLOODED",
+      "answer": "fianna",
+      "answer_letters": "FIANNA",
       "indices": [
         47,
-        119,
-        68,
-        14,
-        69,
-        80,
-        117
+        131,
+        113,
+        45,
+        132,
+        177
       ]
     },
     {
       "clue": null,
-      "answer": "facades",
-      "answer_letters": "FACADES",
+      "answer": "forewing",
+      "answer_letters": "FOREWING",
       "indices": [
         154,
-        113,
-        37,
-        177,
-        101,
-        31,
-        84
+        14,
+        21,
+        80,
+        82,
+        139,
+        114,
+        121
       ]
     }
   ],

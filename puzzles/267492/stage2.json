@@ -6,248 +6,57 @@
   "clues": [
     {
       "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
+      "answer": "norwich",
+      "answer_letters": "NORWICH",
       "indices": [
-        177,
-        0,
-        38,
-        41,
-        42,
-        100
+        100,
+        138,
+        172,
+        130,
+        46,
+        175,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "enhance",
-      "answer_letters": "ENHANCE",
+      "answer": "emmanuel",
+      "answer_letters": "EMMANUEL",
       "indices": [
-        91,
-        32,
-        36,
-        176,
-        7,
-        110,
-        181
+        171,
+        29,
+        82,
+        37,
+        21,
+        159,
+        55,
+        67
       ]
     },
     {
       "clue": null,
-      "answer": "inmate",
-      "answer_letters": "INMATE",
+      "answer": "intact",
+      "answer_letters": "INTACT",
       "indices": [
         15,
-        128,
-        29,
-        80,
-        167,
-        109
+        177,
+        57,
+        0,
+        86,
+        167
       ]
     },
     {
       "clue": null,
-      "answer": "launcher",
-      "answer_letters": "LAUNCHER",
+      "answer": "latter",
+      "answer_letters": "LATTER",
       "indices": [
         93,
-        11,
-        139,
-        124,
-        164,
-        26,
-        125,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        16,
-        103,
-        14,
-        113,
-        170,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ardent",
-      "answer_letters": "ARDENT",
-      "indices": [
-        37,
-        172,
-        2,
-        55,
-        21,
-        35
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        141,
-        108,
-        102,
-        56,
-        50,
-        27,
-        88
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "muscles",
-      "answer_letters": "MUSCLES",
-      "indices": [
-        98,
-        159,
-        162,
-        86,
-        160,
-        163,
-        47
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "albums",
-      "answer_letters": "ALBUMS",
-      "indices": [
-        99,
-        67,
-        184,
-        134,
-        44,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "narrow",
-      "answer_letters": "NARROW",
-      "indices": [
-        70,
-        75,
-        43,
-        81,
-        121,
-        130
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "asphalt",
-      "answer_letters": "ASPHALT",
-      "indices": [
-        87,
-        142,
-        153,
-        79,
-        69,
-        66,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        148,
-        123,
-        23,
-        31,
-        155,
-        6
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        51,
-        63,
-        158,
-        58,
-        78,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
-      "indices": [
-        165,
-        112,
-        133,
-        149,
-        138,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inventor",
-      "answer_letters": "INVENTOR",
-      "indices": [
-        84,
-        12,
-        180,
-        166,
-        1,
-        76,
-        62,
-        182
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "creole",
-      "answer_letters": "CREOLE",
-      "indices": [
-        175,
-        157,
-        19,
-        8,
-        92,
-        171
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attract",
-      "answer_letters": "ATTRACT",
-      "indices": [
         65,
-        115,
-        22,
-        104,
-        117,
-        40,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        120,
-        129,
-        28,
-        49,
-        74,
-        9,
-        156,
-        150,
-        135
+        151,
+        76,
+        163,
+        28
       ]
     },
     {
@@ -255,54 +64,245 @@
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
-        53,
-        145,
-        173,
-        60,
-        90,
-        154
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "one-third",
-      "answer_letters": "ONETHIRD",
-      "indices": [
-        96,
-        95,
-        185,
-        18,
+        16,
         116,
-        46,
-        54,
-        33
+        185,
+        113,
+        18,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "daytime",
-      "answer_letters": "DAYTIME",
+      "answer": "apollo",
+      "answer_letters": "APOLLO",
+      "indices": [
+        42,
+        153,
+        121,
+        160,
+        92,
+        149
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "innate",
+      "answer_letters": "INNATE",
+      "indices": [
+        141,
+        88,
+        70,
+        27,
+        90,
+        112
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "murdoch",
+      "answer_letters": "MURDOCH",
+      "indices": [
+        98,
+        134,
+        43,
+        33,
+        62,
+        40,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "anarchy",
+      "answer_letters": "ANARCHY",
+      "indices": [
+        176,
+        128,
+        80,
+        104,
+        164,
+        36,
+        137
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
+      "indices": [
+        32,
+        75,
+        118,
+        79,
+        99,
+        7
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "athlete",
+      "answer_letters": "ATHLETE",
+      "indices": [
+        69,
+        115,
+        23,
+        66,
+        109,
+        22,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "markham",
+      "answer_letters": "MARKHAM",
+      "indices": [
+        148,
+        31,
+        111,
+        127,
+        50,
+        87,
+        44
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "enchanted",
+      "answer_letters": "ENCHANTED",
+      "indices": [
+        166,
+        12,
+        78,
+        74,
+        11,
+        1,
+        49,
+        125,
+        2
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robert",
+      "answer_letters": "ROBERT",
+      "indices": [
+        81,
+        154,
+        184,
+        14,
+        165,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "invest",
+      "answer_letters": "INVEST",
+      "indices": [
+        84,
+        124,
+        180,
+        173,
+        108,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "corbett",
+      "answer_letters": "CORBETT",
+      "indices": [
+        110,
+        123,
+        157,
+        133,
+        20,
+        35,
+        38
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "aarhus",
+      "answer_letters": "AARHUS",
+      "indices": [
+        117,
+        56,
+        182,
+        145,
+        139,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        120,
+        156,
+        9,
+        150,
+        155,
+        51,
+        58,
+        6
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        53,
+        129,
+        91,
+        60,
+        26,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "officers",
+      "answer_letters": "OFFICERS",
+      "indices": [
+        103,
+        63,
+        158,
+        4,
+        25,
+        146,
+        54,
+        59
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "doesn't",
+      "answer_letters": "DOESNT",
       "indices": [
         71,
-        106,
-        137,
-        144,
-        4,
-        82,
-        146
+        96,
+        179,
+        162,
+        95,
+        144
       ]
     },
     {
       "clue": null,
-      "answer": "sketch",
-      "answer_letters": "SKETCH",
+      "answer": "shafts",
+      "answer_letters": "SHAFTS",
       "indices": [
-        131,
-        127,
-        179,
+        47,
+        17,
+        106,
+        102,
         169,
-        25,
-        17
+        131
       ]
     }
   ],

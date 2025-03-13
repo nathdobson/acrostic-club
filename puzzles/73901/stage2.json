@@ -6,77 +6,213 @@
   "clues": [
     {
       "clue": null,
-      "answer": "deposits",
-      "answer_letters": "DEPOSITS",
+      "answer": "downhill",
+      "answer_letters": "DOWNHILL",
       "indices": [
-        110,
-        9,
-        82,
+        68,
         165,
-        12,
-        135,
-        170,
-        65
+        125,
+        37,
+        13,
+        61,
+        21,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "anti-war",
-      "answer_letters": "ANTIWAR",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
       "indices": [
         168,
-        37,
-        86,
-        61,
+        17,
+        23,
         89,
         151,
-        131
+        93,
+        110
       ]
     },
     {
       "clue": null,
-      "answer": "variables",
-      "answer_letters": "VARIABLES",
+      "answer": "vice-president",
+      "answer_letters": "VICEPRESIDENT",
       "indices": [
         176,
-        26,
-        4,
+        77,
+        139,
+        92,
+        75,
+        178,
+        67,
+        116,
         22,
-        18,
-        35,
-        134,
-        175,
-        19
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "in-depth",
-      "answer_letters": "INDEPTH",
-      "indices": [
-        3,
-        157,
-        33,
-        156,
-        146,
-        31,
-        96
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "difficult",
-      "answer_letters": "DIFFICULT",
-      "indices": [
         120,
+        2,
+        10,
+        52
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
+      "indices": [
+        85,
+        66,
+        1,
+        26,
+        38,
+        18
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "differentiation",
+      "answer_letters": "DIFFERENTIATION",
+      "indices": [
+        33,
         29,
         44,
         42,
+        156,
+        154,
+        104,
+        78,
+        55,
         8,
-        38,
+        133,
+        73,
+        3,
+        46,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        157,
+        177,
+        28,
+        137,
+        70,
+        47,
+        99
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "insights",
+      "answer_letters": "INSIGHTS",
+      "indices": [
+        107,
+        62,
+        127,
+        14,
+        79,
+        96,
+        117,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "captures",
+      "answer_letters": "CAPTURES",
+      "indices": [
+        148,
+        119,
+        162,
+        31,
         36,
+        131,
+        48,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hepatitis",
+      "answer_letters": "HEPATITIS",
+      "indices": [
+        87,
+        59,
+        146,
+        54,
+        91,
+        122,
+        123,
+        114,
+        136
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "opined",
+      "answer_letters": "OPINED",
+      "indices": [
+        173,
+        15,
+        135,
+        130,
+        112,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lowell",
+      "answer_letters": "LOWELL",
+      "indices": [
         45,
-        55
+        41,
+        84,
+        32,
+        167,
+        30
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lifeboat",
+      "answer_letters": "LIFEBOAT",
+      "indices": [
+        134,
+        111,
+        153,
+        144,
+        35,
+        74,
+        126,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shifts",
+      "answer_letters": "SHIFTS",
+      "indices": [
+        169,
+        58,
+        64,
+        172,
+        0,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        100,
+        81,
+        101,
+        6,
+        155,
+        141
       ]
     },
     {
@@ -84,204 +220,68 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        99,
-        32,
-        15,
-        39,
-        112,
-        17
+        71,
+        132,
+        76,
+        160,
+        24,
+        95
       ]
     },
     {
       "clue": null,
-      "answer": "interceptions",
-      "answer_letters": "INTERCEPTIONS",
+      "answer": "expert",
+      "answer_letters": "EXPERT",
       "indices": [
-        107,
-        115,
-        52,
-        92,
+        9,
+        145,
+        82,
+        118,
+        49,
+        170
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "deserts",
+      "answer_letters": "DESERTS",
+      "indices": [
+        11,
+        147,
+        159,
+        175,
+        4,
+        108,
+        19
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "arthritis",
+      "answer_letters": "ARTHRITIS",
+      "indices": [
+        90,
         174,
-        139,
-        67,
-        162,
-        117,
-        14,
-        74,
-        71,
+        149,
+        53,
+        7,
+        138,
+        164,
+        161,
         63
       ]
     },
     {
       "clue": null,
-      "answer": "catfish",
-      "answer_letters": "CATFISH",
-      "indices": [
-        148,
-        119,
-        91,
-        6,
-        85,
-        127,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
-      "indices": [
-        1,
-        104,
-        84,
-        122,
-        123,
-        101
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "otherwise",
-      "answer_letters": "OTHERWISE",
-      "indices": [
-        70,
-        0,
-        13,
-        59,
-        154,
-        125,
-        111,
-        50,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
-        103,
-        24,
-        87,
-        155,
-        79,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
-      "indices": [
-        30,
-        54,
-        28,
-        172,
-        129,
-        21
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "steward",
-      "answer_letters": "STEWARD",
-      "indices": [
-        57,
-        105,
-        48,
-        47,
-        126,
-        178,
-        68
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outfield",
-      "answer_letters": "OUTFIELD",
-      "indices": [
-        173,
-        81,
-        141,
-        153,
-        114,
-        132,
-        167,
-        158
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        130,
-        41,
-        7,
-        73,
-        53,
-        95,
-        2,
-        116,
-        66
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "exists",
-      "answer_letters": "EXISTS",
-      "indices": [
-        177,
-        145,
-        64,
-        136,
-        137,
-        169
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "destination",
-      "answer_letters": "DESTINATION",
-      "indices": [
-        11,
-        147,
-        159,
-        108,
-        138,
-        10,
-        90,
-        149,
-        161,
-        46,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "appoint",
-      "answer_letters": "APPOINT",
-      "indices": [
-        133,
-        75,
-        76,
-        100,
-        77,
-        78,
-        164
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yorker",
-      "answer_letters": "YORKER",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
         97,
         142,
-        49,
-        23,
-        118,
-        93
+        129,
+        86,
+        39,
+        65
       ]
     }
   ],

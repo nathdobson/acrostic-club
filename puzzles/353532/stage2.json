@@ -6,216 +6,217 @@
   "clues": [
     {
       "clue": null,
-      "answer": "kathryn",
-      "answer_letters": "KATHRYN",
+      "answer": "katrina",
+      "answer_letters": "KATRINA",
       "indices": [
-        58,
-        105,
-        55,
-        142,
-        95,
-        20,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "erected",
-      "answer_letters": "ERECTED",
-      "indices": [
-        113,
-        139,
-        30,
-        69,
-        119,
-        12,
-        129
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "relocated",
-      "answer_letters": "RELOCATED",
-      "indices": [
-        120,
-        52,
-        60,
-        111,
-        14,
-        135,
-        84,
-        108,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "imprint",
-      "answer_letters": "IMPRINT",
-      "indices": [
-        8,
-        171,
-        180,
-        173,
-        88,
-        1,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
-      "indices": [
-        41,
-        107,
-        116,
-        76,
-        56,
-        22,
-        90,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotated",
-      "answer_letters": "ROTATED",
-      "indices": [
-        147,
-        130,
-        32,
-        143,
-        141,
-        6,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "transactions",
-      "answer_letters": "TRANSACTIONS",
-      "indices": [
-        35,
-        158,
-        159,
-        144,
-        100,
-        175,
-        97,
-        40,
-        101,
-        154,
-        25,
-        13
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "habits",
-      "answer_letters": "HABITS",
-      "indices": [
-        45,
-        80,
-        176,
-        51,
-        49,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "umpire",
-      "answer_letters": "UMPIRE",
-      "indices": [
-        167,
-        127,
-        110,
-        28,
-        23,
-        178
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "runaway",
-      "answer_letters": "RUNAWAY",
-      "indices": [
-        169,
-        156,
-        89,
-        121,
-        112,
-        172,
-        165
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "bowler",
-      "answer_letters": "BOWLER",
-      "indices": [
-        37,
-        82,
-        131,
-        61,
-        17,
-        50
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lineages",
-      "answer_letters": "LINEAGES",
-      "indices": [
-        177,
-        126,
-        150,
-        138,
-        34,
-        151,
-        170,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "occupy",
-      "answer_letters": "OCCUPY",
-      "indices": [
-        117,
-        122,
-        3,
-        83,
-        16,
-        92
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        98,
-        153,
-        183,
+        123,
         181,
-        78,
+        136,
+        104,
+        51,
+        157,
         46
       ]
     },
     {
       "clue": null,
-      "answer": "denotes",
-      "answer_letters": "DENOTES",
+      "answer": "episcopal",
+      "answer_letters": "EPISCOPAL",
       "indices": [
-        43,
-        70,
-        132,
-        26,
-        146,
         103,
-        47
+        16,
+        88,
+        47,
+        122,
+        26,
+        180,
+        4,
+        177
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        173,
+        125,
+        92,
+        153,
+        45,
+        63
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "initiate",
+      "answer_letters": "INITIATE",
+      "indices": [
+        28,
+        1,
+        126,
+        119,
+        8,
+        38,
+        146,
+        12
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ambrose",
+      "answer_letters": "AMBROSE",
+      "indices": [
+        172,
+        127,
+        106,
+        50,
+        130,
+        100,
+        17
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rockwell",
+      "answer_letters": "ROCKWELL",
+      "indices": [
+        114,
+        154,
+        14,
+        58,
+        112,
+        138,
+        162,
+        107
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        40,
+        41,
+        49,
+        84,
+        111,
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
+      "indices": [
+        33,
+        0,
+        90,
+        76,
+        131,
+        143,
+        148
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "underway",
+      "answer_letters": "UNDERWAY",
+      "indices": [
+        22,
+        144,
+        18,
+        170,
+        95,
+        78,
+        159,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "recurrent",
+      "answer_letters": "RECURRENT",
+      "indices": [
+        147,
+        6,
+        97,
+        156,
+        158,
+        23,
+        178,
+        89,
+        116
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "bungalow",
+      "answer_letters": "BUNGALOW",
+      "indices": [
+        176,
+        167,
+        25,
+        151,
+        175,
+        60,
+        98,
+        67
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
+      "indices": [
+        61,
+        20,
+        171,
+        110,
+        142,
+        117,
+        164,
+        80
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ontario",
+      "answer_letters": "ONTARIO",
+      "indices": [
+        21,
+        168,
+        66,
+        135,
+        42,
+        101,
+        73
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "orient",
+      "answer_letters": "ORIENT",
+      "indices": [
+        93,
+        134,
+        149,
+        113,
+        150,
+        183
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dcdcdc",
+      "answer_letters": "DCDCDC",
+      "indices": [
+        53,
+        3,
+        129,
+        29,
+        43,
+        69
       ]
     },
     {
@@ -233,74 +234,73 @@
     },
     {
       "clue": null,
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
+      "answer": "interstate",
+      "answer_letters": "INTERSTATE",
       "indices": [
         59,
         99,
-        33,
-        0,
-        106,
-        149,
-        9,
-        10
+        32,
+        52,
+        120,
+        10,
+        141,
+        121,
+        35,
+        108
       ]
     },
     {
       "clue": null,
-      "answer": "sorrow",
-      "answer_letters": "SORROW",
-      "indices": [
-        5,
-        73,
-        42,
-        104,
-        77,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shamrock",
-      "answer_letters": "SHAMROCK",
+      "answer": "season",
+      "answer_letters": "SEASON",
       "indices": [
         182,
-        137,
-        4,
-        164,
-        134,
-        21,
-        29,
-        123
+        70,
+        105,
+        5,
+        77,
+        132
       ]
     },
     {
       "clue": null,
-      "answer": "evelyn",
-      "answer_letters": "EVELYN",
+      "answer": "suburbs",
+      "answer_letters": "SUBURBS",
+      "indices": [
+        39,
+        83,
+        37,
+        94,
+        139,
+        81,
+        87
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "everton",
+      "answer_letters": "EVERTON",
       "indices": [
         161,
         160,
         64,
-        162,
-        148,
+        169,
+        9,
+        56,
         72
       ]
     },
     {
       "clue": null,
-      "answer": "dumbarton",
-      "answer_letters": "DUMBARTON",
+      "answer": "deaths",
+      "answer_letters": "DEATHS",
       "indices": [
-        53,
-        94,
-        63,
-        81,
-        38,
-        114,
-        66,
-        93,
-        168
+        102,
+        30,
+        34,
+        55,
+        137,
+        13
       ]
     }
   ],

@@ -6,8 +6,8 @@
   "clues": [
     {
       "clue": null,
-      "answer": "posthumously",
-      "answer_letters": "POSTHUMOUSLY",
+      "answer": "posthumous",
+      "answer_letters": "POSTHUMOUS",
       "indices": [
         48,
         70,
@@ -18,104 +18,103 @@
         73,
         41,
         138,
-        38,
-        13,
-        55
+        38
       ]
     },
     {
       "clue": null,
-      "answer": "imaging",
-      "answer_letters": "IMAGING",
+      "answer": "inmate",
+      "answer_letters": "INMATE",
       "indices": [
-        111,
-        87,
-        79,
-        170,
         52,
         169,
-        43
+        87,
+        131,
+        9,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "estate",
-      "answer_letters": "ESTATE",
+      "answer": "etymology",
+      "answer_letters": "ETYMOLOGY",
       "indices": [
-        44,
-        100,
-        34,
-        162,
-        89,
-        36
+        36,
+        106,
+        0,
+        32,
+        1,
+        120,
+        12,
+        170,
+        158
       ]
     },
     {
       "clue": null,
-      "answer": "runway",
-      "answer_letters": "RUNWAY",
+      "answer": "romano",
+      "answer_letters": "ROMANO",
       "indices": [
         155,
-        80,
-        7,
-        123,
+        56,
+        103,
         24,
-        114
+        108,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "coyotes",
-      "answer_letters": "COYOTES",
+      "answer": "cowboys",
+      "answer_letters": "COWBOYS",
       "indices": [
         78,
-        122,
-        0,
         67,
-        46,
-        126,
-        26
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        19,
-        130,
-        153,
+        71,
+        21,
         15,
-        74,
+        55,
         112
       ]
     },
     {
       "clue": null,
-      "answer": "booked",
-      "answer_letters": "BOOKED",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
       "indices": [
-        76,
-        144,
-        60,
-        147,
-        156,
-        59
+        19,
+        11,
+        66,
+        74,
+        130,
+        98,
+        45
       ]
     },
     {
       "clue": null,
-      "answer": "remotely",
-      "answer_letters": "REMOTELY",
+      "answer": "bottom",
+      "answer_letters": "BOTTOM",
+      "indices": [
+        93,
+        144,
+        101,
+        39,
+        60,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reggae",
+      "answer_letters": "REGGAE",
       "indices": [
         94,
-        77,
-        125,
-        149,
-        106,
         99,
-        69,
-        158
+        109,
+        96,
+        107,
+        44
       ]
     },
     {
@@ -123,164 +122,165 @@
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
-        5,
-        57,
-        101,
+        119,
+        116,
+        145,
         118,
         121,
-        141,
+        5,
         152
       ]
     },
     {
       "clue": null,
-      "answer": "westwood",
-      "answer_letters": "WESTWOOD",
+      "answer": "wilcox",
+      "answer_letters": "WILCOX",
       "indices": [
         16,
-        27,
-        45,
-        39,
-        150,
-        1,
-        12,
-        140
+        29,
+        69,
+        23,
+        141,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "nebula",
-      "answer_letters": "NEBULA",
+      "answer": "nagoya",
+      "answer_letters": "NAGOYA",
       "indices": [
         42,
-        22,
-        128,
-        104,
-        68,
+        79,
+        43,
+        175,
+        114,
         86
       ]
     },
     {
       "clue": null,
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
+      "answer": "royale",
+      "answer_letters": "ROYALE",
       "indices": [
         40,
-        91,
-        21,
         63,
-        119,
-        98
+        136,
+        162,
+        14,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "answer": "embodied",
+      "answer_letters": "EMBODIED",
       "indices": [
         129,
-        50,
-        71,
-        172,
-        66,
-        82
+        18,
+        76,
+        122,
+        59,
+        168,
+        82,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "double-a",
-      "answer_letters": "DOUBLEA",
+      "answer": "double",
+      "answer_letters": "DOUBLE",
       "indices": [
-        4,
-        159,
-        2,
-        93,
-        120,
-        134,
-        107
+        174,
+        137,
+        57,
+        128,
+        68,
+        134
       ]
     },
     {
       "clue": null,
-      "answer": "roughly",
-      "answer_letters": "ROUGHLY",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
       "indices": [
         163,
-        167,
-        116,
-        109,
+        160,
+        26,
         90,
-        14,
-        136
+        126,
+        4
       ]
     },
     {
       "clue": null,
-      "answer": "images",
-      "answer_letters": "IMAGES",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
       "indices": [
-        29,
-        32,
-        131,
-        96,
-        164,
-        105
+        111,
+        7,
+        153,
+        159,
+        2,
+        105,
+        164
       ]
     },
     {
       "clue": null,
-      "answer": "smooth",
-      "answer_letters": "SMOOTH",
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
       "indices": [
         53,
-        103,
+        35,
+        80,
+        34,
         8,
-        175,
-        9,
-        35
+        104,
+        89
       ]
     },
     {
       "clue": null,
-      "answer": "infamous",
-      "answer_letters": "INFAMOUS",
+      "answer": "isolation",
+      "answer_letters": "ISOLATION",
       "indices": [
         84,
-        62,
-        11,
-        31,
-        18,
+        81,
         115,
-        160,
-        81
+        13,
+        31,
+        46,
+        172,
+        167,
+        62
       ]
     },
     {
       "clue": null,
-      "answer": "notion",
-      "answer_letters": "NOTION",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
         143,
-        137,
-        145,
-        168,
-        56,
-        108
+        91,
+        150,
+        100,
+        123,
+        27,
+        77,
+        147
       ]
     },
     {
       "clue": null,
-      "answer": "guidance",
-      "answer_letters": "GUIDANCE",
+      "answer": "guinea",
+      "answer_letters": "GUINEA",
       "indices": [
         166,
         132,
         95,
-        174,
-        49,
         148,
-        23,
-        154
+        154,
+        49
       ]
     }
   ],

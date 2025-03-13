@@ -6,48 +6,43 @@
   "clues": [
     {
       "clue": null,
-      "answer": "redwood",
-      "answer_letters": "REDWOOD",
+      "answer": "revamped",
+      "answer_letters": "REVAMPED",
       "indices": [
         37,
         39,
-        160,
-        163,
-        11,
-        151,
-        106
+        169,
+        112,
+        67,
+        77,
+        56,
+        160
       ]
     },
     {
       "clue": null,
-      "answer": "overshadowed",
-      "answer_letters": "OVERSHADOWED",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
       "indices": [
-        17,
-        169,
-        56,
-        95,
+        11,
+        106,
+        104,
         161,
         130,
-        112,
-        65,
-        49,
-        10,
-        26,
-        174
+        134
       ]
     },
     {
       "clue": null,
-      "answer": "behave",
-      "answer_letters": "BEHAVE",
+      "answer": "bethel",
+      "answer_letters": "BETHEL",
       "indices": [
         58,
-        38,
+        26,
+        99,
         32,
-        134,
-        122,
-        92
+        38,
+        126
       ]
     },
     {
@@ -55,253 +50,258 @@
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
-        158,
-        51,
-        46,
-        153,
-        148,
+        42,
+        172,
+        183,
+        149,
+        89,
         98
       ]
     },
     {
       "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        159,
-        73,
-        12,
-        21,
-        23,
-        0,
-        149,
-        19,
-        184
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        146,
-        165,
-        6,
-        142,
-        117,
-        157
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "castle",
-      "answer_letters": "CASTLE",
-      "indices": [
-        115,
-        121,
-        179,
-        70,
-        137,
-        69
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "killed",
-      "answer_letters": "KILLED",
-      "indices": [
-        103,
-        79,
-        152,
-        61,
-        100,
-        144
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "inviting",
-      "answer_letters": "INVITING",
-      "indices": [
-        178,
-        143,
-        25,
-        114,
-        31,
-        138,
-        139,
-        136
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "answer": "network",
+      "answer_letters": "NETWORK",
       "indices": [
         168,
-        185,
-        87,
-        164,
-        82,
-        41
+        173,
+        5,
+        0,
+        52,
+        12,
+        103
       ]
     },
     {
       "clue": null,
-      "answer": "length",
-      "answer_letters": "LENGTH",
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
       "indices": [
-        13,
+        146,
+        17,
+        31,
+        178,
+        122,
+        69,
+        181
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "chester",
+      "answer_letters": "CHESTER",
+      "indices": [
+        115,
+        84,
+        100,
+        29,
+        129,
         123,
-        80,
-        113,
-        54,
+        78
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "kannada",
+      "answer_letters": "KANNADA",
+      "indices": [
+        157,
+        59,
+        105,
+        143,
+        2,
+        65,
+        142
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        114,
+        86,
+        8,
+        10,
+        138,
+        81,
         1
       ]
     },
     {
       "clue": null,
-      "answer": "estate",
-      "answer_letters": "ESTATE",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        173,
-        183,
-        172,
-        63,
-        5,
-        18
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        72,
-        125,
-        111,
-        85,
-        36,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "smashed",
-      "answer_letters": "SMASHED",
-      "indices": [
-        29,
-        133,
-        97,
-        8,
-        120,
-        131,
-        14
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "utility",
-      "answer_letters": "UTILITY",
-      "indices": [
-        74,
-        176,
-        167,
-        60,
-        42,
-        35,
-        90
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
-      "indices": [
-        135,
-        52,
-        129,
-        84,
-        28,
-        171,
-        140
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "scrapped",
-      "answer_letters": "SCRAPPED",
-      "indices": [
-        181,
-        81,
-        101,
+        80,
         147,
-        77,
-        86,
-        33,
+        155,
+        120,
+        97,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
+      "indices": [
+        127,
+        182,
+        133,
+        87,
+        36,
+        108,
+        186,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evolving",
+      "answer_letters": "EVOLVING",
+      "indices": [
+        18,
+        25,
+        73,
+        148,
+        93,
+        158,
+        159,
+        48
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        90,
+        82,
+        137,
+        152,
+        165,
+        41
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "settled",
+      "answer_letters": "SETTLED",
+      "indices": [
+        19,
+        94,
+        51,
+        21,
+        60,
+        153,
         16
       ]
     },
     {
       "clue": null,
-      "answer": "helmet",
-      "answer_letters": "HELMET",
+      "answer": "uganda",
+      "answer_letters": "UGANDA",
+      "indices": [
+        74,
+        113,
+        85,
+        171,
+        144,
+        24
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nottingham",
+      "answer_letters": "NOTTINGHAM",
+      "indices": [
+        139,
+        49,
+        54,
+        3,
+        28,
+        135,
+        140,
+        55,
+        121,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "self-titled",
+      "answer_letters": "SELFTITLED",
+      "indices": [
+        46,
+        131,
+        61,
+        109,
+        176,
+        88,
+        35,
+        13,
+        45,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hadith",
+      "answer_letters": "HADITH",
       "indices": [
         44,
-        45,
-        89,
-        186,
-        94,
-        155
+        63,
+        14,
+        167,
+        184,
+        23
       ]
     },
     {
       "clue": null,
-      "answer": "informant",
-      "answer_letters": "INFORMANT",
+      "answer": "insights",
+      "answer_letters": "INSIGHTS",
       "indices": [
-        104,
-        64,
-        109,
-        108,
-        78,
-        67,
-        59,
-        20,
-        99
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "nashville",
-      "answer_letters": "NASHVILLE",
-      "indices": [
-        105,
-        2,
-        43,
-        177,
-        150,
         7,
-        126,
-        127,
+        64,
+        43,
+        79,
+        136,
+        177,
+        70,
+        179
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nowhere",
+      "answer_letters": "NOWHERE",
+      "indices": [
+        20,
+        151,
+        163,
+        6,
+        92,
+        95,
         68
       ]
     },
     {
       "clue": null,
-      "answer": "everything",
-      "answer_letters": "EVERYTHING",
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
       "indices": [
         118,
-        93,
+        150,
         170,
         75,
-        182,
-        3,
-        55,
-        88,
-        154,
-        48
+        72,
+        117,
+        164,
+        33,
+        101,
+        185
       ]
     }
   ],

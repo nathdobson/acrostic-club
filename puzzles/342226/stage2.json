@@ -6,163 +6,160 @@
   "clues": [
     {
       "clue": null,
-      "answer": "sparta",
-      "answer_letters": "SPARTA",
+      "answer": "spartak",
+      "answer_letters": "SPARTAK",
       "indices": [
         161,
         158,
         104,
         78,
         18,
-        28
+        28,
+        51
       ]
     },
     {
       "clue": null,
-      "answer": "through",
-      "answer_letters": "THROUGH",
+      "answer": "tenure",
+      "answer_letters": "TENURE",
       "indices": [
         102,
-        154,
-        23,
-        36,
+        125,
+        172,
         150,
-        191,
-        148
+        23,
+        186
       ]
     },
     {
       "clue": null,
-      "answer": "europa",
-      "answer_letters": "EUROPA",
+      "answer": "egg-shaped",
+      "answer_letters": "EGGSHAPED",
       "indices": [
         41,
-        13,
-        98,
-        92,
-        159,
-        114
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "policing",
-      "answer_letters": "POLICING",
-      "indices": [
-        67,
-        74,
-        128,
-        115,
-        170,
-        81,
-        61,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "horsepower",
-      "answer_letters": "HORSEPOWER",
-      "indices": [
-        84,
-        89,
-        110,
+        30,
+        191,
         142,
-        16,
+        154,
+        114,
         49,
-        63,
-        145,
-        168,
-        5
+        16,
+        86
       ]
     },
     {
       "clue": null,
-      "answer": "enabled",
-      "answer_letters": "ENABLED",
+      "answer": "plagued",
+      "answer_letters": "PLAGUED",
       "indices": [
-        25,
-        56,
-        32,
-        137,
-        107,
-        138,
-        180
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "non-league",
-      "answer_letters": "NONLEAGUE",
-      "indices": [
-        53,
-        157,
-        88,
-        9,
-        20,
-        179,
-        33,
-        31,
-        52
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "illawarra",
-      "answer_letters": "ILLAWARRA",
-      "indices": [
-        162,
-        57,
+        175,
         68,
-        140,
-        91,
         85,
-        121,
-        93,
-        131
+        15,
+        31,
+        52,
+        94
       ]
     },
     {
       "clue": null,
-      "answer": "estonia",
-      "answer_letters": "ESTONIA",
+      "answer": "horror",
+      "answer_letters": "HORROR",
       "indices": [
-        155,
-        48,
-        163,
-        77,
-        82,
-        4,
-        14
+        148,
+        50,
+        110,
+        5,
+        183,
+        65
       ]
     },
     {
       "clue": null,
-      "answer": "mythology",
-      "answer_letters": "MYTHOLOGY",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
       "indices": [
-        185,
-        58,
-        72,
-        19,
-        60,
-        46,
-        149,
-        80,
-        134
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        164,
+        101,
         3,
         75,
+        174,
+        173,
+        72
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "notation",
+      "answer_letters": "NOTATION",
+      "indices": [
+        88,
+        157,
+        116,
+        131,
+        22,
+        79,
         160,
-        103,
-        151
+        82
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "isotope",
+      "answer_letters": "ISOTOPE",
+      "indices": [
+        115,
+        48,
+        60,
+        133,
+        149,
+        159,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "emotionally",
+      "answer_letters": "EMOTIONALLY",
+      "indices": [
+        34,
+        185,
+        171,
+        151,
+        4,
+        55,
+        11,
+        69,
+        27,
+        132,
+        58
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "marching",
+      "answer_letters": "MARCHING",
+      "indices": [
+        0,
+        14,
+        118,
+        170,
+        40,
+        162,
+        188,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "elliot",
+      "answer_letters": "ELLIOT",
+      "indices": [
+        138,
+        46,
+        107,
+        81,
+        77,
+        147
       ]
     },
     {
@@ -170,85 +167,83 @@
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [
-        130,
-        141,
-        188,
-        11,
-        69,
-        29
+        134,
+        64,
+        29,
+        56,
+        32,
+        190
       ]
     },
     {
       "clue": null,
-      "answer": "embryo",
-      "answer_letters": "EMBRYO",
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
       "indices": [
-        71,
-        0,
+        164,
+        124,
+        155,
+        103,
+        1,
         100,
-        113,
-        105,
-        97
+        97,
+        180,
+        105
       ]
     },
     {
       "clue": null,
-      "answer": "rancho",
-      "answer_letters": "RANCHO",
+      "answer": "robots",
+      "answer_letters": "ROBOTS",
       "indices": [
-        118,
-        10,
-        190,
-        173,
-        40,
-        171
+        98,
+        120,
+        137,
+        92,
+        163,
+        43
       ]
     },
     {
       "clue": null,
-      "answer": "telescope",
-      "answer_letters": "TELESCOPE",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
         7,
-        34,
-        27,
-        101,
-        43,
-        139,
-        55,
-        175,
-        174
+        91,
+        89,
+        145,
+        10,
+        130
       ]
     },
     {
       "clue": null,
-      "answer": "huffington",
-      "answer_letters": "HUFFINGTON",
+      "answer": "houghton",
+      "answer_letters": "HOUGHTON",
       "indices": [
         178,
-        64,
-        37,
-        96,
-        146,
-        70,
-        30,
+        63,
+        13,
+        80,
+        84,
         153,
-        120,
-        172
+        44,
+        70
       ]
     },
     {
       "clue": null,
-      "answer": "editing",
-      "answer_letters": "EDITING",
+      "answer": "eleanor",
+      "answer_letters": "ELEANOR",
       "indices": [
-        123,
-        94,
-        189,
-        22,
-        79,
-        126,
-        12
+        71,
+        57,
+        20,
+        140,
+        182,
+        74,
+        93
       ]
     },
     {
@@ -256,56 +251,61 @@
       "answer": "hutton",
       "answer_letters": "HUTTON",
       "indices": [
-        167,
-        24,
-        133,
-        147,
+        19,
+        141,
+        112,
+        39,
         129,
-        182
+        53
       ]
     },
     {
       "clue": null,
-      "answer": "overlooked",
-      "answer_letters": "OVERLOOKED",
+      "answer": "office",
+      "answer_letters": "OFFICE",
       "indices": [
-        44,
-        124,
-        125,
-        65,
-        132,
-        50,
-        183,
-        51,
-        186,
-        86
+        36,
+        37,
+        96,
+        146,
+        139,
+        168
       ]
     },
     {
       "clue": null,
-      "answer": "statute",
-      "answer_letters": "STATUTE",
+      "answer": "supernatural",
+      "answer_letters": "SUPERNATURAL",
       "indices": [
         6,
-        176,
-        106,
-        166,
         45,
-        112,
-        143
+        67,
+        143,
+        113,
+        126,
+        106,
+        176,
+        24,
+        121,
+        187,
+        128
       ]
     },
     {
       "clue": null,
-      "answer": "toyota",
-      "answer_letters": "TOYOTA",
+      "answer": "theologian",
+      "answer_letters": "THEOLOGIAN",
       "indices": [
-        39,
+        166,
+        167,
+        123,
         109,
-        1,
+        9,
         117,
-        116,
-        187
+        12,
+        189,
+        179,
+        61
       ]
     }
   ],

@@ -6,46 +6,45 @@
   "clues": [
     {
       "clue": null,
-      "answer": "motorway",
-      "answer_letters": "MOTORWAY",
+      "answer": "method",
+      "answer_letters": "METHOD",
       "indices": [
         4,
-        154,
+        7,
         6,
-        137,
-        49,
-        11,
-        104,
+        63,
+        154,
+        105
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "apology",
+      "answer_letters": "APOLOGY",
+      "indices": [
+        100,
+        29,
+        53,
+        94,
+        48,
+        162,
         144
       ]
     },
     {
       "clue": null,
-      "answer": "aqueous",
-      "answer_letters": "AQUEOUS",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
-        18,
-        35,
-        0,
-        152,
-        53,
-        36,
-        160
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "repeated",
-      "answer_letters": "REPEATED",
-      "indices": [
-        59,
-        67,
-        29,
-        103,
-        123,
+        31,
+        41,
         86,
-        145,
-        33
+        58,
+        103,
+        59,
+        115,
+        140,
+        171
       ]
     },
     {
@@ -54,72 +53,68 @@
       "answer_letters": "THOUGHT",
       "indices": [
         73,
-        89,
+        26,
         60,
         133,
         174,
-        58,
+        135,
         151
       ]
     },
     {
       "clue": null,
-      "answer": "inform",
-      "answer_letters": "INFORM",
+      "answer": "identity",
+      "answer_letters": "IDENTITY",
       "indices": [
-        150,
+        172,
+        55,
+        109,
         19,
-        83,
-        84,
-        149,
-        171
+        65,
+        3,
+        88,
+        9
       ]
     },
     {
       "clue": null,
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
+      "answer": "napoli",
+      "answer_letters": "NAPOLI",
       "indices": [
         14,
-        120,
-        62,
+        12,
+        157,
         97,
-        9,
-        12
+        1,
+        150
       ]
     },
     {
       "clue": null,
-      "answer": "aldershot",
-      "answer_letters": "ALDERSHOT",
+      "answer": "another",
+      "answer_letters": "ANOTHER",
       "indices": [
-        140,
-        94,
-        105,
-        7,
-        31,
-        13,
-        63,
-        41,
-        2
+        104,
+        141,
+        137,
+        2,
+        89,
+        67,
+        49
       ]
     },
     {
       "clue": null,
-      "answer": "battleships",
-      "answer_letters": "BATTLESHIPS",
+      "answer": "banquet",
+      "answer_letters": "BANQUET",
       "indices": [
         131,
-        100,
-        39,
-        57,
-        168,
-        163,
-        71,
-        26,
-        40,
-        69,
-        159
+        161,
+        76,
+        35,
+        0,
+        145,
+        111
       ]
     },
     {
@@ -137,151 +132,156 @@
     },
     {
       "clue": null,
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
+      "answer": "office",
+      "answer_letters": "OFFICE",
       "indices": [
-        112,
-        76,
-        30,
-        25,
-        161,
-        50
+        85,
+        79,
+        155,
+        40,
+        114,
+        163
       ]
     },
     {
       "clue": null,
-      "answer": "notified",
-      "answer_letters": "NOTIFIED",
+      "answer": "nagoya",
+      "answer_letters": "NAGOYA",
       "indices": [
         124,
-        75,
-        92,
-        72,
-        98,
-        27,
-        21,
-        125
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        143,
-        118,
-        138,
-        32,
-        20,
-        15
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ithaca",
-      "answer_letters": "ITHACA",
-      "indices": [
-        170,
-        127,
-        66,
         5,
-        167,
+        62,
+        112,
+        50,
         147
       ]
     },
     {
       "clue": null,
-      "answer": "latina",
-      "answer_letters": "LATINA",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        1,
-        81,
-        47,
-        3,
-        173,
-        165
+        30,
+        98,
+        118,
+        75,
+        149,
+        95,
+        160
       ]
     },
     {
       "clue": null,
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
       "indices": [
-        8,
-        90,
-        128,
-        172,
-        162,
+        72,
+        69,
+        71,
+        11,
+        27,
+        20,
         122
       ]
     },
     {
       "clue": null,
-      "answer": "update",
-      "answer_letters": "UPDATE",
+      "answer": "leased",
+      "answer_letters": "LEASED",
       "indices": [
-        113,
-        157,
-        17,
-        158,
-        65,
-        129
+        8,
+        21,
+        165,
+        46,
+        143,
+        33
       ]
     },
     {
       "clue": null,
-      "answer": "shouted",
-      "answer_letters": "SHOUTED",
+      "answer": "lawsuit",
+      "answer_letters": "LAWSUIT",
+      "indices": [
+        168,
+        81,
+        25,
+        159,
+        113,
+        170,
+        92
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unaffected",
+      "answer_letters": "UNAFFECTED",
+      "indices": [
+        61,
+        173,
+        158,
+        138,
+        83,
+        32,
+        167,
+        15,
+        90,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "statehood",
+      "answer_letters": "STATEHOOD",
       "indices": [
         28,
+        127,
+        120,
+        47,
+        129,
         108,
         117,
-        61,
-        88,
-        109,
-        55
+        84,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "italics",
-      "answer_letters": "ITALICS",
+      "answer": "isaiah",
+      "answer_letters": "ISAIAH",
       "indices": [
         74,
-        52,
-        169,
-        54,
+        13,
+        123,
         93,
-        114,
-        134
+        169,
+        66
       ]
     },
     {
       "clue": null,
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
       "indices": [
-        48,
-        79,
-        155,
-        46,
-        135,
         78,
-        85,
-        95
+        36,
+        39,
+        54,
+        152,
+        57
       ]
     },
     {
       "clue": null,
-      "answer": "nathan",
-      "answer_letters": "NATHAN",
+      "answer": "natasha",
+      "answer_letters": "NATASHA",
       "indices": [
-        141,
+        42,
         44,
-        111,
-        115,
+        52,
         23,
-        42
+        134,
+        128,
+        18
       ]
     }
   ],

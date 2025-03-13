@@ -6,19 +6,100 @@
   "clues": [
     {
       "clue": null,
-      "answer": "battalions",
-      "answer_letters": "BATTALIONS",
+      "answer": "belmont",
+      "answer_letters": "BELMONT",
       "indices": [
         17,
-        145,
-        146,
-        96,
-        154,
+        110,
         100,
-        77,
+        42,
         91,
         24,
+        146
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
+      "indices": [
+        118,
+        54,
+        55,
+        40,
+        49,
+        62,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
+      "indices": [
+        140,
+        26,
+        30,
+        115,
+        47,
+        5,
+        37,
+        165
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "tribal",
+      "answer_letters": "TRIBAL",
+      "indices": [
+        102,
+        92,
+        12,
+        36,
+        82,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "online",
+      "answer_letters": "ONLINE",
+      "indices": [
+        48,
+        2,
+        57,
+        103,
+        61,
+        14
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utilities",
+      "answer_letters": "UTILITIES",
+      "indices": [
+        134,
+        148,
+        19,
+        99,
+        129,
+        143,
+        67,
+        151,
         131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "shower",
+      "answer_letters": "SHOWER",
+      "indices": [
+        152,
+        144,
+        163,
+        90,
+        53,
+        78
       ]
     },
     {
@@ -26,253 +107,172 @@
       "answer": "embarked",
       "answer_letters": "EMBARKED",
       "indices": [
-        118,
-        104,
-        65,
-        149,
-        6,
-        165,
-        26,
-        34
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newspaper",
-      "answer_letters": "NEWSPAPER",
-      "indices": [
-        140,
-        5,
-        47,
-        115,
-        76,
-        114,
-        112,
-        37,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "twilight",
-      "answer_letters": "TWILIGHT",
-      "indices": [
-        130,
-        162,
-        137,
-        33,
-        12,
-        11,
-        113,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "overview",
-      "answer_letters": "OVERVIEW",
-      "indices": [
-        163,
-        73,
-        14,
-        164,
-        121,
-        129,
-        63,
-        30
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
-      "indices": [
-        32,
-        124,
-        159,
-        31,
-        99,
-        119
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "sikkim",
-      "answer_letters": "SIKKIM",
-      "indices": [
-        152,
-        139,
-        93,
-        83,
-        116,
-        59
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elevator",
-      "answer_letters": "ELEVATOR",
-      "indices": [
-        84,
-        57,
-        151,
-        4,
-        27,
-        148,
-        48,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "yucatán",
-      "answer_letters": "YUCATAN",
-      "indices": [
-        108,
-        134,
-        44,
-        74,
-        143,
-        58,
-        87
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gazetted",
-      "answer_letters": "GAZETTED",
-      "indices": [
-        69,
-        98,
-        117,
         18,
-        81,
-        158,
+        59,
+        65,
+        27,
+        135,
+        93,
         127,
         25
       ]
     },
     {
       "clue": null,
-      "answer": "oblong",
-      "answer_letters": "OBLONG",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        108,
+        74,
+        123,
+        58,
+        113,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "guzmán",
+      "answer_letters": "GUZMAN",
+      "indices": [
+        69,
+        43,
+        117,
+        75,
+        122,
+        68
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "overlooked",
+      "answer_letters": "OVERLOOKED",
       "indices": [
         105,
-        36,
+        73,
+        60,
+        126,
         156,
         88,
-        20,
+        31,
+        50,
+        84,
+        119
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        34,
+        162,
+        8,
+        141,
+        45,
+        106
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "surviving",
+      "answer_letters": "SURVIVING",
+      "indices": [
+        85,
+        23,
+        164,
+        121,
+        139,
+        138,
+        116,
+        87,
         21
       ]
     },
     {
       "clue": null,
-      "answer": "divine",
-      "answer_letters": "DIVINE",
+      "answer": "markham",
+      "answer_letters": "MARKHAM",
       "indices": [
+        9,
+        149,
+        6,
+        83,
+        107,
+        114,
+        104
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "adjective",
+      "answer_letters": "ADJECTIVE",
+      "indices": [
+        95,
         15,
+        52,
+        3,
+        44,
+        158,
         125,
         136,
-        8,
-        61,
         160
       ]
     },
     {
       "clue": null,
-      "answer": "sheikh",
-      "answer_letters": "SHEIKH",
-      "indices": [
-        39,
-        144,
-        60,
-        19,
-        50,
-        45
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "mammoth",
-      "answer_letters": "MAMMOTH",
-      "indices": [
-        75,
-        95,
-        111,
-        9,
-        40,
-        62,
-        107
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "adjusting",
-      "answer_letters": "ADJUSTING",
-      "indices": [
-        10,
-        64,
-        52,
-        43,
-        133,
-        106,
-        103,
-        2,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "differ",
-      "answer_letters": "DIFFER",
+      "answer": "depths",
+      "answer_letters": "DEPTHS",
       "indices": [
         28,
-        67,
-        54,
-        55,
-        53,
-        135
+        63,
+        124,
+        81,
+        159,
+        39
       ]
     },
     {
       "clue": null,
-      "answer": "maneuver",
-      "answer_letters": "MANEUVER",
+      "answer": "mapped",
+      "answer_letters": "MAPPED",
       "indices": [
-        123,
-        122,
-        68,
+        111,
+        10,
+        76,
+        112,
         79,
-        23,
-        138,
-        3,
-        78
+        64
       ]
     },
     {
       "clue": null,
-      "answer": "emails",
-      "answer_letters": "EMAILS",
+      "answer": "evaluating",
+      "answer_letters": "EVALUATING",
       "indices": [
-        110,
-        42,
-        71,
-        0,
-        155,
-        85
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "newark",
-      "answer_letters": "NEWARK",
-      "indices": [
-        13,
         66,
-        90,
-        82,
-        92,
-        150
+        4,
+        145,
+        155,
+        32,
+        154,
+        96,
+        77,
+        13,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        20,
+        0,
+        150,
+        137,
+        130,
+        71
       ]
     }
   ],

@@ -6,263 +6,44 @@
   "clues": [
     {
       "clue": null,
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
+      "answer": "geometry",
+      "answer_letters": "GEOMETRY",
       "indices": [
         69,
-        150,
-        65,
-        75,
-        76,
-        22
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        28,
-        177,
-        47,
-        139,
-        166,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outpost",
-      "answer_letters": "OUTPOST",
-      "indices": [
-        127,
-        68,
-        85,
-        168,
-        40,
-        147,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        50,
-        70,
-        103,
-        169,
-        2,
-        8,
-        84
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "gunboat",
-      "answer_letters": "GUNBOAT",
-      "indices": [
-        37,
-        106,
-        36,
-        42,
-        7,
-        98,
-        116
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "executed",
-      "answer_letters": "EXECUTED",
-      "indices": [
-        167,
-        165,
         43,
-        132,
-        142,
-        15,
+        127,
+        60,
         134,
-        45
+        39,
+        31,
+        32
       ]
     },
     {
       "clue": null,
-      "answer": "esther",
-      "answer_letters": "ESTHER",
+      "answer": "easton",
+      "answer_letters": "EASTON",
       "indices": [
-        30,
-        160,
-        33,
-        91,
-        111,
-        120
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lebanon",
-      "answer_letters": "LEBANON",
-      "indices": [
-        176,
-        82,
-        151,
+        51,
         11,
-        158,
-        171,
+        115,
+        26,
+        80,
         18
       ]
     },
     {
       "clue": null,
-      "answer": "isolation",
-      "answer_letters": "ISOLATION",
+      "answer": "ontario",
+      "answer_letters": "ONTARIO",
       "indices": [
-        16,
-        115,
-        152,
-        133,
+        40,
+        149,
+        85,
         3,
-        57,
-        73,
-        80,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "osborn",
-      "answer_letters": "OSBORN",
-      "indices": [
-        17,
-        174,
-        128,
-        67,
-        138,
-        172
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "tibetan",
-      "answer_letters": "TIBETAN",
-      "indices": [
-        71,
-        0,
-        123,
-        119,
-        118,
-        157,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "member",
-      "answer_letters": "MEMBER",
-      "indices": [
-        12,
-        173,
-        79,
-        105,
-        161,
-        102
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "indira",
-      "answer_letters": "INDIRA",
-      "indices": [
-        46,
-        52,
-        77,
-        14,
         81,
-        137
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "device",
-      "answer_letters": "DEVICE",
-      "indices": [
-        4,
-        49,
-        29,
-        63,
-        143,
-        9
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "daytime",
-      "answer_letters": "DAYTIME",
-      "indices": [
-        95,
-        131,
-        154,
-        26,
-        56,
-        113,
-        61
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
-      "indices": [
-        124,
-        122,
-        48,
-        107,
-        87,
-        153
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "entities",
-      "answer_letters": "ENTITIES",
-      "indices": [
-        175,
-        25,
-        90,
-        35,
-        130,
-        20,
-        164,
-        141
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "message",
-      "answer_letters": "MESSAGE",
-      "indices": [
-        97,
-        125,
-        135,
-        6,
-        24,
-        89,
-        162
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "ashore",
-      "answer_letters": "ASHORE",
-      "indices": [
-        146,
-        129,
-        144,
-        114,
-        86,
-        101
+        14,
+        152
       ]
     },
     {
@@ -270,38 +51,257 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        31,
-        34,
-        32,
-        39,
-        58,
-        60
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "chants",
-      "answer_letters": "CHANTS",
-      "indices": [
-        156,
-        66,
-        93,
-        88,
+        50,
+        70,
+        103,
         53,
-        99
+        2,
+        8
       ]
     },
     {
       "clue": null,
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
       "indices": [
-        110,
-        51,
+        37,
+        7,
+        175,
+        116,
+        34,
+        164
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "evelyn",
+      "answer_letters": "EVELYN",
+      "indices": [
+        119,
+        29,
+        125,
+        124,
+        154,
+        172
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "eastman",
+      "answer_letters": "EASTMAN",
+      "indices": [
+        87,
+        76,
+        147,
+        65,
+        22,
+        137,
+        25
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        176,
+        101,
+        91,
+        73,
+        89,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        0,
+        168,
+        6,
+        55,
+        16,
+        143,
+        75
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "office",
+      "answer_letters": "OFFICE",
+      "indices": [
+        17,
+        48,
+        177,
+        35,
+        132,
+        167
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "threaten",
+      "answer_letters": "THREATEN",
+      "indices": [
+        109,
+        58,
+        102,
+        49,
+        131,
+        71,
+        9,
+        158
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "maximum",
+      "answer_letters": "MAXIMUM",
+      "indices": [
+        113,
+        146,
+        165,
+        56,
+        12,
+        68,
+        79
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "initiated",
+      "answer_letters": "INITIATED",
+      "indices": [
+        20,
+        94,
+        122,
+        15,
+        46,
+        24,
+        107,
+        61,
+        45
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "dubbed",
+      "answer_letters": "DUBBED",
+      "indices": [
+        95,
+        142,
+        123,
+        151,
+        161,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "debuted",
+      "answer_letters": "DEBUTED",
+      "indices": [
+        153,
+        139,
+        128,
+        106,
+        57,
+        173,
+        77
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "learnt",
+      "answer_letters": "LEARNT",
+      "indices": [
+        133,
+        162,
+        157,
+        120,
+        52,
+        33
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "estates",
+      "answer_letters": "ESTATES",
+      "indices": [
+        30,
+        141,
+        90,
+        98,
+        130,
+        111,
+        174
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "metres",
+      "answer_letters": "METRES",
+      "indices": [
+        97,
+        82,
+        118,
+        86,
+        28,
+        135
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "abbott",
+      "answer_letters": "ABBOTT",
+      "indices": [
+        93,
+        105,
         13,
-        121,
+        171,
+        100,
+        169
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "robson",
+      "answer_letters": "ROBSON",
+      "indices": [
+        138,
+        67,
+        42,
+        160,
+        150,
+        36
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "confess",
+      "answer_letters": "CONFESS",
+      "indices": [
+        166,
+        114,
+        88,
+        47,
         23,
-        55
+        129,
+        84
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "hirsch",
+      "answer_letters": "HIRSCH",
+      "indices": [
+        66,
+        63,
+        121,
+        99,
+        156,
+        110
       ]
     }
   ],

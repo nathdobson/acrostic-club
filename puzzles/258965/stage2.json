@@ -6,98 +6,101 @@
   "clues": [
     {
       "clue": null,
-      "answer": "khalid",
-      "answer_letters": "KHALID",
+      "answer": "kosovo",
+      "answer_letters": "KOSOVO",
       "indices": [
         52,
-        68,
-        157,
-        95,
-        170,
-        141
+        131,
+        144,
+        128,
+        104,
+        166
       ]
     },
     {
       "clue": null,
-      "answer": "itself",
-      "answer_letters": "ITSELF",
+      "answer": "infinite",
+      "answer_letters": "INFINITE",
       "indices": [
-        13,
-        118,
-        97,
-        26,
-        92,
-        109
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "narrowly",
-      "answer_letters": "NARROWLY",
-      "indices": [
+        161,
+        117,
+        91,
+        39,
         129,
-        44,
-        147,
-        106,
-        72,
-        169,
-        171,
-        152
+        13,
+        134,
+        136
       ]
     },
     {
       "clue": null,
-      "answer": "george",
-      "answer_letters": "GEORGE",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        167,
+        36,
+        25,
+        135,
+        26,
+        83
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "grocery",
+      "answer_letters": "GROCERY",
       "indices": [
         150,
-        19,
-        58,
-        178,
-        32,
-        105
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "speedway",
-      "answer_letters": "SPEEDWAY",
-      "indices": [
-        185,
-        121,
-        96,
-        175,
-        80,
-        146,
-        183,
+        27,
+        79,
+        162,
+        53,
+        155,
         111
       ]
     },
     {
       "clue": null,
-      "answer": "lights",
-      "answer_letters": "LIGHTS",
+      "answer": "spells",
+      "answer_letters": "SPELLS",
       "indices": [
-        172,
-        28,
-        71,
-        1,
-        42,
-        81
+        185,
+        35,
+        19,
+        95,
+        76,
+        40
       ]
     },
     {
       "clue": null,
-      "answer": "efforts",
-      "answer_letters": "EFFORTS",
+      "answer": "lightweight",
+      "answer_letters": "LIGHTWEIGHT",
       "indices": [
+        172,
+        143,
+        181,
+        43,
+        124,
+        177,
         9,
-        132,
-        91,
+        28,
+        71,
+        1,
+        42
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "errors",
+      "answer_letters": "ERRORS",
+      "indices": [
+        123,
+        147,
+        106,
         148,
         57,
-        124,
-        59
+        81
       ]
     },
     {
@@ -106,55 +109,52 @@
       "answer_letters": "YELLOW",
       "indices": [
         65,
-        136,
-        37,
+        175,
         184,
-        6,
-        102
+        160,
+        101,
+        138
       ]
     },
     {
       "clue": null,
-      "answer": "optics",
-      "answer_letters": "OPTICS",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
       "indices": [
-        112,
+        153,
+        0,
+        48,
+        157,
+        146,
+        183
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "prophet",
+      "answer_letters": "PROPHET",
+      "indices": [
         159,
-        45,
-        108,
-        162,
-        24
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "premiership",
-      "answer_letters": "PREMIERSHIP",
-      "indices": [
+        22,
+        139,
         74,
-        155,
-        119,
-        50,
-        165,
-        75,
-        140,
-        98,
-        15,
-        63,
-        21
+        68,
+        69,
+        118
       ]
     },
     {
       "clue": null,
-      "answer": "uptown",
-      "answer_letters": "UPTOWN",
+      "answer": "upwards",
+      "answer_letters": "UPWARDS",
       "indices": [
         113,
         4,
-        134,
-        23,
-        177,
-        167
+        169,
+        44,
+        114,
+        86,
+        59
       ]
     },
     {
@@ -162,41 +162,44 @@
       "answer": "withdrew",
       "answer_letters": "WITHDREW",
       "indices": [
-        12,
-        161,
-        0,
-        43,
-        86,
-        22,
-        36,
-        83
+        94,
+        108,
+        17,
+        100,
+        80,
+        5,
+        103,
+        102
       ]
     },
     {
       "clue": null,
-      "answer": "aviator",
-      "answer_letters": "AVIATOR",
+      "answer": "abolish",
+      "answer_letters": "ABOLISH",
       "indices": [
-        51,
-        104,
-        143,
         163,
-        29,
-        139,
-        114
+        7,
+        23,
+        171,
+        47,
+        54,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "ribbon",
-      "answer_letters": "RIBBON",
+      "answer": "right-wing",
+      "answer_letters": "RIGHTWING",
       "indices": [
         85,
-        39,
-        174,
-        7,
-        186,
-        117
+        63,
+        32,
+        18,
+        29,
+        12,
+        127,
+        149,
+        78
       ]
     },
     {
@@ -204,107 +207,104 @@
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
-        88,
-        144,
-        131,
+        170,
+        89,
+        58,
         64,
-        128,
+        179,
         60,
         61,
-        89
+        73
       ]
     },
     {
       "clue": null,
-      "answer": "metropolis",
-      "answer_letters": "METROPOLIS",
+      "answer": "melrose",
+      "answer_letters": "MELROSE",
       "indices": [
         10,
-        123,
-        17,
-        120,
-        101,
-        25,
-        153,
+        119,
         8,
-        47,
-        54
+        120,
+        72,
+        97,
+        75
       ]
     },
     {
       "clue": null,
-      "answer": "astrology",
-      "answer_letters": "ASTROLOGY",
+      "answer": "applies",
+      "answer_letters": "APPLIES",
       "indices": [
-        125,
-        34,
-        48,
-        5,
-        79,
-        160,
-        84,
-        181,
-        30
+        51,
+        21,
+        158,
+        92,
+        165,
+        2,
+        34
       ]
     },
     {
       "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
+      "answer": "not-for-profit",
+      "answer_letters": "NOTFORPROFIT",
       "indices": [
         180,
-        166,
-        62,
+        33,
         164,
-        100,
-        138,
-        53,
-        73,
+        109,
+        6,
+        62,
+        121,
+        178,
+        112,
+        132,
+        88,
         14
       ]
     },
     {
       "clue": null,
-      "answer": "upright",
-      "answer_letters": "UPRIGHT",
+      "answer": "umayyad",
+      "answer_letters": "UMAYYAD",
       "indices": [
         154,
-        158,
-        122,
-        127,
-        78,
-        135,
-        67
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "eisenhower",
-      "answer_letters": "EISENHOWER",
-      "indices": [
-        69,
-        116,
-        40,
-        103,
-        149,
-        18,
-        33,
-        94,
-        2,
-        27
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "laptop",
-      "answer_letters": "LAPTOP",
-      "indices": [
-        76,
+        50,
         93,
-        35,
+        30,
+        152,
+        125,
+        141
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "esports",
+      "answer_letters": "ESPORTS",
+      "indices": [
+        96,
+        24,
+        56,
+        186,
+        122,
+        67,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "libretto",
+      "answer_letters": "LIBRETTO",
+      "indices": [
+        37,
+        116,
+        174,
+        140,
+        105,
         126,
-        179,
-        56
+        45,
+        84
       ]
     }
   ],

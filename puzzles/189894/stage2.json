@@ -6,181 +6,182 @@
   "clues": [
     {
       "clue": null,
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
       "indices": [
         46,
-        30,
-        125,
         115,
-        64,
-        167
+        167,
+        153,
+        5,
+        125,
+        151,
+        81,
+        156
       ]
     },
     {
       "clue": null,
-      "answer": "entity",
-      "answer_letters": "ENTITY",
+      "answer": "ethnic",
+      "answer_letters": "ETHNIC",
       "indices": [
-        189,
+        186,
+        22,
+        25,
         11,
-        177,
-        147,
-        164,
-        47
+        0,
+        60
       ]
     },
     {
       "clue": null,
-      "answer": "grandstand",
-      "answer_letters": "GRANDSTAND",
+      "answer": "georgetown",
+      "answer_letters": "GEORGETOWN",
       "indices": [
         70,
+        157,
+        30,
         146,
-        160,
-        69,
-        108,
-        5,
-        24,
-        121,
-        97,
-        105
+        37,
+        88,
+        124,
+        73,
+        64,
+        69
       ]
     },
     {
       "clue": null,
-      "answer": "countdown",
-      "answer_letters": "COUNTDOWN",
+      "answer": "confrontation",
+      "answer_letters": "CONFRONTATION",
       "indices": [
         113,
-        73,
-        137,
-        192,
-        124,
-        12,
         184,
-        78,
+        97,
+        130,
+        182,
+        77,
+        192,
+        40,
+        160,
+        91,
+        83,
+        193,
         104
       ]
     },
     {
       "clue": null,
-      "answer": "authentication",
-      "answer_letters": "AUTHENTICATION",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
       "indices": [
-        86,
-        176,
-        91,
-        99,
-        61,
-        161,
-        114,
-        83,
-        128,
-        170,
-        142,
-        51,
-        143,
-        53
+        107,
+        164,
+        140,
+        181,
+        185,
+        165
       ]
     },
     {
       "clue": null,
-      "answer": "backward",
-      "answer_letters": "BACKWARD",
+      "answer": "budapest",
+      "answer_letters": "BUDAPEST",
       "indices": [
         169,
-        109,
-        135,
-        149,
-        194,
-        107,
-        182,
-        145
+        137,
+        108,
+        65,
+        28,
+        179,
+        44,
+        142
       ]
     },
     {
       "clue": null,
-      "answer": "objection",
-      "answer_letters": "OBJECTION",
+      "answer": "outlawed",
+      "answer_letters": "OUTLAWED",
       "indices": [
-        175,
-        174,
-        94,
-        32,
-        60,
-        122,
-        80,
         95,
+        176,
+        72,
+        136,
+        173,
+        42,
+        57,
+        89
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "taiwan",
+      "answer_letters": "TAIWAN",
+      "indices": [
+        14,
+        43,
+        80,
+        3,
+        86,
         148
       ]
     },
     {
       "clue": null,
-      "answer": "two-day",
-      "answer_letters": "TWODAY",
+      "answer": "dcdcdc",
+      "answer_letters": "DCDCDC",
       "indices": [
-        22,
-        188,
-        92,
-        154,
-        4,
-        183
+        105,
+        135,
+        12,
+        152,
+        145,
+        128
       ]
     },
     {
       "clue": null,
-      "answer": "downfall",
-      "answer_letters": "DOWNFALL",
+      "answer": "antenna",
+      "answer_letters": "ANTENNA",
       "indices": [
-        162,
-        193,
-        3,
+        121,
         66,
-        131,
-        43,
-        166,
-        136
+        114,
+        61,
+        161,
+        53,
+        7
       ]
     },
     {
       "clue": null,
-      "answer": "apache",
-      "answer_letters": "APACHE",
+      "answer": "reworked",
+      "answer_letters": "REWORKED",
       "indices": [
-        7,
-        28,
-        65,
-        139,
-        140,
-        62
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rotate",
-      "answer_letters": "ROTATE",
-      "indices": [
-        50,
+        8,
+        100,
+        188,
         129,
-        19,
-        35,
-        72,
-        26
+        50,
+        75,
+        26,
+        171
       ]
     },
     {
       "clue": null,
-      "answer": "kenneth",
-      "answer_letters": "KENNETH",
+      "answer": "katherine",
+      "answer_letters": "KATHERINE",
       "indices": [
-        75,
-        181,
-        185,
-        76,
+        149,
+        103,
+        67,
+        99,
         126,
-        138,
-        25
+        34,
+        147,
+        76,
+        189
       ]
     },
     {
@@ -188,108 +189,107 @@
       "answer": "efficient",
       "answer_letters": "EFFICIENT",
       "indices": [
-        153,
-        81,
-        49,
-        151,
-        56,
-        96,
         132,
+        49,
+        131,
+        96,
+        56,
+        39,
+        62,
         36,
-        156
+        24
       ]
     },
     {
       "clue": null,
-      "answer": "strength",
-      "answer_letters": "STRENGTH",
+      "answer": "salvation",
+      "answer_letters": "SALVATION",
       "indices": [
         118,
-        1,
-        8,
-        186,
-        17,
-        37,
-        67,
-        20
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "takahashi",
-      "answer_letters": "TAKAHASHI",
-      "indices": [
-        40,
-        103,
-        191,
         158,
-        29,
+        166,
+        116,
         21,
-        44,
-        119,
-        39
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "homicide",
-      "answer_letters": "HOMICIDE",
-      "indices": [
-        15,
-        9,
-        110,
-        0,
-        85,
+        122,
         68,
-        89,
-        52
+        9,
+        17
       ]
     },
     {
       "clue": null,
-      "answer": "overcame",
-      "answer_letters": "OVERCAME",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        77,
-        180,
-        157,
-        87,
-        152,
-        165,
-        112,
-        88
+        177,
+        78,
+        92,
+        194,
+        109,
+        47
       ]
     },
     {
       "clue": null,
-      "answer": "undefeated",
-      "answer_letters": "UNDEFEATED",
+      "answer": "head-to-head",
+      "answer_letters": "HEADTOHEAD",
+      "indices": [
+        20,
+        52,
+        170,
+        162,
+        19,
+        175,
+        15,
+        32,
+        4,
+        154
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "objective",
+      "answer_letters": "OBJECTIVE",
+      "indices": [
+        143,
+        174,
+        94,
+        16,
+        139,
+        138,
+        51,
+        180,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "unmarked",
+      "answer_letters": "UNMARKED",
       "indices": [
         10,
         31,
-        54,
-        57,
-        130,
+        110,
+        35,
+        101,
+        191,
         58,
-        173,
-        14,
-        100,
-        171
+        54
       ]
     },
     {
       "clue": null,
-      "answer": "reviewer",
-      "answer_letters": "REVIEWER",
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
       "indices": [
-        34,
-        179,
-        116,
+        87,
+        29,
+        183,
+        1,
+        119,
+        112,
         117,
-        16,
-        42,
-        133,
-        101
+        85
       ]
     }
   ],

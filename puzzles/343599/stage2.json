@@ -6,32 +6,31 @@
   "clues": [
     {
       "clue": null,
-      "answer": "militia",
-      "answer_letters": "MILITIA",
+      "answer": "metric",
+      "answer_letters": "METRIC",
       "indices": [
         186,
+        164,
+        44,
+        179,
         184,
-        101,
-        33,
-        29,
-        148,
-        77
+        31
       ]
     },
     {
       "clue": null,
-      "answer": "attitudes",
-      "answer_letters": "ATTITUDES",
+      "answer": "attribute",
+      "answer_letters": "ATTRIBUTE",
       "indices": [
-        43,
-        165,
+        12,
         122,
-        0,
         115,
-        9,
-        68,
-        7,
-        20
+        153,
+        71,
+        92,
+        63,
+        47,
+        7
       ]
     },
     {
@@ -40,276 +39,277 @@
       "answer_letters": "XAVIER",
       "indices": [
         167,
-        87,
-        144,
-        71,
+        43,
+        135,
+        180,
         141,
-        153
+        13
       ]
     },
     {
       "clue": null,
-      "answer": "switch",
-      "answer_letters": "SWITCH",
+      "answer": "school",
+      "answer_letters": "SCHOOL",
       "indices": [
-        185,
-        117,
-        46,
-        106,
-        31,
-        76
+        52,
+        125,
+        159,
+        123,
+        16,
+        137
       ]
     },
     {
       "clue": null,
-      "answer": "committee",
-      "answer_letters": "COMMITTEE",
+      "answer": "curtis",
+      "answer_letters": "CURTIS",
       "indices": [
         183,
-        171,
-        86,
-        39,
+        96,
+        163,
+        181,
         80,
-        168,
-        158,
-        69,
-        93
+        82
       ]
     },
     {
       "clue": null,
-      "answer": "hurley",
-      "answer_letters": "HURLEY",
+      "answer": "hip-hop",
+      "answer_letters": "HIPHOP",
       "indices": [
         140,
-        96,
-        13,
-        100,
-        85,
+        61,
+        6,
+        175,
+        55,
+        162
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "electricity",
+      "answer_letters": "ELECTRICITY",
+      "indices": [
+        154,
+        101,
+        134,
+        178,
+        75,
+        127,
+        33,
+        36,
+        148,
+        29,
         156
       ]
     },
     {
       "clue": null,
-      "answer": "editors",
-      "answer_letters": "EDITORS",
+      "answer": "latitude",
+      "answer_letters": "LATITUDE",
       "indices": [
-        110,
-        84,
-        99,
-        34,
-        123,
-        179,
-        149
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "litter",
-      "answer_letters": "LITTER",
-      "indices": [
-        137,
-        61,
+        97,
+        118,
         1,
+        25,
         130,
-        143,
-        163
+        126,
+        68,
+        85
       ]
     },
     {
       "clue": null,
-      "answer": "edison",
-      "answer_letters": "EDISON",
+      "answer": "emilio",
+      "answer_letters": "EMILIO",
       "indices": [
-        134,
-        108,
+        102,
+        39,
         35,
-        4,
-        109,
-        23
+        10,
+        145,
+        50
       ]
     },
     {
       "clue": null,
-      "answer": "replied",
-      "answer_letters": "REPLIED",
+      "answer": "rematch",
+      "answer_letters": "REMATCH",
+      "indices": [
+        172,
+        143,
+        86,
+        77,
+        120,
+        8,
+        131
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "reddish",
+      "answer_letters": "REDDISH",
       "indices": [
         72,
-        160,
-        162,
-        10,
-        3,
-        73,
-        89
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "recipes",
-      "answer_letters": "RECIPES",
-      "indices": [
-        18,
-        19,
-        125,
-        25,
-        6,
-        27,
-        58
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emitted",
-      "answer_letters": "EMITTED",
-      "indices": [
-        166,
-        26,
+        176,
+        89,
+        49,
         37,
-        15,
-        120,
-        164,
-        49
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shifted",
-      "answer_letters": "SHIFTED",
-      "indices": [
         38,
-        175,
-        182,
-        170,
-        174,
-        154,
-        103
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "solutions",
-      "answer_letters": "SOLUTIONS",
+      "answer": "editor",
+      "answer_letters": "EDITOR",
+      "indices": [
+        132,
+        103,
+        182,
+        174,
+        114,
+        60
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "stints",
+      "answer_letters": "STINTS",
+      "indices": [
+        185,
+        106,
+        46,
+        54,
+        41,
+        4
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "states",
+      "answer_letters": "STATES",
       "indices": [
         64,
-        62,
-        155,
-        63,
-        47,
-        180,
-        55,
-        54,
+        168,
+        87,
+        158,
+        69,
         70
       ]
     },
     {
       "clue": null,
-      "answer": "effect",
-      "answer_letters": "EFFECT",
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
       "indices": [
-        132,
-        98,
-        95,
-        102,
-        8,
-        78
+        51,
+        155,
+        100,
+        3,
+        109,
+        78,
+        15
       ]
     },
     {
       "clue": null,
-      "answer": "nichols",
-      "answer_letters": "NICHOLS",
+      "answer": "nielsen",
+      "answer_letters": "NIELSEN",
       "indices": [
-        113,
-        136,
-        36,
-        159,
-        16,
+        119,
+        99,
+        152,
         65,
-        111
+        111,
+        128,
+        113
       ]
     },
     {
       "clue": null,
-      "answer": "throne",
-      "answer_letters": "THRONE",
+      "answer": "twenty-five",
+      "answer_letters": "TWENTYFIVE",
       "indices": [
-        81,
-        42,
-        127,
-        50,
+        34,
+        117,
+        110,
         28,
+        81,
+        66,
+        170,
+        136,
+        144,
         22
       ]
     },
     {
       "clue": null,
-      "answer": "intersects",
-      "answer_letters": "INTERSECTS",
+      "answer": "insists",
+      "answer_letters": "INSISTS",
       "indices": [
-        105,
-        119,
-        44,
-        152,
-        60,
+        11,
+        88,
         21,
-        128,
-        178,
-        75,
-        90
+        105,
+        90,
+        56,
+        149
       ]
     },
     {
       "clue": null,
-      "answer": "marvel",
-      "answer_letters": "MARVEL",
+      "answer": "moisture",
+      "answer_letters": "MOISTURE",
       "indices": [
         151,
-        12,
+        62,
+        0,
+        20,
+        165,
+        9,
         32,
-        135,
-        59,
-        97
+        59
       ]
     },
     {
       "clue": null,
-      "answer": "estate",
-      "answer_letters": "ESTATE",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        51,
-        82,
-        181,
-        118,
+        93,
+        98,
+        95,
+        171,
+        18,
         139,
-        176
+        58
       ]
     },
     {
       "clue": null,
-      "answer": "nobility",
-      "answer_letters": "NOBILITY",
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
       "indices": [
-        88,
-        114,
-        92,
-        145,
+        23,
+        19,
+        27,
+        108,
         146,
-        11,
-        41,
-        66
+        160
       ]
     },
     {
       "clue": null,
-      "answer": "thrust",
-      "answer_letters": "THRUST",
+      "answer": "themed",
+      "answer_letters": "THEMED",
       "indices": [
         24,
-        131,
-        172,
-        126,
-        52,
-        56
+        42,
+        73,
+        26,
+        166,
+        84
       ]
     }
   ],

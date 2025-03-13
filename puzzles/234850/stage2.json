@@ -6,189 +6,195 @@
   "clues": [
     {
       "clue": null,
-      "answer": "showdown",
-      "answer_letters": "SHOWDOWN",
+      "answer": "somehow",
+      "answer_letters": "SOMEHOW",
       "indices": [
-        166,
+        19,
+        60,
+        28,
+        17,
         110,
-        39,
-        174,
-        85,
-        127,
-        121,
-        116
+        69,
+        131
       ]
     },
     {
       "clue": null,
-      "answer": "thrown",
-      "answer_letters": "THROWN",
+      "answer": "tributes",
+      "answer_letters": "TRIBUTES",
       "indices": [
         79,
-        5,
         153,
-        177,
-        164,
-        156
+        168,
+        68,
+        141,
+        157,
+        54,
+        76
       ]
     },
     {
       "clue": null,
-      "answer": "eating",
-      "answer_letters": "EATING",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
         147,
-        95,
-        157,
-        168,
         31,
-        8
+        177,
+        61,
+        8,
+        5
       ]
     },
     {
       "clue": null,
-      "answer": "promise",
-      "answer_letters": "PROMISE",
+      "answer": "promotion",
+      "answer_letters": "PROMOTION",
       "indices": [
         109,
-        112,
-        115,
-        114,
-        38,
-        89,
-        32
+        107,
+        162,
+        144,
+        51,
+        37,
+        106,
+        152,
+        172
       ]
     },
     {
       "clue": null,
-      "answer": "herself",
-      "answer_letters": "HERSELF",
+      "answer": "headwaters",
+      "answer_letters": "HEADWATERS",
       "indices": [
         102,
-        91,
-        59,
-        120,
         13,
-        67,
-        126
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "elisabeth",
-      "answer_letters": "ELISABETH",
-      "indices": [
-        103,
-        41,
-        30,
-        16,
+        88,
+        55,
+        121,
         137,
-        65,
-        42,
         124,
-        58
+        103,
+        112,
+        16
       ]
     },
     {
       "clue": null,
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
+      "answer": "edible",
+      "answer_letters": "EDIBLE",
+      "indices": [
+        42,
+        48,
+        23,
+        65,
+        67,
+        11
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
         40,
-        162,
-        26,
+        132,
         90,
-        3,
-        0,
-        11,
-        133,
-        169
+        58,
+        155,
+        12
       ]
     },
     {
       "clue": null,
-      "answer": "commended",
-      "answer_letters": "COMMENDED",
+      "answer": "coordinate",
+      "answer_letters": "COORDINATE",
       "indices": [
         81,
-        51,
-        35,
-        28,
-        173,
-        12,
-        33,
-        94,
-        55
+        113,
+        39,
+        59,
+        85,
+        1,
+        135,
+        105,
+        169,
+        173
       ]
     },
     {
       "clue": null,
-      "answer": "refuse",
-      "answer_letters": "REFUSE",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
-        138,
-        20,
-        93,
-        66,
-        44,
-        17
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "assaulted",
-      "answer_letters": "ASSAULTED",
-      "indices": [
-        132,
-        170,
-        19,
-        155,
-        70,
-        84,
+        26,
+        127,
         2,
-        117,
-        48
+        3,
+        94,
+        138,
+        176,
+        46,
+        178
       ]
     },
     {
       "clue": null,
-      "answer": "isotope",
-      "answer_letters": "ISOTOPE",
+      "answer": "armies",
+      "answer_letters": "ARMIES",
+      "indices": [
+        29,
+        96,
+        114,
+        38,
+        20,
+        133
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "intense",
+      "answer_letters": "INTENSE",
       "indices": [
         7,
-        76,
-        69,
-        24,
-        82,
-        151,
-        6
+        18,
+        101,
+        179,
+        156,
+        166,
+        122
       ]
     },
     {
       "clue": null,
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
+      "answer": "gallipoli",
+      "answer_letters": "GALLIPOLI",
       "indices": [
         62,
-        113,
-        136,
-        87,
-        9,
-        27
+        95,
+        41,
+        84,
+        149,
+        151,
+        52,
+        50,
+        98
       ]
     },
     {
       "clue": null,
-      "answer": "sahitya",
-      "answer_letters": "SAHITYA",
+      "answer": "southwest",
+      "answer_letters": "SOUTHWEST",
       "indices": [
         118,
-        165,
-        63,
-        106,
+        36,
+        66,
         10,
-        74,
-        123
+        63,
+        0,
+        73,
+        21,
+        154
       ]
     },
     {
@@ -197,101 +203,95 @@
       "answer_letters": "YIELDED",
       "indices": [
         159,
-        98,
-        75,
-        50,
+        78,
+        117,
+        158,
         14,
-        179,
+        111,
         129
       ]
     },
     {
       "clue": null,
-      "answer": "motown",
-      "answer_letters": "MOTOWN",
+      "answer": "mounts",
+      "answer_letters": "MOUNTS",
       "indices": [
         150,
-        52,
+        82,
+        83,
+        116,
         57,
-        60,
-        131,
+        71
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "between",
+      "answer_letters": "BETWEEN",
+      "indices": [
+        140,
+        136,
+        24,
+        164,
+        27,
+        75,
         99
       ]
     },
     {
       "clue": null,
-      "answer": "belarusian",
-      "answer_letters": "BELARUSIAN",
+      "answer": "isthmus",
+      "answer_letters": "ISTHMUS",
       "indices": [
-        140,
-        122,
-        158,
-        105,
-        96,
-        141,
-        161,
-        78,
-        46,
-        18
+        30,
+        44,
+        87,
+        9,
+        35,
+        70,
+        170
       ]
     },
     {
       "clue": null,
-      "answer": "in-house",
-      "answer_letters": "INHOUSE",
-      "indices": [
-        149,
-        135,
-        176,
-        152,
-        83,
-        71,
-        111
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outbreak",
-      "answer_letters": "OUTBREAK",
+      "answer": "offers",
+      "answer_letters": "OFFERS",
       "indices": [
         145,
-        61,
-        101,
-        68,
+        126,
+        93,
+        6,
         146,
-        54,
-        29,
-        53
+        161
       ]
     },
     {
       "clue": null,
-      "answer": "transmit",
-      "answer_letters": "TRANSMIT",
+      "answer": "taekwondo",
+      "answer_letters": "TAEKWONDO",
       "indices": [
-        154,
-        107,
-        88,
-        47,
-        21,
-        144,
-        23,
-        142
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "emotions",
-      "answer_letters": "EMOTIONS",
-      "indices": [
-        73,
-        178,
-        36,
-        37,
-        1,
+        142,
+        165,
+        32,
+        53,
+        174,
         128,
-        172,
-        43
+        47,
+        33,
+        115
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
+      "indices": [
+        91,
+        43,
+        89,
+        123,
+        74,
+        120
       ]
     }
   ],

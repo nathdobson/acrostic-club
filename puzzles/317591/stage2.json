@@ -6,277 +6,277 @@
   "clues": [
     {
       "clue": null,
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
+      "answer": "alison",
+      "answer_letters": "ALISON",
       "indices": [
-        63,
-        140,
-        111,
-        4,
-        147,
-        168
+        47,
+        106,
+        89,
+        151,
+        30,
+        22
       ]
     },
     {
       "clue": null,
-      "answer": "notion",
-      "answer_letters": "NOTION",
-      "indices": [
-        164,
-        154,
-        25,
-        176,
-        90,
-        118
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "notices",
-      "answer_letters": "NOTICES",
+      "answer": "noteworthy",
+      "answer_letters": "NOTEWORTHY",
       "indices": [
         39,
-        165,
-        18,
-        97,
-        31,
+        102,
+        25,
         161,
-        50
+        75,
+        34,
+        44,
+        36,
+        70,
+        20
       ]
     },
     {
       "clue": null,
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "answer": "neighbourhoods",
+      "answer_letters": "NEIGHBOURHOODS",
+      "indices": [
+        91,
+        71,
+        97,
+        23,
+        131,
+        105,
+        165,
+        107,
+        173,
+        51,
+        154,
+        90,
+        137,
+        124
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "extension",
+      "answer_letters": "EXTENSION",
       "indices": [
         43,
         83,
-        166,
-        120,
-        155,
-        73
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "shafts",
-      "answer_letters": "SHAFTS",
-      "indices": [
-        134,
-        5,
-        0,
-        10,
         115,
-        113
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "torpedoes",
-      "answer_letters": "TORPEDOES",
-      "indices": [
-        152,
-        40,
-        19,
-        84,
-        112,
-        137,
-        169,
-        108,
-        54
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "unknown",
-      "answer_letters": "UNKNOWN",
-      "indices": [
-        107,
-        79,
-        28,
-        29,
-        102,
-        75,
-        1
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "attribution",
-      "answer_letters": "ATTRIBUTION",
-      "indices": [
-        135,
-        7,
-        142,
-        173,
-        56,
-        105,
-        35,
-        41,
-        9,
-        34,
-        94
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "rhythmic",
-      "answer_letters": "RHYTHMIC",
-      "indices": [
-        44,
-        51,
-        12,
-        172,
-        70,
-        46,
-        139,
-        100
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "timely",
-      "answer_letters": "TIMELY",
-      "indices": [
-        177,
-        66,
-        129,
-        150,
-        148,
-        174
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "choose",
-      "answer_letters": "CHOOSE",
-      "indices": [
-        146,
-        116,
-        13,
-        80,
-        59,
-        86
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "outraged",
-      "answer_letters": "OUTRAGED",
-      "indices": [
-        101,
-        14,
-        65,
-        85,
-        6,
-        23,
-        52,
-        57
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "lincolnshire",
-      "answer_letters": "LINCOLNSHIRE",
-      "indices": [
-        103,
-        89,
-        22,
-        62,
-        158,
-        106,
+        73,
         48,
-        162,
-        143,
-        159,
-        61,
-        117
+        59,
+        120,
+        80,
+        140
       ]
     },
     {
       "clue": null,
-      "answer": "dorothea",
-      "answer_letters": "DOROTHEA",
+      "answer": "shoots",
+      "answer_letters": "SHOOTS",
       "indices": [
-        2,
-        30,
-        15,
+        54,
+        116,
         26,
-        69,
-        96,
-        82,
-        38
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "avenue",
-      "answer_letters": "AVENUE",
-      "indices": [
-        76,
-        157,
-        16,
-        91,
-        170,
-        71
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "skirmishes",
-      "answer_letters": "SKIRMISHES",
-      "indices": [
-        125,
-        122,
-        123,
-        72,
-        149,
-        136,
-        88,
-        131,
-        110,
-        151
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        93,
-        98,
-        55,
-        128,
-        47,
-        42
-      ]
-    },
-    {
-      "clue": null,
-      "answer": "checks",
-      "answer_letters": "CHECKS",
-      "indices": [
-        160,
-        127,
-        144,
-        67,
-        32,
+        13,
+        65,
         77
       ]
     },
     {
       "clue": null,
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        41,
+        5,
+        56,
+        79,
+        28,
+        88
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "utilities",
+      "answer_letters": "UTILITIES",
+      "indices": [
+        35,
+        7,
+        123,
+        148,
+        136,
+        142,
+        66,
+        112,
+        125
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
+      "indices": [
+        6,
+        4,
+        122,
+        166,
+        38,
+        85,
+        57
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "rahman",
+      "answer_letters": "RAHMAN",
+      "indices": [
+        61,
+        63,
+        96,
+        46,
+        147,
+        118
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "theories",
+      "answer_letters": "THEORIES",
+      "indices": [
+        177,
+        143,
+        110,
+        169,
+        19,
+        21,
+        150,
+        64
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "cities",
+      "answer_letters": "CITIES",
+      "indices": [
+        146,
+        93,
+        69,
+        128,
+        86,
+        98
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "octave",
+      "answer_letters": "OCTAVE",
+      "indices": [
+        101,
+        67,
+        152,
+        55,
+        157,
+        144
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "lichen",
+      "answer_letters": "LICHEN",
+      "indices": [
+        103,
+        139,
+        62,
+        42,
+        52,
+        1
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "donkey",
+      "answer_letters": "DONKEY",
+      "indices": [
+        2,
+        158,
+        94,
+        32,
+        117,
+        168
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "amateurs",
+      "answer_letters": "AMATEURS",
+      "indices": [
+        76,
+        149,
+        60,
+        18,
+        16,
+        170,
+        72,
+        50
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "symphony",
+      "answer_letters": "SYMPHONY",
+      "indices": [
+        87,
+        12,
+        129,
+        84,
+        127,
+        40,
+        164,
+        111
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "issues",
+      "answer_letters": "ISSUES",
+      "indices": [
+        159,
+        162,
+        134,
+        14,
+        82,
+        113
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "certain",
+      "answer_letters": "CERTAIN",
+      "indices": [
+        160,
+        108,
+        15,
+        172,
+        0,
+        9,
+        29
+      ]
+    },
+    {
+      "clue": null,
+      "answer": "efficacy",
+      "answer_letters": "EFFICACY",
       "indices": [
         132,
-        124,
-        87,
-        60,
-        20,
-        21,
-        64,
-        36
+        10,
+        155,
+        176,
+        31,
+        135,
+        100,
+        174
       ]
     }
   ],
