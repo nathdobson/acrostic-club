@@ -1,0 +1,295 @@
+{
+  "quote": "Although I'm sure there are plenty of tall, gorgeous, life-of-the-party guys who are also true to their wives, I happen to believe that a disproportionate number of them are cheaters.",
+  "quote_letters": "ALTHOUGH IM SURE THERE ARE PLENTY OF TALL GORGEOUS LIFE-OF-THE-PARTY GUYS WHO ARE ALSO TRUE TO THEIR WIVES I HAPPEN TO BELIEVE THAT A DISPROPORTIONATE NUMBER OF THEM ARE CHEATERS",
+  "source": "Emily Giffin, Baby Proof",
+  "source_letters": "EMILYGIFFINBABYPROOF",
+  "clues": [
+    {
+      "clue": "Reviewed and judged critically",
+      "answer": "evaluated",
+      "answer_letters": "EVALUATED",
+      "indices": [
+        172,
+        103,
+        132,
+        51,
+        70,
+        110,
+        37,
+        113,
+        134
+      ]
+    },
+    {
+      "clue": "Criminal's reason for committing a crime.",
+      "answer": "motive",
+      "answer_letters": "MOTIVE",
+      "indices": [
+        164,
+        158,
+        143,
+        52,
+        124,
+        80
+      ]
+    },
+    {
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        135,
+        112,
+        109,
+        76,
+        114,
+        46
+      ]
+    },
+    {
+      "clue": "The realm of Dickens, Austen, and Hemingway.",
+      "answer": "literature",
+      "answer_letters": "LITERATURE",
+      "indices": [
+        1,
+        144,
+        174,
+        29,
+        167,
+        82,
+        95,
+        152,
+        44,
+        168
+      ]
+    },
+    {
+      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
+      "answer": "yemeni",
+      "answer_letters": "YEMENI",
+      "indices": [
+        67,
+        97,
+        10,
+        123,
+        146,
+        122
+      ]
+    },
+    {
+      "clue": "Business expansion or development.",
+      "answer": "growth",
+      "answer_letters": "GROWTH",
+      "indices": [
+        42,
+        79,
+        141,
+        74,
+        130,
+        60
+      ]
+    },
+    {
+      "clue": "They may differ in neutron count but remain chemically similar.",
+      "answer": "isotopes",
+      "answer_letters": "ISOTOPES",
+      "indices": [
+        98,
+        72,
+        43,
+        17,
+        85,
+        27,
+        19,
+        49
+      ]
+    },
+    {
+      "clue": "Omit from recollection.",
+      "answer": "forget",
+      "answer_letters": "FORGET",
+      "indices": [
+        57,
+        93,
+        138,
+        69,
+        61,
+        148
+      ]
+    },
+    {
+      "clue": "Opposite of casual.",
+      "answer": "formal",
+      "answer_letters": "FORMAL",
+      "indices": [
+        35,
+        145,
+        142,
+        153,
+        23,
+        28
+      ]
+    },
+    {
+      "clue": "Not following a set pattern.",
+      "answer": "irregular",
+      "answer_letters": "IRREGULAR",
+      "indices": [
+        9,
+        176,
+        20,
+        90,
+        6,
+        5,
+        39,
+        0,
+        156
+      ]
+    },
+    {
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        30,
+        125,
+        137,
+        18,
+        175,
+        101
+      ]
+    },
+    {
+      "clue": "Stunningly, exquisitely.",
+      "answer": "beautifully",
+      "answer_letters": "BEAUTIFULLY",
+      "indices": [
+        154,
+        54,
+        129,
+        89,
+        87,
+        102,
+        53,
+        48,
+        83,
+        121,
+        32
+      ]
+    },
+    {
+      "clue": "Not at sea.",
+      "answer": "ashore",
+      "answer_letters": "ASHORE",
+      "indices": [
+        78,
+        84,
+        3,
+        56,
+        24,
+        25
+      ]
+    },
+    {
+      "clue": "Under.",
+      "answer": "beneath",
+      "answer_letters": "BENEATH",
+      "indices": [
+        119,
+        15,
+        151,
+        163,
+        173,
+        127,
+        162
+      ]
+    },
+    {
+      "clue": "Types of leisure vessels.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        71,
+        64,
+        170,
+        75,
+        92,
+        12
+      ]
+    },
+    {
+      "clue": "Descartes, a notable example.",
+      "answer": "philosopher",
+      "answer_letters": "PHILOSOPHER",
+      "indices": [
+        63,
+        96,
+        107,
+        40,
+        139,
+        105,
+        4,
+        111,
+        171,
+        155,
+        65
+      ]
+    },
+    {
+      "clue": "Nautical contest.",
+      "answer": "regatta",
+      "answer_letters": "REGATTA",
+      "indices": [
+        99,
+        21,
+        45,
+        147,
+        116,
+        31,
+        166
+      ]
+    },
+    {
+      "clue": "Settlement at the edge of a frontier.",
+      "answer": "outpost",
+      "answer_letters": "OUTPOST",
+      "indices": [
+        34,
+        13,
+        161,
+        140,
+        47,
+        177,
+        66
+      ]
+    },
+    {
+      "clue": "Various people besides you and I.",
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
+        117,
+        59,
+        7,
+        120,
+        88,
+        136
+      ]
+    },
+    {
+      "clue": "Quill component.",
+      "answer": "feather",
+      "answer_letters": "FEATHER",
+      "indices": [
+        159,
+        149,
+        38,
+        2,
+        128,
+        104,
+        14
+      ]
+    }
+  ],
+  "chat": null
+}

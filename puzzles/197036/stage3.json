@@ -1,0 +1,291 @@
+{
+  "quote": "Luke picked up a piece of paper lying on the seat. \"\"Camden Hills Avenue in the Badlands Golf Club.\"\" Luke chuckled. \"\"Going to find a criminal in the Badlands. It kind of has an ironic ring to it.",
+  "quote_letters": "LUKE PICKED UP A PIECE OF PAPER LYING ON THE SEAT CAMDEN HILLS AVENUE IN THE BADLANDS GOLF CLUB LUKE CHUCKLED GOING TO FIND A CRIMINAL IN THE BADLANDS IT KIND OF HAS AN IRONIC RING TO IT",
+  "source": "Amanda  Carlson, Ante Up",
+  "source_letters": "AMANDACARLSONANTEUP",
+  "clues": [
+    {
+      "clue": "Maritime term for loss of navigability.",
+      "answer": "aground",
+      "answer_letters": "AGROUND",
+      "indices": [
+        163,
+        86,
+        176,
+        117,
+        93,
+        131,
+        108
+      ]
+    },
+    {
+      "clue": "Retailer or trader.",
+      "answer": "merchant",
+      "answer_letters": "MERCHANT",
+      "indices": [
+        129,
+        140,
+        170,
+        91,
+        102,
+        146,
+        156,
+        116
+      ]
+    },
+    {
+      "clue": "The process of summing numbers together.",
+      "answer": "adding",
+      "answer_letters": "ADDING",
+      "indices": [
+        15,
+        83,
+        148,
+        151,
+        178,
+        114
+      ]
+    },
+    {
+      "clue": "It's in Italy.",
+      "answer": "napoli",
+      "answer_letters": "NAPOLI",
+      "indices": [
+        66,
+        47,
+        26,
+        111,
+        88,
+        58
+      ]
+    },
+    {
+      "clue": "Domains of study or practice.",
+      "answer": "disciplines",
+      "answer_letters": "DISCIPLINES",
+      "indices": [
+        53,
+        120,
+        61,
+        174,
+        135,
+        17,
+        106,
+        18,
+        35,
+        21,
+        84
+      ]
+    },
+    {
+      "clue": "Chosen formally for duty",
+      "answer": "appointed",
+      "answer_letters": "APPOINTED",
+      "indices": [
+        51,
+        5,
+        13,
+        159,
+        169,
+        113,
+        138,
+        46,
+        79
+      ]
+    },
+    {
+      "clue": "Driver's gear for slowing down.",
+      "answer": "clutch",
+      "answer_letters": "CLUTCH",
+      "indices": [
+        126,
+        60,
+        12,
+        73,
+        20,
+        139
+      ]
+    },
+    {
+      "clue": "As depicted in popular culture, often involving aliens.",
+      "answer": "abduction",
+      "answer_letters": "ABDUCTION",
+      "indices": [
+        166,
+        142,
+        157,
+        67,
+        101,
+        181,
+        6,
+        23,
+        147
+      ]
+    },
+    {
+      "clue": "Precipitation that has seeped into a waterway.",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        30,
+        97,
+        39,
+        171,
+        160,
+        24
+      ]
+    },
+    {
+      "clue": "Animals raised for human needs.",
+      "answer": "livestock",
+      "answer_letters": "LIVESTOCK",
+      "indices": [
+        133,
+        112,
+        64,
+        107,
+        45,
+        48,
+        182,
+        7,
+        2
+      ]
+    },
+    {
+      "clue": "Character in 'A Chorus Line'.",
+      "answer": "sheila",
+      "answer_letters": "SHEILA",
+      "indices": [
+        164,
+        42,
+        43,
+        130,
+        0,
+        63
+      ]
+    },
+    {
+      "clue": "Got or acquired.",
+      "answer": "obtained",
+      "answer_letters": "OBTAINED",
+      "indices": [
+        87,
+        94,
+        152,
+        124,
+        128,
+        136,
+        29,
+        122
+      ]
+    },
+    {
+      "clue": "Tiny, almost zero.",
+      "answer": "negligible",
+      "answer_letters": "NEGLIGIBLE",
+      "indices": [
+        172,
+        68,
+        36,
+        145,
+        173,
+        179,
+        177,
+        77,
+        80,
+        3
+      ]
+    },
+    {
+      "clue": "A member of royalty, especially within the Habsburg lineage.",
+      "answer": "archduke",
+      "answer_letters": "ARCHDUKE",
+      "indices": [
+        27,
+        127,
+        104,
+        74,
+        144,
+        1,
+        154,
+        19
+      ]
+    },
+    {
+      "clue": "Name of a Puritan minister and author: N____ H___",
+      "answer": "nathaniel",
+      "answer_letters": "NATHANIEL",
+      "indices": [
+        55,
+        81,
+        41,
+        57,
+        132,
+        167,
+        70,
+        65,
+        96
+      ]
+    },
+    {
+      "clue": "Aeroplane's beginning flight phase.",
+      "answer": "takeoff",
+      "answer_letters": "TAKEOFF",
+      "indices": [
+        185,
+        143,
+        98,
+        54,
+        38,
+        119,
+        89
+      ]
+    },
+    {
+      "clue": "People whose national sport could be rugby or soccer.",
+      "answer": "englishman",
+      "answer_letters": "ENGLISHMAN",
+      "indices": [
+        9,
+        121,
+        110,
+        59,
+        34,
+        149,
+        162,
+        52,
+        78,
+        82
+      ]
+    },
+    {
+      "clue": "Improbable or not expected.",
+      "answer": "unlikely",
+      "answer_letters": "UNLIKELY",
+      "indices": [
+        103,
+        71,
+        92,
+        155,
+        105,
+        75,
+        32,
+        33
+      ]
+    },
+    {
+      "clue": "Chosen, often referring to lottery numbers.",
+      "answer": "picked",
+      "answer_letters": "PICKED",
+      "indices": [
+        28,
+        184,
+        50,
+        8,
+        99,
+        10
+      ]
+    }
+  ],
+  "chat": null
+}
