@@ -5,153 +5,253 @@
   "source_letters": "GAILCARRIGERSOULLESS",
   "clues": [
     {
-      "clue": "English daily with a liberal bent",
-      "answer": "guardian",
-      "answer_letters": "GUARDIAN",
+      "clue": "Spiral or elliptical structure with stars.",
+      "answer": "galaxy",
+      "answer_letters": "GALAXY",
       "indices": [
-        128,
-        77,
-        29,
-        86,
-        13,
-        87,
-        111,
-        40
-      ]
-    },
-    {
-      "clue": "Gave it a shot.",
-      "answer": "attempted",
-      "answer_letters": "ATTEMPTED",
-      "indices": [
-        132,
-        113,
-        32,
-        72,
-        144,
-        179,
-        97,
-        38,
-        15
-      ]
-    },
-    {
-      "clue": "Disabled, as in a virus for a vaccine.",
-      "answer": "inactivated",
-      "answer_letters": "INACTIVATED",
-      "indices": [
-        4,
-        78,
+        9,
         93,
-        169,
-        117,
-        50,
-        88,
+        112,
         74,
-        21,
-        156,
+        3,
+        25
+      ]
+    },
+    {
+      "clue": "Chosen formally for duty",
+      "answer": "appointed",
+      "answer_letters": "APPOINTED",
+      "indices": [
+        95,
+        179,
+        85,
+        145,
+        34,
+        78,
+        113,
+        16,
         61
       ]
     },
     {
-      "clue": "Release from any kind of restraint or confinement.",
-      "answer": "liberation",
-      "answer_letters": "LIBERATION",
+      "clue": "Commenced an action or event.",
+      "answer": "initiated",
+      "answer_letters": "INITIATED",
       "indices": [
-        1,
-        18,
-        135,
-        99,
-        75,
-        123,
-        58,
-        47,
-        114,
-        150
+        87,
+        162,
+        69,
+        170,
+        82,
+        164,
+        117,
+        2,
+        23
       ]
     },
     {
-      "clue": "Navigation task on a map.",
-      "answer": "charting",
-      "answer_letters": "CHARTING",
+      "clue": "A district in South London named after a medieval bridge.",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
       "indices": [
-        137,
-        33,
-        95,
-        167,
+        1,
+        149,
+        153,
+        135,
+        91,
+        56,
+        118
+      ]
+    },
+    {
+      "clue": "Covered with something, such as paint or fur.",
+      "answer": "coated",
+      "answer_letters": "COATED",
+      "indices": [
+        181,
+        138,
+        68,
         101,
-        8,
-        60,
+        129,
+        15
+      ]
+    },
+    {
+      "clue": "Giving a prize or honor",
+      "answer": "awarding",
+      "answer_letters": "AWARDING",
+      "indices": [
+        89,
+        131,
+        168,
+        176,
+        79,
+        140,
+        100,
         142
       ]
     },
     {
-      "clue": "A chronic respiratory condition.",
-      "answer": "asthma",
-      "answer_letters": "ASTHMA",
-      "indices": [
-        168,
-        102,
-        30,
-        108,
-        139,
-        5
-      ]
-    },
-    {
-      "clue": "Withdraw troops",
-      "answer": "remove",
-      "answer_letters": "REMOVE",
+      "clue": "A vestige of the past.",
+      "answer": "remnant",
+      "answer_letters": "REMNANT",
       "indices": [
         67,
+        147,
+        139,
+        150,
+        111,
+        141,
+        27
+      ]
+    },
+    {
+      "clue": "House improvement project.",
+      "answer": "renovation",
+      "answer_letters": "RENOVATION",
+      "indices": [
+        86,
         180,
-        98,
-        145,
+        40,
+        177,
         172,
-        2
+        54,
+        41,
+        50,
+        114,
+        51
       ]
     },
     {
-      "clue": "To do again.",
-      "answer": "repeat",
-      "answer_letters": "REPEAT",
+      "clue": "One who translates languages.",
+      "answer": "interpreter",
+      "answer_letters": "INTERPRETER",
       "indices": [
-        155,
-        129,
-        85,
-        16,
-        164,
-        170
-      ]
-    },
-    {
-      "clue": "Stamps a mark.",
-      "answer": "imprint",
-      "answer_letters": "IMPRINT",
-      "indices": [
-        140,
-        37,
-        94,
-        120,
         126,
-        100,
-        166
+        60,
+        166,
+        44,
+        120,
+        94,
+        167,
+        72,
+        66,
+        38,
+        125
       ]
     },
     {
-      "clue": "Crime film by Coppola.",
-      "answer": "godfather",
-      "answer_letters": "GODFATHER",
+      "clue": "Slang for an urban slum area.",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
         19,
-        64,
-        79,
-        53,
-        89,
-        90,
         81,
         119,
-        176
+        90,
+        30,
+        64
+      ]
+    },
+    {
+      "clue": "Result of a cause.",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
+      "indices": [
+        109,
+        53,
+        159,
+        22,
+        55,
+        58
+      ]
+    },
+    {
+      "clue": "Echoed again, as in advice or commands.",
+      "answer": "reiterated",
+      "answer_letters": "REITERATED",
+      "indices": [
+        11,
+        156,
+        4,
+        32,
+        136,
+        155,
+        132,
+        97,
+        59,
+        13
+      ]
+    },
+    {
+      "clue": "Connecticut city.",
+      "answer": "stamford",
+      "answer_letters": "STAMFORD",
+      "indices": [
+        133,
+        63,
+        0,
+        98,
+        7,
+        154,
+        124,
+        48
+      ]
+    },
+    {
+      "clue": "Belief in favorable outcomes.",
+      "answer": "optimism",
+      "answer_letters": "OPTIMISM",
+      "indices": [
+        158,
+        70,
+        165,
+        18,
+        144,
+        47,
+        178,
+        122
+      ]
+    },
+    {
+      "clue": "Brought to a higher level or version",
+      "answer": "upgraded",
+      "answer_letters": "UPGRADED",
+      "indices": [
+        10,
+        175,
+        128,
+        146,
+        39,
+        151,
+        99,
+        46
+      ]
+    },
+    {
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        24,
+        116,
+        43,
+        104,
+        115,
+        20
+      ]
+    },
+    {
+      "clue": "Spend money freely.",
+      "answer": "lavish",
+      "answer_letters": "LAVISH",
+      "indices": [
+        17,
+        5,
+        88,
+        8,
+        102,
+        108
       ]
     },
     {
@@ -159,143 +259,43 @@
       "answer": "estonia",
       "answer_letters": "ESTONIA",
       "indices": [
-        116,
-        178,
-        182,
+        12,
+        35,
+        21,
         76,
-        141,
-        104,
+        105,
+        171,
+        29
+      ]
+    },
+    {
+      "clue": "Progressive levels of complexity or development.",
+      "answer": "strata",
+      "answer_letters": "STRATA",
+      "indices": [
+        83,
+        182,
+        75,
+        123,
+        107,
         127
       ]
     },
     {
-      "clue": "Dominant arm for most people.",
-      "answer": "right-arm",
-      "answer_letters": "RIGHTARM",
+      "clue": "German racing legend and two-time World Champion (1984-85).",
+      "answer": "schumacher",
+      "answer_letters": "SCHUMACHER",
       "indices": [
-        125,
-        34,
-        9,
-        28,
-        41,
-        54,
-        11,
-        122
-      ]
-    },
-    {
-      "clue": "Title of someone with a job in a pasture.",
-      "answer": "shepherd",
-      "answer_letters": "SHEPHERD",
-      "indices": [
-        133,
-        20,
-        109,
-        175,
-        118,
-        22,
-        124,
-        48
-      ]
-    },
-    {
-      "clue": "Site for business meetings.",
-      "answer": "office",
-      "answer_letters": "OFFICE",
-      "indices": [
-        177,
-        159,
-        7,
-        82,
-        55,
-        12
-      ]
-    },
-    {
-      "clue": "Now in progress.",
-      "answer": "underway",
-      "answer_letters": "UNDERWAY",
-      "indices": [
-        10,
-        105,
-        151,
-        147,
-        96,
-        131,
-        39,
-        25
-      ]
-    },
-    {
-      "clue": "Exactly as stated, not metaphorical.",
-      "answer": "literal",
-      "answer_letters": "LITERAL",
-      "indices": [
-        112,
-        171,
-        56,
-        173,
-        146,
-        149,
-        24
-      ]
-    },
-    {
-      "clue": "Find a place or position",
-      "answer": "locate",
-      "answer_letters": "LOCATE",
-      "indices": [
-        17,
-        138,
-        181,
-        68,
-        66,
-        44
-      ]
-    },
-    {
-      "clue": "Relieved of duty.",
-      "answer": "exempt",
-      "answer_letters": "EXEMPT",
-      "indices": [
-        136,
-        3,
-        59,
-        153,
-        70,
-        27
-      ]
-    },
-    {
-      "clue": "Term for becoming an equal member of the U.S. federation.",
-      "answer": "statehood",
-      "answer_letters": "STATEHOOD",
-      "indices": [
-        83,
-        107,
-        0,
-        63,
-        91,
-        43,
-        158,
-        154,
-        46
-      ]
-    },
-    {
-      "clue": "How teams compare as per current scores.",
-      "answer": "standings",
-      "answer_letters": "STANDINGS",
-      "indices": [
-        35,
-        165,
+        71,
+        137,
+        33,
+        77,
+        37,
         161,
-        51,
-        23,
-        69,
-        162,
-        115,
-        71
+        169,
+        28,
+        173,
+        96
       ]
     }
   ],

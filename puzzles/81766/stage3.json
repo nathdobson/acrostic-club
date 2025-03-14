@@ -5,140 +5,141 @@
   "source_letters": "DEREKLANDYDEATHBRINGER",
   "clues": [
     {
-      "clue": "The direction of gravity.",
-      "answer": "downward",
-      "answer_letters": "DOWNWARD",
+      "clue": "Michele's husband on 'The Office'.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         26,
-        35,
         74,
-        31,
-        44,
-        159,
-        21,
-        10
+        61,
+        142,
+        45,
+        126
       ]
     },
     {
-      "clue": "____ de Beauharnais, an emperor's consort.",
-      "answer": "eugene",
-      "answer_letters": "EUGENE",
+      "clue": "Sounds that bounce back.",
+      "answer": "echoes",
+      "answer_letters": "ECHOES",
       "indices": [
+        143,
+        117,
+        16,
+        109,
         111,
-        179,
-        88,
+        161
+      ]
+    },
+    {
+      "clue": "Nickname of a New York Yankee slugger who had 563 career home runs.",
+      "answer": "reggie",
+      "answer_letters": "REGGIE",
+      "indices": [
+        101,
         1,
-        87,
+        180,
+        88,
+        140,
         72
       ]
     },
     {
-      "clue": "Alice's companion in Wonderland.",
-      "answer": "rabbit",
-      "answer_letters": "RABBIT",
-      "indices": [
-        101,
-        173,
-        148,
-        149,
-        140,
-        77
-      ]
-    },
-    {
-      "clue": "A prophet in the Old Testament.",
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
+      "clue": "Transport system in a building.",
+      "answer": "elevators",
+      "answer_letters": "ELEVATORS",
       "indices": [
         9,
         181,
-        61,
-        146,
-        165,
+        17,
+        71,
+        20,
+        177,
+        5,
+        84,
+        137
+      ]
+    },
+    {
+      "clue": "Arabic term for 'successor'.",
+      "answer": "khalifa",
+      "answer_letters": "KHALIFA",
+      "indices": [
+        37,
+        154,
+        76,
+        34,
+        176,
+        58,
+        49
+      ]
+    },
+    {
+      "clue": "Age from infancy to demise.",
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        106,
+        136,
+        90,
+        133,
+        13,
+        41,
+        85,
+        38
+      ]
+    },
+    {
+      "clue": "Cease support for something",
+      "answer": "abandon",
+      "answer_letters": "ABANDON",
+      "indices": [
+        79,
+        148,
+        83,
+        31,
+        10,
+        168,
+        169
+      ]
+    },
+    {
+      "clue": "Streaming service giant.",
+      "answer": "netflix",
+      "answer_letters": "NETFLIX",
+      "indices": [
+        87,
+        102,
+        15,
+        139,
+        108,
+        93,
+        116
+      ]
+    },
+    {
+      "clue": "Minnesotan port city near Lakes Superior and Superior.",
+      "answer": "duluth",
+      "answer_letters": "DULUTH",
+      "indices": [
+        151,
+        6,
+        94,
+        179,
+        163,
         0
       ]
     },
     {
-      "clue": "It's known for its powerful hind legs and large tail.",
-      "answer": "kangaroo",
-      "answer_letters": "KANGAROO",
+      "clue": "Opposite of black and blue.",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
       "indices": [
-        37,
-        91,
-        42,
-        142,
-        128,
-        84,
-        27,
-        5
-      ]
-    },
-    {
-      "clue": "Feather-touch approach.",
-      "answer": "lightly",
-      "answer_letters": "LIGHTLY",
-      "indices": [
-        94,
-        136,
-        157,
-        69,
-        166,
-        55,
-        113
-      ]
-    },
-    {
-      "clue": "Spanish first name with a tilde.",
-      "answer": "álvaro",
-      "answer_letters": "ALVARO",
-      "indices": [
-        59,
-        62,
-        71,
-        70,
-        124,
-        66
-      ]
-    },
-    {
-      "clue": "Daughter's son.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        132,
-        102,
-        119,
-        8,
-        143,
-        28
-      ]
-    },
-    {
-      "clue": "Casualty figures, often grim.",
-      "answer": "deaths",
-      "answer_letters": "DEATHS",
-      "indices": [
-        151,
+        113,
         118,
-        49,
-        13,
-        154,
-        160
-      ]
-    },
-    {
-      "clue": "Characteristic of being not yet old.",
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
-      "indices": [
-        182,
-        168,
-        67,
-        163,
-        98,
-        139,
-        6,
-        158
+        55,
+        158,
+        27,
+        23
       ]
     },
     {
@@ -157,153 +158,152 @@
       ]
     },
     {
-      "clue": "Become more complex",
-      "answer": "evolve",
-      "answer_letters": "EVOLVE",
+      "clue": "Withdraw swiftly in an emergency.",
+      "answer": "evacuate",
+      "answer_letters": "EVACUATE",
       "indices": [
-        99,
+        150,
         110,
-        131,
-        106,
-        53,
-        133
-      ]
-    },
-    {
-      "clue": "The weather __________ our mood.",
-      "answer": "affects",
-      "answer_letters": "AFFECTS",
-      "indices": [
-        76,
-        90,
-        122,
-        38,
+        91,
         81,
+        67,
+        128,
         97,
-        171
+        99
       ]
     },
     {
-      "clue": "Premier League side, founded in 1882.",
-      "answer": "tottenham",
-      "answer_letters": "TOTTENHAM",
+      "clue": "Open-source web server software",
+      "answer": "apache",
+      "answer_letters": "APACHE",
       "indices": [
-        126,
-        52,
-        177,
+        159,
+        119,
+        165,
+        19,
+        98,
+        54
+      ]
+    },
+    {
+      "clue": "Proposition subject to testing and validation.",
+      "answer": "theory",
+      "answer_letters": "THEORY",
+      "indices": [
         47,
-        17,
-        169,
-        45,
-        20,
-        60
-      ]
-    },
-    {
-      "clue": "Subject of doctors' primary concern.",
-      "answer": "health",
-      "answer_letters": "HEALTH",
-      "indices": [
         164,
         115,
-        79,
+        35,
+        21,
+        182
+      ]
+    },
+    {
+      "clue": "Emptiness inside.",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        75,
+        66,
+        62,
         112,
-        120,
-        75
+        52,
+        44
       ]
     },
     {
-      "clue": "In general terms.",
-      "answer": "basically",
-      "answer_letters": "BASICALLY",
+      "clue": "A common volcanic rock.",
+      "answer": "basalt",
+      "answer_letters": "BASALT",
       "indices": [
-        175,
-        83,
-        161,
-        86,
-        3,
+        149,
         104,
+        160,
+        30,
         51,
-        108,
-        100
+        120
       ]
     },
     {
-      "clue": "Time signature component.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "clue": "Accompanied by a beat",
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
       "indices": [
-        144,
+        124,
         135,
-        95,
+        100,
         129,
         82,
-        85
+        92,
+        86,
+        3
       ]
     },
     {
-      "clue": "Having cultural significance and staying power.",
-      "answer": "iconic",
-      "answer_letters": "ICONIC",
+      "clue": "Babyhood stage.",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
       "indices": [
         24,
-        7,
-        123,
         141,
-        93,
-        117
+        122,
+        173,
+        132,
+        7,
+        95
       ]
     },
     {
-      "clue": "Small, specialized pockets within a broader field.",
-      "answer": "niches",
-      "answer_letters": "NICHES",
+      "clue": "Tribe of the Southwest U.S.",
+      "answer": "navajo",
+      "answer_letters": "NAVAJO",
       "indices": [
         25,
-        41,
-        19,
-        127,
-        54,
-        137
+        59,
+        53,
+        70,
+        146,
+        131
       ]
     },
     {
-      "clue": "Brick city for Batman.",
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
+      "clue": "Business expansion or development.",
+      "answer": "growth",
+      "answer_letters": "GROWTH",
       "indices": [
-        180,
-        109,
-        15,
-        16,
-        30,
-        92
+        157,
+        144,
+        123,
+        28,
+        77,
+        8
       ]
     },
     {
-      "clue": "Alimony's former recipient.",
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "clue": "Facilitate the operation of something",
+      "answer": "enable",
+      "answer_letters": "ENABLE",
       "indices": [
         155,
-        116,
-        23,
-        176,
-        58,
+        42,
+        12,
+        175,
+        105,
         170
       ]
     },
     {
-      "clue": "Synonym for 'truly'.",
-      "answer": "really",
-      "answer_letters": "REALLY",
+      "clue": "Repetitive patterns in music or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
         4,
-        150,
-        12,
-        105,
-        34,
-        56
+        69,
+        56,
+        166,
+        127,
+        60,
+        171
       ]
     }
   ],

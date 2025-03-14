@@ -89,6 +89,13 @@ static ORDINALS: &[&str] = &[
     "decillionth",
 ];
 
+static LUDICROUS: &[&str] = &["london-based"];
+
 pub static BANNED_WORDS: LazyLock<HashSet<String>> = LazyLock::new(|| {
-    CARDINALS.iter().chain(ORDINALS.iter()).map(|x| x.to_string()).collect()
+    CARDINALS
+        .iter()
+        .chain(ORDINALS.iter())
+        .chain(LUDICROUS.iter())
+        .map(|x| x.to_string())
+        .collect()
 });

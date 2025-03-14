@@ -5,282 +5,48 @@
   "source_letters": "ILONAANDREWSBAYOUMOON",
   "clues": [
     {
-      "clue": "Imperial units of length.",
-      "answer": "inches",
-      "answer_letters": "INCHES",
+      "clue": "Doctrine influencing thought and action.",
+      "answer": "ideology",
+      "answer_letters": "IDEOLOGY",
       "indices": [
         177,
-        87,
-        105,
-        140,
+        76,
         101,
-        116
-      ]
-    },
-    {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
+        107,
         108,
-        110,
-        20,
-        112,
-        46,
-        51
-      ]
-    },
-    {
-      "clue": "Beyond internal aspects",
-      "answer": "outward",
-      "answer_letters": "OUTWARD",
-      "indices": [
-        55,
-        40,
-        139,
-        28,
-        34,
-        102,
-        122
-      ]
-    },
-    {
-      "clue": "Daughter's son.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        164,
-        95,
-        119,
-        176,
-        121,
-        137
-      ]
-    },
-    {
-      "clue": "Gave permission to do something.",
-      "answer": "allowed",
-      "answer_letters": "ALLOWED",
-      "indices": [
-        13,
-        80,
-        117,
-        17,
-        100,
-        9,
-        174
-      ]
-    },
-    {
-      "clue": "Substance that can lead to addiction.",
-      "answer": "alcohol",
-      "answer_letters": "ALCOHOL",
-      "indices": [
-        134,
-        66,
-        63,
         151,
-        146,
-        129,
-        149
-      ]
-    },
-    {
-      "clue": "Not quite; almost.",
-      "answer": "nearly",
-      "answer_letters": "NEARLY",
-      "indices": [
-        14,
-        114,
-        91,
-        22,
-        81,
+        46,
         38
       ]
     },
     {
-      "clue": "Age of information.",
-      "answer": "digital",
-      "answer_letters": "DIGITAL",
+      "clue": "Guiding beacon for lost ships.",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
-        68,
-        79,
-        42,
-        25,
-        142,
-        56,
-        65
-      ]
-    },
-    {
-      "clue": "East Yorkshire town, known for steel and glass works.",
-      "answer": "rotherham",
-      "answer_letters": "ROTHERHAM",
-      "indices": [
-        35,
-        74,
-        47,
-        29,
-        52,
-        10,
-        12,
-        64,
-        70
-      ]
-    },
-    {
-      "clue": "Synonym for moniker.",
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        103,
-        4,
-        138,
-        92,
-        143,
-        155,
-        6
-      ]
-    },
-    {
-      "clue": "Clifford, a physicist involved with quantum mechanics.",
-      "answer": "wheeler",
-      "answer_letters": "WHEELER",
-      "indices": [
-        172,
-        154,
-        71,
-        131,
-        169,
-        30,
-        111
-      ]
-    },
-    {
-      "clue": "Delicacies like oysters, scallops, and lobster.",
-      "answer": "seafood",
-      "answer_letters": "SEAFOOD",
-      "indices": [
-        113,
-        67,
-        96,
-        167,
-        168,
-        48,
-        165
-      ]
-    },
-    {
-      "clue": "Biblical location where Joshua encountered God.",
-      "answer": "bethel",
-      "answer_letters": "BETHEL",
-      "indices": [
-        78,
-        21,
-        50,
-        1,
-        2,
-        73
-      ]
-    },
-    {
-      "clue": "U.S. college town in Massachusetts",
-      "answer": "amherst",
-      "answer_letters": "AMHERST",
-      "indices": [
-        118,
-        178,
-        158,
-        133,
-        126,
-        98,
-        57
-      ]
-    },
-    {
-      "clue": "Culture and language spoken by many in southwestern Nigeria.",
-      "answer": "yoruba",
-      "answer_letters": "YORUBA",
-      "indices": [
-        59,
-        39,
-        156,
-        61,
-        54,
-        85
-      ]
-    },
-    {
-      "clue": "Fractional equivalent of 33.3%.",
-      "answer": "one-third",
-      "answer_letters": "ONETHIRD",
-      "indices": [
-        60,
-        97,
-        32,
-        89,
-        132,
-        44,
-        31,
-        161
-      ]
-    },
-    {
-      "clue": "Sustain or maintain.",
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
-      "indices": [
-        5,
-        26,
-        124,
-        106,
-        170,
-        15
-      ]
-    },
-    {
-      "clue": "Can perform tasks repetitively without tiring.",
-      "answer": "machine",
-      "answer_letters": "MACHINE",
-      "indices": [
-        94,
-        83,
-        109,
-        8,
-        86,
-        18,
-        144
-      ]
-    },
-    {
-      "clue": "Out at sea.",
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
-      "indices": [
-        43,
-        128,
-        152,
-        0,
-        90,
-        171,
-        130,
-        173
-      ]
-    },
-    {
-      "clue": "Children's home.",
-      "answer": "orphanage",
-      "answer_letters": "ORPHANAGE",
-      "indices": [
-        107,
-        75,
-        120,
-        24,
-        163,
-        45,
-        159,
+        66,
+        112,
         84,
-        125
+        140,
+        57,
+        20,
+        129,
+        61,
+        116,
+        110
+      ]
+    },
+    {
+      "clue": "Various people besides you and I.",
+      "answer": "others",
+      "answer_letters": "OTHERS",
+      "indices": [
+        55,
+        139,
+        176,
+        144,
+        102,
+        0
       ]
     },
     {
@@ -288,12 +54,246 @@
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
-        160,
-        147,
+        164,
+        32,
+        95,
+        161,
+        121,
+        122
+      ]
+    },
+    {
+      "clue": "Known for its intricate patterns and warmth.",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        56,
+        152,
+        42,
+        1,
+        64,
+        18
+      ]
+    },
+    {
+      "clue": "Crafted a book or article.",
+      "answer": "authored",
+      "answer_letters": "AUTHORED",
+      "indices": [
+        118,
+        5,
+        47,
+        158,
+        39,
+        126,
         36,
-        76,
+        68
+      ]
+    },
+    {
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        14,
         148,
+        4,
+        146,
+        133,
+        28
+      ]
+    },
+    {
+      "clue": "Not agree, to be opposite",
+      "answer": "differ",
+      "answer_letters": "DIFFER",
+      "indices": [
+        165,
+        79,
+        167,
+        128,
+        114,
+        22
+      ]
+    },
+    {
+      "clue": "A type of skate with wheels, like those used on sidewalks or in rinks.",
+      "answer": "roller",
+      "answer_letters": "ROLLER",
+      "indices": [
+        35,
+        43,
+        65,
+        169,
+        52,
+        10
+      ]
+    },
+    {
+      "clue": "Landlocked country in East Africa.",
+      "answer": "ethiopia",
+      "answer_letters": "ETHIOPIA",
+      "indices": [
+        103,
+        92,
+        29,
+        25,
+        171,
+        26,
+        138,
+        134
+      ]
+    },
+    {
+      "clue": "Clifford, a physicist involved with quantum mechanics.",
+      "answer": "wheeler",
+      "answer_letters": "WHEELER",
+      "indices": [
+        137,
+        12,
+        155,
+        71,
+        73,
+        131,
+        111
+      ]
+    },
+    {
+      "clue": "Ventured across oceans.",
+      "answer": "sailed",
+      "answer_letters": "SAILED",
+      "indices": [
+        98,
+        91,
+        86,
+        80,
+        30,
+        174
+      ]
+    },
+    {
+      "clue": "City in West Bank",
+      "answer": "bethlehem",
+      "answer_letters": "BETHLEHEM",
+      "indices": [
+        78,
+        67,
+        6,
+        143,
+        117,
+        21,
+        154,
+        2,
+        178
+      ]
+    },
+    {
+      "clue": "Found in hand sanitizers too!",
+      "answer": "alcohol",
+      "answer_letters": "ALCOHOL",
+      "indices": [
+        159,
+        149,
+        105,
+        48,
+        24,
+        17,
+        81
+      ]
+    },
+    {
+      "clue": "Motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
+      "indices": [
+        59,
+        96,
+        70,
+        13,
+        90,
+        85
+      ]
+    },
+    {
+      "clue": "No parents.",
+      "answer": "orphan",
+      "answer_letters": "ORPHAN",
+      "indices": [
+        60,
+        31,
+        119,
+        132,
+        34,
+        97
+      ]
+    },
+    {
+      "clue": "Home to the Giant's Causeway.",
+      "answer": "ulster",
+      "answer_letters": "ULSTER",
+      "indices": [
+        40,
+        170,
+        113,
+        50,
+        9,
+        130
+      ]
+    },
+    {
+      "clue": "Tragic Shakespearean hero.",
+      "answer": "macbeth",
+      "answer_letters": "MACBETH",
+      "indices": [
+        94,
+        83,
+        109,
+        54,
+        173,
+        89,
+        8
+      ]
+    },
+    {
+      "clue": "An exotic bloom, often found in tropical regions.",
+      "answer": "orchid",
+      "answer_letters": "ORCHID",
+      "indices": [
+        106,
+        156,
+        63,
+        124,
+        44,
+        15
+      ]
+    },
+    {
+      "clue": "No family ties.",
+      "answer": "orphaned",
+      "answer_letters": "ORPHANED",
+      "indices": [
+        74,
+        75,
+        120,
+        51,
+        163,
+        87,
+        125,
         135
+      ]
+    },
+    {
+      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        45,
+        147,
+        172,
+        142,
+        168,
+        100,
+        160
       ]
     }
   ],

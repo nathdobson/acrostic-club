@@ -5,264 +5,58 @@
   "source_letters": "SCOTTWESTERFELDPRETTIES",
   "clues": [
     {
-      "clue": "To an extent but not entirely.",
-      "answer": "somewhat",
-      "answer_letters": "SOMEWHAT",
+      "clue": "Term related to sea water.",
+      "answer": "saline",
+      "answer_letters": "SALINE",
       "indices": [
         22,
-        9,
-        38,
-        33,
-        93,
-        60,
         119,
-        48
+        130,
+        64,
+        100,
+        33
       ]
     },
     {
-      "clue": "For the most part.",
-      "answer": "chiefly",
-      "answer_letters": "CHIEFLY",
+      "clue": "A common Bengali family name, associated with intellectual and artistic contributions.",
+      "answer": "chowdhury",
+      "answer_letters": "CHOWDHURY",
       "indices": [
-        120,
+        162,
         72,
-        56,
-        52,
-        139,
-        156,
+        94,
+        30,
+        2,
+        51,
+        47,
+        10,
         189
       ]
     },
     {
-      "clue": "Various people besides you and I.",
-      "answer": "others",
-      "answer_letters": "OTHERS",
+      "clue": "Global water bodies in five parts.",
+      "answer": "oceans",
+      "answer_letters": "OCEANS",
       "indices": [
-        94,
-        14,
-        51,
-        89,
-        10,
+        46,
+        120,
+        52,
+        0,
+        165,
         174
       ]
     },
     {
-      "clue": "Past participle of hurl",
-      "answer": "thrown",
-      "answer_letters": "THROWN",
-      "indices": [
-        170,
-        163,
-        41,
-        143,
-        8,
-        95
-      ]
-    },
-    {
-      "clue": "Hurls with intent to score or make contact.",
-      "answer": "throws",
-      "answer_letters": "THROWS",
+      "clue": "An award for a victory.",
+      "answer": "trophy",
+      "answer_letters": "TROPHY",
       "indices": [
         149,
-        171,
-        144,
-        42,
-        123,
-        111
-      ]
-    },
-    {
-      "clue": "Fused securely using thermal techniques.",
-      "answer": "welded",
-      "answer_letters": "WELDED",
-      "indices": [
-        20,
-        28,
-        65,
-        168,
-        26,
-        96
-      ]
-    },
-    {
-      "clue": "Acclaimed author Ralph ________, known for exploring African American experiences.",
-      "answer": "ellison",
-      "answer_letters": "ELLISON",
-      "indices": [
-        134,
-        131,
-        130,
-        64,
-        125,
+        41,
         181,
-        100
-      ]
-    },
-    {
-      "clue": "Not empty of people working there.",
-      "answer": "staffed",
-      "answer_letters": "STAFFED",
-      "indices": [
-        82,
-        12,
-        124,
-        90,
-        153,
-        185,
-        66
-      ]
-    },
-    {
-      "clue": "The sum of eleven and eleven.",
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
-      "indices": [
-        4,
-        63,
-        167,
-        165,
-        91,
-        178,
-        128,
-        103,
-        46
-      ]
-    },
-    {
-      "clue": "State of mind, such as joy or sorrow.",
-      "answer": "emotion",
-      "answer_letters": "EMOTION",
-      "indices": [
-        73,
-        182,
-        176,
-        106,
-        129,
-        36,
-        57
-      ]
-    },
-    {
-      "clue": "Being in power or authority currently.",
-      "answer": "reigning",
-      "answer_letters": "REIGNING",
-      "indices": [
-        27,
-        172,
-        39,
-        101,
-        1,
-        138,
-        17,
-        18
-      ]
-    },
-    {
-      "clue": "Mathematical term for quantity.",
-      "answer": "figure",
-      "answer_letters": "FIGURE",
-      "indices": [
-        147,
-        99,
-        166,
-        136,
-        32,
-        97
-      ]
-    },
-    {
-      "clue": "Joins a place or occasion.",
-      "answer": "enters",
-      "answer_letters": "ENTERS",
-      "indices": [
-        151,
-        116,
-        24,
-        108,
-        76,
-        86
-      ]
-    },
-    {
-      "clue": "Within legal boundaries.",
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
-      "indices": [
-        141,
-        159,
-        84,
-        118,
-        47,
-        88
-      ]
-    },
-    {
-      "clue": "Gateway to South Africa's Natal.",
-      "answer": "durban",
-      "answer_letters": "DURBAN",
-      "indices": [
-        160,
-        140,
-        177,
-        133,
-        164,
-        78
-      ]
-    },
-    {
-      "clue": "Component of ATP and DNA.",
-      "answer": "phosphate",
-      "answer_letters": "PHOSPHATE",
-      "indices": [
-        183,
-        107,
-        69,
-        68,
         75,
-        5,
-        21,
-        59,
-        6
-      ]
-    },
-    {
-      "clue": "To summon back (soldiers) from leave or furlough.",
-      "answer": "recall",
-      "answer_letters": "RECALL",
-      "indices": [
-        43,
-        113,
-        79,
-        135,
-        188,
-        155
-      ]
-    },
-    {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
-      "indices": [
-        80,
-        186,
-        25,
-        35,
-        146,
-        180
-      ]
-    },
-    {
-      "clue": "Risk or danger.",
-      "answer": "threat",
-      "answer_letters": "THREAT",
-      "indices": [
-        71,
-        112,
-        53,
-        105,
-        85,
-        50
+        163,
+        178
       ]
     },
     {
@@ -270,54 +64,260 @@
       "answer": "thrash",
       "answer_letters": "THRASH",
       "indices": [
-        175,
-        104,
-        109,
-        0,
-        11,
-        15
-      ]
-    },
-    {
-      "clue": "Hebrew-speaking national.",
-      "answer": "israeli",
-      "answer_letters": "ISRAELI",
-      "indices": [
-        16,
-        44,
-        40,
+        106,
+        5,
+        144,
         154,
-        61,
-        184,
-        115
+        44,
+        171
       ]
     },
     {
-      "clue": "Subject of an annual celebration on Purim",
-      "answer": "esther",
-      "answer_letters": "ESTHER",
+      "clue": "Site of the Royal Artillery Barracks.",
+      "answer": "woolwich",
+      "answer_letters": "WOOLWICH",
+      "indices": [
+        63,
+        176,
+        36,
+        65,
+        103,
+        77,
+        180,
+        112
+      ]
+    },
+    {
+      "clue": "Vigorous or determined attempt to do something.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
+      "indices": [
+        134,
+        147,
+        118,
+        9,
+        40,
+        48
+      ]
+    },
+    {
+      "clue": "Ultimate confrontation.",
+      "answer": "showdown",
+      "answer_letters": "SHOWDOWN",
+      "indices": [
+        81,
+        150,
+        42,
+        123,
+        66,
+        143,
+        8,
+        116
+      ]
+    },
+    {
+      "clue": "Medicine in pill form.",
+      "answer": "tablet",
+      "answer_letters": "TABLET",
+      "indices": [
+        137,
+        135,
+        133,
+        188,
+        26,
+        12
+      ]
+    },
+    {
+      "clue": "In film, these are visual tricks and illusions.",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        73,
+        90,
+        153,
+        61,
+        79,
+        59,
+        111
+      ]
+    },
+    {
+      "clue": "Counts on another to accomplish a task.",
+      "answer": "relies",
+      "answer_letters": "RELIES",
+      "indices": [
+        27,
+        6,
+        131,
+        129,
+        172,
+        68
+      ]
+    },
+    {
+      "clue": "Girl, lady.",
+      "answer": "female",
+      "answer_letters": "FEMALE",
+      "indices": [
+        139,
+        185,
+        38,
+        164,
+        88,
+        167
+      ]
+    },
+    {
+      "clue": "Takes part in an activity.",
+      "answer": "engages",
+      "answer_letters": "ENGAGES",
+      "indices": [
+        80,
+        78,
+        166,
+        21,
+        101,
+        113,
+        86
+      ]
+    },
+    {
+      "clue": "Puppy's group.",
+      "answer": "litter",
+      "answer_letters": "LITTER",
+      "indices": [
+        184,
+        99,
+        128,
+        186,
+        97,
+        32
+      ]
+    },
+    {
+      "clue": "The main meal of the day, especially for some.",
+      "answer": "dinner",
+      "answer_letters": "DINNER",
+      "indices": [
+        160,
+        39,
+        1,
+        17,
+        151,
+        76
+      ]
+    },
+    {
+      "clue": "Near the Blue Mountains.",
+      "answer": "penrith",
+      "answer_letters": "PENRITH",
+      "indices": [
+        183,
+        108,
+        57,
+        177,
+        138,
+        24,
+        107
+      ]
+    },
+    {
+      "clue": "Symbolic actions performed on regular occasions.",
+      "answer": "ritual",
+      "answer_letters": "RITUAL",
+      "indices": [
+        43,
+        146,
+        91,
+        140,
+        159,
+        141
+      ]
+    },
+    {
+      "clue": "Not so anymore; previously.",
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
       "indices": [
         31,
-        81,
-        137,
-        150,
-        54,
-        98
+        98,
+        82,
+        4,
+        93,
+        25,
+        56,
+        155,
+        54
       ]
     },
     {
-      "clue": "Interchanged positions.",
-      "answer": "switched",
-      "answer_letters": "SWITCHED",
+      "clue": "Past participle of hurl",
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
+        71,
+        15,
+        109,
+        69,
+        20,
+        35
+      ]
+    },
+    {
+      "clue": "Customized with a particular subject.",
+      "answer": "themed",
+      "answer_letters": "THEMED",
+      "indices": [
+        175,
+        104,
+        89,
+        182,
+        105,
+        168
+      ]
+    },
+    {
+      "clue": "Sudden realization or discovery.",
+      "answer": "insight",
+      "answer_letters": "INSIGHT",
+      "indices": [
+        16,
+        95,
+        125,
+        115,
+        18,
+        60,
+        170
+      ]
+    },
+    {
+      "clue": "Not westbound.",
+      "answer": "eastward",
+      "answer_letters": "EASTWARD",
+      "indices": [
+        28,
+        85,
+        11,
+        50,
+        84,
+        124,
+        53,
+        96
+      ]
+    },
+    {
+      "clue": "Move quickly back and forth between places.",
+      "answer": "shuttle",
+      "answer_letters": "SHUTTLE",
       "indices": [
         127,
-        30,
-        77,
-        121,
-        162,
         158,
-        187,
-        2
+        136,
+        121,
+        14,
+        156,
+        187
       ]
     }
   ],

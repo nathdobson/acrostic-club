@@ -5,183 +5,181 @@
   "source_letters": "MICHELANGELOBUONARROTI",
   "clues": [
     {
-      "clue": "Ascends or elevates.",
-      "answer": "mounts",
-      "answer_letters": "MOUNTS",
+      "clue": "Standards by which to judge.",
+      "answer": "measures",
+      "answer_letters": "MEASURES",
       "indices": [
         26,
-        27,
+        120,
+        57,
+        20,
         109,
-        97,
-        139,
-        20
+        86,
+        54,
+        174
       ]
     },
     {
-      "clue": "Happening during playtime.",
-      "answer": "in-game",
-      "answer_letters": "INGAME",
+      "clue": "Enhance or make better",
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
       "indices": [
         78,
-        59,
-        35,
-        127,
         8,
+        124,
+        82,
+        136,
+        169,
         160
       ]
     },
     {
-      "clue": "Fought against other contestants to win.",
-      "answer": "competed",
-      "answer_letters": "COMPETED",
+      "clue": "Those who hire and pay for goods or services.",
+      "answer": "clients",
+      "answer_letters": "CLIENTS",
       "indices": [
         172,
-        47,
-        131,
+        23,
+        67,
+        138,
+        97,
+        139,
+        121
+      ]
+    },
+    {
+      "clue": "May occur.",
+      "answer": "happen",
+      "answer_letters": "HAPPEN",
+      "indices": [
+        140,
+        134,
         56,
-        120,
+        162,
+        81,
+        147
+      ]
+    },
+    {
+      "clue": "Begin service in the armed forces.",
+      "answer": "enlist",
+      "answer_letters": "ENLIST",
+      "indices": [
+        161,
+        62,
+        53,
+        33,
+        114,
+        69
+      ]
+    },
+    {
+      "clue": "Residence provided as temporary shelter.",
+      "answer": "lodging",
+      "answer_letters": "LODGING",
+      "indices": [
+        125,
+        170,
+        39,
+        65,
+        171,
+        108,
+        35
+      ]
+    },
+    {
+      "clue": "Aid in achieving something",
+      "answer": "assist",
+      "answer_letters": "ASSIST",
+      "indices": [
+        38,
+        102,
+        71,
+        22,
+        101,
+        5
+      ]
+    },
+    {
+      "clue": "It's not the hammer, but rather this that pierces the haystack.",
+      "answer": "needle",
+      "answer_letters": "NEEDLE",
+      "indices": [
+        59,
+        87,
+        32,
+        0,
+        95,
+        132
+      ]
+    },
+    {
+      "clue": "Faust's author.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        80,
+        47,
+        113,
         118,
-        54,
+        51,
+        90
+      ]
+    },
+    {
+      "clue": "A group working together harmoniously in music or theater.",
+      "answer": "ensemble",
+      "answer_letters": "ENSEMBLE",
+      "indices": [
+        17,
+        79,
+        12,
+        173,
+        131,
+        31,
+        74,
+        49
+      ]
+    },
+    {
+      "clue": "A name associated with a shower of meteors.",
+      "answer": "leonid",
+      "answer_letters": "LEONID",
+      "indices": [
+        176,
+        1,
+        27,
+        105,
+        73,
         144
       ]
     },
     {
-      "clue": "Brought to a stop.",
-      "answer": "halted",
-      "answer_letters": "HALTED",
+      "clue": "A Sooner state.",
+      "answer": "oklahoma",
+      "answer_letters": "OKLAHOMA",
       "indices": [
-        140,
-        57,
-        135,
-        69,
-        129,
-        106
-      ]
-    },
-    {
-      "clue": "Iconic representation, often used on uniforms or flags.",
-      "answer": "emblem",
-      "answer_letters": "EMBLEM",
-      "indices": [
-        122,
-        110,
-        94,
-        23,
-        154,
-        37
-      ]
-    },
-    {
-      "clue": "Agreeable to say so too.",
-      "answer": "likewise",
-      "answer_letters": "LIKEWISE",
-      "indices": [
-        74,
-        96,
-        159,
-        157,
-        93,
-        58,
-        71,
-        113
-      ]
-    },
-    {
-      "clue": "Gave permission to do something.",
-      "answer": "allowed",
-      "answer_letters": "ALLOWED",
-      "indices": [
-        38,
-        77,
-        75,
-        177,
-        178,
-        100,
-        0
-      ]
-    },
-    {
-      "clue": "Higher social class, often hereditary.",
-      "answer": "nobles",
-      "answer_letters": "NOBLES",
-      "indices": [
-        112,
+        165,
+        153,
+        91,
+        2,
+        84,
         92,
+        156,
+        104
+      ]
+    },
+    {
+      "clue": "Struck by explosives in wartime",
+      "answer": "bombed",
+      "answer_letters": "BOMBED",
+      "indices": [
         89,
-        125,
+        148,
+        110,
+        111,
         126,
-        115
-      ]
-    },
-    {
-      "clue": "They're expected to be polite and leave clean-up behind.",
-      "answer": "guests",
-      "answer_letters": "GUESTS",
-      "indices": [
-        65,
-        66,
-        1,
-        114,
-        46,
-        102
-      ]
-    },
-    {
-      "clue": "Inhabitant of Africa's second-most populous country.",
-      "answer": "ethiopian",
-      "answer_letters": "ETHIOPIAN",
-      "indices": [
-        85,
-        72,
-        119,
-        73,
-        170,
-        162,
-        33,
-        152,
-        48
-      ]
-    },
-    {
-      "clue": "Heeded advice with care.",
-      "answer": "listened",
-      "answer_letters": "LISTENED",
-      "indices": [
-        68,
-        171,
-        174,
-        5,
-        138,
-        62,
-        81,
-        39
-      ]
-    },
-    {
-      "clue": "An imperative: 'Be true to _____.",
-      "answer": "oneself",
-      "answer_letters": "ONESELF",
-      "indices": [
-        136,
-        99,
-        132,
-        128,
-        29,
-        15,
-        43
-      ]
-    },
-    {
-      "clue": "Corporeal forms (9)",
-      "answer": "bodies",
-      "answer_letters": "BODIES",
-      "indices": [
-        31,
-        145,
-        63,
-        11,
-        161,
-        14
+        63
       ]
     },
     {
@@ -189,27 +187,27 @@
       "answer": "unknown",
       "answer_letters": "UNKNOWN",
       "indices": [
-        166,
-        142,
-        153,
+        66,
         34,
-        42,
-        151,
-        137
+        159,
+        137,
+        145,
+        93,
+        112
       ]
     },
     {
-      "clue": "Clothing item for painters or builders",
-      "answer": "overall",
-      "answer_letters": "OVERALL",
+      "clue": "A single-use password in cybersecurity terms.",
+      "answer": "one-time",
+      "answer_letters": "ONETIME",
       "indices": [
-        165,
-        169,
-        16,
-        3,
-        61,
-        24,
-        53
+        42,
+        99,
+        100,
+        72,
+        58,
+        37,
+        141
       ]
     },
     {
@@ -217,92 +215,94 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        108,
-        173,
+        48,
+        154,
         18,
-        51,
-        49,
+        119,
+        157,
         50
       ]
     },
     {
-      "clue": "Strengths or advantages.",
-      "answer": "assets",
-      "answer_letters": "ASSETS",
+      "clue": "First name of Nobel Peace Prize laureate von Nobel's father.",
+      "answer": "alfred",
+      "answer_letters": "ALFRED",
       "indices": [
-        134,
-        45,
-        121,
-        17,
-        21,
-        12
+        61,
+        24,
+        43,
+        3,
+        122,
+        106
       ]
     },
     {
-      "clue": "Healing agent.",
-      "answer": "remedy",
-      "answer_letters": "REMEDY",
+      "clue": "Ended up with a certain situation.",
+      "answer": "resulted",
+      "answer_letters": "RESULTED",
       "indices": [
         28,
-        87,
-        156,
-        32,
-        98,
+        9,
+        128,
+        166,
+        15,
+        46,
+        40,
+        98
+      ]
+    },
+    {
+      "clue": "Counteract a force.",
+      "answer": "resist",
+      "answer_letters": "RESIST",
+      "indices": [
+        167,
+        29,
+        14,
+        11,
+        115,
+        21
+      ]
+    },
+    {
+      "clue": "Edmund, playwright of 'The Hairy Ape'.",
+      "answer": "o'neill",
+      "answer_letters": "ONEILL",
+      "indices": [
+        6,
+        142,
+        16,
+        96,
+        77,
+        75
+      ]
+    },
+    {
+      "clue": "Dual-directional.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        149,
+        151,
+        177,
+        178,
+        127,
         164
       ]
     },
     {
-      "clue": "Esteemed Renaissance artist.",
-      "answer": "raphael",
-      "answer_letters": "RAPHAEL",
-      "indices": [
-        167,
-        2,
-        124,
-        84,
-        104,
-        141,
-        95
-      ]
-    },
-    {
-      "clue": "A Baltimore baseball team.",
-      "answer": "orioles",
-      "answer_letters": "ORIOLES",
-      "indices": [
-        6,
-        86,
-        22,
-        148,
-        176,
-        90,
-        101
-      ]
-    },
-    {
-      "clue": "A boy soprano singer.",
-      "answer": "treble",
-      "answer_letters": "TREBLE",
-      "indices": [
-        149,
-        82,
-        9,
-        111,
-        91,
-        40
-      ]
-    },
-    {
-      "clue": "Part of a baseball game.",
-      "answer": "inning",
-      "answer_letters": "INNING",
+      "clue": "French-Canadian actress Huppert.",
+      "answer": "isabelle",
+      "answer_letters": "ISABELLE",
       "indices": [
         52,
-        147,
-        79,
-        67,
-        105,
-        80
+        45,
+        152,
+        94,
+        129,
+        135,
+        68,
+        85
       ]
     }
   ],

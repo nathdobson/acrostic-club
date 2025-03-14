@@ -5,123 +5,126 @@
   "source_letters": "DREWNELLINSSMITHARCADE",
   "clues": [
     {
-      "clue": "As in 'to love ____.'",
-      "answer": "deeply",
-      "answer_letters": "DEEPLY",
+      "clue": "Spoke for and against propositions.",
+      "answer": "debated",
+      "answer_letters": "DEBATED",
       "indices": [
-        31,
-        101,
+        105,
         59,
-        57,
-        157,
-        164
-      ]
-    },
-    {
-      "clue": "No longer in active service.",
-      "answer": "retired",
-      "answer_letters": "RETIRED",
-      "indices": [
-        88,
-        24,
-        18,
-        0,
-        63,
-        168,
+        3,
+        123,
+        134,
+        21,
         158
       ]
     },
     {
-      "clue": "Good for consumption.",
-      "answer": "edible",
-      "answer_letters": "EDIBLE",
+      "clue": "Non-angular figure.",
+      "answer": "rounded",
+      "answer_letters": "ROUNDED",
       "indices": [
-        21,
-        113,
-        80,
-        3,
-        58,
-        139
-      ]
-    },
-    {
-      "clue": "Rich with trees.",
-      "answer": "wooded",
-      "answer_letters": "WOODED",
-      "indices": [
-        100,
-        84,
-        155,
-        29,
-        37,
-        77
-      ]
-    },
-    {
-      "clue": "Person who belongs to a particular place by birth or ancestry.",
-      "answer": "native",
-      "answer_letters": "NATIVE",
-      "indices": [
+        88,
+        170,
+        156,
         46,
-        26,
-        95,
-        32,
-        27,
-        89
-      ]
-    },
-    {
-      "clue": "Furnished with wealth or assets",
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
-      "indices": [
-        93,
-        133,
         126,
-        4,
-        43,
-        13,
+        168,
         10
       ]
     },
     {
-      "clue": "Initiator of Protestant Reformation",
-      "answer": "luther",
-      "answer_letters": "LUTHER",
+      "clue": "Brother to George III",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
       "indices": [
-        175,
-        171,
-        124,
-        25,
-        71,
-        36
+        139,
+        31,
+        144,
+        104,
+        63,
+        113
       ]
     },
     {
-      "clue": "A material often used for jackets or sofas.",
-      "answer": "leather",
-      "answer_letters": "LEATHER",
+      "clue": "Used to introduce a clause expressing a condition.",
+      "answer": "whether",
+      "answer_letters": "WHETHER",
       "indices": [
-        161,
-        51,
-        17,
-        69,
+        100,
+        86,
+        37,
+        98,
         70,
-        130,
+        78,
         52
       ]
     },
     {
-      "clue": "Reflexive pronoun for 'it'.",
-      "answer": "itself",
-      "answer_letters": "ITSELF",
+      "clue": "Successfully caught or trapped.",
+      "answer": "netted",
+      "answer_letters": "NETTED",
       "indices": [
-        127,
-        1,
-        173,
-        64,
+        38,
+        117,
+        15,
+        67,
+        132,
+        29
+      ]
+    },
+    {
+      "clue": "City on Puget Sound.",
+      "answer": "everett",
+      "answer_letters": "EVERETT",
+      "indices": [
+        13,
+        176,
+        51,
+        172,
+        130,
+        69,
+        124
+      ]
+    },
+    {
+      "clue": "Adjective for a beautiful day.",
+      "answer": "lovely",
+      "answer_letters": "LOVELY",
+      "indices": [
+        175,
+        155,
+        27,
+        89,
         40,
-        128
+        41
+      ]
+    },
+    {
+      "clue": "A district in South London named after a medieval bridge.",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
+      "indices": [
+        161,
+        17,
+        138,
+        83,
+        71,
+        95,
+        96
+      ]
+    },
+    {
+      "clue": "Port city in Suffolk, England",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        32,
+        57,
+        178,
+        162,
+        127,
+        154,
+        147
       ]
     },
     {
@@ -129,86 +132,82 @@
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
-        38,
-        48,
+        120,
+        84,
         151,
-        86,
-        78,
-        8,
-        177
+        25,
+        177,
+        36,
+        93
       ]
     },
     {
-      "clue": "Adored one.",
-      "answer": "sweetheart",
-      "answer_letters": "SWEETHEART",
+      "clue": "A far away or unknown location",
+      "answer": "somewhere",
+      "answer_letters": "SOMEWHERE",
       "indices": [
-        165,
-        162,
+        173,
+        48,
+        92,
         45,
+        43,
+        103,
         148,
-        49,
-        16,
-        9,
-        66,
-        118,
-        15
+        74,
+        9
       ]
     },
     {
-      "clue": "Site for motorcycle racing.",
-      "answer": "speedway",
-      "answer_letters": "SPEEDWAY",
+      "clue": "Garden plants.",
+      "answer": "shrubs",
+      "answer_letters": "SHRUBS",
       "indices": [
         146,
-        54,
-        117,
-        132,
-        105,
-        20,
-        163,
-        41
+        16,
+        118,
+        171,
+        110,
+        165
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
+      "clue": "Pastureland.",
+      "answer": "meadow",
+      "answer_letters": "MEADOW",
       "indices": [
-        92,
-        160,
-        67,
-        5,
-        103,
+        12,
         174,
-        61
+        163,
+        77,
+        4,
+        20
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
-      "answer": "ibrahim",
-      "answer_letters": "IBRAHIM",
+      "clue": "Where Leonardo da Vinci was born.",
+      "answer": "italia",
+      "answer_letters": "ITALIA",
       "indices": [
         145,
-        167,
-        172,
+        49,
         73,
-        96,
+        157,
         137,
-        138
+        26
       ]
     },
     {
-      "clue": "A subgenre of heavy metal music known for its speed and aggression.",
-      "answer": "thrash",
-      "answer_letters": "THRASH",
+      "clue": "Celebrated designer of jewelry, born in 1848.",
+      "answer": "tiffany",
+      "answer_letters": "TIFFANY",
       "indices": [
-        81,
-        147,
-        74,
-        97,
-        178,
-        44
+        5,
+        142,
+        34,
+        128,
+        66,
+        133,
+        164
       ]
     },
     {
@@ -216,38 +215,41 @@
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
-        50,
-        111,
-        144,
-        142,
-        121,
-        136
+        44,
+        64,
+        61,
+        0,
+        1,
+        81
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "clue": "Denier of gods.",
+      "answer": "atheist",
+      "answer_letters": "ATHEIST",
       "indices": [
-        104,
-        83,
-        110,
-        108,
-        107,
-        134
+        97,
+        18,
+        6,
+        101,
+        80,
+        140,
+        107
       ]
     },
     {
-      "clue": "Move in a circle.",
-      "answer": "rotate",
-      "answer_letters": "ROTATE",
+      "clue": "Done over multiple instances.",
+      "answer": "repeated",
+      "answer_letters": "REPEATED",
       "indices": [
         131,
-        56,
-        85,
+        35,
+        54,
+        28,
         76,
-        39,
-        35
+        85,
+        87,
+        90
       ]
     },
     {
@@ -256,7 +258,7 @@
       "answer_letters": "COFFEE",
       "indices": [
         75,
-        170,
+        108,
         129,
         115,
         55,
@@ -264,45 +266,43 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
-      "answer": "ambush",
-      "answer_letters": "AMBUSH",
+      "clue": "Someone who excels in sports.",
+      "answer": "athlete",
+      "answer_letters": "ATHLETE",
       "indices": [
-        123,
-        12,
-        23,
-        156,
-        140,
-        6
+        160,
+        121,
+        50,
+        58,
+        111,
+        136,
+        24
       ]
     },
     {
-      "clue": "Protect or support",
-      "answer": "defend",
-      "answer_letters": "DEFEND",
+      "clue": "Debby with an extra 'e.'",
+      "answer": "debbie",
+      "answer_letters": "DEBBIE",
       "indices": [
         149,
         152,
-        33,
-        119,
-        120,
-        90
+        167,
+        23,
+        114,
+        119
       ]
     },
     {
-      "clue": "Capable of bringing about a result.",
-      "answer": "effective",
-      "answer_letters": "EFFECTIVE",
+      "clue": "Vigorous or determined attempt to do something.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        28,
+        7,
+        33,
         116,
-        34,
-        87,
-        154,
-        98,
-        114,
-        176,
-        7
+        56,
+        8,
+        39
       ]
     }
   ],

@@ -5,174 +5,169 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "In the UK, this is what they call an interstate.",
-      "answer": "motorway",
-      "answer_letters": "MOTORWAY",
+      "clue": "Home appliance with a turntable.",
+      "answer": "microwave",
+      "answer_letters": "MICROWAVE",
       "indices": [
         179,
-        95,
-        118,
-        82,
-        37,
+        172,
+        78,
+        21,
+        178,
         103,
-        165,
-        161
+        15,
+        169,
+        31
       ]
     },
     {
-      "clue": "Judgments of worth or significance.",
-      "answer": "evaluations",
-      "answer_letters": "EVALUATIONS",
+      "clue": "Life's unremarkable moments.",
+      "answer": "everyday",
+      "answer_letters": "EVERYDAY",
       "indices": [
         5,
         166,
-        6,
-        171,
-        96,
-        90,
-        68,
-        70,
-        36,
-        124,
-        39
-      ]
-    },
-    {
-      "clue": "Rocket or missile devices that propel objects into space.",
-      "answer": "launchers",
-      "answer_letters": "LAUNCHERS",
-      "indices": [
-        0,
-        15,
-        149,
-        136,
-        18,
-        73,
-        145,
-        89,
-        150
-      ]
-    },
-    {
-      "clue": "To topple a regime",
-      "answer": "overthrow",
-      "answer_letters": "OVERTHROW",
-      "indices": [
-        111,
-        30,
-        31,
-        32,
-        46,
-        139,
-        67,
-        13,
-        35
-      ]
-    },
-    {
-      "clue": "Artistic representation on paper.",
-      "answer": "drawing",
-      "answer_letters": "DRAWING",
-      "indices": [
-        101,
-        128,
-        45,
-        156,
-        1,
-        141,
-        130
-      ]
-    },
-    {
-      "clue": "Spoken by many Eastern European Jews before WWII.",
-      "answer": "yiddish",
-      "answer_letters": "YIDDISH",
-      "indices": [
-        22,
-        81,
-        38,
-        10,
-        153,
-        154,
-        160
-      ]
-    },
-    {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
-        100,
-        125,
-        106,
-        107,
-        75,
-        47
-      ]
-    },
-    {
-      "clue": "Clearly, as if there were no doubt.",
-      "answer": "evidently",
-      "answer_letters": "EVIDENTLY",
-      "indices": [
-        44,
-        132,
-        104,
+        167,
+        20,
+        49,
         122,
-        151,
-        43,
-        159,
-        29,
+        45,
         94
       ]
     },
     {
-      "clue": "At any place or location.",
-      "answer": "everywhere",
-      "answer_letters": "EVERYWHERE",
+      "clue": "Guiding beacon for lost ships.",
+      "answer": "lighthouse",
+      "answer_letters": "LIGHTHOUSE",
       "indices": [
-        65,
-        126,
-        92,
-        62,
-        110,
-        12,
-        64,
-        133,
-        164,
-        140
+        29,
+        28,
+        25,
+        4,
+        8,
+        139,
+        95,
+        149,
+        27,
+        44
       ]
     },
     {
-      "clue": "Running challenge over 26.2 miles.",
-      "answer": "marathon",
-      "answer_letters": "MARATHON",
+      "clue": "Transcontinental journey sans waterways.",
+      "answer": "overland",
+      "answer_letters": "OVERLAND",
+      "indices": [
+        13,
+        30,
+        42,
+        32,
+        171,
+        165,
+        181,
+        38
+      ]
+    },
+    {
+      "clue": "Books filled with words and their meanings.",
+      "answer": "dictionaries",
+      "answer_letters": "DICTIONARIES",
+      "indices": [
+        101,
+        104,
+        18,
+        118,
+        70,
+        36,
+        136,
+        120,
+        89,
+        115,
+        145,
+        54
+      ]
+    },
+    {
+      "clue": "Culture and language spoken by many in southwestern Nigeria.",
+      "answer": "yoruba",
+      "answer_letters": "YORUBA",
+      "indices": [
+        22,
+        50,
+        52,
+        61,
+        163,
+        66
+      ]
+    },
+    {
+      "clue": "Term used in boxing for a division.",
+      "answer": "lightweight",
+      "answer_letters": "LIGHTWEIGHT",
+      "indices": [
+        0,
+        23,
+        130,
+        106,
+        143,
+        138,
+        125,
+        1,
+        91,
+        47,
+        159
+      ]
+    },
+    {
+      "clue": "An international singing competition broadcast worldwide.",
+      "answer": "eurovision",
+      "answer_letters": "EUROVISION",
+      "indices": [
+        151,
+        96,
+        37,
+        82,
+        132,
+        135,
+        34,
+        131,
+        60,
+        121
+      ]
+    },
+    {
+      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
+      "indices": [
+        92,
+        107,
+        39,
+        133,
+        57,
+        64,
+        79,
+        12,
+        140,
+        62
+      ]
+    },
+    {
+      "clue": "Killing resulting from reckless conduct",
+      "answer": "manslaughter",
+      "answer_letters": "MANSLAUGHTER",
       "indices": [
         14,
         148,
-        7,
+        16,
+        150,
+        100,
         19,
-        175,
+        83,
+        75,
         117,
-        79,
-        16
-      ]
-    },
-    {
-      "clue": "Defeated and replaced, often in a political context.",
-      "answer": "overthrown",
-      "answer_letters": "OVERTHROWN",
-      "indices": [
-        60,
-        169,
-        167,
-        20,
-        8,
-        4,
-        21,
-        178,
-        177,
-        3
+        175,
+        65,
+        7
       ]
     },
     {
@@ -180,43 +175,58 @@
       "answer": "okinawa",
       "answer_letters": "OKINAWA",
       "indices": [
-        87,
+        111,
         55,
-        23,
-        57,
-        120,
-        138,
-        170
-      ]
-    },
-    {
-      "clue": "TV show set in Australia.",
-      "answer": "neighbours",
-      "answer_letters": "NEIGHBOURS",
-      "indices": [
-        121,
-        42,
-        115,
-        91,
-        144,
-        163,
-        2,
-        74,
-        158,
-        54
-      ]
-    },
-    {
-      "clue": "Name of a South American country on North Atlantic coast.",
-      "answer": "guiana",
-      "answer_letters": "GUIANA",
-      "indices": [
-        25,
-        112,
-        28,
-        180,
+        56,
         24,
-        173
+        6,
+        177,
+        90
+      ]
+    },
+    {
+      "clue": "Defeated and replaced, often in a political context.",
+      "answer": "overthrown",
+      "answer_letters": "OVERTHROWN",
+      "indices": [
+        87,
+        126,
+        9,
+        164,
+        68,
+        73,
+        128,
+        99,
+        156,
+        141
+      ]
+    },
+    {
+      "clue": "English town known for its races.",
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        174,
+        127,
+        35,
+        41,
+        74,
+        67,
+        161
+      ]
+    },
+    {
+      "clue": "Bang, bang!",
+      "answer": "gunshot",
+      "answer_letters": "GUNSHOT",
+      "indices": [
+        116,
+        112,
+        108,
+        84,
+        144,
+        2,
+        46
       ]
     },
     {
@@ -229,57 +239,47 @@
         51,
         105,
         98,
-        27
+        71
       ]
     },
     {
-      "clue": "Instruments that are struck.",
-      "answer": "percussion",
-      "answer_letters": "PERCUSSION",
+      "clue": "It's larger than any other ocean.",
+      "answer": "pacific",
+      "answer_letters": "PACIFIC",
       "indices": [
         80,
-        127,
-        52,
-        78,
-        61,
-        34,
-        84,
-        135,
-        50,
-        181
-      ]
-    },
-    {
-      "clue": "The meaning conveyed by a gesture, action, or symbol.",
-      "answer": "significance",
-      "answer_letters": "SIGNIFICANCE",
-      "indices": [
-        71,
-        131,
-        116,
-        174,
-        172,
-        114,
-        56,
+        180,
         86,
-        66,
-        108,
-        147,
-        76
+        81,
+        114,
+        153,
+        147
       ]
     },
     {
-      "clue": "Vast video-sharing platform online.",
-      "answer": "youtube",
-      "answer_letters": "YOUTUBE",
+      "clue": "Used in reference to expenses or duties divided equally.",
+      "answer": "shared",
+      "answer_letters": "SHARED",
       "indices": [
-        49,
-        99,
-        83,
-        143,
+        154,
+        160,
+        173,
+        158,
+        76,
+        10
+      ]
+    },
+    {
+      "clue": "Southern Chinese province.",
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
+      "indices": [
+        110,
         88,
-        41,
-        9
+        43,
+        124,
+        170,
+        3
       ]
     }
   ],

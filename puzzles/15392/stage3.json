@@ -5,241 +5,59 @@
   "source_letters": "HERMANNHESSESIDDHARTHA",
   "clues": [
     {
-      "clue": "18th-century geologist who influenced Lyell",
-      "answer": "hutton",
-      "answer_letters": "HUTTON",
+      "clue": "Elevation or altitude above a base level, often sea level.",
+      "answer": "height",
+      "answer_letters": "HEIGHT",
       "indices": [
         6,
-        151,
-        99,
-        41,
-        1,
-        82
-      ]
-    },
-    {
-      "clue": "Result of a cause.",
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        30,
-        133,
-        104,
-        7,
-        180,
-        45
-      ]
-    },
-    {
-      "clue": "A Latin surname that sounds like a popular pet's name: Robby",
-      "answer": "roberto",
-      "answer_letters": "ROBERTO",
-      "indices": [
-        39,
-        145,
-        0,
-        137,
-        105,
-        42,
-        132
-      ]
-    },
-    {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
-      "answer": "matthew",
-      "answer_letters": "MATTHEW",
-      "indices": [
-        144,
-        67,
-        15,
-        170,
-        14,
-        54,
-        33
-      ]
-    },
-    {
-      "clue": "Town in Kent.",
-      "answer": "ashford",
-      "answer_letters": "ASHFORD",
-      "indices": [
-        18,
-        16,
-        77,
-        97,
-        96,
-        179,
-        20
-      ]
-    },
-    {
-      "clue": "Used to introduce a clarification.",
-      "answer": "namely",
-      "answer_letters": "NAMELY",
-      "indices": [
-        141,
-        74,
-        102,
-        85,
-        57,
-        175
-      ]
-    },
-    {
-      "clue": "The compass direction opposite southeast",
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        68,
-        11,
-        121,
-        22,
-        153,
-        73,
-        101,
-        26,
-        149
-      ]
-    },
-    {
-      "clue": "Location of Harvard's precious rare books.",
-      "answer": "houghton",
-      "answer_letters": "HOUGHTON",
-      "indices": [
-        115,
-        106,
-        56,
+        119,
+        87,
         71,
-        100,
-        5,
-        110,
-        88
+        77,
+        147
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
+      "clue": "Things that take place.",
+      "answer": "events",
+      "answer_letters": "EVENTS",
       "indices": [
-        36,
-        114,
-        46,
-        19,
-        59,
-        120
-      ]
-    },
-    {
-      "clue": "Known for the Cold War with the USA.",
-      "answer": "soviet",
-      "answer_letters": "SOVIET",
-      "indices": [
-        50,
-        160,
-        172,
-        182,
-        168,
-        9
-      ]
-    },
-    {
-      "clue": "Surname of a renowned author known for 'A Brief History of Time'.",
-      "answer": "stephen",
-      "answer_letters": "STEPHEN",
-      "indices": [
-        118,
-        135,
-        81,
-        177,
-        3,
         142,
-        28
-      ]
-    },
-    {
-      "clue": "Factors that make up a mixture.",
-      "answer": "elements",
-      "answer_letters": "ELEMENTS",
-      "indices": [
-        181,
-        174,
-        27,
-        65,
-        163,
-        70,
-        159,
-        31
-      ]
-    },
-    {
-      "clue": "Sometimes less than kind in fairy tales.",
-      "answer": "stepmother",
-      "answer_letters": "STEPMOTHER",
-      "indices": [
-        29,
-        167,
-        178,
-        38,
-        60,
-        126,
+        125,
+        30,
+        28,
         2,
-        53,
-        40,
-        150
+        26
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
-      "answer": "ibrahim",
-      "answer_letters": "IBRAHIM",
+      "clue": "Time signature component.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        127,
-        91,
-        35,
-        156,
-        112,
-        139,
+        105,
+        100,
+        43,
+        62,
+        86,
         107
       ]
     },
     {
-      "clue": "Revered as godly",
-      "answer": "divine",
-      "answer_letters": "DIVINE",
+      "clue": "Capital of Uruguay.",
+      "answer": "montevideo",
+      "answer_letters": "MONTEVIDEO",
       "indices": [
-        80,
-        78,
-        183,
-        87,
-        140,
-        24
-      ]
-    },
-    {
-      "clue": "Premieres in show business.",
-      "answer": "debuts",
-      "answer_letters": "DEBUTS",
-      "indices": [
-        157,
-        129,
-        84,
-        12,
-        93,
-        146
-      ]
-    },
-    {
-      "clue": "Premium segment of a market.",
-      "answer": "high-end",
-      "answer_letters": "HIGHEND",
-      "indices": [
-        10,
+        65,
+        126,
+        48,
+        170,
+        116,
+        172,
         69,
-        49,
-        23,
-        173,
-        169,
-        185
+        79,
+        54,
+        160
       ]
     },
     {
@@ -247,70 +65,252 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
-        165,
-        162,
+        18,
         109,
-        92,
-        62,
-        166
+        0,
+        96,
+        99,
+        41
       ]
     },
     {
-      "clue": "Heard in medical school.",
-      "answer": "resident",
-      "answer_letters": "RESIDENT",
+      "clue": "Month with Thanksgiving in the U.S.",
+      "answer": "november",
+      "answer_letters": "NOVEMBER",
       "indices": [
-        143,
-        122,
-        75,
+        169,
+        110,
+        183,
+        85,
+        102,
+        91,
+        173,
+        150
+      ]
+    },
+    {
+      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "answer": "newton",
+      "answer_letters": "NEWTON",
+      "indices": [
+        68,
+        101,
+        33,
+        22,
+        106,
+        141
+      ]
+    },
+    {
+      "clue": "Big city in Texas.",
+      "answer": "houston",
+      "answer_letters": "HOUSTON",
+      "indices": [
+        112,
+        132,
+        56,
+        50,
+        9,
+        1,
+        82
+      ]
+    },
+    {
+      "clue": "Relates to the customs or beliefs passed down within a community.",
+      "answer": "ethnic",
+      "answer_letters": "ETHNIC",
+      "indices": [
+        178,
+        149,
+        10,
+        19,
+        59,
+        128
+      ]
+    },
+    {
+      "clue": "Electrical device for routing current.",
+      "answer": "switch",
+      "answer_letters": "SWITCH",
+      "indices": [
+        29,
+        73,
+        127,
+        135,
+        120,
+        53
+      ]
+    },
+    {
+      "clue": "He fires a gun.",
+      "answer": "shooter",
+      "answer_letters": "SHOOTER",
+      "indices": [
+        130,
+        46,
+        92,
+        145,
+        167,
+        81,
+        35
+      ]
+    },
+    {
+      "clue": "Cowboy running back Ezekiel",
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        163,
+        174,
+        57,
         171,
-        89,
-        116,
-        48,
+        11,
+        159,
         152
       ]
     },
     {
-      "clue": "Contraction of they and have",
-      "answer": "they've",
-      "answer_letters": "THEYVE",
+      "clue": "Not in its original position.",
+      "answer": "shifted",
+      "answer_letters": "SHIFTED",
       "indices": [
-        147,
-        86,
-        184,
-        43,
-        125,
-        119
+        75,
+        23,
+        182,
+        133,
+        114,
+        40,
+        157
       ]
     },
     {
-      "clue": "Advanced and innovative systems.",
-      "answer": "high-tech",
-      "answer_letters": "HIGHTECH",
+      "clue": "Babyhood stage.",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
+      "indices": [
+        139,
+        140,
+        104,
+        74,
+        88,
+        180,
+        175
+      ]
+    },
+    {
+      "clue": "Debby with an extra 'e.'",
+      "answer": "debbie",
+      "answer_letters": "DEBBIE",
+      "indices": [
+        20,
+        168,
+        84,
+        162,
+        78,
+        129
+      ]
+    },
+    {
+      "clue": "Profound layers.",
+      "answer": "depths",
+      "answer_letters": "DEPTHS",
+      "indices": [
+        80,
+        7,
+        177,
+        45,
+        3,
+        118
+      ]
+    },
+    {
+      "clue": "'Let America Be America Again' author.",
+      "answer": "hughes",
+      "answer_letters": "HUGHES",
+      "indices": [
+        14,
+        12,
+        49,
+        153,
+        36,
+        31
+      ]
+    },
+    {
+      "clue": "What follows a battle or conflict.",
+      "answer": "aftermath",
+      "answer_letters": "AFTERMATH",
+      "indices": [
+        156,
+        97,
+        93,
+        24,
+        39,
+        60,
+        165,
+        5,
+        115
+      ]
+    },
+    {
+      "clue": "A mild term for 'instead'.",
+      "answer": "rather",
+      "answer_letters": "RATHER",
+      "indices": [
+        143,
+        67,
+        15,
+        136,
+        122,
+        121
+      ]
+    },
+    {
+      "clue": "Board members of a university or college.",
+      "answer": "trustees",
+      "answer_letters": "TRUSTEES",
+      "indices": [
+        166,
+        179,
+        151,
+        146,
+        42,
+        137,
+        184,
+        16
+      ]
+    },
+    {
+      "clue": "Increased in degree; amplified.",
+      "answer": "heightened",
+      "answer_letters": "HEIGHTENED",
       "indices": [
         94,
+        63,
         47,
         13,
         155,
         52,
-        63,
-        128,
-        136
+        181,
+        70,
+        27,
+        89
       ]
     },
     {
-      "clue": "Verified through evidence",
-      "answer": "attested",
-      "answer_letters": "ATTESTED",
+      "clue": "Gave it a shot.",
+      "answer": "attempted",
+      "answer_letters": "ATTEMPTED",
       "indices": [
         61,
         58,
         123,
         66,
-        130,
+        144,
+        38,
         111,
         34,
-        79
+        185
       ]
     }
   ],

@@ -5,16 +5,200 @@
   "source_letters": "CHARLIEHIGSONTHEENEMY",
   "clues": [
     {
-      "clue": "Part of London known for markets.",
-      "answer": "camden",
-      "answer_letters": "CAMDEN",
+      "clue": "Prospective leaders.",
+      "answer": "candidates",
+      "answer_letters": "CANDIDATES",
       "indices": [
         5,
         145,
-        129,
+        88,
         142,
+        23,
+        34,
+        105,
+        85,
         69,
-        88
+        91
+      ]
+    },
+    {
+      "clue": "To engage one's interest deeply.",
+      "answer": "hooked",
+      "answer_letters": "HOOKED",
+      "indices": [
+        160,
+        128,
+        92,
+        89,
+        82,
+        171
+      ]
+    },
+    {
+      "clue": "Lie in wait for prey or foes.",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
+      "indices": [
+        75,
+        129,
+        21,
+        167,
+        125,
+        175
+      ]
+    },
+    {
+      "clue": "City in Illinois",
+      "answer": "rockford",
+      "answer_letters": "ROCKFORD",
+      "indices": [
+        38,
+        60,
+        29,
+        30,
+        68,
+        18,
+        14,
+        40
+      ]
+    },
+    {
+      "clue": "Opposite of 'disconnected' or 'isolated'",
+      "answer": "linked",
+      "answer_letters": "LINKED",
+      "indices": [
+        71,
+        28,
+        55,
+        6,
+        39,
+        77
+      ]
+    },
+    {
+      "clue": "Once included Vietnam, Laos, and Cambodia.",
+      "answer": "indochina",
+      "answer_letters": "INDOCHINA",
+      "indices": [
+        0,
+        162,
+        154,
+        155,
+        168,
+        109,
+        87,
+        24,
+        138
+      ]
+    },
+    {
+      "clue": "Showcase one's skills in front of an audience.",
+      "answer": "exhibit",
+      "answer_letters": "EXHIBIT",
+      "indices": [
+        70,
+        49,
+        59,
+        149,
+        130,
+        13,
+        108
+      ]
+    },
+    {
+      "clue": "Native language includes words like 'aloha' and 'mahalo'.",
+      "answer": "hawaiian",
+      "answer_letters": "HAWAIIAN",
+      "indices": [
+        146,
+        65,
+        57,
+        48,
+        37,
+        124,
+        32,
+        156
+      ]
+    },
+    {
+      "clue": "Influenced significantly",
+      "answer": "impacted",
+      "answer_letters": "IMPACTED",
+      "indices": [
+        135,
+        150,
+        96,
+        110,
+        113,
+        148,
+        151,
+        10
+      ]
+    },
+    {
+      "clue": "The subject of many a Halloween tale.",
+      "answer": "ghosts",
+      "answer_letters": "GHOSTS",
+      "indices": [
+        25,
+        169,
+        101,
+        27,
+        127,
+        3
+      ]
+    },
+    {
+      "clue": "Ceased growth (of weeds, for example)",
+      "answer": "stemmed",
+      "answer_letters": "STEMMED",
+      "indices": [
+        42,
+        36,
+        141,
+        47,
+        132,
+        15,
+        139
+      ]
+    },
+    {
+      "clue": "Formerly named Bytown.",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        56,
+        157,
+        66,
+        43,
+        61,
+        8
+      ]
+    },
+    {
+      "clue": "Small, specialized pockets within a broader field.",
+      "answer": "niches",
+      "answer_letters": "NICHES",
+      "indices": [
+        33,
+        52,
+        159,
+        104,
+        117,
+        72
+      ]
+    },
+    {
+      "clue": "It flows past Windsor Castle.",
+      "answer": "thames",
+      "answer_letters": "THAMES",
+      "indices": [
+        111,
+        102,
+        100,
+        93,
+        164,
+        74
       ]
     },
     {
@@ -22,278 +206,94 @@
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [
-        104,
-        100,
-        139,
-        76,
-        111,
-        59
-      ]
-    },
-    {
-      "clue": "Confesses under pressure.",
-      "answer": "admits",
-      "answer_letters": "ADMITS",
-      "indices": [
-        105,
-        34,
-        150,
-        23,
-        85,
-        125
-      ]
-    },
-    {
-      "clue": "Repetitive patterns in music or movement.",
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        38,
-        175,
-        177,
-        63,
-        146,
-        166,
-        27
-      ]
-    },
-    {
-      "clue": "Hindu goddess of wealth and fortune",
-      "answer": "lakshmi",
-      "answer_letters": "LAKSHMI",
-      "indices": [
-        71,
+        64,
         133,
-        30,
-        3,
-        109,
-        47,
-        4
-      ]
-    },
-    {
-      "clue": "Disabled, as in a virus for a vaccine.",
-      "answer": "inactivated",
-      "answer_letters": "INACTIVATED",
-      "indices": [
-        37,
-        156,
-        110,
-        168,
-        127,
-        124,
-        116,
-        114,
-        36,
-        141,
-        45
-      ]
-    },
-    {
-      "clue": "Frequently caught in comedic situations with George Costanza on Seinfeld.",
-      "answer": "elaine",
-      "answer_letters": "ELAINE",
-      "indices": [
-        117,
-        80,
-        98,
-        13,
-        33,
-        70
-      ]
-    },
-    {
-      "clue": "This region has a distinct climate, supporting agriculture less common elsewhere in Japan.",
-      "answer": "hokkaido",
-      "answer_letters": "HOKKAIDO",
-      "indices": [
-        102,
-        18,
-        6,
-        54,
-        75,
-        135,
-        10,
-        155
-      ]
-    },
-    {
-      "clue": "Admitted to an organization officially.",
-      "answer": "inducted",
-      "answer_letters": "INDUCTED",
-      "indices": [
-        28,
-        55,
         106,
-        81,
-        29,
-        148,
-        151,
-        40
+        4,
+        63,
+        123
       ]
     },
     {
-      "clue": "Brute of 'Beauty and the Beast'.",
-      "answer": "gaston",
-      "answer_letters": "GASTON",
+      "clue": "Key figure in shaping the final version of a document.",
+      "answer": "editor",
+      "answer_letters": "EDITOR",
       "indices": [
-        163,
-        65,
-        42,
-        157,
-        101,
-        162
-      ]
-    },
-    {
-      "clue": "Alan of the Moon.",
-      "answer": "shepard",
-      "answer_letters": "SHEPARD",
-      "indices": [
-        74,
-        160,
-        15,
-        96,
-        48,
-        14,
-        154
-      ]
-    },
-    {
-      "clue": "Achieve possession of.",
-      "answer": "obtain",
-      "answer_letters": "OBTAIN",
-      "indices": [
-        56,
-        21,
-        66,
-        32,
-        0,
-        24
-      ]
-    },
-    {
-      "clue": "Widespread communication systems.",
-      "answer": "networks",
-      "answer_letters": "NETWORKS",
-      "indices": [
-        9,
         94,
+        140,
+        76,
         174,
-        61,
-        172,
-        99,
-        89,
-        72
+        120,
+        99
       ]
     },
     {
-      "clue": "Anatomy: area between neck and abdomen.",
-      "answer": "thorax",
-      "answer_letters": "THORAX",
+      "clue": "As many as necessary.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
+        176,
+        9,
+        172,
+        81,
+        163,
+        86
+      ]
+    },
+    {
+      "clue": "Streaming service giant.",
+      "answer": "netflix",
+      "answer_letters": "NETFLIX",
+      "indices": [
+        121,
+        144,
         12,
-        86,
-        128,
-        115,
-        8,
+        19,
+        80,
+        83,
         134
       ]
     },
     {
-      "clue": "'Let America Be America Again' author.",
-      "answer": "hughes",
-      "answer_letters": "HUGHES",
-      "indices": [
-        64,
-        167,
-        25,
-        123,
-        39,
-        91
-      ]
-    },
-    {
-      "clue": "Alimony's former recipient.",
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
-      "indices": [
-        82,
-        49,
-        57,
-        149,
-        68,
-        176
-      ]
-    },
-    {
-      "clue": "Gave physical presence to an idea.",
-      "answer": "embodied",
-      "answer_letters": "EMBODIED",
-      "indices": [
-        144,
-        93,
-        130,
-        92,
-        171,
-        52,
-        164,
-        140
-      ]
-    },
-    {
-      "clue": "Capital: Windhoek.",
-      "answer": "namibia",
-      "answer_letters": "NAMIBIA",
-      "indices": [
-        121,
-        138,
-        132,
-        87,
-        79,
-        83,
-        43
-      ]
-    },
-    {
-      "clue": "Made the same sound again",
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "clue": "Began a project or initiative.",
+      "answer": "embarked",
+      "answer_letters": "EMBARKED",
       "indices": [
         136,
-        113,
-        169,
-        60,
+        166,
+        79,
+        114,
+        115,
+        54,
         51,
-        77
+        45
       ]
     },
     {
-      "clue": "Not original, altered",
-      "answer": "modified",
-      "answer_letters": "MODIFIED",
+      "clue": "High noon.",
+      "answer": "midday",
+      "answer_letters": "MIDDAY",
       "indices": [
         1,
-        120,
-        118,
         44,
-        19,
-        50,
-        22,
-        16
+        118,
+        16,
+        98,
+        177
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "clue": "Talmudic academy.",
+      "answer": "yeshiva",
+      "answer_letters": "YESHIVA",
       "indices": [
         143,
-        161,
-        159,
+        22,
+        152,
         97,
-        108,
-        152
+        50,
+        116,
+        161
       ]
     }
   ],

@@ -5,47 +5,47 @@
   "source_letters": "MARYBETHMILLERAIMEE",
   "clues": [
     {
-      "clue": "Twelve slices of time.",
-      "answer": "months",
-      "answer_letters": "MONTHS",
+      "clue": "Fixed securely in position",
+      "answer": "mounted",
+      "answer_letters": "MOUNTED",
       "indices": [
         77,
         159,
+        4,
         131,
-        101,
-        61,
-        8
+        189,
+        80,
+        105
       ]
     },
     {
-      "clue": "Tender regard for someone.",
-      "answer": "affection",
-      "answer_letters": "AFFECTION",
+      "clue": "In order to gain it, you must give it.",
+      "answer": "attention",
+      "answer_letters": "ATTENTION",
       "indices": [
-        144,
-        74,
-        35,
-        46,
-        11,
+        121,
         117,
-        70,
-        114,
-        163
+        101,
+        46,
+        163,
+        177,
+        49,
+        3,
+        160
       ]
     },
     {
-      "clue": "Allowed entry again following an earlier closure.",
-      "answer": "reopened",
-      "answer_letters": "REOPENED",
+      "clue": "Attains proficiency in a skill or subject.",
+      "answer": "reaches",
+      "answer_letters": "REACHES",
       "indices": [
-        110,
-        15,
-        137,
-        108,
+        26,
         88,
-        171,
+        57,
+        11,
+        61,
         33,
-        71
+        149
       ]
     },
     {
@@ -54,11 +54,11 @@
       "answer_letters": "YOUTHS",
       "indices": [
         178,
-        123,
-        41,
-        44,
+        181,
+        19,
+        166,
         14,
-        60
+        51
       ]
     },
     {
@@ -66,89 +66,86 @@
       "answer": "beheaded",
       "answer_letters": "BEHEADED",
       "indices": [
-        94,
-        168,
-        69,
-        84,
-        148,
-        142,
+        40,
         62,
+        69,
+        25,
+        172,
+        142,
+        38,
         164
       ]
     },
     {
-      "clue": "A protocol suite used for LANs.",
-      "answer": "ethernet",
-      "answer_letters": "ETHERNET",
+      "clue": "Measure of productive output versus input.",
+      "answer": "efficiency",
+      "answer_letters": "EFFICIENCY",
       "indices": [
-        133,
-        189,
-        32,
         109,
-        26,
-        29,
+        96,
+        183,
+        170,
+        37,
+        176,
         95,
-        153
+        29,
+        64,
+        125
       ]
     },
     {
-      "clue": "Hence or consequently",
-      "answer": "therefore",
-      "answer_letters": "THEREFORE",
+      "clue": "A Spanish island in the Canary Islands archipelago.",
+      "answer": "tenerife",
+      "answer_letters": "TENERIFE",
       "indices": [
-        112,
-        45,
-        132,
-        16,
+        92,
         103,
+        115,
+        53,
+        146,
+        0,
         139,
-        181,
-        75,
-        53
+        52
       ]
     },
     {
-      "clue": "Opposite of 'coldest' in terms of temperature.",
-      "answer": "hottest",
-      "answer_letters": "HOTTEST",
+      "clue": "He was a director of Poltergeist.",
+      "answer": "hooper",
+      "answer_letters": "HOOPER",
       "indices": [
         118,
-        97,
-        166,
-        42,
-        52,
-        149,
-        92
+        76,
+        157,
+        108,
+        99,
+        16
       ]
     },
     {
-      "clue": "First workday for most.",
-      "answer": "mondays",
-      "answer_letters": "MONDAYS",
+      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
         79,
-        76,
-        141,
-        6,
-        10,
-        125,
-        86
+        137,
+        167,
+        148,
+        55,
+        12
       ]
     },
     {
-      "clue": "Once included Vietnam, Laos, and Cambodia.",
-      "answer": "indochina",
-      "answer_letters": "INDOCHINA",
+      "clue": "City with bridges named Si-o-se-pol.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
       "indices": [
-        49,
-        160,
-        105,
-        3,
-        37,
-        56,
         184,
-        89,
-        162
+        86,
+        35,
+        144,
+        32,
+        162,
+        89
       ]
     },
     {
@@ -157,133 +154,136 @@
       "answer_letters": "LEHIGH",
       "indices": [
         5,
-        147,
-        128,
+        87,
+        102,
         82,
-        122,
-        102
+        156,
+        24
       ]
     },
     {
-      "clue": "Scottish painter famous for his work in the Victorian era.",
-      "answer": "leighton",
-      "answer_letters": "LEIGHTON",
+      "clue": "They might find scissors designed for them more comfortable.",
+      "answer": "left-handed",
+      "answer_letters": "LEFTHANDED",
       "indices": [
         175,
-        106,
-        174,
-        156,
-        167,
-        58,
-        157,
-        47
-      ]
-    },
-    {
-      "clue": "Optimal in performance or productivity.",
-      "answer": "efficient",
-      "answer_letters": "EFFICIENT",
-      "indices": [
-        80,
-        96,
-        183,
-        170,
-        64,
-        176,
-        129,
-        185,
-        177
-      ]
-    },
-    {
-      "clue": "An arc in the sky following a storm.",
-      "answer": "rainbow",
-      "answer_letters": "RAINBOW",
-      "indices": [
-        98,
-        65,
-        0,
-        151,
-        40,
-        150,
-        55
-      ]
-    },
-    {
-      "clue": "Made operational",
-      "answer": "activated",
-      "answer_letters": "ACTIVATED",
-      "indices": [
-        111,
-        2,
-        180,
-        91,
-        83,
-        172,
-        31,
-        72,
-        134
-      ]
-    },
-    {
-      "clue": "Admission to school is known as an _.",
-      "answer": "intake",
-      "answer_letters": "INTAKE",
-      "indices": [
-        28,
-        115,
-        67,
-        57,
-        12,
-        99
-      ]
-    },
-    {
-      "clue": "Japanese automotive giant.",
-      "answer": "mitsubishi",
-      "answer_letters": "MITSUBISHI",
-      "indices": [
-        9,
-        140,
-        136,
-        107,
-        19,
-        173,
-        113,
-        51,
-        22,
-        188
-      ]
-    },
-    {
-      "clue": "Cursed with love's spells (in older usage).",
-      "answer": "enchanted",
-      "answer_letters": "ENCHANTED",
-      "indices": [
-        119,
-        66,
-        21,
-        24,
-        121,
-        124,
+        147,
+        74,
         127,
-        87,
+        128,
+        10,
+        124,
+        6,
+        119,
         186
       ]
     },
     {
-      "clue": "From a continent known for its classical music and art.",
-      "answer": "european",
-      "answer_letters": "EUROPEAN",
+      "clue": "Things that take place.",
+      "answer": "events",
+      "answer_letters": "EVENTS",
       "indices": [
-        25,
-        4,
-        146,
+        129,
+        83,
+        133,
+        185,
+        153,
+        8
+      ]
+    },
+    {
+      "clue": "Automatonlike.",
+      "answer": "robotic",
+      "answer_letters": "ROBOTIC",
+      "indices": [
+        98,
+        123,
+        173,
         154,
-        18,
-        38,
+        112,
+        113,
+        2
+      ]
+    },
+    {
+      "clue": "Partner of Warren Beatty on-screen and off",
+      "answer": "annette",
+      "answer_letters": "ANNETTE",
+      "indices": [
+        111,
+        151,
+        20,
+        168,
+        31,
+        44,
+        84
+      ]
+    },
+    {
+      "clue": "Chemical processes involving two substances.",
+      "answer": "interactions",
+      "answer_letters": "INTERACTIONS",
+      "indices": [
+        28,
+        47,
+        67,
+        106,
+        75,
         36,
-        20
+        21,
+        58,
+        174,
+        114,
+        66,
+        60
+      ]
+    },
+    {
+      "clue": "Religious group founded by John Wesley.",
+      "answer": "methodist",
+      "answer_letters": "METHODIST",
+      "indices": [
+        9,
+        72,
+        136,
+        22,
+        150,
+        134,
+        140,
+        107,
+        180
+      ]
+    },
+    {
+      "clue": "Host city of Hogmanay celebrations on New Year’s Eve.",
+      "answer": "edinburgh",
+      "answer_letters": "EDINBURGH",
+      "indices": [
+        15,
+        71,
+        70,
+        171,
+        94,
+        41,
+        110,
+        122,
+        56
+      ]
+    },
+    {
+      "clue": "Inhabitant of Africa's second-most populous country.",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        132,
+        42,
+        45,
+        188,
+        97,
+        18,
+        91,
+        65,
+        141
       ]
     }
   ],

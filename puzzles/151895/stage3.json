@@ -5,160 +5,240 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "Building often equipped with weight rooms and racquet courts.",
-      "answer": "gymnasium",
-      "answer_letters": "GYMNASIUM",
+      "clue": "Ontario city of culture and education.",
+      "answer": "guelph",
+      "answer_letters": "GUELPH",
       "indices": [
         124,
-        135,
-        162,
-        112,
-        51,
-        28,
-        3,
         71,
-        171
+        37,
+        129,
+        180,
+        55
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
-      "answer": "ethnic",
-      "answer_letters": "ETHNIC",
+      "clue": "Vigorous or determined attempt to do something.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        154,
-        79,
-        81,
-        40,
-        63,
-        117
-      ]
-    },
-    {
-      "clue": "Counteracts.",
-      "answer": "opposes",
-      "answer_letters": "OPPOSES",
-      "indices": [
-        85,
-        26,
-        179,
-        77,
-        172,
-        173,
-        83
-      ]
-    },
-    {
-      "clue": "Repetitive patterns in music or movement.",
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
+        11,
+        151,
+        175,
+        27,
         12,
-        73,
-        181,
-        19,
+        98
+      ]
+    },
+    {
+      "clue": "Side project emerging from an original idea.",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        105,
+        158,
+        104,
+        102,
+        44,
+        100,
+        85,
+        43
+      ]
+    },
+    {
+      "clue": "Couplets often found in poetry.",
+      "answer": "rhymes",
+      "answer_letters": "RHYMES",
+      "indices": [
+        120,
         169,
+        181,
         50,
+        154,
         148
       ]
     },
     {
-      "clue": "Brute of 'Beauty and the Beast'.",
-      "answer": "gaston",
-      "answer_letters": "GASTON",
+      "clue": "First name of a prolific Swedish author.",
+      "answer": "gunnar",
+      "answer_letters": "GUNNAR",
       "indices": [
         113,
+        33,
+        146,
+        112,
         109,
+        106
+      ]
+    },
+    {
+      "clue": "Affords certainty to",
+      "answer": "ensures",
+      "answer_letters": "ENSURES",
+      "indices": [
+        25,
+        101,
+        172,
+        90,
+        155,
+        141,
+        83
+      ]
+    },
+    {
+      "clue": "Inhabitant of Africa's second-most populous country.",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        30,
+        5,
+        118,
+        145,
+        1,
+        133,
+        3,
+        67,
+        166
+      ]
+    },
+    {
+      "clue": "Hindu goddess of wealth and fortune",
+      "answer": "lakshmi",
+      "answer_letters": "LAKSHMI",
+      "indices": [
+        58,
+        97,
+        164,
+        54,
+        20,
+        108,
+        99
+      ]
+    },
+    {
+      "clue": "Enhance or make better",
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
+      "indices": [
+        122,
+        14,
+        26,
+        160,
+        159,
+        10,
+        173
+      ]
+    },
+    {
+      "clue": "First African-American US President's family name.",
+      "answer": "obama's",
+      "answer_letters": "OBAMAS",
+      "indices": [
+        32,
+        76,
+        51,
+        70,
+        75,
+        28
+      ]
+    },
+    {
+      "clue": "A biblical disciple of Paul.",
+      "answer": "timothy",
+      "answer_letters": "TIMOTHY",
+      "indices": [
+        143,
+        111,
+        162,
+        77,
+        29,
+        81,
+        6
+      ]
+    },
+    {
+      "clue": "Gold-medal decathlete in '52",
+      "answer": "mathias",
+      "answer_letters": "MATHIAS",
+      "indices": [
+        121,
+        163,
+        46,
+        73,
+        127,
+        45,
+        156
+      ]
+    },
+    {
+      "clue": "City with bridges named Si-o-se-pol.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        82,
+        138,
+        94,
+        48,
+        62,
+        39,
+        52
+      ]
+    },
+    {
+      "clue": "Shunning or refusing to accept",
+      "answer": "denying",
+      "answer_letters": "DENYING",
+      "indices": [
+        16,
+        17,
+        87,
+        135,
+        95,
+        8,
+        126
+      ]
+    },
+    {
+      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "answer": "dcdcdc",
+      "answer_letters": "DCDCDC",
+      "indices": [
+        59,
+        2,
+        36,
+        96,
+        41,
+        117
+      ]
+    },
+    {
+      "clue": "Echoes of amusement.",
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
+      "indices": [
+        92,
+        137,
+        78,
+        167,
+        177,
+        68
+      ]
+    },
+    {
+      "clue": "Disciplines include dressage, show jumping and eventing.",
+      "answer": "equestrian",
+      "answer_letters": "EQUESTRIAN",
+      "indices": [
+        21,
+        89,
+        57,
+        4,
         0,
         61,
-        32,
-        146
-      ]
-    },
-    {
-      "clue": "Separated territory within another country.",
-      "answer": "enclave",
-      "answer_letters": "ENCLAVE",
-      "indices": [
-        37,
-        166,
-        96,
-        129,
-        132,
-        10,
-        30
-      ]
-    },
-    {
-      "clue": "Related to detailed descriptive studies of people and cultures",
-      "answer": "ethnographic",
-      "answer_letters": "ETHNOGRAPHIC",
-      "indices": [
-        9,
-        29,
-        55,
-        123,
-        100,
-        167,
-        24,
-        75,
-        133,
-        118,
-        82,
-        2
-      ]
-    },
-    {
-      "clue": "Speaks Sinhalese or Tamil.",
-      "answer": "lankan",
-      "answer_letters": "LANKAN",
-      "indices": [
-        174,
-        97,
-        87,
-        164,
-        163,
-        8
-      ]
-    },
-    {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        95,
-        138,
-        39,
-        99,
-        119,
-        44
-      ]
-    },
-    {
-      "clue": "Ideal point for growth or performance.",
-      "answer": "optimum",
-      "answer_letters": "OPTIMUM",
-      "indices": [
-        1,
-        180,
-        43,
-        145,
-        70,
-        57,
-        38
-      ]
-    },
-    {
-      "clue": "Aeroplane's beginning flight phase.",
-      "answer": "takeoff",
-      "answer_letters": "TAKEOFF",
-      "indices": [
-        46,
-        137,
-        65,
-        17,
-        56,
-        94,
-        158
+        128,
+        165,
+        178,
+        123
       ]
     },
     {
@@ -166,134 +246,54 @@
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
-        121,
-        159,
+        171,
+        56,
         140,
-        45,
+        119,
         86,
+        110
+      ]
+    },
+    {
+      "clue": "Opposing tracked behemoths.",
+      "answer": "anti-tank",
+      "answer_letters": "ANTITANK",
+      "indices": [
+        115,
+        40,
+        79,
+        93,
+        19,
+        15,
+        64,
         147
       ]
     },
     {
-      "clue": "Jailhouse residents.",
-      "answer": "inmates",
-      "answer_letters": "INMATES",
+      "clue": "Notations or comments, often by scientists.",
+      "answer": "remarks",
+      "answer_letters": "REMARKS",
       "indices": [
-        122,
-        101,
-        14,
-        67,
-        98,
-        141,
+        24,
+        9,
+        38,
+        132,
+        31,
+        65,
         34
       ]
     },
     {
-      "clue": "To scatter light broadly",
-      "answer": "diffuse",
-      "answer_letters": "DIFFUSE",
-      "indices": [
-        36,
-        93,
-        104,
-        151,
-        78,
-        54,
-        11
-      ]
-    },
-    {
-      "clue": "Alcoholic beverages or non-alcoholic alternatives?",
-      "answer": "drinks",
-      "answer_letters": "DRINKS",
-      "indices": [
-        59,
-        155,
-        127,
-        52,
-        110,
-        102
-      ]
-    },
-    {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
-        92,
-        25,
-        177,
-        111,
-        126,
-        62
-      ]
-    },
-    {
-      "clue": "Shares held by an investor.",
-      "answer": "equity",
-      "answer_letters": "EQUITY",
-      "indices": [
-        21,
-        89,
-        33,
-        165,
-        5,
-        6
-      ]
-    },
-    {
-      "clue": "Colorful artworks on walls.",
-      "answer": "murals",
-      "answer_letters": "MURALS",
-      "indices": [
-        108,
-        90,
-        31,
-        48,
-        58,
-        68
-      ]
-    },
-    {
-      "clue": "Town in Kent.",
-      "answer": "ashford",
-      "answer_letters": "ASHFORD",
-      "indices": [
-        115,
-        156,
-        20,
-        175,
-        27,
-        160,
-        41
-      ]
-    },
-    {
-      "clue": "Feminine of Roberto.",
-      "answer": "roberta",
-      "answer_letters": "ROBERTA",
-      "indices": [
-        106,
-        105,
-        76,
-        4,
-        128,
-        143,
-        178
-      ]
-    },
-    {
-      "clue": "NASA's namesake for its flagship space observatory since 1999.",
-      "answer": "chandra",
-      "answer_letters": "CHANDRA",
+      "clue": "Sovereign in Islam.",
+      "answer": "caliph",
+      "answer_letters": "CALIPH",
       "indices": [
         72,
-        144,
-        15,
-        64,
-        16,
-        120,
-        91
+        91,
+        174,
+        63,
+        179,
+        144
       ]
     },
     {

@@ -235,7 +235,7 @@ impl<V: Debug + Clone> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
         let mut builder = FlatTrieBuilder::new();
         builder.add_entries(&mut entries, LetterSet::new());
         let result = FlatTrie::new_unchecked_box(builder.output.into_boxed_slice());
-        println!("{:?}", result);
+        // println!("{:?}", result);
         result
     }
 }

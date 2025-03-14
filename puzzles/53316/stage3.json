@@ -5,58 +5,16 @@
   "source_letters": "MARIAELENAETERNALYOUTH",
   "clues": [
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
+      "clue": "Detroit-based record company with a soulful sound.",
+      "answer": "motown",
+      "answer_letters": "MOTOWN",
       "indices": [
         169,
         12,
-        142,
-        105,
+        175,
+        98,
         6,
-        54
-      ]
-    },
-    {
-      "clue": "On standby for a decision.",
-      "answer": "awaiting",
-      "answer_letters": "AWAITING",
-      "indices": [
-        147,
-        29,
-        77,
-        83,
-        9,
-        4,
-        8,
-        131
-      ]
-    },
-    {
-      "clue": "Think highly of.",
-      "answer": "regard",
-      "answer_letters": "REGARD",
-      "indices": [
-        189,
-        44,
-        167,
-        134,
-        53,
-        14
-      ]
-    },
-    {
-      "clue": "Remove from social interaction.",
-      "answer": "isolate",
-      "answer_letters": "ISOLATE",
-      "indices": [
-        36,
-        18,
-        41,
-        1,
-        73,
-        97,
-        21
+        144
       ]
     },
     {
@@ -64,253 +22,295 @@
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
-        171,
-        149,
-        184,
-        166,
-        122,
-        141
+        182,
+        190,
+        20,
+        27,
+        74,
+        186
       ]
     },
     {
-      "clue": "Rise to prominence.",
-      "answer": "emerge",
-      "answer_letters": "EMERGE",
+      "clue": "Conforming to standards of morality",
+      "answer": "righteous",
+      "answer_letters": "RIGHTEOUS",
       "indices": [
-        85,
-        146,
-        153,
         193,
-        60,
+        88,
+        178,
+        165,
+        37,
+        59,
+        107,
+        185,
+        135
+      ]
+    },
+    {
+      "clue": "Name of a queen of Castile (1451-1504)",
+      "answer": "isabella",
+      "answer_letters": "ISABELLA",
+      "indices": [
+        127,
+        109,
+        73,
+        149,
+        21,
+        2,
+        78,
+        30
+      ]
+    },
+    {
+      "clue": "Famous artist whose work is exhibited at the Rodin Museum.",
+      "answer": "auguste",
+      "answer_letters": "AUGUSTE",
+      "indices": [
+        147,
+        42,
+        167,
+        138,
+        123,
+        122,
+        179
+      ]
+    },
+    {
+      "clue": "To begin a journey or venture",
+      "answer": "embark",
+      "answer_letters": "EMBARK",
+      "indices": [
+        191,
+        146,
+        184,
+        7,
+        31,
+        54
+      ]
+    },
+    {
+      "clue": "Synonym for small.",
+      "answer": "little",
+      "answer_letters": "LITTLE",
+      "indices": [
+        79,
+        17,
+        9,
+        24,
+        126,
         91
       ]
     },
     {
-      "clue": "Made something rise upwards.",
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
+      "clue": "Rules of conduct or morality.",
+      "answer": "ethics",
+      "answer_letters": "ETHICS",
       "indices": [
-        108,
-        93,
-        112,
-        24,
-        68,
-        128
-      ]
-    },
-    {
-      "clue": "Corporate body or individual with legal standing",
-      "answer": "entity",
-      "answer_letters": "ENTITY",
-      "indices": [
-        191,
-        48,
-        32,
-        88,
-        37,
-        56
-      ]
-    },
-    {
-      "clue": "Hours of darkness.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        64,
-        17,
-        178,
-        67,
-        186,
+        150,
+        141,
+        115,
+        47,
+        104,
         121
       ]
     },
     {
-      "clue": "Concession conjunction.",
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "clue": "Up-to-date or modern.",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
-        30,
-        2,
-        66,
-        119,
-        111,
-        138,
-        49,
-        115
+        92,
+        85,
+        81,
+        153,
+        168,
+        180
       ]
     },
     {
-      "clue": "Votes for a representative",
-      "answer": "elects",
-      "answer_letters": "ELECTS",
+      "clue": "Place known for opium production contributing to illicit trade.",
+      "answer": "afghanistan",
+      "answer_letters": "AFGHANISTAN",
       "indices": [
+        0,
+        112,
+        159,
+        119,
+        171,
+        94,
+        63,
+        33,
+        66,
+        45,
+        48
+      ]
+    },
+    {
+      "clue": "Stylish and sophisticated.",
+      "answer": "elegant",
+      "answer_letters": "ELEGANT",
+      "indices": [
+        188,
+        84,
         173,
+        60,
+        134,
+        64,
+        51
+      ]
+    },
+    {
+      "clue": "Hand in hand.",
+      "answer": "together",
+      "answer_letters": "TOGETHER",
+      "indices": [
+        162,
+        163,
+        118,
+        68,
+        46,
+        82,
+        143,
+        106
+      ]
+    },
+    {
+      "clue": "Cowboy running back Ezekiel",
+      "answer": "elliott",
+      "answer_letters": "ELLIOTT",
+      "indices": [
+        116,
         58,
+        87,
+        36,
+        166,
+        90,
+        114
+      ]
+    },
+    {
+      "clue": "Rhythm and blues offshoot popular in Jamaica.",
+      "answer": "reggae",
+      "answer_letters": "REGGAE",
+      "indices": [
+        71,
+        55,
+        28,
+        49,
+        23,
+        102
+      ]
+    },
+    {
+      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        8,
         192,
-        155,
+        35,
         136,
+        120,
+        29,
+        157
+      ]
+    },
+    {
+      "clue": "Aggregation of stories, poems, or essays.",
+      "answer": "anthology",
+      "answer_letters": "ANTHOLOGY",
+      "indices": [
+        105,
+        130,
+        97,
+        142,
+        41,
+        1,
+        111,
+        95,
+        56
+      ]
+    },
+    {
+      "clue": "Costs, not gains.",
+      "answer": "losses",
+      "answer_letters": "LOSSES",
+      "indices": [
+        108,
+        15,
+        18,
+        61,
+        72,
         139
       ]
     },
     {
-      "clue": "Consideration or speculation.",
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
+      "clue": "Spoken by many Eastern European Jews before WWII.",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
-        46,
-        82,
-        163,
-        52,
-        118,
-        38,
-        100
+        40,
+        83,
+        14,
+        128,
+        4,
+        89,
+        67
       ]
     },
     {
-      "clue": "Consumption activity.",
-      "answer": "eating",
-      "answer_letters": "EATING",
+      "clue": "Famed Spanish essayist and poet.",
+      "answer": "ortega",
+      "answer_letters": "ORTEGA",
       "indices": [
-        116,
-        0,
-        90,
-        47,
-        130,
-        159
-      ]
-    },
-    {
-      "clue": "Lessened levels of an issue or problem.",
-      "answer": "reductions",
-      "answer_letters": "REDUCTIONS",
-      "indices": [
-        71,
-        102,
-        172,
-        42,
-        104,
-        175,
-        63,
-        98,
-        144,
-        33
-      ]
-    },
-    {
-      "clue": "Daughter's son.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
-      "indices": [
-        94,
-        179,
-        133,
-        165,
-        150,
-        35
-      ]
-    },
-    {
-      "clue": "Nickname for Texas A&M.",
-      "answer": "aggies",
-      "answer_letters": "AGGIES",
-      "indices": [
-        23,
-        95,
-        28,
-        127,
-        55,
-        109
-      ]
-    },
-    {
-      "clue": "Words are made up of these.",
-      "answer": "letters",
-      "answer_letters": "LETTERS",
-      "indices": [
-        78,
-        72,
-        114,
-        51,
-        188,
-        31,
-        61
-      ]
-    },
-    {
-      "clue": "Famous for its geothermal features.",
-      "answer": "yellowstone",
-      "answer_letters": "YELLOWSTONE",
-      "indices": [
-        148,
-        143,
-        84,
-        79,
-        15,
-        152,
-        135,
-        187,
-        120,
-        157,
-        170
-      ]
-    },
-    {
-      "clue": "Perpendicular, in geometry.",
-      "answer": "orthogonal",
-      "answer_letters": "ORTHOGONAL",
-      "indices": [
-        160,
-        106,
-        11,
-        26,
-        107,
-        125,
-        27,
-        92,
-        7,
-        126
-      ]
-    },
-    {
-      "clue": "Known for sinking Allied ships during WWI and WWII.",
-      "answer": "u-boats",
-      "answer_letters": "UBOATS",
-      "indices": [
-        185,
-        20,
         176,
-        182,
-        162,
-        168
+        189,
+        187,
+        44,
+        131,
+        156
       ]
     },
     {
-      "clue": "Compact medication forms.",
-      "answer": "tablets",
-      "answer_letters": "TABLETS",
+      "clue": "In a vertical position.",
+      "answer": "upright",
+      "answer_letters": "UPRIGHT",
       "indices": [
-        180,
-        45,
-        190,
-        87,
-        59,
-        74,
-        123
+        52,
+        133,
+        53,
+        93,
+        125,
+        26,
+        11
       ]
     },
     {
-      "clue": "Routes with multiple lanes and exits.",
-      "answer": "highways",
-      "answer_letters": "HIGHWAYS",
+      "clue": "Not one day, but not three either.",
+      "answer": "two-day",
+      "answer_letters": "TWODAY",
       "indices": [
-        101,
+        32,
+        152,
+        160,
+        172,
+        77,
+        148
+      ]
+    },
+    {
+      "clue": "Advanced and innovative systems.",
+      "answer": "high-tech",
+      "answer_letters": "HIGHTECH",
+      "indices": [
+        38,
         129,
         70,
-        76,
-        81,
-        156,
-        40,
-        89
+        101,
+        100,
+        170,
+        155,
+        76
       ]
     }
   ],

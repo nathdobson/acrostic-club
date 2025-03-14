@@ -5,19 +5,32 @@
   "source_letters": "ABBIGLINESNEVERTOOFAR",
   "clues": [
     {
-      "clue": "On the offensive, as in a game.",
-      "answer": "attacking",
-      "answer_letters": "ATTACKING",
+      "clue": "Without geographic constraints.",
+      "answer": "anywhere",
+      "answer_letters": "ANYWHERE",
       "indices": [
-        68,
-        168,
-        93,
         58,
-        145,
-        126,
-        134,
-        80,
-        148
+        46,
+        21,
+        2,
+        123,
+        83,
+        131,
+        159
+      ]
+    },
+    {
+      "clue": "Heritage: Born from Rolls-Royce in 1919.",
+      "answer": "bentley",
+      "answer_letters": "BENTLEY",
+      "indices": [
+        28,
+        140,
+        135,
+        62,
+        84,
+        47,
+        76
       ]
     },
     {
@@ -25,257 +38,162 @@
       "answer": "bounty",
       "answer_letters": "BOUNTY",
       "indices": [
-        28,
-        52,
-        155,
-        135,
-        77,
-        76
-      ]
-    },
-    {
-      "clue": "On the other side of something.",
-      "answer": "beyond",
-      "answer_letters": "BEYOND",
-      "indices": [
         69,
-        140,
-        51,
         101,
+        130,
         65,
-        7
+        122,
+        51
       ]
     },
     {
-      "clue": "Reason to visit an ER.",
-      "answer": "injury",
-      "answer_letters": "INJURY",
+      "clue": "An act of administering a drug through hypodermic needle.",
+      "answer": "injection",
+      "answer_letters": "INJECTION",
       "indices": [
-        55,
-        59,
+        0,
+        125,
         35,
-        71,
-        49,
-        128
+        163,
+        136,
+        40,
+        31,
+        52,
+        138
       ]
     },
     {
-      "clue": "Julius's Italian variant",
-      "answer": "giulio",
-      "answer_letters": "GIULIO",
+      "clue": "Real, not fake.",
+      "answer": "genuine",
+      "answer_letters": "GENUINE",
       "indices": [
         26,
-        142,
-        130,
-        84,
-        24,
-        8
+        170,
+        105,
+        36,
+        55,
+        92,
+        143
       ]
     },
     {
-      "clue": "Type arrangement on a page.",
-      "answer": "layout",
-      "answer_letters": "LAYOUT",
+      "clue": "Essential layer inside a garment for insulation or structure.",
+      "answer": "lining",
+      "answer_letters": "LINING",
       "indices": [
         5,
-        74,
-        106,
-        70,
-        36,
-        122
+        79,
+        59,
+        124,
+        75,
+        111
       ]
     },
     {
-      "clue": "Characteristic of an object from its creation.",
-      "answer": "inherent",
-      "answer_letters": "INHERENT",
+      "clue": "A well-known name among Muslims.",
+      "answer": "ibrahim",
+      "answer_letters": "IBRAHIM",
       "indices": [
-        88,
-        105,
-        169,
-        47,
+        142,
+        43,
         171,
-        170,
-        92,
-        72
+        48,
+        169,
+        24,
+        166
       ]
     },
     {
-      "clue": "Selecting and bestowing an appellation.",
-      "answer": "naming",
-      "answer_letters": "NAMING",
+      "clue": "An empty set.",
+      "answer": "nothing",
+      "answer_letters": "NOTHING",
       "indices": [
-        125,
-        104,
-        166,
-        0,
-        138,
+        16,
+        70,
+        13,
+        23,
+        146,
+        141,
         17
       ]
     },
     {
-      "clue": "Nation's financial system.",
-      "answer": "economy",
-      "answer_letters": "ECONOMY",
+      "clue": "As many as necessary.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
         117,
-        90,
-        96,
-        144,
-        154,
+        102,
+        129,
+        71,
+        81,
+        14
+      ]
+    },
+    {
+      "clue": "__ Biles, Olympic gymnast",
+      "answer": "simone",
+      "answer_letters": "SIMONE",
+      "indices": [
+        113,
+        64,
         150,
-        21
+        8,
+        110,
+        158
       ]
     },
     {
-      "clue": "Legendary muscle car brand.",
-      "answer": "shelby",
-      "answer_letters": "SHELBY",
+      "clue": "USA state known for its casinos",
+      "answer": "nevada",
+      "answer_letters": "NEVADA",
       "indices": [
-        37,
-        14,
-        163,
-        4,
-        43,
-        12
+        157,
+        172,
+        118,
+        74,
+        7,
+        104
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
-      "answer": "nightly",
-      "answer_letters": "NIGHTLY",
+      "clue": "Corporate body or individual with legal standing",
+      "answer": "entity",
+      "answer_letters": "ENTITY",
       "indices": [
-        75,
-        79,
-        111,
-        23,
-        62,
-        29,
+        119,
+        144,
+        22,
+        165,
+        38,
+        128
+      ]
+    },
+    {
+      "clue": "A job opening.",
+      "answer": "vacancy",
+      "answer_letters": "VACANCY",
+      "indices": [
+        139,
+        30,
+        97,
+        91,
+        25,
+        90,
         153
       ]
     },
     {
-      "clue": "Cursed with love's spells (in older usage).",
-      "answer": "enchanted",
-      "answer_letters": "ENCHANTED",
+      "clue": "Literary works that ponder life and thought.",
+      "answer": "essays",
+      "answer_letters": "ESSAYS",
       "indices": [
-        172,
-        157,
-        97,
-        78,
-        10,
-        110,
-        13,
         86,
-        160
-      ]
-    },
-    {
-      "clue": "Type of mask from the Carnival.",
-      "answer": "venetian",
-      "answer_letters": "VENETIAN",
-      "indices": [
-        118,
-        158,
-        16,
-        119,
-        22,
-        31,
-        30,
-        141
-      ]
-    },
-    {
-      "clue": "Descriptive of arousing passion or sensuality.",
-      "answer": "erotic",
-      "answer_letters": "EROTIC",
-      "indices": [
-        143,
-        120,
-        129,
-        40,
-        124,
-        136
-      ]
-    },
-    {
-      "clue": "Critiques or assessments.",
-      "answer": "reviews",
-      "answer_letters": "REVIEWS",
-      "indices": [
-        32,
-        159,
-        139,
-        15,
-        132,
-        2,
-        113
-      ]
-    },
-    {
-      "clue": "A way to express gratitude.",
-      "answer": "thanks",
-      "answer_letters": "THANKS",
-      "indices": [
-        38,
-        108,
-        91,
-        147,
-        66,
-        85
-      ]
-    },
-    {
-      "clue": "A public or social event, such as a picnic or trip.",
-      "answer": "outing",
-      "answer_letters": "OUTING",
-      "indices": [
-        137,
-        98,
-        107,
-        165,
-        46,
-        81
-      ]
-    },
-    {
-      "clue": "A single-use password in cybersecurity terms.",
-      "answer": "one-time",
-      "answer_letters": "ONETIME",
-      "indices": [
-        41,
-        20,
-        151,
-        60,
-        146,
-        162,
-        83
-      ]
-    },
-    {
-      "clue": "End of a race or event.",
-      "answer": "finish",
-      "answer_letters": "FINISH",
-      "indices": [
-        95,
-        3,
-        11,
-        109,
-        99,
-        123
-      ]
-    },
-    {
-      "clue": "Known historically as Aquisgranum.",
-      "answer": "aachen",
-      "answer_letters": "AACHEN",
-      "indices": [
-        19,
-        48,
-        57,
-        63,
-        33,
-        116
+        37,
+        85,
+        10,
+        106,
+        99
       ]
     },
     {
@@ -283,13 +201,95 @@
       "answer": "reunion",
       "answer_letters": "REUNION",
       "indices": [
-        131,
-        44,
+        32,
+        132,
+        98,
+        11,
+        15,
+        137,
+        80
+      ]
+    },
+    {
+      "clue": "A fee paid for attending school.",
+      "answer": "tuition",
+      "answer_letters": "TUITION",
+      "indices": [
+        107,
         53,
-        25,
-        64,
+        3,
+        168,
+        109,
+        154,
+        147
+      ]
+    },
+    {
+      "clue": "Nearby to Rochdale and Bury.",
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        41,
+        29,
+        160,
+        78,
+        68,
+        162
+      ]
+    },
+    {
+      "clue": "Region once under Viking rule, now part of Scotland.",
+      "answer": "orkney",
+      "answer_letters": "ORKNEY",
+      "indices": [
         114,
-        102
+        120,
+        126,
+        20,
+        151,
+        12
+      ]
+    },
+    {
+      "clue": "Aeroplane journey from point A to B.",
+      "answer": "flight",
+      "answer_letters": "FLIGHT",
+      "indices": [
+        95,
+        4,
+        134,
+        148,
+        108,
+        93
+      ]
+    },
+    {
+      "clue": "Real, not fake.",
+      "answer": "authentic",
+      "answer_letters": "AUTHENTIC",
+      "indices": [
+        19,
+        155,
+        77,
+        63,
+        33,
+        116,
+        72,
+        88,
+        57
+      ]
+    },
+    {
+      "clue": "SpaceX innovation for reusability.",
+      "answer": "rocket",
+      "answer_letters": "ROCKET",
+      "indices": [
+        49,
+        96,
+        145,
+        66,
+        44,
+        60
       ]
     }
   ],

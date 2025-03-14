@@ -5,287 +5,287 @@
   "source_letters": "CLAUDIAGRAYEVERNIGHT",
   "clues": [
     {
-      "clue": "A popular morning beverage.",
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "clue": "Time of British rule in America.",
+      "answer": "colonial",
+      "answer_letters": "COLONIAL",
       "indices": [
         107,
         176,
-        121,
-        74,
-        138,
-        178
-      ]
-    },
-    {
-      "clue": "A Russian professional soccer team.",
-      "answer": "lokomotiv",
-      "answer_letters": "LOKOMOTIV",
-      "indices": [
         86,
         154,
-        162,
-        103,
-        45,
-        73,
-        59,
+        84,
         150,
-        155
+        144,
+        66
       ]
     },
     {
-      "clue": "Actress known for her roles in High School Musical and Clipped.",
-      "answer": "ashley",
-      "answer_letters": "ASHLEY",
+      "clue": "Rescue craft for mariners in distress.",
+      "answer": "lifeboat",
+      "answer_letters": "LIFEBOAT",
       "indices": [
-        172,
-        61,
-        92,
-        5,
-        134,
-        77
+        38,
+        126,
+        121,
+        138,
+        123,
+        103,
+        2,
+        59
       ]
     },
     {
-      "clue": "To maintain in accordance with the law or rules of an organization.",
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
+      "clue": "Advisedly assured or promised.",
+      "answer": "affirmed",
+      "answer_letters": "AFFIRMED",
+      "indices": [
+        106,
+        74,
+        75,
+        8,
+        27,
+        45,
+        156,
+        11
+      ]
+    },
+    {
+      "clue": "A variable in mathematics yet to be solved.",
+      "answer": "unknown",
+      "answer_letters": "UNKNOWN",
       "indices": [
         79,
-        136,
-        16,
-        4,
-        66,
-        118
-      ]
-    },
-    {
-      "clue": "Area of a city's core with many businesses and shops.",
-      "answer": "downtown",
-      "answer_letters": "DOWNTOWN",
-      "indices": [
-        33,
-        124,
-        165,
         35,
-        91,
-        14,
-        68,
-        173
+        162,
+        173,
+        73,
+        165,
+        21
       ]
     },
     {
-      "clue": "Measurement between feet and yards.",
-      "answer": "inches",
-      "answer_letters": "INCHES",
+      "clue": "Horse's close relative.",
+      "answer": "donkey",
+      "answer_letters": "DONKEY",
       "indices": [
-        116,
-        117,
-        22,
-        51,
-        10,
-        171
-      ]
-    },
-    {
-      "clue": "A person who travels to space.",
-      "answer": "astronaut",
-      "answer_letters": "ASTRONAUT",
-      "indices": [
-        2,
-        40,
-        148,
-        145,
-        6,
-        177,
-        97,
-        109,
-        50
-      ]
-    },
-    {
-      "clue": "City in Ontario, Canada.",
-      "answer": "guelph",
-      "answer_letters": "GUELPH",
-      "indices": [
-        36,
-        104,
-        63,
-        153,
-        3,
-        141
-      ]
-    },
-    {
-      "clue": "An election result requiring a second vote.",
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        18,
-        160,
-        151,
-        20,
-        75,
-        25
-      ]
-    },
-    {
-      "clue": "British comedian known for his character Mr. Bean.",
-      "answer": "atkinson",
-      "answer_letters": "ATKINSON",
-      "indices": [
-        144,
-        130,
-        115,
-        126,
-        84,
-        100,
+        118,
         135,
-        163
-      ]
-    },
-    {
-      "clue": "A person hailing from the southwestern corner of the Arabian Peninsula.",
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
-      "indices": [
-        113,
-        31,
-        96,
-        156,
-        32,
-        44
-      ]
-    },
-    {
-      "clue": "A neurological disorder commonly treated with anticonvulsants.",
-      "answer": "epilepsy",
-      "answer_letters": "EPILEPSY",
-      "indices": [
-        46,
-        133,
-        0,
-        112,
-        169,
-        30,
-        41,
-        102
-      ]
-    },
-    {
-      "clue": "Citizens who participate in elections.",
-      "answer": "voters",
-      "answer_letters": "VOTERS",
-      "indices": [
-        88,
-        131,
-        13,
-        174,
-        55,
-        179
-      ]
-    },
-    {
-      "clue": "Era in which William Shakespeare wrote his famous plays.",
-      "answer": "elizabethan",
-      "answer_letters": "ELIZABETHAN",
-      "indices": [
-        146,
-        137,
-        83,
-        9,
-        110,
-        123,
-        39,
-        108,
-        168,
-        93,
-        147
-      ]
-    },
-    {
-      "clue": "NBA award for the best first-year player.",
-      "answer": "rookie",
-      "answer_letters": "ROOKIE",
-      "indices": [
-        27,
-        142,
-        159,
-        98,
-        8,
-        54
-      ]
-    },
-    {
-      "clue": "Deserving of attention or recognition.",
-      "answer": "notable",
-      "answer_letters": "NOTABLE",
-      "indices": [
-        127,
-        78,
-        43,
-        106,
-        57,
-        111,
-        67
-      ]
-    },
-    {
-      "clue": "The concept of who we are.",
-      "answer": "identities",
-      "answer_letters": "IDENTITIES",
-      "indices": [
-        49,
-        11,
+        177,
+        115,
         99,
-        21,
-        71,
-        70,
-        94,
-        34,
-        89,
-        29
-      ]
-    },
-    {
-      "clue": "The study of rocks and the Earth's crust.",
-      "answer": "geology",
-      "answer_letters": "GEOLOGY",
-      "indices": [
-        7,
-        23,
-        120,
-        38,
-        87,
-        128,
         158
       ]
     },
     {
-      "clue": "Language spoken in Israel.",
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
+      "clue": "Raw material for algorithms.",
+      "answer": "inputs",
+      "answer_letters": "INPUTS",
       "indices": [
-        62,
-        81,
-        65,
-        80,
-        17,
-        140
+        0,
+        117,
+        3,
+        58,
+        108,
+        41
       ]
     },
     {
-      "clue": "The run time of a typical movie.",
-      "answer": "two-hour",
-      "answer_letters": "TWOHOUR",
+      "clue": "Put an end to (a system, practice, or institution)",
+      "answer": "abolish",
+      "answer_letters": "ABOLISH",
       "indices": [
-        167,
-        48,
+        110,
+        57,
+        124,
+        5,
+        70,
+        29,
+        168
+      ]
+    },
+    {
+      "clue": "Type of novel featuring brooding heroes and damsel in distress.",
+      "answer": "gothic",
+      "answer_letters": "GOTHIC",
+      "indices": [
+        36,
+        20,
+        13,
+        141,
+        116,
+        22
+      ]
+    },
+    {
+      "clue": "Vantage point above streets.",
+      "answer": "rooftop",
+      "answer_letters": "ROOFTOP",
+      "indices": [
+        18,
+        120,
+        87,
+        25,
+        148,
+        142,
+        133
+      ]
+    },
+    {
+      "clue": "Wisdom goddess in Greek mythology.",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
+      "indices": [
+        97,
+        130,
+        16,
+        178,
+        163,
+        172
+      ]
+    },
+    {
+      "clue": "Vast video-sharing platform online.",
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
+      "indices": [
+        77,
+        14,
+        160,
+        94,
+        104,
+        65,
+        146
+      ]
+    },
+    {
+      "clue": "Often called staff or workers.",
+      "answer": "employee",
+      "answer_letters": "EMPLOYEE",
+      "indices": [
+        67,
+        96,
+        136,
+        112,
+        6,
+        113,
+        10,
+        63
+      ]
+    },
+    {
+      "clue": "Raider-nation of medieval times.",
+      "answer": "vikings",
+      "answer_letters": "VIKINGS",
+      "indices": [
+        88,
+        44,
+        98,
+        83,
+        147,
+        128,
+        61
+      ]
+    },
+    {
+      "clue": "Location not here.",
+      "answer": "elsewhere",
+      "answer_letters": "ELSEWHERE",
+      "indices": [
+        39,
+        137,
+        40,
+        174,
+        140,
+        51,
+        46,
+        55,
+        169
+      ]
+    },
+    {
+      "clue": "Critique of a performance.",
+      "answer": "review",
+      "answer_letters": "REVIEW",
+      "indices": [
+        145,
+        134,
+        155,
+        34,
+        31,
+        68
+      ]
+    },
+    {
+      "clue": "A type of service that doesn't halt during the course.",
+      "answer": "nonstop",
+      "answer_letters": "NONSTOP",
+      "indices": [
+        151,
+        159,
+        127,
+        179,
+        50,
+        131,
+        30
+      ]
+    },
+    {
+      "clue": "Staffed entirely by employees of the corporation",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
+      "indices": [
+        49,
+        32,
+        92,
+        4,
+        109,
+        100,
+        89
+      ]
+    },
+    {
+      "clue": "Published by authority",
+      "answer": "gazetted",
+      "answer_letters": "GAZETTED",
+      "indices": [
+        7,
+        93,
+        9,
+        23,
+        91,
+        71,
+        54,
+        33
+      ]
+    },
+    {
+      "clue": "Emptiness inside.",
+      "answer": "hollow",
+      "answer_letters": "HOLLOW",
+      "indices": [
+        62,
+        78,
+        111,
+        153,
         164,
+        48
+      ]
+    },
+    {
+      "clue": "Higher than two-level but lower than skyscraper.",
+      "answer": "three-story",
+      "answer_letters": "THREESTORY",
+      "indices": [
+        43,
         53,
+        80,
+        81,
+        17,
+        171,
+        167,
         26,
-        58,
-        125
+        125,
+        102
       ]
     }
   ],

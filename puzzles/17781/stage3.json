@@ -5,281 +5,281 @@
   "source_letters": "DRAGOSBRATASANUPHD",
   "clues": [
     {
-      "clue": "Used for comparing rates of change.",
-      "answer": "differential",
-      "answer_letters": "DIFFERENTIAL",
+      "clue": "Immortals of Olympus.",
+      "answer": "deities",
+      "answer_letters": "DEITIES",
       "indices": [
         38,
-        138,
-        179,
-        95,
         51,
-        87,
-        129,
-        162,
+        138,
         5,
         69,
-        1,
-        89
-      ]
-    },
-    {
-      "clue": "Olympic event held on lakes and rivers.",
-      "answer": "rowing",
-      "answer_letters": "ROWING",
-      "indices": [
-        108,
-        19,
-        99,
-        102,
-        131,
-        60
-      ]
-    },
-    {
-      "clue": "Not science, but often confused with it.",
-      "answer": "astrology",
-      "answer_letters": "ASTROLOGY",
-      "indices": [
-        41,
-        20,
-        121,
-        114,
-        43,
-        71,
-        66,
-        85,
-        105
-      ]
-    },
-    {
-      "clue": "Business expansion or development.",
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        119,
-        29,
-        36,
-        74,
-        184,
-        160
-      ]
-    },
-    {
-      "clue": "In football, the team tasked with scoring.",
-      "answer": "offense",
-      "answer_letters": "OFFENSE",
-      "indices": [
-        98,
-        147,
-        142,
-        176,
-        144,
-        156,
-        14
-      ]
-    },
-    {
-      "clue": "Time for a quick rinse.",
-      "answer": "shower",
-      "answer_letters": "SHOWER",
-      "indices": [
-        157,
-        77,
-        165,
-        137,
-        32,
-        83
-      ]
-    },
-    {
-      "clue": "Struck by explosives in wartime",
-      "answer": "bombed",
-      "answer_letters": "BOMBED",
-      "indices": [
-        47,
-        94,
-        0,
-        70,
-        25,
-        145
-      ]
-    },
-    {
-      "clue": "Diverse worldviews with different gods, prophets, or teachings.",
-      "answer": "religions",
-      "answer_letters": "RELIGIONS",
-      "indices": [
-        13,
-        126,
-        171,
-        7,
-        9,
-        75,
-        113,
-        2,
-        63
-      ]
-    },
-    {
-      "clue": "Non-stoichiometric compounds can be examples of these.",
-      "answer": "alloys",
-      "answer_letters": "ALLOYS",
-      "indices": [
-        12,
-        139,
-        24,
-        106,
-        164,
-        115
-      ]
-    },
-    {
-      "clue": "Roman numeral XXV.",
-      "answer": "twenty-five",
-      "answer_letters": "TWENTYFIVE",
-      "indices": [
-        168,
-        159,
-        53,
-        154,
-        49,
-        172,
-        27,
-        62,
-        125,
-        72
-      ]
-    },
-    {
-      "clue": "Symbolized as Al on the periodic table.",
-      "answer": "aluminum",
-      "answer_letters": "ALUMINUM",
-      "indices": [
-        124,
-        140,
-        48,
-        117,
-        22,
-        44,
-        166,
-        31
-      ]
-    },
-    {
-      "clue": "Given name for an intelligent young girl.",
-      "answer": "sophie",
-      "answer_letters": "SOPHIE",
-      "indices": [
-        91,
-        28,
-        65,
-        57,
-        16,
-        84
-      ]
-    },
-    {
-      "clue": "With determination or ferocity.",
-      "answer": "aggressively",
-      "answer_letters": "AGGRESSIVELY",
-      "indices": [
-        86,
-        103,
-        150,
-        111,
-        45,
-        174,
-        67,
-        118,
-        152,
-        161,
-        42,
-        3
-      ]
-    },
-    {
-      "clue": "Districts close to one another.",
-      "answer": "neighbourhoods",
-      "answer_letters": "NEIGHBOURHOODS",
-      "indices": [
-        8,
-        90,
-        151,
-        79,
-        97,
-        128,
-        148,
-        107,
-        169,
-        6,
-        80,
-        39,
-        88,
-        10
-      ]
-    },
-    {
-      "clue": "Abbreviated as 'U.' in contexts like U. of Oxford.",
-      "answer": "university's",
-      "answer_letters": "UNIVERSITYS",
-      "indices": [
-        170,
-        33,
-        183,
-        52,
-        130,
-        54,
-        92,
-        58,
-        76,
-        133,
+        129,
         21
       ]
     },
     {
-      "clue": "Welsh port, home to one of Britain's finest castles.",
-      "answer": "pembroke",
-      "answer_letters": "PEMBROKE",
+      "clue": "Couplets often found in poetry.",
+      "answer": "rhymes",
+      "answer_letters": "RHYMES",
+      "indices": [
+        114,
+        57,
+        55,
+        0,
+        25,
+        115
+      ]
+    },
+    {
+      "clue": "Connection or association.",
+      "answer": "affinity",
+      "answer_letters": "AFFINITY",
+      "indices": [
+        1,
+        27,
+        179,
+        22,
+        33,
+        62,
+        35,
+        105
+      ]
+    },
+    {
+      "clue": "Location of Furman University's campus.",
+      "answer": "greenville",
+      "answer_letters": "GREENVILLE",
+      "indices": [
+        103,
+        181,
+        45,
+        161,
+        2,
+        152,
+        75,
+        140,
+        139,
+        176
+      ]
+    },
+    {
+      "clue": "Defeated and replaced, often in a political context.",
+      "answer": "overthrown",
+      "answer_letters": "OVERTHROWN",
+      "indices": [
+        98,
+        125,
+        14,
+        13,
+        49,
+        160,
+        111,
+        28,
+        99,
+        144
+      ]
+    },
+    {
+      "clue": "A classical music work in multiple movements.",
+      "answer": "symphony",
+      "answer_letters": "SYMPHONY",
+      "indices": [
+        157,
+        172,
+        31,
+        65,
+        77,
+        148,
+        8,
+        164
+      ]
+    },
+    {
+      "clue": "Act seen in literary works when ideas are used without full acknowledgment.",
+      "answer": "borrowing",
+      "answer_letters": "BORROWING",
+      "indices": [
+        70,
+        19,
+        108,
+        83,
+        106,
+        159,
+        118,
+        131,
+        150
+      ]
+    },
+    {
+      "clue": "Likely to resist control.",
+      "answer": "rebellious",
+      "answer_letters": "REBELLIOUS",
+      "indices": [
+        149,
+        153,
+        101,
+        155,
+        171,
+        42,
+        7,
+        113,
+        48,
+        68
+      ]
+    },
+    {
+      "clue": "Process of growing older.",
+      "answer": "ageing",
+      "answer_letters": "AGEING",
+      "indices": [
+        41,
+        60,
+        32,
+        102,
+        154,
+        85
+      ]
+    },
+    {
+      "clue": "Vocabulary of a particular subject.",
+      "answer": "terminology",
+      "answer_letters": "TERMINOLOGY",
+      "indices": [
+        76,
+        72,
+        54,
+        117,
+        16,
+        44,
+        43,
+        71,
+        66,
+        119,
+        3
+      ]
+    },
+    {
+      "clue": "Within financial reach.",
+      "answer": "affordable",
+      "answer_letters": "AFFORDABLE",
+      "indices": [
+        124,
+        147,
+        142,
+        165,
+        169,
+        145,
+        12,
+        128,
+        24,
+        53
+      ]
+    },
+    {
+      "clue": "Golf swings (abbr.).",
+      "answer": "strokes",
+      "answer_letters": "STROKES",
+      "indices": [
+        156,
+        121,
+        29,
+        94,
+        177,
+        84,
+        91
+      ]
+    },
+    {
+      "clue": "A fireproof material once used for insulation.",
+      "answer": "asbestos",
+      "answer_letters": "ASBESTOS",
+      "indices": [
+        86,
+        63,
+        47,
+        126,
+        174,
+        168,
+        36,
+        67
+      ]
+    },
+    {
+      "clue": "TV show set in Australia.",
+      "answer": "neighbours",
+      "answer_letters": "NEIGHBOURS",
+      "indices": [
+        59,
+        90,
+        151,
+        79,
+        97,
+        23,
+        80,
+        166,
+        112,
+        20
+      ]
+    },
+    {
+      "clue": "Made cohesive and comprehensive.",
+      "answer": "unified",
+      "answer_letters": "UNIFIED",
+      "indices": [
+        107,
+        162,
+        183,
+        95,
+        58,
+        130,
+        88
+      ]
+    },
+    {
+      "clue": "Admitted to a club following demise.",
+      "answer": "posthumously",
+      "answer_letters": "POSTHUMOUSLY",
       "indices": [
         18,
-        110,
+        39,
+        10,
+        56,
+        6,
+        170,
         17,
-        23,
-        112,
         180,
-        177,
-        175
+        135,
+        92,
+        89,
+        133
       ]
     },
     {
-      "clue": "18th-century geologist who influenced Lyell",
-      "answer": "hutton",
-      "answer_letters": "HUTTON",
+      "clue": "Despite what was previously mentioned.",
+      "answer": "however",
+      "answer_letters": "HOWEVER",
       "indices": [
         120,
-        135,
-        35,
-        56,
         134,
-        59
+        137,
+        110,
+        52,
+        175,
+        87
       ]
     },
     {
-      "clue": "A county in England known for its countryside and Peak District.",
-      "answer": "derbyshire",
-      "answer_letters": "DERBYSHIRE",
+      "clue": "Michele's husband on 'The Office'.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
         81,
-        153,
-        149,
-        101,
-        55,
-        68,
-        123,
+        74,
         143,
-        181,
-        155
+        9,
+        123,
+        184
       ]
     }
   ],

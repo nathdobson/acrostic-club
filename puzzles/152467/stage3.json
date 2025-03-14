@@ -5,51 +5,43 @@
   "source_letters": "PHILPHILOSOFREECHENEY",
   "clues": [
     {
-      "clue": "Place in an order.",
-      "answer": "position",
-      "answer_letters": "POSITION",
+      "clue": "Speaker's platform.",
+      "answer": "podium",
+      "answer_letters": "PODIUM",
       "indices": [
-        66,
-        122,
-        70,
+        132,
+        130,
+        104,
         51,
-        151,
-        103,
-        152,
-        165
+        105,
+        0
       ]
     },
     {
-      "clue": "Legal term for murder.",
-      "answer": "homicide",
-      "answer_letters": "HOMICIDE",
+      "clue": "River Elbe flows through this port city",
+      "answer": "hamburg",
+      "answer_letters": "HAMBURG",
       "indices": [
-        7,
-        88,
-        123,
-        168,
-        129,
-        49,
-        75,
-        33
+        56,
+        161,
+        131,
+        77,
+        5,
+        78,
+        81
       ]
     },
     {
-      "clue": "Deserving of fame and honor.",
-      "answer": "illustrious",
-      "answer_letters": "ILLUSTRIOUS",
+      "clue": "Opposite of open air.",
+      "answer": "indoor",
+      "answer_letters": "INDOOR",
       "indices": [
         24,
-        113,
-        20,
-        155,
-        64,
-        3,
-        156,
-        146,
-        72,
-        105,
-        120
+        110,
+        111,
+        122,
+        152,
+        16
       ]
     },
     {
@@ -57,242 +49,250 @@
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
-        62,
+        113,
         125,
-        102,
-        101,
-        40,
-        167
-      ]
-    },
-    {
-      "clue": "An academic head of a college.",
-      "answer": "provost",
-      "answer_letters": "PROVOST",
-      "indices": [
-        169,
-        16,
-        141,
         50,
-        19,
-        135,
-        91
-      ]
-    },
-    {
-      "clue": "Pretty good-looking.",
-      "answer": "handsome",
-      "answer_letters": "HANDSOME",
-      "indices": [
-        95,
-        133,
-        11,
-        87,
-        46,
-        63,
-        0,
-        159
-      ]
-    },
-    {
-      "clue": "Welcomed for an event or meeting.",
-      "answer": "invited",
-      "answer_letters": "INVITED",
-      "indices": [
-        163,
-        80,
-        115,
-        79,
-        148,
-        86,
-        121
-      ]
-    },
-    {
-      "clue": "Begins when you enter a URL in your browser.",
-      "answer": "loading",
-      "answer_letters": "LOADING",
-      "indices": [
-        21,
-        144,
-        109,
-        104,
-        119,
-        110,
-        53
-      ]
-    },
-    {
-      "clue": "Environments where administrative tasks are performed.",
-      "answer": "offices",
-      "answer_letters": "OFFICES",
-      "indices": [
-        154,
-        83,
-        18,
-        136,
-        145,
-        116,
-        166
-      ]
-    },
-    {
-      "clue": "Action of diving into water.",
-      "answer": "splash",
-      "answer_letters": "SPLASH",
-      "indices": [
-        170,
-        132,
-        48,
-        161,
-        8,
+        146,
+        64,
         60
       ]
     },
     {
-      "clue": "Being in possession of something.",
-      "answer": "owning",
-      "answer_letters": "OWNING",
+      "clue": "Airplane navigators.",
+      "answer": "pilots",
+      "answer_letters": "PILOTS",
       "indices": [
-        42,
+        169,
+        163,
+        160,
+        141,
+        91,
+        135
+      ]
+    },
+    {
+      "clue": "Don Quixote's squire, in literature.",
+      "answer": "hidalgo",
+      "answer_letters": "HIDALGO",
+      "indices": [
+        167,
+        103,
+        87,
+        133,
+        21,
+        26,
+        144
+      ]
+    },
+    {
+      "clue": "Port city in Suffolk, England",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        79,
+        66,
+        46,
+        38,
+        119,
+        145,
+        95
+      ]
+    },
+    {
+      "clue": "The German air force in WWII.",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        74,
+        155,
+        83,
+        148,
         118,
-        138,
-        61,
-        126,
-        26
-      ]
-    },
-    {
-      "clue": "Outline or structure of a document",
-      "answer": "format",
-      "answer_letters": "FORMAT",
-      "indices": [
+        109,
+        18,
         36,
+        86
+      ]
+    },
+    {
+      "clue": "Choices available.",
+      "answer": "options",
+      "answer_letters": "OPTIONS",
+      "indices": [
+        72,
+        59,
+        3,
+        136,
+        42,
+        165,
+        170
+      ]
+    },
+    {
+      "clue": "Electrical device for routing current.",
+      "answer": "switch",
+      "answer_letters": "SWITCH",
+      "indices": [
+        40,
+        23,
+        61,
+        151,
+        6,
+        71
+      ]
+    },
+    {
+      "clue": "Hits from the past.",
+      "answer": "oldies",
+      "answer_letters": "OLDIES",
+      "indices": [
+        63,
+        20,
+        41,
+        101,
+        159,
+        120
+      ]
+    },
+    {
+      "clue": "Lower elevations near mountainous areas.",
+      "answer": "foothills",
+      "answer_letters": "FOOTHILLS",
+      "indices": [
+        14,
+        154,
         114,
-        158,
-        43,
-        28,
-        162
-      ]
-    },
-    {
-      "clue": "They ensure equality before the law.",
-      "answer": "rights",
-      "answer_letters": "RIGHTS",
-      "indices": [
-        78,
+        162,
+        7,
         98,
-        81,
-        71,
-        9,
-        143
+        62,
+        48,
+        8
       ]
     },
     {
-      "clue": "The gradual wearing away of land or rock by natural forces.",
-      "answer": "erosion",
-      "answer_letters": "EROSION",
+      "clue": "Alleged but not confirmed.",
+      "answer": "rumored",
+      "answer_letters": "RUMORED",
       "indices": [
-        12,
-        84,
-        22,
-        134,
-        39,
-        15,
-        99
+        156,
+        73,
+        43,
+        65,
+        158,
+        116,
+        100
       ]
     },
     {
-      "clue": "Use a worker's services",
-      "answer": "employ",
-      "answer_letters": "EMPLOY",
+      "clue": "Home of composer Arvo Pärt.",
+      "answer": "estonia",
+      "answer_letters": "ESTONIA",
       "indices": [
         85,
-        131,
-        59,
-        107,
-        10,
+        134,
+        140,
+        15,
+        25,
+        39,
+        106
+      ]
+    },
+    {
+      "clue": "Life's unremarkable moments.",
+      "answer": "everyday",
+      "answer_letters": "EVERYDAY",
+      "indices": [
+        96,
+        115,
+        33,
+        84,
+        68,
+        75,
+        28,
         149
       ]
     },
     {
-      "clue": "Buckaroo, perhaps?",
-      "answer": "cowboy",
-      "answer_letters": "COWBOY",
+      "clue": "Part of the British Parliament.",
+      "answer": "commons",
+      "answer_letters": "COMMONS",
       "indices": [
-        6,
-        4,
-        23,
-        77,
-        92,
-        68
+        129,
+        88,
+        89,
+        123,
+        10,
+        138,
+        143
       ]
     },
     {
-      "clue": "Emptiness inside.",
-      "answer": "hollow",
-      "answer_letters": "HOLLOW",
+      "clue": "UK soccer boss (2012–15).",
+      "answer": "hodgson",
+      "answer_letters": "HODGSON",
       "indices": [
         67,
+        19,
+        121,
+        53,
+        70,
         137,
-        160,
-        74,
-        130,
-        38
+        80
       ]
     },
     {
-      "clue": "Had words removed or altered.",
-      "answer": "edited",
-      "answer_letters": "EDITED",
+      "clue": "Multiple releases of a literary work.",
+      "answer": "editions",
+      "answer_letters": "EDITIONS",
       "indices": [
         57,
-        100,
-        45,
+        127,
+        168,
         55,
-        96,
-        127
+        49,
+        92,
+        11,
+        166
       ]
     },
     {
-      "clue": "Political entity.",
-      "answer": "nation",
-      "answer_letters": "NATION",
+      "clue": "A vague awareness or sense of something.",
+      "answer": "notion",
+      "answer_letters": "NOTION",
       "indices": [
-        25,
-        106,
+        126,
+        35,
         94,
         31,
-        35,
-        32
+        22,
+        52
       ]
     },
     {
-      "clue": "Author of Cyrano de ___",
-      "answer": "edmond",
-      "answer_letters": "EDMOND",
+      "clue": "The main human-like character in 'E.T. the Extra-Terrestrial'",
+      "answer": "elliot",
+      "answer_letters": "ELLIOT",
       "indices": [
         147,
-        111,
-        89,
-        65,
-        52,
-        41
+        107,
+        30,
+        45,
+        4,
+        9
       ]
     },
     {
-      "clue": "Characteristic of being not yet old.",
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "clue": "Actress named Y. de Carlo.",
+      "answer": "yvonne",
+      "answer_letters": "YVONNE",
       "indices": [
         1,
+        102,
         164,
-        73,
-        140,
-        56,
-        14,
-        5,
-        30
+        32,
+        99,
+        12
       ]
     }
   ],

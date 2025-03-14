@@ -5,126 +5,131 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "A mild term for 'instead'.",
-      "answer": "rather",
-      "answer_letters": "RATHER",
+      "clue": "An escaped convict.",
+      "answer": "runaway",
+      "answer_letters": "RUNAWAY",
       "indices": [
         101,
+        131,
+        55,
         5,
-        0,
-        14,
-        18,
-        78
+        57,
+        103,
+        163
       ]
     },
     {
-      "clue": "Reorganized for easier access.",
-      "answer": "indexed",
-      "answer_letters": "INDEXED",
+      "clue": "Meant to be; destined for something.",
+      "answer": "intended",
+      "answer_letters": "INTENDED",
       "indices": [
         179,
-        168,
-        31,
-        61,
-        19,
+        28,
+        94,
         24,
-        117
+        168,
+        117,
+        116,
+        141
       ]
     },
     {
-      "clue": "Denomination for money in a bank account.",
-      "answer": "capital",
-      "answer_letters": "CAPITAL",
+      "clue": "A place named after an 18th-century British statesman.",
+      "answer": "chatham",
+      "answer_letters": "CHATHAM",
       "indices": [
         72,
-        15,
-        20,
-        82,
+        135,
+        113,
         96,
-        85,
-        128
+        10,
+        88,
+        174
       ]
     },
     {
-      "clue": "Aided or assisted.",
-      "answer": "helped",
-      "answer_letters": "HELPED",
+      "clue": "Increased in degree; amplified.",
+      "answer": "heightened",
+      "answer_letters": "HEIGHTENED",
       "indices": [
-        10,
+        139,
+        175,
+        119,
+        6,
+        84,
+        52,
         151,
-        162,
-        121,
+        157,
         2,
         48
       ]
     },
     {
-      "clue": "State of mind, such as joy or sorrow.",
-      "answer": "emotion",
-      "answer_letters": "EMOTION",
+      "clue": "Synonym for moniker.",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        145,
-        74,
-        73,
-        66,
+        97,
+        99,
         125,
-        171,
-        111
+        109,
+        68,
+        145,
+        66
       ]
     },
     {
-      "clue": "Important in stage design and film production.",
-      "answer": "lighting",
-      "answer_letters": "LIGHTING",
-      "indices": [
-        22,
-        119,
-        161,
-        84,
-        150,
-        38,
-        55,
-        6
-      ]
-    },
-    {
-      "clue": "Name given to certain workers in telecommunication field",
-      "answer": "lineman",
-      "answer_letters": "LINEMAN",
+      "clue": "Spend money freely.",
+      "answer": "lavish",
+      "answer_letters": "LAVISH",
       "indices": [
         123,
-        65,
-        146,
-        127,
-        174,
         156,
-        104
+        126,
+        136,
+        42,
+        91
       ]
     },
     {
-      "clue": "Result of a cause.",
-      "answer": "effect",
-      "answer_letters": "EFFECT",
+      "clue": "Measurement for degrees north or south of the equator.",
+      "answer": "latitude",
+      "answer_letters": "LATITUDE",
       "indices": [
-        144,
-        170,
-        40,
+        162,
+        85,
+        150,
+        38,
+        115,
+        122,
+        44,
+        110
+      ]
+    },
+    {
+      "clue": "Author of Cyrano de ___",
+      "answer": "edmond",
+      "answer_letters": "EDMOND",
+      "indices": [
         7,
-        114,
-        132
+        181,
+        74,
+        21,
+        146,
+        105
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
+      "clue": "He commissioned the Topkapi Palace in Istanbul.",
+      "answer": "mehmed",
+      "answer_letters": "MEHMED",
       "indices": [
-        120,
-        21,
-        91,
-        140,
-        57,
-        54
+        80,
+        32,
+        14,
+        98,
+        144,
+        25
       ]
     },
     {
@@ -132,171 +137,166 @@
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
-        178,
-        44,
-        136,
-        115,
-        32,
-        16
-      ]
-    },
-    {
-      "clue": "Confesses under pressure.",
-      "answer": "admits",
-      "answer_letters": "ADMITS",
-      "indices": [
-        11,
-        70,
-        80,
+        127,
+        16,
         27,
-        12,
-        42
+        132,
+        178,
+        70
       ]
     },
     {
-      "clue": "Tossed out or rejected",
-      "answer": "dumped",
-      "answer_letters": "DUMPED",
+      "clue": "Can purchase within means.",
+      "answer": "afford",
+      "answer_letters": "AFFORD",
       "indices": [
-        25,
-        122,
-        98,
-        99,
-        63,
-        181
-      ]
-    },
-    {
-      "clue": "Set up officially, like a charity or corporation.",
-      "answer": "founded",
-      "answer_letters": "FOUNDED",
-      "indices": [
-        39,
+        140,
+        77,
+        170,
         92,
-        160,
-        149,
-        105,
-        165,
+        62,
         23
       ]
     },
     {
-      "clue": "Assigned a fresh set of digits.",
-      "answer": "renumbered",
-      "answer_letters": "RENUMBERED",
+      "clue": "Known for its proximity to the CN Tower and Lake Ontario",
+      "answer": "dundas",
+      "answer_letters": "DUNDAS",
+      "indices": [
+        158,
+        160,
+        104,
+        37,
+        11,
+        124
+      ]
+    },
+    {
+      "clue": "Brazilian Formula One driver of Ferrari fame.",
+      "answer": "felipe",
+      "answer_letters": "FELIPE",
+      "indices": [
+        40,
+        63,
+        22,
+        46,
+        121,
+        165
+      ]
+    },
+    {
+      "clue": "Once again released for sale.",
+      "answer": "reissued",
+      "answer_letters": "REISSUED",
       "indices": [
         4,
         75,
-        152,
+        30,
+        29,
+        137,
         41,
-        34,
-        130,
         43,
-        172,
-        175,
         86
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
+      "clue": "Defeated and replaced, often in a political context.",
+      "answer": "overthrown",
+      "answer_letters": "OVERTHROWN",
       "indices": [
         79,
-        158,
-        46,
-        124,
+        166,
+        18,
+        78,
+        12,
         60,
-        103
+        93,
+        107,
+        59,
+        149
       ]
     },
     {
-      "clue": "Methods to understand public opinion.",
-      "answer": "surveys",
-      "answer_letters": "SURVEYS",
+      "clue": "Started growth.",
+      "answer": "seeded",
+      "answer_letters": "SEEDED",
       "indices": [
         90,
-        131,
-        93,
-        126,
         100,
+        35,
+        50,
+        167,
+        31
+      ]
+    },
+    {
+      "clue": "Past participle of hurl",
+      "answer": "thrown",
+      "answer_letters": "THROWN",
+      "indices": [
+        9,
+        1,
+        180,
+        171,
+        177,
+        111
+      ]
+    },
+    {
+      "clue": "Location for purchasing admission to shows.",
+      "answer": "box-office",
+      "answer_letters": "BOXOFFICE",
+      "indices": [
+        143,
+        56,
+        19,
+        73,
+        39,
+        108,
+        148,
+        114,
+        61
+      ]
+    },
+    {
+      "clue": "Subtly suggesting something.",
+      "answer": "implying",
+      "answer_letters": "IMPLYING",
+      "indices": [
+        82,
+        34,
+        20,
+        128,
         129,
+        65,
+        152,
+        161
+      ]
+    },
+    {
+      "clue": "They ruled before Zeus and his pantheon.",
+      "answer": "titans",
+      "answer_letters": "TITANS",
+      "indices": [
+        0,
+        49,
+        134,
+        69,
+        51,
         153
       ]
     },
     {
-      "clue": "E. Roosevelt's first name.",
-      "answer": "theodore",
-      "answer_letters": "THEODORE",
-      "indices": [
-        109,
-        68,
-        116,
-        107,
-        141,
-        56,
-        180,
-        97
-      ]
-    },
-    {
-      "clue": "Necessary capacity for data transmission.",
-      "answer": "bandwidth",
-      "answer_letters": "BANDWIDTH",
-      "indices": [
-        143,
-        69,
-        28,
-        37,
-        177,
-        148,
-        50,
-        9,
-        1
-      ]
-    },
-    {
-      "clue": "City with bridges named Si-o-se-pol.",
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
-      "indices": [
-        30,
-        29,
-        77,
-        113,
-        135,
-        88,
-        157
-      ]
-    },
-    {
-      "clue": "Roman numeral XXV.",
-      "answer": "twenty-five",
-      "answer_letters": "TWENTYFIVE",
-      "indices": [
-        134,
-        59,
-        35,
-        51,
-        94,
-        163,
-        108,
-        49,
-        166,
-        167
-      ]
-    },
-    {
-      "clue": "Subject of an annual celebration on Purim",
-      "answer": "esther",
-      "answer_letters": "ESTHER",
+      "clue": "To begin a journey or venture",
+      "answer": "embark",
+      "answer_letters": "EMBARK",
       "indices": [
         154,
-        137,
-        52,
-        139,
-        110,
-        62
+        120,
+        130,
+        15,
+        172,
+        54
       ]
     }
   ],

@@ -5,17 +5,16 @@
   "source_letters": "DIANNEBRIGHTSOULREADER",
   "clues": [
     {
-      "clue": "You earn them at a university.",
-      "answer": "degrees",
-      "answer_letters": "DEGREES",
+      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "answer": "dcdcdc",
+      "answer_letters": "DCDCDC",
       "indices": [
+        35,
+        150,
         127,
-        172,
-        94,
-        191,
-        65,
-        49,
-        101
+        74,
+        145,
+        30
       ]
     },
     {
@@ -23,124 +22,124 @@
       "answer": "italia",
       "answer_letters": "ITALIA",
       "indices": [
-        3,
+        72,
         114,
         55,
-        13,
-        111,
+        85,
+        87,
         103
       ]
     },
     {
-      "clue": "Spanning the entirety of history.",
-      "answer": "all-time",
-      "answer_letters": "ALLTIME",
+      "clue": "Grown-ups.",
+      "answer": "adults",
+      "answer_letters": "ADULTS",
       "indices": [
-        164,
-        77,
+        86,
+        121,
+        41,
         173,
-        119,
-        189,
-        33,
-        70
+        67,
+        101
       ]
     },
     {
-      "clue": "He directed 'The Graduate'.",
-      "answer": "nichols",
-      "answer_letters": "NICHOLS",
+      "clue": "Used to introduce a clarification.",
+      "answer": "namely",
+      "answer_letters": "NAMELY",
+      "indices": [
+        96,
+        185,
+        169,
+        135,
+        98,
+        15
+      ]
+    },
+    {
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
         88,
-        72,
-        150,
+        99,
+        102,
         91,
-        151,
-        188,
-        17
+        28,
+        176
       ]
     },
     {
-      "clue": "This sport is popular in Commonwealth nations and requires teamwork.",
-      "answer": "netball",
-      "answer_letters": "NETBALL",
+      "clue": "Affective understanding of another's situation.",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
       "indices": [
-        79,
-        126,
-        157,
+        95,
+        33,
+        84,
+        177,
+        97,
+        117,
+        178
+      ]
+    },
+    {
+      "clue": "Latin term for warrior or fighter.",
+      "answer": "bellator",
+      "answer_letters": "BELLATOR",
+      "indices": [
         40,
-        185,
-        110,
-        98
-      ]
-    },
-    {
-      "clue": "Made sure rules were followed",
-      "answer": "enforced",
-      "answer_letters": "ENFORCED",
-      "indices": [
-        34,
-        96,
-        11,
-        107,
-        153,
-        30,
-        92,
-        145
-      ]
-    },
-    {
-      "clue": "Lovely or pretty in nature.",
-      "answer": "beautiful",
-      "answer_letters": "BEAUTIFUL",
-      "indices": [
-        6,
-        159,
+        140,
+        188,
+        32,
         190,
-        76,
-        20,
-        123,
-        130,
-        12,
-        32
+        90,
+        129,
+        104
       ]
     },
     {
-      "clue": "Action without conscious thought.",
-      "answer": "reflex",
-      "answer_letters": "REFLEX",
+      "clue": "Symbolic actions performed on regular occasions.",
+      "answer": "ritual",
+      "answer_letters": "RITUAL",
       "indices": [
         122,
-        23,
-        184,
-        7,
-        95,
-        83
+        189,
+        119,
+        26,
+        164,
+        7
       ]
     },
     {
-      "clue": "Named for a plant used to produce its rich color.",
-      "answer": "indigo",
-      "answer_letters": "INDIGO",
+      "clue": "Ballooned, often with hot air or gas.",
+      "answer": "inflated",
+      "answer_letters": "INFLATED",
       "indices": [
         8,
         144,
-        50,
-        68,
-        112,
-        129
+        130,
+        110,
+        161,
+        166,
+        46,
+        50
       ]
     },
     {
-      "clue": "Brick city for Batman.",
-      "answer": "gotham",
-      "answer_letters": "GOTHAM",
+      "clue": "__ Leibniz, a polymath of many talents",
+      "answer": "gottfried",
+      "answer_letters": "GOTTFRIED",
       "indices": [
         139,
-        18,
+        151,
         80,
-        59,
-        44,
-        37
+        0,
+        171,
+        167,
+        123,
+        155,
+        138
       ]
     },
     {
@@ -148,171 +147,172 @@
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
-        134,
-        31,
+        113,
+        44,
+        37,
         64,
-        52,
-        99,
-        4,
+        38,
+        27,
         10,
-        186,
-        187,
-        0,
-        158
-      ]
-    },
-    {
-      "clue": "Standard model used in production.",
-      "answer": "template",
-      "answer_letters": "TEMPLATE",
-      "indices": [
+        52,
+        3,
         58,
-        28,
-        69,
-        124,
-        85,
-        143,
-        56,
-        135
+        1
       ]
     },
     {
-      "clue": "A dalmatian's coat.",
-      "answer": "spotted",
-      "answer_letters": "SPOTTED",
+      "clue": "Resource frequently referenced by students to gain foundational understanding.",
+      "answer": "textbook",
+      "answer_letters": "TEXTBOOK",
+      "indices": [
+        56,
+        70,
+        83,
+        25,
+        6,
+        18,
+        182,
+        105
+      ]
+    },
+    {
+      "clue": "Type of military aircraft designed for invisibility to radar.",
+      "answer": "stealth",
+      "answer_letters": "STEALTH",
       "indices": [
         154,
-        84,
-        182,
-        25,
         174,
-        137,
-        35
+        172,
+        31,
+        45,
+        42,
+        59
       ]
     },
     {
-      "clue": "Counterbalance in terms.",
-      "answer": "offset",
-      "answer_letters": "OFFSET",
+      "clue": "Side project emerging from an original idea.",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
       "indices": [
         181,
-        148,
-        131,
-        141,
-        140,
-        42
-      ]
-    },
-    {
-      "clue": "Home to a prominent university, established in 1636.",
-      "answer": "utrecht",
-      "answer_letters": "UTRECHT",
-      "indices": [
-        41,
-        22,
-        167,
-        53,
-        74,
-        117,
-        48
-      ]
-    },
-    {
-      "clue": "The German air force in WWII.",
-      "answer": "luftwaffe",
-      "answer_letters": "LUFTWAFFE",
-      "indices": [
-        45,
-        26,
-        19,
-        133,
-        176,
-        86,
-        171,
         108,
-        60
-      ]
-    },
-    {
-      "clue": "Move in a circle.",
-      "answer": "rotate",
-      "answer_letters": "ROTATE",
-      "indices": [
-        27,
+        11,
+        141,
+        134,
         147,
-        116,
-        177,
-        67,
-        155
+        107,
+        22
       ]
     },
     {
-      "clue": "Continues to have being or reality.",
-      "answer": "exists",
-      "answer_letters": "EXISTS",
+      "clue": "The land north of NYC.",
+      "answer": "upstate",
+      "answer_letters": "UPSTATE",
       "indices": [
-        38,
-        24,
-        168,
+        152,
+        125,
         62,
-        97,
+        48,
+        143,
+        133,
+        65
+      ]
+    },
+    {
+      "clue": "Used to treat bipolar disorder.",
+      "answer": "lithium",
+      "answer_letters": "LITHIUM",
+      "indices": [
+        77,
+        111,
+        116,
+        158,
+        187,
+        76,
+        186
+      ]
+    },
+    {
+      "clue": "Sanctuary for those in peril",
+      "answer": "refuge",
+      "answer_letters": "REFUGE",
+      "indices": [
+        191,
+        49,
+        184,
+        12,
+        94,
+        34
+      ]
+    },
+    {
+      "clue": "Dominions that have crumbled over time.",
+      "answer": "empires",
+      "answer_letters": "EMPIRES",
+      "indices": [
+        92,
+        69,
+        124,
+        168,
+        153,
+        23,
         9
       ]
     },
     {
-      "clue": "Marital infidelity.",
-      "answer": "adultery",
-      "answer_letters": "ADULTERY",
+      "clue": "Possibly old-fashioned.",
+      "answer": "antique",
+      "answer_letters": "ANTIQUE",
       "indices": [
         118,
-        138,
+        79,
+        157,
+        68,
+        162,
         163,
-        14,
-        166,
-        2,
-        47,
-        15
+        159
       ]
     },
     {
-      "clue": "State with Bismarck as capital",
-      "answer": "dakota",
-      "answer_letters": "DAKOTA",
+      "clue": "Party representatives at a convention.",
+      "answer": "delegates",
+      "answer_letters": "DELEGATES",
       "indices": [
         78,
+        2,
+        14,
+        126,
+        112,
         63,
-        105,
-        75,
         180,
-        161
-      ]
-    },
-    {
-      "clue": "Having all necessary tools at hand.",
-      "answer": "equipped",
-      "answer_letters": "EQUIPPED",
-      "indices": [
         82,
-        162,
-        152,
-        87,
-        102,
-        125,
-        46,
-        121
+        17
       ]
     },
     {
-      "clue": "Time signature component.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "clue": "Vigorous or determined attempt to do something.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        104,
-        113,
-        178,
-        90,
-        1,
-        169
+        137,
+        148,
+        131,
+        75,
+        47,
+        20
+      ]
+    },
+    {
+      "clue": "Action without conscious thought.",
+      "answer": "reflex",
+      "answer_letters": "REFLEX",
+      "indices": [
+        4,
+        53,
+        19,
+        13,
+        60,
+        24
       ]
     }
   ],

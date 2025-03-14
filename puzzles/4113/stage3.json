@@ -5,16 +5,16 @@
   "source_letters": "OSCARWILDEDEPROFUNDIS",
   "clues": [
     {
-      "clue": "Seafood with pearls inside.",
-      "answer": "oyster",
-      "answer_letters": "OYSTER",
+      "clue": "At the exact spot of occurrence or interest.",
+      "answer": "on-site",
+      "answer_letters": "ONSITE",
       "indices": [
-        124,
-        71,
+        35,
+        158,
         92,
+        87,
         0,
-        163,
-        23
+        40
       ]
     },
     {
@@ -31,238 +31,238 @@
       ]
     },
     {
-      "clue": "Where one might find the Royal Opera House.",
-      "answer": "covent",
-      "answer_letters": "COVENT",
+      "clue": "Settlers' new lands in America.",
+      "answer": "colonies",
+      "answer_letters": "COLONIES",
       "indices": [
         27,
-        15,
-        55,
-        139,
-        11,
-        63
-      ]
-    },
-    {
-      "clue": "Where Homer set his epic tales.",
-      "answer": "aegean",
-      "answer_letters": "AEGEAN",
-      "indices": [
-        166,
-        19,
-        5,
-        54,
-        104,
-        45
-      ]
-    },
-    {
-      "clue": "DJ-ed iterations of original hits",
-      "answer": "remixes",
-      "answer_letters": "REMIXES",
-      "indices": [
-        38,
-        22,
-        60,
-        87,
-        20,
-        28,
-        29
-      ]
-    },
-    {
-      "clue": "Transportation's fundamental component.",
-      "answer": "wheels",
-      "answer_letters": "WHEELS",
-      "indices": [
-        79,
-        156,
-        25,
-        82,
-        150,
+        58,
+        167,
+        132,
+        45,
+        31,
+        151,
         122
       ]
     },
     {
-      "clue": "Describing something that turns out differently from what was expected.",
-      "answer": "ironic",
-      "answer_letters": "IRONIC",
+      "clue": "His era marked the end of the Rurik Dynasty.",
+      "answer": "alexei",
+      "answer_letters": "ALEXEI",
       "indices": [
-        165,
+        104,
+        136,
+        139,
+        83,
+        19,
+        94
+      ]
+    },
+    {
+      "clue": "Time signature component.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
         39,
-        49,
-        26,
+        173,
+        71,
+        115,
+        156,
+        60
+      ]
+    },
+    {
+      "clue": "Napoleon’s final military engagement.",
+      "answer": "waterloo",
+      "answer_letters": "WATERLOO",
+      "indices": [
+        79,
+        160,
+        65,
+        25,
+        3,
+        150,
+        98,
+        177
+      ]
+    },
+    {
+      "clue": "Purposeful aim.",
+      "answer": "intent",
+      "answer_letters": "INTENT",
+      "indices": [
         141,
-        90
-      ]
-    },
-    {
-      "clue": "Capital city: Maseru.",
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
-      "indices": [
-        119,
-        91,
-        13,
-        132,
-        34,
-        116,
-        98
-      ]
-    },
-    {
-      "clue": "Bank transaction: money in.",
-      "answer": "deposit",
-      "answer_letters": "DEPOSIT",
-      "indices": [
-        162,
+        128,
+        102,
         56,
-        59,
-        66,
-        32,
-        137,
+        26,
         142
       ]
     },
     {
-      "clue": "Part where the plot is established.",
-      "answer": "exposition",
-      "answer_letters": "EXPOSITION",
+      "clue": "Portable computer",
+      "answer": "laptop",
+      "answer_letters": "LAPTOP",
       "indices": [
-        46,
-        83,
-        21,
-        127,
-        95,
-        120,
-        172,
-        107,
-        148,
-        111
-      ]
-    },
-    {
-      "clue": "Sheriff's assistants.",
-      "answer": "deputies",
-      "answer_letters": "DEPUTIES",
-      "indices": [
-        53,
-        117,
-        121,
-        101,
-        97,
-        94,
-        129,
-        176
-      ]
-    },
-    {
-      "clue": "Subject of a famous Irish ballad",
-      "answer": "eileen",
-      "answer_letters": "EILEEN",
-      "indices": [
-        61,
-        31,
-        57,
-        4,
-        85,
-        62
-      ]
-    },
-    {
-      "clue": "Group of soldiers.",
-      "answer": "platoon",
-      "answer_letters": "PLATOON",
-      "indices": [
-        100,
-        106,
-        157,
-        115,
-        1,
-        78,
-        158
-      ]
-    },
-    {
-      "clue": "The basis on which something is done or justified.",
-      "answer": "rationale",
-      "answer_letters": "RATIONALE",
-      "indices": [
-        86,
-        160,
-        65,
-        110,
-        58,
-        80,
+        119,
         37,
-        136,
-        7
+        21,
+        34,
+        113,
+        100
       ]
     },
     {
-      "clue": "An imperative: 'Be true to _____.",
-      "answer": "oneself",
-      "answer_letters": "ONESELF",
+      "clue": "Michele's husband on 'The Office'.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
       "indices": [
-        169,
-        164,
-        69,
-        153,
-        108,
-        167,
-        170
-      ]
-    },
-    {
-      "clue": "He advanced photography as an art form during the 1800s",
-      "answer": "fenton",
-      "answer_letters": "FENTON",
-      "indices": [
-        138,
-        40,
-        17,
-        112,
-        35,
-        147
-      ]
-    },
-    {
-      "clue": "Boost or raise to a higher position",
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
-      "indices": [
-        178,
-        84,
-        179,
-        144,
-        125,
+        162,
+        50,
+        165,
+        5,
+        116,
         42
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
+      "clue": "Era known for its warm global temperatures and diverse mammalian life.",
+      "answer": "eocene",
+      "answer_letters": "EOCENE",
       "indices": [
-        51,
-        174,
-        133,
-        102,
-        44,
-        50,
-        128
+        46,
+        1,
+        90,
+        22,
+        111,
+        28
       ]
     },
     {
-      "clue": "Sources of charitable gifts.",
-      "answer": "donors",
-      "answer_letters": "DONORS",
+      "clue": "Signals or indicates something.",
+      "answer": "denotes",
+      "answer_letters": "DENOTES",
+      "indices": [
+        53,
+        117,
+        62,
+        148,
+        97,
+        129,
+        95
+      ]
+    },
+    {
+      "clue": "Old World residents.",
+      "answer": "europeans",
+      "answer_letters": "EUROPEANS",
+      "indices": [
+        4,
+        101,
+        38,
+        127,
+        84,
+        85,
+        157,
+        74,
+        176
+      ]
+    },
+    {
+      "clue": "Economically disadvantaged.",
+      "answer": "poorest",
+      "answer_letters": "POOREST",
+      "indices": [
+        59,
+        78,
+        124,
+        23,
+        163,
+        29,
+        172
+      ]
+    },
+    {
+      "clue": "Critique of a performance.",
+      "answer": "review",
+      "answer_letters": "REVIEW",
+      "indices": [
+        86,
+        54,
+        55,
+        120,
+        7,
+        16
+      ]
+    },
+    {
+      "clue": "Organized effort to achieve a goal.",
+      "answer": "operation",
+      "answer_letters": "OPERATION",
+      "indices": [
+        169,
+        121,
+        69,
+        6,
+        166,
+        63,
+        110,
+        73,
+        164
+      ]
+    },
+    {
+      "clue": "Come after in sequence.",
+      "answer": "follow",
+      "answer_letters": "FOLLOW",
+      "indices": [
+        138,
+        44,
+        57,
+        106,
+        66,
+        133
+      ]
+    },
+    {
+      "clue": "Workplace collectives.",
+      "answer": "unions",
+      "answer_letters": "UNIONS",
+      "indices": [
+        178,
+        17,
+        144,
+        49,
+        147,
+        32
+      ]
+    },
+    {
+      "clue": "Streaming service giant.",
+      "answer": "netflix",
+      "answer_letters": "NETFLIX",
+      "indices": [
+        51,
+        174,
+        112,
+        125,
+        179,
+        137,
+        20
+      ]
+    },
+    {
+      "clue": "Protections in law.",
+      "answer": "defenses",
+      "answer_letters": "DEFENSES",
       "indices": [
         68,
-        177,
-        74,
-        113,
-        3,
+        88,
+        170,
+        91,
+        89,
+        13,
+        61,
         76
       ]
     },
@@ -271,27 +271,27 @@
       "answer": "intense",
       "answer_letters": "INTENSE",
       "indices": [
-        24,
-        134,
+        107,
+        80,
         155,
-        12,
-        89,
+        82,
+        134,
         130,
-        88
+        12
       ]
     },
     {
-      "clue": "Rain falling in brief, heavy bursts.",
-      "answer": "showers",
-      "answer_letters": "SHOWERS",
+      "clue": "Series of meetings.",
+      "answer": "session",
+      "answer_letters": "SESSION",
       "indices": [
+        153,
+        108,
         41,
-        173,
-        73,
-        16,
-        151,
-        6,
-        152
+        152,
+        24,
+        15,
+        11
       ]
     }
   ],

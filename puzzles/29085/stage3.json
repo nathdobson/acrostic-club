@@ -5,82 +5,75 @@
   "source_letters": "ISAACMARIONWARMBODIES",
   "clues": [
     {
-      "clue": "Pinpointing characteristics for classification",
-      "answer": "identifying",
-      "answer_letters": "IDENTIFYING",
+      "clue": "Recognize someone or something",
+      "answer": "identify",
+      "answer_letters": "IDENTIFY",
       "indices": [
-        82,
+        72,
         141,
         160,
-        173,
-        135,
-        72,
-        87,
-        14,
-        46,
         47,
-        48
+        135,
+        46,
+        165,
+        14
       ]
     },
     {
-      "clue": "Home to Aldeburgh and Bawdsey.",
-      "answer": "suffolk",
-      "answer_letters": "SUFFOLK",
+      "clue": "A nonmetal in period three, group sixteen of the periodic table",
+      "answer": "sulfur",
+      "answer_letters": "SULFUR",
       "indices": [
         12,
-        60,
-        165,
-        150,
-        128,
+        2,
         24,
-        62
+        150,
+        60,
+        51
       ]
     },
     {
-      "clue": "Relating to the style and planning of buildings.",
-      "answer": "architectural",
-      "answer_letters": "ARCHITECTURAL",
+      "clue": "Sense of sound.",
+      "answer": "auditory",
+      "answer_letters": "AUDITORY",
       "indices": [
-        43,
-        81,
-        109,
-        67,
-        146,
-        138,
-        70,
-        110,
-        133,
-        40,
-        97,
         8,
-        180
+        77,
+        33,
+        31,
+        133,
+        152,
+        113,
+        0
       ]
     },
     {
-      "clue": "Circumvents or steers clear of",
-      "answer": "avoids",
-      "answer_letters": "AVOIDS",
+      "clue": "Energized or stimulated.",
+      "answer": "aroused",
+      "answer_letters": "AROUSED",
       "indices": [
         108,
-        182,
+        101,
         95,
-        114,
-        127,
-        104
+        96,
+        104,
+        103,
+        42
       ]
     },
     {
-      "clue": "Educational institution in Spanish.",
-      "answer": "colegio",
-      "answer_letters": "COLEGIO",
+      "clue": "Bank account type.",
+      "answer": "checking",
+      "answer_letters": "CHECKING",
       "indices": [
-        61,
-        15,
-        32,
-        99,
-        148,
-        52,
-        25
+        109,
+        118,
+        169,
+        110,
+        162,
+        114,
+        56,
+        50
       ]
     },
     {
@@ -89,194 +82,200 @@
       "answer_letters": "MERCURY",
       "indices": [
         9,
-        183,
-        3,
-        29,
-        26,
-        51,
+        174,
+        81,
+        45,
+        178,
+        97,
         38
       ]
     },
     {
-      "clue": "Energized or stimulated.",
-      "answer": "aroused",
-      "answer_letters": "AROUSED",
+      "clue": "Involves aiming for bullseyes from a distance.",
+      "answer": "archery",
+      "answer_letters": "ARCHERY",
       "indices": [
         100,
-        101,
-        181,
-        23,
-        73,
-        103,
-        42
-      ]
-    },
-    {
-      "clue": "Initial footage shot for consideration in editing.",
-      "answer": "rushes",
-      "answer_letters": "RUSHES",
-      "indices": [
-        78,
-        178,
-        130,
-        84,
-        174,
-        65
-      ]
-    },
-    {
-      "clue": "Apple's smart device.",
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
-      "indices": [
-        19,
-        120,
-        118,
-        164,
-        56,
-        68
-      ]
-    },
-    {
-      "clue": "Suitable moment.",
-      "answer": "occasion",
-      "answer_letters": "OCCASION",
-      "indices": [
-        152,
-        161,
-        45,
-        136,
-        137,
-        132,
-        172,
-        54
-      ]
-    },
-    {
-      "clue": "A beginner.",
-      "answer": "novice",
-      "answer_letters": "NOVICE",
-      "indices": [
-        36,
-        1,
-        168,
-        55,
+        151,
         22,
-        7
-      ]
-    },
-    {
-      "clue": "Deserving of respect or reward.",
-      "answer": "worthy",
-      "answer_letters": "WORTHY",
-      "indices": [
-        125,
-        76,
-        18,
-        155,
-        111,
-        0
-      ]
-    },
-    {
-      "clue": "Crafted a book or article.",
-      "answer": "authored",
-      "answer_letters": "AUTHORED",
-      "indices": [
-        112,
-        90,
-        105,
-        156,
-        39,
-        170,
-        139,
-        20
-      ]
-    },
-    {
-      "clue": "Almost a champion.",
-      "answer": "runner-up",
-      "answer_letters": "RUNNERUP",
-      "indices": [
-        142,
-        63,
-        115,
-        159,
-        92,
-        11,
-        77,
-        144
-      ]
-    },
-    {
-      "clue": "'Anything that can go wrong, will...' is named after him.",
-      "answer": "murphy",
-      "answer_letters": "MURPHY",
-      "indices": [
-        153,
-        96,
-        6,
-        64,
         123,
+        35,
+        170,
         75
       ]
     },
     {
-      "clue": "Economic activity involving payment to obtain an item.",
-      "answer": "buying",
-      "answer_letters": "BUYING",
+      "clue": "A common term used to describe the act of moving swiftly, especially by athletes.",
+      "answer": "rushing",
+      "answer_letters": "RUSHING",
       "indices": [
-        80,
-        88,
-        176,
-        31,
-        44,
-        57
+        18,
+        40,
+        65,
+        67,
+        132,
+        173,
+        48
       ]
     },
     {
-      "clue": "Region once under Viking rule, now part of Scotland.",
-      "answer": "orkney",
-      "answer_letters": "ORKNEY",
+      "clue": "Ethical wholeness.",
+      "answer": "integrity",
+      "answer_letters": "INTEGRITY",
       "indices": [
-        177,
-        113,
-        162,
-        102,
-        167,
+        55,
+        44,
+        155,
+        99,
+        57,
+        142,
+        146,
+        138,
         171
       ]
     },
     {
-      "clue": "Placed something carefully for safekeeping",
-      "answer": "deposited",
-      "answer_letters": "DEPOSITED",
+      "clue": "A Baltimore baseball team.",
+      "answer": "orioles",
+      "answer_letters": "ORIOLES",
       "indices": [
-        33,
-        157,
-        145,
         124,
-        107,
-        143,
-        85,
-        116,
-        5
+        3,
+        82,
+        119,
+        180,
+        157,
+        107
       ]
     },
     {
-      "clue": "Mess with someone's business.",
-      "answer": "interfere",
-      "answer_letters": "INTERFERE",
+      "clue": "Choker or chian can also refer to this adornment.",
+      "answer": "necklace",
+      "answer_letters": "NECKLACE",
+      "indices": [
+        54,
+        68,
+        29,
+        62,
+        32,
+        43,
+        161,
+        167
+      ]
+    },
+    {
+      "clue": "'I'll ask _____ knows about this.'",
+      "answer": "whoever",
+      "answer_letters": "WHOEVER",
+      "indices": [
+        125,
+        111,
+        76,
+        7,
+        182,
+        70,
+        11
+      ]
+    },
+    {
+      "clue": "Tony's formal version.",
+      "answer": "anthony",
+      "answer_letters": "ANTHONY",
+      "indices": [
+        112,
+        115,
+        105,
+        156,
+        15,
+        159,
+        94
+      ]
+    },
+    {
+      "clue": "Precipitation that has seeped into a waterway.",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        6,
+        63,
+        36,
+        164,
+        59,
+        87
+      ]
+    },
+    {
+      "clue": "Her song 'Can't Get You Out of My Head'.",
+      "answer": "minogue",
+      "answer_letters": "MINOGUE",
+      "indices": [
+        153,
+        19,
+        102,
+        25,
+        148,
+        23,
+        139
+      ]
+    },
+    {
+      "clue": "Acts or reactions observable in organisms.",
+      "answer": "behaviors",
+      "answer_letters": "BEHAVIORS",
+      "indices": [
+        80,
+        183,
+        84,
+        136,
+        168,
+        143,
+        172,
+        78,
+        137
+      ]
+    },
+    {
+      "clue": "In disagreement.",
+      "answer": "opposed",
+      "answer_letters": "OPPOSED",
+      "indices": [
+        177,
+        144,
+        120,
+        1,
+        130,
+        92,
+        127
+      ]
+    },
+    {
+      "clue": "Secondary in command.",
+      "answer": "deputy",
+      "answer_letters": "DEPUTY",
+      "indices": [
+        5,
+        116,
+        145,
+        26,
+        85,
+        176
+      ]
+    },
+    {
+      "clue": "Initiates a discussion about someone or something.",
+      "answer": "introduces",
+      "answer_letters": "INTRODUCES",
       "indices": [
         21,
         147,
         89,
-        10,
         69,
-        59,
-        129,
-        91,
-        35
+        39,
+        20,
+        16,
+        61,
+        10,
+        27
       ]
     },
     {
@@ -286,24 +285,25 @@
       "indices": [
         121,
         53,
-        119,
-        2,
+        128,
+        88,
         83,
         30
       ]
     },
     {
-      "clue": "A hospital's critical area",
-      "answer": "surgery",
-      "answer_letters": "SURGERY",
+      "clue": "Above or higher in rank or quality.",
+      "answer": "superior",
+      "answer_letters": "SUPERIOR",
       "indices": [
-        27,
-        16,
-        34,
-        50,
-        169,
-        151,
-        94
+        73,
+        90,
+        64,
+        129,
+        91,
+        52,
+        181,
+        34
       ]
     }
   ],

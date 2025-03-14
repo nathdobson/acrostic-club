@@ -5,9 +5,9 @@
   "source_letters": "PIERCEBROWNREDRISING",
   "clues": [
     {
-      "clue": "Admitted to a club following demise.",
-      "answer": "posthumously",
-      "answer_letters": "POSTHUMOUSLY",
+      "clue": "Awarded following demise.",
+      "answer": "posthumous",
+      "answer_letters": "POSTHUMOUS",
       "indices": [
         48,
         70,
@@ -18,104 +18,103 @@
         73,
         41,
         138,
-        38,
-        13,
-        55
+        38
       ]
     },
     {
-      "clue": "This process can capture the likeness of objects, people, or scenes.",
-      "answer": "imaging",
-      "answer_letters": "IMAGING",
+      "clue": "Person jailed for an offense.",
+      "answer": "inmate",
+      "answer_letters": "INMATE",
       "indices": [
-        111,
-        87,
-        79,
-        170,
         52,
         169,
-        43
+        87,
+        131,
+        9,
+        22
       ]
     },
     {
-      "clue": "Wealthy property.",
-      "answer": "estate",
-      "answer_letters": "ESTATE",
+      "clue": "Study of word origins.",
+      "answer": "etymology",
+      "answer_letters": "ETYMOLOGY",
       "indices": [
-        44,
-        100,
-        34,
-        162,
-        89,
-        36
+        36,
+        106,
+        0,
+        32,
+        1,
+        120,
+        12,
+        170,
+        158
       ]
     },
     {
-      "clue": "Model's path to the front row.",
-      "answer": "runway",
-      "answer_letters": "RUNWAY",
+      "clue": "Surname often linked with Italian heritage.",
+      "answer": "romano",
+      "answer_letters": "ROMANO",
       "indices": [
         155,
-        80,
-        7,
-        123,
+        56,
+        103,
         24,
-        114
+        108,
+        149
       ]
     },
     {
-      "clue": "Known for their howling calls.",
-      "answer": "coyotes",
-      "answer_letters": "COYOTES",
+      "clue": "American football champions",
+      "answer": "cowboys",
+      "answer_letters": "COWBOYS",
       "indices": [
         78,
-        122,
-        0,
         67,
-        46,
-        126,
-        26
-      ]
-    },
-    {
-      "clue": "Sounds that bounce back.",
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        19,
-        130,
-        153,
+        71,
+        21,
         15,
-        74,
+        55,
         112
       ]
     },
     {
-      "clue": "Secured a reservation.",
-      "answer": "booked",
-      "answer_letters": "BOOKED",
+      "clue": "In film, these are visual tricks and illusions.",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
       "indices": [
-        76,
-        144,
-        60,
-        147,
-        156,
-        59
+        19,
+        11,
+        66,
+        74,
+        130,
+        98,
+        45
       ]
     },
     {
-      "clue": "Controlled from afar.",
-      "answer": "remotely",
-      "answer_letters": "REMOTELY",
+      "clue": "Underneath in terms of layers.",
+      "answer": "bottom",
+      "answer_letters": "BOTTOM",
+      "indices": [
+        93,
+        144,
+        101,
+        39,
+        60,
+        125
+      ]
+    },
+    {
+      "clue": "Rhythm and blues offshoot popular in Jamaica.",
+      "answer": "reggae",
+      "answer_letters": "REGGAE",
       "indices": [
         94,
-        77,
-        125,
-        149,
-        106,
         99,
-        69,
-        158
+        109,
+        96,
+        107,
+        44
       ]
     },
     {
@@ -123,164 +122,165 @@
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
-        5,
-        57,
-        101,
+        119,
+        116,
+        145,
         118,
         121,
-        141,
+        5,
         152
       ]
     },
     {
-      "clue": "Designer of cool British style.",
-      "answer": "westwood",
-      "answer_letters": "WESTWOOD",
+      "clue": "Scribbler whose name is the surname of one of the Brontë sisters.",
+      "answer": "wilcox",
+      "answer_letters": "WILCOX",
       "indices": [
         16,
-        27,
-        45,
-        39,
-        150,
-        1,
-        12,
-        140
+        29,
+        69,
+        23,
+        141,
+        50
       ]
     },
     {
-      "clue": "Cloudy region in space.",
-      "answer": "nebula",
-      "answer_letters": "NEBULA",
+      "clue": "City in Japan's Chubu region.",
+      "answer": "nagoya",
+      "answer_letters": "NAGOYA",
       "indices": [
         42,
-        22,
-        128,
-        104,
-        68,
+        79,
+        43,
+        175,
+        114,
         86
       ]
     },
     {
-      "clue": "A new version of an existing show.",
-      "answer": "reboot",
-      "answer_letters": "REBOOT",
+      "clue": "French term for royal.",
+      "answer": "royale",
+      "answer_letters": "ROYALE",
       "indices": [
         40,
-        91,
-        21,
         63,
-        119,
-        98
+        136,
+        162,
+        14,
+        156
       ]
     },
     {
-      "clue": "Alimony's former recipient.",
-      "answer": "ex-wife",
-      "answer_letters": "EXWIFE",
+      "clue": "Gave physical presence to an idea.",
+      "answer": "embodied",
+      "answer_letters": "EMBODIED",
       "indices": [
         129,
-        50,
-        71,
-        172,
-        66,
-        82
+        18,
+        76,
+        122,
+        59,
+        168,
+        82,
+        140
       ]
     },
     {
-      "clue": "A step up from A-ball in baseball's developmental ladder.",
-      "answer": "double-a",
-      "answer_letters": "DOUBLEA",
+      "clue": "Twice as much, two of a kind.",
+      "answer": "double",
+      "answer_letters": "DOUBLE",
       "indices": [
-        4,
-        159,
-        2,
-        93,
-        120,
-        134,
-        107
+        174,
+        137,
+        57,
+        128,
+        68,
+        134
       ]
     },
     {
-      "clue": "Almost, in a general sense.",
-      "answer": "roughly",
-      "answer_letters": "ROUGHLY",
+      "clue": "Moved with haste or speed.",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
       "indices": [
         163,
-        167,
-        116,
-        109,
+        160,
+        26,
         90,
-        14,
-        136
+        126,
+        4
       ]
     },
     {
-      "clue": "Brain's visual interpretations.",
-      "answer": "images",
-      "answer_letters": "IMAGES",
+      "clue": "Staffed entirely by employees of the corporation",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
       "indices": [
-        29,
-        32,
-        131,
-        96,
-        164,
-        105
+        111,
+        7,
+        153,
+        159,
+        2,
+        105,
+        164
       ]
     },
     {
-      "clue": "Unbumpy surface.",
-      "answer": "smooth",
-      "answer_letters": "SMOOTH",
+      "clue": "Soccer goalie's dream.",
+      "answer": "shutout",
+      "answer_letters": "SHUTOUT",
       "indices": [
         53,
-        103,
+        35,
+        80,
+        34,
         8,
-        175,
-        9,
-        35
+        104,
+        89
       ]
     },
     {
-      "clue": "Renowned for a bad reason.",
-      "answer": "infamous",
-      "answer_letters": "INFAMOUS",
+      "clue": "A state of being separated from others.",
+      "answer": "isolation",
+      "answer_letters": "ISOLATION",
       "indices": [
         84,
-        62,
-        11,
-        31,
-        18,
+        81,
         115,
-        160,
-        81
+        13,
+        31,
+        46,
+        172,
+        167,
+        62
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
-      "answer": "notion",
-      "answer_letters": "NOTION",
+      "clue": "The magazine is known for its influential covers and in-depth reporting.",
+      "answer": "newsweek",
+      "answer_letters": "NEWSWEEK",
       "indices": [
         143,
-        137,
-        145,
-        168,
-        56,
-        108
+        91,
+        150,
+        100,
+        123,
+        27,
+        77,
+        147
       ]
     },
     {
-      "clue": "Leadership often given by a mentor.",
-      "answer": "guidance",
-      "answer_letters": "GUIDANCE",
+      "clue": "Hairy mammal with long ears.",
+      "answer": "guinea",
+      "answer_letters": "GUINEA",
       "indices": [
         166,
         132,
         95,
-        174,
-        49,
         148,
-        23,
-        154
+        154,
+        49
       ]
     }
   ],

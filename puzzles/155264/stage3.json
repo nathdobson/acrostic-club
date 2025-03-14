@@ -5,77 +5,73 @@
   "source_letters": "GKCHESTERTONHERETICS",
   "clues": [
     {
-      "clue": "Scandinavian city known for Volvo Cars",
-      "answer": "gothenburg",
-      "answer_letters": "GOTHENBURG",
+      "clue": "Acquired with haste.",
+      "answer": "grabbed",
+      "answer_letters": "GRABBED",
       "indices": [
         7,
-        176,
-        43,
-        119,
-        52,
-        151,
-        3,
-        163,
         175,
+        65,
+        3,
+        139,
+        52,
+        161
+      ]
+    },
+    {
+      "clue": "He was Robin Williams' character's mentor.",
+      "answer": "keating",
+      "answer_letters": "KEATING",
+      "indices": [
+        66,
+        24,
+        16,
+        43,
+        95,
+        151,
         178
       ]
     },
     {
-      "clue": "Possessing or maintaining something (with a 'p')",
-      "answer": "keeping",
-      "answer_letters": "KEEPING",
-      "indices": [
-        66,
-        24,
-        171,
-        98,
-        95,
-        55,
-        90
-      ]
-    },
-    {
-      "clue": "Large artillery piece used in warfare.",
-      "answer": "cannon",
-      "answer_letters": "CANNON",
+      "clue": "A night of song, dance and drama.",
+      "answer": "cabaret",
+      "answer_letters": "CABARET",
       "indices": [
         122,
+        81,
+        126,
         136,
-        39,
-        137,
-        120,
-        124
+        143,
+        61,
+        31
       ]
     },
     {
-      "clue": "Former capital of Cuba.",
-      "answer": "havana",
-      "answer_letters": "HAVANA",
+      "clue": "They rose to fame with 'MMMBop'.",
+      "answer": "hanson",
+      "answer_letters": "HANSON",
       "indices": [
-        27,
-        89,
-        132,
+        60,
         123,
         93,
-        91
+        115,
+        107,
+        177
       ]
     },
     {
-      "clue": "The whole shebang.",
-      "answer": "everything",
-      "answer_letters": "EVERYTHING",
+      "clue": "Opposite of mornings.",
+      "answer": "evenings",
+      "answer_letters": "EVENINGS",
       "indices": [
+        4,
+        132,
         64,
-        51,
-        73,
-        21,
-        57,
-        59,
-        60,
-        150,
-        17,
-        35
+        39,
+        92,
+        137,
+        35,
+        9
       ]
     },
     {
@@ -93,197 +89,201 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        31,
-        118,
-        162,
-        63,
-        81,
-        85
-      ]
-    },
-    {
-      "clue": "Result of a cause.",
-      "answer": "effect",
-      "answer_letters": "EFFECT",
-      "indices": [
-        86,
-        1,
-        159,
-        4,
-        135,
-        146
-      ]
-    },
-    {
-      "clue": "He's known for his work in self-help literature",
-      "answer": "robbins",
-      "answer_letters": "ROBBINS",
-      "indices": [
-        11,
-        54,
-        75,
-        126,
-        154,
-        177,
-        9
-      ]
-    },
-    {
-      "clue": "N.J.'s capital city",
-      "answer": "trenton",
-      "answer_letters": "TRENTON",
-      "indices": [
-        10,
-        99,
-        140,
-        96,
-        153,
-        0,
-        6
-      ]
-    },
-    {
-      "clue": "Detected through experience or study.",
-      "answer": "observed",
-      "answer_letters": "OBSERVED",
-      "indices": [
-        107,
-        164,
-        115,
-        147,
-        76,
-        78,
-        127,
-        148
-      ]
-    },
-    {
-      "clue": "City in Japan's Chubu region.",
-      "answer": "nagoya",
-      "answer_letters": "NAGOYA",
-      "indices": [
-        34,
-        131,
-        14,
-        158,
-        110,
-        22
-      ]
-    },
-    {
-      "clue": "Second city of Tasmania.",
-      "answer": "hobart",
-      "answer_letters": "HOBART",
-      "indices": [
-        113,
-        42,
-        139,
-        65,
-        49,
-        102
-      ]
-    },
-    {
-      "clue": "Basic unit of a compound",
-      "answer": "element",
-      "answer_letters": "ELEMENT",
-      "indices": [
-        28,
-        56,
-        79,
-        155,
-        105,
-        82,
-        142
-      ]
-    },
-    {
-      "clue": "Alice's companion in Wonderland.",
-      "answer": "rabbit",
-      "answer_letters": "RABBIT",
-      "indices": [
-        130,
-        100,
-        45,
-        129,
-        5,
-        112
-      ]
-    },
-    {
-      "clue": "Activated or turned on",
-      "answer": "enabled",
-      "answer_letters": "ENABLED",
-      "indices": [
-        46,
-        70,
-        16,
-        170,
-        109,
-        133,
-        18
-      ]
-    },
-    {
       "clue": "Major cash crop of the southern United States.",
       "answer": "tobacco",
       "answer_letters": "TOBACCO",
       "indices": [
-        87,
-        114,
-        20,
-        38,
-        104,
+        59,
+        54,
+        75,
+        91,
         37,
-        33
+        135,
+        162
       ]
     },
     {
-      "clue": "Orange County city in California.",
-      "answer": "irvine",
-      "answer_letters": "IRVINE",
+      "clue": "____ de Beauharnais, an emperor's consort.",
+      "answer": "eugene",
+      "answer_letters": "EUGENE",
       "indices": [
-        92,
-        143,
-        23,
-        103,
-        108,
-        61
+        147,
+        144,
+        14,
+        127,
+        17,
+        86
       ]
     },
     {
-      "clue": "Assembled with precision and care.",
-      "answer": "constructed",
-      "answer_letters": "CONSTRUCTED",
+      "clue": "Gift wrap embellishment.",
+      "answer": "ribbon",
+      "answer_letters": "RIBBON",
+      "indices": [
+        21,
+        150,
+        129,
+        164,
+        158,
+        108
+      ]
+    },
+    {
+      "clue": "Partially cut off or shortened",
+      "answer": "truncated",
+      "answer_letters": "TRUNCATED",
+      "indices": [
+        142,
+        76,
+        163,
+        96,
+        104,
+        131,
+        112,
+        140,
+        148
+      ]
+    },
+    {
+      "clue": "Formerly named Bytown.",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        114,
+        10,
+        153,
+        22,
+        63,
+        89
+      ]
+    },
+    {
+      "clue": "Popular anti-malware program.",
+      "answer": "norton",
+      "answer_letters": "NORTON",
+      "indices": [
+        6,
+        33,
+        11,
+        146,
+        0,
+        34
+      ]
+    },
+    {
+      "clue": "Middle point of a journey.",
+      "answer": "halfway",
+      "answer_letters": "HALFWAY",
+      "indices": [
+        119,
+        50,
+        109,
+        159,
+        118,
+        77,
+        110
+      ]
+    },
+    {
+      "clue": "Beginning of a tunnel or passage.",
+      "answer": "entrance",
+      "answer_letters": "ENTRANCE",
+      "indices": [
+        28,
+        41,
+        87,
+        130,
+        100,
+        82,
+        68,
+        79
+      ]
+    },
+    {
+      "clue": "Victim of a heist.",
+      "answer": "robbed",
+      "answer_letters": "ROBBED",
+      "indices": [
+        99,
+        168,
+        20,
+        45,
+        105,
+        18
+      ]
+    },
+    {
+      "clue": "Affective understanding of another's situation.",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        171,
+        155,
+        98,
+        38,
+        165,
+        113,
+        57
+      ]
+    },
+    {
+      "clue": "Thusly, resulting in",
+      "answer": "thereby",
+      "answer_letters": "THEREBY",
+      "indices": [
+        167,
+        27,
+        46,
+        49,
+        133,
+        170,
+        85
+      ]
+    },
+    {
+      "clue": "Entangle or engage in a matter",
+      "answer": "involve",
+      "answer_letters": "INVOLVE",
+      "indices": [
+        103,
+        124,
+        51,
+        120,
+        56,
+        23,
+        73
+      ]
+    },
+    {
+      "clue": "Not avoiding",
+      "answer": "confronting",
+      "answer_letters": "CONFRONTING",
       "indices": [
         101,
+        176,
+        55,
+        1,
+        32,
         12,
         13,
-        173,
         26,
-        32,
-        144,
-        68,
-        165,
-        116,
-        161
+        5,
+        70,
+        90
       ]
     },
     {
-      "clue": "A genre of chamber music.",
-      "answer": "sonata",
-      "answer_letters": "SONATA",
+      "clue": "Their leader in WWII was Joseph Stalin.",
+      "answer": "soviets",
+      "answer_letters": "SOVIETS",
       "indices": [
-        30,
-        168,
-        41,
-        50,
-        167,
-        77
+        173,
+        42,
+        78,
+        154,
+        116,
+        102,
+        30
       ]
     }
   ],

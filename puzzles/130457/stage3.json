@@ -5,294 +5,294 @@
   "source_letters": "FTMCKINSTRYCROWHARROW",
   "clues": [
     {
-      "clue": "The facing area of a building or lot.",
-      "answer": "frontage",
-      "answer_letters": "FRONTAGE",
+      "clue": "Subsequent action or question.",
+      "answer": "follow-up",
+      "answer_letters": "FOLLOWUP",
       "indices": [
         120,
-        81,
         129,
-        149,
-        83,
-        107,
-        76,
-        68
-      ]
-    },
-    {
-      "clue": "A religious building.",
-      "answer": "temple",
-      "answer_letters": "TEMPLE",
-      "indices": [
-        0,
-        2,
-        128,
-        165,
-        173,
-        7
-      ]
-    },
-    {
-      "clue": "Hairstyle famously worn by Travis Barker.",
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        85,
-        60,
-        92,
-        100,
-        73,
-        140
-      ]
-    },
-    {
-      "clue": "A feeling of ease and relaxation.",
-      "answer": "comfort",
-      "answer_letters": "COMFORT",
-      "indices": [
-        91,
-        93,
-        29,
-        126,
-        72,
-        144,
-        108
-      ]
-    },
-    {
-      "clue": "An organ responsible for filtering waste from the blood.",
-      "answer": "kidney",
-      "answer_letters": "KIDNEY",
-      "indices": [
-        54,
-        66,
-        6,
-        67,
-        161,
-        156
-      ]
-    },
-    {
-      "clue": "Swedish actress known for her role in Casablanca.",
-      "answer": "ingrid",
-      "answer_letters": "INGRID",
-      "indices": [
-        13,
-        167,
-        99,
-        71,
-        84,
-        135
-      ]
-    },
-    {
-      "clue": "A sharp sewing tool.",
-      "answer": "needle",
-      "answer_letters": "NEEDLE",
-      "indices": [
-        38,
-        32,
-        168,
-        17,
-        36,
-        154
-      ]
-    },
-    {
-      "clue": "A perfectly round object shape.",
-      "answer": "sphere",
-      "answer_letters": "SPHERE",
-      "indices": [
-        34,
-        114,
-        26,
-        113,
-        8,
-        141
-      ]
-    },
-    {
-      "clue": "Capital city of Uzbekistan.",
-      "answer": "tashkent",
-      "answer_letters": "TASHKENT",
-      "indices": [
-        88,
-        171,
-        50,
-        41,
-        94,
-        112,
-        104,
-        169
-      ]
-    },
-    {
-      "clue": "Rescinded, as the 18th Amendment.",
-      "answer": "repealed",
-      "answer_letters": "REPEALED",
-      "indices": [
-        16,
-        103,
-        106,
-        55,
-        57,
-        5,
-        80,
-        111
-      ]
-    },
-    {
-      "clue": "Actress who played Sarah Walker in the TV series Chuck.",
-      "answer": "yvonne",
-      "answer_letters": "YVONNE",
-      "indices": [
-        63,
-        153,
-        47,
-        117,
-        146,
-        86
-      ]
-    },
-    {
-      "clue": "TV detective portrayed by Peter Falk.",
-      "answer": "colombo",
-      "answer_letters": "COLOMBO",
-      "indices": [
-        46,
-        30,
         122,
+        36,
+        60,
+        73,
+        145,
+        114
+      ]
+    },
+    {
+      "clue": "Round-robin event in a European language.",
+      "answer": "torneo",
+      "answer_letters": "TORNEO",
+      "indices": [
+        108,
         21,
-        164,
-        44,
+        144,
+        38,
+        86,
         78
       ]
     },
     {
-      "clue": "A member of your family.",
-      "answer": "relative",
-      "answer_letters": "RELATIVE",
+      "clue": "The capital of Saxony-Anhalt state.",
+      "answer": "magdeburg",
+      "answer_letters": "MAGDEBURG",
       "indices": [
-        170,
-        166,
-        123,
-        133,
-        25,
-        148,
-        79,
-        37
-      ]
-    },
-    {
-      "clue": "Monitored the construction of the Panama Canal.",
-      "answer": "oversaw",
-      "answer_letters": "OVERSAW",
-      "indices": [
-        125,
-        65,
-        174,
-        160,
-        131,
-        139,
-        22
-      ]
-    },
-    {
-      "clue": "A device for heating items, often used to heat towels.",
-      "answer": "warmer",
-      "answer_letters": "WARMER",
-      "indices": [
-        59,
-        10,
-        20,
-        48,
-        45,
-        155
-      ]
-    },
-    {
-      "clue": "New York river that separates Manhattan from New Jersey.",
-      "answer": "hudson's",
-      "answer_letters": "HUDSONS",
-      "indices": [
-        109,
+        85,
+        171,
+        99,
+        6,
+        32,
+        44,
         121,
-        62,
-        142,
-        4,
-        75,
-        130
-      ]
-    },
-    {
-      "clue": "Texas A&M University's sports teams.",
-      "answer": "aggies",
-      "answer_letters": "AGGIES",
-      "indices": [
-        97,
-        70,
-        150,
-        163,
-        49,
-        137
-      ]
-    },
-    {
-      "clue": "Comes to a sudden understanding.",
-      "answer": "realizes",
-      "answer_letters": "REALIZES",
-      "indices": [
-        101,
-        159,
-        116,
-        52,
-        74,
-        14,
-        27,
-        23
-      ]
-    },
-    {
-      "clue": "What Dennis Rodman was known for when he played basketball.",
-      "answer": "rebound",
-      "answer_letters": "REBOUND",
-      "indices": [
-        31,
-        152,
-        172,
-        61,
-        145,
-        134,
-        102
-      ]
-    },
-    {
-      "clue": "Having possession of something.",
-      "answer": "owning",
-      "answer_letters": "OWNING",
-      "indices": [
-        89,
-        157,
-        147,
-        35,
-        138,
+        81,
         19
       ]
     },
     {
-      "clue": "American mathematician known for his work on algebraic topology.",
-      "answer": "whitehead",
-      "answer_letters": "WHITEHEAD",
+      "clue": "Football team from Kansas City.",
+      "answer": "chiefs",
+      "answer_letters": "CHIEFS",
+      "indices": [
+        91,
+        92,
+        53,
+        42,
+        126,
+        23
+      ]
+    },
+    {
+      "clue": "Often abbreviated as 'km'.",
+      "answer": "kilometre",
+      "answer_letters": "KILOMETRE",
+      "indices": [
+        94,
+        84,
+        173,
+        30,
+        164,
+        154,
+        169,
+        71,
+        113
+      ]
+    },
+    {
+      "clue": "It's a name for Spain, Portugal, and southern France.",
+      "answer": "iberia",
+      "answer_letters": "IBERIA",
+      "indices": [
+        74,
+        172,
+        141,
+        8,
+        35,
+        100
+      ]
+    },
+    {
+      "clue": "Site of a major airport in NJ.",
+      "answer": "newark",
+      "answer_letters": "NEWARK",
+      "indices": [
+        67,
+        2,
+        157,
+        116,
+        31,
+        140
+      ]
+    },
+    {
+      "clue": "Surname of a renowned author known for 'A Brief History of Time'.",
+      "answer": "stephen",
+      "answer_letters": "STEPHEN",
+      "indices": [
+        50,
+        0,
+        7,
+        165,
+        41,
+        152,
+        167
+      ]
+    },
+    {
+      "clue": "When most hit puberty.",
+      "answer": "teenage",
+      "answer_letters": "TEENAGE",
+      "indices": [
+        83,
+        68,
+        112,
+        149,
+        107,
+        76,
+        161
+      ]
+    },
+    {
+      "clue": "Numbers or events lacking a pattern.",
+      "answer": "random",
+      "answer_letters": "RANDOM",
+      "indices": [
+        20,
+        10,
+        75,
+        62,
+        93,
+        29
+      ]
+    },
+    {
+      "clue": "Actress named Y. de Carlo.",
+      "answer": "yvonne",
+      "answer_letters": "YVONNE",
+      "indices": [
+        156,
+        153,
+        61,
+        134,
+        117,
+        95
+      ]
+    },
+    {
+      "clue": "A holder of nationality within a specific country.",
+      "answer": "citizen",
+      "answer_letters": "CITIZEN",
+      "indices": [
+        46,
+        66,
+        88,
+        13,
+        14,
+        168,
+        104
+      ]
+    },
+    {
+      "clue": "Critique of a performance.",
+      "answer": "review",
+      "answer_letters": "REVIEW",
+      "indices": [
+        160,
+        80,
+        79,
+        163,
+        174,
+        22
+      ]
+    },
+    {
+      "clue": "Views of a vista",
+      "answer": "overlooks",
+      "answer_letters": "OVERLOOKS",
+      "indices": [
+        72,
+        65,
+        45,
+        155,
+        5,
+        89,
+        4,
+        54,
+        137
+      ]
+    },
+    {
+      "clue": "Shakespearean synonym for prudence.",
+      "answer": "wisdom",
+      "answer_letters": "WISDOM",
+      "indices": [
+        59,
+        148,
+        131,
+        111,
+        125,
+        48
+      ]
+    },
+    {
+      "clue": "Given over officially.",
+      "answer": "handed",
+      "answer_letters": "HANDED",
+      "indices": [
+        109,
+        133,
+        147,
+        17,
+        103,
+        102
+      ]
+    },
+    {
+      "clue": "What you plan to discuss at a meeting.",
+      "answer": "agenda",
+      "answer_letters": "AGENDA",
+      "indices": [
+        57,
+        150,
+        55,
+        138,
+        118,
+        139
+      ]
+    },
+    {
+      "clue": "Repetitive patterns in music or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        170,
+        26,
+        63,
+        25,
+        1,
+        128,
+        142
+      ]
+    },
+    {
+      "clue": "Having had the opportunity to relax and unwind.",
+      "answer": "rested",
+      "answer_letters": "RESTED",
+      "indices": [
+        101,
+        159,
+        34,
+        39,
+        27,
+        135
+      ]
+    },
+    {
+      "clue": "Children's home.",
+      "answer": "orphanage",
+      "answer_letters": "ORPHANAGE",
+      "indices": [
+        47,
+        16,
+        106,
+        158,
+        15,
+        146,
+        97,
+        70,
+        49
+      ]
+    },
+    {
+      "clue": "Director known for his work on 'Citizen Kane'.",
+      "answer": "welles",
+      "answer_letters": "WELLES",
       "indices": [
         12,
-        1,
-        53,
-        39,
-        95,
-        158,
-        42,
-        15,
-        118
+        166,
+        52,
+        123,
+        37,
+        130
       ]
     }
   ],

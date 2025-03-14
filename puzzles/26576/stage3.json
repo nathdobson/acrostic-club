@@ -5,102 +5,17 @@
   "source_letters": "TONIALEOTAKINGSHOTS",
   "clues": [
     {
-      "clue": "Location of the Azadi Tower.",
-      "answer": "tehran",
-      "answer_letters": "TEHRAN",
+      "clue": "Double winner.",
+      "answer": "two-time",
+      "answer_letters": "TWOTIME",
       "indices": [
-        13,
-        174,
-        79,
-        77,
-        55,
-        39
-      ]
-    },
-    {
-      "clue": "Public health concern worldwide.",
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
-      "indices": [
+        18,
+        2,
         14,
-        161,
-        126,
-        73,
-        72,
-        70,
-        176
-      ]
-    },
-    {
-      "clue": "Writing system for music.",
-      "answer": "notation",
-      "answer_letters": "NOTATION",
-      "indices": [
-        30,
-        43,
-        6,
-        76,
-        105,
-        0,
-        60,
-        56
-      ]
-    },
-    {
-      "clue": "Enhanced through modification.",
-      "answer": "improved",
-      "answer_letters": "IMPROVED",
-      "indices": [
-        169,
+        57,
+        142,
         139,
-        130,
-        44,
-        20,
-        21,
-        54,
-        31
-      ]
-    },
-    {
-      "clue": "An Italian name meaning 'angel'.",
-      "answer": "angelo",
-      "answer_letters": "ANGELO",
-      "indices": [
-        150,
-        116,
-        11,
-        22,
-        88,
-        166
-      ]
-    },
-    {
-      "clue": "Composer named after a king.",
-      "answer": "ludwig",
-      "answer_letters": "LUDWIG",
-      "indices": [
-        117,
-        122,
-        144,
-        49,
-        9,
-        110
-      ]
-    },
-    {
-      "clue": "Opinion piece in a publication.",
-      "answer": "editorial",
-      "answer_letters": "EDITORIAL",
-      "indices": [
-        159,
-        38,
-        82,
-        59,
-        115,
-        23,
-        131,
-        63,
-        171
+        134
       ]
     },
     {
@@ -108,29 +23,110 @@
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
-        92,
-        155,
-        140,
+        86,
+        39,
+        54,
         42,
-        3,
+        98,
+        156
+      ]
+    },
+    {
+      "clue": "English town known for its races.",
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        146,
+        22,
+        49,
+        161,
+        27,
+        77,
+        8
+      ]
+    },
+    {
+      "clue": "Entangle or engage in a matter",
+      "answer": "involve",
+      "answer_letters": "INVOLVE",
+      "indices": [
+        95,
+        116,
+        173,
+        67,
+        64,
+        112,
+        113
+      ]
+    },
+    {
+      "clue": "Became sufficient or adequate (v.)",
+      "answer": "amounted",
+      "answer_letters": "AMOUNTED",
+      "indices": [
+        150,
+        101,
+        20,
+        122,
+        155,
+        6,
+        102,
+        38
+      ]
+    },
+    {
+      "clue": "Type arrangement on a page.",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
+      "indices": [
+        171,
+        50,
+        25,
+        115,
+        178,
+        59
+      ]
+    },
+    {
+      "clue": "Utterly, without exception.",
+      "answer": "entirely",
+      "answer_letters": "ENTIRELY",
+      "indices": [
+        17,
+        10,
+        152,
+        33,
+        44,
+        132,
+        88,
+        89
+      ]
+    },
+    {
+      "clue": "Commonly referred to as 'ODI' in cricket.",
+      "answer": "one-day",
+      "answer_letters": "ONEDAY",
+      "indices": [
+        92,
+        151,
+        159,
+        144,
+        63,
         165
       ]
     },
     {
-      "clue": "Roman numeral XXV.",
-      "answer": "twenty-five",
-      "answer_letters": "TWENTYFIVE",
+      "clue": "A common timeframe for short-term investments.",
+      "answer": "two-year",
+      "answer_letters": "TWOYEAR",
       "indices": [
-        152,
-        2,
-        102,
-        158,
         34,
+        62,
+        166,
         128,
-        137,
-        33,
-        112,
-        113
+        140,
+        3,
+        127
       ]
     },
     {
@@ -138,141 +134,145 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
+        103,
+        104,
+        118,
+        81,
         29,
-        151,
-        25,
-        62,
-        50,
-        89
-      ]
-    },
-    {
-      "clue": "Organ that filters your blood.",
-      "answer": "kidney",
-      "answer_letters": "KIDNEY",
-      "indices": [
-        65,
-        95,
-        36,
-        146,
-        75,
-        8
-      ]
-    },
-    {
-      "clue": "Innocence from legal prosecution.",
-      "answer": "immunity",
-      "answer_letters": "IMMUNITY",
-      "indices": [
-        37,
-        53,
-        101,
-        178,
-        10,
-        111,
-        107,
         120
       ]
     },
     {
-      "clue": "Term often used in culinary contexts to describe a new wave of restaurants",
-      "answer": "nouveau",
-      "answer_letters": "NOUVEAU",
+      "clue": "A punch strong enough to incapacitate an opponent.",
+      "answer": "knockout",
+      "answer_letters": "KNOCKOUT",
       "indices": [
-        104,
+        45,
+        158,
+        43,
+        133,
+        65,
+        60,
+        162,
+        105
+      ]
+    },
+    {
+      "clue": "Enhance or make better",
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
+      "indices": [
+        131,
+        53,
+        130,
+        23,
         157,
-        167,
-        173,
-        132,
-        103,
-        93
+        125,
+        124
       ]
     },
     {
-      "clue": "Main entrance or access point.",
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
+      "clue": "Easily identified due to negative traits.",
+      "answer": "notorious",
+      "answer_letters": "NOTORIOUS",
       "indices": [
-        16,
-        154,
-        163,
-        134,
-        97,
-        98,
-        91
+        68,
+        26,
+        107,
+        145,
+        7,
+        82,
+        177,
+        93,
+        4
       ]
     },
     {
-      "clue": "Italians' largest island.",
-      "answer": "sicily",
-      "answer_letters": "SICILY",
+      "clue": "Italian moniker shared by da Verrazano and Bellini.",
+      "answer": "giovanni",
+      "answer_letters": "GIOVANNI",
+      "indices": [
+        11,
+        169,
+        121,
+        21,
+        76,
+        30,
+        56,
+        0
+      ]
+    },
+    {
+      "clue": "Across an entire state.",
+      "answer": "statewide",
+      "answer_letters": "STATEWIDE",
       "indices": [
         51,
-        142,
-        133,
+        70,
+        55,
+        13,
+        126,
+        97,
         47,
-        64,
-        156
+        31,
+        174
       ]
     },
     {
-      "clue": "Degrees of distinction awarded upon graduation.",
-      "answer": "honours",
-      "answer_letters": "HONOURS",
+      "clue": "A golden age or flourishing period.",
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
       "indices": [
-        71,
-        108,
-        87,
-        86,
-        27,
-        127,
-        99
+        79,
+        75,
+        91,
+        36,
+        154,
+        176
       ]
     },
     {
-      "clue": "Did better than expected.",
-      "answer": "overtook",
-      "answer_letters": "OVERTOOK",
+      "clue": "Wardrobe ensemble.",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
       "indices": [
-        26,
-        125,
-        17,
-        7,
-        83,
-        145,
-        177,
-        45
+        136,
+        167,
+        147,
+        137,
+        9,
+        83
       ]
     },
     {
-      "clue": "The sum of eleven and eleven.",
-      "answer": "twenty-two",
-      "answer_letters": "TWENTYTWO",
+      "clue": "Book series by Stephenie Meyer",
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
       "indices": [
         40,
         149,
-        124,
-        68,
-        78,
-        118,
-        147,
-        81,
-        136
+        37,
+        117,
+        111,
+        110,
+        84,
+        78
       ]
     },
     {
-      "clue": "Confrontation between gunmen.",
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
+      "clue": "Occurrences that spark debates on gun control.",
+      "answer": "shootings",
+      "answer_letters": "SHOOTINGS",
       "indices": [
-        4,
-        84,
-        67,
-        121,
-        18,
+        99,
+        71,
         172,
-        162,
-        57
+        108,
+        163,
+        72,
+        87,
+        16,
+        73
       ]
     }
   ],

@@ -5,87 +5,87 @@
   "source_letters": "LISAKESSLERWOLFMOON",
   "clues": [
     {
-      "clue": "Hindu goddess of wealth and fortune",
-      "answer": "lakshmi",
-      "answer_letters": "LAKSHMI",
+      "clue": "Used to treat bipolar disorder.",
+      "answer": "lithium",
+      "answer_letters": "LITHIUM",
       "indices": [
-        110,
-        157,
-        3,
-        76,
-        66,
-        10,
-        70
+        97,
+        14,
+        158,
+        18,
+        136,
+        165,
+        30
       ]
     },
     {
-      "clue": "The act of stopping or hindering something.",
-      "answer": "inhibition",
-      "answer_letters": "INHIBITION",
+      "clue": "Driven by a muse.",
+      "answer": "inspired",
+      "answer_letters": "INSPIRED",
       "indices": [
         37,
-        116,
-        0,
+        71,
+        89,
+        74,
         4,
-        128,
-        61,
-        38,
-        88,
-        133,
-        55
-      ]
-    },
-    {
-      "clue": "Opposite of light.",
-      "answer": "shadow",
-      "answer_letters": "SHADOW",
-      "indices": [
-        5,
-        138,
-        75,
-        153,
-        41,
-        27
-      ]
-    },
-    {
-      "clue": "Open-source web server software",
-      "answer": "apache",
-      "answer_letters": "APACHE",
-      "indices": [
-        101,
-        68,
-        28,
-        48,
-        156,
-        146
-      ]
-    },
-    {
-      "clue": "American singer-songwriter active since the mid-2010s.",
-      "answer": "khalid",
-      "answer_letters": "KHALID",
-      "indices": [
-        23,
-        82,
-        173,
-        13,
-        67,
+        152,
+        46,
         98
       ]
     },
     {
-      "clue": "Synonym for moniker.",
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "clue": "Part of historic borough once spanning both sides of the Thames.",
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
       "indices": [
-        107,
-        69,
-        136,
+        80,
+        49,
+        129,
+        38,
+        82,
+        150,
+        75,
+        92,
+        3
+      ]
+    },
+    {
+      "clue": "Known for its intricate patterns and warmth.",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        28,
+        123,
+        72,
+        0,
+        173,
+        116
+      ]
+    },
+    {
+      "clue": "This meteorologist's name is associated with climate zones.",
+      "answer": "köppen",
+      "answer_letters": "KOPPEN",
+      "indices": [
+        23,
+        133,
+        68,
+        15,
+        126,
+        55
+      ]
+    },
+    {
+      "clue": "Complete, with no part missing.",
+      "answer": "entire",
+      "answer_letters": "ENTIRE",
+      "indices": [
+        119,
+        176,
         130,
-        18,
-        139,
-        44
+        61,
+        58,
+        175
       ]
     },
     {
@@ -93,45 +93,40 @@
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
-        22,
-        100,
-        124,
-        65,
-        142,
-        49,
+        112,
+        156,
+        95,
         134,
+        153,
+        124,
+        27,
         169
       ]
     },
     {
-      "clue": "They oversee workers.",
-      "answer": "supervisors",
-      "answer_letters": "SUPERVISORS",
+      "clue": "Countrymen of Ingmar Bergman",
+      "answer": "swedes",
+      "answer_letters": "SWEDES",
       "indices": [
-        6,
-        96,
-        74,
+        22,
+        65,
         57,
-        152,
-        102,
-        24,
-        16,
-        164,
-        29,
-        89
+        63,
+        146,
+        5
       ]
     },
     {
-      "clue": "Players scheduled to start for a sports team.",
-      "answer": "lineup",
-      "answer_letters": "LINEUP",
+      "clue": "A synonym for foliage.",
+      "answer": "leaves",
+      "answer_letters": "LEAVES",
       "indices": [
-        97,
-        14,
-        176,
-        1,
-        129,
-        15
+        13,
+        107,
+        140,
+        145,
+        139,
+        35
       ]
     },
     {
@@ -139,43 +134,100 @@
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
-        126,
-        145,
         91,
-        92,
+        102,
+        1,
+        29,
         11,
-        121,
-        95,
-        63,
+        128,
+        164,
+        142,
         163
       ]
     },
     {
-      "clue": "Water's turbulent journey.",
-      "answer": "rapids",
-      "answer_letters": "RAPIDS",
+      "clue": "Gift wrap embellishment.",
+      "answer": "ribbon",
+      "answer_letters": "RIBBON",
       "indices": [
-        58,
-        140,
-        36,
-        32,
-        160,
-        112
+        125,
+        88,
+        121,
+        105,
+        41,
+        132
       ]
     },
     {
-      "clue": "Location in Dorset, UK with a rich history of trade and industry",
-      "answer": "weymouth",
-      "answer_letters": "WEYMOUTH",
+      "clue": "Contained in limits of.",
+      "answer": "within",
+      "answer_letters": "WITHIN",
       "indices": [
-        150,
-        119,
+        86,
+        24,
+        44,
+        100,
+        67,
+        25
+      ]
+    },
+    {
+      "clue": "Modern games held every four years.",
+      "answer": "olympics",
+      "answer_letters": "OLYMPICS",
+      "indices": [
+        161,
+        110,
         148,
-        30,
-        50,
-        165,
-        158,
-        87
+        118,
+        36,
+        54,
+        48,
+        84
+      ]
+    },
+    {
+      "clue": "Businesses sometimes face many due to disputes.",
+      "answer": "lawsuits",
+      "answer_letters": "LAWSUITS",
+      "indices": [
+        51,
+        101,
+        155,
+        6,
+        96,
+        83,
+        77,
+        16
+      ]
+    },
+    {
+      "clue": "Achievement of something hoped for.",
+      "answer": "fruition",
+      "answer_letters": "FRUITION",
+      "indices": [
+        42,
+        172,
+        79,
+        32,
+        170,
+        70,
+        111,
+        62
+      ]
+    },
+    {
+      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
+      "indices": [
+        10,
+        168,
+        113,
+        56,
+        87,
+        106,
+        94
       ]
     },
     {
@@ -184,98 +236,46 @@
       "answer_letters": "OWNERSHIP",
       "indices": [
         115,
-        94,
-        62,
-        7,
+        53,
+        108,
+        39,
         147,
-        84,
-        45,
-        54,
-        90
-      ]
-    },
-    {
-      "clue": "Progressive or liberal stance.",
-      "answer": "left-wing",
-      "answer_letters": "LEFTWING",
-      "indices": [
-        51,
-        46,
-        123,
-        77,
-        155,
-        83,
-        71,
-        72
-      ]
-    },
-    {
-      "clue": "Scarcest number of items or occurrences.",
-      "answer": "fewest",
-      "answer_letters": "FEWEST",
-      "indices": [
-        42,
-        122,
-        86,
-        106,
         20,
-        170
-      ]
-    },
-    {
-      "clue": "Sixty seconds or sixty parts of an hour.",
-      "answer": "minute",
-      "answer_letters": "MINUTE",
-      "indices": [
-        118,
+        66,
         19,
-        132,
-        79,
-        113,
-        39
+        69
       ]
     },
     {
-      "clue": "A command often used to encourage progress.",
-      "answer": "onward",
-      "answer_letters": "ONWARD",
+      "clue": "Be outshone by another.",
+      "answer": "overshadowed",
+      "answer_letters": "OVERSHADOWED",
       "indices": [
-        111,
-        25,
+        50,
+        174,
+        144,
+        141,
+        76,
+        138,
+        157,
+        160,
+        151,
         60,
-        168,
-        172,
+        122,
         8
       ]
     },
     {
-      "clue": "Participants in a study without influencing it.",
-      "answer": "observers",
-      "answer_letters": "OBSERVERS",
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
-        151,
-        105,
-        80,
-        175,
-        125,
-        174,
-        144,
-        141,
-        35
-      ]
-    },
-    {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        108,
+        33,
+        7,
+        90,
+        45,
         103,
-        53,
-        56,
-        161,
-        167,
-        33
+        167
       ]
     }
   ],

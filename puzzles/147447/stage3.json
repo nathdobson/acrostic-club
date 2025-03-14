@@ -5,156 +5,177 @@
   "source_letters": "LEOTOLSTOYANNAKARENINA",
   "clues": [
     {
-      "clue": "A place where knowledge is shelved, with an apostrophe",
-      "answer": "library's",
-      "answer_letters": "LIBRARYS",
+      "clue": "A district in South London named after a medieval bridge.",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
       "indices": [
-        144,
-        163,
-        149,
-        52,
-        57,
-        161,
-        8,
-        191
-      ]
-    },
-    {
-      "clue": "Takes part in an activity.",
-      "answer": "engages",
-      "answer_letters": "ENGAGES",
-      "indices": [
-        49,
-        58,
-        165,
-        101,
-        20,
-        88,
-        187
-      ]
-    },
-    {
-      "clue": "Improved for efficiency.",
-      "answer": "optimized",
-      "answer_letters": "OPTIMIZED",
-      "indices": [
-        62,
-        66,
-        94,
-        186,
+        48,
+        32,
         178,
-        18,
-        126,
-        127,
+        149,
+        28,
+        70,
+        17
+      ]
+    },
+    {
+      "clue": "Transformed over time.",
+      "answer": "evolved",
+      "answer_letters": "EVOLVED",
+      "indices": [
+        51,
+        27,
+        107,
+        113,
+        40,
+        38,
         147
       ]
     },
     {
-      "clue": "Verified the facts.",
-      "answer": "tested",
-      "answer_letters": "TESTED",
+      "clue": "To an excessive degree.",
+      "answer": "overwhelmingly",
+      "answer_letters": "OVERWHELMINGLY",
       "indices": [
-        131,
-        41,
-        7,
-        43,
-        67,
-        193
-      ]
-    },
-    {
-      "clue": "Gave brief description of proposal.",
-      "answer": "outlined",
-      "answer_letters": "OUTLINED",
-      "indices": [
-        169,
-        170,
-        73,
-        172,
-        112,
-        75,
-        28,
-        59
-      ]
-    },
-    {
-      "clue": "Growth phase preceding full development",
-      "answer": "larval",
-      "answer_letters": "LARVAL",
-      "indices": [
-        90,
-        133,
-        5,
+        3,
         159,
-        72,
-        48
+        41,
+        161,
+        102,
+        111,
+        67,
+        172,
+        61,
+        74,
+        80,
+        165,
+        144,
+        15
       ]
     },
     {
-      "clue": "Interchanged positions.",
-      "answer": "switched",
-      "answer_letters": "SWITCHED",
+      "clue": "Dual-directional.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        54,
-        157,
-        125,
-        70,
-        121,
-        17,
-        146,
-        35
-      ]
-    },
-    {
-      "clue": "Contraction of they and have",
-      "answer": "they've",
-      "answer_letters": "THEYVE",
-      "indices": [
-        153,
-        155,
-        160,
-        15,
-        27,
-        141
-      ]
-    },
-    {
-      "clue": "Path where you can't go back.",
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
-        122,
-        167,
-        91,
+        43,
         96,
-        32,
+        62,
+        157,
+        57,
         150
       ]
     },
     {
-      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
+      "clue": "Conducted with method and order.",
+      "answer": "organized",
+      "answer_letters": "ORGANIZED",
       "indices": [
-        173,
-        158,
-        31,
-        36,
-        124,
-        74
+        169,
+        52,
+        123,
+        72,
+        75,
+        186,
+        126,
+        141,
+        59
       ]
     },
     {
-      "clue": "Come hell or high water.",
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
+      "indices": [
+        90,
+        53,
+        0,
+        6,
+        76,
+        155
+      ]
+    },
+    {
+      "clue": "Goods delivered by truck, plane or boat.",
+      "answer": "shipment",
+      "answer_letters": "SHIPMENT",
+      "indices": [
+        7,
+        44,
+        18,
+        66,
+        31,
+        146,
+        124,
+        131
+      ]
+    },
+    {
+      "clue": "Pertaining to the genre involving fatal flaws leading to downfall.",
+      "answer": "tragic",
+      "answer_letters": "TRAGIC",
+      "indices": [
+        73,
+        140,
+        133,
+        188,
+        125,
+        121
+      ]
+    },
+    {
+      "clue": "Seafood with pearls inside.",
+      "answer": "oyster",
+      "answer_letters": "OYSTER",
+      "indices": [
+        122,
+        33,
+        54,
+        153,
+        160,
+        5
+      ]
+    },
+    {
+      "clue": "Types of leisure vessels.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        8,
+        92,
+        47,
+        23,
+        94,
+        93
+      ]
+    },
+    {
+      "clue": "Championing a particular issue.",
+      "answer": "advocacy",
+      "answer_letters": "ADVOCACY",
       "indices": [
         79,
-        14,
-        180,
-        22,
+        185,
+        142,
+        143,
+        4,
         24,
+        110,
         1
+      ]
+    },
+    {
+      "clue": "English town known for its races.",
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
+      "indices": [
+        14,
+        45,
+        22,
+        182,
+        83,
+        115,
+        180
       ]
     },
     {
@@ -162,106 +183,116 @@
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
-        164,
-        105,
-        120,
-        98,
-        45,
-        185
+        19,
+        49,
+        88,
+        114,
+        166,
+        135
       ]
     },
     {
-      "clue": "Email alert.",
-      "answer": "notification",
-      "answer_letters": "NOTIFICATION",
+      "clue": "______ Beardsley's artwork is distinctive.",
+      "answer": "aubrey",
+      "answer_letters": "AUBREY",
       "indices": [
-        117,
-        156,
-        55,
-        175,
-        108,
-        10,
-        110,
-        13,
-        64,
-        130,
-        107,
-        19
+        101,
+        170,
+        82,
+        71,
+        183,
+        173
       ]
     },
     {
-      "clue": "Creator of blueprints.",
-      "answer": "architect",
-      "answer_letters": "ARCHITECT",
-      "indices": [
-        103,
-        29,
-        37,
-        87,
-        137,
-        25,
-        192,
-        4,
-        176
-      ]
-    },
-    {
-      "clue": "Mounted medieval warriors.",
-      "answer": "knights",
-      "answer_letters": "KNIGHTS",
+      "clue": "Affectionate pecks.",
+      "answer": "kisses",
+      "answer_letters": "KISSES",
       "indices": [
         104,
-        134,
+        97,
+        128,
+        187,
+        99,
+        63
+      ]
+    },
+    {
+      "clue": "Add-ons to boost a property's appeal",
+      "answer": "amenities",
+      "answer_letters": "AMENITIES",
+      "indices": [
+        103,
+        78,
+        69,
+        58,
         168,
-        123,
-        23,
-        84,
+        25,
+        137,
+        116,
         138
       ]
     },
     {
-      "clue": "Collection of digital files, perhaps.",
-      "answer": "archive",
-      "answer_letters": "ARCHIVE",
+      "clue": "How others perceive you.",
+      "answer": "reputation",
+      "answer_letters": "REPUTATION",
       "indices": [
-        179,
         119,
-        47,
-        111,
-        190,
-        40,
-        183
+        192,
+        2,
+        189,
+        176,
+        13,
+        55,
+        175,
+        156,
+        117
       ]
     },
     {
-      "clue": "Critiques or assessments.",
-      "answer": "reviews",
-      "answer_letters": "REVIEWS",
+      "clue": "His work laid groundwork for quantum mechanics.",
+      "answer": "einstein",
+      "answer_letters": "EINSTEIN",
       "indices": [
-        115,
-        51,
-        142,
-        97,
-        38,
-        102,
-        128
-      ]
-    },
-    {
-      "clue": "The whole shebang.",
-      "answer": "everything",
-      "answer_letters": "EVERYTHING",
-      "indices": [
-        53,
-        50,
         26,
-        140,
-        33,
-        86,
-        0,
-        6,
+        112,
         11,
-        76
+        191,
+        86,
+        91,
+        163,
+        167
+      ]
+    },
+    {
+      "clue": "Hours of darkness.",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
+      "indices": [
+        134,
+        190,
+        20,
+        87,
+        84,
+        171
+      ]
+    },
+    {
+      "clue": "A tag that marks documents or files for easy retrieval.",
+      "answer": "identifier",
+      "answer_letters": "IDENTIFIER",
+      "indices": [
+        10,
+        98,
+        105,
+        164,
+        64,
+        130,
+        108,
+        39,
+        120,
+        29
       ]
     },
     {
@@ -270,55 +301,24 @@
       "answer_letters": "NETTED",
       "indices": [
         68,
-        116,
+        158,
         16,
         145,
-        99,
-        114
+        36,
+        193
       ]
     },
     {
-      "clue": "Made mandatory",
-      "answer": "imposed",
-      "answer_letters": "IMPOSED",
+      "clue": "Recommendations usually given by experts.",
+      "answer": "advice",
+      "answer_letters": "ADVICE",
       "indices": [
-        39,
-        78,
-        2,
-        143,
-        63,
-        166,
-        135
-      ]
-    },
-    {
-      "clue": "TV show set in Australia.",
-      "answer": "neighbours",
-      "answer_letters": "NEIGHBOURS",
-      "indices": [
-        80,
-        69,
+        179,
+        35,
+        50,
         152,
-        188,
-        44,
-        182,
-        3,
-        83,
-        71,
-        171
-      ]
-    },
-    {
-      "clue": "Collections of music tracks.",
-      "answer": "albums",
-      "answer_letters": "ALBUMS",
-      "indices": [
-        92,
-        113,
-        82,
-        189,
-        61,
-        93
+        37,
+        127
       ]
     }
   ],

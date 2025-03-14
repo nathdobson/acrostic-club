@@ -5,49 +5,44 @@
   "source_letters": "ROBINMCKINLEYSUNSHINE",
   "clues": [
     {
-      "clue": "It towers in California's forests.",
-      "answer": "redwood",
-      "answer_letters": "REDWOOD",
+      "clue": "Made over with significant changes",
+      "answer": "revamped",
+      "answer_letters": "REVAMPED",
       "indices": [
         37,
         39,
-        160,
-        163,
-        11,
-        151,
-        106
+        169,
+        112,
+        67,
+        77,
+        56,
+        160
       ]
     },
     {
-      "clue": "Be outshone by another.",
-      "answer": "overshadowed",
-      "answer_letters": "OVERSHADOWED",
+      "clue": "State capital: Bhubaneswar.",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
       "indices": [
-        17,
-        169,
-        56,
-        95,
+        11,
+        106,
+        104,
         161,
         130,
-        112,
-        65,
-        49,
-        10,
-        26,
-        174
+        134
       ]
     },
     {
-      "clue": "To act in a socially acceptable manner.",
-      "answer": "behave",
-      "answer_letters": "BEHAVE",
+      "clue": "Biblical location where Joshua encountered God.",
+      "answer": "bethel",
+      "answer_letters": "BETHEL",
       "indices": [
         58,
-        38,
+        26,
+        99,
         32,
-        134,
-        122,
-        92
+        38,
+        126
       ]
     },
     {
@@ -55,253 +50,258 @@
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
-        158,
-        51,
-        46,
-        153,
-        148,
+        42,
+        172,
+        183,
+        149,
+        89,
         98
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
-      "indices": [
-        159,
-        73,
-        12,
-        21,
-        23,
-        0,
-        149,
-        19,
-        184
-      ]
-    },
-    {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
-      "indices": [
-        146,
-        165,
-        6,
-        142,
-        117,
-        157
-      ]
-    },
-    {
-      "clue": "Home to kings and queens.",
-      "answer": "castle",
-      "answer_letters": "CASTLE",
-      "indices": [
-        115,
-        121,
-        179,
-        70,
-        137,
-        69
-      ]
-    },
-    {
-      "clue": "Slain, as in a murder mystery.",
-      "answer": "killed",
-      "answer_letters": "KILLED",
-      "indices": [
-        103,
-        79,
-        152,
-        61,
-        100,
-        144
-      ]
-    },
-    {
-      "clue": "Conducive to participation or visitation.",
-      "answer": "inviting",
-      "answer_letters": "INVITING",
-      "indices": [
-        178,
-        143,
-        25,
-        114,
-        31,
-        138,
-        139,
-        136
-      ]
-    },
-    {
-      "clue": "Daughter's son.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "clue": "Telecommunication grid.",
+      "answer": "network",
+      "answer_letters": "NETWORK",
       "indices": [
         168,
-        185,
-        87,
-        164,
-        82,
-        41
+        173,
+        5,
+        0,
+        52,
+        12,
+        103
       ]
     },
     {
-      "clue": "Distance from head to tail.",
-      "answer": "length",
-      "answer_letters": "LENGTH",
+      "clue": "Causal factors in conduct.",
+      "answer": "motives",
+      "answer_letters": "MOTIVES",
       "indices": [
-        13,
+        146,
+        17,
+        31,
+        178,
+        122,
+        69,
+        181
+      ]
+    },
+    {
+      "clue": "British town with a cathedral.",
+      "answer": "chester",
+      "answer_letters": "CHESTER",
+      "indices": [
+        115,
+        84,
+        100,
+        29,
+        129,
         123,
-        80,
-        113,
-        54,
+        78
+      ]
+    },
+    {
+      "clue": "Official language of Karnataka.",
+      "answer": "kannada",
+      "answer_letters": "KANNADA",
+      "indices": [
+        157,
+        59,
+        105,
+        143,
+        2,
+        65,
+        142
+      ]
+    },
+    {
+      "clue": "Port city in Suffolk, England",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        114,
+        86,
+        8,
+        10,
+        138,
+        81,
         1
       ]
     },
     {
-      "clue": "Wealthy property.",
-      "answer": "estate",
-      "answer_letters": "ESTATE",
+      "clue": "Adviser to King David, a counselor during his reign.",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        173,
-        183,
-        172,
-        63,
-        5,
-        18
-      ]
-    },
-    {
-      "clue": "Motorcycle brand.",
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        72,
-        125,
-        111,
-        85,
-        36,
-        24
-      ]
-    },
-    {
-      "clue": "Destructively broken.",
-      "answer": "smashed",
-      "answer_letters": "SMASHED",
-      "indices": [
-        29,
-        133,
-        97,
-        8,
-        120,
-        131,
-        14
-      ]
-    },
-    {
-      "clue": "Usefulness.",
-      "answer": "utility",
-      "answer_letters": "UTILITY",
-      "indices": [
-        74,
-        176,
-        167,
-        60,
-        42,
-        35,
-        90
-      ]
-    },
-    {
-      "clue": "An empty set.",
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
-      "indices": [
-        135,
-        52,
-        129,
-        84,
-        28,
-        171,
-        140
-      ]
-    },
-    {
-      "clue": "Removed from circulation or production.",
-      "answer": "scrapped",
-      "answer_letters": "SCRAPPED",
-      "indices": [
-        181,
-        81,
-        101,
+        80,
         147,
-        77,
-        86,
-        33,
+        155,
+        120,
+        97,
+        154
+      ]
+    },
+    {
+      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
+      "indices": [
+        127,
+        182,
+        133,
+        87,
+        36,
+        108,
+        186,
+        125
+      ]
+    },
+    {
+      "clue": "Becoming more complex or advanced.",
+      "answer": "evolving",
+      "answer_letters": "EVOLVING",
+      "indices": [
+        18,
+        25,
+        73,
+        148,
+        93,
+        158,
+        159,
+        48
+      ]
+    },
+    {
+      "clue": "Opposite of black and blue.",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        90,
+        82,
+        137,
+        152,
+        165,
+        41
+      ]
+    },
+    {
+      "clue": "Established itself or someone in a particular place",
+      "answer": "settled",
+      "answer_letters": "SETTLED",
+      "indices": [
+        19,
+        94,
+        51,
+        21,
+        60,
+        153,
         16
       ]
     },
     {
-      "clue": "Crash protection for a motorcyclist's noggin.",
-      "answer": "helmet",
-      "answer_letters": "HELMET",
+      "clue": "Capital: Kampala",
+      "answer": "uganda",
+      "answer_letters": "UGANDA",
+      "indices": [
+        74,
+        113,
+        85,
+        171,
+        144,
+        24
+      ]
+    },
+    {
+      "clue": "Robin Hood's home base",
+      "answer": "nottingham",
+      "answer_letters": "NOTTINGHAM",
+      "indices": [
+        139,
+        49,
+        54,
+        3,
+        28,
+        135,
+        140,
+        55,
+        121,
+        111
+      ]
+    },
+    {
+      "clue": "A first album or book named directly after the performer or author.",
+      "answer": "self-titled",
+      "answer_letters": "SELFTITLED",
+      "indices": [
+        46,
+        131,
+        61,
+        109,
+        176,
+        88,
+        35,
+        13,
+        45,
+        174
+      ]
+    },
+    {
+      "clue": "Second most important source in Islamic law after the Quran.",
+      "answer": "hadith",
+      "answer_letters": "HADITH",
       "indices": [
         44,
-        45,
-        89,
-        186,
-        94,
-        155
+        63,
+        14,
+        167,
+        184,
+        23
       ]
     },
     {
-      "clue": "One who provides secret disclosures.",
-      "answer": "informant",
-      "answer_letters": "INFORMANT",
+      "clue": "Perceptions gleaned through analysis.",
+      "answer": "insights",
+      "answer_letters": "INSIGHTS",
       "indices": [
-        104,
-        64,
-        109,
-        108,
-        78,
-        67,
-        59,
-        20,
-        99
-      ]
-    },
-    {
-      "clue": "City of country music fame.",
-      "answer": "nashville",
-      "answer_letters": "NASHVILLE",
-      "indices": [
-        105,
-        2,
-        43,
-        177,
-        150,
         7,
-        126,
-        127,
+        64,
+        43,
+        79,
+        136,
+        177,
+        70,
+        179
+      ]
+    },
+    {
+      "clue": "Absence of place.",
+      "answer": "nowhere",
+      "answer_letters": "NOWHERE",
+      "indices": [
+        20,
+        151,
+        163,
+        6,
+        92,
+        95,
         68
       ]
     },
     {
-      "clue": "The whole shebang.",
-      "answer": "everything",
-      "answer_letters": "EVERYTHING",
+      "clue": "At any place or location.",
+      "answer": "everywhere",
+      "answer_letters": "EVERYWHERE",
       "indices": [
         118,
-        93,
+        150,
         170,
         75,
-        182,
-        3,
-        55,
-        88,
-        154,
-        48
+        72,
+        117,
+        164,
+        33,
+        101,
+        185
       ]
     }
   ],

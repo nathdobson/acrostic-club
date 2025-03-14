@@ -5,273 +5,29 @@
   "source_letters": "SHERWOODSMITHCROWNDUEL",
   "clues": [
     {
-      "clue": "Esteemed actor with Middle Eastern roots.",
-      "answer": "sharif",
-      "answer_letters": "SHARIF",
+      "clue": "Discharge from sanitary systems.",
+      "answer": "sewage",
+      "answer_letters": "SEWAGE",
       "indices": [
-        139,
-        121,
-        85,
-        173,
-        19,
-        145
-      ]
-    },
-    {
-      "clue": "Managed a presentation or show.",
-      "answer": "hosted",
-      "answer_letters": "HOSTED",
-      "indices": [
-        2,
-        104,
-        86,
-        162,
-        27,
-        115
-      ]
-    },
-    {
-      "clue": "Synonym for moniker.",
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
-      "indices": [
-        13,
-        125,
-        126,
-        177,
-        62,
-        97,
-        52
-      ]
-    },
-    {
-      "clue": "A mild term for 'instead'.",
-      "answer": "rather",
-      "answer_letters": "RATHER",
-      "indices": [
-        56,
-        34,
-        54,
-        87,
-        24,
-        46
-      ]
-    },
-    {
-      "clue": "Had a famous connection to the Royal Family.",
-      "answer": "wallis",
-      "answer_letters": "WALLIS",
-      "indices": [
-        67,
-        74,
-        142,
-        18,
-        59,
-        101
-      ]
-    },
-    {
-      "clue": "Counterbalance in terms.",
-      "answer": "offset",
-      "answer_letters": "OFFSET",
-      "indices": [
-        146,
-        179,
-        65,
-        95,
-        22,
-        78
-      ]
-    },
-    {
-      "clue": "Island where WWII's last major battle occurred.",
-      "answer": "okinawa",
-      "answer_letters": "OKINAWA",
-      "indices": [
-        136,
-        12,
-        88,
-        60,
-        132,
-        164,
-        149
-      ]
-    },
-    {
-      "clue": "Michele's husband on 'The Office'.",
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
-      "indices": [
-        82,
-        131,
-        105,
-        107,
-        151,
-        135
-      ]
-    },
-    {
-      "clue": "Network for TV specials, perhaps?",
-      "answer": "showtime",
-      "answer_letters": "SHOWTIME",
-      "indices": [
-        170,
-        176,
-        55,
-        32,
-        171,
-        51,
-        16,
-        57
-      ]
-    },
-    {
-      "clue": "Recollections, often nostalgic.",
-      "answer": "memories",
-      "answer_letters": "MEMORIES",
-      "indices": [
-        140,
-        155,
-        25,
-        137,
-        21,
-        174,
-        127,
-        41
-      ]
-    },
-    {
-      "clue": "Contemplate or visualize.",
-      "answer": "imagine",
-      "answer_letters": "IMAGINE",
-      "indices": [
-        37,
-        23,
-        45,
-        175,
-        80,
-        70,
-        44
-      ]
-    },
-    {
-      "clue": "Undulating land.",
-      "answer": "terrain",
-      "answer_letters": "TERRAIN",
-      "indices": [
-        93,
-        6,
-        73,
-        147,
-        10,
-        47,
-        11
-      ]
-    },
-    {
-      "clue": "Superlative degree.",
-      "answer": "highest",
-      "answer_letters": "HIGHEST",
-      "indices": [
-        96,
-        92,
-        103,
-        72,
-        17,
-        166,
-        159
-      ]
-    },
-    {
-      "clue": "Places where legal disputes are adjudicated.",
-      "answer": "courts",
-      "answer_letters": "COURTS",
-      "indices": [
-        128,
-        3,
-        158,
-        28,
-        14,
-        5
-      ]
-    },
-    {
-      "clue": "First name of Scottish footballer Robert Snodgrass.",
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
-      "indices": [
-        153,
-        110,
-        26,
-        8,
-        122,
-        129
-      ]
-    },
-    {
-      "clue": "Formerly named Bytown.",
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        180,
-        109,
-        120,
-        100,
-        99,
-        141
-      ]
-    },
-    {
-      "clue": "Pioneers of modern aviation",
-      "answer": "wright's",
-      "answer_letters": "WRIGHTS",
-      "indices": [
-        39,
-        79,
-        76,
-        49,
-        68,
-        35,
-        123
-      ]
-    },
-    {
-      "clue": "Oscar-winning actor Paul ______.",
-      "answer": "newman",
-      "answer_letters": "NEWMAN",
-      "indices": [
-        89,
-        113,
-        84,
-        112,
-        165,
-        75
-      ]
-    },
-    {
-      "clue": "His last name is a Canadian province.",
-      "answer": "dawson",
-      "answer_letters": "DAWSON",
-      "indices": [
-        30,
-        40,
-        43,
-        154,
-        152,
-        114
-      ]
-    },
-    {
-      "clue": "Trouble or turmoil.",
-      "answer": "unrest",
-      "answer_letters": "UNREST",
-      "indices": [
-        169,
-        48,
-        4,
-        69,
         133,
-        118
+        81,
+        131,
+        165,
+        49,
+        6
+      ]
+    },
+    {
+      "clue": "Spoken in parts of Israel today.",
+      "answer": "hebrew",
+      "answer_letters": "HEBREW",
+      "indices": [
+        72,
+        155,
+        8,
+        46,
+        17,
+        39
       ]
     },
     {
@@ -279,27 +35,271 @@
       "answer": "elijah",
       "answer_letters": "ELIJAH",
       "indices": [
-        81,
-        9,
-        161,
+        29,
+        142,
+        80,
         168,
-        0,
+        40,
+        68
+      ]
+    },
+    {
+      "clue": "Feminine of Roberto.",
+      "answer": "roberta",
+      "answer_letters": "ROBERTA",
+      "indices": [
+        21,
+        3,
+        157,
+        69,
+        73,
+        177,
+        85
+      ]
+    },
+    {
+      "clue": "Something resembling white, slightly off.",
+      "answer": "whitish",
+      "answer_letters": "WHITISH",
+      "indices": [
+        67,
+        151,
+        92,
+        78,
+        47,
+        101,
         33
       ]
     },
     {
-      "clue": "Attaching names or identifiers to objects.",
-      "answer": "labeling",
-      "answer_letters": "LABELING",
+      "clue": "Being in possession of something.",
+      "answer": "owning",
+      "answer_letters": "OWNING",
       "indices": [
-        64,
-        63,
-        157,
-        29,
-        143,
-        117,
-        106,
+        110,
+        99,
+        48,
+        161,
+        114,
         90
+      ]
+    },
+    {
+      "clue": "Nearby to Rochdale and Bury.",
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        146,
+        9,
+        115,
+        62,
+        74,
+        23
+      ]
+    },
+    {
+      "clue": "Part of the title for the residence of the UK Prime Minister.",
+      "answer": "downing",
+      "answer_letters": "DOWNING",
+      "indices": [
+        30,
+        152,
+        32,
+        89,
+        174,
+        11,
+        103
+      ]
+    },
+    {
+      "clue": "Bears the burden of adversity.",
+      "answer": "suffers",
+      "answer_letters": "SUFFERS",
+      "indices": [
+        166,
+        169,
+        179,
+        145,
+        13,
+        4,
+        86
+      ]
+    },
+    {
+      "clue": "State defense force.",
+      "answer": "militia",
+      "answer_letters": "MILITIA",
+      "indices": [
+        112,
+        122,
+        18,
+        105,
+        120,
+        51,
+        34
+      ]
+    },
+    {
+      "clue": "Remove from social interaction.",
+      "answer": "isolate",
+      "answer_letters": "ISOLATE",
+      "indices": [
+        88,
+        123,
+        180,
+        64,
+        149,
+        171,
+        129
+      ]
+    },
+    {
+      "clue": "Savorings one might prefer.",
+      "answer": "tastes",
+      "answer_letters": "TASTES",
+      "indices": [
+        159,
+        63,
+        154,
+        162,
+        97,
+        5
+      ]
+    },
+    {
+      "clue": "Till now, previously.",
+      "answer": "hitherto",
+      "answer_letters": "HITHERTO",
+      "indices": [
+        2,
+        76,
+        118,
+        87,
+        24,
+        173,
+        109,
+        104
+      ]
+    },
+    {
+      "clue": "Groups serving those in need.",
+      "answer": "charities",
+      "answer_letters": "CHARITIES",
+      "indices": [
+        128,
+        176,
+        0,
+        28,
+        59,
+        54,
+        19,
+        113,
+        41
+      ]
+    },
+    {
+      "clue": "Capital of Saskatchewan, Canada.",
+      "answer": "regina",
+      "answer_letters": "REGINA",
+      "indices": [
+        147,
+        127,
+        175,
+        117,
+        70,
+        45
+      ]
+    },
+    {
+      "clue": "Formerly named Bytown.",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
+      "indices": [
+        136,
+        52,
+        93,
+        132,
+        84,
+        100
+      ]
+    },
+    {
+      "clue": "Essence of coziness.",
+      "answer": "warmth",
+      "answer_letters": "WARMTH",
+      "indices": [
+        43,
+        10,
+        153,
+        140,
+        35,
+        96
+      ]
+    },
+    {
+      "clue": "Up-to-date or modern.",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        60,
+        22,
+        164,
+        27,
+        139,
+        14
+      ]
+    },
+    {
+      "clue": "Profound layers.",
+      "answer": "depths",
+      "answer_letters": "DEPTHS",
+      "indices": [
+        82,
+        57,
+        125,
+        135,
+        121,
+        170
+      ]
+    },
+    {
+      "clue": "Regimental attire.",
+      "answer": "uniform",
+      "answer_letters": "UNIFORM",
+      "indices": [
+        158,
+        75,
+        37,
+        65,
+        55,
+        79,
+        16
+      ]
+    },
+    {
+      "clue": "To begin a journey or venture",
+      "answer": "embark",
+      "answer_letters": "EMBARK",
+      "indices": [
+        44,
+        25,
+        26,
+        141,
+        56,
+        12
+      ]
+    },
+    {
+      "clue": "Described when a team falls behind in score.",
+      "answer": "losing",
+      "answer_letters": "LOSING",
+      "indices": [
+        143,
+        137,
+        95,
+        126,
+        106,
+        107
       ]
     }
   ],

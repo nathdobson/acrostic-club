@@ -5,211 +5,98 @@
   "source_letters": "RAINBOWROWELLCARRYON",
   "clues": [
     {
-      "clue": "Surname associated with a theorem in combinatorics.",
-      "answer": "ramsey",
-      "answer_letters": "RAMSEY",
+      "clue": "Victim of a heist.",
+      "answer": "robbed",
+      "answer_letters": "ROBBED",
       "indices": [
         87,
-        16,
-        168,
-        34,
-        166,
-        32
-      ]
-    },
-    {
-      "clue": "A sudden hostile action",
-      "answer": "attack",
-      "answer_letters": "ATTACK",
-      "indices": [
-        115,
-        133,
-        26,
-        151,
-        159,
-        130
-      ]
-    },
-    {
-      "clue": "A term for those pushing an aggressive agenda under the guise of Islam.",
-      "answer": "islamist",
-      "answer_letters": "ISLAMIST",
-      "indices": [
-        88,
-        82,
-        62,
-        9,
-        100,
-        35,
-        150,
-        3
-      ]
-    },
-    {
-      "clue": "Capital: Windhoek.",
-      "answer": "namibia",
-      "answer_letters": "NAMIBIA",
-      "indices": [
-        121,
-        135,
-        36,
-        73,
+        42,
+        157,
         67,
-        137,
-        28
-      ]
-    },
-    {
-      "clue": "'It ___ at dawn.'",
-      "answer": "begins",
-      "answer_letters": "BEGINS",
-      "indices": [
-        72,
-        131,
-        24,
-        144,
-        23,
-        98
-      ]
-    },
-    {
-      "clue": "The yield or return on an investment.",
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
-        37,
-        104,
-        105,
-        109,
-        7,
-        170
-      ]
-    },
-    {
-      "clue": "When most businesses are open.",
-      "answer": "weekdays",
-      "answer_letters": "WEEKDAYS",
-      "indices": [
-        0,
-        68,
         158,
-        95,
-        31,
-        169,
-        152,
-        81
-      ]
-    },
-    {
-      "clue": "Historical period when Jane Austen set many of her novels.",
-      "answer": "regency",
-      "answer_letters": "REGENCY",
-      "indices": [
-        27,
-        142,
-        29,
-        84,
-        38,
-        171,
-        124
-      ]
-    },
-    {
-      "clue": "Clearly, without doubt.",
-      "answer": "obviously",
-      "answer_letters": "OBVIOUSLY",
-      "indices": [
-        125,
-        103,
-        141,
-        129,
-        60,
-        47,
-        14,
-        55,
-        45
-      ]
-    },
-    {
-      "clue": "Devoid of",
-      "answer": "without",
-      "answer_letters": "WITHOUT",
-      "indices": [
-        154,
-        96,
-        145,
-        147,
-        46,
-        19,
-        136
-      ]
-    },
-    {
-      "clue": "Not with difficulty.",
-      "answer": "easily",
-      "answer_letters": "EASILY",
-      "indices": [
-        80,
-        54,
-        97,
-        50,
-        49,
-        156
-      ]
-    },
-    {
-      "clue": "Entity attaching itself to receptors in biochemistry.",
-      "answer": "ligand",
-      "answer_letters": "LIGAND",
-      "indices": [
-        112,
-        22,
-        75,
-        2,
-        64,
         63
       ]
     },
     {
-      "clue": "Tree products processed for use.",
-      "answer": "lumber",
-      "answer_letters": "LUMBER",
+      "clue": "Name associated with a low-carb diet plan.",
+      "answer": "atkins",
+      "answer_letters": "ATKINS",
       "indices": [
-        128,
-        161,
-        79,
-        157,
-        52,
-        77
-      ]
-    },
-    {
-      "clue": "A synonym for disorderly.",
-      "answer": "chaotic",
-      "answer_letters": "CHAOTIC",
-      "indices": [
-        59,
-        1,
-        70,
-        42,
-        65,
+        16,
+        133,
+        95,
         107,
-        116
+        64,
+        81
       ]
     },
     {
-      "clue": "Concession conjunction.",
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "clue": "Problems encountered.",
+      "answer": "issues",
+      "answer_letters": "ISSUES",
       "indices": [
-        160,
-        139,
-        86,
-        83,
-        93,
-        110,
-        74,
-        134
+        144,
+        82,
+        150,
+        19,
+        89,
+        40
+      ]
+    },
+    {
+      "clue": "Engage in discussion to reach an agreement.",
+      "answer": "negotiate",
+      "answer_letters": "NEGOTIATE",
+      "indices": [
+        121,
+        84,
+        29,
+        37,
+        105,
+        137,
+        28,
+        170,
+        166
+      ]
+    },
+    {
+      "clue": "Once a British crown colony in India, now part of Maharashtra.",
+      "answer": "bombay",
+      "answer_letters": "BOMBAY",
+      "indices": [
+        72,
+        6,
+        168,
+        114,
+        9,
+        45
+      ]
+    },
+    {
+      "clue": "Beginning of a period or project.",
+      "answer": "outset",
+      "answer_letters": "OUTSET",
+      "indices": [
+        140,
+        7,
+        26,
+        34,
+        142,
+        51
+      ]
+    },
+    {
+      "clue": "It's often sipped neat.",
+      "answer": "whiskey",
+      "answer_letters": "WHISKEY",
+      "indices": [
+        0,
+        155,
+        13,
+        162,
+        21,
+        131,
+        124
       ]
     },
     {
@@ -217,70 +104,183 @@
       "answer": "richly",
       "answer_letters": "RICHLY",
       "indices": [
-        10,
-        13,
-        20,
-        155,
-        111,
-        5
+        27,
+        73,
+        171,
+        172,
+        56,
+        32
       ]
     },
     {
-      "clue": "Second attempt at a scene.",
-      "answer": "retake",
-      "answer_letters": "RETAKE",
+      "clue": "Experiencing intense indignation",
+      "answer": "outraged",
+      "answer_letters": "OUTRAGED",
+      "indices": [
+        60,
+        161,
+        136,
+        77,
+        2,
+        74,
+        101,
+        31
+      ]
+    },
+    {
+      "clue": "Outdoor path for pedestrians.",
+      "answer": "walkway",
+      "answer_letters": "WALKWAY",
+      "indices": [
+        43,
+        169,
+        139,
+        117,
+        154,
+        54,
+        156
+      ]
+    },
+    {
+      "clue": "Biblical term for a proselytizer.",
+      "answer": "evangelist",
+      "answer_letters": "EVANGELIST",
+      "indices": [
+        11,
+        141,
+        70,
+        23,
+        24,
+        30,
+        111,
+        129,
+        153,
+        65
+      ]
+    },
+    {
+      "clue": "Echoes of amusement.",
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
+      "indices": [
+        49,
+        115,
+        104,
+        75,
+        1,
+        14
+      ]
+    },
+    {
+      "clue": "Father of Mark Antony.",
+      "answer": "lucius",
+      "answer_letters": "LUCIUS",
+      "indices": [
+        55,
+        61,
+        116,
+        50,
+        126,
+        90
+      ]
+    },
+    {
+      "clue": "Wife of the artist Claude Monet.",
+      "answer": "camille",
+      "answer_letters": "CAMILLE",
+      "indices": [
+        159,
+        151,
+        36,
+        22,
+        128,
+        112,
+        68
+      ]
+    },
+    {
+      "clue": "Self-acting mechanism.",
+      "answer": "automatic",
+      "answer_letters": "AUTOMATIC",
+      "indices": [
+        120,
+        110,
+        86,
+        93,
+        79,
+        160,
+        3,
+        35,
+        59
+      ]
+    },
+    {
+      "clue": "Name associated with both sleighs and trains in folklore and history.",
+      "answer": "rudolf",
+      "answer_letters": "RUDOLF",
+      "indices": [
+        10,
+        47,
+        122,
+        125,
+        62,
+        18
+      ]
+    },
+    {
+      "clue": "Accompanied by a beat",
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
       "indices": [
         53,
-        89,
+        83,
+        5,
         92,
-        120,
-        117,
-        163
+        134,
+        100,
+        88,
+        20
       ]
     },
     {
-      "clue": "Characteristic of being not yet old.",
-      "answer": "youthful",
-      "answer_letters": "YOUTHFUL",
+      "clue": "New York baseball team.",
+      "answer": "yankees",
+      "answer_letters": "YANKEES",
       "indices": [
         57,
-        140,
-        61,
-        51,
-        172,
-        18,
-        126,
-        56
+        135,
+        38,
+        130,
+        80,
+        52,
+        97
       ]
     },
     {
-      "clue": "Addicted to a particular activity or object.",
-      "answer": "obsessed",
-      "answer_letters": "OBSESSED",
+      "clue": "Public health concern worldwide.",
+      "answer": "obesity",
+      "answer_letters": "OBESITY",
       "indices": [
-        6,
-        114,
-        162,
-        11,
-        153,
-        90,
-        30,
-        122
+        46,
+        103,
+        76,
+        98,
+        96,
+        145,
+        152
       ]
     },
     {
-      "clue": "The magazine is known for its influential covers and in-depth reporting.",
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
         41,
+        163,
+        109,
+        147,
         148,
-        165,
-        40,
-        43,
-        76,
-        101,
-        21
+        165
       ]
     }
   ],

@@ -5,31 +5,29 @@
   "source_letters": "KATHLEENWINTERANNABEL",
   "clues": [
     {
-      "clue": "Architectural linchpin.",
-      "answer": "keystone",
-      "answer_letters": "KEYSTONE",
+      "clue": "\"Ally McBeal\" creator",
+      "answer": "kelley",
+      "answer_letters": "KELLEY",
       "indices": [
         83,
         84,
-        66,
-        32,
-        13,
-        72,
-        71,
-        61
+        146,
+        141,
+        61,
+        66
       ]
     },
     {
-      "clue": "Tune for national pride.",
-      "answer": "anthem",
-      "answer_letters": "ANTHEM",
+      "clue": "Achieve or reach a goal",
+      "answer": "attain",
+      "answer_letters": "ATTAIN",
       "indices": [
+        165,
+        114,
+        119,
         80,
-        47,
-        172,
-        157,
-        170,
-        134
+        31,
+        47
       ]
     },
     {
@@ -37,97 +35,94 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        99,
+        33,
+        75,
+        91,
         23,
-        24,
-        96,
         118,
         107
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "clue": "Keeping something out of sight",
+      "answer": "hiding",
+      "answer_letters": "HIDING",
       "indices": [
-        173,
-        2,
-        156,
-        55,
-        130,
-        154
+        16,
+        171,
+        48,
+        58,
+        87,
+        39
       ]
     },
     {
-      "clue": "This event is often cited as a trigger for the Great Recession.",
-      "answer": "lehman",
-      "answer_letters": "LEHMAN",
+      "clue": "Bottom rank in a hierarchy.",
+      "answer": "lowest",
+      "answer_letters": "LOWEST",
       "indices": [
         26,
+        144,
+        124,
         132,
-        117,
-        11,
-        125,
-        19
+        100,
+        122
       ]
     },
     {
-      "clue": "Pertaining to morals.",
-      "answer": "ethical",
-      "answer_letters": "ETHICAL",
+      "clue": "Corporate body or individual with legal standing",
+      "answer": "entity",
+      "answer_letters": "ENTITY",
       "indices": [
         17,
-        122,
-        76,
-        109,
-        63,
-        82,
-        60
-      ]
-    },
-    {
-      "clue": "Can be compared to an author of short non-fiction works.",
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
-      "indices": [
-        20,
-        110,
-        34,
-        103,
-        90,
-        121,
-        44,
-        167
-      ]
-    },
-    {
-      "clue": "To the Arctic, say",
-      "answer": "northwards",
-      "answer_letters": "NORTHWARDS",
-      "indices": [
-        7,
-        113,
-        52,
+        19,
         127,
-        94,
-        116,
-        165,
-        41,
-        27,
-        100
+        109,
+        172,
+        3
       ]
     },
     {
-      "clue": "They can be as simple as 'world peace' or as frivolous as 'a new car.'",
-      "answer": "wishes",
-      "answer_letters": "WISHES",
+      "clue": "Direction of sunrise",
+      "answer": "eastwards",
+      "answer_letters": "EASTWARDS",
       "indices": [
-        75,
-        12,
-        150,
-        16,
-        174,
-        56
+        170,
+        103,
+        44,
+        0,
+        96,
+        6,
+        138,
+        27,
+        168
+      ]
+    },
+    {
+      "clue": "A vague awareness or sense of something.",
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        126,
+        24,
+        167,
+        139,
+        113,
+        7
+      ]
+    },
+    {
+      "clue": "Devoid of",
+      "answer": "without",
+      "answer_letters": "WITHOUT",
+      "indices": [
+        21,
+        50,
+        154,
+        131,
+        64,
+        43,
+        78
       ]
     },
     {
@@ -135,165 +130,170 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
-        86,
-        33,
-        131,
+        121,
+        57,
+        1,
         37,
         5,
         77
       ]
     },
     {
-      "clue": "Hours of darkness.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
+      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
-        126,
-        31,
+        98,
+        105,
+        164,
+        99,
+        42,
+        116,
+        152
+      ]
+    },
+    {
+      "clue": "Pearl of the South Seas.",
+      "answer": "tahiti",
+      "answer_letters": "TAHITI",
+      "indices": [
+        73,
+        140,
+        173,
+        68,
+        159,
+        55
+      ]
+    },
+    {
+      "clue": "Inventors of new technologies.",
+      "answer": "engineers",
+      "answer_letters": "ENGINEERS",
+      "indices": [
+        137,
+        166,
         88,
-        1,
-        119,
+        86,
+        38,
+        40,
+        29,
+        145,
+        56
+      ]
+    },
+    {
+      "clue": "Accompanied by a beat",
+      "answer": "rhythmic",
+      "answer_letters": "RHYTHMIC",
+      "indices": [
+        175,
+        157,
+        90,
+        162,
+        76,
+        134,
+        161,
+        63
+      ]
+    },
+    {
+      "clue": "Accolades for achievements.",
+      "answer": "awards",
+      "answer_letters": "AWARDS",
+      "indices": [
+        135,
+        143,
+        9,
+        52,
+        147,
         128
       ]
     },
     {
-      "clue": "Deserter of principles or allies.",
-      "answer": "traitor",
-      "answer_letters": "TRAITOR",
+      "clue": "To the Arctic, say",
+      "answer": "northwards",
+      "answer_letters": "NORTHWARDS",
       "indices": [
-        93,
+        85,
+        153,
         51,
-        97,
-        68,
-        136,
-        64,
-        25
-      ]
-    },
-    {
-      "clue": "Jonathan, a preacher of New England Calvinism.",
-      "answer": "edwards",
-      "answer_letters": "EDWARDS",
-      "indices": [
-        40,
-        10,
-        21,
-        140,
-        138,
+        15,
+        94,
+        81,
+        46,
+        25,
         36,
-        54
+        34
       ]
     },
     {
-      "clue": "Fashion models' paths to glory.",
-      "answer": "runways",
-      "answer_letters": "RUNWAYS",
-      "indices": [
-        175,
-        43,
-        98,
-        143,
-        6,
-        3,
-        168
-      ]
-    },
-    {
-      "clue": "On standby for a decision.",
-      "answer": "awaiting",
-      "answer_letters": "AWAITING",
-      "indices": [
-        135,
-        164,
-        9,
-        161,
-        114,
-        139,
-        152,
-        39
-      ]
-    },
-    {
-      "clue": "Writing system for music.",
-      "answer": "notation",
-      "answer_letters": "NOTATION",
+      "clue": "Up-to-date or modern.",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
       "indices": [
         112,
-        91,
-        0,
-        46,
-        162,
-        50,
-        42,
-        85
+        174,
+        156,
+        20,
+        110,
+        130
       ]
     },
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
-      "answer": "newton",
-      "answer_letters": "NEWTON",
-      "indices": [
-        166,
-        29,
-        81,
-        15,
-        153,
-        38
-      ]
-    },
-    {
-      "clue": "Policy to prevent monopolies.",
-      "answer": "antitrust",
-      "answer_letters": "ANTITRUST",
+      "clue": "Often a step below managers or executives.",
+      "answer": "assistants",
+      "answer_letters": "ASSISTANTS",
       "indices": [
         158,
-        87,
-        106,
-        149,
-        73,
-        145,
-        92,
+        32,
         65,
-        159
-      ]
-    },
-    {
-      "clue": "Cricket term for being dismissed in a certain way.",
-      "answer": "bowled",
-      "answer_letters": "BOWLED",
-      "indices": [
-        59,
-        144,
-        124,
-        141,
-        105,
-        147
-      ]
-    },
-    {
-      "clue": "Continues to have being or reality.",
-      "answer": "exists",
-      "answer_letters": "EXISTS",
-      "indices": [
-        137,
-        30,
-        58,
+        149,
         69,
-        57,
+        13,
+        97,
+        71,
+        106,
         102
       ]
     },
     {
-      "clue": "Made something rise upwards.",
-      "answer": "lifted",
-      "answer_letters": "LIFTED",
+      "clue": "The creator in Hinduism's trimurti.",
+      "answer": "brahma",
+      "answer_letters": "BRAHMA",
       "indices": [
-        146,
-        171,
-        104,
-        78,
+        59,
+        41,
+        82,
+        117,
+        11,
+        125
+      ]
+    },
+    {
+      "clue": "Moses led it.",
+      "answer": "exodus",
+      "answer_letters": "EXODUS",
+      "indices": [
         53,
-        48
+        30,
+        72,
+        10,
+        92,
+        150
+      ]
+    },
+    {
+      "clue": "Not a right-winger.",
+      "answer": "leftist",
+      "answer_letters": "LEFTIST",
+      "indices": [
+        60,
+        2,
+        104,
+        93,
+        12,
+        54,
+        136
       ]
     }
   ],

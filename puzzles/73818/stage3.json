@@ -5,59 +5,100 @@
   "source_letters": "MILANKUNDERAENCOUNTER",
   "clues": [
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
-      "answer": "mohawk",
-      "answer_letters": "MOHAWK",
+      "clue": "\"Crash Into Me\" rock group Dave __ Band",
+      "answer": "matthews",
+      "answer_letters": "MATTHEWS",
       "indices": [
         125,
-        131,
-        109,
         79,
+        138,
+        108,
+        109,
+        154,
         11,
-        49
+        135
       ]
     },
     {
-      "clue": "Often less authentic than genuine.",
-      "answer": "imitation",
-      "answer_letters": "IMITATION",
+      "clue": "Held captive.",
+      "answer": "imprisoned",
+      "answer_letters": "IMPRISONED",
       "indices": [
         160,
         34,
+        172,
+        93,
         94,
-        138,
-        147,
-        108,
-        62,
-        47,
-        105
+        146,
+        131,
+        105,
+        110,
+        163
       ]
     },
     {
-      "clue": "East central Scotland's historic province.",
-      "answer": "lothian",
-      "answer_letters": "LOTHIAN",
+      "clue": "Most recent version.",
+      "answer": "latest",
+      "answer_letters": "LATEST",
       "indices": [
         133,
-        69,
+        147,
         58,
-        19,
-        175,
-        104,
-        63
+        112,
+        102,
+        143
       ]
     },
     {
-      "clue": "Partnered with Mila Kunis in a popular romantic comedy series.",
-      "answer": "ashton",
-      "answer_letters": "ASHTON",
+      "clue": "Name associated with a low-carb diet plan.",
+      "answer": "atkins",
+      "answer_letters": "ATKINS",
       "indices": [
         61,
-        30,
-        78,
-        77,
-        170,
-        71
+        80,
+        42,
+        134,
+        122,
+        75
+      ]
+    },
+    {
+      "clue": "A vague awareness or sense of something.",
+      "answer": "notion",
+      "answer_letters": "NOTION",
+      "indices": [
+        21,
+        38,
+        37,
+        177,
+        132,
+        96
+      ]
+    },
+    {
+      "clue": "Famously done by Don Bradman with cricket balls.",
+      "answer": "knocks",
+      "answer_letters": "KNOCKS",
+      "indices": [
+        49,
+        117,
+        87,
+        26,
+        8,
+        98
+      ]
+    },
+    {
+      "clue": "Higher end neighborhood or area, often more affluent.",
+      "answer": "uptown",
+      "answer_letters": "UPTOWN",
+      "indices": [
+        65,
+        101,
+        119,
+        144,
+        68,
+        141
       ]
     },
     {
@@ -65,153 +106,109 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        141,
-        177,
+        90,
+        100,
         123,
-        139,
-        119,
+        99,
+        176,
         179
       ]
     },
     {
-      "clue": "Football's starting play.",
-      "answer": "kickoff",
-      "answer_letters": "KICKOFF",
+      "clue": "Not agree, to be opposite",
+      "answer": "differ",
+      "answer_letters": "DIFFER",
       "indices": [
-        8,
-        6,
-        148,
-        88,
-        126,
+        97,
+        74,
         64,
-        151
+        151,
+        35,
+        127
       ]
     },
     {
-      "clue": "Trouble or turmoil.",
-      "answer": "unrest",
-      "answer_letters": "UNREST",
+      "clue": "The character in 'Othello' given Shakespeare's most memorable speech.",
+      "answer": "emilia",
+      "answer_letters": "EMILIA",
       "indices": [
-        65,
-        90,
-        127,
-        43,
-        75,
-        40
-      ]
-    },
-    {
-      "clue": "The first name of the Soviet Union's famous general secretary during the Cuban Missile Crisis.",
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        122,
-        15,
-        42,
-        100,
-        176,
-        41
-      ]
-    },
-    {
-      "clue": "Profound layers.",
-      "answer": "depths",
-      "answer_letters": "DEPTHS",
-      "indices": [
-        106,
-        110,
-        101,
-        80,
-        136,
-        102
-      ]
-    },
-    {
-      "clue": "Foul gases expelled by cars",
-      "answer": "emissions",
-      "answer_letters": "EMISSIONS",
-      "indices": [
-        95,
-        28,
-        33,
-        57,
-        16,
+        161,
+        55,
         166,
-        132,
-        21,
+        66,
+        23,
+        140
+      ]
+    },
+    {
+      "clue": "An early British colonialist in Southern Africa.",
+      "answer": "rhodes",
+      "answer_letters": "RHODES",
+      "indices": [
+        86,
+        52,
+        27,
+        2,
+        95,
         45
       ]
     },
     {
-      "clue": "A city in California near the San Francisco Bay Area.",
-      "answer": "richmond",
-      "answer_letters": "RICHMOND",
+      "clue": "High ecclesiastical title holder, often seen as a bridge between clergy and secular authorities.",
+      "answer": "archbishop",
+      "answer_letters": "ARCHBISHOP",
       "indices": [
-        86,
-        23,
-        48,
-        52,
-        55,
-        27,
-        96,
-        2
+        104,
+        111,
+        148,
+        19,
+        85,
+        62,
+        115,
+        136,
+        47,
+        167
       ]
     },
     {
-      "clue": "Process of programmed cell death.",
-      "answer": "apoptosis",
-      "answer_letters": "APOPTOSIS",
+      "clue": "Synonym for moniker.",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        156,
-        172,
-        82,
-        167,
-        143,
-        87,
-        135,
-        121,
-        146
-      ]
-    },
-    {
-      "clue": "Sounds that bounce back.",
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
-      "indices": [
-        89,
-        26,
-        99,
-        173,
-        29,
-        98
-      ]
-    },
-    {
-      "clue": "Component in fertilizers and explosives.",
-      "answer": "nitrate",
-      "answer_letters": "NITRATE",
-      "indices": [
-        117,
-        114,
-        0,
-        93,
-        3,
-        32,
-        154
-      ]
-    },
-    {
-      "clue": "Tutored individuals for better performance.",
-      "answer": "coached",
-      "answer_letters": "COACHED",
-      "indices": [
-        153,
-        1,
-        140,
-        178,
-        120,
         128,
-        72
+        60,
+        15,
+        13,
+        78,
+        43,
+        77
+      ]
+    },
+    {
+      "clue": "Telecommunication grid.",
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        71,
+        53,
+        32,
+        18,
+        118,
+        159,
+        88
+      ]
+    },
+    {
+      "clue": "Joint presenter with another",
+      "answer": "co-host",
+      "answer_letters": "COHOST",
+      "indices": [
+        48,
+        126,
+        120,
+        170,
+        57,
+        51
       ]
     },
     {
@@ -219,84 +216,87 @@
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
-        10,
+        173,
         92,
         130,
-        164,
+        16,
         14,
-        144,
-        38,
-        51
+        1,
+        10,
+        40
       ]
     },
     {
-      "clue": "Boost or raise to a higher position",
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
+      "clue": "Endless possibilities or opportunities.",
+      "answer": "unlimited",
+      "answer_letters": "UNLIMITED",
       "indices": [
         70,
-        60,
+        162,
         174,
-        74,
-        158,
-        46
+        121,
+        28,
+        6,
+        0,
+        20,
+        106
       ]
     },
     {
-      "clue": "Person without a name.",
-      "answer": "nobody",
-      "answer_letters": "NOBODY",
+      "clue": "General ideas or beliefs.",
+      "answer": "notions",
+      "answer_letters": "NOTIONS",
       "indices": [
+        63,
+        69,
+        46,
+        175,
+        82,
         9,
-        118,
-        85,
-        56,
-        163,
+        30
+      ]
+    },
+    {
+      "clue": "Pearl of the South Seas.",
+      "answer": "tahiti",
+      "answer_letters": "TAHITI",
+      "indices": [
+        169,
+        41,
+        139,
+        152,
+        24,
+        33
+      ]
+    },
+    {
+      "clue": "Ability to produce a desired result.",
+      "answer": "efficacy",
+      "answer_letters": "EFFICACY",
+      "indices": [
+        89,
+        158,
+        83,
+        114,
+        153,
+        156,
+        178,
         4
       ]
     },
     {
-      "clue": "Place to 'tweet' your thoughts",
-      "answer": "twitter",
-      "answer_letters": "TWITTER",
+      "clue": "Name once given to Zimbabwe.",
+      "answer": "rhodesia",
+      "answer_letters": "RHODESIA",
       "indices": [
-        37,
-        68,
-        152,
-        169,
-        24,
-        161,
-        149
-      ]
-    },
-    {
-      "clue": "Not so anymore; previously.",
-      "answer": "erstwhile",
-      "answer_letters": "ERSTWHILE",
-      "indices": [
-        112,
-        111,
-        115,
-        13,
-        18,
+        149,
         165,
+        56,
+        72,
+        29,
+        164,
         150,
-        66,
-        20
-      ]
-    },
-    {
-      "clue": "Elevated in taste or behavior",
-      "answer": "refined",
-      "answer_letters": "REFINED",
-      "indices": [
-        159,
-        53,
-        83,
-        134,
-        162,
-        35,
-        97
+        3
       ]
     }
   ],

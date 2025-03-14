@@ -5,90 +5,31 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "Author of the Quranic revelations.",
-      "answer": "mohammed",
-      "answer_letters": "MOHAMMED",
+      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
       "indices": [
-        161,
-        31,
-        4,
-        132,
         83,
-        169,
-        7,
-        79
+        11,
+        142,
+        57,
+        41,
+        48,
+        18
       ]
     },
     {
-      "clue": "Utterly, without exception.",
-      "answer": "entirely",
-      "answer_letters": "ENTIRELY",
+      "clue": "Nickname: Che, a prominent figure in Latin American history.",
+      "answer": "ernesto",
+      "answer_letters": "ERNESTO",
       "indices": [
-        147,
-        118,
-        40,
-        27,
-        131,
         107,
-        65,
-        0
-      ]
-    },
-    {
-      "clue": "Not brief, concise, or succinct",
-      "answer": "lengthy",
-      "answer_letters": "LENGTHY",
-      "indices": [
-        64,
-        106,
+        33,
         89,
-        90,
-        175,
-        10,
-        177
-      ]
-    },
-    {
-      "clue": "The yield or return on an investment.",
-      "answer": "output",
-      "answer_letters": "OUTPUT",
-      "indices": [
-        23,
-        69,
+        7,
+        128,
         149,
-        116,
-        2,
-        142
-      ]
-    },
-    {
-      "clue": "Musician known for 'Mellow Yellow'.",
-      "answer": "donovan",
-      "answer_letters": "DONOVAN",
-      "indices": [
-        155,
-        166,
-        105,
-        93,
-        6,
-        153,
-        146
-      ]
-    },
-    {
-      "clue": "The Beatles' best-selling single.",
-      "answer": "yesterday",
-      "answer_letters": "YESTERDAY",
-      "indices": [
-        92,
-        144,
-        113,
-        73,
-        37,
-        102,
-        126,
-        55,
-        170
+        93
       ]
     },
     {
@@ -96,180 +37,239 @@
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
-        22,
-        15,
-        136,
-        111,
-        63,
-        12
-      ]
-    },
-    {
-      "clue": "Not so anymore; previously.",
-      "answer": "erstwhile",
-      "answer_letters": "ERSTWHILE",
-      "indices": [
-        122,
-        87,
-        38,
-        9,
-        18,
-        41,
-        115,
         135,
-        134
+        132,
+        67,
+        97,
+        63,
+        40
       ]
     },
     {
-      "clue": "Characteristic of something that bears the same name.",
-      "answer": "eponymous",
-      "answer_letters": "EPONYMOUS",
+      "clue": "Bank compensation in carbon accounting.",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
+      "indices": [
+        139,
+        167,
+        14,
+        163,
+        35,
+        157
+      ]
+    },
+    {
+      "clue": "The sun's illumination.",
+      "answer": "daylight",
+      "answer_letters": "DAYLIGHT",
+      "indices": [
+        126,
+        153,
+        0,
+        64,
+        115,
+        90,
+        158,
+        9
+      ]
+    },
+    {
+      "clue": "Teens or adolescents.",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
+      "indices": [
+        170,
+        68,
+        32,
+        73,
+        143,
+        113
+      ]
+    },
+    {
+      "clue": "A key to empowerment and education.",
+      "answer": "literacy",
+      "answer_letters": "LITERACY",
+      "indices": [
+        22,
+        71,
+        133,
+        106,
+        87,
+        15,
+        148,
+        99
+      ]
+    },
+    {
+      "clue": "Inhabitant of Africa's second-most populous country.",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        147,
+        59,
+        10,
+        27,
+        166,
+        129,
+        117,
+        150,
+        146
+      ]
+    },
+    {
+      "clue": "All of us, collectively.",
+      "answer": "everybody",
+      "answer_letters": "EVERYBODY",
       "indices": [
         81,
-        62,
-        1,
-        154,
+        6,
+        159,
+        80,
         138,
-        45,
+        86,
         173,
-        101,
-        128
+        79,
+        136
       ]
     },
     {
-      "clue": "Scaled-down version.",
-      "answer": "miniature",
-      "answer_letters": "MINIATURE",
+      "clue": "A paper intended to remind or inform.",
+      "answer": "memorandum",
+      "answer_letters": "MEMORANDUM",
       "indices": [
         51,
-        71,
-        56,
-        88,
-        42,
-        133,
-        162,
+        130,
+        45,
+        1,
         151,
-        130
+        42,
+        56,
+        155,
+        162,
+        161
       ]
     },
     {
-      "clue": "Burst of hostilities.",
-      "answer": "outbreak",
-      "answer_letters": "OUTBREAK",
+      "clue": "Path where you can't go back.",
+      "answer": "one-way",
+      "answer_letters": "ONEWAY",
       "indices": [
+        74,
+        118,
+        164,
+        110,
+        82,
+        77
+      ]
+    },
+    {
+      "clue": "Moment to advance one's position or improve conditions.",
+      "answer": "opportunity",
+      "answer_letters": "OPPORTUNITY",
+      "indices": [
+        111,
+        62,
+        116,
+        100,
+        131,
+        12,
+        101,
+        154,
+        88,
+        175,
+        177
+      ]
+    },
+    {
+      "clue": "Another term for an eponym.",
+      "answer": "namesake",
+      "answer_letters": "NAMESAKE",
+      "indices": [
+        28,
+        5,
+        169,
+        52,
+        108,
+        19,
+        47,
+        127
+      ]
+    },
+    {
+      "clue": "French for war, as in a conflict.",
+      "answer": "guerre",
+      "answer_letters": "GUERRE",
+      "indices": [
+        119,
+        94,
+        174,
+        176,
+        112,
+        144
+      ]
+    },
+    {
+      "clue": "Riders ready to serve as part of Britain's defense pre-WWI.",
+      "answer": "yeomanry",
+      "answer_letters": "YEOMANRY",
+      "indices": [
+        36,
+        37,
+        31,
+        76,
+        17,
+        72,
+        16,
+        20
+      ]
+    },
+    {
+      "clue": "Admitted to a club following demise.",
+      "answer": "posthumously",
+      "answer_letters": "POSTHUMOUSLY",
+      "indices": [
+        172,
         60,
+        38,
+        43,
+        4,
         140,
-        59,
-        86,
-        33,
-        48,
-        150,
+        121,
+        23,
+        69,
+        49,
+        65,
+        92
+      ]
+    },
+    {
+      "clue": "Part of historic borough once spanning both sides of the Thames.",
+      "answer": "southwark",
+      "answer_letters": "SOUTHWARK",
+      "indices": [
+        84,
+        24,
+        2,
+        96,
+        114,
+        54,
+        55,
+        102,
         104
       ]
     },
     {
-      "clue": "Out at sea.",
-      "answer": "offshore",
-      "answer_letters": "OFFSHORE",
+      "clue": "Nickname for someone from the United States, especially when contrasted with a 'Confederate' or Southerner.",
+      "answer": "yankee",
+      "answer_letters": "YANKEE",
       "indices": [
-        100,
-        167,
-        14,
-        163,
-        158,
-        97,
-        80,
-        159
-      ]
-    },
-    {
-      "clue": "King Harald's realm.",
-      "answer": "norway",
-      "answer_letters": "NORWAY",
-      "indices": [
-        28,
-        24,
-        176,
-        110,
-        11,
-        30
-      ]
-    },
-    {
-      "clue": "Main entrance or access point.",
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
-      "indices": [
-        119,
-        82,
-        57,
-        164,
-        54,
-        5,
-        67
-      ]
-    },
-    {
-      "clue": "Olden port city in England.",
-      "answer": "yarmouth",
-      "answer_letters": "YARMOUTH",
-      "indices": [
-        77,
-        19,
-        112,
-        76,
-        68,
-        32,
-        157,
-        114
-      ]
-    },
-    {
-      "clue": "Home of diverse fauna including chamois and bears.",
-      "answer": "pyrenees",
-      "answer_letters": "PYRENEES",
-      "indices": [
-        129,
-        36,
-        16,
-        35,
-        72,
-        52,
-        127,
-        49
-      ]
-    },
-    {
-      "clue": "Likely to show understanding and kindness.",
-      "answer": "sympathetic",
-      "answer_letters": "SYMPATHETIC",
-      "indices": [
-        84,
-        20,
-        121,
-        172,
-        17,
-        43,
-        143,
-        174,
-        96,
-        117,
-        148
-      ]
-    },
-    {
-      "clue": "Where Japan's Maritime Self-Defense Forces have a major base.",
-      "answer": "yokosuka",
-      "answer_letters": "YOKOSUKA",
-      "indices": [
-        99,
-        74,
+        30,
+        46,
+        105,
         25,
-        139,
-        108,
-        94,
-        47,
-        46
+        122,
+        134
       ]
     }
   ],

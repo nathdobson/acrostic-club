@@ -5,16 +5,256 @@
   "source_letters": "ALFREDDEVIGNYSTELLO",
   "clues": [
     {
-      "clue": "Wisdom goddess in Greek mythology.",
-      "answer": "athena",
-      "answer_letters": "ATHENA",
+      "clue": "Singer of 'Foolish' and 'Rock wit U (Awww Baby).'",
+      "answer": "ashanti",
+      "answer_letters": "ASHANTI",
       "indices": [
         180,
-        55,
+        31,
         176,
-        79,
+        136,
         172,
-        136
+        55,
+        74
+      ]
+    },
+    {
+      "clue": "A district in South London named after a medieval bridge.",
+      "answer": "lambeth",
+      "answer_letters": "LAMBETH",
+      "indices": [
+        33,
+        150,
+        29,
+        14,
+        45,
+        51,
+        56
+      ]
+    },
+    {
+      "clue": "Completing an educational course or degree.",
+      "answer": "finishing",
+      "answer_letters": "FINISHING",
+      "indices": [
+        34,
+        3,
+        65,
+        88,
+        71,
+        145,
+        15,
+        101,
+        173
+      ]
+    },
+    {
+      "clue": "Adjective for inhabitants of the country now known as Zimbabwe before its independence in 1980.",
+      "answer": "rhodesian",
+      "answer_letters": "RHODESIAN",
+      "indices": [
+        44,
+        1,
+        66,
+        109,
+        53,
+        179,
+        57,
+        119,
+        168
+      ]
+    },
+    {
+      "clue": "In film, these are visual tricks and illusions.",
+      "answer": "effects",
+      "answer_letters": "EFFECTS",
+      "indices": [
+        40,
+        19,
+        140,
+        85,
+        41,
+        72,
+        162
+      ]
+    },
+    {
+      "clue": "After-school hold-up for rule-breakers.",
+      "answer": "detention",
+      "answer_letters": "DETENTION",
+      "indices": [
+        46,
+        37,
+        184,
+        152,
+        156,
+        42,
+        62,
+        18,
+        49
+      ]
+    },
+    {
+      "clue": "The part of a 24-hour cycle that's for waking and working.",
+      "answer": "daytime",
+      "answer_letters": "DAYTIME",
+      "indices": [
+        131,
+        10,
+        94,
+        144,
+        111,
+        120,
+        70
+      ]
+    },
+    {
+      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
+      "indices": [
+        148,
+        25,
+        60,
+        22,
+        187,
+        5,
+        164,
+        159,
+        98,
+        97
+      ]
+    },
+    {
+      "clue": "A region in northeastern Italy.",
+      "answer": "veneto",
+      "answer_letters": "VENETO",
+      "indices": [
+        7,
+        116,
+        112,
+        182,
+        175,
+        82
+      ]
+    },
+    {
+      "clue": "Describing sporadic or irregular occurrence",
+      "answer": "intermittent",
+      "answer_letters": "INTERMITTENT",
+      "indices": [
+        186,
+        58,
+        135,
+        103,
+        104,
+        154,
+        77,
+        114,
+        23,
+        177,
+        130,
+        24
+      ]
+    },
+    {
+      "clue": "Main entrance or access point.",
+      "answer": "gateway",
+      "answer_letters": "GATEWAY",
+      "indices": [
+        59,
+        155,
+        91,
+        132,
+        123,
+        13,
+        125
+      ]
+    },
+    {
+      "clue": "Telecommunication grid.",
+      "answer": "network",
+      "answer_letters": "NETWORK",
+      "indices": [
+        26,
+        146,
+        81,
+        170,
+        108,
+        142,
+        64
+      ]
+    },
+    {
+      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "answer": "yokohama",
+      "answer_letters": "YOKOHAMA",
+      "indices": [
+        30,
+        141,
+        78,
+        48,
+        92,
+        160,
+        181,
+        96
+      ]
+    },
+    {
+      "clue": "Home to Aldeburgh and Bawdsey.",
+      "answer": "suffolk",
+      "answer_letters": "SUFFOLK",
+      "indices": [
+        105,
+        43,
+        89,
+        165,
+        107,
+        39,
+        167
+      ]
+    },
+    {
+      "clue": "Thusly, resulting in",
+      "answer": "thereby",
+      "answer_letters": "THEREBY",
+      "indices": [
+        16,
+        115,
+        32,
+        151,
+        8,
+        36,
+        157
+      ]
+    },
+    {
+      "clue": "Host city of Hogmanay celebrations on New Year’s Eve.",
+      "answer": "edinburgh",
+      "answer_letters": "EDINBURGH",
+      "indices": [
+        86,
+        102,
+        127,
+        137,
+        69,
+        129,
+        147,
+        27,
+        185
+      ]
+    },
+    {
+      "clue": "Esquire, often abbreviated as Esq.",
+      "answer": "lawyer",
+      "answer_letters": "LAWYER",
+      "indices": [
+        21,
+        124,
+        67,
+        161,
+        121,
+        133
       ]
     },
     {
@@ -22,269 +262,29 @@
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
-        33,
-        77,
-        59,
-        115,
-        51,
-        56,
-        107,
-        43,
-        134,
-        121
-      ]
-    },
-    {
-      "clue": "Pronounced \"for-sith\".",
-      "answer": "forsyth",
-      "answer_letters": "FORSYTH",
-      "indices": [
-        89,
-        169,
-        44,
-        31,
-        94,
-        144,
-        12
-      ]
-    },
-    {
-      "clue": "An escaped convict.",
-      "answer": "runaway",
-      "answer_letters": "RUNAWAY",
-      "indices": [
-        147,
-        100,
-        101,
-        119,
-        123,
-        10,
-        125
-      ]
-    },
-    {
-      "clue": "She succeeded George VI to the throne.",
-      "answer": "elisabeth",
-      "answer_letters": "ELISABETH",
-      "indices": [
-        8,
-        39,
-        186,
-        118,
-        6,
-        14,
-        40,
-        16,
-        5
-      ]
-    },
-    {
-      "clue": "Extended family reign.",
-      "answer": "dynasty",
-      "answer_letters": "DYNASTY",
-      "indices": [
-        131,
-        30,
-        156,
-        155,
-        71,
-        42,
-        157
-      ]
-    },
-    {
-      "clue": "Spiritual adversaries of angels.",
-      "answer": "demons",
-      "answer_letters": "DEMONS",
-      "indices": [
-        102,
-        37,
-        120,
-        18,
-        137,
-        84
-      ]
-    },
-    {
-      "clue": "Can imply choice between two options.",
-      "answer": "either",
-      "answer_letters": "EITHER",
-      "indices": [
-        152,
-        15,
-        175,
-        145,
-        148,
-        104
-      ]
-    },
-    {
-      "clue": "Quivering movements that transmit sound waves.",
-      "answer": "vibrations",
-      "answer_letters": "VIBRATIONS",
-      "indices": [
-        7,
-        57,
-        69,
-        142,
-        13,
-        135,
-        127,
-        164,
-        49,
-        179
-      ]
-    },
-    {
-      "clue": "Urgent or without delay.",
-      "answer": "immediate",
-      "answer_letters": "IMMEDIATE",
-      "indices": [
-        111,
-        154,
-        181,
-        22,
-        46,
-        62,
-        160,
-        114,
-        98
-      ]
-    },
-    {
-      "clue": "Faust's author.",
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        173,
-        82,
-        116,
-        23,
-        1,
-        182
-      ]
-    },
-    {
-      "clue": "The magazine is known for its influential covers and in-depth reporting.",
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
-      "indices": [
-        187,
-        103,
-        170,
-        60,
-        67,
-        177,
-        132,
-        64
-      ]
-    },
-    {
-      "clue": "Where Japan's Maritime Self-Defense Forces have a major base.",
-      "answer": "yokosuka",
-      "answer_letters": "YOKOSUKA",
-      "indices": [
-        161,
-        108,
-        78,
-        141,
-        105,
-        129,
-        167,
-        96
-      ]
-    },
-    {
-      "clue": "Vapor-powered watercraft, pre-diesel era.",
-      "answer": "steamboat",
-      "answer_letters": "STEAMBOAT",
-      "indices": [
-        162,
-        24,
-        146,
-        124,
-        29,
-        36,
-        48,
-        150,
-        91
-      ]
-    },
-    {
-      "clue": "Less than plumper, certainly!",
-      "answer": "thinner",
-      "answer_letters": "THINNER",
-      "indices": [
-        81,
-        185,
-        25,
-        112,
-        58,
-        32,
-        151
-      ]
-    },
-    {
-      "clue": "Primary decision-maker for magazine or newspaper.",
-      "answer": "editor-in-chief",
-      "answer_letters": "EDITORINCHIEF",
-      "indices": [
-        86,
-        109,
-        171,
-        184,
-        66,
-        97,
-        3,
-        168,
-        41,
-        52,
-        88,
-        70,
-        165
-      ]
-    },
-    {
-      "clue": "Distance from head to tail.",
-      "answer": "length",
-      "answer_letters": "LENGTH",
-      "indices": [
-        21,
-        85,
-        130,
-        27,
-        72,
-        92
-      ]
-    },
-    {
-      "clue": "Progressive or liberal stance.",
-      "answer": "left-wing",
-      "answer_letters": "LEFTWING",
-      "indices": [
         76,
-        53,
-        34,
+        171,
+        188,
+        12,
         106,
-        159,
-        74,
-        65,
-        188
+        52,
+        169,
+        100,
+        84,
+        79
       ]
     },
     {
-      "clue": "Culprit.",
-      "answer": "offender",
-      "answer_letters": "OFFENDER",
+      "clue": "Place where a large oil refinery is located in Ukraine.",
+      "answer": "odessa",
+      "answer_letters": "ODESSA",
       "indices": [
         0,
-        19,
-        140,
-        45,
-        26,
         138,
         93,
-        133
+        118,
+        134,
+        6
       ]
     }
   ],

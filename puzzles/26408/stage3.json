@@ -5,62 +5,60 @@
   "source_letters": "JRWARDLOVERUNBOUND",
   "clues": [
     {
-      "clue": "A biblical figure who led Israel into the Promised Land.",
-      "answer": "joshua",
-      "answer_letters": "JOSHUA",
+      "clue": "Coveting what another possesses.",
+      "answer": "jealousy",
+      "answer_letters": "JEALOUSY",
       "indices": [
         154,
+        119,
+        84,
+        85,
         76,
-        65,
-        106,
         33,
-        84
+        65,
+        52
       ]
     },
     {
-      "clue": "Opposite of sinistral.",
-      "answer": "right-handed",
-      "answer_letters": "RIGHTHANDED",
+      "clue": "Time signature component.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
-        181,
-        55,
-        146,
-        94,
-        27,
-        139,
-        98,
-        145,
-        4,
-        109,
-        152
-      ]
-    },
-    {
-      "clue": "Used to introduce a clause expressing a condition.",
-      "answer": "whether",
-      "answer_letters": "WHETHER",
-      "indices": [
-        50,
-        17,
-        120,
-        22,
-        83,
-        172,
-        174
-      ]
-    },
-    {
-      "clue": "Verified through evidence",
-      "answer": "attested",
-      "answer_letters": "ATTESTED",
-      "indices": [
-        89,
-        24,
-        142,
-        79,
-        149,
+        75,
+        2,
+        49,
         138,
-        116,
+        39,
+        169
+      ]
+    },
+    {
+      "clue": "Turning point or moment of change.",
+      "answer": "watershed",
+      "answer_letters": "WATERSHED",
+      "indices": [
+        77,
+        170,
+        24,
+        172,
+        174,
+        11,
+        17,
+        79,
+        78
+      ]
+    },
+    {
+      "clue": "Town in Kent.",
+      "answer": "ashford",
+      "answer_letters": "ASHFORD",
+      "indices": [
+        131,
+        114,
+        83,
+        179,
+        43,
+        162,
         100
       ]
     },
@@ -69,120 +67,186 @@
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
-        162,
-        43,
-        157,
-        115,
-        140,
         44,
+        180,
+        142,
+        115,
+        116,
+        90,
         160,
-        170,
+        9,
         177
       ]
     },
     {
-      "clue": "Cleanup after a meal.",
-      "answer": "dishes",
-      "answer_letters": "DISHES",
+      "clue": "Made visible through a tangible example.",
+      "answer": "demonstrated",
+      "answer_letters": "DEMONSTRATED",
       "indices": [
-        45,
-        144,
-        159,
-        25,
+        36,
+        163,
+        183,
+        175,
+        60,
+        93,
+        125,
+        63,
+        47,
+        103,
         57,
-        93
+        45
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
+      "clue": "Homes with water views",
+      "answer": "lakeside",
+      "answer_letters": "LAKESIDE",
       "indices": [
-        85,
-        186,
-        11,
-        88,
-        166,
-        143,
-        69
+        129,
+        98,
+        86,
+        31,
+        97,
+        12,
+        80,
+        186
       ]
     },
     {
-      "clue": "Views of a vista",
-      "answer": "overlooks",
-      "answer_letters": "OVERLOOKS",
+      "clue": "Mistake due to inattention?",
+      "answer": "oversight",
+      "answer_letters": "OVERSIGHT",
       "indices": [
-        18,
+        126,
         110,
         107,
-        132,
-        129,
-        126,
-        175,
-        86,
-        34
+        67,
+        159,
+        144,
+        20,
+        21,
+        38
       ]
     },
     {
-      "clue": "Legislative assembly in Hindi",
-      "answer": "vidhan",
-      "answer_letters": "VIDHAN",
+      "clue": "Folk religion of Haiti.",
+      "answer": "voodoo",
+      "answer_letters": "VOODOO",
       "indices": [
         0,
+        176,
+        134,
+        91,
+        184,
+        167
+      ]
+    },
+    {
+      "clue": "Made the same sound again",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
+      "indices": [
+        35,
+        82,
+        143,
+        18,
+        66,
+        121
+      ]
+    },
+    {
+      "clue": "Capital of this German state is Düsseldorf.",
+      "answer": "rhine-westphalia",
+      "answer_letters": "RHINEWESTPHALIA",
+      "indices": [
+        185,
+        106,
+        99,
+        118,
+        95,
+        50,
+        120,
+        149,
+        22,
+        8,
+        150,
+        161,
+        54,
         102,
-        121,
-        39,
-        3,
+        89
+      ]
+    },
+    {
+      "clue": "Engage in an activity or project.",
+      "answer": "undertake",
+      "answer_letters": "UNDERTAKE",
+      "indices": [
+        155,
+        48,
+        123,
+        40,
+        132,
+        27,
+        59,
+        56,
+        122
+      ]
+    },
+    {
+      "clue": "Adviser to King David, a counselor during his reign.",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
+      "indices": [
+        13,
+        6,
+        16,
+        25,
+        26,
+        70
+      ]
+    },
+    {
+      "clue": "Iraq's capital city.",
+      "answer": "baghdad",
+      "answer_letters": "BAGHDAD",
+      "indices": [
+        87,
+        51,
+        146,
+        139,
+        4,
+        72,
+        152
+      ]
+    },
+    {
+      "clue": "When most athletes are not competing.",
+      "answer": "off-season",
+      "answer_letters": "OFFSEASON",
+      "indices": [
+        88,
+        136,
+        135,
+        156,
+        111,
+        64,
+        34,
+        69,
         108
       ]
     },
     {
-      "clue": "Natural settings maintaining equilibrium through energy flow.",
-      "answer": "ecosystems",
-      "answer_letters": "ECOSYSTEMS",
+      "clue": "Home to a prominent university, established in 1636.",
+      "answer": "utrecht",
+      "answer_letters": "UTRECHT",
       "indices": [
-        35,
-        82,
-        184,
-        147,
-        49,
-        29,
-        38,
-        66,
-        183,
-        97
-      ]
-    },
-    {
-      "clue": "Managed to get to a destination",
-      "answer": "reached",
-      "answer_letters": "REACHED",
-      "indices": [
-        185,
-        119,
-        161,
-        128,
-        150,
-        95,
-        78
-      ]
-    },
-    {
-      "clue": "A northern Indian state known for its natural beauty.",
-      "answer": "uttarakhand",
-      "answer_letters": "UTTARAKHAND",
-      "indices": [
-        155,
-        125,
-        103,
-        6,
-        63,
-        26,
-        171,
-        21,
-        47,
-        70,
-        36
+        19,
+        157,
+        112,
+        109,
+        74,
+        94,
+        166
       ]
     },
     {
@@ -190,95 +254,31 @@
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
-        60,
-        40,
+        145,
+        151,
         42,
         10,
         105,
-        122,
-        163,
-        56
-      ]
-    },
-    {
-      "clue": "Internet navigation tool.",
-      "answer": "browser",
-      "answer_letters": "BROWSER",
-      "indices": [
-        87,
-        112,
-        167,
-        77,
-        156,
-        130,
-        67
-      ]
-    },
-    {
-      "clue": "Vintage approach.",
-      "answer": "old-fashioned",
-      "answer_letters": "OLDFASHIONED",
-      "indices": [
-        176,
-        54,
-        80,
-        179,
-        9,
-        114,
-        2,
-        99,
-        134,
-        118,
-        111,
-        91
-      ]
-    },
-    {
-      "clue": "Not influenced by surroundings.",
-      "answer": "unaffected",
-      "answer_letters": "UNAFFECTED",
-      "indices": [
-        19,
-        48,
-        64,
-        136,
-        135,
-        151,
-        74,
-        16,
         62,
-        123
+        130,
+        171
       ]
     },
     {
-      "clue": "Location of a famous waterfall.",
-      "answer": "niagara",
-      "answer_letters": "NIAGARA",
-      "indices": [
-        13,
-        12,
-        51,
-        20,
-        72,
-        75,
-        59
-      ]
-    },
-    {
-      "clue": "Population study.",
-      "answer": "demography",
-      "answer_letters": "DEMOGRAPHY",
+      "clue": "Bursts of electricity in lightning storms.",
+      "answer": "discharges",
+      "answer_letters": "DISCHARGES",
       "indices": [
         164,
-        31,
-        169,
-        180,
-        14,
-        90,
-        131,
-        8,
+        55,
+        147,
+        128,
         30,
-        52
+        3,
+        181,
+        14,
+        140,
+        29
       ]
     }
   ],

@@ -5,107 +5,115 @@
   "source_letters": "RUPIKAURMILKANDHONEY",
   "clues": [
     {
-      "clue": "Potentially stateless until granted asylum.",
-      "answer": "refugee",
-      "answer_letters": "REFUGEE",
+      "clue": "Harvard's original sister school.",
+      "answer": "radcliffe",
+      "answer_letters": "RADCLIFFE",
       "indices": [
-        169,
-        189,
-        43,
-        165,
-        49,
-        45,
-        115
-      ]
-    },
-    {
-      "clue": "Not formally recognized.",
-      "answer": "unofficial",
-      "answer_letters": "UNOFFICIAL",
-      "indices": [
-        118,
-        134,
-        14,
+        112,
+        128,
+        85,
+        114,
+        170,
+        139,
         72,
         41,
-        47,
-        25,
-        139,
-        77,
-        30
+        187
       ]
     },
     {
-      "clue": "Neural connections in neuroscience.",
-      "answer": "pathways",
-      "answer_letters": "PATHWAYS",
+      "clue": "Not influenced by surroundings.",
+      "answer": "unaffected",
+      "answer_letters": "UNAFFECTED",
+      "indices": [
+        15,
+        89,
+        157,
+        148,
+        58,
+        146,
+        25,
+        16,
+        177,
+        90
+      ]
+    },
+    {
+      "clue": "A dominant force in any competitive field.",
+      "answer": "powerhouse",
+      "answer_letters": "POWERHOUSE",
       "indices": [
         185,
-        133,
-        87,
+        3,
+        130,
+        44,
+        37,
         51,
-        33,
-        9,
-        144,
-        119
+        14,
+        101,
+        104,
+        123
       ]
     },
     {
-      "clue": "Influenced significantly",
-      "answer": "impacted",
-      "answer_letters": "IMPACTED",
+      "clue": "A well-known name among Muslims.",
+      "answer": "ibrahim",
+      "answer_letters": "IBRAHIM",
       "indices": [
+        79,
+        29,
+        68,
+        77,
+        21,
         124,
-        184,
-        27,
-        154,
-        114,
-        167,
-        31,
-        103
+        143
       ]
     },
     {
-      "clue": "Conscious of a fact or situation.",
-      "answer": "knowing",
-      "answer_letters": "KNOWING",
+      "clue": "A martial art originating in Japan.",
+      "answer": "karate",
+      "answer_letters": "KARATE",
       "indices": [
         78,
-        140,
-        71,
-        106,
-        107,
-        125,
-        81
+        154,
+        59,
+        83,
+        10,
+        65
       ]
     },
     {
-      "clue": "State tree is the Longleaf Pine.",
-      "answer": "alabama",
-      "answer_letters": "ALABAMA",
+      "clue": "Can operate independently.",
+      "answer": "autonomous",
+      "answer_letters": "AUTONOMOUS",
       "indices": [
         113,
-        170,
-        12,
-        122,
-        26,
+        165,
+        188,
+        93,
+        134,
+        100,
         162,
-        149
+        183,
+        96,
+        19
       ]
     },
     {
-      "clue": "Illicit or illegal.",
-      "answer": "unlawful",
-      "answer_letters": "UNLAWFUL",
+      "clue": "Applicant whom no employer wants.",
+      "answer": "undesirable",
+      "answer_letters": "UNDESIRABLE",
       "indices": [
         55,
         56,
-        176,
+        180,
+        69,
+        119,
+        61,
+        169,
         36,
-        130,
-        148,
-        101,
-        147
+        13,
+        176,
+        88
       ]
     },
     {
@@ -123,182 +131,174 @@
       ]
     },
     {
-      "clue": "A heroine from a novel by George Eliot.",
-      "answer": "maggie",
-      "answer_letters": "MAGGIE",
+      "clue": "Not easily forgotten.",
+      "answer": "memorable",
+      "answer_letters": "MEMORABLE",
       "indices": [
         153,
-        67,
-        126,
-        141,
-        79,
-        168
+        159,
+        184,
+        152,
+        75,
+        57,
+        122,
+        138,
+        34
       ]
     },
     {
-      "clue": "Added forcefully into a system.",
-      "answer": "injected",
-      "answer_letters": "INJECTED",
+      "clue": "Introduced systematically.",
+      "answer": "implemented",
+      "answer_letters": "IMPLEMENTED",
       "indices": [
-        61,
+        47,
+        156,
+        27,
+        147,
+        189,
+        132,
+        45,
         102,
-        117,
-        69,
-        182,
-        108,
-        88,
-        180
+        87,
+        115,
+        103
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
-      "answer": "lambeth",
-      "answer_letters": "LAMBETH",
+      "clue": "Within legal boundaries.",
+      "answer": "lawful",
+      "answer_letters": "LAWFUL",
       "indices": [
-        137,
-        83,
-        143,
-        13,
-        76,
-        16,
-        21
+        186,
+        67,
+        33,
+        43,
+        118,
+        46
       ]
     },
     {
-      "clue": "Co-writer of 'Being John Malkovich.'",
-      "answer": "kaufman",
-      "answer_letters": "KAUFMAN",
+      "clue": "Founder of a breakfast cereal empire.",
+      "answer": "kellogg",
+      "answer_letters": "KELLOGG",
       "indices": [
         158,
-        157,
-        15,
-        58,
-        156,
-        128,
-        89
+        168,
+        30,
+        137,
+        71,
+        49,
+        126
       ]
     },
     {
-      "clue": "Superb, fantastic, terrific.",
-      "answer": "awesome",
-      "answer_letters": "AWESOME",
+      "clue": "Commonly employed in the creation of master discs for vinyl records.",
+      "answer": "acetate",
+      "answer_letters": "ACETATE",
       "indices": [
-        57,
-        23,
-        44,
-        104,
-        3,
-        132,
-        123
+        133,
+        182,
+        31,
+        108,
+        9,
+        167,
+        76
       ]
     },
     {
-      "clue": "Opposite of southward.",
-      "answer": "northbound",
-      "answer_letters": "NORTHBOUND",
+      "clue": "Tribe of the Southwest U.S.",
+      "answer": "navajo",
+      "answer_letters": "NAVAJO",
       "indices": [
-        155,
-        175,
-        68,
-        92,
-        109,
-        29,
-        40,
-        18,
         80,
-        85
-      ]
-    },
-    {
-      "clue": "In some contexts, synonymous with 'lady of leisure.'",
-      "answer": "dowager",
-      "answer_letters": "DOWAGER",
-      "indices": [
-        90,
-        93,
-        99,
-        60,
-        111,
-        177,
-        112
-      ]
-    },
-    {
-      "clue": "Despite what was previously mentioned.",
-      "answer": "however",
-      "answer_letters": "HOWEVER",
-      "indices": [
-        174,
-        100,
-        173,
-        187,
+        149,
         4,
-        159,
-        75
-      ]
-    },
-    {
-      "clue": "Antonym of law-abiding citizen.",
-      "answer": "outlaw",
-      "answer_letters": "OUTLAW",
-      "indices": [
-        183,
-        96,
-        7,
-        138,
-        178,
-        64
-      ]
-    },
-    {
-      "clue": "Opposite of southwest on a compass.",
-      "answer": "northeast",
-      "answer_letters": "NORTHEAST",
-      "indices": [
-        48,
-        152,
-        37,
-        10,
-        8,
-        146,
         28,
-        19,
-        188
+        117,
+        22
       ]
     },
     {
-      "clue": "Essential components in medical defibrillators.",
-      "answer": "electrodes",
-      "answer_letters": "ELECTRODES",
+      "clue": "Location where skyscrapers often rise.",
+      "answer": "downtown",
+      "answer_letters": "DOWNTOWN",
       "indices": [
-        34,
-        186,
-        65,
-        135,
-        120,
-        59,
-        52,
         62,
-        38,
+        40,
+        99,
+        48,
+        92,
+        52,
+        173,
+        155
+      ]
+    },
+    {
+      "clue": "Major route connecting cities.",
+      "answer": "highway",
+      "answer_letters": "HIGHWAY",
+      "indices": [
+        8,
+        107,
+        141,
+        174,
+        64,
+        12,
+        144
+      ]
+    },
+    {
+      "clue": "Criminals in the eyes of society.",
+      "answer": "outlaws",
+      "answer_letters": "OUTLAWS",
+      "indices": [
+        131,
+        18,
+        120,
+        2,
+        26,
+        151,
         145
       ]
     },
     {
-      "clue": "Famous for its geothermal features.",
-      "answer": "yellowstone",
-      "answer_letters": "YELLOWSTONE",
+      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
+      "indices": [
+        140,
+        38,
+        23,
+        7,
+        175,
+        106,
+        125
+      ]
+    },
+    {
+      "clue": "Participate actively.",
+      "answer": "engage",
+      "answer_letters": "ENGAGE",
+      "indices": [
+        163,
+        84,
+        81,
+        60,
+        111,
+        5
+      ]
+    },
+    {
+      "clue": "Types of leisure vessels.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
       "indices": [
         171,
-        163,
-        46,
-        2,
-        131,
-        151,
-        160,
+        178,
+        135,
+        109,
         166,
-        22,
-        84,
-        5
+        160
       ]
     }
   ],

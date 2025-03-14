@@ -5,116 +5,19 @@
   "source_letters": "TADWILLIAMSSHADOWRISE",
   "clues": [
     {
-      "clue": "At all points in time or space; at every stage of.",
-      "answer": "throughout",
-      "answer_letters": "THROUGHOUT",
+      "clue": "The sum of eleven and eleven.",
+      "answer": "twenty-two",
+      "answer_letters": "TWENTYTWO",
       "indices": [
         138,
-        139,
-        173,
-        63,
-        112,
-        89,
-        85,
-        49,
-        130,
-        11
-      ]
-    },
-    {
-      "clue": "Tint of hair dye.",
-      "answer": "auburn",
-      "answer_letters": "AUBURN",
-      "indices": [
-        110,
-        119,
-        127,
-        163,
-        113,
-        134
-      ]
-    },
-    {
-      "clue": "2007 IndyCar race site",
-      "answer": "daytona",
-      "answer_letters": "DAYTONA",
-      "indices": [
-        35,
-        100,
-        103,
-        42,
-        90,
-        8,
-        107
-      ]
-    },
-    {
-      "clue": "The estate where Mr. Darcy lives.",
-      "answer": "wentworth",
-      "answer_letters": "WENTWORTH",
-      "indices": [
-        84,
-        68,
-        48,
-        102,
-        0,
-        15,
-        53,
-        77,
-        37
-      ]
-    },
-    {
-      "clue": "Home to millions of tracks available for purchase or streaming.",
-      "answer": "itunes",
-      "answer_letters": "ITUNES",
-      "indices": [
-        6,
-        125,
-        33,
-        79,
-        128,
-        144
-      ]
-    },
-    {
-      "clue": "Exodus; departure.",
-      "answer": "leaving",
-      "answer_letters": "LEAVING",
-      "indices": [
-        34,
-        114,
-        118,
-        169,
-        151,
-        58,
-        80
-      ]
-    },
-    {
-      "clue": "Classical term for a school or educational establishment.",
-      "answer": "lyceum",
-      "answer_letters": "LYCEUM",
-      "indices": [
-        17,
+        70,
+        137,
+        136,
+        11,
         121,
-        164,
-        44,
-        81,
-        109
-      ]
-    },
-    {
-      "clue": "Daughter of Jawaharlal Nehru",
-      "answer": "indira",
-      "answer_letters": "INDIRA",
-      "indices": [
-        54,
-        25,
-        92,
-        57,
-        62,
-        86
+        66,
+        94,
+        63
       ]
     },
     {
@@ -122,180 +25,277 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        157,
-        74,
-        18,
-        94,
-        39,
-        132
+        100,
+        48,
+        132,
+        84,
+        107,
+        103
       ]
     },
     {
-      "clue": "Macbeth's son, killed when he resisted Macduff.",
-      "answer": "malcolm",
-      "answer_letters": "MALCOLM",
+      "clue": "Painter Domenichino (a variant spelling).",
+      "answer": "domenico",
+      "answer_letters": "DOMENICO",
       "indices": [
-        72,
-        95,
-        155,
-        154,
-        179,
-        141,
-        64
-      ]
-    },
-    {
-      "clue": "The nationality of Jozef Mengele's victims' homeland.",
-      "answer": "slovak",
-      "answer_letters": "SLOVAK",
-      "indices": [
-        75,
-        181,
-        32,
-        46,
-        1,
-        158
-      ]
-    },
-    {
-      "clue": "Confrontation between gunmen.",
-      "answer": "shootout",
-      "answer_letters": "SHOOTOUT",
-      "indices": [
-        23,
-        165,
-        29,
-        24,
-        87,
+        52,
         7,
-        124,
-        120
-      ]
-    },
-    {
-      "clue": "Spoken in parts of Israel today.",
-      "answer": "hebrew",
-      "answer_letters": "HEBREW",
-      "indices": [
-        28,
-        142,
-        116,
-        5,
-        13,
-        27
-      ]
-    },
-    {
-      "clue": "Author of the 'Flatland' novella.",
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
-      "indices": [
-        129,
-        4,
-        123,
-        91,
-        66,
-        152
-      ]
-    },
-    {
-      "clue": "Country's official tongue in Berlin",
-      "answer": "deutsche",
-      "answer_letters": "DEUTSCHE",
-      "indices": [
-        160,
-        137,
-        180,
-        111,
-        162,
-        31,
-        43,
-        172
-      ]
-    },
-    {
-      "clue": "In disagreement.",
-      "answer": "opposed",
-      "answer_letters": "OPPOSED",
-      "indices": [
-        71,
-        20,
-        55,
-        135,
-        178,
+        72,
         38,
-        52
+        79,
+        57,
+        164,
+        90
       ]
     },
     {
-      "clue": "Compiled an early English language dictionary.",
-      "answer": "webster",
-      "answer_letters": "WEBSTER",
+      "clue": "Debris post-accident.",
+      "answer": "wreckage",
+      "answer_letters": "WRECKAGE",
       "indices": [
-        70,
-        140,
-        98,
-        2,
-        131,
-        21,
-        22
-      ]
-    },
-    {
-      "clue": "Potentially stateless until granted asylum.",
-      "answer": "refugee",
-      "answer_letters": "REFUGEE",
-      "indices": [
-        40,
+        0,
+        113,
         117,
-        61,
-        101,
+        154,
+        158,
+        1,
         59,
-        82,
-        99
+        82
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
-      "answer": "isfahan",
-      "answer_letters": "ISFAHAN",
+      "clue": "Entangle or engage in a matter",
+      "answer": "involve",
+      "answer_letters": "INVOLVE",
       "indices": [
-        170,
-        143,
-        149,
-        73,
-        67,
-        167,
-        136
-      ]
-    },
-    {
-      "clue": "Given name for an intelligent young girl.",
-      "answer": "sophie",
-      "answer_letters": "SOPHIE",
-      "indices": [
-        96,
-        174,
-        56,
-        12,
         148,
+        16,
+        169,
+        156,
+        141,
+        46,
+        128
+      ]
+    },
+    {
+      "clue": "Echoes of amusement.",
+      "answer": "laughs",
+      "answer_letters": "LAUGHS",
+      "indices": [
+        34,
+        118,
+        119,
+        89,
+        67,
+        96
+      ]
+    },
+    {
+      "clue": "German Protestant sect.",
+      "answer": "lutheran",
+      "answer_letters": "LUTHERAN",
+      "indices": [
+        17,
+        124,
+        111,
+        43,
+        44,
+        173,
+        167,
+        74
+      ]
+    },
+    {
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        54,
+        20,
+        12,
+        174,
+        134,
+        114
+      ]
+    },
+    {
+      "clue": "Famous artist whose work is exhibited at the Rodin Museum.",
+      "answer": "auguste",
+      "answer_letters": "AUGUSTE",
+      "indices": [
+        86,
+        163,
+        80,
+        101,
+        23,
+        131,
         47
       ]
     },
     {
-      "clue": "Characteristic of something that bears the same name.",
-      "answer": "eponymous",
-      "answer_letters": "EPONYMOUS",
+      "clue": "City government related.",
+      "answer": "mayoral",
+      "answer_letters": "MAYORAL",
+      "indices": [
+        109,
+        157,
+        18,
+        29,
+        22,
+        39,
+        155
+      ]
+    },
+    {
+      "clue": "Small, quick-moving sea creature.",
+      "answer": "shrimp",
+      "answer_letters": "SHRIMP",
+      "indices": [
+        176,
+        37,
+        40,
+        6,
+        64,
+        55
+      ]
+    },
+    {
+      "clue": "Severely wounded by a pointed weapon.",
+      "answer": "stabbed",
+      "answer_letters": "STABBED",
+      "indices": [
+        144,
+        42,
+        110,
+        98,
+        116,
+        13,
+        35
+      ]
+    },
+    {
+      "clue": "18th-century geologist who influenced Lyell",
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
+      "indices": [
+        165,
+        175,
+        102,
+        77,
+        24,
+        8
+      ]
+    },
+    {
+      "clue": "Open-source web server software",
+      "answer": "apache",
+      "answer_letters": "APACHE",
+      "indices": [
+        129,
+        56,
+        73,
+        31,
+        139,
+        172
+      ]
+    },
+    {
+      "clue": "Might not be as it seems.",
+      "answer": "dubious",
+      "answer_letters": "DUBIOUS",
+      "indices": [
+        160,
+        112,
+        4,
+        170,
+        49,
+        130,
+        162
+      ]
+    },
+    {
+      "clue": "Out at sea.",
+      "answer": "offshore",
+      "answer_letters": "OFFSHORE",
+      "indices": [
+        71,
+        149,
+        61,
+        75,
+        28,
+        135,
+        5,
+        68
+      ]
+    },
+    {
+      "clue": "Headed toward sunset.",
+      "answer": "westbound",
+      "answer_letters": "WESTBOUND",
+      "indices": [
+        27,
+        140,
+        2,
+        152,
+        123,
+        91,
+        180,
+        58,
+        92
+      ]
+    },
+    {
+      "clue": "A new version of an existing show.",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
+      "indices": [
+        53,
+        99,
+        127,
+        15,
+        32,
+        125
+      ]
+    },
+    {
+      "clue": "Staffed entirely by employees of the corporation",
+      "answer": "in-house",
+      "answer_letters": "INHOUSE",
+      "indices": [
+        151,
+        25,
+        85,
+        179,
+        81,
+        143,
+        21
+      ]
+    },
+    {
+      "clue": "Overall height or size.",
+      "answer": "stature",
+      "answer_letters": "STATURE",
+      "indices": [
+        178,
+        87,
+        95,
+        120,
+        33,
+        62,
+        142
+      ]
+    },
+    {
+      "clue": "Use a worker's services",
+      "answer": "employ",
+      "answer_letters": "EMPLOY",
       "indices": [
         159,
-        171,
-        156,
-        16,
-        9,
         50,
+        171,
+        181,
         78,
-        175,
-        176
+        9
       ]
     }
   ],

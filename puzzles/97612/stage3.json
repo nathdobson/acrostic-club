@@ -5,285 +5,285 @@
   "source_letters": "WALTERKIRNUPINTHEAIR",
   "clues": [
     {
-      "clue": "Famous music festival held in the summer of '69.",
-      "answer": "woodstock",
-      "answer_letters": "WOODSTOCK",
+      "clue": "Something resembling white, slightly off.",
+      "answer": "whitish",
+      "answer_letters": "WHITISH",
       "indices": [
         115,
-        142,
-        10,
-        12,
-        98,
-        61,
-        137,
-        153,
-        139
-      ]
-    },
-    {
-      "clue": "Nations that fought against the Axis powers in World War II.",
-      "answer": "allied",
-      "answer_letters": "ALLIED",
-      "indices": [
-        117,
-        145,
-        106,
-        72,
-        111,
-        19
-      ]
-    },
-    {
-      "clue": "Private research university located in Pennsylvania.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
-      "indices": [
-        113,
-        33,
         103,
         43,
-        161,
+        61,
+        133,
+        98,
         165
       ]
     },
     {
-      "clue": "To prosper and grow successfully.",
-      "answer": "thrive",
-      "answer_letters": "THRIVE",
+      "clue": "Links in memory or thought.",
+      "answer": "associations",
+      "answer_letters": "ASSOCIATIONS",
       "indices": [
-        156,
-        157,
-        138,
+        117,
+        78,
+        52,
+        17,
+        124,
         41,
-        63,
-        76
-      ]
-    },
-    {
-      "clue": "The firstborn child of a family.",
-      "answer": "eldest",
-      "answer_letters": "ELDEST",
-      "indices": [
-        148,
-        83,
-        119,
-        5,
-        50,
-        96
-      ]
-    },
-    {
-      "clue": "Regular patterns of sound or movement.",
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        95,
-        162,
-        24,
-        70,
-        89,
-        14,
-        29
-      ]
-    },
-    {
-      "clue": "Newest independent country in the Balkans.",
-      "answer": "kosovo",
-      "answer_letters": "KOSOVO",
-      "indices": [
-        171,
-        128,
-        31,
-        159,
-        42,
-        79
-      ]
-    },
-    {
-      "clue": "Home of Rome, Milan, and Venice.",
-      "answer": "italy's",
-      "answer_letters": "ITALYS",
-      "indices": [
-        123,
-        23,
         60,
-        18,
-        84,
-        121
-      ]
-    },
-    {
-      "clue": "Natural watercourses.",
-      "answer": "rivers",
-      "answer_letters": "RIVERS",
-      "indices": [
-        170,
-        86,
-        1,
-        132,
-        158,
-        100
-      ]
-    },
-    {
-      "clue": "Major French newspaper.",
-      "answer": "nationale",
-      "answer_letters": "NATIONALE",
-      "indices": [
-        152,
-        36,
-        9,
-        90,
+        70,
+        72,
         104,
         80,
-        81,
-        82,
-        166
+        172
       ]
     },
     {
-      "clue": "A useful tool or service.",
-      "answer": "utility",
-      "answer_letters": "UTILITY",
+      "clue": "Luminaries for the stage.",
+      "answer": "lights",
+      "answer_letters": "LIGHTS",
       "indices": [
-        160,
-        67,
-        97,
-        109,
-        22,
-        38,
-        15
-      ]
-    },
-    {
-      "clue": "A travel document.",
-      "answer": "passports",
-      "answer_letters": "PASSPORTS",
-      "indices": [
-        26,
-        151,
-        32,
-        78,
-        75,
-        17,
-        65,
-        130,
-        52
-      ]
-    },
-    {
-      "clue": "A dental procedure or a device used to replace missing teeth.",
-      "answer": "insert",
-      "answer_letters": "INSERT",
-      "indices": [
-        146,
-        55,
-        172,
-        56,
-        48,
-        49
-      ]
-    },
-    {
-      "clue": "A time of day associated with stars and the moon.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        118,
-        0,
-        45,
+        11,
+        86,
+        161,
         131,
-        127,
-        73
-      ]
-    },
-    {
-      "clue": "A measure of how wide or deep an object is.",
-      "answer": "thickness",
-      "answer_letters": "THICKNESS",
-      "indices": [
-        122,
-        68,
-        133,
-        124,
-        125,
-        7,
-        6,
-        34,
+        143,
         102
       ]
     },
     {
-      "clue": "A flowering tree used in traditional medicine for heart health.",
-      "answer": "hawthorn",
-      "answer_letters": "HAWTHORN",
+      "clue": "Dual-directional.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
       "indices": [
-        59,
-        69,
+        156,
+        58,
+        128,
         136,
-        164,
-        39,
-        114,
-        40,
-        147
+        69,
+        24
       ]
     },
     {
-      "clue": "Billionaire philanthropist known for his charitable giving.",
-      "answer": "endowed",
-      "answer_letters": "ENDOWED",
+      "clue": "Mistakes in judgment or fact.",
+      "answer": "errors",
+      "answer_letters": "ERRORS",
       "indices": [
+        148,
+        48,
+        138,
+        79,
+        40,
+        32
+      ]
+    },
+    {
+      "clue": "An early British colonialist in Southern Africa.",
+      "answer": "rhodes",
+      "answer_letters": "RHODES",
+      "indices": [
+        95,
+        89,
+        114,
+        19,
+        111,
+        29
+      ]
+    },
+    {
+      "clue": "Those who take lives.",
+      "answer": "killers",
+      "answer_letters": "KILLERS",
+      "indices": [
+        139,
+        97,
+        113,
+        109,
+        33,
+        134,
+        28
+      ]
+    },
+    {
+      "clue": "Not good health.",
+      "answer": "illness",
+      "answer_letters": "ILLNESS",
+      "indices": [
+        123,
+        106,
+        18,
+        147,
+        5,
+        50,
+        121
+      ]
+    },
+    {
+      "clue": "Describes a quiet, introverted individual.",
+      "answer": "reserved",
+      "answer_letters": "RESERVED",
+      "indices": [
+        158,
+        6,
+        100,
         62,
-        91,
-        107,
-        27,
-        58,
+        65,
+        42,
         64,
+        107
+      ]
+    },
+    {
+      "clue": "Gryffindor wizard",
+      "answer": "neville",
+      "answer_letters": "NEVILLE",
+      "indices": [
+        152,
+        56,
+        63,
+        90,
+        83,
+        145,
+        166
+      ]
+    },
+    {
+      "clue": "Open up for use.",
+      "answer": "unlock",
+      "answer_letters": "UNLOCK",
+      "indices": [
+        160,
+        118,
+        82,
+        137,
+        21,
+        171
+      ]
+    },
+    {
+      "clue": "Headship of the Roman Catholic Church.",
+      "answer": "papacy",
+      "answer_letters": "PAPACY",
+      "indices": [
+        26,
+        36,
+        75,
+        81,
+        53,
+        84
+      ]
+    },
+    {
+      "clue": "Called for the use of something, often a law or principle.",
+      "answer": "invoked",
+      "answer_letters": "INVOKED",
+      "indices": [
+        146,
+        55,
+        1,
+        27,
+        92,
+        132,
+        119
+      ]
+    },
+    {
+      "clue": "Successfully caught or trapped.",
+      "answer": "netted",
+      "answer_letters": "NETTED",
+      "indices": [
+        141,
+        54,
+        49,
+        9,
+        2,
         150
       ]
     },
     {
-      "clue": "Satisfactory; as deemed by an authority figure.",
-      "answer": "acceptable",
-      "answer_letters": "ACCEPTABLE",
+      "clue": "Indelible ink design.",
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        88,
+        94,
+        127,
+        67,
+        142,
+        10
+      ]
+    },
+    {
+      "clue": "Opposite of 'coldest' in terms of temperature.",
+      "answer": "hottest",
+      "answer_letters": "HOTTEST",
+      "indices": [
+        162,
+        159,
+        164,
+        96,
+        76,
+        73,
+        23
+      ]
+    },
+    {
+      "clue": "Affective understanding of another's situation.",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        154,
+        14,
+        168,
+        47,
+        38,
+        157,
+        15
+      ]
+    },
+    {
+      "clue": "Denier of gods.",
+      "answer": "atheist",
+      "answer_letters": "ATHEIST",
       "indices": [
         169,
-        21,
-        53,
-        30,
-        168,
         99,
-        94,
-        4,
-        11,
-        154
-      ]
-    },
-    {
-      "clue": "The process of consuming or absorbing something.",
-      "answer": "intake",
-      "answer_letters": "INTAKE",
-      "indices": [
+        68,
+        30,
         110,
-        141,
-        88,
-        47,
-        92,
-        2
+        34,
+        122
       ]
     },
     {
-      "clue": "Process of giving back something previously purchased or borrowed.",
-      "answer": "returns",
-      "answer_letters": "RETURNS",
+      "clue": "Austria's capital of Tyrol.",
+      "answer": "innsbruck",
+      "answer_letters": "INNSBRUCK",
+      "indices": [
+        22,
+        91,
+        44,
+        31,
+        4,
+        170,
+        105,
+        153,
+        125
+      ]
+    },
+    {
+      "clue": "Opposite of left.",
+      "answer": "right-hand",
+      "answer_letters": "RIGHTHAND",
       "indices": [
         77,
-        54,
-        143,
-        105,
-        134,
-        44,
-        28
+        0,
+        45,
+        59,
+        130,
+        39,
+        151,
+        7,
+        12
       ]
     }
   ],

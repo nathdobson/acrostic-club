@@ -5,279 +5,279 @@
   "source_letters": "MARYWEBBGONETOEARTH",
   "clues": [
     {
-      "clue": "A surname for Matthew",
-      "answer": "matthews",
-      "answer_letters": "MATTHEWS",
+      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "answer": "mohawk",
+      "answer_letters": "MOHAWK",
       "indices": [
         143,
-        169,
-        136,
-        46,
+        158,
         120,
-        98,
+        169,
         130,
-        41
+        18
       ]
     },
     {
-      "clue": "Used when referring to courts above trial level.",
-      "answer": "appellate",
-      "answer_letters": "APPELLATE",
+      "clue": "Brother and successor to King Hussein.",
+      "answer": "abdullah",
+      "answer_letters": "ABDULLAH",
       "indices": [
-        153,
-        14,
-        177,
-        13,
+        54,
+        111,
+        11,
+        163,
         139,
         70,
-        176,
-        31,
-        173
+        153,
+        4
       ]
     },
     {
-      "clue": "Make something again popular",
-      "answer": "revive",
-      "answer_letters": "REVIVE",
+      "clue": "Made over with significant changes",
+      "answer": "revamped",
+      "answer_letters": "REVAMPED",
       "indices": [
         84,
         96,
-        51,
-        66,
         166,
-        121
+        176,
+        97,
+        24,
+        121,
+        99
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
-      "answer": "yokohama",
-      "answer_letters": "YOKOHAMA",
+      "clue": "Delivers results or outcomes",
+      "answer": "yields",
+      "answer_letters": "YIELDS",
       "indices": [
         63,
-        42,
-        18,
-        114,
-        32,
-        5,
-        152,
-        101
-      ]
-    },
-    {
-      "clue": "Bertrand Russell's collaborator on logic",
-      "answer": "whitehead",
-      "answer_letters": "WHITEHEAD",
-      "indices": [
-        82,
-        150,
-        91,
-        92,
-        33,
-        108,
+        50,
         12,
-        60,
-        6
+        172,
+        115,
+        8
       ]
     },
     {
-      "clue": "Things that take place.",
-      "answer": "events",
-      "answer_letters": "EVENTS",
+      "clue": "Devoid of",
+      "answer": "without",
+      "answer_letters": "WITHOUT",
+      "indices": [
+        141,
+        44,
+        46,
+        32,
+        42,
+        47,
+        92
+      ]
+    },
+    {
+      "clue": "Accent on a particular point.",
+      "answer": "emphasis",
+      "answer_letters": "EMPHASIS",
+      "indices": [
+        173,
+        58,
+        177,
+        29,
+        75,
+        56,
+        171,
+        102
+      ]
+    },
+    {
+      "clue": "Area where wars are waged.",
+      "answer": "battlefield",
+      "answer_letters": "BATTLEFIELD",
+      "indices": [
+        156,
+        16,
+        28,
+        86,
+        168,
+        95,
+        73,
+        104,
+        109,
+        157,
+        160
+      ]
+    },
+    {
+      "clue": "The name of a bug.",
+      "answer": "beetle",
+      "answer_letters": "BEETLE",
+      "indices": [
+        162,
+        83,
+        37,
+        49,
+        80,
+        2
+      ]
+    },
+    {
+      "clue": "He advocated 'Satyagraha' or insistence on truth.",
+      "answer": "gandhi",
+      "answer_letters": "GANDHI",
+      "indices": [
+        148,
+        131,
+        147,
+        6,
+        108,
+        117
+      ]
+    },
+    {
+      "clue": "At the exact spot of occurrence or interest.",
+      "answer": "on-site",
+      "answer_letters": "ONSITE",
+      "indices": [
+        167,
+        118,
+        94,
+        27,
+        164,
+        13
+      ]
+    },
+    {
+      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "answer": "newton",
+      "answer_letters": "NEWTON",
+      "indices": [
+        76,
+        52,
+        26,
+        61,
+        113,
+        20
+      ]
+    },
+    {
+      "clue": "Theory proposed by Darwin.",
+      "answer": "evolution",
+      "answer_letters": "EVOLUTION",
       "indices": [
         71,
         124,
-        125,
-        154,
-        164,
-        132
-      ]
-    },
-    {
-      "clue": "To the rear.",
-      "answer": "behind",
-      "answer_letters": "BEHIND",
-      "indices": [
-        111,
-        37,
-        29,
-        104,
-        134,
-        11
-      ]
-    },
-    {
-      "clue": "UK's official language.",
-      "answer": "british",
-      "answer_letters": "BRITISH",
-      "indices": [
-        156,
-        122,
-        50,
-        28,
-        44,
-        8,
-        68
-      ]
-    },
-    {
-      "clue": "Bang, bang!",
-      "answer": "gunshot",
-      "answer_letters": "GUNSHOT",
-      "indices": [
-        148,
-        151,
-        147,
-        21,
-        4,
-        81,
-        86
-      ]
-    },
-    {
-      "clue": "Sore about something said or done",
-      "answer": "offended",
-      "answer_letters": "OFFENDED",
-      "indices": [
-        9,
-        79,
-        105,
-        109,
-        118,
-        99,
-        52,
-        77
-      ]
-    },
-    {
-      "clue": "Advocate for sovereignty and self-governance.",
-      "answer": "nationalist",
-      "answer_letters": "NATIONALIST",
-      "indices": [
-        76,
-        75,
-        61,
-        117,
-        113,
-        20,
-        54,
-        157,
-        19,
-        94,
-        107
-      ]
-    },
-    {
-      "clue": "Radiant energy sent out into space.",
-      "answer": "emission",
-      "answer_letters": "EMISSION",
-      "indices": [
-        2,
-        97,
-        126,
-        56,
-        102,
-        27,
         144,
+        112,
+        151,
+        107,
+        19,
+        9,
         127
       ]
     },
     {
-      "clue": "Dual-directional.",
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
+      "clue": "Units for organizing communities.",
+      "answer": "townships",
+      "answer_letters": "TOWNSHIPS",
       "indices": [
-        35,
-        26,
-        167,
+        31,
+        159,
         65,
-        72,
+        154,
+        39,
+        62,
+        66,
+        59,
+        132
+      ]
+    },
+    {
+      "clue": "Side project emerging from an original idea.",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        114,
+        79,
+        105,
+        21,
+        22,
+        81,
+        135,
+        89
+      ]
+    },
+    {
+      "clue": "Affective understanding of another's situation.",
+      "answer": "empathy",
+      "answer_letters": "EMPATHY",
+      "indices": [
+        38,
+        152,
+        14,
+        60,
+        170,
+        150,
         57
       ]
     },
     {
-      "clue": "Antonym of law-abiding citizen.",
-      "answer": "outlaw",
-      "answer_letters": "OUTLAW",
+      "clue": "End of a leader's life in sudden tragedy.",
+      "answer": "assassination",
+      "answer_letters": "ASSASSINATION",
       "indices": [
-        135,
-        163,
-        89,
-        168,
-        131,
-        141
+        88,
+        41,
+        128,
+        5,
+        175,
+        0,
+        48,
+        45,
+        101,
+        136,
+        91,
+        140,
+        134
       ]
     },
     {
-      "clue": "Buildings where services are offered (e.g., banks).",
-      "answer": "establishments",
-      "answer_letters": "ESTABLISHMENTS",
+      "clue": "Critiques or assessments.",
+      "answer": "reviews",
+      "answer_letters": "REVIEWS",
       "indices": [
-        38,
-        175,
-        170,
-        16,
-        162,
-        80,
+        36,
+        98,
+        145,
         146,
-        0,
-        22,
-        58,
-        83,
-        45,
-        49,
+        33,
+        82,
         138
       ]
     },
     {
-      "clue": "Circumvents or steers clear of",
-      "answer": "avoids",
-      "answer_letters": "AVOIDS",
-      "indices": [
-        88,
-        145,
-        158,
-        48,
-        115,
-        128
-      ]
-    },
-    {
-      "clue": "Name associated with both sleighs and trains in folklore and history.",
-      "answer": "rudolf",
-      "answer_letters": "RUDOLF",
-      "indices": [
-        36,
-        47,
-        160,
-        140,
-        172,
-        73
-      ]
-    },
-    {
-      "clue": "Administrative unit in Pakistan and India.",
-      "answer": "tehsil",
-      "answer_letters": "TEHSIL",
+      "clue": "Succeed, especially in a particular environment.",
+      "answer": "thrive",
+      "answer_letters": "THRIVE",
       "indices": [
         67,
-        95,
-        62,
-        39,
-        171,
-        112
+        68,
+        122,
+        126,
+        51,
+        125
       ]
     },
     {
-      "clue": "Genre of music and culture.",
-      "answer": "hip-hop",
-      "answer_letters": "HIPHOP",
+      "clue": "Second most important source in Islamic law after the Quran.",
+      "answer": "hadith",
+      "answer_letters": "HADITH",
       "indices": [
         87,
+        72,
+        77,
         23,
-        24,
-        1,
-        159,
-        59
+        35,
+        1
       ]
     }
   ],

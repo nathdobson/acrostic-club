@@ -12,7 +12,6 @@
 #![feature(const_async_blocks)]
 #![feature(try_blocks)]
 #![feature(trait_alias)]
-#![feature(trait_upcasting)]
 #![feature(error_generic_member_access)]
 #![feature(impl_trait_in_assoc_type)]
 #![feature(unboxed_closures)]
@@ -77,6 +76,7 @@ pub mod turtle;
 pub mod util;
 mod lemma;
 pub mod conflict_set;
+mod cluedb;
 
 use crate::stream::StreamExt;
 use crate::util::interrupt::{CleanupSender, run_with_interrupts};

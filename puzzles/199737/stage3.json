@@ -1,0 +1,291 @@
+{
+  "quote": "He can surround a sword with flames.\"\" \tFreya sounded proud of him. That irritated Ena. He was her prisoner and only she had the right to feel proud of him as far as she was concerned.",
+  "quote_letters": "HE CAN SURROUND A SWORD WITH FLAMES FREYA SOUNDED PROUD OF HIM THAT IRRITATED ENA HE WAS HER PRISONER AND ONLY SHE HAD THE RIGHT TO FEEL PROUD OF HIM AS FAR AS SHE WAS CONCERNED",
+  "source": "Terry Spear, Phantom Fae",
+  "source_letters": "TERRYSPEARPHANTOMFAE",
+  "clues": [
+    {
+      "clue": "Hurls with intent to score or make contact.",
+      "answer": "throws",
+      "answer_letters": "THROWS",
+      "indices": [
+        72,
+        115,
+        100,
+        52,
+        164,
+        166
+      ]
+    },
+    {
+      "clue": "Canonized in law or tradition",
+      "answer": "enshrined",
+      "answer_letters": "ENSHRINED",
+      "indices": [
+        47,
+        45,
+        42,
+        126,
+        155,
+        60,
+        103,
+        38,
+        48
+      ]
+    },
+    {
+      "clue": "Precipitation that has seeped into a waterway.",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
+      "indices": [
+        21,
+        53,
+        174,
+        143,
+        153,
+        29
+      ]
+    },
+    {
+      "clue": "Moved with haste or speed.",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
+      "indices": [
+        173,
+        8,
+        87,
+        27,
+        172,
+        54
+      ]
+    },
+    {
+      "clue": "Types of leisure vessels.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        39,
+        65,
+        171,
+        112,
+        63,
+        111
+      ]
+    },
+    {
+      "clue": "Esteemed actor with Middle Eastern roots.",
+      "answer": "sharif",
+      "answer_letters": "SHARIF",
+      "indices": [
+        160,
+        89,
+        73,
+        51,
+        95,
+        144
+      ]
+    },
+    {
+      "clue": "Capital of the North-West Frontier Province (until 1970), Pakistan.",
+      "answer": "peshawar",
+      "answer_letters": "PESHAWAR",
+      "indices": [
+        50,
+        133,
+        34,
+        59,
+        86,
+        85,
+        40,
+        9
+      ]
+    },
+    {
+      "clue": "To provide for certainty.",
+      "answer": "ensure",
+      "answer_letters": "ENSURE",
+      "indices": [
+        175,
+        13,
+        158,
+        12,
+        37,
+        90
+      ]
+    },
+    {
+      "clue": "A state in South India.",
+      "answer": "andhra",
+      "answer_letters": "ANDHRA",
+      "indices": [
+        154,
+        107,
+        14,
+        82,
+        91,
+        102
+      ]
+    },
+    {
+      "clue": "Respectable comic?",
+      "answer": "rodney",
+      "answer_letters": "RODNEY",
+      "indices": [
+        123,
+        11,
+        46,
+        170,
+        121,
+        109
+      ]
+    },
+    {
+      "clue": "A set of printed material bound together.",
+      "answer": "portfolio",
+      "answer_letters": "PORTFOLIO",
+      "indices": [
+        93,
+        43,
+        94,
+        26,
+        57,
+        169,
+        135,
+        147,
+        106
+      ]
+    },
+    {
+      "clue": "Given shelter or accommodation.",
+      "answer": "housed",
+      "answer_letters": "HOUSED",
+      "indices": [
+        120,
+        56,
+        44,
+        151,
+        162,
+        141
+      ]
+    },
+    {
+      "clue": "Known for its intricate patterns and warmth.",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
+      "indices": [
+        116,
+        132,
+        125,
+        0,
+        150,
+        98
+      ]
+    },
+    {
+      "clue": "Items on a hypodermic.",
+      "answer": "needles",
+      "answer_letters": "NEEDLES",
+      "indices": [
+        79,
+        78,
+        134,
+        76,
+        30,
+        75,
+        96
+      ]
+    },
+    {
+      "clue": "Colonial possessions.",
+      "answer": "territories",
+      "answer_letters": "TERRITORIES",
+      "indices": [
+        129,
+        1,
+        69,
+        138,
+        68,
+        74,
+        130,
+        70,
+        124,
+        99,
+        18
+      ]
+    },
+    {
+      "clue": "State capital: Bhubaneswar.",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        20,
+        104,
+        71,
+        7,
+        161,
+        165
+      ]
+    },
+    {
+      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
+      "indices": [
+        32,
+        80,
+        119,
+        127,
+        64,
+        33,
+        19
+      ]
+    },
+    {
+      "clue": "UK port with maritime history.",
+      "answer": "falmouth",
+      "answer_letters": "FALMOUTH",
+      "indices": [
+        36,
+        31,
+        108,
+        61,
+        139,
+        140,
+        66,
+        146
+      ]
+    },
+    {
+      "clue": "Traveled together with",
+      "answer": "accompanied",
+      "answer_letters": "ACCOMPANIED",
+      "indices": [
+        16,
+        3,
+        168,
+        97,
+        148,
+        137,
+        157,
+        5,
+        25,
+        113,
+        117
+      ]
+    },
+    {
+      "clue": "Brother to George III",
+      "answer": "edward",
+      "answer_letters": "EDWARD",
+      "indices": [
+        83,
+        176,
+        24,
+        4,
+        10,
+        22
+      ]
+    }
+  ],
+  "chat": null
+}

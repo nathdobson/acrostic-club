@@ -1,0 +1,296 @@
+{
+  "quote": "When you laugh at yourself, you gain perspective. Then you realize that the mistakes you made, as long as they didn't hurt anyone but yourself——well, you can forgive yourself for those.",
+  "quote_letters": "WHEN YOU LAUGH AT YOURSELF YOU GAIN PERSPECTIVE THEN YOU REALIZE THAT THE MISTAKES YOU MADE AS LONG AS THEY DIDNT HURT ANYONE BUT YOURSELF--WELL YOU CAN FORGIVE YOURSELF FOR THOSE",
+  "source": "Dean Koontz, Brother Odd",
+  "source_letters": "DEANKOONTZBROTHERODD",
+  "clues": [
+    {
+      "clue": "Extended family reign.",
+      "answer": "dynasty",
+      "answer_letters": "DYNASTY",
+      "indices": [
+        89,
+        121,
+        3,
+        32,
+        165,
+        16,
+        5
+      ]
+    },
+    {
+      "clue": "____ de Beauharnais, an emperor's consort.",
+      "answer": "eugene",
+      "answer_letters": "EUGENE",
+      "indices": [
+        178,
+        163,
+        31,
+        41,
+        51,
+        72
+      ]
+    },
+    {
+      "clue": "Penmen.",
+      "answer": "authors",
+      "answer_letters": "AUTHORS",
+      "indices": [
+        119,
+        20,
+        174,
+        175,
+        84,
+        172,
+        177
+      ]
+    },
+    {
+      "clue": "An adjective for events happening every evening.",
+      "answer": "nightly",
+      "answer_letters": "NIGHTLY",
+      "indices": [
+        123,
+        157,
+        98,
+        104,
+        117,
+        24,
+        27
+      ]
+    },
+    {
+      "clue": "Japan's most western island.",
+      "answer": "kyushu",
+      "answer_letters": "KYUSHU",
+      "indices": [
+        79,
+        18,
+        55,
+        39,
+        71,
+        29
+      ]
+    },
+    {
+      "clue": "A Baltimore baseball team.",
+      "answer": "orioles",
+      "answer_letters": "ORIOLES",
+      "indices": [
+        171,
+        133,
+        44,
+        122,
+        60,
+        50,
+        101
+      ]
+    },
+    {
+      "clue": "Away from the web",
+      "answer": "offline",
+      "answer_letters": "OFFLINE",
+      "indices": [
+        162,
+        137,
+        168,
+        167,
+        75,
+        34,
+        63
+      ]
+    },
+    {
+      "clue": "Home to Atlantis Resort",
+      "answer": "nassau",
+      "answer_letters": "NASSAU",
+      "indices": [
+        97,
+        150,
+        93,
+        81,
+        15,
+        132
+      ]
+    },
+    {
+      "clue": "Dual-directional.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        48,
+        140,
+        96,
+        0,
+        88,
+        130
+      ]
+    },
+    {
+      "clue": "One who examines creatures for science.",
+      "answer": "zoologist",
+      "answer_letters": "ZOOLOGIST",
+      "indices": [
+        62,
+        19,
+        154,
+        136,
+        131,
+        156,
+        33,
+        134,
+        112
+      ]
+    },
+    {
+      "clue": "Lovely or pretty in nature.",
+      "answer": "beautiful",
+      "answer_letters": "BEAUTIFUL",
+      "indices": [
+        126,
+        135,
+        67,
+        85,
+        68,
+        109,
+        170,
+        127,
+        95
+      ]
+    },
+    {
+      "clue": "Repetitive patterns in music or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        38,
+        66,
+        53,
+        128,
+        49,
+        87,
+        22
+      ]
+    },
+    {
+      "clue": "Pertaining to labor and employment",
+      "answer": "occupational",
+      "answer_letters": "OCCUPATIONAL",
+      "indices": [
+        176,
+        42,
+        149,
+        7,
+        40,
+        78,
+        43,
+        61,
+        28,
+        151,
+        59,
+        9
+      ]
+    },
+    {
+      "clue": "Hence or consequently",
+      "answer": "therefore",
+      "answer_letters": "THEREFORE",
+      "indices": [
+        65,
+        13,
+        141,
+        155,
+        90,
+        153,
+        54,
+        164,
+        80
+      ]
+    },
+    {
+      "clue": "Describing a celestial paradise.",
+      "answer": "heavenly",
+      "answer_letters": "HEAVENLY",
+      "indices": [
+        1,
+        37,
+        100,
+        158,
+        58,
+        111,
+        142,
+        161
+      ]
+    },
+    {
+      "clue": "All hands on deck.",
+      "answer": "everyone",
+      "answer_letters": "EVERYONE",
+      "indices": [
+        23,
+        45,
+        166,
+        116,
+        106,
+        146,
+        120,
+        46
+      ]
+    },
+    {
+      "clue": "Couplets often found in poetry.",
+      "answer": "rhymes",
+      "answer_letters": "RHYMES",
+      "indices": [
+        57,
+        114,
+        145,
+        74,
+        159,
+        76
+      ]
+    },
+    {
+      "clue": "Reaction to an injustice.",
+      "answer": "outrage",
+      "answer_letters": "OUTRAGE",
+      "indices": [
+        6,
+        11,
+        103,
+        21,
+        10,
+        12,
+        105
+      ]
+    },
+    {
+      "clue": "Computer's go-to setting",
+      "answer": "default",
+      "answer_letters": "DEFAULT",
+      "indices": [
+        108,
+        124,
+        25,
+        92,
+        115,
+        143,
+        77
+      ]
+    },
+    {
+      "clue": "Secondary in command.",
+      "answer": "deputy",
+      "answer_letters": "DEPUTY",
+      "indices": [
+        110,
+        2,
+        36,
+        147,
+        70,
+        83
+      ]
+    }
+  ],
+  "chat": null
+}

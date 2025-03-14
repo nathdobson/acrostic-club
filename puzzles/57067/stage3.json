@@ -5,129 +5,131 @@
   "source_letters": "MIKEGAYLEDINNERFORTWO",
   "clues": [
     {
-      "clue": "A name given to Jesus' disciple by casting lots.",
-      "answer": "matthias",
-      "answer_letters": "MATTHIAS",
+      "clue": "Common organic substituent",
+      "answer": "methyl",
+      "answer_letters": "METHYL",
       "indices": [
         175,
-        140,
+        86,
         30,
-        70,
         18,
-        65,
-        96,
-        89
+        131,
+        23
       ]
     },
     {
-      "clue": "First or early",
-      "answer": "initial",
-      "answer_letters": "INITIAL",
+      "clue": "Often measured by the Consumer Price Index (CPI).",
+      "answer": "inflation",
+      "answer_letters": "INFLATION",
       "indices": [
-        128,
-        99,
-        98,
+        31,
+        36,
+        129,
+        138,
+        102,
         182,
-        35,
-        19,
-        45
+        160,
+        132,
+        156
       ]
     },
     {
-      "clue": "Armor-clad medieval warrior.",
-      "answer": "knight",
-      "answer_letters": "KNIGHT",
+      "clue": "Home to ancient Dilmun civilization.",
+      "answer": "kuwait",
+      "answer_letters": "KUWAIT",
       "indices": [
         14,
-        149,
-        16,
-        63,
-        166,
-        48
+        88,
+        122,
+        140,
+        184,
+        7
       ]
     },
     {
-      "clue": "Advanced on the career ladder",
-      "answer": "elevated",
-      "answer_letters": "ELEVATED",
+      "clue": "Became a member of an army",
+      "answer": "enlisted",
+      "answer_letters": "ENLISTED",
       "indices": [
         56,
-        138,
-        108,
-        55,
-        80,
+        161,
+        104,
+        0,
+        82,
         173,
-        71,
+        108,
         170
       ]
     },
     {
-      "clue": "Business expansion or development.",
-      "answer": "growth",
-      "answer_letters": "GROWTH",
+      "clue": "Slang for an urban slum area.",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
       "indices": [
-        150,
-        44,
-        52,
-        122,
+        63,
+        166,
+        54,
+        48,
         84,
-        11
+        8
       ]
     },
     {
-      "clue": "A variant of Ann.",
-      "answer": "annette",
-      "answer_letters": "ANNETTE",
+      "clue": "Someone who excels in sports.",
+      "answer": "athlete",
+      "answer_letters": "ATHLETE",
       "indices": [
-        145,
-        156,
-        172,
-        176,
+        96,
         59,
-        76,
-        54
-      ]
-    },
-    {
-      "clue": "Educational institution emphasizing Torah study.",
-      "answer": "yeshiva",
-      "answer_letters": "YESHIVA",
-      "indices": [
-        131,
+        119,
+        45,
         135,
-        163,
-        60,
-        152,
-        97,
-        180
+        76,
+        40
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "clue": "Motorcycle brand.",
+      "answer": "yamaha",
+      "answer_letters": "YAMAHA",
       "indices": [
-        23,
-        40,
-        79,
-        31,
-        100,
-        95
+        141,
+        145,
+        112,
+        180,
+        11,
+        19
       ]
     },
     {
-      "clue": "Multiple releases of a literary work.",
-      "answer": "editions",
-      "answer_letters": "EDITIONS",
+      "clue": "Crime during riots.",
+      "answer": "looting",
+      "answer_letters": "LOOTING",
+      "indices": [
+        24,
+        171,
+        123,
+        147,
+        16,
+        149,
+        150
+      ]
+    },
+    {
+      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "answer": "eisenhower",
+      "answer_letters": "EISENHOWER",
       "indices": [
         120,
-        126,
-        160,
-        147,
-        61,
-        8,
-        13,
-        146
+        12,
+        142,
+        90,
+        178,
+        60,
+        43,
+        78,
+        4,
+        124
       ]
     },
     {
@@ -135,74 +137,109 @@
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
-        72,
-        78,
-        0,
-        162,
-        159,
+        46,
+        139,
+        152,
+        100,
+        79,
         26
       ]
     },
     {
-      "clue": "Think-tank organization.",
-      "answer": "institute",
-      "answer_letters": "INSTITUTE",
+      "clue": "Common term in Spanish-speaking countries for schools and research centers.",
+      "answer": "instituto",
+      "answer_letters": "INSTITUTO",
       "indices": [
-        111,
+        65,
         116,
-        142,
+        89,
+        70,
+        111,
         38,
-        184,
-        165,
         133,
-        7,
-        86
+        165,
+        52
       ]
     },
     {
-      "clue": "Received a nod for an award.",
-      "answer": "nominated",
-      "answer_letters": "NOMINATED",
+      "clue": "An adjective for events happening every evening.",
+      "answer": "nightly",
+      "answer_letters": "NIGHTLY",
       "indices": [
-        69,
-        123,
-        32,
-        148,
-        185,
-        22,
+        99,
+        61,
+        162,
+        159,
         81,
-        4,
-        46
+        125,
+        58
       ]
     },
     {
-      "clue": "Worth mentioning or recording.",
-      "answer": "notable",
-      "answer_letters": "NOTABLE",
+      "clue": "Adviser to King David, a counselor during his reign.",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
       "indices": [
-        161,
-        171,
+        172,
+        22,
         10,
-        102,
-        74,
-        24,
-        90
+        95,
+        80,
+        13
       ]
     },
     {
-      "clue": "Canonized in law or tradition",
-      "answer": "enshrined",
-      "answer_letters": "ENSHRINED",
+      "clue": "Baked into something.",
+      "answer": "embedded",
+      "answer_letters": "EMBEDDED",
       "indices": [
         28,
-        178,
-        82,
-        119,
-        124,
-        12,
-        36,
+        32,
+        74,
         33,
-        20
+        20,
+        126,
+        176,
+        72
+      ]
+    },
+    {
+      "clue": "Make something again popular",
+      "answer": "revive",
+      "answer_letters": "REVIVE",
+      "indices": [
+        134,
+        71,
+        97,
+        35,
+        55,
+        113
+      ]
+    },
+    {
+      "clue": "End of a race or event.",
+      "answer": "finish",
+      "answer_letters": "FINISH",
+      "indices": [
+        93,
+        128,
+        185,
+        98,
+        163,
+        85
+      ]
+    },
+    {
+      "clue": "A command often used to encourage progress.",
+      "answer": "onward",
+      "answer_letters": "ONWARD",
+      "indices": [
+        49,
+        62,
+        42,
+        137,
+        57,
+        51
       ]
     },
     {
@@ -210,92 +247,55 @@
       "answer": "rutland",
       "answer_letters": "RUTLAND",
       "indices": [
-        57,
+        44,
         2,
-        106,
-        125,
-        167,
-        62,
-        51
-      ]
-    },
-    {
-      "clue": "Struggled in a contest or disagreement.",
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
-      "indices": [
-        129,
-        43,
-        88,
-        186,
-        39,
-        153
-      ]
-    },
-    {
-      "clue": "The movement of molten lava from a volcano.",
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        155,
-        75,
-        118,
-        93,
-        103,
-        49,
-        42
-      ]
-    },
-    {
-      "clue": "Time signature component.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        134,
-        85,
-        141,
         168,
-        183,
-        112
+        103,
+        177,
+        69,
+        5
       ]
     },
     {
-      "clue": "Dual-directional.",
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
+      "clue": "Contemplations or reflections.",
+      "answer": "thoughts",
+      "answer_letters": "THOUGHTS",
       "indices": [
         158,
-        139,
-        92,
-        67,
-        68,
-        58
+        183,
+        155,
+        75,
+        186,
+        39,
+        110,
+        146
       ]
     },
     {
-      "clue": "Plenty of money.",
-      "answer": "wealth",
-      "answer_letters": "WEALTH",
+      "clue": "Something resembling white, slightly off.",
+      "answer": "whitish",
+      "answer_letters": "WHITISH",
       "indices": [
         144,
-        113,
-        137,
-        104,
-        110,
+        27,
+        148,
+        118,
+        115,
+        3,
         107
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
-      "answer": "odisha",
-      "answer_letters": "ODISHA",
+      "clue": "Formerly named Bytown.",
+      "answer": "ottawa",
+      "answer_letters": "OTTAWA",
       "indices": [
-        132,
-        5,
-        115,
-        3,
-        27,
-        177
+        92,
+        153,
+        106,
+        167,
+        67,
+        68
       ]
     }
   ],

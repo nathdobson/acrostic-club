@@ -5,104 +5,45 @@
   "source_letters": "ALANBRENNERTMOLOKAI",
   "clues": [
     {
-      "clue": "Members of a mythical crew seeking riches.",
-      "answer": "argonauts",
-      "answer_letters": "ARGONAUTS",
+      "clue": "Lower part of torso, below chest.",
+      "answer": "abdomen",
+      "answer_letters": "ABDOMEN",
       "indices": [
-        66,
-        148,
-        34,
-        73,
-        86,
         138,
-        37,
-        38,
-        0
-      ]
-    },
-    {
-      "clue": "A material often used for jackets or sofas.",
-      "answer": "leather",
-      "answer_letters": "LEATHER",
-      "indices": [
-        5,
-        175,
-        19,
-        15,
-        46,
-        137,
-        161
-      ]
-    },
-    {
-      "clue": "Despite that fact.",
-      "answer": "albeit",
-      "answer_letters": "ALBEIT",
-      "indices": [
-        41,
-        84,
-        36,
-        97,
-        32,
-        48
-      ]
-    },
-    {
-      "clue": "Hereditary aristocrat.",
-      "answer": "nobleman",
-      "answer_letters": "NOBLEMAN",
-      "indices": [
-        116,
-        147,
         62,
+        104,
+        73,
+        74,
+        95,
+        86
+      ]
+    },
+    {
+      "clue": "Progressive or liberal stance.",
+      "answer": "left-wing",
+      "answer_letters": "LEFTWING",
+      "indices": [
         14,
-        2,
-        111,
-        53,
-        55
+        43,
+        99,
+        167,
+        45,
+        54,
+        33,
+        87
       ]
     },
     {
-      "clue": "Adjective describing magnanimity",
-      "answer": "benevolent",
-      "answer_letters": "BENEVOLENT",
+      "clue": "Creative literary craftsman.",
+      "answer": "author",
+      "answer_letters": "AUTHOR",
       "indices": [
-        94,
-        18,
-        40,
-        56,
-        26,
+        47,
+        165,
+        59,
+        121,
         170,
-        151,
-        112,
-        143,
-        127
-      ]
-    },
-    {
-      "clue": "Time signature component.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
-      "indices": [
-        136,
-        76,
-        10,
-        139,
-        140,
-        172
-      ]
-    },
-    {
-      "clue": "Vigorous or determined attempt to do something.",
-      "answer": "effort",
-      "answer_letters": "EFFORT",
-      "indices": [
-        107,
-        12,
-        71,
-        152,
-        28,
-        30
+        50
       ]
     },
     {
@@ -111,58 +52,113 @@
       "answer_letters": "NOWHERE",
       "indices": [
         69,
-        60,
-        45,
-        121,
+        152,
+        106,
+        76,
         51,
-        78,
+        136,
         162
       ]
     },
     {
-      "clue": "Brokered a deal.",
-      "answer": "negotiated",
-      "answer_letters": "NEGOTIATED",
+      "clue": "Electrical component that raises voltage.",
+      "answer": "booster",
+      "answer_letters": "BOOSTER",
       "indices": [
-        98,
-        122,
-        87,
-        144,
-        59,
-        54,
-        47,
+        94,
+        118,
+        92,
+        80,
         117,
         77,
-        113
+        78
       ]
     },
     {
-      "clue": "Gave physical presence to an idea.",
-      "answer": "embodied",
-      "answer_letters": "EMBODIED",
+      "clue": "East Yorkshire town, known for steel and glass works.",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
-        103,
+        72,
+        100,
+        91,
+        140,
+        88,
+        161,
+        1,
+        8,
+        111
+      ]
+    },
+    {
+      "clue": "Basic unit of a compound",
+      "answer": "element",
+      "answer_letters": "ELEMENT",
+      "indices": [
+        2,
+        151,
+        107,
         146,
-        135,
-        92,
+        141,
+        116,
+        139
+      ]
+    },
+    {
+      "clue": "Necessary for a particular purpose.",
+      "answer": "needed",
+      "answer_letters": "NEEDED",
+      "indices": [
+        143,
+        63,
+        103,
         17,
-        22,
         154,
         102
       ]
     },
     {
-      "clue": "It towers in California's forests.",
-      "answer": "redwood",
-      "answer_letters": "REDWOOD",
+      "clue": "Month with Thanksgiving in the U.S.",
+      "answer": "november",
+      "answer_letters": "NOVEMBER",
       "indices": [
-        6,
-        63,
-        57,
-        106,
+        40,
         157,
-        118,
+        26,
+        97,
+        52,
+        36,
+        122,
+        6
+      ]
+    },
+    {
+      "clue": "Advanced on the career ladder",
+      "answer": "elevated",
+      "answer_letters": "ELEVATED",
+      "indices": [
+        18,
+        84,
+        56,
+        153,
+        53,
+        30,
+        112,
         89
+      ]
+    },
+    {
+      "clue": "Automatonlike.",
+      "answer": "robotic",
+      "answer_letters": "ROBOTIC",
+      "indices": [
+        28,
+        60,
+        135,
+        147,
+        127,
+        32,
+        109
       ]
     },
     {
@@ -170,112 +166,116 @@
       "answer": "thereof",
       "answer_letters": "THEREOF",
       "indices": [
-        91,
-        1,
-        141,
-        72,
-        88,
-        100,
-        99
+        15,
+        128,
+        27,
+        174,
+        175,
+        85,
+        71
       ]
     },
     {
-      "clue": "Name of Egypt's president in recent history.",
-      "answer": "mohamed",
-      "answer_letters": "MOHAMED",
+      "clue": "Author of the Quranic revelations.",
+      "answer": "mohammed",
+      "answer_letters": "MOHAMMED",
       "indices": [
+        172,
+        173,
+        81,
+        4,
         42,
-        85,
-        128,
-        8,
         159,
-        27,
+        137,
         20
       ]
     },
     {
-      "clue": "Taking too much of a drug, medicine or alcohol.",
-      "answer": "overdose",
-      "answer_letters": "OVERDOSE",
+      "clue": "Famed Spanish essayist and poet.",
+      "answer": "ortega",
+      "answer_letters": "ORTEGA",
       "indices": [
-        110,
-        153,
-        13,
-        174,
-        104,
-        133,
-        80,
-        43
+        160,
+        126,
+        38,
+        68,
+        34,
+        19
       ]
     },
     {
-      "clue": "Instructor at a university.",
-      "answer": "lecturer",
-      "answer_letters": "LECTURER",
+      "clue": "They might find scissors designed for them more comfortable.",
+      "answer": "left-handed",
+      "answer_letters": "LEFTHANDED",
       "indices": [
         108,
         124,
-        109,
-        65,
-        165,
-        166,
+        12,
+        48,
+        31,
+        41,
+        98,
+        113,
         7,
-        50
+        57
       ]
     },
     {
-      "clue": "Nearby to Rochdale and Bury.",
-      "answer": "oldham",
-      "answer_letters": "OLDHAM",
+      "clue": "As many as sixty minutes.",
+      "answer": "one-hour",
+      "answer_letters": "ONEHOUR",
       "indices": [
-        173,
-        101,
-        9,
-        81,
-        4,
-        74
+        110,
+        55,
+        13,
+        46,
+        133,
+        37,
+        148
       ]
     },
     {
-      "clue": "The main message or focus of a speech or lecture.",
-      "answer": "keynote",
-      "answer_letters": "KEYNOTE",
+      "clue": "American singer-songwriter active since the mid-2010s.",
+      "answer": "khalid",
+      "answer_letters": "KHALID",
       "indices": [
         67,
-        68,
-        29,
-        33,
-        160,
-        167,
-        95
+        164,
+        66,
+        101,
+        22,
+        9
       ]
     },
     {
-      "clue": "Tune for national pride.",
-      "answer": "anthem",
-      "answer_letters": "ANTHEM",
+      "clue": "Lawyer.",
+      "answer": "attorney",
+      "answer_letters": "ATTORNEY",
       "indices": [
         125,
-        156,
         132,
-        31,
+        65,
+        144,
+        166,
+        156,
         82,
-        52
+        10
       ]
     },
     {
-      "clue": "Characteristic of an object from its creation.",
-      "answer": "inherent",
-      "answer_letters": "INHERENT",
+      "clue": "Energetically, with fervor",
+      "answer": "intensely",
+      "answer_letters": "INTENSELY",
       "indices": [
         115,
         23,
-        164,
+        120,
         149,
-        126,
-        25,
         169,
-        120
+        0,
+        25,
+        5,
+        29
       ]
     }
   ],

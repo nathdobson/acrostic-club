@@ -5,313 +5,313 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "A sudden loud noise often heard in action movies and crime scenes.",
-      "answer": "gunshot",
-      "answer_letters": "GUNSHOT",
+      "clue": "Einstein was one.",
+      "answer": "genius",
+      "answer_letters": "GENIUS",
       "indices": [
-        106,
-        112,
-        6,
-        136,
-        63,
-        31,
-        68
-      ]
-    },
-    {
-      "clue": "Converts information into a secret message.",
-      "answer": "encodes",
-      "answer_letters": "ENCODES",
-      "indices": [
-        162,
-        54,
-        115,
-        164,
-        191,
-        166,
-        117
-      ]
-    },
-    {
-      "clue": "A brief period of time.",
-      "answer": "one-hour",
-      "answer_letters": "ONEHOUR",
-      "indices": [
-        53,
-        165,
-        135,
-        154,
-        183,
-        137,
-        78
-      ]
-    },
-    {
-      "clue": "A written evaluation of a product or service.",
-      "answer": "review",
-      "answer_letters": "REVIEW",
-      "indices": [
-        57,
-        113,
-        170,
-        104,
-        185,
-        52
-      ]
-    },
-    {
-      "clue": "Major Scottish city located on the River Clyde.",
-      "answer": "glasgow",
-      "answer_letters": "GLASGOW",
-      "indices": [
-        23,
-        187,
-        28,
-        72,
         92,
-        86,
-        75
-      ]
-    },
-    {
-      "clue": "Polar explorer who led an expedition to Antarctica in 1933.",
-      "answer": "ellsworth",
-      "answer_letters": "ELLSWORTH",
-      "indices": [
-        157,
-        73,
-        89,
-        158,
-        145,
-        141,
-        49,
-        96,
-        151
-      ]
-    },
-    {
-      "clue": "To persist through hardship or difficulty.",
-      "answer": "endure",
-      "answer_letters": "ENDURE",
-      "indices": [
-        9,
-        120,
-        121,
-        149,
-        134,
-        56
-      ]
-    },
-    {
-      "clue": "Placing something down horizontally.",
-      "answer": "laying",
-      "answer_letters": "LAYING",
-      "indices": [
-        156,
-        175,
-        50,
-        94,
-        102,
-        12
-      ]
-    },
-    {
-      "clue": "Present from birth.",
-      "answer": "innate",
-      "answer_letters": "INNATE",
-      "indices": [
-        30,
-        84,
-        15,
-        80,
-        144,
-        48
-      ]
-    },
-    {
-      "clue": "A unique event or occurrence.",
-      "answer": "one-off",
-      "answer_letters": "ONEOFF",
-      "indices": [
-        37,
+        56,
         109,
-        116,
-        169,
-        87,
-        110
+        108,
+        38,
+        136
       ]
     },
     {
-      "clue": "Complete and exhaustive.",
-      "answer": "thorough",
-      "answer_letters": "THOROUGH",
+      "clue": "Made the same sound again",
+      "answer": "echoed",
+      "answer_letters": "ECHOED",
       "indices": [
-        179,
-        18,
-        146,
-        98,
-        34,
-        59,
-        103,
-        180
-      ]
-    },
-    {
-      "clue": "Famous Scottish play written by William Shakespeare.",
-      "answer": "macbeth",
-      "answer_letters": "MACBETH",
-      "indices": [
-        127,
-        101,
-        150,
-        8,
-        24,
-        17,
-        69
-      ]
-    },
-    {
-      "clue": "A small, helpless newborn.",
-      "answer": "infant",
-      "answer_letters": "INFANT",
-      "indices": [
-        10,
-        176,
-        142,
-        125,
-        95,
-        160
-      ]
-    },
-    {
-      "clue": "Brought to the ground, as a famous American pilot during WWII.",
-      "answer": "downed",
-      "answer_letters": "DOWNED",
-      "indices": [
-        25,
-        155,
-        62,
-        91,
-        66,
+        181,
+        115,
+        161,
+        188,
+        190,
         55
       ]
     },
     {
-      "clue": "Skiing event featured in the Winter Olympics.",
-      "answer": "downhill",
-      "answer_letters": "DOWNHILL",
+      "clue": "They make you cry but are great in a stew.",
+      "answer": "onions",
+      "answer_letters": "ONIONS",
+      "indices": [
+        90,
+        15,
+        10,
+        53,
+        105,
+        20
+      ]
+    },
+    {
+      "clue": "Capacity for logical thought.",
+      "answer": "reason",
+      "answer_letters": "REASON",
+      "indices": [
+        126,
+        113,
+        119,
+        148,
+        155,
+        32
+      ]
+    },
+    {
+      "clue": "Adjective for worldwide.",
+      "answer": "global",
+      "answer_letters": "GLOBAL",
+      "indices": [
+        23,
+        187,
+        86,
+        8,
+        28,
+        73
+      ]
+    },
+    {
+      "clue": "Chance meetings that may lead to adventures.",
+      "answer": "encounters",
+      "answer_letters": "ENCOUNTERS",
+      "indices": [
+        97,
+        6,
+        77,
+        141,
+        112,
+        120,
+        96,
+        48,
+        98,
+        158
+      ]
+    },
+    {
+      "clue": "Period of voting for a new government or leadership.",
+      "answer": "election",
+      "answer_letters": "ELECTION",
+      "indices": [
+        157,
+        111,
+        135,
+        123,
+        68,
+        42,
+        31,
+        27
+      ]
+    },
+    {
+      "clue": "Exodus; departure.",
+      "answer": "leaving",
+      "answer_letters": "LEAVING",
+      "indices": [
+        65,
+        24,
+        101,
+        189,
+        94,
+        114,
+        12
+      ]
+    },
+    {
+      "clue": "City with bridges named Si-o-se-pol.",
+      "answer": "isfahan",
+      "answer_letters": "ISFAHAN",
+      "indices": [
+        19,
+        43,
+        87,
+        80,
+        18,
+        175,
+        102
+      ]
+    },
+    {
+      "clue": "Defeated and replaced, often in a political context.",
+      "answer": "overthrown",
+      "answer_letters": "OVERTHROWN",
+      "indices": [
+        169,
+        47,
+        70,
+        134,
+        81,
+        63,
+        49,
+        64,
+        145,
+        11
+      ]
+    },
+    {
+      "clue": "Despite what was mentioned before.",
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        29,
+        151,
+        183,
+        149,
+        106,
+        154
+      ]
+    },
+    {
+      "clue": "It's when fans gather for soccer action.",
+      "answer": "matchday",
+      "answer_letters": "MATCHDAY",
+      "indices": [
+        127,
+        132,
+        179,
+        150,
+        69,
+        191,
+        5,
+        50
+      ]
+    },
+    {
+      "clue": "Crazed.",
+      "answer": "insane",
+      "answer_letters": "INSANE",
+      "indices": [
+        129,
+        165,
+        130,
+        45,
+        84,
+        162
+      ]
+    },
+    {
+      "clue": "Michele's husband on 'The Office'.",
+      "answer": "dwight",
+      "answer_letters": "DWIGHT",
+      "indices": [
+        25,
+        62,
+        14,
+        103,
+        180,
+        160
+      ]
+    },
+    {
+      "clue": "In materials science, it refers to the intermingling of atoms within solids.",
+      "answer": "diffusion",
+      "answer_letters": "DIFFUSION",
       "indices": [
         177,
-        188,
-        153,
-        105,
-        161,
-        14,
-        138,
-        65
+        171,
+        110,
+        35,
+        137,
+        117,
+        30,
+        34,
+        54
       ]
     },
     {
-      "clue": "Places where events happen.",
-      "answer": "locations",
-      "answer_letters": "LOCATIONS",
+      "clue": "Famed Beatle John ___, married Yoko Ono.",
+      "answer": "lennon",
+      "answer_letters": "LENNON",
       "indices": [
-        168,
-        83,
-        77,
-        45,
-        29,
-        129,
-        90,
+        138,
+        66,
         184,
-        130
+        176,
+        83,
+        95
       ]
     },
     {
-      "clue": "Different cultural backgrounds.",
-      "answer": "ethnicities",
-      "answer_letters": "ETHNICITIES",
+      "clue": "Famed polar explorer, born November 12, 1886, in Guilford, Connecticut.",
+      "answer": "ellsworth",
+      "answer_letters": "ELLSWORTH",
       "indices": [
         79,
+        89,
+        168,
+        72,
+        75,
+        37,
+        39,
         139,
-        100,
-        11,
-        82,
-        123,
-        108,
-        81,
-        42,
-        70,
-        40
+        100
       ]
     },
     {
-      "clue": "A weapon that can be guided to its target.",
-      "answer": "missile",
-      "answer_letters": "MISSILE",
+      "clue": "Birthplace of Ferrari and Maserati.",
+      "answer": "modena",
+      "answer_letters": "MODENA",
       "indices": [
         4,
-        19,
-        20,
-        43,
-        171,
-        111,
-        97
+        146,
+        121,
+        166,
+        91,
+        125
       ]
     },
     {
-      "clue": "A group of Marvel superheroes.",
-      "answer": "avengers",
-      "answer_letters": "AVENGERS",
+      "clue": "Known for its intricate patterns and warmth.",
+      "answer": "afghan",
+      "answer_letters": "AFGHAN",
       "indices": [
-        132,
-        47,
-        181,
-        114,
+        22,
+        58,
         173,
-        190,
-        126,
-        148
-      ]
-    },
-    {
-      "clue": "An election result requiring a second vote.",
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        39,
-        38,
-        27,
-        64,
-        35,
-        58
-      ]
-    },
-    {
-      "clue": "American politician who advocated for states' rights and the preservation of slavery.",
-      "answer": "calhoun",
-      "answer_letters": "CALHOUN",
-      "indices": [
-        99,
-        5,
-        60,
         2,
-        74,
-        3,
+        0,
         172
       ]
     },
     {
-      "clue": "Capital city of Cuba.",
-      "answer": "havana",
-      "answer_letters": "HAVANA",
+      "clue": "Critiques or assessments.",
+      "answer": "reviews",
+      "answer_letters": "REVIEWS",
+      "indices": [
+        78,
+        116,
+        170,
+        82,
+        9,
+        153,
+        40
+      ]
+    },
+    {
+      "clue": "Not lacking in color; bright and varied.",
+      "answer": "colourful",
+      "answer_letters": "COLOURFUL",
+      "indices": [
+        99,
+        164,
+        156,
+        74,
+        59,
+        57,
+        142,
+        3,
+        60
+      ]
+    },
+    {
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
       "indices": [
         124,
-        22,
-        189,
-        0,
-        32,
-        119
+        185,
+        52,
+        104,
+        144,
+        17
       ]
     }
   ],

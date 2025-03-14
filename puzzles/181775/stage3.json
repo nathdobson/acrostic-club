@@ -5,290 +5,290 @@
   "source_letters": "EMILYGIFFINBABYPROOF",
   "clues": [
     {
-      "clue": "Made the same sound again",
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
+      "clue": "Gave physical presence to an idea.",
+      "answer": "embodied",
+      "answer_letters": "EMBODIED",
       "indices": [
         163,
-        90,
-        146,
-        1,
-        104,
-        178
-      ]
-    },
-    {
-      "clue": "She was Ross's first wife in \"Friends\".",
-      "answer": "monica",
-      "answer_letters": "MONICA",
-      "indices": [
         40,
-        96,
-        175,
+        49,
+        1,
+        178,
         62,
-        138,
-        88
-      ]
-    },
-    {
-      "clue": "Person with a job at risk of losing to a new candidate.",
-      "answer": "incumbent",
-      "answer_letters": "INCUMBENT",
-      "indices": [
-        117,
-        7,
-        10,
-        37,
-        86,
-        65,
-        159,
-        121,
-        24
-      ]
-    },
-    {
-      "clue": "Didn't possess or contain.",
-      "answer": "lacked",
-      "answer_letters": "LACKED",
-      "indices": [
-        108,
-        53,
-        31,
-        128,
-        177,
+        104,
         8
       ]
     },
     {
-      "clue": "Somerset town home to Huish Park.",
-      "answer": "yeovil",
-      "answer_letters": "YEOVIL",
+      "clue": "Author of the Quranic revelations.",
+      "answer": "mohammed",
+      "answer_letters": "MOHAMMED",
       "indices": [
-        157,
-        81,
-        6,
-        164,
-        18,
-        135
-      ]
-    },
-    {
-      "clue": "Artisan who creates jewelry.",
-      "answer": "goldsmith",
-      "answer_letters": "GOLDSMITH",
-      "indices": [
-        99,
-        181,
-        67,
-        115,
-        16,
         156,
-        126,
-        154,
-        125
+        96,
+        146,
+        88,
+        29,
+        86,
+        177,
+        115
       ]
     },
     {
-      "clue": "Broke up a fight.",
-      "answer": "intervened",
-      "answer_letters": "INTERVENED",
+      "clue": "They range from bees to beetles.",
+      "answer": "insects",
+      "answer_letters": "INSECTS",
       "indices": [
-        130,
-        22,
-        57,
-        15,
-        77,
-        80,
-        143,
-        166,
-        110,
-        136
-      ]
-    },
-    {
-      "clue": "Struggled in a contest or disagreement.",
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
-      "indices": [
-        75,
-        36,
-        50,
-        103,
-        91,
-        51
-      ]
-    },
-    {
-      "clue": "How well something works.",
-      "answer": "functionality",
-      "answer_letters": "FUNCTIONALITY",
-      "indices": [
-        169,
-        56,
-        114,
-        5,
-        124,
-        45,
-        23,
-        127,
-        92,
-        160,
         147,
-        145,
-        60
-      ]
-    },
-    {
-      "clue": "Causes suppression of a function or response.",
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
-      "indices": [
-        79,
-        13,
-        32,
-        83,
-        49,
-        66,
-        38,
-        158
-      ]
-    },
-    {
-      "clue": "Their flags adorn the UN building.",
-      "answer": "nations",
-      "answer_letters": "NATIONS",
-      "indices": [
-        63,
-        34,
-        46,
-        95,
-        27,
-        141,
+        7,
+        16,
+        110,
+        10,
+        124,
         26
       ]
     },
     {
-      "clue": "Can be balanced (equating income with expenditure) or unbalanced.",
-      "answer": "budgets",
-      "answer_letters": "BUDGETS",
+      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "answer": "lehigh",
+      "answer_letters": "LEHIGH",
       "indices": [
-        151,
-        153,
-        102,
-        78,
+        108,
+        15,
+        32,
+        66,
+        142,
+        125
+      ]
+    },
+    {
+      "clue": "Talmudic academy.",
+      "answer": "yeshiva",
+      "answer_letters": "YESHIVA",
+      "indices": [
+        47,
         165,
-        69,
-        3
+        3,
+        106,
+        95,
+        164,
+        150
       ]
     },
     {
-      "clue": "Self-acting mechanism.",
-      "answer": "automatic",
-      "answer_letters": "AUTOMATIC",
+      "clue": "Type of novel featuring brooding heroes and damsel in distress.",
+      "answer": "gothic",
+      "answer_letters": "GOTHIC",
       "indices": [
-        85,
-        134,
-        176,
-        76,
-        93,
-        150,
-        19,
-        168,
-        132
+        78,
+        181,
+        38,
+        139,
+        126,
+        138
       ]
     },
     {
-      "clue": "Colombia's capital.",
-      "answer": "bogotá",
-      "answer_letters": "BOGOTA",
+      "clue": "Having cultural significance and staying power.",
+      "answer": "iconic",
+      "answer_letters": "ICONIC",
+      "indices": [
+        130,
+        31,
+        41,
+        114,
+        45,
+        5
+      ]
+    },
+    {
+      "clue": "Devised an equation or hypothesis.",
+      "answer": "formulated",
+      "answer_letters": "FORMULATED",
+      "indices": [
+        75,
+        36,
+        100,
+        59,
+        50,
+        44,
+        140,
+        51,
+        4,
+        109
+      ]
+    },
+    {
+      "clue": "Begins after something else (9 letters)",
+      "answer": "follows",
+      "answer_letters": "FOLLOWS",
+      "indices": [
+        169,
+        27,
+        160,
+        135,
+        133,
+        173,
+        158
+      ]
+    },
+    {
+      "clue": "Spanish male given name.",
+      "answer": "ignacio",
+      "answer_letters": "IGNACIO",
+      "indices": [
+        79,
+        99,
+        175,
+        53,
+        90,
+        83,
+        55
+      ]
+    },
+    {
+      "clue": "Iqaluit, its capital city, means 'place of many fish.'",
+      "answer": "nunavut",
+      "answer_letters": "NUNAVUT",
+      "indices": [
+        121,
+        37,
+        63,
+        92,
+        80,
+        134,
+        145
+      ]
+    },
+    {
+      "clue": "Endorsed someone or something.",
+      "answer": "backed",
+      "answer_letters": "BACKED",
       "indices": [
         54,
-        133,
-        142,
-        107,
-        122,
-        113
+        85,
+        14,
+        128,
+        159,
+        136
       ]
     },
     {
-      "clue": "Culture and language spoken by many in southwestern Nigeria.",
-      "answer": "yoruba",
-      "answer_letters": "YORUBA",
+      "clue": "City that played a pivotal role during the Crusades.",
+      "answer": "antioch",
+      "answer_letters": "ANTIOCH",
+      "indices": [
+        113,
+        141,
+        24,
+        117,
+        76,
+        132,
+        11
+      ]
+    },
+    {
+      "clue": "Once a British crown colony in India, now part of Maharashtra.",
+      "answer": "bombay",
+      "answer_letters": "BOMBAY",
+      "indices": [
+        35,
+        107,
+        93,
+        65,
+        34,
+        157
+      ]
+    },
+    {
+      "clue": "Southern Chinese province.",
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
       "indices": [
         70,
-        55,
-        42,
         101,
-        35,
-        174
+        13,
+        22,
+        174,
+        166
       ]
     },
     {
-      "clue": "Study of matter and energy.",
-      "answer": "physics",
-      "answer_letters": "PHYSICS",
+      "clue": "Controversial service often debated in terms of legality.",
+      "answer": "prostitution",
+      "answer_letters": "PROSTITUTION",
       "indices": [
         94,
-        11,
-        47,
+        77,
+        6,
         148,
+        46,
+        168,
+        122,
+        153,
+        176,
+        18,
+        73,
+        0
+      ]
+    },
+    {
+      "clue": "They ensure equality before the law.",
+      "answer": "rights",
+      "answer_letters": "RIGHTS",
+      "indices": [
+        111,
         68,
-        14,
+        103,
+        91,
+        19,
         20
       ]
     },
     {
-      "clue": "An assembly of old friends or former members",
-      "answer": "reunion",
-      "answer_letters": "REUNION",
+      "clue": "No longer current.",
+      "answer": "outdated",
+      "answer_letters": "OUTDATED",
       "indices": [
-        100,
-        4,
+        120,
         30,
-        0,
+        72,
+        119,
+        64,
+        180,
+        81,
+        102
+      ]
+    },
+    {
+      "clue": "Achieve possession of.",
+      "answer": "obtain",
+      "answer_letters": "OBTAIN",
+      "indices": [
+        152,
+        151,
+        69,
+        43,
         171,
-        73,
         97
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        120,
-        72,
-        180,
-        64,
-        173,
-        140
-      ]
-    },
-    {
-      "clue": "Nearby to Rochdale and Bury.",
-      "answer": "oldham",
-      "answer_letters": "OLDHAM",
-      "indices": [
-        152,
-        44,
-        109,
-        106,
-        43,
-        59
-      ]
-    },
-    {
-      "clue": "John Cardinal O'Connor attended this Jesuit institution.",
-      "answer": "fordham",
-      "answer_letters": "FORDHAM",
+      "clue": "Adverb for lucky.",
+      "answer": "fortunately",
+      "answer_letters": "FORTUNATELY",
       "indices": [
         161,
-        41,
-        111,
-        119,
-        139,
+        23,
+        42,
+        154,
+        56,
+        127,
         12,
-        29
+        57,
+        143,
+        67,
+        60
       ]
     }
   ],

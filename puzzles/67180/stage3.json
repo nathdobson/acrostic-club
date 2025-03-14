@@ -9,28 +9,124 @@
       "answer": "suffolk",
       "answer_letters": "SUFFOLK",
       "indices": [
-        135,
-        21,
-        5,
+        36,
+        48,
         107,
-        126,
-        67,
-        84
+        27,
+        68,
+        121,
+        179
       ]
     },
     {
-      "clue": "Seen by audiences in movies and television.",
-      "answer": "on-screen",
-      "answer_letters": "ONSCREEN",
+      "clue": "Bank compensation in carbon accounting.",
+      "answer": "offset",
+      "answer_letters": "OFFSET",
       "indices": [
         20,
-        174,
-        57,
-        55,
-        109,
+        66,
+        5,
+        144,
         118,
-        155,
-        85
+        22
+      ]
+    },
+    {
+      "clue": "Up-to-date or modern.",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        98,
+        6,
+        8,
+        170,
+        116,
+        88
+      ]
+    },
+    {
+      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "answer": "yokohama",
+      "answer_letters": "YOKOHAMA",
+      "indices": [
+        129,
+        173,
+        56,
+        69,
+        50,
+        168,
+        177,
+        32
+      ]
+    },
+    {
+      "clue": "Championing a particular issue.",
+      "answer": "advocacy",
+      "answer_letters": "ADVOCACY",
+      "indices": [
+        152,
+        92,
+        104,
+        126,
+        55,
+        113,
+        52,
+        72
+      ]
+    },
+    {
+      "clue": "B3s were popularized by keyboardists like Jimmy Smith.",
+      "answer": "hammond",
+      "answer_letters": "HAMMOND",
+      "indices": [
+        131,
+        9,
+        141,
+        24,
+        186,
+        153,
+        156
+      ]
+    },
+    {
+      "clue": "Immune system protein.",
+      "answer": "antibody",
+      "answer_letters": "ANTIBODY",
+      "indices": [
+        178,
+        85,
+        158,
+        149,
+        161,
+        99,
+        172,
+        1
+      ]
+    },
+    {
+      "clue": "Protector during a monarch's minority",
+      "answer": "regent",
+      "answer_letters": "REGENT",
+      "indices": [
+        46,
+        37,
+        18,
+        142,
+        133,
+        62
+      ]
+    },
+    {
+      "clue": "Ponders possible outcomes.",
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        123,
+        45,
+        40,
+        17,
+        84,
+        76
       ]
     },
     {
@@ -38,160 +134,65 @@
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
-        33,
-        68,
-        145,
-        78,
-        91,
-        18
-      ]
-    },
-    {
-      "clue": "Opposite of stubbornness.",
-      "answer": "yielding",
-      "answer_letters": "YIELDING",
-      "indices": [
-        1,
-        59,
-        64,
-        79,
-        156,
-        149,
         41,
+        47,
+        74,
+        95,
+        60,
         125
       ]
     },
     {
-      "clue": "Nickname for Texas A&M.",
-      "answer": "aggies",
-      "answer_letters": "AGGIES",
+      "clue": "Furnished with wealth or assets",
+      "answer": "endowed",
+      "answer_letters": "ENDOWED",
       "indices": [
-        152,
-        185,
-        42,
-        95,
-        38,
+        180,
+        91,
+        96,
+        103,
+        151,
+        138,
+        134
+      ]
+    },
+    {
+      "clue": "Associated with a controversial travel ban, known as 'The Muslim Ban'",
+      "answer": "trump's",
+      "answer_letters": "TRUMPS",
+      "indices": [
+        139,
+        114,
+        21,
+        128,
+        12,
         10
       ]
     },
     {
-      "clue": "Midpoint of a football match.",
-      "answer": "halftime",
-      "answer_letters": "HALFTIME",
+      "clue": "Complete sums.",
+      "answer": "totals",
+      "answer_letters": "TOTALS",
       "indices": [
-        50,
-        9,
-        137,
-        66,
-        22,
-        82,
-        141,
-        122
-      ]
-    },
-    {
-      "clue": "A sudden hostile action",
-      "answer": "attack",
-      "answer_letters": "ATTACK",
-      "indices": [
-        32,
-        44,
-        154,
-        178,
-        52,
-        56
-      ]
-    },
-    {
-      "clue": "Precipitation that has seeped into a waterway.",
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
-      "indices": [
-        46,
-        14,
-        133,
-        103,
-        27,
-        111
-      ]
-    },
-    {
-      "clue": "Indelible ink design.",
-      "answer": "tattoo",
-      "answer_letters": "TATTOO",
-      "indices": [
-        175,
-        54,
-        139,
-        123,
-        99,
-        186
-      ]
-    },
-    {
-      "clue": "Oscar-winning actor Paul ______.",
-      "answer": "newman",
-      "answer_letters": "NEWMAN",
-      "indices": [
-        17,
-        105,
-        151,
-        24,
-        132,
-        98
-      ]
-    },
-    {
-      "clue": "Hereditary title often associated with land ownership.",
-      "answer": "earldom",
-      "answer_letters": "EARLDOM",
-      "indices": [
-        142,
-        146,
-        70,
-        87,
-        134,
-        13,
-        0
-      ]
-    },
-    {
-      "clue": "Verified the facts.",
-      "answer": "tested",
-      "answer_letters": "TESTED",
-      "indices": [
+        77,
+        108,
         100,
-        28,
-        36,
-        74,
-        86,
-        34
+        90,
+        3,
+        57
       ]
     },
     {
-      "clue": "They manufacture Corollas.",
-      "answer": "toyota",
-      "answer_letters": "TOYOTA",
-      "indices": [
-        158,
-        173,
-        72,
-        69,
-        30,
-        113
-      ]
-    },
-    {
-      "clue": "Countrymen of Ingmar Bergman",
-      "answer": "swedes",
-      "answer_letters": "SWEDES",
+      "clue": "Bring to an end or resolve.",
+      "answer": "settle",
+      "answer_letters": "SETTLE",
       "indices": [
         169,
-        8,
         29,
-        172,
-        112,
-        144
+        44,
+        154,
+        166,
+        112
       ]
     },
     {
@@ -199,81 +200,80 @@
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
-        48,
-        12,
-        63,
-        108,
-        3,
+        14,
+        165,
+        117,
+        159,
+        80,
+        34
+      ]
+    },
+    {
+      "clue": "Nickname of a New York Yankee slugger who had 563 career home runs.",
+      "answer": "reggie",
+      "answer_letters": "REGGIE",
+      "indices": [
+        70,
+        105,
+        185,
+        42,
+        4,
+        73
+      ]
+    },
+    {
+      "clue": "Once a sinner, now virtuous",
+      "answer": "reformed",
+      "answer_letters": "REFORMED",
+      "indices": [
+        15,
+        183,
+        111,
+        13,
+        53,
+        0,
+        162,
         94
       ]
     },
     {
-      "clue": "Time signature component.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "clue": "Birds often symbolizing strength or freedom.",
+      "answer": "eagles",
+      "answer_letters": "EAGLES",
       "indices": [
-        53,
-        45,
-        25,
-        88,
-        117,
-        128
+        28,
+        146,
+        163,
+        87,
+        86,
+        135
       ]
     },
     {
-      "clue": "No longer in position or status.",
-      "answer": "removed",
-      "answer_letters": "REMOVED",
+      "clue": "An affectionate nickname for Helen.",
+      "answer": "nellie",
+      "answer_letters": "NELLIE",
       "indices": [
-        15,
-        6,
-        182,
-        47,
-        104,
-        170,
-        119
+        174,
+        155,
+        79,
+        137,
+        59,
+        167
       ]
     },
     {
-      "clue": "Worthy of being chosen.",
-      "answer": "eligible",
-      "answer_letters": "ELIGIBLE",
+      "clue": "Worthiness and self-respect",
+      "answer": "dignity",
+      "answer_letters": "DIGNITY",
       "indices": [
-        180,
-        121,
-        4,
-        49,
+        119,
         16,
-        161,
-        80,
-        138
-      ]
-    },
-    {
-      "clue": "Used to introduce a clarification.",
-      "answer": "namely",
-      "answer_letters": "NAMELY",
-      "indices": [
-        153,
-        168,
-        177,
-        167,
-        166,
-        129
-      ]
-    },
-    {
-      "clue": "Your computer's main interface.",
-      "answer": "desktop",
-      "answer_letters": "DESKTOP",
-      "indices": [
-        96,
-        37,
-        116,
-        179,
-        62,
-        159,
-        165
+        49,
+        33,
+        78,
+        145,
+        25
       ]
     },
     {
@@ -281,28 +281,28 @@
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
-        73,
-        102,
+        38,
+        182,
         39,
-        90,
-        77,
-        131,
+        54,
+        175,
+        63,
         147
       ]
     },
     {
-      "clue": "Voluntarily left a post or office.",
-      "answer": "resigned",
-      "answer_letters": "RESIGNED",
+      "clue": "Computer processing that happens instantly.",
+      "answer": "real-time",
+      "answer_letters": "REALTIME",
       "indices": [
-        114,
-        183,
-        76,
-        40,
-        163,
-        60,
-        162,
-        92
+        109,
+        64,
+        132,
+        67,
+        30,
+        82,
+        102,
+        122
       ]
     }
   ],

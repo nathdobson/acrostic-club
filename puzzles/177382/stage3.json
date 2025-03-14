@@ -5,202 +5,183 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue": "Variant form of something familiar.",
-      "answer": "version",
-      "answer_letters": "VERSION",
+      "clue": "Slugger Mo",
+      "answer": "vaughn",
+      "answer_letters": "VAUGHN",
       "indices": [
         112,
-        144,
-        87,
-        103,
-        180,
-        46,
+        55,
+        47,
+        31,
+        36,
         181
       ]
     },
     {
-      "clue": "Things that take place.",
-      "answer": "events",
-      "answer_letters": "EVENTS",
+      "clue": "Begin service in the armed forces.",
+      "answer": "enlist",
+      "answer_letters": "ENLIST",
       "indices": [
-        161,
-        164,
-        140,
+        148,
         58,
-        129,
-        42
+        106,
+        155,
+        126,
+        35
       ]
     },
     {
-      "clue": "What you get when you finish adding numbers.",
-      "answer": "result",
-      "answer_letters": "RESULT",
+      "clue": "Opposite of absolute in value.",
+      "answer": "relative",
+      "answer_letters": "RELATIVE",
       "indices": [
         187,
-        134,
-        14,
-        4,
-        29,
-        153
+        163,
+        110,
+        100,
+        104,
+        159,
+        164,
+        161
       ]
     },
     {
-      "clue": "No parents.",
-      "answer": "orphan",
-      "answer_letters": "ORPHAN",
-      "indices": [
-        26,
-        23,
-        136,
-        75,
-        3,
-        132
-      ]
-    },
-    {
-      "clue": "Hours of darkness.",
-      "answer": "nights",
-      "answer_letters": "NIGHTS",
-      "indices": [
-        172,
-        76,
-        70,
-        124,
-        27,
-        61
-      ]
-    },
-    {
-      "clue": "Pristine condition.",
-      "answer": "immaculate",
-      "answer_letters": "IMMACULATE",
-      "indices": [
-        68,
-        101,
-        95,
-        138,
-        40,
-        64,
-        107,
-        109,
-        43,
-        59
-      ]
-    },
-    {
-      "clue": "He measured Earth's mass using gravity.",
-      "answer": "cavendish",
-      "answer_letters": "CAVENDISH",
-      "indices": [
-        177,
-        37,
-        149,
-        150,
-        121,
-        92,
-        98,
-        60,
-        51
-      ]
-    },
-    {
-      "clue": "Seeking information or clarification",
-      "answer": "asking",
-      "answer_letters": "ASKING",
-      "indices": [
-        84,
-        44,
-        57,
-        73,
-        169,
-        133
-      ]
-    },
-    {
-      "clue": "Biased against others based on race.",
-      "answer": "racist",
-      "answer_letters": "RACIST",
-      "indices": [
-        56,
-        184,
-        139,
-        111,
-        175,
-        85
-      ]
-    },
-    {
-      "clue": "Tilted so that its top part is now at the bottom.",
-      "answer": "overturned",
-      "answer_letters": "OVERTURNED",
+      "clue": "The yield or return on an investment.",
+      "answer": "output",
+      "answer_letters": "OUTPUT",
       "indices": [
         178,
-        116,
-        88,
-        151,
-        13,
-        47,
-        145,
-        91,
-        52,
-        10
+        4,
+        123,
+        185,
+        64,
+        33
       ]
     },
     {
-      "clue": "The sum of thirteen and ten",
-      "answer": "twenty-three",
-      "answer_letters": "TWENTYTHREE",
+      "clue": "Partnered with Renault for shared vehicle technology.",
+      "answer": "nissan",
+      "answer_letters": "NISSAN",
       "indices": [
-        188,
-        142,
+        172,
+        73,
+        44,
+        61,
+        84,
+        118
+      ]
+    },
+    {
+      "clue": "Obtained through descent.",
+      "answer": "inherited",
+      "answer_letters": "INHERITED",
+      "indices": [
+        120,
+        169,
+        154,
+        59,
+        166,
+        174,
+        43,
         80,
-        118,
+        54
+      ]
+    },
+    {
+      "clue": "Allegations or assertions",
+      "answer": "claims",
+      "answer_letters": "CLAIMS",
+      "indices": [
+        139,
+        16,
+        131,
+        90,
+        179,
+        128
+      ]
+    },
+    {
+      "clue": "Principle of beauty.",
+      "answer": "aesthetic",
+      "answer_letters": "AESTHETIC",
+      "indices": [
+        109,
+        96,
+        42,
+        27,
+        124,
+        165,
+        188,
+        68,
+        40
+      ]
+    },
+    {
+      "clue": "Critiques or assessments.",
+      "answer": "reviews",
+      "answer_letters": "REVIEWS",
+      "indices": [
+        56,
+        52,
+        116,
+        180,
+        150,
+        171,
+        103
+      ]
+    },
+    {
+      "clue": "A public or social event, such as a picnic or trip.",
+      "answer": "outing",
+      "answer_letters": "OUTING",
+      "indices": [
+        46,
+        18,
+        85,
+        0,
+        9,
+        19
+      ]
+    },
+    {
+      "clue": "A biblical disciple of Paul.",
+      "answer": "timothy",
+      "answer_letters": "TIMOTHY",
+      "indices": [
         50,
-        152,
+        76,
+        95,
+        170,
         48,
         20,
-        166,
-        96,
-        165
+        152
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "clue": "32nd president of the United States, succeeded by Coolidge.",
+      "answer": "harding",
+      "answer_letters": "HARDING",
       "indices": [
         6,
-        115,
-        72,
-        125,
-        33,
-        82
-      ]
-    },
-    {
-      "clue": "It includes Norfolk and Suffolk.",
-      "answer": "anglia",
-      "answer_letters": "ANGLIA",
-      "indices": [
         8,
-        156,
-        19,
-        66,
-        155,
-        41
+        130,
+        10,
+        105,
+        132,
+        5
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "clue": "Adolf and Adolfus are variants of his first name.",
+      "answer": "adolph",
+      "answer_letters": "ADOLPH",
       "indices": [
-        106,
-        163,
-        143,
-        174,
-        157,
-        83
+        41,
+        67,
+        26,
+        29,
+        136,
+        32
       ]
     },
     {
@@ -210,100 +191,119 @@
       "indices": [
         2,
         186,
-        168,
-        126,
-        32,
-        179,
-        120
+        57,
+        14,
+        83,
+        101,
+        125
       ]
     },
     {
-      "clue": "Introductory shots for location.",
-      "answer": "establishing",
-      "answer_letters": "ESTABLISHING",
+      "clue": "Distance from head to tail.",
+      "answer": "length",
+      "answer_letters": "LENGTH",
       "indices": [
-        146,
-        128,
-        21,
-        55,
-        63,
-        137,
-        0,
-        93,
-        36,
-        12,
+        66,
+        140,
+        156,
+        133,
+        129,
+        143
+      ]
+    },
+    {
+      "clue": "An expansion or amplification process.",
+      "answer": "enlargement",
+      "answer_letters": "ENLARGEMENT",
+      "indices": [
+        144,
         69,
-        31
-      ]
-    },
-    {
-      "clue": "Faust's author.",
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        5,
-        170,
-        148,
-        35,
-        154,
-        22
-      ]
-    },
-    {
-      "clue": "Unaccepted legal claim.",
-      "answer": "invalid",
-      "answer_letters": "INVALID",
-      "indices": [
-        90,
-        25,
-        160,
-        131,
-        16,
-        30,
-        67
-      ]
-    },
-    {
-      "clue": "The range over which a wave varies.",
-      "answer": "amplitude",
-      "answer_letters": "AMPLITUDE",
-      "indices": [
-        100,
-        89,
-        185,
-        110,
-        159,
-        38,
-        18,
-        54,
-        117
-      ]
-    },
-    {
-      "clue": "Selecting and bestowing an appellation.",
-      "answer": "naming",
-      "answer_letters": "NAMING",
-      "indices": [
-        9,
-        17,
+        137,
+        184,
+        87,
+        182,
+        146,
         79,
-        65,
-        77,
-        182
+        88,
+        91,
+        21
       ]
     },
     {
-      "clue": "Place to 'tweet' your thoughts",
-      "answer": "twitter",
-      "answer_letters": "TWITTER",
+      "clue": "Characteristic of a peaked roof.",
+      "answer": "gabled",
+      "answer_letters": "GABLED",
       "indices": [
-        74,
-        171,
-        105,
-        104,
-        123,
+        70,
+        138,
+        63,
+        107,
+        22,
+        92
+      ]
+    },
+    {
+      "clue": "Assessing a candidate for suitability in a role.",
+      "answer": "interviewing",
+      "answer_letters": "INTERVIEWING",
+      "indices": [
+        12,
+        25,
+        38,
         113,
-        130
+        145,
+        160,
+        111,
+        115,
+        142,
+        65,
+        121,
+        157
+      ]
+    },
+    {
+      "clue": "People who advocate for change.",
+      "answer": "activists",
+      "answer_letters": "ACTIVISTS",
+      "indices": [
+        37,
+        177,
+        153,
+        30,
+        149,
+        98,
+        93,
+        74,
+        175
+      ]
+    },
+    {
+      "clue": "Famed for its Royal Ascot racecourse.",
+      "answer": "newmarket",
+      "answer_letters": "NEWMARKET",
+      "indices": [
+        77,
+        117,
+        72,
+        89,
+        17,
+        151,
+        168,
+        134,
+        13
+      ]
+    },
+    {
+      "clue": "A subgenre of heavy metal music known for its speed and aggression.",
+      "answer": "thrash",
+      "answer_letters": "THRASH",
+      "indices": [
+        82,
+        51,
+        23,
+        3,
+        60,
+        75
       ]
     }
   ],

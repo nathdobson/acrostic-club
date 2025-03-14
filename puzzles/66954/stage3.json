@@ -5,277 +5,277 @@
   "source_letters": "MICHAELGRANTTHECALL",
   "clues": [
     {
-      "clue": "Golf tournaments with the highest prestige.",
-      "answer": "majors",
-      "answer_letters": "MAJORS",
+      "clue": "Under surveillance.",
+      "answer": "monitored",
+      "answer_letters": "MONITORED",
       "indices": [
         74,
-        86,
-        40,
         1,
-        135,
-        103
-      ]
-    },
-    {
-      "clue": "Subject of many governmental policies.",
-      "answer": "immigration",
-      "answer_letters": "IMMIGRATION",
-      "indices": [
+        147,
         23,
-        115,
-        173,
-        67,
-        29,
-        56,
-        121,
         144,
-        137,
         106,
-        147
-      ]
-    },
-    {
-      "clue": "Workers known for their expertise and precision.",
-      "answer": "craftsmen",
-      "answer_letters": "CRAFTSMEN",
-      "indices": [
-        76,
-        113,
-        75,
-        112,
-        59,
-        14,
-        17,
-        25,
-        141
-      ]
-    },
-    {
-      "clue": "Deviation from accepted beliefs.",
-      "answer": "heresy",
-      "answer_letters": "HERESY",
-      "indices": [
-        163,
-        120,
-        168,
-        85,
-        79,
-        93
-      ]
-    },
-    {
-      "clue": "Operates on both terrains",
-      "answer": "amphibious",
-      "answer_letters": "AMPHIBIOUS",
-      "indices": [
-        27,
-        92,
-        167,
-        35,
-        52,
-        170,
-        49,
-        169,
-        18,
-        117
-      ]
-    },
-    {
-      "clue": "Direction of sunrise",
-      "answer": "eastwards",
-      "answer_letters": "EASTWARDS",
-      "indices": [
-        36,
-        80,
-        47,
-        7,
-        84,
-        48,
-        119,
-        139,
-        109
-      ]
-    },
-    {
-      "clue": "Opposite of 'disconnected' or 'isolated'",
-      "answer": "linked",
-      "answer_letters": "LINKED",
-      "indices": [
-        171,
-        146,
-        128,
-        77,
-        131,
-        82
-      ]
-    },
-    {
-      "clue": "Composer of \"This Land Is Your Land.\"",
-      "answer": "guthrie",
-      "answer_letters": "GUTHRIE",
-      "indices": [
-        125,
-        63,
-        33,
-        45,
-        42,
-        102,
-        154
-      ]
-    },
-    {
-      "clue": "Repetitive patterns in music or movement.",
-      "answer": "rhythms",
-      "answer_letters": "RHYTHMS",
-      "indices": [
-        133,
-        20,
-        60,
-        72,
-        157,
-        68,
-        155
-      ]
-    },
-    {
-      "clue": "Creative literary craftsman.",
-      "answer": "author",
-      "answer_letters": "AUTHOR",
-      "indices": [
-        44,
-        2,
-        58,
-        150,
-        98,
-        152
-      ]
-    },
-    {
-      "clue": "Popular anti-malware program.",
-      "answer": "norton",
-      "answer_letters": "NORTON",
-      "indices": [
-        70,
-        10,
-        97,
-        142,
-        5,
-        124
-      ]
-    },
-    {
-      "clue": "Key element in salsa recipes.",
-      "answer": "tomato",
-      "answer_letters": "TOMATO",
-      "indices": [
-        130,
-        15,
-        53,
-        32,
-        165,
-        153
-      ]
-    },
-    {
-      "clue": "Registered symbol or logo distinguishing goods/services.",
-      "answer": "trademark",
-      "answer_letters": "TRADEMARK",
-      "indices": [
-        162,
-        43,
-        99,
-        50,
-        65,
-        122,
-        107,
-        132,
-        148
-      ]
-    },
-    {
-      "clue": "A term for a prostitute.",
-      "answer": "hooker",
-      "answer_letters": "HOOKER",
-      "indices": [
-        105,
-        134,
-        71,
-        12,
-        151,
-        87
-      ]
-    },
-    {
-      "clue": "Landlocked country in East Africa.",
-      "answer": "ethiopia",
-      "answer_letters": "ETHIOPIA",
-      "indices": [
-        110,
-        95,
-        145,
-        81,
-        11,
-        55,
-        88,
-        41
-      ]
-    },
-    {
-      "clue": "Opposite of straight.",
-      "answer": "crooked",
-      "answer_letters": "CROOKED",
-      "indices": [
-        118,
-        64,
-        38,
-        114,
-        24,
+        135,
         172,
         4
       ]
     },
     {
-      "clue": "Store of official documents.",
-      "answer": "archives",
-      "answer_letters": "ARCHIVES",
+      "clue": "Often less authentic than genuine.",
+      "answer": "imitation",
+      "answer_letters": "IMITATION",
       "indices": [
-        164,
-        30,
-        19,
-        96,
+        67,
+        115,
+        137,
+        95,
+        86,
+        33,
         123,
-        159,
-        31,
-        62
+        38,
+        6
       ]
     },
     {
-      "clue": "Of or relating to authors and their creations.",
-      "answer": "literary",
-      "answer_letters": "LITERARY",
+      "clue": "Maintained an activity or project",
+      "answer": "carried",
+      "answer_letters": "CARRIED",
       "indices": [
-        22,
-        127,
-        100,
-        57,
-        108,
-        158,
-        37,
+        76,
+        48,
+        119,
+        113,
+        49,
+        25,
+        139
+      ]
+    },
+    {
+      "clue": "Middle point of a journey.",
+      "answer": "halfway",
+      "answer_letters": "HALFWAY",
+      "indices": [
+        150,
+        32,
+        9,
+        112,
+        84,
+        80,
         90
       ]
     },
     {
-      "clue": "Solitary existence.",
-      "answer": "lonely",
-      "answer_letters": "LONELY",
+      "clue": "Name of famous conductor Toscanini.",
+      "answer": "arturo",
+      "answer_letters": "ARTURO",
+      "indices": [
+        75,
+        108,
+        100,
+        18,
+        37,
+        169
+      ]
+    },
+    {
+      "clue": "As many as necessary.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
+      "indices": [
+        36,
+        128,
+        153,
+        2,
+        125,
+        163
+      ]
+    },
+    {
+      "clue": "Homes with water views",
+      "answer": "lakeside",
+      "answer_letters": "LAKESIDE",
+      "indices": [
+        171,
+        158,
+        77,
+        57,
+        117,
+        146,
+        82,
+        131
+      ]
+    },
+    {
+      "clue": "Convene for a meeting or purpose.",
+      "answer": "gather",
+      "answer_letters": "GATHER",
+      "indices": [
+        29,
+        44,
+        142,
+        145,
+        110,
+        133
+      ]
+    },
+    {
+      "clue": "New version of a film or TV show.",
+      "answer": "remake",
+      "answer_letters": "REMAKE",
+      "indices": [
+        152,
+        160,
+        17,
+        99,
+        24,
+        154
+      ]
+    },
+    {
+      "clue": "Grammatical term for a descriptor",
+      "answer": "adjective",
+      "answer_letters": "ADJECTIVE",
+      "indices": [
+        107,
+        50,
+        40,
+        65,
+        19,
+        162,
+        102,
+        159,
+        120
+      ]
+    },
+    {
+      "clue": "Opposite of east-west.",
+      "answer": "north-south",
+      "answer_letters": "NORTHSOUTH",
+      "indices": [
+        124,
+        10,
+        97,
+        130,
+        45,
+        47,
+        5,
+        63,
+        165,
+        20
+      ]
+    },
+    {
+      "clue": "What a villain instills in their victims.",
+      "answer": "terror",
+      "answer_letters": "TERROR",
+      "indices": [
+        59,
+        85,
+        43,
+        132,
+        15,
+        168
+      ]
+    },
+    {
+      "clue": "Ponders possible outcomes.",
+      "answer": "thinks",
+      "answer_letters": "THINKS",
+      "indices": [
+        7,
+        157,
+        52,
+        141,
+        12,
+        109
+      ]
+    },
+    {
+      "clue": "Opposite of comedy in film genres.",
+      "answer": "horror",
+      "answer_letters": "HORROR",
+      "indices": [
+        105,
+        11,
+        56,
+        64,
+        140,
+        87
+      ]
+    },
+    {
+      "clue": "Building where diplomats work.",
+      "answer": "embassy",
+      "answer_letters": "EMBASSY",
+      "indices": [
+        31,
+        68,
+        170,
+        164,
+        155,
+        79,
+        60
+      ]
+    },
+    {
+      "clue": "Original works of art, literature, or music.",
+      "answer": "compositions",
+      "answer_letters": "COMPOSITIONS",
+      "indices": [
+        118,
+        114,
+        173,
+        55,
+        134,
+        103,
+        81,
+        72,
+        88,
+        71,
+        70,
+        62
+      ]
+    },
+    {
+      "clue": "Not a vein",
+      "answer": "artery",
+      "answer_letters": "ARTERY",
+      "indices": [
+        121,
+        30,
+        58,
+        151,
+        42,
+        0
+      ]
+    },
+    {
+      "clue": "Hindu goddess of wealth and fortune",
+      "answer": "lakshmi",
+      "answer_letters": "LAKSHMI",
+      "indices": [
+        22,
+        27,
+        148,
+        14,
+        35,
+        92,
+        127
+      ]
+    },
+    {
+      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
       "indices": [
         89,
-        140,
-        6,
-        160,
-        9,
-        0
+        93,
+        122,
+        167,
+        96,
+        98,
+        53,
+        41
       ]
     }
   ],

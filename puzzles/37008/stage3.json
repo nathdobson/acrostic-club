@@ -5,240 +5,237 @@
   "source_letters": "PAULAUSTERMOONPALACE",
   "clues": [
     {
-      "clue": "Electrified or energized.",
-      "answer": "powered",
-      "answer_letters": "POWERED",
+      "clue": "Economically disadvantaged.",
+      "answer": "poorest",
+      "answer_letters": "POOREST",
       "indices": [
         179,
-        110,
-        133,
-        55,
-        168,
-        2,
+        114,
+        172,
+        131,
+        164,
+        146,
+        105
+      ]
+    },
+    {
+      "clue": "Something else.",
+      "answer": "another",
+      "answer_letters": "ANOTHER",
+      "indices": [
+        32,
+        19,
+        124,
+        175,
+        1,
+        149,
+        168
+      ]
+    },
+    {
+      "clue": "Higher end neighborhood or area, often more affluent.",
+      "answer": "uptown",
+      "answer_letters": "UPTOWN",
+      "indices": [
+        142,
+        9,
+        106,
+        6,
+        102,
+        155
+      ]
+    },
+    {
+      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
+      "indices": [
+        56,
+        75,
+        182,
+        12,
+        66,
+        97,
+        99,
+        24
+      ]
+    },
+    {
+      "clue": "Gave it a shot.",
+      "answer": "attempted",
+      "answer_letters": "ATTEMPTED",
+      "indices": [
+        89,
+        112,
+        0,
+        23,
+        54,
+        80,
+        91,
+        74,
         44
       ]
     },
     {
-      "clue": "Repetitions aiming for success.",
-      "answer": "attempts",
-      "answer_letters": "ATTEMPTS",
-      "indices": [
-        32,
-        112,
-        0,
-        74,
-        182,
-        80,
-        91,
-        146
-      ]
-    },
-    {
-      "clue": "Sustain or maintain.",
-      "answer": "uphold",
-      "answer_letters": "UPHOLD",
+      "clue": "Essential services for modern life.",
+      "answer": "utilities",
+      "answer_letters": "UTILITIES",
       "indices": [
         92,
-        127,
-        176,
-        6,
-        13,
-        157
-      ]
-    },
-    {
-      "clue": "Age from infancy to demise.",
-      "answer": "lifetime",
-      "answer_letters": "LIFETIME",
-      "indices": [
-        34,
-        184,
-        41,
-        164,
-        105,
-        145,
-        54,
-        23
-      ]
-    },
-    {
-      "clue": "Creative literary craftsman.",
-      "answer": "author",
-      "answer_letters": "AUTHOR",
-      "indices": [
-        24,
-        142,
-        63,
-        66,
-        135,
-        84
-      ]
-    },
-    {
-      "clue": "Out of work.",
-      "answer": "unemployed",
-      "answer_letters": "UNEMPLOYED",
-      "indices": [
-        47,
-        7,
-        137,
-        71,
-        9,
-        141,
-        17,
-        160,
-        177,
-        16
-      ]
-    },
-    {
-      "clue": "Network for TV specials, perhaps?",
-      "answer": "showtime",
-      "answer_letters": "SHOWTIME",
-      "indices": [
-        186,
-        163,
-        180,
-        102,
         48,
-        118,
-        153,
+        154,
+        33,
+        77,
+        162,
+        104,
+        130,
+        30
+      ]
+    },
+    {
+      "clue": "Comprehensive in scope or coverage.",
+      "answer": "sweeping",
+      "answer_letters": "SWEEPING",
+      "indices": [
+        53,
+        31,
+        137,
+        177,
+        96,
+        58,
+        7,
+        39
+      ]
+    },
+    {
+      "clue": "E. Roosevelt's first name.",
+      "answer": "theodore",
+      "answer_letters": "THEODORE",
+      "indices": [
+        25,
+        134,
+        67,
+        180,
+        16,
+        35,
+        69,
         107
       ]
     },
     {
-      "clue": "Common architectural term for two-floor construction.",
-      "answer": "two-storey",
-      "answer_letters": "TWOSTOREY",
+      "clue": "Vigorous or determined attempt to do something.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
-        162,
-        31,
-        35,
-        30,
-        83,
+        156,
+        189,
+        41,
+        167,
+        84,
+        185
+      ]
+    },
+    {
+      "clue": "Re-examined or reconsidered a past decision.",
+      "answer": "reviewed",
+      "answer_letters": "REVIEWED",
+      "indices": [
+        103,
+        119,
+        139,
+        68,
+        187,
+        36,
+        82,
+        148
+      ]
+    },
+    {
+      "clue": "Conservation principle in physics.",
+      "answer": "momentum",
+      "answer_letters": "MOMENTUM",
+      "indices": [
+        71,
         5,
-        69,
-        151,
+        153,
+        181,
+        73,
+        65,
+        111,
+        4
+      ]
+    },
+    {
+      "clue": "Made accessible by removing obstructions.",
+      "answer": "opened",
+      "answer_letters": "OPENED",
+      "indices": [
+        72,
+        127,
+        55,
+        108,
+        2,
+        157
+      ]
+    },
+    {
+      "clue": "Sole edition item.",
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        20,
+        38,
+        143,
+        43,
+        173,
+        125
+      ]
+    },
+    {
+      "clue": "Higher social rank or aristocracy.",
+      "answer": "nobility",
+      "answer_letters": "NOBILITY",
+      "indices": [
+        59,
+        42,
+        159,
+        184,
+        34,
+        145,
+        63,
         85
       ]
     },
     {
-      "clue": "Use a worker's services",
-      "answer": "employ",
-      "answer_letters": "EMPLOY",
-      "indices": [
-        156,
-        99,
-        12,
-        56,
-        167,
-        51
-      ]
-    },
-    {
-      "clue": "First name of Scottish footballer Robert Snodgrass.",
-      "answer": "robbie",
-      "answer_letters": "ROBBIE",
-      "indices": [
-        103,
-        20,
-        159,
-        27,
-        62,
-        187
-      ]
-    },
-    {
-      "clue": "Marks of progress or achievement.",
-      "answer": "milestones",
-      "answer_letters": "MILESTONES",
-      "indices": [
-        4,
-        68,
-        188,
-        82,
-        78,
-        106,
-        43,
-        38,
-        181,
-        53
-      ]
-    },
-    {
-      "clue": "Side project emerging from an original idea.",
-      "answer": "offshoot",
-      "answer_letters": "OFFSHOOT",
-      "indices": [
-        114,
-        125,
-        189,
-        122,
-        170,
-        172,
-        97,
-        21
-      ]
-    },
-    {
-      "clue": "Used in describing scent-related phenomena.",
-      "answer": "olfactory",
-      "answer_letters": "OLFACTORY",
-      "indices": [
-        72,
-        94,
-        173,
-        89,
-        120,
-        25,
-        42,
-        131,
-        75
-      ]
-    },
-    {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        108,
-        143,
-        166,
-        65,
-        124,
-        36,
-        59
-      ]
-    },
-    {
-      "clue": "Conduits for oil and gas.",
-      "answer": "pipelines",
-      "answer_letters": "PIPELINES",
+      "clue": "Stage where scripts come to life.",
+      "answer": "playhouse",
+      "answer_letters": "PLAYHOUSE",
       "indices": [
         117,
-        154,
-        129,
-        14,
         57,
-        77,
-        115,
-        121,
-        136
+        128,
+        160,
+        176,
+        17,
+        47,
+        136,
+        14
       ]
     },
     {
-      "clue": "Taking in a child as one's own",
-      "answer": "adoptive",
-      "answer_letters": "ADOPTIVE",
+      "clue": "Commonly referred to simply as 'track and field'.",
+      "answer": "athletics",
+      "answer_letters": "ATHLETICS",
       "indices": [
         93,
-        148,
-        11,
-        96,
-        169,
-        37,
-        139,
-        67
+        83,
+        163,
+        188,
+        98,
+        150,
+        118,
+        120,
+        78
       ]
     },
     {
@@ -246,55 +243,58 @@
       "answer": "lobbying",
       "answer_letters": "LOBBYING",
       "indices": [
-        33,
-        81,
+        13,
+        11,
         50,
         46,
         28,
-        104,
-        73,
-        39
+        37,
+        115,
+        60
       ]
     },
     {
-      "clue": "Where Homer set his epic tales.",
-      "answer": "aegean",
-      "answer_letters": "AEGEAN",
+      "clue": "Senders of the New Testament letters",
+      "answer": "apostle",
+      "answer_letters": "APOSTLE",
       "indices": [
-        128,
-        130,
-        60,
-        98,
         140,
-        155
+        129,
+        81,
+        186,
+        169,
+        141,
+        121
       ]
     },
     {
-      "clue": "A horse with a particular coat color.",
-      "answer": "chestnut",
-      "answer_letters": "CHESTNUT",
+      "clue": "American football champions",
+      "answer": "cowboys",
+      "answer_letters": "COWBOYS",
       "indices": [
         90,
-        1,
-        149,
-        100,
-        175,
-        19,
-        111,
-        185
+        110,
+        133,
+        27,
+        135,
+        51,
+        100
       ]
     },
     {
-      "clue": "Can imply choice between two options.",
-      "answer": "either",
-      "answer_letters": "EITHER",
+      "clue": "Not so anymore; previously.",
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
       "indices": [
-        10,
-        58,
-        150,
-        134,
-        119,
-        152
+        151,
+        152,
+        122,
+        21,
+        166,
+        170,
+        62,
+        94,
+        10
       ]
     }
   ],

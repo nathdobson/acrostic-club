@@ -5,44 +5,30 @@
   "source_letters": "MORRISSEYAUTOBIOGRAPHY",
   "clues": [
     {
-      "clue": "Common organic substituent",
-      "answer": "methyl",
-      "answer_letters": "METHYL",
+      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "answer": "matthew",
+      "answer_letters": "MATTHEW",
       "indices": [
         112,
-        136,
+        143,
         147,
+        54,
         139,
-        84,
-        102
+        136,
+        159
       ]
     },
     {
-      "clue": "Public health concern worldwide.",
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
+      "clue": "At the exact spot of occurrence or interest.",
+      "answer": "on-site",
+      "answer_letters": "ONSITE",
       "indices": [
-        1,
-        47,
-        58,
+        33,
+        5,
         135,
         123,
-        175,
-        174
-      ]
-    },
-    {
-      "clue": "HTML term for extending a table cell vertically",
-      "answer": "rowspan",
-      "answer_letters": "ROWSPAN",
-      "indices": [
-        10,
-        118,
-        138,
-        53,
-        28,
-        77,
-        178
+        121,
+        71
       ]
     },
     {
@@ -50,261 +36,275 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        132,
-        87,
-        157,
-        129,
-        98,
-        18
+        10,
+        150,
+        57,
+        73,
+        156,
+        78
       ]
     },
     {
-      "clue": "Purposeful aim.",
-      "answer": "intent",
-      "answer_letters": "INTENT",
+      "clue": "Conservatives, as opposed to liberals.",
+      "answer": "right-wing",
+      "answer_letters": "RIGHTWING",
+      "indices": [
+        152,
+        146,
+        125,
+        87,
+        149,
+        76,
+        93,
+        115,
+        6
+      ]
+    },
+    {
+      "clue": "Reflexive pronoun for 'it'.",
+      "answer": "itself",
+      "answer_letters": "ITSELF",
       "indices": [
         168,
-        0,
-        166,
-        131,
-        22,
-        86
+        66,
+        40,
+        52,
+        72,
+        104
       ]
     },
     {
-      "clue": "The project ____ straightforward at first glance.",
-      "answer": "seemed",
-      "answer_letters": "SEEMED",
+      "clue": "Brosnan series, \"Remington ____\"",
+      "answer": "steele",
+      "answer_letters": "STEELE",
       "indices": [
         75,
+        100,
         105,
         91,
-        27,
-        62,
-        59
+        102,
+        62
       ]
     },
     {
-      "clue": "Participants in Tecumseh's confederacy.",
-      "answer": "shawnee",
-      "answer_letters": "SHAWNEE",
+      "clue": "Denotes height divisions within buildings.",
+      "answer": "storey",
+      "answer_letters": "STOREY",
       "indices": [
         41,
-        122,
-        143,
-        142,
-        124,
-        30,
-        15
+        110,
+        128,
+        132,
+        15,
+        84
       ]
     },
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
-      "answer": "emblem",
-      "answer_letters": "EMBLEM",
+      "clue": "A job or position.",
+      "answer": "employment",
+      "answer_letters": "EMPLOYMENT",
       "indices": [
         35,
-        119,
-        83,
-        36,
+        18,
+        28,
+        44,
+        1,
+        157,
+        27,
         120,
-        107
+        34,
+        49
       ]
     },
     {
-      "clue": "Lemony in hue.",
-      "answer": "yellowish",
-      "answer_letters": "YELLOWISH",
+      "clue": "Spoken by many Eastern European Jews before WWII.",
+      "answer": "yiddish",
+      "answer_letters": "YIDDISH",
       "indices": [
         140,
-        19,
-        32,
-        92,
-        33,
-        155,
+        37,
+        51,
+        23,
         103,
         109,
         176
       ]
     },
     {
-      "clue": "Wisdom goddess in Greek mythology.",
-      "answer": "athena",
-      "answer_letters": "ATHENA",
+      "clue": "Lie in wait for prey or foes.",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
       "indices": [
-        172,
-        66,
-        3,
-        52,
-        5,
-        43
+        114,
+        61,
+        47,
+        108,
+        53,
+        3
       ]
     },
     {
-      "clue": "Historic Arab dynasty.",
-      "answer": "umayyad",
-      "answer_letters": "UMAYYAD",
+      "clue": "Undesired.",
+      "answer": "unwanted",
+      "answer_letters": "UNWANTED",
       "indices": [
         48,
-        78,
-        21,
-        57,
-        165,
-        114,
-        51
-      ]
-    },
-    {
-      "clue": "Common motifs in literature or music.",
-      "answer": "themes",
-      "answer_letters": "THEMES",
-      "indices": [
-        49,
-        150,
-        153,
-        61,
+        0,
+        142,
+        99,
+        22,
+        166,
         39,
-        25
+        81
       ]
     },
     {
-      "clue": "Counterbalance in terms.",
-      "answer": "offset",
-      "answer_letters": "OFFSET",
+      "clue": "Prickly flowering herb often seen in fields.",
+      "answer": "thistle",
+      "answer_letters": "THISTLE",
       "indices": [
-        128,
+        86,
+        98,
+        12,
+        25,
+        175,
+        36,
+        94
+      ]
+    },
+    {
+      "clue": "Nearby to Rochdale and Bury.",
+      "answer": "oldham",
+      "answer_letters": "OLDHAM",
+      "indices": [
+        118,
+        29,
+        16,
+        122,
+        21,
+        107
+      ]
+    },
+    {
+      "clue": "Amongst",
+      "answer": "between",
+      "answer_letters": "BETWEEN",
+      "indices": [
+        90,
+        113,
+        2,
+        138,
+        131,
+        58,
+        178
+      ]
+    },
+    {
+      "clue": "Mathematically unbounded.",
+      "answer": "infinite",
+      "answer_letters": "INFINITE",
+      "indices": [
+        26,
+        173,
         8,
-        104,
-        40,
-        94,
+        177,
+        164,
+        68,
+        129,
+        30
+      ]
+    },
+    {
+      "clue": "Sole edition item.",
+      "answer": "one-off",
+      "answer_letters": "ONEOFF",
+      "indices": [
+        56,
+        169,
+        65,
+        9,
+        95,
+        70
+      ]
+    },
+    {
+      "clue": "French male first name beginning with 'G'.",
+      "answer": "gilles",
+      "answer_letters": "GILLES",
+      "indices": [
+        170,
+        4,
+        45,
+        32,
+        19,
+        144
+      ]
+    },
+    {
+      "clue": "Gaps between oceanic trenches and plateaus.",
+      "answer": "ridges",
+      "answer_letters": "RIDGES",
+      "indices": [
+        55,
+        14,
+        59,
+        179,
+        88,
+        161
+      ]
+    },
+    {
+      "clue": "Not there at all.",
+      "answer": "absent",
+      "answer_letters": "ABSENT",
+      "indices": [
+        163,
+        83,
+        117,
+        153,
+        38,
         97
       ]
     },
     {
-      "clue": "To the rear.",
-      "answer": "behind",
-      "answer_letters": "BEHIND",
-      "indices": [
-        90,
-        113,
-        156,
-        12,
-        38,
-        23
-      ]
-    },
-    {
-      "clue": "Known for its diverse food market at Upper Street.",
-      "answer": "islington",
-      "answer_letters": "ISLINGTON",
-      "indices": [
-        93,
-        161,
-        44,
-        26,
-        164,
-        125,
-        110,
-        9,
-        34
-      ]
-    },
-    {
-      "clue": "Being in possession of something.",
-      "answer": "owning",
-      "answer_letters": "OWNING",
-      "indices": [
-        56,
-        159,
-        169,
-        14,
-        115,
-        179
-      ]
-    },
-    {
-      "clue": "It might be Hjalmars or Per-Albin's first name.",
-      "answer": "gustaf",
-      "answer_letters": "GUSTAF",
-      "indices": [
-        6,
-        108,
-        144,
-        2,
-        160,
-        13
-      ]
-    },
-    {
-      "clue": "Script adjusted for a new version.",
-      "answer": "rewritten",
-      "answer_letters": "REWRITTEN",
-      "indices": [
-        55,
-        65,
-        76,
-        152,
-        146,
-        54,
-        149,
-        88,
-        173
-      ]
-    },
-    {
-      "clue": "Tied to a group or cause",
-      "answer": "affiliated",
-      "answer_letters": "AFFILIATED",
-      "indices": [
-        163,
-        95,
-        70,
-        68,
-        72,
-        134,
-        99,
-        100,
-        151,
-        16
-      ]
-    },
-    {
-      "clue": "Dire straits.",
-      "answer": "plight",
-      "answer_letters": "PLIGHT",
+      "clue": "A route or course.",
+      "answer": "pathway",
+      "answer_letters": "PATHWAY",
       "indices": [
         79,
-        45,
-        4,
-        170,
+        160,
+        11,
         130,
-        121
+        133,
+        77,
+        165
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
-      "answer": "hewitt",
-      "answer_letters": "HEWITT",
+      "clue": "Middle point of a journey.",
+      "answer": "halfway",
+      "answer_letters": "HALFWAY",
       "indices": [
         167,
-        71,
-        133,
-        37,
-        73,
-        11
+        172,
+        92,
+        13,
+        155,
+        43,
+        174
       ]
     },
     {
-      "clue": "Delivers results or outcomes",
-      "answer": "yields",
-      "answer_letters": "YIELDS",
+      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
+      "answer": "yemeni",
+      "answer_letters": "YEMENI",
       "indices": [
         64,
-        177,
         80,
-        29,
-        81,
-        117
+        119,
+        151,
+        124,
+        134
       ]
     }
   ],

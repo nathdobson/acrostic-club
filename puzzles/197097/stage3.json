@@ -5,31 +5,85 @@
   "source_letters": "LISAKESSLERNIGHTCHILD",
   "clues": [
     {
-      "clue": "Major UK political party.",
-      "answer": "labour",
-      "answer_letters": "LABOUR",
+      "clue": "Depressed or diminished in level",
+      "answer": "lowered",
+      "answer_letters": "LOWERED",
       "indices": [
         132,
-        13,
-        127,
-        58,
-        124,
-        25
+        141,
+        104,
+        94,
+        25,
+        51,
+        159
       ]
     },
     {
-      "clue": "Mathematically unbounded.",
-      "answer": "infinite",
-      "answer_letters": "INFINITE",
+      "clue": "Enhance or make better",
+      "answer": "improve",
+      "answer_letters": "IMPROVE",
       "indices": [
+        170,
+        31,
+        34,
+        123,
+        101,
+        88,
+        125
+      ]
+    },
+    {
+      "clue": "Part of a garment that fits around one's arm.",
+      "answer": "sleeve",
+      "answer_letters": "SLEEVE",
+      "indices": [
+        115,
+        133,
+        85,
+        9,
+        83,
+        112
+      ]
+    },
+    {
+      "clue": "Reinforced with metal or other sturdy material.",
+      "answer": "armoured",
+      "answer_letters": "ARMOURED",
+      "indices": [
+        97,
+        111,
+        114,
+        169,
+        55,
+        79,
+        144,
+        15
+      ]
+    },
+    {
+      "clue": "Historic pass near Peshawar",
+      "answer": "khyber",
+      "answer_letters": "KHYBER",
+      "indices": [
+        6,
+        0,
+        53,
+        127,
+        24,
+        107
+      ]
+    },
+    {
+      "clue": "Estevez Sr., the patriarch.",
+      "answer": "emilio",
+      "answer_letters": "EMILIO",
+      "indices": [
+        37,
+        162,
+        161,
+        154,
         147,
-        139,
-        18,
-        17,
-        99,
-        135,
-        122,
-        94
+        5
       ]
     },
     {
@@ -37,261 +91,207 @@
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [
-        115,
-        93,
-        9,
-        107,
-        20,
-        143,
-        155
-      ]
-    },
-    {
-      "clue": "Bodily structure study.",
-      "answer": "anatomy",
-      "answer_letters": "ANATOMY",
-      "indices": [
-        157,
-        158,
-        131,
-        129,
-        77,
-        119,
-        53
-      ]
-    },
-    {
-      "clue": "Surname of Indian film star Shahid __.",
-      "answer": "kapoor",
-      "answer_letters": "KAPOOR",
-      "indices": [
-        6,
-        97,
-        65,
-        169,
-        118,
-        111
-      ]
-    },
-    {
-      "clue": "Early developmental stage in humans and other organisms.",
-      "answer": "embryo",
-      "answer_letters": "EMBRYO",
-      "indices": [
-        106,
-        74,
-        100,
-        145,
-        76,
-        43
-      ]
-    },
-    {
-      "clue": "In an unspecified manner or way.",
-      "answer": "somehow",
-      "answer_letters": "SOMEHOW",
-      "indices": [
         152,
-        35,
-        114,
-        85,
-        0,
-        4,
-        36
+        12,
+        179,
+        96,
+        98,
+        142,
+        143
       ]
     },
     {
-      "clue": "Device that protects from harm.",
-      "answer": "safety",
-      "answer_letters": "SAFETY",
+      "clue": "Monumental work of art representing a person or animal.",
+      "answer": "statue",
+      "answer_letters": "STATUE",
       "indices": [
         148,
-        67,
-        142,
-        24,
-        63,
-        151
+        166,
+        131,
+        60,
+        44,
+        181
       ]
     },
     {
-      "clue": "Rome's Pantheon is to Italy as this Parisian landmark is to France.",
-      "answer": "louvre",
-      "answer_letters": "LOUVRE",
+      "clue": "Classical term for a school or educational establishment.",
+      "answer": "lyceum",
+      "answer_letters": "LYCEUM",
       "indices": [
         45,
-        73,
-        55,
-        88,
-        96,
-        112
+        76,
+        137,
+        106,
+        128,
+        74
       ]
     },
     {
-      "clue": "Gave someone heart.",
-      "answer": "encouraged",
-      "answer_letters": "ENCOURAGED",
+      "clue": "Landlocked country in East Africa.",
+      "answer": "ethiopia",
+      "answer_letters": "ETHIOPIA",
       "indices": [
         1,
-        171,
-        137,
-        5,
-        44,
-        79,
-        49,
-        168,
-        179,
-        46
-      ]
-    },
-    {
-      "clue": "Far-off or distant in location.",
-      "answer": "remote",
-      "answer_letters": "REMOTE",
-      "indices": [
-        38,
-        37,
-        162,
-        82,
-        166,
-        108
-      ]
-    },
-    {
-      "clue": "Eastern England city with a cathedral.",
-      "answer": "norwich",
-      "answer_letters": "NORWICH",
-      "indices": [
-        175,
-        165,
-        72,
-        23,
+        57,
+        93,
         84,
-        68,
-        12
+        118,
+        65,
+        40,
+        49
       ]
     },
     {
-      "clue": "Recognize someone or something",
-      "answer": "identify",
-      "answer_letters": "IDENTIFY",
+      "clue": "Surname often linked with Italian heritage.",
+      "answer": "romano",
+      "answer_letters": "ROMANO",
       "indices": [
-        40,
-        159,
-        69,
+        145,
+        35,
+        150,
+        138,
+        158,
+        4
+      ]
+    },
+    {
+      "clue": "Site of a major airport in NJ.",
+      "answer": "newark",
+      "answer_letters": "NEWARK",
+      "indices": [
+        171,
+        108,
+        42,
+        113,
+        38,
+        50
+      ]
+    },
+    {
+      "clue": "Babyhood stage.",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
+      "indices": [
+        17,
+        175,
+        155,
+        13,
         29,
-        60,
-        98,
-        71,
+        68,
         176
       ]
     },
     {
-      "clue": "Ontario city of culture and education.",
-      "answer": "guelph",
-      "answer_letters": "GUELPH",
+      "clue": "English chronicler and poet who wrote about the history of England in his works.",
+      "answer": "geoffrey",
+      "answer_letters": "GEOFFREY",
       "indices": [
-        172,
-        128,
+        168,
+        69,
+        73,
+        71,
+        18,
+        72,
         153,
-        154,
-        34,
-        8
-      ]
-    },
-    {
-      "clue": "Till now, previously.",
-      "answer": "hitherto",
-      "answer_letters": "HITHERTO",
-      "indices": [
-        105,
-        161,
-        48,
-        61,
-        125,
-        123,
-        92,
-        87
-      ]
-    },
-    {
-      "clue": "Dual-directional.",
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
-      "indices": [
-        57,
-        177,
-        101,
-        102,
-        113,
         32
       ]
     },
     {
-      "clue": "Make a journey for work or school purposes",
-      "answer": "commute",
-      "answer_letters": "COMMUTE",
+      "clue": "Creator of Conan the Barbarian.",
+      "answer": "howard",
+      "answer_letters": "HOWARD",
+      "indices": [
+        61,
+        165,
+        23,
+        62,
+        10,
+        46
+      ]
+    },
+    {
+      "clue": "Despite what was mentioned before.",
+      "answer": "though",
+      "answer_letters": "THOUGH",
+      "indices": [
+        92,
+        178,
+        43,
+        78,
+        172,
+        105
+      ]
+    },
+    {
+      "clue": "Smallest administrative division in Italy",
+      "answer": "comune",
+      "answer_letters": "COMUNE",
       "indices": [
         117,
-        141,
-        150,
+        82,
         81,
-        78,
-        3,
+        124,
+        139,
         26
       ]
     },
     {
-      "clue": "Cries out his wares on a busy street.",
-      "answer": "hawker",
-      "answer_letters": "HAWKER",
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
       "indices": [
-        178,
-        138,
-        104,
-        50,
+        8,
         89,
-        10
+        36,
+        135,
+        3,
+        48
       ]
     },
     {
-      "clue": "Period between events.",
-      "answer": "interval",
-      "answer_letters": "INTERVAL",
+      "clue": "Personal and close.",
+      "answer": "intimate",
+      "answer_letters": "INTIMATE",
       "indices": [
         28,
         14,
-        21,
-        144,
-        180,
-        83,
-        174,
-        133
+        63,
+        20,
+        119,
+        157,
+        129,
+        120
       ]
     },
     {
-      "clue": "Depressed or diminished in level",
-      "answer": "lowered",
-      "answer_letters": "LOWERED",
+      "clue": "Where experiments are conducted.",
+      "answer": "laboratory",
+      "answer_letters": "LABORATORY",
       "indices": [
         66,
+        174,
+        100,
         54,
-        42,
-        120,
         90,
-        181,
-        15
+        67,
+        21,
+        77,
+        180,
+        151
       ]
     },
     {
-      "clue": "'Omen' series protagonist's name.",
-      "answer": "damien",
-      "answer_letters": "DAMIEN",
+      "clue": "Location where skyscrapers often rise.",
+      "answer": "downtown",
+      "answer_letters": "DOWNTOWN",
       "indices": [
         110,
-        62,
-        31,
-        170,
-        51,
+        87,
+        177,
+        99,
+        122,
+        58,
+        102,
         164
       ]
     }

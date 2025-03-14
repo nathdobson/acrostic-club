@@ -5,211 +5,227 @@
   "source_letters": "MARCELPROUSTSWANNSWAY",
   "clues": [
     {
-      "clue": "Pacific coast city known for its bay",
-      "answer": "monterey",
-      "answer_letters": "MONTEREY",
+      "clue": "Sixty seconds or sixty parts of an hour.",
+      "answer": "minute",
+      "answer_letters": "MINUTE",
       "indices": [
         50,
-        128,
+        154,
         60,
+        72,
         81,
-        110,
-        73,
-        117,
-        149
+        110
       ]
     },
     {
-      "clue": "Sports stars, in short.",
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
+      "clue": "Wisdom goddess in Greek mythology.",
+      "answer": "athena",
+      "answer_letters": "ATHENA",
       "indices": [
-        55,
+        102,
         86,
-        109,
-        174,
-        25,
-        34,
-        145,
-        76
+        48,
+        98,
+        127,
+        55
       ]
     },
     {
-      "clue": "To begin anew after closing or ending.",
-      "answer": "reopen",
-      "answer_letters": "REOPEN",
+      "clue": "East Yorkshire town, known for steel and glass works.",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
         158,
-        97,
-        29,
-        141,
+        75,
+        108,
+        1,
         2,
-        155
+        89,
+        63,
+        51,
+        4
       ]
     },
     {
-      "clue": "A morning pick-me-up.",
-      "answer": "coffee",
-      "answer_letters": "COFFEE",
+      "clue": "Scorn, as seen from high",
+      "answer": "contempt",
+      "answer_letters": "CONTEMPT",
       "indices": [
         144,
-        75,
-        42,
-        96,
-        6,
-        113
+        128,
+        52,
+        156,
+        113,
+        15,
+        112,
+        120
       ]
     },
     {
-      "clue": "Sounds that bounce back.",
-      "answer": "echoes",
-      "answer_letters": "ECHOES",
+      "clue": "Factors that make up a mixture.",
+      "answer": "elements",
+      "answer_letters": "ELEMENTS",
       "indices": [
         88,
-        56,
-        1,
-        114,
+        38,
         20,
-        183
+        65,
+        124,
+        155,
+        178,
+        0
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
-      "answer": "lesotho",
-      "answer_letters": "LESOTHO",
+      "clue": "Identified or tagged.",
+      "answer": "labeled",
+      "answer_letters": "LABELED",
       "indices": [
         116,
-        124,
-        0,
-        104,
-        120,
-        63,
-        22
-      ]
-    },
-    {
-      "clue": "Propelled onward.",
-      "answer": "pushed",
-      "answer_letters": "PUSHED",
-      "indices": [
-        115,
-        72,
-        125,
-        167,
+        33,
+        103,
         9,
+        93,
+        97,
         146
       ]
     },
     {
-      "clue": "Term for drops from clouds hitting ground.",
-      "answer": "rainfall",
-      "answer_letters": "RAINFALL",
+      "clue": "Headship of the Roman Catholic Church.",
+      "answer": "papacy",
+      "answer_letters": "PAPACY",
+      "indices": [
+        115,
+        92,
+        141,
+        37,
+        56,
+        149
+      ]
+    },
+    {
+      "clue": "Having had the opportunity to relax and unwind.",
+      "answer": "rested",
+      "answer_letters": "RESTED",
       "indices": [
         54,
-        33,
-        154,
-        52,
-        39,
-        92,
-        21,
-        38
+        159,
+        183,
+        44,
+        6,
+        122
       ]
     },
     {
-      "clue": "Home of the Golden State Bridge.",
-      "answer": "oakland",
-      "answer_letters": "OAKLAND",
+      "clue": "Side project emerging from an original idea.",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
       "indices": [
-        41,
-        37,
-        131,
-        93,
-        51,
-        23,
-        26
+        114,
+        96,
+        94,
+        125,
+        167,
+        104,
+        22,
+        166
       ]
     },
     {
-      "clue": "Boost or raise to a higher position",
-      "answer": "uplift",
-      "answer_letters": "UPLIFT",
+      "clue": "Book by Thomas More.",
+      "answer": "utopia",
+      "answer_letters": "UTOPIA",
       "indices": [
         14,
+        106,
+        29,
         173,
-        142,
-        59,
-        94,
-        178
+        74,
+        151
       ]
     },
     {
-      "clue": "Used for indicating an indefinite future or past moment.",
-      "answer": "sometime",
-      "answer_letters": "SOMETIME",
+      "clue": "Brosnan series, \"Remington ____\"",
+      "answer": "steele",
+      "answer_letters": "STEELE",
       "indices": [
         160,
-        123,
-        65,
-        168,
         129,
-        163,
-        4,
-        182
+        182,
+        175,
+        12,
+        25
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
-      "answer": "though",
-      "answer_letters": "THOUGH",
+      "clue": "Popular hits category.",
+      "answer": "top-ten",
+      "answer_letters": "TOPTEN",
       "indices": [
-        108,
-        36,
-        181,
-        49,
-        24,
-        82
+        78,
+        41,
+        170,
+        31,
+        46,
+        23
       ]
     },
     {
-      "clue": "Setting or circumstances.",
-      "answer": "situation",
-      "answer_letters": "SITUATION",
+      "clue": "Title for an Islamic religious leader.",
+      "answer": "sheikh",
+      "answer_letters": "SHEIKH",
       "indices": [
         100,
-        74,
-        166,
-        105,
-        151,
-        106,
+        87,
+        171,
         119,
-        133,
-        152
+        131,
+        32
       ]
     },
     {
-      "clue": "Rinsed thoroughly in water.",
-      "answer": "washed",
-      "answer_letters": "WASHED",
+      "clue": "Transportation's fundamental component.",
+      "answer": "wheels",
+      "answer_letters": "WHEELS",
       "indices": [
         134,
-        102,
-        17,
-        48,
-        175,
-        180
+        68,
+        145,
+        69,
+        174,
+        17
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
-      "answer": "abbott",
-      "answer_letters": "ABBOTT",
+      "clue": "Lie in wait for prey or foes.",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
       "indices": [
         143,
-        103,
+        5,
         19,
+        49,
+        137,
+        36
+      ]
+    },
+    {
+      "clue": "Locale of a block party.",
+      "answer": "neighborhood",
+      "answer_letters": "NEIGHBORHOOD",
+      "indices": [
+        164,
+        168,
+        136,
+        24,
+        45,
+        148,
         64,
-        31,
-        67
+        139,
+        91,
+        172,
+        85,
+        180
       ]
     },
     {
@@ -217,86 +233,70 @@
       "answer": "neolithic",
       "answer_letters": "NEOLITHIC",
       "indices": [
-        164,
+        132,
         83,
-        85,
-        12,
-        77,
-        161,
-        68,
+        133,
+        99,
         177,
+        161,
+        82,
+        163,
         71
       ]
     },
     {
-      "clue": "Higher social class, often hereditary.",
-      "answer": "nobles",
-      "answer_letters": "NOBLES",
-      "indices": [
-        132,
-        172,
-        148,
-        99,
-        171,
-        137
-      ]
-    },
-    {
-      "clue": "Title of someone with a job in a pasture.",
-      "answer": "shepherd",
-      "answer_letters": "SHEPHERD",
+      "clue": "Started growth.",
+      "answer": "seeded",
+      "answer_letters": "SEEDED",
       "indices": [
         10,
-        87,
         140,
-        170,
-        32,
         157,
-        89,
+        26,
+        57,
         8
       ]
     },
     {
-      "clue": "Used to introduce a clause expressing a condition.",
-      "answer": "whether",
-      "answer_letters": "WHETHER",
+      "clue": "Famed for its baking tools and pans.",
+      "answer": "wilton",
+      "answer_letters": "WILTON",
       "indices": [
         62,
-        45,
-        57,
-        78,
-        91,
-        46,
-        139
+        77,
+        142,
+        67,
+        181,
+        152
       ]
     },
     {
-      "clue": "Gave it a shot.",
-      "answer": "attempted",
-      "answer_letters": "ATTEMPTED",
+      "clue": "A subject for believers and skeptics alike.",
+      "answer": "afterlife",
+      "answer_letters": "AFTERLIFE",
       "indices": [
         13,
+        39,
         28,
-        44,
-        16,
-        15,
-        112,
-        156,
-        159,
-        122
+        117,
+        73,
+        21,
+        59,
+        42,
+        16
       ]
     },
     {
-      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
+      "clue": "Teens or adolescents.",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
         79,
-        69,
-        5,
-        98,
-        127,
-        136
+        123,
+        105,
+        34,
+        109,
+        76
       ]
     }
   ],

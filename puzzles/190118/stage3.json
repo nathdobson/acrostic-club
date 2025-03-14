@@ -5,289 +5,289 @@
   "source_letters": "EMILYGIFFINBABYPROOF",
   "clues": [
     {
-      "clue": "Reviewed and judged critically",
-      "answer": "evaluated",
-      "answer_letters": "EVALUATED",
+      "clue": "Location not here.",
+      "answer": "elsewhere",
+      "answer_letters": "ELSEWHERE",
       "indices": [
         172,
-        103,
-        132,
         51,
-        70,
-        110,
-        37,
+        12,
         113,
-        134
+        74,
+        75,
+        80,
+        176,
+        90
       ]
     },
     {
-      "clue": "Criminal's reason for committing a crime.",
-      "answer": "motive",
-      "answer_letters": "MOTIVE",
+      "clue": "18th-century Indian warrior clan led by Shivaji.",
+      "answer": "maratha",
+      "answer_letters": "MARATHA",
       "indices": [
         164,
-        158,
-        143,
-        52,
-        124,
-        80
+        132,
+        20,
+        110,
+        37,
+        60,
+        0
       ]
     },
     {
-      "clue": "Apple's smart device.",
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "clue": "Marked by new ideas or methods.",
+      "answer": "innovative",
+      "answer_letters": "INNOVATIVE",
       "indices": [
-        135,
-        112,
-        109,
-        76,
+        144,
         114,
-        46
+        30,
+        145,
+        103,
+        78,
+        127,
+        98,
+        124,
+        175
       ]
     },
     {
-      "clue": "The realm of Dickens, Austen, and Hemingway.",
-      "answer": "literature",
-      "answer_letters": "LITERATURE",
+      "clue": "Deadly.",
+      "answer": "lethal",
+      "answer_letters": "LETHAL",
       "indices": [
         1,
-        144,
+        168,
         174,
-        29,
-        167,
-        82,
-        95,
-        152,
-        44,
-        168
-      ]
-    },
-    {
-      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
-      "indices": [
-        67,
-        97,
-        10,
-        123,
-        146,
-        122
-      ]
-    },
-    {
-      "clue": "Business expansion or development.",
-      "answer": "growth",
-      "answer_letters": "GROWTH",
-      "indices": [
-        42,
-        79,
-        141,
-        74,
-        130,
-        60
-      ]
-    },
-    {
-      "clue": "They may differ in neutron count but remain chemically similar.",
-      "answer": "isotopes",
-      "answer_letters": "ISOTOPES",
-      "indices": [
-        98,
-        72,
-        43,
-        17,
-        85,
-        27,
-        19,
-        49
-      ]
-    },
-    {
-      "clue": "Omit from recollection.",
-      "answer": "forget",
-      "answer_letters": "FORGET",
-      "indices": [
-        57,
-        93,
-        138,
-        69,
-        61,
-        148
-      ]
-    },
-    {
-      "clue": "Opposite of casual.",
-      "answer": "formal",
-      "answer_letters": "FORMAL",
-      "indices": [
-        35,
-        145,
-        142,
-        153,
-        23,
+        128,
+        64,
         28
       ]
     },
     {
-      "clue": "Not following a set pattern.",
-      "answer": "irregular",
-      "answer_letters": "IRREGULAR",
+      "clue": "Olden port city in England.",
+      "answer": "yarmouth",
+      "answer_letters": "YARMOUTH",
       "indices": [
-        9,
-        176,
-        20,
-        90,
+        67,
+        166,
+        65,
+        10,
+        139,
+        48,
+        59,
+        96
+      ]
+    },
+    {
+      "clue": "Former baseball player Miguel.",
+      "answer": "guerrero",
+      "answer_letters": "GUERRERO",
+      "indices": [
         6,
         5,
-        39,
-        0,
-        156
+        19,
+        156,
+        167,
+        149,
+        44,
+        43
       ]
     },
     {
-      "clue": "Daughter's son.",
-      "answer": "nephew",
-      "answer_letters": "NEPHEW",
+      "clue": "Isle of Odysseus.",
+      "answer": "ithaca",
+      "answer_letters": "ITHACA",
       "indices": [
-        30,
-        125,
-        137,
+        9,
+        92,
         18,
-        175,
-        101
+        38,
+        170,
+        23
       ]
     },
     {
-      "clue": "Stunningly, exquisitely.",
-      "answer": "beautifully",
-      "answer_letters": "BEAUTIFULLY",
+      "clue": "Participants of MMA events.",
+      "answer": "fighters",
+      "answer_letters": "FIGHTERS",
+      "indices": [
+        57,
+        107,
+        69,
+        7,
+        148,
+        61,
+        138,
+        177
+      ]
+    },
+    {
+      "clue": "Dense, leafy environment.",
+      "answer": "forest",
+      "answer_letters": "FOREST",
+      "indices": [
+        35,
+        85,
+        79,
+        125,
+        84,
+        2
+      ]
+    },
+    {
+      "clue": "Remove from social interaction.",
+      "answer": "isolate",
+      "answer_letters": "ISOLATE",
+      "indices": [
+        52,
+        72,
+        158,
+        39,
+        82,
+        143,
+        29
+      ]
+    },
+    {
+      "clue": "Indifferent or unbiased position.",
+      "answer": "neutral",
+      "answer_letters": "NEUTRAL",
+      "indices": [
+        151,
+        15,
+        152,
+        87,
+        14,
+        129,
+        83
+      ]
+    },
+    {
+      "clue": "Purchased something.",
+      "answer": "bought",
+      "answer_letters": "BOUGHT",
       "indices": [
         154,
-        54,
-        129,
+        56,
         89,
-        87,
-        102,
-        53,
-        48,
-        83,
-        121,
-        32
+        45,
+        3,
+        31
       ]
     },
     {
-      "clue": "Not at sea.",
-      "answer": "ashore",
-      "answer_letters": "ASHORE",
+      "clue": "Harmonious understanding or deal.",
+      "answer": "agreement",
+      "answer_letters": "AGREEMENT",
       "indices": [
-        78,
-        84,
-        3,
-        56,
+        147,
+        42,
         24,
+        54,
+        97,
+        153,
+        123,
+        146,
+        116
+      ]
+    },
+    {
+      "clue": "Layer of life on Earth.",
+      "answer": "biosphere",
+      "answer_letters": "BIOSPHERE",
+      "indices": [
+        119,
+        135,
+        76,
+        105,
+        27,
+        162,
+        163,
+        142,
         25
       ]
     },
     {
-      "clue": "Under.",
-      "answer": "beneath",
-      "answer_letters": "BENEATH",
-      "indices": [
-        119,
-        15,
-        151,
-        163,
-        173,
-        127,
-        162
-      ]
-    },
-    {
-      "clue": "Types of leisure vessels.",
-      "answer": "yachts",
-      "answer_letters": "YACHTS",
+      "clue": "Teens or adolescents.",
+      "answer": "youths",
+      "answer_letters": "YOUTHS",
       "indices": [
         71,
-        64,
-        170,
-        75,
-        92,
-        12
+        141,
+        70,
+        95,
+        109,
+        49
       ]
     },
     {
-      "clue": "Descartes, a notable example.",
-      "answer": "philosopher",
-      "answer_letters": "PHILOSOPHER",
+      "clue": "Father of Alexander the Great.",
+      "answer": "philip",
+      "answer_letters": "PHILIP",
       "indices": [
-        63,
-        96,
-        107,
-        40,
-        139,
-        105,
-        4,
-        111,
+        112,
         171,
-        155,
-        65
+        102,
+        121,
+        122,
+        137
       ]
     },
     {
-      "clue": "Nautical contest.",
-      "answer": "regatta",
-      "answer_letters": "REGATTA",
+      "clue": "Told with details",
+      "answer": "reported",
+      "answer_letters": "REPORTED",
       "indices": [
         99,
-        21,
-        45,
-        147,
-        116,
-        31,
-        166
-      ]
-    },
-    {
-      "clue": "Settlement at the edge of a frontier.",
-      "answer": "outpost",
-      "answer_letters": "OUTPOST",
-      "indices": [
-        34,
-        13,
+        155,
+        63,
+        4,
+        88,
         161,
-        140,
-        47,
-        177,
-        66
+        21,
+        134
       ]
     },
     {
-      "clue": "Various people besides you and I.",
-      "answer": "others",
-      "answer_letters": "OTHERS",
+      "clue": "Resist or stand against.",
+      "answer": "oppose",
+      "answer_letters": "OPPOSE",
+      "indices": [
+        47,
+        111,
+        140,
+        93,
+        136,
+        120
+      ]
+    },
+    {
+      "clue": "The movement of molten lava from a volcano.",
+      "answer": "outflow",
+      "answer_letters": "OUTFLOW",
       "indices": [
         117,
-        59,
-        7,
-        120,
-        88,
-        136
+        13,
+        66,
+        53,
+        40,
+        34,
+        101
       ]
     },
     {
-      "clue": "Quill component.",
-      "answer": "feather",
-      "answer_letters": "FEATHER",
+      "clue": "Washington's close friend from the Revolutionary War era.",
+      "answer": "fayette",
+      "answer_letters": "FAYETTE",
       "indices": [
         159,
-        149,
-        38,
-        2,
-        128,
+        173,
+        32,
         104,
-        14
+        130,
+        17,
+        46
       ]
     }
   ],

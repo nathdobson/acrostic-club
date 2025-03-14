@@ -5,269 +5,58 @@
   "source_letters": "ALVINAILEYREVELATIONS",
   "clues": [
     {
-      "clue": "Location of mass murder by gas.",
-      "answer": "auschwitz",
-      "answer_letters": "AUSCHWITZ",
+      "clue": "Socially uncomfortable situation.",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
       "indices": [
         163,
-        123,
-        91,
-        170,
-        31,
-        138,
-        54,
-        33,
-        114
-      ]
-    },
-    {
-      "clue": "Within legal boundaries.",
-      "answer": "lawful",
-      "answer_letters": "LAWFUL",
-      "indices": [
-        97,
-        111,
         35,
-        130,
-        148,
-        14
+        21,
+        138,
+        7,
+        59,
+        63
       ]
     },
     {
-      "clue": "A stringed instrument often found in an orchestra.",
-      "answer": "violin",
-      "answer_letters": "VIOLIN",
+      "clue": "Depressed or diminished in level",
+      "answer": "lowered",
+      "answer_letters": "LOWERED",
+      "indices": [
+        41,
+        27,
+        127,
+        70,
+        145,
+        110,
+        116
+      ]
+    },
+    {
+      "clue": "Beheld something remarkable.",
+      "answer": "viewed",
+      "answer_letters": "VIEWED",
       "indices": [
         99,
         24,
-        27,
-        112,
-        79,
-        55
-      ]
-    },
-    {
-      "clue": "Possessor of a high IQ.",
-      "answer": "intellectual",
-      "answer_letters": "INTELLECTUAL",
-      "indices": [
-        20,
-        172,
-        0,
-        4,
-        19,
-        41,
-        67,
-        88,
-        11,
-        144,
-        45,
-        23
-      ]
-    },
-    {
-      "clue": "English town known for its races.",
-      "answer": "newbury",
-      "answer_letters": "NEWBURY",
-      "indices": [
-        65,
-        87,
-        72,
-        86,
-        158,
-        140,
-        155
-      ]
-    },
-    {
-      "clue": "Region encompassing parts of modern Turkey.",
-      "answer": "anatolia",
-      "answer_letters": "ANATOLIA",
-      "indices": [
-        64,
-        164,
-        168,
-        84,
-        119,
-        13,
-        103,
-        175
-      ]
-    },
-    {
-      "clue": "Daughter of Jawaharlal Nehru",
-      "answer": "indira",
-      "answer_letters": "INDIRA",
-      "indices": [
-        113,
-        80,
-        165,
-        83,
-        74,
-        32
-      ]
-    },
-    {
-      "clue": "Entered into records",
-      "answer": "logged",
-      "answer_letters": "LOGGED",
-      "indices": [
-        132,
-        180,
-        56,
-        81,
-        100,
-        77
-      ]
-    },
-    {
-      "clue": "Made the same sound again",
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        92,
-        66,
-        1,
-        26,
-        151,
-        42
-      ]
-    },
-    {
-      "clue": "Teens or adolescents.",
-      "answer": "youths",
-      "answer_letters": "YOUTHS",
-      "indices": [
-        181,
-        17,
-        90,
-        133,
-        118,
-        143
-      ]
-    },
-    {
-      "clue": "To compose anew, often improving the original.",
-      "answer": "rewrite",
-      "answer_letters": "REWRITE",
-      "indices": [
-        59,
         75,
-        127,
-        146,
-        171,
-        104,
-        141
-      ]
-    },
-    {
-      "clue": "Baked into something.",
-      "answer": "embedded",
-      "answer_letters": "EMBEDDED",
-      "indices": [
-        115,
-        157,
-        154,
-        70,
-        152,
-        150,
-        110,
+        120,
+        141,
         28
       ]
     },
     {
-      "clue": "A spectator, especially one at an exhibition or sports event.",
-      "answer": "viewer",
-      "answer_letters": "VIEWER",
+      "clue": "A well-known name among Muslims.",
+      "answer": "ibrahim",
+      "answer_letters": "IBRAHIM",
       "indices": [
-        53,
-        12,
-        131,
-        135,
-        73,
-        109
-      ]
-    },
-    {
-      "clue": "Rose up from beneath the surface.",
-      "answer": "emerged",
-      "answer_letters": "EMERGED",
-      "indices": [
-        47,
-        44,
-        136,
-        145,
-        173,
-        128,
-        167
-      ]
-    },
-    {
-      "clue": "Term for strict restrictions during a crisis.",
-      "answer": "lockdown",
-      "answer_letters": "LOCKDOWN",
-      "indices": [
-        125,
-        60,
-        38,
-        21,
-        101,
-        78,
-        94,
-        169
-      ]
-    },
-    {
-      "clue": "Consents to, permits.",
-      "answer": "allows",
-      "answer_letters": "ALLOWS",
-      "indices": [
-        89,
-        124,
-        51,
-        39,
-        69,
-        10
-      ]
-    },
-    {
-      "clue": "Dual bicycles for two",
-      "answer": "tandem",
-      "answer_letters": "TANDEM",
-      "indices": [
-        30,
-        7,
-        176,
-        116,
-        139,
+        54,
+        154,
+        146,
+        49,
+        25,
+        20,
         61
-      ]
-    },
-    {
-      "clue": "Wounded, as in a battle.",
-      "answer": "injured",
-      "answer_letters": "INJURED",
-      "indices": [
-        52,
-        149,
-        179,
-        40,
-        3,
-        95,
-        177
-      ]
-    },
-    {
-      "clue": "Site for business meetings.",
-      "answer": "office",
-      "answer_letters": "OFFICE",
-      "indices": [
-        147,
-        58,
-        122,
-        160,
-        161,
-        22
       ]
     },
     {
@@ -275,27 +64,238 @@
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
-        16,
-        36,
-        106,
-        159,
-        120,
-        107,
-        2,
+        65,
+        139,
+        72,
+        91,
+        6,
+        4,
+        67,
         46
       ]
     },
     {
-      "clue": "Opposite of light.",
-      "answer": "shadow",
-      "answer_letters": "SHADOW",
+      "clue": "Cooperating for mutual benefit.",
+      "answer": "allied",
+      "answer_letters": "ALLIED",
+      "indices": [
+        168,
+        132,
+        112,
+        103,
+        36,
+        77
+      ]
+    },
+    {
+      "clue": "Named for a plant used to produce its rich color.",
+      "answer": "indigo",
+      "answer_letters": "INDIGO",
+      "indices": [
+        113,
+        80,
+        167,
+        83,
+        56,
+        119
+      ]
+    },
+    {
+      "clue": "The German air force in WWII.",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        97,
+        148,
+        130,
+        133,
+        135,
+        175,
+        58,
+        122,
+        107
+      ]
+    },
+    {
+      "clue": "Trainer of young minds.",
+      "answer": "educator",
+      "answer_letters": "EDUCATOR",
+      "indices": [
+        115,
+        42,
+        144,
+        88,
+        111,
+        30,
+        17,
+        74
+      ]
+    },
+    {
+      "clue": "Opposite of black and blue.",
+      "answer": "yellow",
+      "answer_letters": "YELLOW",
+      "indices": [
+        181,
+        47,
+        14,
+        19,
+        180,
+        106
+      ]
+    },
+    {
+      "clue": "Repetitive patterns in music or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
+      "indices": [
+        3,
+        118,
+        155,
+        33,
+        1,
+        157,
+        159
+      ]
+    },
+    {
+      "clue": "Core components of vehicles.",
+      "answer": "engines",
+      "answer_letters": "ENGINES",
+      "indices": [
+        136,
+        55,
+        81,
+        171,
+        176,
+        128,
+        143
+      ]
+    },
+    {
+      "clue": "In biology, it could be a carrier of genetic material.",
+      "answer": "vector",
+      "answer_letters": "VECTOR",
+      "indices": [
+        53,
+        131,
+        38,
+        84,
+        78,
+        109
+      ]
+    },
+    {
+      "clue": "Scholarly.",
+      "answer": "educated",
+      "answer_letters": "EDUCATED",
+      "indices": [
+        2,
+        152,
+        123,
+        170,
+        32,
+        104,
+        100,
+        150
+      ]
+    },
+    {
+      "clue": "Pronounced 'lud-luhw', it shares its name with an English town.",
+      "answer": "ludlow",
+      "answer_letters": "LUDLOW",
+      "indices": [
+        51,
+        40,
+        101,
+        125,
+        60,
+        69
+      ]
+    },
+    {
+      "clue": "First name for Allison.",
+      "answer": "alison",
+      "answer_letters": "ALISON",
+      "indices": [
+        89,
+        124,
+        12,
+        10,
+        39,
+        169
+      ]
+    },
+    {
+      "clue": "Religious scholar.",
+      "answer": "theologian",
+      "answer_letters": "THEOLOGIAN",
+      "indices": [
+        0,
+        31,
+        92,
+        26,
+        23,
+        147,
+        173,
+        79,
+        45,
+        172
+      ]
+    },
+    {
+      "clue": "Encompassed within a set",
+      "answer": "included",
+      "answer_letters": "INCLUDED",
+      "indices": [
+        52,
+        149,
+        66,
+        13,
+        90,
+        177,
+        73,
+        165
+      ]
+    },
+    {
+      "clue": "An item that one may perceive with their senses.",
+      "answer": "object",
+      "answer_letters": "OBJECT",
+      "indices": [
+        98,
+        86,
+        179,
+        151,
+        161,
+        11
+      ]
+    },
+    {
+      "clue": "He starred as Henry in 'Road to Perdition'.",
+      "answer": "newman",
+      "answer_letters": "NEWMAN",
+      "indices": [
+        16,
+        95,
+        94,
+        44,
+        64,
+        164
+      ]
+    },
+    {
+      "clue": "Episode of convulsions or sudden loss of consciousness.",
+      "answer": "seizure",
+      "answer_letters": "SEIZURE",
       "indices": [
         8,
-        25,
-        49,
-        63,
-        98,
-        6
+        22,
+        160,
+        114,
+        158,
+        140,
+        87
       ]
     }
   ],

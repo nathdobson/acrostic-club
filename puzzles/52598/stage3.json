@@ -5,282 +5,282 @@
   "source_letters": "MARTINBUBERIANDTHOU",
   "clues": [
     {
-      "clue": "Emails, texts, and WhatsApp?",
-      "answer": "messages",
-      "answer_letters": "MESSAGES",
+      "clue": "Musician in charge, usually on podium.",
+      "answer": "maestro",
+      "answer_letters": "MAESTRO",
       "indices": [
         109,
+        159,
         68,
         54,
-        69,
-        159,
-        120,
-        126,
-        175
+        51,
+        100,
+        123
       ]
     },
     {
-      "clue": "Curved constructions made from stone or brick, seen in ancient aqueducts",
-      "answer": "arches",
-      "answer_letters": "ARCHES",
+      "clue": "Lines of communication for email recipients.",
+      "answer": "addresses",
+      "answer_letters": "ADDRESSES",
       "indices": [
         86,
-        174,
-        79,
-        17,
-        131,
-        41
-      ]
-    },
-    {
-      "clue": "Victim of a heist.",
-      "answer": "robbed",
-      "answer_letters": "ROBBED",
-      "indices": [
-        22,
-        153,
-        34,
-        130,
-        4,
-        66
-      ]
-    },
-    {
-      "clue": "A day of the week, for starters.",
-      "answer": "thursday",
-      "answer_letters": "THURSDAY",
-      "indices": [
-        90,
-        91,
-        59,
-        3,
-        73,
-        160,
-        97,
-        149
-      ]
-    },
-    {
-      "clue": "Cut off from others.",
-      "answer": "isolated",
-      "answer_letters": "ISOLATED",
-      "indices": [
-        18,
-        111,
-        93,
-        56,
-        35,
-        72,
-        27,
-        102
-      ]
-    },
-    {
-      "clue": "A source of vitamins or minerals.",
-      "answer": "nutrient",
-      "answer_letters": "NUTRIENT",
-      "indices": [
-        119,
-        64,
-        80,
+        102,
+        60,
         36,
-        38,
-        173,
-        133,
-        165
-      ]
-    },
-    {
-      "clue": "Boon or good fortune.",
-      "answer": "blessing",
-      "answer_letters": "BLESSING",
-      "indices": [
-        99,
-        82,
-        104,
+        4,
         95,
         63,
-        78,
-        170,
-        134
+        27,
+        111
       ]
     },
     {
-      "clue": "Known for sinking Allied ships during WWI and WWII.",
-      "answer": "u-boats",
-      "answer_letters": "UBOATS",
+      "clue": "Applicants for asylum.",
+      "answer": "refugee",
+      "answer_letters": "REFUGEE",
+      "indices": [
+        174,
+        32,
+        163,
+        64,
+        134,
+        167,
+        104
+      ]
+    },
+    {
+      "clue": "Contraction of they and have",
+      "answer": "they've",
+      "answer_letters": "THEYVE",
+      "indices": [
+        143,
+        17,
+        173,
+        149,
+        172,
+        158
+      ]
+    },
+    {
+      "clue": "French-Canadian actress Huppert.",
+      "answer": "isabelle",
+      "answer_letters": "ISABELLE",
+      "indices": [
+        38,
+        140,
+        35,
+        34,
+        9,
+        127,
+        82,
+        176
+      ]
+    },
+    {
+      "clue": "President of Egypt who nationalized the Suez Canal.",
+      "answer": "nasser",
+      "answer_letters": "NASSER",
+      "indices": [
+        133,
+        97,
+        41,
+        73,
+        131,
+        3
+      ]
+    },
+    {
+      "clue": "Contains chemicals that react to produce electricity",
+      "answer": "batteries",
+      "answer_letters": "BATTERIES",
+      "indices": [
+        99,
+        24,
+        165,
+        6,
+        117,
+        40,
+        18,
+        61,
+        151
+      ]
+    },
+    {
+      "clue": "Name associated with Ulm Cathedral's architect",
+      "answer": "ulrich",
+      "answer_letters": "ULRICH",
       "indices": [
         169,
-        116,
-        49,
-        5,
-        76,
-        75
+        56,
+        107,
+        132,
+        79,
+        166
       ]
     },
     {
-      "clue": "List of books and articles cited",
-      "answer": "bibliography",
-      "answer_letters": "BIBLIOGRAPHY",
+      "clue": "Rampant wild animals.",
+      "answer": "beasts",
+      "answer_letters": "BEASTS",
       "indices": [
-        148,
-        57,
         65,
-        10,
-        118,
-        108,
-        2,
-        77,
-        24,
-        19,
-        31,
-        52
+        39,
+        147,
+        28,
+        80,
+        16
       ]
     },
     {
-      "clue": "Result of a cause.",
-      "answer": "effect",
-      "answer_letters": "EFFECT",
+      "clue": "Strivings.",
+      "answer": "efforts",
+      "answer_letters": "EFFORTS",
       "indices": [
-        9,
+        145,
         128,
         50,
-        176,
-        137,
-        122
-      ]
-    },
-    {
-      "clue": "Commentators on books, films, etc.",
-      "answer": "reviewers",
-      "answer_letters": "REVIEWERS",
-      "indices": [
-        92,
-        112,
-        172,
-        71,
-        39,
-        94,
-        117,
-        138,
-        28
-      ]
-    },
-    {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
-      "indices": [
-        171,
-        151,
-        136,
-        101,
-        147,
-        26
-      ]
-    },
-    {
-      "clue": "Within financial reach.",
-      "answer": "affordable",
-      "answer_letters": "AFFORDABLE",
-      "indices": [
-        46,
-        114,
-        44,
-        123,
-        100,
-        88,
-        0,
-        21,
-        48,
-        23
-      ]
-    },
-    {
-      "clue": "N.______ Cage is an Oscar-winning actor.",
-      "answer": "nicolas",
-      "answer_letters": "NICOLAS",
-      "indices": [
-        87,
-        13,
-        25,
-        139,
-        113,
-        11,
+        108,
+        22,
+        90,
         150
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
+      "clue": "Harvard's original sister school.",
+      "answer": "radcliffe",
+      "answer_letters": "RADCLIFFE",
       "indices": [
-        60,
-        84,
-        132,
-        103,
-        144,
-        6
+        138,
+        0,
+        88,
+        25,
+        48,
+        171,
+        114,
+        44,
+        126
       ]
     },
     {
-      "clue": "Levels peak during puberty in males.",
-      "answer": "testosterone",
-      "answer_letters": "TESTOSTERONE",
+      "clue": "Swaps of vehicles or ideas.",
+      "answer": "interchanges",
+      "answer_letters": "INTERCHANGES",
       "indices": [
-        51,
-        61,
-        16,
-        58,
-        14,
-        141,
-        12,
-        145,
+        57,
+        87,
+        122,
+        23,
         8,
+        137,
+        31,
+        136,
+        170,
+        2,
+        112,
+        175
+      ]
+    },
+    {
+      "clue": "Interrupted births, medically induced.",
+      "answer": "abortions",
+      "answer_letters": "ABORTIONS",
+      "indices": [
+        46,
+        21,
+        14,
+        92,
+        58,
+        71,
         55,
         15,
-        32
+        69
       ]
     },
     {
-      "clue": "Constitution State's capital.",
-      "answer": "hartford",
-      "answer_letters": "HARTFORD",
+      "clue": "Higher social rank or aristocracy.",
+      "answer": "nobility",
+      "answer_letters": "NOBILITY",
       "indices": [
-        166,
-        83,
+        119,
+        139,
+        148,
+        118,
+        10,
+        78,
+        72,
+        52
+      ]
+    },
+    {
+      "clue": "A type of mahi-mahi.",
+      "answer": "dorado",
+      "answer_letters": "DORADO",
+      "indices": [
+        160,
+        153,
         157,
-        143,
-        163,
-        162,
-        37,
-        156
+        83,
+        156,
+        93
       ]
     },
     {
-      "clue": "Begins with 'O' but rhymes with duffers",
-      "answer": "offers",
-      "answer_letters": "OFFERS",
+      "clue": "Book series by Stephenie Meyer",
+      "answer": "twilight",
+      "answer_letters": "TWILIGHT",
       "indices": [
-        43,
+        12,
+        94,
+        101,
+        113,
+        13,
+        120,
+        26,
+        30
+      ]
+    },
+    {
+      "clue": "Ancestors of Marie Antoinette.",
+      "answer": "habsburg",
+      "answer_letters": "HABSBURG",
+      "indices": [
+        144,
+        5,
+        130,
+        125,
+        116,
+        59,
+        37,
+        103
+      ]
+    },
+    {
+      "clue": "Side project emerging from an original idea.",
+      "answer": "offshoot",
+      "answer_letters": "OFFSHOOT",
+      "indices": [
+        162,
         106,
         154,
-        158,
-        107,
-        125
+        75,
+        91,
+        43,
+        49,
+        76
       ]
     },
     {
-      "clue": "Home to the Giant's Causeway.",
-      "answer": "ulster",
-      "answer_letters": "ULSTER",
+      "clue": "Opposite of earthbound.",
+      "answer": "upwards",
+      "answer_letters": "UPWARDS",
       "indices": [
         67,
-        127,
-        140,
-        30,
-        167,
-        40
+        19,
+        84,
+        11,
+        77,
+        66,
+        141
       ]
     }
   ],

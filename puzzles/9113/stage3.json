@@ -5,98 +5,32 @@
   "source_letters": "KARENMARIEMONINGICED",
   "clues": [
     {
-      "clue": "Historic pass near Peshawar",
-      "answer": "khyber",
-      "answer_letters": "KHYBER",
+      "clue": "Fierce storm that devastated New Orleans.",
+      "answer": "katrina",
+      "answer_letters": "KATRINA",
       "indices": [
         128,
-        122,
-        73,
-        36,
-        25,
-        37
-      ]
-    },
-    {
-      "clue": "Obtaining an aim or purpose.",
-      "answer": "achieving",
-      "answer_letters": "ACHIEVING",
-      "indices": [
-        152,
-        11,
-        90,
-        17,
-        78,
-        139,
-        35,
-        137,
-        153
-      ]
-    },
-    {
-      "clue": "Multiple paths one can take.",
-      "answer": "routes",
-      "answer_letters": "ROUTES",
-      "indices": [
-        64,
-        28,
-        126,
-        113,
-        140,
-        69
-      ]
-    },
-    {
-      "clue": "Follow closely, as if copying.",
-      "answer": "emulate",
-      "answer_letters": "EMULATE",
-      "indices": [
-        138,
-        27,
-        75,
-        62,
-        154,
-        60,
-        2
-      ]
-    },
-    {
-      "clue": "The first name of the Soviet Union's famous general secretary during the Cuban Missile Crisis.",
-      "answer": "nikita",
-      "answer_letters": "NIKITA",
-      "indices": [
-        134,
-        32,
-        93,
-        87,
-        119,
-        162
-      ]
-    },
-    {
-      "clue": "Furry primate often seen swinging from trees.",
-      "answer": "monkey",
-      "answer_letters": "MONKEY",
-      "indices": [
-        77,
-        105,
-        102,
-        147,
-        49,
-        167
-      ]
-    },
-    {
-      "clue": "Regardless, in any case.",
-      "answer": "anyway",
-      "answer_letters": "ANYWAY",
-      "indices": [
         79,
+        85,
+        37,
+        17,
         80,
-        104,
-        108,
-        38,
-        95
+        38
+      ]
+    },
+    {
+      "clue": "State of being self-governing.",
+      "answer": "autonomy",
+      "answer_letters": "AUTONOMY",
+      "indices": [
+        52,
+        126,
+        54,
+        28,
+        137,
+        96,
+        4,
+        104
       ]
     },
     {
@@ -104,52 +38,123 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        158,
-        144,
-        68,
-        85,
+        64,
         117,
-        99
+        95,
+        13,
+        83,
+        77
       ]
     },
     {
-      "clue": "Apple's smart device.",
-      "answer": "iphone",
-      "answer_letters": "IPHONE",
+      "clue": "Surviving into the present time from the past.",
+      "answer": "extant",
+      "answer_letters": "EXTANT",
       "indices": [
-        145,
-        131,
-        46,
-        74,
-        92,
-        123
+        30,
+        10,
+        21,
+        154,
+        41,
+        60
       ]
     },
     {
-      "clue": "Strivings.",
-      "answer": "efforts",
-      "answer_letters": "EFFORTS",
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        163,
+        123,
+        131,
+        59,
+        20,
+        43
+      ]
+    },
+    {
+      "clue": "Powerful adjective.",
+      "answer": "mighty",
+      "answer_letters": "MIGHTY",
+      "indices": [
+        27,
+        12,
+        19,
+        24,
+        150,
+        68
+      ]
+    },
+    {
+      "clue": "Name of famous conductor Toscanini.",
+      "answer": "arturo",
+      "answer_letters": "ARTURO",
+      "indices": [
+        166,
+        158,
+        121,
+        97,
+        141,
+        42
+      ]
+    },
+    {
+      "clue": "Conforming to standards of morality",
+      "answer": "righteous",
+      "answer_letters": "RIGHTEOUS",
+      "indices": [
+        6,
+        35,
+        153,
+        122,
+        39,
+        25,
+        114,
+        130,
+        66
+      ]
+    },
+    {
+      "clue": "Babyhood stage.",
+      "answer": "infancy",
+      "answer_letters": "INFANCY",
+      "indices": [
+        87,
+        134,
+        71,
+        162,
+        92,
+        11,
+        167
+      ]
+    },
+    {
+      "clue": "Become more complex",
+      "answer": "evolve",
+      "answer_letters": "EVOLVE",
       "indices": [
         9,
-        125,
-        71,
-        96,
-        48,
-        54,
-        165
+        139,
+        105,
+        62,
+        34,
+        49
       ]
     },
     {
-      "clue": "Fatal act of violence.",
-      "answer": "murder",
-      "answer_letters": "MURDER",
+      "clue": "Temporary solution",
+      "answer": "makeshift",
+      "answer_letters": "MAKESHIFT",
       "indices": [
-        4,
-        106,
-        6,
-        161,
-        14,
-        29
+        99,
+        152,
+        147,
+        78,
+        168,
+        144,
+        149,
+        125,
+        113
       ]
     },
     {
@@ -158,11 +163,11 @@
       "answer_letters": "OTTAWA",
       "indices": [
         160,
-        13,
-        150,
-        101,
+        23,
+        89,
+        84,
         82,
-        109
+        101
       ]
     },
     {
@@ -170,113 +175,108 @@
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
-        156,
+        102,
         56,
-        23,
-        70,
-        63,
-        146
-      ]
-    },
-    {
-      "clue": "Organization often abbreviated as INSEE.",
-      "answer": "institut",
-      "answer_letters": "INSTITUT",
-      "indices": [
-        12,
-        163,
-        50,
-        89,
-        155,
         111,
-        57,
-        0
+        155,
+        63,
+        156
       ]
     },
     {
-      "clue": "Opposite of east-west.",
-      "answer": "north-south",
-      "answer_letters": "NORTHSOUTH",
+      "clue": "Admission to school is known as an _.",
+      "answer": "intake",
+      "answer_letters": "INTAKE",
+      "indices": [
+        32,
+        146,
+        0,
+        109,
+        93,
+        40
+      ]
+    },
+    {
+      "clue": "English town known for its races.",
+      "answer": "newbury",
+      "answer_letters": "NEWBURY",
       "indices": [
         110,
-        42,
-        141,
-        39,
-        24,
-        168,
-        114,
-        130,
-        45,
-        59
+        14,
+        108,
+        36,
+        106,
+        29,
+        73
       ]
     },
     {
-      "clue": "Main entrance or access point.",
-      "answer": "gateway",
-      "answer_letters": "GATEWAY",
+      "clue": "Faust's author.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
       "indices": [
-        19,
-        67,
-        21,
-        40,
-        43,
-        133,
-        159
+        58,
+        74,
+        138,
+        119,
+        90,
+        2
       ]
     },
     {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
-      "answer": "isaiah",
-      "answer_letters": "ISAIAH",
+      "clue": "Problems encountered.",
+      "answer": "issues",
+      "answer_letters": "ISSUES",
       "indices": [
-        91,
+        70,
+        69,
         116,
-        52,
-        149,
-        84,
-        1
+        57,
+        140,
+        165
       ]
     },
     {
-      "clue": "Last name of actor Jackie ___, who starred in numerous action films.",
-      "answer": "cheung",
-      "answer_letters": "CHEUNG",
+      "clue": "Smallest of dog breeds.",
+      "answer": "chihuahua",
+      "answer_letters": "CHIHUAHUA",
       "indices": [
         127,
-        55,
-        20,
+        1,
+        145,
+        46,
         118,
-        41,
-        58
+        67,
+        55,
+        75,
+        133
       ]
     },
     {
-      "clue": "After a marathon run.",
-      "answer": "exhausted",
-      "answer_letters": "EXHAUSTED",
+      "clue": "Had words removed or altered.",
+      "answer": "edited",
+      "answer_letters": "EDITED",
       "indices": [
         47,
-        10,
-        83,
-        166,
-        97,
-        66,
-        121,
+        135,
+        91,
+        45,
         7,
-        135
+        161
       ]
     },
     {
-      "clue": "Spend time on, as in reading.",
-      "answer": "devote",
-      "answer_letters": "DEVOTE",
+      "clue": "Ruinate utterly.",
+      "answer": "destroy",
+      "answer_letters": "DESTROY",
       "indices": [
         15,
-        30,
-        34,
-        5,
+        100,
+        50,
         143,
-        100
+        48,
+        5,
+        159
       ]
     }
   ],

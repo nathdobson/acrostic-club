@@ -5,200 +5,198 @@
   "source_letters": "NELYCABMARKEROFHOPE",
   "clues": [
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
-      "answer": "newton",
-      "answer_letters": "NEWTON",
+      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
         25,
         159,
         62,
         167,
         16,
+        121,
         11
       ]
     },
     {
-      "clue": "General and leader of Operation Overlord (D-Day).",
-      "answer": "eisenhower",
-      "answer_letters": "EISENHOWER",
+      "clue": "As many as necessary.",
+      "answer": "enough",
+      "answer_letters": "ENOUGH",
       "indices": [
-        41,
-        80,
-        75,
-        131,
-        170,
-        88,
-        94,
-        84,
         77,
-        132
+        170,
+        94,
+        17,
+        99,
+        88
       ]
     },
     {
-      "clue": "Animals raised for human needs.",
-      "answer": "livestock",
-      "answer_letters": "LIVESTOCK",
+      "clue": "Career or business as income source.",
+      "answer": "livelihood",
+      "answer_letters": "LIVELIHOOD",
       "indices": [
-        66,
-        119,
+        156,
+        105,
         158,
-        49,
-        5,
-        140,
-        56,
-        2,
-        76
+        107,
+        182,
+        162,
+        31,
+        174,
+        32,
+        125
       ]
     },
     {
-      "clue": "Educational institution emphasizing Torah study.",
+      "clue": "Talmudic academy.",
       "answer": "yeshiva",
       "answer_letters": "YESHIVA",
       "indices": [
-        171,
-        69,
-        82,
-        31,
-        105,
+        117,
+        52,
+        5,
+        164,
+        135,
         90,
         150
       ]
     },
     {
-      "clue": "Joint presenter with another",
-      "answer": "co-host",
-      "answer_letters": "COHOST",
+      "clue": "Mother of Frances Bean.",
+      "answer": "courtney",
+      "answer_letters": "COURTNEY",
       "indices": [
-        81,
-        174,
-        164,
-        32,
-        39,
-        129
+        2,
+        110,
+        64,
+        111,
+        129,
+        65,
+        49,
+        171
       ]
     },
     {
-      "clue": "Concession conjunction.",
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "clue": "Claim of composition.",
+      "answer": "authorship",
+      "answer_letters": "AUTHORSHIP",
       "indices": [
-        116,
-        19,
-        179,
+        169,
+        123,
+        113,
         72,
         12,
-        64,
-        44,
-        85
-      ]
-    },
-    {
-      "clue": "Term for a close-knit group",
-      "answer": "brotherhood",
-      "answer_letters": "BROTHERHOOD",
-      "indices": [
-        48,
-        53,
-        114,
-        50,
-        130,
-        146,
         60,
-        141,
-        61,
-        154,
-        125
+        39,
+        85,
+        157,
+        33
       ]
     },
     {
-      "clue": "Home of Harley-Davidson Motor Company",
-      "answer": "milwaukee",
-      "answer_letters": "MILWAUKEE",
+      "clue": "Dance move or blues music.",
+      "answer": "boogie",
+      "answer_letters": "BOOGIE",
+      "indices": [
+        0,
+        114,
+        61,
+        44,
+        67,
+        69
+      ]
+    },
+    {
+      "clue": "Procedures or techniques used in a particular field.",
+      "answer": "methods",
+      "answer_letters": "METHODS",
       "indices": [
         57,
-        20,
-        182,
-        121,
-        169,
-        166,
-        68,
-        136,
-        176
+        146,
+        179,
+        141,
+        154,
+        115,
+        82
       ]
     },
     {
-      "clue": "Movement against slavery in the US.",
-      "answer": "abolition",
-      "answer_letters": "ABOLITION",
+      "clue": "Official power to make decisions and judgments",
+      "answer": "authority",
+      "answer_letters": "AUTHORITY",
       "indices": [
         128,
-        0,
-        110,
-        156,
-        162,
-        55,
-        135,
-        165,
-        65
-      ]
-    },
-    {
-      "clue": "Alternative performance of a song.",
-      "answer": "rendition",
-      "answer_letters": "RENDITION",
-      "indices": [
-        127,
-        34,
-        43,
-        134,
-        42,
-        51,
-        97,
-        24,
-        98
-      ]
-    },
-    {
-      "clue": "Home to ancient Dilmun civilization.",
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
-      "indices": [
-        10,
         4,
-        13,
-        181,
-        67,
-        79
+        55,
+        130,
+        165,
+        53,
+        20,
+        50,
+        15
       ]
     },
     {
-      "clue": "Synonym for moniker.",
-      "answer": "epithet",
-      "answer_letters": "EPITHET",
+      "clue": "Artist known for 'Freedom From Want'",
+      "answer": "rockwell",
+      "answer_letters": "ROCKWELL",
       "indices": [
-        22,
-        33,
-        157,
-        27,
-        149,
-        29,
-        148
+        132,
+        122,
+        81,
+        68,
+        138,
+        40,
+        124,
+        183
       ]
     },
     {
-      "clue": "Freshened up, like an old house",
-      "answer": "renovated",
-      "answer_letters": "RENOVATED",
+      "clue": "Actor named ____ Branagh.",
+      "answer": "kenneth",
+      "answer_letters": "KENNETH",
+      "indices": [
+        76,
+        1,
+        93,
+        43,
+        22,
+        148,
+        149
+      ]
+    },
+    {
+      "clue": "Not so anymore; previously.",
+      "answer": "erstwhile",
+      "answer_letters": "ERSTWHILE",
+      "indices": [
+        29,
+        127,
+        75,
+        51,
+        13,
+        96,
+        8,
+        19,
+        34
+      ]
+    },
+    {
+      "clue": "May lead to strain injuries.",
+      "answer": "repetitive",
+      "answer_letters": "REPETITIVE",
       "indices": [
         59,
-        6,
-        93,
-        122,
+        136,
+        175,
+        176,
+        79,
+        42,
+        27,
+        97,
         21,
-        46,
-        113,
-        1,
-        115
+        6
       ]
     },
     {
@@ -206,83 +204,85 @@
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
-        144,
+        86,
         101,
         153,
         178,
-        161,
+        84,
         3
       ]
     },
     {
-      "clue": "Struggled in a contest or disagreement.",
-      "answer": "fought",
-      "answer_letters": "FOUGHT",
+      "clue": "Where pedestrians walk.",
+      "answer": "footpath",
+      "answer_letters": "FOOTPATH",
       "indices": [
-        109,
-        86,
-        17,
-        99,
-        96,
-        71
-      ]
-    },
-    {
-      "clue": "Not ill or sickly.",
-      "answer": "healthy",
-      "answer_letters": "HEALTHY",
-      "indices": [
-        28,
-        40,
-        89,
-        183,
-        163,
-        173,
-        15
-      ]
-    },
-    {
-      "clue": "The movement of molten lava from a volcano.",
-      "answer": "outflow",
-      "answer_letters": "OUTFLOW",
-      "indices": [
-        58,
-        123,
-        95,
         37,
-        124,
+        58,
         102,
-        138
-      ]
-    },
-    {
-      "clue": "French king at Agincourt's outbreak.",
-      "answer": "philippe",
-      "answer_letters": "PHILIPPE",
-      "indices": [
-        175,
-        143,
-        8,
-        104,
-        139,
+        95,
         78,
-        145,
-        73
+        181,
+        71,
+        28
       ]
     },
     {
-      "clue": "All hands on deck.",
-      "answer": "everyone",
-      "answer_letters": "EVERYONE",
+      "clue": "A surname associated with historical animosity in rural America.",
+      "answer": "hatfield",
+      "answer_letters": "HATFIELD",
+      "indices": [
+        173,
+        89,
+        163,
+        109,
+        80,
+        73,
+        104,
+        134
+      ]
+    },
+    {
+      "clue": "Island where WWII's last major battle occurred.",
+      "answer": "okinawa",
+      "answer_letters": "OKINAWA",
+      "indices": [
+        24,
+        10,
+        139,
+        98,
+        116,
+        161,
+        46
+      ]
+    },
+    {
+      "clue": "BFF of Rachel Green on a certain sitcom.",
+      "answer": "phoebe",
+      "answer_letters": "PHOEBE",
+      "indices": [
+        145,
+        143,
+        144,
+        41,
+        48,
+        131
+      ]
+    },
+    {
+      "clue": "Theory proposed by Darwin.",
+      "answer": "evolution",
+      "answer_letters": "EVOLUTION",
       "indices": [
         91,
         106,
-        107,
-        111,
-        117,
         36,
-        151,
-        52
+        66,
+        166,
+        140,
+        119,
+        56,
+        151
       ]
     }
   ],

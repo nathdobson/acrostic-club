@@ -5,276 +5,276 @@
   "source_letters": "AVAGARDNERAVAMYSTORY",
   "clues": [
     {
-      "clue": "A variant of Ann.",
-      "answer": "annette",
-      "answer_letters": "ANNETTE",
+      "clue": "Movement against slavery in the US.",
+      "answer": "abolition",
+      "answer_letters": "ABOLITION",
       "indices": [
-        53,
-        133,
-        72,
-        12,
-        74,
-        11,
-        160
+        176,
+        117,
+        171,
+        86,
+        48,
+        156,
+        152,
+        157,
+        72
       ]
     },
     {
-      "clue": "A stringed instrument often found in an orchestra.",
-      "answer": "violin",
-      "answer_letters": "VIOLIN",
+      "clue": "It can be a car, bus or train.",
+      "answer": "vehicle",
+      "answer_letters": "VEHICLE",
       "indices": [
         41,
-        152,
-        94,
-        13,
-        182,
-        139
-      ]
-    },
-    {
-      "clue": "Orientation for solving horizontal clues.",
-      "answer": "across",
-      "answer_letters": "ACROSS",
-      "indices": [
-        98,
+        140,
+        3,
+        93,
         120,
-        88,
-        71,
-        148,
-        130
-      ]
-    },
-    {
-      "clue": "Located on the west coast of Ireland.",
-      "answer": "galway",
-      "answer_letters": "GALWAY",
-      "indices": [
-        150,
-        76,
         14,
-        146,
-        101,
-        16
+        104
       ]
     },
     {
-      "clue": "Spoke passionately, presenting differing viewpoints.",
-      "answer": "argued",
-      "answer_letters": "ARGUED",
+      "clue": "Penmen.",
+      "answer": "authors",
+      "answer_letters": "AUTHORS",
       "indices": [
         91,
-        5,
-        69,
-        32,
-        44,
-        170
-      ]
-    },
-    {
-      "clue": "Vantage point above streets.",
-      "answer": "rooftop",
-      "answer_letters": "ROOFTOP",
-      "indices": [
-        95,
-        168,
-        109,
-        113,
-        60,
-        138,
-        79
-      ]
-    },
-    {
-      "clue": "Rank in military or civil service.",
-      "answer": "designation",
-      "answer_letters": "DESIGNATION",
-      "indices": [
-        58,
-        42,
-        46,
-        123,
-        154,
-        167,
-        176,
-        174,
-        70,
-        9,
-        28
-      ]
-    },
-    {
-      "clue": "An empty set.",
-      "answer": "nothing",
-      "answer_letters": "NOTHING",
-      "indices": [
-        43,
-        112,
-        20,
-        137,
-        68,
-        106,
-        39
-      ]
-    },
-    {
-      "clue": "Rules of conduct or morality.",
-      "answer": "ethics",
-      "answer_letters": "ETHICS",
-      "indices": [
-        144,
-        29,
+        165,
+        51,
         34,
-        93,
-        33,
-        99
+        94,
+        88,
+        148
       ]
     },
     {
-      "clue": "Made stronger with additional support.",
-      "answer": "reinforced",
-      "answer_letters": "REINFORCED",
+      "clue": "Julius's Italian variant",
+      "answer": "giulio",
+      "answer_letters": "GIULIO",
       "indices": [
-        65,
-        140,
-        48,
-        49,
-        36,
-        17,
-        38,
-        84,
-        104,
-        135
-      ]
-    },
-    {
-      "clue": "LA's neighbor with a famous amusement park.",
-      "answer": "anaheim",
-      "answer_letters": "ANAHEIM",
-      "indices": [
-        147,
-        153,
-        115,
-        52,
-        63,
-        0,
-        103
-      ]
-    },
-    {
-      "clue": "Financial soundness and potential.",
-      "answer": "viability",
-      "answer_letters": "VIABILITY",
-      "indices": [
-        92,
+        69,
         27,
-        87,
-        177,
-        118,
+        128,
         67,
-        61,
-        161,
+        118,
+        127
+      ]
+    },
+    {
+      "clue": "Science of celestial bodies.",
+      "answer": "astronomy",
+      "answer_letters": "ASTRONOMY",
+      "indices": [
+        76,
+        108,
+        20,
+        23,
+        9,
+        167,
+        112,
+        103,
         163
       ]
     },
     {
-      "clue": "Denier of gods.",
-      "answer": "atheist",
-      "answer_letters": "ATHEIST",
+      "clue": "A name that could be shared with an artist and a tennis player.",
+      "answer": "rafael",
+      "answer_letters": "RAFAEL",
+      "indices": [
+        81,
+        80,
+        113,
+        26,
+        66,
+        13
+      ]
+    },
+    {
+      "clue": "Concerning a ruling family's power and heritage.",
+      "answer": "dynastic",
+      "answer_letters": "DYNASTIC",
+      "indices": [
+        170,
+        16,
+        106,
+        101,
+        46,
+        11,
+        0,
+        84
+      ]
+    },
+    {
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
+      "indices": [
+        49,
+        4,
+        79,
+        52,
+        42,
+        146
+      ]
+    },
+    {
+      "clue": "Multiple releases of a literary work.",
+      "answer": "editions",
+      "answer_letters": "EDITIONS",
+      "indices": [
+        144,
+        58,
+        83,
+        82,
+        123,
+        71,
+        139,
+        99
+      ]
+    },
+    {
+      "clue": "Conservatives, as opposed to liberals.",
+      "answer": "right-wing",
+      "answer_letters": "RIGHTWING",
+      "indices": [
+        38,
+        70,
+        154,
+        137,
+        77,
+        97,
+        68,
+        133,
+        39
+      ]
+    },
+    {
+      "clue": "Characteristics or features.",
+      "answer": "attributes",
+      "answer_letters": "ATTRIBUTES",
+      "indices": [
+        115,
+        8,
+        161,
+        5,
+        40,
+        177,
+        18,
+        174,
+        63,
+        45
+      ]
+    },
+    {
+      "clue": "The last name of a legendary British composer and conductor, renowned for film scores.",
+      "answer": "vaughan",
+      "answer_letters": "VAUGHAN",
+      "indices": [
+        92,
+        87,
+        32,
+        150,
+        143,
+        147,
+        153
+      ]
+    },
+    {
+      "clue": "To impact a situation or outcome",
+      "answer": "affect",
+      "answer_letters": "AFFECT",
       "indices": [
         105,
-        183,
-        143,
+        36,
+        124,
         6,
-        40,
-        45,
-        8
+        33,
+        183
       ]
     },
     {
-      "clue": "Relating to life forms adapted to high altitudes.",
-      "answer": "montane",
-      "answer_letters": "MONTANE",
+      "clue": "A diminutive form of Matthew.",
+      "answer": "matteo",
+      "answer_letters": "MATTEO",
       "indices": [
         62,
-        171,
-        110,
-        82,
-        80,
-        132,
-        66
+        98,
+        180,
+        54,
+        12,
+        178
       ]
     },
     {
-      "clue": "Olden port city in England.",
-      "answer": "yarmouth",
-      "answer_letters": "YARMOUTH",
+      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
+      "answer": "yemeni",
+      "answer_letters": "YEMENI",
       "indices": [
         126,
-        26,
-        81,
+        22,
         1,
-        151,
-        172,
-        119,
-        121
-      ]
-    },
-    {
-      "clue": "In an unspecified manner or way.",
-      "answer": "somehow",
-      "answer_letters": "SOMEHOW",
-      "indices": [
-        90,
-        178,
-        31,
         134,
-        3,
-        164,
-        97
+        132,
+        131
       ]
     },
     {
-      "clue": "Consideration or speculation.",
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
+      "clue": "He authored many proverbs and sayings.",
+      "answer": "solomon",
+      "answer_letters": "SOLOMON",
       "indices": [
-        51,
-        21,
+        130,
         56,
-        179,
-        159,
-        75,
-        156
-      ]
-    },
-    {
-      "clue": "Wardrobe ensemble.",
-      "answer": "outfit",
-      "answer_letters": "OUTFIT",
-      "indices": [
-        37,
-        85,
-        180,
-        124,
-        131,
-        54
-      ]
-    },
-    {
-      "clue": "Likely to resist control.",
-      "answer": "rebellious",
-      "answer_letters": "REBELLIOUS",
-      "indices": [
-        23,
-        24,
-        117,
-        4,
-        86,
         57,
-        83,
-        127,
-        18,
-        108
+        37,
+        31,
+        168,
+        110
+      ]
+    },
+    {
+      "clue": "Exhaustive.",
+      "answer": "thorough",
+      "answer_letters": "THOROUGH",
+      "indices": [
+        119,
+        21,
+        109,
+        95,
+        138,
+        172,
+        159,
+        75
+      ]
+    },
+    {
+      "clue": "State capital: Bhubaneswar.",
+      "answer": "odisha",
+      "answer_letters": "ODISHA",
+      "indices": [
+        151,
+        135,
+        182,
+        90,
+        121,
+        53
+      ]
+    },
+    {
+      "clue": "Job or service continuation by employees or clients.",
+      "answer": "retention",
+      "answer_letters": "RETENTION",
+      "indices": [
+        65,
+        44,
+        29,
+        24,
+        28,
+        74,
+        61,
+        17,
+        43
       ]
     },
     {
@@ -283,12 +283,12 @@
       "answer_letters": "YOUTUBE",
       "indices": [
         141,
-        157,
-        128,
-        77,
-        165,
+        164,
+        179,
+        60,
+        85,
         173,
-        22
+        160
       ]
     }
   ],

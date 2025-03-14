@@ -5,305 +5,305 @@
   "source_letters": "KELLEYARMSTRONGSTOLEN",
   "clues": [
     {
-      "clue": "He had a key role during the Boer War.",
-      "answer": "kitchener",
-      "answer_letters": "KITCHENER",
+      "clue": "She was Hepburn's real last name.",
+      "answer": "katharine",
+      "answer_letters": "KATHARINE",
       "indices": [
         55,
-        133,
+        146,
         115,
-        82,
         76,
-        183,
+        32,
+        184,
+        133,
         180,
-        123,
-        184
+        183
       ]
     },
     {
-      "clue": "Secured with a cipher.",
-      "answer": "encoded",
-      "answer_letters": "ENCODED",
+      "clue": "Alimony's former recipient.",
+      "answer": "ex-wife",
+      "answer_letters": "EXWIFE",
       "indices": [
-        60,
-        176,
-        182,
-        85,
-        34,
-        77,
+        139,
+        64,
+        153,
+        99,
+        86,
+        60
+      ]
+    },
+    {
+      "clue": "Included in a catalog of assets or liabilities.",
+      "answer": "listed",
+      "answer_letters": "LISTED",
+      "indices": [
+        93,
+        120,
+        136,
+        174,
+        96,
         118
       ]
     },
     {
-      "clue": "Scaled reptile often found sunbathing.",
-      "answer": "lizard",
-      "answer_letters": "LIZARD",
-      "indices": [
-        147,
-        166,
-        95,
-        129,
-        88,
-        19
-      ]
-    },
-    {
-      "clue": "Barriers to progress.",
-      "answer": "limitations",
-      "answer_letters": "LIMITATIONS",
+      "clue": "Not a right-winger.",
+      "answer": "leftist",
+      "answer_letters": "LEFTIST",
       "indices": [
         11,
-        38,
-        167,
-        94,
-        90,
-        146,
-        144,
-        104,
-        5,
-        113,
-        67
-      ]
-    },
-    {
-      "clue": "Bequest to an institution.",
-      "answer": "endowment",
-      "answer_letters": "ENDOWMENT",
-      "indices": [
-        2,
-        188,
-        41,
-        18,
-        8,
-        186,
-        9,
-        33,
-        130
-      ]
-    },
-    {
-      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
-      "answer": "yemeni",
-      "answer_letters": "YEMENI",
-      "indices": [
-        189,
-        168,
-        47,
-        56,
-        100,
-        10
-      ]
-    },
-    {
-      "clue": "Creative literary craftsman.",
-      "answer": "author",
-      "answer_letters": "AUTHOR",
-      "indices": [
-        32,
-        91,
-        0,
-        59,
-        179,
-        138
-      ]
-    },
-    {
-      "clue": "Not owned outright.",
-      "answer": "rented",
-      "answer_letters": "RENTED",
-      "indices": [
-        26,
-        126,
-        149,
-        53,
-        69,
-        79
-      ]
-    },
-    {
-      "clue": "Scaled-down version.",
-      "answer": "miniature",
-      "answer_letters": "MINIATURE",
-      "indices": [
-        103,
-        22,
-        62,
-        143,
-        92,
-        6,
-        145,
-        13,
-        163
-      ]
-    },
-    {
-      "clue": "Applicable to publicly funded enterprises.",
-      "answer": "state-owned",
-      "answer_letters": "STATEOWNED",
-      "indices": [
-        114,
-        39,
-        154,
-        7,
-        96,
-        109,
-        140,
-        81,
-        139,
-        177
-      ]
-    },
-    {
-      "clue": "Pearl of the South Seas.",
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
-      "indices": [
-        58,
-        175,
-        132,
-        102,
-        159,
-        112
-      ]
-    },
-    {
-      "clue": "Turned around; moved through an angle.",
-      "answer": "rotated",
-      "answer_letters": "ROTATED",
-      "indices": [
-        4,
-        17,
-        75,
-        106,
-        68,
-        63,
-        127
-      ]
-    },
-    {
-      "clue": "Renowned university city in England.",
-      "answer": "oxford",
-      "answer_letters": "OXFORD",
-      "indices": [
-        150,
-        64,
-        86,
-        27,
-        142,
-        30
-      ]
-    },
-    {
-      "clue": "Associated with flags, languages, and customs.",
-      "answer": "nationalities",
-      "answer_letters": "NATIONALITIES",
-      "indices": [
-        157,
-        80,
-        107,
-        72,
-        44,
-        29,
-        124,
-        93,
-        120,
-        174,
-        99,
-        116,
-        136
-      ]
-    },
-    {
-      "clue": "It might be Hjalmars or Per-Albin's first name.",
-      "answer": "gustaf",
-      "answer_letters": "GUSTAF",
-      "indices": [
-        25,
-        28,
-        155,
-        161,
-        117,
-        43
-      ]
-    },
-    {
-      "clue": "Small, quick-moving sea creature.",
-      "answer": "shrimp",
-      "answer_letters": "SHRIMP",
-      "indices": [
-        173,
-        21,
-        45,
-        108,
-        134,
-        70
-      ]
-    },
-    {
-      "clue": "Can denote an organized community with services.",
-      "answer": "township",
-      "answer_letters": "TOWNSHIP",
-      "indices": [
-        170,
-        158,
-        151,
-        110,
-        23,
-        162,
-        89,
-        125
-      ]
-    },
-    {
-      "clue": "Formerly named Bytown.",
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        171,
-        50,
-        16,
-        37,
-        153,
-        54
-      ]
-    },
-    {
-      "clue": "Bottom rank in a hierarchy.",
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
-      "indices": [
-        122,
-        187,
-        36,
-        40,
-        15,
-        165
-      ]
-    },
-    {
-      "clue": "Made the same sound again",
-      "answer": "echoed",
-      "answer_letters": "ECHOED",
-      "indices": [
-        185,
-        137,
-        1,
-        51,
         48,
+        43,
+        90,
+        104,
+        67,
+        144
+      ]
+    },
+    {
+      "clue": "Deserving of respect or recognition; having a legitimate claim.",
+      "answer": "entitled",
+      "answer_letters": "ENTITLED",
+      "indices": [
+        40,
+        188,
+        130,
+        10,
+        0,
+        147,
+        2,
         105
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
-      "answer": "netted",
-      "answer_letters": "NETTED",
+      "clue": "Southern Chinese province.",
+      "answer": "yunnan",
+      "answer_letters": "YUNNAN",
+      "indices": [
+        189,
+        91,
+        33,
+        100,
+        37,
+        62
+      ]
+    },
+    {
+      "clue": "Actor's tryout.",
+      "answer": "audition",
+      "answer_letters": "AUDITION",
+      "indices": [
+        54,
+        145,
+        41,
+        22,
+        75,
+        143,
+        5,
+        110
+      ]
+    },
+    {
+      "clue": "Purchase of forgiveness",
+      "answer": "redemption",
+      "answer_letters": "REDEMPTION",
+      "indices": [
+        13,
+        163,
+        30,
+        126,
+        103,
+        125,
+        16,
+        102,
+        18,
+        149
+      ]
+    },
+    {
+      "clue": "A name given to Jesus' disciple by casting lots.",
+      "answer": "matthias",
+      "answer_letters": "MATTHIAS",
+      "indices": [
+        47,
+        154,
+        68,
+        6,
+        59,
+        108,
+        175,
+        173
+      ]
+    },
+    {
+      "clue": "Weapons that might be crossed over one's chest in ceremony.",
+      "answer": "swords",
+      "answer_letters": "SWORDS",
+      "indices": [
+        155,
+        151,
+        171,
+        26,
+        34,
+        114
+      ]
+    },
+    {
+      "clue": "Indelible ink design.",
+      "answer": "tattoo",
+      "answer_letters": "TATTOO",
+      "indices": [
+        39,
+        80,
+        7,
+        58,
+        109,
+        150
+      ]
+    },
+    {
+      "clue": "Restyled for modern audiences.",
+      "answer": "remade",
+      "answer_letters": "REMADE",
+      "indices": [
+        138,
+        9,
+        186,
+        117,
+        127,
+        168
+      ]
+    },
+    {
+      "clue": "A campus event for first-year students.",
+      "answer": "orientation",
+      "answer_letters": "ORIENTATION",
+      "indices": [
+        27,
+        142,
+        166,
+        12,
+        176,
+        159,
+        124,
+        107,
+        72,
+        85,
+        157
+      ]
+    },
+    {
+      "clue": "Recent addition to a group or field.",
+      "answer": "newcomer",
+      "answer_letters": "NEWCOMER",
+      "indices": [
+        29,
+        77,
+        140,
+        182,
+        44,
+        134,
+        116,
+        88
+      ]
+    },
+    {
+      "clue": "Slang for an urban slum area.",
+      "answer": "ghetto",
+      "answer_letters": "GHETTO",
+      "indices": [
+        25,
+        132,
+        83,
+        65,
+        161,
+        158
+      ]
+    },
+    {
+      "clue": "Explored subjects deeply.",
+      "answer": "studied",
+      "answer_letters": "STUDIED",
+      "indices": [
+        23,
+        170,
+        28,
+        79,
+        89,
+        56,
+        97
+      ]
+    },
+    {
+      "clue": "Plan blocked.",
+      "answer": "thwarted",
+      "answer_letters": "THWARTED",
+      "indices": [
+        53,
+        21,
+        36,
+        129,
+        4,
+        50,
+        63,
+        177
+      ]
+    },
+    {
+      "clue": "An exotic bloom, often found in tropical regions.",
+      "answer": "orchid",
+      "answer_letters": "ORCHID",
+      "indices": [
+        179,
+        45,
+        137,
+        162,
+        112,
+        19
+      ]
+    },
+    {
+      "clue": "Often associated with GPS coordinates.",
+      "answer": "location",
+      "answer_letters": "LOCATION",
+      "indices": [
+        122,
+        51,
+        82,
+        92,
+        165,
+        94,
+        187,
+        113
+      ]
+    },
+    {
+      "clue": "Highlight a point.",
+      "answer": "emphasize",
+      "answer_letters": "EMPHASIZE",
+      "indices": [
+        123,
+        167,
+        70,
+        1,
+        106,
+        15,
+        38,
+        95,
+        185
+      ]
+    },
+    {
+      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "answer": "newton",
+      "answer_letters": "NEWTON",
       "indices": [
         73,
-        83,
+        69,
+        8,
         101,
-        65,
-        12,
-        97
+        17,
+        81
       ]
     }
   ],

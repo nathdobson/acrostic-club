@@ -5,294 +5,294 @@
   "source_letters": "ERNESTHEMINGWAYPOEMS",
   "clues": [
     {
-      "clue": "Character who betrays his siblings to the White Witch",
-      "answer": "edmund",
-      "answer_letters": "EDMUND",
+      "clue": "Iconic representation, often used on uniforms or flags.",
+      "answer": "emblem",
+      "answer_letters": "EMBLEM",
       "indices": [
-        171,
-        143,
-        55,
-        90,
-        31,
-        22
+        155,
+        12,
+        139,
+        4,
+        92,
+        55
       ]
     },
     {
-      "clue": "Speaks of, in various contexts.",
-      "answer": "refers",
-      "answer_letters": "REFERS",
+      "clue": "Aids in guiding a vessel's course.",
+      "answer": "rudder",
+      "answer_letters": "RUDDER",
       "indices": [
         105,
+        121,
+        160,
+        179,
         113,
-        44,
-        58,
-        91,
-        173
+        91
       ]
     },
     {
-      "clue": "Atomic particle with no charge.",
-      "answer": "neutron",
-      "answer_letters": "NEUTRON",
+      "clue": "Symbol N on the periodic table.",
+      "answer": "nitrogen",
+      "answer_letters": "NITROGEN",
       "indices": [
-        84,
-        137,
-        176,
-        170,
-        112,
+        108,
+        148,
+        33,
+        81,
         73,
-        108
+        51,
+        70,
+        159
       ]
     },
     {
-      "clue": "Location not here.",
-      "answer": "elsewhere",
-      "answer_letters": "ELSEWHERE",
+      "clue": "Synonym for moniker.",
+      "answer": "epithet",
+      "answer_letters": "EPITHET",
       "indices": [
-        132,
-        48,
-        157,
         126,
-        74,
+        182,
+        41,
+        38,
         99,
         53,
-        122,
-        63
-      ]
-    },
-    {
-      "clue": "Enlargement caused by excess fluid accumulation.",
-      "answer": "swelling",
-      "answer_letters": "SWELLING",
-      "indices": [
-        93,
-        152,
-        82,
-        4,
-        165,
-        69,
-        50,
-        80
-      ]
-    },
-    {
-      "clue": "A way to express gratitude.",
-      "answer": "thanks",
-      "answer_letters": "THANKS",
-      "indices": [
-        133,
-        40,
-        36,
-        78,
-        57,
-        10
-      ]
-    },
-    {
-      "clue": "Opposite of 'coldest' in terms of temperature.",
-      "answer": "hottest",
-      "answer_letters": "HOTTEST",
-      "indices": [
-        52,
-        45,
-        98,
-        38,
-        102,
-        124,
         59
       ]
     },
     {
-      "clue": "Good for consumption.",
-      "answer": "edible",
-      "answer_letters": "EDIBLE",
+      "clue": "Places offering temporary accommodation, often for pets or the homeless.",
+      "answer": "shelters",
+      "answer_letters": "SHELTERS",
       "indices": [
-        114,
-        131,
-        164,
-        139,
-        149,
-        181
-      ]
-    },
-    {
-      "clue": "His 1969 LP included \"Light My Fire.\"",
-      "answer": "morrison",
-      "answer_letters": "MORRISON",
-      "indices": [
-        136,
-        5,
-        156,
-        6,
-        142,
         141,
-        66,
-        75
+        60,
+        171,
+        165,
+        147,
+        82,
+        6,
+        93
       ]
     },
     {
-      "clue": "To say something cutting.",
-      "answer": "insult",
-      "answer_letters": "INSULT",
+      "clue": "Showing aptitude or skill.",
+      "answer": "talented",
+      "answer_letters": "TALENTED",
       "indices": [
-        23,
-        177,
-        25,
-        121,
-        166,
-        33
+        133,
+        36,
+        149,
+        140,
+        84,
+        98,
+        102,
+        96
       ]
     },
     {
-      "clue": "Italians' southern capital city.",
-      "answer": "naples",
-      "answer_letters": "NAPLES",
+      "clue": "\"Gilligan's Island\" surname",
+      "answer": "howell",
+      "answer_letters": "HOWELL",
       "indices": [
-        95,
-        94,
-        18,
-        29,
-        123,
+        52,
+        49,
+        35,
+        132,
+        48,
+        166
+      ]
+    },
+    {
+      "clue": "Home of humanity, excluding water",
+      "answer": "earth's",
+      "answer_letters": "EARTHS",
+      "indices": [
+        181,
+        27,
+        21,
+        120,
+        1,
         88
       ]
     },
     {
-      "clue": "Expert recognized by the World Chess Federation (FIDE).",
-      "answer": "grandmaster",
-      "answer_letters": "GRANDMASTER",
+      "clue": "Jefferson's doting wife.",
+      "answer": "martha",
+      "answer_letters": "MARTHA",
       "indices": [
-        51,
-        175,
-        118,
-        159,
-        7,
-        42,
-        169,
-        146,
-        163,
-        2,
-        101
-      ]
-    },
-    {
-      "clue": "This term describes fighters who are not light nor heavy, but in-between.",
-      "answer": "welterweight",
-      "answer_letters": "WELTERWEIGHT",
-      "indices": [
-        168,
-        70,
-        150,
-        65,
-        83,
-        172,
-        35,
-        106,
-        9,
-        111,
-        125,
-        0
-      ]
-    },
-    {
-      "clue": "Sports stars, in short.",
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
-      "indices": [
-        130,
-        154,
-        16,
-        68,
-        17,
-        147,
-        100,
-        119
-      ]
-    },
-    {
-      "clue": "Motorcycle brand.",
-      "answer": "yamaha",
-      "answer_letters": "YAMAHA",
-      "indices": [
-        13,
-        87,
-        12,
-        158,
-        26,
-        153
-      ]
-    },
-    {
-      "clue": "Home to the Eagles.",
-      "answer": "philadelphia",
-      "answer_letters": "PHILADELPHIA",
-      "indices": [
-        182,
-        19,
-        148,
-        28,
+        136,
         104,
-        96,
-        129,
-        128,
-        86,
-        60,
-        77,
+        156,
+        154,
+        19,
         56
       ]
     },
     {
-      "clue": "Made accessible by removing obstructions.",
-      "answer": "opened",
-      "answer_letters": "OPENED",
+      "clue": "Children of Jacob, also known as the twelve tribes.",
+      "answer": "israelites",
+      "answer_letters": "ISRAELITES",
       "indices": [
-        32,
-        117,
-        155,
+        23,
+        10,
+        122,
+        118,
+        137,
+        150,
+        9,
+        89,
+        2,
+        124
+      ]
+    },
+    {
+      "clue": "Their staple is dal bhat.",
+      "answer": "nepalese",
+      "answer_letters": "NEPALESE",
+      "indices": [
+        115,
+        58,
+        18,
+        94,
+        29,
+        123,
+        173,
+        114
+      ]
+    },
+    {
+      "clue": "Happy for favors received.",
+      "answer": "grateful",
+      "answer_letters": "GRATEFUL",
+      "indices": [
+        111,
+        112,
+        169,
+        170,
+        83,
+        44,
+        176,
+        68
+      ]
+    },
+    {
+      "clue": "Sonic cue for attention or gathering",
+      "answer": "whistle",
+      "answer_letters": "WHISTLE",
+      "indices": [
+        152,
+        16,
+        77,
+        157,
+        163,
+        28,
+        106
+      ]
+    },
+    {
+      "clue": "Russian form of Alexander.",
+      "answer": "aleksandr",
+      "answer_letters": "ALEKSANDR",
+      "indices": [
+        130,
+        128,
+        17,
+        57,
+        25,
+        87,
         37,
-        92,
+        143,
+        175
+      ]
+    },
+    {
+      "clue": "Least aged in a group.",
+      "answer": "youngest",
+      "answer_letters": "YOUNGEST",
+      "indices": [
+        13,
+        32,
+        90,
+        31,
+        80,
+        100,
+        146,
+        65
+      ]
+    },
+    {
+      "clue": "Possibly, maybe.",
+      "answer": "perhaps",
+      "answer_letters": "PERHAPS",
+      "indices": [
+        86,
+        129,
+        101,
+        26,
+        158,
+        117,
+        119
+      ]
+    },
+    {
+      "clue": "Investiture into ministry.",
+      "answer": "ordination",
+      "answer_letters": "ORDINATION",
+      "indices": [
+        5,
+        172,
+        22,
+        142,
+        75,
+        153,
+        0,
+        69,
+        66,
+        50
+      ]
+    },
+    {
+      "clue": "Canonized in law or tradition",
+      "answer": "enshrined",
+      "answer_letters": "ENSHRINED",
+      "indices": [
+        180,
+        95,
+        15,
+        134,
+        46,
+        164,
+        78,
+        144,
+        131
+      ]
+    },
+    {
+      "clue": "He commissioned the Topkapi Palace in Istanbul.",
+      "answer": "mehmed",
+      "answer_letters": "MEHMED",
+      "indices": [
+        62,
+        63,
+        125,
+        42,
+        20,
         72
       ]
     },
     {
-      "clue": "Subject of an annual celebration on Purim",
-      "answer": "esther",
-      "answer_letters": "ESTHER",
-      "indices": [
-        180,
-        15,
-        120,
-        134,
-        144,
-        46
-      ]
-    },
-    {
-      "clue": "Under surveillance.",
-      "answer": "monitored",
-      "answer_letters": "MONITORED",
-      "indices": [
-        62,
-        109,
-        115,
-        41,
-        89,
-        49,
-        81,
-        20,
-        179
-      ]
-    },
-    {
-      "clue": "Used in reference to expenses or duties divided equally.",
-      "answer": "shared",
-      "answer_letters": "SHARED",
+      "clue": "Ultimate confrontation.",
+      "answer": "showdown",
+      "answer_letters": "SHOWDOWN",
       "indices": [
         162,
-        1,
-        27,
-        21,
-        140,
-        160
+        40,
+        45,
+        74,
+        7,
+        109,
+        168,
+        177
       ]
     }
   ],

@@ -1,7 +1,9 @@
 #![allow(unused_variables, unused_mut)]
 
+use crate::cluedb::{ClueDb, CLUE_DB};
 use crate::lemma::{Lemma, LEMMA};
 use acrostic_core::letter::Letter;
+use anyhow::anyhow;
 use futures::future::{join_all, try_join_all};
 use itertools::Itertools;
 use ollama_rs::generation::completion::request::GenerationRequest;
@@ -33,6 +35,7 @@ pub struct ClueClient {
     client: Arc<dyn ChatClient>,
     ontology: Arc<Ontology>,
     lemma: Arc<Lemma>,
+    clue_db: Arc<ClueDb>,
 }
 
 impl ClueClient {
@@ -42,6 +45,7 @@ impl ClueClient {
             client,
             ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
             lemma: LEMMA.get().await.clone_error_static()?.clone(),
+            clue_db: CLUE_DB.get().await.clone_error_static()?.clone(),
         })
     }
     pub fn score(&self, word: &str, clue: &str) -> Option<NotNan<f64>> {
@@ -110,17 +114,28 @@ impl ClueClient {
                 .await?
                 .answers;
                 println!("        candidate answers {:?}", answers);
-                if answers
-                    .iter()
-                    .any(|x| LetterString::from_str(x) == LetterString::from_str(answer))
-                {
+                if answers.iter().any(|x| {
+                    contains_subsequence(
+                        &*LetterString::from_str(x),
+                        &*LetterString::from_str(answer),
+                    )
+                }) {
                     println!("       Done! `{}` <= `{}`", answer, clue);
                     return Ok(Some(clue));
                 }
             }
         }
+        if let Some(entry) = self.clue_db.lookup(&LetterString::from_str(answer)).first() {
+            println!("       Used backup database for {}: {}", answer, entry.clue);
+            return Ok(Some(entry.clue.clone()));
+        }
+        println!("       Failed to generate clue for {}", answer);
         Ok(None)
     }
+}
+
+fn contains_subsequence<T: Eq>(haystack: &[T], needle: &[T]) -> bool {
+    haystack.windows(needle.len()).any(|x| x == needle)
 }
 
 pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> {
@@ -132,7 +147,6 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
         .iter_mut()
         .map(|clue| async move {
             clue.clue = client.create_clue(&clue.answer).await?;
-            // println!("{:?}: {:?}", clue.answer, clue.clue);
             anyhow::Result::<_>::Ok(())
         });
     for clue in clues {
@@ -147,8 +161,10 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
         .all(|x| x.clue.is_some())
     {
         puzzle.write(pindex, "stage3.json").await?;
+        Ok(())
+    } else {
+        Err(anyhow!("failed to generate clues"))
     }
-    Ok(())
 }
 
 #[tokio::test]
@@ -161,7 +177,10 @@ async fn test_clue_client() -> anyhow::Result<()> {
             // "extant", "netball",
             // "nathan",
             // "andrew", "john", "hindwings"
-            "dudley",
+            // "dudley",
+            // "atkinson",
+            // "howell",
+            "india's",
         ] {
             let clues = client.create_clue(word).await?;
             println!("{:?}", clues);

@@ -5,182 +5,91 @@
   "source_letters": "TARRYNFISHERFCKLOVE",
   "clues": [
     {
-      "clue": "Duration: two annual cycles.",
-      "answer": "two-year",
-      "answer_letters": "TWOYEAR",
+      "clue": "Contemplations or reflections.",
+      "answer": "thoughts",
+      "answer_letters": "THOUGHTS",
       "indices": [
         9,
-        55,
+        60,
         157,
-        156,
-        51,
-        135,
-        134
-      ]
-    },
-    {
-      "clue": "Lie in wait for prey or foes.",
-      "answer": "ambush",
-      "answer_letters": "AMBUSH",
-      "indices": [
-        48,
-        47,
-        50,
         146,
-        100,
-        60
-      ]
-    },
-    {
-      "clue": "A series of upheavals (e.g., in France or Russia).",
-      "answer": "revolutions",
-      "answer_letters": "REVOLUTIONS",
-      "indices": [
-        172,
-        161,
-        136,
-        88,
-        27,
-        61,
-        75,
-        19,
-        149,
-        44,
-        160
-      ]
-    },
-    {
-      "clue": "Images bounced off a shiny surface.",
-      "answer": "reflections",
-      "answer_letters": "REFLECTIONS",
-      "indices": [
-        159,
-        142,
-        13,
-        122,
-        21,
-        32,
-        104,
-        0,
-        99,
-        20,
-        73
-      ]
-    },
-    {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
-      "answer": "yokohama",
-      "answer_letters": "YOKOHAMA",
-      "indices": [
-        129,
-        130,
-        126,
-        108,
+        66,
         78,
-        37,
-        165,
-        111
+        85,
+        100
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
+      "clue": "With total certainty.",
+      "answer": "absolutely",
+      "answer_letters": "ABSOLUTELY",
       "indices": [
-        24,
-        90,
-        82,
-        154,
-        54,
-        2,
-        53
+        135,
+        50,
+        73,
+        105,
+        122,
+        131,
+        104,
+        51,
+        162,
+        156
       ]
     },
     {
-      "clue": "Complete employment status",
-      "answer": "full-time",
-      "answer_letters": "FULLTIME",
+      "clue": "Sanctuary for those in peril",
+      "answer": "refuge",
+      "answer_letters": "REFUGE",
       "indices": [
-        119,
+        62,
+        161,
+        163,
         69,
-        18,
-        87,
-        25,
-        26,
-        124,
+        41,
         30
       ]
     },
     {
-      "clue": "Brain's visual interpretations.",
-      "answer": "images",
-      "answer_letters": "IMAGES",
-      "indices": [
-        72,
-        139,
-        84,
-        66,
-        137,
-        8
-      ]
-    },
-    {
-      "clue": "Device that protects from harm.",
-      "answer": "safety",
-      "answer_letters": "SAFETY",
-      "indices": [
-        93,
-        153,
-        163,
-        121,
-        70,
-        144
-      ]
-    },
-    {
-      "clue": "She was portrayed by Joanne Woodward in a film about Hemingway.",
-      "answer": "hadley",
-      "answer_letters": "HADLEY",
-      "indices": [
-        83,
-        125,
-        102,
-        162,
-        127,
-        49
-      ]
-    },
-    {
-      "clue": "Engaging an individual for tasks, _____.",
-      "answer": "employing",
-      "answer_letters": "EMPLOYING",
-      "indices": [
-        113,
-        34,
-        98,
-        176,
-        166,
-        178,
-        64,
-        40,
-        41
-      ]
-    },
-    {
-      "clue": "Traffic circle.",
-      "answer": "roundabout",
-      "answer_letters": "ROUNDABOUT",
+      "clue": "Vantage point above streets.",
+      "answer": "rooftop",
+      "answer_letters": "ROOFTOP",
       "indices": [
         167,
-        105,
-        131,
-        65,
-        45,
-        79,
-        133,
-        116,
+        99,
+        130,
+        13,
+        154,
+        108,
+        97
+      ]
+    },
+    {
+      "clue": "Vast video-sharing platform online.",
+      "answer": "youtube",
+      "answer_letters": "YOUTUBE",
+      "indices": [
+        129,
+        54,
         175,
-        85
+        70,
+        7,
+        133,
+        90
+      ]
+    },
+    {
+      "clue": "Suggest formally for approval or election",
+      "answer": "nominate",
+      "answer_letters": "NOMINATE",
+      "indices": [
+        65,
+        150,
+        165,
+        0,
+        20,
+        48,
+        75,
+        137
       ]
     },
     {
@@ -188,96 +97,187 @@
       "answer": "fukuoka",
       "answer_letters": "FUKUOKA",
       "indices": [
-        174,
-        7,
-        112,
-        158,
-        150,
-        151,
-        140
-      ]
-    },
-    {
-      "clue": "Burial ground.",
-      "answer": "cemetery",
-      "answer_letters": "CEMETERY",
-      "indices": [
-        170,
-        35,
-        58,
-        168,
-        80,
-        101,
-        62,
-        115
-      ]
-    },
-    {
-      "clue": "Home to Vytautas Magnus University",
-      "answer": "kaunas",
-      "answer_letters": "KAUNAS",
-      "indices": [
-        141,
-        33,
+        119,
         96,
+        126,
+        117,
+        145,
+        112,
+        125
+      ]
+    },
+    {
+      "clue": "Specific instances where ideas are put into action.",
+      "answer": "implementations",
+      "answer_letters": "IMPLEMENTATIONS",
+      "indices": [
+        72,
+        139,
+        98,
+        27,
+        121,
+        124,
+        127,
+        24,
+        80,
+        37,
+        63,
+        57,
+        88,
+        53,
+        93
+      ]
+    },
+    {
+      "clue": "Tunnel for trains beneath a city",
+      "answer": "subway",
+      "answer_letters": "SUBWAY",
+      "indices": [
+        160,
+        61,
+        68,
+        55,
+        111,
+        49
+      ]
+    },
+    {
+      "clue": "Nickname of a Norwegian king.",
+      "answer": "harald",
+      "answer_letters": "HARALD",
+      "indices": [
+        83,
+        140,
+        159,
+        84,
+        18,
+        45
+      ]
+    },
+    {
+      "clue": "Happiness derived from activities or experiences.",
+      "answer": "enjoyment",
+      "answer_letters": "ENJOYMENT",
+      "indices": [
+        173,
         74,
+        6,
+        166,
+        178,
+        34,
+        113,
+        40,
+        16
+      ]
+    },
+    {
+      "clue": "Takes off shoes or accessories.",
+      "answer": "removes",
+      "answer_letters": "REMOVES",
+      "indices": [
+        134,
+        142,
+        47,
+        116,
+        136,
+        21,
+        8
+      ]
+    },
+    {
+      "clue": "Error-ridden or flawed.",
+      "answer": "faulty",
+      "answer_letters": "FAULTY",
+      "indices": [
+        174,
+        79,
+        158,
+        177,
+        25,
+        144
+      ]
+    },
+    {
+      "clue": "Often labeled with hazard signs.",
+      "answer": "chemical",
+      "answer_letters": "CHEMICAL",
+      "indices": [
+        32,
+        29,
+        35,
+        110,
+        19,
+        170,
+        11,
+        148
+      ]
+    },
+    {
+      "clue": "Home to ancient Dilmun civilization.",
+      "answer": "kuwait",
+      "answer_letters": "KUWAIT",
+      "indices": [
+        151,
+        23,
+        82,
+        33,
+        26,
+        77
+      ]
+    },
+    {
+      "clue": "Gentlewomen.",
+      "answer": "ladies",
+      "answer_letters": "LADIES",
+      "indices": [
+        14,
         43,
+        107,
+        92,
+        168,
         4
       ]
     },
     {
-      "clue": "In computer science, a symbol for anonymous functions.",
-      "answer": "lambda",
-      "answer_letters": "LAMBDA",
+      "clue": "Island where WWII's last major battle occurred.",
+      "answer": "okinawa",
+      "answer_letters": "OKINAWA",
       "indices": [
-        148,
+        39,
+        141,
+        64,
+        44,
         3,
-        110,
-        68,
-        107,
+        2,
         15
       ]
     },
     {
-      "clue": "Results of a process or calculation.",
-      "answer": "outputs",
-      "answer_letters": "OUTPUTS",
+      "clue": "Low areas between mountains.",
+      "answer": "valleys",
+      "answer_letters": "VALLEYS",
       "indices": [
-        145,
-        117,
-        63,
-        97,
-        23,
-        77,
+        89,
+        171,
+        38,
+        176,
+        101,
+        115,
         95
       ]
     },
     {
-      "clue": "In chemistry, prone to rapid change.",
-      "answer": "volatile",
-      "answer_letters": "VOLATILE",
-      "indices": [
-        89,
-        39,
-        14,
-        171,
-        16,
-        92,
-        38,
-        173
-      ]
-    },
-    {
-      "clue": "A prophet in the Old Testament.",
-      "answer": "elijah",
-      "answer_letters": "ELIJAH",
+      "clue": "Hereditary title often associated with land ownership.",
+      "answer": "earldom",
+      "answer_letters": "EARLDOM",
       "indices": [
         120,
-        177,
-        57,
-        6,
-        11,
-        29
+        153,
+        172,
+        87,
+        102,
+        149,
+        58
       ]
     }
   ],

@@ -5,216 +5,49 @@
   "source_letters": "RAINBOWROWELLFANGIRL",
   "clues": [
     {
-      "clue": "Archive or collection of things.",
-      "answer": "repository",
-      "answer_letters": "REPOSITORY",
+      "clue": "Job or service continuation by employees or clients.",
+      "answer": "retention",
+      "answer_letters": "RETENTION",
       "indices": [
-        44,
-        110,
-        69,
-        66,
-        60,
-        46,
-        135,
-        161,
         148,
-        30
-      ]
-    },
-    {
-      "clue": "Stood up for a principle or policy.",
-      "answer": "advocated",
-      "answer_letters": "ADVOCATED",
-      "indices": [
-        78,
-        80,
-        102,
-        43,
-        125,
-        151,
-        65,
-        47,
-        18
-      ]
-    },
-    {
-      "clue": "Enforce or apply (something)",
-      "answer": "impose",
-      "answer_letters": "IMPOSE",
-      "indices": [
-        108,
-        51,
-        15,
-        62,
-        133,
-        58
-      ]
-    },
-    {
-      "clue": "No one of two.",
-      "answer": "neither",
-      "answer_letters": "NEITHER",
-      "indices": [
-        79,
-        123,
-        74,
+        147,
         39,
-        150,
-        76,
-        167
-      ]
-    },
-    {
-      "clue": "To act in a socially acceptable manner.",
-      "answer": "behave",
-      "answer_letters": "BEHAVE",
-      "indices": [
-        163,
-        145,
-        130,
-        91,
-        146,
-        140
-      ]
-    },
-    {
-      "clue": "Absent or left out.",
-      "answer": "omitted",
-      "answer_letters": "OMITTED",
-      "indices": [
-        128,
-        1,
-        38,
-        155,
-        32,
-        103,
-        171
-      ]
-    },
-    {
-      "clue": "Synonym for 'at any time'.",
-      "answer": "whenever",
-      "answer_letters": "WHENEVER",
-      "indices": [
-        139,
-        40,
-        88,
-        53,
-        117,
-        87,
-        101,
-        6
-      ]
-    },
-    {
-      "clue": "Far-off or distant in location.",
-      "answer": "remote",
-      "answer_letters": "REMOTE",
-      "indices": [
-        104,
-        16,
-        109,
-        4,
-        61,
-        113
-      ]
-    },
-    {
-      "clue": "Being in possession of something.",
-      "answer": "owning",
-      "answer_letters": "OWNING",
-      "indices": [
-        70,
-        37,
-        121,
-        86,
-        170,
-        85
-      ]
-    },
-    {
-      "clue": "Influence on mood is often noted by poets.",
-      "answer": "weather",
-      "answer_letters": "WEATHER",
-      "indices": [
-        112,
-        12,
-        68,
-        160,
-        93,
-        27,
-        5
-      ]
-    },
-    {
-      "clue": "Biological catalyst",
-      "answer": "enzyme",
-      "answer_letters": "ENZYME",
-      "indices": [
-        131,
+        58,
         144,
-        75,
-        105,
-        29,
-        169
-      ]
-    },
-    {
-      "clue": "Name of a Jesuit university.",
-      "answer": "loyola",
-      "answer_letters": "LOYOLA",
-      "indices": [
-        141,
-        72,
-        7,
+        135,
+        74,
         95,
-        71,
-        24
+        79
       ]
     },
     {
-      "clue": "Those who didn't succeed.",
-      "answer": "losers",
-      "answer_letters": "LOSERS",
+      "clue": "Lawyers by another name.",
+      "answer": "attorneys",
+      "answer_letters": "ATTORNEYS",
       "indices": [
-        142,
-        14,
-        42,
-        153,
-        132,
-        49
-      ]
-    },
-    {
-      "clue": "Where someone has been.",
-      "answer": "footsteps",
-      "answer_letters": "FOOTSTEPS",
-      "indices": [
-        166,
-        120,
-        52,
+        151,
+        26,
         116,
-        3,
-        107,
-        98,
-        118,
-        172
+        161,
+        44,
+        121,
+        137,
+        7,
+        133
       ]
     },
     {
-      "clue": "Add-ons to boost a property's appeal",
-      "answer": "amenities",
-      "answer_letters": "AMENITIES",
+      "clue": "Jailhouse residents.",
+      "answer": "inmates",
+      "answer_letters": "INMATES",
       "indices": [
-        124,
-        34,
-        10,
-        20,
-        0,
-        96,
-        156,
-        164,
-        25
+        50,
+        53,
+        51,
+        24,
+        65,
+        76,
+        60
       ]
     },
     {
@@ -222,69 +55,236 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        11,
-        35,
-        63,
+        170,
+        153,
+        15,
+        40,
+        98,
+        139
+      ]
+    },
+    {
+      "clue": "Verb describing what happens to a guillotined person.",
+      "answer": "beheaded",
+      "answer_letters": "BEHEADED",
+      "indices": [
+        163,
+        145,
         126,
-        90,
+        140,
+        91,
+        171,
+        12,
+        80
+      ]
+    },
+    {
+      "clue": "Possesses rank within an organization.",
+      "answer": "officer",
+      "answer_letters": "OFFICER",
+      "indices": [
+        43,
+        55,
+        82,
+        86,
+        92,
+        113,
+        132
+      ]
+    },
+    {
+      "clue": "What Salem was known for in colonial days.",
+      "answer": "witches",
+      "answer_letters": "WITCHES",
+      "indices": [
+        112,
+        38,
+        155,
+        125,
+        130,
+        103,
+        49
+      ]
+    },
+    {
+      "clue": "Comparisons such as 3:1 or 4:5 are common expressions.",
+      "answer": "ratios",
+      "answer_letters": "RATIOS",
+      "indices": [
+        6,
+        68,
+        61,
+        54,
+        52,
+        42
+      ]
+    },
+    {
+      "clue": "Broad examination without detail.",
+      "answer": "overview",
+      "answer_letters": "OVERVIEW",
+      "indices": [
+        14,
+        146,
+        27,
+        104,
+        87,
+        156,
+        16,
         23
       ]
     },
     {
-      "clue": "Where the record needle rests.",
-      "answer": "groove",
-      "answer_letters": "GROOVE",
+      "clue": "Shakespearean synonym for prudence.",
+      "answer": "wisdom",
+      "answer_letters": "WISDOM",
       "indices": [
-        73,
-        45,
-        136,
-        83,
-        152,
-        147
-      ]
-    },
-    {
-      "clue": "Port city in Suffolk, England",
-      "answer": "ipswich",
-      "answer_letters": "IPSWICH",
-      "indices": [
+        37,
         33,
-        9,
-        138,
-        57,
-        54,
-        92,
-        97
+        115,
+        18,
+        120,
+        34
       ]
     },
     {
-      "clue": "Advocate for gradual improvement rather than revolution.",
-      "answer": "reformist",
-      "answer_letters": "REFORMIST",
+      "clue": "Become more complex",
+      "answer": "evolve",
+      "answer_letters": "EVOLVE",
+      "indices": [
+        88,
+        102,
+        136,
+        13,
+        152,
+        117
+      ]
+    },
+    {
+      "clue": "Home of Bach, Mendelssohn, and Wagner.",
+      "answer": "leipzig",
+      "answer_letters": "LEIPZIG",
+      "indices": [
+        71,
+        110,
+        108,
+        69,
+        75,
+        46,
+        73
+      ]
+    },
+    {
+      "clue": "\"The Society Dance King\"  ____ Lanin",
+      "answer": "lester",
+      "answer_letters": "LESTER",
+      "indices": [
+        141,
+        101,
+        3,
+        32,
+        131,
+        167
+      ]
+    },
+    {
+      "clue": "Number one in importance or rank.",
+      "answer": "foremost",
+      "answer_letters": "FOREMOST",
+      "indices": [
+        166,
+        62,
+        45,
+        169,
+        29,
+        66,
+        172,
+        129
+      ]
+    },
+    {
+      "clue": "Something else.",
+      "answer": "another",
+      "answer_letters": "ANOTHER",
+      "indices": [
+        124,
+        20,
+        4,
+        96,
+        97,
+        10,
+        5
+      ]
+    },
+    {
+      "clue": "Up-to-date or modern.",
+      "answer": "newest",
+      "answer_letters": "NEWEST",
+      "indices": [
+        11,
+        35,
+        57,
+        90,
+        138,
+        160
+      ]
+    },
+    {
+      "clue": "Faust's author.",
+      "answer": "goethe",
+      "answer_letters": "GOETHE",
+      "indices": [
+        85,
+        72,
+        47,
+        107,
+        150,
+        123
+      ]
+    },
+    {
+      "clue": "Enforce or apply (something)",
+      "answer": "impose",
+      "answer_letters": "IMPOSE",
+      "indices": [
+        0,
+        157,
+        63,
+        128,
+        25,
+        164
+      ]
+    },
+    {
+      "clue": "Archive or collection of things.",
+      "answer": "repository",
+      "answer_letters": "REPOSITORY",
       "indices": [
         84,
         158,
-        55,
+        9,
         19,
-        99,
-        157,
-        168,
         48,
-        21
+        168,
+        21,
+        70,
+        99,
+        105
       ]
     },
     {
-      "clue": "Not a right-winger.",
-      "answer": "leftist",
-      "answer_letters": "LEFTIST",
+      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
       "indices": [
-        13,
-        137,
-        82,
-        129,
-        50,
-        115,
-        26
+        142,
+        30,
+        109,
+        118,
+        93,
+        83,
+        1,
+        78
       ]
     }
   ],

@@ -5,291 +5,291 @@
   "source_letters": "NEALASHERPOLITYAGENT",
   "clues": [
     {
-      "clue": "Famous actor and director Paul ____.",
-      "answer": "newman",
-      "answer_letters": "NEWMAN",
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
         86,
-        53,
-        31,
-        120,
-        150,
-        122
-      ]
-    },
-    {
-      "clue": "Gave off, like radioactive particles or heat from a flame.",
-      "answer": "emitted",
-      "answer_letters": "EMITTED",
-      "indices": [
+        11,
+        163,
+        98,
         99,
-        64,
-        5,
-        13,
-        97,
-        29,
-        171
+        31
       ]
     },
     {
-      "clue": "Active support for a particular cause.",
-      "answer": "advocacy",
-      "answer_letters": "ADVOCACY",
+      "clue": "Hides from the enemy, in a way",
+      "answer": "encodes",
+      "answer_letters": "ENCODES",
       "indices": [
-        147,
-        142,
-        137,
-        9,
+        91,
+        6,
         43,
-        126,
-        103,
-        75
+        9,
+        171,
+        141,
+        3
       ]
     },
     {
-      "clue": "Famous civil rights activist and leader of the Protestant Reformation.",
-      "answer": "luther",
-      "answer_letters": "LUTHER",
+      "clue": "Lie in wait for prey or foes.",
+      "answer": "ambush",
+      "answer_letters": "AMBUSH",
       "indices": [
-        74,
-        70,
-        24,
-        118,
-        160,
-        139
+        37,
+        120,
+        144,
+        107,
+        45,
+        1
       ]
     },
     {
-      "clue": "To successfully complete a task or goal.",
-      "answer": "accomplish",
-      "answer_letters": "ACCOMPLISH",
+      "clue": "Weapon is ready to fire.",
+      "answer": "loaded",
+      "answer_letters": "LOADED",
       "indices": [
-        81,
-        106,
-        151,
-        136,
-        10,
-        27,
-        132,
-        71,
+        88,
+        131,
+        147,
+        161,
+        170,
+        142
+      ]
+    },
+    {
+      "clue": "Formally written to an individual.",
+      "answer": "addressed",
+      "answer_letters": "ADDRESSED",
+      "indices": [
+        22,
+        39,
+        92,
+        38,
+        52,
+        83,
         114,
-        128
+        138,
+        54
       ]
     },
     {
-      "clue": "Country music artist and coach on The Voice.",
-      "answer": "shelton",
-      "answer_letters": "SHELTON",
+      "clue": "Esteemed actor with Middle Eastern roots.",
+      "answer": "sharif",
+      "answer_letters": "SHARIF",
       "indices": [
         174,
-        166,
-        33,
-        79,
-        110,
-        59,
-        172
+        36,
+        121,
+        139,
+        82,
+        149
       ]
     },
     {
-      "clue": "Recognition for achievements or accomplishments.",
-      "answer": "honors",
-      "answer_letters": "HONORS",
+      "clue": "A brand synonymous with festive expressions of love and friendship.",
+      "answer": "hallmark",
+      "answer_letters": "HALLMARK",
       "indices": [
-        36,
-        131,
-        51,
-        153,
-        25,
+        118,
+        77,
+        132,
+        79,
+        8,
+        168,
+        101,
+        73
+      ]
+    },
+    {
+      "clue": "Multiple releases of a literary work.",
+      "answer": "editions",
+      "answer_letters": "EDITIONS",
+      "indices": [
+        33,
+        169,
+        71,
+        152,
+        94,
+        112,
+        172,
         23
       ]
     },
     {
-      "clue": "Fair and just to all parties involved.",
-      "answer": "equitable",
-      "answer_letters": "EQUITABLE",
+      "clue": "Advise as suitable or likely",
+      "answer": "recommend",
+      "answer_letters": "RECOMMEND",
       "indices": [
+        154,
         62,
-        69,
-        119,
-        94,
-        152,
-        20,
-        144,
-        78,
-        67
+        151,
+        136,
+        10,
+        64,
+        67,
+        51,
+        124
       ]
     },
     {
-      "clue": "A puzzling question or statement meant to be solved or explained.",
-      "answer": "riddle",
-      "answer_letters": "RIDDLE",
+      "clue": "Al fresco meal.",
+      "answer": "picnic",
+      "answer_letters": "PICNIC",
       "indices": [
-        38,
+        27,
         100,
-        169,
-        124,
-        88,
-        55
-      ]
-    },
-    {
-      "clue": "A mailed item sealed for delivery.",
-      "answer": "package",
-      "answer_letters": "PACKAGE",
-      "indices": [
-        163,
-        22,
         72,
-        73,
-        121,
-        165,
-        170
-      ]
-    },
-    {
-      "clue": "A place where Dunder Mifflin employees work.",
-      "answer": "offices",
-      "answer_letters": "OFFICES",
-      "indices": [
-        26,
-        17,
-        149,
+        140,
         46,
-        87,
-        42,
-        14
+        87
       ]
     },
     {
-      "clue": "Natural disasters caused by the movement of earth and rocks down a slope.",
-      "answer": "landslides",
-      "answer_letters": "LANDSLIDES",
+      "clue": "A way of relieving pressure or stress.",
+      "answer": "outlet",
+      "answer_letters": "OUTLET",
       "indices": [
-        105,
-        104,
-        48,
-        92,
-        49,
-        133,
-        82,
-        54,
-        138,
-        83
+        59,
+        70,
+        24,
+        78,
+        55,
+        21
       ]
     },
     {
-      "clue": "Released for public distribution.",
-      "answer": "issued",
-      "answer_letters": "ISSUED",
+      "clue": "Garbage dump.",
+      "answer": "landfill",
+      "answer_letters": "LANDFILL",
+      "indices": [
+        158,
+        20,
+        48,
+        66,
+        17,
+        164,
+        105,
+        133
+      ]
+    },
+    {
+      "clue": "Absolutely!",
+      "answer": "indeed",
+      "answer_letters": "INDEED",
       "indices": [
         111,
-        45,
-        3,
-        107,
-        91,
-        161
-      ]
-    },
-    {
-      "clue": "A genre of metal music known for its aggressive sound.",
-      "answer": "thrash",
-      "answer_letters": "THRASH",
-      "indices": [
-        130,
-        98,
-        154,
-        37,
-        175,
-        28
-      ]
-    },
-    {
-      "clue": "A southwestern province of China known for its diverse geography.",
-      "answer": "yunnan",
-      "answer_letters": "YUNNAN",
-      "indices": [
-        145,
-        2,
-        140,
         113,
-        168,
-        6
-      ]
-    },
-    {
-      "clue": "The process of distributing resources.",
-      "answer": "allocation",
-      "answer_letters": "ALLOCATION",
-      "indices": [
-        157,
-        159,
-        158,
-        47,
-        156,
-        116,
-        127,
-        164,
-        112,
-        12
-      ]
-    },
-    {
-      "clue": "Assisted in heading the right way.",
-      "answer": "guided",
-      "answer_letters": "GUIDED",
-      "indices": [
-        135,
-        89,
-        44,
         90,
-        11,
+        42,
+        160,
         41
       ]
     },
     {
-      "clue": "Fixed within.",
-      "answer": "embedded",
-      "answer_letters": "EMBEDDED",
+      "clue": "Methods for achieving a goal.",
+      "answer": "techniques",
+      "answer_letters": "TECHNIQUES",
+      "indices": [
+        130,
+        29,
+        103,
+        28,
+        122,
+        5,
+        69,
+        89,
+        53,
+        175
+      ]
+    },
+    {
+      "clue": "Types of leisure vessels.",
+      "answer": "yachts",
+      "answer_letters": "YACHTS",
+      "indices": [
+        145,
+        150,
+        19,
+        32,
+        13,
+        14
+      ]
+    },
+    {
+      "clue": "Cascading snow disaster.",
+      "answer": "avalanche",
+      "answer_letters": "AVALANCHE",
+      "indices": [
+        116,
+        137,
+        104,
+        159,
+        81,
+        12,
+        106,
+        166,
+        125
+      ]
+    },
+    {
+      "clue": "Blameworthy.",
+      "answer": "guilty",
+      "answer_letters": "GUILTY",
+      "indices": [
+        135,
+        2,
+        44,
+        74,
+        97,
+        75
+      ]
+    },
+    {
+      "clue": "Descriptive of schools and universities.",
+      "answer": "educational",
+      "answer_letters": "EDUCATIONAL",
       "indices": [
         173,
-        8,
-        61,
-        125,
         56,
-        66,
-        52,
-        39
+        119,
+        156,
+        65,
+        110,
+        85,
+        47,
+        34,
+        157,
+        108
       ]
     },
     {
-      "clue": "Major French newspaper.",
-      "answer": "nationale",
-      "answer_letters": "NATIONALE",
+      "clue": "Opposite of southwest on a compass.",
+      "answer": "northeast",
+      "answer_letters": "NORTHEAST",
       "indices": [
         95,
-        109,
-        0,
-        85,
         16,
-        34,
-        65,
-        108,
-        167
+        25,
+        0,
+        128,
+        167,
+        109,
+        49,
+        127
       ]
     },
     {
-      "clue": "British Prime Minister who served during the 1980s.",
-      "answer": "thatcher",
-      "answer_letters": "THATCHER",
+      "clue": "A Caribbean island with Trinidad.",
+      "answer": "tobago",
+      "answer_letters": "TOBAGO",
       "indices": [
-        21,
-        32,
-        77,
         58,
-        19,
-        1,
-        141,
-        101
+        153,
+        61,
+        126,
+        165,
+        26
       ]
     }
   ],

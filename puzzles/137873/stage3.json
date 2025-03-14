@@ -5,307 +5,307 @@
   "source_letters": "IDRIESSHAHREFLECTIONS",
   "clues": [
     {
-      "clue": "Encroached upon territory.",
-      "answer": "invaded",
-      "answer_letters": "INVADED",
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
       "indices": [
-        96,
+        123,
+        80,
+        92,
+        177,
         191,
-        86,
-        103,
-        136,
-        84,
-        60
+        112
       ]
     },
     {
-      "clue": "Blemish that diminishes value.",
-      "answer": "defect",
-      "answer_letters": "DEFECT",
+      "clue": "Not improved over time.",
+      "answer": "deteriorated",
+      "answer_letters": "DETERIORATED",
       "indices": [
         29,
-        55,
-        132,
         167,
-        11,
-        188
-      ]
-    },
-    {
-      "clue": "Contextual nods within a speech.",
-      "answer": "references",
-      "answer_letters": "REFERENCES",
-      "indices": [
-        130,
-        93,
-        178,
-        120,
-        27,
-        42,
-        111,
-        83,
-        24,
-        76
-      ]
-    },
-    {
-      "clue": "Suffering from disability",
-      "answer": "impaired",
-      "answer_letters": "IMPAIRED",
-      "indices": [
-        185,
-        138,
-        7,
-        139,
-        50,
-        58,
+        109,
         115,
+        46,
+        15,
+        117,
+        58,
+        64,
+        20,
+        5,
         95
       ]
     },
     {
-      "clue": "Titans of a realm, such as Napoleon or Charlemagne.",
-      "answer": "emperors",
-      "answer_letters": "EMPERORS",
+      "clue": "Far-off or distant in location.",
+      "answer": "remote",
+      "answer_letters": "REMOTE",
+      "indices": [
+        130,
+        24,
+        63,
+        159,
+        126,
+        78
+      ]
+    },
+    {
+      "clue": "Port city in Suffolk, England",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        185,
+        7,
+        51,
+        142,
+        50,
+        11,
+        114
+      ]
+    },
+    {
+      "clue": "Highly skilled and influential members of society.",
+      "answer": "elites",
+      "answer_letters": "ELITES",
       "indices": [
         135,
-        63,
-        80,
+        153,
+        30,
+        34,
         149,
-        170,
-        159,
-        82,
-        104
+        150
       ]
     },
     {
-      "clue": "US airline known for budget flights.",
-      "answer": "southwest",
-      "answer_letters": "SOUTHWEST",
+      "clue": "Local authority figure, often with the power to make arrests.",
+      "answer": "sheriff",
+      "answer_letters": "SHERIFF",
       "indices": [
-        150,
-        6,
-        28,
-        174,
-        143,
-        67,
-        77,
         47,
-        40
+        143,
+        77,
+        21,
+        96,
+        184,
+        44
       ]
     },
     {
-      "clue": "Toward the Antarctic.",
-      "answer": "southwards",
-      "answer_letters": "SOUTHWARDS",
+      "clue": "Antonym for northbound.",
+      "answer": "southward",
+      "answer_letters": "SOUTHWARD",
       "indices": [
-        19,
-        110,
+        187,
+        38,
         163,
-        23,
+        31,
         181,
-        142,
-        97,
-        156,
-        101,
-        51
+        1,
+        139,
+        186,
+        101
       ]
     },
     {
-      "clue": "He was a director of Poltergeist.",
-      "answer": "hooper",
-      "answer_letters": "HOOPER",
+      "clue": "A golden age or flourishing period.",
+      "answer": "heyday",
+      "answer_letters": "HEYDAY",
       "indices": [
         41,
-        162,
-        38,
-        4,
-        61,
-        186
-      ]
-    },
-    {
-      "clue": "Increasingly used in manufacturing to improve efficiency.",
-      "answer": "automation",
-      "answer_letters": "AUTOMATION",
-      "indices": [
+        42,
+        161,
+        136,
         22,
-        18,
-        31,
-        99,
-        70,
-        147,
+        32
+      ]
+    },
+    {
+      "clue": "Verified through evidence",
+      "answer": "attested",
+      "answer_letters": "ATTESTED",
+      "indices": [
+        97,
         48,
-        30,
-        69,
-        100
-      ]
-    },
-    {
-      "clue": "Sport that features a rink and nets.",
-      "answer": "hockey",
-      "answer_letters": "HOCKEY",
-      "indices": [
-        119,
-        144,
-        57,
-        148,
-        154,
-        37
-      ]
-    },
-    {
-      "clue": "Accompanied by a beat",
-      "answer": "rhythmic",
-      "answer_letters": "RHYTHMIC",
-      "indices": [
-        46,
-        127,
-        175,
-        91,
-        166,
-        98,
-        15,
-        26
-      ]
-    },
-    {
-      "clue": "Deserving of respect or recognition; having a legitimate claim.",
-      "answer": "entitled",
-      "answer_letters": "ENTITLED",
-      "indices": [
-        78,
-        65,
         118,
-        45,
+        93,
+        104,
         165,
-        8,
-        182,
+        120,
         172
       ]
     },
     {
-      "clue": "Where Citi Field, home to the Mets, is located.",
-      "answer": "flushing",
-      "answer_letters": "FLUSHING",
+      "clue": "Remarkably big.",
+      "answer": "hugely",
+      "answer_letters": "HUGELY",
       "indices": [
-        184,
-        153,
-        39,
-        108,
-        68,
-        85,
-        13,
-        89
+        119,
+        18,
+        89,
+        61,
+        16,
+        37
       ]
     },
     {
-      "clue": "Not a right-winger.",
-      "answer": "leftist",
-      "answer_letters": "LEFTIST",
+      "clue": "East Yorkshire town, known for steel and glass works.",
+      "answer": "rotherham",
+      "answer_letters": "ROTHERHAM",
       "indices": [
-        17,
-        192,
-        44,
-        126,
-        123,
-        187,
-        0
-      ]
-    },
-    {
-      "clue": "Can imply choice between two options.",
-      "answer": "either",
-      "answer_letters": "EITHER",
-      "indices": [
-        5,
-        87,
-        109,
-        114,
+        121,
+        110,
+        158,
+        127,
         131,
-        121
+        156,
+        166,
+        12,
+        98
       ]
     },
     {
-      "clue": "It was featured in films like \"Dances With Wolves.\"",
-      "answer": "cheyenne",
-      "answer_letters": "CHEYENNE",
+      "clue": "Teaching and learning process.",
+      "answer": "education",
+      "answer_letters": "EDUCATION",
       "indices": [
-        169,
-        92,
-        81,
-        161,
-        112,
-        140,
-        134,
-        9
-      ]
-    },
-    {
-      "clue": "They manufacture Corollas.",
-      "answer": "toyota",
-      "answer_letters": "TOYOTA",
-      "indices": [
-        53,
+        182,
+        60,
+        39,
+        26,
+        147,
+        0,
+        87,
         2,
-        32,
-        73,
-        34,
-        106
+        65
       ]
     },
     {
-      "clue": "Where Leonardo da Vinci was born.",
-      "answer": "italia",
-      "answer_letters": "ITALIA",
+      "clue": "Language taught at the Sorbonne.",
+      "answer": "french",
+      "answer_letters": "FRENCH",
+      "indices": [
+        132,
+        27,
+        192,
+        13,
+        57,
+        68
+      ]
+    },
+    {
+      "clue": "Type arrangement on a page.",
+      "answer": "layout",
+      "answer_letters": "LAYOUT",
+      "indices": [
+        8,
+        106,
+        72,
+        73,
+        171,
+        53
+      ]
+    },
+    {
+      "clue": "Characteristic of something that bears the same name.",
+      "answer": "eponymous",
+      "answer_letters": "EPONYMOUS",
+      "indices": [
+        154,
+        4,
+        144,
+        111,
+        175,
+        138,
+        99,
+        59,
+        76
+      ]
+    },
+    {
+      "clue": "Downtown neighborhood in Cincinnati.",
+      "answer": "clifton",
+      "answer_letters": "CLIFTON",
+      "indices": [
+        83,
+        17,
+        45,
+        178,
+        113,
+        190,
+        140
+      ]
+    },
+    {
+      "clue": "German-derived adjective",
+      "answer": "teutonic",
+      "answer_letters": "TEUTONIC",
+      "indices": [
+        174,
+        81,
+        28,
+        40,
+        35,
+        134,
+        85,
+        169
+      ]
+    },
+    {
+      "clue": "These are places for research and study.",
+      "answer": "institutes",
+      "answer_letters": "INSTITUTES",
       "indices": [
         133,
+        100,
+        124,
         180,
-        64,
-        16,
         173,
-        12
+        188,
+        74,
+        91,
+        55,
+        19
       ]
     },
     {
-      "clue": "A possible result, as in gambling or decision-making.",
-      "answer": "outcome",
-      "answer_letters": "OUTCOME",
+      "clue": "Bested a challenge.",
+      "answer": "overcame",
+      "answer_letters": "OVERCAME",
       "indices": [
-        190,
-        171,
-        113,
+        6,
+        86,
+        9,
+        170,
         152,
-        35,
+        103,
         146,
-        128
+        84
       ]
     },
     {
-      "clue": "King Harald's realm.",
-      "answer": "norway",
-      "answer_letters": "NORWAY",
+      "clue": "Site of a major airport in NJ.",
+      "answer": "newark",
+      "answer_letters": "NEWARK",
       "indices": [
         88,
-        177,
-        21,
-        1,
+        128,
+        67,
         155,
-        72
+        82,
+        148
       ]
     },
     {
-      "clue": "Soccer goalie's dream.",
-      "answer": "shutout",
-      "answer_letters": "SHUTOUT",
+      "clue": "Unbumpy surface.",
+      "answer": "smooth",
+      "answer_letters": "SMOOTH",
       "indices": [
-        124,
-        54,
-        74,
-        20,
-        117,
-        59,
-        158
+        108,
+        70,
+        69,
+        162,
+        23,
+        54
       ]
     }
   ],

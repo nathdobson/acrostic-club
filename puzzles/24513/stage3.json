@@ -5,259 +5,19 @@
   "source_letters": "PEACEGYPSYSOULSDEEP",
   "clues": [
     {
-      "clue": "BFF of Rachel Green on a certain sitcom.",
-      "answer": "phoebe",
-      "answer_letters": "PHOEBE",
+      "clue": "Concise printed materials for quick information dissemination.",
+      "answer": "pamphlets",
+      "answer_letters": "PAMPHLETS",
       "indices": [
+        114,
+        176,
+        14,
         146,
         99,
-        42,
-        39,
-        117,
-        149
-      ]
-    },
-    {
-      "clue": "To meet unexpectedly",
-      "answer": "encounter",
-      "answer_letters": "ENCOUNTER",
-      "indices": [
-        26,
-        54,
-        22,
-        1,
-        170,
-        101,
+        46,
+        149,
         33,
-        167,
-        60
-      ]
-    },
-    {
-      "clue": "Sports stars, in short.",
-      "answer": "athletes",
-      "answer_letters": "ATHLETES",
-      "indices": [
-        13,
-        71,
-        0,
-        185,
-        57,
-        98,
-        12,
-        141
-      ]
-    },
-    {
-      "clue": "Pursued by fear or opportunity.",
-      "answer": "chased",
-      "answer_letters": "CHASED",
-      "indices": [
-        106,
-        20,
-        73,
-        159,
-        47,
-        168
-      ]
-    },
-    {
-      "clue": "Involving nature's wellbeing.",
-      "answer": "environmental",
-      "answer_letters": "ENVIRONMENTAL",
-      "indices": [
-        193,
-        51,
-        192,
-        157,
-        137,
-        16,
-        129,
-        14,
-        88,
-        82,
-        48,
-        176,
-        46
-      ]
-    },
-    {
-      "clue": "A parting phrase.",
-      "answer": "goodbye",
-      "answer_letters": "GOODBYE",
-      "indices": [
-        102,
-        68,
-        34,
-        41,
-        182,
-        134,
-        97
-      ]
-    },
-    {
-      "clue": "Olden port city in England.",
-      "answer": "yarmouth",
-      "answer_letters": "YARMOUTH",
-      "indices": [
-        52,
-        128,
-        118,
-        96,
-        29,
-        69,
-        44,
-        112
-      ]
-    },
-    {
-      "clue": "Growth or spread of something, such as plants or ideas.",
-      "answer": "propagation",
-      "answer_letters": "PROPAGATION",
-      "indices": [
-        2,
-        11,
-        187,
-        145,
-        183,
-        31,
-        144,
-        74,
-        100,
-        133,
-        30
-      ]
-    },
-    {
-      "clue": "Act of revealing or presenting something.",
-      "answer": "showing",
-      "answer_letters": "SHOWING",
-      "indices": [
-        94,
-        143,
-        53,
-        25,
-        147,
-        120,
-        180
-      ]
-    },
-    {
-      "clue": "Opposite of black and blue.",
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
-      "indices": [
-        76,
-        59,
-        184,
-        162,
-        191,
-        19
-      ]
-    },
-    {
-      "clue": "Biblical day of rest",
-      "answer": "sabbath",
-      "answer_letters": "SABBATH",
-      "indices": [
-        150,
-        107,
-        104,
-        178,
-        81,
-        62,
-        36
-      ]
-    },
-    {
-      "clue": "Items placed at an altar.",
-      "answer": "offerings",
-      "answer_letters": "OFFERINGS",
-      "indices": [
-        77,
-        188,
-        17,
-        105,
-        92,
-        166,
-        148,
-        140,
-        122
-      ]
-    },
-    {
-      "clue": "Work done without compensation",
-      "answer": "unpaid",
-      "answer_letters": "UNPAID",
-      "indices": [
-        108,
-        139,
-        171,
-        161,
-        119,
-        155
-      ]
-    },
-    {
-      "clue": "Career or business as income source.",
-      "answer": "livelihood",
-      "answer_letters": "LIVELIHOOD",
-      "indices": [
-        190,
-        173,
-        38,
-        55,
-        28,
-        5,
-        85,
-        91,
-        86,
-        10
-      ]
-    },
-    {
-      "clue": "No formal education needed.",
-      "answer": "self-taught",
-      "answer_letters": "SELFTAUGHT",
-      "indices": [
-        151,
-        3,
-        64,
-        90,
-        158,
-        37,
-        78,
-        121,
-        23,
-        83
-      ]
-    },
-    {
-      "clue": "Ship or send out promptly.",
-      "answer": "dispatch",
-      "answer_letters": "DISPATCH",
-      "indices": [
-        130,
-        138,
-        6,
-        114,
-        50,
-        165,
-        80,
-        72
-      ]
-    },
-    {
-      "clue": "Has a liking for",
-      "answer": "enjoys",
-      "answer_letters": "ENJOYS",
-      "indices": [
-        115,
-        43,
-        124,
-        113,
-        67,
-        109
+        6
       ]
     },
     {
@@ -265,29 +25,269 @@
       "answer": "enjoyable",
       "answer_letters": "ENJOYABLE",
       "indices": [
-        63,
-        174,
-        132,
-        95,
-        126,
-        153,
-        136,
-        163,
-        110
+        167,
+        101,
+        124,
+        42,
+        52,
+        50,
+        117,
+        28,
+        39
       ]
     },
     {
-      "clue": "Temporary structure used for performances, typically outdoors.",
-      "answer": "pavilion",
-      "answer_letters": "PAVILION",
+      "clue": "Assimilate information or knowledge.",
+      "answer": "absorb",
+      "answer_letters": "ABSORB",
+      "indices": [
+        153,
+        136,
+        159,
+        68,
+        11,
+        182
+      ]
+    },
+    {
+      "clue": "Days of youth.",
+      "answer": "childhood",
+      "answer_letters": "CHILDHOOD",
+      "indices": [
+        106,
+        20,
+        166,
+        65,
+        168,
+        23,
+        34,
+        191,
+        41
+      ]
+    },
+    {
+      "clue": "Chemical formula: C2H5OH.",
+      "answer": "ethanol",
+      "answer_letters": "ETHANOL",
+      "indices": [
+        26,
+        48,
+        72,
+        161,
+        54,
+        1,
+        190
+      ]
+    },
+    {
+      "clue": "Concerning family history.",
+      "answer": "genealogical",
+      "answer_letters": "GENEALOGICAL",
+      "indices": [
+        102,
+        12,
+        30,
+        47,
+        13,
+        163,
+        133,
+        31,
+        119,
+        80,
+        73,
+        185
+      ]
+    },
+    {
+      "clue": "Culture and language spoken by many in southwestern Nigeria.",
+      "answer": "yoruba",
+      "answer_letters": "YORUBA",
+      "indices": [
+        67,
+        91,
+        92,
+        78,
+        104,
+        144
+      ]
+    },
+    {
+      "clue": "Dire straits.",
+      "answer": "plight",
+      "answer_letters": "PLIGHT",
+      "indices": [
+        145,
+        162,
+        5,
+        121,
+        112,
+        74
+      ]
+    },
+    {
+      "clue": "Those studied in class.",
+      "answer": "subjects",
+      "answer_letters": "SUBJECTS",
+      "indices": [
+        122,
+        170,
+        178,
+        132,
+        193,
+        22,
+        165,
+        94
+      ]
+    },
+    {
+      "clue": "Somerset town home to Huish Park.",
+      "answer": "yeovil",
+      "answer_letters": "YEOVIL",
+      "indices": [
+        126,
+        115,
+        29,
+        38,
+        173,
+        184
+      ]
+    },
+    {
+      "clue": "An expression of condolence.",
+      "answer": "sympathy",
+      "answer_letters": "SYMPATHY",
+      "indices": [
+        150,
+        134,
+        96,
+        171,
+        37,
+        158,
+        143,
+        76
+      ]
+    },
+    {
+      "clue": "A campus event for first-year students.",
+      "answer": "orientation",
+      "answer_letters": "ORIENTATION",
+      "indices": [
+        86,
+        137,
+        138,
+        59,
+        139,
+        83,
+        128,
+        44,
+        157,
+        53,
+        120
+      ]
+    },
+    {
+      "clue": "Asymmetrical appearance.",
+      "answer": "uneven",
+      "answer_letters": "UNEVEN",
+      "indices": [
+        69,
+        51,
+        3,
+        192,
+        105,
+        129
+      ]
+    },
+    {
+      "clue": "The German air force in WWII.",
+      "answer": "luftwaffe",
+      "answer_letters": "LUFTWAFFE",
+      "indices": [
+        64,
+        108,
+        90,
+        62,
+        19,
+        107,
+        188,
+        17,
+        55
+      ]
+    },
+    {
+      "clue": "In sports, often used to describe the best game or scoring outcome up to that point in the season.",
+      "answer": "season-high",
+      "answer_letters": "SEASONHIGH",
+      "indices": [
+        109,
+        97,
+        183,
+        151,
+        77,
+        148,
+        36,
+        147,
+        140,
+        85
+      ]
+    },
+    {
+      "clue": "Considered inferior after reevaluation.",
+      "answer": "downgraded",
+      "answer_letters": "DOWNGRADED",
+      "indices": [
+        155,
+        16,
+        25,
+        82,
+        180,
+        60,
+        81,
+        10,
+        88,
+        130
+      ]
+    },
+    {
+      "clue": "Managed by Rafael Benitez (as of early 2020s).",
+      "answer": "everton",
+      "answer_letters": "EVERTON",
+      "indices": [
+        110,
+        58,
+        57,
+        118,
+        98,
+        187,
+        43
+      ]
+    },
+    {
+      "clue": "Inhabitant of Africa's second-most populous country.",
+      "answer": "ethiopian",
+      "answer_letters": "ETHIOPIAN",
+      "indices": [
+        63,
+        71,
+        0,
+        21,
+        113,
+        2,
+        100,
+        8,
+        174
+      ]
+    },
+    {
+      "clue": "What you might use to deter pests, but handle with care.",
+      "answer": "poison",
+      "answer_letters": "POISON",
       "indices": [
         87,
-        8,
-        58,
-        179,
-        65,
-        21,
         125,
+        179,
+        141,
+        95,
         154
       ]
     }

@@ -5,309 +5,309 @@
   "source_letters": "VLADIMIRNABOKOVLOLITA",
   "clues": [
     {
-      "clue": "Folk religion of Haiti.",
-      "answer": "voodoo",
-      "answer_letters": "VOODOO",
+      "clue": "Powerful and full of life.",
+      "answer": "vigorous",
+      "answer_letters": "VIGOROUS",
       "indices": [
-        187,
-        191,
-        14,
-        165,
-        172,
-        4
-      ]
-    },
-    {
-      "clue": "Brewing capital of Belgium.",
-      "answer": "leuven",
-      "answer_letters": "LEUVEN",
-      "indices": [
-        37,
-        9,
-        173,
         39,
-        76,
-        77
+        141,
+        112,
+        191,
+        124,
+        14,
+        33,
+        148
       ]
     },
     {
-      "clue": "Kentucky city with an unusual mascot",
-      "answer": "ashland",
-      "answer_letters": "ASHLAND",
+      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "answer": "lymphoma",
+      "answer_letters": "LYMPHOMA",
       "indices": [
-        67,
-        81,
-        23,
         114,
+        50,
+        30,
+        27,
+        16,
+        4,
+        179,
+        43
+      ]
+    },
+    {
+      "clue": "Without geographic constraints.",
+      "answer": "anywhere",
+      "answer_letters": "ANYWHERE",
+      "indices": [
         25,
         111,
-        161
+        85,
+        146,
+        23,
+        188,
+        28,
+        155
       ]
     },
     {
-      "clue": "Held in custody",
-      "answer": "detained",
-      "answer_letters": "DETAINED",
+      "clue": "Supported or protected.",
+      "answer": "defended",
+      "answer_letters": "DEFENDED",
       "indices": [
         89,
-        128,
-        92,
-        88,
-        181,
+        6,
+        74,
+        169,
         60,
-        80,
-        116
+        116,
+        183,
+        175
       ]
     },
     {
-      "clue": "Translates programming code.",
-      "answer": "interpreter",
-      "answer_letters": "INTERPRETER",
+      "clue": "This period saw the rise of totalitarian regimes in Europe.",
+      "answer": "interwar",
+      "answer_letters": "INTERWAR",
       "indices": [
         95,
         174,
-        68,
-        17,
-        189,
-        27,
-        109,
-        40,
         15,
         137,
-        28
+        34,
+        20,
+        67,
+        189
       ]
     },
     {
-      "clue": "Establishments with curated exhibitions.",
-      "answer": "museums",
-      "answer_letters": "MUSEUMS",
+      "clue": "Believed to have sprung fully formed from Zeus's head.",
+      "answer": "minerva",
+      "answer_letters": "MINERVA",
       "indices": [
         42,
-        90,
-        70,
-        183,
-        123,
-        30,
-        86
-      ]
-    },
-    {
-      "clue": "Analyzed systematically and carefully.",
-      "answer": "investigated",
-      "answer_letters": "INVESTIGATED",
-      "indices": [
         21,
-        164,
+        144,
+        61,
+        83,
         96,
-        193,
-        98,
-        133,
-        150,
-        112,
-        10,
-        82,
-        46,
-        184
+        88
       ]
     },
     {
-      "clue": "Returned a call or letter.",
-      "answer": "responded",
-      "answer_letters": "RESPONDED",
+      "clue": "Encroached upon territory.",
+      "answer": "invaded",
+      "answer_letters": "INVADED",
+      "indices": [
+        150,
+        160,
+        187,
+        10,
+        47,
+        59,
+        165
+      ]
+    },
+    {
+      "clue": "A new version of an existing show.",
+      "answer": "reboot",
+      "answer_letters": "REBOOT",
       "indices": [
         18,
-        61,
-        63,
-        192,
+        178,
+        49,
+        158,
         38,
-        144,
-        120,
-        59,
-        47
+        82
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
-      "answer": "northwest",
-      "answer_letters": "NORTHWEST",
+      "clue": "Big Ten university in Evanston, Illinois.",
+      "answer": "northwestern",
+      "answer_letters": "NORTHWESTERN",
       "indices": [
-        160,
+        194,
         140,
         57,
         22,
-        168,
-        157,
-        178,
-        103,
-        75
+        12,
+        171,
+        186,
+        63,
+        75,
+        35,
+        177,
+        151
       ]
     },
     {
-      "clue": "Open-source web server software",
-      "answer": "apache",
-      "answer_letters": "APACHE",
+      "clue": "Attain a goal.",
+      "answer": "achieve",
+      "answer_letters": "ACHIEVE",
       "indices": [
         105,
-        139,
-        147,
         58,
-        136,
-        186
-      ]
-    },
-    {
-      "clue": "Adjective describing the color of dried tea leaves.",
-      "answer": "brownish",
-      "answer_letters": "BROWNISH",
-      "indices": [
-        49,
-        177,
-        84,
-        0,
-        194,
+        168,
         126,
-        107,
-        66
-      ]
-    },
-    {
-      "clue": "A stepping stone for many actors' careers.",
-      "answer": "off-broadway",
-      "answer_letters": "OFFBROADWAY",
-      "indices": [
-        110,
-        74,
-        54,
-        131,
-        34,
-        73,
-        115,
-        129,
-        146,
-        43,
-        85
-      ]
-    },
-    {
-      "clue": "Home to ancient Dilmun civilization.",
-      "answer": "kuwait",
-      "answer_letters": "KUWAIT",
-      "indices": [
-        45,
-        33,
-        20,
-        102,
-        55,
-        167
-      ]
-    },
-    {
-      "clue": "Path where you can't go back.",
-      "answer": "one-way",
-      "answer_letters": "ONEWAY",
-      "indices": [
-        143,
-        151,
         1,
-        101,
-        163,
-        50
-      ]
-    },
-    {
-      "clue": "Core beliefs that shape decisions.",
-      "answer": "values",
-      "answer_letters": "VALUES",
-      "indices": [
-        125,
-        31,
-        94,
-        132,
-        97,
-        142
-      ]
-    },
-    {
-      "clue": "Promising high profits.",
-      "answer": "lucrative",
-      "answer_letters": "LUCRATIVE",
-      "indices": [
-        91,
-        159,
-        11,
-        124,
-        118,
-        135,
-        141,
         5,
         29
       ]
     },
     {
-      "clue": "Various people besides you and I.",
-      "answer": "others",
-      "answer_letters": "OTHERS",
+      "clue": "Verb describing what happens to a guillotined person.",
+      "answer": "beheaded",
+      "answer_letters": "BEHEADED",
       "indices": [
-        71,
-        65,
-        16,
-        35,
-        44,
-        148
-      ]
-    },
-    {
-      "clue": "Bottom rank in a hierarchy.",
-      "answer": "lowest",
-      "answer_letters": "LOWEST",
-      "indices": [
-        3,
-        158,
-        171,
-        56,
-        122,
-        108
-      ]
-    },
-    {
-      "clue": "Heaped money into stocks.",
-      "answer": "invested",
-      "answer_letters": "INVESTED",
-      "indices": [
-        99,
-        119,
-        127,
-        6,
-        62,
-        32,
-        169,
-        175
-      ]
-    },
-    {
-      "clue": "Customized with a particular subject.",
-      "answer": "themed",
-      "answer_letters": "THEMED",
-      "indices": [
-        153,
-        154,
-        188,
-        179,
-        155,
+        131,
+        9,
+        136,
+        76,
+        147,
+        129,
+        17,
         7
       ]
     },
     {
-      "clue": "A state in South India.",
-      "answer": "andhra",
-      "answer_letters": "ANDHRA",
+      "clue": "Clarence, the infamous assassin of JFK.",
+      "answer": "oswald",
+      "answer_letters": "OSWALD",
+      "indices": [
+        172,
+        81,
+        0,
+        115,
+        37,
+        161
+      ]
+    },
+    {
+      "clue": "She was Hepburn's real last name.",
+      "answer": "katharine",
+      "answer_letters": "KATHARINE",
+      "indices": [
+        45,
+        102,
+        167,
+        66,
+        163,
+        44,
+        55,
+        77,
+        40
+      ]
+    },
+    {
+      "clue": "Results of a process or calculation.",
+      "answer": "outputs",
+      "answer_letters": "OUTPUTS",
+      "indices": [
+        143,
+        90,
+        135,
+        139,
+        123,
+        68,
+        107
+      ]
+    },
+    {
+      "clue": "Having a personal interest or stake in something.",
+      "answer": "vested",
+      "answer_letters": "VESTED",
+      "indices": [
+        125,
+        97,
+        142,
+        108,
+        56,
+        79
+      ]
+    },
+    {
+      "clue": "Within legal boundaries.",
+      "answer": "lawful",
+      "answer_letters": "LAWFUL",
+      "indices": [
+        3,
+        118,
+        157,
+        54,
+        159,
+        91
+      ]
+    },
+    {
+      "clue": "Ink-dispensing sea creature.",
+      "answer": "octopus",
+      "answer_letters": "OCTOPUS",
+      "indices": [
+        84,
+        11,
+        65,
+        71,
+        192,
+        132,
+        103
+      ]
+    },
+    {
+      "clue": "A synonym for foliage.",
+      "answer": "leaves",
+      "answer_letters": "LEAVES",
+      "indices": [
+        94,
+        128,
+        31,
+        127,
+        80,
+        122
+      ]
+    },
+    {
+      "clue": "Meant to be; destined for something.",
+      "answer": "intended",
+      "answer_letters": "INTENDED",
+      "indices": [
+        99,
+        119,
+        133,
+        193,
+        164,
+        184,
+        46,
+        120
+      ]
+    },
+    {
+      "clue": "Typical length of a podcast episode.",
+      "answer": "two-hour",
+      "answer_letters": "TWOHOUR",
+      "indices": [
+        153,
+        101,
+        110,
+        154,
+        73,
+        173,
+        109
+      ]
+    },
+    {
+      "clue": "Often a step below managers or executives.",
+      "answer": "assistants",
+      "answer_letters": "ASSISTANTS",
       "indices": [
         180,
+        62,
+        70,
+        181,
+        86,
+        92,
+        52,
         182,
-        79,
-        12,
-        83,
-        52
+        32,
+        98
       ]
     }
   ],

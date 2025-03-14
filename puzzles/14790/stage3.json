@@ -5,32 +5,31 @@
   "source_letters": "SARAHDESSENJUSTLISTEN",
   "clues": [
     {
-      "clue": "A winter pastime on ice.",
-      "answer": "skating",
-      "answer_letters": "SKATING",
+      "clue": "Logistics and transport of goods by sea, air, or land.",
+      "answer": "shipping",
+      "answer_letters": "SHIPPING",
       "indices": [
-        149,
-        81,
-        130,
-        75,
+        122,
+        30,
+        117,
+        129,
+        160,
         0,
-        148,
+        96,
         69
       ]
     },
     {
-      "clue": "Repetitions aiming for success.",
-      "answer": "attempts",
-      "answer_letters": "ATTEMPTS",
+      "clue": "First name of actress Tisdale",
+      "answer": "ashley",
+      "answer_letters": "ASHLEY",
       "indices": [
         158,
-        132,
-        43,
-        161,
-        61,
-        50,
-        97,
-        12
+        12,
+        150,
+        143,
+        142,
+        165
       ]
     },
     {
@@ -39,7 +38,7 @@
       "answer_letters": "REBOOT",
       "indices": [
         14,
-        139,
+        42,
         106,
         7,
         37,
@@ -47,255 +46,256 @@
       ]
     },
     {
-      "clue": "Crafted a book or article.",
-      "answer": "authored",
-      "answer_letters": "AUTHORED",
+      "clue": "Under tutelage",
+      "answer": "apprenticed",
+      "answer_letters": "APPRENTICED",
       "indices": [
         101,
-        49,
-        65,
-        157,
-        80,
+        159,
+        50,
         141,
-        64,
+        139,
+        68,
+        65,
+        146,
+        108,
+        161,
         169
       ]
     },
     {
-      "clue": "Commonly seen in moorland scenery",
-      "answer": "heather",
-      "answer_letters": "HEATHER",
+      "clue": "18th-century geologist who influenced Lyell",
+      "answer": "hutton",
+      "answer_letters": "HUTTON",
       "indices": [
-        150,
-        42,
-        144,
-        89,
         138,
-        142,
-        39
+        125,
+        132,
+        43,
+        114,
+        102
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
-      "answer": "dwight",
-      "answer_letters": "DWIGHT",
+      "clue": "Ruinate utterly.",
+      "answer": "destroy",
+      "answer_letters": "DESTROY",
       "indices": [
         94,
-        174,
-        179,
-        47,
-        90,
-        44
-      ]
-    },
-    {
-      "clue": "Sun or moon is obscured.",
-      "answer": "eclipse",
-      "answer_letters": "ECLIPSE",
-      "indices": [
-        107,
-        99,
-        18,
-        67,
-        160,
-        122,
-        52
-      ]
-    },
-    {
-      "clue": "Entry points for data collection.",
-      "answer": "sources",
-      "answer_letters": "SOURCES",
-      "indices": [
-        3,
-        166,
-        34,
-        56,
-        21,
-        170,
-        51
-      ]
-    },
-    {
-      "clue": "Music streaming service.",
-      "answer": "spotify",
-      "answer_letters": "SPOTIFY",
-      "indices": [
-        24,
-        72,
-        114,
-        176,
-        151,
-        135,
+        112,
+        78,
+        97,
+        39,
+        55,
         83
       ]
     },
     {
-      "clue": "Cultural group belonging.",
-      "answer": "ethnicity",
-      "answer_letters": "ETHNICITY",
+      "clue": "Result of a cause.",
+      "answer": "effect",
+      "answer_letters": "EFFECT",
       "indices": [
-        9,
-        58,
-        177,
-        102,
-        154,
-        108,
-        11,
-        66,
-        92
-      ]
-    },
-    {
-      "clue": "Meriting consideration or remark.",
-      "answer": "noteworthy",
-      "answer_letters": "NOTEWORTHY",
-      "indices": [
-        8,
-        4,
-        127,
-        25,
-        27,
-        134,
-        131,
-        53,
-        30,
-        36
-      ]
-    },
-    {
-      "clue": "Became part of a group",
-      "answer": "joined",
-      "answer_letters": "JOINED",
-      "indices": [
-        124,
-        147,
-        45,
-        86,
-        6,
-        87
-      ]
-    },
-    {
-      "clue": "Strange, out of the norm.",
-      "answer": "unusual",
-      "answer_letters": "UNUSUAL",
-      "indices": [
-        167,
-        46,
-        71,
-        126,
-        38,
-        85,
-        17
-      ]
-    },
-    {
-      "clue": "Things to admire or look at.",
-      "answer": "sights",
-      "answer_letters": "SIGHTS",
-      "indices": [
-        78,
-        146,
-        41,
-        100,
-        137,
-        163
-      ]
-    },
-    {
-      "clue": "Celebrated designer of jewelry, born in 1848.",
-      "answer": "tiffany",
-      "answer_letters": "TIFFANY",
-      "indices": [
-        145,
-        120,
+        52,
         115,
         1,
-        16,
-        96,
+        25,
+        99,
+        127
+      ]
+    },
+    {
+      "clue": "Describes something required by law",
+      "answer": "statutory",
+      "answer_letters": "STATUTORY",
+      "indices": [
+        149,
+        66,
+        109,
+        121,
+        34,
+        118,
+        23,
+        131,
         32
       ]
     },
     {
-      "clue": "Name of a Jesuit university.",
-      "answer": "loyola",
-      "answer_letters": "LOYOLA",
+      "clue": "How one might express frustration on the road",
+      "answer": "shouting",
+      "answer_letters": "SHOUTING",
       "indices": [
-        22,
-        33,
-        19,
-        23,
-        172,
-        109
+        126,
+        100,
+        166,
+        110,
+        137,
+        151,
+        86,
+        41
       ]
     },
     {
-      "clue": "Enforce or apply (something)",
-      "answer": "impose",
-      "answer_letters": "IMPOSE",
+      "clue": "In some states they can be bound by primary results.",
+      "answer": "electors",
+      "answer_letters": "ELECTORS",
       "indices": [
-        117,
+        91,
+        17,
+        15,
+        21,
+        176,
+        33,
+        56,
+        3
+      ]
+    },
+    {
+      "clue": "The first name of the Soviet Union's famous general secretary during the Cuban Missile Crisis.",
+      "answer": "nikita",
+      "answer_letters": "NIKITA",
+      "indices": [
+        8,
+        120,
+        81,
+        67,
+        53,
+        16
+      ]
+    },
+    {
+      "clue": "Name of Caesar.",
+      "answer": "julius",
+      "answer_letters": "JULIUS",
+      "indices": [
+        124,
+        167,
+        22,
+        11,
+        71,
+        73
+      ]
+    },
+    {
+      "clue": "Historic Arab dynasty.",
+      "answer": "umayyad",
+      "answer_letters": "UMAYYAD",
+      "indices": [
+        38,
+        61,
+        85,
+        92,
+        19,
+        82,
+        87
+      ]
+    },
+    {
+      "clue": "The direction opposite northwest",
+      "answer": "southeast",
+      "answer_letters": "SOUTHEAST",
+      "indices": [
+        163,
+        147,
+        49,
+        89,
+        90,
+        9,
+        171,
+        24,
+        44
+      ]
+    },
+    {
+      "clue": "Dual-directional.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        145,
+        174,
+        134,
+        27,
+        130,
+        36
+      ]
+    },
+    {
+      "clue": "Age from infancy to demise.",
+      "answer": "lifetime",
+      "answer_letters": "LIFETIME",
+      "indices": [
+        18,
+        45,
+        135,
+        170,
+        75,
+        77,
         5,
-        129,
-        95,
-        73,
         60
       ]
     },
     {
-      "clue": "Provide or furnish.",
-      "answer": "supply",
-      "answer_letters": "SUPPLY",
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        28,
+        72,
+        59,
+        4,
+        148,
+        107
+      ]
+    },
+    {
+      "clue": "Given name for an intelligent young girl.",
+      "answer": "sophie",
+      "answer_letters": "SOPHIE",
       "indices": [
         111,
-        125,
+        80,
         152,
-        159,
-        143,
-        165
+        157,
+        179,
+        64
       ]
     },
     {
-      "clue": "Pearl of the South Seas.",
-      "answer": "tahiti",
-      "answer_letters": "TAHITI",
+      "clue": "A British colloquialism for bathroom.",
+      "answer": "toilet",
+      "answer_letters": "TOILET",
       "indices": [
         180,
-        82,
-        59,
-        77,
-        155,
-        28
+        95,
+        175,
+        172,
+        6,
+        155
       ]
     },
     {
-      "clue": "____ de Beauharnais, an emperor's consort.",
-      "answer": "eugene",
-      "answer_letters": "EUGENE",
+      "clue": "Participate actively.",
+      "answer": "engage",
+      "answer_letters": "ENGAGE",
       "indices": [
-        112,
-        110,
-        63,
         104,
-        68,
+        162,
+        47,
+        144,
+        63,
         74
       ]
     },
     {
-      "clue": "Engage in discussion to reach an agreement.",
-      "answer": "negotiate",
-      "answer_letters": "NEGOTIATE",
+      "clue": "Hours of darkness.",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
       "indices": [
-        162,
-        91,
+        46,
+        154,
         103,
-        55,
-        121,
-        175,
-        171,
-        118,
-        15
+        177,
+        58,
+        51
       ]
     }
   ],

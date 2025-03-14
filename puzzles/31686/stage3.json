@@ -5,9 +5,9 @@
   "source_letters": "BANANAYOSHIMOTOKITCHEN",
   "clues": [
     {
-      "clue": "Had a conviction without proof.",
-      "answer": "believed",
-      "answer_letters": "BELIEVED",
+      "clue": "Considers true.",
+      "answer": "believes",
+      "answer_letters": "BELIEVES",
       "indices": [
         184,
         186,
@@ -16,297 +16,297 @@
         125,
         167,
         160,
-        145
+        173
       ]
     },
     {
-      "clue": "A busy street in New York City famously lined with skyscrapers.",
-      "answer": "avenue",
-      "answer_letters": "AVENUE",
+      "clue": "Nickname for Texas A&M.",
+      "answer": "aggies",
+      "answer_letters": "AGGIES",
       "indices": [
-        14,
-        40,
-        46,
-        176,
-        175,
-        100
+        70,
+        170,
+        149,
+        168,
+        77,
+        58
       ]
     },
     {
-      "clue": "Recently released or produced.",
-      "answer": "newest",
-      "answer_letters": "NEWEST",
+      "clue": "Language spoken in Kathmandu.",
+      "answer": "nepali",
+      "answer_letters": "NEPALI",
       "indices": [
         104,
-        91,
-        10,
         140,
-        5,
-        48
-      ]
-    },
-    {
-      "clue": "Gaining entry to a computer system or website.",
-      "answer": "accessing",
-      "answer_letters": "ACCESSING",
-      "indices": [
-        177,
-        32,
-        179,
-        11,
-        119,
-        58,
-        31,
-        148,
-        170
-      ]
-    },
-    {
-      "clue": "A sharp sewing tool.",
-      "answer": "needle",
-      "answer_letters": "NEEDLE",
-      "indices": [
-        131,
-        77,
-        163,
-        85,
-        153,
-        117
-      ]
-    },
-    {
-      "clue": "To reduce pain or suffering.",
-      "answer": "alleviate",
-      "answer_letters": "ALLEVIATE",
-      "indices": [
-        161,
-        68,
-        165,
-        36,
-        126,
-        56,
-        89,
-        114,
-        132
-      ]
-    },
-    {
-      "clue": "A color resembling the sun or a banana.",
-      "answer": "yellow",
-      "answer_letters": "YELLOW",
-      "indices": [
-        129,
-        135,
-        52,
-        38,
-        130,
-        61
-      ]
-    },
-    {
-      "clue": "Something that triggers anger or displeasure.",
-      "answer": "offense",
-      "answer_letters": "OFFENSE",
-      "indices": [
-        62,
-        76,
-        87,
-        50,
-        105,
-        65,
-        112
-      ]
-    },
-    {
-      "clue": "Shut tightly to prevent air or water from entering or escaping.",
-      "answer": "sealed",
-      "answer_letters": "SEALED",
-      "indices": [
-        72,
-        26,
-        70,
-        43,
-        33,
-        102
-      ]
-    },
-    {
-      "clue": "An archipelago in the Pacific Ocean.",
-      "answer": "hawaii",
-      "answer_letters": "HAWAII",
-      "indices": [
-        1,
-        183,
-        0,
-        78,
-        152,
+        123,
+        113,
+        55,
         22
       ]
     },
     {
-      "clue": "Against the law or forbidden.",
-      "answer": "illicit",
-      "answer_letters": "ILLICIT",
+      "clue": "Reduce pain or distress",
+      "answer": "alleviate",
+      "answer_letters": "ALLEVIATE",
       "indices": [
-        142,
-        21,
-        55,
-        166,
-        178,
-        4,
-        23
+        177,
+        165,
+        153,
+        80,
+        126,
+        56,
+        14,
+        114,
+        180
       ]
     },
     {
-      "clue": "Only or nothing more than what is needed.",
-      "answer": "merely",
-      "answer_letters": "MERELY",
+      "clue": "Gryffindor wizard",
+      "answer": "neville",
+      "answer_letters": "NEVILLE",
       "indices": [
-        97,
-        122,
-        107,
-        57,
-        185,
-        71
+        148,
+        86,
+        40,
+        31,
+        52,
+        38,
+        11
       ]
     },
     {
-      "clue": "A simple summary.",
-      "answer": "overview",
-      "answer_letters": "OVERVIEW",
+      "clue": "Unvarying, without exception.",
+      "answer": "always",
+      "answer_letters": "ALWAYS",
       "indices": [
-        30,
-        15,
-        127,
-        128,
-        139,
-        7,
-        110,
-        54
+        161,
+        68,
+        94,
+        89,
+        129,
+        119
       ]
     },
     {
-      "clue": "Enabling communication in both directions.",
-      "answer": "two-way",
-      "answer_letters": "TWOWAY",
+      "clue": "New York baseball team.",
+      "answer": "yankees",
+      "answer_letters": "YANKEES",
       "indices": [
-        79,
-        69,
-        157,
-        116,
-        67,
-        2
-      ]
-    },
-    {
-      "clue": "The science concerned with light and vision.",
-      "answer": "optics",
-      "answer_letters": "OPTICS",
-      "indices": [
-        19,
-        181,
-        156,
-        168,
-        159,
+        71,
+        98,
+        131,
+        99,
+        163,
+        117,
         151
       ]
     },
     {
-      "clue": "Famous actress who played Jackie Harris on Roseanne.",
-      "answer": "kelley",
-      "answer_letters": "KELLEY",
+      "clue": "Absent or left out.",
+      "answer": "omitted",
+      "answer_letters": "OMITTED",
       "indices": [
-        45,
-        41,
-        25,
-        120,
-        95,
+        62,
+        64,
+        142,
+        8,
+        59,
+        110,
+        102
+      ]
+    },
+    {
+      "clue": "Partner to Mrs. Lovett in a musical.",
+      "answer": "sweeney",
+      "answer_letters": "SWEENEY",
+      "indices": [
+        18,
+        54,
+        100,
+        135,
+        176,
+        26,
         146
       ]
     },
     {
-      "clue": "Variations of an element with differing atomic weights.",
-      "answer": "isotopes",
-      "answer_letters": "ISOTOPES",
+      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "answer": "hewitt",
+      "answer_letters": "HEWITT",
       "indices": [
-        39,
-        18,
-        138,
-        8,
-        53,
-        123,
-        88,
-        162
-      ]
-    },
-    {
-      "clue": "A novel by Stephenie Meyer.",
-      "answer": "twilight",
-      "answer_letters": "TWILIGHT",
-      "indices": [
-        59,
-        109,
-        44,
-        154,
-        172,
-        149,
-        13,
-        182
-      ]
-    },
-    {
-      "clue": "One who studies the properties and composition of matter.",
-      "answer": "chemist",
-      "answer_letters": "CHEMIST",
-      "indices": [
-        28,
-        29,
+        1,
         16,
-        64,
-        147,
-        143,
+        10,
+        152,
+        79,
         24
       ]
     },
     {
-      "clue": "Something that has been warmed and is now uncomfortably hot.",
-      "answer": "heated",
-      "answer_letters": "HEATED",
+      "clue": "Generated by external means",
+      "answer": "induced",
+      "answer_letters": "INDUCED",
       "indices": [
-        49,
-        121,
-        98,
-        90,
-        106,
-        92
-      ]
-    },
-    {
-      "clue": "British actor who plays Batman in Christopher Nolan's Batman trilogy.",
-      "answer": "edward",
-      "answer_letters": "EDWARD",
-      "indices": [
-        75,
+        4,
+        105,
         81,
-        35,
-        113,
-        63,
+        175,
+        159,
+        112,
         74
       ]
     },
     {
-      "clue": "Magazine that has been around since 1933.",
-      "answer": "newsweek",
-      "answer_letters": "NEWSWEEK",
+      "clue": "Sonic patterns pleasing to the ear.",
+      "answer": "melodies",
+      "answer_letters": "MELODIES",
+      "indices": [
+        97,
+        121,
+        154,
+        53,
+        145,
+        44,
+        106,
+        65
+      ]
+    },
+    {
+      "clue": "Environments where administrative tasks are performed.",
+      "answer": "offices",
+      "answer_letters": "OFFICES",
+      "indices": [
+        30,
+        76,
+        87,
+        172,
+        179,
+        88,
+        143
+      ]
+    },
+    {
+      "clue": "Dual-directional.",
+      "answer": "two-way",
+      "answer_letters": "TWOWAY",
+      "indices": [
+        182,
+        0,
+        157,
+        35,
+        183,
+        2
+      ]
+    },
+    {
+      "clue": "Managed or directed.",
+      "answer": "oversaw",
+      "answer_letters": "OVERSAW",
+      "indices": [
+        19,
+        15,
+        46,
+        128,
+        72,
+        67,
+        61
+      ]
+    },
+    {
+      "clue": "Slain, as in a murder mystery.",
+      "answer": "killed",
+      "answer_letters": "KILLED",
+      "indices": [
+        45,
+        166,
+        25,
+        120,
+        50,
+        92
+      ]
+    },
+    {
+      "clue": "Port city in Suffolk, England",
+      "answer": "ipswich",
+      "answer_letters": "IPSWICH",
+      "indices": [
+        39,
+        181,
+        162,
+        69,
+        7,
+        32,
+        29
+      ]
+    },
+    {
+      "clue": "Published an update via Twitter.",
+      "answer": "tweeted",
+      "answer_letters": "TWEETED",
+      "indices": [
+        156,
+        116,
+        122,
+        57,
+        90,
+        127,
+        85
+      ]
+    },
+    {
+      "clue": "Associated with arts or writing.",
+      "answer": "creative",
+      "answer_letters": "CREATIVE",
+      "indices": [
+        178,
+        63,
+        41,
+        78,
+        23,
+        147,
+        139,
+        95
+      ]
+    },
+    {
+      "clue": "\"Gilligan's Island\" surname",
+      "answer": "howell",
+      "answer_letters": "HOWELL",
+      "indices": [
+        13,
+        138,
+        109,
+        33,
+        43,
+        185
+      ]
+    },
+    {
+      "clue": "Votes for a representative",
+      "answer": "elects",
+      "answer_letters": "ELECTS",
+      "indices": [
+        75,
+        21,
+        91,
+        28,
+        48,
+        5
+      ]
+    },
+    {
+      "clue": "Absence of place.",
+      "answer": "nowhere",
+      "answer_letters": "NOWHERE",
       "indices": [
         169,
-        80,
-        94,
-        173,
+        130,
         134,
-        180,
-        86,
-        99
+        49,
+        36,
+        107,
+        132
       ]
     }
   ],

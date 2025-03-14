@@ -5,47 +5,44 @@
   "source_letters": "RICHARDOSBORNEROSSINI",
   "clues": [
     {
-      "clue": "Repeatedly used material.",
-      "answer": "recycled",
-      "answer_letters": "RECYCLED",
+      "clue": "Repetitive patterns in music or movement.",
+      "answer": "rhythms",
+      "answer_letters": "RHYTHMS",
       "indices": [
         87,
-        66,
-        29,
-        73,
-        110,
-        72,
-        34,
-        135
+        162,
+        53,
+        42,
+        1,
+        191,
+        18
       ]
     },
     {
-      "clue": "Brain's visual interpretations.",
-      "answer": "images",
-      "answer_letters": "IMAGES",
+      "clue": "Jailhouse residents.",
+      "answer": "inmates",
+      "answer_letters": "INMATES",
       "indices": [
         69,
+        113,
         156,
         55,
-        62,
+        114,
         102,
         168
       ]
     },
     {
-      "clue": "One who is in a book, play, film, etc.",
-      "answer": "character",
-      "answer_letters": "CHARACTER",
+      "clue": "Often eaten with milk.",
+      "answer": "cereal",
+      "answer_letters": "CEREAL",
       "indices": [
-        85,
-        97,
-        76,
-        30,
-        175,
         195,
-        187,
         60,
-        105
+        43,
+        106,
+        103,
+        14
       ]
     },
     {
@@ -53,238 +50,210 @@
       "answer": "hayward",
       "answer_letters": "HAYWARD",
       "indices": [
-        19,
-        179,
+        101,
+        76,
         12,
         25,
-        44,
-        185,
+        175,
+        30,
         35
       ]
     },
     {
-      "clue": "Heir to one of the earliest empires.",
-      "answer": "assyrian",
-      "answer_letters": "ASSYRIAN",
+      "clue": "A French region, home to a distinct culture and language",
+      "answer": "alsace",
+      "answer_letters": "ALSACE",
       "indices": [
-        48,
-        115,
+        179,
+        72,
         21,
-        38,
-        7,
-        17,
-        108,
-        78
+        44,
+        52,
+        10
       ]
     },
     {
-      "clue": "Cowboy's land in Spanish",
-      "answer": "rancho",
-      "answer_letters": "RANCHO",
+      "clue": "They detect movement and can be found on police speed traps.",
+      "answer": "radars",
+      "answer_letters": "RADARS",
       "indices": [
-        158,
+        7,
         152,
-        70,
-        120,
-        188,
-        86
+        149,
+        40,
+        166,
+        140
       ]
     },
     {
-      "clue": "Topics over which people argue.",
-      "answer": "disputes",
-      "answer_letters": "DISPUTES",
+      "clue": "Charitable giving act.",
+      "answer": "donation",
+      "answer_letters": "DONATION",
       "indices": [
         81,
+        111,
+        171,
+        48,
+        187,
         117,
-        140,
-        47,
-        112,
-        100,
-        8,
-        18
+        121,
+        45
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
+      "clue": "Beginning of a period or project.",
+      "answer": "outset",
+      "answer_letters": "OUTSET",
       "indices": [
         184,
-        23,
-        96,
-        40,
-        174,
-        26
-      ]
-    },
-    {
-      "clue": "President of Iraq until 2003.",
-      "answer": "saddam",
-      "answer_letters": "SADDAM",
-      "indices": [
-        154,
-        15,
-        149,
-        181,
-        63,
-        9
-      ]
-    },
-    {
-      "clue": "Purchased something.",
-      "answer": "bought",
-      "answer_letters": "BOUGHT",
-      "indices": [
-        37,
-        121,
-        64,
-        91,
-        1,
-        42
-      ]
-    },
-    {
-      "clue": "A way of relieving pressure or stress.",
-      "answer": "outlet",
-      "answer_letters": "OUTLET",
-      "indices": [
-        167,
         136,
         6,
-        14,
-        80,
+        193,
+        2,
         0
       ]
     },
     {
-      "clue": "Cash inflow to an organization.",
-      "answer": "revenues",
-      "answer_letters": "REVENUES",
+      "clue": "Particularize.",
+      "answer": "specify",
+      "answer_letters": "SPECIFY",
       "indices": [
-        166,
-        106,
-        16,
-        10,
-        164,
-        150,
-        4,
-        122
+        27,
+        178,
+        66,
+        29,
+        194,
+        57,
+        73
       ]
     },
     {
-      "clue": "Political ideology of Hitler.",
-      "answer": "nazism",
-      "answer_letters": "NAZISM",
+      "clue": "Sir, but not an actual knight",
+      "answer": "baronet",
+      "answer_letters": "BARONET",
       "indices": [
-        113,
+        37,
+        108,
+        185,
+        86,
+        51,
+        8,
+        100
+      ]
+    },
+    {
+      "clue": "Making a choice",
+      "answer": "opting",
+      "answer_letters": "OPTING",
+      "indices": [
+        94,
+        75,
+        118,
+        89,
+        70,
+        62
+      ]
+    },
+    {
+      "clue": "Time signature component.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
+      "indices": [
+        105,
+        97,
+        38,
+        123,
+        19,
+        9
+      ]
+    },
+    {
+      "clue": "Reports shown at scheduled times.",
+      "answer": "newscasts",
+      "answer_letters": "NEWSCASTS",
+      "indices": [
+        59,
+        34,
+        174,
+        169,
+        84,
         138,
-        65,
-        180,
-        176,
-        191
+        154,
+        79,
+        176
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
-      "answer": "effects",
-      "answer_letters": "EFFECTS",
+      "clue": "Chosen democratically to hold office",
+      "answer": "elected",
+      "answer_letters": "ELECTED",
       "indices": [
-        2,
-        68,
-        183,
-        50,
+        159,
+        11,
+        80,
         109,
-        153,
-        27
+        161,
+        31,
+        181
       ]
     },
     {
-      "clue": "Echoed again, as in advice or commands.",
-      "answer": "reiterated",
-      "answer_letters": "REITERATED",
+      "clue": "Accepts the legitimacy of an argument.",
+      "answer": "recognizes",
+      "answer_letters": "RECOGNIZES",
       "indices": [
         49,
         71,
-        77,
-        93,
-        98,
-        43,
-        83,
-        33,
-        22,
-        88
-      ]
-    },
-    {
-      "clue": "Competitor in any struggle.",
-      "answer": "opponent",
-      "answer_letters": "OPPONENT",
-      "indices": [
+        137,
         157,
-        75,
-        178,
-        111,
-        171,
-        189,
-        45,
-        118
+        91,
+        78,
+        77,
+        65,
+        98,
+        115
       ]
     },
     {
-      "clue": "Annoying crackle on the radio.",
-      "answer": "static",
-      "answer_letters": "STATIC",
+      "clue": "Inhabited, especially when referring to land or buildings.",
+      "answer": "occupied",
+      "answer_letters": "OCCUPIED",
       "indices": [
-        169,
-        79,
-        32,
-        114,
-        89,
-        84
-      ]
-    },
-    {
-      "clue": "Not real or genuine.",
-      "answer": "synthetic",
-      "answer_letters": "SYNTHETIC",
-      "indices": [
-        193,
-        53,
-        51,
-        139,
-        162,
-        159,
-        161,
-        170,
-        52
-      ]
-    },
-    {
-      "clue": "Wave of arrivals.",
-      "answer": "influx",
-      "answer_letters": "INFLUX",
-      "indices": [
-        194,
-        59,
-        57,
-        11,
-        192,
-        5
-      ]
-    },
-    {
-      "clue": "Items one must observe, often displayed prominently.",
-      "answer": "notices",
-      "answer_letters": "NOTICES",
-      "indices": [
-        90,
-        94,
-        104,
-        172,
+        167,
+        120,
         151,
-        31,
-        46
+        150,
+        47,
+        170,
+        4,
+        135
+      ]
+    },
+    {
+      "clue": "Official code or decree.",
+      "answer": "statute",
+      "answer_letters": "STATUTE",
+      "indices": [
+        46,
+        104,
+        32,
+        153,
+        192,
+        23,
+        50
+      ]
+    },
+    {
+      "clue": "End of a word, sometimes forming new ones.",
+      "answer": "suffix",
+      "answer_letters": "SUFFIX",
+      "indices": [
+        122,
+        112,
+        68,
+        183,
+        172,
+        5
       ]
     },
     {
@@ -292,12 +261,43 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
+        180,
+        96,
+        188,
+        15,
+        110,
+        63
+      ]
+    },
+    {
+      "clue": "The subject of John Muir's work.",
+      "answer": "nature",
+      "answer_letters": "NATURE",
+      "indices": [
+        90,
+        26,
+        139,
+        64,
+        158,
+        189
+      ]
+    },
+    {
+      "clue": "Disabled, as in a virus for a vaccine.",
+      "answer": "inactivated",
+      "answer_letters": "INACTIVATED",
+      "indices": [
         58,
-        123,
-        101,
+        164,
+        83,
+        85,
+        93,
+        17,
+        16,
         163,
-        137,
-        103
+        33,
+        22,
+        88
       ]
     }
   ],

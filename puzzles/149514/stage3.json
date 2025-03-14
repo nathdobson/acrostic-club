@@ -5,169 +5,168 @@
   "source_letters": "BRYANMLITFINTHESWORD",
   "clues": [
     {
-      "clue": "A characteristic of stunning allure.",
-      "answer": "beauty",
-      "answer_letters": "BEAUTY",
+      "clue": "Spoke of one's exploits with pride.",
+      "answer": "boasted",
+      "answer_letters": "BOASTED",
       "indices": [
         178,
-        14,
+        176,
         65,
-        95,
+        91,
         122,
-        113
+        14,
+        96
       ]
     },
     {
-      "clue": "Withdraw troops",
-      "answer": "remove",
-      "answer_letters": "REMOVE",
+      "clue": "Opposite of left.",
+      "answer": "right-hand",
+      "answer_letters": "RIGHTHAND",
       "indices": [
         24,
-        138,
-        13,
-        1,
-        38,
-        156
+        105,
+        9,
+        36,
+        169,
+        155,
+        4,
+        110,
+        160
       ]
     },
     {
-      "clue": "Vast video-sharing platform online.",
-      "answer": "youtube",
-      "answer_letters": "YOUTUBE",
+      "clue": "Actress named Y. de Carlo.",
+      "answer": "yvonne",
+      "answer_letters": "YVONNE",
       "indices": [
-        162,
-        114,
-        131,
-        107,
-        164,
-        133,
-        39
+        113,
+        119,
+        141,
+        150,
+        60,
+        126
       ]
     },
     {
-      "clue": "Concession conjunction.",
-      "answer": "although",
-      "answer_letters": "ALTHOUGH",
+      "clue": "Collections of music tracks.",
+      "answer": "albums",
+      "answer_letters": "ALBUMS",
       "indices": [
         69,
-        76,
-        87,
-        171,
-        141,
-        25,
-        158,
-        108
-      ]
-    },
-    {
-      "clue": "Necessary for a particular purpose.",
-      "answer": "needed",
-      "answer_letters": "NEEDED",
-      "indices": [
-        98,
-        28,
-        120,
-        129,
-        145,
-        142
-      ]
-    },
-    {
-      "clue": "A process for reaching an objective.",
-      "answer": "method",
-      "answer_letters": "METHOD",
-      "indices": [
+        125,
+        133,
+        131,
         16,
-        126,
-        154,
-        50,
-        7,
-        45
+        70
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
-      "answer": "lehigh",
-      "answer_letters": "LEHIGH",
+      "clue": "Hours of darkness.",
+      "answer": "nights",
+      "answer_letters": "NIGHTS",
       "indices": [
-        56,
-        134,
-        73,
-        109,
+        168,
+        62,
         140,
-        144
-      ]
-    },
-    {
-      "clue": "Where Leonardo da Vinci was born.",
-      "answer": "italia",
-      "answer_letters": "ITALIA",
-      "indices": [
-        47,
-        101,
-        17,
-        68,
-        147,
-        55
-      ]
-    },
-    {
-      "clue": "Consideration or speculation.",
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        152,
-        89,
-        103,
-        59,
-        9,
-        42,
-        94
-      ]
-    },
-    {
-      "clue": "Public celebrations, often with music and art.",
-      "answer": "festivals",
-      "answer_letters": "FESTIVALS",
-      "indices": [
-        0,
-        74,
-        93,
+        50,
         11,
-        12,
-        119,
-        86,
-        63,
         52
       ]
     },
     {
-      "clue": "Made mandatory",
-      "answer": "imposed",
-      "answer_letters": "IMPOSED",
+      "clue": "A diminutive form of Matthew.",
+      "answer": "matteo",
+      "answer_letters": "MATTEO",
       "indices": [
-        172,
         57,
-        54,
-        77,
-        70,
+        44,
+        107,
+        87,
         22,
+        163
+      ]
+    },
+    {
+      "clue": "Capital city: Maseru.",
+      "answer": "lesotho",
+      "answer_letters": "LESOTHO",
+      "indices": [
+        56,
+        74,
+        93,
+        159,
+        61,
+        137,
+        7
+      ]
+    },
+    {
+      "clue": "Apple's smart device.",
+      "answer": "iphone",
+      "answer_letters": "IPHONE",
+      "indices": [
+        51,
+        84,
+        108,
+        103,
+        48,
+        120
+      ]
+    },
+    {
+      "clue": "Customized with a particular subject.",
+      "answer": "themed",
+      "answer_letters": "THEMED",
+      "indices": [
+        101,
+        73,
+        145,
+        13,
+        130,
+        129
+      ]
+    },
+    {
+      "clue": "Struggled in a contest or disagreement.",
+      "answer": "fought",
+      "answer_letters": "FOUGHT",
+      "indices": [
+        0,
+        77,
+        25,
+        158,
+        171,
+        175
+      ]
+    },
+    {
+      "clue": "Shown to have a role in a conspiracy",
+      "answer": "implicated",
+      "answer_letters": "IMPLICATED",
+      "indices": [
+        32,
+        173,
+        54,
+        63,
+        20,
+        21,
+        86,
+        99,
+        28,
         40
       ]
     },
     {
-      "clue": "Writing system for music.",
-      "answer": "notation",
-      "answer_letters": "NOTATION",
+      "clue": "Cloudy region in space.",
+      "answer": "nebula",
+      "answer_letters": "NEBULA",
       "indices": [
-        150,
-        163,
-        61,
-        118,
-        99,
-        20,
-        159,
-        60
+        98,
+        134,
+        27,
+        164,
+        76,
+        118
       ]
     },
     {
@@ -175,112 +174,113 @@
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
+        154,
+        17,
+        117,
+        109,
         71,
-        44,
-        31,
-        51,
-        175,
-        62
+        172
       ]
     },
     {
-      "clue": "The adjective for an eerie place.",
-      "answer": "haunted",
-      "answer_letters": "HAUNTED",
+      "clue": "The occupants of a residence.",
+      "answer": "household",
+      "answer_letters": "HOUSEHOLD",
       "indices": [
-        36,
-        167,
+        144,
+        151,
+        59,
+        33,
+        102,
+        31,
+        123,
+        68,
+        142
+      ]
+    },
+    {
+      "clue": "Ah-ha! moment.",
+      "answer": "eureka",
+      "answer_letters": "EUREKA",
+      "indices": [
+        80,
         18,
-        48,
+        2,
+        179,
+        79,
+        55
+      ]
+    },
+    {
+      "clue": "Temporary replacement.",
+      "answer": "substitute",
+      "answer_letters": "SUBSTITUTE",
+      "indices": [
+        148,
+        83,
+        26,
+        35,
+        152,
+        12,
+        94,
+        115,
         66,
-        130,
+        97
+      ]
+    },
+    {
+      "clue": "Bertrand Russell's collaborator on logic",
+      "answer": "whitehead",
+      "answer_letters": "WHITEHEAD",
+      "indices": [
+        166,
+        89,
+        47,
+        127,
+        43,
+        42,
+        138,
+        167,
         29
       ]
     },
     {
-      "clue": "Begun with determination and resolve.",
-      "answer": "embarked",
-      "answer_letters": "EMBARKED",
+      "clue": "Sister to Emma and Isabella.",
+      "answer": "olivia",
+      "answer_letters": "OLIVIA",
       "indices": [
-        102,
-        173,
-        27,
-        37,
-        2,
-        79,
-        80,
-        160
-      ]
-    },
-    {
-      "clue": "Home to Gonzaga University's basketball team.",
-      "answer": "spokane",
-      "answer_letters": "SPOKANE",
-      "indices": [
-        33,
-        84,
-        151,
-        111,
-        4,
-        168,
-        179
-      ]
-    },
-    {
-      "clue": "Online location with a URL.",
-      "answer": "website",
-      "answer_letters": "WEBSITE",
-      "indices": [
-        166,
-        97,
-        26,
-        148,
-        90,
-        127,
-        43
-      ]
-    },
-    {
-      "clue": "They make you cry but are great in a stew.",
-      "answer": "onions",
-      "answer_letters": "ONIONS",
-      "indices": [
-        123,
-        110,
-        105,
         78,
-        8,
-        35
+        6,
+        147,
+        38,
+        90,
+        37
       ]
     },
     {
-      "clue": "Financial dynasty.",
-      "answer": "rothschild",
-      "answer_letters": "ROTHSCHILD",
+      "clue": "Re-directed through a network.",
+      "answer": "routed",
+      "answer_letters": "ROUTED",
       "indices": [
         19,
-        176,
+        114,
+        95,
         136,
-        137,
-        91,
-        21,
-        117,
-        32,
-        125,
-        96
+        39,
+        45
       ]
     },
     {
-      "clue": "Minnesotan port city near Lakes Superior and Superior.",
-      "answer": "duluth",
-      "answer_letters": "DULUTH",
+      "clue": "Horse's close relative.",
+      "answer": "donkey",
+      "answer_letters": "DONKEY",
       "indices": [
         81,
-        83,
-        6,
-        115,
-        169,
-        155
+        1,
+        8,
+        111,
+        156,
+        162
       ]
     }
   ],

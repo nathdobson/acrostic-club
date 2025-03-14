@@ -5,90 +5,145 @@
   "source_letters": "ORSONSCOTTCARDEMPIRE",
   "clues": [
     {
-      "clue": "Away from indoors.",
-      "answer": "outside",
-      "answer_letters": "OUTSIDE",
+      "clue": "A command often used to encourage progress.",
+      "answer": "onward",
+      "answer_letters": "ONWARD",
       "indices": [
-        4,
-        119,
-        65,
-        19,
-        95,
-        169,
-        179
+        53,
+        63,
+        87,
+        141,
+        106,
+        135
       ]
     },
     {
-      "clue": "Time signature component.",
-      "answer": "rhythm",
-      "answer_letters": "RHYTHM",
+      "clue": "Made irretrievably worse.",
+      "answer": "ruined",
+      "answer_letters": "RUINED",
       "indices": [
         32,
-        77,
-        131,
-        85,
-        81,
-        34
+        68,
+        184,
+        93,
+        143,
+        121
       ]
     },
     {
-      "clue": "Often associated with emotional intelligence and empathy.",
-      "answer": "sensitivity",
-      "answer_letters": "SENSITIVITY",
+      "clue": "Replaced something or someone.",
+      "answer": "substituted",
+      "answer_letters": "SUBSTITUTED",
       "indices": [
-        123,
-        175,
-        63,
         8,
-        74,
-        129,
-        70,
-        125,
-        115,
-        57,
-        35
-      ]
-    },
-    {
-      "clue": "Public health concern worldwide.",
-      "answer": "obesity",
-      "answer_letters": "OBESITY",
-      "indices": [
-        50,
+        119,
         148,
-        185,
-        64,
-        21,
+        19,
         42,
-        100
-      ]
-    },
-    {
-      "clue": "Popular anti-malware program.",
-      "answer": "norton",
-      "answer_letters": "NORTON",
-      "indices": [
-        96,
-        118,
-        174,
+        95,
         154,
-        53,
-        38
+        54,
+        129,
+        126,
+        169
       ]
     },
     {
-      "clue": "Government closure due to budgetary deadlock.",
-      "answer": "shutdown",
-      "answer_letters": "SHUTDOWN",
+      "clue": "Sister to Emma and Isabella.",
+      "answer": "olivia",
+      "answer_letters": "OLIVIA",
       "indices": [
-        18,
-        165,
-        152,
+        118,
+        186,
+        70,
+        30,
+        115,
+        102
+      ]
+    },
+    {
+      "clue": "Adviser to King David, a counselor during his reign.",
+      "answer": "nathan",
+      "answer_letters": "NATHAN",
+      "indices": [
+        183,
+        161,
         146,
-        178,
+        105,
+        108,
+        96
+      ]
+    },
+    {
+      "clue": "Occurrences that spark debates on gun control.",
+      "answer": "shootings",
+      "answer_letters": "SHOOTINGS",
+      "indices": [
+        64,
+        160,
         45,
-        87,
-        183
+        50,
+        22,
+        74,
+        156,
+        3,
+        123
+      ]
+    },
+    {
+      "clue": "Argue or assert something",
+      "answer": "contend",
+      "answer_letters": "CONTEND",
+      "indices": [
+        61,
+        136,
+        189,
+        162,
+        185,
+        72,
+        109
+      ]
+    },
+    {
+      "clue": "Direct and unambiguous.",
+      "answer": "outright",
+      "answer_letters": "OUTRIGHT",
+      "indices": [
+        62,
+        152,
+        67,
+        49,
+        21,
+        80,
+        165,
+        47
+      ]
+    },
+    {
+      "clue": "A Caribbean island with Trinidad.",
+      "answer": "tobago",
+      "answer_letters": "TOBAGO",
+      "indices": [
+        164,
+        188,
+        99,
+        168,
+        157,
+        4
+      ]
+    },
+    {
+      "clue": "This process helps ensure quality and reliability in products.",
+      "answer": "testing",
+      "answer_letters": "TESTING",
+      "indices": [
+        65,
+        17,
+        26,
+        181,
+        145,
+        16,
+        94
       ]
     },
     {
@@ -96,203 +151,148 @@
       "answer": "cutting",
       "answer_letters": "CUTTING",
       "indices": [
-        117,
-        79,
-        104,
-        15,
-        145,
-        189,
-        3
-      ]
-    },
-    {
-      "clue": "Formerly named Bytown.",
-      "answer": "ottawa",
-      "answer_letters": "OTTAWA",
-      "indices": [
-        62,
-        67,
-        47,
-        88,
-        24,
-        92
-      ]
-    },
-    {
-      "clue": "Symbol associated with the sea.",
-      "answer": "trident",
-      "answer_letters": "TRIDENT",
-      "indices": [
-        162,
-        106,
-        7,
-        135,
-        31,
-        16,
-        138
-      ]
-    },
-    {
-      "clue": "Consideration or speculation.",
-      "answer": "thought",
-      "answer_letters": "THOUGHT",
-      "indices": [
-        181,
-        105,
-        136,
-        54,
-        80,
-        91,
-        164
-      ]
-    },
-    {
-      "clue": "Indigenous people of Mississippi.",
-      "answer": "choctaw",
-      "answer_letters": "CHOCTAW",
-      "indices": [
         151,
-        160,
-        188,
-        61,
+        79,
+        57,
         76,
-        161,
-        13
+        7,
+        38,
+        97
       ]
     },
     {
-      "clue": "Upside of a situation",
-      "answer": "advantage",
-      "answer_letters": "ADVANTAGE",
+      "clue": "Unfeigned character or qualities.",
+      "answer": "authenticity",
+      "answer_letters": "AUTHENTICITY",
       "indices": [
-        108,
-        109,
-        142,
-        141,
-        72,
-        69,
-        168,
-        97,
-        107
+        25,
+        133,
+        138,
+        91,
+        175,
+        41,
+        104,
+        128,
+        117,
+        84,
+        15,
+        35
       ]
     },
     {
-      "clue": "Surnamed scientist who invented diffraction grating.",
-      "answer": "rowland",
-      "answer_letters": "ROWLAND",
+      "clue": "Time signature component.",
+      "answer": "rhythm",
+      "answer_letters": "RHYTHM",
       "indices": [
         166,
-        132,
-        51,
-        186,
-        25,
-        41,
-        5
+        48,
+        149,
+        69,
+        58,
+        10
       ]
     },
     {
-      "clue": "Teams sent to negotiate or discuss matters.",
-      "answer": "delegations",
-      "answer_letters": "DELEGATIONS",
+      "clue": "Opposite of near.",
+      "answer": "distant",
+      "answer_letters": "DISTANT",
       "indices": [
-        113,
-        40,
-        120,
-        143,
-        94,
-        111,
+        5,
+        37,
+        187,
         55,
-        128,
-        71,
+        111,
         112,
-        26
+        44
       ]
     },
     {
-      "clue": "Corporate body or individual with legal standing",
-      "answer": "entity",
-      "answer_letters": "ENTITY",
+      "clue": "Observer present at an event.",
+      "answer": "eyewitness",
+      "answer_letters": "EYEWITNESS",
       "indices": [
-        167,
-        180,
-        82,
+        29,
+        11,
+        59,
+        51,
         177,
         153,
-        11
-      ]
-    },
-    {
-      "clue": "Level of brightness for stars.",
-      "answer": "magnitude",
-      "answer_letters": "MAGNITUDE",
-      "indices": [
-        10,
-        0,
-        157,
-        137,
-        37,
-        39,
-        133,
-        121,
-        59
-      ]
-    },
-    {
-      "clue": "Sanction a wrongdoer.",
-      "answer": "punish",
-      "answer_letters": "PUNISH",
-      "indices": [
-        173,
-        68,
-        28,
-        155,
+        180,
+        167,
         176,
-        48
-      ]
-    },
-    {
-      "clue": "Causes suppression of a function or response.",
-      "answer": "inhibits",
-      "answer_letters": "INHIBITS",
-      "indices": [
-        14,
-        93,
-        58,
-        66,
-        99,
-        184,
-        159,
         89
       ]
     },
     {
-      "clue": "Revitalize with upgrades and enhancements",
-      "answer": "renovate",
-      "answer_letters": "RENOVATE",
+      "clue": "Twelve slices of time.",
+      "answer": "months",
+      "answer_letters": "MONTHS",
       "indices": [
-        49,
-        126,
-        156,
-        78,
-        30,
-        102,
-        22,
-        17
+        34,
+        71,
+        137,
+        39,
+        77,
+        140
       ]
     },
     {
-      "clue": "Can be compared to an author of short non-fiction works.",
-      "answer": "essayist",
-      "answer_letters": "ESSAYIST",
+      "clue": "A route or course.",
+      "answer": "pathway",
+      "answer_letters": "PATHWAY",
       "indices": [
-        29,
-        187,
-        140,
+        173,
         124,
-        149,
-        84,
-        1,
-        44
+        159,
+        81,
+        13,
+        0,
+        131
+      ]
+    },
+    {
+      "clue": "Selves that can be multiple in dissociative disorders.",
+      "answer": "identities",
+      "answer_letters": "IDENTITIES",
+      "indices": [
+        155,
+        113,
+        107,
+        28,
+        85,
+        14,
+        82,
+        66,
+        40,
+        1
+      ]
+    },
+    {
+      "clue": "A synonym for routes used by cars and trucks.",
+      "answer": "roadways",
+      "answer_letters": "ROADWAYS",
+      "indices": [
+        174,
+        78,
+        88,
+        178,
+        24,
+        92,
+        100,
+        18
+      ]
+    },
+    {
+      "clue": "Become more complex",
+      "answer": "evolve",
+      "answer_letters": "EVOLVE",
+      "indices": [
+        179,
+        125,
+        132,
+        120,
+        142,
+        31
       ]
     }
   ],

@@ -5,30 +5,161 @@
   "source_letters": "VANNCHOWSHANGHAINOBODY",
   "clues": [
     {
-      "clue": "Within sight.",
-      "answer": "visible",
-      "answer_letters": "VISIBLE",
+      "clue": "Person who suffers from something undesirable.",
+      "answer": "victim",
+      "answer_letters": "VICTIM",
       "indices": [
         74,
         119,
-        148,
+        101,
+        97,
         194,
-        141,
-        109,
-        126
+        89
       ]
     },
     {
-      "clue": "Consents to, permits.",
-      "answer": "allows",
-      "answer_letters": "ALLOWS",
+      "clue": "Powers to perform tasks.",
+      "answer": "abilities",
+      "answer_letters": "ABILITIES",
       "indices": [
-        88,
-        104,
+        58,
+        172,
+        99,
+        72,
+        15,
+        156,
+        167,
+        75,
+        152
+      ]
+    },
+    {
+      "clue": "An affectionate nickname for Helen.",
+      "answer": "nellie",
+      "answer_letters": "NELLIE",
+      "indices": [
+        189,
+        4,
         43,
-        61,
+        34,
+        6,
+        73
+      ]
+    },
+    {
+      "clue": "Opposite of southwest on a compass.",
+      "answer": "northeast",
+      "answer_letters": "NORTHEAST",
+      "indices": [
+        18,
+        173,
+        87,
+        9,
+        1,
+        66,
+        149,
+        164,
+        47
+      ]
+    },
+    {
+      "clue": "Spanish for a fortified structure.",
+      "answer": "castillo",
+      "answer_letters": "CASTILLO",
+      "indices": [
+        39,
+        42,
+        57,
+        178,
+        2,
+        109,
+        193,
+        78
+      ]
+    },
+    {
+      "clue": "\"Gilligan's Island\" surname",
+      "answer": "howell",
+      "answer_letters": "HOWELL",
+      "indices": [
+        115,
+        102,
+        131,
+        113,
+        11,
+        76
+      ]
+    },
+    {
+      "clue": "Wardrobe ensemble.",
+      "answer": "outfit",
+      "answer_letters": "OUTFIT",
+      "indices": [
+        49,
+        41,
+        68,
+        195,
+        110,
+        55
+      ]
+    },
+    {
+      "clue": "River flowing into the Columbia River at Portland.",
+      "answer": "willamette",
+      "answer_letters": "WILLAMETTE",
+      "indices": [
+        127,
+        48,
+        12,
+        142,
+        180,
+        93,
+        83,
+        114,
+        20,
+        108
+      ]
+    },
+    {
+      "clue": "Secure something to prevent it from moving or changing.",
+      "answer": "stabilize",
+      "answer_letters": "STABILIZE",
+      "indices": [
+        32,
+        117,
+        38,
+        141,
+        10,
+        3,
+        129,
+        45,
+        33
+      ]
+    },
+    {
+      "clue": "Genre of music and culture.",
+      "answer": "hip-hop",
+      "answer_letters": "HIPHOP",
+      "indices": [
+        28,
+        44,
+        85,
+        157,
+        132,
+        162
+      ]
+    },
+    {
+      "clue": "Regardless, in any case.",
+      "answer": "anyway",
+      "answer_letters": "ANYWAY",
+      "indices": [
+        171,
+        62,
+        150,
         183,
-        8
+        140,
+        86
       ]
     },
     {
@@ -36,244 +167,83 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        18,
-        75,
-        85,
-        115,
-        143,
-        131
-      ]
-    },
-    {
-      "clue": "Higher social rank or aristocracy.",
-      "answer": "nobility",
-      "answer_letters": "NOBILITY",
-      "indices": [
-        125,
-        173,
-        172,
-        10,
-        72,
-        129,
-        117,
-        86
-      ]
-    },
-    {
-      "clue": "Transferred (a sentence) to a different type of punishment",
-      "answer": "commuted",
-      "answer_letters": "COMMUTED",
-      "indices": [
-        101,
-        78,
-        89,
-        93,
-        103,
-        81,
-        169,
-        16
-      ]
-    },
-    {
-      "clue": "B viral disease.",
-      "answer": "hepatitis",
-      "answer_letters": "HEPATITIS",
-      "indices": [
-        1,
-        66,
+        159,
+        184,
         70,
-        58,
-        47,
-        44,
-        156,
+        82,
+        169,
+        25
+      ]
+    },
+    {
+      "clue": "A nation once ruled by the Jolof Empire.",
+      "answer": "gambia",
+      "answer_letters": "GAMBIA",
+      "indices": [
+        160,
+        95,
+        154,
+        107,
         122,
-        181
+        116
       ]
     },
     {
-      "clue": "Windows email client.",
-      "answer": "outlook",
-      "answer_letters": "OUTLOOK",
+      "clue": "Second most important source in Islamic law after the Quran.",
+      "answer": "hadith",
+      "answer_letters": "HADITH",
       "indices": [
-        49,
-        174,
-        68,
-        134,
-        163,
-        153,
-        124
-      ]
-    },
-    {
-      "clue": "Plenty of money.",
-      "answer": "wealth",
-      "answer_letters": "WEALTH",
-      "indices": [
-        27,
-        155,
-        140,
-        142,
-        114,
+        53,
+        54,
+        91,
+        158,
+        145,
         65
       ]
     },
     {
-      "clue": "Adverb for quick movement.",
-      "answer": "swiftly",
-      "answer_letters": "SWIFTLY",
+      "clue": "Personality traits or outlooks.",
+      "answer": "attitudes",
+      "answer_letters": "ATTITUDES",
       "indices": [
-        152,
-        0,
-        188,
-        79,
-        20,
-        3,
-        150
+        46,
+        40,
+        175,
+        165,
+        81,
+        103,
+        16,
+        126,
+        148
       ]
     },
     {
-      "clue": "A radioactive element's decay period.",
-      "answer": "half-life",
-      "answer_letters": "HALFLIFE",
+      "clue": "Included in something.",
+      "answer": "involved",
+      "answer_letters": "INVOLVED",
       "indices": [
-        28,
-        149,
-        11,
-        120,
-        76,
-        48,
-        195,
-        83
-      ]
-    },
-    {
-      "clue": "Socially uncomfortable situation.",
-      "answer": "awkward",
-      "answer_letters": "AWKWARD",
-      "indices": [
-        95,
-        25,
-        22,
-        127,
-        116,
-        87,
+        177,
+        23,
+        112,
+        61,
+        104,
+        168,
+        143,
         135
       ]
     },
     {
-      "clue": "Sister of Petya Rostov from 'War and Peace'.",
-      "answer": "natasha",
-      "answer_letters": "NATASHA",
-      "indices": [
-        159,
-        180,
-        175,
-        38,
-        32,
-        82,
-        171
-      ]
-    },
-    {
-      "clue": "Faust's author.",
-      "answer": "goethe",
-      "answer_letters": "GOETHE",
-      "indices": [
-        160,
-        102,
-        108,
-        9,
-        157,
-        33
-      ]
-    },
-    {
-      "clue": "Geographer and naturalist Alexander ___",
-      "answer": "humboldt",
-      "answer_letters": "HUMBOLDT",
-      "indices": [
-        53,
-        133,
-        154,
-        107,
-        69,
-        12,
-        91,
-        166
-      ]
-    },
-    {
-      "clue": "Reduce pain or distress",
-      "answer": "alleviate",
-      "answer_letters": "ALLEVIATE",
-      "indices": [
-        46,
-        193,
-        185,
-        138,
-        112,
-        165,
-        42,
-        97,
-        184
-      ]
-    },
-    {
-      "clue": "Start a process.",
-      "answer": "initiate",
-      "answer_letters": "INITIATE",
-      "indices": [
-        99,
-        62,
-        15,
-        30,
-        167,
-        29,
-        52,
-        113
-      ]
-    },
-    {
-      "clue": "Their flags adorn the UN building.",
-      "answer": "nations",
-      "answer_letters": "NATIONS",
+      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "answer": "newtown",
+      "answer_letters": "NEWTOWN",
       "indices": [
         50,
-        54,
-        40,
-        2,
+        138,
+        27,
+        166,
         24,
-        96,
-        57
-      ]
-    },
-    {
-      "clue": "Improved for efficiency.",
-      "answer": "optimized",
-      "answer_letters": "OPTIMIZED",
-      "indices": [
-        19,
-        162,
-        64,
-        177,
-        190,
-        6,
-        45,
-        4,
-        105
-      ]
-    },
-    {
-      "clue": "Her song 'Strange Fruit' is a haunting protest against racism.",
-      "answer": "billie",
-      "answer_letters": "BILLIE",
-      "indices": [
-        137,
-        90,
-        34,
-        186,
-        110,
-        73
+        0,
+        96
       ]
     },
     {
@@ -281,39 +251,69 @@
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
-        132,
-        41,
-        178,
-        35,
-        158,
-        145,
-        164
+        19,
+        133,
+        30,
+        120,
+        90,
+        52,
+        181
       ]
     },
     {
-      "clue": "Pinpoint or discover through analysis.",
-      "answer": "detect",
-      "answer_letters": "DETECT",
+      "clue": "French word for 'dance'.",
+      "answer": "ballet",
+      "answer_letters": "BALLET",
       "indices": [
-        14,
+        137,
+        88,
+        186,
+        134,
         111,
-        55,
-        196,
-        39,
-        59
+        64
       ]
     },
     {
-      "clue": "Actress named Y. de Carlo.",
-      "answer": "yvonne",
-      "answer_letters": "YVONNE",
+      "clue": "Away from the web",
+      "answer": "offline",
+      "answer_letters": "OFFLINE",
+      "indices": [
+        69,
+        35,
+        79,
+        185,
+        188,
+        125,
+        155
+      ]
+    },
+    {
+      "clue": "Pushed down a rank.",
+      "answer": "demoted",
+      "answer_letters": "DEMOTED",
+      "indices": [
+        105,
+        196,
+        190,
+        163,
+        59,
+        94,
+        14
+      ]
+    },
+    {
+      "clue": "Where Japan's Maritime Self-Defense Forces have a major base.",
+      "answer": "yokosuka",
+      "answer_letters": "YOKOSUKA",
       "indices": [
         191,
-        168,
+        153,
+        22,
         146,
-        23,
-        189,
-        94
+        8,
+        174,
+        124,
+        29
       ]
     }
   ],

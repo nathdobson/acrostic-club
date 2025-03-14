@@ -5,16 +5,16 @@
   "source_letters": "ROBERTWALSERTHETANNERS",
   "clues": [
     {
-      "clue": "Precipitation that has seeped into a waterway.",
-      "answer": "runoff",
-      "answer_letters": "RUNOFF",
+      "clue": "Moved with haste or speed.",
+      "answer": "rushed",
+      "answer_letters": "RUSHED",
       "indices": [
         143,
         86,
-        123,
-        75,
-        154,
-        58
+        117,
+        106,
+        42,
+        124
       ]
     },
     {
@@ -44,242 +44,242 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
-      "answer": "east-west",
-      "answer_letters": "EASTWEST",
+      "clue": "The whole of something.",
+      "answer": "entirety",
+      "answer_letters": "ENTIRETY",
       "indices": [
         183,
-        53,
-        33,
+        93,
         36,
-        23,
+        171,
+        189,
         52,
-        117,
-        64
+        64,
+        74
       ]
     },
     {
-      "clue": "A king's or queen's family.",
-      "answer": "royalty",
-      "answer_letters": "ROYALTY",
+      "clue": "Precipitation that has seeped into a waterway.",
+      "answer": "runoff",
+      "answer_letters": "RUNOFF",
       "indices": [
-        54,
-        92,
-        95,
-        136,
-        94,
-        179,
-        150
+        31,
+        15,
+        111,
+        132,
+        85,
+        154
       ]
     },
     {
-      "clue": "Contraction of they and have",
-      "answer": "they've",
-      "answer_letters": "THEYVE",
+      "clue": "They manufacture Corollas.",
+      "answer": "toyota",
+      "answer_letters": "TOYOTA",
       "indices": [
+        38,
+        3,
+        150,
+        112,
         16,
-        127,
+        175
+      ]
+    },
+    {
+      "clue": "Location in Dorset, UK with a rich history of trade and industry",
+      "answer": "weymouth",
+      "answer_letters": "WEYMOUTH",
+      "indices": [
+        97,
+        81,
+        131,
+        41,
+        162,
+        188,
+        10,
+        182
+      ]
+    },
+    {
+      "clue": "Partner of Warren Beatty on-screen and off",
+      "answer": "annette",
+      "answer_letters": "ANNETTE",
+      "indices": [
+        136,
+        9,
+        172,
         32,
-        74,
-        137,
+        181,
+        5,
         90
       ]
     },
     {
-      "clue": "Expression signifying 'I don't mind'.",
-      "answer": "whatever",
-      "answer_letters": "WHATEVER",
+      "clue": "Brewing capital of Belgium.",
+      "answer": "leuven",
+      "answer_letters": "LEUVEN",
       "indices": [
-        97,
-        182,
-        69,
-        87,
-        72,
-        68,
-        81,
-        115
-      ]
-    },
-    {
-      "clue": "Summing up to; coming to.",
-      "answer": "amounting",
-      "answer_letters": "AMOUNTING",
-      "indices": [
-        24,
-        41,
-        132,
-        133,
-        167,
-        181,
-        0,
-        119,
-        157
-      ]
-    },
-    {
-      "clue": "This nationality was once part of the USSR before regaining independence in 1991.",
-      "answer": "lithuanian",
-      "answer_letters": "LITHUANIAN",
-      "indices": [
-        70,
-        21,
-        10,
-        78,
+        94,
+        116,
         76,
-        12,
-        129,
-        46,
-        63,
+        68,
+        65,
         4
       ]
     },
     {
-      "clue": "Delicacies like oysters, scallops, and lobster.",
-      "answer": "seafood",
-      "answer_letters": "SEAFOOD",
+      "clue": "Georgia city where a zoo is located.",
+      "answer": "savannah",
+      "answer_letters": "SAVANNAH",
       "indices": [
         55,
-        42,
+        79,
+        137,
+        53,
+        147,
+        123,
         83,
-        185,
-        3,
-        112,
-        124
+        127
       ]
     },
     {
-      "clue": "As many as necessary.",
-      "answer": "enough",
-      "answer_letters": "ENOUGH",
+      "clue": "Vigorous or determined attempt to do something.",
+      "answer": "effort",
+      "answer_letters": "EFFORT",
       "indices": [
         62,
-        172,
-        155,
-        15,
-        60,
-        106
+        58,
+        185,
+        75,
+        61,
+        179
       ]
     },
     {
-      "clue": "Unexpected break or tear.",
-      "answer": "rupture",
-      "answer_letters": "RUPTURE",
+      "clue": "Nautical contest.",
+      "answer": "regatta",
+      "answer_letters": "REGATTA",
       "indices": [
         89,
-        152,
-        50,
+        144,
+        60,
+        107,
         161,
-        104,
-        18,
-        128
+        187,
+        69
       ]
     },
     {
-      "clue": "Vast storm system in the Northwest Pacific Ocean.",
-      "answer": "typhoon",
-      "answer_letters": "TYPHOON",
+      "clue": "Despite what was mentioned before.",
+      "answer": "though",
+      "answer_letters": "THOUGH",
       "indices": [
-        38,
-        102,
-        30,
-        135,
-        162,
-        39,
-        35
+        120,
+        78,
+        57,
+        133,
+        157,
+        135
       ]
     },
     {
-      "clue": "Girl's name shared with a well-known Bible figure.",
-      "answer": "hannah",
-      "answer_letters": "HANNAH",
+      "clue": "Possessing the most mass.",
+      "answer": "heaviest",
+      "answer_letters": "HEAVIEST",
       "indices": [
         45,
-        122,
-        111,
-        9,
-        140,
-        98
-      ]
-    },
-    {
-      "clue": "Home to the Khumbu Icefall.",
-      "answer": "everest",
-      "answer_letters": "EVEREST",
-      "indices": [
-        34,
-        165,
         146,
-        61,
+        63,
+        165,
+        0,
         99,
-        47,
+        33,
         26
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
-      "answer": "takeoff",
-      "answer_letters": "TAKEOFF",
+      "clue": "Vesuvius's famous occurrence in 79 AD.",
+      "answer": "eruption",
+      "answer_letters": "ERUPTION",
       "indices": [
-        187,
-        107,
-        173,
-        144,
-        103,
-        14,
-        85
+        34,
+        115,
+        178,
+        30,
+        169,
+        46,
+        155,
+        35
       ]
     },
     {
-      "clue": "Hepburn of Sabrina fame.",
-      "answer": "audrey",
-      "answer_letters": "AUDREY",
+      "clue": "City linked with artist Henri ___.",
+      "answer": "toulouse",
+      "answer_letters": "TOULOUSE",
+      "indices": [
+        87,
+        103,
+        152,
+        70,
+        92,
+        104,
+        145,
+        72
+      ]
+    },
+    {
+      "clue": "Socially uncomfortable situation.",
+      "answer": "awkward",
+      "answer_letters": "AWKWARD",
       "indices": [
         8,
-        188,
-        2,
-        31,
-        116,
-        131
-      ]
-    },
-    {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
-      "answer": "newtown",
-      "answer_letters": "NEWTOWN",
-      "indices": [
-        93,
-        190,
         7,
-        5,
-        57,
+        173,
         126,
-        147
+        12,
+        18,
+        2
       ]
     },
     {
-      "clue": "His work laid groundwork for trigonometry advancements.",
-      "answer": "napier",
-      "answer_letters": "NAPIER",
+      "clue": "Daughter's son.",
+      "answer": "nephew",
+      "answer_letters": "NEPHEW",
       "indices": [
         25,
-        79,
-        142,
-        171,
         109,
-        189
+        142,
+        98,
+        190,
+        23
       ]
     },
     {
-      "clue": "Moon of Jupiter",
-      "answer": "europa",
-      "answer_letters": "EUROPA",
+      "clue": "Author of The Guide.",
+      "answer": "narayan",
+      "answer_letters": "NARAYAN",
+      "indices": [
+        167,
+        122,
+        54,
+        140,
+        102,
+        24,
+        119
+      ]
+    },
+    {
+      "clue": "From a continent known for its classical music and art.",
+      "answer": "european",
+      "answer_letters": "EUROPEAN",
       "indices": [
         158,
         88,
         66,
         151,
         114,
-        49
+        128,
+        49,
+        129
       ]
     },
     {
@@ -297,17 +297,17 @@
       ]
     },
     {
-      "clue": "Official code or decree.",
-      "answer": "statute",
-      "answer_letters": "STATUTE",
+      "clue": "Music streaming service.",
+      "answer": "spotify",
+      "answer_letters": "SPOTIFY",
       "indices": [
-        145,
+        47,
+        50,
+        39,
         44,
-        175,
-        169,
-        178,
-        120,
-        65
+        21,
+        14,
+        95
       ]
     }
   ],

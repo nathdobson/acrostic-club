@@ -9,3 +9,5 @@ cat /Users/nathan/Documents/workspace/acrostic-club/build/en_dbnary_etymology.tt
 
 curl https://raw.githubusercontent.com/skywind3000/lemma.en/refs/heads/master/lemma.en.txt -o build/lemma.en.txt
 
+curl https://xd.saul.pw/xd-clues.zip -o build/xd-clues.zip
+unzip build/xd-clues.zip
