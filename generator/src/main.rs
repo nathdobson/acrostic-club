@@ -10,7 +10,6 @@
 #![allow(unused_imports)]
 #![feature(type_alias_impl_trait)]
 #![feature(const_async_blocks)]
-#![feature(try_blocks)]
 #![feature(trait_alias)]
 #![feature(error_generic_member_access)]
 #![feature(impl_trait_in_assoc_type)]
@@ -169,7 +168,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                     let target = &target;
                     let client = &client;
                     async move {
-                        let e: anyhow::Result<()> = try {
+                        let e: anyhow::Result<()> = async {
                             match target.deref() {
                                 "quote" => add_quote(puzzle).await?,
                                 "letters" => add_letters(puzzle).await?,
@@ -177,7 +176,9 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                                 "chat" => add_chat(puzzle, &client).await?,
                                 x => panic!("Unknown puzzle target {}", x),
                             }
-                        };
+                            anyhow::Ok(())
+                        }
+                        .await;
                         if let Err(e) = e {
                             if e.downcast_ref::<io::Error>()
                                 .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
