@@ -18,7 +18,7 @@ rand = "0.8.5"
 tikv-jemallocator = "0.5"
 hex = "0.4.3"
 partition = "0.1.2"
-itertools = "0.10.5"
+itertools = "0.15.0"
 arrayvec = "0.7.6"
 tokio = { version = "1.43.0", features = ["rt-multi-thread", "macros", "fs", "io-util","signal"] }
 serde_json = "1.0.135"
