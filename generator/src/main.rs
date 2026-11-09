@@ -8,6 +8,7 @@ use tikv_jemallocator::Jemalloc;
 use acrostic_generator::add_letters::add_letters;
 use acrostic_generator::clues::{ClueClient, add_chat};
 use acrostic_generator::dict::build_dict;
+use acrostic_generator::maintenance::rebuild_cells::rebuild_cells_in_files;
 use acrostic_generator::quote::{add_quote, build_quotes};
 use acrostic_generator::search::add_answers;
 use acrostic_generator::site::build_site;
@@ -74,6 +75,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                                         .expect("the chat stage should have built a clue client");
                                     add_chat(puzzle, client).await?
                                 }
+                                "rebuild-cells" => rebuild_cells_in_files(puzzle).await?,
                                 x => panic!("Unknown puzzle target {}", x),
                             }
                             anyhow::Ok(())

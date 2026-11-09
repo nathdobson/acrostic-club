@@ -22,6 +22,7 @@ pub mod clues;
 pub mod conflict_set;
 pub mod lemma;
 pub mod llm;
+pub mod maintenance;
 pub mod ontology;
 pub mod quote;
 pub mod site;
