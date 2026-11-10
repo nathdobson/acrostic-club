@@ -3,17 +3,17 @@ use std::future::Future;
 use std::io;
 use std::sync::LazyLock;
 
+use crate::PACKAGE_PATH;
+use crate::dict::{FLAT_WORDS, FlatWord};
+use crate::trie::{FlatTrie, FlatTrieEntry};
+use crate::util::alloc::MmapAllocator;
+use crate::util::lazy_async::CloneError;
+use crate::util::persist::PersistentFile;
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 use itertools::Itertools;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
-use crate::dict::{FlatWord, FLAT_WORDS};
-use crate::trie::{FlatTrie, FlatTrieEntry};
-use crate::util::alloc::MmapAllocator;
-use crate::util::lazy_async::CloneError;
-use crate::util::persist::PersistentFile;
-use crate::PACKAGE_PATH;
 // use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;
@@ -25,8 +25,9 @@ pub struct FlatTrieTable {
     pub binary: HashMap<(Letter, Letter), Box<FlatTrie<(LetterSet, LetterSet)>, MmapAllocator>>,
 }
 
-pub static FLAT_TRIE_TABLE: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<FlatTrieTable>>>> =
-    LazyLock::new(|| AsyncLazy::new(spawn_transparent(FlatTrieTable::new())));
+pub static FLAT_TRIE_TABLE: LazyLock<
+    AsyncLazyLock<JoinTransparent<anyhow::Result<FlatTrieTable>>>,
+> = LazyLock::new(|| AsyncLazy::new(spawn_transparent(FlatTrieTable::new())));
 // AsyncStaticLock<anyhow::Result<FlatTrieTable>> =
 //     AsyncStaticLock::new(async { FlatTrieTable::new().await });
 

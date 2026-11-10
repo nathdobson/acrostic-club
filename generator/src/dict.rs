@@ -2,11 +2,11 @@ use std::future::Future;
 use std::io;
 
 use crate::banned::BANNED_WORDS;
-use crate::{read_path_to_string, PACKAGE_PATH};
+use crate::{PACKAGE_PATH, read_path_to_string};
 use acrostic_core::letter::{Letter, LetterSet};
 use arrayvec::{ArrayString, ArrayVec};
-use futures::future::Shared;
 use futures::FutureExt;
+use futures::future::Shared;
 use tokio::sync::Mutex;
 
 use crate::util::lazy_async::{CloneError, LazyMmap};
