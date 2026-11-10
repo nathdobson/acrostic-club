@@ -1,8 +1,8 @@
+use crate::PACKAGE_PATH;
 use crate::turtle::graph::Turtle;
 use crate::util::lazy_async::CloneError;
-use crate::PACKAGE_PATH;
-use anyhow::{anyhow, Context};
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use anyhow::{Context, anyhow};
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
 use std::collections::HashMap;
 use std::path::Path;
@@ -65,7 +65,9 @@ impl Lemma {
 pub static LEMMA: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Arc<Lemma>>>>> =
     LazyLock::new(|| {
         AsyncLazyLock::new(spawn_transparent(async move {
-            Ok(Arc::new(Lemma::from_file(&PACKAGE_PATH.join("build/lemma.en.txt")).await?))
+            Ok(Arc::new(
+                Lemma::from_file(&PACKAGE_PATH.join("build/lemma.en.txt")).await?,
+            ))
         }))
     });
 

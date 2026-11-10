@@ -1,4 +1,4 @@
 pub mod db;
-pub mod parse;
 pub mod graph;
+pub mod parse;
 mod wordnet;
