@@ -1,14 +1,14 @@
-use crate::util::interrupt::{channel, CleanupSender};
+use crate::util::interrupt::{CleanupSender, channel};
 use crate::util::lazy_async::CloneError;
 use parking_lot::Mutex;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::async_once::AsyncOnce;
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncOnceLock;
 use safe_once_map::sync::AsyncOnceLockMap;
-use serde::de::DeserializeOwned;
 use serde::Deserialize;
 use serde::Serialize;
+use serde::de::DeserializeOwned;
 use std::backtrace::Backtrace;
 use std::borrow::Cow;
 use std::collections::HashMap;
@@ -20,10 +20,10 @@ use std::sync::Arc;
 use std::task::{Context, Poll};
 use std::thread::panicking;
 use std::{io, mem};
-use tempfile::{tempdir, tempfile, TempPath};
+use tempfile::{TempPath, tempdir, tempfile};
 use tokio::fs::{File, OpenOptions};
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
-use tokio::sync::mpsc::{unbounded_channel, UnboundedSender};
+use tokio::sync::mpsc::{UnboundedSender, unbounded_channel};
 use tokio::task::JoinHandle;
 
 pub struct KeyValueFile<K, V> {
@@ -38,9 +38,9 @@ struct KeyValueEntry<K, V> {
 }
 
 impl<
-        K: Serialize + DeserializeOwned + Eq + Hash + Clone + Send + Sync + 'static,
-        V: Serialize + DeserializeOwned + Clone + Send + Sync + 'static,
-    > KeyValueFile<K, V>
+    K: Serialize + DeserializeOwned + Eq + Hash + Clone + Send + Sync + 'static,
+    V: Serialize + DeserializeOwned + Clone + Send + Sync + 'static,
+> KeyValueFile<K, V>
 {
     pub async fn new(path: &Path, cleanup: CleanupSender) -> io::Result<Self> {
         let mut option = OpenOptions::new();
