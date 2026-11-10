@@ -1,21 +1,21 @@
-use futures::{stream, SinkExt, StreamExt};
+use futures::{SinkExt, StreamExt, stream};
 use std::cell::{Cell, RefCell};
 use std::collections::{HashMap, HashSet};
 use std::fmt::Write;
 use std::io::ErrorKind;
 use std::mem::swap;
+use std::sync::Arc;
 use std::sync::atomic::AtomicUsize;
 use std::sync::atomic::Ordering::Relaxed;
-use std::sync::Arc;
 use std::time::Instant;
 use std::{io, iter};
 
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
-use itertools::{max, Itertools};
+use itertools::{Itertools, max};
 use ordered_float::{NotNan, OrderedFloat};
 use rand::rngs::StdRng;
 use rand::seq::SliceRandom;
-use rand::{thread_rng, Rng, SeedableRng};
+use rand::{Rng, SeedableRng, thread_rng};
 use rand_xorshift::XorShiftRng;
 use safe_once_map::sync::OnceLockMap;
 
@@ -23,7 +23,7 @@ use safe_once_map::sync::OnceLockMap;
 use crate::dict::FlatWord;
 use crate::model::{Model, Word};
 use crate::puzzle::{Clue, Puzzle};
-use crate::trie_table::{FlatTrieTable, FLAT_TRIE_TABLE};
+use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
 use crate::util::lazy_async::CloneError;
 
 pub struct Search {
