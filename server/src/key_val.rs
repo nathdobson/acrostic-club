@@ -1,8 +1,8 @@
-use std::collections::hash_map::Entry;
-use std::collections::HashMap;
-use std::hash::Hash;
-use serde::Serialize;
 use serde::Deserialize;
+use serde::Serialize;
+use std::collections::HashMap;
+use std::collections::hash_map::Entry;
+use std::hash::Hash;
 
 #[derive(Default, Clone, Serialize, Deserialize, Eq, Ord, PartialOrd, PartialEq, Debug)]
 struct Seq {
@@ -22,7 +22,11 @@ pub struct SeqValue<V> {
 pub struct KeyVal<K: Eq + Hash, V>(HashMap<K, SeqValue<V>>);
 
 impl<K: Eq + Hash, V> KeyVal<K, V> {
-    pub fn merge_from(&mut self, other: &Self) where K: Clone, V: Clone {
+    pub fn merge_from(&mut self, other: &Self)
+    where
+        K: Clone,
+        V: Clone,
+    {
         for (k, v) in &other.0 {
             match self.0.entry(k.clone()) {
                 Entry::Occupied(mut e) => {
@@ -40,5 +44,8 @@ impl<K: Eq + Hash, V> KeyVal<K, V> {
 
 #[test]
 fn test() {
-    assert_eq!(serde_json::to_string(&KeyVal::<usize, usize>::default()).unwrap(), "{}");
+    assert_eq!(
+        serde_json::to_string(&KeyVal::<usize, usize>::default()).unwrap(),
+        "{}"
+    );
 }

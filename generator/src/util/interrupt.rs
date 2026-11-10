@@ -1,5 +1,5 @@
 use futures::future::BoxFuture;
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use std::future::Future;
 use std::mem;
 use tokio::select;

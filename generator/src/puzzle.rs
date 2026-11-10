@@ -1,7 +1,7 @@
 use std::{fs, io};
 
-use serde::{Deserialize, Serialize};
 use crate::{PACKAGE_PATH, read_path_to_string, write_path};
+use serde::{Deserialize, Serialize};
 
 // #[derive(Serialize, Deserialize, Debug)]
 // pub struct GivenCell {
@@ -44,7 +44,12 @@ pub struct Puzzle {
 impl Puzzle {
     pub async fn read(index: usize, stage: &str) -> io::Result<Puzzle> {
         let input = read_path_to_string(
-            &PACKAGE_PATH.join("puzzles").join(&format!("{}", index)).join(stage)).await?;
+            &PACKAGE_PATH
+                .join("puzzles")
+                .join(&format!("{}", index))
+                .join(stage),
+        )
+        .await?;
         Ok(serde_json::from_str(&input)?)
     }
     pub async fn write(&self, index: usize, stage: &str) -> io::Result<()> {
@@ -53,7 +58,8 @@ impl Puzzle {
         write_path(
             &dir.join(stage),
             &serde_json::to_string_pretty(self).unwrap().as_bytes(),
-        ).await?;
+        )
+        .await?;
         Ok(())
     }
 }

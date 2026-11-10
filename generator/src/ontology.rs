@@ -1,4 +1,4 @@
-use std::any::{type_name, Any};
+use std::any::{Any, type_name};
 use std::collections::{HashMap, HashSet};
 use std::fmt::{Debug, Formatter};
 use std::io;
@@ -18,21 +18,23 @@ use locspan::Meta;
 // use rio_api::model::{Literal, NamedNode, Subject, Term};
 // use rio_api::parser::TriplesParser;
 // use rio_turtle::{TurtleError, TurtleParser};
-use crate::string::LetterString;
-use safe_once::sync::LazyLock;
-use safe_once_async::async_lazy::AsyncLazy;
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
-use safe_once_async::sync::AsyncLazyLock;
-use ustr::Ustr;
 use crate::conflict_set::ConflictSet;
+use crate::string::LetterString;
 use crate::turtle::db::TURTLE;
 use crate::turtle::graph::{Turtle, TurtleIndex};
+use safe_once::sync::LazyLock;
+use safe_once_async::async_lazy::AsyncLazy;
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
+use safe_once_async::sync::AsyncLazyLock;
+use ustr::Ustr;
 // use crate::segment::get_alpha;
 use crate::util::lazy_async::CloneError;
 
 pub struct Ontology {
     pub graph: &'static Turtle,
-    other_form: TurtleIndex,
+    // None when the dictionary has no word-form links (`ontolex:otherForm`), as in DBnary's
+    // English export as of November 2026.
+    other_form: Option<TurtleIndex>,
     written_rep: TurtleIndex,
     canonical_form: TurtleIndex,
     describes: TurtleIndex,
@@ -65,9 +67,7 @@ impl Ontology {
                 .push(Written(o));
         }
         Ok(Ontology {
-            other_form: graph
-                .get_index("http://www.w3.org/ns/lemon/ontolex#otherForm")
-                .unwrap(),
+            other_form: graph.get_index("http://www.w3.org/ns/lemon/ontolex#otherForm"),
             written_rep,
             canonical_form: graph
                 .get_index("http://www.w3.org/ns/lemon/ontolex#canonicalForm")
@@ -132,15 +132,21 @@ impl Ontology {
             .collect()
     }
     pub fn other_form_of(&self, x: Form) -> Vec<Lexical> {
+        let Some(other_form) = self.other_form else {
+            return vec![];
+        };
         self.graph
-            .get_reverse(x.0, self.other_form)
+            .get_reverse(x.0, other_form)
             .into_iter()
             .map(Lexical)
             .collect()
     }
     pub fn other_form(&self, x: Lexical) -> Vec<Form> {
+        let Some(other_form) = self.other_form else {
+            return vec![];
+        };
         self.graph
-            .get_forward(x.0, self.other_form)
+            .get_forward(x.0, other_form)
             .into_iter()
             .map(Form)
             .collect()
