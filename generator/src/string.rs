@@ -1,10 +1,10 @@
+use acrostic_core::letter::{Letter, LetterSet};
+use any_ascii::any_ascii;
+use itertools::Itertools;
 use std::borrow::Borrow;
 use std::fmt::{Debug, Formatter};
 use std::ops::Deref;
 use unicode_segmentation::UnicodeSegmentation;
-use acrostic_core::letter::{Letter, LetterSet};
-use any_ascii::any_ascii;
-use itertools::Itertools;
 
 #[derive(Eq, Ord, PartialEq, PartialOrd, Hash, Clone)]
 pub struct LetterString(Vec<Letter>);
@@ -38,29 +38,37 @@ impl GraphemeString {
         }
         GraphemeString(result)
     }
-    pub fn graphemes(&self) -> impl Iterator<Item=&Grapheme> {
+    pub fn graphemes(&self) -> impl Iterator<Item = &Grapheme> {
         self.0.iter()
     }
-    pub fn letters<'a>(&'a self) -> impl 'a + Iterator<Item=Letter> {
+    pub fn letters<'a>(&'a self) -> impl 'a + Iterator<Item = Letter> {
         self.0.iter().flat_map(|x| x.letters.iter().cloned())
     }
-    pub fn stems(&self) -> impl Iterator<Item=&[Grapheme]> {
-        self.0.split(|x| if x.letters.is_empty() {
-            match &*x.string {
-                "-" => true,
-                "'" | "_" | "ʼ" | "ʽ" | "ʻ" | "ʿ" => false,
-                _ => {
-                    true
+    pub fn stems(&self) -> impl Iterator<Item = &[Grapheme]> {
+        self.0.split(|x| {
+            if x.letters.is_empty() {
+                match &*x.string {
+                    "-" => true,
+                    "'" | "_" | "ʼ" | "ʽ" | "ʻ" | "ʿ" => false,
+                    _ => true,
                 }
+            } else {
+                false
             }
-        } else { false })
+        })
     }
 }
 
 impl Grapheme {
-    pub fn string(&self) -> &str { &self.string }
-    pub fn ascii(&self) -> &str { &self.ascii }
-    pub fn letters(&self) -> &[Letter] { &self.letters }
+    pub fn string(&self) -> &str {
+        &self.string
+    }
+    pub fn ascii(&self) -> &str {
+        &self.ascii
+    }
+    pub fn letters(&self) -> &[Letter] {
+        &self.letters
+    }
 }
 
 impl LetterString {
@@ -123,18 +131,21 @@ impl Debug for LetterString {
 }
 
 impl FromIterator<Letter> for LetterString {
-    fn from_iter<T: IntoIterator<Item=Letter>>(iter: T) -> Self {
+    fn from_iter<T: IntoIterator<Item = Letter>>(iter: T) -> Self {
         LetterString(iter.into_iter().collect())
     }
 }
 
 impl FromIterator<Grapheme> for GraphemeString {
-    fn from_iter<T: IntoIterator<Item=Grapheme>>(iter: T) -> Self {
+    fn from_iter<T: IntoIterator<Item = Grapheme>>(iter: T) -> Self {
         GraphemeString(iter.into_iter().collect())
     }
 }
 
 #[test]
 fn test_string() {
-    assert_eq!(format!("{:?}", GraphemeString::from_str("*straßé*")), "*STRA[SS/ß][E/é]*");
+    assert_eq!(
+        format!("{:?}", GraphemeString::from_str("*straßé*")),
+        "*STRA[SS/ß][E/é]*"
+    );
 }

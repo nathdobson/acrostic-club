@@ -1,4 +1,6 @@
-use std::{io, mem};
+use futures::stream::FuturesUnordered;
+use futures::{StreamExt, TryStreamExt};
+use rand::SeedableRng;
 use std::alloc::Allocator;
 use std::borrow::Borrow;
 use std::cmp::Ordering;
@@ -7,17 +9,16 @@ use std::fmt::{Debug, Formatter};
 use std::mem::size_of;
 use std::path::Path;
 use std::time::Instant;
-use futures::stream::FuturesUnordered;
-use futures::{StreamExt, TryStreamExt};
-use rand::SeedableRng;
+use std::{io, mem};
 
+use acrostic_core::letter::{Letter, LetterMap, LetterSet};
+use anyhow::Context;
 use rand::seq::SliceRandom;
 use rand_xorshift::XorShiftRng;
 use tokio::sync::Semaphore;
-use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 
-use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::PACKAGE_PATH;
+use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::util::alloc::{MmapAllocator, restore_vec, save_vec};
 use crate::util::lazy_async::CloneError;
 use crate::util::parallel::Parallelism;
@@ -57,16 +58,19 @@ impl<V: Clone> FlatTrie<V> {
             result
         }
     }
-    pub async unsafe fn restore(filename: &Path) -> io::Result<Box<Self, MmapAllocator>>
-    {
+    pub async unsafe fn restore(filename: &Path) -> io::Result<Box<Self, MmapAllocator>> {
         let vec: Box<[FlatTrieEntry<V>], MmapAllocator> = restore_vec(filename).await?;
         Ok(Self::new_unchecked_box(vec))
     }
-    pub fn new_unchecked_ref(b: &[FlatTrieEntry<V>]) -> &Self { unsafe { mem::transmute(b) } }
+    pub fn new_unchecked_ref(b: &[FlatTrieEntry<V>]) -> &Self {
+        unsafe { mem::transmute(b) }
+    }
     pub fn new_unchecked_mut(b: &mut [FlatTrieEntry<V>]) -> &mut Self {
         unsafe { mem::transmute(b) }
     }
-    pub fn as_slice(&self) -> &[FlatTrieEntry<V>] { &self.0 }
+    pub fn as_slice(&self) -> &[FlatTrieEntry<V>] {
+        &self.0
+    }
     pub fn view(&self) -> FlatTrieView<V> {
         match &self.0.split_first() {
             None => FlatTrieView::Empty,
@@ -111,12 +115,7 @@ impl<V: Clone> FlatTrie<V> {
             }
         }
     }
-    pub fn search_subset<'a>(
-        &'a self,
-        superset: LetterSet,
-        radius: usize,
-        found: &mut Vec<V>,
-    ) {
+    pub fn search_subset<'a>(&'a self, superset: LetterSet, radius: usize, found: &mut Vec<V>) {
         match self.view() {
             FlatTrieView::Empty => {}
             FlatTrieView::Leaf {
@@ -180,7 +179,9 @@ struct FlatTrieBuilder<V> {
 }
 
 impl<V: Debug> FlatTrieBuilder<V> {
-    fn new() -> FlatTrieBuilder<V> { FlatTrieBuilder { output: vec![] } }
+    fn new() -> FlatTrieBuilder<V> {
+        FlatTrieBuilder { output: vec![] }
+    }
     fn add_leaves(&mut self, leaves: &mut [(LetterSet, Option<V>)], prefix: LetterSet) {
         for x in leaves {
             self.output.push(FlatTrieEntry::Leaf {
@@ -224,7 +225,7 @@ impl<V: Debug> FlatTrieBuilder<V> {
 }
 
 impl<V: Debug + Clone> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
-    fn from_iter<T: IntoIterator<Item=(LetterSet, V)>>(iter: T) -> Self {
+    fn from_iter<T: IntoIterator<Item = (LetterSet, V)>>(iter: T) -> Self {
         let mut entries = iter
             .into_iter()
             .map(|(k, v)| (k, Some(v)))
@@ -278,6 +279,16 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 }
 
 pub async fn build_trie() -> anyhow::Result<()> {
+    // Create the output folders, which a fresh checkout lacks. Doing so before the long
+    // computation below also surfaces a failure early.
+    let unary_folder = PACKAGE_PATH.join("build/unary");
+    let binary_folder = PACKAGE_PATH.join("build/binary");
+    for folder in [&unary_folder, &binary_folder] {
+        tokio::fs::create_dir_all(folder)
+            .await
+            .with_context(|| format!("Cannot create {folder:?}"))?;
+    }
+
     let dict = FLAT_WORDS.get_static().await?;
     let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
@@ -318,31 +329,39 @@ pub async fn build_trie() -> anyhow::Result<()> {
     for (l1, vec) in unary {
         println!("{:?}", l1);
         save_vec::<FlatTrieEntry<LetterSet>>(
-            &PACKAGE_PATH.join(&format!("build/unary/map_{}.dat", l1)),
+            &unary_folder.join(format!("map_{l1}.dat")),
             vec.into_iter()
                 .collect::<Box<FlatTrie<LetterSet>>>()
                 .as_slice(),
-        ).await?;
+        )
+        .await?;
     }
     let parallelism = Parallelism::new();
-    binary.into_iter()
+    binary
+        .into_iter()
         .map(|((l1, l2), vec)| {
             let parallelism = &parallelism;
+            let binary_folder = &binary_folder;
             async move {
-                let built: Box<FlatTrie<(LetterSet, LetterSet)>> = parallelism.run_blocking(move || {
-                    println!("Computing {:?}/{:?}", l1, l2);
-                    vec.into_iter()
-                        .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
-                }).await;
+                let built: Box<FlatTrie<(LetterSet, LetterSet)>> = parallelism
+                    .run_blocking(move || {
+                        println!("Computing {:?}/{:?}", l1, l2);
+                        vec.into_iter()
+                            .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
+                    })
+                    .await;
                 save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
-                    &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
-                    built.as_slice()).await?;
+                    &binary_folder.join(format!("map_{l1}_{l2}.dat")),
+                    built.as_slice(),
+                )
+                .await?;
                 println!("Done {:?}/{:?}", l1, l2);
                 Result::<(), io::Error>::Ok(())
             }
         })
         .collect::<FuturesUnordered<_>>()
-        .try_collect::<()>().await?;
+        .try_collect::<()>()
+        .await?;
     // let mut tasks = vec![];
     // let semaphore = Semaphore::new(num_cpus::get());
     // for ((l1, l2), vec) in binary {
@@ -362,7 +381,6 @@ pub async fn build_trie() -> anyhow::Result<()> {
     Ok(())
 }
 
-
 #[test]
 fn test_flat_trie() {
     let mut entries = vec!["ab", "abc", "abd"];
@@ -373,4 +391,3 @@ fn test_flat_trie() {
     println!("{:?}", b.as_slice());
     println!("{:?}", b);
 }
-

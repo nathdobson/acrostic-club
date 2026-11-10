@@ -1,11 +1,11 @@
 use std::env::vars;
-use std::io;
 use std::ffi::OsString;
+use std::io;
 use std::io::{ErrorKind, Write};
 use std::path::Path;
 
-use futures::future::BoxFuture;
 use futures::FutureExt;
+use futures::future::BoxFuture;
 use serde::Deserialize;
 use serde::Serialize;
 use tokio::fs;
@@ -41,25 +41,36 @@ async fn build_index() -> io::Result<()> {
         let filename = e.file_name();
         let name = filename.to_str().unwrap();
         index.links.push(PuzzleLink {
-            index:
-            name.strip_prefix("puzzle").unwrap().strip_suffix(".json").unwrap().parse().unwrap(),
+            index: name
+                .strip_prefix("puzzle")
+                .unwrap()
+                .strip_suffix(".json")
+                .unwrap()
+                .parse()
+                .unwrap(),
             name: name.to_string().strip_suffix(".json").unwrap().to_string(),
             url: format!("./puzzles/{}", name),
         });
         writeln!(
             f,
             "<p><a href=\"./index.html?puzzle=./puzzles/{}\" >{}</a></p>",
-            name,
-            name,
+            name, name,
         )?;
     }
     index.links.sort();
-    writeln!(f, "<p><a href=\"./ACKNOWLEDGEMENTS.txt\">ACKNOWLEDGEMENTS</a></p>")?;
+    writeln!(
+        f,
+        "<p><a href=\"./ACKNOWLEDGEMENTS.txt\">ACKNOWLEDGEMENTS</a></p>"
+    )?;
     writeln!(f, "<p><a href=\"./LICENSE.txt\">LICENSE</a></p>")?;
     writeln!(f, "</body>")?;
     writeln!(f, "</html>")?;
     // write_path(&PACKAGE_PATH.join("build/site/index.html"), f).await?;
-    write_path(&PACKAGE_PATH.join("build/site/puzzles.json"), serde_json::to_string(&index)?.as_bytes()).await?;
+    write_path(
+        &PACKAGE_PATH.join("build/site/puzzles.json"),
+        serde_json::to_string(&index)?.as_bytes(),
+    )
+    .await?;
     Ok(())
 }
 
@@ -77,7 +88,10 @@ pub fn copy_dir<'a>(source: &'a Path, dest: &'a Path) -> BoxFuture<'a, io::Resul
             } else if metadata.is_file() {
                 fs::symlink(entry.path(), dest).await?;
             } else {
-                return Err(io::Error::new(ErrorKind::Unsupported, "Not a file or directory"));
+                return Err(io::Error::new(
+                    ErrorKind::Unsupported,
+                    "Not a file or directory",
+                ));
             }
             // Ok(())
             // }));
@@ -86,7 +100,8 @@ pub fn copy_dir<'a>(source: &'a Path, dest: &'a Path) -> BoxFuture<'a, io::Resul
         //     task.await?;
         // }
         Ok(())
-    }.boxed()
+    }
+    .boxed()
 }
 
 pub async fn copy_puzzles() -> io::Result<()> {
@@ -102,8 +117,7 @@ pub async fn copy_puzzles() -> io::Result<()> {
             filename.push(".json");
             let input = entry.path().join("stage3.json");
             if fs::metadata(&input).await.is_ok() {
-                if let Err(e) = fs::symlink(input,
-                                            output.join(filename)).await {
+                if let Err(e) = fs::symlink(input, output.join(filename)).await {
                     if e.kind() != ErrorKind::NotFound {
                         return Err(e);
                     }
@@ -116,9 +130,21 @@ pub async fn copy_puzzles() -> io::Result<()> {
 
 pub async fn build_site() -> io::Result<()> {
     fs::remove_dir_all(&PACKAGE_PATH.join("build/site")).await?;
-    copy_dir(&PACKAGE_PATH.join("player"), &PACKAGE_PATH.join("build/site")).await?;
-    fs::symlink(&PACKAGE_PATH.join("LICENSE"), &PACKAGE_PATH.join("build/site/LICENSE.txt")).await?;
-    fs::symlink(&PACKAGE_PATH.join("ACKNOWLEDGEMENTS"), &PACKAGE_PATH.join("build/site/ACKNOWLEDGEMENTS.txt")).await?;
+    copy_dir(
+        &PACKAGE_PATH.join("player"),
+        &PACKAGE_PATH.join("build/site"),
+    )
+    .await?;
+    fs::symlink(
+        &PACKAGE_PATH.join("LICENSE"),
+        &PACKAGE_PATH.join("build/site/LICENSE.txt"),
+    )
+    .await?;
+    fs::symlink(
+        &PACKAGE_PATH.join("ACKNOWLEDGEMENTS"),
+        &PACKAGE_PATH.join("build/site/ACKNOWLEDGEMENTS.txt"),
+    )
+    .await?;
     copy_puzzles().await?;
     build_index().await?;
     Ok(())

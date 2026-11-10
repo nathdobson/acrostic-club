@@ -4,9 +4,9 @@ use std::fs;
 use std::io::{BufRead, Cursor, Read};
 use std::rc::Rc;
 
-use ordered_float::NotNan;
 use acrostic_core::letter::{Letter, LetterSet};
 use any_ascii::any_ascii;
+use ordered_float::NotNan;
 
 #[derive(Eq, Ord, PartialEq, PartialOrd, Hash, Clone, Copy, Debug)]
 pub enum Part {
@@ -36,7 +36,9 @@ pub struct Model {
 }
 
 impl Word {
-    fn length(&self) -> f32 { self.weights.iter().map(|x| *x * *x).sum::<f32>().sqrt() }
+    fn length(&self) -> f32 {
+        self.weights.iter().map(|x| *x * *x).sum::<f32>().sqrt()
+    }
     fn distance(&self, other: &Word) -> f32 {
         self.weights
             .iter()
@@ -48,7 +50,9 @@ impl Word {
 }
 
 impl Model {
-    pub fn get() -> Model { Model::new(&fs::read("data/223/model.bin").unwrap()) }
+    pub fn get() -> Model {
+        Model::new(&fs::read("data/223/model.bin").unwrap())
+    }
     pub fn new(model: &[u8]) -> Self {
         let mut cursor = Cursor::new(model);
         let mut line = String::new();
@@ -151,7 +155,9 @@ impl Debug for Word {
 }
 
 #[test]
-fn read_model() { Model::get(); }
+fn read_model() {
+    Model::get();
+}
 
 // #[test]
 // fn test_sort() {
