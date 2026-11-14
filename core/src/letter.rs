@@ -6,8 +6,8 @@ use std::{iter, mem};
 
 use any_ascii::any_ascii;
 use arrayvec::ArrayVec;
-use rand::distributions::{Distribution, Standard};
 use rand::Rng;
+use rand::distributions::{Distribution, Standard};
 use rkyv::{Archive, Archived, Fallible, Infallible};
 use serde::de::{Error, Visitor};
 use serde::{Deserialize, Deserializer, Serialize, Serializer};

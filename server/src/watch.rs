@@ -1,13 +1,13 @@
+use parking_lot::Mutex;
 use std::collections::HashMap;
 use std::future::poll_fn;
 use std::mem;
 use std::pin::pin;
-use std::sync::{Arc, Weak};
 use std::sync::mpsc::RecvError;
+use std::sync::{Arc, Weak};
 use std::task::Poll;
 use std::time::Duration;
-use parking_lot::Mutex;
-use tokio::sync::{broadcast, Notify};
+use tokio::sync::{Notify, broadcast};
 use tokio::time::sleep;
 
 pub struct Watchable<T> {
@@ -26,10 +26,19 @@ pub struct Watcher<T> {
 }
 
 impl<T> Watchable<T> {
-    pub fn new() -> Self where T: Default {
-        Watchable { state: T::default(), receivers: vec![] }
+    pub fn new() -> Self
+    where
+        T: Default,
+    {
+        Watchable {
+            state: T::default(),
+            receivers: vec![],
+        }
     }
-    pub fn watch(&mut self) -> Arc<Watcher<T>> where T: Clone {
+    pub fn watch(&mut self) -> Arc<Watcher<T>>
+    where
+        T: Clone,
+    {
         let result = Arc::new(Watcher {
             queue: Mutex::new(Queue {
                 state: Some(self.state.clone()),
@@ -40,7 +49,10 @@ impl<T> Watchable<T> {
         self.receivers.push(Arc::downgrade(&result));
         return result;
     }
-    pub fn modify(&mut self, mut modify: impl for<'a> FnMut(&'a mut T)) where T: Default {
+    pub fn modify(&mut self, mut modify: impl for<'a> FnMut(&'a mut T))
+    where
+        T: Default,
+    {
         modify(&mut self.state);
         self.receivers.retain_mut(|x| {
             if let Some(x) = x.upgrade() {
@@ -88,7 +100,6 @@ impl<T> Drop for Watchable<T> {
         }
     }
 }
-
 
 #[tokio::test]
 async fn test() {

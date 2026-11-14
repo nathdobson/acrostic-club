@@ -1,6 +1,6 @@
-use std::sync::{Arc};
-use tokio::time::Instant;
 use parking_lot::Mutex;
+use std::sync::Arc;
+use tokio::time::Instant;
 
 #[derive(Clone)]
 pub enum Clock {
@@ -11,8 +11,12 @@ pub enum Clock {
 pub struct FakeClock(Mutex<Instant>);
 
 impl FakeClock {
-    pub fn set_now(&self, time: Instant) { *self.0.lock() = time }
-    pub fn now(&self) -> Instant { *self.0.lock() }
+    pub fn set_now(&self, time: Instant) {
+        *self.0.lock() = time
+    }
+    pub fn now(&self) -> Instant {
+        *self.0.lock()
+    }
 }
 
 impl Clock {

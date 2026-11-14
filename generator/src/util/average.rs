@@ -8,7 +8,11 @@ pub struct RunningAverage {
 
 impl RunningAverage {
     pub fn new(param: f64) -> Self {
-        RunningAverage { average: f64::NAN, last_x: f64::NEG_INFINITY, param }
+        RunningAverage {
+            average: f64::NAN,
+            last_x: f64::NEG_INFINITY,
+            param,
+        }
     }
     const ANALYTIC_BOUNDARY: f64 = 0.1;
     fn new_weight(dx: f64) -> f64 {
@@ -74,10 +78,12 @@ fn test_running_average() {
     }
 }
 
-
 #[test]
 fn test_floating() {
     // assert_eq!(RunningAverage::new_weight(1.0)
-    assert!(RunningAverage::new_weight_poly(RunningAverage::ANALYTIC_BOUNDARY)
-        - RunningAverage::new_weight_analytic(RunningAverage::ANALYTIC_BOUNDARY) < 0.001);
+    assert!(
+        RunningAverage::new_weight_poly(RunningAverage::ANALYTIC_BOUNDARY)
+            - RunningAverage::new_weight_analytic(RunningAverage::ANALYTIC_BOUNDARY)
+            < 0.001
+    );
 }

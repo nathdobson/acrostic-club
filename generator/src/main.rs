@@ -22,7 +22,7 @@
 #![feature(layout_for_ptr)]
 extern crate core;
 
-use futures::{stream, SinkExt};
+use futures::{SinkExt, stream};
 use std::collections::{BTreeMap, BTreeSet, HashMap};
 use std::fmt::{Debug, Display, Formatter};
 use std::fs::File;
@@ -48,7 +48,7 @@ use tokio::select;
 use tokio::signal::ctrl_c;
 use trie::build_trie;
 
-use crate::clues::{add_chat, ClueClient};
+use crate::clues::{ClueClient, add_chat};
 use crate::quote::add_quote;
 use crate::search::add_answers;
 // use crate::segment::add_letters;
@@ -64,7 +64,10 @@ pub mod trie_table;
 // pub mod segment;
 mod add_letters;
 mod banned;
+mod cluedb;
 pub mod clues;
+pub mod conflict_set;
+mod lemma;
 pub mod llm;
 pub mod ontology;
 pub mod quote;
@@ -73,14 +76,11 @@ pub mod string;
 pub mod subseq;
 pub mod turtle;
 pub mod util;
-mod lemma;
-pub mod conflict_set;
-mod cluedb;
 
 use crate::stream::StreamExt;
+use crate::turtle::db::build_ontolex_turtle;
 use crate::util::interrupt::{CleanupSender, run_with_interrupts};
 use add_letters::add_letters;
-use crate::turtle::db::build_ontolex_turtle;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;

@@ -1,5 +1,5 @@
 use crate::dict::FLAT_WORDS;
-use crate::ontology::{Etymology, Form, Lexical, Ontology, Page, Written, ONTOLOGY};
+use crate::ontology::{Etymology, Form, Lexical, ONTOLOGY, Ontology, Page, Written};
 use crate::string::LetterString;
 use crate::util::lazy_async::CloneError;
 use brotli::interface::Command::Dict;

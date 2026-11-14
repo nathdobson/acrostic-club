@@ -1,5 +1,5 @@
-use crate::turtle::parse::parse_file_graph;
 use crate::PACKAGE_PATH;
+use crate::turtle::parse::parse_file_graph;
 
 #[tokio::test]
 async fn test_wordnet_turtle() -> anyhow::Result<()> {

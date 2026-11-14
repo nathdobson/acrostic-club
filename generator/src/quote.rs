@@ -3,18 +3,18 @@ use std::sync::LazyLock;
 use std::time::Instant;
 use std::{fs, io, slice};
 
-use itertools::{peek_nth, PeekNth};
+use itertools::{PeekNth, peek_nth};
 use rand::seq::SliceRandom;
 use rand::thread_rng;
 use safe_once_async::async_lazy::AsyncLazy;
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
 use serde::Serialize;
 
 use crate::puzzle::Puzzle;
 use crate::util::lazy_async::CloneError;
-use crate::{read_path, read_path_to_string, write_path, PACKAGE_PATH};
+use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
 // use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;

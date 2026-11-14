@@ -1,12 +1,12 @@
 use crate::llm::chat_client::{BaseClient, ChatClient};
-use crate::llm::{ollama_to_anyhow, MODEL_NAME};
-use futures::stream::iter;
+use crate::llm::{MODEL_NAME, ollama_to_anyhow};
 use futures::StreamExt;
+use futures::stream::iter;
+use ollama_rs::Ollama;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
 use ollama_rs::generation::chat::{ChatMessage, MessageRole};
 use ollama_rs::generation::options::GenerationOptions;
 use ollama_rs::generation::parameters::{FormatType, JsonSchema, JsonStructure};
-use ollama_rs::Ollama;
 use serde::{Deserialize, Serialize};
 use std::borrow::Cow;
 use std::marker::PhantomData;
@@ -119,9 +119,7 @@ impl ClueRequest {
                 clue_count: 1,
             },
             ClueResponse {
-                clues: vec![
-                    "Brad ____ from the silver screen.".to_string(),
-                ],
+                clues: vec!["Brad ____ from the silver screen.".to_string()],
             },
         );
         Ok(rpc)

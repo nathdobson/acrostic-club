@@ -1,11 +1,12 @@
-use crate::util::lazy_async::CloneError;
 use crate::PACKAGE_PATH;
-use anyhow::{anyhow, Context};
+use crate::util::lazy_async::CloneError;
+use anyhow::{Context, anyhow};
 // use rio_api::model::{Literal, Subject, Term};
 // use rio_api::parser::TriplesParser;
 // use rio_turtle::{TurtleError, TurtleParser};
 use crate::turtle::graph::{Turtle, TurtleDebug};
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use crate::turtle::parse::parse_file_graph;
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
 use serde::Serialize;
@@ -15,7 +16,6 @@ use std::fmt::{Debug, Formatter};
 use std::sync::LazyLock;
 use std::{any, io};
 use tokio::fs;
-use crate::turtle::parse::parse_file_graph;
 
 pub async fn build_ontolex_turtle() -> anyhow::Result<()> {
     let turtle = parse_file_graph(&[
@@ -40,4 +40,3 @@ pub static TURTLE: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Turtle>
             )?)
         }))
     });
-
