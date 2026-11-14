@@ -1,0 +1,10 @@
+# rustfmt reads this file for every crate in the repository, and its presence
+# keeps a contributor's personal rustfmt configuration from applying here.
+#
+# 100 columns is rustfmt's default width, stated so the setting is visible.
+max_width = 100
+
+# `cargo fmt` takes the style from each crate's edition, but rustfmt run
+# directly on a file falls back to the 2015 style unless told the edition.
+# Pinning the style makes every way of running rustfmt agree.
+style_edition = "2024"

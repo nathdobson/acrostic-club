@@ -1,10 +1,10 @@
+use crate::PACKAGE_PATH;
 use crate::lemma::Lemma;
 use crate::string::LetterString;
 use crate::util::lazy_async::CloneError;
-use crate::PACKAGE_PATH;
 use anyhow::anyhow;
 use itertools::Itertools;
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
 use std::collections::HashMap;

@@ -6,8 +6,8 @@ use std::{iter, mem};
 
 use any_ascii::any_ascii;
 use arrayvec::ArrayVec;
-use rand::distributions::{Distribution, Standard};
 use rand::Rng;
+use rand::distributions::{Distribution, Standard};
 use rkyv::{Archive, Archived, Fallible, Infallible};
 use serde::de::{Error, Visitor};
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
@@ -218,6 +218,20 @@ impl Step for Letter {
     fn backward_checked(start: Self, count: usize) -> Option<Self> {
         Letter::from_index((start.0 as usize).checked_sub(count)?)
     }
+    // On overflow, saturate at the end stepped past: then one jump of n
+    // steps matches n single steps, as `Step` requires.
+    fn forward_overflowing(start: Self, count: usize) -> (Self, bool) {
+        match Self::forward_checked(start, count) {
+            Some(letter) => (letter, false),
+            None => (Self::MAX, true),
+        }
+    }
+    fn backward_overflowing(start: Self, count: usize) -> (Self, bool) {
+        match Self::backward_checked(start, count) {
+            Some(letter) => (letter, false),
+            None => (Self::MIN, true),
+        }
+    }
 }
 
 impl FromIterator<Letter> for LetterSet {
@@ -324,7 +338,8 @@ macro_rules! derive_archive_trivial {
                 resolver: Self::Resolver,
                 out: *mut Self::Archived,
             ) {
-                out.write(*self)
+                // SAFETY: `Archive::resolve`'s caller guarantees that `out` is valid for writes.
+                unsafe { out.write(*self) }
             }
         }
 
@@ -346,7 +361,9 @@ macro_rules! derive_archive_trivial {
                 value: *const Self,
                 context: &mut V,
             ) -> Result<&'a Self, Self::Error> {
-                Ok(&*value)
+                // SAFETY: the caller guarantees that `value` is aligned and points to enough bytes
+                // for `Self`, and `Self` is plain bytes, so any byte pattern is a valid value.
+                Ok(unsafe { &*value })
             }
         }
     };

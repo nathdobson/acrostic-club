@@ -1,17 +1,17 @@
-use std::{fs, io, slice};
-use std::alloc::{Allocator, AllocError, Layout};
+use csv::ErrorKind;
+use std::alloc::{AllocError, Allocator, Layout};
 use std::fmt::Debug;
 use std::mem::size_of;
 use std::path::{Path, PathBuf};
 use std::ptr::{NonNull, null_mut, slice_from_raw_parts};
-use csv::ErrorKind;
+use std::{fs, io, slice};
 
+use acrostic_core::letter::LetterSet;
 use memmap::{Mmap, MmapMut, MmapOptions};
-use rkyv::{Archive, Archived, CheckBytes, Fallible, Serialize};
 use rkyv::ser::serializers::AllocSerializer;
 use rkyv::validation::validators::DefaultValidator;
+use rkyv::{Archive, Archived, CheckBytes, Fallible, Serialize};
 use tokio::fs::File;
-use acrostic_core::letter::LetterSet;
 
 use crate::{Deserialize, read_path, write_path};
 
@@ -21,7 +21,9 @@ pub struct MmapAllocator {
 }
 
 unsafe impl Allocator for MmapAllocator {
-    fn allocate(&self, layout: Layout) -> Result<NonNull<[u8]>, AllocError> { todo!() }
+    fn allocate(&self, layout: Layout) -> Result<NonNull<[u8]>, AllocError> {
+        todo!()
+    }
     unsafe fn deallocate(&self, ptr: NonNull<u8>, layout: Layout) {}
 }
 
@@ -37,10 +39,6 @@ unsafe impl Allocator for MmapAllocator {
 //         B: AnyRepr,
 // {}
 
-
-
-
-
 pub async fn save_vec<T>(file: &Path, value: &[T]) -> io::Result<()> {
     unsafe {
         let start = value.as_ptr();
@@ -53,12 +51,12 @@ pub async fn save_vec<T>(file: &Path, value: &[T]) -> io::Result<()> {
     }
 }
 
-
 pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocator>> {
     Ok(unsafe {
         let file = tokio::fs::OpenOptions::new()
             .read(true)
-            .open(filename).await
+            .open(filename)
+            .await
             .unwrap_or_else(|e| panic!("Cannot open {:?}: {}", filename, e));
         let len = file.metadata().await?.len();
         if len == 0 {
@@ -95,7 +93,6 @@ pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocato
 //     Ok(restore_vec(&PACKAGE_PATH.join("build/dict.dat")).await?)
 // }.boxed());
 
-
 // #[test]
 // fn test_mmap_allocator() {
 //     let file = "/tmp/test_mmap_allocator";
@@ -103,4 +100,3 @@ pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocato
 //     save_vec(Path::new(file), &value);
 //     assert_eq!(*value, *restore_vec::<u32>(Path::new(file)));
 // }
-

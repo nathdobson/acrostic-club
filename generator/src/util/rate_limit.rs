@@ -1,13 +1,13 @@
-use std::cmp::max;
-use std::collections::VecDeque;
-use std::future::Future;
-use std::time::{Duration};
-use futures::future::BoxFuture;
-use parking_lot::Mutex;
-use tokio::time::Instant;
 use crate::stream::FuturesUnordered;
 use crate::util::average::RunningAverage;
 use crate::util::clock::Clock;
+use futures::future::BoxFuture;
+use parking_lot::Mutex;
+use std::cmp::max;
+use std::collections::VecDeque;
+use std::future::Future;
+use std::time::Duration;
+use tokio::time::Instant;
 
 pub struct RateLimit {
     history: VecDeque<Instant>,
@@ -30,7 +30,9 @@ impl RateLimit {
     pub fn spawn(&mut self) -> Instant {
         let mut time = self.clock.now();
         if let Some(front) = self.history.front() {
-            if let Some(new_time) = front.checked_add(Duration::from_secs_f64(self.history.len() as f64 / self.target_rate)) {
+            if let Some(new_time) = front.checked_add(Duration::from_secs_f64(
+                self.history.len() as f64 / self.target_rate,
+            )) {
                 time = max(time, new_time);
             }
         }

@@ -1,4 +1,4 @@
-use std::any::{type_name, Any};
+use std::any::{Any, type_name};
 use std::collections::{HashMap, HashSet};
 use std::fmt::{Debug, Formatter};
 use std::io;
@@ -18,15 +18,15 @@ use locspan::Meta;
 // use rio_api::model::{Literal, NamedNode, Subject, Term};
 // use rio_api::parser::TriplesParser;
 // use rio_turtle::{TurtleError, TurtleParser};
-use crate::string::LetterString;
-use safe_once::sync::LazyLock;
-use safe_once_async::async_lazy::AsyncLazy;
-use safe_once_async::detached::{spawn_transparent, JoinTransparent};
-use safe_once_async::sync::AsyncLazyLock;
-use ustr::Ustr;
 use crate::conflict_set::ConflictSet;
+use crate::string::LetterString;
 use crate::turtle::db::TURTLE;
 use crate::turtle::graph::{Turtle, TurtleIndex};
+use safe_once::sync::LazyLock;
+use safe_once_async::async_lazy::AsyncLazy;
+use safe_once_async::detached::{JoinTransparent, spawn_transparent};
+use safe_once_async::sync::AsyncLazyLock;
+use ustr::Ustr;
 // use crate::segment::get_alpha;
 use crate::util::lazy_async::CloneError;
 

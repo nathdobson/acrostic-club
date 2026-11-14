@@ -5,29 +5,29 @@
 #![allow(unused_variables, dead_code)]
 #![allow(unused_mut)]
 
-pub mod watch;
 mod key_val;
+pub mod watch;
 
+use crate::key_val::KeyVal;
+use crate::watch::Watchable;
+use clap::Parser;
+use futures_util::stream::{SplitSink, SplitStream};
+use futures_util::{FutureExt, SinkExt, StreamExt};
+use log::LevelFilter;
+use parking_lot::Mutex;
+use serde::Deserialize;
+use serde::Serialize;
+use serde_json::Value;
 use std::collections::HashMap;
 use std::future::join;
-use std::{io, thread};
 use std::net::SocketAddr;
 use std::sync::Arc;
 use std::sync::mpsc::RecvError;
 use std::time::Duration;
-use futures_util::{FutureExt, SinkExt, StreamExt};
-use futures_util::stream::{SplitSink, SplitStream};
-use parking_lot::Mutex;
+use std::{io, thread};
+use tokio::try_join;
 use warp::Filter;
 use warp::ws::{Message, WebSocket};
-use serde::Serialize;
-use serde::Deserialize;
-use serde_json::Value;
-use tokio::try_join;
-use crate::key_val::KeyVal;
-use crate::watch::Watchable;
-use clap::Parser;
-use log::LevelFilter;
 
 #[derive(Default)]
 pub struct RoomState {
@@ -42,7 +42,11 @@ pub struct RoomSet(parking_lot::Mutex<HashMap<String, Arc<Room>>>);
 type Result<T> = anyhow::Result<T>;
 
 impl Room {
-    pub async fn run_socket(&self, mut tx: SplitSink<WebSocket, Message>, mut rx: SplitStream<WebSocket>) -> Result<()> {
+    pub async fn run_socket(
+        &self,
+        mut tx: SplitSink<WebSocket, Message>,
+        mut rx: SplitStream<WebSocket>,
+    ) -> Result<()> {
         let watcher = self.0.lock().sender.watch();
         let down = async move {
             while let std::result::Result::<_, RecvError>::Ok(next) = watcher.recv().await {
@@ -67,7 +71,12 @@ impl RoomSet {
     pub fn new() -> Arc<RoomSet> {
         Arc::new(RoomSet(parking_lot::Mutex::new(HashMap::new())))
     }
-    pub async fn run_socket(&self, name: &str, mut tx: SplitSink<WebSocket, Message>, mut rx: SplitStream<WebSocket>) -> Result<()> {
+    pub async fn run_socket(
+        &self,
+        name: &str,
+        mut tx: SplitSink<WebSocket, Message>,
+        mut rx: SplitStream<WebSocket>,
+    ) -> Result<()> {
         let room = self.0.lock().entry(name.to_string()).or_default().clone();
         room.run_socket(tx, rx).await?;
         Ok(())
@@ -94,25 +103,21 @@ async fn main() -> io::Result<()> {
     simple_logging::log_to_file("server.log", LevelFilter::Trace)?;
     let args: Args = Args::parse();
     let room_set = RoomSet::new();
-    let routes =
-        warp::path("room")
-            .and(warp::path::param())
-            .and(warp::ws())
-            .map(move |name: String, ws: warp::ws::Ws| {
-                println!("Handling");
-                let room_set = room_set.clone();
-                ws.on_upgrade(|websocket| async move {
-                    println!("Upgraded");
-                    let (tx, rx) = websocket.split();
-                    if let Err(e) = room_set.run_socket(&name, tx, rx).await {
-                        eprintln!("Websocket error: {:?}", e);
-                    }
-                })
-            }).or(
-            warp::path("test").map(|| {
-                "Hello"
+    let routes = warp::path("room")
+        .and(warp::path::param())
+        .and(warp::ws())
+        .map(move |name: String, ws: warp::ws::Ws| {
+            println!("Handling");
+            let room_set = room_set.clone();
+            ws.on_upgrade(|websocket| async move {
+                println!("Upgraded");
+                let (tx, rx) = websocket.split();
+                if let Err(e) = room_set.run_socket(&name, tx, rx).await {
+                    eprintln!("Websocket error: {:?}", e);
+                }
             })
-        );
+        })
+        .or(warp::path("test").map(|| "Hello"));
     let http = async {
         if let Some(bind_http) = args.bind_http {
             warp::serve(routes.clone()).run(bind_http).await;
@@ -124,7 +129,8 @@ async fn main() -> io::Result<()> {
                 .tls()
                 .cert_path(args.cert)
                 .key_path(args.key)
-                .run(bind_https).await;
+                .run(bind_https)
+                .await;
         }
     };
     join!(http, https).await;

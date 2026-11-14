@@ -1,14 +1,14 @@
 use crate::llm::chat_client::ChatClient;
 use backoff::backoff::{Backoff, Zero};
 use backoff::{ExponentialBackoff, ExponentialBackoffBuilder};
-use futures::future::BoxFuture;
 use futures::FutureExt;
+use futures::future::BoxFuture;
+use ollama_rs::generation::chat::ChatMessageResponse;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
-use ollama_rs::generation::completion::request::GenerationRequest;
 use ollama_rs::generation::completion::GenerationResponse;
+use ollama_rs::generation::completion::request::GenerationRequest;
 use std::sync::Arc;
 use std::time::Duration;
-use ollama_rs::generation::chat::ChatMessageResponse;
 use tokio::time::sleep;
 // use crate::llm::types::{ChatRequest, ChatResponse};
 

@@ -1,9 +1,9 @@
-use crate::turtle::graph::Turtle;
 use crate::PACKAGE_PATH;
+use crate::turtle::graph::Turtle;
 use anyhow::Context;
-use std::path::Path;
 use oxrdf::{Subject, Term};
 use oxttl::TurtleParser;
+use std::path::Path;
 use tokio::fs;
 
 pub async fn parse_file_graph(paths: &[&Path]) -> anyhow::Result<Turtle> {

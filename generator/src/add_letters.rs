@@ -1,7 +1,7 @@
-use std::io;
 use crate::puzzle::Puzzle;
 use crate::string::{GraphemeString, LetterString};
 use std::fmt::Write;
+use std::io;
 // pub fn segment(s: &str) -> Vec<EitherOrBoth<Letter, String>> {
 //     let mut result = vec![];
 //     for grapheme in s.graphemes(true) {
@@ -31,7 +31,11 @@ fn quote_to_cells(input: &str) -> String {
     let mut cells = String::new();
     for grapheme in GraphemeString::from_str(&input).graphemes() {
         if grapheme.letters().is_empty() {
-            let content = if grapheme.ascii().is_empty() { grapheme.string() } else { grapheme.ascii() };
+            let content = if grapheme.ascii().is_empty() {
+                grapheme.string()
+            } else {
+                grapheme.ascii()
+            };
             if content.chars().all(|x| x.is_ascii_digit()) {
                 write!(&mut cells, "{}", content).unwrap();
                 continue;
@@ -43,14 +47,16 @@ fn quote_to_cells(input: &str) -> String {
                     }
                 }
 
-                "." | "," | ";" | "'" | "\"" | "!" | "?" | "‘" | "’" | ":"
-                | "&" | "*" | "(" | ")" | "”" | "“" | "…" | "\n" | "\u{a0}"
-                | "$" | "~" | "\t" | "_" | "/" | "´" | "[" | "]" | "#" | "..." => {}
+                "." | "," | ";" | "'" | "\"" | "!" | "?" | "‘" | "’" | ":" | "&" | "*" | "("
+                | ")" | "”" | "“" | "…" | "\n" | "\u{a0}" | "$" | "~" | "\t" | "_" | "/" | "´"
+                | "[" | "]" | "#" | "..." => {}
 
                 "-" | "—" | "–" => {
                     write!(&mut cells, "-").unwrap();
                 }
-                x => { panic!("{:?}", x); }
+                x => {
+                    panic!("{:?}", x);
+                }
             }
         } else {
             cells.extend(grapheme.letters().iter().map(|x| x.to_char()));
@@ -59,14 +65,16 @@ fn quote_to_cells(input: &str) -> String {
     cells
 }
 
-
 pub async fn add_letters(pindex: usize) -> io::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage0.json").await?;
     puzzle
         .quote_letters
         .get_or_insert_with(|| quote_to_cells(&puzzle.quote));
     puzzle.source_letters.get_or_insert_with(|| {
-        LetterString::from_str(&puzzle.source).iter().map(|x| x.to_char()).collect()
+        LetterString::from_str(&puzzle.source)
+            .iter()
+            .map(|x| x.to_char())
+            .collect()
     });
     puzzle.write(pindex, "stage1.json").await?;
     Ok(())
@@ -75,6 +83,12 @@ pub async fn add_letters(pindex: usize) -> io::Result<()> {
 #[test]
 fn test_quote_to_cells() {
     assert_eq!(quote_to_cells("０１２３４５６７８９"), "0123456789");
-    assert_eq!(quote_to_cells("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"), "ABCDEFGHIJKLMNOPQRSTUVWXYZ");
-    assert_eq!(quote_to_cells("ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ"), "ABCDEFGHIJKLMNOPQRSTUVWXYZ");
+    assert_eq!(
+        quote_to_cells("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"),
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    );
+    assert_eq!(
+        quote_to_cells("ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ"),
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    );
 }

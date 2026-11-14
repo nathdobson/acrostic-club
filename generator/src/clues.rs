@@ -1,7 +1,7 @@
 #![allow(unused_variables, unused_mut)]
 
-use crate::cluedb::{ClueDb, CLUE_DB};
-use crate::lemma::{Lemma, LEMMA};
+use crate::cluedb::{CLUE_DB, ClueDb};
+use crate::lemma::{LEMMA, Lemma};
 use acrostic_core::letter::Letter;
 use anyhow::anyhow;
 use futures::future::{join_all, try_join_all};
@@ -20,13 +20,13 @@ use crate::llm::chat_client::{BaseClient, ChatClient};
 use crate::llm::new_client;
 use crate::llm::rpcs::{AnswerRequest, ClueRequest};
 // use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
-use crate::ontology::{Ontology, ONTOLOGY};
 use crate::PACKAGE_PATH;
+use crate::ontology::{ONTOLOGY, Ontology};
 
 use crate::puzzle::Puzzle;
 use crate::string::LetterString;
 use crate::subseq::longest_subsequence;
-use crate::util::interrupt::{channel, CleanupSender};
+use crate::util::interrupt::{CleanupSender, channel};
 use crate::util::lazy_async::CloneError;
 
 static MODEL: &str = "llama3.2:3b";
