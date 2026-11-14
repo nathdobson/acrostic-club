@@ -129,7 +129,12 @@ pub async fn copy_puzzles() -> io::Result<()> {
 }
 
 pub async fn build_site() -> io::Result<()> {
-    fs::remove_dir_all(&PACKAGE_PATH.join("build/site")).await?;
+    // Clear out the previous build, if any: a fresh checkout has none.
+    if let Err(error) = fs::remove_dir_all(&PACKAGE_PATH.join("build/site")).await {
+        if error.kind() != ErrorKind::NotFound {
+            return Err(error);
+        }
+    }
     copy_dir(
         &PACKAGE_PATH.join("player"),
         &PACKAGE_PATH.join("build/site"),
