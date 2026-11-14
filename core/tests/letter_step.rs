@@ -59,14 +59,26 @@ fn nth_past_the_end_returns_none_and_exhausts_the_range() {
 
 #[test]
 fn stepping_forward_past_z_saturates_at_z() {
-    assert_eq!((letter(b'Z'), true), Step::forward_overflowing(letter(b'Y'), 2));
-    assert_eq!((letter(b'Z'), true), Step::forward_overflowing(letter(b'D'), usize::MAX));
+    assert_eq!(
+        (letter(b'Z'), true),
+        Step::forward_overflowing(letter(b'Y'), 2)
+    );
+    assert_eq!(
+        (letter(b'Z'), true),
+        Step::forward_overflowing(letter(b'D'), usize::MAX)
+    );
 }
 
 #[test]
 fn stepping_backward_past_a_saturates_at_a() {
-    assert_eq!((letter(b'A'), true), Step::backward_overflowing(letter(b'B'), 2));
-    assert_eq!((letter(b'A'), true), Step::backward_overflowing(letter(b'D'), usize::MAX));
+    assert_eq!(
+        (letter(b'A'), true),
+        Step::backward_overflowing(letter(b'B'), 2)
+    );
+    assert_eq!(
+        (letter(b'A'), true),
+        Step::backward_overflowing(letter(b'D'), usize::MAX)
+    );
 }
 
 #[test]
