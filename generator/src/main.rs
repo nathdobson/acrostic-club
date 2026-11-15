@@ -158,7 +158,13 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                     puzzles.insert(puzzle.parse().unwrap());
                 }
             }
-            let client = ClueClient::new(cleanup).await?;
+            // Building the clue client loads the ontology, the lemma list, and the clue database,
+            // which only the chat stage reads.
+            let client = if target == "chat" {
+                Some(ClueClient::new(cleanup).await?)
+            } else {
+                None
+            };
             let concurrency = match target.deref() {
                 "chat" => 1,
                 _ => 1,
@@ -173,7 +179,12 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                                 "quote" => add_quote(puzzle).await?,
                                 "letters" => add_letters(puzzle).await?,
                                 "answers" => add_answers(puzzle).await?,
-                                "chat" => add_chat(puzzle, &client).await?,
+                                "chat" => {
+                                    let client = client
+                                        .as_ref()
+                                        .expect("the chat stage should have built a clue client");
+                                    add_chat(puzzle, client).await?
+                                }
                                 x => panic!("Unknown puzzle target {}", x),
                             }
                             anyhow::Ok(())
