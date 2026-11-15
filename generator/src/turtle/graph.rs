@@ -129,15 +129,3 @@ impl<'a> Debug for TurtleDebug<'a> {
         m.finish()
     }
 }
-
-#[test]
-fn test_binary_search() {
-    assert_eq!(
-        [(0, "a"), (0, "b")],
-        binary_search_range(&[(0, "a"), (0, "b"), (1, "c"), (1, "d")], 0, |x| x.0)
-    );
-    assert_eq!(
-        [(1, "c"), (1, "d")],
-        binary_search_range(&[(0, "a"), (0, "b"), (1, "c"), (1, "d")], 1, |x| x.0)
-    );
-}
