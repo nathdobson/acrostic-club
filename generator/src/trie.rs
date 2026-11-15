@@ -12,6 +12,7 @@ use std::time::Instant;
 use std::{io, mem};
 
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
+use anyhow::Context;
 use rand::seq::SliceRandom;
 use rand_xorshift::XorShiftRng;
 use tokio::sync::Semaphore;
@@ -278,6 +279,16 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 }
 
 pub async fn build_trie() -> anyhow::Result<()> {
+    // Create the output folders, which a fresh checkout lacks. Doing so before the long
+    // computation below also surfaces a failure early.
+    let unary_folder = PACKAGE_PATH.join("build/unary");
+    let binary_folder = PACKAGE_PATH.join("build/binary");
+    for folder in [&unary_folder, &binary_folder] {
+        tokio::fs::create_dir_all(folder)
+            .await
+            .with_context(|| format!("Cannot create {folder:?}"))?;
+    }
+
     let dict = FLAT_WORDS.get_static().await?;
     let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
@@ -318,7 +329,7 @@ pub async fn build_trie() -> anyhow::Result<()> {
     for (l1, vec) in unary {
         println!("{:?}", l1);
         save_vec::<FlatTrieEntry<LetterSet>>(
-            &PACKAGE_PATH.join(&format!("build/unary/map_{}.dat", l1)),
+            &unary_folder.join(format!("map_{l1}.dat")),
             vec.into_iter()
                 .collect::<Box<FlatTrie<LetterSet>>>()
                 .as_slice(),
@@ -330,6 +341,7 @@ pub async fn build_trie() -> anyhow::Result<()> {
         .into_iter()
         .map(|((l1, l2), vec)| {
             let parallelism = &parallelism;
+            let binary_folder = &binary_folder;
             async move {
                 let built: Box<FlatTrie<(LetterSet, LetterSet)>> = parallelism
                     .run_blocking(move || {
@@ -339,7 +351,7 @@ pub async fn build_trie() -> anyhow::Result<()> {
                     })
                     .await;
                 save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
-                    &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
+                    &binary_folder.join(format!("map_{l1}_{l2}.dat")),
                     built.as_slice(),
                 )
                 .await?;
