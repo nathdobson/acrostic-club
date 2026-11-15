@@ -62,6 +62,7 @@ impl<'a> Parser<'a> {
 }
 
 pub async fn build_quotes() -> io::Result<()> {
+    let start = Instant::now();
     let mut contents =
         read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
     let mut dec = brotli::Decompressor::new(Cursor::new(&contents), 4096);
@@ -145,9 +146,8 @@ pub async fn build_quotes() -> io::Result<()> {
         serde_json::to_string_pretty(&entries)?.as_bytes(),
     )
     .await?;
-    let start = Instant::now();
-
-    println!("{:?}", start.elapsed());
+    let elapsed = start.elapsed();
+    println!("{elapsed:?}");
     Ok(())
 }
 
