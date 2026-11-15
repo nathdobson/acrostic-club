@@ -23,8 +23,6 @@ use acrostic_core::letter::LetterSet;
 use memmap::MmapOptions;
 use ndarray::Array2;
 use ndarray_npy::ReadNpyExt;
-use npy::NpyData;
-use npy_derive::Serializable;
 use serde::de::{EnumAccess, Error, MapAccess, SeqAccess, Visitor};
 use serde::{Deserialize, Deserializer};
 use serde_pickle::{DeOptions, HashableValue, Value};
