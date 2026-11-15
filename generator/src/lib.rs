@@ -21,8 +21,6 @@ use std::{env, fs, io, mem};
 
 use acrostic_core::letter::LetterSet;
 use memmap::MmapOptions;
-use ndarray::Array2;
-use ndarray_npy::ReadNpyExt;
 use serde::de::{EnumAccess, Error, MapAccess, SeqAccess, Visitor};
 use serde::{Deserialize, Deserializer};
 use serde_pickle::{DeOptions, HashableValue, Value};
