@@ -1,9 +1,8 @@
-use std::io::{Cursor, ErrorKind, Read};
+use std::io::{self, ErrorKind, Read};
 use std::sync::LazyLock;
 use std::time::Instant;
-use std::{io, slice};
 
-use itertools::{PeekNth, peek_nth};
+use csv::StringRecord;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
@@ -33,114 +32,106 @@ pub static QUOTES: LazyLock<AsyncLazyLock<JoinTransparent<io::Result<Vec<Quote>>
         }))
     });
 
-struct Parser<'a>(PeekNth<slice::Iter<'a, u8>>);
+// The records of the quote file that get no puzzle number.
+//
+// Puzzle numbers must stay stable: published links and solvers' saved progress refer to puzzles by
+// number. The numbers in use came from an earlier hand-written parser, which merged a few groups of
+// records into single entries and dropped one empty record. Each merged group's first record keeps
+// its entry's number, and the records listed here get none, so every later puzzle number stays
+// where that parser put it.
+//
+// The list fits the Quotes-500K submodule at commit b82f2b88. Another commit of the submodule may
+// need a different list; `test_pinned_quote_file_matches_committed_puzzles` catches one that no
+// longer fits.
+#[rustfmt::skip]
+const PINNED_UNNUMBERED_RECORDS: &[usize] = &[
+    // Merged with record 29,312 by a backslash after this record's opening quotation mark.
+    29_313,
+    // Merged with record 57,766, because this record spreads its quote across several fields and
+    // has an empty field before its topics.
+    57_767,
+    // Merged with record 301,314 by a backslash after record 301,317's opening quotation mark.
+    301_315, 301_316, 301_317,
+    // An empty record, which the earlier parser dropped.
+    422_587,
+];
 
-impl<'a> Parser<'a> {
-    fn read_exact(&mut self, expected: &[u8]) -> bool {
-        for (i, x) in expected.iter().enumerate() {
-            if self.0.peek_nth(i) != Some(&x) {
-                return false;
-            }
+impl Quote {
+    // Builds a quote from one record of the quote file. A record holds the quote, its source, and
+    // its comma-separated topics, followed by empty padding fields:
+    //
+    // - `Carpe diem.,Horace,"time, life",,,` gives the quote `Carpe diem.`, the source `Horace`,
+    //   and the topics `time` and `life`.
+    // - `Veni, vidi, vici.,Julius Caesar,history,,,` splits its quote across three fields. The
+    //   last two fields are still the source and the topics, and the pieces before them rejoin,
+    //   with commas, into the quote.
+    // - `Carpe diem.,Horace,,,` has no topics, so its two remaining fields are the quote and the
+    //   source.
+    fn from_record(record: &StringRecord) -> Self {
+        let mut fields: Vec<&str> = record.iter().collect();
+        while fields.last() == Some(&"") {
+            fields.pop();
         }
-        self.0.nth(expected.len() - 1);
-        true
-    }
-    fn read_exact_end(&mut self, expected: &[u8]) -> bool {
-        if self.0.peek_nth(expected.len()).is_some() {
-            return false;
+        // TODO: A split quote with no topics is misread: `Veni, vidi, vici.,Julius Caesar,,,`
+        // gives the quote `Veni, vidi`, the source ` vici.`, and the topic `Julius Caesar`.
+        //
+        // TODO: About two dozen records in the pinned file hold an empty field mid-record, such as
+        // between the quote and the source, and are misread too.
+        let (quote_pieces, source, topics) = match fields.as_slice() {
+            [quote, source] => (std::slice::from_ref(quote), *source, ""),
+            [quote_pieces @ .., source, topics] => (quote_pieces, *source, *topics),
+            // No fields, or a quote alone.
+            quote_pieces => (quote_pieces, "", ""),
+        };
+        Self {
+            quote: quote_pieces.join(","),
+            source: source.to_string(),
+            // TODO: A record without topics gets the topic list `[""]` rather than an empty list.
+            topics: topics
+                .split(",")
+                .map(|topic| topic.trim().to_string())
+                .collect(),
         }
-        self.read_exact(expected)
-    }
-    fn eof(&mut self) -> bool {
-        self.0.peek().is_none()
-    }
-    fn read(&mut self) -> Option<u8> {
-        self.0.next().copied()
     }
 }
 
+// Parses the quote file's CSV into a list indexed by puzzle number, giving every record except
+// `unnumbered_records` the next number in turn. Fails when the input can't be read or isn't UTF-8,
+// or when its records differ in width. Malformed CSV, such as an unclosed quotation mark, never
+// fails on its own: the csv crate reads it leniently.
+pub fn parse_quotes(input: impl Read, unnumbered_records: &[usize]) -> io::Result<Vec<Quote>> {
+    // The csv crate reads the first record as a header unless told otherwise. This file has no
+    // header row, and skipping its first record would shift every puzzle number.
+    let mut reader = csv::ReaderBuilder::new()
+        .has_headers(false)
+        .from_reader(input);
+    let mut quotes = vec![];
+    for (record_index, record) in reader.records().enumerate() {
+        let record = record?;
+        if unnumbered_records.contains(&record_index) {
+            continue;
+        }
+        quotes.push(Quote::from_record(&record));
+    }
+    Ok(quotes)
+}
+
+// Parses the pinned Quotes-500K file, given its brotli-compressed bytes.
+pub fn parse_pinned_quote_file(compressed: &[u8]) -> io::Result<Vec<Quote>> {
+    parse_quotes(
+        brotli::Decompressor::new(compressed, 4096),
+        PINNED_UNNUMBERED_RECORDS,
+    )
+}
+
+// Writes the pinned Quotes-500K file's quotes, indexed by puzzle number, to build/quotes.json.
 pub async fn build_quotes() -> io::Result<()> {
     let start = Instant::now();
-    let contents = read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
-    let mut dec = brotli::Decompressor::new(Cursor::new(&contents), 4096);
-    let mut c2 = vec![];
-    dec.read_to_end(&mut c2).unwrap();
-    let mut contents = c2;
-    contents.reverse();
-    let mut parser = Parser(peek_nth(contents.iter()));
-    let mut entries = vec![];
-    'entries: loop {
-        while parser.read_exact(b",") {}
-        let mut cells = vec![];
-        'cells: loop {
-            let quoted = parser.read_exact(b"\"");
-            let mut cell = vec![];
-            loop {
-                if parser.eof() {
-                    cells.push(cell);
-                    entries.push(cells);
-                    break 'entries;
-                }
-                if parser.read_exact(b"\\") {
-                    cell.push(parser.read().unwrap());
-                    continue;
-                }
-                if quoted {
-                    if cells.len() < 2 && parser.read_exact(b"\",") {
-                        break;
-                    }
-                    if parser.read_exact(b"\"\n") {
-                        cells.push(cell);
-                        break 'cells;
-                    }
-                } else {
-                    if parser.read_exact(b"\n") {
-                        cells.push(cell);
-                        break 'cells;
-                    }
-                    if cells.len() < 2 && parser.read_exact(b",") {
-                        break;
-                    }
-                }
-                if let Some(next) = parser.read() {
-                    cell.push(next);
-                    continue;
-                } else {
-                    break;
-                }
-            }
-            cells.push(cell);
-        }
-        entries.push(cells);
-    }
-    entries.reverse();
-    let mut entries: Vec<Vec<String>> = entries
-        .into_iter()
-        .map(|mut x| {
-            x.reverse();
-            let mut x: Vec<String> = x
-                .into_iter()
-                .map(|mut x| {
-                    x.reverse();
-                    String::from_utf8(x).unwrap()
-                })
-                .collect();
-            x.resize(3, String::new());
-            x
-        })
-        .collect();
-    entries.retain(|x| x.iter().any(|x| !x.is_empty()));
-    let entries: Vec<Quote> = entries
-        .into_iter()
-        .map(|x| Quote {
-            quote: x[0].clone(),
-            source: x[1].clone(),
-            topics: x[2].split(",").map(|x| x.trim().to_string()).collect(),
-        })
-        .collect();
+    let compressed = read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
+    let quotes = parse_pinned_quote_file(&compressed)?;
     write_path(
         &PACKAGE_PATH.join("build/quotes.json"),
-        serde_json::to_string_pretty(&entries)?.as_bytes(),
+        serde_json::to_string_pretty(&quotes)?.as_bytes(),
     )
     .await?;
     let elapsed = start.elapsed();
