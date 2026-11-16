@@ -1,4 +1,4 @@
-use std::{fs, io};
+use std::io;
 
 use crate::{PACKAGE_PATH, read_path_to_string, write_path};
 use serde::{Deserialize, Serialize};

@@ -1,9 +1,7 @@
-use futures::{SinkExt, StreamExt, stream};
-use std::cell::{Cell, RefCell};
-use std::collections::{HashMap, HashSet};
+use futures::{StreamExt, stream};
+use std::collections::HashSet;
 use std::fmt::Write;
 use std::io::ErrorKind;
-use std::mem::swap;
 use std::sync::Arc;
 use std::sync::atomic::AtomicUsize;
 use std::sync::atomic::Ordering::Relaxed;
@@ -11,17 +9,15 @@ use std::time::Instant;
 use std::{io, iter};
 
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
-use itertools::{Itertools, max};
-use ordered_float::{NotNan, OrderedFloat};
-use rand::rngs::StdRng;
+use itertools::Itertools;
+use ordered_float::NotNan;
 use rand::seq::SliceRandom;
-use rand::{Rng, SeedableRng, thread_rng};
+use rand::{Rng, SeedableRng};
 use rand_xorshift::XorShiftRng;
 use safe_once_map::sync::OnceLockMap;
 
 // use crate::trie::Trie;
 use crate::dict::FlatWord;
-use crate::model::{Model, Word};
 use crate::puzzle::{Clue, Puzzle};
 use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
 use crate::util::lazy_async::CloneError;

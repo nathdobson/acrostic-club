@@ -1,19 +1,13 @@
-use csv::ErrorKind;
 use std::alloc::{AllocError, Allocator, Layout};
-use std::fmt::Debug;
 use std::mem::size_of;
-use std::path::{Path, PathBuf};
-use std::ptr::{NonNull, null_mut, slice_from_raw_parts};
-use std::{fs, io, slice};
+use std::path::Path;
+use std::ptr::{NonNull, slice_from_raw_parts};
+use std::{io, slice};
 
-use acrostic_core::letter::LetterSet;
-use memmap::{Mmap, MmapMut, MmapOptions};
-use rkyv::ser::serializers::AllocSerializer;
-use rkyv::validation::validators::DefaultValidator;
-use rkyv::{Archive, Archived, CheckBytes, Fallible, Serialize};
+use memmap::{MmapMut, MmapOptions};
 use tokio::fs::File;
 
-use crate::{Deserialize, read_path, write_path};
+use crate::write_path;
 
 pub struct MmapAllocator {
     file: File,

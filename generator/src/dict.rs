@@ -1,20 +1,12 @@
-use std::future::Future;
 use std::io;
 
 use crate::banned::BANNED_WORDS;
 use crate::{PACKAGE_PATH, read_path_to_string};
 use acrostic_core::letter::{Letter, LetterSet};
-use arrayvec::{ArrayString, ArrayVec};
-use futures::FutureExt;
-use futures::future::Shared;
-use tokio::sync::Mutex;
 
-use crate::util::lazy_async::{CloneError, LazyMmap};
 use crate::util::persist::PersistentFile;
-use rkyv::{Archive, Archived};
+use rkyv::Archive;
 use safe_once::sync::LazyLock;
-use safe_once_async::async_lazy::AsyncLazy;
-use safe_once_async::sync::AsyncLazyLock;
 
 #[derive(Archive, rkyv::Deserialize, rkyv::Serialize)]
 #[archive(check_bytes, archived = "FlatWord")]

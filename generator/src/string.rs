@@ -1,4 +1,4 @@
-use acrostic_core::letter::{Letter, LetterSet};
+use acrostic_core::letter::Letter;
 use any_ascii::any_ascii;
 use itertools::Itertools;
 use std::borrow::Borrow;

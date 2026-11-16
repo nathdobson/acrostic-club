@@ -1,19 +1,15 @@
 #![feature(future_join)]
-#![allow(unused_imports)]
 #![deny(unused_must_use)]
 #![allow(unused_variables, dead_code)]
 #![allow(unused_mut)]
 
 use acrostic_server::RoomSet;
 use clap::Parser;
-use futures_util::{FutureExt, StreamExt};
+use futures_util::StreamExt;
 use log::LevelFilter;
-use serde::Deserialize;
-use serde::Serialize;
 use std::future::join;
+use std::io;
 use std::net::SocketAddr;
-use std::time::Duration;
-use std::{io, thread};
 use warp::Filter;
 
 #[derive(Parser, Debug)]

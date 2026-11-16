@@ -1,26 +1,18 @@
+use futures::TryStreamExt;
 use futures::stream::FuturesUnordered;
-use futures::{StreamExt, TryStreamExt};
-use rand::SeedableRng;
 use std::alloc::Allocator;
-use std::borrow::Borrow;
-use std::cmp::Ordering;
-use std::collections::{BTreeMap, HashMap, HashSet};
+use std::collections::BTreeMap;
 use std::fmt::{Debug, Formatter};
 use std::mem::size_of;
 use std::path::Path;
-use std::time::Instant;
 use std::{io, mem};
 
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 use anyhow::Context;
-use rand::seq::SliceRandom;
-use rand_xorshift::XorShiftRng;
-use tokio::sync::Semaphore;
 
 use crate::PACKAGE_PATH;
-use crate::dict::{FLAT_WORDS, FlatWord};
+use crate::dict::FLAT_WORDS;
 use crate::util::alloc::{MmapAllocator, restore_vec, save_vec};
-use crate::util::lazy_async::CloneError;
 use crate::util::parallel::Parallelism;
 
 #[repr(C)]

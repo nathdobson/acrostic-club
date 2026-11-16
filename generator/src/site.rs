@@ -1,4 +1,3 @@
-use std::env::vars;
 use std::ffi::OsString;
 use std::io;
 use std::io::{ErrorKind, Write};
@@ -9,8 +8,7 @@ use futures::future::BoxFuture;
 use serde::Deserialize;
 use serde::Serialize;
 use tokio::fs;
-use tokio::fs::{create_dir, create_dir_all, read_dir};
-use tokio::task::JoinHandle;
+use tokio::fs::{create_dir_all, read_dir};
 
 use crate::{PACKAGE_PATH, write_path};
 

@@ -1,11 +1,9 @@
 use crate::PACKAGE_PATH;
-use crate::lemma::Lemma;
 use crate::string::LetterString;
 use anyhow::anyhow;
 use itertools::Itertools;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
-use serde::Deserialize;
 use std::collections::HashMap;
 use std::sync::{Arc, LazyLock};
 use tokio::fs;

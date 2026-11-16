@@ -1,14 +1,13 @@
-use std::cmp::Ordering;
 use std::fmt::{Debug, Display, Formatter};
+use std::iter;
 use std::iter::Step;
-use std::ops::{Add, Index, IndexMut, Range, RangeInclusive, Sub};
-use std::{iter, mem};
+use std::ops::{Add, Index, IndexMut, RangeInclusive, Sub};
 
 use any_ascii::any_ascii;
 use arrayvec::ArrayVec;
 use rand::Rng;
 use rand::distributions::{Distribution, Standard};
-use rkyv::{Archive, Archived, Fallible, Infallible};
+use rkyv::{Archive, Fallible};
 use serde::de::{Error, Visitor};
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
 

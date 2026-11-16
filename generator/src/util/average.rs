@@ -1,5 +1,3 @@
-use std::time::Instant;
-
 pub struct RunningAverage {
     average: f64,
     last_x: f64,

@@ -1,12 +1,8 @@
 use parking_lot::Mutex;
-use std::collections::HashMap;
-use std::future::poll_fn;
 use std::mem;
-use std::pin::pin;
 use std::sync::mpsc::RecvError;
 use std::sync::{Arc, Weak};
-use std::task::Poll;
-use tokio::sync::{Notify, broadcast};
+use tokio::sync::Notify;
 
 pub struct Watchable<T> {
     state: T,

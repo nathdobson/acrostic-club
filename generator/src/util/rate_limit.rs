@@ -1,11 +1,6 @@
-use crate::stream::FuturesUnordered;
-use crate::util::average::RunningAverage;
 use crate::util::clock::Clock;
-use futures::future::BoxFuture;
-use parking_lot::Mutex;
 use std::cmp::max;
 use std::collections::VecDeque;
-use std::future::Future;
 use std::time::Duration;
 use tokio::time::Instant;
 

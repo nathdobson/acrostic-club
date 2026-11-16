@@ -1,18 +1,10 @@
+use crate::llm::MODEL_NAME;
 use crate::llm::chat_client::ChatClient;
-use crate::llm::{MODEL_NAME, ollama_to_anyhow};
-use futures::StreamExt;
-use futures::stream::iter;
-use ollama_rs::Ollama;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
 use ollama_rs::generation::chat::{ChatMessage, MessageRole};
 use ollama_rs::generation::options::GenerationOptions;
 use ollama_rs::generation::parameters::{FormatType, JsonSchema, JsonStructure};
 use serde::{Deserialize, Serialize};
-use std::borrow::Cow;
-use std::marker::PhantomData;
-use std::sync::Arc;
-use std::time::Instant;
-use tokio::sync::Semaphore;
 
 pub struct RpcBuilder<Req, Resp> {
     req: Req,

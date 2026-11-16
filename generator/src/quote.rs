@@ -1,11 +1,9 @@
 use std::io::{Cursor, ErrorKind, Read};
 use std::sync::LazyLock;
 use std::time::Instant;
-use std::{fs, io, slice};
+use std::{io, slice};
 
 use itertools::{PeekNth, peek_nth};
-use rand::seq::SliceRandom;
-use rand::thread_rng;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;

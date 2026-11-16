@@ -1,31 +1,17 @@
-#![allow(unused_imports, unused_variables, dead_code)]
+#![allow(unused_variables, dead_code)]
 #![feature(allocator_api)]
 #![deny(unused_must_use)]
-#![allow(unused_imports)]
 #![allow(unreachable_code)]
 #![allow(unused_mut)]
-#![allow(unused_imports)]
 #![feature(error_generic_member_access)]
 #![feature(unboxed_closures)]
 extern crate core;
 
-use futures::{SinkExt, stream};
-use std::collections::{BTreeMap, BTreeSet, HashMap};
-use std::fmt::{Debug, Display, Formatter};
-use std::fs::File;
-use std::io::ErrorKind;
-use std::ops::{Deref, Index, IndexMut};
 use std::path::{Path, PathBuf};
 use std::sync::LazyLock;
-use std::{env, fs, io, mem};
+use std::{env, io};
 
 use acrostic_core::letter::LetterSet;
-use memmap::MmapOptions;
-use serde::de::{EnumAccess, Error, MapAccess, SeqAccess, Visitor};
-use serde::{Deserialize, Deserializer};
-use serde_pickle::{DeOptions, HashableValue, Value};
-use tokio::select;
-use tokio::signal::ctrl_c;
 
 pub mod dict;
 pub mod model;

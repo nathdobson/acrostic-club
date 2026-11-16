@@ -2,24 +2,14 @@
 
 use crate::cluedb::{CLUE_DB, ClueDb};
 use crate::lemma::{LEMMA, Lemma};
-use acrostic_core::letter::Letter;
 use anyhow::anyhow;
-use futures::future::{join_all, try_join_all};
-use itertools::Itertools;
-use ollama_rs::generation::completion::request::GenerationRequest;
-use ollama_rs::generation::options::GenerationOptions;
-use ollama_rs::generation::parameters::{FormatType, JsonSchema, JsonStructure};
 use ordered_float::NotNan;
-use serde::Deserialize;
 use std::sync::Arc;
-use std::{fs, future};
-use tokio::{io, spawn};
 // use crate::gpt::cache_client::CacheClient;
-use crate::llm::chat_client::{BaseClient, ChatClient};
+use crate::llm::chat_client::ChatClient;
 use crate::llm::new_client;
 use crate::llm::rpcs::{AnswerRequest, ClueRequest};
 // use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
-use crate::PACKAGE_PATH;
 use crate::ontology::{ONTOLOGY, Ontology};
 
 use crate::puzzle::Puzzle;

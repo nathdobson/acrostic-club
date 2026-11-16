@@ -1,5 +1,4 @@
 use crate::PACKAGE_PATH;
-use crate::turtle::graph::Turtle;
 use anyhow::{Context, anyhow};
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;

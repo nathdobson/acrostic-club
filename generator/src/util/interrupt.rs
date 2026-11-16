@@ -1,11 +1,8 @@
-use futures::future::BoxFuture;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use std::future::Future;
-use std::mem;
 use tokio::select;
 use tokio::signal::ctrl_c;
 use tokio::sync::mpsc;
-use tokio::task::JoinHandle;
 
 type Cleanup = Box<dyn 'static + Send + FnOnce() -> JoinTransparent<anyhow::Result<()>>>;
 

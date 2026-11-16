@@ -1,20 +1,12 @@
 use crate::PACKAGE_PATH;
-use crate::util::lazy_async::CloneError;
-use anyhow::{Context, anyhow};
 // use rio_api::model::{Literal, Subject, Term};
 // use rio_api::parser::TriplesParser;
 // use rio_turtle::{TurtleError, TurtleParser};
-use crate::turtle::graph::{Turtle, TurtleDebug};
+use crate::turtle::graph::Turtle;
 use crate::turtle::parse::parse_file_graph;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
-use serde::Deserialize;
-use serde::Serialize;
-use std::cmp::Ordering;
-use std::collections::{BTreeSet, HashMap, HashSet};
-use std::fmt::{Debug, Formatter};
 use std::sync::LazyLock;
-use std::{any, io};
 use tokio::fs;
 
 pub async fn build_ontolex_turtle() -> anyhow::Result<()> {

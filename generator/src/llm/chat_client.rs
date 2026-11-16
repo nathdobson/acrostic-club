@@ -1,31 +1,11 @@
-use crate::llm::key_value_file::KeyValueFile;
 use crate::llm::ollama_to_anyhow;
-use anyhow::anyhow;
-use backoff::ExponentialBackoff;
-use backoff::backoff::Backoff;
-use chrono::{DateTime, Utc};
 use futures::FutureExt;
 use futures::future::BoxFuture;
 use ollama_rs::Ollama;
-use ollama_rs::error::{OllamaError, ToolCallError};
 use ollama_rs::generation::chat::ChatMessageResponse;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
-use ollama_rs::generation::completion::GenerationResponse;
-use ollama_rs::generation::completion::request::GenerationRequest;
-use ollama_rs::generation::options::GenerationOptions;
-use ollama_rs::generation::parameters::{FormatType, JsonStructure};
-use reqwest::header::{AUTHORIZATION, HeaderMap, HeaderValue};
-use serde::Deserialize;
-use serde::Serialize;
-use std::any::Any;
-use std::future::Future;
-use std::path::Path;
 use std::sync::Arc;
-use std::{io, mem};
-use tokio::fs;
-use tokio::time::sleep;
 // use crate::llm::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
-use crate::PACKAGE_PATH;
 
 pub struct BaseClient {
     inner: Ollama,

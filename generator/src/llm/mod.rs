@@ -1,14 +1,9 @@
 use crate::PACKAGE_PATH;
 use crate::llm::cache_client::CacheClient;
 use crate::llm::chat_client::{BaseClient, ChatClient};
-use crate::llm::rate_limit_client::RateLimitClient;
-use crate::llm::retry_client::RetryClient;
-use crate::util::clock::Clock;
 use crate::util::interrupt::CleanupSender;
-use crate::util::rate_limit::RateLimit;
 use anyhow::anyhow;
 use ollama_rs::error::{OllamaError, ToolCallError};
-use std::io;
 use std::sync::Arc;
 
 pub mod cache_client;

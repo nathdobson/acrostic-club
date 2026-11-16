@@ -1,4 +1,3 @@
-use crate::PACKAGE_PATH;
 use crate::turtle::graph::Turtle;
 use anyhow::Context;
 use oxrdf::{Subject, Term};

@@ -1,14 +1,10 @@
 use std::collections::HashMap;
-use std::future::Future;
-use std::io;
 use std::sync::LazyLock;
 
 use crate::PACKAGE_PATH;
 use crate::dict::{FLAT_WORDS, FlatWord};
-use crate::trie::{FlatTrie, FlatTrieEntry};
+use crate::trie::FlatTrie;
 use crate::util::alloc::MmapAllocator;
-use crate::util::lazy_async::CloneError;
-use crate::util::persist::PersistentFile;
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 use itertools::Itertools;
 use safe_once_async::async_lazy::AsyncLazy;
