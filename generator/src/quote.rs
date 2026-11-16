@@ -67,19 +67,36 @@ impl Quote {
     //   with commas, into the quote.
     // - `Carpe diem.,Horace,,,` has no topics, so its two remaining fields are the quote and the
     //   source.
+    // - `Veni, vidi, vici.,Julius Caesar,,,` splits its quote and has no topics. The pieces after
+    //   the first start with a space, so they rejoin the quote, and the last field is the source.
+    // - `Carpe diem.,Horace, Odes,,,` splits its source and has no topics. ` Odes` starts with a
+    //   space, so it rejoins the source, giving `Horace, Odes`.
     fn from_record(record: &StringRecord) -> Self {
         let mut fields: Vec<&str> = record.iter().collect();
         while fields.last() == Some(&"") {
             fields.pop();
         }
-        // TODO: A split quote with no topics is misread: `Veni, vidi, vici.,Julius Caesar,,,`
-        // gives the quote `Veni, vidi`, the source ` vici.`, and the topic `Julius Caesar`.
-        //
-        // TODO: About two dozen records in the pinned file hold an empty field mid-record, such as
-        // between the quote and the source, and are misread too.
-        let (quote_pieces, source, topics) = match fields.as_slice() {
-            [quote, source] => (std::slice::from_ref(quote), *source, ""),
-            [quote_pieces @ .., source, topics] => (quote_pieces, *source, *topics),
+        // A field written without quotation marks splits at each of its commas. Where a space
+        // followed a comma, the next piece starts with that space, as ` vici.` and ` Odes` do. A
+        // whole field almost never starts with whitespace, so a field that does rejoins the field
+        // before it. Rejoining may misread the records listed in `tasks.md #known-data-issues`.
+        let mut rejoined_fields: Vec<String> = vec![];
+        for field in fields {
+            if field.starts_with(char::is_whitespace)
+                && let Some(previous_field) = rejoined_fields.last_mut()
+            {
+                previous_field.push(',');
+                previous_field.push_str(field);
+            } else {
+                rejoined_fields.push(field.to_string());
+            }
+        }
+        // TODO: About two dozen records in the pinned file are misread: each holds an empty field
+        // mid-record, such as one between the quote and the source.
+        let (quote_pieces, source, topics) = match rejoined_fields.as_slice() {
+            [quote, source] => (std::slice::from_ref(quote), source.as_str(), ""),
+            // A quote split without a space after a comma still spans several fields here.
+            [quote_pieces @ .., source, topics] => (quote_pieces, source.as_str(), topics.as_str()),
             // No fields, or a quote alone.
             quote_pieces => (quote_pieces, "", ""),
         };

@@ -52,6 +52,45 @@ fn test_source_of_a_split_quote_is_the_second_to_last_field() {
 }
 
 #[test]
+fn test_split_quote_without_topics_is_rejoined_whole() {
+    let quotes = parse_numbered_by_index("Veni, vidi, vici.,Julius Caesar,,,");
+
+    assert_eq!(quotes[0].quote, "Veni, vidi, vici.");
+}
+
+#[test]
+fn test_source_of_a_split_quote_without_topics_is_the_last_field() {
+    let quotes = parse_numbered_by_index("Veni, vidi, vici.,Julius Caesar,,,");
+
+    // Read by position, ` vici.` would be the source and `Julius Caesar` the topics. But ` vici.`
+    // starts with a space, which marks it as a piece of the quote.
+    assert_eq!(quotes[0].source, "Julius Caesar");
+}
+
+#[test]
+fn test_split_quote_without_source_or_topics_is_rejoined_whole() {
+    let quotes = parse_numbered_by_index("Read, explore, write, read,,,");
+
+    assert_eq!(quotes[0].quote, "Read, explore, write, read");
+    assert_eq!(quotes[0].source, "");
+}
+
+#[test]
+fn test_source_split_at_a_comma_is_rejoined_whole() {
+    let quotes = parse_numbered_by_index("Carpe diem.,Horace, Odes,,,");
+
+    // Read by position, ` Odes` would be the topics.
+    assert_eq!(quotes[0].source, "Horace, Odes");
+}
+
+#[test]
+fn test_split_source_followed_by_topics_is_rejoined_whole() {
+    let quotes = parse_numbered_by_index("Carpe diem.,Horace, Odes,time,,,");
+
+    assert_eq!(quotes[0].source, "Horace, Odes");
+}
+
+#[test]
 fn test_trailing_padding_fields_are_ignored() {
     let quotes = parse_numbered_by_index("Quote,Author,topic,,,,");
 
