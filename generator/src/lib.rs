@@ -1,7 +1,6 @@
 #![allow(unused_variables, dead_code)]
 #![feature(allocator_api)]
 #![deny(unused_must_use)]
-#![allow(unreachable_code)]
 #![allow(unused_mut)]
 #![feature(error_generic_member_access)]
 #![feature(unboxed_closures)]

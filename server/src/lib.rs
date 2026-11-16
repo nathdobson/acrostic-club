@@ -1,5 +1,4 @@
 #![deny(unused_must_use)]
-#![allow(unused_variables, dead_code)]
 #![allow(unused_mut)]
 
 pub mod key_val;

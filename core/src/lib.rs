@@ -1,4 +1,4 @@
-#![allow(unused_variables, dead_code)]
+#![allow(unused_variables)]
 #![deny(unused_must_use)]
 #![feature(step_trait)]
 
