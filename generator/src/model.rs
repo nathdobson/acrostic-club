@@ -135,8 +135,8 @@ impl Model {
             .iter()
             .map(|x| (x, -x.distance(center)))
             .collect::<Vec<_>>();
-        words.sort_by_key(|(i, x)| NotNan::new(*x).unwrap());
-        let words = words.iter().map(|(i, x)| (*i).clone()).collect::<Vec<_>>();
+        words.sort_by_key(|(_, x)| NotNan::new(*x).unwrap());
+        let words = words.iter().map(|(i, _)| (*i).clone()).collect::<Vec<_>>();
         let mut maps = vec![];
         let mut visited = HashSet::new();
         for x in words {

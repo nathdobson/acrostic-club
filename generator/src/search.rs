@@ -212,7 +212,7 @@ impl Search {
         }
     }
     pub fn anneal(&self, sol: &mut Solution) -> bool {
-        for i in 0..10 {
+        for _ in 0..10 {
             self.optimize(sol);
             if sol.is_done() {
                 // println!("{}", self.format(sol));

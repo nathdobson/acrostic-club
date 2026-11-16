@@ -99,13 +99,13 @@ impl EdgeList {
     pub fn get_node(&self, index: TurtleIndex) -> Vec<(TurtleIndex, TurtleIndex)> {
         binary_search_range(&self.0, index, |x| x.0)
             .into_iter()
-            .map(|(a, b, c)| (*b, *c))
+            .map(|(_, b, c)| (*b, *c))
             .collect()
     }
     pub fn get_edges(&self, index: TurtleIndex, pred: TurtleIndex) -> Vec<TurtleIndex> {
-        binary_search_range(&self.0, (index, pred), |(a, b, c)| (*a, *b))
+        binary_search_range(&self.0, (index, pred), |(a, b, _)| (*a, *b))
             .into_iter()
-            .map(|(a, b, c)| *c)
+            .map(|(_, _, c)| *c)
             .collect()
     }
     pub fn get_edges_by_pred(&self, pred: TurtleIndex) -> Vec<(TurtleIndex, TurtleIndex)> {

@@ -19,10 +19,10 @@ pub struct MmapAllocator {
 }
 
 unsafe impl Allocator for MmapAllocator {
-    fn allocate(&self, layout: Layout) -> Result<NonNull<[u8]>, AllocError> {
+    fn allocate(&self, _layout: Layout) -> Result<NonNull<[u8]>, AllocError> {
         todo!()
     }
-    unsafe fn deallocate(&self, ptr: NonNull<u8>, layout: Layout) {}
+    unsafe fn deallocate(&self, _ptr: NonNull<u8>, _layout: Layout) {}
 }
 
 pub async fn mmap_bytes(filename: &Path) -> io::Result<Box<[u8], MmapAllocator>> {

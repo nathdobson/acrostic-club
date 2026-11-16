@@ -11,7 +11,7 @@ impl Parallelism {
     where
         F::Output: 'static + Send,
     {
-        let guard = self.0.acquire().await;
+        let _guard = self.0.acquire().await;
         match tokio::task::spawn_blocking(x).await {
             Ok(x) => x,
             Err(e) => resume_unwind(e.into_panic()),

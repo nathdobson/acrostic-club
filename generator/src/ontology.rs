@@ -44,7 +44,7 @@ impl Ontology {
             .get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep")
             .unwrap();
         let mut written_table = HashMap::<LetterString, Vec<Written>>::new();
-        for (s, o) in graph.get_edges_by_predicate(written_rep) {
+        for (_, o) in graph.get_edges_by_predicate(written_rep) {
             let name = graph.get_name(o);
             written_table
                 .entry(LetterString::from_str(name))

@@ -1,5 +1,3 @@
-#![allow(unused_variables)]
-
 use crate::cluedb::{CLUE_DB, ClueDb};
 use crate::lemma::{LEMMA, Lemma};
 use anyhow::anyhow;
@@ -88,7 +86,7 @@ impl ClueClient {
             clues.sort_by_key(|x| -x.1);
             let clues = clues
                 .into_iter()
-                .map(|(clue, score)| clue)
+                .map(|(clue, _score)| clue)
                 .collect::<Vec<_>>();
             println!("    candidate clues {:?}", clues);
             for clue in clues {

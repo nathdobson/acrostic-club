@@ -187,7 +187,7 @@ impl<V: Debug> FlatTrieBuilder<V> {
             self.add_leaves(leaves, prefix);
         } else {
             let mut totals = LetterMap::<u32>::new();
-            for (k, v) in leaves.iter() {
+            for (k, _) in leaves.iter() {
                 for l in Letter::all() {
                     if k[l] > prefix[l] {
                         totals[l] += 1;

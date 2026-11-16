@@ -35,7 +35,7 @@ pub static CLUE_DB: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Arc<Cl
         AsyncLazyLock::new(spawn_transparent(async move {
             let contents = fs::read_to_string(PACKAGE_PATH.join("build/xd/clues.tsv")).await?;
             let mut lines = contents.split('\n');
-            let header = lines.next().ok_or_else(|| anyhow!("missing header"))?;
+            lines.next().ok_or_else(|| anyhow!("missing header"))?;
             let mut lookup: HashMap<LetterString, Vec<ClueEntry>> = HashMap::new();
             for line in lines {
                 let (pubid, year, answer, clue) = line

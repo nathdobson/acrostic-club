@@ -333,8 +333,8 @@ macro_rules! derive_archive_trivial {
             type Resolver = ();
             unsafe fn resolve(
                 &self,
-                pos: usize,
-                resolver: Self::Resolver,
+                _pos: usize,
+                _resolver: Self::Resolver,
                 out: *mut Self::Archived,
             ) {
                 // SAFETY: `Archive::resolve`'s caller guarantees that `out` is valid for writes.
@@ -358,7 +358,7 @@ macro_rules! derive_archive_trivial {
             type Error = std::convert::Infallible;
             unsafe fn check_bytes<'a>(
                 value: *const Self,
-                context: &mut V,
+                _context: &mut V,
             ) -> Result<&'a Self, Self::Error> {
                 // SAFETY: the caller guarantees that `value` is aligned and points to enough bytes
                 // for `Self`, and `Self` is plain bytes, so any byte pattern is a valid value.
