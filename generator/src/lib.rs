@@ -11,7 +11,6 @@ use std::{env, io};
 use acrostic_core::letter::LetterSet;
 
 pub mod dict;
-pub mod model;
 pub mod puzzle;
 pub mod search;
 pub mod trie;
