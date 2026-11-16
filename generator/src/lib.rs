@@ -9,25 +9,24 @@ use std::{env, io};
 
 use acrostic_core::letter::LetterSet;
 
-pub mod dict;
-pub mod puzzle;
-pub mod search;
-pub mod trie;
-pub mod trie_table;
-// pub mod segment;
 pub mod add_letters;
 pub mod banned;
 pub mod cluedb;
 pub mod clues;
 pub mod conflict_set;
+pub mod dict;
 pub mod lemma;
 pub mod llm;
 pub mod maintenance;
 pub mod ontology;
+pub mod puzzle;
 pub mod quote;
+pub mod search;
 pub mod site;
 pub mod string;
 pub mod subseq;
+pub mod trie;
+pub mod trie_table;
 pub mod turtle;
 pub mod util;
 

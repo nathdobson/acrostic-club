@@ -9,11 +9,10 @@ use crate::conflict_set::ConflictSet;
 use crate::string::LetterString;
 use crate::turtle::db::TURTLE;
 use crate::turtle::graph::{Turtle, TurtleIndex};
+use crate::util::lazy_async::CloneError;
 use safe_once::sync::LazyLock;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
-// use crate::segment::get_alpha;
-use crate::util::lazy_async::CloneError;
 
 pub struct Ontology {
     pub graph: &'static Turtle,
