@@ -9,13 +9,11 @@ use std::sync::Arc;
 pub mod cache_client;
 pub mod chat_client;
 pub mod key_value_file;
-pub mod retry_client;
 pub mod rpcs;
 
 pub const MODEL_NAME: &'static str = "phi4";
 pub async fn new_client(cleanup: CleanupSender) -> anyhow::Result<Arc<dyn ChatClient>> {
     let client = BaseClient::new().await?;
-    // let client = RetryClient::new_exponential(client);
     let client =
         CacheClient::new(client, &PACKAGE_PATH.join("build/chat_cache.txt"), cleanup).await?;
     Ok(client)
