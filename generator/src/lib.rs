@@ -1,5 +1,4 @@
 #![expect(dead_code)]
-#![feature(allocator_api)]
 #![feature(error_generic_member_access)]
 #![feature(unboxed_closures)]
 extern crate core;
