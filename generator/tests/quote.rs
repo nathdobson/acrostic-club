@@ -108,11 +108,11 @@ fn test_record_without_topics_has_a_quote_and_source() {
 }
 
 #[test]
-fn test_record_with_an_empty_source_keeps_its_topics() {
+fn test_topics_do_not_fill_an_empty_source() {
     let quotes = parse_numbered_by_index("Quote,,topic");
 
+    // The last field is still read as the topics, not as the source.
     assert_eq!(quotes[0].source, "");
-    assert_eq!(quotes[0].topics, vec!["topic"]);
 }
 
 #[test]
@@ -121,13 +121,6 @@ fn test_record_with_only_a_quote_has_an_empty_source() {
 
     assert_eq!(quotes[0].quote, "Quote");
     assert_eq!(quotes[0].source, "");
-}
-
-#[test]
-fn test_topics_are_split_at_commas_and_trimmed() {
-    let quotes = parse_numbered_by_index(r#"Quote,Author,"love, life""#);
-
-    assert_eq!(quotes[0].topics, vec!["love", "life"]);
 }
 
 #[test]

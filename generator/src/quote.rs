@@ -20,7 +20,6 @@ use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
 pub struct Quote {
     pub quote: String,
     pub source: String,
-    pub topics: Vec<String>,
 }
 
 pub static QUOTES: LazyLock<AsyncLazyLock<JoinTransparent<io::Result<Vec<Quote>>>>> =
@@ -60,7 +59,7 @@ impl Quote {
     // Builds a quote from one record of the quote file. A record holds the quote, its source, and
     // its comma-separated topics, followed by empty padding fields:
     //
-    // - `Carpe diem.,Horace,"time, life",,,` gives the quote `Carpe diem.`, the source `Horace`,
+    // - `Carpe diem.,Horace,"time, life",,,` holds the quote `Carpe diem.`, the source `Horace`,
     //   and the topics `time` and `life`.
     // - `Veni, vidi, vici.,Julius Caesar,history,,,` splits its quote across three fields. The
     //   last two fields are still the source and the topics, and the pieces before them rejoin,
@@ -71,6 +70,9 @@ impl Quote {
     //   the first start with a space, so they rejoin the quote, and the last field is the source.
     // - `Carpe diem.,Horace, Odes,,,` splits its source and has no topics. ` Odes` starts with a
     //   space, so it rejoins the source, giving `Horace, Odes`.
+    //
+    // The topics are discarded, since puzzles use only the quote and the source. The parser still
+    // has to find the topics field, though: the source is the field just before the topics.
     fn from_record(record: &StringRecord) -> Self {
         let mut fields: Vec<&str> = record.iter().collect();
         while fields.last() == Some(&"") {
@@ -93,21 +95,19 @@ impl Quote {
         }
         // TODO: About two dozen records in the pinned file are misread: each holds an empty field
         // mid-record, such as one between the quote and the source.
-        let (quote_pieces, source, topics) = match rejoined_fields.as_slice() {
-            [quote, source] => (std::slice::from_ref(quote), source.as_str(), ""),
-            // A quote split without a space after a comma still spans several fields here.
-            [quote_pieces @ .., source, topics] => (quote_pieces, source.as_str(), topics.as_str()),
+        let (quote_pieces, source) = match rejoined_fields.as_slice() {
+            [quote, source] => (std::slice::from_ref(quote), source.as_str()),
+            // Rejoining misses a split with no space after its comma, so the quote can still span
+            // several fields. For example, `One, two,three,Author,topic` rejoins into the fields
+            // `One, two`, `three`, `Author`, and `topic`, and the quote is `One, two,three`. The
+            // last field holds the topics, which are discarded.
+            [quote_pieces @ .., source, _topics] => (quote_pieces, source.as_str()),
             // No fields, or a quote alone.
-            quote_pieces => (quote_pieces, "", ""),
+            quote_pieces => (quote_pieces, ""),
         };
         Self {
             quote: quote_pieces.join(","),
             source: source.to_string(),
-            // TODO: A record without topics gets the topic list `[""]` rather than an empty list.
-            topics: topics
-                .split(",")
-                .map(|topic| topic.trim().to_string())
-                .collect(),
         }
     }
 }

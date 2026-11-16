@@ -15,8 +15,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       holding one passes `add_quote`'s length limits yet.
 - [ ] **Read records with an empty field mid-record** — see the TODO in
       `Quote::from_record`.
-- [ ] **Give records without topics an empty topic list** — see the TODO in
-      `Quote::from_record`.
 
 ## Backlog
 
