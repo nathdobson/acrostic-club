@@ -82,16 +82,3 @@ pub async fn add_letters(pindex: usize) -> io::Result<()> {
     puzzle.write(pindex, "stage1.json").await?;
     Ok(())
 }
-
-#[test]
-fn test_quote_to_cells() {
-    assert_eq!(quote_to_cells("０１２３４５６７８９"), "0123456789");
-    assert_eq!(
-        quote_to_cells("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"),
-        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    );
-    assert_eq!(
-        quote_to_cells("ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ"),
-        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    );
-}

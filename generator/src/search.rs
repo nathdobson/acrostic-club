@@ -372,24 +372,3 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
     puzzle.write(pindex, "stage2.json").await?;
     Ok(())
 }
-
-#[tokio::test]
-async fn test_search() -> anyhow::Result<()> {
-    let firsts = (Letter::new(b'e').unwrap(), Letter::new(b'i').unwrap());
-    let word = LetterSet::from_str("AEEEEEEEEEEEGIIKKKKLLLNNNOPPTTTWWWW");
-    FLAT_TRIE_TABLE.get().await.clone_error()?;
-    let start = Instant::now();
-    for i in 0..10000 {
-        let mut found = vec![];
-        FLAT_TRIE_TABLE
-            .get()
-            .await
-            .clone_error()?
-            .binary
-            .get(&firsts)
-            .unwrap()
-            .search_smallest_subset(word, 16, &mut found);
-    }
-    println!("{:?}", start.elapsed());
-    Ok(())
-}

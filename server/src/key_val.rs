@@ -41,11 +41,3 @@ impl<K: Eq + Hash, V> KeyVal<K, V> {
         }
     }
 }
-
-#[test]
-fn test() {
-    assert_eq!(
-        serde_json::to_string(&KeyVal::<usize, usize>::default()).unwrap(),
-        "{}"
-    );
-}

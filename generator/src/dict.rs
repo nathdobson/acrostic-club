@@ -32,15 +32,6 @@ pub struct FlatWordBuilder {
 pub static FLAT_WORDS: LazyLock<PersistentFile<Vec<FlatWordBuilder>>> =
     LazyLock::new(|| PersistentFile::new(&PACKAGE_PATH.join("build/dict.dat")));
 
-#[tokio::test]
-async fn test_flat_word() {
-    let words = FLAT_WORDS.get_static().await.unwrap();
-    println!("{:?}", words.len());
-    for word in words.iter().take(10) {
-        println!("{:?}", word);
-    }
-}
-
 pub async fn build_dict() -> io::Result<()> {
     let contents = read_path_to_string(
         &PACKAGE_PATH.join("submodules/wikipedia-word-frequency/results/enwiki-2022-08-29.txt"),

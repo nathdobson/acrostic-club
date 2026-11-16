@@ -12,8 +12,7 @@ use ollama_rs::generation::parameters::{FormatType, JsonSchema, JsonStructure};
 use ordered_float::NotNan;
 use serde::Deserialize;
 use std::sync::Arc;
-use std::time::Instant;
-use std::{fs, future, mem};
+use std::{fs, future};
 use tokio::{io, spawn};
 // use crate::gpt::cache_client::CacheClient;
 use crate::llm::chat_client::{BaseClient, ChatClient};
@@ -26,7 +25,7 @@ use crate::ontology::{ONTOLOGY, Ontology};
 use crate::puzzle::Puzzle;
 use crate::string::LetterString;
 use crate::subseq::longest_subsequence;
-use crate::util::interrupt::{CleanupSender, channel};
+use crate::util::interrupt::CleanupSender;
 use crate::util::lazy_async::CloneError;
 
 static MODEL: &str = "llama3.2:3b";
@@ -165,28 +164,4 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
     } else {
         Err(anyhow!("failed to generate clues"))
     }
-}
-
-#[tokio::test]
-async fn test_clue_client() -> anyhow::Result<()> {
-    let (tx, mut rx) = channel();
-    let client = ClueClient::new(tx).await?;
-    {
-        let start = Instant::now();
-        for word in &[
-            // "extant", "netball",
-            // "nathan",
-            // "andrew", "john", "hindwings"
-            // "dudley",
-            // "atkinson",
-            // "howell",
-            "india's",
-        ] {
-            let clues = client.create_clue(word).await?;
-            println!("{:?}", clues);
-        }
-    }
-    mem::drop(client);
-    rx.cleanup().await?;
-    Ok(())
 }

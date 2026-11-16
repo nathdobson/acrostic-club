@@ -380,14 +380,3 @@ pub async fn build_trie() -> anyhow::Result<()> {
     // }
     Ok(())
 }
-
-#[test]
-fn test_flat_trie() {
-    let mut entries = vec!["ab", "abc", "abd"];
-    let b: Box<FlatTrie<&str>> = entries
-        .into_iter()
-        .map(|x| (LetterSet::from_str(x), x))
-        .collect();
-    println!("{:?}", b.as_slice());
-    println!("{:?}", b);
-}

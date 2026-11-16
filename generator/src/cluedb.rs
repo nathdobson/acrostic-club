@@ -1,7 +1,6 @@
 use crate::PACKAGE_PATH;
 use crate::lemma::Lemma;
 use crate::string::LetterString;
-use crate::util::lazy_async::CloneError;
 use anyhow::anyhow;
 use itertools::Itertools;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
@@ -59,10 +58,3 @@ pub static CLUE_DB: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Arc<Cl
             Ok(Arc::new(ClueDb { lookup }))
         }))
     });
-
-#[tokio::test]
-async fn test_cluedb() -> anyhow::Result<()> {
-    let clue_db = CLUE_DB.get().await.clone_error_static()?;
-    println!("{:?}", clue_db.lookup(&LetterString::from_str("howell")));
-    Ok(())
-}

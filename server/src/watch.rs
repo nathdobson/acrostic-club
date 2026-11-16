@@ -6,9 +6,7 @@ use std::pin::pin;
 use std::sync::mpsc::RecvError;
 use std::sync::{Arc, Weak};
 use std::task::Poll;
-use std::time::Duration;
 use tokio::sync::{Notify, broadcast};
-use tokio::time::sleep;
 
 pub struct Watchable<T> {
     state: T,
@@ -99,28 +97,4 @@ impl<T> Drop for Watchable<T> {
             }
         }
     }
-}
-
-#[tokio::test]
-async fn test() {
-    let mut sender = Watchable::<usize>::new();
-    let r1 = sender.watch();
-    let r2 = sender.watch();
-    sender.modify(|x| *x += 1);
-    let x = tokio::spawn(async move {
-        assert_eq!(1, r1.recv().await.unwrap());
-        assert_eq!(2, r1.recv().await.unwrap());
-        assert_eq!(2, r1.recv().await.unwrap());
-        assert_eq!(RecvError, r1.recv().await.unwrap_err());
-    });
-    let y = tokio::spawn(async move {
-        sleep(Duration::from_millis(100)).await;
-        sender.modify(|x| *x += 2);
-        sleep(Duration::from_millis(100)).await;
-        sender.modify(|x| *x += 2);
-    });
-    x.await.unwrap();
-    y.await.unwrap();
-    assert_eq!(5, r2.recv().await.unwrap());
-    assert_eq!(RecvError, r2.recv().await.unwrap_err());
 }

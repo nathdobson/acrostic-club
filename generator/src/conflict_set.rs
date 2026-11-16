@@ -1,7 +1,6 @@
 use crate::dict::FLAT_WORDS;
-use crate::ontology::{Etymology, Form, Lexical, ONTOLOGY, Ontology, Page, Written};
+use crate::ontology::{Etymology, Form, Lexical, Ontology, Page, Written};
 use crate::string::LetterString;
-use crate::util::lazy_async::CloneError;
 use brotli::interface::Command::Dict;
 use std::collections::HashSet;
 use std::fmt::{Debug, Formatter};
@@ -263,16 +262,4 @@ impl Debug for ConflictSet {
         // forms_down: HashSet<Form>,
         // terminals: HashSet<String>,
     }
-}
-
-#[tokio::test]
-async fn test_find_conflicts() -> anyhow::Result<()> {
-    let ontology = ONTOLOGY.get().await.clone_error()?.clone();
-    for word in ["bought", "definition", "cowboy", "cattle", "Islam"] {
-        let mut conflicts = ConflictSet::new(ontology.clone());
-        conflicts.add_origin(word.to_string());
-        println!("{:#?}", conflicts);
-        println!("{:#?}", conflicts.terminals().collect::<Vec<_>>());
-    }
-    Ok(())
 }

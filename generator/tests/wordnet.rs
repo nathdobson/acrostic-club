@@ -1,5 +1,8 @@
-use crate::PACKAGE_PATH;
-use crate::turtle::parse::parse_file_graph;
+// Tests for parsing the WordNet turtle file from `build/`: prints the entries for "buy" and
+// "bought".
+
+use acrostic_generator::PACKAGE_PATH;
+use acrostic_generator::turtle::parse::parse_file_graph;
 
 #[tokio::test]
 async fn test_wordnet_turtle() -> anyhow::Result<()> {

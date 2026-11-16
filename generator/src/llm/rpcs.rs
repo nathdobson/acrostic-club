@@ -1,4 +1,4 @@
-use crate::llm::chat_client::{BaseClient, ChatClient};
+use crate::llm::chat_client::ChatClient;
 use crate::llm::{MODEL_NAME, ollama_to_anyhow};
 use futures::StreamExt;
 use futures::stream::iter;
@@ -145,20 +145,4 @@ impl AnswerRequest {
             "You are a crossword clue solver. You provide several possible answers for a crossword clue. You do not use any forms of the answer word in the clue.".to_string(),
         )
     }
-}
-
-#[tokio::test]
-async fn test() -> anyhow::Result<()> {
-    // let ollama = Ollama::default();
-    let client = BaseClient::new().await?;
-    let answer = "nathan";
-    let clues = ClueRequest {
-        answer: answer.to_string(),
-        clue_count: 30,
-    }
-    .build()?
-    .send(&*client)
-    .await?;
-    println!("{:#?}", clues);
-    Ok(())
 }

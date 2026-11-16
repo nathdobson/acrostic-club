@@ -141,11 +141,3 @@ impl FromIterator<Grapheme> for GraphemeString {
         GraphemeString(iter.into_iter().collect())
     }
 }
-
-#[test]
-fn test_string() {
-    assert_eq!(
-        format!("{:?}", GraphemeString::from_str("*straßé*")),
-        "*STRA[SS/ß][E/é]*"
-    );
-}

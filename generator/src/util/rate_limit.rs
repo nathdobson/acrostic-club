@@ -44,15 +44,6 @@ impl RateLimit {
     }
 }
 
-#[tokio::test]
-async fn test_rate_limit() {
-    let mut rate = RateLimit::new(Clock::Real, 10, 10.0);
-    for i in 0..1000 {
-        println!("{:?} {:?}", i, Instant::now());
-        tokio::time::sleep_until(rate.spawn()).await;
-    }
-}
-
 //
 // pub struct RateLimit {
 //     successes: RunningAverage,

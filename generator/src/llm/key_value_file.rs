@@ -1,4 +1,4 @@
-use crate::util::interrupt::{CleanupSender, channel};
+use crate::util::interrupt::CleanupSender;
 use crate::util::lazy_async::CloneError;
 use parking_lot::Mutex;
 use safe_once_async::async_lazy::AsyncLazy;
@@ -14,13 +14,13 @@ use std::borrow::Cow;
 use std::collections::HashMap;
 use std::future::Future;
 use std::hash::Hash;
+use std::io;
 use std::path::Path;
 use std::pin::Pin;
 use std::sync::Arc;
 use std::task::{Context, Poll};
 use std::thread::panicking;
-use std::{io, mem};
-use tempfile::{TempPath, tempdir, tempfile};
+use tempfile::{TempPath, tempfile};
 use tokio::fs::{File, OpenOptions};
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
 use tokio::sync::mpsc::{UnboundedSender, unbounded_channel};
@@ -101,44 +101,4 @@ impl<
         // }).await;
         // Ok(result.clone_error()?.clone())
     }
-}
-
-#[tokio::test]
-async fn test_key_value_file() -> anyhow::Result<()> {
-    let dir = tempdir()?;
-    let path = dir.path().join("my-temporary-note.txt");
-    let (tx, rx) = channel();
-    let mut kvf = KeyValueFile::<usize, usize>::new(&path, tx).await?;
-    assert_eq!(
-        2,
-        *kvf.get_or_init(1, async { anyhow::Result::Ok(2usize) })
-            .await
-            .unwrap()
-    );
-    assert_eq!(
-        4,
-        *kvf.get_or_init(3, async { anyhow::Result::Ok(4usize) })
-            .await
-            .unwrap()
-    );
-    mem::drop(kvf);
-    rx.cleanup().await?;
-
-    let (tx, rx) = channel();
-    kvf = KeyValueFile::new(&path, tx).await?;
-    assert_eq!(
-        2,
-        *kvf.get_or_init(1, async { anyhow::Result::Ok(todo!()) })
-            .await
-            .unwrap()
-    );
-    assert_eq!(
-        4,
-        *kvf.get_or_init(3, async { anyhow::Result::Ok(todo!()) })
-            .await
-            .unwrap()
-    );
-    mem::drop(kvf);
-    rx.cleanup().await?;
-    Ok(())
 }

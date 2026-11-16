@@ -1,6 +1,5 @@
 use crate::PACKAGE_PATH;
 use crate::turtle::graph::Turtle;
-use crate::util::lazy_async::CloneError;
 use anyhow::{Context, anyhow};
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
@@ -70,9 +69,3 @@ pub static LEMMA: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Arc<Lemm
             ))
         }))
     });
-
-#[tokio::test]
-async fn test_lemma() -> anyhow::Result<()> {
-    let lemma = LEMMA.get().await.clone_error()?;
-    Ok(())
-}
