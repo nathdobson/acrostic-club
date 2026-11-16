@@ -1,6 +1,6 @@
 {
   "quote": "Cordelia: I personally don't think it's possible to come up with a crazier plan.Oz: We attack the Mayor with hummus.Cordelia: I stand corrected.Oz: Just keeping things in perspective.",
-  "quote_letters": "CORDELIA I PERSONALLY DONT THINK ITS POSSIBLE TO COME UP WITH A CRAZIER PLANOZ WE ATTACK THE MAYOR WITH HUMMUSCORDELIA I STAND CORRECTEDOZ JUST KEEPING THINGS IN PERSPECTIVE",
+  "quote_letters": "CORDELIA I PERSONALLY DONT THINK ITS POSSIBLE TO COME UP WITH A CRAZIER PLAN OZ WE ATTACK THE MAYOR WITH HUMMUS CORDELIA I STAND CORRECTED OZ JUST KEEPING THINGS IN PERSPECTIVE",
   "source": "Mutant Enemy/ Joss Whedon",
   "source_letters": "MUTANTENEMYJOSSWHEDON",
   "clues": [
@@ -11,15 +11,15 @@
       "indices": [
         51,
         6,
-        127,
+        129,
         13,
         23,
-        141,
-        132,
+        144,
+        134,
         50,
         55,
-        116,
-        86
+        118,
+        87
       ]
     },
     {
@@ -27,8 +27,8 @@
       "answer": "upbeat",
       "answer_letters": "UPBEAT",
       "indices": [
-        108,
-        166,
+        109,
+        169,
         42,
         52,
         7,
@@ -40,14 +40,14 @@
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
-        133,
+        135,
         57,
         41,
         5,
         29,
-        150,
+        153,
         28,
-        89
+        90
       ]
     },
     {
@@ -59,7 +59,7 @@
         25,
         59,
         58,
-        130,
+        132,
         69
       ]
     },
@@ -68,12 +68,12 @@
       "answer": "nippon",
       "answer_letters": "NIPPON",
       "indices": [
-        155,
-        159,
+        158,
+        162,
         37,
-        147,
-        128,
-        160
+        150,
+        130,
+        163
       ]
     },
     {
@@ -81,14 +81,14 @@
       "answer": "thriller",
       "answer_letters": "THRILLER",
       "indices": [
-        84,
-        104,
-        129,
-        100,
+        85,
+        105,
+        131,
+        101,
         43,
-        115,
-        163,
-        97
+        117,
+        166,
+        98
       ]
     },
     {
@@ -98,12 +98,12 @@
       "indices": [
         44,
         24,
-        101,
+        102,
         2,
         17,
         30,
-        122,
-        121
+        124,
+        123
       ]
     },
     {
@@ -114,9 +114,9 @@
         75,
         38,
         70,
-        164,
+        167,
         33,
-        165
+        168
       ]
     },
     {
@@ -124,10 +124,10 @@
       "answer": "enrico",
       "answer_letters": "ENRICO",
       "indices": [
-        134,
+        136,
         16,
-        112,
-        154,
+        114,
+        157,
         64,
         15
       ]
@@ -137,11 +137,11 @@
       "answer": "mcleod",
       "answer_letters": "MCLEOD",
       "indices": [
-        106,
-        168,
+        107,
+        171,
         18,
-        172,
-        136,
+        175,
+        139,
         3
       ]
     },
@@ -150,14 +150,14 @@
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
-        95,
-        111,
-        87,
-        76,
-        153,
-        117,
-        93,
-        85
+        96,
+        113,
+        88,
+        77,
+        156,
+        119,
+        94,
+        86
       ]
     },
     {
@@ -165,12 +165,12 @@
       "answer": "joshua",
       "answer_letters": "JOSHUA",
       "indices": [
-        139,
-        96,
+        142,
+        97,
         14,
         60,
-        140,
-        123
+        143,
+        125
       ]
     },
     {
@@ -180,10 +180,10 @@
       "indices": [
         1,
         0,
-        169,
-        82,
-        171,
-        114
+        172,
+        83,
+        174,
+        116
       ]
     },
     {
@@ -191,10 +191,10 @@
       "answer": "swapped",
       "answer_letters": "SWAPPED",
       "indices": [
-        157,
-        99,
+        160,
+        100,
         66,
-        162,
+        165,
         72,
         4,
         22
@@ -206,11 +206,11 @@
       "answer_letters": "SUZUKI",
       "indices": [
         39,
-        105,
-        137,
+        106,
+        140,
         54,
         31,
-        170
+        173
       ]
     },
     {
@@ -218,12 +218,12 @@
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
-        79,
-        102,
+        80,
+        103,
         9,
         35,
-        144,
-        131,
+        147,
+        133,
         20
       ]
     },
@@ -232,12 +232,12 @@
       "answer": "hazard",
       "answer_letters": "HAZARD",
       "indices": [
-        90,
-        94,
+        91,
+        95,
         67,
         74,
         65,
-        135
+        137
       ]
     },
     {
@@ -245,12 +245,12 @@
       "answer": "elects",
       "answer_letters": "ELECTS",
       "indices": [
-        167,
+        170,
         19,
-        145,
+        148,
         49,
-        142,
-        109
+        145,
+        110
       ]
     },
     {
@@ -258,13 +258,13 @@
       "answer": "dentist",
       "answer_letters": "DENTIST",
       "indices": [
-        125,
-        91,
-        124,
-        83,
+        127,
+        92,
+        126,
+        84,
         68,
         40,
-        152
+        155
       ]
     },
     {
@@ -275,12 +275,12 @@
         47,
         11,
         34,
-        148,
-        107,
-        119,
-        77,
-        80,
-        113
+        151,
+        108,
+        121,
+        78,
+        81,
+        115
       ]
     },
     {
@@ -288,12 +288,12 @@
       "answer": "neglect",
       "answer_letters": "NEGLECT",
       "indices": [
+        152,
         149,
-        146,
-        156,
+        159,
         73,
         12,
-        110,
+        112,
         27
       ]
     }

@@ -1,6 +1,6 @@
 {
   "quote": "What in hell are you really made of, Howard? After all, it's only a building. It's not the combination of holy sacrament, Indian torture, and sexual ecstasy that you seem to make of it.\"\"Isn't it?",
-  "quote_letters": "WHAT IN HELL ARE YOU REALLY MADE OF HOWARD AFTER ALL ITS ONLY A BUILDING ITS NOT THE COMBINATION OF HOLY SACRAMENT INDIAN TORTURE AND SEXUAL ECSTASY THAT YOU SEEM TO MAKE OF ITISNT IT",
+  "quote_letters": "WHAT IN HELL ARE YOU REALLY MADE OF HOWARD AFTER ALL ITS ONLY A BUILDING ITS NOT THE COMBINATION OF HOLY SACRAMENT INDIAN TORTURE AND SEXUAL ECSTASY THAT YOU SEEM TO MAKE OF IT ISNT IT",
   "source": "Ayn Rand, The Fountainhead",
   "source_letters": "AYNRANDTHEFOUNTAINHEAD",
   "clues": [
@@ -27,7 +27,7 @@
         103,
         101,
         137,
-        179,
+        180,
         100,
         134
       ]
@@ -58,7 +58,7 @@
         149,
         138,
         77,
-        182
+        183
       ]
     },
     {
@@ -70,7 +70,7 @@
         139,
         141,
         136,
-        176,
+        177,
         55
       ]
     },
@@ -174,7 +174,7 @@
       "indices": [
         19,
         127,
-        177,
+        178,
         126,
         24,
         145
@@ -233,7 +233,7 @@
         14,
         130,
         1,
-        181,
+        182,
         87
       ]
     },
@@ -262,7 +262,7 @@
         124,
         110,
         155,
-        178,
+        179,
         17
       ]
     },

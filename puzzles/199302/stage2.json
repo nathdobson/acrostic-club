@@ -1,6 +1,6 @@
 {
   "quote": "I belong with the trees,the wind,the earth beneath my feet.I belong in the land of enchanting things.But mostly,I belong entwined in your kiss,lost,yet wild and free,pure bliss,like poetry.",
-  "quote_letters": "I BELONG WITH THE TREESTHE WINDTHE EARTH BENEATH MY FEETI BELONG IN THE LAND OF ENCHANTING THINGSBUT MOSTLYI BELONG ENTWINED IN YOUR KISSLOSTYET WILD AND FREEPURE BLISSLIKE POETRY",
+  "quote_letters": "I BELONG WITH THE TREES THE WIND THE EARTH BENEATH MY FEET I BELONG IN THE LAND OF ENCHANTING THINGS BUT MOSTLY I BELONG ENTWINED IN YOUR KISS LOST YET WILD AND FREE PURE BLISS LIKE POETRY",
   "source": "Melody  Lee, Moon Gypsy",
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
@@ -9,16 +9,16 @@
       "answer": "mitsubishi",
       "answer_letters": "MITSUBISHI",
       "indices": [
-        49,
-        107,
-        176,
+        51,
+        112,
+        185,
         22,
-        98,
-        97,
-        165,
-        139,
-        69,
-        28
+        102,
+        101,
+        173,
+        145,
+        72,
+        29
       ]
     },
     {
@@ -26,14 +26,14 @@
       "answer": "entitled",
       "answer_letters": "ENTITLED",
       "indices": [
-        25,
-        88,
+        26,
         91,
+        94,
         0,
-        118,
-        168,
-        157,
-        123
+        123,
+        177,
+        164,
+        128
       ]
     },
     {
@@ -41,13 +41,13 @@
       "answer": "lobbying",
       "answer_letters": "LOBBYING",
       "indices": [
-        60,
-        138,
+        63,
+        144,
         2,
-        58,
-        50,
-        146,
-        113,
+        61,
+        52,
+        153,
+        118,
         7
       ]
     },
@@ -56,15 +56,15 @@
       "answer": "ownership",
       "answer_letters": "OWNERSHIP",
       "indices": [
-        77,
+        80,
         9,
         6,
-        116,
-        177,
-        96,
-        24,
-        87,
-        158
+        121,
+        186,
+        99,
+        25,
+        90,
+        166
       ]
     },
     {
@@ -72,13 +72,13 @@
       "answer": "dubbing",
       "answer_letters": "DUBBING",
       "indices": [
-        148,
-        159,
-        163,
-        41,
-        125,
-        121,
-        95
+        155,
+        167,
+        171,
+        43,
+        130,
+        126,
+        98
       ]
     },
     {
@@ -86,12 +86,12 @@
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
-        106,
-        59,
-        105,
-        72,
+        110,
+        62,
+        109,
+        75,
         5,
-        27
+        28
       ]
     },
     {
@@ -99,12 +99,12 @@
       "answer": "length",
       "answer_letters": "LENGTH",
       "indices": [
-        111,
-        54,
-        43,
-        63,
-        31,
-        32
+        116,
+        56,
+        45,
+        66,
+        33,
+        34
       ]
     },
     {
@@ -112,14 +112,14 @@
       "answer": "enhanced",
       "answer_letters": "ENHANCED",
       "indices": [
-        53,
-        117,
+        55,
+        122,
         12,
-        36,
-        66,
-        82,
+        38,
+        69,
+        85,
         20,
-        30
+        31
       ]
     },
     {
@@ -127,17 +127,17 @@
       "answer": "entertained",
       "answer_letters": "ENTERTAINED",
       "indices": [
-        122,
-        81,
-        99,
-        110,
-        155,
-        140,
+        127,
         84,
-        65,
-        94,
-        80,
-        75
+        103,
+        115,
+        162,
+        146,
+        87,
+        68,
+        97,
+        83,
+        78
       ]
     },
     {
@@ -145,15 +145,15 @@
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
-        101,
-        150,
-        170,
-        42,
-        136,
-        83,
-        169,
-        52,
-        38
+        105,
+        157,
+        179,
+        44,
+        141,
+        86,
+        178,
+        54,
+        40
       ]
     },
     {
@@ -161,14 +161,14 @@
       "answer": "obsolete",
       "answer_letters": "OBSOLETE",
       "indices": [
-        61,
-        109,
-        103,
-        102,
+        64,
+        114,
+        107,
+        106,
         4,
-        175,
+        184,
         14,
-        142
+        149
       ]
     },
     {
@@ -176,12 +176,12 @@
       "answer": "outlet",
       "answer_letters": "OUTLET",
       "indices": [
-        174,
-        130,
-        68,
-        147,
-        70,
-        143
+        183,
+        135,
+        71,
+        154,
+        73,
+        150
       ]
     },
     {
@@ -189,15 +189,15 @@
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
-        151,
-        112,
-        131,
-        104,
+        158,
+        117,
+        136,
+        108,
         15,
-        145,
-        156,
-        166,
-        23
+        152,
+        163,
+        174,
+        24
       ]
     },
     {
@@ -205,14 +205,14 @@
       "answer": "griffith",
       "answer_letters": "GRIFFITH",
       "indices": [
-        114,
-        160,
+        119,
+        168,
         10,
-        78,
-        154,
-        93,
-        55,
-        92
+        81,
+        161,
+        96,
+        57,
+        95
       ]
     },
     {
@@ -220,12 +220,12 @@
       "answer": "yankee",
       "answer_letters": "YANKEE",
       "indices": [
-        178,
-        45,
-        74,
-        133,
-        33,
-        35
+        187,
+        47,
+        77,
+        138,
+        35,
+        37
       ]
     },
     {
@@ -233,18 +233,18 @@
       "answer": "penitentiary",
       "answer_letters": "PENITENTIARY",
       "indices": [
-        173,
+        182,
         16,
-        62,
-        134,
-        46,
-        171,
-        29,
-        86,
-        120,
-        73,
+        65,
+        139,
+        48,
+        180,
+        30,
+        89,
+        125,
+        76,
         19,
-        141
+        148
       ]
     },
     {
@@ -252,18 +252,18 @@
       "answer": "strengthened",
       "answer_letters": "STRENGTHENED",
       "indices": [
-        167,
+        175,
         11,
-        37,
-        161,
-        126,
-        89,
+        39,
+        169,
+        131,
+        92,
         18,
-        47,
+        49,
         3,
-        85,
-        44,
-        152
+        88,
+        46,
+        159
       ]
     },
     {
@@ -271,15 +271,15 @@
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [
-        128,
+        133,
         21,
-        164,
-        137,
-        129,
-        119,
-        56,
-        135,
-        39
+        172,
+        143,
+        134,
+        124,
+        59,
+        140,
+        41
       ]
     }
   ],

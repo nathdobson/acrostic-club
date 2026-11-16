@@ -1,6 +1,6 @@
 {
   "quote": "What you are is a fucking tragedy, Simon Snow. You literally couldn't be a bigger mess.\"He tries to kiss me, but I pull back- \"And you like that?\"\"I love it.\" He says\"Why?\"\"Because we match.",
-  "quote_letters": "WHAT YOU ARE IS A FUCKING TRAGEDY SIMON SNOW YOU LITERALLY COULDNT BE A BIGGER MESSHE TRIES TO KISS ME BUT I PULL BACK- AND YOU LIKE THATI LOVE IT HE SAYSWHYBECAUSE WE MATCH",
+  "quote_letters": "WHAT YOU ARE IS A FUCKING TRAGEDY SIMON SNOW YOU LITERALLY COULDNT BE A BIGGER MESS HE TRIES TO KISS ME BUT I PULL BACK- AND YOU LIKE THAT I LOVE IT HE SAYS WHY BECAUSE WE MATCH",
   "source": "Rainbow Rowell, Carry On",
   "source_letters": "RAINBOWROWELLCARRYON",
   "clues": [
@@ -9,11 +9,11 @@
       "answer": "robbed",
       "answer_letters": "ROBBED",
       "indices": [
-        87,
+        88,
         42,
-        157,
+        161,
         67,
-        158,
+        162,
         63
       ]
     },
@@ -23,9 +23,9 @@
       "answer_letters": "ATKINS",
       "indices": [
         16,
-        133,
-        95,
-        107,
+        134,
+        96,
+        108,
         64,
         81
       ]
@@ -35,11 +35,11 @@
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
-        144,
+        146,
         82,
-        150,
+        152,
         19,
-        89,
+        90,
         40
       ]
     },
@@ -48,15 +48,15 @@
       "answer": "negotiate",
       "answer_letters": "NEGOTIATE",
       "indices": [
-        121,
-        84,
+        122,
+        85,
         29,
         37,
-        105,
-        137,
+        106,
+        139,
         28,
-        170,
-        166
+        174,
+        170
       ]
     },
     {
@@ -66,8 +66,8 @@
       "indices": [
         72,
         6,
-        168,
-        114,
+        172,
+        115,
         9,
         45
       ]
@@ -77,11 +77,11 @@
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
-        140,
+        142,
         7,
         26,
         34,
-        142,
+        144,
         51
       ]
     },
@@ -91,12 +91,12 @@
       "answer_letters": "WHISKEY",
       "indices": [
         0,
-        155,
+        158,
         13,
-        162,
+        166,
         21,
-        131,
-        124
+        132,
+        125
       ]
     },
     {
@@ -106,8 +106,8 @@
       "indices": [
         27,
         73,
-        171,
-        172,
+        175,
+        176,
         56,
         32
       ]
@@ -118,12 +118,12 @@
       "answer_letters": "OUTRAGED",
       "indices": [
         60,
-        161,
-        136,
+        165,
+        137,
         77,
         2,
         74,
-        101,
+        102,
         31
       ]
     },
@@ -133,12 +133,12 @@
       "answer_letters": "WALKWAY",
       "indices": [
         43,
-        169,
-        139,
-        117,
-        154,
+        173,
+        141,
+        118,
+        157,
         54,
-        156
+        159
       ]
     },
     {
@@ -147,14 +147,14 @@
       "answer_letters": "EVANGELIST",
       "indices": [
         11,
-        141,
+        143,
         70,
         23,
         24,
         30,
-        111,
-        129,
-        153,
+        112,
+        130,
+        155,
         65
       ]
     },
@@ -164,8 +164,8 @@
       "answer_letters": "LAUGHS",
       "indices": [
         49,
-        115,
-        104,
+        116,
+        105,
         75,
         1,
         14
@@ -178,10 +178,10 @@
       "indices": [
         55,
         61,
-        116,
+        117,
         50,
-        126,
-        90
+        127,
+        91
       ]
     },
     {
@@ -189,12 +189,12 @@
       "answer": "camille",
       "answer_letters": "CAMILLE",
       "indices": [
-        159,
-        151,
+        163,
+        153,
         36,
         22,
-        128,
-        112,
+        129,
+        113,
         68
       ]
     },
@@ -203,12 +203,12 @@
       "answer": "automatic",
       "answer_letters": "AUTOMATIC",
       "indices": [
-        120,
-        110,
-        86,
-        93,
+        121,
+        111,
+        87,
+        94,
         79,
-        160,
+        164,
         3,
         35,
         59
@@ -221,8 +221,8 @@
       "indices": [
         10,
         47,
-        122,
-        125,
+        123,
+        126,
         62,
         18
       ]
@@ -233,12 +233,12 @@
       "answer_letters": "RHYTHMIC",
       "indices": [
         53,
-        83,
+        84,
         5,
-        92,
-        134,
-        100,
-        88,
+        93,
+        135,
+        101,
+        89,
         20
       ]
     },
@@ -248,12 +248,12 @@
       "answer_letters": "YANKEES",
       "indices": [
         57,
-        135,
+        136,
         38,
-        130,
+        131,
         80,
         52,
-        97
+        98
       ]
     },
     {
@@ -262,12 +262,12 @@
       "answer_letters": "OBESITY",
       "indices": [
         46,
-        103,
+        104,
         76,
-        98,
-        96,
-        145,
-        152
+        99,
+        97,
+        147,
+        154
       ]
     },
     {
@@ -276,11 +276,11 @@
       "answer_letters": "NEPHEW",
       "indices": [
         41,
-        163,
-        109,
-        147,
-        148,
-        165
+        167,
+        110,
+        149,
+        150,
+        169
       ]
     }
   ],

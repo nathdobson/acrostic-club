@@ -1,6 +1,6 @@
 {
   "quote": "Dear to me is sleep: still more, being made of stone,While pain and guilt still linger here below,Blindness and numbness--these please me alone;Then do not wake me, keep your voices low.",
-  "quote_letters": "DEAR TO ME IS SLEEP STILL MORE BEING MADE OF STONEWHILE PAIN AND GUILT STILL LINGER HERE BELOWBLINDNESS AND NUMBNESS--THESE PLEASE ME ALONETHEN DO NOT WAKE ME KEEP YOUR VOICES LOW",
+  "quote_letters": "DEAR TO ME IS SLEEP STILL MORE BEING MADE OF STONE WHILE PAIN AND GUILT STILL LINGER HERE BELOW BLINDNESS AND NUMBNESS--THESE PLEASE ME ALONE THEN DO NOT WAKE ME KEEP YOUR VOICES LOW",
   "source": "Michelangelo Buonarroti",
   "source_letters": "MICHELANGELOBUONARROTI",
   "clues": [
@@ -10,13 +10,13 @@
       "answer_letters": "MEASURES",
       "indices": [
         26,
-        120,
-        57,
+        122,
+        58,
         20,
-        109,
-        86,
-        54,
-        174
+        111,
+        87,
+        55,
+        177
       ]
     },
     {
@@ -24,13 +24,13 @@
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
-        78,
+        79,
         8,
-        124,
-        82,
-        136,
-        169,
-        160
+        126,
+        83,
+        138,
+        172,
+        163
       ]
     },
     {
@@ -38,13 +38,13 @@
       "answer": "clients",
       "answer_letters": "CLIENTS",
       "indices": [
-        172,
+        175,
         23,
-        67,
-        138,
-        97,
-        139,
-        121
+        68,
+        140,
+        99,
+        142,
+        123
       ]
     },
     {
@@ -52,12 +52,12 @@
       "answer": "happen",
       "answer_letters": "HAPPEN",
       "indices": [
-        140,
-        134,
-        56,
-        162,
-        81,
-        147
+        143,
+        136,
+        57,
+        165,
+        82,
+        150
       ]
     },
     {
@@ -65,12 +65,12 @@
       "answer": "enlist",
       "answer_letters": "ENLIST",
       "indices": [
-        161,
-        62,
-        53,
+        164,
+        63,
+        54,
         33,
-        114,
-        69
+        116,
+        70
       ]
     },
     {
@@ -78,12 +78,12 @@
       "answer": "lodging",
       "answer_letters": "LODGING",
       "indices": [
-        125,
-        170,
+        127,
+        173,
         39,
-        65,
-        171,
-        108,
+        66,
+        174,
+        110,
         35
       ]
     },
@@ -93,10 +93,10 @@
       "answer_letters": "ASSIST",
       "indices": [
         38,
-        102,
-        71,
+        104,
+        72,
         22,
-        101,
+        103,
         5
       ]
     },
@@ -105,12 +105,12 @@
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
-        59,
-        87,
+        60,
+        88,
         32,
         0,
-        95,
-        132
+        97,
+        134
       ]
     },
     {
@@ -118,12 +118,12 @@
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
-        80,
+        81,
         47,
-        113,
-        118,
-        51,
-        90
+        115,
+        120,
+        52,
+        91
       ]
     },
     {
@@ -132,12 +132,12 @@
       "answer_letters": "ENSEMBLE",
       "indices": [
         17,
-        79,
+        80,
         12,
-        173,
-        131,
+        176,
+        133,
         31,
-        74,
+        75,
         49
       ]
     },
@@ -146,12 +146,12 @@
       "answer": "leonid",
       "answer_letters": "LEONID",
       "indices": [
-        176,
+        179,
         1,
         27,
-        105,
-        73,
-        144
+        107,
+        74,
+        147
       ]
     },
     {
@@ -159,14 +159,14 @@
       "answer": "oklahoma",
       "answer_letters": "OKLAHOMA",
       "indices": [
-        165,
-        153,
-        91,
-        2,
-        84,
-        92,
+        168,
         156,
-        104
+        92,
+        2,
+        85,
+        93,
+        159,
+        106
       ]
     },
     {
@@ -174,12 +174,12 @@
       "answer": "bombed",
       "answer_letters": "BOMBED",
       "indices": [
-        89,
-        148,
-        110,
-        111,
-        126,
-        63
+        90,
+        151,
+        112,
+        113,
+        128,
+        64
       ]
     },
     {
@@ -187,13 +187,13 @@
       "answer": "unknown",
       "answer_letters": "UNKNOWN",
       "indices": [
-        66,
+        67,
         34,
-        159,
-        137,
-        145,
-        93,
-        112
+        162,
+        139,
+        148,
+        94,
+        114
       ]
     },
     {
@@ -202,12 +202,12 @@
       "answer_letters": "ONETIME",
       "indices": [
         42,
-        99,
-        100,
-        72,
-        58,
+        101,
+        102,
+        73,
+        59,
         37,
-        141
+        144
       ]
     },
     {
@@ -216,11 +216,11 @@
       "answer_letters": "NEPHEW",
       "indices": [
         48,
-        154,
-        18,
-        119,
         157,
-        50
+        18,
+        121,
+        160,
+        51
       ]
     },
     {
@@ -228,12 +228,12 @@
       "answer": "alfred",
       "answer_letters": "ALFRED",
       "indices": [
-        61,
+        62,
         24,
         43,
         3,
-        122,
-        106
+        124,
+        108
       ]
     },
     {
@@ -243,12 +243,12 @@
       "indices": [
         28,
         9,
-        128,
-        166,
+        130,
+        169,
         15,
         46,
         40,
-        98
+        100
       ]
     },
     {
@@ -256,11 +256,11 @@
       "answer": "resist",
       "answer_letters": "RESIST",
       "indices": [
-        167,
+        170,
         29,
         14,
         11,
-        115,
+        117,
         21
       ]
     },
@@ -270,11 +270,11 @@
       "answer_letters": "ONEILL",
       "indices": [
         6,
-        142,
+        145,
         16,
-        96,
-        77,
-        75
+        98,
+        78,
+        76
       ]
     },
     {
@@ -282,12 +282,12 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        149,
-        151,
-        177,
-        178,
-        127,
-        164
+        152,
+        154,
+        180,
+        181,
+        129,
+        167
       ]
     },
     {
@@ -295,14 +295,14 @@
       "answer": "isabelle",
       "answer_letters": "ISABELLE",
       "indices": [
-        52,
+        53,
         45,
-        152,
-        94,
-        129,
-        135,
-        68,
-        85
+        155,
+        96,
+        131,
+        137,
+        69,
+        86
       ]
     }
   ],

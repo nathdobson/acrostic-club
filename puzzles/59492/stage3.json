@@ -1,6 +1,6 @@
 {
   "quote": "I think you must be some kind of a freak. Either that or you’re trying toconvert me to your secret horse religion.”“Darn, you got me,” she says theatrically. “You thwarted my evil plan.",
-  "quote_letters": "I THINK YOU MUST BE SOME KIND OF A FREAK EITHER THAT OR YOURE TRYING TOCONVERT ME TO YOUR SECRET HORSE RELIGIONDARN YOU GOT ME SHE SAYS THEATRICALLY YOU THWARTED MY EVIL PLAN",
+  "quote_letters": "I THINK YOU MUST BE SOME KIND OF A FREAK EITHER THAT OR YOURE TRYING TOCONVERT ME TO YOUR SECRET HORSE RELIGION DARN YOU GOT ME SHE SAYS THEATRICALLY YOU THWARTED MY EVIL PLAN",
   "source": "Cynthia Hand, Unearthly",
   "source_letters": "CYNTHIAHANDUNEARTHLY",
   "clues": [
@@ -11,12 +11,12 @@
       "indices": [
         71,
         38,
-        162,
+        163,
         17,
         53,
-        111,
+        112,
         65,
-        144
+        145
       ]
     },
     {
@@ -28,7 +28,7 @@
         30,
         10,
         51,
-        137,
+        138,
         100
       ]
     },
@@ -53,12 +53,12 @@
       "answer_letters": "TURKEYS",
       "indices": [
         43,
-        151,
-        141,
+        152,
+        142,
         6,
         37,
         64,
-        134
+        135
       ]
     },
     {
@@ -67,9 +67,9 @@
       "answer_letters": "HITTER",
       "indices": [
         3,
-        167,
+        168,
         95,
-        140,
+        141,
         45,
         46
       ]
@@ -80,11 +80,11 @@
       "answer_letters": "ISTHMUS",
       "indices": [
         108,
-        127,
+        128,
         69,
-        154,
+        155,
         12,
-        118,
+        119,
         20
       ]
     },
@@ -96,8 +96,8 @@
         50,
         107,
         63,
-        159,
-        165,
+        160,
+        166,
         28
       ]
     },
@@ -109,11 +109,11 @@
         49,
         104,
         92,
-        153,
-        156,
+        154,
+        157,
         76,
         75,
-        131
+        132
       ]
     },
     {
@@ -121,14 +121,14 @@
       "answer": "anthology",
       "answer_letters": "ANTHOLOGY",
       "indices": [
-        132,
-        114,
-        158,
+        133,
+        115,
+        159,
         97,
         83,
-        146,
-        117,
-        120,
+        147,
+        118,
+        121,
         56
       ]
     },
@@ -139,9 +139,9 @@
       "indices": [
         27,
         101,
-        143,
-        136,
-        172,
+        144,
+        137,
+        173,
         99
       ]
     },
@@ -150,12 +150,12 @@
       "answer": "donkey",
       "answer_letters": "DONKEY",
       "indices": [
-        160,
+        161,
         9,
-        173,
+        174,
         39,
-        129,
-        116
+        130,
+        117
       ]
     },
     {
@@ -165,7 +165,7 @@
       "indices": [
         87,
         110,
-        142,
+        143,
         82,
         0,
         73,
@@ -178,13 +178,13 @@
       "answer_letters": "NOTORIETY",
       "indices": [
         5,
-        121,
+        122,
         62,
         57,
         59,
         106,
         91,
-        122,
+        123,
         85
       ]
     },
@@ -193,9 +193,9 @@
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
-        138,
-        168,
-        145,
+        139,
+        169,
+        146,
         4,
         72,
         77,
@@ -213,7 +213,7 @@
         26,
         93,
         22,
-        139,
+        140,
         2,
         42,
         74,
@@ -225,10 +225,10 @@
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
-        113,
+        114,
         44,
-        163,
-        124,
+        164,
+        125,
         41,
         14
       ]
@@ -239,11 +239,11 @@
       "answer_letters": "TWOYEAR",
       "indices": [
         15,
-        155,
+        156,
         21,
-        149,
-        125,
-        112,
+        150,
+        126,
+        113,
         54
       ]
     },
@@ -252,10 +252,10 @@
       "answer": "hooper",
       "answer_letters": "HOOPER",
       "indices": [
-        128,
+        129,
         70,
         86,
-        170,
+        171,
         18,
         36
       ]
@@ -266,11 +266,11 @@
       "answer_letters": "LOVELY",
       "indices": [
         105,
-        150,
-        166,
+        151,
+        167,
         94,
-        171,
-        147
+        172,
+        148
       ]
     },
     {
@@ -278,12 +278,12 @@
       "answer": "yorker",
       "answer_letters": "YORKER",
       "indices": [
-        133,
+        134,
         98,
         103,
         25,
         80,
-        157
+        158
       ]
     }
   ],

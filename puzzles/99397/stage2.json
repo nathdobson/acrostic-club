@@ -1,6 +1,6 @@
 {
   "quote": "It's very difficult for a black man to get out of South-Central Los Angeles, and get out civilized....The only men I know who have escaped, all began reading Robert Heinlein at age ten.",
-  "quote_letters": "ITS VERY DIFFICULT FOR A BLACK MAN TO GET OUT OF SOUTH-CENTRAL LOS ANGELES AND GET OUT CIVILIZEDTHE ONLY MEN I KNOW WHO HAVE ESCAPED ALL BEGAN READING ROBERT HEINLEIN AT AGE TEN",
+  "quote_letters": "ITS VERY DIFFICULT FOR A BLACK MAN TO GET OUT OF SOUTH-CENTRAL LOS ANGELES AND GET OUT CIVILIZED THE ONLY MEN I KNOW WHO HAVE ESCAPED ALL BEGAN READING ROBERT HEINLEIN AT AGE TEN",
   "source": "Larry Niven, Scatterbrain",
   "source_letters": "LARRYNIVENSCATTERBRAIN",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "locals",
       "answer_letters": "LOCALS",
       "indices": [
-        134,
+        135,
         42,
         87,
-        128,
+        129,
         91,
-        126
+        127
       ]
     },
     {
@@ -26,7 +26,7 @@
         57,
         69,
         61,
-        109,
+        110,
         27
       ]
     },
@@ -37,11 +37,11 @@
       "indices": [
         6,
         80,
-        121,
+        122,
         16,
-        164,
+        165,
         93,
-        175
+        176
       ]
     },
     {
@@ -50,8 +50,8 @@
       "answer_letters": "RHYTHM",
       "indices": [
         21,
-        120,
-        103,
+        121,
+        104,
         44,
         53,
         31
@@ -64,9 +64,9 @@
       "indices": [
         7,
         4,
-        152,
-        112,
-        176,
+        153,
+        113,
+        177,
         72
       ]
     },
@@ -75,10 +75,10 @@
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
-        141,
+        142,
         5,
-        116,
-        144,
+        117,
+        145,
         49,
         40
       ]
@@ -89,12 +89,12 @@
       "answer_letters": "IPSWICH",
       "indices": [
         13,
-        129,
+        130,
         73,
-        114,
+        115,
         88,
-        127,
-        97
+        128,
+        98
       ]
     },
     {
@@ -106,9 +106,9 @@
         92,
         36,
         71,
-        145,
+        146,
         81,
-        159
+        160
       ]
     },
     {
@@ -121,10 +121,10 @@
         12,
         94,
         28,
-        156,
-        160,
-        122,
-        163
+        157,
+        161,
+        123,
+        164
       ]
     },
     {
@@ -132,11 +132,11 @@
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
-        148,
-        113,
+        149,
+        114,
         58,
         10,
-        107,
+        108,
         79
       ]
     },
@@ -146,12 +146,12 @@
       "answer_letters": "SOLDOUT",
       "indices": [
         65,
-        118,
+        119,
         63,
-        131,
-        100,
+        132,
+        101,
         84,
-        174
+        175
       ]
     },
     {
@@ -160,11 +160,11 @@
       "answer_letters": "CHURCH",
       "indices": [
         14,
-        158,
+        159,
         51,
         59,
         55,
-        117
+        118
       ]
     },
     {
@@ -173,8 +173,8 @@
       "answer_letters": "ABBASID",
       "indices": [
         75,
-        153,
-        137,
+        154,
+        138,
         60,
         2,
         90,
@@ -188,8 +188,8 @@
       "indices": [
         52,
         23,
-        111,
-        154,
+        112,
+        155,
         46,
         47,
         19
@@ -203,9 +203,9 @@
         17,
         64,
         43,
-        102,
+        103,
         20,
-        101
+        102
       ]
     },
     {
@@ -213,11 +213,11 @@
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
-        138,
-        76,
         139,
-        170,
-        149,
+        76,
+        140,
+        171,
+        150,
         70
       ]
     },
@@ -226,12 +226,12 @@
       "answer": "relate",
       "answer_letters": "RELATE",
       "indices": [
-        151,
-        172,
+        152,
+        173,
         26,
         67,
         35,
-        125
+        126
       ]
     },
     {
@@ -240,9 +240,9 @@
       "answer_letters": "BALLOT",
       "indices": [
         25,
-        140,
-        162,
-        135,
+        141,
+        163,
+        136,
         50,
         1
       ]
@@ -252,11 +252,11 @@
       "answer": "rugged",
       "answer_letters": "RUGGED",
       "indices": [
-        143,
+        144,
         15,
-        171,
+        172,
         38,
-        106,
+        107,
         77
       ]
     },
@@ -265,11 +265,11 @@
       "answer": "amtrak",
       "answer_letters": "AMTRAK",
       "indices": [
-        133,
-        105,
+        134,
+        106,
+        169,
+        156,
         168,
-        155,
-        167,
         29
       ]
     },
@@ -278,15 +278,15 @@
       "answer": "intention",
       "answer_letters": "INTENTION",
       "indices": [
-        147,
+        148,
         68,
-        96,
+        97,
         56,
-        161,
+        162,
         85,
         0,
         83,
-        165
+        166
       ]
     },
     {
@@ -295,11 +295,11 @@
       "answer_letters": "NEEDED",
       "indices": [
         33,
-        123,
-        98,
+        124,
+        99,
         9,
-        130,
-        146
+        131,
+        147
       ]
     }
   ],

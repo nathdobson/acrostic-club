@@ -1,6 +1,6 @@
 {
   "quote": "Claire, did I invite you to my barbeque?\" Massie asked, her neck tilting to the right and her arms tightly crossed.\"Huh? No. I mean, I don't know,\" Claire said.\" Massie said through her teeth.",
-  "quote_letters": "CLAIRE DID I INVITE YOU TO MY BARBEQUE MASSIE ASKED HER NECK TILTING TO THE RIGHT AND HER ARMS TIGHTLY CROSSEDHUH NO I MEAN I DONT KNOW CLAIRE SAID MASSIE SAID THROUGH HER TEETH",
+  "quote_letters": "CLAIRE DID I INVITE YOU TO MY BARBEQUE MASSIE ASKED HER NECK TILTING TO THE RIGHT AND HER ARMS TIGHTLY CROSSED HUH NO I MEAN I DONT KNOW CLAIRE SAID MASSIE SAID THROUGH HER TEETH",
   "source": "Lisi Harrison, The Clique",
   "source_letters": "LISIHARRISONTHECLIQUE",
   "clues": [
@@ -13,8 +13,8 @@
         13,
         95,
         52,
-        145,
-        164,
+        146,
+        165,
         27
       ]
     },
@@ -25,7 +25,7 @@
       "indices": [
         43,
         14,
-        176,
+        177,
         3,
         30,
         62,
@@ -38,8 +38,8 @@
       "answer_letters": "SHARKS",
       "indices": [
         107,
-        168,
-        138,
+        169,
+        139,
         32,
         59,
         106
@@ -52,10 +52,10 @@
       "indices": [
         77,
         92,
-        121,
-        165,
+        122,
+        166,
         108,
-        150
+        151
       ]
     },
     {
@@ -64,10 +64,10 @@
       "answer_letters": "HIGHWAY",
       "indices": [
         73,
-        117,
+        118,
         78,
         98,
-        134,
+        135,
         82,
         101
       ]
@@ -77,12 +77,12 @@
       "answer": "address",
       "answer_letters": "ADDRESS",
       "indices": [
-        156,
-        126,
-        146,
+        157,
+        127,
+        147,
         104,
         87,
-        143,
+        144,
         93
       ]
     },
@@ -92,10 +92,10 @@
       "answer_letters": "RODRIGO",
       "indices": [
         4,
-        127,
+        128,
         109,
         54,
-        139,
+        140,
         67,
         105
       ]
@@ -106,11 +106,11 @@
       "answer_letters": "RICHMOND",
       "indices": [
         91,
-        152,
+        153,
         58,
-        112,
-        119,
-        133,
+        113,
+        120,
+        134,
         56,
         9
       ]
@@ -120,12 +120,12 @@
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
-        157,
+        158,
         42,
-        144,
+        145,
         8,
         90,
-        110
+        111
       ]
     },
     {
@@ -133,12 +133,12 @@
       "answer": "strategies",
       "answer_letters": "STRATEGIES",
       "indices": [
-        155,
+        156,
         17,
-        162,
+        163,
         2,
         61,
-        169,
+        170,
         97,
         96,
         53,
@@ -152,9 +152,9 @@
       "indices": [
         21,
         66,
-        151,
+        152,
         16,
-        172,
+        173,
         37
       ]
     },
@@ -163,11 +163,11 @@
       "answer": "neutral",
       "answer_letters": "NEUTRAL",
       "indices": [
-        132,
-        173,
-        111,
+        133,
+        174,
+        112,
         99,
-        140,
+        141,
         46,
         1
       ]
@@ -190,9 +190,9 @@
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
-        161,
-        163,
-        136,
+        162,
+        164,
+        137,
         48,
         44,
         20
@@ -203,11 +203,11 @@
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
-        120,
-        124,
-        160,
+        121,
+        125,
+        161,
         86,
-        174,
+        175,
         88
       ]
     },
@@ -218,9 +218,9 @@
       "indices": [
         103,
         31,
-        175,
+        176,
         0,
-        166,
+        167,
         28
       ]
     },
@@ -229,11 +229,11 @@
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
-        137,
-        141,
+        138,
+        142,
         47,
-        115,
-        129,
+        116,
+        130,
         79,
         25
       ]
@@ -246,11 +246,11 @@
         11,
         83,
         80,
-        153,
-        170,
+        154,
+        171,
         15,
         49,
-        114,
+        115,
         74,
         50
       ]
@@ -274,12 +274,12 @@
       "answer_letters": "UNNAMED",
       "indices": [
         22,
-        122,
-        128,
+        123,
+        129,
         40,
         39,
         57,
-        158
+        159
       ]
     },
     {
@@ -288,11 +288,11 @@
       "answer_letters": "EMBARK",
       "indices": [
         34,
-        148,
-        33,
         149,
+        33,
+        150,
         76,
-        131
+        132
       ]
     }
   ],

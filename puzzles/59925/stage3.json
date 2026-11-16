@@ -1,6 +1,6 @@
 {
   "quote": "A horse blanket, Mel?I remembered what I was wearing. 'It tore in half when Hrani tried washing it. She was going to mend it. This piece was too small for a horse, but it was just right fo",
-  "quote_letters": "A HORSE BLANKET MELI REMEMBERED WHAT I WAS WEARING IT TORE IN HALF WHEN HRANI TRIED WASHING IT SHE WAS GOING TO MEND IT THIS PIECE WAS TOO SMALL FOR A HORSE BUT IT WAS JUST RIGHT FO",
+  "quote_letters": "A HORSE BLANKET MEL I REMEMBERED WHAT I WAS WEARING IT TORE IN HALF WHEN HRANI TRIED WASHING IT SHE WAS GOING TO MEND IT THIS PIECE WAS TOO SMALL FOR A HORSE BUT IT WAS JUST RIGHT FO",
   "source": "Sherwood Smith, Crown Duel",
   "source_letters": "SHERWOODSMITHCROWNDUEL",
   "clues": [
@@ -9,11 +9,11 @@
       "answer": "sewage",
       "answer_letters": "SEWAGE",
       "indices": [
-        133,
-        81,
-        131,
-        165,
-        49,
+        134,
+        82,
+        132,
+        166,
+        50,
         6
       ]
     },
@@ -22,12 +22,12 @@
       "answer": "hebrew",
       "answer_letters": "HEBREW",
       "indices": [
-        72,
-        155,
+        73,
+        156,
         8,
-        46,
+        47,
         17,
-        39
+        40
       ]
     },
     {
@@ -35,12 +35,12 @@
       "answer": "elijah",
       "answer_letters": "ELIJAH",
       "indices": [
-        29,
-        142,
-        80,
-        168,
-        40,
-        68
+        30,
+        143,
+        81,
+        169,
+        41,
+        69
       ]
     },
     {
@@ -48,13 +48,13 @@
       "answer": "roberta",
       "answer_letters": "ROBERTA",
       "indices": [
-        21,
+        22,
         3,
-        157,
-        69,
-        73,
-        177,
-        85
+        158,
+        70,
+        74,
+        178,
+        86
       ]
     },
     {
@@ -62,13 +62,13 @@
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
-        67,
-        151,
-        92,
-        78,
-        47,
-        101,
-        33
+        68,
+        152,
+        93,
+        79,
+        48,
+        102,
+        34
       ]
     },
     {
@@ -76,12 +76,12 @@
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
-        110,
-        99,
-        48,
-        161,
-        114,
-        90
+        111,
+        100,
+        49,
+        162,
+        115,
+        91
       ]
     },
     {
@@ -89,12 +89,12 @@
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
-        146,
+        147,
         9,
-        115,
-        62,
-        74,
-        23
+        116,
+        63,
+        75,
+        24
       ]
     },
     {
@@ -102,13 +102,13 @@
       "answer": "downing",
       "answer_letters": "DOWNING",
       "indices": [
-        30,
-        152,
-        32,
-        89,
-        174,
+        31,
+        153,
+        33,
+        90,
+        175,
         11,
-        103
+        104
       ]
     },
     {
@@ -116,13 +116,13 @@
       "answer": "suffers",
       "answer_letters": "SUFFERS",
       "indices": [
-        166,
-        169,
-        179,
-        145,
+        167,
+        170,
+        180,
+        146,
         13,
         4,
-        86
+        87
       ]
     },
     {
@@ -130,13 +130,13 @@
       "answer": "militia",
       "answer_letters": "MILITIA",
       "indices": [
-        112,
-        122,
+        113,
+        123,
         18,
-        105,
-        120,
-        51,
-        34
+        106,
+        121,
+        52,
+        35
       ]
     },
     {
@@ -144,13 +144,13 @@
       "answer": "isolate",
       "answer_letters": "ISOLATE",
       "indices": [
-        88,
-        123,
-        180,
-        64,
-        149,
-        171,
-        129
+        89,
+        124,
+        181,
+        65,
+        150,
+        172,
+        130
       ]
     },
     {
@@ -158,11 +158,11 @@
       "answer": "tastes",
       "answer_letters": "TASTES",
       "indices": [
-        159,
-        63,
-        154,
-        162,
-        97,
+        160,
+        64,
+        155,
+        163,
+        98,
         5
       ]
     },
@@ -172,13 +172,13 @@
       "answer_letters": "HITHERTO",
       "indices": [
         2,
-        76,
-        118,
-        87,
-        24,
-        173,
-        109,
-        104
+        77,
+        119,
+        88,
+        25,
+        174,
+        110,
+        105
       ]
     },
     {
@@ -186,15 +186,15 @@
       "answer": "charities",
       "answer_letters": "CHARITIES",
       "indices": [
-        128,
-        176,
+        129,
+        177,
         0,
-        28,
-        59,
-        54,
-        19,
-        113,
-        41
+        29,
+        60,
+        55,
+        20,
+        114,
+        42
       ]
     },
     {
@@ -202,12 +202,12 @@
       "answer": "regina",
       "answer_letters": "REGINA",
       "indices": [
-        147,
-        127,
-        175,
-        117,
-        70,
-        45
+        148,
+        128,
+        176,
+        118,
+        71,
+        46
       ]
     },
     {
@@ -215,12 +215,12 @@
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
-        136,
-        52,
-        93,
-        132,
-        84,
-        100
+        137,
+        53,
+        94,
+        133,
+        85,
+        101
       ]
     },
     {
@@ -228,12 +228,12 @@
       "answer": "warmth",
       "answer_letters": "WARMTH",
       "indices": [
-        43,
+        44,
         10,
-        153,
-        140,
-        35,
-        96
+        154,
+        141,
+        36,
+        97
       ]
     },
     {
@@ -241,11 +241,11 @@
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
-        60,
-        22,
-        164,
-        27,
-        139,
+        61,
+        23,
+        165,
+        28,
+        140,
         14
       ]
     },
@@ -254,12 +254,12 @@
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [
-        82,
-        57,
-        125,
-        135,
-        121,
-        170
+        83,
+        58,
+        126,
+        136,
+        122,
+        171
       ]
     },
     {
@@ -267,12 +267,12 @@
       "answer": "uniform",
       "answer_letters": "UNIFORM",
       "indices": [
-        158,
-        75,
-        37,
-        65,
-        55,
-        79,
+        159,
+        76,
+        38,
+        66,
+        56,
+        80,
         16
       ]
     },
@@ -281,11 +281,11 @@
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
-        44,
-        25,
+        45,
         26,
-        141,
-        56,
+        27,
+        142,
+        57,
         12
       ]
     },
@@ -294,12 +294,12 @@
       "answer": "losing",
       "answer_letters": "LOSING",
       "indices": [
-        143,
-        137,
-        95,
-        126,
-        106,
-        107
+        144,
+        138,
+        96,
+        127,
+        107,
+        108
       ]
     }
   ],

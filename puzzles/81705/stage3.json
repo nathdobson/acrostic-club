@@ -1,6 +1,6 @@
 {
   "quote": "Tucker: \"Today we ran into a mama grizzly with two cubs at the ridge off Colter Bay and Clara sang to it to make it go away.\"Mrs. Avery: You sang to it?Tucker: Her singing is that bad.",
-  "quote_letters": "TUCKER TODAY WE RAN INTO A MAMA GRIZZLY WITH TWO CUBS AT THE RIDGE OFF COLTER BAY AND CLARA SANG TO IT TO MAKE IT GO AWAYMRS AVERY YOU SANG TO ITTUCKER HER SINGING IS THAT BAD",
+  "quote_letters": "TUCKER TODAY WE RAN INTO A MAMA GRIZZLY WITH TWO CUBS AT THE RIDGE OFF COLTER BAY AND CLARA SANG TO IT TO MAKE IT GO AWAY MRS AVERY YOU SANG TO IT TUCKER HER SINGING IS THAT BAD",
   "source": "Cynthia Hand, Unearthly",
   "source_letters": "CYNTHIAHANDUNEARTHLY",
   "clues": [
@@ -10,8 +10,8 @@
       "answer_letters": "CRITIC",
       "indices": [
         2,
-        128,
-        160,
+        129,
+        162,
         112,
         20,
         49
@@ -22,8 +22,8 @@
       "answer": "yangtze",
       "answer_letters": "YANGTZE",
       "indices": [
-        129,
-        173,
+        130,
+        175,
         21,
         95,
         101,
@@ -37,7 +37,7 @@
       "answer_letters": "NEWBURY",
       "indices": [
         18,
-        127,
+        128,
         118,
         51,
         50,
@@ -55,7 +55,7 @@
         111,
         37,
         67,
-        159,
+        161,
         80
       ]
     },
@@ -64,13 +64,13 @@
       "answer": "hickory",
       "answer_letters": "HICKORY",
       "indices": [
-        168,
+        170,
         41,
         71,
-        148,
-        132,
-        122,
-        131
+        150,
+        133,
+        123,
+        132
       ]
     },
     {
@@ -78,13 +78,13 @@
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
-        157,
-        161,
-        126,
+        159,
+        163,
+        127,
         47,
         3,
         59,
-        174
+        176
       ]
     },
     {
@@ -94,12 +94,12 @@
       "indices": [
         90,
         64,
-        138,
+        139,
         16,
         75,
-        162,
-        136,
-        170,
+        164,
+        137,
+        172,
         23,
         89
       ]
@@ -109,7 +109,7 @@
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
-        152,
+        154,
         4,
         13,
         34,
@@ -123,7 +123,7 @@
       "answer_letters": "AUGUSTA",
       "indices": [
         25,
-        146,
+        148,
         114,
         1,
         92,
@@ -136,12 +136,12 @@
       "answer": "namibia",
       "answer_letters": "NAMIBIA",
       "indices": [
-        158,
+        160,
         107,
         29,
-        143,
-        172,
-        164,
+        144,
+        174,
+        166,
         54
       ]
     },
@@ -152,8 +152,8 @@
       "indices": [
         63,
         100,
-        156,
-        140,
+        158,
+        141,
         93,
         73
       ]
@@ -163,16 +163,16 @@
       "answer": "uzbekistan",
       "answer_letters": "UZBEKISTAN",
       "indices": [
-        133,
+        134,
         35,
         78,
         14,
         108,
         62,
-        123,
+        124,
         7,
         10,
-        137
+        138
       ]
     },
     {
@@ -187,7 +187,7 @@
         84,
         82,
         120,
-        135
+        136
       ]
     },
     {
@@ -199,8 +199,8 @@
         68,
         69,
         98,
-        154,
-        167
+        156,
+        169
       ]
     },
     {
@@ -208,7 +208,7 @@
       "answer": "armand",
       "answer_letters": "ARMAND",
       "indices": [
-        125,
+        126,
         61,
         106,
         17,
@@ -221,12 +221,12 @@
       "answer": "regatta",
       "answer_letters": "REGATTA",
       "indices": [
-        150,
-        149,
+        152,
+        151,
         32,
         30,
         55,
-        144,
+        145,
         88
       ]
     },
@@ -235,8 +235,8 @@
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
-        145,
-        169,
+        147,
+        171,
         0,
         97,
         104,
@@ -251,8 +251,8 @@
         43,
         117,
         27,
-        121,
-        153,
+        122,
+        155,
         76
       ]
     },
@@ -264,9 +264,9 @@
         87,
         8,
         46,
-        147,
-        141,
-        165,
+        149,
+        142,
+        167,
         42
       ]
     },

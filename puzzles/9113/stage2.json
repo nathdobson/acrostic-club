@@ -1,6 +1,6 @@
 {
   "quote": "The more excited I get, the more I vibrate.\"\"Now there's a thought,\" Lor says.\"If you mean what I think you mean, you want to shut the fuck up and never think it again,\" Ryodan says.",
-  "quote_letters": "THE MORE EXCITED I GET THE MORE I VIBRATENOW THERES A THOUGHT LOR SAYSIF YOU MEAN WHAT I THINK YOU MEAN YOU WANT TO SHUT THE FUCK UP AND NEVER THINK IT AGAIN RYODAN SAYS",
+  "quote_letters": "THE MORE EXCITED I GET THE MORE I VIBRATE NOW THERES A THOUGHT LOR SAYS IF YOU MEAN WHAT I THINK YOU MEAN YOU WANT TO SHUT THE FUCK UP AND NEVER THINK IT AGAIN RYODAN SAYS",
   "source": "Karen Marie Moning, Iced",
   "source_letters": "KARENMARIEMONINGICED",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "katrina",
       "answer_letters": "KATRINA",
       "indices": [
-        128,
-        79,
-        85,
+        130,
+        81,
+        87,
         37,
         17,
-        80,
+        82,
         38
       ]
     },
@@ -23,14 +23,14 @@
       "answer": "autonomy",
       "answer_letters": "AUTONOMY",
       "indices": [
-        52,
-        126,
-        54,
+        53,
+        128,
+        55,
         28,
-        137,
-        96,
+        139,
+        98,
         4,
-        104
+        106
       ]
     },
     {
@@ -38,12 +38,12 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        64,
-        117,
-        95,
+        65,
+        119,
+        97,
         13,
-        83,
-        77
+        85,
+        79
       ]
     },
     {
@@ -54,9 +54,9 @@
         30,
         10,
         21,
-        154,
-        41,
-        60
+        156,
+        42,
+        61
       ]
     },
     {
@@ -64,12 +64,12 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        163,
-        123,
-        131,
-        59,
+        165,
+        125,
+        133,
+        60,
         20,
-        43
+        44
       ]
     },
     {
@@ -81,8 +81,8 @@
         12,
         19,
         24,
-        150,
-        68
+        152,
+        69
       ]
     },
     {
@@ -90,12 +90,12 @@
       "answer": "arturo",
       "answer_letters": "ARTURO",
       "indices": [
-        166,
-        158,
-        121,
-        97,
-        141,
-        42
+        168,
+        160,
+        123,
+        99,
+        143,
+        43
       ]
     },
     {
@@ -105,13 +105,13 @@
       "indices": [
         6,
         35,
-        153,
-        122,
+        155,
+        124,
         39,
         25,
-        114,
-        130,
-        66
+        116,
+        132,
+        67
       ]
     },
     {
@@ -119,13 +119,13 @@
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
-        87,
-        134,
-        71,
-        162,
-        92,
+        89,
+        136,
+        73,
+        164,
+        94,
         11,
-        167
+        169
       ]
     },
     {
@@ -134,11 +134,11 @@
       "answer_letters": "EVOLVE",
       "indices": [
         9,
-        139,
-        105,
-        62,
+        141,
+        107,
+        63,
         34,
-        49
+        50
       ]
     },
     {
@@ -146,15 +146,15 @@
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
-        99,
-        152,
-        147,
-        78,
-        168,
-        144,
+        101,
+        154,
         149,
-        125,
-        113
+        80,
+        170,
+        146,
+        151,
+        127,
+        115
       ]
     },
     {
@@ -162,12 +162,12 @@
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
-        160,
+        162,
         23,
-        89,
+        91,
+        86,
         84,
-        82,
-        101
+        103
       ]
     },
     {
@@ -175,12 +175,12 @@
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
-        102,
-        56,
-        111,
-        155,
-        63,
-        156
+        104,
+        57,
+        113,
+        157,
+        64,
+        158
       ]
     },
     {
@@ -189,10 +189,10 @@
       "answer_letters": "INTAKE",
       "indices": [
         32,
-        146,
+        148,
         0,
-        109,
-        93,
+        111,
+        95,
         40
       ]
     },
@@ -201,13 +201,13 @@
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
-        110,
+        112,
         14,
-        108,
+        110,
         36,
-        106,
+        108,
         29,
-        73
+        75
       ]
     },
     {
@@ -215,11 +215,11 @@
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
-        58,
-        74,
-        138,
-        119,
-        90,
+        59,
+        76,
+        140,
+        121,
+        92,
         2
       ]
     },
@@ -228,12 +228,12 @@
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
+        72,
         70,
-        69,
-        116,
-        57,
-        140,
-        165
+        118,
+        58,
+        142,
+        167
       ]
     },
     {
@@ -241,15 +241,15 @@
       "answer": "chihuahua",
       "answer_letters": "CHIHUAHUA",
       "indices": [
-        127,
+        129,
         1,
-        145,
-        46,
-        118,
-        67,
-        55,
-        75,
-        133
+        147,
+        47,
+        120,
+        68,
+        56,
+        77,
+        135
       ]
     },
     {
@@ -257,12 +257,12 @@
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
-        47,
-        135,
-        91,
-        45,
+        48,
+        137,
+        93,
+        46,
         7,
-        161
+        163
       ]
     },
     {
@@ -271,12 +271,12 @@
       "answer_letters": "DESTROY",
       "indices": [
         15,
-        100,
-        50,
-        143,
-        48,
+        102,
+        51,
+        145,
+        49,
         5,
-        159
+        161
       ]
     }
   ],

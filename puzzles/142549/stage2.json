@@ -1,6 +1,6 @@
 {
   "quote": "How do you know she had sex?” Dallas asks.“Every time a penis touches Britain, I receive a telepathic notification.”“Oh,” Dallas says with a straight face. “Well that explains a lot.",
-  "quote_letters": "HOW DO YOU KNOW SHE HAD SEX DALLAS ASKSEVERY TIME A PENIS TOUCHES BRITAIN I RECEIVE A TELEPATHIC NOTIFICATIONOH DALLAS SAYS WITH A STRAIGHT FACE WELL THAT EXPLAINS A LOT",
+  "quote_letters": "HOW DO YOU KNOW SHE HAD SEX DALLAS ASKS EVERY TIME A PENIS TOUCHES BRITAIN I RECEIVE A TELEPATHIC NOTIFICATION OH DALLAS SAYS WITH A STRAIGHT FACE WELL THAT EXPLAINS A LOT",
   "source": "Iris Blaire, Dark Frame",
   "source_letters": "IRISBLAIREDARKFRAME",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
-        80,
-        126,
-        110,
-        141,
-        61,
-        84
+        81,
+        128,
+        112,
+        143,
+        62,
+        85
       ]
     },
     {
@@ -22,13 +22,13 @@
       "answer": "rushing",
       "answer_letters": "RUSHING",
       "indices": [
-        76,
-        60,
-        117,
+        77,
+        61,
+        119,
+        129,
         127,
-        125,
-        161,
-        136
+        163,
+        138
       ]
     },
     {
@@ -36,14 +36,14 @@
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
-        74,
-        64,
+        75,
+        65,
         8,
-        150,
-        98,
-        157,
-        146,
-        119
+        152,
+        99,
+        159,
+        148,
+        121
       ]
     },
     {
@@ -51,17 +51,17 @@
       "answer": "saxophonist",
       "answer_letters": "SAXOPHONIST",
       "indices": [
-        122,
+        124,
         32,
         26,
         5,
-        52,
-        93,
-        167,
-        108,
-        100,
+        53,
+        94,
+        169,
+        109,
+        101,
         36,
-        153
+        155
       ]
     },
     {
@@ -69,11 +69,11 @@
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
-        66,
-        87,
-        105,
+        67,
+        88,
+        106,
         17,
-        155,
+        157,
         31
       ]
     },
@@ -82,13 +82,13 @@
       "answer": "lockheed",
       "answer_letters": "LOCKHEED",
       "indices": [
-        88,
+        89,
         13,
-        78,
+        79,
         37,
-        137,
+        139,
         18,
-        48,
+        49,
         22
       ]
     },
@@ -97,12 +97,12 @@
       "answer": "alexei",
       "answer_letters": "ALEXEI",
       "indices": [
-        152,
-        147,
-        77,
-        156,
-        143,
-        68
+        154,
+        149,
+        78,
+        158,
+        145,
+        69
       ]
     },
     {
@@ -110,13 +110,13 @@
       "answer": "isolated",
       "answer_letters": "ISOLATED",
       "indices": [
-        102,
+        103,
         24,
-        107,
-        166,
-        104,
-        58,
-        41,
+        108,
+        168,
+        105,
+        59,
+        42,
         4
       ]
     },
@@ -125,11 +125,11 @@
       "answer": "revived",
       "answer_letters": "REVIVED",
       "indices": [
-        42,
-        39,
+        43,
         40,
-        55,
-        81,
+        41,
+        56,
+        82,
         25,
         28
       ]
@@ -139,14 +139,14 @@
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
-        82,
+        83,
+        71,
+        133,
         70,
-        131,
-        69,
         14,
-        89,
+        90,
         33,
-        86
+        87
       ]
     },
     {
@@ -154,13 +154,13 @@
       "answer": "dispatch",
       "answer_letters": "DISPATCH",
       "indices": [
-        112,
-        160,
+        114,
+        162,
         38,
-        90,
-        159,
-        45,
-        95,
+        91,
+        161,
+        46,
+        96,
         20
       ]
     },
@@ -169,12 +169,12 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        50,
-        97,
+        51,
+        98,
         7,
-        124,
+        126,
         21,
-        121
+        123
       ]
     },
     {
@@ -182,17 +182,17 @@
       "answer": "retaliation",
       "answer_letters": "RETALIATION",
       "indices": [
-        133,
-        63,
+        135,
+        64,
+        93,
         92,
-        91,
-        148,
-        94,
-        120,
-        168,
-        106,
-        109,
-        54
+        150,
+        95,
+        122,
+        170,
+        107,
+        111,
+        55
       ]
     },
     {
@@ -201,11 +201,11 @@
       "answer_letters": "KHALIFA",
       "indices": [
         11,
-        151,
-        129,
-        114,
-        46,
-        140,
+        153,
+        131,
+        116,
+        47,
+        142,
         35
       ]
     },
@@ -214,12 +214,12 @@
       "answer": "flashes",
       "answer_letters": "FLASHES",
       "indices": [
-        101,
-        158,
+        102,
+        160,
         29,
-        162,
+        164,
         0,
-        79,
+        80,
         16
       ]
     },
@@ -228,14 +228,14 @@
       "answer": "railways",
       "answer_letters": "RAILWAYS",
       "indices": [
-        67,
-        134,
-        135,
+        68,
+        136,
+        137,
+        117,
+        147,
         115,
-        145,
-        113,
-        43,
-        56
+        44,
+        57
       ]
     },
     {
@@ -243,11 +243,11 @@
       "answer": "actual",
       "answer_letters": "ACTUAL",
       "indices": [
-        164,
-        142,
-        138,
+        166,
+        144,
+        140,
         9,
-        116,
+        118,
         30
       ]
     },
@@ -256,12 +256,12 @@
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
-        47,
-        59,
-        99,
+        48,
+        60,
+        100,
         1,
         2,
-        72
+        73
       ]
     },
     {
@@ -269,12 +269,12 @@
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
-        53,
-        132,
-        62,
+        54,
+        134,
+        63,
         12,
-        71,
-        103
+        72,
+        104
       ]
     }
   ],

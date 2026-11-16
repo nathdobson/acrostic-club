@@ -1,6 +1,6 @@
 {
   "quote": "We’ll have to go back there one day, the both of us. You can show my all your favorite places.”“Silly man,” I laughed and pulled his face down to mine. “You are my favorite place.",
-  "quote_letters": "WELL HAVE TO GO BACK THERE ONE DAY THE BOTH OF US YOU CAN SHOW MY ALL YOUR FAVORITE PLACESSILLY MAN I LAUGHED AND PULLED HIS FACE DOWN TO MINE YOU ARE MY FAVORITE PLACE",
+  "quote_letters": "WELL HAVE TO GO BACK THERE ONE DAY THE BOTH OF US YOU CAN SHOW MY ALL YOUR FAVORITE PLACES SILLY MAN I LAUGHED AND PULLED HIS FACE DOWN TO MINE YOU ARE MY FAVORITE PLACE",
   "source": "E.M. Denning, Boomerang",
   "source_letters": "EMDENNINGBOOMERANG",
   "clues": [
@@ -11,12 +11,12 @@
       "indices": [
         88,
         45,
-        125,
-        139,
-        166,
-        103,
-        127,
-        94
+        126,
+        140,
+        167,
+        104,
+        128,
+        95
       ]
     },
     {
@@ -25,13 +25,13 @@
       "answer_letters": "MELODRAMA",
       "indices": [
         63,
-        149,
-        93,
+        150,
+        94,
         14,
-        119,
+        120,
         73,
-        165,
-        138,
+        166,
+        139,
         17
       ]
     },
@@ -40,11 +40,11 @@
       "answer": "difficulty",
       "answer_letters": "DIFFICULTY",
       "indices": [
-        130,
+        131,
         80,
-        154,
+        155,
         75,
-        100,
+        101,
         87,
         52,
         68,
@@ -57,15 +57,15 @@
       "answer": "evaluated",
       "answer_letters": "EVALUATED",
       "indices": [
-        141,
+        142,
         7,
         32,
-        102,
-        104,
+        103,
+        105,
         55,
-        160,
+        161,
         29,
-        112
+        113
       ]
     },
     {
@@ -77,7 +77,7 @@
         60,
         47,
         77,
-        118,
+        119,
         66,
         72
       ]
@@ -91,8 +91,8 @@
         27,
         79,
         0,
-        155,
-        152,
+        156,
+        153,
         89
       ]
     },
@@ -101,11 +101,11 @@
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
-        122,
-        114,
+        123,
+        115,
         59,
         44,
-        111,
+        112,
         37
       ]
     },
@@ -114,8 +114,8 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        133,
-        167,
+        134,
+        168,
         84,
         42,
         82,
@@ -127,12 +127,12 @@
       "answer": "galway",
       "answer_letters": "GALWAY",
       "indices": [
-        105,
-        126,
-        116,
-        132,
+        106,
+        127,
+        117,
+        133,
         76,
-        143
+        144
       ]
     },
     {
@@ -141,13 +141,13 @@
       "answer_letters": "BATHROOM",
       "indices": [
         16,
-        147,
-        135,
-        121,
+        148,
+        136,
+        122,
         24,
-        131,
-        157,
-        151
+        132,
+        158,
+        152
       ]
     },
     {
@@ -159,7 +159,7 @@
         31,
         64,
         58,
-        123,
+        124,
         1,
         50
       ]
@@ -169,8 +169,8 @@
       "answer": "outlook",
       "answer_letters": "OUTLOOK",
       "indices": [
-        136,
-        115,
+        137,
+        116,
         35,
         85,
         51,
@@ -183,11 +183,11 @@
       "answer": "macbeth",
       "answer_letters": "MACBETH",
       "indices": [
-        96,
-        110,
+        97,
+        111,
         18,
         39,
-        128,
+        129,
         10,
         36
       ]
@@ -197,10 +197,10 @@
       "answer": "elliot",
       "answer_letters": "ELLIOT",
       "indices": [
-        107,
+        108,
         67,
-        117,
-        159,
+        118,
+        160,
         78,
         41
       ]
@@ -210,8 +210,8 @@
       "answer": "richly",
       "answer_letters": "RICHLY",
       "indices": [
-        158,
-        91,
+        159,
+        92,
         54,
         5,
         3,
@@ -225,12 +225,12 @@
       "indices": [
         6,
         2,
-        156,
-        97,
-        148,
+        157,
+        98,
+        149,
         86,
-        108,
-        144
+        109,
+        145
       ]
     },
     {
@@ -238,17 +238,17 @@
       "answer": "nonetheless",
       "answer_letters": "NONETHELESS",
       "indices": [
-        140,
+        141,
         71,
-        98,
+        99,
         25,
         81,
-        106,
-        161,
-        92,
+        107,
+        162,
+        93,
         23,
         48,
-        90
+        91
       ]
     },
     {
@@ -257,10 +257,10 @@
       "answer_letters": "GUELPH",
       "indices": [
         13,
-        145,
+        146,
         8,
+        165,
         164,
-        163,
         22
       ]
     }

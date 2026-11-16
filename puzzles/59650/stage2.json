@@ -1,6 +1,6 @@
 {
   "quote": "The rage that had expolded inside me diffused. I didn't know where it had come from. I had a short temper and often acted impulsively,but this had been intense and ugly even for me. Weird.",
-  "quote_letters": "THE RAGE THAT HAD EXPOLDED INSIDE ME DIFFUSED I DIDNT KNOW WHERE IT HAD COME FROM I HAD A SHORT TEMPER AND OFTEN ACTED IMPULSIVELYBUT THIS HAD BEEN INTENSE AND UGLY EVEN FOR ME WEIRD",
+  "quote_letters": "THE RAGE THAT HAD EXPOLDED INSIDE ME DIFFUSED I DIDNT KNOW WHERE IT HAD COME FROM I HAD A SHORT TEMPER AND OFTEN ACTED IMPULSIVELY BUT THIS HAD BEEN INTENSE AND UGLY EVEN FOR ME WEIRD",
   "source": "Richelle Mead, Frostbite",
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
@@ -10,12 +10,12 @@
       "answer_letters": "RUNAWAY",
       "indices": [
         101,
-        131,
+        132,
         55,
         5,
         57,
         103,
-        163
+        164
       ]
     },
     {
@@ -23,14 +23,14 @@
       "answer": "intended",
       "answer_letters": "INTENDED",
       "indices": [
-        179,
+        180,
         28,
         94,
         24,
-        168,
+        169,
         117,
         116,
-        141
+        142
       ]
     },
     {
@@ -39,12 +39,12 @@
       "answer_letters": "CHATHAM",
       "indices": [
         72,
-        135,
+        136,
         113,
         96,
         10,
         88,
-        174
+        175
       ]
     },
     {
@@ -52,14 +52,14 @@
       "answer": "heightened",
       "answer_letters": "HEIGHTENED",
       "indices": [
-        139,
-        175,
+        140,
+        176,
         119,
         6,
         84,
         52,
-        151,
-        157,
+        152,
+        158,
         2,
         48
       ]
@@ -74,7 +74,7 @@
         125,
         109,
         68,
-        145,
+        146,
         66
       ]
     },
@@ -84,9 +84,9 @@
       "answer_letters": "LAVISH",
       "indices": [
         123,
-        156,
+        157,
         126,
-        136,
+        137,
         42,
         91
       ]
@@ -96,9 +96,9 @@
       "answer": "latitude",
       "answer_letters": "LATITUDE",
       "indices": [
-        162,
+        163,
         85,
-        150,
+        151,
         38,
         115,
         122,
@@ -112,10 +112,10 @@
       "answer_letters": "EDMOND",
       "indices": [
         7,
-        181,
+        182,
         74,
         21,
-        146,
+        147,
         105
       ]
     },
@@ -128,7 +128,7 @@
         32,
         14,
         98,
-        144,
+        145,
         25
       ]
     },
@@ -140,8 +140,8 @@
         127,
         16,
         27,
-        132,
-        178,
+        133,
+        179,
         70
       ]
     },
@@ -150,9 +150,9 @@
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
-        140,
+        141,
         77,
-        170,
+        171,
         92,
         62,
         23
@@ -163,8 +163,8 @@
       "answer": "dundas",
       "answer_letters": "DUNDAS",
       "indices": [
-        158,
-        160,
+        159,
+        161,
         104,
         37,
         11,
@@ -181,7 +181,7 @@
         22,
         46,
         121,
-        165
+        166
       ]
     },
     {
@@ -193,7 +193,7 @@
         75,
         30,
         29,
-        137,
+        138,
         41,
         43,
         86
@@ -205,7 +205,7 @@
       "answer_letters": "OVERTHROWN",
       "indices": [
         79,
-        166,
+        167,
         18,
         78,
         12,
@@ -213,7 +213,7 @@
         93,
         107,
         59,
-        149
+        150
       ]
     },
     {
@@ -225,7 +225,7 @@
         100,
         35,
         50,
-        167,
+        168,
         31
       ]
     },
@@ -236,9 +236,9 @@
       "indices": [
         9,
         1,
-        180,
-        171,
-        177,
+        181,
+        172,
+        178,
         111
       ]
     },
@@ -247,13 +247,13 @@
       "answer": "box-office",
       "answer_letters": "BOXOFFICE",
       "indices": [
-        143,
+        144,
         56,
         19,
         73,
         39,
         108,
-        148,
+        149,
         114,
         61
       ]
@@ -269,8 +269,8 @@
         128,
         129,
         65,
-        152,
-        161
+        153,
+        162
       ]
     },
     {
@@ -280,10 +280,10 @@
       "indices": [
         0,
         49,
-        134,
+        135,
         69,
         51,
-        153
+        154
       ]
     },
     {
@@ -291,11 +291,11 @@
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
-        154,
+        155,
         120,
-        130,
+        131,
         15,
-        172,
+        173,
         54
       ]
     }

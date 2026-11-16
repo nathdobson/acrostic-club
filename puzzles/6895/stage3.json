@@ -1,6 +1,6 @@
 {
   "quote": "Rogerson,\" I asked him sweetly as we sat watching a video in the pool house, \"where would I find the pelagic zone?\"\"In the open sea,\" he said. \"Now shut up and eat your Junior Mints.",
-  "quote_letters": "ROGERSON I ASKED HIM SWEETLY AS WE SAT WATCHING A VIDEO IN THE POOL HOUSE WHERE WOULD I FIND THE PELAGIC ZONEIN THE OPEN SEA HE SAID NOW SHUT UP AND EAT YOUR JUNIOR MINTS",
+  "quote_letters": "ROGERSON I ASKED HIM SWEETLY AS WE SAT WATCHING A VIDEO IN THE POOL HOUSE WHERE WOULD I FIND THE PELAGIC ZONE IN THE OPEN SEA HE SAID NOW SHUT UP AND EAT YOUR JUNIOR MINTS",
   "source": "Sarah Dessen, Dreamland",
   "source_letters": "SARAHDESSENDREAMLAND",
   "clues": [
@@ -11,10 +11,10 @@
       "indices": [
         35,
         37,
-        159,
+        160,
         52,
         86,
-        134
+        135
       ]
     },
     {
@@ -22,15 +22,15 @@
       "answer": "andalusia",
       "answer_letters": "ANDALUSIA",
       "indices": [
-        129,
+        130,
         7,
-        131,
+        132,
         29,
         66,
-        155,
+        156,
         30,
-        130,
-        150
+        131,
+        151
       ]
     },
     {
@@ -39,11 +39,11 @@
       "answer_letters": "ROOKIE",
       "indices": [
         0,
-        116,
+        117,
         64,
         13,
         102,
-        126
+        127
       ]
     },
     {
@@ -56,11 +56,11 @@
         59,
         17,
         65,
-        156,
+        157,
         5,
         68,
         89,
-        117
+        118
       ]
     },
     {
@@ -68,12 +68,12 @@
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
-        138,
+        139,
         44,
         2,
         75,
-        135,
-        145,
+        136,
+        146,
         27
       ]
     },
@@ -83,10 +83,10 @@
       "answer_letters": "DENSITIES",
       "indices": [
         84,
-        114,
+        115,
         45,
         21,
-        161,
+        162,
         41,
         9,
         72,
@@ -99,11 +99,11 @@
       "answer_letters": "EUROPE",
       "indices": [
         61,
-        142,
-        163,
+        143,
+        164,
         1,
         97,
-        149
+        150
       ]
     },
     {
@@ -111,14 +111,14 @@
       "answer": "shogunate",
       "answer_letters": "SHOGUNATE",
       "indices": [
-        169,
+        170,
         94,
         106,
         46,
-        139,
+        140,
         90,
         11,
-        168,
+        169,
         98
       ]
     },
@@ -127,12 +127,12 @@
       "answer": "sweden",
       "answer_letters": "SWEDEN",
       "indices": [
-        137,
+        138,
         32,
         3,
-        147,
+        148,
         95,
-        146
+        147
       ]
     },
     {
@@ -141,10 +141,10 @@
       "answer_letters": "ENZYME",
       "indices": [
         33,
-        167,
+        168,
         105,
-        153,
-        165,
+        154,
+        166,
         53
       ]
     },
@@ -153,11 +153,11 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        110,
+        111,
         14,
-        143,
+        144,
         43,
-        122,
+        123,
         74
       ]
     },
@@ -168,9 +168,9 @@
       "indices": [
         91,
         78,
-        133,
+        134,
         51,
-        121,
+        122,
         108
       ]
     },
@@ -192,11 +192,11 @@
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
-        118,
+        119,
         93,
         60,
         107,
-        166,
+        167,
         103
       ]
     },
@@ -205,10 +205,10 @@
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
-        123,
+        124,
         70,
-        112,
-        125,
+        113,
+        126,
         6,
         77,
         12
@@ -221,10 +221,10 @@
       "indices": [
         19,
         54,
-        140,
+        141,
         81,
         80,
-        119
+        120
       ]
     },
     {
@@ -233,11 +233,11 @@
       "answer_letters": "LOWCOST",
       "indices": [
         83,
-        154,
+        155,
         39,
         42,
         69,
-        128,
+        129,
         25
       ]
     },
@@ -250,7 +250,7 @@
         99,
         63,
         56,
-        160,
+        161,
         23
       ]
     },
@@ -263,8 +263,8 @@
         48,
         50,
         36,
-        158,
-        162
+        159,
+        163
       ]
     },
     {
@@ -274,10 +274,10 @@
       "indices": [
         15,
         22,
-        109,
+        110,
         101,
-        113,
-        151
+        114,
+        152
       ]
     }
   ],

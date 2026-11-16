@@ -1,6 +1,6 @@
 {
   "quote": "If you think you can stand looking and not touching for eight months, you're welcome to try.\"\"Try' being the operative word,\" he said, sighing. \"No, I can't. And I don't want to try.",
-  "quote_letters": "IF YOU THINK YOU CAN STAND LOOKING AND NOT TOUCHING FOR EIGHT MONTHS YOURE WELCOME TO TRYTRY BEING THE OPERATIVE WORD HE SAID SIGHING NO I CANT AND I DONT WANT TO TRY",
+  "quote_letters": "IF YOU THINK YOU CAN STAND LOOKING AND NOT TOUCHING FOR EIGHT MONTHS YOURE WELCOME TO TRY TRY BEING THE OPERATIVE WORD HE SAID SIGHING NO I CANT AND I DONT WANT TO TRY",
   "source": "Leah Raeder, Unteachable",
   "source_letters": "LEAHRAEDERUNTEACHABLE",
   "clues": [
@@ -12,9 +12,9 @@
         77,
         63,
         49,
-        150,
+        151,
         53,
-        96
+        97
       ]
     },
     {
@@ -22,15 +22,15 @@
       "answer": "ethnicity",
       "answer_letters": "ETHNICITY",
       "indices": [
-        105,
-        89,
-        118,
+        106,
+        90,
+        119,
         32,
-        123,
+        124,
         46,
         57,
-        163,
-        91
+        164,
+        92
       ]
     },
     {
@@ -38,11 +38,11 @@
       "answer": "aiming",
       "answer_letters": "AIMING",
       "indices": [
-        156,
-        148,
-        62,
-        130,
         157,
+        149,
+        62,
+        131,
+        158,
         58
       ]
     },
@@ -51,12 +51,12 @@
       "answer": "hutton",
       "answer_letters": "HUTTON",
       "indices": [
-        100,
+        101,
         15,
         86,
-        160,
-        151,
-        134
+        161,
+        152,
+        135
       ]
     },
     {
@@ -70,7 +70,7 @@
         60,
         59,
         80,
-        137,
+        138,
         78
       ]
     },
@@ -81,8 +81,8 @@
       "indices": [
         35,
         87,
-        164,
-        103,
+        165,
+        104,
         88,
         40
       ]
@@ -92,12 +92,12 @@
       "answer": "eating",
       "answer_letters": "EATING",
       "indices": [
-        111,
-        122,
-        108,
+        112,
+        123,
         109,
-        145,
-        128
+        110,
+        146,
+        129
       ]
     },
     {
@@ -105,9 +105,9 @@
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
-        116,
-        155,
-        127,
+        117,
+        156,
+        128,
         33,
         47,
         7
@@ -120,7 +120,7 @@
       "indices": [
         76,
         24,
-        142,
+        143,
         31,
         41,
         69
@@ -131,9 +131,9 @@
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
-        106,
+        107,
         5,
-        131,
+        132,
         79,
         52,
         1
@@ -146,10 +146,10 @@
       "indices": [
         71,
         72,
-        97,
+        98,
         9,
         39,
-        132
+        133
       ]
     },
     {
@@ -159,10 +159,10 @@
       "indices": [
         10,
         81,
-        113,
-        104,
+        114,
+        105,
         70,
-        90,
+        91,
         22
       ]
     },
@@ -171,11 +171,11 @@
       "answer": "toyota",
       "answer_letters": "TOYOTA",
       "indices": [
-        99,
+        100,
         29,
         3,
-        161,
-        153,
+        162,
+        154,
         23
       ]
     },
@@ -187,9 +187,9 @@
         73,
         21,
         67,
-        107,
-        165,
-        126
+        108,
+        166,
+        127
       ]
     },
     {
@@ -197,12 +197,12 @@
       "answer": "attach",
       "answer_letters": "ATTACH",
       "indices": [
-        144,
+        145,
         65,
         83,
         18,
         17,
-        129
+        130
       ]
     },
     {
@@ -210,12 +210,12 @@
       "answer": "cotton",
       "answer_letters": "COTTON",
       "indices": [
-        139,
+        140,
         84,
-        158,
+        159,
         43,
         28,
-        141
+        142
       ]
     },
     {
@@ -226,9 +226,9 @@
         8,
         4,
         64,
-        135,
+        136,
         45,
-        115
+        116
       ]
     },
     {
@@ -236,12 +236,12 @@
       "answer": "advise",
       "answer_letters": "ADVISE",
       "indices": [
-        140,
+        141,
         37,
-        110,
+        111,
         0,
-        121,
-        119
+        122,
+        120
       ]
     },
     {
@@ -249,7 +249,7 @@
       "answer": "booked",
       "answer_letters": "BOOKED",
       "indices": [
-        93,
+        94,
         14,
         44,
         11,
@@ -266,8 +266,8 @@
         48,
         36,
         30,
-        95,
-        152,
+        96,
+        153,
         50
       ]
     },
@@ -276,13 +276,13 @@
       "answer": "endowed",
       "answer_letters": "ENDOWED",
       "indices": [
-        101,
+        102,
         19,
-        124,
-        114,
+        125,
+        115,
         75,
-        94,
-        146
+        95,
+        147
       ]
     }
   ],

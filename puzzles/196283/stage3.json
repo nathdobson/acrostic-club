@@ -1,6 +1,6 @@
 {
   "quote": "She haunts my dreams.Shadows of the past.Ripping my heart down the seams.No one to blame but me.I'm a lone wolf now, but I still stare up at the moon, Call her name and wonder if she's looking too...",
-  "quote_letters": "SHE HAUNTS MY DREAMSSHADOWS OF THE PASTRIPPING MY HEART DOWN THE SEAMSNO ONE TO BLAME BUT MEIM A LONE WOLF NOW BUT I STILL STARE UP AT THE MOON CALL HER NAME AND WONDER IF SHES LOOKING TOO",
+  "quote_letters": "SHE HAUNTS MY DREAMS SHADOWS OF THE PAST RIPPING MY HEART DOWN THE SEAMS NO ONE TO BLAME BUT ME IM A LONE WOLF NOW BUT I STILL STARE UP AT THE MOON CALL HER NAME AND WONDER IF SHES LOOKING TOO",
   "source": "Lisa Kessler, Blue Moon",
   "source_letters": "LISAKESSLERBLUEMOON",
   "clues": [
@@ -9,13 +9,13 @@
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
-        104,
-        95,
-        90,
-        86,
-        137,
+        108,
+        99,
+        93,
+        89,
+        141,
         8,
-        21
+        22
       ]
     },
     {
@@ -23,21 +23,21 @@
       "answer": "implementations",
       "answer_letters": "IMPLEMENTATIONS",
       "indices": [
-        40,
-        11,
         42,
-        121,
-        100,
-        93,
-        75,
-        182,
-        113,
-        158,
-        124,
-        92,
+        11,
+        44,
+        125,
+        104,
+        97,
+        78,
         186,
-        159,
-        20
+        117,
+        162,
+        128,
+        96,
+        190,
+        163,
+        21
       ]
     },
     {
@@ -45,14 +45,14 @@
       "answer": "smoothly",
       "answer_letters": "SMOOTHLY",
       "indices": [
-        123,
-        155,
-        73,
-        24,
-        77,
+        127,
+        159,
+        76,
+        25,
+        80,
         1,
-        120,
-        48
+        124,
+        50
       ]
     },
     {
@@ -60,16 +60,16 @@
       "answer": "authorship",
       "answer_letters": "AUTHORSHIP",
       "indices": [
-        145,
+        149,
         6,
-        61,
-        62,
-        178,
-        167,
+        63,
+        64,
+        182,
+        171,
         9,
         4,
-        115,
-        41
+        119,
+        43
       ]
     },
     {
@@ -77,14 +77,14 @@
       "answer": "khorasan",
       "answer_letters": "KHORASAN",
       "indices": [
-        180,
-        149,
-        187,
-        39,
-        67,
-        117,
-        154,
-        70
+        184,
+        153,
+        191,
+        41,
+        69,
+        121,
+        158,
+        73
       ]
     },
     {
@@ -93,12 +93,12 @@
       "answer_letters": "ESSENCE",
       "indices": [
         2,
-        26,
-        172,
-        156,
-        59,
-        144,
-        51
+        27,
+        176,
+        160,
+        61,
+        148,
+        53
       ]
     },
     {
@@ -107,12 +107,12 @@
       "answer_letters": "SWIMMER",
       "indices": [
         19,
-        162,
-        181,
+        166,
+        185,
         18,
-        47,
-        33,
-        53
+        49,
+        34,
+        55
       ]
     },
     {
@@ -120,15 +120,15 @@
       "answer": "shortages",
       "answer_letters": "SHORTAGES",
       "indices": [
-        175,
-        50,
-        108,
-        126,
-        38,
+        179,
+        52,
+        112,
+        130,
+        39,
         17,
-        45,
-        84,
-        69
+        47,
+        87,
+        71
       ]
     },
     {
@@ -136,15 +136,15 @@
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
-        147,
-        129,
-        29,
-        54,
-        58,
-        36,
-        105,
-        170,
-        66
+        151,
+        133,
+        30,
+        56,
+        60,
+        37,
+        109,
+        174,
+        68
       ]
     },
     {
@@ -152,15 +152,15 @@
       "answer": "endowment",
       "answer_letters": "ENDOWMENT",
       "indices": [
-        91,
-        142,
-        23,
-        141,
-        109,
-        139,
-        150,
-        74,
-        185
+        94,
+        146,
+        24,
+        145,
+        113,
+        143,
+        154,
+        77,
+        189
       ]
     },
     {
@@ -169,12 +169,12 @@
       "answer_letters": "RAPHAEL",
       "indices": [
         15,
-        82,
-        35,
-        136,
-        52,
-        63,
-        177
+        85,
+        36,
+        140,
+        54,
+        65,
+        181
       ]
     },
     {
@@ -182,12 +182,12 @@
       "answer": "bandits",
       "answer_letters": "BANDITS",
       "indices": [
-        111,
-        125,
-        44,
-        56,
-        119,
-        31,
+        115,
+        129,
+        46,
+        58,
+        123,
+        32,
         0
       ]
     },
@@ -196,10 +196,10 @@
       "answer": "loaded",
       "answer_letters": "LOADED",
       "indices": [
-        81,
-        28,
+        84,
+        29,
         5,
-        160,
+        164,
         16,
         14
       ]
@@ -209,12 +209,12 @@
       "answer": "u-boats",
       "answer_letters": "UBOATS",
       "indices": [
-        87,
-        80,
-        140,
-        22,
-        133,
-        37
+        90,
+        83,
+        144,
+        23,
+        137,
+        38
       ]
     },
     {
@@ -222,16 +222,16 @@
       "answer": "emotionally",
       "answer_letters": "EMOTIONALLY",
       "indices": [
-        127,
-        83,
-        163,
-        135,
-        43,
-        78,
-        99,
-        132,
-        146,
-        97,
+        131,
+        86,
+        167,
+        139,
+        45,
+        81,
+        103,
+        136,
+        150,
+        101,
         12
       ]
     },
@@ -240,12 +240,12 @@
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
-        68,
-        71,
+        70,
+        74,
         7,
-        88,
-        173,
-        65
+        91,
+        177,
+        67
       ]
     },
     {
@@ -253,13 +253,13 @@
       "answer": "outdoor",
       "answer_letters": "OUTDOOR",
       "indices": [
-        57,
-        112,
-        118,
-        165,
-        98,
-        179,
-        151
+        59,
+        116,
+        122,
+        169,
+        102,
+        183,
+        155
       ]
     },
     {
@@ -267,12 +267,12 @@
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
-        103,
-        25,
-        153,
-        169,
         107,
-        183
+        26,
+        157,
+        173,
+        111,
+        187
       ]
     },
     {
@@ -280,12 +280,12 @@
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
-        164,
-        166,
-        130,
-        32,
-        174,
-        102
+        168,
+        170,
+        134,
+        33,
+        178,
+        106
       ]
     }
   ],

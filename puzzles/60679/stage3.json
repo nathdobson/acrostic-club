@@ -1,6 +1,6 @@
 {
   "quote": "She put her hand on her hip. \"Where are you going?\"\"To the boat. You called me Lord Bill again. That means we're cool.\"Cerise slapped her forehead with the heel of her hand and followed him.",
-  "quote_letters": "SHE PUT HER HAND ON HER HIP WHERE ARE YOU GOINGTO THE BOAT YOU CALLED ME LORD BILL AGAIN THAT MEANS WERE COOLCERISE SLAPPED HER FOREHEAD WITH THE HEEL OF HER HAND AND FOLLOWED HIM",
+  "quote_letters": "SHE PUT HER HAND ON HER HIP WHERE ARE YOU GOING TO THE BOAT YOU CALLED ME LORD BILL AGAIN THAT MEANS WERE COOL CERISE SLAPPED HER FOREHEAD WITH THE HEEL OF HER HAND AND FOLLOWED HIM",
   "source": "Ilona Andrews, Bayou Moon",
   "source_letters": "ILONAANDREWSBAYOUMOON",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "ideology",
       "answer_letters": "IDEOLOGY",
       "indices": [
-        177,
-        76,
-        101,
-        107,
+        179,
+        77,
+        102,
         108,
-        151,
+        109,
+        153,
         46,
         38
       ]
@@ -24,16 +24,16 @@
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
-        66,
-        112,
-        84,
-        140,
-        57,
+        67,
+        114,
+        85,
+        142,
+        58,
         20,
-        129,
-        61,
-        116,
-        110
+        131,
+        62,
+        118,
+        112
       ]
     },
     {
@@ -41,11 +41,11 @@
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
-        55,
-        139,
-        176,
-        144,
-        102,
+        56,
+        141,
+        178,
+        146,
+        103,
         0
       ]
     },
@@ -54,12 +54,12 @@
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
-        164,
+        166,
         32,
-        95,
-        161,
-        121,
-        122
+        96,
+        163,
+        123,
+        124
       ]
     },
     {
@@ -67,11 +67,11 @@
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
-        56,
-        152,
+        57,
+        154,
         42,
         1,
-        64,
+        65,
         18
       ]
     },
@@ -80,14 +80,14 @@
       "answer": "authored",
       "answer_letters": "AUTHORED",
       "indices": [
-        118,
+        120,
         5,
-        47,
-        158,
+        48,
+        160,
         39,
-        126,
+        128,
         36,
-        68
+        69
       ]
     },
     {
@@ -96,10 +96,10 @@
       "answer_letters": "NEPHEW",
       "indices": [
         14,
-        148,
+        150,
         4,
-        146,
-        133,
+        148,
+        135,
         28
       ]
     },
@@ -108,11 +108,11 @@
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
-        165,
-        79,
         167,
-        128,
-        114,
+        80,
+        169,
+        130,
+        116,
         22
       ]
     },
@@ -123,9 +123,9 @@
       "indices": [
         35,
         43,
-        65,
-        169,
-        52,
+        66,
+        171,
+        53,
         10
       ]
     },
@@ -134,14 +134,14 @@
       "answer": "ethiopia",
       "answer_letters": "ETHIOPIA",
       "indices": [
-        103,
-        92,
+        104,
+        93,
         29,
         25,
-        171,
+        173,
         26,
-        138,
-        134
+        140,
+        136
       ]
     },
     {
@@ -149,13 +149,13 @@
       "answer": "wheeler",
       "answer_letters": "WHEELER",
       "indices": [
-        137,
+        139,
         12,
-        155,
-        71,
-        73,
-        131,
-        111
+        157,
+        72,
+        74,
+        133,
+        113
       ]
     },
     {
@@ -163,12 +163,12 @@
       "answer": "sailed",
       "answer_letters": "SAILED",
       "indices": [
-        98,
-        91,
-        86,
-        80,
+        99,
+        92,
+        87,
+        81,
         30,
-        174
+        176
       ]
     },
     {
@@ -176,15 +176,15 @@
       "answer": "bethlehem",
       "answer_letters": "BETHLEHEM",
       "indices": [
-        78,
-        67,
+        79,
+        68,
         6,
-        143,
-        117,
+        145,
+        119,
         21,
-        154,
+        156,
         2,
-        178
+        180
       ]
     },
     {
@@ -192,13 +192,13 @@
       "answer": "alcohol",
       "answer_letters": "ALCOHOL",
       "indices": [
-        159,
-        149,
-        105,
-        48,
+        161,
+        151,
+        106,
+        49,
         24,
         17,
-        81
+        82
       ]
     },
     {
@@ -206,12 +206,12 @@
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
-        59,
-        96,
-        70,
+        60,
+        97,
+        71,
         13,
-        90,
-        85
+        91,
+        86
       ]
     },
     {
@@ -219,12 +219,12 @@
       "answer": "orphan",
       "answer_letters": "ORPHAN",
       "indices": [
-        60,
+        61,
         31,
-        119,
-        132,
+        121,
+        134,
         34,
-        97
+        98
       ]
     },
     {
@@ -233,11 +233,11 @@
       "answer_letters": "ULSTER",
       "indices": [
         40,
-        170,
-        113,
-        50,
+        172,
+        115,
+        51,
         9,
-        130
+        132
       ]
     },
     {
@@ -245,12 +245,12 @@
       "answer": "macbeth",
       "answer_letters": "MACBETH",
       "indices": [
-        94,
-        83,
-        109,
-        54,
-        173,
-        89,
+        95,
+        84,
+        111,
+        55,
+        175,
+        90,
         8
       ]
     },
@@ -259,10 +259,10 @@
       "answer": "orchid",
       "answer_letters": "ORCHID",
       "indices": [
-        106,
-        156,
-        63,
-        124,
+        107,
+        158,
+        64,
+        126,
         44,
         15
       ]
@@ -272,14 +272,14 @@
       "answer": "orphaned",
       "answer_letters": "ORPHANED",
       "indices": [
-        74,
         75,
-        120,
-        51,
-        163,
-        87,
-        125,
-        135
+        76,
+        122,
+        52,
+        165,
+        88,
+        127,
+        137
       ]
     },
     {
@@ -288,12 +288,12 @@
       "answer_letters": "NEWTOWN",
       "indices": [
         45,
-        147,
-        172,
-        142,
-        168,
-        100,
-        160
+        149,
+        174,
+        144,
+        170,
+        101,
+        162
       ]
     }
   ],

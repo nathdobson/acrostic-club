@@ -1,6 +1,6 @@
 {
   "quote": "It must have really not liked me, but I can't imagine why, don't say anything Amelia.\"Amelia shrugged her shoulders, \"It liked me the first time.\"Otto smirked, \"Well I have no idea why.",
-  "quote_letters": "IT MUST HAVE REALLY NOT LIKED ME BUT I CANT IMAGINE WHY DONT SAY ANYTHING AMELIAAMELIA SHRUGGED HER SHOULDERS IT LIKED ME THE FIRST TIMEOTTO SMIRKED WELL I HAVE NO IDEA WHY",
+  "quote_letters": "IT MUST HAVE REALLY NOT LIKED ME BUT I CANT IMAGINE WHY DONT SAY ANYTHING AMELIA AMELIA SHRUGGED HER SHOULDERS IT LIKED ME THE FIRST TIME OTTO SMIRKED WELL I HAVE NO IDEA WHY",
   "source": "Otto Ray and Amelia Raht",
   "source_letters": "OTTORAYANDAMELIARAHT",
   "clues": [
@@ -11,10 +11,10 @@
       "indices": [
         21,
         30,
-        143,
-        137,
+        145,
+        139,
         59,
-        150,
+        152,
         56
       ]
     },
@@ -23,8 +23,8 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        122,
-        149,
+        123,
+        151,
         57,
         52,
         79,
@@ -36,12 +36,12 @@
       "answer": "timeline",
       "answer_letters": "TIMELINE",
       "indices": [
-        132,
+        133,
+        115,
+        82,
+        136,
         114,
-        81,
-        135,
-        113,
-        164,
+        166,
         20,
         11
       ]
@@ -51,14 +51,14 @@
       "answer": "organism",
       "answer_letters": "ORGANISM",
       "indices": [
-        139,
-        128,
+        141,
+        129,
         47,
         62,
         49,
-        127,
-        129,
-        119
+        128,
+        130,
+        120
       ]
     },
     {
@@ -66,12 +66,12 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        144,
+        146,
         53,
         54,
         22,
-        101,
-        142
+        102,
+        144
       ]
     },
     {
@@ -81,10 +81,10 @@
       "indices": [
         15,
         6,
-        115,
+        116,
         0,
         58,
-        141
+        143
       ]
     },
     {
@@ -92,12 +92,12 @@
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [
-        171,
+        173,
         31,
         3,
-        97,
-        161,
-        133
+        98,
+        163,
+        134
       ]
     },
     {
@@ -108,10 +108,10 @@
         9,
         71,
         66,
-        93,
+        94,
         1,
         68,
-        106
+        107
       ]
     },
     {
@@ -121,10 +121,10 @@
       "indices": [
         41,
         14,
-        169,
+        171,
         33,
         4,
-        89,
+        90,
         67
       ]
     },
@@ -133,13 +133,13 @@
       "answer": "daylight",
       "answer_letters": "DAYLIGHT",
       "indices": [
-        94,
+        95,
         65,
         18,
         17,
         78,
-        91,
-        88,
+        92,
+        89,
         42
       ]
     },
@@ -148,13 +148,13 @@
       "answer": "advised",
       "answer_letters": "ADVISED",
       "indices": [
-        167,
+        169,
         28,
         10,
         44,
-        108,
-        124,
-        117
+        109,
+        125,
+        118
       ]
     },
     {
@@ -162,14 +162,14 @@
       "answer": "melville",
       "answer_letters": "MELVILLE",
       "indices": [
-        134,
-        116,
+        135,
+        117,
         24,
-        158,
+        160,
         48,
         77,
         16,
-        159
+        161
       ]
     },
     {
@@ -178,11 +178,11 @@
       "answer_letters": "EDUCATE",
       "indices": [
         27,
-        105,
-        90,
+        106,
+        91,
         39,
         46,
-        138,
+        140,
         50
       ]
     },
@@ -191,11 +191,11 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        152,
-        120,
-        156,
         154,
-        92,
+        121,
+        158,
+        156,
+        93,
         69
       ]
     },
@@ -207,10 +207,10 @@
         37,
         61,
         35,
-        123,
+        124,
         75,
         34,
-        100
+        101
       ]
     },
     {
@@ -218,12 +218,12 @@
       "answer": "almeida",
       "answer_letters": "ALMEIDA",
       "indices": [
-        157,
-        151,
+        159,
+        153,
         45,
-        146,
-        110,
-        165,
+        148,
+        111,
+        167,
         40
       ]
     },
@@ -234,12 +234,12 @@
       "indices": [
         13,
         76,
-        83,
-        166,
-        85,
+        84,
+        168,
+        86,
         5,
-        82,
-        87
+        83,
+        88
       ]
     },
     {
@@ -247,13 +247,13 @@
       "answer": "airlift",
       "answer_letters": "AIRLIFT",
       "indices": [
-        80,
-        84,
-        107,
-        104,
+        81,
+        85,
+        108,
+        105,
         25,
-        126,
-        111
+        127,
+        112
       ]
     },
     {
@@ -262,13 +262,13 @@
       "answer_letters": "HOKKAIDO",
       "indices": [
         8,
-        102,
-        145,
+        103,
+        147,
         26,
         74,
         70,
-        147,
-        136
+        149,
+        138
       ]
     },
     {
@@ -276,13 +276,13 @@
       "answer": "through",
       "answer_letters": "THROUGH",
       "indices": [
-        130,
-        96,
-        98,
-        162,
-        103,
+        131,
+        97,
+        99,
+        164,
+        104,
         72,
-        170
+        172
       ]
     }
   ],

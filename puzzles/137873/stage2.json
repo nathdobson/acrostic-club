@@ -1,6 +1,6 @@
 {
   "quote": "Two people can illustrate crudity to you.The first is the crude man, whom you see perceiving the diamond as a stone.The other is the refined man, who makes clear to you the crudity of the first one.",
-  "quote_letters": "TWO PEOPLE CAN ILLUSTRATE CRUDITY TO YOUTHE FIRST IS THE CRUDE MAN WHOM YOU SEE PERCEIVING THE DIAMOND AS A STONETHE OTHER IS THE REFINED MAN WHO MAKES CLEAR TO YOU THE CRUDITY OF THE FIRST ONE",
+  "quote_letters": "TWO PEOPLE CAN ILLUSTRATE CRUDITY TO YOU THE FIRST IS THE CRUDE MAN WHOM YOU SEE PERCEIVING THE DIAMOND AS A STONE THE OTHER IS THE REFINED MAN WHO MAKES CLEAR TO YOU THE CRUDITY OF THE FIRST ONE",
   "source": "Idries Shah, Reflections",
   "source_letters": "IDRIESSHAHREFLECTIONS",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
-        123,
-        80,
-        92,
-        177,
-        191,
-        112
+        125,
+        81,
+        93,
+        179,
+        193,
+        113
       ]
     },
     {
@@ -23,17 +23,17 @@
       "answer_letters": "DETERIORATED",
       "indices": [
         29,
-        167,
-        109,
-        115,
-        46,
-        15,
+        169,
+        110,
         117,
-        58,
-        64,
+        47,
+        15,
+        119,
+        59,
+        65,
         20,
         5,
-        95
+        96
       ]
     },
     {
@@ -41,12 +41,12 @@
       "answer": "remote",
       "answer_letters": "REMOTE",
       "indices": [
-        130,
+        132,
         24,
-        63,
-        159,
-        126,
-        78
+        64,
+        161,
+        128,
+        79
       ]
     },
     {
@@ -54,13 +54,13 @@
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
-        185,
+        187,
         7,
+        52,
+        144,
         51,
-        142,
-        50,
         11,
-        114
+        116
       ]
     },
     {
@@ -68,12 +68,12 @@
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
-        135,
-        153,
+        137,
+        155,
         30,
         34,
-        149,
-        150
+        151,
+        152
       ]
     },
     {
@@ -81,13 +81,13 @@
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [
-        47,
-        143,
-        77,
+        48,
+        145,
+        78,
         21,
-        96,
-        184,
-        44
+        97,
+        186,
+        45
       ]
     },
     {
@@ -95,15 +95,15 @@
       "answer": "southward",
       "answer_letters": "SOUTHWARD",
       "indices": [
-        187,
+        189,
         38,
-        163,
+        165,
         31,
-        181,
+        183,
         1,
-        139,
-        186,
-        101
+        141,
+        188,
+        102
       ]
     },
     {
@@ -111,10 +111,10 @@
       "answer": "heyday",
       "answer_letters": "HEYDAY",
       "indices": [
-        41,
         42,
-        161,
-        136,
+        43,
+        163,
+        138,
         22,
         32
       ]
@@ -124,14 +124,14 @@
       "answer": "attested",
       "answer_letters": "ATTESTED",
       "indices": [
-        97,
-        48,
-        118,
-        93,
-        104,
-        165,
+        98,
+        49,
         120,
-        172
+        94,
+        105,
+        167,
+        122,
+        174
       ]
     },
     {
@@ -139,10 +139,10 @@
       "answer": "hugely",
       "answer_letters": "HUGELY",
       "indices": [
-        119,
+        121,
         18,
-        89,
-        61,
+        90,
+        62,
         16,
         37
       ]
@@ -152,15 +152,15 @@
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
-        121,
-        110,
+        123,
+        111,
+        160,
+        129,
+        133,
         158,
-        127,
-        131,
-        156,
-        166,
+        168,
         12,
-        98
+        99
       ]
     },
     {
@@ -168,15 +168,15 @@
       "answer": "education",
       "answer_letters": "EDUCATION",
       "indices": [
-        182,
-        60,
+        184,
+        61,
         39,
         26,
-        147,
+        149,
         0,
-        87,
+        88,
         2,
-        65
+        66
       ]
     },
     {
@@ -184,12 +184,12 @@
       "answer": "french",
       "answer_letters": "FRENCH",
       "indices": [
-        132,
+        134,
         27,
-        192,
+        194,
         13,
-        57,
-        68
+        58,
+        69
       ]
     },
     {
@@ -198,11 +198,11 @@
       "answer_letters": "LAYOUT",
       "indices": [
         8,
-        106,
-        72,
+        107,
         73,
-        171,
-        53
+        74,
+        173,
+        54
       ]
     },
     {
@@ -210,15 +210,15 @@
       "answer": "eponymous",
       "answer_letters": "EPONYMOUS",
       "indices": [
-        154,
+        156,
         4,
-        144,
-        111,
-        175,
-        138,
-        99,
-        59,
-        76
+        146,
+        112,
+        177,
+        140,
+        100,
+        60,
+        77
       ]
     },
     {
@@ -226,13 +226,13 @@
       "answer": "clifton",
       "answer_letters": "CLIFTON",
       "indices": [
-        83,
+        84,
         17,
-        45,
-        178,
-        113,
-        190,
-        140
+        46,
+        180,
+        115,
+        192,
+        142
       ]
     },
     {
@@ -240,14 +240,14 @@
       "answer": "teutonic",
       "answer_letters": "TEUTONIC",
       "indices": [
-        174,
-        81,
+        176,
+        82,
         28,
-        40,
+        41,
         35,
-        134,
-        85,
-        169
+        136,
+        86,
+        171
       ]
     },
     {
@@ -255,15 +255,15 @@
       "answer": "institutes",
       "answer_letters": "INSTITUTES",
       "indices": [
-        133,
-        100,
-        124,
-        180,
-        173,
-        188,
-        74,
-        91,
-        55,
+        135,
+        101,
+        126,
+        182,
+        175,
+        190,
+        75,
+        92,
+        56,
         19
       ]
     },
@@ -273,13 +273,13 @@
       "answer_letters": "OVERCAME",
       "indices": [
         6,
-        86,
+        87,
         9,
-        170,
-        152,
-        103,
-        146,
-        84
+        172,
+        154,
+        104,
+        148,
+        85
       ]
     },
     {
@@ -287,12 +287,12 @@
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
-        88,
-        128,
-        67,
-        155,
-        82,
-        148
+        89,
+        130,
+        68,
+        157,
+        83,
+        150
       ]
     },
     {
@@ -300,12 +300,12 @@
       "answer": "smooth",
       "answer_letters": "SMOOTH",
       "indices": [
-        108,
+        109,
+        71,
         70,
-        69,
-        162,
+        164,
         23,
-        54
+        55
       ]
     }
   ],

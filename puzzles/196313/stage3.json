@@ -1,6 +1,6 @@
 {
   "quote": "I ordered a hot chocolate and Chandler got a black coffee. He smiled over at me. \"Still no love for coffee?\"I shook my head. \"Nah, why have bitter and gross when I can have sweet and delicious?",
-  "quote_letters": "I ORDERED A HOT CHOCOLATE AND CHANDLER GOT A BLACK COFFEE HE SMILED OVER AT ME STILL NO LOVE FOR COFFEEI SHOOK MY HEAD NAH WHY HAVE BITTER AND GROSS WHEN I CAN HAVE SWEET AND DELICIOUS",
+  "quote_letters": "I ORDERED A HOT CHOCOLATE AND CHANDLER GOT A BLACK COFFEE HE SMILED OVER AT ME STILL NO LOVE FOR COFFEE I SHOOK MY HEAD NAH WHY HAVE BITTER AND GROSS WHEN I CAN HAVE SWEET AND DELICIOUS",
   "source": "Lisa Kessler, Blue Moon",
   "source_letters": "LISAKESSLERBLUEMOON",
   "clues": [
@@ -10,10 +10,10 @@
       "answer_letters": "LEHIGH",
       "indices": [
         35,
-        167,
+        168,
         31,
-        133,
-        143,
+        134,
+        144,
         58
       ]
     },
@@ -23,14 +23,14 @@
       "answer_letters": "INDICATED",
       "indices": [
         0,
-        119,
+        120,
         4,
         81,
-        179,
+        180,
         26,
         80,
-        115,
-        173
+        116,
+        174
       ]
     },
     {
@@ -38,14 +38,14 @@
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
-        147,
+        148,
+        151,
+        109,
         150,
-        108,
-        149,
-        117,
+        118,
         40,
-        166,
-        140
+        167,
+        141
       ]
     },
     {
@@ -53,14 +53,14 @@
       "answer": "avalanche",
       "answer_letters": "AVALANCHE",
       "indices": [
-        120,
+        121,
         90,
         32,
         64,
-        161,
-        172,
+        162,
+        173,
         51,
-        127,
+        128,
         77
       ]
     },
@@ -69,15 +69,15 @@
       "answer": "katharine",
       "answer_letters": "KATHARINE",
       "indices": [
-        109,
-        116,
+        110,
+        117,
         41,
-        114,
-        128,
+        115,
+        129,
         71,
-        103,
-        158,
-        130
+        104,
+        159,
+        131
       ]
     },
     {
@@ -85,10 +85,10 @@
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
-        136,
+        137,
         19,
-        124,
-        181,
+        125,
+        182,
         101,
         66
       ]
@@ -102,12 +102,12 @@
         91,
         47,
         79,
-        145,
+        146,
         85,
-        160,
-        178,
+        161,
+        179,
         39,
-        121
+        122
       ]
     },
     {
@@ -115,12 +115,12 @@
       "answer": "solvent",
       "answer_letters": "SOLVENT",
       "indices": [
-        183,
+        184,
         13,
         82,
         69,
-        176,
-        152,
+        177,
+        153,
         23
       ]
     },
@@ -130,9 +130,9 @@
       "answer_letters": "LOADED",
       "indices": [
         21,
-        107,
+        108,
         73,
-        175,
+        176,
         36,
         34
       ]
@@ -147,8 +147,8 @@
         54,
         5,
         48,
-        134,
-        165
+        135,
+        166
       ]
     },
     {
@@ -159,11 +159,11 @@
         95,
         18,
         14,
-        106,
+        107,
         55,
-        144,
+        145,
         12,
-        139,
+        140,
         62
       ]
     },
@@ -172,14 +172,14 @@
       "answer": "betrayed",
       "answer_letters": "BETRAYED",
       "indices": [
-        132,
+        133,
         59,
-        169,
-        137,
-        157,
-        125,
-        163,
-        141
+        170,
+        138,
+        158,
+        126,
+        164,
+        142
       ]
     },
     {
@@ -187,11 +187,11 @@
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
-        177,
+        178,
         52,
-        156,
+        157,
         49,
-        123,
+        124,
         68,
         94,
         8
@@ -202,9 +202,9 @@
       "answer": "uniform",
       "answer_letters": "UNIFORM",
       "indices": [
-        182,
+        183,
         27,
-        154,
+        155,
         99,
         20,
         3,
@@ -219,11 +219,11 @@
         56,
         100,
         53,
-        180,
+        181,
         16,
         10,
         97,
-        112
+        113
       ]
     },
     {
@@ -231,8 +231,8 @@
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
-        111,
-        168,
+        112,
+        169,
         74,
         17,
         2,
@@ -245,10 +245,10 @@
       "answer_letters": "OVERALL",
       "indices": [
         86,
-        162,
+        163,
         70,
         37,
-        171,
+        172,
         46,
         83
       ]
@@ -259,13 +259,13 @@
       "answer_letters": "OVERSEAS",
       "indices": [
         89,
-        129,
-        151,
+        130,
+        152,
         6,
-        105,
+        106,
         7,
         43,
-        146
+        147
       ]
     },
     {
@@ -275,7 +275,7 @@
       "indices": [
         33,
         98,
-        135,
+        136,
         63,
         30,
         65,
