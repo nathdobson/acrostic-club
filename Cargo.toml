@@ -15,3 +15,7 @@ inherits = "release"
 strip = true
 
 [workspace.dependencies]
+
+[workspace.lints.rust]
+# Keep the workspace's own crates warning-free: any warning fails the build.
+warnings = "deny"

@@ -1,4 +1,3 @@
-#![deny(unused_must_use)]
 
 pub mod key_val;
 pub mod watch;

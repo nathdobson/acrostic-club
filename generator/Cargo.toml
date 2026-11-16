@@ -53,3 +53,6 @@ ollama-rs = "0.2.4"
 schemars = "0.8.21"
 oxttl = "0.1.5"
 oxrdf = "0.2.4"
+
+[lints]
+workspace = true

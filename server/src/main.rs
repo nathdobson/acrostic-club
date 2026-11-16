@@ -1,5 +1,4 @@
 #![feature(future_join)]
-#![deny(unused_must_use)]
 
 use acrostic_server::RoomSet;
 use clap::Parser;

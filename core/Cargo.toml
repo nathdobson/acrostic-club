@@ -11,3 +11,6 @@ rand = "0.8.5"
 any_ascii = "0.1.7"
 rkyv = { version = "0.7.45", features = ["validation"] }
 arrayvec = "0.7.6"
+
+[lints]
+workspace = true
