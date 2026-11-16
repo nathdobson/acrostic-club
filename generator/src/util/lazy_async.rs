@@ -116,11 +116,11 @@ impl std::error::Error for AnyhowRef {
     fn source(&self) -> Option<&(dyn std::error::Error + 'static)> {
         self.0.source()
     }
-    #[allow(deprecated)]
+    #[expect(deprecated)]
     fn description(&self) -> &str {
         self.0.description()
     }
-    #[allow(deprecated)]
+    #[expect(deprecated)]
     fn cause(&self) -> Option<&dyn std::error::Error> {
         self.0.cause()
     }

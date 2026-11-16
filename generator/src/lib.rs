@@ -1,4 +1,4 @@
-#![allow(dead_code)]
+#![expect(dead_code)]
 #![feature(allocator_api)]
 #![deny(unused_must_use)]
 #![feature(error_generic_member_access)]
