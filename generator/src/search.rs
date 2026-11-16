@@ -151,7 +151,6 @@ impl Search {
         if flipped {
             ls.swap(0, 1);
         }
-        // let trie = &self.table.binary.get(&(ls[0], ls[1])).unwrap();
         let start = Instant::now();
         let found = self.search_word_pairs(
             ls[0],

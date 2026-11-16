@@ -1,5 +1,3 @@
-use futures::TryStreamExt;
-use futures::stream::FuturesUnordered;
 use std::alloc::Allocator;
 use std::collections::BTreeMap;
 use std::fmt::{Debug, Formatter};
@@ -14,7 +12,6 @@ use anyhow::Context;
 use crate::PACKAGE_PATH;
 use crate::dict::FLAT_WORDS;
 use crate::util::alloc::{MmapAllocator, restore_vec, save_vec};
-use crate::util::parallel::Parallelism;
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {
@@ -354,26 +351,16 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 }
 
 pub async fn build_trie() -> anyhow::Result<()> {
-    // Create the output folders, which a fresh checkout lacks. Doing so before the long
-    // computation below also surfaces a failure early.
+    // Create the output folder, which a fresh checkout lacks.
     let unary_folder = PACKAGE_PATH.join("build/unary");
-    let binary_folder = PACKAGE_PATH.join("build/binary");
-    for folder in [&unary_folder, &binary_folder] {
-        tokio::fs::create_dir_all(folder)
-            .await
-            .with_context(|| format!("Cannot create {folder:?}"))?;
-    }
+    tokio::fs::create_dir_all(&unary_folder)
+        .await
+        .with_context(|| format!("Cannot create {unary_folder:?}"))?;
 
     let dict = FLAT_WORDS.get_static().await?;
-    let mut binary = BTreeMap::<(Letter, Letter), Vec<(LetterSet, (LetterSet, LetterSet))>>::new();
     let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
     for l in Letter::all() {
         unary.insert(l, vec![]);
-    }
-    for l1 in Letter::all() {
-        for l2 in Letter::all() {
-            binary.insert((l1, l2), vec![]);
-        }
     }
     let mut words = vec![];
     for word in dict.iter() {
@@ -382,22 +369,12 @@ pub async fn build_trie() -> anyhow::Result<()> {
         }
     }
     let words = &words[0..15000];
-    for word1 in words {
-        if let Some(first1) = word1.letter_vec.first() {
+    for word in words {
+        if let Some(first_letter) = word.letter_vec.first() {
             unary
-                .entry(*first1)
+                .entry(*first_letter)
                 .or_default()
-                .push((word1.letters, word1.letters));
-            for word2 in words {
-                if let Some(first2) = word2.letter_vec.first() {
-                    if first1 <= first2 {
-                        binary.entry((*first1, *first2)).or_default().push((
-                            word1.letters + word2.letters,
-                            (word1.letters, word2.letters),
-                        ));
-                    }
-                }
-            }
+                .push((word.letters, word.letters));
         }
     }
 
@@ -411,47 +388,5 @@ pub async fn build_trie() -> anyhow::Result<()> {
         )
         .await?;
     }
-    let parallelism = Parallelism::new();
-    binary
-        .into_iter()
-        .map(|((l1, l2), vec)| {
-            let parallelism = &parallelism;
-            let binary_folder = &binary_folder;
-            async move {
-                let built: Box<FlatTrie<(LetterSet, LetterSet)>> = parallelism
-                    .run_blocking(move || {
-                        println!("Computing {:?}/{:?}", l1, l2);
-                        vec.into_iter()
-                            .collect::<Box<FlatTrie<(LetterSet, LetterSet)>>>()
-                    })
-                    .await;
-                save_vec::<FlatTrieEntry<(LetterSet, LetterSet)>>(
-                    &binary_folder.join(format!("map_{l1}_{l2}.dat")),
-                    built.as_slice(),
-                )
-                .await?;
-                println!("Done {:?}/{:?}", l1, l2);
-                Result::<(), io::Error>::Ok(())
-            }
-        })
-        .collect::<FuturesUnordered<_>>()
-        .try_collect::<()>()
-        .await?;
-    // let mut tasks = vec![];
-    // let semaphore = Semaphore::new(num_cpus::get());
-    // for ((l1, l2), vec) in binary {
-    //     tasks.push(tokio::task::spawn(|| {
-    //         {
-    //             let guard = semaphore.acquire();
-    //             println!("{:?}/{:?}", l1, l2);
-    //
-    //         }
-
-    //         ).await?;
-    //     }));
-    // }
-    // for task in tasks {
-    //     task.join();
-    // }
     Ok(())
 }

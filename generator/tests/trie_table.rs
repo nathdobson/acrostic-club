@@ -12,10 +12,6 @@ use acrostic_generator::trie_table;
 //         println!("{:?}", x.0);
 //         format!("{:?}", x.1);
 //     }
-//     for x in table.binary.iter() {
-//         println!("{:?}", x.0);
-//         format!("{:?}", x.1);
-//     }
 // }
 
 // Builds a trie that holds each word's letters as both its key and its value, as the single-word

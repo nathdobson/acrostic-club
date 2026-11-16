@@ -1,6 +1,5 @@
 #![expect(dead_code)]
 #![feature(error_generic_member_access)]
-#![feature(unboxed_closures)]
 extern crate core;
 
 use std::path::{Path, PathBuf};

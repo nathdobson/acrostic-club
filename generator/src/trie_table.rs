@@ -1,4 +1,3 @@
-use std::collections::HashMap;
 use std::sync::LazyLock;
 
 use crate::PACKAGE_PATH;
@@ -6,7 +5,6 @@ use crate::dict::{FLAT_WORDS, FlatWord};
 use crate::trie::FlatTrie;
 use crate::util::alloc::MmapAllocator;
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
-use itertools::Itertools;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
@@ -18,7 +16,6 @@ use safe_once_async::sync::AsyncLazyLock;
 pub struct FlatTrieTable {
     pub dict: &'static [FlatWord],
     pub unary: LetterMap<Box<FlatTrie<LetterSet>, MmapAllocator>>,
-    pub binary: HashMap<(Letter, Letter), Box<FlatTrie<(LetterSet, LetterSet)>, MmapAllocator>>,
 }
 
 pub static FLAT_TRIE_TABLE: LazyLock<
@@ -39,22 +36,9 @@ impl FlatTrieTable {
                 );
             }
             let unary = unary.map(|x| x.unwrap());
-            let mut binary = HashMap::new();
-            for ls in Letter::all().combinations_with_replacement(2) {
-                let l1 = ls[0];
-                let l2 = ls[1];
-                binary.insert(
-                    (l1, l2),
-                    FlatTrie::<(LetterSet, LetterSet)>::restore(
-                        &PACKAGE_PATH.join(&format!("build/binary/map_{}_{}.dat", l1, l2)),
-                    )
-                    .await?,
-                );
-            }
             Ok(FlatTrieTable {
                 dict: FLAT_WORDS.get_static().await?,
                 unary,
-                binary,
             })
         }
     }
