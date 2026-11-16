@@ -7,6 +7,7 @@ use acrostic_generator::clues::ClueClient;
 use acrostic_generator::util::interrupt::channel;
 
 #[tokio::test]
+#[ignore = "needs a running local language model"]
 async fn a_clue_client_writes_a_clue() -> anyhow::Result<()> {
     let (cleanup_sender, cleanup_receiver) = channel();
     let client = ClueClient::new(cleanup_sender).await?;

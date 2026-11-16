@@ -5,6 +5,7 @@ use acrostic_generator::PACKAGE_PATH;
 use acrostic_generator::turtle::parse::parse_file_graph;
 
 #[tokio::test]
+#[ignore = "needs the generator's outputs in build/"]
 async fn the_wordnet_graph_has_entries_for_buy_and_bought() -> anyhow::Result<()> {
     let graph = parse_file_graph(&[&PACKAGE_PATH.join("build/english-wordnet-2024.ttl")]).await?;
 

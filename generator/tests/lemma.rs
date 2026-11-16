@@ -4,6 +4,7 @@ use acrostic_generator::lemma::{LEMMA, Lemma};
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
+#[ignore = "needs the generator's outputs in build/"]
 async fn the_lemma_list_loads() -> anyhow::Result<()> {
     LEMMA.get().await.clone_error()?;
     Ok(())

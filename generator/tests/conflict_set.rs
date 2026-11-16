@@ -6,6 +6,7 @@ use acrostic_generator::ontology::ONTOLOGY;
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
+#[ignore = "needs the generator's outputs in build/"]
 async fn conflict_sets_build_for_five_words() -> anyhow::Result<()> {
     let ontology = ONTOLOGY.get().await.clone_error()?.clone();
 

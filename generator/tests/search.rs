@@ -8,6 +8,7 @@ use acrostic_generator::trie_table::FLAT_TRIE_TABLE;
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
+#[ignore = "needs the generator's outputs in build/"]
 async fn ten_thousand_trie_table_searches_finish() -> anyhow::Result<()> {
     let first_letters = (
         Letter::new(b'e').expect("e should be an ASCII letter"),

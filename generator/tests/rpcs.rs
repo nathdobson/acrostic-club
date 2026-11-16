@@ -5,6 +5,7 @@ use acrostic_generator::llm::chat_client::BaseClient;
 use acrostic_generator::llm::rpcs::ClueRequest;
 
 #[tokio::test]
+#[ignore = "needs a running local language model"]
 async fn a_clue_request_returns_clues() -> anyhow::Result<()> {
     // let ollama = Ollama::default();
     let client = BaseClient::new().await?;

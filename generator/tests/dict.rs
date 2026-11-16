@@ -4,6 +4,7 @@
 use acrostic_generator::dict::FLAT_WORDS;
 
 #[tokio::test]
+#[ignore = "needs the generator's outputs in build/"]
 async fn the_word_list_loads() {
     let words = FLAT_WORDS
         .get_static()
