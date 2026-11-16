@@ -1,5 +1,4 @@
 pub mod alloc;
-mod average;
 pub mod clock;
 pub mod interrupt;
 pub mod lazy_async;
