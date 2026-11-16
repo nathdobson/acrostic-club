@@ -1,6 +1,6 @@
 {
   "quote": "Private-sector preparedness is not a luxury; it is a cost of doing business in the post-9/11 world. It is ignored at a tremendous potential cost in lives, money and national security.",
-  "quote_letters": "PRIVATE-SECTOR PREPAREDNESS IS NOT A LUXURY IT IS A COST OF DOING BUSINESS IN THE POST-'9''1''1' WORLD IT IS IGNORED AT A TREMENDOUS POTENTIAL COST IN LIVES MONEY AND NATIONAL SECURITY",
+  "quote_letters": "PRIVATE-SECTOR PREPAREDNESS IS NOT A LUXURY IT IS A COST OF DOING BUSINESS IN THE POST-911 WORLD IT IS IGNORED AT A TREMENDOUS POTENTIAL COST IN LIVES MONEY AND NATIONAL SECURITY",
   "source": "The 9 11 Commission Report",
   "source_letters": "THECOMMISSIONREPORT",
   "clues": [
@@ -9,11 +9,11 @@
       "answer": "two-day",
       "answer_letters": "TWODAY",
       "indices": [
-        138,
-        97,
+        132,
+        91,
         12,
         22,
-        173,
+        167,
         42
       ]
     },
@@ -24,8 +24,8 @@
       "indices": [
         79,
         28,
+        153,
         159,
-        165,
         67,
         54
       ]
@@ -39,10 +39,10 @@
         39,
         18,
         57,
-        176,
-        106,
+        170,
+        100,
         23,
-        110
+        104
       ]
     },
     {
@@ -52,13 +52,13 @@
       "indices": [
         52,
         37,
-        114,
+        108,
         3,
-        154,
-        141,
-        120,
+        148,
+        135,
+        114,
         76,
-        101
+        95
       ]
     },
     {
@@ -66,11 +66,11 @@
       "answer": "onions",
       "answer_letters": "ONIONS",
       "indices": [
-        171,
-        164,
-        103,
-        98,
-        111,
+        165,
+        158,
+        97,
+        92,
+        105,
         25
       ]
     },
@@ -79,14 +79,14 @@
       "answer": "maryland",
       "answer_letters": "MARYLAND",
       "indices": [
-        157,
-        140,
-        16,
-        161,
         151,
+        134,
+        16,
+        155,
+        145,
         19,
-        149,
-        115
+        143,
+        109
       ]
     },
     {
@@ -94,19 +94,19 @@
       "answer": "municipalities",
       "answer_letters": "MUNICIPALITIES",
       "indices": [
-        125,
+        119,
         40,
         31,
-        148,
+        142,
         10,
         2,
         0,
         50,
-        174,
-        152,
+        168,
+        146,
         55,
-        109,
-        126,
+        103,
+        120,
         29
       ]
     },
@@ -117,10 +117,10 @@
       "indices": [
         62,
         66,
-        136,
+        130,
         41,
         44,
-        163
+        157
       ]
     },
     {
@@ -129,11 +129,11 @@
       "answer_letters": "STATED",
       "indices": [
         73,
-        169,
-        168,
-        146,
+        163,
+        162,
+        140,
         17,
-        128
+        122
       ]
     },
     {
@@ -144,10 +144,10 @@
         8,
         82,
         24,
-        178,
-        139,
+        172,
+        133,
         58,
-        183
+        177
       ]
     },
     {
@@ -156,14 +156,14 @@
       "answer_letters": "INVESTORS",
       "indices": [
         69,
-        127,
-        153,
-        160,
-        145,
-        104,
+        121,
+        147,
+        154,
+        139,
+        98,
         53,
-        180,
-        155
+        174,
+        149
       ]
     },
     {
@@ -171,12 +171,12 @@
       "answer": "outlet",
       "answer_letters": "OUTLET",
       "indices": [
-        158,
-        130,
-        5,
-        100,
+        152,
         124,
-        122
+        5,
+        94,
+        118,
+        116
       ]
     },
     {
@@ -186,9 +186,9 @@
       "indices": [
         70,
         32,
-        182,
+        176,
         75,
-        143,
+        137,
         71,
         60
       ]
@@ -203,7 +203,7 @@
         38,
         45,
         9,
-        131
+        125
       ]
     },
     {
@@ -211,14 +211,14 @@
       "answer": "enterprises",
       "answer_letters": "ENTERPRISES",
       "indices": [
-        177,
-        167,
+        171,
+        161,
         11,
         80,
-        113,
-        133,
+        107,
+        127,
         13,
-        181,
+        175,
         68,
         6,
         48
@@ -233,8 +233,8 @@
         35,
         33,
         78,
-        112,
-        172
+        106,
+        166
       ]
     },
     {
@@ -242,14 +242,14 @@
       "answer": "organist",
       "answer_letters": "ORGANIST",
       "indices": [
-        129,
+        123,
         1,
         64,
         4,
-        137,
+        131,
         47,
         26,
-        135
+        129
       ]
     },
     {
@@ -257,12 +257,12 @@
       "answer": "russia",
       "answer_letters": "RUSSIA",
       "indices": [
-        123,
-        179,
+        117,
+        173,
         72,
-        107,
-        170,
-        117
+        101,
+        164,
+        111
       ]
     },
     {
@@ -270,10 +270,10 @@
       "answer": "toronto's",
       "answer_letters": "TORONTOS",
       "indices": [
-        118,
-        144,
-        99,
-        134,
+        112,
+        138,
+        93,
+        128,
         63,
         85,
         83,

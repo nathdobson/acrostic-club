@@ -1,6 +1,6 @@
 {
   "quote": "Apathy.The reason you may wake up one day being not only a 2nd class citizen, but a criminal because of who you are - and then wonder why 'somebody' didn't do something when there was still time?",
-  "quote_letters": "APATHYTHE REASON YOU MAY WAKE UP ONE DAY BEING NOT ONLY A '2'ND CLASS CITIZEN BUT A CRIMINAL BECAUSE OF WHO YOU ARE - AND THEN WONDER WHY SOMEBODY DIDNT DO SOMETHING WHEN THERE WAS STILL TIME",
+  "quote_letters": "APATHYTHE REASON YOU MAY WAKE UP ONE DAY BEING NOT ONLY A 2ND CLASS CITIZEN BUT A CRIMINAL BECAUSE OF WHO YOU ARE - AND THEN WONDER WHY SOMEBODY DIDNT DO SOMETHING WHEN THERE WAS STILL TIME",
   "source": "Christina Engela, Blachart",
   "source_letters": "CHRISTINAENGELABLACHART",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "cynthia",
       "answer_letters": "CYNTHIA",
       "indices": [
-        84,
-        108,
-        169,
+        82,
+        106,
+        167,
         49,
-        135,
-        86,
+        133,
+        84,
         26
       ]
     },
@@ -23,12 +23,12 @@
       "answer": "hosted",
       "answer_letters": "HOSTED",
       "indices": [
-        161,
-        33,
-        67,
-        182,
         159,
-        149
+        33,
+        65,
+        180,
+        157,
+        147
       ]
     },
     {
@@ -36,12 +36,12 @@
       "answer": "routes",
       "answer_letters": "ROUTES",
       "indices": [
-        85,
-        128,
-        79,
-        171,
-        99,
-        68
+        83,
+        126,
+        77,
+        169,
+        97,
+        66
       ]
     },
     {
@@ -49,14 +49,14 @@
       "answer": "insanity",
       "answer_letters": "INSANITY",
       "indices": [
-        183,
-        89,
+        181,
+        87,
         13,
-        112,
+        110,
         34,
-        73,
-        151,
-        145
+        71,
+        149,
+        143
       ]
     },
     {
@@ -64,11 +64,11 @@
       "answer": "showed",
       "answer_letters": "SHOWED",
       "indices": [
-        138,
-        172,
+        136,
+        170,
         18,
-        127,
-        141,
+        125,
+        139,
         37
       ]
     },
@@ -77,13 +77,13 @@
       "answer": "tweeted",
       "answer_letters": "TWEETED",
       "indices": [
-        122,
-        134,
-        114,
-        168,
-        72,
-        190,
-        62
+        120,
+        132,
+        112,
+        166,
+        70,
+        188,
+        60
       ]
     },
     {
@@ -91,13 +91,13 @@
       "answer": "implying",
       "answer_letters": "IMPLYING",
       "indices": [
-        162,
+        160,
         21,
         31,
-        184,
+        182,
         17,
-        71,
-        61,
+        69,
+        59,
         45
       ]
     },
@@ -106,13 +106,13 @@
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
-        119,
-        94,
+        117,
+        92,
         25,
-        160,
-        101,
-        166,
-        125
+        158,
+        99,
+        164,
+        123
       ]
     },
     {
@@ -120,12 +120,12 @@
       "answer": "adrian",
       "answer_letters": "ADRIAN",
       "indices": [
-        90,
-        147,
-        113,
+        88,
+        145,
+        111,
         43,
-        118,
-        150
+        116,
+        148
       ]
     },
     {
@@ -133,14 +133,14 @@
       "answer": "employed",
       "answer_letters": "EMPLOYED",
       "indices": [
-        175,
-        87,
+        173,
+        85,
         1,
-        65,
-        143,
+        63,
+        141,
         39,
-        131,
-        144
+        129,
+        142
       ]
     },
     {
@@ -149,9 +149,9 @@
       "answer_letters": "NOTION",
       "indices": [
         15,
-        157,
+        155,
         6,
-        188,
+        186,
         14,
         52
       ]
@@ -161,12 +161,12 @@
       "answer": "guzmán",
       "answer_letters": "GUZMAN",
       "indices": [
-        164,
-        97,
-        74,
-        158,
+        162,
+        95,
+        72,
+        156,
         56,
-        76
+        74
       ]
     },
     {
@@ -175,11 +175,11 @@
       "answer_letters": "EDISON",
       "indices": [
         35,
-        130,
-        88,
-        179,
-        106,
-        163
+        128,
+        86,
+        177,
+        104,
+        161
       ]
     },
     {
@@ -187,13 +187,13 @@
       "answer": "lawyers",
       "answer_letters": "LAWYERS",
       "indices": [
-        185,
-        96,
-        104,
+        183,
+        94,
+        102,
         5,
-        75,
-        174,
-        181
+        73,
+        172,
+        179
       ]
     },
     {
@@ -201,12 +201,12 @@
       "answer": "abdomen",
       "answer_letters": "ABDOMEN",
       "indices": [
-        178,
-        78,
-        153,
-        109,
-        140,
-        124,
+        176,
+        76,
+        151,
+        107,
+        138,
+        122,
         47
       ]
     },
@@ -220,7 +220,7 @@
         4,
         0,
         53,
-        102
+        100
       ]
     },
     {
@@ -228,13 +228,13 @@
       "answer": "lobbied",
       "answer_letters": "LOBBIED",
       "indices": [
+        89,
+        137,
+        140,
         91,
-        139,
-        142,
-        93,
-        148,
+        146,
         42,
-        120
+        118
       ]
     },
     {
@@ -243,10 +243,10 @@
       "answer_letters": "ATHENA",
       "indices": [
         12,
-        187,
+        185,
         7,
-        173,
-        129,
+        171,
+        127,
         2
       ]
     },
@@ -255,12 +255,12 @@
       "answer": "church",
       "answer_letters": "CHURCH",
       "indices": [
-        64,
-        105,
-        110,
-        132,
-        70,
-        123
+        62,
+        103,
+        108,
+        130,
+        68,
+        121
       ]
     },
     {
@@ -268,9 +268,9 @@
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
-        167,
+        165,
         48,
-        95,
+        93,
         27,
         11,
         23
@@ -281,11 +281,11 @@
       "answer": "assume",
       "answer_letters": "ASSUME",
       "indices": [
-        82,
-        98,
-        156,
+        80,
+        96,
+        154,
         30,
-        189,
+        187,
         8
       ]
     },
@@ -298,7 +298,7 @@
         19,
         44,
         22,
-        177,
+        175,
         38,
         54
       ]
@@ -310,10 +310,10 @@
       "indices": [
         3,
         51,
-        136,
-        154,
-        80,
-        66
+        134,
+        152,
+        78,
+        64
       ]
     }
   ],
