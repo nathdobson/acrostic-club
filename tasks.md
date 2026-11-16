@@ -32,6 +32,12 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Quote 296448's source may end in a topic** — the source reads
       `Jen Wilde, queens of geek`, but ` queens of geek` may be a topic
       written without hyphens and with a leading space.
+- [ ] **Split words joined with no punctuation between them** — some
+      quotes lost a space with nothing left to mark it, as in `theyhad`, so
+      `quote_to_cells` can't tell they're two words. A language model split
+      all 27 examples it was given in a test. Once the spaces are in a
+      committed puzzle's quote, `puzzle rebuild-cells` carries them into
+      its cells and clue indices.
 
 ### Tidy-ups
 
