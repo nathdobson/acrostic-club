@@ -1,6 +1,6 @@
 {
   "quote": "It was impossible to get the Dimitri and Tasha thing out of my head, but at least packing and getting ready made sure I didn't devote 100 percent of my brain power to him. More like 95 percent.",
-  "quote_letters": "IT WAS IMPOSSIBLE TO GET THE DIMITRI AND TASHA THING OUT OF MY HEAD BUT AT LEAST PACKING AND GETTING READY MADE SURE I DIDNT DEVOTE '1''0''0' PERCENT OF MY BRAIN POWER TO HIM MORE LIKE '9''5' PERCENT",
+  "quote_letters": "IT WAS IMPOSSIBLE TO GET THE DIMITRI AND TASHA THING OUT OF MY HEAD BUT AT LEAST PACKING AND GETTING READY MADE SURE I DIDNT DEVOTE 100 PERCENT OF MY BRAIN POWER TO HIM MORE LIKE 95 PERCENT",
   "source": "Richelle Mead, Frostbite",
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
@@ -10,8 +10,8 @@
       "answer_letters": "ROOTED",
       "indices": [
         114,
+        157,
         163,
-        169,
         1,
         27,
         66
@@ -35,13 +35,13 @@
       "answer": "contempt",
       "answer_letters": "CONTEMPT",
       "indices": [
-        145,
+        139,
         19,
-        197,
+        187,
         95,
         126,
         8,
-        162,
+        156,
         41
       ]
     },
@@ -53,7 +53,7 @@
         26,
         0,
         21,
-        171,
+        165,
         75,
         105
       ]
@@ -63,9 +63,9 @@
       "answer": "edition",
       "answer_letters": "EDITION",
       "indices": [
-        196,
+        186,
         29,
-        159,
+        153,
         23,
         97,
         57,
@@ -77,11 +77,11 @@
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [
-        180,
+        174,
         37,
-        192,
-        148,
-        176,
+        182,
+        142,
+        170,
         9
       ]
     },
@@ -93,7 +93,7 @@
         15,
         117,
         58,
-        198,
+        188,
         110,
         121
       ]
@@ -106,8 +106,8 @@
         64,
         107,
         81,
-        181,
-        194,
+        175,
+        184,
         76
       ]
     },
@@ -116,13 +116,13 @@
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
-        175,
+        169,
         42,
         55,
         79,
         44,
-        143,
-        164
+        137,
+        158
       ]
     },
     {
@@ -131,9 +131,9 @@
       "answer_letters": "EMBEDDED",
       "indices": [
         115,
-        153,
+        147,
         14,
-        146,
+        140,
         109,
         125,
         130,
@@ -146,16 +146,16 @@
       "answer_letters": "ATTRIBUTION",
       "indices": [
         108,
-        168,
+        162,
         123,
-        177,
+        171,
         7,
-        156,
+        150,
         113,
         96,
         120,
-        150,
-        160
+        144,
+        154
       ]
     },
     {
@@ -164,11 +164,11 @@
       "answer_letters": "DEMISE",
       "indices": [
         39,
-        183,
+        177,
         60,
         49,
         5,
-        165
+        159
       ]
     },
     {
@@ -176,10 +176,10 @@
       "answer": "fianna",
       "answer_letters": "FIANNA",
       "indices": [
-        151,
+        145,
         32,
         89,
-        147,
+        141,
         86,
         77
       ]
@@ -189,8 +189,8 @@
       "answer": "rights",
       "answer_letters": "RIGHTS",
       "indices": [
-        157,
-        172,
+        151,
+        166,
         93,
         48,
         25,
@@ -204,9 +204,9 @@
       "indices": [
         53,
         83,
-        195,
+        185,
         69,
-        142,
+        136,
         61
       ]
     },
@@ -234,7 +234,7 @@
         101,
         129,
         54,
-        166,
+        160,
         102
       ]
     },
@@ -251,7 +251,7 @@
         72,
         3,
         82,
-        154
+        148
       ]
     },
     {
@@ -261,13 +261,13 @@
       "indices": [
         35,
         31,
-        173,
+        167,
         13,
         99,
-        144,
+        138,
         65,
         47,
-        193,
+        183,
         91
       ]
     },
@@ -278,9 +278,9 @@
       "indices": [
         73,
         63,
-        158,
+        152,
         50,
-        182,
+        176,
         78
       ]
     },
@@ -294,7 +294,7 @@
         87,
         4,
         51,
-        178,
+        172,
         112
       ]
     }
