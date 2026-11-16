@@ -31,8 +31,10 @@ impl Lemma {
                 continue;
             }
             let (canon, alts) = line.split_once("->").ok_or_else(|| anyhow!("missing ->"))?;
-            let canon = canon.split("/").next().unwrap();
+            // The spaces around `->` belong to neither word, so trim them from each.
+            let canon = canon.split("/").next().unwrap().trim();
             for alt in alts.split(",") {
+                let alt = alt.trim();
                 reverse
                     .entry(alt.to_string())
                     .or_default()
