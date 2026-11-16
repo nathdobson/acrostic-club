@@ -3,7 +3,7 @@
 #![allow(unused_variables, dead_code)]
 #![allow(unused_mut)]
 
-mod key_val;
+pub mod key_val;
 pub mod watch;
 
 use crate::key_val::KeyVal;

@@ -27,7 +27,10 @@ use std::io;
 //     result
 // }
 
-fn quote_to_cells(input: &str) -> String {
+// Lays a quote out as the puzzle's cells: one per letter or digit, one space for each run of
+// spaces, and a hyphen for each dash, while the other punctuation it recognizes takes no cell.
+// Panics on any character it doesn't recognize, such as `@`, since it has no cells to give it.
+pub fn quote_to_cells(input: &str) -> String {
     let mut cells = String::new();
     for grapheme in GraphemeString::from_str(&input).graphemes() {
         if grapheme.letters().is_empty() {
