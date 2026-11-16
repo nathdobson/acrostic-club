@@ -3,7 +3,7 @@
 use acrostic_generator::model::Model;
 
 #[test]
-fn read_model() {
+fn the_model_loads() {
     Model::get();
 }
 

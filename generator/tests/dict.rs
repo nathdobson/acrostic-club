@@ -4,10 +4,15 @@
 use acrostic_generator::dict::FLAT_WORDS;
 
 #[tokio::test]
-async fn test_flat_word() {
-    let words = FLAT_WORDS.get_static().await.unwrap();
-    println!("{:?}", words.len());
+async fn the_word_list_loads() {
+    let words = FLAT_WORDS
+        .get_static()
+        .await
+        .expect("the word list should load from build/dict.dat");
+
+    let word_count = words.len();
+    println!("{word_count:?}");
     for word in words.iter().take(10) {
-        println!("{:?}", word);
+        println!("{word:?}");
     }
 }

@@ -6,8 +6,9 @@ use acrostic_generator::string::LetterString;
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
-async fn test_cluedb() -> anyhow::Result<()> {
-    let clue_db = CLUE_DB.get().await.clone_error_static()?;
-    println!("{:?}", clue_db.lookup(&LetterString::from_str("howell")));
+async fn the_clue_database_loads() -> anyhow::Result<()> {
+    let clue_database = CLUE_DB.get().await.clone_error_static()?;
+    let clues = clue_database.lookup(&LetterString::from_str("howell"));
+    println!("{clues:?}");
     Ok(())
 }

@@ -7,41 +7,49 @@ use acrostic_generator::util::interrupt::channel;
 use tempfile::tempdir;
 
 #[tokio::test]
-async fn test_key_value_file() -> anyhow::Result<()> {
-    let dir = tempdir()?;
-    let path = dir.path().join("my-temporary-note.txt");
-    let (tx, rx) = channel();
-    let mut kvf = KeyValueFile::<usize, usize>::new(&path, tx).await?;
-    assert_eq!(
-        2,
-        *kvf.get_or_init(1, async { anyhow::Result::Ok(2usize) })
-            .await
-            .unwrap()
-    );
-    assert_eq!(
-        4,
-        *kvf.get_or_init(3, async { anyhow::Result::Ok(4usize) })
-            .await
-            .unwrap()
-    );
-    mem::drop(kvf);
-    rx.cleanup().await?;
+async fn stored_values_survive_reopening_the_file() -> anyhow::Result<()> {
+    let directory = tempdir()?;
+    let path = directory.path().join("my-temporary-note.txt");
+    let (cleanup_sender, cleanup_receiver) = channel();
+    let mut key_value_file = KeyValueFile::<usize, usize>::new(&path, cleanup_sender).await?;
 
-    let (tx, rx) = channel();
-    kvf = KeyValueFile::new(&path, tx).await?;
     assert_eq!(
         2,
-        *kvf.get_or_init(1, async { anyhow::Result::Ok(todo!()) })
+        *key_value_file
+            .get_or_init(1, async { anyhow::Result::Ok(2usize) })
             .await
-            .unwrap()
+            .expect("a new key should take its initializer's value")
     );
     assert_eq!(
         4,
-        *kvf.get_or_init(3, async { anyhow::Result::Ok(todo!()) })
+        *key_value_file
+            .get_or_init(3, async { anyhow::Result::Ok(4usize) })
             .await
-            .unwrap()
+            .expect("a new key should take its initializer's value")
     );
-    mem::drop(kvf);
-    rx.cleanup().await?;
+
+    mem::drop(key_value_file);
+    cleanup_receiver.cleanup().await?;
+
+    let (cleanup_sender, cleanup_receiver) = channel();
+    key_value_file = KeyValueFile::new(&path, cleanup_sender).await?;
+
+    assert_eq!(
+        2,
+        *key_value_file
+            .get_or_init(1, async { todo!() })
+            .await
+            .expect("a stored key should load its value from the file")
+    );
+    assert_eq!(
+        4,
+        *key_value_file
+            .get_or_init(3, async { todo!() })
+            .await
+            .expect("a stored key should load its value from the file")
+    );
+
+    mem::drop(key_value_file);
+    cleanup_receiver.cleanup().await?;
     Ok(())
 }

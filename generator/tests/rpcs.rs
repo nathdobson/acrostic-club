@@ -5,10 +5,11 @@ use acrostic_generator::llm::chat_client::BaseClient;
 use acrostic_generator::llm::rpcs::ClueRequest;
 
 #[tokio::test]
-async fn test() -> anyhow::Result<()> {
+async fn a_clue_request_returns_clues() -> anyhow::Result<()> {
     // let ollama = Ollama::default();
     let client = BaseClient::new().await?;
     let answer = "nathan";
+
     let clues = ClueRequest {
         answer: answer.to_string(),
         clue_count: 30,
@@ -16,6 +17,7 @@ async fn test() -> anyhow::Result<()> {
     .build()?
     .send(&*client)
     .await?;
-    println!("{:#?}", clues);
+
+    println!("{clues:#?}");
     Ok(())
 }

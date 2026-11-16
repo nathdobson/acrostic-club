@@ -4,7 +4,7 @@ use acrostic_generator::ontology::ONTOLOGY;
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
-async fn read_turtle_graph() -> anyhow::Result<()> {
+async fn the_ontology_loads() -> anyhow::Result<()> {
     ONTOLOGY.get().await.clone_error()?;
     Ok(())
 }

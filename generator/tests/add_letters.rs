@@ -3,7 +3,7 @@
 use acrostic_generator::add_letters::quote_to_cells;
 
 #[test]
-fn test_quote_to_cells() {
+fn full_width_digits_and_letters_become_ascii_cells() {
     assert_eq!(quote_to_cells("０１２３４５６７８９"), "0123456789");
     assert_eq!(
         quote_to_cells("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"),

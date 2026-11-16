@@ -5,10 +5,12 @@ use acrostic_generator::util::rate_limit::RateLimit;
 use tokio::time::Instant;
 
 #[tokio::test]
-async fn test_rate_limit() {
-    let mut rate = RateLimit::new(Clock::Real, 10, 10.0);
+async fn a_rate_limit_schedules_a_thousand_tasks() {
+    let mut rate_limit = RateLimit::new(Clock::Real, 10, 10.0);
+
     for i in 0..1000 {
-        println!("{:?} {:?}", i, Instant::now());
-        tokio::time::sleep_until(rate.spawn()).await;
+        let now = Instant::now();
+        println!("{i:?} {now:?}");
+        tokio::time::sleep_until(rate_limit.spawn()).await;
     }
 }

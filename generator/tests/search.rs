@@ -8,22 +8,28 @@ use acrostic_generator::trie_table::FLAT_TRIE_TABLE;
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
-async fn test_search() -> anyhow::Result<()> {
-    let firsts = (Letter::new(b'e').unwrap(), Letter::new(b'i').unwrap());
-    let word = LetterSet::from_str("AEEEEEEEEEEEGIIKKKKLLLNNNOPPTTTWWWW");
+async fn ten_thousand_trie_table_searches_finish() -> anyhow::Result<()> {
+    let first_letters = (
+        Letter::new(b'e').expect("e should be an ASCII letter"),
+        Letter::new(b'i').expect("i should be an ASCII letter"),
+    );
+    let letters = LetterSet::from_str("AEEEEEEEEEEEGIIKKKKLLLNNNOPPTTTWWWW");
     FLAT_TRIE_TABLE.get().await.clone_error()?;
+
     let start = Instant::now();
-    for i in 0..10000 {
+    for _ in 0..10000 {
         let mut found = vec![];
         FLAT_TRIE_TABLE
             .get()
             .await
             .clone_error()?
             .binary
-            .get(&firsts)
-            .unwrap()
-            .search_smallest_subset(word, 16, &mut found);
+            .get(&first_letters)
+            .expect("the trie table should hold a trie for each pair of first letters")
+            .search_smallest_subset(letters, 16, &mut found);
     }
-    println!("{:?}", start.elapsed());
+
+    let elapsed = start.elapsed();
+    println!("{elapsed:?}");
     Ok(())
 }

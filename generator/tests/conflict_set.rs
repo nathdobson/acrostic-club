@@ -6,13 +6,16 @@ use acrostic_generator::ontology::ONTOLOGY;
 use acrostic_generator::util::lazy_async::CloneError;
 
 #[tokio::test]
-async fn test_find_conflicts() -> anyhow::Result<()> {
+async fn conflict_sets_build_for_five_words() -> anyhow::Result<()> {
     let ontology = ONTOLOGY.get().await.clone_error()?.clone();
+
     for word in ["bought", "definition", "cowboy", "cattle", "Islam"] {
         let mut conflicts = ConflictSet::new(ontology.clone());
         conflicts.add_origin(word.to_string());
-        println!("{:#?}", conflicts);
-        println!("{:#?}", conflicts.terminals().collect::<Vec<_>>());
+
+        println!("{conflicts:#?}");
+        let terminals = conflicts.terminals().collect::<Vec<_>>();
+        println!("{terminals:#?}");
     }
     Ok(())
 }

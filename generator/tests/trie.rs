@@ -4,12 +4,15 @@ use acrostic_core::letter::LetterSet;
 use acrostic_generator::trie::FlatTrie;
 
 #[test]
-fn test_flat_trie() {
-    let mut entries = vec!["ab", "abc", "abd"];
-    let b: Box<FlatTrie<&str>> = entries
+fn a_flat_trie_builds_from_three_words() {
+    let words = vec!["ab", "abc", "abd"];
+
+    let trie: Box<FlatTrie<&str>> = words
         .into_iter()
-        .map(|x| (LetterSet::from_str(x), x))
+        .map(|word| (LetterSet::from_str(word), word))
         .collect();
-    println!("{:?}", b.as_slice());
-    println!("{:?}", b);
+
+    let trie_entries = trie.as_slice();
+    println!("{trie_entries:?}");
+    println!("{trie:?}");
 }
