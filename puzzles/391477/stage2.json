@@ -1,6 +1,6 @@
 {
   "quote": "I planned my whole future around Adam,' she said now, quietly. 'And now I have nothing.''No,' I told her, 'now you just don't have Adam. There's a big difference, Lissa. You just can't see it yet.",
-  "quote_letters": "I PLANNED MY WHOLE FUTURE AROUND ADAM SHE SAID NOW QUIETLY AND NOW I HAVE NOTHINGNO I TOLD HER NOW YOU JUST DONT HAVE ADAM THERES A BIG DIFFERENCE LISSA YOU JUST CANT SEE IT YET",
+  "quote_letters": "I PLANNED MY WHOLE FUTURE AROUND ADAM SHE SAID NOW QUIETLY AND NOW I HAVE NOTHING NO I TOLD HER NOW YOU JUST DONT HAVE ADAM THERES A BIG DIFFERENCE LISSA YOU JUST CANT SEE IT YET",
   "source": "Sarah Dessen, This Lullaby",
   "source_letters": "SARAHDESSENTHISLULLABY",
   "clues": [
@@ -9,15 +9,15 @@
       "answer": "sanctions",
       "answer_letters": "SANCTIONS",
       "indices": [
-        159,
-        118,
-        81,
-        162,
         160,
+        119,
+        82,
+        163,
+        161,
         53,
-        100,
-        110,
-        128
+        101,
+        111,
+        129
       ]
     },
     {
@@ -25,12 +25,12 @@
       "answer": "armagh",
       "answer_letters": "ARMAGH",
       "indices": [
-        163,
-        93,
-        121,
-        130,
+        164,
+        94,
+        122,
+        131,
         80,
-        124
+        125
       ]
     },
     {
@@ -38,12 +38,12 @@
       "answer": "rejoin",
       "answer_letters": "REJOIN",
       "indices": [
-        141,
+        142,
         40,
-        103,
-        154,
-        148,
-        95
+        104,
+        155,
+        149,
+        96
       ]
     },
     {
@@ -56,7 +56,7 @@
         11,
         13,
         33,
-        99
+        100
       ]
     },
     {
@@ -65,9 +65,9 @@
       "answer_letters": "HENSON",
       "indices": [
         69,
-        140,
-        143,
-        167,
+        141,
+        144,
+        168,
         15,
         79
       ]
@@ -78,11 +78,11 @@
       "answer_letters": "DWIGHT",
       "indices": [
         34,
-        97,
-        137,
-        134,
-        113,
-        111
+        98,
+        138,
+        135,
+        114,
+        112
       ]
     },
     {
@@ -93,8 +93,8 @@
         7,
         3,
         44,
-        157,
-        120,
+        158,
+        121,
         14
       ]
     },
@@ -104,11 +104,11 @@
       "answer_letters": "SEEDED",
       "indices": [
         38,
-        168,
+        169,
         17,
         31,
-        127,
-        108
+        128,
+        109
       ]
     },
     {
@@ -116,13 +116,13 @@
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [
-        150,
+        151,
         39,
         72,
         27,
-        133,
+        134,
         19,
-        138
+        139
       ]
     },
     {
@@ -130,12 +130,12 @@
       "answer": "ensued",
       "answer_letters": "ENSUED",
       "indices": [
-        169,
+        170,
         63,
         42,
         20,
-        142,
-        119
+        143,
+        120
       ]
     },
     {
@@ -145,8 +145,8 @@
       "indices": [
         5,
         75,
-        123,
-        84,
+        124,
+        85,
         28,
         6
       ]
@@ -156,9 +156,9 @@
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
-        165,
+        166,
         65,
-        109,
+        110,
         49,
         35,
         57
@@ -170,13 +170,13 @@
       "answer_letters": "HANDSOME",
       "indices": [
         77,
-        114,
+        115,
         30,
-        89,
-        149,
+        90,
+        150,
         48,
         10,
-        125
+        126
       ]
     },
     {
@@ -186,10 +186,10 @@
       "indices": [
         0,
         76,
-        91,
+        92,
         26,
-        144,
-        151
+        145,
+        152
       ]
     },
     {
@@ -197,15 +197,15 @@
       "answer": "statutory",
       "answer_letters": "STATUTORY",
       "indices": [
-        105,
+        106,
         55,
         43,
-        172,
-        158,
-        106,
-        96,
+        173,
+        159,
+        107,
+        97,
         23,
-        174
+        175
       ]
     },
     {
@@ -215,9 +215,9 @@
       "indices": [
         56,
         54,
-        155,
+        156,
         71,
-        175,
+        176,
         74
       ]
     },
@@ -226,12 +226,12 @@
       "answer": "update",
       "answer_letters": "UPDATE",
       "indices": [
-        104,
+        105,
         2,
         45,
         70,
-        176,
-        92
+        177,
+        93
       ]
     },
     {
@@ -239,11 +239,11 @@
       "answer": "lifted",
       "answer_letters": "LIFTED",
       "indices": [
-        147,
+        148,
         67,
-        139,
-        86,
-        116,
+        140,
+        87,
+        117,
         61
       ]
     },
@@ -256,8 +256,8 @@
         78,
         51,
         22,
-        87,
-        126
+        88,
+        127
       ]
     },
     {
@@ -268,7 +268,7 @@
         59,
         29,
         21,
-        101,
+        102,
         36,
         60
       ]
@@ -278,13 +278,13 @@
       "answer": "bounded",
       "answer_letters": "BOUNDED",
       "indices": [
-        132,
+        133,
         64,
         52,
-        164,
+        165,
         8,
         24,
-        136
+        137
       ]
     },
     {
@@ -292,12 +292,12 @@
       "answer": "yeovil",
       "answer_letters": "YEOVIL",
       "indices": [
-        153,
-        145,
-        82,
-        115,
-        171,
-        88
+        154,
+        146,
+        83,
+        116,
+        172,
+        89
       ]
     }
   ],

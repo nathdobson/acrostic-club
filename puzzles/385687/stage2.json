@@ -1,6 +1,6 @@
 {
   "quote": "Banality is like boredom: bored people are boring people, people who think that things are banal are themselves banal.Interesting people can find something interesting in all things.",
-  "quote_letters": "BANALITY IS LIKE BOREDOM BORED PEOPLE ARE BORING PEOPLE PEOPLE WHO THINK THAT THINGS ARE BANAL ARE THEMSELVES BANALINTERESTING PEOPLE CAN FIND SOMETHING INTERESTING IN ALL THINGS",
+  "quote_letters": "BANALITY IS LIKE BOREDOM BORED PEOPLE ARE BORING PEOPLE PEOPLE WHO THINK THAT THINGS ARE BANAL ARE THEMSELVES BANAL INTERESTING PEOPLE CAN FIND SOMETHING INTERESTING IN ALL THINGS",
   "source": "Idries Shah, Reflections",
   "source_letters": "IDRIESSHAHREFLECTIONS",
   "clues": [
@@ -10,9 +10,9 @@
       "answer_letters": "ISOTOPE",
       "indices": [
         9,
-        121,
+        122,
         18,
-        160,
+        161,
         65,
         59,
         107
@@ -24,8 +24,8 @@
       "answer_letters": "DISTAL",
       "indices": [
         29,
-        115,
-        177,
+        116,
+        178,
         73,
         85,
         12
@@ -37,7 +37,7 @@
       "answer_letters": "REBELS",
       "indices": [
         39,
-        128,
+        129,
         42,
         87,
         114,
@@ -49,12 +49,12 @@
       "answer": "intense",
       "answer_letters": "INTENSE",
       "indices": [
-        165,
-        136,
+        166,
+        137,
         6,
         20,
-        124,
-        159,
+        125,
+        160,
         50
       ]
     },
@@ -63,8 +63,8 @@
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
-        156,
-        145,
+        157,
+        146,
         25,
         90,
         86,
@@ -90,12 +90,12 @@
       "answer": "string",
       "answer_letters": "STRING",
       "indices": [
-        143,
+        144,
         78,
-        119,
+        120,
         80,
         46,
-        125
+        126
       ]
     },
     {
@@ -103,7 +103,7 @@
       "answer": "hapoel",
       "answer_letters": "HAPOEL",
       "indices": [
-        148,
+        149,
         95,
         52,
         26,
@@ -117,9 +117,9 @@
       "answer_letters": "ALEPPO",
       "indices": [
         113,
-        131,
+        132,
         57,
-        127,
+        128,
         49,
         33
       ]
@@ -129,7 +129,7 @@
       "answer": "hoping",
       "answer_letters": "HOPING",
       "indices": [
-        173,
+        174,
         22,
         56,
         13,
@@ -142,15 +142,15 @@
       "answer": "retaining",
       "answer_letters": "RETAINING",
       "indices": [
-        157,
+        158,
         36,
-        122,
-        135,
+        123,
+        136,
         5,
-        140,
-        149,
-        166,
-        163
+        141,
+        150,
+        167,
+        164
       ]
     },
     {
@@ -173,15 +173,15 @@
       "answer": "flyweight",
       "answer_letters": "FLYWEIGHT",
       "indices": [
-        138,
-        170,
+        139,
+        171,
         7,
         63,
-        158,
+        159,
         45,
         82,
         100,
-        147
+        148
       ]
     },
     {
@@ -204,15 +204,15 @@
       "indices": [
         15,
         2,
-        117,
+        118,
         40,
         19,
-        172,
+        173,
         3,
         69,
-        116,
+        117,
         28,
-        141
+        142
       ]
     },
     {
@@ -220,11 +220,11 @@
       "answer": "client",
       "answer_letters": "CLIENT",
       "indices": [
-        134,
+        135,
         4,
-        161,
+        162,
         54,
-        154,
+        155,
         99
       ]
     },
@@ -236,8 +236,8 @@
         76,
         1,
         93,
-        169,
-        118,
+        170,
+        119,
         27
       ]
     },
@@ -246,14 +246,14 @@
       "answer": "imminent",
       "answer_letters": "IMMINENT",
       "indices": [
-        139,
+        140,
         23,
         102,
-        174,
+        175,
         112,
-        120,
+        121,
         91,
-        155
+        156
       ]
     },
     {
@@ -265,8 +265,8 @@
         44,
         31,
         64,
-        168,
-        150
+        169,
+        151
       ]
     },
     {
@@ -274,17 +274,17 @@
       "answer": "neighborhood",
       "answer_letters": "NEIGHBORHOOD",
       "indices": [
-        162,
-        132,
-        123,
-        151,
+        163,
+        133,
+        124,
+        152,
         79,
         17,
-        129,
+        130,
         96,
         74,
         58,
-        144,
+        145,
         21
       ]
     },
@@ -294,13 +294,13 @@
       "answer_letters": "SPEAKING",
       "indices": [
         83,
-        130,
-        146,
+        131,
+        147,
         92,
         71,
-        153,
-        175,
-        176
+        154,
+        176,
+        177
       ]
     }
   ],

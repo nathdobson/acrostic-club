@@ -1,6 +1,6 @@
 {
   "quote": "So, he, uhm, all ac/ac, or a little ac/dc?\" she asked, blushing, and Chase's grin about swallowed his face.\"He claims to be ac/dc,\" he said, watching her face light up completely.",
-  "quote_letters": "SO HE UHM ALL ACAC OR A LITTLE ACDC SHE ASKED BLUSHING AND CHASES GRIN ABOUT SWALLOWED HIS FACEHE CLAIMS TO BE ACDC HE SAID WATCHING HER FACE LIGHT UP COMPLETELY",
+  "quote_letters": "SO HE UHM ALL AC AC OR A LITTLE AC DC SHE ASKED BLUSHING AND CHASES GRIN ABOUT SWALLOWED HIS FACE HE CLAIMS TO BE AC DC HE SAID WATCHING HER FACE LIGHT UP COMPLETELY",
   "source": "Amy Lane, Chase in Shadow",
   "source_letters": "AMYLANECHASEINSHADOW",
   "clues": [
@@ -9,13 +9,13 @@
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
-        79,
-        83,
-        42,
-        124,
-        16,
-        20,
-        57
+        81,
+        85,
+        44,
+        128,
+        17,
+        21,
+        59
       ]
     },
     {
@@ -23,14 +23,14 @@
       "answer": "matthias",
       "answer_letters": "MATTHIAS",
       "indices": [
-        153,
-        22,
-        26,
-        126,
+        157,
+        23,
+        27,
+        130,
         7,
-        68,
-        71,
-        49
+        70,
+        73,
+        51
       ]
     },
     {
@@ -38,11 +38,11 @@
       "answer": "yields",
       "answer_letters": "YIELDS",
       "indices": [
-        160,
-        121,
-        94,
-        24,
-        113,
+        164,
+        125,
+        96,
+        25,
+        117,
         0
       ]
     },
@@ -51,12 +51,12 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        28,
         29,
-        145,
-        25,
-        66,
-        128
+        30,
+        149,
+        26,
+        68,
+        132
       ]
     },
     {
@@ -64,12 +64,12 @@
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
-        138,
-        102,
-        108,
+        142,
+        105,
+        111,
         6,
-        36,
-        95
+        38,
+        98
       ]
     },
     {
@@ -77,12 +77,12 @@
       "answer": "nassau",
       "answer_letters": "NASSAU",
       "indices": [
-        56,
-        31,
-        77,
-        89,
-        100,
-        48
+        58,
+        32,
+        79,
+        91,
+        103,
+        50
       ]
     },
     {
@@ -90,13 +90,13 @@
       "answer": "engages",
       "answer_letters": "ENGAGES",
       "indices": [
-        96,
-        130,
-        131,
+        99,
+        134,
+        135,
+        57,
         55,
-        53,
-        156,
-        62
+        160,
+        64
       ]
     },
     {
@@ -104,13 +104,13 @@
       "answer": "calling",
       "answer_letters": "CALLING",
       "indices": [
-        93,
-        120,
-        47,
-        159,
-        51,
-        52,
-        144
+        95,
+        124,
+        49,
+        163,
+        53,
+        54,
+        148
       ]
     },
     {
@@ -118,13 +118,13 @@
       "answer": "habitat",
       "answer_letters": "HABITAT",
       "indices": [
-        60,
-        40,
-        72,
-        143,
-        105,
-        125,
-        146
+        62,
+        42,
+        74,
+        147,
+        108,
+        129,
+        150
       ]
     },
     {
@@ -133,11 +133,11 @@
       "answer_letters": "ALBEDO",
       "indices": [
         14,
-        155,
-        46,
-        43,
-        122,
-        19
+        159,
+        48,
+        45,
+        126,
+        20
       ]
     },
     {
@@ -145,12 +145,12 @@
       "answer": "steele",
       "answer_letters": "STEELE",
       "indices": [
-        64,
-        75,
-        38,
-        158,
-        142,
-        134
+        66,
+        77,
+        40,
+        162,
+        146,
+        138
       ]
     },
     {
@@ -158,12 +158,12 @@
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
-        84,
-        137,
-        91,
-        109,
-        151,
-        27
+        86,
+        141,
+        93,
+        112,
+        155,
+        28
       ]
     },
     {
@@ -171,12 +171,12 @@
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
-        129,
-        157,
-        50,
+        133,
+        161,
+        52,
         10,
-        59,
-        61
+        61,
+        63
       ]
     },
     {
@@ -184,12 +184,12 @@
       "answer": "nicole",
       "answer_letters": "NICOLE",
       "indices": [
-        69,
-        88,
-        98,
+        71,
+        90,
+        101,
         1,
-        99,
-        63
+        102,
+        65
       ]
     },
     {
@@ -197,16 +197,16 @@
       "answer": "schumacher",
       "answer_letters": "SCHUMACHER",
       "indices": [
-        119,
-        17,
-        116,
-        148,
+        123,
+        18,
+        120,
+        152,
         8,
-        92,
-        32,
-        133,
+        94,
+        33,
+        137,
         4,
-        67
+        69
       ]
     },
     {
@@ -215,11 +215,11 @@
       "answer_letters": "HIPHOP",
       "indices": [
         3,
-        101,
-        149,
-        37,
-        152,
-        154
+        104,
+        153,
+        39,
+        156,
+        158
       ]
     },
     {
@@ -227,13 +227,13 @@
       "answer": "alcohol",
       "answer_letters": "ALCOHOL",
       "indices": [
-        111,
+        114,
         11,
-        34,
-        82,
-        87,
-        106,
-        81
+        36,
+        84,
+        89,
+        109,
+        83
       ]
     },
     {
@@ -241,12 +241,12 @@
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
-        33,
-        127,
-        85,
-        139,
-        44,
-        114
+        35,
+        131,
+        87,
+        143,
+        46,
+        118
       ]
     },
     {
@@ -254,12 +254,12 @@
       "answer": "occurs",
       "answer_letters": "OCCURS",
       "indices": [
-        73,
+        75,
         15,
-        112,
-        74,
-        135,
-        41
+        115,
+        76,
+        139,
+        43
       ]
     },
     {
@@ -267,12 +267,12 @@
       "answer": "welles",
       "answer_letters": "WELLES",
       "indices": [
-        78,
-        140,
         80,
+        144,
+        82,
         12,
-        117,
-        103
+        121,
+        106
       ]
     }
   ],

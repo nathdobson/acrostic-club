@@ -1,6 +1,6 @@
 {
   "quote": "To the attention of the New Fiddleham Police Department: You've got my middle-C, and I would like it back....Please return Jackaby's tuning fork. He's getting even more obnoxious than usual.",
-  "quote_letters": "TO THE ATTENTION OF THE NEW FIDDLEHAM POLICE DEPARTMENT YOUVE GOT MY MIDDLE-C AND I WOULD LIKE IT BACKPLEASE RETURN JACKABYS TUNING FORK HES GETTING EVEN MORE OBNOXIOUS THAN USUAL",
+  "quote_letters": "TO THE ATTENTION OF THE NEW FIDDLEHAM POLICE DEPARTMENT YOUVE GOT MY MIDDLE-C AND I WOULD LIKE IT BACK PLEASE RETURN JACKABYS TUNING FORK HES GETTING EVEN MORE OBNOXIOUS THAN USUAL",
   "source": "William Ritter, Jackaby",
   "source_letters": "WILLIAMRITTERJACKABY",
   "clues": [
@@ -10,11 +10,11 @@
       "answer_letters": "WHETHER",
       "indices": [
         26,
-        170,
+        171,
         60,
         9,
-        137,
         138,
+        139,
         49
       ]
     },
@@ -25,12 +25,12 @@
       "indices": [
         91,
         79,
-        123,
+        124,
         50,
         95,
         8,
         58,
-        144,
+        145,
         46,
         80
       ]
@@ -40,8 +40,8 @@
       "answer": "looked",
       "answer_letters": "LOOKED",
       "indices": [
-        178,
-        159,
+        179,
+        160,
         57,
         92,
         52,
@@ -54,13 +54,13 @@
       "answer_letters": "LEIGHTON",
       "indices": [
         73,
-        151,
+        152,
         82,
-        130,
+        131,
         21,
-        125,
+        126,
         39,
-        172
+        173
       ]
     },
     {
@@ -68,11 +68,11 @@
       "answer": "imposed",
       "answer_letters": "IMPOSED",
       "indices": [
-        164,
-        154,
+        165,
+        155,
         47,
-        133,
-        139,
+        134,
+        140,
         25,
         72
       ]
@@ -85,11 +85,11 @@
         48,
         30,
         59,
-        155,
-        118,
+        156,
+        119,
         78,
         76,
-        122
+        123
       ]
     },
     {
@@ -98,12 +98,12 @@
       "answer_letters": "MANNHEIM",
       "indices": [
         66,
-        117,
-        161,
-        146,
+        118,
+        162,
+        147,
         4,
         10,
-        145,
+        146,
         36
       ]
     },
@@ -112,12 +112,12 @@
       "answer": "royals",
       "answer_letters": "ROYALS",
       "indices": [
-        156,
+        157,
         63,
         67,
-        120,
+        121,
         90,
-        106
+        107
       ]
     },
     {
@@ -126,16 +126,16 @@
       "answer_letters": "INTELLIGENT",
       "indices": [
         70,
-        129,
+        130,
         64,
-        157,
+        158,
         32,
         87,
         29,
-        147,
-        149,
+        148,
+        150,
         11,
-        111
+        112
       ]
     },
     {
@@ -145,12 +145,12 @@
       "indices": [
         96,
         17,
-        135,
+        136,
         86,
         62,
-        177,
+        178,
         84,
-        171
+        172
       ]
     },
     {
@@ -158,14 +158,14 @@
       "answer": "turbulent",
       "answer_letters": "TURBULENT",
       "indices": [
-        143,
-        112,
-        109,
+        144,
+        113,
+        110,
         98,
-        176,
-        103,
+        177,
+        104,
         74,
-        127,
+        128,
         20
       ]
     },
@@ -174,11 +174,11 @@
       "answer": "export",
       "answer_letters": "EXPORT",
       "indices": [
-        107,
-        163,
+        108,
+        164,
         38,
         85,
-        113,
+        114,
         12
       ]
     },
@@ -187,11 +187,11 @@
       "answer": "rebound",
       "answer_letters": "REBOUND",
       "indices": [
-        134,
+        135,
         43,
-        160,
+        161,
         1,
-        174,
+        175,
         24,
         45
       ]
@@ -201,12 +201,12 @@
       "answer": "justin",
       "answer_letters": "JUSTIN",
       "indices": [
-        116,
-        166,
+        117,
         167,
-        169,
+        168,
+        170,
         41,
-        152
+        153
       ]
     },
     {
@@ -214,9 +214,9 @@
       "answer": "angela",
       "answer_letters": "ANGELA",
       "indices": [
-        105,
+        106,
         53,
-        141,
+        142,
         93,
         40,
         35
@@ -230,11 +230,11 @@
         42,
         14,
         28,
-        165,
-        126,
+        166,
+        127,
         15,
         31,
-        110,
+        111,
         71
       ]
     },
@@ -246,10 +246,10 @@
         101,
         13,
         100,
-        119,
-        162,
+        120,
+        163,
         18,
-        132
+        133
       ]
     },
     {
@@ -260,11 +260,11 @@
         99,
         3,
         54,
-        142,
+        143,
         69,
-        102,
+        103,
         0,
-        175
+        176
       ]
     },
     {
@@ -272,11 +272,11 @@
       "answer": "behave",
       "answer_letters": "BEHAVE",
       "indices": [
-        121,
-        104,
+        122,
+        105,
         34,
         7,
-        150,
+        151,
         5
       ]
     },
@@ -289,8 +289,8 @@
         22,
         51,
         33,
-        114,
-        128
+        115,
+        129
       ]
     }
   ],

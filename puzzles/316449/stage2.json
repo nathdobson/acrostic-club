@@ -1,6 +1,6 @@
 {
   "quote": "I whispered across the bars to Jackaby as I rose, \"Shall I tell them the truth?\"\"Have you killed anyone?\" he asked, quietly.\"No, of course not!\"\"Then I can't imagine why you shouldn't.",
-  "quote_letters": "I WHISPERED ACROSS THE BARS TO JACKABY AS I ROSE SHALL I TELL THEM THE TRUTHHAVE YOU KILLED ANYONE HE ASKED QUIETLYNO OF COURSE NOTTHEN I CANT IMAGINE WHY YOU SHOULDNT",
+  "quote_letters": "I WHISPERED ACROSS THE BARS TO JACKABY AS I ROSE SHALL I TELL THEM THE TRUTH HAVE YOU KILLED ANYONE HE ASKED QUIETLY NO OF COURSE NOT THEN I CANT IMAGINE WHY YOU SHOULDNT",
   "source": "William Ritter, Jackaby",
   "source_letters": "WILLIAMRITTERJACKABY",
   "clues": [
@@ -9,13 +9,13 @@
       "answer": "watched",
       "answer_letters": "WATCHED",
       "indices": [
-        151,
+        154,
         24,
         67,
         33,
-        160,
-        105,
-        106
+        163,
+        106,
+        107
       ]
     },
     {
@@ -23,13 +23,13 @@
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
-        86,
-        96,
-        119,
+        87,
+        97,
+        121,
         12,
-        140,
-        138,
-        81
+        143,
+        141,
+        82
       ]
     },
     {
@@ -37,11 +37,11 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        163,
-        89,
-        132,
-        143,
+        166,
+        90,
+        135,
         146,
+        149,
         68
       ]
     },
@@ -53,10 +53,10 @@
         59,
         51,
         2,
-        159,
+        162,
         73,
-        147,
-        141,
+        150,
+        144,
         17
       ]
     },
@@ -65,12 +65,12 @@
       "answer": "invade",
       "answer_letters": "INVADE",
       "indices": [
-        110,
-        134,
-        78,
+        111,
+        137,
+        79,
         32,
-        90,
-        133
+        91,
+        136
       ]
     },
     {
@@ -78,14 +78,14 @@
       "answer": "anchored",
       "answer_letters": "ANCHORED",
       "indices": [
-        145,
-        128,
-        121,
-        152,
-        116,
-        124,
-        111,
-        164
+        148,
+        130,
+        123,
+        155,
+        118,
+        126,
+        112,
+        167
       ]
     },
     {
@@ -94,11 +94,11 @@
       "answer_letters": "MURPHY",
       "indices": [
         65,
-        123,
+        125,
         14,
         6,
-        99,
-        153
+        100,
+        156
       ]
     },
     {
@@ -108,10 +108,10 @@
       "indices": [
         44,
         75,
-        155,
-        130,
-        76,
-        144,
+        158,
+        132,
+        77,
+        147,
         49
       ]
     },
@@ -122,11 +122,11 @@
       "indices": [
         42,
         16,
-        82,
+        83,
         52,
-        102,
-        166,
-        79
+        103,
+        169,
+        80
       ]
     },
     {
@@ -135,14 +135,14 @@
       "answer_letters": "TORNADOES",
       "indices": [
         71,
-        95,
+        96,
         72,
-        148,
-        139,
+        151,
+        142,
         10,
         45,
-        100,
-        103
+        101,
+        104
       ]
     },
     {
@@ -150,10 +150,10 @@
       "answer": "thrash",
       "answer_letters": "THRASH",
       "indices": [
-        131,
+        134,
         50,
         8,
-        92,
+        93,
         5,
         63
       ]
@@ -164,14 +164,14 @@
       "answer_letters": "EQUITABLE",
       "indices": [
         9,
-        108,
         109,
-        136,
-        112,
+        110,
+        139,
+        113,
         39,
         23,
-        87,
-        149
+        88,
+        152
       ]
     },
     {
@@ -181,10 +181,10 @@
       "indices": [
         25,
         15,
-        156,
-        104,
+        159,
+        105,
         4,
-        126
+        128
       ]
     },
     {
@@ -193,8 +193,8 @@
       "answer_letters": "JULIET",
       "indices": [
         31,
-        162,
-        113,
+        165,
+        114,
         55,
         21,
         19
@@ -205,11 +205,11 @@
       "answer": "antony",
       "answer_letters": "ANTONY",
       "indices": [
-        77,
-        115,
+        78,
+        117,
         28,
-        129,
-        165,
+        131,
+        168,
         37
       ]
     },
@@ -219,9 +219,9 @@
       "answer_letters": "COOKIE",
       "indices": [
         13,
-        161,
+        164,
         29,
-        85,
+        86,
         0,
         58
       ]
@@ -232,11 +232,11 @@
       "answer_letters": "KELLEY",
       "indices": [
         34,
-        97,
+        98,
         53,
         60,
         47,
-        94
+        95
       ]
     },
     {
@@ -247,7 +247,7 @@
         35,
         62,
         20,
-        88,
+        89,
         7,
         57,
         64,
@@ -260,12 +260,12 @@
       "answer_letters": "BONUSES",
       "indices": [
         36,
-        122,
-        93,
-        83,
+        124,
+        94,
+        84,
         46,
         69,
-        125
+        127
       ]
     },
     {
@@ -273,9 +273,9 @@
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
-        114,
-        118,
-        157,
+        115,
+        120,
+        160,
         74,
         3,
         26

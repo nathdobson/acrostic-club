@@ -1,6 +1,6 @@
 {
   "quote": "I guess I'll wake up tomorrow and find I'm not in Kansas anymore.\"\"You're from Kansas?\" Most of Kansas was not a lion fae territory. She'd heard the cobra fae loved to go there, however.",
-  "quote_letters": "I GUESS ILL WAKE UP TOMORROW AND FIND IM NOT IN KANSAS ANYMOREYOURE FROM KANSAS MOST OF KANSAS WAS NOT A LION FAE TERRITORY SHED HEARD THE COBRA FAE LOVED TO GO THERE HOWEVER",
+  "quote_letters": "I GUESS ILL WAKE UP TOMORROW AND FIND IM NOT IN KANSAS ANYMORE YOURE FROM KANSAS MOST OF KANSAS WAS NOT A LION FAE TERRITORY SHED HEARD THE COBRA FAE LOVED TO GO THERE HOWEVER",
   "source": "Terry Spear, Dragon Fae",
   "source_letters": "TERRYSPEARDRAGONFAE",
   "clues": [
@@ -9,15 +9,15 @@
       "answer": "takahashi",
       "answer_letters": "TAKAHASHI",
       "indices": [
-        83,
-        131,
+        84,
+        132,
         48,
-        103,
-        162,
+        104,
+        163,
         49,
-        124,
-        167,
-        106
+        125,
+        168,
+        107
       ]
     },
     {
@@ -25,14 +25,14 @@
       "answer": "enormous",
       "answer_letters": "ENORMOUS",
       "indices": [
-        112,
-        75,
-        156,
-        173,
+        113,
+        76,
+        157,
+        174,
         39,
         42,
-        64,
-        97
+        65,
+        98
       ]
     },
     {
@@ -40,12 +40,12 @@
       "answer": "revoked",
       "answer_letters": "REVOKED",
       "indices": [
-        117,
-        147,
-        151,
-        120,
-        73,
-        115,
+        118,
+        148,
+        152,
+        121,
+        74,
+        116,
         36
       ]
     },
@@ -56,8 +56,8 @@
       "indices": [
         24,
         21,
-        70,
-        88,
+        71,
+        89,
         38,
         61
       ]
@@ -67,7 +67,7 @@
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [
-        62,
+        63,
         3,
         56,
         50,
@@ -80,12 +80,12 @@
       "answer": "seasons",
       "answer_letters": "SEASONS",
       "indices": [
-        78,
+        79,
         4,
-        96,
-        91,
+        97,
+        92,
         59,
-        99,
+        100,
         5
       ]
     },
@@ -95,12 +95,12 @@
       "answer_letters": "POTATOES",
       "indices": [
         18,
-        150,
-        101,
-        89,
-        114,
-        81,
-        152,
+        151,
+        102,
+        90,
+        115,
+        82,
+        153,
         53
       ]
     },
@@ -109,12 +109,12 @@
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
-        170,
+        171,
         33,
-        110,
-        140,
-        132,
-        119,
+        111,
+        141,
+        133,
+        120,
         51
       ]
     },
@@ -123,13 +123,13 @@
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
-        74,
+        75,
         27,
         14,
         12,
-        111,
-        164,
-        153
+        112,
+        165,
+        154
       ]
     },
     {
@@ -137,12 +137,12 @@
       "answer": "rooney",
       "answer_letters": "ROONEY",
       "indices": [
-        65,
-        63,
-        85,
+        66,
+        64,
+        86,
         30,
-        137,
-        122
+        138,
+        123
       ]
     },
     {
@@ -150,12 +150,12 @@
       "answer": "donate",
       "answer_letters": "DONATE",
       "indices": [
-        127,
+        128,
         23,
-        90,
-        77,
-        161,
-        126
+        91,
+        78,
+        162,
+        127
       ]
     },
     {
@@ -163,13 +163,13 @@
       "answer": "rematch",
       "answer_letters": "REMATCH",
       "indices": [
-        121,
-        66,
+        122,
+        67,
         22,
-        146,
+        147,
         43,
-        139,
-        129
+        140,
+        130
       ]
     },
     {
@@ -179,11 +179,11 @@
       "indices": [
         29,
         6,
-        76,
+        77,
         17,
-        71,
-        130,
-        93
+        72,
+        131,
+        94
       ]
     },
     {
@@ -192,11 +192,11 @@
       "answer_letters": "GLORIA",
       "indices": [
         2,
-        105,
-        168,
-        69,
+        106,
+        169,
+        70,
         8,
-        92
+        93
       ]
     },
     {
@@ -204,18 +204,18 @@
       "answer": "overwhelmingly",
       "answer_letters": "OVERWHELMINGLY",
       "indices": [
-        159,
-        171,
-        163,
-        25,
-        95,
-        125,
+        160,
         172,
+        164,
+        25,
+        96,
+        126,
+        173,
         9,
-        80,
-        118,
+        81,
+        119,
         46,
-        158,
+        159,
         10,
         57
       ]
@@ -225,12 +225,12 @@
       "answer": "northward",
       "answer_letters": "NORTHWARD",
       "indices": [
+        109,
         108,
-        107,
-        142,
-        135,
+        143,
         136,
-        169,
+        137,
+        170,
         52,
         60,
         31
@@ -241,12 +241,12 @@
       "answer": "failed",
       "answer_letters": "FAILED",
       "indices": [
-        145,
-        143,
+        146,
+        144,
         45,
-        149,
-        165,
-        133
+        150,
+        166,
+        134
       ]
     },
     {
@@ -256,13 +256,13 @@
       "indices": [
         55,
         58,
-        141,
+        142,
         34,
         20,
         0,
-        100,
+        101,
         41,
-        82
+        83
       ]
     },
     {
@@ -271,11 +271,11 @@
       "answer_letters": "EFFORT",
       "indices": [
         15,
-        86,
-        68,
+        87,
+        69,
         26,
-        116,
-        155
+        117,
+        156
       ]
     }
   ],

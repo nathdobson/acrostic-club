@@ -1,6 +1,6 @@
 {
   "quote": "Is there ever a time you’re not an arrogant bastard?”“Is there ever a time you’re not a difficult bitch?”“No.”“Then I guess that makes us perfectly matched, now doesn’t it?",
-  "quote_letters": "IS THERE EVER A TIME YOURE NOT AN ARROGANT BASTARDIS THERE EVER A TIME YOURE NOT A DIFFICULT BITCHNOTHEN I GUESS THAT MAKES US PERFECTLY MATCHED NOW DOESNT IT",
+  "quote_letters": "IS THERE EVER A TIME YOURE NOT AN ARROGANT BASTARD IS THERE EVER A TIME YOURE NOT A DIFFICULT BITCH NO THEN I GUESS THAT MAKES US PERFECTLY MATCHED NOW DOESNT IT",
   "source": "G.A. Aiken, About a Dragon",
   "source_letters": "GAAIKENABOUTADRAGON",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "gustaf",
       "answer_letters": "GUSTAF",
       "indices": [
-        107,
-        73,
+        110,
+        74,
+        125,
+        67,
         122,
-        66,
-        119,
-        86
+        87
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        81,
-        77,
+        82,
+        78,
         21,
-        147,
-        115,
-        71
+        150,
+        118,
+        72
       ]
     },
     {
@@ -36,11 +36,11 @@
       "answer_letters": "ATTIRE",
       "indices": [
         39,
-        91,
-        133,
-        87,
+        92,
+        136,
+        88,
         24,
-        69
+        70
       ]
     },
     {
@@ -48,13 +48,13 @@
       "answer": "inherent",
       "answer_letters": "INHERENT",
       "indices": [
-        94,
-        103,
-        101,
-        57,
+        95,
+        106,
+        104,
+        58,
         48,
-        131,
-        153,
+        134,
+        156,
         41
       ]
     },
@@ -63,12 +63,12 @@
       "answer": "kosovo",
       "answer_letters": "KOSOVO",
       "indices": [
-        120,
+        123,
         22,
-        152,
-        99,
-        60,
-        78
+        155,
+        101,
+        61,
+        79
       ]
     },
     {
@@ -76,13 +76,13 @@
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
+        56,
+        130,
+        159,
+        119,
         55,
-        127,
-        156,
-        116,
-        54,
         5,
-        100
+        103
       ]
     },
     {
@@ -91,11 +91,11 @@
       "answer_letters": "NUTRIENT",
       "indices": [
         32,
-        108,
-        79,
-        74,
-        50,
-        59,
+        111,
+        80,
+        75,
+        51,
+        60,
         27,
         16
       ]
@@ -107,13 +107,13 @@
       "indices": [
         31,
         49,
-        97,
+        98,
         25,
-        62,
+        63,
         19,
         40,
         29,
-        125
+        128
       ]
     },
     {
@@ -121,13 +121,13 @@
       "answer": "boycott",
       "answer_letters": "BOYCOTT",
       "indices": [
-        93,
+        94,
         28,
-        135,
-        88,
-        146,
+        138,
+        89,
+        149,
         46,
-        95
+        96
       ]
     },
     {
@@ -135,8 +135,8 @@
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
-        150,
-        143,
+        153,
+        146,
         17,
         45,
         4,
@@ -148,14 +148,14 @@
       "answer": "universe",
       "answer_letters": "UNIVERSE",
       "indices": [
-        89,
-        98,
-        105,
+        90,
+        100,
+        108,
         10,
         11,
         35,
         1,
-        102
+        105
       ]
     },
     {
@@ -165,12 +165,12 @@
       "indices": [
         3,
         0,
+        140,
+        112,
+        113,
         137,
-        109,
-        110,
-        134,
         37,
-        157
+        160
       ]
     },
     {
@@ -179,12 +179,12 @@
       "answer_letters": "ALMEIDA",
       "indices": [
         44,
-        90,
+        91,
         18,
-        151,
+        154,
+        85,
         84,
-        83,
-        64
+        65
       ]
     },
     {
@@ -192,12 +192,12 @@
       "answer": "desert",
       "answer_letters": "DESERT",
       "indices": [
-        149,
-        142,
-        111,
+        152,
+        145,
+        114,
         7,
-        56,
-        154
+        57,
+        157
       ]
     },
     {
@@ -206,12 +206,12 @@
       "answer_letters": "REMATCH",
       "indices": [
         36,
-        75,
-        118,
-        138,
-        53,
-        140,
-        114
+        76,
+        121,
+        141,
+        54,
+        143,
+        117
       ]
     },
     {
@@ -220,11 +220,11 @@
       "answer_letters": "ATTACH",
       "indices": [
         34,
-        113,
-        139,
+        116,
+        142,
         47,
-        96,
-        141
+        97,
+        144
       ]
     },
     {
@@ -233,11 +233,11 @@
       "answer_letters": "GUERRE",
       "indices": [
         38,
-        124,
-        61,
+        127,
+        62,
         6,
-        129,
-        128
+        132,
+        131
       ]
     },
     {
@@ -245,11 +245,11 @@
       "answer": "office",
       "answer_letters": "OFFICE",
       "indices": [
-        72,
-        85,
-        130,
-        67,
-        132,
+        73,
+        86,
+        133,
+        68,
+        135,
         9
       ]
     },
@@ -258,13 +258,13 @@
       "answer": "numbers",
       "answer_letters": "NUMBERS",
       "indices": [
-        145,
+        148,
         23,
-        68,
+        69,
         43,
-        121,
+        124,
         12,
-        51
+        52
       ]
     }
   ],

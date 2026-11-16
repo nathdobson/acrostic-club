@@ -1,6 +1,6 @@
 {
   "quote": "I don't need you by my side. But I want you there. Very much want you there. That, I think, saysmore. Means more.\"He took the hand she held out to him. \"We'll go down. James should be here soon",
-  "quote_letters": "I DONT NEED YOU BY MY SIDE BUT I WANT YOU THERE VERY MUCH WANT YOU THERE THAT I THINK SAYSMORE MEANS MOREHE TOOK THE HAND SHE HELD OUT TO HIM WELL GO DOWN JAMES SHOULD BE HERE SOON",
+  "quote_letters": "I DONT NEED YOU BY MY SIDE BUT I WANT YOU THERE VERY MUCH WANT YOU THERE THAT I THINK SAYSMORE MEANS MORE HE TOOK THE HAND SHE HELD OUT TO HIM WELL GO DOWN JAMES SHOULD BE HERE SOON",
   "source": "Nora Roberts, The Villa",
   "source_letters": "NORAROBERTSTHEVILLA",
   "clues": [
@@ -9,20 +9,20 @@
       "answer": "neighbourhoods",
       "answer_letters": "NEIGHBOURHOODS",
       "indices": [
-        119,
-        158,
+        120,
+        159,
         23,
-        147,
+        148,
         81,
         27,
-        177,
-        132,
+        178,
+        133,
         103,
-        123,
-        151,
-        148,
+        124,
+        152,
+        149,
         24,
-        176
+        177
       ]
     },
     {
@@ -32,11 +32,11 @@
       "indices": [
         64,
         28,
-        113,
-        145,
+        114,
+        146,
         59,
-        142,
-        161
+        143,
+        162
       ]
     },
     {
@@ -44,10 +44,10 @@
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
-        173,
-        114,
+        174,
+        115,
         88,
-        108,
+        109,
         74,
         90,
         0,
@@ -60,11 +60,11 @@
       "answer_letters": "AMBUSHED",
       "indices": [
         87,
-        140,
-        168,
+        141,
+        169,
         54,
         22,
-        105,
+        106,
         25,
         2
       ]
@@ -78,9 +78,9 @@
         68,
         12,
         80,
-        138,
+        139,
         53,
-        122
+        123
       ]
     },
     {
@@ -88,12 +88,12 @@
       "answer": "one-story",
       "answer_letters": "ONESTORY",
       "indices": [
-        178,
+        179,
         98,
-        124,
-        159,
+        125,
+        160,
         67,
-        131,
+        132,
         50,
         17
       ]
@@ -105,9 +105,9 @@
       "indices": [
         16,
         65,
-        150,
-        166,
-        162,
+        151,
+        167,
+        163,
         34
       ]
     },
@@ -118,13 +118,13 @@
       "indices": [
         71,
         83,
-        155,
+        156,
         3,
         51,
         95,
-        115,
-        153,
-        133
+        116,
+        154,
+        134
       ]
     },
     {
@@ -137,9 +137,9 @@
         14,
         35,
         78,
-        135,
+        136,
         44,
-        120
+        121
       ]
     },
     {
@@ -149,11 +149,11 @@
       "indices": [
         42,
         33,
-        174,
-        169,
+        175,
+        170,
         29,
-        127,
-        129
+        128,
+        130
       ]
     },
     {
@@ -162,12 +162,12 @@
       "answer_letters": "SOMEHOW",
       "indices": [
         99,
-        136,
+        137,
         19,
         96,
         43,
-        109,
-        152
+        110,
+        153
       ]
     },
     {
@@ -176,11 +176,11 @@
       "answer_letters": "TIMOTHY",
       "indices": [
         36,
-        139,
-        157,
+        140,
+        158,
         13,
         5,
-        171,
+        172,
         38
       ]
     },
@@ -189,11 +189,11 @@
       "answer": "hooked",
       "answer_letters": "HOOKED",
       "indices": [
-        117,
-        110,
-        163,
+        118,
         111,
-        172,
+        164,
+        112,
+        173,
         10
       ]
     },
@@ -203,7 +203,7 @@
       "answer_letters": "EUREKA",
       "indices": [
         93,
-        164,
+        165,
         92,
         9,
         84,
@@ -216,8 +216,8 @@
       "answer_letters": "VENETO",
       "indices": [
         48,
-        106,
-        179,
+        107,
+        180,
         49,
         61,
         39
@@ -234,7 +234,7 @@
         102,
         40,
         89,
-        143
+        144
       ]
     },
     {
@@ -242,12 +242,12 @@
       "answer": "lethal",
       "answer_letters": "LETHAL",
       "indices": [
-        165,
+        166,
         8,
         76,
-        126,
-        156,
-        144
+        127,
+        157,
+        145
       ]
     },
     {
@@ -255,7 +255,7 @@
       "answer": "limestone",
       "answer_letters": "LIMESTONE",
       "indices": [
-        128,
+        129,
         82,
         101,
         69,
@@ -275,7 +275,7 @@
         4,
         63,
         58,
-        118,
+        119,
         20
       ]
     }

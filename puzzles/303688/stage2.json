@@ -1,6 +1,6 @@
 {
   "quote": "No matter what her father wanted, no way was Clara going to partner up with Light Walker. He'd suggested a tarantula for a snack, for heaven's sake.\tThe were never, ever, ever going to work together.",
-  "quote_letters": "NO MATTER WHAT HER FATHER WANTED NO WAY WAS CLARA GOING TO PARTNER UP WITH LIGHT WALKER HED SUGGESTED A TARANTULA FOR A SNACK FOR HEAVENS SAKETHE WERE NEVER EVER EVER GOING TO WORK TOGETHER",
+  "quote_letters": "NO MATTER WHAT HER FATHER WANTED NO WAY WAS CLARA GOING TO PARTNER UP WITH LIGHT WALKER HED SUGGESTED A TARANTULA FOR A SNACK FOR HEAVENS SAKE THE WERE NEVER EVER EVER GOING TO WORK TOGETHER",
   "source": "Dana Marton, Flash Fire",
   "source_letters": "DANAMARTONFLASHFIRE",
   "clues": [
@@ -13,7 +13,7 @@
         105,
         128,
         140,
-        159,
+        160,
         24
       ]
     },
@@ -23,11 +23,11 @@
       "answer_letters": "AVATAR",
       "indices": [
         46,
-        153,
+        154,
         12,
         104,
         112,
-        160
+        161
       ]
     },
     {
@@ -36,10 +36,10 @@
       "answer_letters": "NORTHWEST",
       "indices": [
         53,
-        168,
-        165,
+        169,
+        166,
         62,
-        186,
+        187,
         81,
         134,
         136,
@@ -52,12 +52,12 @@
       "answer_letters": "AVERAGES",
       "indices": [
         27,
-        158,
+        159,
         64,
         8,
         82,
-        171,
-        149,
+        172,
+        150,
         120
       ]
     },
@@ -81,14 +81,14 @@
       "answer_letters": "AGGREGATE",
       "indices": [
         118,
-        167,
+        168,
         50,
         65,
         7,
-        183,
+        184,
         139,
-        142,
-        184
+        143,
+        185
       ]
     },
     {
@@ -97,12 +97,12 @@
       "answer_letters": "REPEATEDLY",
       "indices": [
         61,
-        164,
+        165,
         68,
-        157,
+        158,
         102,
         56,
-        152,
+        153,
         31,
         111,
         38
@@ -113,13 +113,13 @@
       "answer": "thought",
       "answer_letters": "THOUGHT",
       "indices": [
-        185,
+        186,
         73,
-        182,
+        183,
         67,
         77,
         130,
-        181
+        182
       ]
     },
     {
@@ -128,14 +128,14 @@
       "answer_letters": "OVERTHROWN",
       "indices": [
         1,
-        163,
+        164,
         96,
-        148,
+        149,
         79,
         78,
-        155,
+        156,
         57,
-        146,
+        147,
         33
       ]
     },
@@ -145,13 +145,13 @@
       "answer_letters": "NEWSWEEK",
       "indices": [
         28,
-        147,
+        148,
         70,
         138,
         26,
-        154,
-        162,
-        179
+        155,
+        163,
+        180
       ]
     },
     {
@@ -163,8 +163,8 @@
         41,
         45,
         44,
-        174,
-        151,
+        175,
+        152,
         42
       ]
     },
@@ -174,11 +174,11 @@
       "answer_letters": "LEFTWING",
       "indices": [
         83,
-        144,
+        145,
         126,
         29,
-        176,
-        169,
+        177,
+        170,
         0,
         95
       ]
@@ -195,8 +195,8 @@
         54,
         30,
         21,
-        143,
-        187,
+        144,
+        188,
         47
       ]
     },
@@ -207,10 +207,10 @@
       "indices": [
         92,
         11,
-        177,
+        178,
         40,
         52,
-        170,
+        171,
         94
       ]
     },
@@ -228,7 +228,7 @@
         127,
         10,
         131,
-        188
+        189
       ]
     },
     {
@@ -268,7 +268,7 @@
       "answer": "rwandan",
       "answer_letters": "RWANDAN",
       "indices": [
-        178,
+        179,
         36,
         107,
         135,
@@ -289,7 +289,7 @@
         86,
         63,
         85,
-        173
+        174
       ]
     }
   ],

@@ -1,6 +1,6 @@
 {
   "quote": "How did you… never mind. I keep forgetting you are a demon and can travel anywhere in the blink of an eye.”,“And don’t you forget it. Anything you desire can be yours in a matter of moments.",
-  "quote_letters": "HOW DID YOU NEVER MIND I KEEP FORGETTING YOU ARE A DEMON AND CAN TRAVEL ANYWHERE IN THE BLINK OF AN EYEAND DONT YOU FORGET IT ANYTHING YOU DESIRE CAN BE YOURS IN A MATTER OF MOMENTS",
+  "quote_letters": "HOW DID YOU NEVER MIND I KEEP FORGETTING YOU ARE A DEMON AND CAN TRAVEL ANYWHERE IN THE BLINK OF AN EYE AND DONT YOU FORGET IT ANYTHING YOU DESIRE CAN BE YOURS IN A MATTER OF MOMENTS",
   "source": "Brynn Myers, Redemption",
   "source_letters": "BRYNNMYERSREDEMPTION",
   "clues": [
@@ -10,11 +10,11 @@
       "answer_letters": "BARONY",
       "indices": [
         88,
-        103,
+        104,
         46,
-        117,
+        118,
         55,
-        135
+        136
       ]
     },
     {
@@ -24,10 +24,10 @@
       "indices": [
         32,
         77,
-        119,
+        120,
         69,
         73,
-        166
+        167
       ]
     },
     {
@@ -36,11 +36,11 @@
       "answer_letters": "YOUTUBE",
       "indices": [
         8,
-        108,
+        109,
         43,
         84,
         10,
-        150,
+        151,
         79
       ]
     },
@@ -49,14 +49,14 @@
       "answer": "non-league",
       "answer_letters": "NONLEAGUE",
       "indices": [
-        109,
+        110,
         9,
         12,
         89,
-        120,
+        121,
         72,
         39,
-        137,
+        138,
         52
       ]
     },
@@ -65,11 +65,11 @@
       "answer": "nominee",
       "answer_letters": "NOMINEE",
       "indices": [
-        148,
+        149,
         54,
         53,
-        123,
-        132,
+        124,
+        133,
         34,
         47
       ]
@@ -79,11 +79,11 @@
       "answer": "maintain",
       "answer_letters": "MAINTAIN",
       "indices": [
-        176,
+        177,
         45,
         81,
         63,
-        129,
+        130,
         62,
         37,
         91
@@ -95,10 +95,10 @@
       "answer_letters": "YUNNAN",
       "indices": [
         74,
-        114,
-        178,
-        104,
-        126,
+        115,
+        179,
+        105,
+        127,
         20
       ]
     },
@@ -107,16 +107,16 @@
       "answer": "everywhere",
       "answer_letters": "EVERYWHERE",
       "indices": [
-        140,
+        141,
         68,
         13,
         78,
-        153,
+        154,
         2,
         0,
         26,
         16,
-        144
+        145
       ]
     },
     {
@@ -124,12 +124,12 @@
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
-        169,
-        130,
-        112,
-        110,
+        170,
+        131,
+        113,
+        111,
         76,
-        164,
+        165,
         23,
         61
       ]
@@ -139,11 +139,11 @@
       "answer": "stationed",
       "answer_letters": "STATIONED",
       "indices": [
-        180,
-        167,
+        181,
+        168,
         57,
         35,
-        159,
+        160,
         1,
         58,
         102,
@@ -155,10 +155,10 @@
       "answer": "remedy",
       "answer_letters": "REMEDY",
       "indices": [
-        156,
+        157,
         86,
-        174,
-        151,
+        175,
+        152,
         6,
         101
       ]
@@ -170,10 +170,10 @@
       "indices": [
         15,
         95,
-        116,
-        177,
-        146,
-        121,
+        117,
+        178,
+        147,
+        122,
         5,
         14,
         100,
@@ -186,10 +186,10 @@
       "answer": "dorado",
       "answer_letters": "DORADO",
       "indices": [
-        105,
-        113,
+        106,
+        114,
         66,
-        162,
+        163,
         21,
         94
       ]
@@ -200,11 +200,11 @@
       "answer_letters": "ESTADIO",
       "indices": [
         27,
-        141,
-        65,
-        165,
-        107,
         142,
+        65,
+        166,
+        108,
+        143,
         42
       ]
     },
@@ -214,11 +214,11 @@
       "answer_letters": "MOUNTED",
       "indices": [
         18,
-        175,
-        155,
-        160,
-        124,
-        168,
+        176,
+        156,
+        161,
+        125,
+        169,
         4
       ]
     },
@@ -229,11 +229,11 @@
       "indices": [
         28,
         67,
-        143,
+        144,
         92,
         75,
-        147,
-        128
+        148,
+        129
       ]
     },
     {
@@ -241,12 +241,12 @@
       "answer": "thanks",
       "answer_letters": "THANKS",
       "indices": [
-        179,
+        180,
         85,
         49,
         82,
         25,
-        157
+        158
       ]
     },
     {
@@ -254,12 +254,12 @@
       "answer": "indigo",
       "answer_letters": "INDIGO",
       "indices": [
-        131,
-        127,
-        139,
+        132,
+        128,
+        140,
         90,
-        133,
-        136
+        134,
+        137
       ]
     },
     {
@@ -267,10 +267,10 @@
       "answer": "off-road",
       "answer_letters": "OFFROAD",
       "indices": [
-        171,
-        30,
         172,
-        118,
+        30,
+        173,
+        119,
         31,
         97,
         51
@@ -282,7 +282,7 @@
       "answer_letters": "NOTING",
       "indices": [
         98,
-        154,
+        155,
         36,
         19,
         38,

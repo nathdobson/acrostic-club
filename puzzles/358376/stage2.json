@@ -1,6 +1,6 @@
 {
   "quote": "Gorgeous,” he murmured.She chuckled. “Think you’l say that in five months or so? When I waddle like a duck and you have to tie my shoes for me?”“I’l say it then and forever.",
-  "quote_letters": "GORGEOUS HE MURMUREDSHE CHUCKLED THINK YOUL SAY THAT IN FIVE MONTHS OR SO WHEN I WADDLE LIKE A DUCK AND YOU HAVE TO TIE MY SHOES FOR MEIL SAY IT THEN AND FOREVER",
+  "quote_letters": "GORGEOUS HE MURMURED SHE CHUCKLED THINK YOUL SAY THAT IN FIVE MONTHS OR SO WHEN I WADDLE LIKE A DUCK AND YOU HAVE TO TIE MY SHOES FOR ME IL SAY IT THEN AND FOREVER",
   "source": "Cherrie Lynn, Unleashed",
   "source_letters": "CHERRIELYNNUNLEASHED",
   "clues": [
@@ -9,13 +9,13 @@
       "answer": "consult",
       "answer_letters": "CONSULT",
       "indices": [
-        24,
+        25,
+        73,
+        150,
         72,
-        148,
-        71,
-        41,
-        88,
-        145
+        42,
+        89,
+        147
       ]
     },
     {
@@ -23,13 +23,13 @@
       "answer": "halfway",
       "answer_letters": "HALFWAY",
       "indices": [
-        65,
-        93,
-        85,
-        129,
-        81,
+        66,
+        94,
+        86,
+        130,
         82,
-        140
+        83,
+        142
       ]
     },
     {
@@ -37,12 +37,12 @@
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
-        91,
+        92,
+        137,
+        65,
+        26,
         135,
-        64,
-        25,
-        134,
-        69
+        70
       ]
     },
     {
@@ -52,9 +52,9 @@
       "indices": [
         17,
         13,
-        20,
         21,
-        147,
+        22,
+        149,
         7
       ]
     },
@@ -64,11 +64,11 @@
       "answer_letters": "ROSTER",
       "indices": [
         14,
-        125,
-        44,
-        143,
-        157,
-        160
+        126,
+        45,
+        145,
+        159,
+        162
       ]
     },
     {
@@ -76,12 +76,12 @@
       "answer": "immune",
       "answer_letters": "IMMUNE",
       "indices": [
-        35,
+        36,
         12,
         15,
         6,
-        77,
-        59
+        78,
+        60
       ]
     },
     {
@@ -89,12 +89,12 @@
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
-        126,
-        154,
-        56,
+        127,
+        156,
+        57,
         4,
-        27,
-        116
+        28,
+        117
       ]
     },
     {
@@ -102,13 +102,13 @@
       "answer": "lookout",
       "answer_letters": "LOOKOUT",
       "indices": [
-        42,
-        40,
-        68,
-        28,
+        43,
+        41,
+        69,
+        29,
         1,
-        106,
-        48
+        107,
+        49
       ]
     },
     {
@@ -116,12 +116,12 @@
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
-        39,
+        40,
         5,
         16,
-        113,
-        34,
-        138
+        114,
+        35,
+        140
       ]
     },
     {
@@ -129,12 +129,12 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        101,
-        79,
+        102,
+        80,
         0,
-        49,
-        33,
-        123
+        50,
+        34,
+        124
       ]
     },
     {
@@ -142,12 +142,12 @@
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
-        151,
-        111,
-        74,
-        150,
+        153,
+        112,
+        75,
+        152,
         2,
-        90
+        91
       ]
     },
     {
@@ -155,12 +155,12 @@
       "answer": "umayyad",
       "answer_letters": "UMAYYAD",
       "indices": [
-        26,
-        61,
-        109,
-        46,
-        121,
-        50,
+        27,
+        62,
+        110,
+        47,
+        122,
+        51,
         19
       ]
     },
@@ -169,13 +169,13 @@
       "answer": "neither",
       "answer_letters": "NEITHER",
       "indices": [
-        54,
-        76,
-        142,
-        51,
-        108,
-        30,
-        156
+        55,
+        77,
+        144,
+        52,
+        109,
+        31,
+        158
       ]
     },
     {
@@ -183,12 +183,12 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        29,
-        118,
+        30,
+        119,
         9,
-        53,
+        54,
         3,
-        146
+        148
       ]
     },
     {
@@ -197,11 +197,11 @@
       "answer_letters": "EDMUND",
       "indices": [
         18,
-        84,
-        120,
-        96,
-        63,
-        152
+        85,
+        121,
+        97,
+        64,
+        154
       ]
     },
     {
@@ -209,13 +209,13 @@
       "answer": "avoided",
       "answer_letters": "AVOIDED",
       "indices": [
-        100,
+        101,
+        59,
+        63,
         58,
-        62,
-        57,
-        31,
-        86,
-        95
+        32,
+        87,
+        96
       ]
     },
     {
@@ -223,12 +223,12 @@
       "answer": "shores",
       "answer_letters": "SHORES",
       "indices": [
-        66,
-        75,
-        155,
-        131,
-        22,
-        127
+        67,
+        76,
+        157,
+        132,
+        23,
+        128
       ]
     },
     {
@@ -236,14 +236,14 @@
       "answer": "hokkaido",
       "answer_letters": "HOKKAIDO",
       "indices": [
-        124,
-        105,
-        37,
-        98,
-        45,
-        89,
-        102,
-        130
+        125,
+        106,
+        38,
+        99,
+        46,
+        90,
+        103,
+        131
       ]
     },
     {
@@ -252,11 +252,11 @@
       "answer_letters": "EVOLVE",
       "indices": [
         10,
-        158,
-        114,
-        136,
-        110,
-        159
+        160,
+        115,
+        138,
+        111,
+        161
       ]
     },
     {
@@ -264,13 +264,13 @@
       "answer": "dynamic",
       "answer_letters": "DYNAMIC",
       "indices": [
-        83,
-        104,
-        36,
-        139,
-        133,
-        117,
-        97
+        84,
+        105,
+        37,
+        141,
+        134,
+        118,
+        98
       ]
     }
   ],

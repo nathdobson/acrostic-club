@@ -1,6 +1,6 @@
 {
   "quote": "...Right now there's a pair of bad cops on their way out here to shoot me.\"\"You don't know that.\"\"Yeah, you're right,\" Stranahan said. \"They're probably just collecting Toys for Tots. Now go.",
-  "quote_letters": "RIGHT NOW THERES A PAIR OF BAD COPS ON THEIR WAY OUT HERE TO SHOOT MEYOU DONT KNOW THATYEAH YOURE RIGHT STRANAHAN SAID THEYRE PROBABLY JUST COLLECTING TOYS FOR TOTS NOW GO",
+  "quote_letters": "RIGHT NOW THERES A PAIR OF BAD COPS ON THEIR WAY OUT HERE TO SHOOT ME YOU DONT KNOW THAT YEAH YOURE RIGHT STRANAHAN SAID THEYRE PROBABLY JUST COLLECTING TOYS FOR TOTS NOW GO",
   "source": "Carl Hiaasen, Sick Puppy",
   "source_letters": "CARLHIAASENSICKPUPPY",
   "clues": [
@@ -11,10 +11,10 @@
       "indices": [
         31,
         63,
-        127,
-        162,
-        88,
-        137
+        129,
+        164,
+        90,
+        139
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
-        85,
-        75,
-        133,
-        167,
+        86,
+        76,
+        135,
+        169,
         20,
-        122
+        124
       ]
     },
     {
@@ -35,11 +35,11 @@
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
-        106,
-        110,
+        108,
+        112,
         47,
-        151,
-        120,
+        153,
+        122,
         67
       ]
     },
@@ -48,12 +48,12 @@
       "answer": "lagoon",
       "answer_letters": "LAGOON",
       "indices": [
-        132,
+        134,
         17,
         2,
-        152,
+        154,
         7,
-        148
+        150
       ]
     },
     {
@@ -62,11 +62,11 @@
       "answer_letters": "HOBART",
       "indices": [
         40,
-        80,
-        129,
-        130,
-        95,
-        105
+        81,
+        131,
+        132,
+        97,
+        107
       ]
     },
     {
@@ -74,12 +74,12 @@
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
-        147,
-        79,
-        135,
-        136,
+        149,
+        80,
+        137,
+        138,
         0,
-        153
+        155
       ]
     },
     {
@@ -87,12 +87,12 @@
       "answer": "agreed",
       "answer_letters": "AGREED",
       "indices": [
-        89,
-        100,
+        91,
+        102,
         13,
-        96,
+        98,
         56,
-        73
+        74
       ]
     },
     {
@@ -100,10 +100,10 @@
       "answer": "acetate",
       "answer_letters": "ACETATE",
       "indices": [
-        107,
-        140,
-        144,
-        119,
+        109,
+        142,
+        146,
+        121,
         46,
         51,
         54
@@ -114,13 +114,13 @@
       "answer": "shootout",
       "answer_letters": "SHOOTOUT",
       "indices": [
-        154,
+        156,
         11,
-        70,
-        49,
-        146,
-        93,
         71,
+        49,
+        148,
+        95,
+        72,
         4
       ]
     },
@@ -131,10 +131,10 @@
       "indices": [
         68,
         25,
-        156,
-        170,
         158,
+        172,
         160,
+        162,
         15
       ]
     },
@@ -146,11 +146,11 @@
         37,
         14,
         1,
-        169,
-        84,
-        131,
+        171,
+        85,
+        133,
         64,
-        94,
+        96,
         22
       ]
     },
@@ -159,14 +159,14 @@
       "answer": "statehood",
       "answer_letters": "STATEHOOD",
       "indices": [
-        114,
-        138,
-        111,
-        83,
-        121,
+        116,
+        140,
+        113,
+        84,
+        123,
         3,
-        128,
-        161,
+        130,
+        163,
         29
       ]
     },
@@ -175,15 +175,15 @@
       "answer": "inhibitor",
       "answer_letters": "INHIBITOR",
       "indices": [
-        116,
-        108,
-        90,
-        99,
+        118,
+        110,
+        92,
+        101,
         27,
         42,
         58,
         36,
-        123
+        125
       ]
     },
     {
@@ -191,12 +191,12 @@
       "answer": "cohort",
       "answer_letters": "COHORT",
       "indices": [
-        145,
+        147,
         32,
         53,
-        74,
-        98,
-        76
+        75,
+        100,
+        77
       ]
     },
     {
@@ -204,14 +204,14 @@
       "answer": "kingston",
       "answer_letters": "KINGSTON",
       "indices": [
-        78,
+        79,
         21,
         6,
-        149,
-        104,
+        151,
+        106,
         65,
         24,
-        165
+        167
       ]
     },
     {
@@ -219,14 +219,14 @@
       "answer": "pathways",
       "answer_letters": "PATHWAYS",
       "indices": [
-        126,
-        115,
-        102,
+        128,
+        117,
+        104,
         62,
         8,
         28,
-        87,
-        163
+        89,
+        165
       ]
     },
     {
@@ -235,13 +235,13 @@
       "answer_letters": "UNDERWAY",
       "indices": [
         50,
-        112,
-        117,
+        114,
+        119,
         41,
         43,
         45,
-        109,
-        92
+        111,
+        94
       ]
     },
     {
@@ -251,7 +251,7 @@
       "indices": [
         33,
         55,
-        141,
+        143,
         39,
         12,
         61,
@@ -264,10 +264,10 @@
       "answer_letters": "PHOTOS",
       "indices": [
         19,
-        101,
+        103,
         59,
-        86,
-        157,
+        87,
+        159,
         34
       ]
     },
@@ -276,12 +276,12 @@
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
-        69,
-        124,
-        142,
-        143,
-        166,
-        81
+        70,
+        126,
+        144,
+        145,
+        168,
+        82
       ]
     }
   ],

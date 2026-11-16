@@ -1,6 +1,6 @@
 {
   "quote": "Fozzie Bear: [holds up a photo of Constantine] Check this out![covers the mole]Walter: Oh, look, it's Kermit![Fozzie uncovers the mole]Walter: [shrieks] What did you do with Kermit?",
-  "quote_letters": "FOZZIE BEAR HOLDS UP A PHOTO OF CONSTANTINE CHECK THIS OUTCOVERS THE MOLEWALTER OH LOOK ITS KERMITFOZZIE UNCOVERS THE MOLEWALTER SHRIEKS WHAT DID YOU DO WITH KERMIT",
+  "quote_letters": "FOZZIE BEAR HOLDS UP A PHOTO OF CONSTANTINE CHECK THIS OUT COVERS THE MOLEWALTER OH LOOK ITS KERMIT FOZZIE UNCOVERS THE MOLEWALTER SHRIEKS WHAT DID YOU DO WITH KERMIT",
   "source": "Muppets Most Wanted (2014)",
   "source_letters": "MUPPETSMOSTWANTED",
   "clues": [
@@ -9,15 +9,15 @@
       "answer": "mackenzie",
       "answer_letters": "MACKENZIE",
       "indices": [
-        118,
-        123,
+        120,
+        125,
         44,
-        92,
-        67,
+        93,
+        68,
         41,
-        101,
-        102,
-        103
+        103,
+        104,
+        105
       ]
     },
     {
@@ -25,12 +25,12 @@
       "answer": "unlike",
       "answer_letters": "UNLIKE",
       "indices": [
-        105,
+        107,
         34,
-        124,
-        154,
-        134,
-        159
+        126,
+        156,
+        136,
+        161
       ]
     },
     {
@@ -39,12 +39,12 @@
       "answer_letters": "PUZZLES",
       "indices": [
         23,
-        148,
+        150,
         3,
-        100,
-        75,
-        77,
-        63
+        102,
+        76,
+        78,
+        64
       ]
     },
     {
@@ -53,14 +53,14 @@
       "answer_letters": "PITCHFORK",
       "indices": [
         19,
-        162,
+        164,
         26,
         47,
-        115,
+        117,
         30,
-        147,
-        160,
-        158
+        149,
+        162,
+        160
       ]
     },
     {
@@ -69,12 +69,12 @@
       "answer_letters": "ELIZABETH",
       "indices": [
         5,
-        83,
+        84,
         52,
         2,
         21,
         7,
-        126,
+        128,
         36,
         24
       ]
@@ -84,13 +84,13 @@
       "answer": "two-hour",
       "answer_letters": "TWOHOUR",
       "indices": [
-        89,
-        137,
-        85,
+        90,
+        139,
+        86,
         45,
         55,
         56,
-        127
+        129
       ]
     },
     {
@@ -99,9 +99,9 @@
       "answer_letters": "SMOOTH",
       "indices": [
         16,
-        69,
+        70,
         27,
-        151,
+        153,
         50,
         51
       ]
@@ -111,9 +111,9 @@
       "answer": "module",
       "answer_letters": "MODULE",
       "indices": [
-        95,
-        84,
-        150,
+        96,
+        85,
+        152,
         18,
         14,
         46
@@ -125,14 +125,14 @@
       "answer_letters": "OVERTHROW",
       "indices": [
         25,
-        109,
+        111,
         8,
-        62,
+        63,
         57,
-        81,
+        82,
         10,
-        108,
-        153
+        110,
+        155
       ]
     },
     {
@@ -141,18 +141,18 @@
       "answer_letters": "SCHOOLTEACHER",
       "indices": [
         35,
-        107,
-        130,
-        99,
+        109,
+        132,
+        101,
         29,
-        120,
-        76,
+        122,
+        77,
         42,
-        74,
+        75,
         32,
-        156,
-        61,
-        111
+        158,
+        62,
+        113
       ]
     },
     {
@@ -160,15 +160,15 @@
       "answer": "theorists",
       "answer_letters": "THEORISTS",
       "indices": [
-        97,
+        98,
         12,
-        116,
-        80,
-        131,
+        118,
+        81,
+        133,
         4,
-        135,
-        155,
-        90
+        137,
+        157,
+        91
       ]
     },
     {
@@ -176,15 +176,15 @@
       "answer": "wiltshire",
       "answer_letters": "WILTSHIRE",
       "indices": [
-        122,
-        132,
-        71,
-        125,
+        124,
+        134,
+        72,
+        127,
         53,
-        138,
+        140,
         40,
-        78,
-        93
+        79,
+        94
       ]
     },
     {
@@ -193,11 +193,11 @@
       "answer_letters": "AVOIDS",
       "indices": [
         37,
-        60,
-        119,
-        96,
+        61,
+        121,
+        97,
         15,
-        112
+        114
       ]
     },
     {
@@ -205,16 +205,16 @@
       "answer": "noteworthy",
       "answer_letters": "NOTEWORTHY",
       "indices": [
-        106,
-        70,
-        140,
-        133,
-        73,
+        108,
+        71,
+        142,
+        135,
+        74,
         33,
-        94,
-        114,
-        66,
-        146
+        95,
+        116,
+        67,
+        148
       ]
     },
     {
@@ -222,13 +222,13 @@
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
-        163,
+        165,
         9,
         48,
-        72,
-        59,
+        73,
+        60,
         0,
-        98
+        100
       ]
     },
     {
@@ -236,14 +236,14 @@
       "answer": "estimation",
       "answer_letters": "ESTIMATION",
       "indices": [
-        121,
-        129,
+        123,
+        131,
         39,
-        143,
-        161,
-        139,
-        65,
-        88,
+        145,
+        163,
+        141,
+        66,
+        89,
         13,
         38
       ]
@@ -253,12 +253,12 @@
       "answer": "docked",
       "answer_letters": "DOCKED",
       "indices": [
-        144,
+        146,
         1,
-        58,
-        86,
-        110,
-        142
+        59,
+        87,
+        112,
+        144
       ]
     }
   ],

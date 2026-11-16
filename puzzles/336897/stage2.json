@@ -1,6 +1,6 @@
 {
   "quote": "I've traveled. All over. I've never seen anything like you. How could anything be put together like you? Do you know how beautiful you are? Have you looked at yourself?''I'm looking now.",
-  "quote_letters": "IVE TRAVELED ALL OVER IVE NEVER SEEN ANYTHING LIKE YOU HOW COULD ANYTHING BE PUT TOGETHER LIKE YOU DO YOU KNOW HOW BEAUTIFUL YOU ARE HAVE YOU LOOKED AT YOURSELFIM LOOKING NOW",
+  "quote_letters": "IVE TRAVELED ALL OVER IVE NEVER SEEN ANYTHING LIKE YOU HOW COULD ANYTHING BE PUT TOGETHER LIKE YOU DO YOU KNOW HOW BEAUTIFUL YOU ARE HAVE YOU LOOKED AT YOURSELF IM LOOKING NOW",
   "source": "Toni Morrison, Paradise",
   "source_letters": "TONIMORRISONPARADISE",
   "clues": [
@@ -29,7 +29,7 @@
         41,
         37,
         140,
-        163
+        164
       ]
     },
     {
@@ -68,7 +68,7 @@
       "answer": "milwaukee",
       "answer_letters": "MILWAUKEE",
       "indices": [
-        161,
+        162,
         22,
         15,
         113,
@@ -84,14 +84,14 @@
       "answer": "overtook",
       "answer_letters": "OVERTOOK",
       "indices": [
-        165,
+        166,
         18,
         136,
         20,
         79,
         153,
         96,
-        166
+        167
       ]
     },
     {
@@ -102,7 +102,7 @@
         5,
         93,
         158,
-        167,
+        168,
         131,
         99
       ]
@@ -126,8 +126,8 @@
       "answer": "involve",
       "answer_letters": "INVOLVE",
       "indices": [
-        160,
-        168,
+        161,
+        169,
         135,
         17,
         46,
@@ -153,7 +153,7 @@
       "answer": "outlook",
       "answer_letters": "OUTLOOK",
       "indices": [
-        172,
+        173,
         78,
         68,
         123,
@@ -225,9 +225,9 @@
       "answer_letters": "ANYWAY",
       "indices": [
         65,
-        171,
+        172,
         95,
-        173,
+        174,
         129,
         102
       ]
@@ -269,7 +269,7 @@
         126,
         82,
         81,
-        164,
+        165,
         127,
         119
       ]
@@ -283,7 +283,7 @@
         35,
         143,
         53,
-        169,
+        170,
         69
       ]
     }
