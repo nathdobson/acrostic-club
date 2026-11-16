@@ -92,7 +92,7 @@ impl Search {
         solution.set_word(index, LetterSet::new());
         let min_len = old.count();
         let mut found = vec![];
-        self.table.tries[self.source[index]].search_smallest_subset(
+        self.table.tries[self.source[index]].search_subsets_with_min_length(
             solution.remainder,
             min_len + 1,
             &mut found,
@@ -101,8 +101,13 @@ impl Search {
             solution.set_word(index, old);
             return false;
         } else {
+            // Rank the words by score per letter, best first, then from shortest to longest. The
+            // sort is stable, so words that tie on both keep their order in the trie.
             found.sort_by_cached_key(|x| {
-                NotNan::new(-(x.scrabble_score() as f64 / x.count() as f64)).unwrap()
+                (
+                    NotNan::new(-(x.scrabble_score() as f64 / x.count() as f64)).unwrap(),
+                    x.count(),
+                )
             });
             let selected = iter::repeat(())
                 .take_while(|()| solution.rng.gen_bool(0.5))

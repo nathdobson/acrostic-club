@@ -105,12 +105,6 @@ impl<V: Clone> FlatTrie<V> {
             }
         }
     }
-    #[inline(never)]
-    pub fn search_smallest_subset(&self, key: LetterSet, min_len: usize, result: &mut Vec<V>) {
-        for len in min_len..=key.count() {
-            self.search_subsets_with_length_in(key, len..=len, result);
-        }
-    }
     // Finds the values of the longest keys that are subsets of `superset` and hold at most
     // `max_length` letters, in trie order.
     pub fn search_largest_subset(
@@ -129,8 +123,7 @@ impl<V: Clone> FlatTrie<V> {
     }
 
     // Finds the values of every key that is a subset of `superset` and holds at least `min_length`
-    // letters, in a single walk of the trie. `search_smallest_subset` returns the same values
-    // grouped from shortest to longest, at the cost of one walk per length.
+    // letters, in trie order.
     pub fn search_subsets_with_min_length(
         &self,
         superset: LetterSet,
