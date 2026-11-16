@@ -43,7 +43,7 @@ impl Word {
         self.weights
             .iter()
             .zip(other.weights.iter())
-            .map(|(x, y)| (*x * *y))
+            .map(|(x, y)| *x * *y)
             .sum::<f32>()
             / (self.length() * other.length())
     }

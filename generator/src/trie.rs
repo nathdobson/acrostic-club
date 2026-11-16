@@ -63,7 +63,7 @@ impl<V: Clone> FlatTrie<V> {
     pub fn as_slice(&self) -> &[FlatTrieEntry<V>] {
         &self.0
     }
-    pub fn view(&self) -> FlatTrieView<V> {
+    pub fn view(&self) -> FlatTrieView<'_, V> {
         match &self.0.split_first() {
             None => FlatTrieView::Empty,
             Some((FlatTrieEntry::Leaf { key, value }, remainder)) => FlatTrieView::Leaf {
