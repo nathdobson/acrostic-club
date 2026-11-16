@@ -132,16 +132,11 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
             .expect("each puzzle should have a stage0.json");
         let stored_puzzle: Puzzle =
             serde_json::from_str(&stage0).expect("stage0.json should parse");
-        // Committed puzzles store each quotation mark escaped as a doubled one.
-        let doubled_mark = "\"\"";
-        let single_mark = "\"";
-        let stored_quote = stored_puzzle.quote.replace(doubled_mark, single_mark);
-        let stored_source = stored_puzzle.source.replace(doubled_mark, single_mark);
         let quote = quotes
             .get(number)
             .unwrap_or_else(|| panic!("puzzle {number} should have a quote in the parsed list"));
-        assert_eq!(quote.quote, stored_quote, "puzzle {number}");
-        assert_eq!(quote.source, stored_source, "puzzle {number}");
+        assert_eq!(quote.quote, stored_puzzle.quote, "puzzle {number}");
+        assert_eq!(quote.source, stored_puzzle.source, "puzzle {number}");
         checked_puzzle_count += 1;
     }
     assert!(
