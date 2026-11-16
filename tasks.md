@@ -1,5 +1,10 @@
 # Tasks
 
+Keep this file lean, so that it reads at a glance as the queue of open work.
+Usually prune a finished task rather than marking it `[x]`, and keep each entry
+to a sentence or two. Record any context worth keeping somewhere more durable,
+such as a commit message or a code comment.
+
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
 - [ ] **Decide whether to build puzzles for the newly qualifying quotes** —
