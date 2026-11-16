@@ -39,7 +39,7 @@ impl<
         let mut file = option.open(path).await?;
         let mut history = String::new();
         file.read_to_string(&mut history).await?;
-        let mut map = AsyncOnceLockMap::new();
+        let map = AsyncOnceLockMap::new();
         for line in history.lines() {
             let entry: KeyValueEntry<K, V> = serde_json::from_str(line)?;
             let value = entry.value;

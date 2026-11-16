@@ -61,8 +61,7 @@ impl<'a> Parser<'a> {
 
 pub async fn build_quotes() -> io::Result<()> {
     let start = Instant::now();
-    let mut contents =
-        read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
+    let contents = read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
     let mut dec = brotli::Decompressor::new(Cursor::new(&contents), 4096);
     let mut c2 = vec![];
     dec.read_to_end(&mut c2).unwrap();
@@ -150,7 +149,7 @@ pub async fn build_quotes() -> io::Result<()> {
 }
 
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
-    let mut quotes = QUOTES.get().await.clone_error_static()?;
+    let quotes = QUOTES.get().await.clone_error_static()?;
     let quote = &quotes[pindex];
     if !(quote.source.len() >= 23
         && quote.source.len() <= 26

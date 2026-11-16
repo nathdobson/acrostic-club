@@ -1,4 +1,4 @@
-#![allow(unused_variables, unused_mut)]
+#![allow(unused_variables)]
 
 use crate::cluedb::{CLUE_DB, ClueDb};
 use crate::lemma::{LEMMA, Lemma};
@@ -69,7 +69,7 @@ impl ClueClient {
     pub async fn create_clue(&self, answer: &str) -> anyhow::Result<Option<String>> {
         println!("creating clue for `{}`", answer);
         for seed in 0..10 {
-            let mut clues = ClueRequest {
+            let clues = ClueRequest {
                 answer: answer.to_string(),
                 clue_count: 10,
             }

@@ -1,5 +1,4 @@
 #![deny(unused_must_use)]
-#![allow(unused_mut)]
 
 pub mod key_val;
 pub mod watch;
@@ -62,8 +61,8 @@ impl RoomSet {
     pub async fn run_socket(
         &self,
         name: &str,
-        mut tx: SplitSink<WebSocket, Message>,
-        mut rx: SplitStream<WebSocket>,
+        tx: SplitSink<WebSocket, Message>,
+        rx: SplitStream<WebSocket>,
     ) -> Result<()> {
         let room = self.0.lock().entry(name.to_string()).or_default().clone();
         room.run_socket(tx, rx).await?;

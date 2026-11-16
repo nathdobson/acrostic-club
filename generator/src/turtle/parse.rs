@@ -24,7 +24,7 @@ pub async fn parse_file_triples(path: &Path) -> anyhow::Result<Vec<(String, Stri
 
 pub fn parse_triples(data: &str) -> anyhow::Result<Vec<(String, String, String)>> {
     let mut triples = vec![];
-    let mut parser = TurtleParser::new().for_slice(&data.as_bytes());
+    let parser = TurtleParser::new().for_slice(&data.as_bytes());
     for entry in parser {
         let entry = entry?;
         let subject = match &entry.subject {

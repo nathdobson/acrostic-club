@@ -27,7 +27,7 @@ struct PuzzleLink {
 async fn build_index() -> io::Result<()> {
     let mut index = PuzzleIndex { links: vec![] };
     let mut f = vec![];
-    let mut f = &mut f;
+    let f = &mut f;
     writeln!(f, "<!DOCTYPE html>")?;
     writeln!(f, "<html>")?;
     writeln!(f, "<head>")?;
