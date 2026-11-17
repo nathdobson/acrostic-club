@@ -53,3 +53,11 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Merge `restore_vec` and `mmap_bytes`** — the two near-copies panic
       when they can't open or map their file, though both return
       `io::Result`; the merged function could return those errors instead.
+
+## Long-term goals
+
+- [ ] **Make puzzle generation deterministic, reproducible, and hermetic** —
+      puzzle numbers must stay fixed forever, since completion is tracked by
+      number. Anything else about a puzzle, such as the words it solves to,
+      may change through a deliberate breaking change, but never as a side
+      effect of some other change.
