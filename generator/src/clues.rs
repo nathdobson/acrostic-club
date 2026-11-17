@@ -16,8 +16,6 @@ use crate::subseq::longest_subsequence;
 use crate::util::interrupt::CleanupSender;
 use crate::util::lazy_async::CloneError;
 
-static MODEL: &str = "llama3.2:3b";
-// static MODEL: &str = "llama3.3:70b";
 pub struct ClueClient {
     client: Arc<dyn ChatClient>,
     ontology: Arc<Ontology>,
