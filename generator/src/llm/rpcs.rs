@@ -1,4 +1,4 @@
-use crate::llm::MODEL_NAME;
+use crate::llm::DEFAULT_MODEL_NAME;
 use crate::llm::chat_client::ChatClient;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
 use ollama_rs::generation::chat::{ChatMessage, MessageRole};
@@ -26,7 +26,7 @@ impl<Req: Serialize, Resp: JsonSchema + Serialize + for<'de> Deserialize<'de>>
             training: vec![],
             system,
             seed: 123665,
-            model: MODEL_NAME.to_string(),
+            model: DEFAULT_MODEL_NAME.to_string(),
         })
     }
     // Sets the seed for the model's random choices. The model scores every candidate token and

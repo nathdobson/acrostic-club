@@ -18,16 +18,19 @@ use crate::util::lazy_async::CloneError;
 
 pub struct ClueClient {
     client: Arc<dyn ChatClient>,
+    // The Ollama model that writes and checks clues.
+    model: String,
     ontology: Arc<Ontology>,
     lemma: Arc<Lemma>,
     clue_db: Arc<ClueDb>,
 }
 
 impl ClueClient {
-    pub async fn new(cleanup: CleanupSender) -> anyhow::Result<Self> {
+    pub async fn new(cleanup: CleanupSender, model: &str) -> anyhow::Result<Self> {
         let client = new_client(cleanup).await?;
         Ok(ClueClient {
             client,
+            model: model.to_string(),
             ontology: ONTOLOGY.get().await.clone_error_static()?.clone(),
             lemma: LEMMA.get().await.clone_error_static()?.clone(),
             clue_db: CLUE_DB.get().await.clone_error_static()?.clone(),
@@ -71,6 +74,7 @@ impl ClueClient {
             }
             .build()?
             .seed(123455454 + seed)
+            .model(&self.model)
             .send(&*self.client)
             .await?
             .clues;
@@ -95,6 +99,7 @@ impl ClueClient {
                     answer_count: 10,
                 }
                 .build()?
+                .model(&self.model)
                 .send(&*self.client)
                 .await?
                 .answers;

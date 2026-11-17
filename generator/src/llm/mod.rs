@@ -11,7 +11,8 @@ pub mod chat_client;
 pub mod key_value_file;
 pub mod rpcs;
 
-pub const MODEL_NAME: &'static str = "phi4";
+// The Ollama model that answers a request unless the request sets another.
+pub const DEFAULT_MODEL_NAME: &'static str = "phi4";
 pub async fn new_client(cleanup: CleanupSender) -> anyhow::Result<Arc<dyn ChatClient>> {
     let client = BaseClient::new().await?;
     let client =

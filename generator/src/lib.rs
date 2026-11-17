@@ -13,6 +13,7 @@ pub mod add_letters;
 pub mod banned;
 pub mod cluedb;
 pub mod clues;
+pub mod command_line;
 pub mod conflict_set;
 pub mod dict;
 pub mod lemma;

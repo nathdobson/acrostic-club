@@ -1,4 +1,3 @@
-use std::collections::BTreeSet;
 use std::ops::Deref;
 use std::{io, mem};
 
@@ -7,7 +6,9 @@ use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::add_letters::add_letters;
 use acrostic_generator::clues::{ClueClient, add_chat};
+use acrostic_generator::command_line::{PuzzleArguments, parse_puzzle_arguments};
 use acrostic_generator::dict::build_dict;
+use acrostic_generator::llm::DEFAULT_MODEL_NAME;
 use acrostic_generator::maintenance::rebuild_cells::rebuild_cells_in_files;
 use acrostic_generator::quote::{add_quote, build_quotes};
 use acrostic_generator::search::add_answers;
@@ -38,20 +39,21 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
         },
         Some("puzzle") => {
             let target = args.next().unwrap();
-            let mut puzzles = BTreeSet::new();
-            for puzzle in args {
-                if let Some((start, end)) = puzzle.split_once("-") {
-                    for x in start.parse().unwrap()..=end.parse().unwrap() {
-                        puzzles.insert(x);
-                    }
-                } else {
-                    puzzles.insert(puzzle.parse().unwrap());
-                }
+            let PuzzleArguments {
+                puzzle_numbers: puzzles,
+                model,
+            } = parse_puzzle_arguments(args)?;
+            // Only the chat stage asks a language model, so `--model` does nothing elsewhere.
+            if model.is_some() && target != "chat" {
+                anyhow::bail!(
+                    "`puzzle {target}` asks no language model, so `--model` has nothing to choose"
+                );
             }
+            let model = model.as_deref().unwrap_or(DEFAULT_MODEL_NAME);
             // Building the clue client loads the ontology, the lemma list, and the clue database,
             // which only the chat stage reads.
             let client = if target == "chat" {
-                Some(ClueClient::new(cleanup).await?)
+                Some(ClueClient::new(cleanup, model).await?)
             } else {
                 None
             };
