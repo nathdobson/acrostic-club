@@ -11,7 +11,7 @@ use serde::Serialize;
 
 use crate::puzzle::Puzzle;
 use crate::util::lazy_async::CloneError;
-use crate::{PACKAGE_PATH, read_path, read_path_to_string, write_path};
+use crate::{PACKAGE_PATH, error_with_path, read_path, read_path_to_string, write_path};
 // use crate::util::lazy_async::LazyAsync;
 
 // use crate::util::lazy_async::LazyAsync;
@@ -25,9 +25,9 @@ pub struct Quote {
 pub static QUOTES: LazyLock<AsyncLazyLock<JoinTransparent<io::Result<Vec<Quote>>>>> =
     LazyLock::new(|| {
         AsyncLazy::new(spawn_transparent(async {
-            Ok(serde_json::from_str(
-                &read_path_to_string(&PACKAGE_PATH.join("build/quotes.json")).await?,
-            )?)
+            let path = PACKAGE_PATH.join("build/quotes.json");
+            serde_json::from_str(&read_path_to_string(&path).await?)
+                .map_err(error_with_path("parse", &path))
         }))
     });
 
@@ -144,8 +144,10 @@ pub fn parse_pinned_quote_file(compressed: &[u8]) -> io::Result<Vec<Quote>> {
 // Writes the pinned Quotes-500K file's quotes, indexed by puzzle number, to build/quotes.json.
 pub async fn build_quotes() -> io::Result<()> {
     let start = Instant::now();
-    let compressed = read_path(&PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br")).await?;
-    let quotes = parse_pinned_quote_file(&compressed)?;
+    let quote_file = PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br");
+    let compressed = read_path(&quote_file).await?;
+    let quotes =
+        parse_pinned_quote_file(&compressed).map_err(error_with_path("parse", &quote_file))?;
     write_path(
         &PACKAGE_PATH.join("build/quotes.json"),
         serde_json::to_string_pretty(&quotes)?.as_bytes(),

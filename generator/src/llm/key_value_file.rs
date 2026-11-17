@@ -47,7 +47,8 @@ impl<
             .map_err(error_with_path("read", path))?;
         let map = AsyncOnceLockMap::new();
         for line in history.lines() {
-            let entry: KeyValueEntry<K, V> = serde_json::from_str(line)?;
+            let entry: KeyValueEntry<K, V> =
+                serde_json::from_str(line).map_err(error_with_path("parse", path))?;
             let value = entry.value;
             map[&entry.key]
                 .get_or_init(spawn_transparent(async move { Ok(value) }))

@@ -38,11 +38,19 @@ pub static PACKAGE_PATH: LazyLock<PathBuf> = LazyLock::new(|| {
     path
 });
 
-// Returns a function for `map_err` that adds `action` and `path` to an I/O error's message, since
-// the operating system's own message, such as "No such file or directory", names neither. The
-// error keeps its kind, so callers can still match on it.
-pub fn error_with_path(action: &str, path: &Path) -> impl FnOnce(io::Error) -> io::Error {
-    move |error| io::Error::new(error.kind(), format!("Cannot {action} {path:?}: {error}"))
+// Returns a function for `map_err` that replaces an error with a new I/O error whose message adds
+// `action` and `path`, since the original message, such as "No such file or directory", names
+// neither. It accepts any error that converts into an I/O error, such as a JSON parse error. The
+// new error copies the converted error's `io::ErrorKind`, such as `NotFound` or `InvalidData`, so
+// callers can still check `kind()`; the original error survives only as text in the message.
+pub fn error_with_path<E: Into<io::Error>>(
+    action: &str,
+    path: &Path,
+) -> impl FnOnce(E) -> io::Error {
+    move |error| {
+        let error = error.into();
+        io::Error::new(error.kind(), format!("Cannot {action} {path:?}: {error}"))
+    }
 }
 
 pub async fn read_path(path: &Path) -> io::Result<Vec<u8>> {

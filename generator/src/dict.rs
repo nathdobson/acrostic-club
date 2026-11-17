@@ -25,18 +25,24 @@ pub static FLAT_WORDS: LazyLock<PersistentFile<Vec<FlatWordBuilder>>> =
     LazyLock::new(|| PersistentFile::new(&PACKAGE_PATH.join("build/dict.dat")));
 
 pub async fn build_dict() -> io::Result<()> {
-    let contents = read_path_to_string(
-        &PACKAGE_PATH.join("submodules/wikipedia-word-frequency/results/enwiki-2022-08-29.txt"),
-    )
-    .await?;
+    let path =
+        PACKAGE_PATH.join("submodules/wikipedia-word-frequency/results/enwiki-2022-08-29.txt");
+    let contents = read_path_to_string(&path).await?;
 
     let mut words = vec![];
     for line in contents.split("\n") {
         if line.is_empty() {
             continue;
         }
-        let (word, freq) = line.split_once(" ").unwrap();
-        let freq: usize = freq.parse().unwrap();
+        // The line itself shows what's wrong with it, so the error leaves out the parser's reason.
+        let malformed_line_error = || {
+            io::Error::new(
+                io::ErrorKind::InvalidData,
+                format!("Cannot parse {path:?}: expected a word, a space, and a count in {line:?}"),
+            )
+        };
+        let (word, freq) = line.split_once(" ").ok_or_else(malformed_line_error)?;
+        let freq: usize = freq.parse().map_err(|_| malformed_line_error())?;
         let mut letter_vec = Vec::new();
         let mut letters = LetterSet::new();
         for c in any_ascii::any_ascii(&word).chars() {

@@ -83,7 +83,9 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                             if e.downcast_ref::<io::Error>()
                                 .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
                             {
-                                eprintln!("puzzle={} {}", puzzle, e);
+                                // The alternate form prints the error's whole chain of causes,
+                                // where the plain form prints only the outermost context.
+                                eprintln!("puzzle={puzzle} {e:#}");
                                 return Some(e);
                             }
                         } else {

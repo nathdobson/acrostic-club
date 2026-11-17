@@ -66,7 +66,11 @@ pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocato
                 .unwrap_or_else(|error| panic!("Cannot map {filename:?}: {error}"));
             let file = tokio::fs::File::from_std(file);
             assert_eq!(mmap.len() as u64, len);
-            assert_eq!(mmap.len() % size_of::<T>(), 0);
+            assert_eq!(
+                mmap.len() % size_of::<T>(),
+                0,
+                "{filename:?} should hold a whole number of entries"
+            );
             Box::from_raw_in(
                 slice::from_raw_parts_mut(mmap.as_ptr() as *mut T, mmap.len() / size_of::<T>()),
                 MmapAllocator {

@@ -1,5 +1,6 @@
 use crate::util::lazy_async::CloneError;
 use crate::{error_with_path, write_path};
+use anyhow::Context;
 use memmap::{MmapMut, MmapOptions};
 use rkyv::ser::serializers::AllocSerializer;
 use rkyv::validation::validators::DefaultValidator;
@@ -99,7 +100,10 @@ where
             path: path.to_path_buf(),
             value: AsyncLazyLock::new({
                 let path = path.to_path_buf();
-                spawn_transparent(async move { Ok(ArchivedOwned::new(mmap_bytes(&path).await?)?) })
+                spawn_transparent(async move {
+                    ArchivedOwned::new(mmap_bytes(&path).await?)
+                        .with_context(|| format!("Cannot parse {path:?}"))
+                })
             }),
         }
     }

@@ -43,14 +43,12 @@ pub struct Puzzle {
 
 impl Puzzle {
     pub async fn read(index: usize, stage: &str) -> io::Result<Puzzle> {
-        let input = read_path_to_string(
-            &PACKAGE_PATH
-                .join("puzzles")
-                .join(&format!("{}", index))
-                .join(stage),
-        )
-        .await?;
-        Ok(serde_json::from_str(&input)?)
+        let path = PACKAGE_PATH
+            .join("puzzles")
+            .join(&format!("{}", index))
+            .join(stage);
+        let input = read_path_to_string(&path).await?;
+        serde_json::from_str(&input).map_err(error_with_path("parse", &path))
     }
     pub async fn write(&self, index: usize, stage: &str) -> io::Result<()> {
         let dir = PACKAGE_PATH.join("puzzles").join(&format!("{}", index));
