@@ -5,16 +5,53 @@ use std::io;
 
 // A stretch of a quote that is either all letters and digits or all punctuation and
 // whitespace.
-enum Run<'a> {
+enum Run {
     // The cells of a word or a number.
     Word(String),
-    // The punctuation and whitespace between words, each mark in its ASCII form where it
-    // has one.
-    Marks(Vec<&'a str>),
+    // The punctuation and whitespace between words.
+    Marks(Vec<Mark>),
+}
+
+// The kinds of mark that the cell layout tells apart.
+#[derive(Clone, Copy)]
+enum Mark {
+    // Whitespace, which shows as a space.
+    Space,
+    // A dash, which shows as a hyphen.
+    Dash,
+    Dot,
+    Comma,
+    Colon,
+    // An apostrophe, a bracket, or one of the few symbols that can sit inside a word.
+    InsideWord,
+    // Any other punctuation, which shows no cell.
+    Other,
+}
+
+impl Mark {
+    // Classifies a grapheme between words by its ASCII form, or as written when it has none.
+    // Panics on an unrecognized mark, since no cells are defined for it.
+    fn from_grapheme(grapheme: &Grapheme) -> Mark {
+        let mark = ascii_or_original(grapheme);
+        match mark {
+            " " | "\t" | "\n" | "\u{a0}" => Mark::Space,
+            "-" | "—" | "–" => Mark::Dash,
+            "." => Mark::Dot,
+            "," => Mark::Comma,
+            ":" => Mark::Colon,
+            "'" | "‘" | "’" | "´" | "(" | ")" | "[" | "]" | "&" | "*" | "$" => {
+                Mark::InsideWord
+            }
+            ";" | "\"" | "!" | "?" | "”" | "“" | "…" | "~" | "_" | "/" | "#" | "..." => {
+                Mark::Other
+            }
+            _ => panic!("no cells are defined for the mark {mark:?}"),
+        }
+    }
 }
 
 // Splits a quote into runs, which alternate between words and marks.
-fn quote_to_runs(graphemes: &GraphemeString) -> Vec<Run<'_>> {
+fn quote_to_runs(graphemes: &GraphemeString) -> Vec<Run> {
     graphemes
         .graphemes()
         .chunk_by(|grapheme| is_part_of_word(grapheme))
@@ -23,7 +60,7 @@ fn quote_to_runs(graphemes: &GraphemeString) -> Vec<Run<'_>> {
             if is_word {
                 Run::Word(run.map(word_cells).collect())
             } else {
-                Run::Marks(run.map(ascii_or_original).collect())
+                Run::Marks(run.map(Mark::from_grapheme).collect())
             }
         })
         .collect()
@@ -61,19 +98,15 @@ fn ascii_or_original(grapheme: &Grapheme) -> &str {
 
 // Appends the cells a mark shows as: a space for whitespace, unless the cells already end
 // in one, and a hyphen for a dash. Other punctuation shows no cell.
-fn push_mark_cells(cells: &mut String, mark: &str) {
+fn push_mark_cells(cells: &mut String, mark: Mark) {
     match mark {
-        " " | "\t" | "\n" | "\u{a0}" => {
+        Mark::Space => {
             if !cells.ends_with(' ') {
                 cells.push(' ');
             }
         }
-
-        "." | "," | ";" | "'" | "\"" | "!" | "?" | "‘" | "’" | ":" | "&" | "*" | "(" | ")"
-        | "”" | "“" | "…" | "$" | "~" | "_" | "/" | "´" | "[" | "]" | "#" | "..." => {}
-
-        "-" | "—" | "–" => cells.push('-'),
-        _ => panic!("no cells are defined for the mark {mark:?}"),
+        Mark::Dot | Mark::Comma | Mark::Colon | Mark::InsideWord | Mark::Other => {}
+        Mark::Dash => cells.push('-'),
     }
 }
 
@@ -83,7 +116,7 @@ fn push_mark_cells(cells: &mut String, mark: &str) {
 // `AT&T`. So does a dot between single letters, as in `U.S.A.`, and a comma, dot, or colon
 // inside a number, as in `1,000` or `John 3:16`. Other punctuation between two words stands
 // in for a space or line break that the quote's text lost, as in `end.Begin` or `book#3`.
-fn is_inside_word(marks: &[&str], word_before: &str, word_after: &str) -> bool {
+fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     let is_single_letter = |word: &str| {
         word.len() == 1
             && word
@@ -93,14 +126,9 @@ fn is_inside_word(marks: &[&str], word_before: &str, word_after: &str) -> bool {
     let is_inside_number = word_before.ends_with(|character: char| character.is_ascii_digit())
         && word_after.starts_with(|character: char| character.is_ascii_digit());
     match marks {
-        ["."] if is_single_letter(word_before) && is_single_letter(word_after) => true,
-        ["." | "," | ":"] if is_inside_number => true,
-        _ => marks.iter().all(|mark| {
-            matches!(
-                *mark,
-                "'" | "‘" | "’" | "´" | "(" | ")" | "[" | "]" | "&" | "*" | "$"
-            )
-        }),
+        [Mark::Dot] if is_single_letter(word_before) && is_single_letter(word_after) => true,
+        [Mark::Dot | Mark::Comma | Mark::Colon] if is_inside_number => true,
+        _ => marks.iter().all(|mark| matches!(mark, Mark::InsideWord)),
     }
 }
 
@@ -116,7 +144,7 @@ pub fn quote_to_cells(input: &str) -> String {
             Run::Word(word) => cells.push_str(word),
             Run::Marks(marks) => {
                 let length_before = cells.len();
-                for mark in marks {
+                for &mark in marks {
                     push_mark_cells(&mut cells, mark);
                 }
                 // Runs alternate, so marks with a run on each side sit between two words.
