@@ -4,6 +4,7 @@ use std::alloc::Allocator;
 use std::collections::BTreeMap;
 use std::fmt::{Debug, Formatter};
 use std::mem::size_of;
+use std::ops::RangeInclusive;
 use std::path::Path;
 use std::{io, mem};
 
@@ -107,7 +108,60 @@ impl<V: Clone> FlatTrie<V> {
             }
         }
     }
-    pub fn search_subset<'a>(&'a self, superset: LetterSet, radius: usize, found: &mut Vec<V>) {
+    #[inline(never)]
+    pub fn search_smallest_subset(&self, key: LetterSet, min_len: usize, result: &mut Vec<V>) {
+        for len in min_len..=key.count() {
+            self.search_subsets_with_length_in(key, len..=len, result);
+        }
+    }
+    // Finds the values of the longest keys that are subsets of `superset` and hold at most
+    // `max_length` letters, in trie order.
+    pub fn search_largest_subset(
+        &self,
+        superset: LetterSet,
+        max_length: usize,
+        found: &mut Vec<V>,
+    ) {
+        // Try each length from the longest down, and stop at the first that any key reaches.
+        for length in (0..=max_length).rev() {
+            self.search_subsets_with_length_in(superset, length..=length, found);
+            if !found.is_empty() {
+                return;
+            }
+        }
+    }
+
+    // Finds the values of every key that is a subset of `superset` and whose length lies in
+    // `lengths`, in trie order.
+    fn search_subsets_with_length_in(
+        &self,
+        superset: LetterSet,
+        lengths: RangeInclusive<usize>,
+        found: &mut Vec<V>,
+    ) {
+        self.walk_subsets_with_length_in(
+            superset,
+            *lengths.start(),
+            *lengths.end(),
+            0,
+            superset.count(),
+            found,
+        );
+    }
+
+    // Walks the part of the trie that `self` holds, for `search_subsets_with_length_in`, accepting
+    // keys of `min_length` to `max_length` letters. `letters_matched` counts the key letters that
+    // the path down to this part has matched. `letters_reachable` is that count plus the letters
+    // still available in `superset`: the most letters any key in this part can hold.
+    fn walk_subsets_with_length_in(
+        &self,
+        superset: LetterSet,
+        min_length: usize,
+        max_length: usize,
+        letters_matched: usize,
+        letters_reachable: usize,
+        found: &mut Vec<V>,
+    ) {
         match self.view() {
             FlatTrieView::Empty => {}
             FlatTrieView::Leaf {
@@ -115,46 +169,63 @@ impl<V: Clone> FlatTrie<V> {
                 value,
                 remainder,
             } => {
-                if key.is_subset(superset) && (superset - *key).count() == radius {
-                    found.push(value.clone());
+                if key.is_subset(superset) {
+                    // A leaf holds only the key letters that its path hasn't matched.
+                    let length = letters_matched + key.count();
+                    if (min_length..=max_length).contains(&length) {
+                        found.push(value.clone());
+                    }
                 }
-                remainder.search_subset(superset, radius, found)
+                remainder.walk_subsets_with_length_in(
+                    superset,
+                    min_length,
+                    max_length,
+                    letters_matched,
+                    letters_reachable,
+                    found,
+                )
             }
             FlatTrieView::Node {
                 letter,
                 without,
                 with,
             } => {
-                if let Some(radius2) = radius.checked_sub(superset[letter] as usize) {
-                    let mut superset2 = superset;
-                    superset2[letter] = 0;
-                    without.search_subset(superset2, radius2, found);
+                // The keys on the "without" side hold no more copies of `letter` than the path has
+                // matched, so the superset's remaining copies are out of their reach. Skip that
+                // side when its keys can't reach the shortest length allowed.
+                let remaining_copies = superset[letter] as usize;
+                let letters_reachable_without = letters_reachable - remaining_copies;
+                if letters_reachable_without >= min_length {
+                    let mut superset_without = superset;
+                    superset_without[letter] = 0;
+                    without.walk_subsets_with_length_in(
+                        superset_without,
+                        min_length,
+                        max_length,
+                        letters_matched,
+                        letters_reachable_without,
+                        found,
+                    );
                 }
-                if superset[letter] > 0 {
-                    let mut superset2 = superset;
-                    superset2[letter] -= 1;
-                    with.search_subset(superset2, radius, found);
+                // The keys on the "with" side hold at least one more copy of `letter`, which this
+                // step matches. Skip that side when the superset has no copy left to match, or when
+                // its keys would pass the longest length allowed.
+                if remaining_copies > 0 && letters_matched < max_length {
+                    let mut superset_with = superset;
+                    superset_with[letter] -= 1;
+                    with.walk_subsets_with_length_in(
+                        superset_with,
+                        min_length,
+                        max_length,
+                        letters_matched + 1,
+                        letters_reachable,
+                        found,
+                    );
                 }
             }
         }
     }
-    #[inline(never)]
-    pub fn search_smallest_subset(&self, key: LetterSet, min_len: usize, result: &mut Vec<V>) {
-        for len in min_len..=key.count() {
-            let radius = key.count() - len;
-            self.search_subset(key, radius, result);
-        }
-    }
-    pub fn search_largest_subset(&self, key: LetterSet, max_len: usize, found: &mut Vec<V>) {
-        for len in 0..=max_len {
-            let len = max_len - len;
-            let radius = key.count() - len;
-            self.search_subset(key, radius, found);
-            if !found.is_empty() {
-                return;
-            }
-        }
-    }
+
     // pub fn new_box<A: Allocator>(mut b: Box<[FlatTrieEntry<K, V>], A>) -> Box<Self, A> {
     //     Self::build(&mut *b);
     //     Self::new_unchecked_box(b)
