@@ -15,7 +15,10 @@ use safe_once_async::sync::AsyncLazyLock;
 
 pub struct FlatTrieTable {
     pub dict: &'static [FlatWord],
-    pub unary: LetterMap<Box<FlatTrie<LetterSet>, MmapAllocator>>,
+    // The single-word tries, one for each letter. The trie for a letter holds every word that
+    // `build_trie` chose and that starts with that letter, storing the word's letters as both its
+    // key and its value.
+    pub tries: LetterMap<Box<FlatTrie<LetterSet>, MmapAllocator>>,
 }
 
 pub static FLAT_TRIE_TABLE: LazyLock<
@@ -27,18 +30,18 @@ pub static FLAT_TRIE_TABLE: LazyLock<
 impl FlatTrieTable {
     async fn new() -> anyhow::Result<Self> {
         unsafe {
-            let mut unary: LetterMap<Option<Box<FlatTrie<LetterSet>, MmapAllocator>>> =
+            let mut tries: LetterMap<Option<Box<FlatTrie<LetterSet>, MmapAllocator>>> =
                 LetterMap::new();
             for x in Letter::all() {
-                unary[x] = Some(
-                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/unary/map_{}.dat", x)))
+                tries[x] = Some(
+                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/tries/map_{}.dat", x)))
                         .await?,
                 );
             }
-            let unary = unary.map(|x| x.unwrap());
+            let tries = tries.map(|x| x.unwrap());
             Ok(FlatTrieTable {
                 dict: FLAT_WORDS.get_static().await?,
-                unary,
+                tries,
             })
         }
     }
@@ -55,8 +58,8 @@ impl FlatTrieTable {
         found: &mut Vec<(LetterSet, LetterSet)>,
     ) {
         search_word_pairs(
-            &self.unary[first_letter],
-            &self.unary[second_letter],
+            &self.tries[first_letter],
+            &self.tries[second_letter],
             available_letters,
             min_length,
             found,

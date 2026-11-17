@@ -352,15 +352,15 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 
 pub async fn build_trie() -> anyhow::Result<()> {
     // Create the output folder, which a fresh checkout lacks.
-    let unary_folder = PACKAGE_PATH.join("build/unary");
-    tokio::fs::create_dir_all(&unary_folder)
+    let tries_folder = PACKAGE_PATH.join("build/tries");
+    tokio::fs::create_dir_all(&tries_folder)
         .await
-        .with_context(|| format!("Cannot create {unary_folder:?}"))?;
+        .with_context(|| format!("Cannot create {tries_folder:?}"))?;
 
     let dict = FLAT_WORDS.get_static().await?;
-    let mut unary = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
+    let mut entries_by_letter = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
     for l in Letter::all() {
-        unary.insert(l, vec![]);
+        entries_by_letter.insert(l, vec![]);
     }
     let mut words = vec![];
     for word in dict.iter() {
@@ -371,17 +371,17 @@ pub async fn build_trie() -> anyhow::Result<()> {
     let words = &words[0..15000];
     for word in words {
         if let Some(first_letter) = word.letter_vec.first() {
-            unary
+            entries_by_letter
                 .entry(*first_letter)
                 .or_default()
                 .push((word.letters, word.letters));
         }
     }
 
-    for (l1, vec) in unary {
-        println!("{:?}", l1);
+    for (letter, vec) in entries_by_letter {
+        println!("{letter:?}");
         save_vec::<FlatTrieEntry<LetterSet>>(
-            &unary_folder.join(format!("map_{l1}.dat")),
+            &tries_folder.join(format!("map_{letter}.dat")),
             vec.into_iter()
                 .collect::<Box<FlatTrie<LetterSet>>>()
                 .as_slice(),

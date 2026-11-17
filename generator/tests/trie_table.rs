@@ -8,7 +8,7 @@ use acrostic_generator::trie_table;
 // #[test]
 // fn test_flat_trie_table() {
 //     let table = FlatTrieTable::new();
-//     for x in table.unary.iter() {
+//     for x in table.tries.iter() {
 //         println!("{:?}", x.0);
 //         format!("{:?}", x.1);
 //     }

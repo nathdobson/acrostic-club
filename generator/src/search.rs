@@ -66,7 +66,7 @@ impl Search {
         if old.count() > 4 {
             solution.set_word(index, LetterSet::new());
             let mut found = vec![];
-            self.table.unary[self.source[index]].search_largest_subset(
+            self.table.tries[self.source[index]].search_largest_subset(
                 solution.remainder,
                 old.count() - 1,
                 &mut found,
@@ -92,7 +92,7 @@ impl Search {
         solution.set_word(index, LetterSet::new());
         let min_len = old.count();
         let mut found = vec![];
-        self.table.unary[self.source[index]].search_smallest_subset(
+        self.table.tries[self.source[index]].search_smallest_subset(
             solution.remainder,
             min_len + 1,
             &mut found,
