@@ -7,7 +7,7 @@ use std::{io, slice};
 use memmap::{MmapMut, MmapOptions};
 use tokio::fs::File;
 
-use crate::write_path;
+use crate::{error_with_path, write_path};
 
 pub struct MmapAllocator {
     file: File,
@@ -52,12 +52,18 @@ pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocato
             .open(filename)
             .await
             .unwrap_or_else(|e| panic!("Cannot open {:?}: {}", filename, e));
-        let len = file.metadata().await?.len();
+        let len = file
+            .metadata()
+            .await
+            .map_err(error_with_path("inspect", filename))?
+            .len();
         if len == 0 {
             Box::from_raw_in(&mut [], MmapAllocator { mmap: None, file })
         } else {
             let file = file.into_std().await;
-            let mmap = MmapOptions::new().map_copy(&file).unwrap();
+            let mmap = MmapOptions::new()
+                .map_copy(&file)
+                .unwrap_or_else(|error| panic!("Cannot map {filename:?}: {error}"));
             let file = tokio::fs::File::from_std(file);
             assert_eq!(mmap.len() as u64, len);
             assert_eq!(mmap.len() % size_of::<T>(), 0);

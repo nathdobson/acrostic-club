@@ -1,6 +1,6 @@
 use std::io;
 
-use crate::{PACKAGE_PATH, read_path_to_string, write_path};
+use crate::{PACKAGE_PATH, error_with_path, read_path_to_string, write_path};
 use serde::{Deserialize, Serialize};
 
 // #[derive(Serialize, Deserialize, Debug)]
@@ -54,7 +54,9 @@ impl Puzzle {
     }
     pub async fn write(&self, index: usize, stage: &str) -> io::Result<()> {
         let dir = PACKAGE_PATH.join("puzzles").join(&format!("{}", index));
-        tokio::fs::create_dir_all(&dir).await?;
+        tokio::fs::create_dir_all(&dir)
+            .await
+            .map_err(error_with_path("create", &dir))?;
         write_path(
             &dir.join(stage),
             &serde_json::to_string_pretty(self).unwrap().as_bytes(),

@@ -38,22 +38,29 @@ pub static PACKAGE_PATH: LazyLock<PathBuf> = LazyLock::new(|| {
     path
 });
 
+// Returns a function for `map_err` that adds `action` and `path` to an I/O error's message, since
+// the operating system's own message, such as "No such file or directory", names neither. The
+// error keeps its kind, so callers can still match on it.
+pub fn error_with_path(action: &str, path: &Path) -> impl FnOnce(io::Error) -> io::Error {
+    move |error| io::Error::new(error.kind(), format!("Cannot {action} {path:?}: {error}"))
+}
+
 pub async fn read_path(path: &Path) -> io::Result<Vec<u8>> {
     tokio::fs::read(path)
         .await
-        .map_err(|e| io::Error::new(e.kind(), format!("Cannot read {:?}: {}", path, e)))
+        .map_err(error_with_path("read", path))
 }
 
 pub async fn read_path_to_string(path: &Path) -> io::Result<String> {
     tokio::fs::read_to_string(path)
         .await
-        .map_err(|e| io::Error::new(e.kind(), format!("Cannot read {:?}: {}", path, e)))
+        .map_err(error_with_path("read", path))
 }
 
 pub async fn write_path(path: &Path, x: &[u8]) -> io::Result<()> {
     tokio::fs::write(path, x)
         .await
-        .map_err(|e| io::Error::new(e.kind(), format!("Cannot write {:?}: {}", path, e)))
+        .map_err(error_with_path("write", path))
 }
 
 const QUOTE: &str = concat!(

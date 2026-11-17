@@ -1,3 +1,4 @@
+use crate::error_with_path;
 use crate::util::interrupt::CleanupSender;
 use crate::util::lazy_async::CloneError;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
@@ -36,9 +37,14 @@ impl<
         option.read(true);
         option.write(true);
         option.create(true);
-        let mut file = option.open(path).await?;
+        let mut file = option
+            .open(path)
+            .await
+            .map_err(error_with_path("open", path))?;
         let mut history = String::new();
-        file.read_to_string(&mut history).await?;
+        file.read_to_string(&mut history)
+            .await
+            .map_err(error_with_path("read", path))?;
         let map = AsyncOnceLockMap::new();
         for line in history.lines() {
             let entry: KeyValueEntry<K, V> = serde_json::from_str(line)?;
@@ -48,11 +54,15 @@ impl<
                 .await;
         }
         let (tx, mut rx) = unbounded_channel::<KeyValueEntry<K, V>>();
+        // The writer task outlives the borrowed `path`, so it keeps its own copy for its errors.
+        let path = path.to_path_buf();
         cleanup.send(async move {
             while let Some(x) = rx.recv().await {
                 let mut m = serde_json::to_string(&x).unwrap();
                 m.push('\n');
-                file.write_all(m.as_bytes()).await?;
+                file.write_all(m.as_bytes())
+                    .await
+                    .map_err(error_with_path("write", &path))?;
             }
             Ok(())
         });

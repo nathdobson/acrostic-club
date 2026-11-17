@@ -1,12 +1,11 @@
-use crate::PACKAGE_PATH;
 use crate::string::LetterString;
+use crate::{PACKAGE_PATH, read_path_to_string};
 use anyhow::anyhow;
 use itertools::Itertools;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
 use std::collections::HashMap;
 use std::sync::{Arc, LazyLock};
-use tokio::fs;
 
 #[derive(Debug)]
 pub struct ClueEntry {
@@ -33,7 +32,7 @@ impl ClueDb {
 pub static CLUE_DB: LazyLock<AsyncLazyLock<JoinTransparent<anyhow::Result<Arc<ClueDb>>>>> =
     LazyLock::new(|| {
         AsyncLazyLock::new(spawn_transparent(async move {
-            let contents = fs::read_to_string(PACKAGE_PATH.join("build/xd/clues.tsv")).await?;
+            let contents = read_path_to_string(&PACKAGE_PATH.join("build/xd/clues.tsv")).await?;
             let mut lines = contents.split('\n');
             lines.next().ok_or_else(|| anyhow!("missing header"))?;
             let mut lookup: HashMap<LetterString, Vec<ClueEntry>> = HashMap::new();
