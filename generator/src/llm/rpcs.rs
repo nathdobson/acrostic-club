@@ -6,12 +6,15 @@ use ollama_rs::generation::parameters::{FormatType, JsonSchema, JsonStructure};
 use ollama_rs::models::ModelOptions;
 use serde::{Deserialize, Serialize};
 
+// A request to a language model, assembled one setting at a time and then sent with `send`. Each
+// setter, such as `seed`, stores its setting and returns the builder, so that calls can chain, as
+// in `rpc.seed(seed).model(name)`.
 pub struct RpcBuilder<Req, Resp> {
     req: Req,
     training: Vec<(Req, Resp)>,
     system: String,
     seed: i32,
-    model: &'static str,
+    model: String,
 }
 
 impl<Req: Serialize, Resp: JsonSchema + Serialize + for<'de> Deserialize<'de>>
@@ -23,11 +26,28 @@ impl<Req: Serialize, Resp: JsonSchema + Serialize + for<'de> Deserialize<'de>>
             training: vec![],
             system,
             seed: 123665,
-            model: MODEL_NAME,
+            model: MODEL_NAME.to_string(),
         })
     }
+    // Sets the seed for the model's random choices. The model scores every candidate token and
+    // draws the next one at random, favoring higher scores, and a fixed seed makes the same draws
+    // each time.
+    //
+    // The same request can still get a different reply. The scores are floating-point sums, whose
+    // rounding depends on how Ollama arranges the work: how many requests it runs together,
+    // whether it reuses the start of an earlier prompt, the hardware, and Ollama's own version. A
+    // shifted score can change which token a draw lands on, and the rest of the reply follows from
+    // that token. Setting the temperature to 0, which removes the draws, wouldn't help either:
+    // rounding can still reorder two nearly tied tokens. The replies `CacheClient` stores, not the
+    // seed, are what let a rerun reproduce a reply.
     pub fn seed(&mut self, seed: i32) -> &mut Self {
         self.seed = seed;
+        self
+    }
+    // Sets the Ollama model that answers the request. Without this call, the request goes to the
+    // default model that `new` sets.
+    pub fn model(&mut self, model: &str) -> &mut Self {
+        self.model = model.to_string();
         self
     }
     pub fn train(&mut self, req: Req, resp: Resp) -> &mut Self {
@@ -55,12 +75,15 @@ impl<Req: Serialize, Resp: JsonSchema + Serialize + for<'de> Deserialize<'de>>
         let reply_format = FormatType::StructuredJson(Box::new(JsonStructure::new::<Resp>()));
         let resp = ollama
             .send_chat_messages(
-                &ChatMessageRequest::new(self.model.to_string(), messages)
+                &ChatMessageRequest::new(self.model.clone(), messages)
                     .options(ModelOptions::default().seed(self.seed))
-                    .format(reply_format),
+                    .format(reply_format)
+                    // Models that can think, such as Gemma 4, otherwise do so before every reply,
+                    // which can stretch a short request to minutes. Ollama accepts `false` from
+                    // models that can't think.
+                    .think(false),
             )
             .await?;
-        // .map_err(ollama_to_anyhow)?;
         let resp = serde_json::from_str(&resp.message.content)?;
         Ok(resp)
     }
