@@ -44,3 +44,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       placeholders, as in `add_quote`'s `format!("bad quote {} {}", …)`, with
       names such as `{elapsed:?}`, binding an expression to a descriptive
       local first.
+- [ ] **Merge `restore_vec` and `mmap_bytes`** — the two near-copies panic
+      when they can't open or map their file, though both return
+      `io::Result`; the merged function could return those errors instead.
