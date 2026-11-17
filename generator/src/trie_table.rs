@@ -58,4 +58,56 @@ impl FlatTrieTable {
             })
         }
     }
+
+    // Finds every pair of words in the single-word tries, the first starting with `first_letter`
+    // and the second with `second_letter`, whose letters together are a subset of
+    // `available_letters` and number at least `min_length`.
+    pub fn search_word_pairs(
+        &self,
+        first_letter: Letter,
+        second_letter: Letter,
+        available_letters: LetterSet,
+        min_length: usize,
+        found: &mut Vec<(LetterSet, LetterSet)>,
+    ) {
+        search_word_pairs(
+            &self.unary[first_letter],
+            &self.unary[second_letter],
+            available_letters,
+            min_length,
+            found,
+        );
+    }
+}
+
+// Finds every pair of words, the first from `first_trie` and the second from `second_trie`, whose
+// letters together are a subset of `available_letters` and number at least `min_length`. Both
+// tries should hold each word's letters as both its key and its value, as the single-word tries
+// do. The search walks `first_trie` once, for every first word whose letters are a subset of
+// `available_letters`. Then, for each first word, the search walks `second_trie` for the second
+// words whose letters are a subset of the letters left over.
+pub fn search_word_pairs(
+    first_trie: &FlatTrie<LetterSet>,
+    second_trie: &FlatTrie<LetterSet>,
+    available_letters: LetterSet,
+    min_length: usize,
+    found: &mut Vec<(LetterSet, LetterSet)>,
+) {
+    let mut first_words = vec![];
+    first_trie.search_subsets_with_min_length(available_letters, 0, &mut first_words);
+    let mut second_words = vec![];
+    for first_word in first_words {
+        let letters_left = available_letters - first_word;
+        let second_min_length = min_length.saturating_sub(first_word.count());
+        second_trie.search_subsets_with_min_length(
+            letters_left,
+            second_min_length,
+            &mut second_words,
+        );
+        found.extend(
+            second_words
+                .drain(..)
+                .map(|second_word| (first_word, second_word)),
+        );
+    }
 }

@@ -114,22 +114,27 @@ impl Search {
             return true;
         }
     }
+    // Finds the same pairs as `FlatTrieTable::search_word_pairs`, and caches them so that a
+    // repeated query costs only a lookup.
     #[inline(never)]
-    fn search_smallest_subset(
+    fn search_word_pairs(
         &self,
-        l1: Letter,
-        l2: Letter,
-        key: LetterSet,
-        min: usize,
+        first_letter: Letter,
+        second_letter: Letter,
+        available_letters: LetterSet,
+        min_length: usize,
     ) -> &[(LetterSet, LetterSet)] {
         self.access.fetch_add(1, Relaxed);
-        &*self.cache[&(l1, l2, key, min)].get_or_init(|| {
+        let cache_key = (first_letter, second_letter, available_letters, min_length);
+        &*self.cache[&cache_key].get_or_init(|| {
             let mut found = vec![];
-            self.table
-                .binary
-                .get(&(l1, l2))
-                .unwrap()
-                .search_smallest_subset(key, min, &mut found);
+            self.table.search_word_pairs(
+                first_letter,
+                second_letter,
+                available_letters,
+                min_length,
+                &mut found,
+            );
             found
         })
     }
@@ -140,13 +145,15 @@ impl Search {
         solution.set_word(i1, LetterSet::new());
         solution.set_word(i2, LetterSet::new());
         let mut ls = [self.source[i1], self.source[i2]];
+        // Put the two letters in alphabetical order, so that the queries for either order share
+        // one cache entry.
         let flipped = ls[0] > ls[1];
         if flipped {
             ls.swap(0, 1);
         }
         // let trie = &self.table.binary.get(&(ls[0], ls[1])).unwrap();
         let start = Instant::now();
-        let found = self.search_smallest_subset(
+        let found = self.search_word_pairs(
             ls[0],
             ls[1],
             solution.remainder,

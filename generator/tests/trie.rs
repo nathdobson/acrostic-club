@@ -25,6 +25,53 @@ fn build_word_trie(words: &[&'static str]) -> Box<FlatTrie<&'static str>> {
         .collect()
 }
 
+// Returns the words `FlatTrie::search_subsets_with_min_length` finds, in alphabetical order.
+fn search_subsets_with_min_length(
+    trie: &FlatTrie<&'static str>,
+    superset: &str,
+    min_length: usize,
+) -> Vec<&'static str> {
+    let mut found = vec![];
+    trie.search_subsets_with_min_length(LetterSet::from_str(superset), min_length, &mut found);
+    found.sort();
+    found
+}
+
+#[test]
+fn search_subsets_with_min_length_skips_keys_shorter_than_the_minimum() {
+    let trie = build_word_trie(&["ab", "abc", "abce"]);
+    assert_eq!(
+        search_subsets_with_min_length(&trie, "abce", 3),
+        ["abc", "abce"]
+    );
+}
+
+#[test]
+fn search_subsets_with_min_length_skips_keys_the_superset_cannot_hold() {
+    // "abdd" needs a second d.
+    let trie = build_word_trie(&["abc", "abd", "abdd"]);
+    assert_eq!(
+        search_subsets_with_min_length(&trie, "abcd", 0),
+        ["abc", "abd"]
+    );
+}
+
+#[test]
+fn search_subsets_with_min_length_counts_every_unused_copy_of_a_letter() {
+    // "bc" leaves both a's unused, but a minimum length of three allows only one unused letter.
+    let trie = build_word_trie(&["bc", "abc", "aabc"]);
+    assert_eq!(
+        search_subsets_with_min_length(&trie, "aabc", 3),
+        ["aabc", "abc"]
+    );
+}
+
+#[test]
+fn search_subsets_with_min_length_finds_nothing_when_the_minimum_exceeds_the_superset() {
+    let trie = build_word_trie(&["ab", "abc"]);
+    assert!(search_subsets_with_min_length(&trie, "ab", 3).is_empty());
+}
+
 // Returns the words `FlatTrie::search_largest_subset` finds, in alphabetical order.
 fn search_largest_subset(
     trie: &FlatTrie<&'static str>,

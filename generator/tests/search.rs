@@ -28,10 +28,7 @@ async fn ten_thousand_trie_table_searches_finish() -> anyhow::Result<()> {
             .get()
             .await
             .clone_error()?
-            .binary
-            .get(&first_letters)
-            .expect("the trie table should hold a trie for each pair of first letters")
-            .search_smallest_subset(letters, 16, &mut found);
+            .search_word_pairs(first_letters.0, first_letters.1, letters, 16, &mut found);
     }
 
     let elapsed = start.elapsed();
