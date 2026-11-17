@@ -1,7 +1,7 @@
 use std::ffi::OsString;
 use std::io;
 use std::io::{ErrorKind, Write};
-use std::path::Path;
+use std::path::{Component, Path, PathBuf};
 
 use futures::FutureExt;
 use futures::future::BoxFuture;
@@ -121,10 +121,48 @@ pub fn copy_dir<'a>(source: &'a Path, dest: &'a Path) -> BoxFuture<'a, io::Resul
     .boxed()
 }
 
-// Creates a symbolic link at `link` to `original`. An error names `link`, since creating a link
-// fails over the link's own location, such as a missing parent folder or an existing file.
+// Returns the path that reaches `original` from inside `folder`, working on the paths' text alone.
+//
+// The two paths must share a prefix, past which `folder` names only plain folders: a `..` or a
+// root there leaves no way to climb back to the shared prefix.
+pub fn relative_path(original: &Path, folder: &Path) -> io::Result<PathBuf> {
+    let shared_component_count = original
+        .components()
+        .zip(folder.components())
+        .take_while(|(original_component, folder_component)| original_component == folder_component)
+        .count();
+
+    let mut path = PathBuf::new();
+    for component in folder.components().skip(shared_component_count) {
+        let Component::Normal(_) = component else {
+            let step = component.as_os_str();
+            return Err(io::Error::new(
+                ErrorKind::InvalidInput,
+                format!(
+                    "no relative path leads from {folder:?} to {original:?}: the folder takes \
+                     the step {step:?} past the prefix the paths share"
+                ),
+            ));
+        };
+        // Climb out of each folder between the shared prefix and `folder`.
+        path.push("..");
+    }
+    // Then descend from the shared prefix to the original.
+    path.extend(original.components().skip(shared_component_count));
+    Ok(path)
+}
+
+// Creates a symbolic link at `link` that reaches `original` by a path relative to the link's
+// folder. A relative link resolves inside whichever folder holds it, so build/site keeps working
+// when build/ is cloned into another checkout, and then serves that checkout's own files.
+//
+// An error names `link`, since creating a link fails over the link's own location, such as a
+// missing parent folder or an existing file.
 async fn create_link(original: &Path, link: &Path) -> io::Result<()> {
-    fs::symlink(original, link)
+    let link_folder = link
+        .parent()
+        .expect("a link's path should name a file inside a folder");
+    fs::symlink(relative_path(original, link_folder)?, link)
         .await
         .map_err(error_with_path("create link", link))
 }
