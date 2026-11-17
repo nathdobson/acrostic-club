@@ -2,8 +2,8 @@ use crate::llm::MODEL_NAME;
 use crate::llm::chat_client::ChatClient;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
 use ollama_rs::generation::chat::{ChatMessage, MessageRole};
-use ollama_rs::generation::options::GenerationOptions;
 use ollama_rs::generation::parameters::{FormatType, JsonSchema, JsonStructure};
+use ollama_rs::models::ModelOptions;
 use serde::{Deserialize, Serialize};
 
 pub struct RpcBuilder<Req, Resp> {
@@ -51,11 +51,13 @@ impl<Req: Serialize, Resp: JsonSchema + Serialize + for<'de> Deserialize<'de>>
             MessageRole::User,
             serde_json::to_string(&self.req)?,
         ));
+        // Ollama constrains the reply to the JSON schema of `Resp`.
+        let reply_format = FormatType::StructuredJson(Box::new(JsonStructure::new::<Resp>()));
         let resp = ollama
             .send_chat_messages(
                 &ChatMessageRequest::new(self.model.to_string(), messages)
-                    .options(GenerationOptions::default().seed(self.seed))
-                    .format(FormatType::StructuredJson(JsonStructure::new::<Resp>())),
+                    .options(ModelOptions::default().seed(self.seed))
+                    .format(reply_format),
             )
             .await?;
         // .map_err(ollama_to_anyhow)?;
