@@ -12,7 +12,6 @@ use std::sync::LazyLock;
 pub async fn build_ontolex_turtle() -> anyhow::Result<()> {
     let turtle = parse_file_graph(&[
         &PACKAGE_PATH.join("build/en_dbnary_ontolex.ttl"),
-        &PACKAGE_PATH.join("build/en_dbnary_morphology.ttl"),
         &PACKAGE_PATH.join("build/en_dbnary_etymology.ttl"),
     ])
     .await?;

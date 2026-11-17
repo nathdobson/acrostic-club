@@ -35,7 +35,7 @@ publish() {
 }
 
 dbnary=http://kaiko.getalp.org/static/ontolex/latest
-for part in ontolex morphology etymology; do
+for part in ontolex etymology; do
   dictionary="en_dbnary_$part.ttl"
   if [ ! -e "$shared_build/$dictionary" ]; then
     fetch "$dbnary/$dictionary.bz2" "$dictionary.bz2"
@@ -69,8 +69,8 @@ fi
 # In a worktree, link each shared file into the worktree's own `build/`.
 if [ "$checkout_root" != "$main_root" ]; then
   mkdir -p "$checkout_root/build/xd" || exit 1
-  for name in en_dbnary_ontolex.ttl en_dbnary_morphology.ttl \
-    en_dbnary_etymology.ttl lemma.en.txt xd/clues.tsv; do
+  for name in en_dbnary_ontolex.ttl en_dbnary_etymology.ttl lemma.en.txt \
+    xd/clues.tsv; do
     # `-f` replaces whatever the worktree held under that name.
     ln -sf "$shared_build/$name" "$checkout_root/build/$name" || exit 1
   done

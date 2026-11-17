@@ -16,9 +16,6 @@ use safe_once_async::sync::AsyncLazyLock;
 
 pub struct Ontology {
     pub graph: &'static Turtle,
-    // None when the dictionary has no word-form links (`ontolex:otherForm`), as in DBnary's
-    // English export as of November 2026.
-    other_form: Option<TurtleIndex>,
     written_rep: TurtleIndex,
     canonical_form: TurtleIndex,
     describes: TurtleIndex,
@@ -51,7 +48,6 @@ impl Ontology {
                 .push(Written(o));
         }
         Ok(Ontology {
-            other_form: graph.get_index("http://www.w3.org/ns/lemon/ontolex#otherForm"),
             written_rep,
             canonical_form: graph
                 .get_index("http://www.w3.org/ns/lemon/ontolex#canonicalForm")
@@ -111,26 +107,6 @@ impl Ontology {
     pub fn canonical_form(&self, x: Lexical) -> Vec<Form> {
         self.graph
             .get_forward(x.0, self.canonical_form)
-            .into_iter()
-            .map(Form)
-            .collect()
-    }
-    pub fn other_form_of(&self, x: Form) -> Vec<Lexical> {
-        let Some(other_form) = self.other_form else {
-            return vec![];
-        };
-        self.graph
-            .get_reverse(x.0, other_form)
-            .into_iter()
-            .map(Lexical)
-            .collect()
-    }
-    pub fn other_form(&self, x: Lexical) -> Vec<Form> {
-        let Some(other_form) = self.other_form else {
-            return vec![];
-        };
-        self.graph
-            .get_forward(x.0, other_form)
             .into_iter()
             .map(Form)
             .collect()

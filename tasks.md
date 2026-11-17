@@ -24,6 +24,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Count letters, not bytes, in `add_quote`'s length limits** — the
       limits count spaces, punctuation, and every byte of a multi-byte
       character, but puzzle size depends only on letters.
+- [ ] **Use the lemma list during the ontology walk** — for example, to also
+      ban words related to a plural or past-tense answer's base word. The
+      approach is open; see `generator/banned-word-findings.md`, and delete
+      that file once this is done.
 
 ## Backlog
 

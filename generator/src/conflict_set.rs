@@ -62,9 +62,6 @@ impl ConflictSet {
             for x in self.ontology.canonical_form_of(form) {
                 self.add_lexical(x);
             }
-            for x in self.ontology.other_form_of(form) {
-                self.add_lexical(x);
-            }
         }
     }
     pub fn add_lexical(&mut self, lexical: Lexical) {
@@ -118,9 +115,6 @@ impl ConflictSet {
     pub fn add_lexical_down(&mut self, lexical: Lexical) {
         if self.lexicals_down.insert(lexical) {
             for x in self.ontology.canonical_form(lexical) {
-                self.add_form_down(x);
-            }
-            for x in self.ontology.other_form(lexical) {
                 self.add_form_down(x);
             }
             for page in self.ontology.derived_from_of(lexical) {
