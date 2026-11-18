@@ -9,8 +9,9 @@ use std::io::ErrorKind;
 enum Run {
     // The cells of a word or a number.
     Word(String),
-    // The punctuation and whitespace between words.
-    Marks(Vec<Mark>),
+    // The punctuation and whitespace between words, along with their ASCII forms, which show
+    // as written inside a number.
+    Marks { marks: Vec<Mark>, text: String },
 }
 
 // The kinds of mark that the cell layout tells apart.
@@ -91,8 +92,14 @@ fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
             if is_word {
                 Ok(Run::Word(run.map(word_cells).collect()))
             } else {
-                let marks = run.map(Mark::from_grapheme).collect::<Result<_, _>>()?;
-                Ok(Run::Marks(marks))
+                let graphemes: Vec<&Grapheme> = run.collect();
+                let marks = graphemes
+                    .iter()
+                    .copied()
+                    .map(Mark::from_grapheme)
+                    .collect::<Result<_, _>>()?;
+                let text = graphemes.iter().copied().map(ascii_or_original).collect();
+                Ok(Run::Marks { marks, text })
             }
         })
         .collect()
@@ -200,9 +207,9 @@ fn push_mark_cells(cells: &mut String, mark: Mark) {
 // Whether marks that show no cell sit inside one word, rather than between two words.
 //
 // Apostrophes, brackets, and a few symbols sit inside words: `don't`, `[T]he`, `f*ck`,
-// `AT&T`. So does a dot between single letters, as in `U.S.A.`, and a comma, dot, or colon
-// inside a number, as in `1,000` or `John 3:16`. Other punctuation between two words stands
-// in for a space or line break that the quote's text lost, as in `end.Begin` or `book#3`.
+// `AT&T`. So does a dot between single letters, as in `U.S.A.` Other punctuation between two
+// words stands in for a space or line break that the quote's text lost, as in `end.Begin` or
+// `book#3`.
 fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     let is_single_letter = |word: &str| {
         word.len() == 1
@@ -210,18 +217,23 @@ fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
                 .chars()
                 .all(|character| character.is_ascii_alphabetic())
     };
-    let is_inside_number = word_before.ends_with(|character: char| character.is_ascii_digit())
-        && word_after.starts_with(|character: char| character.is_ascii_digit());
     match marks {
         [Mark::Dot] if is_single_letter(word_before) && is_single_letter(word_after) => true,
-        [Mark::Dot | Mark::Comma | Mark::Colon] if is_inside_number => true,
         _ => marks.iter().all(|mark| matches!(mark, Mark::InsideWord)),
     }
 }
 
-// Lays a quote out as the puzzle's cells: one per letter or digit, a space between words,
-// and a hyphen for each dash. Fails on any character it doesn't recognize, such as `☥`,
-// since it has no cells to give it.
+// Whether marks sit inside a number: between two digits, with no whitespace among them, as in
+// `John 3:16`, `10^9`, or `1,000`.
+fn is_inside_number(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
+    word_before.ends_with(|character: char| character.is_ascii_digit())
+        && word_after.starts_with(|character: char| character.is_ascii_digit())
+        && !marks.iter().any(|mark| matches!(mark, Mark::Space))
+}
+
+// Lays a quote out as the puzzle's cells: one per letter or digit, a space between words, a
+// hyphen for each dash, and any symbols inside a number as written. Fails on any character
+// it doesn't recognize, such as `☥`, since it has no cells to give it.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let graphemes = GraphemeString::from_str(&repair_characters(input));
     let runs = quote_to_runs(&graphemes).map_err(|problem| {
@@ -234,21 +246,34 @@ pub fn quote_to_cells(input: &str) -> io::Result<String> {
     for (index, run) in runs.iter().enumerate() {
         match run {
             Run::Word(word) => cells.push_str(word),
-            Run::Marks(marks) => {
+            Run::Marks { marks, text } => {
+                // Runs alternate, so marks with a run on each side sit between two words.
+                let words_around = match (
+                    index.checked_sub(1).map(|index_before| &runs[index_before]),
+                    runs.get(index + 1),
+                ) {
+                    (Some(Run::Word(word_before)), Some(Run::Word(word_after))) => {
+                        Some((word_before, word_after))
+                    }
+                    _ => None,
+                };
+                // Digits show as written, so symbols inside a number do too: dropping them would
+                // change the number, as `3:16` would become `316`.
+                if let Some((word_before, word_after)) = words_around
+                    && is_inside_number(marks, word_before, word_after)
+                {
+                    cells.push_str(text);
+                    continue;
+                }
                 let length_before = cells.len();
                 for &mark in marks {
                     push_mark_cells(&mut cells, mark);
                 }
-                // Runs alternate, so marks with a run on each side sit between two words.
-                if let (Some(Run::Word(word_before)), Some(Run::Word(word_after))) = (
-                    index.checked_sub(1).map(|index_before| &runs[index_before]),
-                    runs.get(index + 1),
-                ) {
-                    if cells.len() == length_before
-                        && !is_inside_word(marks, word_before, word_after)
-                    {
-                        cells.push(' ');
-                    }
+                if let Some((word_before, word_after)) = words_around
+                    && cells.len() == length_before
+                    && !is_inside_word(marks, word_before, word_after)
+                {
+                    cells.push(' ');
                 }
             }
         }

@@ -170,11 +170,23 @@ fn a_dot_between_single_letters_stays_inside_the_word() {
 }
 
 #[test]
-fn a_comma_dot_or_colon_inside_a_number_stays_inside_it() {
-    assert_eq!(cells_for("1,000"), "1000");
-    assert_eq!(cells_for("3.5"), "35");
+fn a_symbol_inside_a_number_shows_as_written() {
+    assert_eq!(cells_for("1,000"), "1,000");
+    assert_eq!(cells_for("3.5"), "3.5");
     // A Bible verse, or a clock time such as 5:30.
-    assert_eq!(cells_for("John 3:16"), "JOHN 316");
+    assert_eq!(cells_for("John 3:16"), "JOHN 3:16");
+    assert_eq!(cells_for("post-9/11"), "POST-9/11");
+    assert_eq!(cells_for("10^9"), "10^9");
+    assert_eq!(cells_for("2+2=5"), "2+2=5");
+    assert_eq!(cells_for("24\\7"), "24\\7");
+    // A curly apostrophe, as in feet and inches, shows in its ASCII form.
+    assert_eq!(cells_for("5\u{2019}3"), "5'3");
+}
+
+#[test]
+fn a_symbol_with_whitespace_beside_it_stays_outside_a_number() {
+    assert_eq!(cells_for("1+1 = 2"), "1+1 2");
+    assert_eq!(cells_for("1, 2"), "1 2");
 }
 
 #[test]
