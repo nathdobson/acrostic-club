@@ -1,14 +1,18 @@
 use std::io::{self, ErrorKind, Read};
+use std::iter;
 use std::sync::LazyLock;
 use std::time::Instant;
 
+use acrostic_core::letter::LetterSet;
 use csv::StringRecord;
+use itertools::Itertools;
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
 use serde::Deserialize;
 use serde::Serialize;
 
+use crate::add_letters::{quote_to_cells, source_to_letters};
 use crate::puzzle::Puzzle;
 use crate::util::lazy_async::CloneError;
 use crate::{PACKAGE_PATH, error_with_path, read_path, read_path_to_string, write_path};
@@ -110,6 +114,24 @@ impl Quote {
             source: source.to_string(),
         }
     }
+
+    // The letters the source needs beyond those the quote holds: for a source with two Y's and a
+    // quote with one, a single Y. A puzzle needs this set to be empty, since each answer starts
+    // with its letter of the source and takes all its letters from the quote.
+    //
+    // Counts the letters that `add_letters` writes, so that this check reads the quote and the
+    // source just as the answer search will. Panics where `quote_to_cells` does, on a mark it
+    // doesn't recognize.
+    fn missing_source_letters(&self) -> LetterSet {
+        let quote_letters = LetterSet::from_str(&quote_to_cells(&self.quote));
+        LetterSet::from_str(&source_to_letters(&self.source))
+            .iter()
+            .flat_map(|(letter, source_count)| {
+                let missing_count = source_count.saturating_sub(quote_letters[letter] as usize);
+                iter::repeat_n(letter, missing_count)
+            })
+            .collect()
+    }
 }
 
 // Parses the quote file's CSV into a list indexed by puzzle number, giving every record except
@@ -158,9 +180,10 @@ pub async fn build_quotes() -> io::Result<()> {
     Ok(())
 }
 
-pub async fn add_quote(pindex: usize) -> io::Result<()> {
-    let quotes = QUOTES.get().await.clone_error_static()?;
-    let quote = &quotes[pindex];
+// Starts a puzzle from a quote: stage 0's puzzle holds just the quote and its source. Fails when
+// the quote can't make a puzzle, because the quote or its source falls outside the length limits,
+// or because the quote lacks letters that the answers need to spell the source.
+pub fn start_puzzle(quote: &Quote) -> io::Result<Puzzle> {
     if !(quote.source.len() >= 23
         && quote.source.len() <= 26
         && quote.quote.len() > 180
@@ -169,6 +192,18 @@ pub async fn add_quote(pindex: usize) -> io::Result<()> {
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
             format!("bad quote {} {}", quote.source.len(), quote.quote.len()),
+        ));
+    }
+    let missing_letters = quote.missing_source_letters();
+    if missing_letters.count() > 0 {
+        let source = &quote.source;
+        let missing_letter_list = missing_letters.multiset_iter().join(", ");
+        return Err(io::Error::new(
+            ErrorKind::InvalidInput,
+            format!(
+                "impossible puzzle: the source {source:?} needs letters that its quote lacks: \
+                 {missing_letter_list}"
+            ),
         ));
     }
 
@@ -185,6 +220,13 @@ pub async fn add_quote(pindex: usize) -> io::Result<()> {
         clues: None,
         chat: None,
     };
+    Ok(puzzle)
+}
+
+// Starts the puzzle numbered `pindex` from its quote, and writes it to stage0.json.
+pub async fn add_quote(pindex: usize) -> io::Result<()> {
+    let quotes = QUOTES.get().await.clone_error_static()?;
+    let puzzle = start_puzzle(&quotes[pindex])?;
     puzzle.write(pindex, "stage0.json").await?;
     Ok(())
 }

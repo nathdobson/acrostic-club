@@ -164,17 +164,23 @@ pub fn quote_to_cells(input: &str) -> String {
     cells
 }
 
+// Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII: `Émile
+// Zola` gives `EMILEZOLA`.
+pub fn source_to_letters(source: &str) -> String {
+    LetterString::from_str(source)
+        .iter()
+        .map(|letter| letter.to_char())
+        .collect()
+}
+
 pub async fn add_letters(pindex: usize) -> io::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage0.json").await?;
     puzzle
         .quote_letters
         .get_or_insert_with(|| quote_to_cells(&puzzle.quote));
-    puzzle.source_letters.get_or_insert_with(|| {
-        LetterString::from_str(&puzzle.source)
-            .iter()
-            .map(|x| x.to_char())
-            .collect()
-    });
+    puzzle
+        .source_letters
+        .get_or_insert_with(|| source_to_letters(&puzzle.source));
     puzzle.write(pindex, "stage1.json").await?;
     Ok(())
 }

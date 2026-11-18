@@ -2,7 +2,7 @@ use std::fs;
 
 use acrostic_generator::PACKAGE_PATH;
 use acrostic_generator::puzzle::Puzzle;
-use acrostic_generator::quote::{Quote, parse_pinned_quote_file, parse_quotes};
+use acrostic_generator::quote::{Quote, parse_pinned_quote_file, parse_quotes, start_puzzle};
 
 // Parses `csv` with every record numbered by its index.
 fn parse_numbered_by_index(csv: &str) -> Vec<Quote> {
@@ -133,6 +133,63 @@ fn test_unnumbered_records_are_skipped() {
 
     let quote_texts: Vec<&str> = quotes.iter().map(|quote| quote.quote.as_str()).collect();
     assert_eq!(quote_texts, ["Zero", "Three"]);
+}
+
+// Builds a quote from `text` and `source` that fits stage 0's length limits, so that only their
+// letters decide whether the quote starts a puzzle. Pads each with a space and x's: the quote to
+// 190 bytes, within its limits of 181 to 199, and the source to 24, within 23 to 26. Neither input
+// may hold an X, and the quote's padding holds more x's than the source's, so the padding never
+// decides a test.
+fn build_quote(text: &str, source: &str) -> Quote {
+    for input in [text, source] {
+        assert!(
+            !input.contains(['x', 'X']),
+            "a test input should hold no X, since the padding supplies x's: {input:?}"
+        );
+    }
+    let pad = |unpadded: &str, length: usize| {
+        let padding = "x".repeat(length - unpadded.len() - 1);
+        format!("{unpadded} {padding}")
+    };
+    Quote {
+        quote: pad(text, 190),
+        source: pad(source, 24),
+    }
+}
+
+#[test]
+fn test_quote_holding_every_source_letter_starts_a_puzzle() {
+    let quote = build_quote("Lola sat alone.", "Al Stone");
+
+    start_puzzle(&quote).expect("a quote holding every letter of its source should start a puzzle");
+}
+
+#[test]
+fn test_quote_lacking_a_source_letter_is_rejected() {
+    // The source needs a Z, and the quote has none.
+    let quote = build_quote("A rose is a rose.", "Ezra Rose");
+
+    let error = start_puzzle(&quote).expect_err("a quote without a Z should be rejected");
+
+    assert!(error.to_string().contains("lacks: Z"), "{error}");
+}
+
+#[test]
+fn test_quote_holding_too_few_of_a_source_letter_is_rejected() {
+    // The source needs two N's, and the quote has one.
+    let quote = build_quote("Ana sat.", "Anna");
+
+    let error = start_puzzle(&quote).expect_err("a quote with one N should be rejected");
+
+    assert!(error.to_string().contains("lacks: N"), "{error}");
+}
+
+#[test]
+fn test_accented_quote_letter_supplies_its_plain_letter() {
+    // The source's E comes from the quote's `é`.
+    let quote = build_quote("Café", "Ace");
+
+    start_puzzle(&quote).expect("the quote's `é` should supply the source's E");
 }
 
 // Reads the real quote file and the committed puzzles, so this test needs the Quotes-500K
