@@ -184,6 +184,17 @@ fn a_symbol_inside_a_number_shows_as_written() {
 }
 
 #[test]
+fn a_fraction_character_shows_as_digits_and_a_slash() {
+    assert_eq!(cells_for("the 12 ½ years"), "THE 12 1/2 YEARS");
+    assert_eq!(cells_for("a ¾ oz"), "A 3/4 OZ");
+}
+
+#[test]
+fn a_fraction_character_after_a_digit_stays_apart_from_it() {
+    assert_eq!(cells_for("Platform 9¾"), "PLATFORM 9 3/4");
+}
+
+#[test]
 fn a_symbol_with_whitespace_beside_it_stays_outside_a_number() {
     assert_eq!(cells_for("1+1 = 2"), "1+1 2");
     assert_eq!(cells_for("1, 2"), "1 2");
