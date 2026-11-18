@@ -63,6 +63,35 @@ fn tabs_newlines_and_non_breaking_spaces_count_as_spaces() {
 }
 
 #[test]
+fn invisible_formatting_characters_vanish_without_splitting_a_word() {
+    // A zero-width space.
+    assert_eq!(cells_for("some\u{200b}thing"), "SOMETHING");
+    assert_eq!(cells_for("o-\u{200b}u-\u{200b}i"), "O-U-I");
+    // A soft hyphen.
+    assert_eq!(cells_for("beauti\u{ad}ful"), "BEAUTIFUL");
+    // A byte-order mark and a left-to-right mark.
+    assert_eq!(cells_for("\u{feff}\u{200e}Hello"), "HELLO");
+    // A variation selector on its own.
+    assert_eq!(cells_for("later.\u{fe0f}"), "LATER");
+    // A `¬` in place of a soft hyphen.
+    assert_eq!(cells_for("unpro¬cessed"), "UNPROCESSED");
+    // A combining grapheme joiner, on a dot.
+    assert_eq!(cells_for("truth.\u{34f} Then"), "TRUTH THEN");
+}
+
+#[test]
+fn windows_1252_punctuation_decoded_as_latin_1_counts_as_meant() {
+    // U+0092 for a right single quotation mark, serving as an apostrophe.
+    assert_eq!(cells_for("don\u{92}t"), "DONT");
+    // U+0097 for an em dash.
+    assert_eq!(cells_for("fall\u{97}and"), "FALL-AND");
+    // U+0093 and U+0094 for double quotation marks.
+    assert_eq!(cells_for("\u{93}Strange,\u{94} he said"), "STRANGE HE SAID");
+    // U+009D, left over beside a closing quotation mark.
+    assert_eq!(cells_for("fear”\u{9d} always"), "FEAR ALWAYS");
+}
+
+#[test]
 fn punctuation_at_the_ends_of_a_quote_adds_no_space() {
     assert_eq!(cells_for("“Hello there.”"), "HELLO THERE");
 }

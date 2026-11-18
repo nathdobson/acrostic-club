@@ -123,6 +123,48 @@ fn word_cells(grapheme: &Grapheme) -> String {
     }
 }
 
+// Rewrites the characters of a quote that don't show what they stand for, before the quote is
+// split into graphemes.
+fn repair_characters(quote: &str) -> String {
+    quote
+        .chars()
+        .filter_map(|character| match character {
+            // Characters that carry no text are removed, so that a word they sit inside stays
+            // whole.
+            //
+            // A soft hyphen.
+            '\u{ad}'
+            // A `¬`, which the pinned quotes hold only in place of a soft hyphen at an old line
+            // break, as in `unpro¬cessed`.
+            | '¬'
+            // A combining grapheme joiner.
+            | '\u{34f}'
+            // A zero-width space, non-joiner, and joiner, and left-to-right and right-to-left
+            // marks.
+            | '\u{200b}'..='\u{200f}'
+            // Direction embeddings and overrides.
+            | '\u{202a}'..='\u{202e}'
+            // A word joiner, invisible math operators, direction isolates, and deprecated
+            // formatting characters.
+            | '\u{2060}'..='\u{206f}'
+            // Variation selectors, which choose how the character before them is drawn.
+            | '\u{fe00}'..='\u{fe0f}'
+            // A byte-order mark.
+            | '\u{feff}' => None,
+            // Windows-1252 punctuation decoded as if it were Latin-1 becomes the character it
+            // was meant to be.
+            '\u{92}' => Some('’'),
+            '\u{93}' => Some('“'),
+            '\u{94}' => Some('”'),
+            '\u{97}' => Some('—'),
+            // A byte that Windows-1252 leaves undefined. The pinned quotes hold it only as a
+            // leftover just after a `”`, so it stands for nothing.
+            '\u{9d}' => None,
+            _ => Some(character),
+        })
+        .collect()
+}
+
 // The grapheme in its ASCII form, or as written when it has none.
 fn ascii_or_original(grapheme: &Grapheme) -> &str {
     if grapheme.ascii().is_empty() {
@@ -172,7 +214,7 @@ fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
 // and a hyphen for each dash. Fails on any character it doesn't recognize, such as `@`,
 // since it has no cells to give it.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
-    let graphemes = GraphemeString::from_str(input);
+    let graphemes = GraphemeString::from_str(&repair_characters(input));
     let runs = quote_to_runs(&graphemes).map_err(|problem| {
         io::Error::new(
             ErrorKind::InvalidInput,
