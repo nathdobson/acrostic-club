@@ -83,7 +83,7 @@ impl Mark {
 }
 
 // Splits a quote into runs, which alternate between words and marks. Fails on a mark that no
-// cells are defined for.
+// cells are defined for, or on a symbol that would be spelled out as letters.
 fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
     graphemes
         .graphemes()
@@ -91,7 +91,8 @@ fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
         .into_iter()
         .map(|(is_word, run)| {
             if is_word {
-                Ok(Run::Word(run.map(word_cells).collect()))
+                let word = run.map(word_cells).collect::<Result<_, _>>()?;
+                Ok(Run::Word(word))
             } else {
                 let graphemes: Vec<&Grapheme> = run.collect();
                 let marks = graphemes
@@ -128,16 +129,26 @@ fn is_part_of_word(grapheme: &Grapheme) -> bool {
 }
 
 // The cells a grapheme inside a word shows as: its letters, or the digits it stands for.
-fn word_cells(grapheme: &Grapheme) -> String {
+//
+// Fails on a symbol that `any_ascii` spells out as letters, such as `heart` for `❤` or `TM` for
+// `™`. The quote doesn't hold those letters, and the symbol may be vital to it, as in `I ❤ NY`.
+fn word_cells(grapheme: &Grapheme) -> Result<String, String> {
     if grapheme.letters().is_empty() {
-        ascii_or_original(grapheme).to_string()
-    } else {
-        grapheme
-            .letters()
-            .iter()
-            .map(|letter| letter.to_char())
-            .collect()
+        return Ok(ascii_or_original(grapheme).to_string());
     }
+    let letters: String = grapheme
+        .letters()
+        .iter()
+        .map(|letter| letter.to_char())
+        .collect();
+    if !grapheme.string().chars().any(char::is_alphanumeric) {
+        let symbol = quoted_with_code_points(grapheme.string());
+        return Err(format!(
+            "the symbol {symbol} would be spelled out as the letters {letters:?}, which the text \
+             doesn't hold, so no cells are defined for it"
+        ));
+    }
+    Ok(letters)
 }
 
 // Rewrites the characters of a quote that don't show what they stand for, before the quote is

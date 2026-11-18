@@ -22,6 +22,22 @@ fn an_unknown_mark_fails_naming_its_code_points() {
 }
 
 #[test]
+fn a_symbol_that_any_ascii_spells_as_letters_fails() {
+    // `any_ascii` writes these as `:heart:`, `:coffee:`, `TM`, and `L`.
+    assert!(error_for("keep flying ❤").contains("U+2764"));
+    assert!(error_for("For later. ☕\u{fe0f}").contains("U+2615"));
+    assert!(error_for("Brand™ new").contains("U+2122"));
+    assert!(error_for("a £5 note").contains("U+00A3"));
+}
+
+#[test]
+fn a_symbol_spelled_as_letters_fails_naming_the_letters() {
+    let message = error_for("keep flying ❤");
+
+    assert!(message.contains("\"HEART\""), "{message}");
+}
+
+#[test]
 fn full_width_digits_and_letters_become_ascii_cells() {
     assert_eq!(cells_for("０１２３４５６７８９"), "0123456789");
     assert_eq!(
