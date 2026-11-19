@@ -185,6 +185,15 @@ fn test_quote_holding_too_few_of_a_source_letter_is_rejected() {
 }
 
 #[test]
+fn test_quote_with_a_mark_that_has_no_cells_is_rejected() {
+    let quote = build_quote("Healed ☥ at last.", "Al Hatt");
+
+    let error = start_puzzle(&quote).expect_err("a quote holding `☥` should be rejected");
+
+    assert!(error.to_string().contains("U+2625"), "{error}");
+}
+
+#[test]
 fn test_accented_quote_letter_supplies_its_plain_letter() {
     // The source's E comes from the quote's `é`.
     let quote = build_quote("Café", "Ace");

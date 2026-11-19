@@ -2,6 +2,7 @@ use crate::puzzle::Puzzle;
 use crate::string::{Grapheme, GraphemeString, LetterString};
 use itertools::Itertools;
 use std::io;
+use std::io::ErrorKind;
 
 // A stretch of a quote that is either all letters and digits or all punctuation and
 // whitespace.
@@ -30,10 +31,10 @@ enum Mark {
 
 impl Mark {
     // Classifies a grapheme between words by its ASCII form, or as written when it has none.
-    // Panics on an unrecognized mark, since no cells are defined for it.
-    fn from_grapheme(grapheme: &Grapheme) -> Mark {
+    // Fails on an unrecognized mark, since no cells are defined for it.
+    fn from_grapheme(grapheme: &Grapheme) -> Result<Mark, String> {
         let mark = ascii_or_original(grapheme);
-        match mark {
+        let kind = match mark {
             " " | "\t" | "\n" | "\u{a0}" => Mark::Space,
             "-" | "—" | "–" => Mark::Dash,
             "." => Mark::Dot,
@@ -45,25 +46,44 @@ impl Mark {
             ";" | "\"" | "!" | "?" | "”" | "“" | "…" | "~" | "_" | "/" | "#" | "..." => {
                 Mark::Other
             }
-            _ => panic!("no cells are defined for the mark {mark:?}"),
-        }
+            _ => {
+                let unknown_mark = quoted_with_code_points(grapheme.string());
+                return Err(format!("no cells are defined for the mark {unknown_mark}"));
+            }
+        };
+        Ok(kind)
     }
 }
 
-// Splits a quote into runs, which alternate between words and marks.
-fn quote_to_runs(graphemes: &GraphemeString) -> Vec<Run> {
+// Splits a quote into runs, which alternate between words and marks. Fails on a mark that no
+// cells are defined for.
+fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
     graphemes
         .graphemes()
         .chunk_by(|grapheme| is_part_of_word(grapheme))
         .into_iter()
         .map(|(is_word, run)| {
             if is_word {
-                Run::Word(run.map(word_cells).collect())
+                Ok(Run::Word(run.map(word_cells).collect()))
             } else {
-                Run::Marks(run.map(Mark::from_grapheme).collect())
+                let marks = run.map(Mark::from_grapheme).collect::<Result<_, _>>()?;
+                Ok(Run::Marks(marks))
             }
         })
         .collect()
+}
+
+// A grapheme for an error message, quoted and followed by its code points, since many of the
+// characters that fail are invisible or easily mistaken for others: `"☥" (U+2625)`.
+fn quoted_with_code_points(grapheme: &str) -> String {
+    let code_points = grapheme
+        .chars()
+        .map(|character| {
+            let code_point = u32::from(character);
+            format!("U+{code_point:04X}")
+        })
+        .join(" ");
+    format!("{grapheme:?} ({code_points})")
 }
 
 // Whether a grapheme belongs to a word or number, rather than to the marks between words.
@@ -133,11 +153,16 @@ fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
 }
 
 // Lays a quote out as the puzzle's cells: one per letter or digit, a space between words,
-// and a hyphen for each dash. Panics on any character it doesn't recognize, such as `@`,
+// and a hyphen for each dash. Fails on any character it doesn't recognize, such as `@`,
 // since it has no cells to give it.
-pub fn quote_to_cells(input: &str) -> String {
+pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let graphemes = GraphemeString::from_str(input);
-    let runs = quote_to_runs(&graphemes);
+    let runs = quote_to_runs(&graphemes).map_err(|problem| {
+        io::Error::new(
+            ErrorKind::InvalidInput,
+            format!("{problem} in the quote {input:?}"),
+        )
+    })?;
     let mut cells = String::new();
     for (index, run) in runs.iter().enumerate() {
         match run {
@@ -161,7 +186,7 @@ pub fn quote_to_cells(input: &str) -> String {
             }
         }
     }
-    cells
+    Ok(cells)
 }
 
 // Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII: `Émile
@@ -175,9 +200,9 @@ pub fn source_to_letters(source: &str) -> String {
 
 pub async fn add_letters(pindex: usize) -> io::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage0.json").await?;
-    puzzle
-        .quote_letters
-        .get_or_insert_with(|| quote_to_cells(&puzzle.quote));
+    if puzzle.quote_letters.is_none() {
+        puzzle.quote_letters = Some(quote_to_cells(&puzzle.quote)?);
+    }
     puzzle
         .source_letters
         .get_or_insert_with(|| source_to_letters(&puzzle.source));

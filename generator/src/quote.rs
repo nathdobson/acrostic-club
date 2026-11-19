@@ -120,17 +120,17 @@ impl Quote {
     // with its letter of the source and takes all its letters from the quote.
     //
     // Counts the letters that `add_letters` writes, so that this check reads the quote and the
-    // source just as the answer search will. Panics where `quote_to_cells` does, on a mark it
+    // source just as the answer search will. Fails where `quote_to_cells` does, on a mark it
     // doesn't recognize.
-    fn missing_source_letters(&self) -> LetterSet {
-        let quote_letters = LetterSet::from_str(&quote_to_cells(&self.quote));
-        LetterSet::from_str(&source_to_letters(&self.source))
+    fn missing_source_letters(&self) -> io::Result<LetterSet> {
+        let quote_letters = LetterSet::from_str(&quote_to_cells(&self.quote)?);
+        Ok(LetterSet::from_str(&source_to_letters(&self.source))
             .iter()
             .flat_map(|(letter, source_count)| {
                 let missing_count = source_count.saturating_sub(quote_letters[letter] as usize);
                 iter::repeat_n(letter, missing_count)
             })
-            .collect()
+            .collect())
     }
 }
 
@@ -182,7 +182,8 @@ pub async fn build_quotes() -> io::Result<()> {
 
 // Starts a puzzle from a quote: stage 0's puzzle holds just the quote and its source. Fails when
 // the quote can't make a puzzle, because the quote or its source falls outside the length limits,
-// or because the quote lacks letters that the answers need to spell the source.
+// or because the quote lacks letters that the answers need to spell the source. It also fails on
+// a quote that `quote_to_cells` can't lay out.
 pub fn start_puzzle(quote: &Quote) -> io::Result<Puzzle> {
     if !(quote.source.len() >= 23
         && quote.source.len() <= 26
@@ -194,7 +195,7 @@ pub fn start_puzzle(quote: &Quote) -> io::Result<Puzzle> {
             format!("bad quote {} {}", quote.source.len(), quote.quote.len()),
         ));
     }
-    let missing_letters = quote.missing_source_letters();
+    let missing_letters = quote.missing_source_letters()?;
     if missing_letters.count() > 0 {
         let source = &quote.source;
         let missing_letter_list = missing_letters.multiset_iter().join(", ");

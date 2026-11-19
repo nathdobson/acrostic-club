@@ -24,7 +24,7 @@ pub fn rebuild_cells(puzzle: &mut Puzzle) -> io::Result<()> {
     let Some(old_cells) = puzzle.quote_letters.as_deref() else {
         return Err(invalid_data("the puzzle has no quote letters".to_string()));
     };
-    let new_cells = quote_to_cells(&puzzle.quote);
+    let new_cells = quote_to_cells(&puzzle.quote)?;
 
     let old_letters = letter_positions(old_cells);
     let new_letters = letter_positions(&new_cells);
