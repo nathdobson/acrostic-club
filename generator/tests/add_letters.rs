@@ -92,6 +92,61 @@ fn windows_1252_punctuation_decoded_as_latin_1_counts_as_meant() {
 }
 
 #[test]
+fn control_characters_count_as_spaces() {
+    assert_eq!(cells_for("you will. \u{3}If"), "YOU WILL IF");
+    // A vertical tab and a form feed.
+    assert_eq!(cells_for("one\u{b}two\u{c}three"), "ONE TWO THREE");
+}
+
+#[test]
+fn a_backtick_percent_sign_or_brace_stays_inside_a_word() {
+    assert_eq!(cells_for("you`ll"), "YOULL");
+    assert_eq!(cells_for("99% of"), "99 OF");
+    assert_eq!(cells_for("{T}he"), "THE");
+}
+
+#[test]
+fn operators_and_separators_between_words_show_no_cell() {
+    assert_eq!(cells_for("You + Me"), "YOU ME");
+    assert_eq!(cells_for("school= pranks"), "SCHOOL PRANKS");
+    assert_eq!(cells_for("LAWS>LAWS"), "LAWS LAWS");
+    assert_eq!(cells_for("never <3"), "NEVER 3");
+    assert_eq!(cells_for("world | the"), "WORLD THE");
+    assert_eq!(cells_for("fire\\How"), "FIRE HOW");
+    assert_eq!(cells_for("@bobby i'm"), "BOBBY IM");
+    assert_eq!(cells_for("so wrong!^^^ so"), "SO WRONG SO");
+}
+
+#[test]
+fn other_languages_quotation_marks_show_no_cell() {
+    assert_eq!(cells_for("«idealist»"), "IDEALIST");
+    assert_eq!(cells_for("„Do we"), "DO WE");
+}
+
+#[test]
+fn a_dingbat_with_the_ascii_form_of_a_known_symbol_fails() {
+    // `any_ascii` writes these as `+`, `+`, `>`, and `=`, which have cells.
+    assert!(error_for("healed ☥ She").contains("U+2625"));
+    assert!(error_for("prince †1183").contains("U+2020"));
+    assert!(error_for("LAWS→LAWS").contains("U+2192"));
+    assert!(error_for("a ≡ b").contains("U+2261"));
+}
+
+#[test]
+fn separator_dots_bullets_and_arithmetic_signs_show_no_cell() {
+    assert_eq!(cells_for("2015 · From"), "2015 FROM");
+    assert_eq!(cells_for("an· other"), "AN OTHER");
+    assert_eq!(cells_for("world:•spread"), "WORLD SPREAD");
+    assert_eq!(cells_for("Dream×Vision"), "DREAM VISION");
+    assert_eq!(cells_for("70 ÷ 7"), "70 7");
+}
+
+#[test]
+fn a_space_with_a_combining_acute_accent_serves_as_an_apostrophe() {
+    assert_eq!(cells_for("we don \u{301}t go"), "WE DONT GO");
+}
+
+#[test]
 fn punctuation_at_the_ends_of_a_quote_adds_no_space() {
     assert_eq!(cells_for("“Hello there.”"), "HELLO THERE");
 }

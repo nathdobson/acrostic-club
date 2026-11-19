@@ -16,7 +16,7 @@ enum Run {
 // The kinds of mark that the cell layout tells apart.
 #[derive(Clone, Copy)]
 enum Mark {
-    // Whitespace, which shows as a space.
+    // Whitespace or a control character, which shows as a space.
     Space,
     // A dash, which shows as a hyphen.
     Dash,
@@ -39,7 +39,10 @@ impl Mark {
     // rather than pass as the substituted mark.
     fn from_grapheme(grapheme: &Grapheme) -> Result<Mark, String> {
         let mark = grapheme.string();
-        if mark.chars().all(char::is_whitespace) {
+        // Control characters stand in for a line break that the quote's text lost, as in
+        // `you will. \u{3}If`.
+        let is_space = |character: char| character.is_whitespace() || character.is_ascii_control();
+        if mark.chars().all(is_space) {
             return Ok(Mark::Space);
         }
         let kind = match mark {
@@ -50,18 +53,24 @@ impl Mark {
             "." => Mark::Dot,
             "," => Mark::Comma,
             ":" => Mark::Colon,
-            // Apostrophes and the marks that serve as one, such as a prime; brackets; and a few
-            // symbols.
-            "'" | "‘" | "’" | "´" | "ʼ" | "ʹ" | "′" | "(" | ")" | "[" | "]" | "&" | "*" | "$" => {
-                Mark::InsideWord
-            }
-            // Quotation marks and the marks that serve as one, such as a diaeresis; Spanish
-            // inverted marks; and other punctuation.
-            "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | ";" | "!" | "¡" | "?" | "¿" | "…"
-            | "~" | "∼" | "≈" | "_" | "‗" | "/" | "#" => Mark::Other,
+            // Apostrophes and the marks that serve as one, such as a prime or a backtick in
+            // ``you`ll``; brackets and braces; and a few symbols, such as `$` and `%`.
+            "'" | "‘" | "’" | "´" | "ʼ" | "ʹ" | "′" | "`" | "(" | ")" | "[" | "]" | "{" | "}"
+            | "&" | "*" | "$" | "%" => Mark::InsideWord,
+            // A space with a combining acute accent, which is `´` decomposed, serving as an
+            // apostrophe. It looks just like `´`, so it's written as its code point.
+            " \u{301}" => Mark::InsideWord,
+            // Quotation marks and the marks that serve as one, such as a diaeresis, including
+            // other languages' marks such as `«`; Spanish inverted marks; and other punctuation.
+            "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | "«" | "»" | "„" | ";" | "!" | "¡"
+            | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" | "/" | "#" => Mark::Other,
             // A Greek question mark, which looks just like a semicolon, so it's written as its
             // code point.
             "\u{37e}" => Mark::Other,
+            // Operators and separators, including separator dots and bullets.
+            "=" | "+" | "×" | "÷" | "^" | "<" | ">" | "|" | "\\" | "@" | "·" | "⸱" | "•" => {
+                Mark::Other
+            }
             _ => {
                 let unknown_mark = quoted_with_code_points(mark);
                 return Err(format!("no cells are defined for the mark {unknown_mark}"));
@@ -211,7 +220,7 @@ fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
 }
 
 // Lays a quote out as the puzzle's cells: one per letter or digit, a space between words,
-// and a hyphen for each dash. Fails on any character it doesn't recognize, such as `@`,
+// and a hyphen for each dash. Fails on any character it doesn't recognize, such as `☥`,
 // since it has no cells to give it.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let graphemes = GraphemeString::from_str(&repair_characters(input));
