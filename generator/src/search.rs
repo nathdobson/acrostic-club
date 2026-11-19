@@ -31,7 +31,14 @@ pub struct Search {
 }
 
 impl Search {
+    // Panics when the source uses some letter more often than the quote does, since no answers
+    // could spell it. Stage 0 rejects such quotes.
     pub async fn new(quote: LetterSet, source: Vec<Letter>) -> anyhow::Result<Self> {
+        let source_letter_counts: LetterSet = source.iter().copied().collect();
+        assert!(
+            source_letter_counts.is_subset(quote),
+            "stage 0 should have rejected a quote that lacks letters its source needs"
+        );
         Ok(Search {
             table: FLAT_TRIE_TABLE.get().await.clone_error_static()?,
             cache: Default::default(),
@@ -40,7 +47,7 @@ impl Search {
             source,
         })
     }
-    fn start(&self, seed: u64) -> Option<Solution> {
+    fn start(&self, seed: u64) -> Solution {
         let rng = XorShiftRng::seed_from_u64(seed);
         let mut remainder = self.quote;
         let words: Vec<LetterSet> = self
@@ -48,17 +55,15 @@ impl Search {
             .iter()
             .map(|first| [first].into_iter().cloned().collect())
             .collect();
+        // `Search::new` checked that the quote holds every source letter.
         for word in words.iter() {
-            if !word.is_subset(remainder) {
-                return None;
-            }
             remainder = remainder - *word;
         }
-        Some(Solution {
+        Solution {
             words,
             remainder,
             rng,
-        })
+        }
     }
     #[inline(never)]
     fn randomize1(&self, solution: &mut Solution, index: usize) {
@@ -234,7 +239,7 @@ impl Search {
         false
     }
     pub fn solve(&self, seed: u64) -> Option<Solution> {
-        let mut solution = self.start(seed)?;
+        let mut solution = self.start(seed);
         if self.anneal(&mut solution) {
             return Some(solution);
         } else {

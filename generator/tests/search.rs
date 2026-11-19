@@ -37,7 +37,7 @@ async fn ten_thousand_trie_table_searches_finish() -> anyhow::Result<()> {
 }
 
 // How many puzzles `answer_searches_finish_on_sample_puzzles` times, spread evenly through the
-// puzzles that `list_feasible_puzzle_indices` returns.
+// puzzles under `puzzles/`.
 const SAMPLE_SIZE: usize = 40;
 
 // How many seeds to try on a puzzle before giving up on it. `add_answers` tries up to 1000, which
@@ -77,20 +77,6 @@ async fn read_puzzle_letters(puzzle_index: usize) -> anyhow::Result<(LetterSet, 
     Ok((quote, source))
 }
 
-// Lists the puzzles whose source letters all appear in the quote. The search fails the others
-// before it looks for any words.
-async fn list_feasible_puzzle_indices() -> anyhow::Result<Vec<usize>> {
-    let mut feasible_indices = vec![];
-    for puzzle_index in list_puzzle_indices()? {
-        let (quote, source) = read_puzzle_letters(puzzle_index).await?;
-        let source_letter_counts: LetterSet = source.into_iter().collect();
-        if source_letter_counts.is_subset(quote) {
-            feasible_indices.push(puzzle_index);
-        }
-    }
-    Ok(feasible_indices)
-}
-
 // Runs `add_answers`'s answer search, single-threaded, on a sample of puzzles. Prints how long
 // each puzzle took and the answers found, then the total time. Run this test on its own, so
 // other tests don't compete for the processor:
@@ -102,7 +88,7 @@ async fn list_feasible_puzzle_indices() -> anyhow::Result<Vec<usize>> {
 #[tokio::test]
 #[ignore = "needs the generator's outputs in build/"]
 async fn answer_searches_finish_on_sample_puzzles() -> anyhow::Result<()> {
-    let puzzle_indices = list_feasible_puzzle_indices().await?;
+    let puzzle_indices = list_puzzle_indices()?;
     let step = puzzle_indices.len() / SAMPLE_SIZE;
     let mut total_time = Duration::ZERO;
     for puzzle_index in puzzle_indices.into_iter().step_by(step).take(SAMPLE_SIZE) {
