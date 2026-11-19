@@ -51,6 +51,7 @@ ollama-rs = "0.3.6"
 schemars = "1.2.1"
 oxttl = "0.1.5"
 oxrdf = "0.2.4"
+unicode-script = "0.5.9"
 
 [lints]
 workspace = true

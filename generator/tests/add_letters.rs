@@ -38,6 +38,19 @@ fn a_symbol_spelled_as_letters_fails_naming_the_letters() {
 }
 
 #[test]
+fn a_letter_outside_the_latin_script_fails() {
+    // Cyrillic, which `any_ascii` would transliterate.
+    assert!(error_for("мир").contains("U+043C"));
+    // An Arabic alef, which `any_ascii` would drop.
+    assert!(error_for("ا").contains("U+0627"));
+}
+
+#[test]
+fn latin_letters_with_diacritics_become_plain_letters() {
+    assert_eq!(cells_for("café naïve Æsir"), "CAFE NAIVE AESIR");
+}
+
+#[test]
 fn full_width_digits_and_letters_become_ascii_cells() {
     assert_eq!(cells_for("０１２３４５６７８９"), "0123456789");
     assert_eq!(

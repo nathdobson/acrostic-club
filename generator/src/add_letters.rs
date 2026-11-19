@@ -4,6 +4,7 @@ use any_ascii::any_ascii_char;
 use itertools::Itertools;
 use std::io;
 use std::io::ErrorKind;
+use unicode_script::{Script, UnicodeScript};
 
 // A stretch of a quote that is either all letters and digits or all punctuation and
 // whitespace.
@@ -105,6 +106,33 @@ fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
             }
         })
         .collect()
+}
+
+// Fails on a grapheme holding a letter outside the Latin script, such as `ж` or `ع`. Its quote
+// is written in another script, which `any_ascii` would turn into a transliteration, or into no
+// cells at all where it has no ASCII form, as for `ا`.
+fn check_letters_are_latin(graphemes: &GraphemeString) -> Result<(), String> {
+    // Diacritics belong to the inherited script, and some letter-like marks, such as `ʹ`, to the
+    // script that many writing systems share.
+    let is_latin_or_shared = |character: char| {
+        matches!(
+            character.script(),
+            Script::Latin | Script::Common | Script::Inherited
+        )
+    };
+    for grapheme in graphemes.graphemes() {
+        let is_foreign_letter =
+            |character: char| character.is_alphabetic() && !is_latin_or_shared(character);
+        if grapheme.string().chars().any(is_foreign_letter) {
+            let letter = quoted_with_code_points(grapheme.string());
+            return Err(format!(
+                "the letter {letter} is outside the Latin script, so the cells could show it only \
+                 by transliterating it into letters the text doesn't hold, and no cells are \
+                 defined for it"
+            ));
+        }
+    }
+    Ok(())
 }
 
 // A grapheme for an error message, quoted and followed by its code points, since many of the
@@ -271,12 +299,14 @@ fn is_inside_number(marks: &[Mark], word_before: &str, word_after: &str) -> bool
 // it doesn't recognize, such as `☥`, since it has no cells to give it.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let graphemes = GraphemeString::from_str(&repair_characters(input));
-    let runs = quote_to_runs(&graphemes).map_err(|problem| {
-        io::Error::new(
-            ErrorKind::InvalidInput,
-            format!("{problem} in the quote {input:?}"),
-        )
-    })?;
+    let runs = check_letters_are_latin(&graphemes)
+        .and_then(|()| quote_to_runs(&graphemes))
+        .map_err(|problem| {
+            io::Error::new(
+                ErrorKind::InvalidInput,
+                format!("{problem} in the quote {input:?}"),
+            )
+        })?;
     let mut cells = String::new();
     for (index, run) in runs.iter().enumerate() {
         match run {
