@@ -6,7 +6,7 @@ use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::add_letters::add_letters;
 use acrostic_generator::cluebank::edit_clue;
-use acrostic_generator::clues::{ClueClient, add_chat};
+use acrostic_generator::clues::{ClueClient, add_chat, preview_chat};
 use acrostic_generator::command_line::{
     EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_puzzle_arguments,
 };
@@ -55,12 +55,18 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             let PuzzleArguments {
                 puzzle_numbers: puzzles,
                 model,
+                is_dry_run,
             } = parse_puzzle_arguments(args)?;
             // Only the chat stage asks a language model, so `--model` does nothing elsewhere.
             if model.is_some() && target != "chat" {
                 anyhow::bail!(
                     "`puzzle {target}` asks no language model, so `--model` has nothing to choose"
                 );
+            }
+            // Only the chat stage can run without saving its work, so any other target refuses
+            // `--dry-run` rather than save anyway.
+            if is_dry_run && target != "chat" {
+                anyhow::bail!("`puzzle {target}` has no dry run; only `puzzle chat` does");
             }
             let model = model.as_deref().unwrap_or(DEFAULT_MODEL_NAME);
             // Building the clue client loads the ontology, the lemma list, and the clue database,
@@ -88,7 +94,11 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                                     let client = client
                                         .as_ref()
                                         .expect("the chat stage should have built a clue client");
-                                    add_chat(puzzle, client).await?
+                                    if is_dry_run {
+                                        preview_chat(puzzle, client).await?
+                                    } else {
+                                        add_chat(puzzle, client).await?
+                                    }
                                 }
                                 "rebuild-cells" => rebuild_cells_in_files(puzzle).await?,
                                 x => panic!("Unknown puzzle target {}", x),

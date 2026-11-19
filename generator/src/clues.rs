@@ -1,4 +1,4 @@
-use crate::cluebank::{ClueBank, ClueSource, clue_bank_path};
+use crate::cluebank::{BankedClue, ClueBank, ClueSource, clue_bank_path};
 use crate::cluedb::{CLUE_DB, ClueDb};
 use crate::lemma::{LEMMA, Lemma};
 use anyhow::ensure;
@@ -207,4 +207,102 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
     );
     puzzle.write(pindex, CLUED_PUZZLE_FILE).await?;
     Ok(())
+}
+
+// Writes new clues for answers. `ClueClient` writes them with a language model; the dry run takes
+// any writer, so a test can supply scripted clues in place of a model's.
+pub trait ClueWriter {
+    // Writes a new clue for `answer` and reports where it came from, or returns `None` when no
+    // clue can be found. The future is `Send`, so the chat stage can run it on Tokio's
+    // multi-threaded runtime.
+    fn write_clue(
+        &self,
+        answer: &str,
+    ) -> impl Future<Output = anyhow::Result<Option<(String, ClueSource)>>> + Send;
+}
+
+impl ClueWriter for ClueClient {
+    async fn write_clue(&self, answer: &str) -> anyhow::Result<Option<(String, ClueSource)>> {
+        self.create_clue(answer).await
+    }
+}
+
+// Shows how `client`'s model would clue a puzzle's answers, beside the clues the clue bank holds
+// for them, and saves nothing to the bank or the puzzle, so models can be compared without their
+// clues joining the bank. The reply cache still records the model's replies, so later runs with
+// the same model write the same clues.
+pub async fn preview_chat(puzzle_index: usize, client: &ClueClient) -> anyhow::Result<()> {
+    let puzzle = Puzzle::read(puzzle_index, "stage2.json").await?;
+    let bank = ClueBank::read(&clue_bank_path()).await?;
+    let preview = preview_clues(&puzzle, &bank, client).await?;
+
+    // The preview prints after `create_clue`'s progress lines for every answer.
+    let model = &client.model;
+    println!("puzzle={puzzle_index}: clues from {model} beside the clue bank's");
+    print!("{preview}");
+    Ok(())
+}
+
+// Writes a new clue for each of `puzzle`'s answers with `writer`, even for an answer `bank` already
+// covers, and lays each out below the bank's clues for its answer, as in:
+//
+// ```text
+// argent
+//     bank: Silver, in heraldry  [xd]
+//     new:  Heraldic silver  [gemma4:31b-qat]
+// ```
+//
+// Each clue is followed by where it came from, and `(none)` stands in for a missing clue on either
+// side. The puzzle and the bank are only read, so the preview changes nothing in either.
+pub async fn preview_clues(
+    puzzle: &Puzzle,
+    bank: &ClueBank,
+    writer: &impl ClueWriter,
+) -> anyhow::Result<String> {
+    let entries = puzzle
+        .clues
+        .as_ref()
+        .expect("a puzzle at the chat stage should hold its answers");
+    let mut preview = String::new();
+    for entry in entries {
+        let answer = &entry.answer;
+        let new_clue = writer.write_clue(answer).await?;
+        preview += &format_clue_comparison(answer, bank.clues_for(answer), new_clue.as_ref());
+    }
+    Ok(preview)
+}
+
+// Lays out one answer's banked clues above its new clue, as `preview_clues` shows.
+fn format_clue_comparison(
+    answer: &str,
+    banked_clues: &[BankedClue],
+    new_clue: Option<&(String, ClueSource)>,
+) -> String {
+    let mut lines = vec![answer.to_string()];
+    if banked_clues.is_empty() {
+        lines.push("    bank: (none)".to_string());
+    }
+    for banked_clue in banked_clues {
+        let text = banked_clue.text();
+        let source = source_label(banked_clue.source());
+        lines.push(format!("    bank: {text}  [{source}]"));
+    }
+    let new_line = match new_clue {
+        Some((text, source)) => {
+            let source = source_label(source);
+            format!("    new:  {text}  [{source}]")
+        }
+        None => "    new:  (none)".to_string(),
+    };
+    lines.push(new_line);
+    lines.join("\n") + "\n"
+}
+
+// Names where a clue came from, as `format_clue_comparison` shows it.
+fn source_label(source: &ClueSource) -> &str {
+    match source {
+        ClueSource::Model(model) => model,
+        ClueSource::Xd => "xd",
+        ClueSource::Person => "person",
+    }
 }

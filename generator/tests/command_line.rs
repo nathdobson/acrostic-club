@@ -1,5 +1,5 @@
 // Tests for the parsers of the arguments that follow a target on the command line:
-// `parse_puzzle_arguments`, which reads the puzzle numbers and model, and
+// `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag, and
 // `parse_edit_clue_arguments`, which reads what `global edit-clue` changes.
 
 use std::collections::BTreeSet;
@@ -25,6 +25,7 @@ fn puzzle_numbers_and_ranges_name_every_puzzle_they_cover() -> anyhow::Result<()
         PuzzleArguments {
             puzzle_numbers: BTreeSet::from([5, 10, 11, 12]),
             model: None,
+            is_dry_run: false,
         }
     );
     Ok(())
@@ -39,6 +40,22 @@ fn a_model_may_come_among_the_puzzle_numbers() -> anyhow::Result<()> {
         PuzzleArguments {
             puzzle_numbers: BTreeSet::from([5, 6]),
             model: Some("gemma4:12b-qat".to_string()),
+            is_dry_run: false,
+        }
+    );
+    Ok(())
+}
+
+#[test]
+fn a_dry_run_flag_may_come_among_the_puzzle_numbers() -> anyhow::Result<()> {
+    let parsed = parse_puzzle_arguments(make_arguments(&["5", "--dry-run", "6"]))?;
+
+    assert_eq!(
+        parsed,
+        PuzzleArguments {
+            puzzle_numbers: BTreeSet::from([5, 6]),
+            model: None,
+            is_dry_run: true,
         }
     );
     Ok(())

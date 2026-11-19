@@ -10,7 +10,8 @@ use crate::cluebank::Reviewer;
 const EDIT_CLUE_USAGE: &str =
     "usage: global edit-clue --reviewer <model name | person> <answer> <tag> \"<new text>\"";
 
-// What the arguments after a target choose: the puzzles to work on, and the language model to ask.
+// What the arguments after a target choose: the puzzles to work on, the language model to ask, and
+// whether to save the work or only show it.
 #[derive(Debug, Default, PartialEq)]
 pub struct PuzzleArguments {
     // The puzzle numbers named one by one, such as `100`, or in inclusive ranges, such as
@@ -18,19 +19,23 @@ pub struct PuzzleArguments {
     pub puzzle_numbers: BTreeSet<usize>,
     // The model that `--model <name>` names, if the arguments hold it.
     pub model: Option<String>,
+    // Whether `--dry-run` asks to show the work without saving it.
+    pub is_dry_run: bool,
 }
 
-// Parses puzzle numbers, ranges of them, and `--model <name>`, in any order.
+// Parses puzzle numbers, ranges of them, `--model <name>`, and `--dry-run`, in any order.
 pub fn parse_puzzle_arguments(
     arguments: impl IntoIterator<Item = String>,
 ) -> anyhow::Result<PuzzleArguments> {
     let mut parsed = PuzzleArguments::default();
     let mut arguments = arguments.into_iter();
     while let Some(argument) = arguments.next() {
-        // The flag holds a hyphen, so it's checked before the hyphen that marks a range.
+        // The flags hold hyphens, so they're checked before the hyphen that marks a range.
         if argument == "--model" {
             let model = arguments.next().context("`--model` needs a model name")?;
             parsed.model = Some(model);
+        } else if argument == "--dry-run" {
+            parsed.is_dry_run = true;
         } else if let Some((start, end)) = argument.split_once('-') {
             let start = parse_puzzle_number(start, &argument)?;
             let end = parse_puzzle_number(end, &argument)?;
