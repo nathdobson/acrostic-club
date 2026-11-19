@@ -30,24 +30,40 @@ enum Mark {
 }
 
 impl Mark {
-    // Classifies a grapheme between words by its ASCII form, or as written when it has none.
-    // Fails on an unrecognized mark, since no cells are defined for it.
+    // Classifies a grapheme between words. Fails on an unrecognized mark, since no cells are
+    // defined for it.
+    //
+    // The lists name each variant of a mark, such as each kind of dash, rather than matching
+    // marks by their ASCII form: `any_ascii` gives some dingbats and damaged characters the ASCII
+    // form of a mark, such as `*` for `★` and `?` for `�`, and those should fail the puzzle
+    // rather than pass as the substituted mark.
     fn from_grapheme(grapheme: &Grapheme) -> Result<Mark, String> {
-        let mark = ascii_or_original(grapheme);
+        let mark = grapheme.string();
+        if mark.chars().all(char::is_whitespace) {
+            return Ok(Mark::Space);
+        }
         let kind = match mark {
-            " " | "\t" | "\n" | "\u{a0}" => Mark::Space,
-            "-" | "—" | "–" => Mark::Dash,
+            // A hyphen, the dashes, a minus sign, and horizontal lines.
+            "-" | "‐" | "‑" | "‒" | "–" | "—" | "―" | "−" | "─" | "⎯" | "⎼" => {
+                Mark::Dash
+            }
             "." => Mark::Dot,
             "," => Mark::Comma,
             ":" => Mark::Colon,
-            "'" | "‘" | "’" | "´" | "(" | ")" | "[" | "]" | "&" | "*" | "$" => {
+            // Apostrophes and the marks that serve as one, such as a prime; brackets; and a few
+            // symbols.
+            "'" | "‘" | "’" | "´" | "ʼ" | "ʹ" | "′" | "(" | ")" | "[" | "]" | "&" | "*" | "$" => {
                 Mark::InsideWord
             }
-            ";" | "\"" | "!" | "?" | "”" | "“" | "…" | "~" | "_" | "/" | "#" | "..." => {
-                Mark::Other
-            }
+            // Quotation marks and the marks that serve as one, such as a diaeresis; Spanish
+            // inverted marks; and other punctuation.
+            "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | ";" | "!" | "¡" | "?" | "¿" | "…"
+            | "~" | "∼" | "≈" | "_" | "‗" | "/" | "#" => Mark::Other,
+            // A Greek question mark, which looks just like a semicolon, so it's written as its
+            // code point.
+            "\u{37e}" => Mark::Other,
             _ => {
-                let unknown_mark = quoted_with_code_points(grapheme.string());
+                let unknown_mark = quoted_with_code_points(mark);
                 return Err(format!("no cells are defined for the mark {unknown_mark}"));
             }
         };

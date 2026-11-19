@@ -104,3 +104,32 @@ fn a_dash_shows_as_a_hyphen_rather_than_a_space() {
     // A hyphen with a space on each side, standing in for a dash.
     assert_eq!(cells_for("truly - so"), "TRULY - SO");
 }
+
+#[test]
+fn other_unicode_spaces_count_as_spaces() {
+    // A thin space, an em space, a line separator, and an ideographic space.
+    assert_eq!(
+        cells_for("one\u{2009}two\u{2003}three\u{2028}four\u{3000}five"),
+        "ONE TWO THREE FOUR FIVE"
+    );
+}
+
+#[test]
+fn a_listed_variant_of_a_mark_lays_out_as_the_mark() {
+    // A horizontal bar and a minus sign, as dashes.
+    assert_eq!(cells_for("did―it"), "DID-IT");
+    assert_eq!(cells_for("world−view"), "WORLD-VIEW");
+    // A modifier letter apostrophe and a modifier letter prime, as apostrophes.
+    assert_eq!(cells_for("itʼs"), "ITS");
+    assert_eq!(cells_for("hereʹs"), "HERES");
+    // A reversed quotation mark, and Spanish inverted marks.
+    assert_eq!(cells_for("‟Hi,” he said"), "HI HE SAID");
+    assert_eq!(cells_for("¿Por qué? ¡Ya!"), "POR QUE YA");
+}
+
+#[test]
+fn an_unlisted_mark_fails_even_when_its_ascii_form_is_listed() {
+    // `any_ascii` writes these as `*` and `?`, which have cells.
+    assert!(error_for("name ★FEYI★").contains("U+2605"));
+    assert!(error_for("me \u{fffd}kite").contains("U+FFFD"));
+}
