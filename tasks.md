@@ -41,6 +41,9 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       all 27 examples it was given in a test. Once the spaces are in a
       committed puzzle's quote, `puzzle rebuild-cells` carries them into
       its cells and clue indices.
+- [ ] **Fix clues known to be wrong** — 33 puzzles clue `nephew` as
+      "Daughter's son." and 14 clue `dwight` as "Michele's husband on 'The
+      Office'."; fix each with `global edit-clue`.
 
 ### Tidy-ups
 
