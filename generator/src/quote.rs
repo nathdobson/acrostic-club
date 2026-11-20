@@ -59,6 +59,38 @@ const PINNED_UNNUMBERED_RECORDS: &[usize] = &[
     422_587,
 ];
 
+// The published puzzles whose quotes fall outside the current length limits. Stage 0 built them
+// under earlier rules, and this allowlist lets them through so that rebuilding the puzzles
+// reproduces every puzzle a solver may already have solved. A puzzle counts as published once it
+// has a `stage3.json`, since the site serves only those.
+#[rustfmt::skip]
+pub const PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
+    142_932,
+];
+
+// The withdrawn puzzles whose quotes fall outside the length limits: puzzles that had a
+// `stage3.json` in an earlier commit but have none now. Solvers may have solved them while the
+// site served them, so they are allowlisted as well.
+//
+// `git log --diff-filter=A -- 'puzzles/*/stage3.json'` lists every puzzle that ever had a
+// `stage3.json`.
+#[rustfmt::skip]
+pub const WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
+    0, 6, 7, 13, 20,
+];
+
+// Whether the quote numbered `puzzle_number` fits the length limits, or else is allowlisted due to
+// having been previously published.
+fn passes_length_limits(puzzle_number: usize, quote: &Quote) -> bool {
+    let is_allowlisted = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number)
+        || WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number);
+    is_allowlisted
+        || (quote.source.len() >= 23
+            && quote.source.len() <= 26
+            && quote.quote.len() > 180
+            && quote.quote.len() < 200)
+}
+
 impl Quote {
     // Builds a quote from one record of the quote file. A record holds the quote, its source, and
     // its comma-separated topics, followed by empty padding fields:
@@ -180,16 +212,13 @@ pub async fn build_quotes() -> io::Result<()> {
     Ok(())
 }
 
-// Starts a puzzle from a quote: stage 0's puzzle holds just the quote and its source. Fails when
-// the quote can't make a puzzle, because the quote or its source falls outside the length limits,
-// or because the quote lacks letters that the answers need to spell the source. It also fails on
-// a quote that `quote_to_cells` can't lay out.
-pub fn start_puzzle(quote: &Quote) -> io::Result<Puzzle> {
-    if !(quote.source.len() >= 23
-        && quote.source.len() <= 26
-        && quote.quote.len() > 180
-        && quote.quote.len() < 200)
-    {
+// Starts the puzzle numbered `puzzle_number` from its quote: stage 0's puzzle holds just the quote
+// and its source. Fails when the quote can't make a puzzle, because the quote or its source falls
+// outside the length limits and the puzzle isn't allowlisted, or because the quote lacks letters
+// that the answers need to spell the source. It also fails on a quote that `quote_to_cells` can't
+// lay out.
+pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
+    if !passes_length_limits(puzzle_number, quote) {
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
             format!("bad quote {} {}", quote.source.len(), quote.quote.len()),
@@ -227,7 +256,7 @@ pub fn start_puzzle(quote: &Quote) -> io::Result<Puzzle> {
 // Starts the puzzle numbered `pindex` from its quote, and writes it to stage0.json.
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
     let quotes = QUOTES.get().await.clone_error_static()?;
-    let puzzle = start_puzzle(&quotes[pindex])?;
+    let puzzle = start_puzzle(pindex, &quotes[pindex])?;
     puzzle.write(pindex, "stage0.json").await?;
     Ok(())
 }

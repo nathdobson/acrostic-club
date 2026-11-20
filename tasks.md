@@ -7,6 +7,10 @@ such as a commit message or a code comment.
 
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
+- [ ] **Decide whether to keep the allowlists of published puzzles** — a
+      call for Nathan. Stage 0 lets the published and withdrawn puzzles past
+      the length limits only so that a rebuild reproduces them; if a rebuild
+      may drop them, delete both lists in `quote.rs` along with their tests.
 - [ ] **Decide whether to build puzzles for the newly qualifying quotes** —
       the csv parser changed some quotes' lengths, so 26 numbers now pass
       `add_quote`'s length limits that didn't before.

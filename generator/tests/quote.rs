@@ -1,8 +1,12 @@
 use std::fs;
+use std::io;
 
 use acrostic_generator::PACKAGE_PATH;
 use acrostic_generator::puzzle::Puzzle;
-use acrostic_generator::quote::{Quote, parse_pinned_quote_file, parse_quotes, start_puzzle};
+use acrostic_generator::quote::{
+    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS,
+    parse_pinned_quote_file, parse_quotes, start_puzzle,
+};
 
 // Parses `csv` with every record numbered by its index.
 fn parse_numbered_by_index(csv: &str) -> Vec<Quote> {
@@ -135,6 +139,14 @@ fn test_unnumbered_records_are_skipped() {
     assert_eq!(quote_texts, ["Zero", "Three"]);
 }
 
+// A puzzle number on neither allowlist, so that the length limits apply to it in full.
+const UNALLOWLISTED_PUZZLE_NUMBER: usize = 1;
+
+// Starts a puzzle from `quote` under a number on neither allowlist, as for a new puzzle.
+fn start_unallowlisted_puzzle(quote: &Quote) -> io::Result<Puzzle> {
+    start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, quote)
+}
+
 // Builds a quote from `text` and `source` that fits stage 0's length limits, so that only their
 // letters decide whether the quote starts a puzzle. Pads each with a space and x's: the quote to
 // 190 bytes, within its limits of 181 to 199, and the source to 24, within 23 to 26. Neither input
@@ -161,7 +173,8 @@ fn build_quote(text: &str, source: &str) -> Quote {
 fn test_quote_holding_every_source_letter_starts_a_puzzle() {
     let quote = build_quote("Lola sat alone.", "Al Stone");
 
-    start_puzzle(&quote).expect("a quote holding every letter of its source should start a puzzle");
+    start_unallowlisted_puzzle(&quote)
+        .expect("a quote holding every letter of its source should start a puzzle");
 }
 
 #[test]
@@ -169,7 +182,8 @@ fn test_quote_lacking_a_source_letter_is_rejected() {
     // The source needs a Z, and the quote has none.
     let quote = build_quote("A rose is a rose.", "Ezra Rose");
 
-    let error = start_puzzle(&quote).expect_err("a quote without a Z should be rejected");
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote without a Z should be rejected");
 
     assert!(error.to_string().contains("lacks: Z"), "{error}");
 }
@@ -179,7 +193,8 @@ fn test_quote_holding_too_few_of_a_source_letter_is_rejected() {
     // The source needs two N's, and the quote has one.
     let quote = build_quote("Ana sat.", "Anna");
 
-    let error = start_puzzle(&quote).expect_err("a quote with one N should be rejected");
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote with one N should be rejected");
 
     assert!(error.to_string().contains("lacks: N"), "{error}");
 }
@@ -188,7 +203,8 @@ fn test_quote_holding_too_few_of_a_source_letter_is_rejected() {
 fn test_quote_with_a_mark_that_has_no_cells_is_rejected() {
     let quote = build_quote("Healed ☥ at last.", "Al Hatt");
 
-    let error = start_puzzle(&quote).expect_err("a quote holding `☥` should be rejected");
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote holding `☥` should be rejected");
 
     assert!(error.to_string().contains("U+2625"), "{error}");
 }
@@ -198,7 +214,7 @@ fn test_accented_quote_letter_supplies_its_plain_letter() {
     // The source's E comes from the quote's `é`.
     let quote = build_quote("Café", "Ace");
 
-    start_puzzle(&quote).expect("the quote's `é` should supply the source's E");
+    start_unallowlisted_puzzle(&quote).expect("the quote's `é` should supply the source's E");
 }
 
 // Reads the real quote file and the committed puzzles, so this test needs the Quotes-500K
@@ -242,4 +258,160 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
         checked_puzzle_count > 0,
         "puzzles/ should hold at least one committed puzzle"
     );
+}
+
+#[test]
+fn test_allowlisted_published_puzzle_outside_the_length_limits_starts() {
+    let allowlisted_puzzle_number = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS[0];
+    let quote = Quote {
+        quote: "a".repeat(10),
+        source: "a".repeat(5),
+    };
+
+    start_puzzle(allowlisted_puzzle_number, &quote)
+        .expect("an allowlisted published puzzle should start whatever its length");
+}
+
+#[test]
+fn test_unallowlisted_puzzle_outside_the_length_limits_is_rejected() {
+    let quote = Quote {
+        quote: "a".repeat(10),
+        source: "a".repeat(5),
+    };
+
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote of 10 bytes should be rejected");
+
+    assert!(error.to_string().contains("bad quote"), "{error}");
+}
+
+#[test]
+fn test_allowlisted_withdrawn_puzzle_outside_the_length_limits_starts() {
+    let allowlisted_puzzle_number = WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS[0];
+    let quote = Quote {
+        quote: "a".repeat(10),
+        source: "a".repeat(5),
+    };
+
+    start_puzzle(allowlisted_puzzle_number, &quote)
+        .expect("an allowlisted withdrawn puzzle should start whatever its length");
+}
+
+// Lists the numbers of the committed puzzles, which name the directories under `puzzles/`.
+fn committed_puzzle_numbers() -> Vec<usize> {
+    let puzzle_directories =
+        fs::read_dir(PACKAGE_PATH.join("puzzles")).expect("puzzles/ should exist");
+    puzzle_directories
+        .map(|entry| entry.expect("puzzles/ should be readable").path())
+        // Skip stray files such as macOS's `.DS_Store`.
+        .filter(|path| path.is_dir())
+        .map(|path| {
+            path.file_name()
+                .and_then(|name| name.to_str())
+                .and_then(|name| name.parse().ok())
+                .expect("each puzzle directory should be named by its number")
+        })
+        .collect()
+}
+
+// Whether a committed puzzle is published, which it is once it has the `stage3.json` that the site
+// serves.
+fn is_published(puzzle_number: usize) -> bool {
+    PACKAGE_PATH
+        .join(format!("puzzles/{puzzle_number}/stage3.json"))
+        .exists()
+}
+
+// Reads the quote and source stored in a committed puzzle's `stage0.json`, which
+// `test_pinned_quote_file_matches_committed_puzzles` checks against the quote file.
+fn read_committed_quote(puzzle_number: usize) -> Quote {
+    let path = PACKAGE_PATH.join(format!("puzzles/{puzzle_number}/stage0.json"));
+    let stage0 = fs::read_to_string(&path)
+        .unwrap_or_else(|error| panic!("{path:?} should be readable: {error}"));
+    let puzzle: Puzzle = serde_json::from_str(&stage0)
+        .unwrap_or_else(|error| panic!("{path:?} should parse: {error}"));
+    Quote {
+        quote: puzzle.quote,
+        source: puzzle.source,
+    }
+}
+
+#[test]
+fn test_published_puzzles_start() {
+    let published_puzzle_numbers: Vec<usize> = committed_puzzle_numbers()
+        .into_iter()
+        .filter(|&puzzle_number| is_published(puzzle_number))
+        .collect();
+
+    let start_failures: Vec<String> = published_puzzle_numbers
+        .iter()
+        .filter_map(|&puzzle_number| {
+            start_puzzle(puzzle_number, &read_committed_quote(puzzle_number))
+                .err()
+                .map(|error| format!("puzzle {puzzle_number}: {error}"))
+        })
+        .collect();
+
+    assert!(
+        !published_puzzle_numbers.is_empty(),
+        "puzzles/ should hold at least one published puzzle"
+    );
+    assert_eq!(
+        start_failures,
+        Vec::<String>::new(),
+        "each published puzzle should start, so that rebuilding reproduces it"
+    );
+}
+
+#[test]
+fn test_allowlisted_published_puzzles_have_a_stage3() {
+    let unpublished_puzzle_numbers: Vec<usize> = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS
+        .iter()
+        .copied()
+        .filter(|&puzzle_number| !is_published(puzzle_number))
+        .collect();
+
+    assert_eq!(unpublished_puzzle_numbers, Vec::<usize>::new());
+}
+
+#[test]
+fn test_allowlisted_published_puzzles_would_not_start_without_the_allowlist() {
+    let needlessly_allowlisted_puzzle_numbers: Vec<usize> = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS
+        .iter()
+        .copied()
+        .filter(|&puzzle_number| {
+            start_unallowlisted_puzzle(&read_committed_quote(puzzle_number)).is_ok()
+        })
+        .collect();
+
+    assert_eq!(needlessly_allowlisted_puzzle_numbers, Vec::<usize>::new());
+}
+
+#[test]
+fn test_allowlisted_withdrawn_puzzles_have_no_stage3() {
+    let published_puzzle_numbers: Vec<usize> = WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS
+        .iter()
+        .copied()
+        .filter(|&puzzle_number| is_published(puzzle_number))
+        .collect();
+
+    assert_eq!(published_puzzle_numbers, Vec::<usize>::new());
+}
+
+// Reads the real quote file, since some withdrawn puzzles no longer have a folder holding their
+// quote, so this test needs the Quotes-500K submodule checked out.
+#[test]
+#[ignore = "slow: parses the whole Quotes-500K file"]
+fn test_allowlisted_withdrawn_puzzles_would_not_start_without_the_allowlist() {
+    let compressed = fs::read(PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br"))
+        .expect("the Quotes-500K submodule should be checked out");
+    let quotes = parse_pinned_quote_file(&compressed).expect("the pinned quote file should parse");
+
+    let needlessly_allowlisted_puzzle_numbers: Vec<usize> = WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS
+        .iter()
+        .copied()
+        .filter(|&puzzle_number| start_unallowlisted_puzzle(&quotes[puzzle_number]).is_ok())
+        .collect();
+
+    assert_eq!(needlessly_allowlisted_puzzle_numbers, Vec::<usize>::new());
 }
