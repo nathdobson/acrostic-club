@@ -5,6 +5,7 @@ use futures::{StreamExt, stream};
 use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::add_letters::add_letters;
+use acrostic_generator::clue_migration::migrate_clues;
 use acrostic_generator::cluebank::edit_clue;
 use acrostic_generator::clues::{ClueClient, add_chat};
 use acrostic_generator::command_line::{
@@ -48,6 +49,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                 } = parse_edit_clue_arguments(args)?;
                 edit_clue(&answer, &tag, &new_text, reviewer).await?
             }
+            Some("migrate-clues") => migrate_clues().await?,
             x => panic!("Unknown global target {:?}", x),
         },
         Some("puzzle") => {

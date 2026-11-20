@@ -10,6 +10,7 @@ use acrostic_core::letter::LetterSet;
 
 pub mod add_letters;
 pub mod banned;
+pub mod clue_migration;
 pub mod cluebank;
 pub mod cluedb;
 pub mod clues;
