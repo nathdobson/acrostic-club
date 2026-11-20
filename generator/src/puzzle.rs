@@ -56,13 +56,13 @@ impl Puzzle {
     pub async fn read(index: usize, stage: &str) -> io::Result<Puzzle> {
         let path = PACKAGE_PATH
             .join("puzzles")
-            .join(&format!("{}", index))
+            .join(&format!("{index}"))
             .join(stage);
         let input = read_path_to_string(&path).await?;
         serde_json::from_str(&input).map_err(error_with_path("parse", &path))
     }
     pub async fn write(&self, index: usize, stage: &str) -> io::Result<()> {
-        let dir = PACKAGE_PATH.join("puzzles").join(&format!("{}", index));
+        let dir = PACKAGE_PATH.join("puzzles").join(&format!("{index}"));
         tokio::fs::create_dir_all(&dir)
             .await
             .map_err(error_with_path("create", &dir))?;

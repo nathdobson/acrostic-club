@@ -34,7 +34,7 @@ impl FlatTrieTable {
                 LetterMap::new();
             for x in Letter::all() {
                 tries[x] = Some(
-                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/tries/map_{}.dat", x)))
+                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/tries/map_{x}.dat")))
                         .await?,
                 );
             }

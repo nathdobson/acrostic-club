@@ -51,7 +51,7 @@ pub async fn restore_vec<T>(filename: &Path) -> io::Result<Box<[T], MmapAllocato
             .read(true)
             .open(filename)
             .await
-            .unwrap_or_else(|e| panic!("Cannot open {:?}: {}", filename, e));
+            .unwrap_or_else(|e| panic!("Cannot open {filename:?}: {e}"));
         let len = file
             .metadata()
             .await

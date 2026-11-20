@@ -16,9 +16,9 @@ pub async fn parse_file_graph(paths: &[&Path]) -> anyhow::Result<Turtle> {
 pub async fn parse_file_triples(path: &Path) -> anyhow::Result<Vec<(String, String, String)>> {
     let contents = fs::read_to_string(path)
         .await
-        .with_context(|| format!("while reading path {:?}", path))?;
+        .with_context(|| format!("while reading path {path:?}"))?;
     let triples =
-        parse_triples(&contents).with_context(|| format!("while parsing path {:?}", path))?;
+        parse_triples(&contents).with_context(|| format!("while parsing path {path:?}"))?;
     Ok(triples)
 }
 

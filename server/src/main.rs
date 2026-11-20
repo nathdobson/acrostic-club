@@ -39,7 +39,7 @@ async fn main() -> io::Result<()> {
                 println!("Upgraded");
                 let (tx, rx) = websocket.split();
                 if let Err(e) = room_set.run_socket(&name, tx, rx).await {
-                    eprintln!("Websocket error: {:?}", e);
+                    eprintln!("Websocket error: {e:?}");
                 }
             })
         })

@@ -102,7 +102,7 @@ impl Borrow<[Letter]> for LetterString {
 impl Debug for GraphemeString {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         for x in self.graphemes() {
-            write!(f, "{:?}", x)?;
+            write!(f, "{x:?}")?;
         }
         Ok(())
     }
@@ -124,7 +124,7 @@ impl Debug for Grapheme {
 impl Debug for LetterString {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         for x in &self.0 {
-            write!(f, "{}", x)?;
+            write!(f, "{x}")?;
         }
         Ok(())
     }

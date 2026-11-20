@@ -25,11 +25,11 @@ pub fn ollama_to_anyhow(ollama: OllamaError) -> anyhow::Error {
         OllamaError::ToolCallError(e) => match e {
             ToolCallError::UnknownToolName => anyhow!("UnknownToolName"),
             ToolCallError::InvalidToolArguments(e) => anyhow::Error::from(e),
-            ToolCallError::InternalToolError(e) => anyhow!("InternalToolError {}", e),
+            ToolCallError::InternalToolError(e) => anyhow!("InternalToolError {e}"),
         },
         OllamaError::JsonError(e) => anyhow::Error::from(e),
         OllamaError::ReqwestError(e) => anyhow::Error::from(e),
         OllamaError::InternalError(e) => anyhow!("InternalError {}", e.message),
-        OllamaError::Other(e) => anyhow!("Other {}", e),
+        OllamaError::Other(e) => anyhow!("Other {e}"),
     }
 }

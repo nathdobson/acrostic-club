@@ -18,9 +18,9 @@ impl Lemma {
         Ok(Self::parse(
             &fs::read_to_string(path)
                 .await
-                .with_context(|| format!("while reading {:?}", path))?,
+                .with_context(|| format!("while reading {path:?}"))?,
         )
-        .with_context(|| format!("while parsing {:?}", path))?)
+        .with_context(|| format!("while parsing {path:?}"))?)
     }
     pub fn parse(contents: &str) -> anyhow::Result<Self> {
         let mut forward: HashMap<String, Vec<String>> = HashMap::new();

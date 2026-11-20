@@ -145,7 +145,8 @@ impl Ontology {
             } else if typ.contains(&self.type_page) {
                 ps.push(Page(i));
             } else {
-                eprintln!("{:?}", self.graph.debug(i));
+                let unexpected_node = self.graph.debug(i);
+                eprintln!("{unexpected_node:?}");
             }
         }
         (ees, ps)

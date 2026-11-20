@@ -314,13 +314,13 @@ impl<V: Debug + Clone> Debug for FlatTrie<V> {
                 key,
                 value,
                 remainder,
-            } => write!(f, "{:?} = {:?}; {:?}", key, value, remainder),
+            } => write!(f, "{key:?} = {value:?}; {remainder:?}"),
             FlatTrieView::Node {
                 letter,
                 without,
                 with,
             } => {
-                write!(f, "{{ {:?} }}; {:?}  {{ {:?} }}", without, letter, with)
+                write!(f, "{{ {without:?} }}; {letter:?}  {{ {with:?} }}")
             }
         }
     }

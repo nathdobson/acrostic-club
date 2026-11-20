@@ -32,7 +32,7 @@ pub async fn mmap_bytes(filename: &Path) -> io::Result<Box<[u8], MmapAllocator>>
             .read(true)
             .open(filename)
             .await
-            .unwrap_or_else(|e| panic!("Cannot open {:?}: {}", filename, e));
+            .unwrap_or_else(|e| panic!("Cannot open {filename:?}: {e}"));
         let len = file
             .metadata()
             .await
@@ -69,7 +69,7 @@ impl<T: Archive, A: Allocator> ArchivedOwned<T, A> {
         for<'a> T::Archived: CheckBytes<DefaultValidator<'a>>,
     {
         let r: *const _ =
-            check_archived_root::<T>(&*b).map_err(|e| anyhow::Error::msg(format!("{:?}", e)))?;
+            check_archived_root::<T>(&*b).map_err(|e| anyhow::Error::msg(format!("{e:?}")))?;
         Ok(ArchivedOwned { b, r })
     }
 }

@@ -56,12 +56,11 @@ async fn build_index() -> io::Result<()> {
                 .parse()
                 .unwrap(),
             name: name.to_string().strip_suffix(".json").unwrap().to_string(),
-            url: format!("./puzzles/{}", name),
+            url: format!("./puzzles/{name}"),
         });
         writeln!(
             f,
-            "<p><a href=\"./index.html?puzzle=./puzzles/{}\" >{}</a></p>",
-            name, name,
+            "<p><a href=\"./index.html?puzzle=./puzzles/{name}\" >{name}</a></p>"
         )?;
     }
     index.links.sort();

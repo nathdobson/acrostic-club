@@ -269,7 +269,7 @@ impl Search {
                     continue 'main;
                 }
             }
-            write!(&mut result, "{:?}? ", word).unwrap();
+            write!(&mut result, "{word:?}? ").unwrap();
         }
         write!(&mut result, "[{:?}]", sol.remainder).unwrap();
         result
@@ -377,7 +377,7 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .bytes()
         .map(|x| {
             let x = Letter::new(x).unwrap();
-            clues2[x].pop().unwrap_or_else(|| panic!("Missing {:?}", x))
+            clues2[x].pop().unwrap_or_else(|| panic!("Missing {x:?}"))
         })
         .collect();
     puzzle.clues = Some(clues3);

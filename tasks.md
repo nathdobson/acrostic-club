@@ -54,10 +54,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       remain.
 - [ ] **Replace `.unwrap()` with `.expect()`** — give each call a message
       stating the invariant that should hold.
-- [ ] **Use inline named format arguments** — replace positional
-      placeholders, as in `trie_table.rs`'s
-      `format!("build/binary/map_{}_{}.dat", l1, l2)`, with names such as
-      `{elapsed:?}`, binding an expression to a descriptive local first.
 - [ ] **Merge `restore_vec` and `mmap_bytes`** — the two near-copies panic
       when they can't open or map their file, though both return
       `io::Result`; the merged function could return those errors instead.

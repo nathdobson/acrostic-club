@@ -196,7 +196,7 @@ impl Debug for LetterSet {
                 if c < 0 {
                     write!(f, "-")?;
                 }
-                write!(f, "{}", l)?;
+                write!(f, "{l}")?;
             }
         }
         Ok(())

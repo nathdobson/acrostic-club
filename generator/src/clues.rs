@@ -100,7 +100,7 @@ impl ClueClient {
     // clue for `answer` stands in. Either way, a clue with no letters or digits is skipped (see
     // `has_letters_or_digits`).
     pub async fn create_clue(&self, answer: &str) -> anyhow::Result<Option<(String, ClueSource)>> {
-        println!("creating clue for `{}`", answer);
+        println!("creating clue for `{answer}`");
         for seed in 0..10 {
             let clues = ClueRequest {
                 answer: answer.to_string(),
@@ -125,9 +125,9 @@ impl ClueClient {
                 .into_iter()
                 .map(|(clue, _score)| clue)
                 .collect::<Vec<_>>();
-            println!("    candidate clues {:?}", clues);
+            println!("    candidate clues {clues:?}");
             for clue in clues {
-                println!("    candidate clue {}", clue);
+                println!("    candidate clue {clue}");
                 let answers = AnswerRequest {
                     clue: clue.clone(),
                     letter_count: answer.len(),
@@ -138,14 +138,14 @@ impl ClueClient {
                 .send(&*self.client)
                 .await?
                 .answers;
-                println!("        candidate answers {:?}", answers);
+                println!("        candidate answers {answers:?}");
                 if answers.iter().any(|x| {
                     contains_subsequence(
                         &*LetterString::from_str(x),
                         &*LetterString::from_str(answer),
                     )
                 }) {
-                    println!("       Done! `{}` <= `{}`", answer, clue);
+                    println!("       Done! `{answer}` <= `{clue}`");
                     return Ok(Some((clue, ClueSource::Model(self.model.clone()))));
                 }
             }
@@ -155,10 +155,10 @@ impl ClueClient {
             .iter()
             .find(|entry| has_letters_or_digits(&entry.clue))
         {
-            println!("       Used backup database for {}: {}", answer, entry.clue);
+            println!("       Used backup database for {answer}: {}", entry.clue);
             return Ok(Some((entry.clue.clone(), ClueSource::Xd)));
         }
-        println!("       Failed to generate clue for {}", answer);
+        println!("       Failed to generate clue for {answer}");
         Ok(None)
     }
 }

@@ -37,7 +37,7 @@ pub static PACKAGE_PATH: LazyLock<PathBuf> = LazyLock::new(|| {
     let path = env::var("CARGO_MANIFEST_DIR")
         .map(|x| PathBuf::from(x).join(".."))
         .unwrap_or(PathBuf::from(env::current_dir().unwrap()));
-    println!("PACKAGE_PATH = {:?}", path);
+    println!("PACKAGE_PATH = {path:?}");
     path
 });
 
