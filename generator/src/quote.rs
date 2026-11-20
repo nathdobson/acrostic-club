@@ -15,6 +15,7 @@ use serde::Serialize;
 
 use crate::add_letters::{quote_to_cells, source_to_letters};
 use crate::puzzle::Puzzle;
+use crate::reformat::reformat_quote;
 use crate::util::lazy_async::CloneError;
 use crate::{PACKAGE_PATH, error_with_path, read_path, read_path_to_string, write_path};
 // use crate::util::lazy_async::LazyAsync;
@@ -274,11 +275,32 @@ pub async fn build_quotes() -> io::Result<()> {
     Ok(())
 }
 
-// Starts the puzzle numbered `puzzle_number` from its quote: stage 0's puzzle holds just the quote
-// and its source. Fails when the quote can't make a puzzle: when it holds a character that a puzzle
-// has no cell for, when the quote or its source falls outside the length limits and the puzzle
-// isn't allowlisted, or when the quote lacks letters that the answers need to spell the source.
+// Starts the puzzle numbered `puzzle_number` from its quote: stage 0's puzzle holds just the
+// quote's source and reformatted text. The solved puzzle shows the reformatted text, such as
+// `end. Begin` for `end.Begin`. Fails when the reformatted quote can't make a puzzle, as when it
+// falls outside the length limits; `check_quote` gives every reason.
 pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
+    let reformatted_quote = Quote {
+        quote: reformat_quote(&quote.quote),
+        source: quote.source.clone(),
+    };
+    check_quote(puzzle_number, &reformatted_quote)?;
+    let puzzle = Puzzle {
+        quote: reformatted_quote.quote,
+        quote_letters: None,
+        source: reformatted_quote.source,
+        source_letters: None,
+        clues: None,
+        chat: None,
+    };
+    Ok(puzzle)
+}
+
+// Checks that a reformatted quote, numbered `puzzle_number`, can make a puzzle. Fails when the
+// quote holds a character that a puzzle has no cell for, when the quote or its source falls
+// outside the length limits and the puzzle isn't allowlisted, or when the quote lacks letters that
+// the answers need to spell the source.
+fn check_quote(puzzle_number: usize, quote: &Quote) -> io::Result<()> {
     let letters = quote.letters()?;
     if !passes_length_limits(puzzle_number, &letters) {
         let quote_length = letters.quote.count();
@@ -305,16 +327,7 @@ pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
             ),
         ));
     }
-
-    let puzzle = Puzzle {
-        quote: quote.quote.clone(),
-        quote_letters: None,
-        source: quote.source.clone(),
-        source_letters: None,
-        clues: None,
-        chat: None,
-    };
-    Ok(puzzle)
+    Ok(())
 }
 
 // Starts the puzzle numbered `pindex` from its quote, and writes it to stage0.json.

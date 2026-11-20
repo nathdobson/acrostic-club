@@ -7,6 +7,7 @@ use acrostic_generator::quote::{
     PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS,
     parse_pinned_quote_file, parse_quotes, start_puzzle,
 };
+use acrostic_generator::reformat::reformat_quote;
 
 // Parses `csv` with every record numbered by its index.
 fn parse_numbered_by_index(csv: &str) -> Vec<Quote> {
@@ -213,6 +214,19 @@ fn test_quote_with_a_mark_that_has_no_cells_is_rejected() {
 }
 
 #[test]
+fn test_started_puzzle_holds_its_quote_with_characters_repaired() {
+    let quote = build_quote("Lola sat a\u{ad}lone.", "Al Stone");
+
+    let puzzle = start_unallowlisted_puzzle(&quote).expect("the quote should start a puzzle");
+
+    let reformatted_quote = &puzzle.quote;
+    assert!(
+        reformatted_quote.starts_with("Lola sat alone. "),
+        "{reformatted_quote:?}"
+    );
+}
+
+#[test]
 fn test_accented_quote_letter_supplies_its_plain_letter() {
     // The source's E comes from the quote's `é`.
     let quote = build_quote("Café", "Ace");
@@ -253,7 +267,12 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
         let quote = quotes
             .get(number)
             .unwrap_or_else(|| panic!("puzzle {number} should have a quote in the parsed list"));
-        assert_eq!(quote.quote, stored_puzzle.quote, "puzzle {number}");
+        // Stage 0 stores the quote reformatted.
+        assert_eq!(
+            reformat_quote(&quote.quote),
+            stored_puzzle.quote,
+            "puzzle {number}"
+        );
         assert_eq!(quote.source, stored_puzzle.source, "puzzle {number}");
         checked_puzzle_count += 1;
     }

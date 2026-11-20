@@ -1,6 +1,5 @@
 use crate::puzzle::Puzzle;
 use crate::string::{Grapheme, GraphemeString, LetterString};
-use any_ascii::any_ascii_char;
 use itertools::Itertools;
 use std::io;
 use std::io::ErrorKind;
@@ -197,71 +196,6 @@ fn word_cells(grapheme: &Grapheme) -> Result<String, String> {
     Ok(letters)
 }
 
-// Rewrites the characters of a quote that don't show what they stand for, before the quote is
-// split into graphemes.
-fn repair_characters(quote: &str) -> String {
-    let mut repaired = String::new();
-    for character in quote.chars() {
-        match character {
-            // Characters that carry no text are removed, so that a word they sit inside stays
-            // whole.
-            //
-            // A soft hyphen.
-            '\u{ad}'
-            // A `¬`, which the pinned quotes hold only in place of a soft hyphen at an old line
-            // break, as in `unpro¬cessed`.
-            | '¬'
-            // A combining grapheme joiner.
-            | '\u{34f}'
-            // A zero-width space, non-joiner, and joiner, and left-to-right and right-to-left
-            // marks.
-            | '\u{200b}'..='\u{200f}'
-            // Direction embeddings and overrides.
-            | '\u{202a}'..='\u{202e}'
-            // A word joiner, invisible math operators, direction isolates, and deprecated
-            // formatting characters.
-            | '\u{2060}'..='\u{206f}'
-            // Variation selectors, which choose how the character before them is drawn.
-            | '\u{fe00}'..='\u{fe0f}'
-            // A byte-order mark.
-            | '\u{feff}' => {}
-            // Windows-1252 punctuation decoded as if it were Latin-1 becomes the character it
-            // was meant to be.
-            '\u{92}' => repaired.push('’'),
-            '\u{93}' => repaired.push('“'),
-            '\u{94}' => repaired.push('”'),
-            '\u{97}' => repaired.push('—'),
-            // A byte that Windows-1252 leaves undefined. The pinned quotes hold it only as a
-            // leftover just after a `”`, so it stands for nothing.
-            '\u{9d}' => {}
-            _ => {
-                // A fraction character becomes digits and a slash, which then show as a number.
-                // A space keeps it apart from a whole number just before it, so that `9¾`
-                // becomes `9 3/4` rather than `93/4`.
-                if let Some(fraction) = fraction_in_ascii(character) {
-                    if repaired.ends_with(char::is_numeric) {
-                        repaired.push(' ');
-                    }
-                    repaired.push_str(fraction);
-                } else {
-                    repaired.push(character);
-                }
-            }
-        }
-    }
-    repaired
-}
-
-// The ASCII form of a fraction character, such as `1/2` for `½`, or `None` for any other
-// character.
-fn fraction_in_ascii(character: char) -> Option<&'static str> {
-    let ascii = any_ascii_char(character);
-    let (numerator, denominator) = ascii.split_once('/')?;
-    let is_number =
-        |text: &str| !text.is_empty() && text.chars().all(|digit| digit.is_ascii_digit());
-    (is_number(numerator) && is_number(denominator)).then_some(ascii)
-}
-
 // The grapheme in its ASCII form, or as written when it has none.
 fn ascii_or_original(grapheme: &Grapheme) -> &str {
     if grapheme.ascii().is_empty() {
@@ -355,10 +289,11 @@ fn split_off_number_symbols(
 
 // Lays a quote out as the puzzle's cells: one per letter or digit, a space between words, a
 // hyphen for each dash, and any symbols inside a number or attached to one as written, as in
-// `3:16` or `17%`. Fails on any character it doesn't recognize, such as `☥`, since it has no
-// cells to give it.
+// `3:16` or `17%`. Expects text that `reformat_quote` has reformatted, whose characters show what
+// they stand for. Fails on any character it doesn't recognize, such as `☥`, since it has no cells
+// to give it.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
-    let graphemes = GraphemeString::from_str(&repair_characters(input));
+    let graphemes = GraphemeString::from_str(input);
     let runs = check_letters_are_latin(&graphemes)
         .and_then(|()| quote_to_runs(&graphemes))
         .map_err(|problem| {
@@ -425,6 +360,8 @@ pub fn source_to_letters(source: &str) -> String {
         .collect()
 }
 
+// Stage 1: lays the quote from stage0.json out as the puzzle's cells, spells out its source as
+// letters, and writes the puzzle to stage1.json.
 pub async fn add_letters(pindex: usize) -> io::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage0.json").await?;
     if puzzle.quote_letters.is_none() {

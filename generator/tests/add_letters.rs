@@ -91,32 +91,11 @@ fn tabs_newlines_and_non_breaking_spaces_count_as_spaces() {
 }
 
 #[test]
-fn invisible_formatting_characters_vanish_without_splitting_a_word() {
-    // A zero-width space.
-    assert_eq!(cells_for("some\u{200b}thing"), "SOMETHING");
-    assert_eq!(cells_for("o-\u{200b}u-\u{200b}i"), "O-U-I");
-    // A soft hyphen.
-    assert_eq!(cells_for("beauti\u{ad}ful"), "BEAUTIFUL");
-    // A byte-order mark and a left-to-right mark.
-    assert_eq!(cells_for("\u{feff}\u{200e}Hello"), "HELLO");
-    // A variation selector on its own.
-    assert_eq!(cells_for("later.\u{fe0f}"), "LATER");
-    // A `¬` in place of a soft hyphen.
-    assert_eq!(cells_for("unpro¬cessed"), "UNPROCESSED");
-    // A combining grapheme joiner, on a dot.
-    assert_eq!(cells_for("truth.\u{34f} Then"), "TRUTH THEN");
-}
+fn an_unrepaired_soft_hyphen_fails() {
+    // `reformat_quote` removes soft hyphens before the cells are laid out.
+    let message = error_for("beauti\u{ad}ful");
 
-#[test]
-fn windows_1252_punctuation_decoded_as_latin_1_counts_as_meant() {
-    // U+0092 for a right single quotation mark, serving as an apostrophe.
-    assert_eq!(cells_for("don\u{92}t"), "DONT");
-    // U+0097 for an em dash.
-    assert_eq!(cells_for("fall\u{97}and"), "FALL-AND");
-    // U+0093 and U+0094 for double quotation marks.
-    assert_eq!(cells_for("\u{93}Strange,\u{94} he said"), "STRANGE HE SAID");
-    // U+009D, left over beside a closing quotation mark.
-    assert_eq!(cells_for("fear”\u{9d} always"), "FEAR ALWAYS");
+    assert!(message.contains("U+00AD"), "{message}");
 }
 
 #[test]
@@ -223,17 +202,6 @@ fn a_symbol_inside_a_number_shows_as_written() {
     assert_eq!(cells_for("24\\7"), "24\\7");
     // A curly apostrophe, as in feet and inches, shows in its ASCII form.
     assert_eq!(cells_for("5\u{2019}3"), "5'3");
-}
-
-#[test]
-fn a_fraction_character_shows_as_digits_and_a_slash() {
-    assert_eq!(cells_for("the 12 ½ years"), "THE 12 1/2 YEARS");
-    assert_eq!(cells_for("a ¾ oz"), "A 3/4 OZ");
-}
-
-#[test]
-fn a_fraction_character_after_a_digit_stays_apart_from_it() {
-    assert_eq!(cells_for("Platform 9¾"), "PLATFORM 9 3/4");
 }
 
 #[test]

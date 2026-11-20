@@ -22,6 +22,7 @@ pub mod maintenance;
 pub mod ontology;
 pub mod puzzle;
 pub mod quote;
+pub mod reformat;
 pub mod search;
 pub mod site;
 pub mod string;
