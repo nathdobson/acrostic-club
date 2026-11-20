@@ -11,9 +11,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       call for Nathan. Stage 0 lets the published and withdrawn puzzles past
       the length limits only so that a rebuild reproduces them; if a rebuild
       may drop them, delete both lists in `quote.rs` along with their tests.
-- [ ] **Decide whether to build puzzles for the newly qualifying quotes** —
-      the csv parser changed some quotes' lengths, so 26 numbers now pass
-      `add_quote`'s length limits that didn't before.
 - [ ] **Read records with an empty field mid-record** — see the TODO in
       `Quote::from_record`.
 - [ ] **Create `build/` when building the quote list** — `global quotes`
@@ -22,9 +19,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Skip quotes another puzzle already uses** — some quotes appear in
       several records, so two puzzle numbers can yield the same puzzle, as
       415441 and 417219 do.
-- [ ] **Count letters, not bytes, in `add_quote`'s length limits** — the
-      limits count spaces, punctuation, and every byte of a multi-byte
-      character, but puzzle size depends only on letters.
 
 ## Backlog
 
@@ -48,9 +42,9 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Replace `.unwrap()` with `.expect()`** — give each call a message
       stating the invariant that should hold.
 - [ ] **Use inline named format arguments** — replace positional
-      placeholders, as in `add_quote`'s `format!("bad quote {} {}", …)`, with
-      names such as `{elapsed:?}`, binding an expression to a descriptive
-      local first.
+      placeholders, as in `trie_table.rs`'s
+      `format!("build/binary/map_{}_{}.dat", l1, l2)`, with names such as
+      `{elapsed:?}`, binding an expression to a descriptive local first.
 - [ ] **Merge `restore_vec` and `mmap_bytes`** — the two near-copies panic
       when they can't open or map their file, though both return
       `io::Result`; the merged function could return those errors instead.

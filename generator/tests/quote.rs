@@ -148,8 +148,7 @@ fn start_unallowlisted_puzzle(quote: &Quote) -> io::Result<Puzzle> {
 }
 
 // Builds a quote from `text` and `source` that fits stage 0's length limits, so that only their
-// letters decide whether the quote starts a puzzle. Pads each with a space and x's: the quote to
-// 190 bytes, within its limits of 181 to 199, and the source to 24, within 23 to 26. Neither input
+// letters decide whether the quote starts a puzzle. Pads each with a space and x's. Neither input
 // may hold an X, and the quote's padding holds more x's than the source's, so the padding never
 // decides a test.
 fn build_quote(text: &str, source: &str) -> Quote {
@@ -159,12 +158,16 @@ fn build_quote(text: &str, source: &str) -> Quote {
             "a test input should hold no X, since the padding supplies x's: {input:?}"
         );
     }
-    let pad = |unpadded: &str, length: usize| {
-        let padding = "x".repeat(length - unpadded.len() - 1);
+    let pad = |unpadded: &str, letter_count: usize| {
+        let unpadded_letter_count = unpadded
+            .chars()
+            .filter(|character| character.is_alphabetic())
+            .count();
+        let padding = "x".repeat(letter_count - unpadded_letter_count);
         format!("{unpadded} {padding}")
     };
     Quote {
-        quote: pad(text, 190),
+        quote: pad(text, 175),
         source: pad(source, 24),
     }
 }
@@ -261,6 +264,129 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
 }
 
 #[test]
+fn test_quote_and_source_at_their_lower_length_limits_start_a_puzzle() {
+    let quote = Quote {
+        quote: "a".repeat(166),
+        source: "a".repeat(20),
+    };
+
+    start_unallowlisted_puzzle(&quote)
+        .expect("a quote of 166 letters and a source of 20 should start a puzzle");
+}
+
+#[test]
+fn test_quote_and_source_at_their_upper_length_limits_start_a_puzzle() {
+    let quote = Quote {
+        quote: "a".repeat(183),
+        source: "a".repeat(26),
+    };
+
+    start_unallowlisted_puzzle(&quote)
+        .expect("a quote of 183 letters and a source of 26 should start a puzzle");
+}
+
+#[test]
+fn test_quote_below_its_length_limit_is_rejected() {
+    let quote = Quote {
+        quote: "a".repeat(165),
+        source: "a".repeat(21),
+    };
+
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote of 165 letters should be rejected");
+
+    assert!(error.to_string().contains("165 letters"), "{error}");
+}
+
+#[test]
+fn test_quote_above_its_length_limit_is_rejected() {
+    let quote = Quote {
+        quote: "a".repeat(184),
+        source: "a".repeat(21),
+    };
+
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote of 184 letters should be rejected");
+
+    assert!(error.to_string().contains("184 letters"), "{error}");
+}
+
+#[test]
+fn test_source_below_its_length_limit_is_rejected() {
+    let quote = Quote {
+        quote: "a".repeat(170),
+        source: "a".repeat(19),
+    };
+
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a source of 19 letters should be rejected");
+
+    assert!(error.to_string().contains("source 19"), "{error}");
+}
+
+#[test]
+fn test_source_above_its_length_limit_is_rejected() {
+    let quote = Quote {
+        quote: "a".repeat(183),
+        source: "a".repeat(27),
+    };
+
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a source of 27 letters should be rejected");
+
+    assert!(error.to_string().contains("source 27"), "{error}");
+}
+
+#[test]
+fn test_spaces_punctuation_and_digits_do_not_count_toward_length() {
+    // 166 letters, the lower limit, among 664 characters, and a source of 20 letters among 60.
+    let quote = Quote {
+        quote: "a1, ".repeat(166),
+        source: "a. ".repeat(20),
+    };
+
+    start_unallowlisted_puzzle(&quote).expect("a quote of 166 letters should start a puzzle");
+}
+
+#[test]
+fn test_accented_letter_counts_as_one_letter() {
+    // 183 letters, the upper limit, written in 366 bytes.
+    let quote = Quote {
+        quote: "é".repeat(183),
+        source: "e".repeat(20),
+    };
+
+    start_unallowlisted_puzzle(&quote)
+        .expect("a quote of 183 accented letters should start a puzzle");
+}
+
+#[test]
+fn test_quote_with_too_short_an_average_answer_is_rejected() {
+    // 6.38 letters per answer, though each length alone falls within its limits.
+    let quote = Quote {
+        quote: "a".repeat(166),
+        source: "a".repeat(26),
+    };
+
+    let error = start_unallowlisted_puzzle(&quote)
+        .expect_err("answers averaging 6.38 letters should be rejected");
+
+    assert!(error.to_string().contains("averaging"), "{error}");
+}
+
+#[test]
+fn test_quote_with_exactly_the_minimum_average_answer_length_starts_a_puzzle() {
+    // 6.5 letters per answer.
+    let quote = Quote {
+        quote: "a".repeat(169),
+        source: "a".repeat(26),
+    };
+
+    start_unallowlisted_puzzle(&quote)
+        .expect("answers averaging 6.5 letters should start a puzzle");
+}
+
+#[test]
 fn test_allowlisted_published_puzzle_outside_the_length_limits_starts() {
     let allowlisted_puzzle_number = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS[0];
     let quote = Quote {
@@ -280,9 +406,9 @@ fn test_unallowlisted_puzzle_outside_the_length_limits_is_rejected() {
     };
 
     let error =
-        start_unallowlisted_puzzle(&quote).expect_err("a quote of 10 bytes should be rejected");
+        start_unallowlisted_puzzle(&quote).expect_err("a quote of 10 letters should be rejected");
 
-    assert!(error.to_string().contains("bad quote"), "{error}");
+    assert!(error.to_string().contains("10 letters"), "{error}");
 }
 
 #[test]

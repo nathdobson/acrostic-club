@@ -1,5 +1,6 @@
 use std::io::{self, ErrorKind, Read};
 use std::iter;
+use std::ops::RangeInclusive;
 use std::sync::LazyLock;
 use std::time::Instant;
 
@@ -59,13 +60,53 @@ const PINNED_UNNUMBERED_RECORDS: &[usize] = &[
     422_587,
 ];
 
+// How long a puzzle's quote and source may each be.
+//
+// In an acrostic, the answers' first letters, read in order, spell the source, so a puzzle has as
+// many answers as its source has letters. The answers use each of the quote's letters once, so the
+// quote's letters set the answers' combined length.
+//
+// The limits follow the New York Times acrostics' length distributions. Across 504 of its puzzles
+// from 2000 to 2023, collected at github.com/lordjoe/Acrostics, the 1st to 99th percentiles run
+// from 166 to 183 quote letters and from 20 to 26 answers. 97% of the puzzles meet both ranges and
+// the minimum average answer length below.
+const QUOTE_LENGTH_LIMITS: RangeInclusive<usize> = 166..=183;
+const SOURCE_LENGTH_LIMITS: RangeInclusive<usize> = 20..=26;
+
+// The fewest quote letters a puzzle may hold per answer, on average. With fewer, the answers grow
+// so short that the answer search often fails, and the Times rarely goes below this threshold: 95%
+// of its puzzles have at least 6.6 letters per answer.
+const MINIMUM_AVERAGE_ANSWER_LENGTH: f64 = 6.5;
+
 // The published puzzles whose quotes fall outside the current length limits. Stage 0 built them
 // under earlier rules, and this allowlist lets them through so that rebuilding the puzzles
 // reproduces every puzzle a solver may already have solved. A puzzle counts as published once it
 // has a `stage3.json`, since the site serves only those.
 #[rustfmt::skip]
 pub const PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
-    142_932,
+    1_455, 3_653, 4_113, 4_426, 6_492, 6_895, 7_042, 7_598, 8_863, 8_868,
+    8_922, 9_113, 9_328, 9_513, 10_517, 10_908, 11_461, 14_790, 15_392, 15_550,
+    17_027, 17_781, 18_569, 19_573, 20_724, 23_340, 24_513, 25_118, 25_645, 25_924,
+    26_408, 26_476, 26_576, 27_045, 27_323, 27_492, 29_085, 29_089, 30_625, 30_922,
+    31_136, 31_686, 35_944, 36_308, 37_008, 41_406, 41_578, 42_312, 43_882, 45_767,
+    45_812, 45_964, 46_413, 47_432, 49_844, 52_113, 52_427, 52_545, 52_546, 52_598,
+    53_316, 55_056, 57_067, 57_081, 58_822, 59_025, 59_071, 59_492, 59_650, 59_838,
+    59_925, 60_679, 61_021, 63_625, 64_397, 65_901, 66_954, 67_180, 69_681, 69_792,
+    70_715, 73_105, 73_294, 73_423, 73_779, 73_818, 73_901, 74_436, 75_038, 75_892,
+    76_156, 76_213, 76_361, 80_330, 81_705, 81_736, 81_766, 82_175, 82_836, 82_901,
+    83_348, 84_519, 84_621, 86_170, 86_791, 88_371, 88_588, 89_896, 90_165, 90_491,
+    91_804, 93_807, 94_603, 97_612, 99_100, 99_397, 99_671, 106_792, 107_718, 108_164,
+    108_608, 108_788, 112_789, 113_781, 114_449, 114_639, 116_391, 117_172, 117_890, 119_949,
+    122_040, 122_312, 122_840, 123_233, 126_723, 127_236, 129_221, 130_088, 130_457, 131_531,
+    131_913, 132_409, 134_613, 135_780, 136_772, 137_687, 137_873, 138_351, 141_556, 141_705,
+    141_912, 141_992, 142_003, 142_549, 142_883, 142_932, 143_713, 146_247, 147_447, 147_587,
+    148_588, 149_190, 149_514, 151_104, 151_743, 151_895, 152_467, 152_674, 153_013, 153_521,
+    155_264, 155_314, 156_332, 159_503, 163_197, 165_612, 166_356, 167_469, 170_288, 170_945,
+    172_378, 173_477, 173_731, 174_257, 176_123, 177_346, 177_382, 178_031, 179_070, 180_087,
+    181_742, 181_749, 181_775, 181_946, 182_727, 183_091, 183_457, 183_570, 185_445, 185_772,
+    186_025, 186_444, 186_690, 188_640, 188_787, 189_188, 189_605, 189_894, 190_118, 190_670,
+    191_246, 195_375, 196_076, 196_097, 196_168, 196_283, 196_313, 196_602, 197_036, 197_097,
+    197_332, 199_185, 199_302, 199_737, 199_996,
 ];
 
 // The withdrawn puzzles whose quotes fall outside the length limits: puzzles that had a
@@ -76,19 +117,18 @@ pub const PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
 // `stage3.json`.
 #[rustfmt::skip]
 pub const WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
-    0, 6, 7, 13, 20,
+    0, 6, 7, 13, 20, 769, 17_789, 27_285, 32_521, 52_456,
+    56_095, 79_220, 87_057, 95_575, 139_340, 150_076, 153_555, 154_240, 155_114, 170_534,
+    178_155, 188_920, 196_030, 200_220, 200_351, 201_629, 206_147, 206_383, 207_436, 207_535,
+    207_775, 208_337, 208_401, 211_451,
 ];
 
-// Whether the quote numbered `puzzle_number` fits the length limits, or else is allowlisted due to
-// having been previously published.
-fn passes_length_limits(puzzle_number: usize, quote: &Quote) -> bool {
+// Whether the quote numbered `puzzle_number`, holding `letters`, fits the length limits, or else is
+// allowlisted due to having been previously published.
+fn passes_length_limits(puzzle_number: usize, letters: &QuoteLetters) -> bool {
     let is_allowlisted = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number)
         || WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number);
-    is_allowlisted
-        || (quote.source.len() >= 23
-            && quote.source.len() <= 26
-            && quote.quote.len() > 180
-            && quote.quote.len() < 200)
+    is_allowlisted || letters.fits_length_limits()
 }
 
 impl Quote {
@@ -164,6 +204,16 @@ struct QuoteLetters {
 }
 
 impl QuoteLetters {
+    // Whether the quote and its source each fall within their length limits, with answers that
+    // average at least the minimum length.
+    fn fits_length_limits(&self) -> bool {
+        let quote_length = self.quote.count();
+        let source_length = self.source.count();
+        QUOTE_LENGTH_LIMITS.contains(&quote_length)
+            && SOURCE_LENGTH_LIMITS.contains(&source_length)
+            && quote_length as f64 >= MINIMUM_AVERAGE_ANSWER_LENGTH * source_length as f64
+    }
+
     // The letters the source needs beyond those the quote holds: for a source with two Y's and a
     // quote with one, a single Y. A puzzle needs this set to be empty, since each answer starts
     // with its letter of the source and takes all its letters from the quote.
@@ -225,18 +275,25 @@ pub async fn build_quotes() -> io::Result<()> {
 }
 
 // Starts the puzzle numbered `puzzle_number` from its quote: stage 0's puzzle holds just the quote
-// and its source. Fails when the quote can't make a puzzle, because the quote or its source falls
-// outside the length limits and the puzzle isn't allowlisted, or because the quote lacks letters
-// that the answers need to spell the source. It also fails on a quote holding a character that a
-// puzzle has no cell for.
+// and its source. Fails when the quote can't make a puzzle: when it holds a character that a puzzle
+// has no cell for, when the quote or its source falls outside the length limits and the puzzle
+// isn't allowlisted, or when the quote lacks letters that the answers need to spell the source.
 pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
-    if !passes_length_limits(puzzle_number, quote) {
+    let letters = quote.letters()?;
+    if !passes_length_limits(puzzle_number, &letters) {
+        let quote_length = letters.quote.count();
+        let source_length = letters.source.count();
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
-            format!("bad quote {} {}", quote.source.len(), quote.quote.len()),
+            format!(
+                "bad quote: the quote holds {quote_length} letters and the source \
+                 {source_length}, but a puzzle needs {QUOTE_LENGTH_LIMITS:?} and \
+                 {SOURCE_LENGTH_LIMITS:?}, with answers averaging at least \
+                 {MINIMUM_AVERAGE_ANSWER_LENGTH} letters"
+            ),
         ));
     }
-    let missing_letters = quote.letters()?.missing_source_letters();
+    let missing_letters = letters.missing_source_letters();
     if missing_letters.count() > 0 {
         let source = &quote.source;
         let missing_letter_list = missing_letters.multiset_iter().join(", ");
@@ -249,11 +306,6 @@ pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
         ));
     }
 
-    // let (index, selected) = quotes.into_iter().enumerate()
-    //     .filter(|(index, quote)| quote.source.len() > 22
-    //         && quote.source.len() <= 24
-    //         && quote.quote.len() > 180
-    //         && quote.quote.len() < 200).nth(pindex).unwrap();
     let puzzle = Puzzle {
         quote: quote.quote.clone(),
         quote_letters: None,
