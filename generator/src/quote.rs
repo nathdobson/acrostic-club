@@ -286,7 +286,7 @@ pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
             format!(
-                "bad quote: the quote holds {quote_length} letters and the source \
+                "unusable quote: the quote holds {quote_length} letters and the source \
                  {source_length}, but a puzzle needs {QUOTE_LENGTH_LIMITS:?} and \
                  {SOURCE_LENGTH_LIMITS:?}, with answers averaging at least \
                  {MINIMUM_AVERAGE_ANSWER_LENGTH} letters"
@@ -300,7 +300,7 @@ pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
             format!(
-                "impossible puzzle: the source {source:?} needs letters that its quote lacks: \
+                "unusable quote: the source {source:?} needs letters that its quote lacks: \
                  {missing_letter_list}"
             ),
         ));
