@@ -5,7 +5,7 @@ use futures::{StreamExt, stream};
 use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::add_letters::add_letters;
-use acrostic_generator::cluebank::edit_clue;
+use acrostic_generator::cluebank::{ClueEdit, edit_clues};
 use acrostic_generator::clues::{ClueClient, add_chat, preview_chat};
 use acrostic_generator::command_line::{
     EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_puzzle_arguments,
@@ -38,15 +38,17 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             Some("trie") => build_trie().await?,
             Some("site") => build_site().await?,
             Some("turtle") => build_ontolex_turtle().await?,
-            // Changes one clue's text, renaming its tag in the puzzles too when the tag changes.
-            Some("edit-clue") => {
+            // Records a person's edit of one clue's text, along with the person's satisfying
+            // review of it, renaming the clue's tag in the puzzles too when the tag changes. Only
+            // people run this command, since it credits every edit to a person: a model's edits go
+            // through `edit_clues` with the model as their source.
+            Some("edit-clue-as-person") => {
                 let EditClueArguments {
                     answer,
                     tag,
                     new_text,
-                    reviewer,
                 } = parse_edit_clue_arguments(args)?;
-                edit_clue(&answer, &tag, &new_text, reviewer).await?
+                edit_clues(&[ClueEdit::by_person(&answer, &tag, &new_text)]).await?
             }
             target => panic!("Unknown global target {target:?}"),
         },

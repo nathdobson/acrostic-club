@@ -15,13 +15,16 @@
 // each such edit must update every puzzle that names the clue.
 //
 // Tags pay a smaller form of that cost. Editing the words a tag is built from changes the tag, so
-// every puzzle naming the clue must change along with the bank. `edit_clue` makes both changes
+// every puzzle naming the clue must change along with the bank. `edit_clues` makes both changes
 // together. Editing a clue's text by hand in a way that changes its tag makes the next load fail,
 // naming the clue.
 //
-// Each clue also records where it came from and who reviewed it, if anyone, so that tools can tell
-// reviewed clues from unreviewed ones. A model's review is preferred to a person's: a person who
-// reviews a clue sees its answer, which spoils the puzzles that show the clue.
+// Each clue also records where it came from and, once someone has reviewed it, the review: who
+// reviewed it, a verdict, and any problems found. New puzzles prefer an answer's best-reviewed
+// clues (see `ClueBank::clue_for_puzzle`), and the problems tell a later rewriter what to fix. A
+// review covers only the text it judged, so changing a clue's text drops its review. A person's
+// review is more reliable than a model's, but a model's review avoids spoilers: a person who
+// reviews a clue sees its answer, which spoils the puzzles that use the clue.
 
 use std::borrow::Borrow;
 use std::collections::BTreeMap;
@@ -200,13 +203,43 @@ pub enum Reviewer {
     Person,
 }
 
-impl fmt::Display for Reviewer {
-    fn fmt(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
-        match self {
-            Reviewer::Model(model) => formatter.write_str(model),
-            Reviewer::Person => formatter.write_str("a person"),
-        }
-    }
+// A reviewer's judgment of a clue, on the scale the clue-grading prompt uses.
+#[derive(Serialize, Deserialize, Debug, Clone, Copy, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum Verdict {
+    // The clue is inaccurate or unfair, or it gives the answer away.
+    Flawed,
+    // The clue is accurate and fair, but offers nothing beyond a plain definition or fact.
+    Flat,
+    // The clue is accurate and fair, and delivers something more, such as wordplay, misdirection,
+    // or a moment of delight. A person's own edit of a clue records this verdict too, whatever the
+    // clue delivers (see `ClueEdit::by_person`): new puzzles should prefer a clue a person chose,
+    // and later upgrades should leave it alone.
+    Satisfying,
+}
+
+// One reviewer's judgment of a clue's text, such as a `Flat` verdict with the problem "The clue is
+// a dictionary definition."
+#[derive(Serialize, Deserialize, Debug, Clone, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct Review {
+    pub reviewer: Reviewer,
+    pub verdict: Verdict,
+    // Each problem the reviewer found, in a sentence of its own. A clue of any verdict may have
+    // problems: a flat clue's problems often say why it falls short of satisfying.
+    pub problems: Vec<String>,
+}
+
+// A clue's rank among its answer's clues: a new puzzle picks only from the highest-ranked ones. The
+// ranks run from lowest to highest. An unreviewed clue ranks below a flat one, which a review
+// found accurate and fair, and above a flawed one, which a review found wanting: until someone
+// reviews it, it could prove either.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord)]
+enum ClueRank {
+    Flawed,
+    Unreviewed,
+    Flat,
+    Satisfying,
 }
 
 // One clue in the bank. Its fields are private so that its tag always matches its text. A field
@@ -217,7 +250,7 @@ pub struct BankedClue {
     tag: String,
     text: String,
     source: ClueSource,
-    reviewer: Option<Reviewer>,
+    review: Option<Review>,
 }
 
 impl BankedClue {
@@ -236,9 +269,21 @@ impl BankedClue {
         &self.source
     }
 
-    // Returns who reviewed the clue, or `None` when no one has.
-    pub fn reviewer(&self) -> Option<&Reviewer> {
-        self.reviewer.as_ref()
+    // Returns the review of the clue's current text, or `None` when no one has reviewed it.
+    pub fn review(&self) -> Option<&Review> {
+        self.review.as_ref()
+    }
+
+    // Returns the clue's rank among its answer's clues, which the verdict of its review sets.
+    fn rank(&self) -> ClueRank {
+        match &self.review {
+            None => ClueRank::Unreviewed,
+            Some(review) => match review.verdict {
+                Verdict::Flawed => ClueRank::Flawed,
+                Verdict::Flat => ClueRank::Flat,
+                Verdict::Satisfying => ClueRank::Satisfying,
+            },
+        }
     }
 }
 
@@ -296,9 +341,10 @@ impl ClueBank {
                     *tag == expected_tag,
                     "the clue {text:?} for {answer:?} has tag {tag:?}, but that text calls for \
                      {expected_tag:?}. If the text was edited by hand, restore the text the tag \
-                     was built from, then make the change with the `global edit-clue` command, \
-                     which also renames the tag in the puzzles that name the clue. If `tag_for` \
-                     changed, retag the bank and the puzzles together."
+                     was built from, then make the change through `edit_clues`, which also \
+                     renames the tag in the puzzles that name the clue; a person can run it as \
+                     `global edit-clue-as-person`. If `tag_for` changed, retag the bank and the \
+                     puzzles together."
                 );
                 let is_repeated_tag = clues[..position].iter().any(|earlier| earlier.tag == *tag);
                 ensure!(
@@ -330,15 +376,19 @@ impl ClueBank {
     }
 
     // Returns the answer's clue for the puzzle with this index, or `None` when the bank has no
-    // clues for the answer. The index picks among the answer's clues, so puzzles that share an
-    // answer spread across its clues, while a puzzle picks the same clue on every run as long as
-    // the answer's clues stay the same.
+    // clues for the answer. Only the answer's best-ranked clues are candidates: its satisfying
+    // clues if it has any, else its flat ones, else its unreviewed ones, else its flawed ones. The
+    // index picks among the candidates, so puzzles that share an answer spread across them, while
+    // a puzzle picks the same clue on every run as long as the answer's clues and their reviews
+    // stay the same.
     pub fn clue_for_puzzle(&self, answer: &str, puzzle_index: usize) -> Option<&BankedClue> {
         let clues = self.clues_for(answer);
-        if clues.is_empty() {
-            return None;
-        }
-        Some(&clues[puzzle_index % clues.len()])
+        let best_rank = clues.iter().map(BankedClue::rank).max()?;
+        let candidates: Vec<&BankedClue> = clues
+            .iter()
+            .filter(|clue| clue.rank() == best_rank)
+            .collect();
+        Some(candidates[puzzle_index % candidates.len()])
     }
 
     // Adds an unreviewed clue for an answer and returns it. When the bank already holds this text
@@ -368,7 +418,7 @@ impl ClueBank {
                     tag,
                     text: text.to_string(),
                     source,
-                    reviewer: None,
+                    review: None,
                 });
                 clues.len() - 1
             }
@@ -376,11 +426,12 @@ impl ClueBank {
         Ok(&clues[position])
     }
 
-    // Replaces a clue's text, records `reviewer` as the clue's reviewer, and returns its tag for
-    // the new text. A changed text is the reviewer's own, so the clue's source becomes the
-    // reviewer; an edit that keeps the text only records the review. The tag changes whenever the
-    // edit changes the words the tag is built from, and every puzzle naming the clue must then
-    // switch to the new tag. `edit_clue` updates the bank and those puzzles together.
+    // Replaces a clue's text, credits the new text to `source`, and returns the clue's tag for the
+    // new text. A review covers only the text it judged, so the edit drops the clue's review, and
+    // `review` can record one for the new text. Text that matches the clue's current text changes
+    // nothing, so the clue keeps its source and review. The tag changes whenever the edit changes
+    // the words the tag is built from, and every puzzle naming the clue must then switch to the
+    // new tag. `edit_clues` updates the bank and those puzzles together.
     //
     // Fails when the answer has no clue with this tag, or when the new tag already names another
     // of the answer's clues.
@@ -389,7 +440,7 @@ impl ClueBank {
         answer: &str,
         tag: &str,
         new_text: &str,
-        reviewer: Reviewer,
+        source: ClueSource,
     ) -> anyhow::Result<String> {
         let new_tag = tag_for(new_text)?;
         let clues = self
@@ -412,16 +463,69 @@ impl ClueBank {
 
         let clue = &mut clues[position];
         if clue.text != new_text {
-            clue.source = match &reviewer {
-                Reviewer::Model(model) => ClueSource::Model(model.clone()),
-                Reviewer::Person => ClueSource::Person,
-            };
+            clue.tag = new_tag.clone();
+            clue.text = new_text.to_string();
+            clue.source = source;
+            clue.review = None;
         }
-        clue.tag = new_tag.clone();
-        clue.text = new_text.to_string();
-        clue.reviewer = Some(reviewer);
         Ok(new_tag)
     }
+
+    // Records `review` as the review of the answer's clue with this tag, replacing any earlier
+    // review.
+    //
+    // Fails when the answer has no clue with this tag.
+    pub fn review(&mut self, answer: &str, tag: &str, review: Review) -> anyhow::Result<()> {
+        let clue = self
+            .clues_by_answer
+            .get_mut(answer)
+            .and_then(|clues| clues.iter_mut().find(|clue| clue.tag == tag))
+            .ok_or_else(|| anyhow!("{answer:?} has no clue tagged {tag:?}"))?;
+        clue.review = Some(review);
+        Ok(())
+    }
+}
+
+// One change to a clue's text, which `edit_clues` applies along with any review of the new text.
+// When the new text matches the clue's current text, only the review is recorded, and the clue
+// keeps its source.
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct ClueEdit {
+    pub answer: String,
+    // The tag of the clue to change.
+    pub tag: String,
+    pub new_text: String,
+    // Who wrote the new text.
+    pub source: ClueSource,
+    // The review of the new text, or `None` to leave a changed clue unreviewed.
+    pub review: Option<Review>,
+}
+
+impl ClueEdit {
+    // Returns a person's edit of a clue: the new text is credited to a person, along with that
+    // person's review, which has a `Satisfying` verdict and no problems. Text that matches the
+    // clue's current text approves the clue as it stands. `global edit-clue-as-person` makes this
+    // edit.
+    pub fn by_person(answer: &str, tag: &str, new_text: &str) -> ClueEdit {
+        ClueEdit {
+            answer: answer.to_string(),
+            tag: tag.to_string(),
+            new_text: new_text.to_string(),
+            source: ClueSource::Person,
+            review: Some(Review {
+                reviewer: Reviewer::Person,
+                verdict: Verdict::Satisfying,
+                problems: vec![],
+            }),
+        }
+    }
+}
+
+// A change to a clue's tag, which every puzzle naming the clue must follow.
+struct TagRename {
+    answer: String,
+    old_tag: String,
+    new_tag: String,
 }
 
 // Parses the bank's JSON into its map from answers to clues. Parsing straight into a map would
@@ -458,43 +562,76 @@ fn parse_clues_by_answer(json: &str) -> serde_json::Result<BTreeMap<String, Vec<
     Ok(clues_by_answer)
 }
 
-// Changes a clue's text in the bank, recording `reviewer` as the clue's reviewer, and, when that
-// changes the clue's tag, renames the tag in every puzzle that names the clue.
-pub async fn edit_clue(
-    answer: &str,
-    tag: &str,
-    new_text: &str,
-    reviewer: Reviewer,
-) -> anyhow::Result<()> {
+// Applies `edits` to the bank in order, each with its review, and renames each changed tag in every
+// puzzle that names the clue. A later edit of a clue that an earlier edit retagged names the clue
+// by its new tag. A model's edits come here directly, crediting the model as their source; a
+// person's come through `global edit-clue-as-person`.
+pub async fn edit_clues(edits: &[ClueEdit]) -> anyhow::Result<()> {
     let bank_path = clue_bank_path();
     let mut bank = ClueBank::read(&bank_path).await?;
-    let new_tag = bank.edit(answer, tag, new_text, reviewer.clone())?;
+    let mut new_tags = vec![];
+    let mut renames = vec![];
+    for edit in edits {
+        let new_tag = bank.edit(&edit.answer, &edit.tag, &edit.new_text, edit.source.clone())?;
+        if let Some(review) = &edit.review {
+            bank.review(&edit.answer, &new_tag, review.clone())?;
+        }
+        if new_tag != edit.tag {
+            renames.push(TagRename {
+                answer: edit.answer.clone(),
+                old_tag: edit.tag.clone(),
+                new_tag: new_tag.clone(),
+            });
+        }
+        new_tags.push(new_tag);
+    }
 
     // Every affected puzzle is read and retagged before any file is written, so a puzzle that
     // fails to read leaves every file as it was.
     let mut retagged_puzzles = vec![];
-    if new_tag != tag {
+    if !renames.is_empty() {
         for (index, mut puzzle) in read_clued_puzzles().await? {
-            if puzzle.retag_clue(answer, tag, &new_tag) {
-                retagged_puzzles.push((index, puzzle));
+            // The renames apply in order, so a puzzle follows a clue through several edits.
+            let mut applied_renames = vec![];
+            for rename in &renames {
+                if puzzle.retag_clue(&rename.answer, &rename.old_tag, &rename.new_tag) {
+                    applied_renames.push(rename);
+                }
+            }
+            if !applied_renames.is_empty() {
+                retagged_puzzles.push((index, puzzle, applied_renames));
             }
         }
     }
 
     // The puzzles are written before the bank. If writing stops between two puzzle files, the bank
-    // still holds the old tag, so rerunning the same edit retags the puzzles that remain.
-    for (index, puzzle) in &retagged_puzzles {
+    // still holds the old tags, so rerunning the same edits retags the puzzles that remain.
+    for (index, puzzle, _) in &retagged_puzzles {
         puzzle.write(*index, CLUED_PUZZLE_FILE).await?;
     }
     bank.write(&bank_path).await?;
 
     // Only now is the change complete, so only now is it reported.
-    println!(
-        "saved the clue {tag:?} for {answer:?} as reviewed by {reviewer}, with text {new_text:?} \
-         and tag {new_tag:?}"
-    );
-    for (index, _) in &retagged_puzzles {
-        println!("puzzle {index}: retagged {answer:?} from {tag:?} to {new_tag:?}");
+    for (edit, new_tag) in edits.iter().zip(&new_tags) {
+        let ClueEdit {
+            answer,
+            tag,
+            new_text,
+            ..
+        } = edit;
+        println!(
+            "saved the clue {tag:?} for {answer:?} with text {new_text:?} and tag {new_tag:?}"
+        );
+    }
+    for (index, _, applied_renames) in &retagged_puzzles {
+        for TagRename {
+            answer,
+            old_tag,
+            new_tag,
+        } in applied_renames
+        {
+            println!("puzzle {index}: retagged {answer:?} from {old_tag:?} to {new_tag:?}");
+        }
     }
     Ok(())
 }

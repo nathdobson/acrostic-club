@@ -43,7 +43,7 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       `puzzle rebuild-cells` carries them into a committed puzzle.
 - [ ] **Fix clues known to be wrong** — 33 puzzles clue `nephew` as
       "Daughter's son." and 14 clue `dwight` as "Michele's husband on 'The
-      Office'."; fix each with `global edit-clue`.
+      Office'."; fix each with `global edit-clue-as-person`.
 - [ ] **Quote 223339 uses `‟` as an apostrophe** — in `mama‟s`, so its
       reformatted text and its cells split the word.
 

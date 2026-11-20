@@ -86,8 +86,8 @@ impl ClueClient {
         };
 
         // The model calls above can take minutes. Rereading the bank before adding the new clue
-        // keeps any change made to the file meanwhile, such as by `global edit-clue`. Writing
-        // right away keeps the clue even if a later answer fails.
+        // keeps any change made to the file meanwhile, such as by `edit_clues`. Writing right away
+        // keeps the clue even if a later answer fails.
         *bank = ClueBank::read(bank_path).await?;
         let tag = bank.add(answer, &text, source)?.tag().to_string();
         bank.write(bank_path).await?;
@@ -180,8 +180,8 @@ fn has_letters_or_digits(clue: &str) -> bool {
 //
 // Adding each new clue rereads and rewrites the whole bank, so when two commands write the bank at
 // the same moment, the later write drops the other command's change. `main` runs this step one
-// puzzle at a time, so the step never races itself. A tag that `global edit-clue` renames while
-// this step runs can still go stale in the puzzle being written; the site build then reports it.
+// puzzle at a time, so the step never races itself. A tag that `edit_clues` renames while this
+// step runs can still go stale in the puzzle being written; the site build then reports it.
 pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage2.json").await?;
     let bank_path = clue_bank_path();

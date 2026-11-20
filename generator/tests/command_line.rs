@@ -1,10 +1,9 @@
 // Tests for the parsers of the arguments that follow a target on the command line:
 // `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag, and
-// `parse_edit_clue_arguments`, which reads what `global edit-clue` changes.
+// `parse_edit_clue_arguments`, which reads what `global edit-clue-as-person` changes.
 
 use std::collections::BTreeSet;
 
-use acrostic_generator::cluebank::Reviewer;
 use acrostic_generator::command_line::{
     EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_puzzle_arguments,
 };
@@ -86,12 +85,10 @@ fn a_range_with_a_bad_end_fails() {
 }
 
 #[test]
-fn an_edit_takes_its_reviewer_from_anywhere_among_its_arguments() -> anyhow::Result<()> {
+fn an_edit_takes_an_answer_a_tag_and_new_text() -> anyhow::Result<()> {
     let parsed = parse_edit_clue_arguments(make_arguments(&[
         "nephew",
         "daughters-son",
-        "--reviewer",
-        "claude-opus-5-5",
         "Sibling's son.",
     ]))?;
 
@@ -101,43 +98,14 @@ fn an_edit_takes_its_reviewer_from_anywhere_among_its_arguments() -> anyhow::Res
             answer: "nephew".to_string(),
             tag: "daughters-son".to_string(),
             new_text: "Sibling's son.".to_string(),
-            reviewer: Reviewer::Model("claude-opus-5-5".to_string()),
         }
     );
     Ok(())
 }
 
 #[test]
-fn an_edit_reviewed_by_person_is_credited_to_a_person() -> anyhow::Result<()> {
-    let parsed = parse_edit_clue_arguments(make_arguments(&[
-        "--reviewer",
-        "person",
-        "nephew",
-        "daughters-son",
-        "Sibling's son.",
-    ]))?;
-
-    assert_eq!(parsed.reviewer, Reviewer::Person);
-    Ok(())
-}
-
-#[test]
-fn an_edit_without_a_reviewer_fails() {
-    let error = parse_edit_clue_arguments(make_arguments(&[
-        "nephew",
-        "daughters-son",
-        "Sibling's son.",
-    ]))
-    .expect_err("an edit should need a reviewer");
-
-    assert!(error.to_string().contains("--reviewer"));
-}
-
-#[test]
 fn an_edit_whose_text_arrives_unquoted_fails() {
     let error = parse_edit_clue_arguments(make_arguments(&[
-        "--reviewer",
-        "person",
         "nephew",
         "daughters-son",
         "Sibling's",
