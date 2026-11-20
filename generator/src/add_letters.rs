@@ -16,6 +16,16 @@ enum Run {
     Marks { marks: Vec<Mark>, text: String },
 }
 
+impl Run {
+    // The cells of a word or number, or `None` for marks.
+    fn as_word(&self) -> Option<&str> {
+        match self {
+            Run::Word(word) => Some(word),
+            Run::Marks { .. } => None,
+        }
+    }
+}
+
 // The kinds of mark that the cell layout tells apart.
 #[derive(Clone, Copy)]
 enum Mark {
@@ -28,6 +38,9 @@ enum Mark {
     Colon,
     // An apostrophe, a bracket, or one of the few symbols that can sit inside a word.
     InsideWord,
+    // A symbol that belongs to a number it touches, as in `17%`, `$5`, `#1`, or `6+`, and shows as
+    // written there. Elsewhere, it acts as other punctuation.
+    NumberSymbol(char),
     // Any other punctuation, which shows no cell.
     Other,
 }
@@ -57,21 +70,26 @@ impl Mark {
             "," => Mark::Comma,
             ":" => Mark::Colon,
             // Apostrophes and the marks that serve as one, such as a prime or a backtick in
-            // ``you`ll``; brackets and braces; and a few symbols, such as `$` and `%`.
+            // ``you`ll``; brackets and braces; `&`, which joins the letters of an initialism such
+            // as `R&B`; and `*`, which censors a letter, as in `f*ck`.
             "'" | "‘" | "’" | "´" | "ʼ" | "ʹ" | "′" | "`" | "(" | ")" | "[" | "]" | "{" | "}"
-            | "&" | "*" | "$" | "%" => Mark::InsideWord,
+            | "&" | "*" => Mark::InsideWord,
+            "%" | "$" | "#" | "+" => Mark::NumberSymbol(
+                mark.parse()
+                    .expect("each number symbol should be a single character"),
+            ),
             // A space with a combining acute accent, which is `´` decomposed, serving as an
             // apostrophe. It looks just like `´`, so it's written as its code point.
             " \u{301}" => Mark::InsideWord,
             // Quotation marks and the marks that serve as one, such as a diaeresis, including
             // other languages' marks such as `«`; Spanish inverted marks; and other punctuation.
             "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | "«" | "»" | "„" | ";" | "!" | "¡"
-            | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" | "/" | "#" => Mark::Other,
+            | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" | "/" => Mark::Other,
             // A Greek question mark, which looks just like a semicolon, so it's written as its
             // code point.
             "\u{37e}" => Mark::Other,
             // Operators and separators, including separator dots and bullets.
-            "=" | "+" | "×" | "÷" | "^" | "<" | ">" | "|" | "\\" | "@" | "·" | "⸱" | "•" => {
+            "=" | "×" | "÷" | "^" | "<" | ">" | "|" | "\\" | "@" | "·" | "⸱" | "•" => {
                 Mark::Other
             }
             _ => {
@@ -262,7 +280,12 @@ fn push_mark_cells(cells: &mut String, mark: Mark) {
                 cells.push(' ');
             }
         }
-        Mark::Dot | Mark::Comma | Mark::Colon | Mark::InsideWord | Mark::Other => {}
+        Mark::Dot
+        | Mark::Comma
+        | Mark::Colon
+        | Mark::InsideWord
+        | Mark::NumberSymbol(_)
+        | Mark::Other => {}
         Mark::Dash => cells.push('-'),
     }
 }
@@ -272,7 +295,7 @@ fn push_mark_cells(cells: &mut String, mark: Mark) {
 // Apostrophes, brackets, and a few symbols sit inside words: `don't`, `[T]he`, `f*ck`,
 // `AT&T`. So does a dot between single letters, as in `U.S.A.` Other punctuation between two
 // words stands in for a space or line break that the quote's text lost, as in `end.Begin` or
-// `book#3`.
+// `love#life`.
 fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     let is_single_letter = |word: &str| {
         word.len() == 1
@@ -286,17 +309,54 @@ fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     }
 }
 
+// Whether a word ends in a digit, so that marks after it touch a number.
+fn ends_with_digit(word: &str) -> bool {
+    word.ends_with(|character: char| character.is_ascii_digit())
+}
+
+// Whether a word starts with a digit, so that marks before it touch a number.
+fn starts_with_digit(word: &str) -> bool {
+    word.starts_with(|character: char| character.is_ascii_digit())
+}
+
 // Whether marks sit inside a number: between two digits, with no whitespace among them, as in
 // `John 3:16`, `10^9`, or `1,000`.
 fn is_inside_number(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
-    word_before.ends_with(|character: char| character.is_ascii_digit())
-        && word_after.starts_with(|character: char| character.is_ascii_digit())
+    ends_with_digit(word_before)
+        && starts_with_digit(word_after)
         && !marks.iter().any(|mark| matches!(mark, Mark::Space))
 }
 
+// Splits a run of marks into the number symbols at its start, attached to the number before it,
+// as `%` is in `17% of`; the marks between; and the number symbols at its end, attached to the
+// number after it, as `$` is in `of $5`.
+fn split_off_number_symbols(
+    marks: &[Mark],
+    follows_number: bool,
+    precedes_number: bool,
+) -> (String, &[Mark], String) {
+    let mut between = marks;
+    let mut number_suffix = String::new();
+    if follows_number {
+        while let [Mark::NumberSymbol(symbol), rest @ ..] = between {
+            number_suffix.push(*symbol);
+            between = rest;
+        }
+    }
+    let mut number_prefix = String::new();
+    if precedes_number {
+        while let [rest @ .., Mark::NumberSymbol(symbol)] = between {
+            number_prefix.insert(0, *symbol);
+            between = rest;
+        }
+    }
+    (number_suffix, between, number_prefix)
+}
+
 // Lays a quote out as the puzzle's cells: one per letter or digit, a space between words, a
-// hyphen for each dash, and any symbols inside a number as written. Fails on any character
-// it doesn't recognize, such as `☥`, since it has no cells to give it.
+// hyphen for each dash, and any symbols inside a number or attached to one as written, as in
+// `3:16` or `17%`. Fails on any character it doesn't recognize, such as `☥`, since it has no
+// cells to give it.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let graphemes = GraphemeString::from_str(&repair_characters(input));
     let runs = check_letters_are_latin(&graphemes)
@@ -312,27 +372,44 @@ pub fn quote_to_cells(input: &str) -> io::Result<String> {
         match run {
             Run::Word(word) => cells.push_str(word),
             Run::Marks { marks, text } => {
-                // Runs alternate, so marks with a run on each side sit between two words. Marks at
-                // either end of the quote separate nothing, so they show no cell.
-                let (Some(Run::Word(word_before)), Some(Run::Word(word_after))) = (
-                    index.checked_sub(1).map(|index_before| &runs[index_before]),
-                    runs.get(index + 1),
-                ) else {
-                    continue;
-                };
+                // Runs alternate, so a run on either side of marks is a word.
+                let word_before = index
+                    .checked_sub(1)
+                    .and_then(|index_before| runs[index_before].as_word());
+                let word_after = runs.get(index + 1).and_then(Run::as_word);
                 // Digits show as written, so symbols inside a number do too: dropping them would
                 // change the number, as `3:16` would become `316`.
-                if is_inside_number(marks, word_before, word_after) {
+                if let (Some(word_before), Some(word_after)) = (word_before, word_after)
+                    && is_inside_number(marks, word_before, word_after)
+                {
                     cells.push_str(text);
                     continue;
                 }
-                let length_before = cells.len();
-                for &mark in marks {
-                    push_mark_cells(&mut cells, mark);
+                // A number symbol shows as written beside its number, for the same reason: `99%`
+                // would otherwise become `99`.
+                let (number_suffix, between, number_prefix) = split_off_number_symbols(
+                    marks,
+                    word_before.is_some_and(ends_with_digit),
+                    word_after.is_some_and(starts_with_digit),
+                );
+                cells.push_str(&number_suffix);
+                // The remaining marks show cells only between two words: at either end of the
+                // quote, they separate nothing.
+                if let (Some(word_before), Some(word_after)) = (word_before, word_after) {
+                    let length_before = cells.len();
+                    for &mark in between {
+                        push_mark_cells(&mut cells, mark);
+                    }
+                    // With no marks left between them, the words are separate: a number symbol ran
+                    // straight into the next word, as in `17%of`, where the quote's text is
+                    // missing a space.
+                    let are_separate_words =
+                        between.is_empty() || !is_inside_word(between, word_before, word_after);
+                    if cells.len() == length_before && are_separate_words {
+                        cells.push(' ');
+                    }
                 }
-                if cells.len() == length_before && !is_inside_word(marks, word_before, word_after) {
-                    cells.push(' ');
-                }
+                cells.push_str(&number_prefix);
             }
         }
     }

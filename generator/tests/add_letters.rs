@@ -79,9 +79,8 @@ fn punctuation_standing_in_for_a_lost_space_breaks_words() {
     // A tilde before the author's name.
     assert_eq!(cells_for("end~Author"), "END AUTHOR");
     // Unlike an asterisk, a number sign seldom censors a letter. Between two words, it more
-    // often starts a hashtag or a number that lost the space before it.
+    // often starts a hashtag that lost the space before it.
     assert_eq!(cells_for("love#life"), "LOVE LIFE");
-    assert_eq!(cells_for("book#3"), "BOOK 3");
 }
 
 #[test]
@@ -128,9 +127,8 @@ fn control_characters_count_as_spaces() {
 }
 
 #[test]
-fn a_backtick_percent_sign_or_brace_stays_inside_a_word() {
+fn a_backtick_or_brace_stays_inside_a_word() {
     assert_eq!(cells_for("you`ll"), "YOULL");
-    assert_eq!(cells_for("99% of"), "99 OF");
     assert_eq!(cells_for("{T}he"), "THE");
 }
 
@@ -139,6 +137,7 @@ fn operators_and_separators_between_words_show_no_cell() {
     assert_eq!(cells_for("You + Me"), "YOU ME");
     assert_eq!(cells_for("school= pranks"), "SCHOOL PRANKS");
     assert_eq!(cells_for("LAWS>LAWS"), "LAWS LAWS");
+    assert_eq!(cells_for("God+Wisdom"), "GOD WISDOM");
     assert_eq!(cells_for("never <3"), "NEVER 3");
     assert_eq!(cells_for("world | the"), "WORLD THE");
     assert_eq!(cells_for("fire\\How"), "FIRE HOW");
@@ -205,7 +204,6 @@ fn apostrophes_brackets_and_some_symbols_stay_inside_a_word() {
     // An asterisk censoring a letter.
     assert_eq!(cells_for("f*ck"), "FCK");
     assert_eq!(cells_for("AT&T"), "ATT");
-    assert_eq!(cells_for("Ke$ha"), "KEHA");
 }
 
 #[test]
@@ -242,6 +240,49 @@ fn a_fraction_character_after_a_digit_stays_apart_from_it() {
 fn a_symbol_with_whitespace_beside_it_stays_outside_a_number() {
     assert_eq!(cells_for("1+1 = 2"), "1+1 2");
     assert_eq!(cells_for("1, 2"), "1 2");
+}
+
+#[test]
+fn a_number_symbol_touching_a_number_shows_as_written() {
+    assert_eq!(cells_for("99% of"), "99% OF");
+    assert_eq!(cells_for("a salary of $200,000"), "A SALARY OF $200,000");
+    assert_eq!(cells_for("the #1 thing"), "THE #1 THING");
+    assert_eq!(cells_for("6+ years"), "6+ YEARS");
+}
+
+#[test]
+fn a_number_symbol_on_the_unusual_side_of_a_number_shows_too() {
+    assert_eq!(cells_for("%100 sure"), "%100 SURE");
+    assert_eq!(cells_for("bet 200$ that"), "BET 200$ THAT");
+}
+
+#[test]
+fn several_number_symbols_touching_a_number_all_show() {
+    assert_eq!(cells_for("85%+ of"), "85%+ OF");
+}
+
+#[test]
+fn a_number_symbol_after_a_range_shows_along_with_the_range() {
+    // The first `%` sits inside the number `50%-60`, and the second touches its end.
+    assert_eq!(cells_for("50%-60% of"), "50%-60% OF");
+}
+
+#[test]
+fn a_number_symbol_at_either_end_of_a_quote_shows() {
+    assert_eq!(cells_for("$13 to $20"), "$13 TO $20");
+    assert_eq!(cells_for("give it 100%."), "GIVE IT 100%");
+}
+
+#[test]
+fn a_number_symbol_run_into_a_word_stands_in_for_a_lost_space() {
+    assert_eq!(cells_for("17%of"), "17% OF");
+    assert_eq!(cells_for("book#3"), "BOOK #3");
+}
+
+#[test]
+fn a_number_symbol_spaced_apart_from_a_number_shows_no_cell() {
+    assert_eq!(cells_for("99 % of"), "99 OF");
+    assert_eq!(cells_for("the # 1 rule"), "THE 1 RULE");
 }
 
 #[test]
