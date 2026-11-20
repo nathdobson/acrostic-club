@@ -272,7 +272,8 @@ pub async fn preview_clues(
     Ok(preview)
 }
 
-// Lays out one answer's banked clues above its new clue, as `preview_clues` shows.
+// Lays out one answer for comparing its banked clues with its new one. `preview_clues` shows a full
+// example.
 fn format_clue_comparison(
     answer: &str,
     banked_clues: &[BankedClue],
@@ -298,7 +299,7 @@ fn format_clue_comparison(
     lines.join("\n") + "\n"
 }
 
-// Names where a clue came from, as `format_clue_comparison` shows it.
+// Labels where a clue came from, for the dry run's comparison.
 fn source_label(source: &ClueSource) -> &str {
     match source {
         ClueSource::Model(model) => model,
