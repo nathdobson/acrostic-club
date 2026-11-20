@@ -63,13 +63,20 @@ pub fn rebuild_cells(puzzle: &mut Puzzle) -> io::Result<()> {
     Ok(())
 }
 
-// Rebuilds the cells in each stage file a committed puzzle has, as `rebuild_cells` describes.
+// Brings each stage file after stage0.json up to date with stage 0's quote and the current
+// `quote_to_cells`: each file takes stage0.json's quote, since every stage copies its quote from
+// the stage before, and `rebuild_cells` lays the quote out anew. Rerunning the quote stage first
+// thus carries a change to stage 0, such as newly restored spaces, into a committed puzzle. The
+// function reads and rebuilds every stage before writing any, so a failed rebuild leaves the
+// puzzle as it was.
 //
 // A puzzle with no stage1.json has no cells to rebuild, so the function returns the `NotFound`
 // error from reading it. The stage targets, such as `add_letters`, report a missing input file the
 // same way, and `main` skips any puzzle that returns `NotFound` without printing anything. That
 // way, a range of puzzle numbers may include numbers that have no puzzle.
 pub async fn rebuild_cells_in_files(puzzle_index: usize) -> io::Result<()> {
+    let stage0 = Puzzle::read(puzzle_index, "stage0.json").await?;
+    let mut rebuilt_stages = vec![];
     for stage in ["stage1.json", "stage2.json", "stage3.json"] {
         // Any error reading stage1.json goes back to the caller, `NotFound` included, as the
         // function's comment describes.
@@ -79,14 +86,18 @@ pub async fn rebuild_cells_in_files(puzzle_index: usize) -> io::Result<()> {
             Puzzle::read_if_present(puzzle_index, stage).await?
         };
         // Each stage is built from the one before it, so a missing stage means the puzzle hasn't
-        // reached this stage or any later one, and every stage it has is already rebuilt.
+        // reached this stage or any later one.
         let Some(mut puzzle) = puzzle else {
-            return Ok(());
+            break;
         };
+        puzzle.quote = stage0.quote.clone();
         if let Err(error) = rebuild_cells(&mut puzzle) {
             let message = format!("puzzle {puzzle_index} {stage}: {error}");
             return Err(io::Error::new(error.kind(), message));
         }
+        rebuilt_stages.push((stage, puzzle));
+    }
+    for (stage, puzzle) in rebuilt_stages {
         puzzle.write(puzzle_index, stage).await?;
     }
     Ok(())
