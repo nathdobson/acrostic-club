@@ -99,9 +99,7 @@ fn an_unrepaired_soft_hyphen_fails() {
 }
 
 #[test]
-fn control_characters_count_as_spaces() {
-    assert_eq!(cells_for("you will. \u{3}If"), "YOU WILL IF");
-    // A vertical tab and a form feed.
+fn vertical_tabs_and_form_feeds_count_as_spaces() {
     assert_eq!(cells_for("one\u{b}two\u{c}three"), "ONE TWO THREE");
 }
 

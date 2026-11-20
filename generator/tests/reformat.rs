@@ -35,6 +35,12 @@ fn windows_1252_punctuation_decoded_as_latin_1_becomes_the_punctuation_meant() {
 }
 
 #[test]
+fn a_control_character_becomes_a_space() {
+    // The control character stands in for a lost line break.
+    assert_eq!(repair_characters("you will.\u{3}If"), "you will. If");
+}
+
+#[test]
 fn a_fraction_character_becomes_digits_and_a_slash() {
     assert_eq!(repair_characters("the 12 ½ years"), "the 12 1/2 years");
     assert_eq!(repair_characters("a ¾ oz"), "a 3/4 oz");

@@ -28,7 +28,7 @@ impl Run {
 // The kinds of mark that the cell layout tells apart.
 #[derive(Clone, Copy)]
 enum Mark {
-    // Whitespace or a control character, which shows as a space.
+    // Whitespace, which shows as a space.
     Space,
     // A dash, which shows as a hyphen.
     Dash,
@@ -54,10 +54,7 @@ impl Mark {
     // rather than pass as the substituted mark.
     fn from_grapheme(grapheme: &Grapheme) -> Result<Mark, String> {
         let mark = grapheme.string();
-        // Control characters stand in for a line break that the quote's text lost, as in
-        // `you will. \u{3}If`.
-        let is_space = |character: char| character.is_whitespace() || character.is_ascii_control();
-        if mark.chars().all(is_space) {
+        if mark.chars().all(char::is_whitespace) {
             return Ok(Mark::Space);
         }
         let kind = match mark {

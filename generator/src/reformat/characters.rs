@@ -3,8 +3,8 @@
 use any_ascii::any_ascii_char;
 
 // Rewrites the characters of a quote's text that don't show what they stand for: removes those
-// that carry no text, decodes punctuation garbled by a wrong character encoding, and writes
-// fraction characters as digits and a slash.
+// that carry no text, turns control characters into spaces, decodes punctuation garbled by a
+// wrong character encoding, and writes fraction characters as digits and a slash.
 pub fn repair_characters(quote: &str) -> String {
     let mut repaired = String::new();
     for character in quote.chars() {
@@ -40,6 +40,9 @@ pub fn repair_characters(quote: &str) -> String {
             // A byte that Windows-1252 leaves undefined. The pinned quotes hold it only as a
             // leftover just after a `”`, so it stands for nothing.
             '\u{9d}' => {}
+            // An ASCII control character that isn't whitespace stands in for a line break that the
+            // quote's text lost, as in `you will. \u{3}If`, so it becomes a space.
+            _ if character.is_ascii_control() && !character.is_whitespace() => repaired.push(' '),
             _ => {
                 // A fraction character becomes digits and a slash, which then show as a number.
                 // A space keeps it apart from a whole number just before it, so that `9¾`
