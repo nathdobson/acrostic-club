@@ -31,6 +31,7 @@ pub mod trie;
 pub mod trie_table;
 pub mod turtle;
 pub mod util;
+pub mod words_and_marks;
 
 pub static PACKAGE_PATH: LazyLock<PathBuf> = LazyLock::new(|| {
     let path = env::var("CARGO_MANIFEST_DIR")

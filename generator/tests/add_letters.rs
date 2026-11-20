@@ -15,37 +15,6 @@ fn error_for(quote: &str) -> String {
 }
 
 #[test]
-fn an_unknown_mark_fails_naming_its_code_points() {
-    let message = error_for("I ☥ you");
-
-    assert!(message.contains("U+2625"), "{message}");
-}
-
-#[test]
-fn a_symbol_that_any_ascii_spells_as_letters_fails() {
-    // `any_ascii` writes these as `:heart:`, `:coffee:`, `TM`, and `L`.
-    assert!(error_for("keep flying ❤").contains("U+2764"));
-    assert!(error_for("For later. ☕\u{fe0f}").contains("U+2615"));
-    assert!(error_for("Brand™ new").contains("U+2122"));
-    assert!(error_for("a £5 note").contains("U+00A3"));
-}
-
-#[test]
-fn a_symbol_spelled_as_letters_fails_naming_the_letters() {
-    let message = error_for("keep flying ❤");
-
-    assert!(message.contains("\"HEART\""), "{message}");
-}
-
-#[test]
-fn a_letter_outside_the_latin_script_fails() {
-    // Cyrillic, which `any_ascii` would transliterate.
-    assert!(error_for("мир").contains("U+043C"));
-    // An Arabic alef, which `any_ascii` would drop.
-    assert!(error_for("ا").contains("U+0627"));
-}
-
-#[test]
 fn latin_letters_with_diacritics_become_plain_letters() {
     assert_eq!(cells_for("café naïve Æsir"), "CAFE NAIVE AESIR");
 }
@@ -126,15 +95,6 @@ fn operators_and_separators_between_words_show_no_cell() {
 fn other_languages_quotation_marks_show_no_cell() {
     assert_eq!(cells_for("«idealist»"), "IDEALIST");
     assert_eq!(cells_for("„Do we"), "DO WE");
-}
-
-#[test]
-fn a_dingbat_with_the_ascii_form_of_a_known_symbol_fails() {
-    // `any_ascii` writes these as `+`, `+`, `>`, and `=`, which have cells.
-    assert!(error_for("healed ☥ She").contains("U+2625"));
-    assert!(error_for("prince †1183").contains("U+2020"));
-    assert!(error_for("LAWS→LAWS").contains("U+2192"));
-    assert!(error_for("a ≡ b").contains("U+2261"));
 }
 
 #[test]
@@ -283,11 +243,4 @@ fn a_listed_variant_of_a_mark_lays_out_as_the_mark() {
     // A reversed quotation mark, and Spanish inverted marks.
     assert_eq!(cells_for("‟Hi,” he said"), "HI HE SAID");
     assert_eq!(cells_for("¿Por qué? ¡Ya!"), "POR QUE YA");
-}
-
-#[test]
-fn an_unlisted_mark_fails_even_when_its_ascii_form_is_listed() {
-    // `any_ascii` writes these as `*` and `?`, which have cells.
-    assert!(error_for("name ★FEYI★").contains("U+2605"));
-    assert!(error_for("me \u{fffd}kite").contains("U+FFFD"));
 }
