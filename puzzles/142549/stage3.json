@@ -5,7 +5,7 @@
   "source_letters": "IRISBLAIREDARKFRAME",
   "clues": [
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A common term used to describe the act of moving swiftly, especially by athletes.",
+      "clue_tag": "common-term-used",
       "answer": "rushing",
       "answer_letters": "RUSHING",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "They may differ in neutron count but remain chemically similar.",
+      "clue_tag": "they-may-differ",
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "This musician plays a woodwind with reeds.",
+      "clue_tag": "musician-plays-woodwind",
       "answer": "saxophonist",
       "answer_letters": "SAXOPHONIST",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Biblical location where Joshua encountered God.",
+      "clue_tag": "biblical-location-where",
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Famed aerospace and defense company",
+      "clue_tag": "famed-aerospace-defense",
       "answer": "lockheed",
       "answer_letters": "LOCKHEED",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "His era marked the end of the Rurik Dynasty.",
+      "clue_tag": "his-era-marked",
       "answer": "alexei",
       "answer_letters": "ALEXEI",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Cut off from others.",
+      "clue_tag": "cut-off-others",
       "answer": "isolated",
       "answer_letters": "ISOLATED",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Made popular again after a period of disuse or decline",
+      "clue_tag": "made-popular-again",
       "answer": "revived",
       "answer_letters": "REVIVED",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Ship or send out promptly.",
+      "clue_tag": "ship-send-out",
       "answer": "dispatch",
       "answer_letters": "DISPATCH",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Counterattack, often military or diplomatic.",
+      "clue_tag": "counterattack-often-military",
       "answer": "retaliation",
       "answer_letters": "RETALIATION",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Arabic term for 'successor'.",
+      "clue_tag": "arabic-term-successor",
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Photographic bursts.",
+      "clue_tag": "photographic-bursts",
       "answer": "flashes",
       "answer_letters": "FLASHES",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "The system where the steam engine revolutionized transport.",
+      "clue_tag": "system-where-steam",
       "answer": "railways",
       "answer_letters": "RAILWAYS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Truly existing or occurring.",
+      "clue_tag": "truly-existing-occurring",
       "answer": "actual",
       "answer_letters": "ACTUAL",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Detroit-based record company with a soulful sound.",
+      "clue_tag": "detroitbased-record-company",
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
+      "clue_tag": "relates-customs-beliefs",
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [

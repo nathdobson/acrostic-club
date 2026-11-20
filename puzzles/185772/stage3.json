@@ -5,7 +5,7 @@
   "source_letters": "ABBIGLINESNEVERTOOFAR",
   "clues": [
     {
-      "clue": "Without geographic constraints.",
+      "clue_tag": "without-geographic-constraints",
       "answer": "anywhere",
       "answer_letters": "ANYWHERE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Heritage: Born from Rolls-Royce in 1919.",
+      "clue_tag": "heritage-born-rollsroyce",
       "answer": "bentley",
       "answer_letters": "BENTLEY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Cash reward for capture.",
+      "clue_tag": "cash-reward-capture",
       "answer": "bounty",
       "answer_letters": "BOUNTY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "An act of administering a drug through hypodermic needle.",
+      "clue_tag": "act-administering-drug",
       "answer": "injection",
       "answer_letters": "INJECTION",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Real, not fake.",
+      "clue_tag": "real-not-fake",
       "answer": "genuine",
       "answer_letters": "GENUINE",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Essential layer inside a garment for insulation or structure.",
+      "clue_tag": "essential-layer-inside",
       "answer": "lining",
       "answer_letters": "LINING",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "An empty set.",
+      "clue_tag": "empty-set",
       "answer": "nothing",
       "answer_letters": "NOTHING",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "As many as necessary.",
+      "clue_tag": "many-necessary",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "__ Biles, Olympic gymnast",
+      "clue_tag": "biles-olympic-gymnast",
       "answer": "simone",
       "answer_letters": "SIMONE",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "USA state known for its casinos",
+      "clue_tag": "usa-state-known",
       "answer": "nevada",
       "answer_letters": "NEVADA",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Corporate body or individual with legal standing",
+      "clue_tag": "corporate-body-individual",
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "A job opening.",
+      "clue_tag": "job-opening",
       "answer": "vacancy",
       "answer_letters": "VACANCY",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Literary works that ponder life and thought.",
+      "clue_tag": "literary-works-ponder",
       "answer": "essays",
       "answer_letters": "ESSAYS",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "An assembly of old friends or former members",
+      "clue_tag": "assembly-old-friends",
       "answer": "reunion",
       "answer_letters": "REUNION",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "A fee paid for attending school.",
+      "clue_tag": "fee-paid-attending",
       "answer": "tuition",
       "answer_letters": "TUITION",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Nearby to Rochdale and Bury.",
+      "clue_tag": "nearby-rochdale-bury",
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Region once under Viking rule, now part of Scotland.",
+      "clue_tag": "region-once-under",
       "answer": "orkney",
       "answer_letters": "ORKNEY",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "Aeroplane journey from point A to B.",
+      "clue_tag": "aeroplane-journey-point",
       "answer": "flight",
       "answer_letters": "FLIGHT",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "Real, not fake.",
+      "clue_tag": "real-not-fake",
       "answer": "authentic",
       "answer_letters": "AUTHENTIC",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "SpaceX innovation for reusability.",
+      "clue_tag": "spacex-innovation-reusability",
       "answer": "rocket",
       "answer_letters": "ROCKET",
       "indices": [

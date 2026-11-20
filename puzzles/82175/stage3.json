@@ -5,7 +5,7 @@
   "source_letters": "KELLEYARMSTRONGSTOLEN",
   "clues": [
     {
-      "clue": "She was Hepburn's real last name.",
+      "clue_tag": "she-was-hepburns",
       "answer": "katharine",
       "answer_letters": "KATHARINE",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Alimony's former recipient.",
+      "clue_tag": "alimonys-former-recipient",
       "answer": "ex-wife",
       "answer_letters": "EXWIFE",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Included in a catalog of assets or liabilities.",
+      "clue_tag": "included-catalog-assets",
       "answer": "listed",
       "answer_letters": "LISTED",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Not a right-winger.",
+      "clue_tag": "not-rightwinger",
       "answer": "leftist",
       "answer_letters": "LEFTIST",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Deserving of respect or recognition; having a legitimate claim.",
+      "clue_tag": "deserving-respect-recognition",
       "answer": "entitled",
       "answer_letters": "ENTITLED",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Southern Chinese province.",
+      "clue_tag": "southern-chinese-province",
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Actor's tryout.",
+      "clue_tag": "actors-tryout",
       "answer": "audition",
       "answer_letters": "AUDITION",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Purchase of forgiveness",
+      "clue_tag": "purchase-forgiveness",
       "answer": "redemption",
       "answer_letters": "REDEMPTION",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "A name given to Jesus' disciple by casting lots.",
+      "clue_tag": "name-given-jesus",
       "answer": "matthias",
       "answer_letters": "MATTHIAS",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Weapons that might be crossed over one's chest in ceremony.",
+      "clue_tag": "weapons-might-be",
       "answer": "swords",
       "answer_letters": "SWORDS",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Indelible ink design.",
+      "clue_tag": "indelible-ink-design",
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Restyled for modern audiences.",
+      "clue_tag": "restyled-modern-audiences",
       "answer": "remade",
       "answer_letters": "REMADE",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "A campus event for first-year students.",
+      "clue_tag": "campus-event-firstyear",
       "answer": "orientation",
       "answer_letters": "ORIENTATION",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Recent addition to a group or field.",
+      "clue_tag": "recent-addition-group",
       "answer": "newcomer",
       "answer_letters": "NEWCOMER",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Slang for an urban slum area.",
+      "clue_tag": "slang-urban-slum",
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Explored subjects deeply.",
+      "clue_tag": "explored-subjects-deeply",
       "answer": "studied",
       "answer_letters": "STUDIED",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Plan blocked.",
+      "clue_tag": "plan-blocked",
       "answer": "thwarted",
       "answer_letters": "THWARTED",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "An exotic bloom, often found in tropical regions.",
+      "clue_tag": "exotic-bloom-often",
       "answer": "orchid",
       "answer_letters": "ORCHID",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Often associated with GPS coordinates.",
+      "clue_tag": "often-associated-gps",
       "answer": "location",
       "answer_letters": "LOCATION",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Highlight a point.",
+      "clue_tag": "highlight-point",
       "answer": "emphasize",
       "answer_letters": "EMPHASIZE",
       "indices": [
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "clue_tag": "author-philosophiae-naturalis",
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [

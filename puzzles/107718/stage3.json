@@ -5,7 +5,7 @@
   "source_letters": "ADIALSAIDLETSGETLOST",
   "clues": [
     {
-      "clue": "In all, including everything.",
+      "clue_tag": "all-including-everything",
       "answer": "altogether",
       "answer_letters": "ALTOGETHER",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Biblical prophetess, mother of King Solomon.",
+      "clue_tag": "biblical-prophetess-mother",
       "answer": "deborah",
       "answer_letters": "DEBORAH",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Cut off from others.",
+      "clue_tag": "cut-off-others",
       "answer": "isolated",
       "answer_letters": "ISOLATED",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "______ Beardsley's artwork is distinctive.",
+      "clue_tag": "beardsleys-artwork-distinctive",
       "answer": "aubrey",
       "answer_letters": "AUBREY",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Major UK political party.",
+      "clue_tag": "major-uk-political",
       "answer": "labour",
       "answer_letters": "LABOUR",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Country singer Blake who's a coach on \"The Voice\"",
+      "clue_tag": "country-singer-blake",
       "answer": "shelton",
       "answer_letters": "SHELTON",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "High ecclesiastical title holder, often seen as a bridge between clergy and secular authorities.",
+      "clue_tag": "high-ecclesiastical-title",
       "answer": "archbishop",
       "answer_letters": "ARCHBISHOP",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Brought something into existence.",
+      "clue_tag": "brought-something-into",
       "answer": "invented",
       "answer_letters": "INVENTED",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Required elements for a program's functionality.",
+      "clue_tag": "required-elements-programs",
       "answer": "dependencies",
       "answer_letters": "DEPENDENCIES",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Classical term for a school or educational establishment.",
+      "clue_tag": "classical-term-school",
       "answer": "lyceum",
       "answer_letters": "LYCEUM",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "He succeeded François Hollande as the President of France.",
+      "clue_tag": "he-succeeded-francois",
       "answer": "emmanuel",
       "answer_letters": "EMMANUEL",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Planned sequences of events",
+      "clue_tag": "planned-sequences-events",
       "answer": "schedules",
       "answer_letters": "SCHEDULES",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "His innovative use of close-ups revolutionized cinema.",
+      "clue_tag": "his-innovative-use",
       "answer": "griffith",
       "answer_letters": "GRIFFITH",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "This country's capital is Madrid.",
+      "clue_tag": "countrys-capital-madrid",
       "answer": "españa",
       "answer_letters": "ESPANA",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Seemed upon reflection.",
+      "clue_tag": "seemed-upon-reflection",
       "answer": "looked",
       "answer_letters": "LOOKED",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Perimeters to follow.",
+      "clue_tag": "perimeters-follow",
       "answer": "outlines",
       "answer_letters": "OUTLINES",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Abbreviation SW.",
+      "clue_tag": "abbreviation-sw",
       "answer": "southwestern",
       "answer_letters": "SOUTHWESTERN",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Venue for cultural performances.",
+      "clue_tag": "venue-cultural-performances",
       "answer": "theatre",
       "answer_letters": "THEATRE",
       "indices": [

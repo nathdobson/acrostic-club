@@ -5,7 +5,7 @@
   "source_letters": "ANAISNINLITTLEBIRDS",
   "clues": [
     {
-      "clue": "Visitors to an exhibition or show.",
+      "clue_tag": "visitors-exhibition-show",
       "answer": "attendees",
       "answer_letters": "ATTENDEES",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "___ people spend kroner.",
+      "clue_tag": "people-spend-kroner",
       "answer": "norway's",
       "answer_letters": "NORWAYS",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Not inhabited anymore.",
+      "clue_tag": "not-inhabited-anymore",
       "answer": "abandoned",
       "answer_letters": "ABANDONED",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Likely to dissolve.",
+      "clue_tag": "likely-dissolve",
       "answer": "soluble",
       "answer_letters": "SOLUBLE",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Collective of adjacent areas.",
+      "clue_tag": "collective-adjacent-areas",
       "answer": "neighborhoods",
       "answer_letters": "NEIGHBORHOODS",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Noise in a signal or broadcast.",
+      "clue_tag": "noise-signal-broadcast",
       "answer": "interference",
       "answer_letters": "INTERFERENCE",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Madness or foolishness.",
+      "clue_tag": "madness-foolishness",
       "answer": "nonsense",
       "answer_letters": "NONSENSE",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Echoes of amusement.",
+      "clue_tag": "echoes-amusement",
       "answer": "laughs",
       "answer_letters": "LAUGHS",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "The opposite of decreases.",
+      "clue_tag": "opposite-decreases",
       "answer": "increases",
       "answer_letters": "INCREASES",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Contemplations or reflections.",
+      "clue_tag": "contemplations-reflections",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Round-robin event in a European language.",
+      "clue_tag": "roundrobin-event-european",
       "answer": "torneo",
       "answer_letters": "TORNEO",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Sought political influence on behalf of a group or interest.",
+      "clue_tag": "sought-political-influence",
       "answer": "lobbied",
       "answer_letters": "LOBBIED",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Held close in affection or support",
+      "clue_tag": "held-close-affection",
       "answer": "embraced",
       "answer_letters": "EMBRACED",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Hair hue associated with a certain stereotype.",
+      "clue_tag": "hair-hue-associated",
       "answer": "blonde",
       "answer_letters": "BLONDE",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Rescinded an agreement",
+      "clue_tag": "rescinded-agreement",
       "answer": "revoked",
       "answer_letters": "REVOKED",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "The name shares phonetic similarity with the word 'dull' or 'dud'.",
+      "clue_tag": "name-shares-phonetic",
       "answer": "dudley",
       "answer_letters": "DUDLEY",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "The direction opposite northwest",
+      "clue_tag": "direction-opposite-northwest",
       "answer": "southeast",
       "answer_letters": "SOUTHEAST",
       "indices": [

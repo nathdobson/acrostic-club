@@ -5,7 +5,7 @@
   "source_letters": "MARKTWAINWHATISMAN",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "attractions",
       "answer_letters": "ATTRACTIONS",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rotten",
       "answer_letters": "ROTTEN",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "korean",
       "answer_letters": "KOREAN",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "topography",
       "answer_letters": "TOPOGRAPHY",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "infrastructure",
       "answer_letters": "INFRASTRUCTURE",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "noticeably",
       "answer_letters": "NOTICEABLY",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "witchcraft",
       "answer_letters": "WITCHCRAFT",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hemisphere",
       "answer_letters": "HEMISPHERE",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "aristocracy",
       "answer_letters": "ARISTOCRACY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "together",
       "answer_letters": "TOGETHER",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "involved",
       "answer_letters": "INVOLVED",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "showers",
       "answer_letters": "SHOWERS",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "mutant",
       "answer_letters": "MUTANT",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "afterlife",
       "answer_letters": "AFTERLIFE",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "northeastern",
       "answer_letters": "NORTHEASTERN",
       "indices": [

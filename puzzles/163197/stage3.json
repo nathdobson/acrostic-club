@@ -5,7 +5,7 @@
   "source_letters": "ROBERTWALSERTHETANNERS",
   "clues": [
     {
-      "clue": "Moved with haste or speed.",
+      "clue_tag": "moved-haste-speed",
       "answer": "rushed",
       "answer_letters": "RUSHED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "The yield or return on an investment.",
+      "clue_tag": "yield-return-investment",
       "answer": "output",
       "answer_letters": "OUTPUT",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "To act in a socially acceptable manner.",
+      "clue_tag": "act-socially-acceptable",
       "answer": "behave",
       "answer_letters": "BEHAVE",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "The whole of something.",
+      "clue_tag": "whole-something",
       "answer": "entirety",
       "answer_letters": "ENTIRETY",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Precipitation that has seeped into a waterway.",
+      "clue_tag": "precipitation-has-seeped",
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "They manufacture Corollas.",
+      "clue_tag": "they-manufacture-corollas",
       "answer": "toyota",
       "answer_letters": "TOYOTA",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Location in Dorset, UK with a rich history of trade and industry",
+      "clue_tag": "location-dorset-uk",
       "answer": "weymouth",
       "answer_letters": "WEYMOUTH",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Partner of Warren Beatty on-screen and off",
+      "clue_tag": "partner-warren-beatty",
       "answer": "annette",
       "answer_letters": "ANNETTE",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Brewing capital of Belgium.",
+      "clue_tag": "brewing-capital-belgium",
       "answer": "leuven",
       "answer_letters": "LEUVEN",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Georgia city where a zoo is located.",
+      "clue_tag": "georgia-city-where",
       "answer": "savannah",
       "answer_letters": "SAVANNAH",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Nautical contest.",
+      "clue_tag": "nautical-contest",
       "answer": "regatta",
       "answer_letters": "REGATTA",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
+      "clue_tag": "despite-what-was",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Possessing the most mass.",
+      "clue_tag": "possessing-most-mass",
       "answer": "heaviest",
       "answer_letters": "HEAVIEST",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Vesuvius's famous occurrence in 79 AD.",
+      "clue_tag": "vesuviuss-famous-occurrence",
       "answer": "eruption",
       "answer_letters": "ERUPTION",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "City linked with artist Henri ___.",
+      "clue_tag": "city-linked-artist",
       "answer": "toulouse",
       "answer_letters": "TOULOUSE",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Socially uncomfortable situation.",
+      "clue_tag": "socially-uncomfortable-situation",
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Author of The Guide.",
+      "clue_tag": "author-guide",
       "answer": "narayan",
       "answer_letters": "NARAYAN",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "From a continent known for its classical music and art.",
+      "clue_tag": "continent-known-classical",
       "answer": "european",
       "answer_letters": "EUROPEAN",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Business income.",
+      "clue_tag": "business-income",
       "answer": "revenue",
       "answer_letters": "REVENUE",
       "indices": [
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "clue": "Music streaming service.",
+      "clue_tag": "music-streaming-service",
       "answer": "spotify",
       "answer_letters": "SPOTIFY",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "VLADIMIRNABOKOVLOLITA",
   "clues": [
     {
-      "clue": "Powerful and full of life.",
+      "clue_tag": "powerful-full-life",
       "answer": "vigorous",
       "answer_letters": "VIGOROUS",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "clue_tag": "often-requires-chemotherapy",
       "answer": "lymphoma",
       "answer_letters": "LYMPHOMA",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Without geographic constraints.",
+      "clue_tag": "without-geographic-constraints",
       "answer": "anywhere",
       "answer_letters": "ANYWHERE",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Supported or protected.",
+      "clue_tag": "supported-protected",
       "answer": "defended",
       "answer_letters": "DEFENDED",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "This period saw the rise of totalitarian regimes in Europe.",
+      "clue_tag": "period-saw-rise",
       "answer": "interwar",
       "answer_letters": "INTERWAR",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Believed to have sprung fully formed from Zeus's head.",
+      "clue_tag": "believed-have-sprung",
       "answer": "minerva",
       "answer_letters": "MINERVA",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "Encroached upon territory.",
+      "clue_tag": "encroached-upon-territory",
       "answer": "invaded",
       "answer_letters": "INVADED",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "A new version of an existing show.",
+      "clue_tag": "new-version-existing",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Big Ten university in Evanston, Illinois.",
+      "clue_tag": "big-ten-university",
       "answer": "northwestern",
       "answer_letters": "NORTHWESTERN",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Attain a goal.",
+      "clue_tag": "attain-goal",
       "answer": "achieve",
       "answer_letters": "ACHIEVE",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Verb describing what happens to a guillotined person.",
+      "clue_tag": "verb-describing-what",
       "answer": "beheaded",
       "answer_letters": "BEHEADED",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Clarence, the infamous assassin of JFK.",
+      "clue_tag": "clarence-infamous-assassin",
       "answer": "oswald",
       "answer_letters": "OSWALD",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "She was Hepburn's real last name.",
+      "clue_tag": "she-was-hepburns",
       "answer": "katharine",
       "answer_letters": "KATHARINE",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Results of a process or calculation.",
+      "clue_tag": "results-process-calculation",
       "answer": "outputs",
       "answer_letters": "OUTPUTS",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Having a personal interest or stake in something.",
+      "clue_tag": "having-personal-interest",
       "answer": "vested",
       "answer_letters": "VESTED",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Within legal boundaries.",
+      "clue_tag": "within-legal-boundaries",
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Ink-dispensing sea creature.",
+      "clue_tag": "inkdispensing-sea-creature",
       "answer": "octopus",
       "answer_letters": "OCTOPUS",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "A synonym for foliage.",
+      "clue_tag": "synonym-foliage",
       "answer": "leaves",
       "answer_letters": "LEAVES",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Meant to be; destined for something.",
+      "clue_tag": "meant-be-destined",
       "answer": "intended",
       "answer_letters": "INTENDED",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Typical length of a podcast episode.",
+      "clue_tag": "typical-length-podcast",
       "answer": "two-hour",
       "answer_letters": "TWOHOUR",
       "indices": [
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "clue": "Often a step below managers or executives.",
+      "clue_tag": "often-step-below",
       "answer": "assistants",
       "answer_letters": "ASSISTANTS",
       "indices": [

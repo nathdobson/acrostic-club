@@ -5,7 +5,7 @@
   "source_letters": "STEPHENIEMEYERTWILIGHT",
   "clues": [
     {
-      "clue": "A genre of chamber music.",
+      "clue_tag": "genre-chamber-music",
       "answer": "sonata",
       "answer_letters": "SONATA",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Ponders possible outcomes.",
+      "clue_tag": "ponders-possible-outcomes",
       "answer": "thinks",
       "answer_letters": "THINKS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Early developmental stage in humans and other organisms.",
+      "clue_tag": "early-developmental-stage",
       "answer": "embryo",
       "answer_letters": "EMBRYO",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Often fried or mashed.",
+      "clue_tag": "often-fried-mashed",
       "answer": "potato",
       "answer_letters": "POTATO",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Cries out his wares on a busy street.",
+      "clue_tag": "cries-out-his",
       "answer": "hawker",
       "answer_letters": "HAWKER",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "____ de Beauharnais, an emperor's consort.",
+      "clue_tag": "de-beauharnais-emperors",
       "answer": "eugene",
       "answer_letters": "EUGENE",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "Small, specialized pockets within a broader field.",
+      "clue_tag": "small-specialized-pockets",
       "answer": "niches",
       "answer_letters": "NICHES",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
+      "clue_tag": "one-major-prophets",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "Ejected from the premises",
+      "clue_tag": "ejected-premises",
       "answer": "evicted",
       "answer_letters": "EVICTED",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "A German name meaning 'the miller'.",
+      "clue_tag": "german-name-meaning",
       "answer": "müller",
       "answer_letters": "MULLER",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Won legitimately",
+      "clue_tag": "won-legitimately",
       "answer": "earned",
       "answer_letters": "EARNED",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Fiscal period conclusion.",
+      "clue_tag": "fiscal-period-conclusion",
       "answer": "year-end",
       "answer_letters": "YEAREND",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Brother to George III",
+      "clue_tag": "brother-george-iii",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Financial dynasty.",
+      "clue_tag": "financial-dynasty",
       "answer": "rothschild",
       "answer_letters": "ROTHSCHILD",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Undulating land.",
+      "clue_tag": "undulating-land",
       "answer": "terrain",
       "answer_letters": "TERRAIN",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "You might crack one open to enjoy its rich, creamy interior.",
+      "clue_tag": "you-might-crack",
       "answer": "walnut",
       "answer_letters": "WALNUT",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Nation with Jerusalem as its capital.",
+      "clue_tag": "nation-jerusalem-capital",
       "answer": "israel",
       "answer_letters": "ISRAEL",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Selena Gomez and Marc Anthony share this ethnicity.",
+      "clue_tag": "selena-gomez-marc",
       "answer": "latina",
       "answer_letters": "LATINA",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Swedish beauty and film icon.",
+      "clue_tag": "swedish-beauty-film",
       "answer": "ingrid",
       "answer_letters": "INGRID",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Type of novel featuring brooding heroes and damsel in distress.",
+      "clue_tag": "type-novel-featuring",
       "answer": "gothic",
       "answer_letters": "GOTHIC",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Emptiness inside.",
+      "clue_tag": "emptiness-inside",
       "answer": "hollow",
       "answer_letters": "HOLLOW",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "Delivered lessons.",
+      "clue_tag": "delivered-lessons",
       "answer": "taught",
       "answer_letters": "TAUGHT",
       "indices": [

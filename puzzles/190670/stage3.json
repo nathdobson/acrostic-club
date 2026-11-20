@@ -5,7 +5,7 @@
   "source_letters": "KELLEYARMSTRONGVISIONS",
   "clues": [
     {
-      "clue": "The main message or focus of a speech or lecture.",
+      "clue_tag": "main-message-focus",
       "answer": "keynote",
       "answer_letters": "KEYNOTE",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Early developmental stage in humans and other organisms.",
+      "clue_tag": "early-developmental-stage",
       "answer": "embryo",
       "answer_letters": "EMBRYO",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Measures east or west of prime meridian.",
+      "clue_tag": "measures-east-west",
       "answer": "longitude",
       "answer_letters": "LONGITUDE",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Pronounced 'lud-luhw', it shares its name with an English town.",
+      "clue_tag": "pronounced-ludluhw-shares",
       "answer": "ludlow",
       "answer_letters": "LUDLOW",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Surmised, as a possible total",
+      "clue_tag": "surmised-possible-total",
       "answer": "estimated",
       "answer_letters": "ESTIMATED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Deli sandwich with corned beef",
+      "clue_tag": "deli-sandwich-corned",
       "answer": "reuben",
       "answer_letters": "REUBEN",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "'Dear' to a child",
+      "clue_tag": "dear-child",
       "answer": "mother",
       "answer_letters": "MOTHER",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Light-hearted TV comedy segment.",
+      "clue_tag": "lighthearted-tv-comedy",
       "answer": "sketch",
       "answer_letters": "SKETCH",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Celebrated designer of jewelry, born in 1848.",
+      "clue_tag": "celebrated-designer-jewelry",
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "To have cast back an image, ray or thought.",
+      "clue_tag": "have-cast-back",
       "answer": "reflected",
       "answer_letters": "REFLECTED",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Suffix for the exact hour",
+      "clue_tag": "suffix-exact-hour",
       "answer": "o'clock",
       "answer_letters": "OCLOCK",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "He starred as Henry in 'Road to Perdition'.",
+      "clue_tag": "he-starred-henry",
       "answer": "newman",
       "answer_letters": "NEWMAN",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Julius's Italian variant",
+      "clue_tag": "juliuss-italian-variant",
       "answer": "giulio",
       "answer_letters": "GIULIO",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Confirm as true.",
+      "clue_tag": "confirm-true",
       "answer": "verify",
       "answer_letters": "VERIFY",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "The role or persona adopted by someone.",
+      "clue_tag": "role-persona-adopted",
       "answer": "identity",
       "answer_letters": "IDENTITY",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Displayed one's capabilities or talents.",
+      "clue_tag": "displayed-ones-capabilities",
       "answer": "showed",
       "answer_letters": "SHOWED",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Region once under Viking rule, now part of Scotland.",
+      "clue_tag": "region-once-under",
       "answer": "orkney",
       "answer_letters": "ORKNEY",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "Political entity.",
+      "clue_tag": "political-entity",
       "answer": "nation",
       "answer_letters": "NATION",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Term for becoming an equal member of the U.S. federation.",
+      "clue_tag": "term-becoming-equal",
       "answer": "statehood",
       "answer_letters": "STATEHOOD",
       "indices": [

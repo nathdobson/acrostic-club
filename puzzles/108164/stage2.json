@@ -5,7 +5,7 @@
   "source_letters": "EMMADONOGHUESLAMMERKIN",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "melted",
       "answer_letters": "MELTED",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "mickey",
       "answer_letters": "MICKEY",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ashford",
       "answer_letters": "ASHFORD",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "obtain",
       "answer_letters": "OBTAIN",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "gerhard",
       "answer_letters": "GERHARD",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "halfway",
       "answer_letters": "HALFWAY",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "elephants",
       "answer_letters": "ELEPHANTS",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shield",
       "answer_letters": "SHIELD",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "artemis",
       "answer_letters": "ARTEMIS",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "mental",
       "answer_letters": "MENTAL",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "educate",
       "answer_letters": "EDUCATE",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "khalid",
       "answer_letters": "KHALID",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [

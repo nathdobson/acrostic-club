@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDPRETTIES",
   "clues": [
     {
-      "clue": "Sections of a market or fair where vendors display their goods.",
+      "clue_tag": "sections-market-fair",
       "answer": "stalls",
       "answer_letters": "STALLS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Smallest administrative division in Italy",
+      "clue_tag": "smallest-administrative-division",
       "answer": "comune",
       "answer_letters": "COMUNE",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Edmund, playwright of 'The Hairy Ape'.",
+      "clue_tag": "edmund-playwright-hairy",
       "answer": "o'neill",
       "answer_letters": "ONEILL",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "What you put on your ice cream cone.",
+      "clue_tag": "what-you-put",
       "answer": "topping",
       "answer_letters": "TOPPING",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Arab Republic on Mediterranean coast.",
+      "clue_tag": "arab-republic-mediterranean",
       "answer": "tunisia",
       "answer_letters": "TUNISIA",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Deserving of respect or reward.",
+      "clue_tag": "deserving-respect-reward",
       "answer": "worthy",
       "answer_letters": "WORTHY",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "This country's capital is Madrid.",
+      "clue_tag": "countrys-capital-madrid",
       "answer": "españa",
       "answer_letters": "ESPANA",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Encouraged to increased activity or interest",
+      "clue_tag": "encouraged-increased-activity",
       "answer": "stimulated",
       "answer_letters": "STIMULATED",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Consumption activity.",
+      "clue_tag": "consumption-activity",
       "answer": "eating",
       "answer_letters": "EATING",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Alice's companion in Wonderland.",
+      "clue_tag": "alices-companion-wonderland",
       "answer": "rabbit",
       "answer_letters": "RABBIT",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Struggled in a contest or disagreement.",
+      "clue_tag": "struggled-contest-disagreement",
       "answer": "fought",
       "answer_letters": "FOUGHT",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Part of a crown or decoration awarded for achievement.",
+      "clue_tag": "part-crown-decoration",
       "answer": "laurel",
       "answer_letters": "LAUREL",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Minnesotan port city near Lakes Superior and Superior.",
+      "clue_tag": "minnesotan-port-city",
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Includes humans and apes.",
+      "clue_tag": "includes-humans-apes",
       "answer": "primates",
       "answer_letters": "PRIMATES",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Guardians of game integrity",
+      "clue_tag": "guardians-game-integrity",
       "answer": "referees",
       "answer_letters": "REFEREES",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Sports awards on a shelf.",
+      "clue_tag": "sports-awards-shelf",
       "answer": "trophies",
       "answer_letters": "TROPHIES",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Honorifics such as 'Mr.' or 'Mrs.'.",
+      "clue_tag": "honorifics-such-mr",
       "answer": "titles",
       "answer_letters": "TITLES",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "clue": "Rise to prominence.",
+      "clue_tag": "rise-prominence",
       "answer": "emerge",
       "answer_letters": "EMERGE",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue": "Local authority figure, often with the power to make arrests.",
+      "clue_tag": "local-authority-figure",
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [

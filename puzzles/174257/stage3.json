@@ -5,7 +5,7 @@
   "source_letters": "IAINMBANKSINVERSIONS",
   "clues": [
     {
-      "clue": "The age of a child is measured in months, years or even seconds if you count down to the moment of birth.",
+      "clue_tag": "age-child-measured",
       "answer": "infant",
       "answer_letters": "INFANT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "City known for its cathedral and role in World War I.",
+      "clue_tag": "city-known-cathedral",
       "answer": "amiens",
       "answer_letters": "AMIENS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Gave out a directive or decree",
+      "clue_tag": "gave-out-directive",
       "answer": "issued",
       "answer_letters": "ISSUED",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "City in Japan's Chubu region.",
+      "clue_tag": "city-japans-chubu",
       "answer": "nagoya",
       "answer_letters": "NAGOYA",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "It's when fans gather for soccer action.",
+      "clue_tag": "when-fans-gather",
       "answer": "matchday",
       "answer_letters": "MATCHDAY",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Underneath in terms of layers.",
+      "clue_tag": "underneath-terms-layers",
       "answer": "bottom",
       "answer_letters": "BOTTOM",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Formally written to an individual.",
+      "clue_tag": "formally-written-individual",
       "answer": "addressed",
       "answer_letters": "ADDRESSED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Eastern England city with a cathedral.",
+      "clue_tag": "eastern-england-city",
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "American singer-songwriter active since the mid-2010s.",
+      "clue_tag": "american-singersongwriter-active",
       "answer": "khalid",
       "answer_letters": "KHALID",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Bring to an end or resolve.",
+      "clue_tag": "bring-end-resolve",
       "answer": "settle",
       "answer_letters": "SETTLE",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Opposite of continued smoothly or without breaking.",
+      "clue_tag": "opposite-continued-smoothly",
       "answer": "interrupted",
       "answer_letters": "INTERRUPTED",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Meriting consideration or remark.",
+      "clue_tag": "meriting-consideration-remark",
       "answer": "noteworthy",
       "answer_letters": "NOTEWORTHY",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Rate of motion",
+      "clue_tag": "rate-motion",
       "answer": "velocity",
       "answer_letters": "VELOCITY",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Stylish and sophisticated.",
+      "clue_tag": "stylish-sophisticated",
       "answer": "elegant",
       "answer_letters": "ELEGANT",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Pertaining to guidelines set by authorities.",
+      "clue_tag": "pertaining-guidelines-set",
       "answer": "regulatory",
       "answer_letters": "REGULATORY",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "More lenient approach.",
+      "clue_tag": "more-lenient-approach",
       "answer": "softer",
       "answer_letters": "SOFTER",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Introduced systematically.",
+      "clue_tag": "introduced-systematically",
       "answer": "implemented",
       "answer_letters": "IMPLEMENTED",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Places where one can purchase goods or services.",
+      "clue_tag": "places-where-one",
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "Georgia city where a zoo is located.",
+      "clue_tag": "georgia-city-where",
       "answer": "savannah",
       "answer_letters": "SAVANNAH",
       "indices": [

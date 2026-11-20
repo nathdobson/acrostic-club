@@ -5,7 +5,7 @@
   "source_letters": "MARTINBUBERIANDTHOU",
   "clues": [
     {
-      "clue": "Musician in charge, usually on podium.",
+      "clue_tag": "musician-charge-usually",
       "answer": "maestro",
       "answer_letters": "MAESTRO",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Lines of communication for email recipients.",
+      "clue_tag": "lines-communication-email",
       "answer": "addresses",
       "answer_letters": "ADDRESSES",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Applicants for asylum.",
+      "clue_tag": "applicants-asylum",
       "answer": "refugee",
       "answer_letters": "REFUGEE",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "French-Canadian actress Huppert.",
+      "clue_tag": "frenchcanadian-actress-huppert",
       "answer": "isabelle",
       "answer_letters": "ISABELLE",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "President of Egypt who nationalized the Suez Canal.",
+      "clue_tag": "president-egypt-nationalized",
       "answer": "nasser",
       "answer_letters": "NASSER",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Contains chemicals that react to produce electricity",
+      "clue_tag": "contains-chemicals-react",
       "answer": "batteries",
       "answer_letters": "BATTERIES",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Name associated with Ulm Cathedral's architect",
+      "clue_tag": "name-associated-ulm",
       "answer": "ulrich",
       "answer_letters": "ULRICH",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Rampant wild animals.",
+      "clue_tag": "rampant-wild-animals",
       "answer": "beasts",
       "answer_letters": "BEASTS",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Strivings.",
+      "clue_tag": "strivings",
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Harvard's original sister school.",
+      "clue_tag": "harvards-original-sister",
       "answer": "radcliffe",
       "answer_letters": "RADCLIFFE",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Swaps of vehicles or ideas.",
+      "clue_tag": "swaps-vehicles-ideas",
       "answer": "interchanges",
       "answer_letters": "INTERCHANGES",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Interrupted births, medically induced.",
+      "clue_tag": "interrupted-births-medically",
       "answer": "abortions",
       "answer_letters": "ABORTIONS",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Higher social rank or aristocracy.",
+      "clue_tag": "higher-social-rank",
       "answer": "nobility",
       "answer_letters": "NOBILITY",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "A type of mahi-mahi.",
+      "clue_tag": "type-mahimahi",
       "answer": "dorado",
       "answer_letters": "DORADO",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Book series by Stephenie Meyer",
+      "clue_tag": "book-series-stephenie",
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Ancestors of Marie Antoinette.",
+      "clue_tag": "ancestors-marie-antoinette",
       "answer": "habsburg",
       "answer_letters": "HABSBURG",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Opposite of earthbound.",
+      "clue_tag": "opposite-earthbound",
       "answer": "upwards",
       "answer_letters": "UPWARDS",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "PEACEGYPSYSOULSDEEP",
   "clues": [
     {
-      "clue": "Concise printed materials for quick information dissemination.",
+      "clue_tag": "concise-printed-materials",
       "answer": "pamphlets",
       "answer_letters": "PAMPHLETS",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Pleasant to experience or consume.",
+      "clue_tag": "pleasant-experience-consume",
       "answer": "enjoyable",
       "answer_letters": "ENJOYABLE",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Assimilate information or knowledge.",
+      "clue_tag": "assimilate-information-knowledge",
       "answer": "absorb",
       "answer_letters": "ABSORB",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Days of youth.",
+      "clue_tag": "days-youth",
       "answer": "childhood",
       "answer_letters": "CHILDHOOD",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "Chemical formula: C2H5OH.",
+      "clue_tag": "chemical-formula-c2h5oh",
       "answer": "ethanol",
       "answer_letters": "ETHANOL",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Concerning family history.",
+      "clue_tag": "concerning-family-history",
       "answer": "genealogical",
       "answer_letters": "GENEALOGICAL",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Culture and language spoken by many in southwestern Nigeria.",
+      "clue_tag": "culture-language-spoken",
       "answer": "yoruba",
       "answer_letters": "YORUBA",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Dire straits.",
+      "clue_tag": "dire-straits",
       "answer": "plight",
       "answer_letters": "PLIGHT",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Those studied in class.",
+      "clue_tag": "those-studied-class",
       "answer": "subjects",
       "answer_letters": "SUBJECTS",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Somerset town home to Huish Park.",
+      "clue_tag": "somerset-town-home",
       "answer": "yeovil",
       "answer_letters": "YEOVIL",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "An expression of condolence.",
+      "clue_tag": "expression-condolence",
       "answer": "sympathy",
       "answer_letters": "SYMPATHY",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "A campus event for first-year students.",
+      "clue_tag": "campus-event-firstyear",
       "answer": "orientation",
       "answer_letters": "ORIENTATION",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Asymmetrical appearance.",
+      "clue_tag": "asymmetrical-appearance",
       "answer": "uneven",
       "answer_letters": "UNEVEN",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "In sports, often used to describe the best game or scoring outcome up to that point in the season.",
+      "clue_tag": "sports-often-used",
       "answer": "season-high",
       "answer_letters": "SEASONHIGH",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Considered inferior after reevaluation.",
+      "clue_tag": "considered-inferior-after",
       "answer": "downgraded",
       "answer_letters": "DOWNGRADED",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Managed by Rafael Benitez (as of early 2020s).",
+      "clue_tag": "managed-rafael-benitez",
       "answer": "everton",
       "answer_letters": "EVERTON",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Inhabitant of Africa's second-most populous country.",
+      "clue_tag": "inhabitant-africas-secondmost",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "What you might use to deter pests, but handle with care.",
+      "clue_tag": "what-you-might",
       "answer": "poison",
       "answer_letters": "POISON",
       "indices": [

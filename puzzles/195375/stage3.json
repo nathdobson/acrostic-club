@@ -5,7 +5,7 @@
   "source_letters": "ANDRESINCAODORINTA",
   "clues": [
     {
-      "clue": "Solutions to problems.",
+      "clue_tag": "solutions-problems",
       "answer": "answers",
       "answer_letters": "ANSWERS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Pertaining to learning and memory processes.",
+      "clue_tag": "pertaining-learning-memory",
       "answer": "neural",
       "answer_letters": "NEURAL",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Winning against an opponent",
+      "clue_tag": "winning-against-opponent",
       "answer": "defeating",
       "answer_letters": "DEFEATING",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Opposite of left.",
+      "clue_tag": "opposite-left",
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Worthy of being chosen.",
+      "clue_tag": "worthy-being-chosen",
       "answer": "eligible",
       "answer_letters": "ELIGIBLE",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "19th-century pioneer of rail transport",
+      "clue_tag": "19thcentury-pioneer-rail",
       "answer": "stephenson",
       "answer_letters": "STEPHENSON",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Used to introduce a clarification.",
+      "clue_tag": "used-introduce-clarification",
       "answer": "namely",
       "answer_letters": "NAMELY",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "A place named after an 18th-century British statesman.",
+      "clue_tag": "place-named-after",
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Superb, fantastic, terrific.",
+      "clue_tag": "superb-fantastic-terrific",
       "answer": "awesome",
       "answer_letters": "AWESOME",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "Bold and unreserved in expression.",
+      "clue_tag": "bold-unreserved-expression",
       "answer": "outspoken",
       "answer_letters": "OUTSPOKEN",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "A tire and tube pioneer.",
+      "clue_tag": "tire-tube-pioneer",
       "answer": "dunlop",
       "answer_letters": "DUNLOP",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Location for more experimental theatre.",
+      "clue_tag": "location-more-experimental",
       "answer": "off-broadway",
       "answer_letters": "OFFBROADWAY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Famous for the Model 700 rifle series.",
+      "clue_tag": "famous-model-700",
       "answer": "remington",
       "answer_letters": "REMINGTON",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Bastard.",
+      "clue_tag": "bastard",
       "answer": "illegitimate",
       "answer_letters": "ILLEGITIMATE",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Transition phrase often used to juxtapose two ideas.",
+      "clue_tag": "transition-phrase-often",
       "answer": "nevertheless",
       "answer_letters": "NEVERTHELESS",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Contemplations or reflections.",
+      "clue_tag": "contemplations-reflections",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Aberrations observed in a scientific study.",
+      "clue_tag": "aberrations-observed-scientific",
       "answer": "abnormalities",
       "answer_letters": "ABNORMALITIES",
       "indices": [

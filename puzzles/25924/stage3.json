@@ -5,7 +5,7 @@
   "source_letters": "KRISTENASHLEYLAWMAN",
   "clues": [
     {
-      "clue": "Affectionate pecks.",
+      "clue_tag": "affectionate-pecks",
       "answer": "kisses",
       "answer_letters": "KISSES",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Accompanied by a beat",
+      "clue_tag": "accompanied-beat",
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Complex, as a piece of artwork.",
+      "clue_tag": "complex-piece-artwork",
       "answer": "intricate",
       "answer_letters": "INTRICATE",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Attired properly for an occasion.",
+      "clue_tag": "attired-properly-occasion",
       "answer": "suited",
       "answer_letters": "SUITED",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "What you put on your ice cream cone.",
+      "clue_tag": "what-you-put",
       "answer": "topping",
       "answer_letters": "TOPPING",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "An affectionate nickname for Helen.",
+      "clue_tag": "affectionate-nickname-helen",
       "answer": "nellie",
       "answer_letters": "NELLIE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Mathematical term for a near equivalent.",
+      "clue_tag": "mathematical-term-near",
       "answer": "approx",
       "answer_letters": "APPROX",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Essential for maintaining proper muscle function.",
+      "clue_tag": "essential-maintaining-proper",
       "answer": "sodium",
       "answer_letters": "SODIUM",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Opposite of 'coldest' in terms of temperature.",
+      "clue_tag": "opposite-coldest-terms",
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Full of energy or spirit",
+      "clue_tag": "full-energy-spirit",
       "answer": "lively",
       "answer_letters": "LIVELY",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Recurring segments in serialized content.",
+      "clue_tag": "recurring-segments-serialized",
       "answer": "episodes",
       "answer_letters": "EPISODES",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Compilation of memories and photos, usually academic.",
+      "clue_tag": "compilation-memories-photos",
       "answer": "yearbook",
       "answer_letters": "YEARBOOK",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "County seat: Tamarac, Florida.",
+      "clue_tag": "county-seat-tamarac",
       "answer": "lauderdale",
       "answer_letters": "LAUDERDALE",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Locked arms with an opponent in a bout",
+      "clue_tag": "locked-arms-opponent",
       "answer": "wrestled",
       "answer_letters": "WRESTLED",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "To make adjustments or alterations.",
+      "clue_tag": "make-adjustments-alterations",
       "answer": "modify",
       "answer_letters": "MODIFY",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Potential that can be developed over time.",
+      "clue_tag": "potential-can-be",
       "answer": "ability",
       "answer_letters": "ABILITY",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [

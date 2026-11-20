@@ -5,7 +5,7 @@
   "source_letters": "AMANDACARLSONANTEUP",
   "clues": [
     {
-      "clue": "A member of royalty, especially within the Habsburg lineage.",
+      "clue_tag": "member-royalty-especially",
       "answer": "archduke",
       "answer_letters": "ARCHDUKE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Creator of the F-4 Phantom.",
+      "clue_tag": "creator-f4-phantom",
       "answer": "mcdonnell",
       "answer_letters": "MCDONNELL",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Biggest U.S. state.",
+      "clue_tag": "biggest-us-state",
       "answer": "alaska",
       "answer_letters": "ALASKA",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Five-cent piece.",
+      "clue_tag": "fivecent-piece",
       "answer": "nickel",
       "answer_letters": "NICKEL",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Felt let down.",
+      "clue_tag": "felt-let-down",
       "answer": "disappointed",
       "answer_letters": "DISAPPOINTED",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "Occurs once every year.",
+      "clue_tag": "occurs-once-every",
       "answer": "annual",
       "answer_letters": "ANNUAL",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "Producing consequences",
+      "clue_tag": "producing-consequences",
       "answer": "causing",
       "answer_letters": "CAUSING",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Use of TV, radio, print for commercial messages.",
+      "clue_tag": "use-tv-radio",
       "answer": "advertising",
       "answer_letters": "ADVERTISING",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Precipitation that has seeped into a waterway.",
+      "clue_tag": "precipitation-has-seeped",
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Sought political influence on behalf of a group or interest.",
+      "clue_tag": "sought-political-influence",
       "answer": "lobbied",
       "answer_letters": "LOBBIED",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Title for an Islamic religious leader.",
+      "clue_tag": "title-islamic-religious",
       "answer": "sheikh",
       "answer_letters": "SHEIKH",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Suffix for the exact hour",
+      "clue_tag": "suffix-exact-hour",
       "answer": "o'clock",
       "answer_letters": "OCLOCK",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Sent a message to inform.",
+      "clue_tag": "sent-message-inform",
       "answer": "notified",
       "answer_letters": "NOTIFIED",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Emotionally close.",
+      "clue_tag": "emotionally-close",
       "answer": "attached",
       "answer_letters": "ATTACHED",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Tiny, almost zero.",
+      "clue_tag": "tiny-almost-zero",
       "answer": "negligible",
       "answer_letters": "NEGLIGIBLE",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Adjective describing something that speaks volumes.",
+      "clue_tag": "adjective-describing-something",
       "answer": "telling",
       "answer_letters": "TELLING",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Primary decision-maker for magazine or newspaper.",
+      "clue_tag": "primary-decisionmaker-magazine",
       "answer": "editor-in-chief",
       "answer_letters": "EDITORINCHIEF",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Opposite of joyful.",
+      "clue_tag": "opposite-joyful",
       "answer": "unhappy",
       "answer_letters": "UNHAPPY",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Linked to a prestigious university mathematics competition in the U.S.",
+      "clue_tag": "linked-prestigious-university",
       "answer": "putnam",
       "answer_letters": "PUTNAM",
       "indices": [

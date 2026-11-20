@@ -5,7 +5,7 @@
   "source_letters": "LISAKESSLERBLUEMOON",
   "clues": [
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Signaled in an unmistakable manner.",
+      "clue_tag": "signaled-unmistakable-manner",
       "answer": "indicated",
       "answer_letters": "INDICATED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Cascading snow disaster.",
+      "clue_tag": "cascading-snow-disaster",
       "answer": "avalanche",
       "answer_letters": "AVALANCHE",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "She was Hepburn's real last name.",
+      "clue_tag": "she-was-hepburns",
       "answer": "katharine",
       "answer_letters": "KATHARINE",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "Made the same sound again",
+      "clue_tag": "made-same-sound",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "In sports, often used to describe the best game or scoring outcome up to that point in the season.",
+      "clue_tag": "sports-often-used",
       "answer": "season-high",
       "answer_letters": "SEASONHIGH",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "Capable of settling debts.",
+      "clue_tag": "capable-settling-debts",
       "answer": "solvent",
       "answer_letters": "SOLVENT",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Weapon is ready to fire.",
+      "clue_tag": "weapon-ready-fire",
       "answer": "loaded",
       "answer_letters": "LOADED",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
+      "clue_tag": "film-these-are",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "To have backstabbed a friend or ally.",
+      "clue_tag": "have-backstabbed-friend",
       "answer": "betrayed",
       "answer_letters": "BETRAYED",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Name associated with 'Wuthering Heights'.",
+      "clue_tag": "name-associated-wuthering",
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Regimental attire.",
+      "clue_tag": "regimental-attire",
       "answer": "uniform",
       "answer_letters": "UNIFORM",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "A process for reaching an objective.",
+      "clue_tag": "process-reaching-objective",
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Clothing item for painters or builders",
+      "clue_tag": "clothing-item-painters",
       "answer": "overall",
       "answer_letters": "OVERALL",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Abroad.",
+      "clue_tag": "abroad",
       "answer": "overseas",
       "answer_letters": "OVERSEAS",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Hard to overlook.",
+      "clue_tag": "hard-overlook",
       "answer": "noticeable",
       "answer_letters": "NOTICEABLE",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "COURTNEYMILANUNCLAIMED",
   "clues": [
     {
-      "clue": "Sung expressions of support in stadiums.",
+      "clue_tag": "sung-expressions-support",
       "answer": "chants",
       "answer_letters": "CHANTS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Work done without compensation",
+      "clue_tag": "work-done-without",
       "answer": "unpaid",
       "answer_letters": "UNPAID",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "A mild term for 'instead'.",
+      "clue_tag": "mild-term-instead",
       "answer": "rather",
       "answer_letters": "RATHER",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Hurls with intent to score or make contact.",
+      "clue_tag": "hurls-intent-score",
       "answer": "throws",
       "answer_letters": "THROWS",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Potential winners, awaiting final decision.",
+      "clue_tag": "potential-winners-awaiting",
       "answer": "nominees",
       "answer_letters": "NOMINEES",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Early developmental stage in humans and other organisms.",
+      "clue_tag": "early-developmental-stage",
       "answer": "embryo",
       "answer_letters": "EMBRYO",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "Twelve slices of time.",
+      "clue_tag": "twelve-slices-time",
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "Personal storage space in a gym or school.",
+      "clue_tag": "personal-storage-space",
       "answer": "locker",
       "answer_letters": "LOCKER",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "A chronic respiratory condition.",
+      "clue_tag": "chronic-respiratory-condition",
       "answer": "asthma",
       "answer_letters": "ASTHMA",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Adviser to King David, a counselor during his reign.",
+      "clue_tag": "adviser-king-david",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "A Homeric hero's name, also a novel by Joyce.",
+      "clue_tag": "homeric-heros-name",
       "answer": "ulysses",
       "answer_letters": "ULYSSES",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Sent a message to inform.",
+      "clue_tag": "sent-message-inform",
       "answer": "notified",
       "answer_letters": "NOTIFIED",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Selects consciously from alternatives.",
+      "clue_tag": "selects-consciously-alternatives",
       "answer": "chooses",
       "answer_letters": "CHOOSES",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Heirloom passed down through generations.",
+      "clue_tag": "heirloom-passed-down",
       "answer": "legacy",
       "answer_letters": "LEGACY",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "City in Gujarat, India",
+      "clue_tag": "city-gujarat-india",
       "answer": "ahmedabad",
       "answer_letters": "AHMEDABAD",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Often less authentic than genuine.",
+      "clue_tag": "often-less-authentic",
       "answer": "imitation",
       "answer_letters": "IMITATION",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "'Dear' to a child",
+      "clue_tag": "dear-child",
       "answer": "mother",
       "answer_letters": "MOTHER",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
+      "clue_tag": "film-these-are",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Vast arid landscape.",
+      "clue_tag": "vast-arid-landscape",
       "answer": "desert",
       "answer_letters": "DESERT",
       "indices": [

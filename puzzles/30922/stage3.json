@@ -5,7 +5,7 @@
   "source_letters": "LAURENDESTEFANOFEVER",
   "clues": [
     {
-      "clue": "Unusual growths or areas of injury, possibly cancerous.",
+      "clue_tag": "unusual-growths-areas",
       "answer": "lesions",
       "answer_letters": "LESIONS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Enforcers of rules.",
+      "clue_tag": "enforcers-rules",
       "answer": "authorities",
       "answer_letters": "AUTHORITIES",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Improbable or not expected.",
+      "clue_tag": "improbable-not-expected",
       "answer": "unlikely",
       "answer_letters": "UNLIKELY",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Phoebe's best friend from 'Friends'.",
+      "clue_tag": "phoebes-best-friend",
       "answer": "rachel",
       "answer_letters": "RACHEL",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Subject of an annual celebration on Purim",
+      "clue_tag": "subject-annual-celebration",
       "answer": "esther",
       "answer_letters": "ESTHER",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Ultimate rival or adversary.",
+      "clue_tag": "ultimate-rival-adversary",
       "answer": "nemesis",
       "answer_letters": "NEMESIS",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Varies in comparison to another.",
+      "clue_tag": "varies-comparison-another",
       "answer": "differs",
       "answer_letters": "DIFFERS",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Economic blockade or restriction.",
+      "clue_tag": "economic-blockade-restriction",
       "answer": "embargo",
       "answer_letters": "EMBARGO",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "A synonym for creating.",
+      "clue_tag": "synonym-creating",
       "answer": "forming",
       "answer_letters": "FORMING",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
+      "clue_tag": "author-flatland-novella",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "He starred as Henry in 'Road to Perdition'.",
+      "clue_tag": "he-starred-henry",
       "answer": "newman",
       "answer_letters": "NEWMAN",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Conventional thinking in a field.",
+      "clue_tag": "conventional-thinking-field",
       "answer": "orthodoxy",
       "answer_letters": "ORTHODOXY",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Physical altercations.",
+      "clue_tag": "physical-altercations",
       "answer": "fights",
       "answer_letters": "FIGHTS",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "The Age of Reason in Europe.",
+      "clue_tag": "age-reason-europe",
       "answer": "enlightenment",
       "answer_letters": "ENLIGHTENMENT",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "This happens when your digestive system rebels.",
+      "clue_tag": "happens-when-your",
       "answer": "vomiting",
       "answer_letters": "VOMITING",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Made the same sound again",
+      "clue_tag": "made-same-sound",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Significant religious movement in Europe starting around the 16th century.",
+      "clue_tag": "significant-religious-movement",
       "answer": "reformation",
       "answer_letters": "REFORMATION",
       "indices": [

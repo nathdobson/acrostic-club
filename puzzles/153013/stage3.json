@@ -5,7 +5,7 @@
   "source_letters": "MARCELPROUSTSWANNSWAY",
   "clues": [
     {
-      "clue": "Sixty seconds or sixty parts of an hour.",
+      "clue_tag": "sixty-seconds-sixty",
       "answer": "minute",
       "answer_letters": "MINUTE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Wisdom goddess in Greek mythology.",
+      "clue_tag": "wisdom-goddess-greek",
       "answer": "athena",
       "answer_letters": "ATHENA",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Scorn, as seen from high",
+      "clue_tag": "scorn-seen-high",
       "answer": "contempt",
       "answer_letters": "CONTEMPT",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Factors that make up a mixture.",
+      "clue_tag": "factors-make-up",
       "answer": "elements",
       "answer_letters": "ELEMENTS",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Identified or tagged.",
+      "clue_tag": "identified-tagged",
       "answer": "labeled",
       "answer_letters": "LABELED",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Headship of the Roman Catholic Church.",
+      "clue_tag": "headship-roman-catholic",
       "answer": "papacy",
       "answer_letters": "PAPACY",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Having had the opportunity to relax and unwind.",
+      "clue_tag": "having-had-opportunity",
       "answer": "rested",
       "answer_letters": "RESTED",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Book by Thomas More.",
+      "clue_tag": "book-thomas-more",
       "answer": "utopia",
       "answer_letters": "UTOPIA",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Brosnan series, \"Remington ____\"",
+      "clue_tag": "brosnan-series-remington",
       "answer": "steele",
       "answer_letters": "STEELE",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Popular hits category.",
+      "clue_tag": "popular-hits-category",
       "answer": "top-ten",
       "answer_letters": "TOPTEN",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Title for an Islamic religious leader.",
+      "clue_tag": "title-islamic-religious",
       "answer": "sheikh",
       "answer_letters": "SHEIKH",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Transportation's fundamental component.",
+      "clue_tag": "transportations-fundamental-component",
       "answer": "wheels",
       "answer_letters": "WHEELS",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Locale of a block party.",
+      "clue_tag": "locale-block-party",
       "answer": "neighborhood",
       "answer_letters": "NEIGHBORHOOD",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Ancient Stone Age period.",
+      "clue_tag": "ancient-stone-age",
       "answer": "neolithic",
       "answer_letters": "NEOLITHIC",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Started growth.",
+      "clue_tag": "started-growth",
       "answer": "seeded",
       "answer_letters": "SEEDED",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Famed for its baking tools and pans.",
+      "clue_tag": "famed-baking-tools",
       "answer": "wilton",
       "answer_letters": "WILTON",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "A subject for believers and skeptics alike.",
+      "clue_tag": "subject-believers-skeptics",
       "answer": "afterlife",
       "answer_letters": "AFTERLIFE",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [

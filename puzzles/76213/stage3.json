@@ -5,7 +5,7 @@
   "source_letters": "JOSEPHHELLERCATCH",
   "clues": [
     {
-      "clue": "Region in Mexico known for tequila production.",
+      "clue_tag": "region-mexico-known",
       "answer": "jalisco",
       "answer_letters": "JALISCO",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "A campus event for first-year students.",
+      "clue_tag": "campus-event-firstyear",
       "answer": "orientation",
       "answer_letters": "ORIENTATION",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "The process of making something steady.",
+      "clue_tag": "process-making-something",
       "answer": "stabilization",
       "answer_letters": "STABILIZATION",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Not contracted",
+      "clue_tag": "not-contracted",
       "answer": "expanded",
       "answer_letters": "EXPANDED",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Competition broadcasted on Sky Sports and BT Sport.",
+      "clue_tag": "competition-broadcasted-sky",
       "answer": "premiership",
       "answer_letters": "PREMIERSHIP",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Where it all starts for a stream.",
+      "clue_tag": "where-all-starts",
       "answer": "headwaters",
       "answer_letters": "HEADWATERS",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Moved to a new country, often for better opportunities.",
+      "clue_tag": "moved-new-country",
       "answer": "emigrated",
       "answer_letters": "EMIGRATED",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Habits related to diet, exercise, work, and recreation.",
+      "clue_tag": "habits-related-diet",
       "answer": "lifestyle",
       "answer_letters": "LIFESTYLE",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Light-emitting device.",
+      "clue_tag": "lightemitting-device",
       "answer": "lantern",
       "answer_letters": "LANTERN",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Participate actively.",
+      "clue_tag": "participate-actively",
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Precipitation that has seeped into a waterway.",
+      "clue_tag": "precipitation-has-seeped",
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Farm land and open fields.",
+      "clue_tag": "farm-land-open",
       "answer": "countryside",
       "answer_letters": "COUNTRYSIDE",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "The department handling inquiries about student enrollment.",
+      "clue_tag": "department-handling-inquiries",
       "answer": "admissions",
       "answer_letters": "ADMISSIONS",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Activity performed by linguists to convey meaning.",
+      "clue_tag": "activity-performed-linguists",
       "answer": "translation",
       "answer_letters": "TRANSLATION",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Busy with people or things.",
+      "clue_tag": "busy-people-things",
       "answer": "crowded",
       "answer_letters": "CROWDED",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Tech stuff you can touch.",
+      "clue_tag": "tech-stuff-you",
       "answer": "hardware",
       "answer_letters": "HARDWARE",
       "indices": [

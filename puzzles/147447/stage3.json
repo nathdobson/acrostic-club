@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYANNAKARENINA",
   "clues": [
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Transformed over time.",
+      "clue_tag": "transformed-over-time",
       "answer": "evolved",
       "answer_letters": "EVOLVED",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "To an excessive degree.",
+      "clue_tag": "excessive-degree",
       "answer": "overwhelmingly",
       "answer_letters": "OVERWHELMINGLY",
       "indices": [
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "clue": "Conducted with method and order.",
+      "clue_tag": "conducted-method-order",
       "answer": "organized",
       "answer_letters": "ORGANIZED",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "Goods delivered by truck, plane or boat.",
+      "clue_tag": "goods-delivered-truck",
       "answer": "shipment",
       "answer_letters": "SHIPMENT",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "Pertaining to the genre involving fatal flaws leading to downfall.",
+      "clue_tag": "pertaining-genre-involving",
       "answer": "tragic",
       "answer_letters": "TRAGIC",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Seafood with pearls inside.",
+      "clue_tag": "seafood-pearls-inside",
       "answer": "oyster",
       "answer_letters": "OYSTER",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Championing a particular issue.",
+      "clue_tag": "championing-particular-issue",
       "answer": "advocacy",
       "answer_letters": "ADVOCACY",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "______ Beardsley's artwork is distinctive.",
+      "clue_tag": "beardsleys-artwork-distinctive",
       "answer": "aubrey",
       "answer_letters": "AUBREY",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Affectionate pecks.",
+      "clue_tag": "affectionate-pecks",
       "answer": "kisses",
       "answer_letters": "KISSES",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Add-ons to boost a property's appeal",
+      "clue_tag": "addons-boost-propertys",
       "answer": "amenities",
       "answer_letters": "AMENITIES",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "How others perceive you.",
+      "clue_tag": "how-others-perceive",
       "answer": "reputation",
       "answer_letters": "REPUTATION",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "His work laid groundwork for quantum mechanics.",
+      "clue_tag": "his-work-laid",
       "answer": "einstein",
       "answer_letters": "EINSTEIN",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "A tag that marks documents or files for easy retrieval.",
+      "clue_tag": "tag-marks-documents",
       "answer": "identifier",
       "answer_letters": "IDENTIFIER",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "clue": "Recommendations usually given by experts.",
+      "clue_tag": "recommendations-usually-given",
       "answer": "advice",
       "answer_letters": "ADVICE",
       "indices": [

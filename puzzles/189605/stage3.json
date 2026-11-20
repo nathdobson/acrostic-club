@@ -5,7 +5,7 @@
   "source_letters": "CHRISTINADALEYRADIANT",
   "clues": [
     {
-      "clue": "Mammal known for its vocal yipping calls.",
+      "clue_tag": "mammal-known-vocal",
       "answer": "coyote",
       "answer_letters": "COYOTE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Genre of music and culture.",
+      "clue_tag": "genre-music-culture",
       "answer": "hip-hop",
       "answer_letters": "HIPHOP",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Move in a circle.",
+      "clue_tag": "move-circle",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Young ones in arms.",
+      "clue_tag": "young-ones-arms",
       "answer": "infants",
       "answer_letters": "INFANTS",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Like a well-oiled machine.",
+      "clue_tag": "like-welloiled-machine",
       "answer": "smoothly",
       "answer_letters": "SMOOTHLY",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Jailhouse residents.",
+      "clue_tag": "jailhouse-residents",
       "answer": "inmates",
       "answer_letters": "INMATES",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Telecommunication grid.",
+      "clue_tag": "telecommunication-grid",
       "answer": "network",
       "answer_letters": "NETWORK",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Name of famous conductor Toscanini.",
+      "clue_tag": "name-famous-conductor",
       "answer": "arturo",
       "answer_letters": "ARTURO",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Automotive hub.",
+      "clue_tag": "automotive-hub",
       "answer": "detroit",
       "answer_letters": "DETROIT",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Lacking transition or warning.",
+      "clue_tag": "lacking-transition-warning",
       "answer": "abrupt",
       "answer_letters": "ABRUPT",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Seemed upon reflection.",
+      "clue_tag": "seemed-upon-reflection",
       "answer": "looked",
       "answer_letters": "LOOKED",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Has a liking for",
+      "clue_tag": "has-liking",
       "answer": "enjoys",
       "answer_letters": "ENJOYS",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Vast video-sharing platform online.",
+      "clue_tag": "vast-videosharing-platform",
       "answer": "youtube",
       "answer_letters": "YOUTUBE",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "Controlled from afar.",
+      "clue_tag": "controlled-afar",
       "answer": "remotely",
       "answer_letters": "REMOTELY",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Gave rise to the term 'Caesar' for subsequent emperors.",
+      "clue_tag": "gave-rise-term",
       "answer": "augustus",
       "answer_letters": "AUGUSTUS",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Arrange troops or equipment in battle formation.",
+      "clue_tag": "arrange-troops-equipment",
       "answer": "deploy",
       "answer_letters": "DEPLOY",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Called for the use of something, often a law or principle.",
+      "clue_tag": "called-use-something",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Open-source web server software",
+      "clue_tag": "opensource-web-server",
       "answer": "apache",
       "answer_letters": "APACHE",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "Allow without complaint.",
+      "clue_tag": "allow-without-complaint",
       "answer": "tolerate",
       "answer_letters": "TOLERATE",
       "indices": [

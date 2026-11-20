@@ -5,7 +5,7 @@
   "source_letters": "LISIHARRISONTHECLIQUE",
   "clues": [
     {
-      "clue": "Used to treat bipolar disorder.",
+      "clue_tag": "used-treat-bipolar",
       "answer": "lithium",
       "answer_letters": "LITHIUM",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Suppress actions or impulses",
+      "clue_tag": "suppress-actions-impulses",
       "answer": "inhibit",
       "answer_letters": "INHIBIT",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Marine predators often found in movies.",
+      "clue_tag": "marine-predators-often",
       "answer": "sharks",
       "answer_letters": "SHARKS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Brain's visual interpretations.",
+      "clue_tag": "brains-visual-interpretations",
       "answer": "images",
       "answer_letters": "IMAGES",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Contact information for communication.",
+      "clue_tag": "contact-information-communication",
       "answer": "address",
       "answer_letters": "ADDRESS",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Composer celebrated for his guitar compositions and orchestral works.",
+      "clue_tag": "composer-celebrated-his",
       "answer": "rodrigo",
       "answer_letters": "RODRIGO",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "A city in California near the San Francisco Bay Area.",
+      "clue_tag": "city-california-near",
       "answer": "richmond",
       "answer_letters": "RICHMOND",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
+      "clue_tag": "one-major-prophets",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Ways of organizing efforts.",
+      "clue_tag": "ways-organizing-efforts",
       "answer": "strategies",
       "answer_letters": "STRATEGIES",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "At the exact spot of occurrence or interest.",
+      "clue_tag": "exact-spot-occurrence",
       "answer": "on-site",
       "answer_letters": "ONSITE",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Indifferent or unbiased position.",
+      "clue_tag": "indifferent-unbiased-position",
       "answer": "neutral",
       "answer_letters": "NEUTRAL",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Granted the right to use a noble name",
+      "clue_tag": "granted-right-use",
       "answer": "titled",
       "answer_letters": "TITLED",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Sport that features a rink and nets.",
+      "clue_tag": "sport-features-rink",
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Can imply choice between two options.",
+      "clue_tag": "can-imply-choice",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Likely to be remembered easily",
+      "clue_tag": "likely-be-remembered",
       "answer": "catchy",
       "answer_letters": "CATCHY",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
+      "clue_tag": "capital-city-maseru",
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Broke up a fight.",
+      "clue_tag": "broke-up-fight",
       "answer": "intervened",
       "answer_letters": "INTERVENED",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Mentioned in print.",
+      "clue_tag": "mentioned-print",
       "answer": "quoted",
       "answer_letters": "QUOTED",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Having no specific label.",
+      "clue_tag": "having-no-specific",
       "answer": "unnamed",
       "answer_letters": "UNNAMED",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "To begin a journey or venture",
+      "clue_tag": "begin-journey-venture",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [

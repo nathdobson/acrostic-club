@@ -5,7 +5,7 @@
   "source_letters": "ERICMICHAELLEVENTHAL",
   "clues": [
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "An early British colonialist in Southern Africa.",
+      "clue_tag": "early-british-colonialist",
       "answer": "rhodes",
       "answer_letters": "RHODES",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "They may differ in neutron count but remain chemically similar.",
+      "clue_tag": "they-may-differ",
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Participants in the battle at Gettysburg.",
+      "clue_tag": "participants-battle-gettysburg",
       "answer": "confederates",
       "answer_letters": "CONFEDERATES",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "\"Crash Into Me\" rock group Dave __ Band",
+      "clue_tag": "crash-into-me",
       "answer": "matthews",
       "answer_letters": "MATTHEWS",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "Wouldn't let go of the idea until it was a reality.",
+      "clue_tag": "wouldnt-let-go",
       "answer": "insisted",
       "answer_letters": "INSISTED",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "Known for its four-character idioms or 'chengyu'.",
+      "clue_tag": "known-fourcharacter-idioms",
       "answer": "chinese",
       "answer_letters": "CHINESE",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Opposite of 'coldest' in terms of temperature.",
+      "clue_tag": "opposite-coldest-terms",
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Add-ons to boost a property's appeal",
+      "clue_tag": "addons-boost-propertys",
       "answer": "amenities",
       "answer_letters": "AMENITIES",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Hired personnel contributing to organizational goals.",
+      "clue_tag": "hired-personnel-contributing",
       "answer": "employees",
       "answer_letters": "EMPLOYEES",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Sought political influence on behalf of a group or interest.",
+      "clue_tag": "sought-political-influence",
       "answer": "lobbied",
       "answer_letters": "LOBBIED",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
+      "clue_tag": "film-these-are",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Device for cleaning floors.",
+      "clue_tag": "device-cleaning-floors",
       "answer": "vacuum",
       "answer_letters": "VACUUM",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Not yours or mine, but belonging to those people.",
+      "clue_tag": "not-yours-mine",
       "answer": "theirs",
       "answer_letters": "THEIRS",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Advanced in level, degree, or importance.",
+      "clue_tag": "advanced-level-degree",
       "answer": "higher",
       "answer_letters": "HIGHER",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Guiding beacon for lost ships.",
+      "clue_tag": "guiding-beacon-lost",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [

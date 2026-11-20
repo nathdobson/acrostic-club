@@ -5,7 +5,7 @@
   "source_letters": "MARCELPROUSTSWANNSWAY",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "michel",
       "answer_letters": "MICHEL",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "renovated",
       "answer_letters": "RENOVATED",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "choose",
       "answer_letters": "CHOOSE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "entrenched",
       "answer_letters": "ENTRENCHED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "little",
       "answer_letters": "LITTLE",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "penrith",
       "answer_letters": "PENRITH",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "remote",
       "answer_letters": "REMOTE",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "offered",
       "answer_letters": "OFFERED",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "usable",
       "answer_letters": "USABLE",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shenandoah",
       "answer_letters": "SHENANDOAH",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "wheels",
       "answer_letters": "WHEELS",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "affordable",
       "answer_letters": "AFFORDABLE",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "neither",
       "answer_letters": "NEITHER",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "sabbath",
       "answer_letters": "SABBATH",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "whitehead",
       "answer_letters": "WHITEHEAD",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "atherton",
       "answer_letters": "ATHERTON",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yeovil",
       "answer_letters": "YEOVIL",
       "indices": [

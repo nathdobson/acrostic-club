@@ -5,7 +5,7 @@
   "source_letters": "TARRYNFISHERFCKLOVE",
   "clues": [
     {
-      "clue": "Contemplations or reflections.",
+      "clue_tag": "contemplations-reflections",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "With total certainty.",
+      "clue_tag": "total-certainty",
       "answer": "absolutely",
       "answer_letters": "ABSOLUTELY",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Sanctuary for those in peril",
+      "clue_tag": "sanctuary-those-peril",
       "answer": "refuge",
       "answer_letters": "REFUGE",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Vantage point above streets.",
+      "clue_tag": "vantage-point-above",
       "answer": "rooftop",
       "answer_letters": "ROOFTOP",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Vast video-sharing platform online.",
+      "clue_tag": "vast-videosharing-platform",
       "answer": "youtube",
       "answer_letters": "YOUTUBE",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Suggest formally for approval or election",
+      "clue_tag": "suggest-formally-approval",
       "answer": "nominate",
       "answer_letters": "NOMINATE",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Famous Japanese city known for its international music festival.",
+      "clue_tag": "famous-japanese-city",
       "answer": "fukuoka",
       "answer_letters": "FUKUOKA",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "Specific instances where ideas are put into action.",
+      "clue_tag": "specific-instances-where",
       "answer": "implementations",
       "answer_letters": "IMPLEMENTATIONS",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Tunnel for trains beneath a city",
+      "clue_tag": "tunnel-trains-beneath",
       "answer": "subway",
       "answer_letters": "SUBWAY",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Nickname of a Norwegian king.",
+      "clue_tag": "nickname-norwegian-king",
       "answer": "harald",
       "answer_letters": "HARALD",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Happiness derived from activities or experiences.",
+      "clue_tag": "happiness-derived-activities",
       "answer": "enjoyment",
       "answer_letters": "ENJOYMENT",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Takes off shoes or accessories.",
+      "clue_tag": "takes-off-shoes",
       "answer": "removes",
       "answer_letters": "REMOVES",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Error-ridden or flawed.",
+      "clue_tag": "errorridden-flawed",
       "answer": "faulty",
       "answer_letters": "FAULTY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Often labeled with hazard signs.",
+      "clue_tag": "often-labeled-hazard",
       "answer": "chemical",
       "answer_letters": "CHEMICAL",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Home to ancient Dilmun civilization.",
+      "clue_tag": "home-ancient-dilmun",
       "answer": "kuwait",
       "answer_letters": "KUWAIT",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Gentlewomen.",
+      "clue_tag": "gentlewomen",
       "answer": "ladies",
       "answer_letters": "LADIES",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Island where WWII's last major battle occurred.",
+      "clue_tag": "island-where-wwiis",
       "answer": "okinawa",
       "answer_letters": "OKINAWA",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Low areas between mountains.",
+      "clue_tag": "low-areas-between",
       "answer": "valleys",
       "answer_letters": "VALLEYS",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Hereditary title often associated with land ownership.",
+      "clue_tag": "hereditary-title-often",
       "answer": "earldom",
       "answer_letters": "EARLDOM",
       "indices": [

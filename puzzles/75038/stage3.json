@@ -5,7 +5,7 @@
   "source_letters": "CHARLESBUKOWSKIWOMEN",
   "clues": [
     {
-      "clue": "Reckoned with merit.",
+      "clue_tag": "reckoned-merit",
       "answer": "credited",
       "answer_letters": "CREDITED",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Legal term for murder.",
+      "clue_tag": "legal-term-murder",
       "answer": "homicide",
       "answer_letters": "HOMICIDE",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Process of programmed cell death.",
+      "clue_tag": "process-programmed-cell",
       "answer": "apoptosis",
       "answer_letters": "APOPTOSIS",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Guided or directed to someone else.",
+      "clue_tag": "guided-directed-someone",
       "answer": "referred",
       "answer_letters": "REFERRED",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "A common arrangement in business spaces: office space is often _____.",
+      "clue_tag": "common-arrangement-business",
       "answer": "leased",
       "answer_letters": "LEASED",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Not powered by steam or gas.",
+      "clue_tag": "not-powered-steam",
       "answer": "electric",
       "answer_letters": "ELECTRIC",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "A term for protective measures, often metaphorical.",
+      "clue_tag": "term-protective-measures",
       "answer": "shields",
       "answer_letters": "SHIELDS",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Dazzling or luminous.",
+      "clue_tag": "dazzling-luminous",
       "answer": "bright",
       "answer_letters": "BRIGHT",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Now in progress.",
+      "clue_tag": "now-progress",
       "answer": "underway",
       "answer_letters": "UNDERWAY",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Organ that filters your blood.",
+      "clue_tag": "organ-filters-your",
       "answer": "kidney",
       "answer_letters": "KIDNEY",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Referring to eyesight or lenses.",
+      "clue_tag": "referring-eyesight-lenses",
       "answer": "optical",
       "answer_letters": "OPTICAL",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "To a large extent.",
+      "clue_tag": "large-extent",
       "answer": "widely",
       "answer_letters": "WIDELY",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "An expression of condolence.",
+      "clue_tag": "expression-condolence",
       "answer": "sympathy",
       "answer_letters": "SYMPATHY",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Arabic term for 'successor'.",
+      "clue_tag": "arabic-term-successor",
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Revenues, for better or worse.",
+      "clue_tag": "revenues-better-worse",
       "answer": "incomes",
       "answer_letters": "INCOMES",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Location in Dorset, UK with a rich history of trade and industry",
+      "clue_tag": "location-dorset-uk",
       "answer": "weymouth",
       "answer_letters": "WEYMOUTH",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Places where one can purchase goods or services.",
+      "clue_tag": "places-where-one",
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Delineated geographically.",
+      "clue_tag": "delineated-geographically",
       "answer": "mapped",
       "answer_letters": "MAPPED",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Moses led it.",
+      "clue_tag": "moses-led",
       "answer": "exodus",
       "answer_letters": "EXODUS",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Hosted the 2014 Summer Youth Olympics.",
+      "clue_tag": "hosted-2014-summer",
       "answer": "nanjing",
       "answer_letters": "NANJING",
       "indices": [

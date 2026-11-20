@@ -5,7 +5,7 @@
   "source_letters": "KIRANMANRALALLABOARD",
   "clues": [
     {
-      "clue": "Founder of a breakfast cereal empire.",
+      "clue_tag": "founder-breakfast-cereal",
       "answer": "kellogg",
       "answer_letters": "KELLOGG",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Language spoken in Rome.",
+      "clue_tag": "language-spoken-rome",
       "answer": "italian",
       "answer_letters": "ITALIAN",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Once a sinner, now virtuous",
+      "clue_tag": "once-sinner-now",
       "answer": "reformed",
       "answer_letters": "REFORMED",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Connected to Orlando via I-4.",
+      "clue_tag": "connected-orlando-via",
       "answer": "maitland",
       "answer_letters": "MAITLAND",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Managed to bear the cost of.",
+      "clue_tag": "managed-bear-cost",
       "answer": "afforded",
       "answer_letters": "AFFORDED",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Re-directed through a network.",
+      "clue_tag": "redirected-through-network",
       "answer": "routed",
       "answer_letters": "ROUTED",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Place for gaming machines.",
+      "clue_tag": "place-gaming-machines",
       "answer": "arcade",
       "answer_letters": "ARCADE",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Spanning maximum duration.",
+      "clue_tag": "spanning-maximum-duration",
       "answer": "longest",
       "answer_letters": "LONGEST",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Known for their rivalry with Real Madrid.",
+      "clue_tag": "known-their-rivalry",
       "answer": "atlético",
       "answer_letters": "ATLETICO",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Cheaply priced.",
+      "clue_tag": "cheaply-priced",
       "answer": "low-cost",
       "answer_letters": "LOWCOST",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Name of a Jesuit university.",
+      "clue_tag": "name-jesuit-university",
       "answer": "loyola",
       "answer_letters": "LOYOLA",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Tune for national pride.",
+      "clue_tag": "tune-national-pride",
       "answer": "anthem",
       "answer_letters": "ANTHEM",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Form of 'to become'.",
+      "clue_tag": "form-become",
       "answer": "became",
       "answer_letters": "BECAME",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Culprit.",
+      "clue_tag": "culprit",
       "answer": "offender",
       "answer_letters": "OFFENDER",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Became sufficient or adequate (v.)",
+      "clue_tag": "became-sufficient-adequate",
       "answer": "amounted",
       "answer_letters": "AMOUNTED",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "A mild term for 'instead'.",
+      "clue_tag": "mild-term-instead",
       "answer": "rather",
       "answer_letters": "RATHER",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Automotive hub.",
+      "clue_tag": "automotive-hub",
       "answer": "detroit",
       "answer_letters": "DETROIT",
       "indices": [

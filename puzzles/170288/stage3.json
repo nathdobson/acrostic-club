@@ -5,7 +5,7 @@
   "source_letters": "ALEXISHALLGLITTERLAND",
   "clues": [
     {
-      "clue": "Add-ons to boost a property's appeal",
+      "clue_tag": "addons-boost-propertys",
       "answer": "amenities",
       "answer_letters": "AMENITIES",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Key figure in shaping the final version of a document.",
+      "clue_tag": "key-figure-shaping",
       "answer": "editor",
       "answer_letters": "EDITOR",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Frenchman who started his mission in Goa in 1542.",
+      "clue_tag": "frenchman-started-his",
       "answer": "xavier",
       "answer_letters": "XAVIER",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Increased in degree; amplified.",
+      "clue_tag": "increased-degree-amplified",
       "answer": "heightened",
       "answer_letters": "HEIGHTENED",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Sports stars, in short.",
+      "clue_tag": "sports-stars-short",
       "answer": "athletes",
       "answer_letters": "ATHLETES",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "City in Middlesex County, Massachusetts",
+      "clue_tag": "city-middlesex-county",
       "answer": "lowell",
       "answer_letters": "LOWELL",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Business expansion or development.",
+      "clue_tag": "business-expansion-development",
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Pertaining to bowels.",
+      "clue_tag": "pertaining-bowels",
       "answer": "intestinal",
       "answer_letters": "INTESTINAL",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Possible dangers looming.",
+      "clue_tag": "possible-dangers-looming",
       "answer": "threats",
       "answer_letters": "THREATS",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "An award for a victory.",
+      "clue_tag": "award-victory",
       "answer": "trophy",
       "answer_letters": "TROPHY",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Had words removed or altered.",
+      "clue_tag": "had-words-removed",
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Symbolic actions performed on regular occasions.",
+      "clue_tag": "symbolic-actions-performed",
       "answer": "ritual",
       "answer_letters": "RITUAL",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Genetic relation between traits.",
+      "clue_tag": "genetic-relation-between",
       "answer": "linkage",
       "answer_letters": "LINKAGE",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Links in memory or thought.",
+      "clue_tag": "links-memory-thought",
       "answer": "associations",
       "answer_letters": "ASSOCIATIONS",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Month with Thanksgiving in the U.S.",
+      "clue_tag": "month-thanksgiving-us",
       "answer": "november",
       "answer_letters": "NOVEMBER",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "Cleanup after a meal.",
+      "clue_tag": "cleanup-after-meal",
       "answer": "dishes",
       "answer_letters": "DISHES",
       "indices": [

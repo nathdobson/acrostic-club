@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYACONFESSION",
   "clues": [
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Estevez Sr., the patriarch.",
+      "clue_tag": "estevez-sr-patriarch",
       "answer": "emilio",
       "answer_letters": "EMILIO",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Surname of an American talk show host, famously married to Rosie.",
+      "clue_tag": "surname-american-talk",
       "answer": "o'donnell",
       "answer_letters": "ODONNELL",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Past participle of hurl",
+      "clue_tag": "past-participle-hurl",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Made accessible by removing obstructions.",
+      "clue_tag": "made-accessible-removing",
       "answer": "opened",
       "answer_letters": "OPENED",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Career or business as income source.",
+      "clue_tag": "career-business-income",
       "answer": "livelihood",
       "answer_letters": "LIVELIHOOD",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Home to Gangtok, a city known for its stunning views.",
+      "clue_tag": "home-gangtok-city",
       "answer": "sikkim",
       "answer_letters": "SIKKIM",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Customized with a particular subject.",
+      "clue_tag": "customized-particular-subject",
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Gas with atomic number eight.",
+      "clue_tag": "gas-atomic-number",
       "answer": "oxygen",
       "answer_letters": "OXYGEN",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Lemony in hue.",
+      "clue_tag": "lemony-hue",
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "LA's neighbor with a famous amusement park.",
+      "clue_tag": "las-neighbor-famous",
       "answer": "anaheim",
       "answer_letters": "ANAHEIM",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "A morning pick-me-up.",
+      "clue_tag": "morning-pickmeup",
       "answer": "coffee",
       "answer_letters": "COFFEE",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "USA state known for its casinos",
+      "clue_tag": "usa-state-known",
       "answer": "nevada",
       "answer_letters": "NEVADA",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Adjacent boroughs include Wandsworth and Kensington.",
+      "clue_tag": "adjacent-boroughs-include",
       "answer": "fulham",
       "answer_letters": "FULHAM",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Prerequisite for participation.",
+      "clue_tag": "prerequisite-participation",
       "answer": "eligibility",
       "answer_letters": "ELIGIBILITY",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Not in its original position.",
+      "clue_tag": "not-original-position",
       "answer": "shifted",
       "answer_letters": "SHIFTED",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Character in 'A Chorus Line'.",
+      "clue_tag": "character-chorus-line",
       "answer": "sheila",
       "answer_letters": "SHEILA",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Included in something.",
+      "clue_tag": "included-something",
       "answer": "involved",
       "answer_letters": "INVOLVED",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Away from the web",
+      "clue_tag": "away-web",
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "In want of more.",
+      "clue_tag": "want-more",
       "answer": "needing",
       "answer_letters": "NEEDING",
       "indices": [

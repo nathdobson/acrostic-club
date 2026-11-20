@@ -5,7 +5,7 @@
   "source_letters": "ROSANNALEOUPINFLAMES",
   "clues": [
     {
-      "clue": "One who calls foul in a sporting event.",
+      "clue_tag": "one-calls-foul",
       "answer": "referee",
       "answer_letters": "REFEREE",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Arranging things in a specific manner.",
+      "clue_tag": "arranging-things-specific",
       "answer": "ordering",
       "answer_letters": "ORDERING",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Indian equivalent to the concept of 'belles-lettres'",
+      "clue_tag": "indian-equivalent-concept",
       "answer": "sahitya",
       "answer_letters": "SAHITYA",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Aggregation of stories, poems, or essays.",
+      "clue_tag": "aggregation-stories-poems",
       "answer": "anthology",
       "answer_letters": "ANTHOLOGY",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "2000 Winter Olympics host city",
+      "clue_tag": "2000-winter-olympics",
       "answer": "nagano",
       "answer_letters": "NAGANO",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Maneuver through challenges with skill.",
+      "clue_tag": "maneuver-through-challenges",
       "answer": "navigate",
       "answer_letters": "NAVIGATE",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "A state in South India.",
+      "clue_tag": "state-south-india",
       "answer": "andhra",
       "answer_letters": "ANDHRA",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Hindu goddess of wealth and fortune",
+      "clue_tag": "hindu-goddess-wealth",
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
+      "clue_tag": "iconic-representation-often",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Bank compensation in carbon accounting.",
+      "clue_tag": "bank-compensation-carbon",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Not influenced by surroundings.",
+      "clue_tag": "not-influenced-surroundings",
       "answer": "unaffected",
       "answer_letters": "UNAFFECTED",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "It powers internal combustion engines.",
+      "clue_tag": "powers-internal-combustion",
       "answer": "petrol",
       "answer_letters": "PETROL",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Trespassed on someone's activity or freedom of action.",
+      "clue_tag": "trespassed-someones-activity",
       "answer": "interfered",
       "answer_letters": "INTERFERED",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "It's not the hammer, but rather this that pierces the haystack.",
+      "clue_tag": "not-hammer-but",
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Complied with directions.",
+      "clue_tag": "complied-directions",
       "answer": "followed",
       "answer_letters": "FOLLOWED",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Portable computer",
+      "clue_tag": "portable-computer",
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Ice Age creature.",
+      "clue_tag": "ice-age-creature",
       "answer": "mammoth",
       "answer_letters": "MAMMOTH",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Subject of an annual celebration on Purim",
+      "clue_tag": "subject-annual-celebration",
       "answer": "esther",
       "answer_letters": "ESTHER",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Triggered an event or reaction.",
+      "clue_tag": "triggered-event-reaction",
       "answer": "sparked",
       "answer_letters": "SPARKED",
       "indices": [

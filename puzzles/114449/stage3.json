@@ -5,7 +5,7 @@
   "source_letters": "CDREISSMARRIAGEGAMES",
   "clues": [
     {
-      "clue": "A Native American tribe.",
+      "clue_tag": "native-american-tribe",
       "answer": "cherokee",
       "answer_letters": "CHEROKEE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Location where skyscrapers often rise.",
+      "clue_tag": "location-where-skyscrapers",
       "answer": "downtown",
       "answer_letters": "DOWNTOWN",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Job or service continuation by employees or clients.",
+      "clue_tag": "job-service-continuation",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "clue_tag": "36th-president-united",
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "clue": "Capital of North Macedonia.",
+      "clue_tag": "capital-north-macedonia",
       "answer": "skopje",
       "answer_letters": "SKOPJE",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Electrical device for routing current.",
+      "clue_tag": "electrical-device-routing",
       "answer": "switch",
       "answer_letters": "SWITCH",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Tony's formal version.",
+      "clue_tag": "tonys-formal-version",
       "answer": "anthony",
       "answer_letters": "ANTHONY",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Edited again after initial creation.",
+      "clue_tag": "edited-again-after",
       "answer": "reworked",
       "answer_letters": "REWORKED",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Obtained through descent.",
+      "clue_tag": "obtained-through-descent",
       "answer": "inherited",
       "answer_letters": "INHERITED",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "State of being self-governing.",
+      "clue_tag": "state-being-selfgoverning",
       "answer": "autonomy",
       "answer_letters": "AUTONOMY",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Brick city for Batman.",
+      "clue_tag": "brick-city-batman",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Inhabitant of Africa's second-most populous country.",
+      "clue_tag": "inhabitant-africas-secondmost",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "With authentic feelings.",
+      "clue_tag": "authentic-feelings",
       "answer": "genuinely",
       "answer_letters": "GENUINELY",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Sports stars, in short.",
+      "clue_tag": "sports-stars-short",
       "answer": "athletes",
       "answer_letters": "ATHLETES",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Temporary solution",
+      "clue_tag": "temporary-solution",
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "A protocol suite used for LANs.",
+      "clue_tag": "protocol-suite-used",
       "answer": "ethernet",
       "answer_letters": "ETHERNET",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "Soccer goalie's dream.",
+      "clue_tag": "soccer-goalies-dream",
       "answer": "shutout",
       "answer_letters": "SHUTOUT",
       "indices": [

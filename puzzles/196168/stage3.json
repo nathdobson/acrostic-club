@@ -5,7 +5,7 @@
   "source_letters": "THEAHARRISONMOONSHADOW",
   "clues": [
     {
-      "clue": "Methods for achieving a goal.",
+      "clue_tag": "methods-achieving-goal",
       "answer": "techniques",
       "answer_letters": "TECHNIQUES",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Essential part of a presentation",
+      "clue_tag": "essential-part-presentation",
       "answer": "highlight",
       "answer_letters": "HIGHLIGHT",
       "indices": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "clue": "Things that take place.",
+      "clue_tag": "things-take-place",
       "answer": "events",
       "answer_letters": "EVENTS",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "To take for granted without proof.",
+      "clue_tag": "take-granted-without",
       "answer": "assume",
       "answer_letters": "ASSUME",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Place where a famous eruption took place, causing ashfall across North America.",
+      "clue_tag": "place-where-famous",
       "answer": "helens",
       "answer_letters": "HELENS",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "A member of royalty, especially within the Habsburg lineage.",
+      "clue_tag": "member-royalty-especially",
       "answer": "archduke",
       "answer_letters": "ARCHDUKE",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Action without conscious thought.",
+      "clue_tag": "action-without-conscious",
       "answer": "reflex",
       "answer_letters": "REFLEX",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Common abbreviation: I-____.",
+      "clue_tag": "common-abbreviation-i",
       "answer": "interstate",
       "answer_letters": "INTERSTATE",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "Can be crisp or rumpled.",
+      "clue_tag": "can-be-crisp",
       "answer": "sheets",
       "answer_letters": "SHEETS",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "Path where you can't go back.",
+      "clue_tag": "path-where-you",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Medium-length fictional work.",
+      "clue_tag": "mediumlength-fictional-work",
       "answer": "novella",
       "answer_letters": "NOVELLA",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Events where decisions are made.",
+      "clue_tag": "events-where-decisions",
       "answer": "meetings",
       "answer_letters": "MEETINGS",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Interconnected globally via the internet.",
+      "clue_tag": "interconnected-globally-via",
       "answer": "online",
       "answer_letters": "ONLINE",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Place where sacred relics are kept.",
+      "clue_tag": "place-where-sacred",
       "answer": "shrine",
       "answer_letters": "SHRINE",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Elevated urban dwelling.",
+      "clue_tag": "elevated-urban-dwelling",
       "answer": "high-rise",
       "answer_letters": "HIGHRISE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "It's a synonym for 'silver' or 'bright'.",
+      "clue_tag": "synonym-silver-bright",
       "answer": "argent",
       "answer_letters": "ARGENT",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Premieres in show business.",
+      "clue_tag": "premieres-show-business",
       "answer": "debuts",
       "answer_letters": "DEBUTS",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Begins with 'O' but rhymes with duffers",
+      "clue_tag": "begins-o-but",
       "answer": "offers",
       "answer_letters": "OFFERS",
       "indices": [
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "clue": "Something resembling white, slightly off.",
+      "clue_tag": "something-resembling-white",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "PHILPHILOSOFREECHENEY",
   "clues": [
     {
-      "clue": "Speaker's platform.",
+      "clue_tag": "speakers-platform",
       "answer": "podium",
       "answer_letters": "PODIUM",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "River Elbe flows through this port city",
+      "clue_tag": "river-elbe-flows",
       "answer": "hamburg",
       "answer_letters": "HAMBURG",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Opposite of open air.",
+      "clue_tag": "opposite-open-air",
       "answer": "indoor",
       "answer_letters": "INDOOR",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Spend money freely.",
+      "clue_tag": "spend-money-freely",
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Airplane navigators.",
+      "clue_tag": "airplane-navigators",
       "answer": "pilots",
       "answer_letters": "PILOTS",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Don Quixote's squire, in literature.",
+      "clue_tag": "don-quixotes-squire",
       "answer": "hidalgo",
       "answer_letters": "HIDALGO",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Choices available.",
+      "clue_tag": "choices-available",
       "answer": "options",
       "answer_letters": "OPTIONS",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Electrical device for routing current.",
+      "clue_tag": "electrical-device-routing",
       "answer": "switch",
       "answer_letters": "SWITCH",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Hits from the past.",
+      "clue_tag": "hits-past",
       "answer": "oldies",
       "answer_letters": "OLDIES",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Lower elevations near mountainous areas.",
+      "clue_tag": "lower-elevations-near",
       "answer": "foothills",
       "answer_letters": "FOOTHILLS",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Alleged but not confirmed.",
+      "clue_tag": "alleged-but-not",
       "answer": "rumored",
       "answer_letters": "RUMORED",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Home of composer Arvo Pärt.",
+      "clue_tag": "home-composer-arvo",
       "answer": "estonia",
       "answer_letters": "ESTONIA",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Life's unremarkable moments.",
+      "clue_tag": "lifes-unremarkable-moments",
       "answer": "everyday",
       "answer_letters": "EVERYDAY",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Part of the British Parliament.",
+      "clue_tag": "part-british-parliament",
       "answer": "commons",
       "answer_letters": "COMMONS",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "UK soccer boss (2012–15).",
+      "clue_tag": "uk-soccer-boss",
       "answer": "hodgson",
       "answer_letters": "HODGSON",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Multiple releases of a literary work.",
+      "clue_tag": "multiple-releases-literary",
       "answer": "editions",
       "answer_letters": "EDITIONS",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "The main human-like character in 'E.T. the Extra-Terrestrial'",
+      "clue_tag": "main-humanlike-character",
       "answer": "elliot",
       "answer_letters": "ELLIOT",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Actress named Y. de Carlo.",
+      "clue_tag": "actress-named-y",
       "answer": "yvonne",
       "answer_letters": "YVONNE",
       "indices": [

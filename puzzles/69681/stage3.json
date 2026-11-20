@@ -5,7 +5,7 @@
   "source_letters": "BFSKINNERWALDENTWO",
   "clues": [
     {
-      "clue": "Diamond-rich country.",
+      "clue_tag": "diamondrich-country",
       "answer": "botswana",
       "answer_letters": "BOTSWANA",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Lose grip on a ball in American football",
+      "clue_tag": "lose-grip-ball",
       "answer": "fumble",
       "answer_letters": "FUMBLE",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Biblical day of rest",
+      "clue_tag": "biblical-day-rest",
       "answer": "sabbath",
       "answer_letters": "SABBATH",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Organ that filters your blood.",
+      "clue_tag": "organ-filters-your",
       "answer": "kidney",
       "answer_letters": "KIDNEY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Attentive to discussions.",
+      "clue_tag": "attentive-discussions",
       "answer": "interested",
       "answer_letters": "INTERESTED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Street euphemism for opiates.",
+      "clue_tag": "street-euphemism-opiates",
       "answer": "narcotics",
       "answer_letters": "NARCOTICS",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Badly or unfavorably.",
+      "clue_tag": "badly-unfavorably",
       "answer": "negatively",
       "answer_letters": "NEGATIVELY",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Capital punishment events.",
+      "clue_tag": "capital-punishment-events",
       "answer": "executions",
       "answer_letters": "EXECUTIONS",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Freshened up, like an old house",
+      "clue_tag": "freshened-up-like",
       "answer": "renovated",
       "answer_letters": "RENOVATED",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Mass purchasing strategy.",
+      "clue_tag": "mass-purchasing-strategy",
       "answer": "wholesale",
       "answer_letters": "WHOLESALE",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Works modified from their original format.",
+      "clue_tag": "works-modified-their",
       "answer": "adaptations",
       "answer_letters": "ADAPTATIONS",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Native of the Baltic state bordered by Estonia, Lithuania, and Russia.",
+      "clue_tag": "native-baltic-state",
       "answer": "latvian",
       "answer_letters": "LATVIAN",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Reduction to a lower condition.",
+      "clue_tag": "reduction-lower-condition",
       "answer": "degradation",
       "answer_letters": "DEGRADATION",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Vital for both physical activities and electronic devices.",
+      "clue_tag": "vital-both-physical",
       "answer": "energy",
       "answer_letters": "ENERGY",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "This bird is often synonymous with the holidays.",
+      "clue_tag": "bird-often-synonymous",
       "answer": "turkey's",
       "answer_letters": "TURKEYS",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Arms production.",
+      "clue_tag": "arms-production",
       "answer": "weaponry",
       "answer_letters": "WEAPONRY",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Public health concern worldwide.",
+      "clue_tag": "public-health-concern",
       "answer": "obesity",
       "answer_letters": "OBESITY",
       "indices": [

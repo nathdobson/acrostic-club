@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDTHEFOUNTAINHEAD",
   "clues": [
     {
-      "clue": "Socially uncomfortable situation.",
+      "clue_tag": "socially-uncomfortable-situation",
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Characteristic of being not yet old.",
+      "clue_tag": "characteristic-being-not",
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "First-year player in sports.",
+      "clue_tag": "firstyear-player-sports",
       "answer": "rookie",
       "answer_letters": "ROOKIE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Energized or stimulated.",
+      "clue_tag": "energized-stimulated",
       "answer": "aroused",
       "answer_letters": "AROUSED",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "It's not the hammer, but rather this that pierces the haystack.",
+      "clue_tag": "not-hammer-but",
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Obsolete",
+      "clue_tag": "obsolete",
       "answer": "disused",
       "answer_letters": "DISUSED",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Final project for a degree?",
+      "clue_tag": "final-project-degree",
       "answer": "thesis",
       "answer_letters": "THESIS",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Real estate is the business of selling them, right?",
+      "clue_tag": "real-estate-business",
       "answer": "houses",
       "answer_letters": "HOUSES",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Name associated with horticultural mastery.",
+      "clue_tag": "name-associated-horticultural",
       "answer": "forsyth",
       "answer_letters": "FORSYTH",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "To an excessive or inappropriate extent.",
+      "clue_tag": "excessive-inappropriate-extent",
       "answer": "overly",
       "answer_letters": "OVERLY",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Name associated with Ulm Cathedral's architect",
+      "clue_tag": "name-associated-ulm",
       "answer": "ulrich",
       "answer_letters": "ULRICH",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "The essence of something original and amusing.",
+      "clue_tag": "essence-something-original",
       "answer": "novelty",
       "answer_letters": "NOVELTY",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Penmen.",
+      "clue_tag": "penmen",
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Reflexive pronoun for 'it'.",
+      "clue_tag": "reflexive-pronoun",
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Person without a name.",
+      "clue_tag": "person-without-name",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Given shelter or accommodation.",
+      "clue_tag": "given-shelter-accommodation",
       "answer": "housed",
       "answer_letters": "HOUSED",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Can imply choice between two options.",
+      "clue_tag": "can-imply-choice",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Creative literary craftsman.",
+      "clue_tag": "creative-literary-craftsman",
       "answer": "author",
       "answer_letters": "AUTHOR",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Tasks to be done.",
+      "clue_tag": "tasks-be-done",
       "answer": "duties",
       "answer_letters": "DUTIES",
       "indices": [

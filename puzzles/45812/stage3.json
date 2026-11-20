@@ -5,7 +5,7 @@
   "source_letters": "ALFREDDEVIGNYSTELLO",
   "clues": [
     {
-      "clue": "Singer of 'Foolish' and 'Rock wit U (Awww Baby).'",
+      "clue_tag": "singer-foolish-rock",
       "answer": "ashanti",
       "answer_letters": "ASHANTI",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Completing an educational course or degree.",
+      "clue_tag": "completing-educational-course",
       "answer": "finishing",
       "answer_letters": "FINISHING",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Adjective for inhabitants of the country now known as Zimbabwe before its independence in 1980.",
+      "clue_tag": "adjective-inhabitants-country",
       "answer": "rhodesian",
       "answer_letters": "RHODESIAN",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
+      "clue_tag": "film-these-are",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "After-school hold-up for rule-breakers.",
+      "clue_tag": "afterschool-holdup-rulebreakers",
       "answer": "detention",
       "answer_letters": "DETENTION",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "The part of a 24-hour cycle that's for waking and working.",
+      "clue_tag": "part-24hour-cycle",
       "answer": "daytime",
       "answer_letters": "DAYTIME",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "clue_tag": "36th-president-united",
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "A region in northeastern Italy.",
+      "clue_tag": "region-northeastern-italy",
       "answer": "veneto",
       "answer_letters": "VENETO",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Describing sporadic or irregular occurrence",
+      "clue_tag": "describing-sporadic-irregular",
       "answer": "intermittent",
       "answer_letters": "INTERMITTENT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Main entrance or access point.",
+      "clue_tag": "main-entrance-access",
       "answer": "gateway",
       "answer_letters": "GATEWAY",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Telecommunication grid.",
+      "clue_tag": "telecommunication-grid",
       "answer": "network",
       "answer_letters": "NETWORK",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Home to Aldeburgh and Bawdsey.",
+      "clue_tag": "home-aldeburgh-bawdsey",
       "answer": "suffolk",
       "answer_letters": "SUFFOLK",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Thusly, resulting in",
+      "clue_tag": "thusly-resulting",
       "answer": "thereby",
       "answer_letters": "THEREBY",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Host city of Hogmanay celebrations on New Year’s Eve.",
+      "clue_tag": "host-city-hogmanay",
       "answer": "edinburgh",
       "answer_letters": "EDINBURGH",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Esquire, often abbreviated as Esq.",
+      "clue_tag": "esquire-often-abbreviated",
       "answer": "lawyer",
       "answer_letters": "LAWYER",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Guiding beacon for lost ships.",
+      "clue_tag": "guiding-beacon-lost",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Place where a large oil refinery is located in Ukraine.",
+      "clue_tag": "place-where-large",
       "answer": "odessa",
       "answer_letters": "ODESSA",
       "indices": [

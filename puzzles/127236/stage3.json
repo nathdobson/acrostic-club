@@ -5,7 +5,7 @@
   "source_letters": "ELOCKHARTWEWERELIARS",
   "clues": [
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Position in baseball, softball, and cricket",
+      "clue_tag": "position-baseball-softball",
       "answer": "outfield",
       "answer_letters": "OUTFIELD",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Secures something elusive.",
+      "clue_tag": "secures-something-elusive",
       "answer": "catches",
       "answer_letters": "CATCHES",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Home to ancient Dilmun civilization.",
+      "clue_tag": "home-ancient-dilmun",
       "answer": "kuwait",
       "answer_letters": "KUWAIT",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Robert, known for his role in 'Rain Man'.",
+      "clue_tag": "robert-known-his",
       "answer": "hoffman",
       "answer_letters": "HOFFMAN",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Adolf and Adolfus are variants of his first name.",
+      "clue_tag": "adolf-adolfus-are",
       "answer": "adolph",
       "answer_letters": "ADOLPH",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Promotions within a professional hierarchy.",
+      "clue_tag": "promotions-within-professional",
       "answer": "raises",
       "answer_letters": "RAISES",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Structured agenda.",
+      "clue_tag": "structured-agenda",
       "answer": "timetable",
       "answer_letters": "TIMETABLE",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Term for those who have lost their spouses.",
+      "clue_tag": "term-those-have",
       "answer": "widowed",
       "answer_letters": "WIDOWED",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Has a liking for",
+      "clue_tag": "has-liking",
       "answer": "enjoys",
       "answer_letters": "ENJOYS",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Site of the Royal Artillery Barracks.",
+      "clue_tag": "site-royal-artillery",
       "answer": "woolwich",
       "answer_letters": "WOOLWICH",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Director of 'Unforgiven' (1992)",
+      "clue_tag": "director-unforgiven-1992",
       "answer": "eastwood",
       "answer_letters": "EASTWOOD",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Method used in networks to forward information.",
+      "clue_tag": "method-used-networks",
       "answer": "routing",
       "answer_letters": "ROUTING",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Introductory shots for location.",
+      "clue_tag": "introductory-shots-location",
       "answer": "establishing",
       "answer_letters": "ESTABLISHING",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Age from infancy to demise.",
+      "clue_tag": "age-infancy-demise",
       "answer": "lifetime",
       "answer_letters": "LIFETIME",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Called for the use of something, often a law or principle.",
+      "clue_tag": "called-use-something",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Lightweight and resistant to corrosion.",
+      "clue_tag": "lightweight-resistant-corrosion",
       "answer": "aluminium",
       "answer_letters": "ALUMINIUM",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Audacious acrobatics in film.",
+      "clue_tag": "audacious-acrobatics-film",
       "answer": "stunts",
       "answer_letters": "STUNTS",
       "indices": [

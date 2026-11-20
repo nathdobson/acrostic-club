@@ -5,7 +5,7 @@
   "source_letters": "MARYWEBBGONETOEARTH",
   "clues": [
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Brother and successor to King Hussein.",
+      "clue_tag": "brother-successor-king",
       "answer": "abdullah",
       "answer_letters": "ABDULLAH",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Made over with significant changes",
+      "clue_tag": "made-over-significant",
       "answer": "revamped",
       "answer_letters": "REVAMPED",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Delivers results or outcomes",
+      "clue_tag": "delivers-results-outcomes",
       "answer": "yields",
       "answer_letters": "YIELDS",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Devoid of",
+      "clue_tag": "devoid",
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Accent on a particular point.",
+      "clue_tag": "accent-particular-point",
       "answer": "emphasis",
       "answer_letters": "EMPHASIS",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Area where wars are waged.",
+      "clue_tag": "area-where-wars",
       "answer": "battlefield",
       "answer_letters": "BATTLEFIELD",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "The name of a bug.",
+      "clue_tag": "name-bug",
       "answer": "beetle",
       "answer_letters": "BEETLE",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "He advocated 'Satyagraha' or insistence on truth.",
+      "clue_tag": "he-advocated-satyagraha",
       "answer": "gandhi",
       "answer_letters": "GANDHI",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "At the exact spot of occurrence or interest.",
+      "clue_tag": "exact-spot-occurrence",
       "answer": "on-site",
       "answer_letters": "ONSITE",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "clue_tag": "author-philosophiae-naturalis",
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Theory proposed by Darwin.",
+      "clue_tag": "theory-proposed-darwin",
       "answer": "evolution",
       "answer_letters": "EVOLUTION",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Units for organizing communities.",
+      "clue_tag": "units-organizing-communities",
       "answer": "townships",
       "answer_letters": "TOWNSHIPS",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "End of a leader's life in sudden tragedy.",
+      "clue_tag": "end-leaders-life",
       "answer": "assassination",
       "answer_letters": "ASSASSINATION",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Critiques or assessments.",
+      "clue_tag": "critiques-assessments",
       "answer": "reviews",
       "answer_letters": "REVIEWS",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Succeed, especially in a particular environment.",
+      "clue_tag": "succeed-especially-particular",
       "answer": "thrive",
       "answer_letters": "THRIVE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Second most important source in Islamic law after the Quran.",
+      "clue_tag": "second-most-important",
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [

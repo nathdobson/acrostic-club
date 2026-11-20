@@ -5,7 +5,7 @@
   "source_letters": "CAMEORENAEINMYDREAMS",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "chihuahua",
       "answer_letters": "CHIHUAHUA",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "aquino",
       "answer_letters": "AQUINO",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "mighty",
       "answer_letters": "MIGHTY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "oliveira",
       "answer_letters": "OLIVEIRA",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ex-wife",
       "answer_letters": "EXWIFE",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "neutral",
       "answer_letters": "NEUTRAL",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "adelaide",
       "answer_letters": "ADELAIDE",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "inhibit",
       "answer_letters": "INHIBIT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yokosuka",
       "answer_letters": "YOKOSUKA",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rutherford",
       "answer_letters": "RUTHERFORD",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "examined",
       "answer_letters": "EXAMINED",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "altitude",
       "answer_letters": "ALTITUDE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "migratory",
       "answer_letters": "MIGRATORY",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "sooner",
       "answer_letters": "SOONER",
       "indices": [

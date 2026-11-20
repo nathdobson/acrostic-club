@@ -5,7 +5,7 @@
   "source_letters": "CAMEORENAEINMYDREAMS",
   "clues": [
     {
-      "clue": "Smallest of dog breeds.",
+      "clue_tag": "smallest-dog-breeds",
       "answer": "chihuahua",
       "answer_letters": "CHIHUAHUA",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "She led a peaceful revolution known as the People Power Revolution.",
+      "clue_tag": "she-led-peaceful",
       "answer": "aquino",
       "answer_letters": "AQUINO",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Powerful adjective.",
+      "clue_tag": "powerful-adjective",
       "answer": "mighty",
       "answer_letters": "MIGHTY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
+      "clue_tag": "iconic-representation-often",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "He faced Conor McGregor in a lightweight bout.",
+      "clue_tag": "he-faced-conor",
       "answer": "oliveira",
       "answer_letters": "OLIVEIRA",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Alimony's former recipient.",
+      "clue_tag": "alimonys-former-recipient",
       "answer": "ex-wife",
       "answer_letters": "EXWIFE",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Indifferent or unbiased position.",
+      "clue_tag": "indifferent-unbiased-position",
       "answer": "neutral",
       "answer_letters": "NEUTRAL",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "City in South Australia.",
+      "clue_tag": "city-south-australia",
       "answer": "adelaide",
       "answer_letters": "ADELAIDE",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Sent out as sound waves.",
+      "clue_tag": "sent-out-sound",
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Suppress actions or impulses",
+      "clue_tag": "suppress-actions-impulses",
       "answer": "inhibit",
       "answer_letters": "INHIBIT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Where Japan's Maritime Self-Defense Forces have a major base.",
+      "clue_tag": "where-japans-maritime",
       "answer": "yokosuka",
       "answer_letters": "YOKOSUKA",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "clue_tag": "sixcharacter-string-alternating",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "He probed gold foil with alpha particles.",
+      "clue_tag": "he-probed-gold",
       "answer": "rutherford",
       "answer_letters": "RUTHERFORD",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Carefully looked at or inspected",
+      "clue_tag": "carefully-looked-inspected",
       "answer": "examined",
       "answer_letters": "EXAMINED",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Measure of height above sea level.",
+      "clue_tag": "measure-height-above",
       "answer": "altitude",
       "answer_letters": "ALTITUDE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Describes a nomadic lifestyle, especially among avian species.",
+      "clue_tag": "describes-nomadic-lifestyle",
       "answer": "migratory",
       "answer_letters": "MIGRATORY",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Cheerleader for OU.",
+      "clue_tag": "cheerleader-ou",
       "answer": "sooner",
       "answer_letters": "SOONER",
       "indices": [

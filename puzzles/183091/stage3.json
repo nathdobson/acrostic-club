@@ -5,7 +5,7 @@
   "source_letters": "HELENHUNTJACKSONRAMONA",
   "clues": [
     {
-      "clue": "They range from budget to five-star accommodations.",
+      "clue_tag": "they-range-budget",
       "answer": "hotels",
       "answer_letters": "HOTELS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Mistakes in judgment or fact.",
+      "clue_tag": "mistakes-judgment-fact",
       "answer": "errors",
       "answer_letters": "ERRORS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Division in football or cricket",
+      "clue_tag": "division-football-cricket",
       "answer": "league",
       "answer_letters": "LEAGUE",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Conduits of sensation and response",
+      "clue_tag": "conduits-sensation-response",
       "answer": "nerves",
       "answer_letters": "NERVES",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "'He did it all __________,' said no one ever.",
+      "clue_tag": "he-did-all",
       "answer": "himself",
       "answer_letters": "HIMSELF",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Historic Arab dynasty.",
+      "clue_tag": "historic-arab-dynasty",
       "answer": "umayyad",
       "answer_letters": "UMAYYAD",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "An affectionate nickname for Helen.",
+      "clue_tag": "affectionate-nickname-helen",
       "answer": "nellie",
       "answer_letters": "NELLIE",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Duration of some traditional holiday weekends.",
+      "clue_tag": "duration-some-traditional",
       "answer": "three-day",
       "answer_letters": "THREEDAY",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "A biblical heroine who slew Holofernes.",
+      "clue_tag": "biblical-heroine-slew",
       "answer": "judith",
       "answer_letters": "JUDITH",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Despite that fact.",
+      "clue_tag": "despite-fact",
       "answer": "albeit",
       "answer_letters": "ALBEIT",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "It's what keeps a team unified.",
+      "clue_tag": "what-keeps-team",
       "answer": "cohesion",
       "answer_letters": "COHESION",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Mounted medieval warriors.",
+      "clue_tag": "mounted-medieval-warriors",
       "answer": "knights",
       "answer_letters": "KNIGHTS",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Can be crisp or rumpled.",
+      "clue_tag": "can-be-crisp",
       "answer": "sheets",
       "answer_letters": "SHEETS",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Not including direct costs",
+      "clue_tag": "not-including-direct",
       "answer": "overhead",
       "answer_letters": "OVERHEAD",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Period of cultural revival in Europe, 14th-17th centuries.",
+      "clue_tag": "period-cultural-revival",
       "answer": "rebirth",
       "answer_letters": "REBIRTH",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "Wet season brought by shifting winds.",
+      "clue_tag": "wet-season-brought",
       "answer": "monsoon",
       "answer_letters": "MONSOON",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Suffix for the exact hour",
+      "clue_tag": "suffix-exact-hour",
       "answer": "o'clock",
       "answer_letters": "OCLOCK",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "It's not the hammer, but rather this that pierces the haystack.",
+      "clue_tag": "not-hammer-but",
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "Whoever it may be.",
+      "clue_tag": "whoever-may-be",
       "answer": "anyone",
       "answer_letters": "ANYONE",
       "indices": [

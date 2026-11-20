@@ -5,7 +5,7 @@
   "source_letters": "RMENGELHARDTTALON",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "reputation",
       "answer_letters": "REPUTATION",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "manipulation",
       "answer_letters": "MANIPULATION",
       "indices": [
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "embankment",
       "answer_letters": "EMBANKMENT",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "guyana",
       "answer_letters": "GUYANA",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "encompassed",
       "answer_letters": "ENCOMPASSED",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "landowner",
       "answer_letters": "LANDOWNER",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "heavyweight",
       "answer_letters": "HEAVYWEIGHT",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "authoritarian",
       "answer_letters": "AUTHORITARIAN",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "respondents",
       "answer_letters": "RESPONDENTS",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dublin",
       "answer_letters": "DUBLIN",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "townships",
       "answer_letters": "TOWNSHIPS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "locomotives",
       "answer_letters": "LOCOMOTIVES",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "namely",
       "answer_letters": "NAMELY",
       "indices": [

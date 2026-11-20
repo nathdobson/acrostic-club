@@ -5,7 +5,7 @@
   "source_letters": "SADHGURUMYSTICSMUSINGS",
   "clues": [
     {
-      "clue": "More lenient approach.",
+      "clue_tag": "more-lenient-approach",
       "answer": "softer",
       "answer_letters": "SOFTER",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Participating actively in an activity or gathering.",
+      "clue_tag": "participating-actively-activity",
       "answer": "attending",
       "answer_letters": "ATTENDING",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Partner to Lydgate in 'Middlemarch'.",
+      "clue_tag": "partner-lydgate-middlemarch",
       "answer": "dorothea",
       "answer_letters": "DOROTHEA",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "The opposite of deceit.",
+      "clue_tag": "opposite-deceit",
       "answer": "honesty",
       "answer_letters": "HONESTY",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "It studies shapes and sizes.",
+      "clue_tag": "studies-shapes-sizes",
       "answer": "geometry",
       "answer_letters": "GEOMETRY",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Revise software to improve performance or fix issues.",
+      "clue_tag": "revise-software-improve",
       "answer": "update",
       "answer_letters": "UPDATE",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Victim of a heist.",
+      "clue_tag": "victim-heist",
       "answer": "robbed",
       "answer_letters": "ROBBED",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Higher end neighborhood or area, often more affluent.",
+      "clue_tag": "higher-end-neighborhood",
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Nickname for someone from the United States, especially when contrasted with a 'Confederate' or Southerner.",
+      "clue_tag": "nickname-someone-united",
       "answer": "yankee",
       "answer_letters": "YANKEE",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Networking components for data paths.",
+      "clue_tag": "networking-components-data",
       "answer": "switches",
       "answer_letters": "SWITCHES",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Snoop around for answers.",
+      "clue_tag": "snoop-around-answers",
       "answer": "investigate",
       "answer_letters": "INVESTIGATE",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Penned together",
+      "clue_tag": "penned-together",
       "answer": "co-wrote",
       "answer_letters": "COWROTE",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Title for an Islamic religious leader.",
+      "clue_tag": "title-islamic-religious",
       "answer": "sheikh",
       "answer_letters": "SHEIKH",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "In the UK, this is what they call an interstate.",
+      "clue_tag": "uk-what-they",
       "answer": "motorway",
       "answer_letters": "MOTORWAY",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "Hesitant or reluctant.",
+      "clue_tag": "hesitant-reluctant",
       "answer": "unwilling",
       "answer_letters": "UNWILLING",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Light-hearted TV comedy segment.",
+      "clue_tag": "lighthearted-tv-comedy",
       "answer": "sketch",
       "answer_letters": "SKETCH",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Austria's capital of Tyrol.",
+      "clue_tag": "austrias-capital-tyrol",
       "answer": "innsbruck",
       "answer_letters": "INNSBRUCK",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Tribe of the Southwest U.S.",
+      "clue_tag": "tribe-southwest-us",
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "clue": "Theater illumination tool.",
+      "clue_tag": "theater-illumination-tool",
       "answer": "spotlight",
       "answer_letters": "SPOTLIGHT",
       "indices": [

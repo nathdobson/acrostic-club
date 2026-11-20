@@ -5,7 +5,7 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "Home appliance with a turntable.",
+      "clue_tag": "home-appliance-turntable",
       "answer": "microwave",
       "answer_letters": "MICROWAVE",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Life's unremarkable moments.",
+      "clue_tag": "lifes-unremarkable-moments",
       "answer": "everyday",
       "answer_letters": "EVERYDAY",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Guiding beacon for lost ships.",
+      "clue_tag": "guiding-beacon-lost",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "clue": "Transcontinental journey sans waterways.",
+      "clue_tag": "transcontinental-journey-sans",
       "answer": "overland",
       "answer_letters": "OVERLAND",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue": "Books filled with words and their meanings.",
+      "clue_tag": "books-filled-words",
       "answer": "dictionaries",
       "answer_letters": "DICTIONARIES",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Culture and language spoken by many in southwestern Nigeria.",
+      "clue_tag": "culture-language-spoken",
       "answer": "yoruba",
       "answer_letters": "YORUBA",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Term used in boxing for a division.",
+      "clue_tag": "term-used-boxing",
       "answer": "lightweight",
       "answer_letters": "LIGHTWEIGHT",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "An international singing competition broadcast worldwide.",
+      "clue_tag": "international-singing-competition",
       "answer": "eurovision",
       "answer_letters": "EUROVISION",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "clue_tag": "36th-president-united",
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Killing resulting from reckless conduct",
+      "clue_tag": "killing-resulting-reckless",
       "answer": "manslaughter",
       "answer_letters": "MANSLAUGHTER",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Island where WWII's last major battle occurred.",
+      "clue_tag": "island-where-wwiis",
       "answer": "okinawa",
       "answer_letters": "OKINAWA",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Defeated and replaced, often in a political context.",
+      "clue_tag": "defeated-replaced-often",
       "answer": "overthrown",
       "answer_letters": "OVERTHROWN",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Bang, bang!",
+      "clue_tag": "bang-bang",
       "answer": "gunshot",
       "answer_letters": "GUNSHOT",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "It's larger than any other ocean.",
+      "clue_tag": "larger-than-any",
       "answer": "pacific",
       "answer_letters": "PACIFIC",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Used in reference to expenses or duties divided equally.",
+      "clue_tag": "used-reference-expenses",
       "answer": "shared",
       "answer_letters": "SHARED",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Southern Chinese province.",
+      "clue_tag": "southern-chinese-province",
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [

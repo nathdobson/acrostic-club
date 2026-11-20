@@ -5,7 +5,7 @@
   "source_letters": "RAINBOWROWELLCARRYON",
   "clues": [
     {
-      "clue": "Victim of a heist.",
+      "clue_tag": "victim-heist",
       "answer": "robbed",
       "answer_letters": "ROBBED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Name associated with a low-carb diet plan.",
+      "clue_tag": "name-associated-lowcarb",
       "answer": "atkins",
       "answer_letters": "ATKINS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Engage in discussion to reach an agreement.",
+      "clue_tag": "engage-discussion-reach",
       "answer": "negotiate",
       "answer_letters": "NEGOTIATE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Once a British crown colony in India, now part of Maharashtra.",
+      "clue_tag": "once-british-crown",
       "answer": "bombay",
       "answer_letters": "BOMBAY",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Beginning of a period or project.",
+      "clue_tag": "beginning-period-project",
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "It's often sipped neat.",
+      "clue_tag": "often-sipped-neat",
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Ample, in wealth or quality.",
+      "clue_tag": "ample-wealth-quality",
       "answer": "richly",
       "answer_letters": "RICHLY",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Experiencing intense indignation",
+      "clue_tag": "experiencing-intense-indignation",
       "answer": "outraged",
       "answer_letters": "OUTRAGED",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Outdoor path for pedestrians.",
+      "clue_tag": "outdoor-path-pedestrians",
       "answer": "walkway",
       "answer_letters": "WALKWAY",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Biblical term for a proselytizer.",
+      "clue_tag": "biblical-term-proselytizer",
       "answer": "evangelist",
       "answer_letters": "EVANGELIST",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Echoes of amusement.",
+      "clue_tag": "echoes-amusement",
       "answer": "laughs",
       "answer_letters": "LAUGHS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Father of Mark Antony.",
+      "clue_tag": "father-mark-antony",
       "answer": "lucius",
       "answer_letters": "LUCIUS",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Wife of the artist Claude Monet.",
+      "clue_tag": "wife-artist-claude",
       "answer": "camille",
       "answer_letters": "CAMILLE",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Self-acting mechanism.",
+      "clue_tag": "selfacting-mechanism",
       "answer": "automatic",
       "answer_letters": "AUTOMATIC",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Name associated with both sleighs and trains in folklore and history.",
+      "clue_tag": "name-associated-both",
       "answer": "rudolf",
       "answer_letters": "RUDOLF",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Accompanied by a beat",
+      "clue_tag": "accompanied-beat",
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "New York baseball team.",
+      "clue_tag": "new-york-baseball",
       "answer": "yankees",
       "answer_letters": "YANKEES",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Public health concern worldwide.",
+      "clue_tag": "public-health-concern",
       "answer": "obesity",
       "answer_letters": "OBESITY",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [

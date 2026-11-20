@@ -5,7 +5,7 @@
   "source_letters": "BRYANMLITFINTHESWORD",
   "clues": [
     {
-      "clue": "Spoke of one's exploits with pride.",
+      "clue_tag": "spoke-ones-exploits",
       "answer": "boasted",
       "answer_letters": "BOASTED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Opposite of left.",
+      "clue_tag": "opposite-left",
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Actress named Y. de Carlo.",
+      "clue_tag": "actress-named-y",
       "answer": "yvonne",
       "answer_letters": "YVONNE",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Collections of music tracks.",
+      "clue_tag": "collections-music-tracks",
       "answer": "albums",
       "answer_letters": "ALBUMS",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "A diminutive form of Matthew.",
+      "clue_tag": "diminutive-form-matthew",
       "answer": "matteo",
       "answer_letters": "MATTEO",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
+      "clue_tag": "capital-city-maseru",
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Apple's smart device.",
+      "clue_tag": "apples-smart-device",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Customized with a particular subject.",
+      "clue_tag": "customized-particular-subject",
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Struggled in a contest or disagreement.",
+      "clue_tag": "struggled-contest-disagreement",
       "answer": "fought",
       "answer_letters": "FOUGHT",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Shown to have a role in a conspiracy",
+      "clue_tag": "shown-have-role",
       "answer": "implicated",
       "answer_letters": "IMPLICATED",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Cloudy region in space.",
+      "clue_tag": "cloudy-region-space",
       "answer": "nebula",
       "answer_letters": "NEBULA",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Pearl of the South Seas.",
+      "clue_tag": "pearl-south-seas",
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "The occupants of a residence.",
+      "clue_tag": "occupants-residence",
       "answer": "household",
       "answer_letters": "HOUSEHOLD",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Ah-ha! moment.",
+      "clue_tag": "ahha-moment",
       "answer": "eureka",
       "answer_letters": "EUREKA",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Temporary replacement.",
+      "clue_tag": "temporary-replacement",
       "answer": "substitute",
       "answer_letters": "SUBSTITUTE",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Bertrand Russell's collaborator on logic",
+      "clue_tag": "bertrand-russells-collaborator",
       "answer": "whitehead",
       "answer_letters": "WHITEHEAD",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Sister to Emma and Isabella.",
+      "clue_tag": "sister-emma-isabella",
       "answer": "olivia",
       "answer_letters": "OLIVIA",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Re-directed through a network.",
+      "clue_tag": "redirected-through-network",
       "answer": "routed",
       "answer_letters": "ROUTED",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Horse's close relative.",
+      "clue_tag": "horses-close-relative",
       "answer": "donkey",
       "answer_letters": "DONKEY",
       "indices": [

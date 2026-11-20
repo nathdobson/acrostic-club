@@ -5,7 +5,7 @@
   "source_letters": "LEIGHGOFFDISENCHANTED",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "leinster",
       "answer_letters": "LEINSTER",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "everywhere",
       "answer_letters": "EVERYWHERE",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "insert",
       "answer_letters": "INSERT",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "gossip",
       "answer_letters": "GOSSIP",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "gerhard",
       "answer_letters": "GERHARD",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "online",
       "answer_letters": "ONLINE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "firmly",
       "answer_letters": "FIRMLY",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "fulham",
       "answer_letters": "FULHAM",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "influenza",
       "answer_letters": "INFLUENZA",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "cowboy",
       "answer_letters": "COWBOY",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hormones",
       "answer_letters": "HORMONES",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "amtrak",
       "answer_letters": "AMTRAK",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nemesis",
       "answer_letters": "NEMESIS",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "empowerment",
       "answer_letters": "EMPOWERMENT",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [

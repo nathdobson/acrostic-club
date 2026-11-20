@@ -5,7 +5,7 @@
   "source_letters": "MARYBETHMILLERAIMEE",
   "clues": [
     {
-      "clue": "Fixed securely in position",
+      "clue_tag": "fixed-securely-position",
       "answer": "mounted",
       "answer_letters": "MOUNTED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "In order to gain it, you must give it.",
+      "clue_tag": "order-gain-you",
       "answer": "attention",
       "answer_letters": "ATTENTION",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Attains proficiency in a skill or subject.",
+      "clue_tag": "attains-proficiency-skill",
       "answer": "reaches",
       "answer_letters": "REACHES",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Verb describing what happens to a guillotined person.",
+      "clue_tag": "verb-describing-what",
       "answer": "beheaded",
       "answer_letters": "BEHEADED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Measure of productive output versus input.",
+      "clue_tag": "measure-productive-output",
       "answer": "efficiency",
       "answer_letters": "EFFICIENCY",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "A Spanish island in the Canary Islands archipelago.",
+      "clue_tag": "spanish-island-canary",
       "answer": "tenerife",
       "answer_letters": "TENERIFE",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "He was a director of Poltergeist.",
+      "clue_tag": "he-was-director",
       "answer": "hooper",
       "answer_letters": "HOOPER",
       "indices": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "They might find scissors designed for them more comfortable.",
+      "clue_tag": "they-might-find",
       "answer": "left-handed",
       "answer_letters": "LEFTHANDED",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Things that take place.",
+      "clue_tag": "things-take-place",
       "answer": "events",
       "answer_letters": "EVENTS",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Automatonlike.",
+      "clue_tag": "automatonlike",
       "answer": "robotic",
       "answer_letters": "ROBOTIC",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Partner of Warren Beatty on-screen and off",
+      "clue_tag": "partner-warren-beatty",
       "answer": "annette",
       "answer_letters": "ANNETTE",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Chemical processes involving two substances.",
+      "clue_tag": "chemical-processes-involving",
       "answer": "interactions",
       "answer_letters": "INTERACTIONS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Religious group founded by John Wesley.",
+      "clue_tag": "religious-group-founded",
       "answer": "methodist",
       "answer_letters": "METHODIST",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Host city of Hogmanay celebrations on New Year’s Eve.",
+      "clue_tag": "host-city-hogmanay",
       "answer": "edinburgh",
       "answer_letters": "EDINBURGH",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Inhabitant of Africa's second-most populous country.",
+      "clue_tag": "inhabitant-africas-secondmost",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "PHILPHILOSOFREECHENEY",
   "clues": [
     {
-      "clue": "Land grazed by animals.",
+      "clue_tag": "land-grazed-animals",
       "answer": "pasture",
       "answer_letters": "PASTURE",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Cries out his wares on a busy street.",
+      "clue_tag": "cries-out-his",
       "answer": "hawker",
       "answer_letters": "HAWKER",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Go beyond surface level",
+      "clue_tag": "go-beyond-surface",
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "M.D. or D.O.",
+      "clue_tag": "md-do",
       "answer": "physician",
       "answer_letters": "PHYSICIAN",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Not safe for health or well-being.",
+      "clue_tag": "not-safe-health",
       "answer": "hazardous",
       "answer_letters": "HAZARDOUS",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Text etched or engraved on a surface.",
+      "clue_tag": "text-etched-engraved",
       "answer": "inscription",
       "answer_letters": "INSCRIPTION",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "They might find scissors designed for them more comfortable.",
+      "clue_tag": "they-might-find",
       "answer": "left-handed",
       "answer_letters": "LEFTHANDED",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Commands issued to troops.",
+      "clue_tag": "commands-issued-troops",
       "answer": "orders",
       "answer_letters": "ORDERS",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "End of a word, sometimes forming new ones.",
+      "clue_tag": "end-word-sometimes",
       "answer": "suffix",
       "answer_letters": "SUFFIX",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Complex and elegant craftsmanship.",
+      "clue_tag": "complex-elegant-craftsmanship",
       "answer": "ornate",
       "answer_letters": "ORNATE",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Sieve to remove impurities.",
+      "clue_tag": "sieve-remove-impurities",
       "answer": "filter",
       "answer_letters": "FILTER",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Doing something over and over again.",
+      "clue_tag": "doing-something-over",
       "answer": "repeatedly",
       "answer_letters": "REPEATEDLY",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "Showcase one's skills in front of an audience.",
+      "clue_tag": "showcase-ones-skills",
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Competitive participations.",
+      "clue_tag": "competitive-participations",
       "answer": "entries",
       "answer_letters": "ENTRIES",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "A type of audio or video recording medium.",
+      "clue_tag": "type-audio-video",
       "answer": "cassette",
       "answer_letters": "CASSETTE",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Chroniclers of past events.",
+      "clue_tag": "chroniclers-past-events",
       "answer": "historians",
       "answer_letters": "HISTORIANS",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Relieved of duty.",
+      "clue_tag": "relieved-duty",
       "answer": "exempt",
       "answer_letters": "EXEMPT",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Tax-exempt organization.",
+      "clue_tag": "taxexempt-organization",
       "answer": "non-profit",
       "answer_letters": "NONPROFIT",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "His work laid groundwork for quantum mechanics.",
+      "clue_tag": "his-work-laid",
       "answer": "einstein",
       "answer_letters": "EINSTEIN",
       "indices": [
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [

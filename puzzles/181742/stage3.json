@@ -5,7 +5,7 @@
   "source_letters": "DEANKOONTZBROTHERODD",
   "clues": [
     {
-      "clue": "Extended family reign.",
+      "clue_tag": "extended-family-reign",
       "answer": "dynasty",
       "answer_letters": "DYNASTY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "____ de Beauharnais, an emperor's consort.",
+      "clue_tag": "de-beauharnais-emperors",
       "answer": "eugene",
       "answer_letters": "EUGENE",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Penmen.",
+      "clue_tag": "penmen",
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Japan's most western island.",
+      "clue_tag": "japans-most-western",
       "answer": "kyushu",
       "answer_letters": "KYUSHU",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "A Baltimore baseball team.",
+      "clue_tag": "baltimore-baseball-team",
       "answer": "orioles",
       "answer_letters": "ORIOLES",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Away from the web",
+      "clue_tag": "away-web",
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Home to Atlantis Resort",
+      "clue_tag": "home-atlantis-resort",
       "answer": "nassau",
       "answer_letters": "NASSAU",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "One who examines creatures for science.",
+      "clue_tag": "one-examines-creatures",
       "answer": "zoologist",
       "answer_letters": "ZOOLOGIST",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Lovely or pretty in nature.",
+      "clue_tag": "lovely-pretty-nature",
       "answer": "beautiful",
       "answer_letters": "BEAUTIFUL",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Pertaining to labor and employment",
+      "clue_tag": "pertaining-labor-employment",
       "answer": "occupational",
       "answer_letters": "OCCUPATIONAL",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Hence or consequently",
+      "clue_tag": "hence-consequently",
       "answer": "therefore",
       "answer_letters": "THEREFORE",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Describing a celestial paradise.",
+      "clue_tag": "describing-celestial-paradise",
       "answer": "heavenly",
       "answer_letters": "HEAVENLY",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "All hands on deck.",
+      "clue_tag": "all-hands-deck",
       "answer": "everyone",
       "answer_letters": "EVERYONE",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Couplets often found in poetry.",
+      "clue_tag": "couplets-often-found",
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "Reaction to an injustice.",
+      "clue_tag": "reaction-injustice",
       "answer": "outrage",
       "answer_letters": "OUTRAGE",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Computer's go-to setting",
+      "clue_tag": "computers-goto-setting",
       "answer": "default",
       "answer_letters": "DEFAULT",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "Secondary in command.",
+      "clue_tag": "secondary-command",
       "answer": "deputy",
       "answer_letters": "DEPUTY",
       "indices": [

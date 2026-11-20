@@ -5,7 +5,7 @@
   "source_letters": "DEREKLANDYDEATHBRINGER",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "echoes",
       "answer_letters": "ECHOES",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "reggie",
       "answer_letters": "REGGIE",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "elevators",
       "answer_letters": "ELEVATORS",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lifetime",
       "answer_letters": "LIFETIME",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "abandon",
       "answer_letters": "ABANDON",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "netflix",
       "answer_letters": "NETFLIX",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "day-to-day",
       "answer_letters": "DAYTODAY",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "evacuate",
       "answer_letters": "EVACUATE",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "apache",
       "answer_letters": "APACHE",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "theory",
       "answer_letters": "THEORY",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hollow",
       "answer_letters": "HOLLOW",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "basalt",
       "answer_letters": "BASALT",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "enable",
       "answer_letters": "ENABLE",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "HERMANNHESSESIDDHARTHA",
   "clues": [
     {
-      "clue": "Elevation or altitude above a base level, often sea level.",
+      "clue_tag": "elevation-altitude-above",
       "answer": "height",
       "answer_letters": "HEIGHT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Things that take place.",
+      "clue_tag": "things-take-place",
       "answer": "events",
       "answer_letters": "EVENTS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Capital of Uruguay.",
+      "clue_tag": "capital-uruguay",
       "answer": "montevideo",
       "answer_letters": "MONTEVIDEO",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
+      "clue_tag": "author-flatland-novella",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Month with Thanksgiving in the U.S.",
+      "clue_tag": "month-thanksgiving-us",
       "answer": "november",
       "answer_letters": "NOVEMBER",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "clue_tag": "author-philosophiae-naturalis",
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Big city in Texas.",
+      "clue_tag": "big-city-texas",
       "answer": "houston",
       "answer_letters": "HOUSTON",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
+      "clue_tag": "relates-customs-beliefs",
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Electrical device for routing current.",
+      "clue_tag": "electrical-device-routing",
       "answer": "switch",
       "answer_letters": "SWITCH",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "He fires a gun.",
+      "clue_tag": "he-fires-gun",
       "answer": "shooter",
       "answer_letters": "SHOOTER",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Not in its original position.",
+      "clue_tag": "not-original-position",
       "answer": "shifted",
       "answer_letters": "SHIFTED",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Debby with an extra 'e.'",
+      "clue_tag": "debby-extra-e",
       "answer": "debbie",
       "answer_letters": "DEBBIE",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Profound layers.",
+      "clue_tag": "profound-layers",
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "'Let America Be America Again' author.",
+      "clue_tag": "let-america-be",
       "answer": "hughes",
       "answer_letters": "HUGHES",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "What follows a battle or conflict.",
+      "clue_tag": "what-follows-battle",
       "answer": "aftermath",
       "answer_letters": "AFTERMATH",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "A mild term for 'instead'.",
+      "clue_tag": "mild-term-instead",
       "answer": "rather",
       "answer_letters": "RATHER",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Board members of a university or college.",
+      "clue_tag": "board-members-university",
       "answer": "trustees",
       "answer_letters": "TRUSTEES",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Increased in degree; amplified.",
+      "clue_tag": "increased-degree-amplified",
       "answer": "heightened",
       "answer_letters": "HEIGHTENED",
       "indices": [
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "clue": "Gave it a shot.",
+      "clue_tag": "gave-shot",
       "answer": "attempted",
       "answer_letters": "ATTEMPTED",
       "indices": [

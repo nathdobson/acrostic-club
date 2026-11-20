@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Early developmental stage in humans and other organisms.",
+      "clue_tag": "early-developmental-stage",
       "answer": "embryo",
       "answer_letters": "EMBRYO",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Achieve possession of.",
+      "clue_tag": "achieve-possession",
       "answer": "obtain",
       "answer_letters": "OBTAIN",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "SpaceX innovation for reusability.",
+      "clue_tag": "spacex-innovation-reusability",
       "answer": "rocket",
       "answer_letters": "ROCKET",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Engine pioneer Daimler",
+      "clue_tag": "engine-pioneer-daimler",
       "answer": "gottlieb",
       "answer_letters": "GOTTLIEB",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Coastal city in Rhode Island.",
+      "clue_tag": "coastal-city-rhode",
       "answer": "easton",
       "answer_letters": "EASTON",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Capital of Slovenia.",
+      "clue_tag": "capital-slovenia",
       "answer": "ljubljana",
       "answer_letters": "LJUBLJANA",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Communicates facts or data about something",
+      "clue_tag": "communicates-facts-data",
       "answer": "informs",
       "answer_letters": "INFORMS",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "To topple a regime",
+      "clue_tag": "topple-regime",
       "answer": "overthrow",
       "answer_letters": "OVERTHROW",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "A path with two parallel tracks for vehicles.",
+      "clue_tag": "path-two-parallel",
       "answer": "two-lane",
       "answer_letters": "TWOLANE",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Voice amplifier device.",
+      "clue_tag": "voice-amplifier-device",
       "answer": "microphone",
       "answer_letters": "MICROPHONE",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Far from mild.",
+      "clue_tag": "far-mild",
       "answer": "intense",
       "answer_letters": "INTENSE",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Coastal installation for ship maintenance operations.",
+      "clue_tag": "coastal-installation-ship",
       "answer": "dockyard",
       "answer_letters": "DOCKYARD",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "clue_tag": "sixcharacter-string-alternating",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "An officer just below captain in military ranking.",
+      "clue_tag": "officer-just-below",
       "answer": "lieutenant",
       "answer_letters": "LIEUTENANT",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Subject of a famous Irish ballad",
+      "clue_tag": "subject-famous-irish",
       "answer": "eileen",
       "answer_letters": "EILEEN",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Detroit-based record company with a soulful sound.",
+      "clue_tag": "detroitbased-record-company",
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Socially uncomfortable situation.",
+      "clue_tag": "socially-uncomfortable-situation",
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "A new version of an existing show.",
+      "clue_tag": "new-version-existing",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Speakers of a North Caucasian language.",
+      "clue_tag": "speakers-north-caucasian",
       "answer": "chechen",
       "answer_letters": "CHECHEN",
       "indices": [
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "clue": "A radioactive element's decay period.",
+      "clue_tag": "radioactive-elements-decay",
       "answer": "half-life",
       "answer_letters": "HALFLIFE",
       "indices": [

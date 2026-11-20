@@ -5,7 +5,7 @@
   "source_letters": "AMELIABOYNTONROBINSON",
   "clues": [
     {
-      "clue": "In all, including everything.",
+      "clue_tag": "all-including-everything",
       "answer": "altogether",
       "answer_letters": "ALTOGETHER",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Director of 'Unforgiven' (1992)",
+      "clue_tag": "director-unforgiven-1992",
       "answer": "eastwood",
       "answer_letters": "EASTWOOD",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Random draw for big money prizes.",
+      "clue_tag": "random-draw-big",
       "answer": "lottery",
       "answer_letters": "LOTTERY",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Go beyond surface level",
+      "clue_tag": "go-beyond-surface",
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Changes made to suit specific needs.",
+      "clue_tag": "changes-made-suit",
       "answer": "alterations",
       "answer_letters": "ALTERATIONS",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "In favor of, as a representative.",
+      "clue_tag": "favor-representative",
       "answer": "behalf",
       "answer_letters": "BEHALF",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Claim space or control.",
+      "clue_tag": "claim-space-control",
       "answer": "occupy",
       "answer_letters": "OCCUPY",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Manhattan resident.",
+      "clue_tag": "manhattan-resident",
       "answer": "yorker",
       "answer_letters": "YORKER",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Dynasty of shoguns (1603-1868).",
+      "clue_tag": "dynasty-shoguns-16031868",
       "answer": "tokugawa",
       "answer_letters": "TOKUGAWA",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Process of recording observations.",
+      "clue_tag": "process-recording-observations",
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Numbers or events lacking a pattern.",
+      "clue_tag": "numbers-events-lacking",
       "answer": "random",
       "answer_letters": "RANDOM",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "A way of relieving pressure or stress.",
+      "clue_tag": "way-relieving-pressure",
       "answer": "outlet",
       "answer_letters": "OUTLET",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Husband to Diane Keaton in real life and on-screen",
+      "clue_tag": "husband-diane-keaton",
       "answer": "beatty",
       "answer_letters": "BEATTY",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "An empty set.",
+      "clue_tag": "empty-set",
       "answer": "nothing",
       "answer_letters": "NOTHING",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Provide or furnish.",
+      "clue_tag": "provide-furnish",
       "answer": "supply",
       "answer_letters": "SUPPLY",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Site for business meetings.",
+      "clue_tag": "site-business-meetings",
       "answer": "office",
       "answer_letters": "OFFICE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [

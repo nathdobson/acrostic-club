@@ -5,7 +5,7 @@
   "source_letters": "TERRYSPEARPHANTOMFAE",
   "clues": [
     {
-      "clue": "Hurls with intent to score or make contact.",
+      "clue_tag": "hurls-intent-score",
       "answer": "throws",
       "answer_letters": "THROWS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Canonized in law or tradition",
+      "clue_tag": "canonized-law-tradition",
       "answer": "enshrined",
       "answer_letters": "ENSHRINED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Precipitation that has seeped into a waterway.",
+      "clue_tag": "precipitation-has-seeped",
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Moved with haste or speed.",
+      "clue_tag": "moved-haste-speed",
       "answer": "rushed",
       "answer_letters": "RUSHED",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Esteemed actor with Middle Eastern roots.",
+      "clue_tag": "esteemed-actor-middle",
       "answer": "sharif",
       "answer_letters": "SHARIF",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Capital of the North-West Frontier Province (until 1970), Pakistan.",
+      "clue_tag": "capital-northwest-frontier",
       "answer": "peshawar",
       "answer_letters": "PESHAWAR",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "To provide for certainty.",
+      "clue_tag": "provide-certainty",
       "answer": "ensure",
       "answer_letters": "ENSURE",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "A state in South India.",
+      "clue_tag": "state-south-india",
       "answer": "andhra",
       "answer_letters": "ANDHRA",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Respectable comic?",
+      "clue_tag": "respectable-comic",
       "answer": "rodney",
       "answer_letters": "RODNEY",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "A set of printed material bound together.",
+      "clue_tag": "set-printed-material",
       "answer": "portfolio",
       "answer_letters": "PORTFOLIO",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Given shelter or accommodation.",
+      "clue_tag": "given-shelter-accommodation",
       "answer": "housed",
       "answer_letters": "HOUSED",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Items on a hypodermic.",
+      "clue_tag": "items-hypodermic",
       "answer": "needles",
       "answer_letters": "NEEDLES",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Colonial possessions.",
+      "clue_tag": "colonial-possessions",
       "answer": "territories",
       "answer_letters": "TERRITORIES",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "UK port with maritime history.",
+      "clue_tag": "uk-port-maritime",
       "answer": "falmouth",
       "answer_letters": "FALMOUTH",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Traveled together with",
+      "clue_tag": "traveled-together",
       "answer": "accompanied",
       "answer_letters": "ACCOMPANIED",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Brother to George III",
+      "clue_tag": "brother-george-iii",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [

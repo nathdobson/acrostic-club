@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDATLASSHRUGGED",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anderson",
       "answer_letters": "ANDERSON",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yarmouth",
       "answer_letters": "YARMOUTH",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "redwood",
       "answer_letters": "REDWOOD",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "aftermath",
       "answer_letters": "AFTERMATH",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "navigable",
       "answer_letters": "NAVIGABLE",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "damage",
       "answer_letters": "DAMAGE",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "assets",
       "answer_letters": "ASSETS",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "administration's",
       "answer_letters": "ADMINISTRATIONS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "southwest",
       "answer_letters": "SOUTHWEST",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shelby",
       "answer_letters": "SHELBY",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "highlight",
       "answer_letters": "HIGHLIGHT",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "relation",
       "answer_letters": "RELATION",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "unlawful",
       "answer_letters": "UNLAWFUL",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "gentle",
       "answer_letters": "GENTLE",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emerge",
       "answer_letters": "EMERGE",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "divert",
       "answer_letters": "DIVERT",
       "indices": [

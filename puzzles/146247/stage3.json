@@ -5,7 +5,7 @@
   "source_letters": "RODDYDOYLEPAULASPENCER",
   "clues": [
     {
-      "clue": "HTML term for extending a table cell vertically",
+      "clue_tag": "html-term-extending",
       "answer": "rowspan",
       "answer_letters": "ROWSPAN",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Making a choice",
+      "clue_tag": "making-choice",
       "answer": "opting",
       "answer_letters": "OPTING",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Pastries like these are often eaten at breakfast.",
+      "clue_tag": "pastries-like-these",
       "answer": "danish",
       "answer_letters": "DANISH",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Biblical prophetess, mother of King Solomon.",
+      "clue_tag": "biblical-prophetess-mother",
       "answer": "deborah",
       "answer_letters": "DEBORAH",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Landlocked state",
+      "clue_tag": "landlocked-state",
       "answer": "dakota",
       "answer_letters": "DAKOTA",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "The paths of celestial bodies around other masses.",
+      "clue_tag": "paths-celestial-bodies",
       "answer": "orbits",
       "answer_letters": "ORBITS",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
+      "clue_tag": "capital-city-maseru",
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Contraptions that let you talk to friends far away.",
+      "clue_tag": "contraptions-let-you",
       "answer": "phones",
       "answer_letters": "PHONES",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Team with top players.",
+      "clue_tag": "team-top-players",
       "answer": "all-star",
       "answer_letters": "ALLSTAR",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "High-spirited music.",
+      "clue_tag": "highspirited-music",
       "answer": "upbeat",
       "answer_letters": "UPBEAT",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Initiator of Protestant Reformation",
+      "clue_tag": "initiator-protestant-reformation",
       "answer": "luther",
       "answer_letters": "LUTHER",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Partnered with Mila Kunis in a popular romantic comedy series.",
+      "clue_tag": "partnered-mila-kunis",
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Biblical day of rest",
+      "clue_tag": "biblical-day-rest",
       "answer": "sabbath",
       "answer_letters": "SABBATH",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Game scores.",
+      "clue_tag": "game-scores",
       "answer": "points",
       "answer_letters": "POINTS",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Sign up for a course or class",
+      "clue_tag": "sign-up-course",
       "answer": "enroll",
       "answer_letters": "ENROLL",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Eastern England city with a cathedral.",
+      "clue_tag": "eastern-england-city",
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Female birds or young hens.",
+      "clue_tag": "female-birds-young",
       "answer": "chicks",
       "answer_letters": "CHICKS",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Guitarist with his brother for the band Bon Jovi",
+      "clue_tag": "guitarist-his-brother",
       "answer": "richie",
       "answer_letters": "RICHIE",
       "indices": [

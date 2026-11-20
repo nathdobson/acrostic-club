@@ -5,7 +5,7 @@
   "source_letters": "MEGCABOTDARKESTHOUR",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "georgetown",
       "answer_letters": "GEORGETOWN",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "confrontation",
       "answer_letters": "CONFRONTATION",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "athena",
       "answer_letters": "ATHENA",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "budapest",
       "answer_letters": "BUDAPEST",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outlawed",
       "answer_letters": "OUTLAWED",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "taiwan",
       "answer_letters": "TAIWAN",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "antenna",
       "answer_letters": "ANTENNA",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "reworked",
       "answer_letters": "REWORKED",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "katherine",
       "answer_letters": "KATHERINE",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "efficient",
       "answer_letters": "EFFICIENT",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "salvation",
       "answer_letters": "SALVATION",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "head-to-head",
       "answer_letters": "HEADTOHEAD",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "objective",
       "answer_letters": "OBJECTIVE",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "unmarked",
       "answer_letters": "UNMARKED",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [

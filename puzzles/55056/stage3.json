@@ -5,7 +5,7 @@
   "source_letters": "RACHELVANDYKENTHEBET",
   "clues": [
     {
-      "clue": "Moved to another date.",
+      "clue_tag": "moved-another-date",
       "answer": "rescheduled",
       "answer_letters": "RESCHEDULED",
       "indices": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Exhibits manager.",
+      "clue_tag": "exhibits-manager",
       "answer": "curator",
       "answer_letters": "CURATOR",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Big city in Texas.",
+      "clue_tag": "big-city-texas",
       "answer": "houston",
       "answer_letters": "HOUSTON",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "A rise above the surrounding terrain.",
+      "clue_tag": "rise-above-surrounding",
       "answer": "elevation",
       "answer_letters": "ELEVATION",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
+      "clue_tag": "capital-city-maseru",
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "Formerly New Hebrides in Melanesia.",
+      "clue_tag": "formerly-new-hebrides",
       "answer": "vanuatu",
       "answer_letters": "VANUATU",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "His name is synonymous with pasta sauce.",
+      "clue_tag": "his-name-synonymous",
       "answer": "alfredo",
       "answer_letters": "ALFREDO",
       "indices": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Reasons for tardiness.",
+      "clue_tag": "reasons-tardiness",
       "answer": "delays",
       "answer_letters": "DELAYS",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Spoken by many Eastern European Jews before WWII.",
+      "clue_tag": "spoken-many-eastern",
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "The main message or focus of a speech or lecture.",
+      "clue_tag": "main-message-focus",
       "answer": "keynote",
       "answer_letters": "KEYNOTE",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Descriptive of schools and universities.",
+      "clue_tag": "descriptive-schools-universities",
       "answer": "educational",
       "answer_letters": "EDUCATIONAL",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "King Harald's realm.",
+      "clue_tag": "king-haralds-realm",
       "answer": "norway",
       "answer_letters": "NORWAY",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "They manufacture Corollas.",
+      "clue_tag": "they-manufacture-corollas",
       "answer": "toyota",
       "answer_letters": "TOYOTA",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Routes with multiple lanes and exits.",
+      "clue_tag": "routes-multiple-lanes",
       "answer": "highways",
       "answer_letters": "HIGHWAYS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Disorder characterized by recurrent seizures.",
+      "clue_tag": "disorder-characterized-recurrent",
       "answer": "epilepsy",
       "answer_letters": "EPILEPSY",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Pronounced as 'Bhar-tee-yah'.",
+      "clue_tag": "pronounced-bharteeyah",
       "answer": "bharatiya",
       "answer_letters": "BHARATIYA",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Proposition subject to testing and validation.",
+      "clue_tag": "proposition-subject-testing",
       "answer": "theory",
       "answer_letters": "THEORY",
       "indices": [

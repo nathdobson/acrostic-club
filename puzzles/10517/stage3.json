@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDATLASSHRUGGED",
   "clues": [
     {
-      "clue": "A common American surname.",
+      "clue_tag": "common-american-surname",
       "answer": "anderson",
       "answer_letters": "ANDERSON",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Olden port city in England.",
+      "clue_tag": "olden-port-city",
       "answer": "yarmouth",
       "answer_letters": "YARMOUTH",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "It towers in California's forests.",
+      "clue_tag": "towers-californias-forests",
       "answer": "redwood",
       "answer_letters": "REDWOOD",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "What follows a battle or conflict.",
+      "clue_tag": "what-follows-battle",
       "answer": "aftermath",
       "answer_letters": "AFTERMATH",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "A characteristic of bodies of water that can support vessels.",
+      "clue_tag": "characteristic-bodies-water",
       "answer": "navigable",
       "answer_letters": "NAVIGABLE",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "Harm or injury caused by something bad.",
+      "clue_tag": "harm-injury-caused",
       "answer": "damage",
       "answer_letters": "DAMAGE",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Strengths or advantages.",
+      "clue_tag": "strengths-advantages",
       "answer": "assets",
       "answer_letters": "ASSETS",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Pilferers.",
+      "clue_tag": "pilferers",
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Portable computer",
+      "clue_tag": "portable-computer",
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Executive branch's strategies.",
+      "clue_tag": "executive-branchs-strategies",
       "answer": "administration's",
       "answer_letters": "ADMINISTRATIONS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "US airline known for budget flights.",
+      "clue_tag": "us-airline-known",
       "answer": "southwest",
       "answer_letters": "SOUTHWEST",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Legendary muscle car brand.",
+      "clue_tag": "legendary-muscle-car",
       "answer": "shelby",
       "answer_letters": "SHELBY",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Essential part of a presentation",
+      "clue_tag": "essential-part-presentation",
       "answer": "highlight",
       "answer_letters": "HIGHLIGHT",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Link in genealogy.",
+      "clue_tag": "link-genealogy",
       "answer": "relation",
       "answer_letters": "RELATION",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Illicit or illegal.",
+      "clue_tag": "illicit-illegal",
       "answer": "unlawful",
       "answer_letters": "UNLAWFUL",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Opposite of harsh.",
+      "clue_tag": "opposite-harsh",
       "answer": "gentle",
       "answer_letters": "GENTLE",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Rise to prominence.",
+      "clue_tag": "rise-prominence",
       "answer": "emerge",
       "answer_letters": "EMERGE",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Keep minds occupied with something else",
+      "clue_tag": "keep-minds-occupied",
       "answer": "divert",
       "answer_letters": "DIVERT",
       "indices": [

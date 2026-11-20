@@ -5,7 +5,7 @@
   "source_letters": "ABSHEPHERDTHEBEACON",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anthology",
       "answer_letters": "ANTHOLOGY",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bicycles",
       "answer_letters": "BICYCLES",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "subfamily",
       "answer_letters": "SUBFAMILY",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "pardoned",
       "answer_letters": "PARDONED",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hawthorne",
       "answer_letters": "HAWTHORNE",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "right-arm",
       "answer_letters": "RIGHTARM",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "healthcare",
       "answer_letters": "HEALTHCARE",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "errors",
       "answer_letters": "ERRORS",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bolsheviks",
       "answer_letters": "BOLSHEVIKS",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "everything",
       "answer_letters": "EVERYTHING",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "asthma",
       "answer_letters": "ASTHMA",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "conglomerate",
       "answer_letters": "CONGLOMERATE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nguyễn",
       "answer_letters": "NGUYEN",
       "indices": [

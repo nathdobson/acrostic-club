@@ -5,7 +5,7 @@
   "source_letters": "EMDENNINGBOOMERANG",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "melodrama",
       "answer_letters": "MELODRAMA",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "difficulty",
       "answer_letters": "DIFFICULTY",
       "indices": [
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "evaluated",
       "answer_letters": "EVALUATED",
       "indices": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nouveau",
       "answer_letters": "NOUVEAU",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "norway's",
       "answer_letters": "NORWAYS",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "galway",
       "answer_letters": "GALWAY",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bathroom",
       "answer_letters": "BATHROOM",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "odyssey",
       "answer_letters": "ODYSSEY",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outlook",
       "answer_letters": "OUTLOOK",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "macbeth",
       "answer_letters": "MACBETH",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "elliot",
       "answer_letters": "ELLIOT",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "richly",
       "answer_letters": "RICHLY",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "alvarado",
       "answer_letters": "ALVARADO",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nonetheless",
       "answer_letters": "NONETHELESS",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "guelph",
       "answer_letters": "GUELPH",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "LISAKESSLERBLUEMOON",
   "clues": [
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Specific instances where ideas are put into action.",
+      "clue_tag": "specific-instances-where",
       "answer": "implementations",
       "answer_letters": "IMPLEMENTATIONS",
       "indices": [
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "clue": "Like a well-oiled machine.",
+      "clue_tag": "like-welloiled-machine",
       "answer": "smoothly",
       "answer_letters": "SMOOTHLY",
       "indices": [
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "clue": "Claim of composition.",
+      "clue_tag": "claim-composition",
       "answer": "authorship",
       "answer_letters": "AUTHORSHIP",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Place where the Parthians originated.",
+      "clue_tag": "place-where-parthians",
       "answer": "khorasan",
       "answer_letters": "KHORASAN",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "The most important part of something.",
+      "clue_tag": "most-important-part",
       "answer": "essence",
       "answer_letters": "ESSENCE",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "They compete in lanes.",
+      "clue_tag": "they-compete-lanes",
       "answer": "swimmer",
       "answer_letters": "SWIMMER",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Times of insufficient supply.",
+      "clue_tag": "times-insufficient-supply",
       "answer": "shortages",
       "answer_letters": "SHORTAGES",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Bequest to an institution.",
+      "clue_tag": "bequest-institution",
       "answer": "endowment",
       "answer_letters": "ENDOWMENT",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Esteemed Renaissance artist.",
+      "clue_tag": "esteemed-renaissance-artist",
       "answer": "raphael",
       "answer_letters": "RAPHAEL",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Masked robbers.",
+      "clue_tag": "masked-robbers",
       "answer": "bandits",
       "answer_letters": "BANDITS",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Weapon is ready to fire.",
+      "clue_tag": "weapon-ready-fire",
       "answer": "loaded",
       "answer_letters": "LOADED",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Known for sinking Allied ships during WWI and WWII.",
+      "clue_tag": "known-sinking-allied",
       "answer": "u-boats",
       "answer_letters": "UBOATS",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Deeply moved.",
+      "clue_tag": "deeply-moved",
       "answer": "emotionally",
       "answer_letters": "EMOTIONALLY",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Twelve slices of time.",
+      "clue_tag": "twelve-slices-time",
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "In the open air.",
+      "clue_tag": "open-air",
       "answer": "outdoor",
       "answer_letters": "OUTDOOR",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Being in possession of something.",
+      "clue_tag": "being-possession-something",
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [

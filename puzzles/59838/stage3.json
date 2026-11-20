@@ -5,7 +5,7 @@
   "source_letters": "PENNYREIDLOVEHACKED",
   "clues": [
     {
-      "clue": "Lens enthusiasts.",
+      "clue_tag": "lens-enthusiasts",
       "answer": "photographers",
       "answer_letters": "PHOTOGRAPHERS",
       "indices": [
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "clue": "Removed from close association",
+      "clue_tag": "removed-close-association",
       "answer": "estranged",
       "answer_letters": "ESTRANGED",
       "indices": [
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Robin Hood's home base",
+      "clue_tag": "robin-hoods-home",
       "answer": "nottingham",
       "answer_letters": "NOTTINGHAM",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Characteristic of being not yet old.",
+      "clue_tag": "characteristic-being-not",
       "answer": "youthful",
       "answer_letters": "YOUTHFUL",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Fundamental idea in modern physics.",
+      "clue_tag": "fundamental-idea-modern",
       "answer": "relativity",
       "answer_letters": "RELATIVITY",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Pertaining to morals.",
+      "clue_tag": "pertaining-morals",
       "answer": "ethical",
       "answer_letters": "ETHICAL",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Opposite of coast.",
+      "clue_tag": "opposite-coast",
       "answer": "inland",
       "answer_letters": "INLAND",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Heirloom passed down through generations.",
+      "clue_tag": "heirloom-passed-down",
       "answer": "legacy",
       "answer_letters": "LEGACY",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Places where apples might be found in abundance.",
+      "clue_tag": "places-where-apples",
       "answer": "orchards",
       "answer_letters": "ORCHARDS",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Legislative assembly in Hindi",
+      "clue_tag": "legislative-assembly-hindi",
       "answer": "vidhan",
       "answer_letters": "VIDHAN",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "A detective's motto (fictional reference).",
+      "clue_tag": "detectives-motto-fictional",
       "answer": "elementary",
       "answer_letters": "ELEMENTARY",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Historic Canadian city.",
+      "clue_tag": "historic-canadian-city",
       "answer": "halifax",
       "answer_letters": "HALIFAX",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "It's not just for roads; it can be found on tennis courts.",
+      "clue_tag": "not-just-roads",
       "answer": "asphalt",
       "answer_letters": "ASPHALT",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Divisions in a book or a sequence.",
+      "clue_tag": "divisions-book-sequence",
       "answer": "chapter",
       "answer_letters": "CHAPTER",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "East Tennessee's largest city.",
+      "clue_tag": "east-tennessees-largest",
       "answer": "knoxville",
       "answer_letters": "KNOXVILLE",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Toward a river's mouth",
+      "clue_tag": "toward-rivers-mouth",
       "answer": "downstream",
       "answer_letters": "DOWNSTREAM",
       "indices": [

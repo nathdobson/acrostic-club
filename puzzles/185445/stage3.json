@@ -5,7 +5,7 @@
   "source_letters": "RICHARDOSBORNEROSSINI",
   "clues": [
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Jailhouse residents.",
+      "clue_tag": "jailhouse-residents",
       "answer": "inmates",
       "answer_letters": "INMATES",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Often eaten with milk.",
+      "clue_tag": "often-eaten-milk",
       "answer": "cereal",
       "answer_letters": "CEREAL",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Coastal city in the Bay Area.",
+      "clue_tag": "coastal-city-bay",
       "answer": "hayward",
       "answer_letters": "HAYWARD",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "A French region, home to a distinct culture and language",
+      "clue_tag": "french-region-home",
       "answer": "alsace",
       "answer_letters": "ALSACE",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "They detect movement and can be found on police speed traps.",
+      "clue_tag": "they-detect-movement",
       "answer": "radars",
       "answer_letters": "RADARS",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Charitable giving act.",
+      "clue_tag": "charitable-giving-act",
       "answer": "donation",
       "answer_letters": "DONATION",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Beginning of a period or project.",
+      "clue_tag": "beginning-period-project",
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Particularize.",
+      "clue_tag": "particularize",
       "answer": "specify",
       "answer_letters": "SPECIFY",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Sir, but not an actual knight",
+      "clue_tag": "sir-but-not",
       "answer": "baronet",
       "answer_letters": "BARONET",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Making a choice",
+      "clue_tag": "making-choice",
       "answer": "opting",
       "answer_letters": "OPTING",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Reports shown at scheduled times.",
+      "clue_tag": "reports-shown-scheduled",
       "answer": "newscasts",
       "answer_letters": "NEWSCASTS",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Chosen democratically to hold office",
+      "clue_tag": "chosen-democratically-hold",
       "answer": "elected",
       "answer_letters": "ELECTED",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Accepts the legitimacy of an argument.",
+      "clue_tag": "accepts-legitimacy-argument",
       "answer": "recognizes",
       "answer_letters": "RECOGNIZES",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Inhabited, especially when referring to land or buildings.",
+      "clue_tag": "inhabited-especially-when",
       "answer": "occupied",
       "answer_letters": "OCCUPIED",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Official code or decree.",
+      "clue_tag": "official-code-decree",
       "answer": "statute",
       "answer_letters": "STATUTE",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "End of a word, sometimes forming new ones.",
+      "clue_tag": "end-word-sometimes",
       "answer": "suffix",
       "answer_letters": "SUFFIX",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "The subject of John Muir's work.",
+      "clue_tag": "subject-john-muirs",
       "answer": "nature",
       "answer_letters": "NATURE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Disabled, as in a virus for a vaccine.",
+      "clue_tag": "disabled-virus-vaccine",
       "answer": "inactivated",
       "answer_letters": "INACTIVATED",
       "indices": [

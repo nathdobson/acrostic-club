@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDPRETTIES",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stalls",
       "answer_letters": "STALLS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "comune",
       "answer_letters": "COMUNE",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "o'neill",
       "answer_letters": "ONEILL",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "topping",
       "answer_letters": "TOPPING",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "tunisia",
       "answer_letters": "TUNISIA",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "worthy",
       "answer_letters": "WORTHY",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "españa",
       "answer_letters": "ESPANA",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stimulated",
       "answer_letters": "STIMULATED",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "eating",
       "answer_letters": "EATING",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rabbit",
       "answer_letters": "RABBIT",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "fought",
       "answer_letters": "FOUGHT",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "laurel",
       "answer_letters": "LAUREL",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "primates",
       "answer_letters": "PRIMATES",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "referees",
       "answer_letters": "REFEREES",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "trophies",
       "answer_letters": "TROPHIES",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "titles",
       "answer_letters": "TITLES",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emerge",
       "answer_letters": "EMERGE",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [

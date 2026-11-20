@@ -5,7 +5,7 @@
   "source_letters": "NEILGAIMANAMERICANGODS",
   "clues": [
     {
-      "clue": "Sailor hero of Trafalgar,",
+      "clue_tag": "sailor-hero-trafalgar",
       "answer": "nelson",
       "answer_letters": "NELSON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Senior sibling based on years lived.",
+      "clue_tag": "senior-sibling-based",
       "answer": "eldest",
       "answer_letters": "ELDEST",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Plundered by thieves.",
+      "clue_tag": "plundered-thieves",
       "answer": "looted",
       "answer_letters": "LOOTED",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "What the Oscars are made of.",
+      "clue_tag": "what-oscars-are",
       "answer": "golden",
       "answer_letters": "GOLDEN",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Eager and zealous in pursuit.",
+      "clue_tag": "eager-zealous-pursuit",
       "answer": "ardent",
       "answer_letters": "ARDENT",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Apple's smart device.",
+      "clue_tag": "apples-smart-device",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "Object that attracts iron.",
+      "clue_tag": "object-attracts-iron",
       "answer": "magnet",
       "answer_letters": "MAGNET",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Strengths or advantages.",
+      "clue_tag": "strengths-advantages",
       "answer": "assets",
       "answer_letters": "ASSETS",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Partnered with Mila Kunis in a popular romantic comedy series.",
+      "clue_tag": "partnered-mila-kunis",
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "An Islamic place of worship.",
+      "clue_tag": "islamic-place-worship",
       "answer": "masjid",
       "answer_letters": "MASJID",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Famous for leading Santa's sleigh on foggy nights.",
+      "clue_tag": "famous-leading-santas",
       "answer": "rudolph",
       "answer_letters": "RUDOLPH",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Opposite of open air.",
+      "clue_tag": "opposite-open-air",
       "answer": "indoor",
       "answer_letters": "INDOOR",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "A holder of nationality within a specific country.",
+      "clue_tag": "holder-nationality-within",
       "answer": "citizen",
       "answer_letters": "CITIZEN",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "He received God's promise to make his descendants a great nation.",
+      "clue_tag": "he-received-gods",
       "answer": "abraham",
       "answer_letters": "ABRAHAM",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Ontario city of culture and education.",
+      "clue_tag": "ontario-city-culture",
       "answer": "guelph",
       "answer_letters": "GUELPH",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "First in age.",
+      "clue_tag": "first-age",
       "answer": "oldest",
       "answer_letters": "OLDEST",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Spoke for and against propositions.",
+      "clue_tag": "spoke-against-propositions",
       "answer": "debated",
       "answer_letters": "DEBATED",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Can be crisp or rumpled.",
+      "clue_tag": "can-be-crisp",
       "answer": "sheets",
       "answer_letters": "SHEETS",
       "indices": [

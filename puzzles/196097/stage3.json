@@ -5,7 +5,7 @@
   "source_letters": "LISAKESSLERWOLFMOON",
   "clues": [
     {
-      "clue": "Used to treat bipolar disorder.",
+      "clue_tag": "used-treat-bipolar",
       "answer": "lithium",
       "answer_letters": "LITHIUM",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Driven by a muse.",
+      "clue_tag": "driven-muse",
       "answer": "inspired",
       "answer_letters": "INSPIRED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Part of historic borough once spanning both sides of the Thames.",
+      "clue_tag": "part-historic-borough",
       "answer": "southwark",
       "answer_letters": "SOUTHWARK",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "This meteorologist's name is associated with climate zones.",
+      "clue_tag": "meteorologists-name-associated",
       "answer": "köppen",
       "answer_letters": "KOPPEN",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Complete, with no part missing.",
+      "clue_tag": "complete-no-part",
       "answer": "entire",
       "answer_letters": "ENTIRE",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Countrymen of Ingmar Bergman",
+      "clue_tag": "countrymen-ingmar-bergman",
       "answer": "swedes",
       "answer_letters": "SWEDES",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "A synonym for foliage.",
+      "clue_tag": "synonym-foliage",
       "answer": "leaves",
       "answer_letters": "LEAVES",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Gift wrap embellishment.",
+      "clue_tag": "gift-wrap-embellishment",
       "answer": "ribbon",
       "answer_letters": "RIBBON",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Contained in limits of.",
+      "clue_tag": "contained-limits",
       "answer": "within",
       "answer_letters": "WITHIN",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Modern games held every four years.",
+      "clue_tag": "modern-games-held",
       "answer": "olympics",
       "answer_letters": "OLYMPICS",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Businesses sometimes face many due to disputes.",
+      "clue_tag": "businesses-sometimes-face",
       "answer": "lawsuits",
       "answer_letters": "LAWSUITS",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Achievement of something hoped for.",
+      "clue_tag": "achievement-something-hoped",
       "answer": "fruition",
       "answer_letters": "FRUITION",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "Control or possession of an asset.",
+      "clue_tag": "control-possession-asset",
       "answer": "ownership",
       "answer_letters": "OWNERSHIP",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Be outshone by another.",
+      "clue_tag": "be-outshone-another",
       "answer": "overshadowed",
       "answer_letters": "OVERSHADOWED",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [

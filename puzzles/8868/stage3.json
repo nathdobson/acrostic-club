@@ -5,7 +5,7 @@
   "source_letters": "CARLHIAASENSTRIPTEASE",
   "clues": [
     {
-      "clue": "A common Bengali family name, associated with intellectual and artistic contributions.",
+      "clue_tag": "common-bengali-family",
       "answer": "chowdhury",
       "answer_letters": "CHOWDHURY",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Change slightly for improvement.",
+      "clue_tag": "change-slightly-improvement",
       "answer": "adjust",
       "answer_letters": "ADJUST",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Composer celebrated for his guitar compositions and orchestral works.",
+      "clue_tag": "composer-celebrated-his",
       "answer": "rodrigo",
       "answer_letters": "RODRIGO",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Progressive or liberal stance.",
+      "clue_tag": "progressive-liberal-stance",
       "answer": "left-wing",
       "answer_letters": "LEFTWING",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Author of Dune series.",
+      "clue_tag": "author-dune-series",
       "answer": "herbert",
       "answer_letters": "HERBERT",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Apple's smart device.",
+      "clue_tag": "apples-smart-device",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Render opinions to someone.",
+      "clue_tag": "render-opinions-someone",
       "answer": "advise",
       "answer_letters": "ADVISE",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Collections of music tracks.",
+      "clue_tag": "collections-music-tracks",
       "answer": "albums",
       "answer_letters": "ALBUMS",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Site for motorcycle racing.",
+      "clue_tag": "site-motorcycle-racing",
       "answer": "speedway",
       "answer_letters": "SPEEDWAY",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "Often called staff or workers.",
+      "clue_tag": "often-called-staff",
       "answer": "employee",
       "answer_letters": "EMPLOYEE",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "To extend one's muscles.",
+      "clue_tag": "extend-ones-muscles",
       "answer": "stretching",
       "answer_letters": "STRETCHING",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Past participle of hurl",
+      "clue_tag": "past-participle-hurl",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Edited again after initial creation.",
+      "clue_tag": "edited-again-after",
       "answer": "reworked",
       "answer_letters": "REWORKED",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Author of 'The Spiritual Exercises'.",
+      "clue_tag": "author-spiritual-exercises",
       "answer": "ignatius",
       "answer_letters": "IGNATIUS",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Father of Charles II of Spain.",
+      "clue_tag": "father-charles-ii",
       "answer": "philipp",
       "answer_letters": "PHILIPP",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Senior figures within a family or community setting.",
+      "clue_tag": "senior-figures-within",
       "answer": "elders",
       "answer_letters": "ELDERS",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Unfeigned character or qualities.",
+      "clue_tag": "unfeigned-character-qualities",
       "answer": "authenticity",
       "answer_letters": "AUTHENTICITY",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Unbumpy surface.",
+      "clue_tag": "unbumpy-surface",
       "answer": "smooth",
       "answer_letters": "SMOOTH",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "Character who betrays his siblings to the White Witch",
+      "clue_tag": "character-betrays-his",
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [

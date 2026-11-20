@@ -5,7 +5,7 @@
   "source_letters": "KIERACASSTHESELECTION",
   "clues": [
     {
-      "clue": "Architectural linchpin.",
+      "clue_tag": "architectural-linchpin",
       "answer": "keystone",
       "answer_letters": "KEYSTONE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Purposeful aim.",
+      "clue_tag": "purposeful-aim",
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Relieved of duty.",
+      "clue_tag": "relieved-duty",
       "answer": "exempt",
       "answer_letters": "EXEMPT",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Controlled from afar.",
+      "clue_tag": "controlled-afar",
       "answer": "remotely",
       "answer_letters": "REMOTELY",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
+      "clue_tag": "author-flatland-novella",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "A common Bengali family name, associated with intellectual and artistic contributions.",
+      "clue_tag": "common-bengali-family",
       "answer": "chowdhury",
       "answer_letters": "CHOWDHURY",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Known for their rivalry with Real Madrid.",
+      "clue_tag": "known-their-rivalry",
       "answer": "atlético",
       "answer_letters": "ATLETICO",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Country singer Blake who's a coach on \"The Voice\"",
+      "clue_tag": "country-singer-blake",
       "answer": "shelton",
       "answer_letters": "SHELTON",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "A dalmatian's coat.",
+      "clue_tag": "dalmatians-coat",
       "answer": "spotted",
       "answer_letters": "SPOTTED",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Duties on imports and exports.",
+      "clue_tag": "duties-imports-exports",
       "answer": "tariff",
       "answer_letters": "TARIFF",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Act of making something stand out visually.",
+      "clue_tag": "act-making-something",
       "answer": "highlighting",
       "answer_letters": "HIGHLIGHTING",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Economic blockade or restriction.",
+      "clue_tag": "economic-blockade-restriction",
       "answer": "embargo",
       "answer_letters": "EMBARGO",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Needed or desired.",
+      "clue_tag": "needed-desired",
       "answer": "sought",
       "answer_letters": "SOUGHT",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Junior naval officer's title",
+      "clue_tag": "junior-naval-officers",
       "answer": "ensign",
       "answer_letters": "ENSIGN",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Made something rise upwards.",
+      "clue_tag": "made-something-rise",
       "answer": "lifted",
       "answer_letters": "LIFTED",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Her writings provide insight into Restoration London.",
+      "clue_tag": "her-writings-provide",
       "answer": "evelyn",
       "answer_letters": "EVELYN",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "American football champions",
+      "clue_tag": "american-football-champions",
       "answer": "cowboys",
       "answer_letters": "COWBOYS",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "N.J.'s capital city",
+      "clue_tag": "njs-capital-city",
       "answer": "trenton",
       "answer_letters": "TRENTON",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Reason to visit an ER.",
+      "clue_tag": "reason-visit-er",
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Nearby to Rochdale and Bury.",
+      "clue_tag": "nearby-rochdale-bury",
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [

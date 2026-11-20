@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue": "Carry a cargo of goods or liquid.",
+      "clue_tag": "carry-cargo-goods",
       "answer": "vessel",
       "answer_letters": "VESSEL",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "He led Bain Capital.",
+      "clue_tag": "he-led-bain",
       "answer": "romney",
       "answer_letters": "ROMNEY",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Staffed entirely by employees of the corporation",
+      "clue_tag": "staffed-entirely-employees",
       "answer": "in-house",
       "answer_letters": "INHOUSE",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "A common Bengali family name, associated with intellectual and artistic contributions.",
+      "clue_tag": "common-bengali-family",
       "answer": "chowdhury",
       "answer_letters": "CHOWDHURY",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Concession conjunction.",
+      "clue_tag": "concession-conjunction",
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "A new version of an existing show.",
+      "clue_tag": "new-version-existing",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Being in possession of something.",
+      "clue_tag": "being-possession-something",
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
+      "clue_tag": "despite-what-was",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "'Let America Be America Again' author.",
+      "clue_tag": "let-america-be",
       "answer": "hughes",
       "answer_letters": "HUGHES",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Lack of identifiable authorship.",
+      "clue_tag": "lack-identifiable-authorship",
       "answer": "anonymous",
       "answer_letters": "ANONYMOUS",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Rescue craft for mariners in distress.",
+      "clue_tag": "rescue-craft-mariners",
       "answer": "lifeboat",
       "answer_letters": "LIFEBOAT",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "\"The Big Bang Theory's\" resident genius",
+      "clue_tag": "big-bang-theorys",
       "answer": "leonard",
       "answer_letters": "LEONARD",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "The whole of something.",
+      "clue_tag": "whole-something",
       "answer": "entirety",
       "answer_letters": "ENTIRETY",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Hominoids that swing from trees with ease",
+      "clue_tag": "hominoids-swing-trees",
       "answer": "gibbons",
       "answer_letters": "GIBBONS",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Reflexive pronoun for 'it'.",
+      "clue_tag": "reflexive-pronoun",
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Operatives working undercover for a cause.",
+      "clue_tag": "operatives-working-undercover",
       "answer": "agents",
       "answer_letters": "AGENTS",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "A resident within arm's reach.",
+      "clue_tag": "resident-within-arms",
       "answer": "neighbor",
       "answer_letters": "NEIGHBOR",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [

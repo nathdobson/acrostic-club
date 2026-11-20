@@ -5,7 +5,7 @@
   "source_letters": "NANCYWERLINIMPOSSIBLE",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "authority",
       "answer_letters": "AUTHORITY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "netherlands",
       "answer_letters": "NETHERLANDS",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "cities",
       "answer_letters": "CITIES",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "weekdays",
       "answer_letters": "WEEKDAYS",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edible",
       "answer_letters": "EDIBLE",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "limestone",
       "answer_letters": "LIMESTONE",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "in-house",
       "answer_letters": "INHOUSE",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nation",
       "answer_letters": "NATION",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "intended",
       "answer_letters": "INTENDED",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "methods",
       "answer_letters": "METHODS",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "phoebe",
       "answer_letters": "PHOEBE",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "off-broadway",
       "answer_letters": "OFFBROADWAY",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stints",
       "answer_letters": "STINTS",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "suited",
       "answer_letters": "SUITED",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "indeed",
       "answer_letters": "INDEED",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bangkok",
       "answer_letters": "BANGKOK",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "latitude",
       "answer_letters": "LATITUDE",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "events",
       "answer_letters": "EVENTS",
       "indices": [

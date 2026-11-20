@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDATLASSHRUGGED",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "advances",
       "answer_letters": "ADVANCES",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yarmouth",
       "answer_letters": "YARMOUTH",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "notice",
       "answer_letters": "NOTICE",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "advent",
       "answer_letters": "ADVENT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newman",
       "answer_letters": "NEWMAN",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "debated",
       "answer_letters": "DEBATED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "tentative",
       "answer_letters": "TENTATIVE",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "albeit",
       "answer_letters": "ALBEIT",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "somewhere",
       "answer_letters": "SOMEWHERE",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "synonyms",
       "answer_letters": "SYNONYMS",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hawaii",
       "answer_letters": "HAWAII",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "revive",
       "answer_letters": "REVIVE",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "graffiti",
       "answer_letters": "GRAFFITI",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "evolution",
       "answer_letters": "EVOLUTION",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "donations",
       "answer_letters": "DONATIONS",
       "indices": [

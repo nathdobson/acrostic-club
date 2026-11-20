@@ -5,7 +5,7 @@
   "source_letters": "ALFREDDEVIGNYSTELLO",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ashanti",
       "answer_letters": "ASHANTI",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "finishing",
       "answer_letters": "FINISHING",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhodesian",
       "answer_letters": "RHODESIAN",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "detention",
       "answer_letters": "DETENTION",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "daytime",
       "answer_letters": "DAYTIME",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "veneto",
       "answer_letters": "VENETO",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "intermittent",
       "answer_letters": "INTERMITTENT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "gateway",
       "answer_letters": "GATEWAY",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "network",
       "answer_letters": "NETWORK",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "suffolk",
       "answer_letters": "SUFFOLK",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thereby",
       "answer_letters": "THEREBY",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edinburgh",
       "answer_letters": "EDINBURGH",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lawyer",
       "answer_letters": "LAWYER",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "odessa",
       "answer_letters": "ODESSA",
       "indices": [

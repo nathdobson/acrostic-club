@@ -5,7 +5,7 @@
   "source_letters": "SCOTTTUROWLIMITATIONS",
   "clues": [
     {
-      "clue": "Displayed one's capabilities or talents.",
+      "clue_tag": "displayed-ones-capabilities",
       "answer": "showed",
       "answer_letters": "SHOWED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A Native American tribe.",
+      "clue_tag": "native-american-tribe",
       "answer": "cherokee",
       "answer_letters": "CHEROKEE",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Island where WWII's last major battle occurred.",
+      "clue_tag": "island-where-wwiis",
       "answer": "okinawa",
       "answer_letters": "OKINAWA",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Offered a gratuity.",
+      "clue_tag": "offered-gratuity",
       "answer": "tipped",
       "answer_letters": "TIPPED",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Consideration or speculation.",
+      "clue_tag": "consideration-speculation",
       "answer": "thought",
       "answer_letters": "THOUGHT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "They might be bulls' eyes or objectives.",
+      "clue_tag": "they-might-be",
       "answer": "targets",
       "answer_letters": "TARGETS",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Without practicality or utility.",
+      "clue_tag": "without-practicality-utility",
       "answer": "useless",
       "answer_letters": "USELESS",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "He's known for his work in self-help literature",
+      "clue_tag": "hes-known-his",
       "answer": "robbins",
       "answer_letters": "ROBBINS",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Be outshone by another.",
+      "clue_tag": "be-outshone-another",
       "answer": "overshadowed",
       "answer_letters": "OVERSHADOWED",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Director known for his work on 'Citizen Kane'.",
+      "clue_tag": "director-known-his",
       "answer": "welles",
       "answer_letters": "WELLES",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Division in football or cricket",
+      "clue_tag": "division-football-cricket",
       "answer": "league",
       "answer_letters": "LEAGUE",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Emails, texts, and WhatsApp?",
+      "clue_tag": "emails-texts-whatsapp",
       "answer": "messages",
       "answer_letters": "MESSAGES",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Graphic display layout.",
+      "clue_tag": "graphic-display-layout",
       "answer": "interface",
       "answer_letters": "INTERFACE",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Having more substance.",
+      "clue_tag": "having-more-substance",
       "answer": "thicker",
       "answer_letters": "THICKER",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Taking in a child as one's own",
+      "clue_tag": "taking-child-ones",
       "answer": "adoptive",
       "answer_letters": "ADOPTIVE",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Expressed gratitude.",
+      "clue_tag": "expressed-gratitude",
       "answer": "thanked",
       "answer_letters": "THANKED",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Not native; brought in from outside.",
+      "clue_tag": "not-native-brought",
       "answer": "imported",
       "answer_letters": "IMPORTED",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "An occurrence that someone has witnessed or noted.",
+      "clue_tag": "occurrence-someone-has",
       "answer": "observation",
       "answer_letters": "OBSERVATION",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Home to Atlantis Resort",
+      "clue_tag": "home-atlantis-resort",
       "answer": "nassau",
       "answer_letters": "NASSAU",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "Official code or decree.",
+      "clue_tag": "official-code-decree",
       "answer": "statute",
       "answer_letters": "STATUTE",
       "indices": [

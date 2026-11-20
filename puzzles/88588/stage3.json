@@ -5,7 +5,7 @@
   "source_letters": "TANAFRENCHINTHEWOODS",
   "clues": [
     {
-      "clue": "Verbal exchange with another.",
+      "clue_tag": "verbal-exchange-another",
       "answer": "talking",
       "answer_letters": "TALKING",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Animals that thrive in both water and land.",
+      "clue_tag": "animals-thrive-both",
       "answer": "amphibians",
       "answer_letters": "AMPHIBIANS",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Writing system for music.",
+      "clue_tag": "writing-system-music",
       "answer": "notation",
       "answer_letters": "NOTATION",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Zone surrounding a planet.",
+      "clue_tag": "zone-surrounding-planet",
       "answer": "atmosphere",
       "answer_letters": "ATMOSPHERE",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue": "Intrinsic to understanding a subject.",
+      "clue_tag": "intrinsic-understanding-subject",
       "answer": "fundamental",
       "answer_letters": "FUNDAMENTAL",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Caenorhabditis of biology labs.",
+      "clue_tag": "caenorhabditis-biology-labs",
       "answer": "elegans",
       "answer_letters": "ELEGANS",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Month with Thanksgiving in the U.S.",
+      "clue_tag": "month-thanksgiving-us",
       "answer": "november",
       "answer_letters": "NOVEMBER",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "He measured Earth's mass using gravity.",
+      "clue_tag": "he-measured-earths",
       "answer": "cavendish",
       "answer_letters": "CAVENDISH",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Tracked for capture or death.",
+      "clue_tag": "tracked-capture-death",
       "answer": "hunted",
       "answer_letters": "HUNTED",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Gradually bringing together separate elements.",
+      "clue_tag": "gradually-bringing-together",
       "answer": "integrating",
       "answer_letters": "INTEGRATING",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Most common Vietnamese surname.",
+      "clue_tag": "most-common-vietnamese",
       "answer": "nguyễn",
       "answer_letters": "NGUYEN",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Occurrence thrice.",
+      "clue_tag": "occurrence-thrice",
       "answer": "three-time",
       "answer_letters": "THREETIME",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Big city in Texas.",
+      "clue_tag": "big-city-texas",
       "answer": "houston",
       "answer_letters": "HOUSTON",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Wife of King Albert II of the Belgians.",
+      "clue_tag": "wife-king-albert",
       "answer": "elisabeth",
       "answer_letters": "ELISABETH",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Rhyming home of Richard Neville.",
+      "clue_tag": "rhyming-home-richard",
       "answer": "warwick",
       "answer_letters": "WARWICK",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "An item that one may perceive with their senses.",
+      "clue_tag": "item-one-may",
       "answer": "object",
       "answer_letters": "OBJECT",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Places where one can purchase goods or services.",
+      "clue_tag": "places-where-one",
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Computer's go-to setting",
+      "clue_tag": "computers-goto-setting",
       "answer": "default",
       "answer_letters": "DEFAULT",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Shakespeare's 'Venus and Adonis' was dedicated to him.",
+      "clue_tag": "shakespeares-venus-adonis",
       "answer": "sidney",
       "answer_letters": "SIDNEY",
       "indices": [

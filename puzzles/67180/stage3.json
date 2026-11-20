@@ -5,7 +5,7 @@
   "source_letters": "SONYAHARTNETTSURRENDER",
   "clues": [
     {
-      "clue": "Home to Aldeburgh and Bawdsey.",
+      "clue_tag": "home-aldeburgh-bawdsey",
       "answer": "suffolk",
       "answer_letters": "SUFFOLK",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Bank compensation in carbon accounting.",
+      "clue_tag": "bank-compensation-carbon",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Championing a particular issue.",
+      "clue_tag": "championing-particular-issue",
       "answer": "advocacy",
       "answer_letters": "ADVOCACY",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "B3s were popularized by keyboardists like Jimmy Smith.",
+      "clue_tag": "b3s-were-popularized",
       "answer": "hammond",
       "answer_letters": "HAMMOND",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Immune system protein.",
+      "clue_tag": "immune-system-protein",
       "answer": "antibody",
       "answer_letters": "ANTIBODY",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Protector during a monarch's minority",
+      "clue_tag": "protector-during-monarchs",
       "answer": "regent",
       "answer_letters": "REGENT",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Ponders possible outcomes.",
+      "clue_tag": "ponders-possible-outcomes",
       "answer": "thinks",
       "answer_letters": "THINKS",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Process of recording observations.",
+      "clue_tag": "process-recording-observations",
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Furnished with wealth or assets",
+      "clue_tag": "furnished-wealth-assets",
       "answer": "endowed",
       "answer_letters": "ENDOWED",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Associated with a controversial travel ban, known as 'The Muslim Ban'",
+      "clue_tag": "associated-controversial-travel",
       "answer": "trump's",
       "answer_letters": "TRUMPS",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Complete sums.",
+      "clue_tag": "complete-sums",
       "answer": "totals",
       "answer_letters": "TOTALS",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Bring to an end or resolve.",
+      "clue_tag": "bring-end-resolve",
       "answer": "settle",
       "answer_letters": "SETTLE",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Sustain or maintain.",
+      "clue_tag": "sustain-maintain",
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Nickname of a New York Yankee slugger who had 563 career home runs.",
+      "clue_tag": "nickname-new-york",
       "answer": "reggie",
       "answer_letters": "REGGIE",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Once a sinner, now virtuous",
+      "clue_tag": "once-sinner-now",
       "answer": "reformed",
       "answer_letters": "REFORMED",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Birds often symbolizing strength or freedom.",
+      "clue_tag": "birds-often-symbolizing",
       "answer": "eagles",
       "answer_letters": "EAGLES",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "An affectionate nickname for Helen.",
+      "clue_tag": "affectionate-nickname-helen",
       "answer": "nellie",
       "answer_letters": "NELLIE",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Worthiness and self-respect",
+      "clue_tag": "worthiness-selfrespect",
       "answer": "dignity",
       "answer_letters": "DIGNITY",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "Computer processing that happens instantly.",
+      "clue_tag": "computer-processing-happens",
       "answer": "real-time",
       "answer_letters": "REALTIME",
       "indices": [

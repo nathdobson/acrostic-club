@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue": "A classic name for a Southern belle",
+      "clue_tag": "classic-name-southern",
       "answer": "vivian",
       "answer_letters": "VIVIAN",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Began a project or initiative.",
+      "clue_tag": "began-project-initiative",
       "answer": "embarked",
       "answer_letters": "EMBARKED",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Take over a task from another.",
+      "clue_tag": "take-over-task",
       "answer": "relieve",
       "answer_letters": "RELIEVE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Claim space or control.",
+      "clue_tag": "claim-space-control",
       "answer": "occupy",
       "answer_letters": "OCCUPY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Contemporary times.",
+      "clue_tag": "contemporary-times",
       "answer": "nowadays",
       "answer_letters": "NOWADAYS",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Happening during playtime.",
+      "clue_tag": "happening-during-playtime",
       "answer": "in-game",
       "answer_letters": "INGAME",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Massive rock formations by the sea.",
+      "clue_tag": "massive-rock-formations",
       "answer": "cliffs",
       "answer_letters": "CLIFFS",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Tony's formal version.",
+      "clue_tag": "tonys-formal-version",
       "answer": "anthony",
       "answer_letters": "ANTHONY",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Heard in medical school.",
+      "clue_tag": "heard-medical-school",
       "answer": "resident",
       "answer_letters": "RESIDENT",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Ancient religious building.",
+      "clue_tag": "ancient-religious-building",
       "answer": "temple",
       "answer_letters": "TEMPLE",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Aided or assisted.",
+      "clue_tag": "aided-assisted",
       "answer": "helped",
       "answer_letters": "HELPED",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Lower part of torso, below chest.",
+      "clue_tag": "lower-part-torso",
       "answer": "abdomen",
       "answer_letters": "ABDOMEN",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "___ Buckingham, former Fleetwood Mac guitarist.",
+      "clue_tag": "buckingham-former-fleetwood",
       "answer": "lindsey",
       "answer_letters": "LINDSEY",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Described as being akin to.",
+      "clue_tag": "described-being-akin",
       "answer": "likened",
       "answer_letters": "LIKENED",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Wife of King Albert II of the Belgians.",
+      "clue_tag": "wife-king-albert",
       "answer": "elisabeth",
       "answer_letters": "ELISABETH",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Famous Welsh comedian with the surname ___.",
+      "clue_tag": "famous-welsh-comedian",
       "answer": "griffiths",
       "answer_letters": "GRIFFITHS",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Of its very nature",
+      "clue_tag": "very-nature",
       "answer": "inherently",
       "answer_letters": "INHERENTLY",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Subject of Nelson Mandela's activism.",
+      "clue_tag": "subject-nelson-mandelas",
       "answer": "apartheid",
       "answer_letters": "APARTHEID",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [

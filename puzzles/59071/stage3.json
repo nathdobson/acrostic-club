@@ -5,7 +5,7 @@
   "source_letters": "KRISTINCASHOREGRACELING",
   "clues": [
     {
-      "clue": "This family has had a significant impact on U.S. presidential politics.",
+      "clue_tag": "family-has-had",
       "answer": "kennedy's",
       "answer_letters": "KENNEDYS",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "A crime with force or threat involved.",
+      "clue_tag": "crime-force-threat",
       "answer": "robbery",
       "answer_letters": "ROBBERY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Knowledge or data provided.",
+      "clue_tag": "knowledge-data-provided",
       "answer": "information",
       "answer_letters": "INFORMATION",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Author of 'Abe Lincoln in Illinois'.",
+      "clue_tag": "author-abe-lincoln",
       "answer": "sherwood",
       "answer_letters": "SHERWOOD",
       "indices": [
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "clue": "Home to a historic museum featuring colonial history and fine crafts",
+      "clue_tag": "home-historic-museum",
       "answer": "taunton",
       "answer_letters": "TAUNTON",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "City in Japan's Chubu region.",
+      "clue_tag": "city-japans-chubu",
       "answer": "nagoya",
       "answer_letters": "NAGOYA",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Factors that bring about conditions.",
+      "clue_tag": "factors-bring-about",
       "answer": "causes",
       "answer_letters": "CAUSES",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Italian feminine form of Andrew",
+      "clue_tag": "italian-feminine-form",
       "answer": "andrea",
       "answer_letters": "ANDREA",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "'Oye Como Va' is one of his famous songs.",
+      "clue_tag": "oye-como-va",
       "answer": "santana",
       "answer_letters": "SANTANA",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "'Let America Be America Again' author.",
+      "clue_tag": "let-america-be",
       "answer": "hughes",
       "answer_letters": "HUGHES",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Made accessible by removing obstructions.",
+      "clue_tag": "made-accessible-removing",
       "answer": "opened",
       "answer_letters": "OPENED",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Bang, bang!",
+      "clue_tag": "bang-bang",
       "answer": "gunshot",
       "answer_letters": "GUNSHOT",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Non-angular figure.",
+      "clue_tag": "nonangular-figure",
       "answer": "rounded",
       "answer_letters": "ROUNDED",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Concession conjunction.",
+      "clue_tag": "concession-conjunction",
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Large artillery piece used in warfare.",
+      "clue_tag": "large-artillery-piece",
       "answer": "cannon",
       "answer_letters": "CANNON",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "To be of the same value or amount as something else",
+      "clue_tag": "be-same-value",
       "answer": "equals",
       "answer_letters": "EQUALS",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "They might find scissors designed for them more comfortable.",
+      "clue_tag": "they-might-find",
       "answer": "left-handed",
       "answer_letters": "LEFTHANDED",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Request the presence of another person",
+      "clue_tag": "request-presence-another",
       "answer": "invite",
       "answer_letters": "INVITE",
       "indices": [
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "clue": "Brick city for Batman.",
+      "clue_tag": "brick-city-batman",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [

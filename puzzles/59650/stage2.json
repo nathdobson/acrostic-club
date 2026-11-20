@@ -5,7 +5,7 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "runaway",
       "answer_letters": "RUNAWAY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "intended",
       "answer_letters": "INTENDED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "heightened",
       "answer_letters": "HEIGHTENED",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "latitude",
       "answer_letters": "LATITUDE",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "mehmed",
       "answer_letters": "MEHMED",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dundas",
       "answer_letters": "DUNDAS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "felipe",
       "answer_letters": "FELIPE",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "reissued",
       "answer_letters": "REISSUED",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "overthrown",
       "answer_letters": "OVERTHROWN",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "seeded",
       "answer_letters": "SEEDED",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "box-office",
       "answer_letters": "BOXOFFICE",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "implying",
       "answer_letters": "IMPLYING",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "titans",
       "answer_letters": "TITANS",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [

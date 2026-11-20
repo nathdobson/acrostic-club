@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "The first book of the Bible.",
+      "clue_tag": "first-book-bible",
       "answer": "genesis",
       "answer_letters": "GENESIS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Highly skilled and influential members of society.",
+      "clue_tag": "highly-skilled-influential",
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Island where WWII's last major battle occurred.",
+      "clue_tag": "island-where-wwiis",
       "answer": "okinawa",
       "answer_letters": "OKINAWA",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "A type of skate with wheels, like those used on sidewalks or in rinks.",
+      "clue_tag": "type-skate-wheels",
       "answer": "roller",
       "answer_letters": "ROLLER",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Town talk.",
+      "clue_tag": "town-talk",
       "answer": "gossip",
       "answer_letters": "GOSSIP",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
+      "clue_tag": "relates-customs-beliefs",
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "A protocol suite used for LANs.",
+      "clue_tag": "protocol-suite-used",
       "answer": "ethernet",
       "answer_letters": "ETHERNET",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Entered into records",
+      "clue_tag": "entered-into-records",
       "answer": "logged",
       "answer_letters": "LOGGED",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Recognize someone or something",
+      "clue_tag": "recognize-someone-something",
       "answer": "identify",
       "answer_letters": "IDENTIFY",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Infractions or crimes",
+      "clue_tag": "infractions-crimes",
       "answer": "offenses",
       "answer_letters": "OFFENSES",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "He earned his Olympic title in 2000.",
+      "clue_tag": "he-earned-his",
       "answer": "thorpe",
       "answer_letters": "THORPE",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Cosmetics used in theater and film to create character looks.",
+      "clue_tag": "cosmetics-used-theater",
       "answer": "makeup",
       "answer_letters": "MAKEUP",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Named for a plant used to produce its rich color.",
+      "clue_tag": "named-plant-used",
       "answer": "indigo",
       "answer_letters": "INDIGO",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Cleanup after a meal.",
+      "clue_tag": "cleanup-after-meal",
       "answer": "dishes",
       "answer_letters": "DISHES",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "___ Du Maurier novel featuring a detective",
+      "clue_tag": "du-maurier-novel",
       "answer": "daphne",
       "answer_letters": "DAPHNE",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "An indulgence.",
+      "clue_tag": "indulgence",
       "answer": "luxury",
       "answer_letters": "LUXURY",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Good for consumption.",
+      "clue_tag": "good-consumption",
       "answer": "edible",
       "answer_letters": "EDIBLE",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Author who penned 'Extraordinary Popular Delusions and the Madness of Crowds.'",
+      "clue_tag": "author-penned-extraordinary",
       "answer": "mackay",
       "answer_letters": "MACKAY",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
+      "clue_tag": "author-flatland-novella",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Taken to a new place.",
+      "clue_tag": "taken-new-place",
       "answer": "relocated",
       "answer_letters": "RELOCATED",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Textile staple fiber with natural polymers.",
+      "clue_tag": "textile-staple-fiber",
       "answer": "cotton",
       "answer_letters": "COTTON",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Warlike in nature.",
+      "clue_tag": "warlike-nature",
       "answer": "hostile",
       "answer_letters": "HOSTILE",
       "indices": [

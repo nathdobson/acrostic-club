@@ -5,7 +5,7 @@
   "source_letters": "ILONAANDREWSMAGICBINDS",
   "clues": [
     {
-      "clue": "Turn a blind eye to.",
+      "clue_tag": "turn-blind-eye",
       "answer": "ignore",
       "answer_letters": "IGNORE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Name associated with 'Wuthering Heights'.",
+      "clue_tag": "name-associated-wuthering",
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Open-air environment.",
+      "clue_tag": "openair-environment",
       "answer": "outdoors",
       "answer_letters": "OUTDOORS",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "The first name of the Soviet Union's famous general secretary during the Cuban Missile Crisis.",
+      "clue_tag": "first-name-soviet",
       "answer": "nikita",
       "answer_letters": "NIKITA",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Subsequent to that.",
+      "clue_tag": "subsequent",
       "answer": "afterward",
       "answer_letters": "AFTERWARD",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Home of St. Patrick's cathedral, in Northern Ireland.",
+      "clue_tag": "home-st-patricks",
       "answer": "armagh",
       "answer_letters": "ARMAGH",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Prospective recipient of an award.",
+      "clue_tag": "prospective-recipient-award",
       "answer": "nominee",
       "answer_letters": "NOMINEE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Tasks to be done.",
+      "clue_tag": "tasks-be-done",
       "answer": "duties",
       "answer_letters": "DUTIES",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "A fighter, maybe in a ring or on a battlefield.",
+      "clue_tag": "fighter-maybe-ring",
       "answer": "warrior",
       "answer_letters": "WARRIOR",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Propose an idea.",
+      "clue_tag": "propose-idea",
       "answer": "suggest",
       "answer_letters": "SUGGEST",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "A process for reaching an objective.",
+      "clue_tag": "process-reaching-objective",
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Feeling of nervousness and uneasiness.",
+      "clue_tag": "feeling-nervousness-uneasiness",
       "answer": "agitation",
       "answer_letters": "AGITATION",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Einstein was one.",
+      "clue_tag": "einstein-was-one",
       "answer": "genius",
       "answer_letters": "GENIUS",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Protected group of ships or vehicles moving together",
+      "clue_tag": "protected-group-ships",
       "answer": "convoy",
       "answer_letters": "CONVOY",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Had faith in the outcome of an event.",
+      "clue_tag": "had-faith-outcome",
       "answer": "believed",
       "answer_letters": "BELIEVED",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "They may differ in neutron count but remain chemically similar.",
+      "clue_tag": "they-may-differ",
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Person living near your property.",
+      "clue_tag": "person-living-near",
       "answer": "neighbour",
       "answer_letters": "NEIGHBOUR",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "An inexhaustible source of energy or enthusiasm.",
+      "clue_tag": "inexhaustible-source-energy",
       "answer": "dynamo",
       "answer_letters": "DYNAMO",
       "indices": [
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "clue": "Tunnel for trains beneath a city",
+      "clue_tag": "tunnel-trains-beneath",
       "answer": "subway",
       "answer_letters": "SUBWAY",
       "indices": [

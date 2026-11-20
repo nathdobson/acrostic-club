@@ -5,7 +5,7 @@
   "source_letters": "ORSONSCOTTCARDEMPIRE",
   "clues": [
     {
-      "clue": "Gas with atomic number eight.",
+      "clue_tag": "gas-atomic-number",
       "answer": "oxygen",
       "answer_letters": "OXYGEN",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Get back together with someone or something (3,5)",
+      "clue_tag": "get-back-together",
       "answer": "rejoin",
       "answer_letters": "REJOIN",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Assessment of opinions or attitudes",
+      "clue_tag": "assessment-opinions-attitudes",
       "answer": "survey",
       "answer_letters": "SURVEY",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Community program aimed at engaging the public.",
+      "clue_tag": "community-program-aimed",
       "answer": "outreach",
       "answer_letters": "OUTREACH",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Tax-exempt organization.",
+      "clue_tag": "taxexempt-organization",
       "answer": "non-profit",
       "answer_letters": "NONPROFIT",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "A column of vertebrae supports this type of cord.",
+      "clue_tag": "column-vertebrae-supports",
       "answer": "spinal",
       "answer_letters": "SPINAL",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "A name from Shakespeare's *Much Ado About Nothing*",
+      "clue_tag": "name-shakespeares-much",
       "answer": "claudio",
       "answer_letters": "CLAUDIO",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Solo show.",
+      "clue_tag": "solo-show",
       "answer": "one-man",
       "answer_letters": "ONEMAN",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Unified by an underlying concept.",
+      "clue_tag": "unified-underlying-concept",
       "answer": "thematic",
       "answer_letters": "THEMATIC",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "They're likely still in high school.",
+      "clue_tag": "theyre-likely-still",
       "answer": "teenager",
       "answer_letters": "TEENAGER",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Watch your step.",
+      "clue_tag": "watch-your-step",
       "answer": "carefully",
       "answer_letters": "CAREFULLY",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Often related to music and recording equipment pre-digital era.",
+      "clue_tag": "often-related-music",
       "answer": "analogue",
       "answer_letters": "ANALOGUE",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Applicants for asylum.",
+      "clue_tag": "applicants-asylum",
       "answer": "refugee",
       "answer_letters": "REFUGEE",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "A film's length",
+      "clue_tag": "films-length",
       "answer": "duration",
       "answer_letters": "DURATION",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Life's unremarkable moments.",
+      "clue_tag": "lifes-unremarkable-moments",
       "answer": "everyday",
       "answer_letters": "EVERYDAY",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Related to lofty peaks.",
+      "clue_tag": "related-lofty-peaks",
       "answer": "mountainous",
       "answer_letters": "MOUNTAINOUS",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Adverb describing something enjoyed by a large audience.",
+      "clue_tag": "adverb-describing-something",
       "answer": "popularly",
       "answer_letters": "POPULARLY",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Request the presence of another person",
+      "clue_tag": "request-presence-another",
       "answer": "invite",
       "answer_letters": "INVITE",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Almost, in a general sense.",
+      "clue_tag": "almost-general-sense",
       "answer": "roughly",
       "answer_letters": "ROUGHLY",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Literary works that ponder life and thought.",
+      "clue_tag": "literary-works-ponder",
       "answer": "essays",
       "answer_letters": "ESSAYS",
       "indices": [

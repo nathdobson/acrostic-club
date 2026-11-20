@@ -5,7 +5,7 @@
   "source_letters": "MARINAMOLODABELIEVER",
   "clues": [
     {
-      "clue": "A surname shared by notable industrialists.",
+      "clue_tag": "surname-shared-notable",
       "answer": "mellon",
       "answer_letters": "MELLON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Version of a story.",
+      "clue_tag": "version-story",
       "answer": "account",
       "answer_letters": "ACCOUNT",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Carl F. ____ devised a way to quantify earthquake strength.",
+      "clue_tag": "carl-f-devised",
       "answer": "richter",
       "answer_letters": "RICHTER",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Place known for opium production contributing to illicit trade.",
+      "clue_tag": "place-known-opium",
       "answer": "afghanistan",
       "answer_letters": "AFGHANISTAN",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "Display or evidence of something.",
+      "clue_tag": "display-evidence-something",
       "answer": "manifestation",
       "answer_letters": "MANIFESTATION",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Beginning of a period or project.",
+      "clue_tag": "beginning-period-project",
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "A device for flame production",
+      "clue_tag": "device-flame-production",
       "answer": "lighter",
       "answer_letters": "LIGHTER",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "As many as sixty minutes.",
+      "clue_tag": "many-sixty-minutes",
       "answer": "one-hour",
       "answer_letters": "ONEHOUR",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Rotary or percussion kind.",
+      "clue_tag": "rotary-percussion-kind",
       "answer": "drills",
       "answer_letters": "DRILLS",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "In an incognito manner.",
+      "clue_tag": "incognito-manner",
       "answer": "anonymously",
       "answer_letters": "ANONYMOUSLY",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Dazzling or luminous.",
+      "clue_tag": "dazzling-luminous",
       "answer": "bright",
       "answer_letters": "BRIGHT",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Strivings.",
+      "clue_tag": "strivings",
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "The second of two; second in order.",
+      "clue_tag": "second-two-second",
       "answer": "latter",
       "answer_letters": "LATTER",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Made sense of data or information",
+      "clue_tag": "made-sense-data",
       "answer": "interpreted",
       "answer_letters": "INTERPRETED",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Location not here.",
+      "clue_tag": "location-not-here",
       "answer": "elsewhere",
       "answer_letters": "ELSEWHERE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Maritime journey.",
+      "clue_tag": "maritime-journey",
       "answer": "voyage",
       "answer_letters": "VOYAGE",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Given back its former privileges or rights.",
+      "clue_tag": "given-back-former",
       "answer": "reinstated",
       "answer_letters": "REINSTATED",
       "indices": [

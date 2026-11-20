@@ -5,7 +5,7 @@
   "source_letters": "LAURENOLIVERPANDEMONIUM",
   "clues": [
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Came to a consensus.",
+      "clue_tag": "came-consensus",
       "answer": "agreed",
       "answer_letters": "AGREED",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Home to the Giant's Causeway.",
+      "clue_tag": "home-giants-causeway",
       "answer": "ulster",
       "answer_letters": "ULSTER",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "E. Martinez's first name.",
+      "clue_tag": "e-martinezs-first",
       "answer": "eduardo",
       "answer_letters": "EDUARDO",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Opposite of southwest on a compass.",
+      "clue_tag": "opposite-southwest-compass",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "To an excessive or inappropriate extent.",
+      "clue_tag": "excessive-inappropriate-extent",
       "answer": "overly",
       "answer_letters": "OVERLY",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Costs, not gains.",
+      "clue_tag": "costs-not-gains",
       "answer": "losses",
       "answer_letters": "LOSSES",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Doctrine influencing thought and action.",
+      "clue_tag": "doctrine-influencing-thought",
       "answer": "ideology",
       "answer_letters": "IDEOLOGY",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "The last name of a legendary British composer and conductor, renowned for film scores.",
+      "clue_tag": "last-name-legendary",
       "answer": "vaughan",
       "answer_letters": "VAUGHAN",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Changed title after initial release due to various reasons.",
+      "clue_tag": "changed-title-after",
       "answer": "retitled",
       "answer_letters": "RETITLED",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "A quantum of light.",
+      "clue_tag": "quantum-light",
       "answer": "photon",
       "answer_letters": "PHOTON",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "King Harald's realm.",
+      "clue_tag": "king-haralds-realm",
       "answer": "norway",
       "answer_letters": "NORWAY",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Profound layers.",
+      "clue_tag": "profound-layers",
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Corporate body or individual with legal standing",
+      "clue_tag": "corporate-body-individual",
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "A diminutive form of Matthew.",
+      "clue_tag": "diminutive-form-matthew",
       "answer": "matteo",
       "answer_letters": "MATTEO",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Complex and elegant craftsmanship.",
+      "clue_tag": "complex-elegant-craftsmanship",
       "answer": "ornate",
       "answer_letters": "ORNATE",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Their flags adorn the UN building.",
+      "clue_tag": "their-flags-adorn",
       "answer": "nations",
       "answer_letters": "NATIONS",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Reason to visit an ER.",
+      "clue_tag": "reason-visit-er",
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Without practicality or utility.",
+      "clue_tag": "without-practicality-utility",
       "answer": "useless",
       "answer_letters": "USELESS",
       "indices": [
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [

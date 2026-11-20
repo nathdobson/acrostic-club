@@ -5,7 +5,7 @@
   "source_letters": "ALYSONNOELEVERLASTING",
   "clues": [
     {
-      "clue": "2022 World Series champions.",
+      "clue_tag": "2022-world-series",
       "answer": "astros",
       "answer_letters": "ASTROS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Academic talks.",
+      "clue_tag": "academic-talks",
       "answer": "lectures",
       "answer_letters": "LECTURES",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Proffering advice subtly.",
+      "clue_tag": "proffering-advice-subtly",
       "answer": "suggesting",
       "answer_letters": "SUGGESTING",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Different, if not.",
+      "clue_tag": "different-if-not",
       "answer": "otherwise",
       "answer_letters": "OTHERWISE",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Individuals who monitor patients' vitals.",
+      "clue_tag": "individuals-monitor-patients",
       "answer": "nurses",
       "answer_letters": "NURSES",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Surname associated with Chuck, an actor and martial artist.",
+      "clue_tag": "surname-associated-chuck",
       "answer": "norris",
       "answer_letters": "NORRIS",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Broad examination without detail.",
+      "clue_tag": "broad-examination-without",
       "answer": "overview",
       "answer_letters": "OVERVIEW",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Primordial or first in time.",
+      "clue_tag": "primordial-first-time",
       "answer": "earliest",
       "answer_letters": "EARLIEST",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Made the same sound again",
+      "clue_tag": "made-same-sound",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Known for showcasing some of the world’s best cyclists.",
+      "clue_tag": "known-showcasing-some",
       "answer": "vuelta",
       "answer_letters": "VUELTA",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Life's unremarkable moments.",
+      "clue_tag": "lifes-unremarkable-moments",
       "answer": "everyday",
       "answer_letters": "EVERYDAY",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Name of actor born on February 28, 1976; he was also a professional ballroom dancer before his acting career took off.",
+      "clue_tag": "name-actor-born",
       "answer": "ritter",
       "answer_letters": "RITTER",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Unit of correspondence.",
+      "clue_tag": "unit-correspondence",
       "answer": "letter",
       "answer_letters": "LETTER",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Term popularized by Wilhelm Marr in the late 19th century.",
+      "clue_tag": "term-popularized-wilhelm",
       "answer": "antisemitism",
       "answer_letters": "ANTISEMITISM",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "A classical music work in multiple movements.",
+      "clue_tag": "classical-music-work",
       "answer": "symphony",
       "answer_letters": "SYMPHONY",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "A British colloquialism for bathroom.",
+      "clue_tag": "british-colloquialism-bathroom",
       "answer": "toilet",
       "answer_letters": "TOILET",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "An affectionate nickname for Helen.",
+      "clue_tag": "affectionate-nickname-helen",
       "answer": "nellie",
       "answer_letters": "NELLIE",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Brick city for Batman.",
+      "clue_tag": "brick-city-batman",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "BANANAYOSHIMOTOASLEEP",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "backdrop",
       "answer_letters": "BACKDROP",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nemesis",
       "answer_letters": "NEMESIS",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "attitudes",
       "answer_letters": "ATTITUDES",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "narrow",
       "answer_letters": "NARROW",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "author",
       "answer_letters": "AUTHOR",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "sitting",
       "answer_letters": "SITTING",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hickory",
       "answer_letters": "HICKORY",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "magnitude",
       "answer_letters": "MAGNITUDE",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "triumph",
       "answer_letters": "TRIUMPH",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "one-third",
       "answer_letters": "ONETHIRD",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "swimmer",
       "answer_letters": "SWIMMER",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "educated",
       "answer_letters": "EDUCATED",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "executed",
       "answer_letters": "EXECUTED",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "parkway",
       "answer_letters": "PARKWAY",
       "indices": [

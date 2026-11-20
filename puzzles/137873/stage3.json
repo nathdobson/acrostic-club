@@ -5,7 +5,7 @@
   "source_letters": "IDRIESSHAHREFLECTIONS",
   "clues": [
     {
-      "clue": "Apple's smart device.",
+      "clue_tag": "apples-smart-device",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Not improved over time.",
+      "clue_tag": "not-improved-over",
       "answer": "deteriorated",
       "answer_letters": "DETERIORATED",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Far-off or distant in location.",
+      "clue_tag": "faroff-distant-location",
       "answer": "remote",
       "answer_letters": "REMOTE",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Highly skilled and influential members of society.",
+      "clue_tag": "highly-skilled-influential",
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Local authority figure, often with the power to make arrests.",
+      "clue_tag": "local-authority-figure",
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Antonym for northbound.",
+      "clue_tag": "antonym-northbound",
       "answer": "southward",
       "answer_letters": "SOUTHWARD",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "A golden age or flourishing period.",
+      "clue_tag": "golden-age-flourishing",
       "answer": "heyday",
       "answer_letters": "HEYDAY",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Verified through evidence",
+      "clue_tag": "verified-through-evidence",
       "answer": "attested",
       "answer_letters": "ATTESTED",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Remarkably big.",
+      "clue_tag": "remarkably-big",
       "answer": "hugely",
       "answer_letters": "HUGELY",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Teaching and learning process.",
+      "clue_tag": "teaching-learning-process",
       "answer": "education",
       "answer_letters": "EDUCATION",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Language taught at the Sorbonne.",
+      "clue_tag": "language-taught-sorbonne",
       "answer": "french",
       "answer_letters": "FRENCH",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Type arrangement on a page.",
+      "clue_tag": "type-arrangement-page",
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Characteristic of something that bears the same name.",
+      "clue_tag": "characteristic-something-bears",
       "answer": "eponymous",
       "answer_letters": "EPONYMOUS",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Downtown neighborhood in Cincinnati.",
+      "clue_tag": "downtown-neighborhood-cincinnati",
       "answer": "clifton",
       "answer_letters": "CLIFTON",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "German-derived adjective",
+      "clue_tag": "germanderived-adjective",
       "answer": "teutonic",
       "answer_letters": "TEUTONIC",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "These are places for research and study.",
+      "clue_tag": "these-are-places",
       "answer": "institutes",
       "answer_letters": "INSTITUTES",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Bested a challenge.",
+      "clue_tag": "bested-challenge",
       "answer": "overcame",
       "answer_letters": "OVERCAME",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Site of a major airport in NJ.",
+      "clue_tag": "site-major-airport",
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Unbumpy surface.",
+      "clue_tag": "unbumpy-surface",
       "answer": "smooth",
       "answer_letters": "SMOOTH",
       "indices": [

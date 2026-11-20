@@ -5,7 +5,7 @@
   "source_letters": "SARAHDESSENJUSTLISTEN",
   "clues": [
     {
-      "clue": "Logistics and transport of goods by sea, air, or land.",
+      "clue_tag": "logistics-transport-goods",
       "answer": "shipping",
       "answer_letters": "SHIPPING",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "First name of actress Tisdale",
+      "clue_tag": "first-name-actress",
       "answer": "ashley",
       "answer_letters": "ASHLEY",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "A new version of an existing show.",
+      "clue_tag": "new-version-existing",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Under tutelage",
+      "clue_tag": "under-tutelage",
       "answer": "apprenticed",
       "answer_letters": "APPRENTICED",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "18th-century geologist who influenced Lyell",
+      "clue_tag": "18thcentury-geologist-influenced",
       "answer": "hutton",
       "answer_letters": "HUTTON",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Ruinate utterly.",
+      "clue_tag": "ruinate-utterly",
       "answer": "destroy",
       "answer_letters": "DESTROY",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Result of a cause.",
+      "clue_tag": "result-cause",
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Describes something required by law",
+      "clue_tag": "describes-something-required",
       "answer": "statutory",
       "answer_letters": "STATUTORY",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "How one might express frustration on the road",
+      "clue_tag": "how-one-might",
       "answer": "shouting",
       "answer_letters": "SHOUTING",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "In some states they can be bound by primary results.",
+      "clue_tag": "some-states-they",
       "answer": "electors",
       "answer_letters": "ELECTORS",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "The first name of the Soviet Union's famous general secretary during the Cuban Missile Crisis.",
+      "clue_tag": "first-name-soviet",
       "answer": "nikita",
       "answer_letters": "NIKITA",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Name of Caesar.",
+      "clue_tag": "name-caesar",
       "answer": "julius",
       "answer_letters": "JULIUS",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Historic Arab dynasty.",
+      "clue_tag": "historic-arab-dynasty",
       "answer": "umayyad",
       "answer_letters": "UMAYYAD",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "The direction opposite northwest",
+      "clue_tag": "direction-opposite-northwest",
       "answer": "southeast",
       "answer_letters": "SOUTHEAST",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Age from infancy to demise.",
+      "clue_tag": "age-infancy-demise",
       "answer": "lifetime",
       "answer_letters": "LIFETIME",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Apple's smart device.",
+      "clue_tag": "apples-smart-device",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Given name for an intelligent young girl.",
+      "clue_tag": "given-name-intelligent",
       "answer": "sophie",
       "answer_letters": "SOPHIE",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "A British colloquialism for bathroom.",
+      "clue_tag": "british-colloquialism-bathroom",
       "answer": "toilet",
       "answer_letters": "TOILET",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Participate actively.",
+      "clue_tag": "participate-actively",
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [

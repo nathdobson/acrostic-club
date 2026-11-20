@@ -5,7 +5,7 @@
   "source_letters": "PHILPHILOSOFREECHENEY",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "pasture",
       "answer_letters": "PASTURE",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hawker",
       "answer_letters": "HAWKER",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "physician",
       "answer_letters": "PHYSICIAN",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hazardous",
       "answer_letters": "HAZARDOUS",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "inscription",
       "answer_letters": "INSCRIPTION",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "left-handed",
       "answer_letters": "LEFTHANDED",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "orders",
       "answer_letters": "ORDERS",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "suffix",
       "answer_letters": "SUFFIX",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ornate",
       "answer_letters": "ORNATE",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "filter",
       "answer_letters": "FILTER",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "repeatedly",
       "answer_letters": "REPEATEDLY",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "entries",
       "answer_letters": "ENTRIES",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "cassette",
       "answer_letters": "CASSETTE",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "historians",
       "answer_letters": "HISTORIANS",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "exempt",
       "answer_letters": "EXEMPT",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "non-profit",
       "answer_letters": "NONPROFIT",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "einstein",
       "answer_letters": "EINSTEIN",
       "indices": [
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [

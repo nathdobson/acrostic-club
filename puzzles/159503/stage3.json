@@ -5,7 +5,7 @@
   "source_letters": "EMMCOLEKEEPINGMERMINIA",
   "clues": [
     {
-      "clue": "Become more complex",
+      "clue_tag": "become-more-complex",
       "answer": "evolve",
       "answer_letters": "EVOLVE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "English actor and playwright: 1803–1878.",
+      "clue_tag": "english-actor-playwright",
       "answer": "mathews",
       "answer_letters": "MATHEWS",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Symbol often used: π or e.",
+      "clue_tag": "symbol-often-used",
       "answer": "constant",
       "answer_letters": "CONSTANT",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Individual who operates outside legal boundaries.",
+      "clue_tag": "individual-operates-outside",
       "answer": "outlaw",
       "answer_letters": "OUTLAW",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "TV cook Nigella",
+      "clue_tag": "tv-cook-nigella",
       "answer": "lawson",
       "answer_letters": "LAWSON",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Landlocked country in East Africa.",
+      "clue_tag": "landlocked-country-east",
       "answer": "ethiopia",
       "answer_letters": "ETHIOPIA",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Home to ancient Dilmun civilization.",
+      "clue_tag": "home-ancient-dilmun",
       "answer": "kuwait",
       "answer_letters": "KUWAIT",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Can imply choice between two options.",
+      "clue_tag": "can-imply-choice",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Home of humanity, excluding water",
+      "clue_tag": "home-humanity-excluding",
       "answer": "earth's",
       "answer_letters": "EARTHS",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Referring to the various stages of the moon.",
+      "clue_tag": "referring-various-stages",
       "answer": "phased",
       "answer_letters": "PHASED",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Suppress actions or impulses",
+      "clue_tag": "suppress-actions-impulses",
       "answer": "inhibit",
       "answer_letters": "INHIBIT",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "The subject of many a Halloween tale.",
+      "clue_tag": "subject-many-halloween",
       "answer": "ghosts",
       "answer_letters": "GHOSTS",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Twelve slices of time.",
+      "clue_tag": "twelve-slices-time",
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Sent out as sound waves.",
+      "clue_tag": "sent-out-sound",
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "They're famous for red breasts",
+      "clue_tag": "theyre-famous-red",
       "answer": "robins",
       "answer_letters": "ROBINS",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "His witch hunt led to blacklists and accusations of communism.",
+      "clue_tag": "his-witch-hunt",
       "answer": "mccarthy",
       "answer_letters": "MCCARTHY",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Apple's smart device.",
+      "clue_tag": "apples-smart-device",
       "answer": "iphone",
       "answer_letters": "IPHONE",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Entangle or engage in a matter",
+      "clue_tag": "entangle-engage-matter",
       "answer": "involve",
       "answer_letters": "INVOLVE",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [

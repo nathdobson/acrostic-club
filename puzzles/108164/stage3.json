@@ -5,7 +5,7 @@
   "source_letters": "EMMADONOGHUESLAMMERKIN",
   "clues": [
     {
-      "clue": "Brother to George III",
+      "clue_tag": "brother-george-iii",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Changed state to liquid",
+      "clue_tag": "changed-state-liquid",
       "answer": "melted",
       "answer_letters": "MELTED",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Animated mouse of cartoon fame.",
+      "clue_tag": "animated-mouse-cartoon",
       "answer": "mickey",
       "answer_letters": "MICKEY",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Town in Kent.",
+      "clue_tag": "town-kent",
       "answer": "ashford",
       "answer_letters": "ASHFORD",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Not agree, to be opposite",
+      "clue_tag": "not-agree-be",
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Achieve possession of.",
+      "clue_tag": "achieve-possession",
       "answer": "obtain",
       "answer_letters": "OBTAIN",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "clue_tag": "author-philosophiae-naturalis",
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "A prominent figure in the Düsseldorf School of painting.",
+      "clue_tag": "prominent-figure-dusseldorf",
       "answer": "gerhard",
       "answer_letters": "GERHARD",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Middle point of a journey.",
+      "clue_tag": "middle-point-journey",
       "answer": "halfway",
       "answer_letters": "HALFWAY",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "Higher end neighborhood or area, often more affluent.",
+      "clue_tag": "higher-end-neighborhood",
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "These creatures never forget.",
+      "clue_tag": "these-creatures-never",
       "answer": "elephants",
       "answer_letters": "ELEPHANTS",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "A means of protection.",
+      "clue_tag": "means-protection",
       "answer": "shield",
       "answer_letters": "SHIELD",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Spend money freely.",
+      "clue_tag": "spend-money-freely",
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Follower of Diana from Roman lore",
+      "clue_tag": "follower-diana-roman",
       "answer": "artemis",
       "answer_letters": "ARTEMIS",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Related to thoughts and thinking processes.",
+      "clue_tag": "related-thoughts-thinking",
       "answer": "mental",
       "answer_letters": "MENTAL",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "A process for reaching an objective.",
+      "clue_tag": "process-reaching-objective",
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Provide learning opportunities.",
+      "clue_tag": "provide-learning-opportunities",
       "answer": "educate",
       "answer_letters": "EDUCATE",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Opposite of left.",
+      "clue_tag": "opposite-left",
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "American singer-songwriter active since the mid-2010s.",
+      "clue_tag": "american-singersongwriter-active",
       "answer": "khalid",
       "answer_letters": "KHALID",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Purposeful aim.",
+      "clue_tag": "purposeful-aim",
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [

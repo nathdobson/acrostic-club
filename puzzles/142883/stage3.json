@@ -5,7 +5,7 @@
   "source_letters": "ALVINAILEYREVELATIONS",
   "clues": [
     {
-      "clue": "Socially uncomfortable situation.",
+      "clue_tag": "socially-uncomfortable-situation",
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Depressed or diminished in level",
+      "clue_tag": "depressed-diminished-level",
       "answer": "lowered",
       "answer_letters": "LOWERED",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Beheld something remarkable.",
+      "clue_tag": "beheld-something-remarkable",
       "answer": "viewed",
       "answer_letters": "VIEWED",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "The magazine is known for its influential covers and in-depth reporting.",
+      "clue_tag": "magazine-known-influential",
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Cooperating for mutual benefit.",
+      "clue_tag": "cooperating-mutual-benefit",
       "answer": "allied",
       "answer_letters": "ALLIED",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Named for a plant used to produce its rich color.",
+      "clue_tag": "named-plant-used",
       "answer": "indigo",
       "answer_letters": "INDIGO",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Trainer of young minds.",
+      "clue_tag": "trainer-young-minds",
       "answer": "educator",
       "answer_letters": "EDUCATOR",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Core components of vehicles.",
+      "clue_tag": "core-components-vehicles",
       "answer": "engines",
       "answer_letters": "ENGINES",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "In biology, it could be a carrier of genetic material.",
+      "clue_tag": "biology-could-be",
       "answer": "vector",
       "answer_letters": "VECTOR",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Scholarly.",
+      "clue_tag": "scholarly",
       "answer": "educated",
       "answer_letters": "EDUCATED",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Pronounced 'lud-luhw', it shares its name with an English town.",
+      "clue_tag": "pronounced-ludluhw-shares",
       "answer": "ludlow",
       "answer_letters": "LUDLOW",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "First name for Allison.",
+      "clue_tag": "first-name-allison",
       "answer": "alison",
       "answer_letters": "ALISON",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Religious scholar.",
+      "clue_tag": "religious-scholar",
       "answer": "theologian",
       "answer_letters": "THEOLOGIAN",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Encompassed within a set",
+      "clue_tag": "encompassed-within-set",
       "answer": "included",
       "answer_letters": "INCLUDED",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "An item that one may perceive with their senses.",
+      "clue_tag": "item-one-may",
       "answer": "object",
       "answer_letters": "OBJECT",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "He starred as Henry in 'Road to Perdition'.",
+      "clue_tag": "he-starred-henry",
       "answer": "newman",
       "answer_letters": "NEWMAN",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "Episode of convulsions or sudden loss of consciousness.",
+      "clue_tag": "episode-convulsions-sudden",
       "answer": "seizure",
       "answer_letters": "SEIZURE",
       "indices": [

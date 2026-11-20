@@ -5,7 +5,7 @@
   "source_letters": "GKCHESTERTONHERETICS",
   "clues": [
     {
-      "clue": "Acquired with haste.",
+      "clue_tag": "acquired-haste",
       "answer": "grabbed",
       "answer_letters": "GRABBED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "He was Robin Williams' character's mentor.",
+      "clue_tag": "he-was-robin",
       "answer": "keating",
       "answer_letters": "KEATING",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "A night of song, dance and drama.",
+      "clue_tag": "night-song-dance",
       "answer": "cabaret",
       "answer_letters": "CABARET",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "They rose to fame with 'MMMBop'.",
+      "clue_tag": "they-rose-fame",
       "answer": "hanson",
       "answer_letters": "HANSON",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Opposite of mornings.",
+      "clue_tag": "opposite-mornings",
       "answer": "evenings",
       "answer_letters": "EVENINGS",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Severely wounded by a pointed weapon.",
+      "clue_tag": "severely-wounded-pointed",
       "answer": "stabbed",
       "answer_letters": "STABBED",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Major cash crop of the southern United States.",
+      "clue_tag": "major-cash-crop",
       "answer": "tobacco",
       "answer_letters": "TOBACCO",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "____ de Beauharnais, an emperor's consort.",
+      "clue_tag": "de-beauharnais-emperors",
       "answer": "eugene",
       "answer_letters": "EUGENE",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Gift wrap embellishment.",
+      "clue_tag": "gift-wrap-embellishment",
       "answer": "ribbon",
       "answer_letters": "RIBBON",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Partially cut off or shortened",
+      "clue_tag": "partially-cut-off",
       "answer": "truncated",
       "answer_letters": "TRUNCATED",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Popular anti-malware program.",
+      "clue_tag": "popular-antimalware-program",
       "answer": "norton",
       "answer_letters": "NORTON",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Middle point of a journey.",
+      "clue_tag": "middle-point-journey",
       "answer": "halfway",
       "answer_letters": "HALFWAY",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Beginning of a tunnel or passage.",
+      "clue_tag": "beginning-tunnel-passage",
       "answer": "entrance",
       "answer_letters": "ENTRANCE",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Victim of a heist.",
+      "clue_tag": "victim-heist",
       "answer": "robbed",
       "answer_letters": "ROBBED",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Thusly, resulting in",
+      "clue_tag": "thusly-resulting",
       "answer": "thereby",
       "answer_letters": "THEREBY",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Entangle or engage in a matter",
+      "clue_tag": "entangle-engage-matter",
       "answer": "involve",
       "answer_letters": "INVOLVE",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Not avoiding",
+      "clue_tag": "not-avoiding",
       "answer": "confronting",
       "answer_letters": "CONFRONTING",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Their leader in WWII was Joseph Stalin.",
+      "clue_tag": "their-leader-wwii",
       "answer": "soviets",
       "answer_letters": "SOVIETS",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "BENRICEPOBBYANDDINGAN",
   "clues": [
     {
-      "clue": "Brutal winter storm.",
+      "clue_tag": "brutal-winter-storm",
       "answer": "blizzard",
       "answer_letters": "BLIZZARD",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Adviser to King David, a counselor during his reign.",
+      "clue_tag": "adviser-king-david",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Free at last!",
+      "clue_tag": "free-last",
       "answer": "released",
       "answer_letters": "RELEASED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Reason to visit an ER.",
+      "clue_tag": "reason-visit-er",
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Associated with the side of the body near the ribs.",
+      "clue_tag": "associated-side-body",
       "answer": "costal",
       "answer_letters": "COSTAL",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Stressed in Sussex",
+      "clue_tag": "stressed-sussex",
       "answer": "emphasised",
       "answer_letters": "EMPHASISED",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Competition for championship.",
+      "clue_tag": "competition-championship",
       "answer": "playoffs",
       "answer_letters": "PLAYOFFS",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Conquered by a multitude of demands or tasks.",
+      "clue_tag": "conquered-multitude-demands",
       "answer": "overwhelmed",
       "answer_letters": "OVERWHELMED",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Data safety net.",
+      "clue_tag": "data-safety-net",
       "answer": "backup",
       "answer_letters": "BACKUP",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Location of famous theater district in NYC.",
+      "clue_tag": "location-famous-theater",
       "answer": "broadway",
       "answer_letters": "BROADWAY",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Fiscal period conclusion.",
+      "clue_tag": "fiscal-period-conclusion",
       "answer": "year-end",
       "answer_letters": "YEAREND",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "He wrote Cato, a Tragedy (1713).",
+      "clue_tag": "he-wrote-cato",
       "answer": "addison",
       "answer_letters": "ADDISON",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "Sister of Petya Rostov from 'War and Peace'.",
+      "clue_tag": "sister-petya-rostov",
       "answer": "natasha",
       "answer_letters": "NATASHA",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Partner to Lydgate in 'Middlemarch'.",
+      "clue_tag": "partner-lydgate-middlemarch",
       "answer": "dorothea",
       "answer_letters": "DOROTHEA",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "To ask imperatively.",
+      "clue_tag": "ask-imperatively",
       "answer": "demand",
       "answer_letters": "DEMAND",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Go beyond surface level",
+      "clue_tag": "go-beyond-surface",
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "He performed on radio and TV with the cast of 'Your Show of Shows.'",
+      "clue_tag": "he-performed-radio",
       "answer": "goodman",
       "answer_letters": "GOODMAN",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "Author of 'Philosophiæ Naturalis Principia Mathematica'.",
+      "clue_tag": "author-philosophiae-naturalis",
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [

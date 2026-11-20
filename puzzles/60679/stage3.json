@@ -5,7 +5,7 @@
   "source_letters": "ILONAANDREWSBAYOUMOON",
   "clues": [
     {
-      "clue": "Doctrine influencing thought and action.",
+      "clue_tag": "doctrine-influencing-thought",
       "answer": "ideology",
       "answer_letters": "IDEOLOGY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Guiding beacon for lost ships.",
+      "clue_tag": "guiding-beacon-lost",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Crafted a book or article.",
+      "clue_tag": "crafted-book-article",
       "answer": "authored",
       "answer_letters": "AUTHORED",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Not agree, to be opposite",
+      "clue_tag": "not-agree-be",
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "A type of skate with wheels, like those used on sidewalks or in rinks.",
+      "clue_tag": "type-skate-wheels",
       "answer": "roller",
       "answer_letters": "ROLLER",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Landlocked country in East Africa.",
+      "clue_tag": "landlocked-country-east",
       "answer": "ethiopia",
       "answer_letters": "ETHIOPIA",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Clifford, a physicist involved with quantum mechanics.",
+      "clue_tag": "clifford-physicist-involved",
       "answer": "wheeler",
       "answer_letters": "WHEELER",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Ventured across oceans.",
+      "clue_tag": "ventured-across-oceans",
       "answer": "sailed",
       "answer_letters": "SAILED",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "City in West Bank",
+      "clue_tag": "city-west-bank",
       "answer": "bethlehem",
       "answer_letters": "BETHLEHEM",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Found in hand sanitizers too!",
+      "clue_tag": "found-hand-sanitizers",
       "answer": "alcohol",
       "answer_letters": "ALCOHOL",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Motorcycle brand.",
+      "clue_tag": "motorcycle-brand",
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "No parents.",
+      "clue_tag": "no-parents",
       "answer": "orphan",
       "answer_letters": "ORPHAN",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Home to the Giant's Causeway.",
+      "clue_tag": "home-giants-causeway",
       "answer": "ulster",
       "answer_letters": "ULSTER",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Tragic Shakespearean hero.",
+      "clue_tag": "tragic-shakespearean-hero",
       "answer": "macbeth",
       "answer_letters": "MACBETH",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "An exotic bloom, often found in tropical regions.",
+      "clue_tag": "exotic-bloom-often",
       "answer": "orchid",
       "answer_letters": "ORCHID",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "No family ties.",
+      "clue_tag": "no-family-ties",
       "answer": "orphaned",
       "answer_letters": "ORPHANED",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "FTMCKINSTRYCROWHARROW",
   "clues": [
     {
-      "clue": "Subsequent action or question.",
+      "clue_tag": "subsequent-action-question",
       "answer": "follow-up",
       "answer_letters": "FOLLOWUP",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Round-robin event in a European language.",
+      "clue_tag": "roundrobin-event-european",
       "answer": "torneo",
       "answer_letters": "TORNEO",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "The capital of Saxony-Anhalt state.",
+      "clue_tag": "capital-saxonyanhalt-state",
       "answer": "magdeburg",
       "answer_letters": "MAGDEBURG",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Football team from Kansas City.",
+      "clue_tag": "football-team-kansas",
       "answer": "chiefs",
       "answer_letters": "CHIEFS",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Often abbreviated as 'km'.",
+      "clue_tag": "often-abbreviated-km",
       "answer": "kilometre",
       "answer_letters": "KILOMETRE",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "It's a name for Spain, Portugal, and southern France.",
+      "clue_tag": "name-spain-portugal",
       "answer": "iberia",
       "answer_letters": "IBERIA",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Site of a major airport in NJ.",
+      "clue_tag": "site-major-airport",
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Surname of a renowned author known for 'A Brief History of Time'.",
+      "clue_tag": "surname-renowned-author",
       "answer": "stephen",
       "answer_letters": "STEPHEN",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "When most hit puberty.",
+      "clue_tag": "when-most-hit",
       "answer": "teenage",
       "answer_letters": "TEENAGE",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Numbers or events lacking a pattern.",
+      "clue_tag": "numbers-events-lacking",
       "answer": "random",
       "answer_letters": "RANDOM",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Actress named Y. de Carlo.",
+      "clue_tag": "actress-named-y",
       "answer": "yvonne",
       "answer_letters": "YVONNE",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "A holder of nationality within a specific country.",
+      "clue_tag": "holder-nationality-within",
       "answer": "citizen",
       "answer_letters": "CITIZEN",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Critique of a performance.",
+      "clue_tag": "critique-performance",
       "answer": "review",
       "answer_letters": "REVIEW",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Views of a vista",
+      "clue_tag": "views-vista",
       "answer": "overlooks",
       "answer_letters": "OVERLOOKS",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Shakespearean synonym for prudence.",
+      "clue_tag": "shakespearean-synonym-prudence",
       "answer": "wisdom",
       "answer_letters": "WISDOM",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Given over officially.",
+      "clue_tag": "given-over-officially",
       "answer": "handed",
       "answer_letters": "HANDED",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "What you plan to discuss at a meeting.",
+      "clue_tag": "what-you-plan",
       "answer": "agenda",
       "answer_letters": "AGENDA",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Having had the opportunity to relax and unwind.",
+      "clue_tag": "having-had-opportunity",
       "answer": "rested",
       "answer_letters": "RESTED",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Children's home.",
+      "clue_tag": "childrens-home",
       "answer": "orphanage",
       "answer_letters": "ORPHANAGE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Director known for his work on 'Citizen Kane'.",
+      "clue_tag": "director-known-his",
       "answer": "welles",
       "answer_letters": "WELLES",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTSILASMARNER",
   "clues": [
     {
-      "clue": "River associated with the epic Mahabharata.",
+      "clue_tag": "river-associated-epic",
       "answer": "ganges",
       "answer_letters": "GANGES",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Duty-bound, perhaps.",
+      "clue_tag": "dutybound-perhaps",
       "answer": "obliged",
       "answer_letters": "OBLIGED",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Dog known for speed.",
+      "clue_tag": "dog-known-speed",
       "answer": "greyhound",
       "answer_letters": "GREYHOUND",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Descriptive of schools and universities.",
+      "clue_tag": "descriptive-schools-universities",
       "answer": "educational",
       "answer_letters": "EDUCATIONAL",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Essential layer inside a garment for insulation or structure.",
+      "clue_tag": "essential-layer-inside",
       "answer": "lining",
       "answer_letters": "LINING",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Bring in goods from abroad.",
+      "clue_tag": "bring-goods-abroad",
       "answer": "import",
       "answer_letters": "IMPORT",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Former Siam.",
+      "clue_tag": "former-siam",
       "answer": "thailand",
       "answer_letters": "THAILAND",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Electrical device for routing current.",
+      "clue_tag": "electrical-device-routing",
       "answer": "switch",
       "answer_letters": "SWITCH",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Period between events.",
+      "clue_tag": "period-between-events",
       "answer": "interval",
       "answer_letters": "INTERVAL",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Included in a catalog of assets or liabilities.",
+      "clue_tag": "included-catalog-assets",
       "answer": "listed",
       "answer_letters": "LISTED",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Achieve or reach a goal",
+      "clue_tag": "achieve-reach-goal",
       "answer": "attain",
       "answer_letters": "ATTAIN",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Action of diving into water.",
+      "clue_tag": "action-diving-into",
       "answer": "splash",
       "answer_letters": "SPLASH",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Pioneer of anesthesia: ether or chloroform?",
+      "clue_tag": "pioneer-anesthesia-ether",
       "answer": "morton",
       "answer_letters": "MORTON",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Changed title after initial release due to various reasons.",
+      "clue_tag": "changed-title-after",
       "answer": "retitled",
       "answer_letters": "RETITLED",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Baked into something.",
+      "clue_tag": "baked-into-something",
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Show a likeness of something.",
+      "clue_tag": "show-likeness-something",
       "answer": "reflect",
       "answer_letters": "REFLECT",
       "indices": [

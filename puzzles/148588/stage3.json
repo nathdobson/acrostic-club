@@ -5,7 +5,7 @@
   "source_letters": "ABHIKCHATTERJEEGENESIS",
   "clues": [
     {
-      "clue": "Official power to make decisions and judgments",
+      "clue_tag": "official-power-make",
       "answer": "authority",
       "answer_letters": "AUTHORITY",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Holds a line in programming or software development.",
+      "clue_tag": "holds-line-programming",
       "answer": "buffer",
       "answer_letters": "BUFFER",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "A tip of the hat in respect",
+      "clue_tag": "tip-hat-respect",
       "answer": "homage",
       "answer_letters": "HOMAGE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Self-reliant and autonomous.",
+      "clue_tag": "selfreliant-autonomous",
       "answer": "independent",
       "answer_letters": "INDEPENDENT",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Football's starting play.",
+      "clue_tag": "footballs-starting-play",
       "answer": "kickoff",
       "answer_letters": "KICKOFF",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Cindy Crawford's first name.",
+      "clue_tag": "cindy-crawfords-first",
       "answer": "cynthia",
       "answer_letters": "CYNTHIA",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Email subject line.",
+      "clue_tag": "email-subject-line",
       "answer": "header",
       "answer_letters": "HEADER",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Request for reconsideration.",
+      "clue_tag": "request-reconsideration",
       "answer": "appeal",
       "answer_letters": "APPEAL",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Form of treatment.",
+      "clue_tag": "form-treatment",
       "answer": "therapy",
       "answer_letters": "THERAPY",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Resource frequently referenced by students to gain foundational understanding.",
+      "clue_tag": "resource-frequently-referenced",
       "answer": "textbook",
       "answer_letters": "TEXTBOOK",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "As many as necessary.",
+      "clue_tag": "many-necessary",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Origin of sushi, as known in the West.",
+      "clue_tag": "origin-sushi-known",
       "answer": "japan's",
       "answer_letters": "JAPANS",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Use a worker's services",
+      "clue_tag": "use-workers-services",
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "The whole of something.",
+      "clue_tag": "whole-something",
       "answer": "entirety",
       "answer_letters": "ENTIRETY",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Home to the Iwokrama Rainforest.",
+      "clue_tag": "home-iwokrama-rainforest",
       "answer": "guyana",
       "answer_letters": "GUYANA",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "Had words removed or altered.",
+      "clue_tag": "had-words-removed",
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Key to a healthy diet.",
+      "clue_tag": "key-healthy-diet",
       "answer": "nutrition",
       "answer_letters": "NUTRITION",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Held out against difficulties.",
+      "clue_tag": "held-out-against",
       "answer": "endured",
       "answer_letters": "ENDURED",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Respectful gesture",
+      "clue_tag": "respectful-gesture",
       "answer": "salute",
       "answer_letters": "SALUTE",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Solo, without help.",
+      "clue_tag": "solo-without-help",
       "answer": "independently",
       "answer_letters": "INDEPENDENTLY",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue": "Legendary muscle car brand.",
+      "clue_tag": "legendary-muscle-car",
       "answer": "shelby",
       "answer_letters": "SHELBY",
       "indices": [

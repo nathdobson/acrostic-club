@@ -5,7 +5,7 @@
   "source_letters": "DANBROWNANGELSDEMONS",
   "clues": [
     {
-      "clue": "Fine points of a plan or discussion.",
+      "clue_tag": "fine-points-plan",
       "answer": "details",
       "answer_letters": "DETAILS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Looked forward to with excitement or pleasure.",
+      "clue_tag": "looked-forward-excitement",
       "answer": "anticipated",
       "answer_letters": "ANTICIPATED",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Punters' pastime",
+      "clue_tag": "punters-pastime",
       "answer": "betting",
       "answer_letters": "BETTING",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Images bounced off a shiny surface.",
+      "clue_tag": "images-bounced-off",
       "answer": "reflections",
       "answer_letters": "REFLECTIONS",
       "indices": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "clue": "Sudden success.",
+      "clue_tag": "sudden-success",
       "answer": "overnight",
       "answer_letters": "OVERNIGHT",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Superlatively affluent.",
+      "clue_tag": "superlatively-affluent",
       "answer": "wealthiest",
       "answer_letters": "WEALTHIEST",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "How much?",
+      "clue_tag": "how-much",
       "answer": "amount",
       "answer_letters": "AMOUNT",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "A characteristic of bodies of water that can support vessels.",
+      "clue_tag": "characteristic-bodies-water",
       "answer": "navigable",
       "answer_letters": "NAVIGABLE",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Attire piece.",
+      "clue_tag": "attire-piece",
       "answer": "garment",
       "answer_letters": "GARMENT",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Synonym for moniker.",
+      "clue_tag": "synonym-moniker",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Author of The Critic and The School for Scandal.",
+      "clue_tag": "author-critic-school",
       "answer": "sheridan",
       "answer_letters": "SHERIDAN",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Down side of a situation.",
+      "clue_tag": "down-side-situation",
       "answer": "disadvantage",
       "answer_letters": "DISADVANTAGE",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Made more interesting or complex",
+      "clue_tag": "made-more-interesting",
       "answer": "enriched",
       "answer_letters": "ENRICHED",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Creating or producing something.",
+      "clue_tag": "creating-producing-something",
       "answer": "making",
       "answer_letters": "MAKING",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Company behind the famous \"Linux Bible.\"",
+      "clue_tag": "company-behind-famous",
       "answer": "o'reilly",
       "answer_letters": "OREILLY",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "A sweet liquid made by flowers to entice pollinators.",
+      "clue_tag": "sweet-liquid-made",
       "answer": "nectar",
       "answer_letters": "NECTAR",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "German racing legend and two-time World Champion (1984-85).",
+      "clue_tag": "german-racing-legend",
       "answer": "schumacher",
       "answer_letters": "SCHUMACHER",
       "indices": [

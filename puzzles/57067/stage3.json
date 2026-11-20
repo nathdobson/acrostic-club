@@ -5,7 +5,7 @@
   "source_letters": "MIKEGAYLEDINNERFORTWO",
   "clues": [
     {
-      "clue": "Common organic substituent",
+      "clue_tag": "common-organic-substituent",
       "answer": "methyl",
       "answer_letters": "METHYL",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Often measured by the Consumer Price Index (CPI).",
+      "clue_tag": "often-measured-consumer",
       "answer": "inflation",
       "answer_letters": "INFLATION",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Home to ancient Dilmun civilization.",
+      "clue_tag": "home-ancient-dilmun",
       "answer": "kuwait",
       "answer_letters": "KUWAIT",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Became a member of an army",
+      "clue_tag": "became-member-army",
       "answer": "enlisted",
       "answer_letters": "ENLISTED",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Slang for an urban slum area.",
+      "clue_tag": "slang-urban-slum",
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Someone who excels in sports.",
+      "clue_tag": "someone-excels-sports",
       "answer": "athlete",
       "answer_letters": "ATHLETE",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Motorcycle brand.",
+      "clue_tag": "motorcycle-brand",
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Crime during riots.",
+      "clue_tag": "crime-during-riots",
       "answer": "looting",
       "answer_letters": "LOOTING",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "36th President of the United States, who also served as Supreme Commander during WWII.",
+      "clue_tag": "36th-president-united",
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Common term in Spanish-speaking countries for schools and research centers.",
+      "clue_tag": "common-term-spanishspeaking",
       "answer": "instituto",
       "answer_letters": "INSTITUTO",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Adviser to King David, a counselor during his reign.",
+      "clue_tag": "adviser-king-david",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Baked into something.",
+      "clue_tag": "baked-into-something",
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Make something again popular",
+      "clue_tag": "make-something-again",
       "answer": "revive",
       "answer_letters": "REVIVE",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "End of a race or event.",
+      "clue_tag": "end-race-event",
       "answer": "finish",
       "answer_letters": "FINISH",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "A command often used to encourage progress.",
+      "clue_tag": "command-often-used",
       "answer": "onward",
       "answer_letters": "ONWARD",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Site of Vermont's capital city, Montpelier",
+      "clue_tag": "site-vermonts-capital",
       "answer": "rutland",
       "answer_letters": "RUTLAND",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Contemplations or reflections.",
+      "clue_tag": "contemplations-reflections",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Something resembling white, slightly off.",
+      "clue_tag": "something-resembling-white",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [

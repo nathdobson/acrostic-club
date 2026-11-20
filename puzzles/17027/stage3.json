@@ -5,7 +5,7 @@
   "source_letters": "AVAGARDNERAVAMYSTORY",
   "clues": [
     {
-      "clue": "Movement against slavery in the US.",
+      "clue_tag": "movement-against-slavery",
       "answer": "abolition",
       "answer_letters": "ABOLITION",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "It can be a car, bus or train.",
+      "clue_tag": "can-be-car",
       "answer": "vehicle",
       "answer_letters": "VEHICLE",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Penmen.",
+      "clue_tag": "penmen",
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Julius's Italian variant",
+      "clue_tag": "juliuss-italian-variant",
       "answer": "giulio",
       "answer_letters": "GIULIO",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Science of celestial bodies.",
+      "clue_tag": "science-celestial-bodies",
       "answer": "astronomy",
       "answer_letters": "ASTRONOMY",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "A name that could be shared with an artist and a tennis player.",
+      "clue_tag": "name-could-be",
       "answer": "rafael",
       "answer_letters": "RAFAEL",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Concerning a ruling family's power and heritage.",
+      "clue_tag": "concerning-ruling-familys",
       "answer": "dynastic",
       "answer_letters": "DYNASTIC",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Multiple releases of a literary work.",
+      "clue_tag": "multiple-releases-literary",
       "answer": "editions",
       "answer_letters": "EDITIONS",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "Conservatives, as opposed to liberals.",
+      "clue_tag": "conservatives-opposed-liberals",
       "answer": "right-wing",
       "answer_letters": "RIGHTWING",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Characteristics or features.",
+      "clue_tag": "characteristics-features",
       "answer": "attributes",
       "answer_letters": "ATTRIBUTES",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "The last name of a legendary British composer and conductor, renowned for film scores.",
+      "clue_tag": "last-name-legendary",
       "answer": "vaughan",
       "answer_letters": "VAUGHAN",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "To impact a situation or outcome",
+      "clue_tag": "impact-situation-outcome",
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "A diminutive form of Matthew.",
+      "clue_tag": "diminutive-form-matthew",
       "answer": "matteo",
       "answer_letters": "MATTEO",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Relating to the country in the Arabian Peninsula with Sana'a as its capital.",
+      "clue_tag": "relating-country-arabian",
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "He authored many proverbs and sayings.",
+      "clue_tag": "he-authored-many",
       "answer": "solomon",
       "answer_letters": "SOLOMON",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Exhaustive.",
+      "clue_tag": "exhaustive",
       "answer": "thorough",
       "answer_letters": "THOROUGH",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Job or service continuation by employees or clients.",
+      "clue_tag": "job-service-continuation",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Vast video-sharing platform online.",
+      "clue_tag": "vast-videosharing-platform",
       "answer": "youtube",
       "answer_letters": "YOUTUBE",
       "indices": [

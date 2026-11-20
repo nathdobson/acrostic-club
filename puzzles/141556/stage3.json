@@ -5,7 +5,7 @@
   "source_letters": "MILANKUNDERAIGNORANCE",
   "clues": [
     {
-      "clue": "First Bolivian head of state to be openly gay.",
+      "clue_tag": "first-bolivian-head",
       "answer": "morales",
       "answer_letters": "MORALES",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Describing species that spread rapidly and disrupt ecosystems.",
+      "clue_tag": "describing-species-spread",
       "answer": "invasive",
       "answer_letters": "INVASIVE",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "German Protestant sect.",
+      "clue_tag": "german-protestant-sect",
       "answer": "lutheran",
       "answer_letters": "LUTHERAN",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Good time for a leisurely read.",
+      "clue_tag": "good-time-leisurely",
       "answer": "afternoons",
       "answer_letters": "AFTERNOONS",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "Eastern England city with a cathedral.",
+      "clue_tag": "eastern-england-city",
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Affectionate pecks.",
+      "clue_tag": "affectionate-pecks",
       "answer": "kisses",
       "answer_letters": "KISSES",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Official wear that may include badges or insignia.",
+      "clue_tag": "official-wear-may",
       "answer": "uniforms",
       "answer_letters": "UNIFORMS",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Higher social rank or aristocracy.",
+      "clue_tag": "higher-social-rank",
       "answer": "nobility",
       "answer_letters": "NOBILITY",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Disjointed or split.",
+      "clue_tag": "disjointed-split",
       "answer": "divided",
       "answer_letters": "DIVIDED",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Sudden jolt due to seismic activity.",
+      "clue_tag": "sudden-jolt-due",
       "answer": "earthquake",
       "answer_letters": "EARTHQUAKE",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "They might enjoy Sacher torte or Wiener Schnitzel.",
+      "clue_tag": "they-might-enjoy",
       "answer": "austrians",
       "answer_letters": "AUSTRIANS",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Make clear or explain with examples",
+      "clue_tag": "make-clear-explain",
       "answer": "illustrate",
       "answer_letters": "ILLUSTRATE",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Loyalists at the Emirates Stadium.",
+      "clue_tag": "loyalists-emirates-stadium",
       "answer": "gunners",
       "answer_letters": "GUNNERS",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "A way of relieving pressure or stress.",
+      "clue_tag": "way-relieving-pressure",
       "answer": "outlet",
       "answer_letters": "OUTLET",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Describe how two things are connected.",
+      "clue_tag": "describe-how-two",
       "answer": "relate",
       "answer_letters": "RELATE",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Concession conjunction.",
+      "clue_tag": "concession-conjunction",
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "City in Japan's Chubu region.",
+      "clue_tag": "city-japans-chubu",
       "answer": "nagoya",
       "answer_letters": "NAGOYA",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Most of all.",
+      "clue_tag": "most-all",
       "answer": "chiefly",
       "answer_letters": "CHIEFLY",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Wealthy property.",
+      "clue_tag": "wealthy-property",
       "answer": "estate",
       "answer_letters": "ESTATE",
       "indices": [

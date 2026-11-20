@@ -5,7 +5,7 @@
   "source_letters": "ERICMICHAELLEVENTHAL",
   "clues": [
     {
-      "clue": "Senior figures within a family or community setting.",
+      "clue_tag": "senior-figures-within",
       "answer": "elders",
       "answer_letters": "ELDERS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Freshened up, like an old house",
+      "clue_tag": "freshened-up-like",
       "answer": "renovated",
       "answer_letters": "RENOVATED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Putting out (an order or directive)",
+      "clue_tag": "putting-out-order",
       "answer": "issuing",
       "answer_letters": "ISSUING",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Take care of museum pieces.",
+      "clue_tag": "take-care-museum",
       "answer": "curate",
       "answer_letters": "CURATE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Group affiliations.",
+      "clue_tag": "group-affiliations",
       "answer": "memberships",
       "answer_letters": "MEMBERSHIPS",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Social skill category.",
+      "clue_tag": "social-skill-category",
       "answer": "interpersonal",
       "answer_letters": "INTERPERSONAL",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "European island nation.",
+      "clue_tag": "european-island-nation",
       "answer": "cyprus",
       "answer_letters": "CYPRUS",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "German author of Siddhartha",
+      "clue_tag": "german-author-siddhartha",
       "answer": "hermann",
       "answer_letters": "HERMANN",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Account of one's own life",
+      "clue_tag": "account-ones-own",
       "answer": "autobiography",
       "answer_letters": "AUTOBIOGRAPHY",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Rough figure.",
+      "clue_tag": "rough-figure",
       "answer": "estimate",
       "answer_letters": "ESTIMATE",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Lakeside in Spanish.",
+      "clue_tag": "lakeside-spanish",
       "answer": "laguna",
       "answer_letters": "LAGUNA",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "TV cook Nigella",
+      "clue_tag": "tv-cook-nigella",
       "answer": "lawson",
       "answer_letters": "LAWSON",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Series of written or oral tests.",
+      "clue_tag": "series-written-oral",
       "answer": "examinations",
       "answer_letters": "EXAMINATIONS",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "One under obligation to another.",
+      "clue_tag": "one-under-obligation",
       "answer": "vassal",
       "answer_letters": "VASSAL",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Fashion collections for coordinated outfits.",
+      "clue_tag": "fashion-collections-coordinated",
       "answer": "ensembles",
       "answer_letters": "ENSEMBLES",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Person without a name.",
+      "clue_tag": "person-without-name",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Phrase used in legal documents.",
+      "clue_tag": "phrase-used-legal",
       "answer": "thereof",
       "answer_letters": "THEREOF",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Famous for diamond district.",
+      "clue_tag": "famous-diamond-district",
       "answer": "antwerp",
       "answer_letters": "ANTWERP",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Allied general in American Revolution",
+      "clue_tag": "allied-general-american",
       "answer": "lafayette",
       "answer_letters": "LAFAYETTE",
       "indices": [

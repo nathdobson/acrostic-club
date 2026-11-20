@@ -5,7 +5,7 @@
   "source_letters": "LAURENOLIVERDELIRIUM",
   "clues": [
     {
-      "clue": "The state of being lawful.",
+      "clue_tag": "state-being-lawful",
       "answer": "legality",
       "answer_letters": "LEGALITY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Partner in a firm.",
+      "clue_tag": "partner-firm",
       "answer": "associate",
       "answer_letters": "ASSOCIATE",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Supporter of Great Britain's integrity.",
+      "clue_tag": "supporter-great-britains",
       "answer": "unionist",
       "answer_letters": "UNIONIST",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Move in a circle.",
+      "clue_tag": "move-circle",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "As many as necessary.",
+      "clue_tag": "many-necessary",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Person without a name.",
+      "clue_tag": "person-without-name",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Sole edition item.",
+      "clue_tag": "sole-edition-item",
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Guiding beacon for lost ships.",
+      "clue_tag": "guiding-beacon-lost",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Not qualified for a position, especially due to legal reasons",
+      "clue_tag": "not-qualified-position",
       "answer": "ineligible",
       "answer_letters": "INELIGIBLE",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "The last name of a legendary British composer and conductor, renowned for film scores.",
+      "clue_tag": "last-name-legendary",
       "answer": "vaughan",
       "answer_letters": "VAUGHAN",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "Home of composer Arvo Pärt.",
+      "clue_tag": "home-composer-arvo",
       "answer": "estonia",
       "answer_letters": "ESTONIA",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Havoc caused by wild beast.",
+      "clue_tag": "havoc-caused-wild",
       "answer": "rampage",
       "answer_letters": "RAMPAGE",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "clue_tag": "sixcharacter-string-alternating",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Builders of monumental pyramids.",
+      "clue_tag": "builders-monumental-pyramids",
       "answer": "egyptians",
       "answer_letters": "EGYPTIANS",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Famed aerospace and defense company",
+      "clue_tag": "famed-aerospace-defense",
       "answer": "lockheed",
       "answer_letters": "LOCKHEED",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
+      "clue_tag": "one-major-prophets",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Rob _____ is known both as an entertainer and former footballer.",
+      "clue_tag": "rob-known-both",
       "answer": "robson",
       "answer_letters": "ROBSON",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Occupies as a resident or dweller.",
+      "clue_tag": "occupies-resident-dweller",
       "answer": "inhabits",
       "answer_letters": "INHABITS",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "Opposite of vanquished; never bested.",
+      "clue_tag": "opposite-vanquished-never",
       "answer": "unbeaten",
       "answer_letters": "UNBEATEN",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "A diminutive form of Matthew.",
+      "clue_tag": "diminutive-form-matthew",
       "answer": "matteo",
       "answer_letters": "MATTEO",
       "indices": [

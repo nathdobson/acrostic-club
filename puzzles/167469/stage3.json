@@ -5,7 +5,7 @@
   "source_letters": "HILARYMANTELWOLFHALL",
   "clues": [
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "clue_tag": "tennis-star-lost",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Trespassed on someone's activity or freedom of action.",
+      "clue_tag": "trespassed-someones-activity",
       "answer": "interfered",
       "answer_letters": "INTERFERED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Hindu goddess of wealth and fortune",
+      "clue_tag": "hindu-goddess-wealth",
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "A placeholder for an unspecified individual.",
+      "clue_tag": "placeholder-unspecified-individual",
       "answer": "anybody",
       "answer_letters": "ANYBODY",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Reverting to an original state.",
+      "clue_tag": "reverting-original-state",
       "answer": "returning",
       "answer_letters": "RETURNING",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Lemony in hue.",
+      "clue_tag": "lemony-hue",
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Some have tails, while others are tailless.",
+      "clue_tag": "some-have-tails",
       "answer": "monkeys",
       "answer_letters": "MONKEYS",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "Opposing tracked behemoths.",
+      "clue_tag": "opposing-tracked-behemoths",
       "answer": "anti-tank",
       "answer_letters": "ANTITANK",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "______ Geisel is known as Dr. Seuss.",
+      "clue_tag": "geisel-known-dr",
       "answer": "theodor",
       "answer_letters": "THEODOR",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Fictional corporation in the movie 'Men in Black'.",
+      "clue_tag": "fictional-corporation-movie",
       "answer": "enterprises",
       "answer_letters": "ENTERPRISES",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Bottom rank in a hierarchy.",
+      "clue_tag": "bottom-rank-hierarchy",
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "It's often sipped neat.",
+      "clue_tag": "often-sipped-neat",
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Conquered by a multitude of demands or tasks.",
+      "clue_tag": "conquered-multitude-demands",
       "answer": "overwhelmed",
       "answer_letters": "OVERWHELMED",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Often involves assembly language or similar.",
+      "clue_tag": "often-involves-assembly",
       "answer": "low-level",
       "answer_letters": "LOWLEVEL",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Bodily weariness.",
+      "clue_tag": "bodily-weariness",
       "answer": "fatigue",
       "answer_letters": "FATIGUE",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Genre of music and culture.",
+      "clue_tag": "genre-music-culture",
       "answer": "hip-hop",
       "answer_letters": "HIPHOP",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Used when referring to courts above trial level.",
+      "clue_tag": "used-when-referring",
       "answer": "appellate",
       "answer_letters": "APPELLATE",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Portable computer",
+      "clue_tag": "portable-computer",
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Analyzers of syntax and phonetics.",
+      "clue_tag": "analyzers-syntax-phonetics",
       "answer": "linguists",
       "answer_letters": "LINGUISTS",
       "indices": [

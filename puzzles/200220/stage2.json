@@ -5,7 +5,7 @@
   "source_letters": "REDTASHTROLLORDERBY",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "residual",
       "answer_letters": "RESIDUAL",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "estimation",
       "answer_letters": "ESTIMATION",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "destinations",
       "answer_letters": "DESTINATIONS",
       "indices": [
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "amphibious",
       "answer_letters": "AMPHIBIOUS",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "status",
       "answer_letters": "STATUS",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "handbook",
       "answer_letters": "HANDBOOK",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thinkers",
       "answer_letters": "THINKERS",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhodes",
       "answer_letters": "RHODES",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "overwhelmed",
       "answer_letters": "OVERWHELMED",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "labelled",
       "answer_letters": "LABELLED",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "occupants",
       "answer_letters": "OCCUPANTS",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "regatta",
       "answer_letters": "REGATTA",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "broughton",
       "answer_letters": "BROUGHTON",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [

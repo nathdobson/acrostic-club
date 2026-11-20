@@ -5,7 +5,7 @@
   "source_letters": "LISAKESSLERNIGHTCHILD",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lowered",
       "answer_letters": "LOWERED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "sleeve",
       "answer_letters": "SLEEVE",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "armoured",
       "answer_letters": "ARMOURED",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "khyber",
       "answer_letters": "KHYBER",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emilio",
       "answer_letters": "EMILIO",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "sheriff",
       "answer_letters": "SHERIFF",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "statue",
       "answer_letters": "STATUE",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lyceum",
       "answer_letters": "LYCEUM",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ethiopia",
       "answer_letters": "ETHIOPIA",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "romano",
       "answer_letters": "ROMANO",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "geoffrey",
       "answer_letters": "GEOFFREY",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "howard",
       "answer_letters": "HOWARD",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "comune",
       "answer_letters": "COMUNE",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "intimate",
       "answer_letters": "INTIMATE",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "laboratory",
       "answer_letters": "LABORATORY",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "downtown",
       "answer_letters": "DOWNTOWN",
       "indices": [

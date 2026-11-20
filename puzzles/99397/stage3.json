@@ -5,7 +5,7 @@
   "source_letters": "LARRYNIVENSCATTERBRAIN",
   "clues": [
     {
-      "clue": "Dwellers nearby.",
+      "clue_tag": "dwellers-nearby",
       "answer": "locals",
       "answer_letters": "LOCALS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "It includes Norfolk and Suffolk.",
+      "clue_tag": "includes-norfolk-suffolk",
       "answer": "anglia",
       "answer_letters": "ANGLIA",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "To implement plans and turn them into action.",
+      "clue_tag": "implement-plans-turn",
       "answer": "realize",
       "answer_letters": "REALIZE",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Actress named Y. de Carlo.",
+      "clue_tag": "actress-named-y",
       "answer": "yvonne",
       "answer_letters": "YVONNE",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Infringe on someone's rights",
+      "clue_tag": "infringe-someones-rights",
       "answer": "violate",
       "answer_letters": "VIOLATE",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Capable of bringing about a result.",
+      "clue_tag": "capable-bringing-about",
       "answer": "effective",
       "answer_letters": "EFFECTIVE",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Process of recording observations.",
+      "clue_tag": "process-recording-observations",
       "answer": "noting",
       "answer_letters": "NOTING",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Result when demand exceeds supply at a venue.",
+      "clue_tag": "result-when-demand",
       "answer": "sold-out",
       "answer_letters": "SOLDOUT",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Sacred building for worship.",
+      "clue_tag": "sacred-building-worship",
       "answer": "church",
       "answer_letters": "CHURCH",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "They ruled after the Umayyad caliphate.",
+      "clue_tag": "they-ruled-after",
       "answer": "abbasid",
       "answer_letters": "ABBASID",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Coastal city in France's Var region.",
+      "clue_tag": "coastal-city-frances",
       "answer": "toulon",
       "answer_letters": "TOULON",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Participate actively.",
+      "clue_tag": "participate-actively",
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Describe how two things are connected.",
+      "clue_tag": "describe-how-two",
       "answer": "relate",
       "answer_letters": "RELATE",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Election record.",
+      "clue_tag": "election-record",
       "answer": "ballot",
       "answer_letters": "BALLOT",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Coarse terrain description.",
+      "clue_tag": "coarse-terrain-description",
       "answer": "rugged",
       "answer_letters": "RUGGED",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "U.S. passenger rail system abbreviated as ATRK.",
+      "clue_tag": "us-passenger-rail",
       "answer": "amtrak",
       "answer_letters": "AMTRAK",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "An aim or plan.",
+      "clue_tag": "aim-plan",
       "answer": "intention",
       "answer_letters": "INTENTION",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "CHLOERATTRAYSACRENOIR",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "common",
       "answer_letters": "COMMON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hollywood",
       "answer_letters": "HOLLYWOOD",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "leicester",
       "answer_letters": "LEICESTER",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "olivia",
       "answer_letters": "OLIVIA",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "energy",
       "answer_letters": "ENERGY",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rushes",
       "answer_letters": "RUSHES",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "assets",
       "answer_letters": "ASSETS",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "timothy",
       "answer_letters": "TIMOTHY",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "toulouse",
       "answer_letters": "TOULOUSE",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "royale",
       "answer_letters": "ROYALE",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "allows",
       "answer_letters": "ALLOWS",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "year-end",
       "answer_letters": "YEAREND",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stephanie",
       "answer_letters": "STEPHANIE",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "author",
       "answer_letters": "AUTHOR",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "confessions",
       "answer_letters": "CONFESSIONS",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ronnie",
       "answer_letters": "RONNIE",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "europe",
       "answer_letters": "EUROPE",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "one-man",
       "answer_letters": "ONEMAN",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "institutes",
       "answer_letters": "INSTITUTES",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rejects",
       "answer_letters": "REJECTS",
       "indices": [

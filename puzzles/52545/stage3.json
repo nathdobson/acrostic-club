@@ -5,7 +5,7 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "Academically pursued with focus.",
+      "clue_tag": "academically-pursued-focus",
       "answer": "majored",
       "answer_letters": "MAJORED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Opportunity for voters to make choices.",
+      "clue_tag": "opportunity-voters-make",
       "answer": "elections",
       "answer_letters": "ELECTIONS",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Wild cat with rosettes.",
+      "clue_tag": "wild-cat-rosettes",
       "answer": "leopard",
       "answer_letters": "LEOPARD",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "In the open air.",
+      "clue_tag": "open-air",
       "answer": "outdoor",
       "answer_letters": "OUTDOOR",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Arrange troops or equipment in battle formation.",
+      "clue_tag": "arrange-troops-equipment",
       "answer": "deploy",
       "answer_letters": "DEPLOY",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Not just for summer or winter.",
+      "clue_tag": "not-just-summer",
       "answer": "year-round",
       "answer_letters": "YEARROUND",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Allied general in American Revolution",
+      "clue_tag": "allied-general-american",
       "answer": "lafayette",
       "answer_letters": "LAFAYETTE",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "An international singing competition broadcast worldwide.",
+      "clue_tag": "international-singing-competition",
       "answer": "eurovision",
       "answer_letters": "EUROVISION",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Met face to face with",
+      "clue_tag": "met-face-face",
       "answer": "encountered",
       "answer_letters": "ENCOUNTERED",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Boost to its peak.",
+      "clue_tag": "boost-peak",
       "answer": "maximize",
       "answer_letters": "MAXIMIZE",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Group with a specific purpose.",
+      "clue_tag": "group-specific-purpose",
       "answer": "organization",
       "answer_letters": "ORGANIZATION",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "State in southern Mexico known for its unique handicrafts.",
+      "clue_tag": "state-southern-mexico",
       "answer": "oaxaca",
       "answer_letters": "OAXACA",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "What pirates need for their cannons.",
+      "clue_tag": "what-pirates-need",
       "answer": "gunpowder",
       "answer_letters": "GUNPOWDER",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Nickname for someone from the United States, especially when contrasted with a 'Confederate' or Southerner.",
+      "clue_tag": "nickname-someone-united",
       "answer": "yankee",
       "answer_letters": "YANKEE",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "A route or course.",
+      "clue_tag": "route-course",
       "answer": "pathway",
       "answer_letters": "PATHWAY",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [

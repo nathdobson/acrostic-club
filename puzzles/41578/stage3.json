@@ -5,7 +5,7 @@
   "source_letters": "VIRGINIAWOOLFORLANDO",
   "clues": [
     {
-      "clue": "Beach or indoor game often played in pairs or teams",
+      "clue_tag": "beach-indoor-game",
       "answer": "volleyball",
       "answer_letters": "VOLLEYBALL",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Revolted or opposed control.",
+      "clue_tag": "revolted-opposed-control",
       "answer": "rebelled",
       "answer_letters": "REBELLED",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Logical conclusion drawn from premises.",
+      "clue_tag": "logical-conclusion-drawn",
       "answer": "inference",
       "answer_letters": "INFERENCE",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Famed for its Royal Ascot racecourse.",
+      "clue_tag": "famed-royal-ascot",
       "answer": "newmarket",
       "answer_letters": "NEWMARKET",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "Home to millions of tracks available for purchase or streaming.",
+      "clue_tag": "home-millions-tracks",
       "answer": "itunes",
       "answer_letters": "ITUNES",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "First name of actress Tisdale",
+      "clue_tag": "first-name-actress",
       "answer": "ashley",
       "answer_letters": "ASHLEY",
       "indices": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "clue": "Devoid of",
+      "clue_tag": "devoid",
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Kept under watchful eye.",
+      "clue_tag": "kept-under-watchful",
       "answer": "overseen",
       "answer_letters": "OVERSEEN",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "Wardrobe ensemble.",
+      "clue_tag": "wardrobe-ensemble",
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Guiding beacon for lost ships.",
+      "clue_tag": "guiding-beacon-lost",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "In boxing terms, this athlete is on the lower end of the scale.",
+      "clue_tag": "boxing-terms-athlete",
       "answer": "flyweight",
       "answer_letters": "FLYWEIGHT",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "A global sporting event held every four years.",
+      "clue_tag": "global-sporting-event",
       "answer": "olympic",
       "answer_letters": "OLYMPIC",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Turned around; moved through an angle.",
+      "clue_tag": "turned-around-moved",
       "answer": "rotated",
       "answer_letters": "ROTATED",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Solitary existence.",
+      "clue_tag": "solitary-existence",
       "answer": "lonely",
       "answer_letters": "LONELY",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Summing up to; coming to.",
+      "clue_tag": "summing-up-coming",
       "answer": "amounting",
       "answer_letters": "AMOUNTING",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "County known for its coal mining history.",
+      "clue_tag": "county-known-coal",
       "answer": "durham",
       "answer_letters": "DURHAM",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Removed from office or position.",
+      "clue_tag": "removed-office-position",
       "answer": "ousted",
       "answer_letters": "OUSTED",
       "indices": [

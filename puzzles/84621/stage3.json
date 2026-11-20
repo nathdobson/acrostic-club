@@ -5,7 +5,7 @@
   "source_letters": "DANIELGUERINANARCHISM",
   "clues": [
     {
-      "clue": "Measures of compactness.",
+      "clue_tag": "measures-compactness",
       "answer": "densities",
       "answer_letters": "DENSITIES",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "With; at the same time as.",
+      "clue_tag": "same-time",
       "answer": "alongside",
       "answer_letters": "ALONGSIDE",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Held captive.",
+      "clue_tag": "held-captive",
       "answer": "imprisoned",
       "answer_letters": "IMPRISONED",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue": "Result of a cause.",
+      "clue_tag": "result-cause",
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "A virtue of faithfulness.",
+      "clue_tag": "virtue-faithfulness",
       "answer": "loyalty",
       "answer_letters": "LOYALTY",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Notorious Nazi enforcers.",
+      "clue_tag": "notorious-nazi-enforcers",
       "answer": "gestapo",
       "answer_letters": "GESTAPO",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "Software enhancements.",
+      "clue_tag": "software-enhancements",
       "answer": "updates",
       "answer_letters": "UPDATES",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Home of humanity, excluding water",
+      "clue_tag": "home-humanity-excluding",
       "answer": "earth's",
       "answer_letters": "EARTHS",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Counteract a force.",
+      "clue_tag": "counteract-force",
       "answer": "resist",
       "answer_letters": "RESIST",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Segments with significant economic impact.",
+      "clue_tag": "segments-significant-economic",
       "answer": "industries",
       "answer_letters": "INDUSTRIES",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Romantic escapades.",
+      "clue_tag": "romantic-escapades",
       "answer": "affairs",
       "answer_letters": "AFFAIRS",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "A community's surroundings.",
+      "clue_tag": "communitys-surroundings",
       "answer": "neighbourhood",
       "answer_letters": "NEIGHBOURHOOD",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Adolf and Adolfus are variants of his first name.",
+      "clue_tag": "adolf-adolfus-are",
       "answer": "adolph",
       "answer_letters": "ADOLPH",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "A supporter of monarchy.",
+      "clue_tag": "supporter-monarchy",
       "answer": "royalist",
       "answer_letters": "ROYALIST",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Shaped outward like a dome",
+      "clue_tag": "shaped-outward-like",
       "answer": "convex",
       "answer_letters": "CONVEX",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Born in Braunau am Inn.",
+      "clue_tag": "born-braunau-am",
       "answer": "hitler",
       "answer_letters": "HITLER",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Conveyed in an unspoken manner.",
+      "clue_tag": "conveyed-unspoken-manner",
       "answer": "implicit",
       "answer_letters": "IMPLICIT",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "A non-physical essence or presence believed by some to be part of living beings.",
+      "clue_tag": "nonphysical-essence-presence",
       "answer": "spirit",
       "answer_letters": "SPIRIT",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [

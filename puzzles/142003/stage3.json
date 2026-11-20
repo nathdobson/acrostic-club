@@ -5,7 +5,7 @@
   "source_letters": "DAVIDCRONENBERGCONSUMED",
   "clues": [
     {
-      "clue": "Buck or greenback.",
+      "clue_tag": "buck-greenback",
       "answer": "dollar",
       "answer_letters": "DOLLAR",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Mythical king of Camelot",
+      "clue_tag": "mythical-king-camelot",
       "answer": "arthur",
       "answer_letters": "ARTHUR",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "One under obligation to another.",
+      "clue_tag": "one-under-obligation",
       "answer": "vassal",
       "answer_letters": "VASSAL",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Objectives or goals.",
+      "clue_tag": "objectives-goals",
       "answer": "intentions",
       "answer_letters": "INTENTIONS",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "What is done to a car for shine and protection?",
+      "clue_tag": "what-done-car",
       "answer": "detailing",
       "answer_letters": "DETAILING",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Type of vacation on water.",
+      "clue_tag": "type-vacation-water",
       "answer": "cruise",
       "answer_letters": "CRUISE",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Guitarist with his brother for the band Bon Jovi",
+      "clue_tag": "guitarist-his-brother",
       "answer": "richie",
       "answer_letters": "RICHIE",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Renowned university city in England.",
+      "clue_tag": "renowned-university-city",
       "answer": "oxford",
       "answer_letters": "OXFORD",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Tribe of the Southwest U.S.",
+      "clue_tag": "tribe-southwest-us",
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Use a worker's services",
+      "clue_tag": "use-workers-services",
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Small, specialized pockets within a broader field.",
+      "clue_tag": "small-specialized-pockets",
       "answer": "niches",
       "answer_letters": "NICHES",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Act of hammering repeatedly.",
+      "clue_tag": "act-hammering-repeatedly",
       "answer": "beating",
       "answer_letters": "BEATING",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
+      "clue_tag": "iconic-representation-often",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Describe how two things are connected.",
+      "clue_tag": "describe-how-two",
       "answer": "relate",
       "answer_letters": "RELATE",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "A famous Mexican actress.",
+      "clue_tag": "famous-mexican-actress",
       "answer": "gloria",
       "answer_letters": "GLORIA",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "A flow of electricity.",
+      "clue_tag": "flow-electricity",
       "answer": "current",
       "answer_letters": "CURRENT",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Claim space or control.",
+      "clue_tag": "claim-space-control",
       "answer": "occupy",
       "answer_letters": "OCCUPY",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Component in fertilizers and explosives.",
+      "clue_tag": "component-fertilizers-explosives",
       "answer": "nitrate",
       "answer_letters": "NITRATE",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Port city of China, famous for its skyscrapers.",
+      "clue_tag": "port-city-china",
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "Sustain or maintain.",
+      "clue_tag": "sustain-maintain",
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Animated mouse of cartoon fame.",
+      "clue_tag": "animated-mouse-cartoon",
       "answer": "mickey",
       "answer_letters": "MICKEY",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
+      "clue_tag": "relates-customs-beliefs",
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "clue": "Titles of honor or awards given for achievements.",
+      "clue_tag": "titles-honor-awards",
       "answer": "distinctions",
       "answer_letters": "DISTINCTIONS",
       "indices": [

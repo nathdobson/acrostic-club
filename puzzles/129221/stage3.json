@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDATLASSHRUGGED",
   "clues": [
     {
-      "clue": "LA's neighbor with a famous amusement park.",
+      "clue_tag": "las-neighbor-famous",
       "answer": "anaheim",
       "answer_letters": "ANAHEIM",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "A characteristic of chaotic systems.",
+      "clue_tag": "characteristic-chaotic-systems",
       "answer": "nonlinear",
       "answer_letters": "NONLINEAR",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Make something again popular",
+      "clue_tag": "make-something-again",
       "answer": "revive",
       "answer_letters": "REVIVE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Determine value or worth.",
+      "clue_tag": "determine-value-worth",
       "answer": "assess",
       "answer_letters": "ASSESS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "The main meal of the day, especially for some.",
+      "clue_tag": "main-meal-day",
       "answer": "dinner",
       "answer_letters": "DINNER",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Adding territory to a country.",
+      "clue_tag": "adding-territory-country",
       "answer": "annexation",
       "answer_letters": "ANNEXATION",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Common motifs in literature or music.",
+      "clue_tag": "common-motifs-literature",
       "answer": "themes",
       "answer_letters": "THEMES",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Agreeable to say so too.",
+      "clue_tag": "agreeable-say-so",
       "answer": "likewise",
       "answer_letters": "LIKEWISE",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Animals that thrive in both water and land.",
+      "clue_tag": "animals-thrive-both",
       "answer": "amphibians",
       "answer_letters": "AMPHIBIANS",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Given name for an intelligent young girl.",
+      "clue_tag": "given-name-intelligent",
       "answer": "sophie",
       "answer_letters": "SOPHIE",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Those who handle firearms, often for sport.",
+      "clue_tag": "those-handle-firearms",
       "answer": "shooters",
       "answer_letters": "SHOOTERS",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "A Montana town named for a queen.",
+      "clue_tag": "montana-town-named",
       "answer": "helena",
       "answer_letters": "HELENA",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Boost or raise to a higher position",
+      "clue_tag": "boost-raise-higher",
       "answer": "uplift",
       "answer_letters": "UPLIFT",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Brick city for Batman.",
+      "clue_tag": "brick-city-batman",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Crime film by Coppola.",
+      "clue_tag": "crime-film-coppola",
       "answer": "godfather",
       "answer_letters": "GODFATHER",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Varies in comparison to another.",
+      "clue_tag": "varies-comparison-another",
       "answer": "differs",
       "answer_letters": "DIFFERS",
       "indices": [

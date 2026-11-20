@@ -5,7 +5,7 @@
   "source_letters": "LISAKESSLERMOONLIGHT",
   "clues": [
     {
-      "clue": "Gave with expectation of return.",
+      "clue_tag": "gave-expectation-return",
       "answer": "loaned",
       "answer_letters": "LOANED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Enhance or make better",
+      "clue_tag": "enhance-make-better",
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Act of revealing or presenting something.",
+      "clue_tag": "act-revealing-presenting",
       "answer": "showing",
       "answer_letters": "SHOWING",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Home to teams like Sydney FC and Melbourne Victory.",
+      "clue_tag": "home-teams-like",
       "answer": "a-league",
       "answer_letters": "ALEAGUE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "The Wawel Castle sits on a hill overlooking this Polish city.",
+      "clue_tag": "wawel-castle-sits",
       "answer": "kraków",
       "answer_letters": "KRAKOW",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Facilitate the operation of something",
+      "clue_tag": "facilitate-operation-something",
       "answer": "enable",
       "answer_letters": "ENABLE",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "The direction opposite northwest",
+      "clue_tag": "direction-opposite-northwest",
       "answer": "southeast",
       "answer_letters": "SOUTHEAST",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Lacking depth.",
+      "clue_tag": "lacking-depth",
       "answer": "shallow",
       "answer_letters": "SHALLOW",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Weapon is ready to fire.",
+      "clue_tag": "weapon-ready-fire",
       "answer": "loaded",
       "answer_letters": "LOADED",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Opposite of absolute in value.",
+      "clue_tag": "opposite-absolute-value",
       "answer": "relative",
       "answer_letters": "RELATIVE",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Name of Egypt's president in recent history.",
+      "clue_tag": "name-egypts-president",
       "answer": "mohamed",
       "answer_letters": "MOHAMED",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Did better than expected.",
+      "clue_tag": "did-better-than",
       "answer": "overtook",
       "answer_letters": "OVERTOOK",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Tight weave for catching fish or balls.",
+      "clue_tag": "tight-weave-catching",
       "answer": "netting",
       "answer_letters": "NETTING",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Live or reside somewhere.",
+      "clue_tag": "live-reside-somewhere",
       "answer": "inhabit",
       "answer_letters": "INHABIT",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Award for musical excellence.",
+      "clue_tag": "award-musical-excellence",
       "answer": "grammy",
       "answer_letters": "GRAMMY",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Original place of residence.",
+      "clue_tag": "original-place-residence",
       "answer": "hometown",
       "answer_letters": "HOMETOWN",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Consideration or speculation.",
+      "clue_tag": "consideration-speculation",
       "answer": "thought",
       "answer_letters": "THOUGHT",
       "indices": [

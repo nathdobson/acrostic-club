@@ -5,7 +5,7 @@
   "source_letters": "VANNCHOWSHANGHAINOBODY",
   "clues": [
     {
-      "clue": "Person who suffers from something undesirable.",
+      "clue_tag": "person-suffers-something",
       "answer": "victim",
       "answer_letters": "VICTIM",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Powers to perform tasks.",
+      "clue_tag": "powers-perform-tasks",
       "answer": "abilities",
       "answer_letters": "ABILITIES",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "An affectionate nickname for Helen.",
+      "clue_tag": "affectionate-nickname-helen",
       "answer": "nellie",
       "answer_letters": "NELLIE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Opposite of southwest on a compass.",
+      "clue_tag": "opposite-southwest-compass",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Spanish for a fortified structure.",
+      "clue_tag": "spanish-fortified-structure",
       "answer": "castillo",
       "answer_letters": "CASTILLO",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "\"Gilligan's Island\" surname",
+      "clue_tag": "gilligans-island-surname",
       "answer": "howell",
       "answer_letters": "HOWELL",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Wardrobe ensemble.",
+      "clue_tag": "wardrobe-ensemble",
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "River flowing into the Columbia River at Portland.",
+      "clue_tag": "river-flowing-into",
       "answer": "willamette",
       "answer_letters": "WILLAMETTE",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Secure something to prevent it from moving or changing.",
+      "clue_tag": "secure-something-prevent",
       "answer": "stabilize",
       "answer_letters": "STABILIZE",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": "Genre of music and culture.",
+      "clue_tag": "genre-music-culture",
       "answer": "hip-hop",
       "answer_letters": "HIPHOP",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "A nation once ruled by the Jolof Empire.",
+      "clue_tag": "nation-once-ruled",
       "answer": "gambia",
       "answer_letters": "GAMBIA",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Second most important source in Islamic law after the Quran.",
+      "clue_tag": "second-most-important",
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Personality traits or outlooks.",
+      "clue_tag": "personality-traits-outlooks",
       "answer": "attitudes",
       "answer_letters": "ATTITUDES",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Included in something.",
+      "clue_tag": "included-something",
       "answer": "involved",
       "answer_letters": "INVOLVED",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Costumes for a stage production.",
+      "clue_tag": "costumes-stage-production",
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "French word for 'dance'.",
+      "clue_tag": "french-word-dance",
       "answer": "ballet",
       "answer_letters": "BALLET",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Away from the web",
+      "clue_tag": "away-web",
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Pushed down a rank.",
+      "clue_tag": "pushed-down-rank",
       "answer": "demoted",
       "answer_letters": "DEMOTED",
       "indices": [
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "clue": "Where Japan's Maritime Self-Defense Forces have a major base.",
+      "clue_tag": "where-japans-maritime",
       "answer": "yokosuka",
       "answer_letters": "YOKOSUKA",
       "indices": [

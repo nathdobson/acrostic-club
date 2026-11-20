@@ -5,7 +5,7 @@
   "source_letters": "ISAACMARIONWARMBODIES",
   "clues": [
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Audacious acrobatics in film.",
+      "clue_tag": "audacious-acrobatics-film",
       "answer": "stunts",
       "answer_letters": "STUNTS",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Cider ingredients galore.",
+      "clue_tag": "cider-ingredients-galore",
       "answer": "apples",
       "answer_letters": "APPLES",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "What follows a battle or conflict.",
+      "clue_tag": "what-follows-battle",
       "answer": "aftermath",
       "answer_letters": "AFTERMATH",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Approval, often required legally.",
+      "clue_tag": "approval-often-required",
       "answer": "consent",
       "answer_letters": "CONSENT",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Powerful adjective.",
+      "clue_tag": "powerful-adjective",
       "answer": "mighty",
       "answer_letters": "MIGHTY",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Championing a particular issue.",
+      "clue_tag": "championing-particular-issue",
       "answer": "advocacy",
       "answer_letters": "ADVOCACY",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Noticeable comment.",
+      "clue_tag": "noticeable-comment",
       "answer": "remark",
       "answer_letters": "REMARK",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Innocence from legal prosecution.",
+      "clue_tag": "innocence-legal-prosecution",
       "answer": "immunity",
       "answer_letters": "IMMUNITY",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "A lady's perspective.",
+      "clue_tag": "ladys-perspective",
       "answer": "woman's",
       "answer_letters": "WOMANS",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Descriptors modifying nouns.",
+      "clue_tag": "descriptors-modifying-nouns",
       "answer": "adjectives",
       "answer_letters": "ADJECTIVES",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Moved with haste or speed.",
+      "clue_tag": "moved-haste-speed",
       "answer": "rushed",
       "answer_letters": "RUSHED",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Some can be precious gems like diamonds or sapphires.",
+      "clue_tag": "some-can-be",
       "answer": "mineral",
       "answer_letters": "MINERAL",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "City near the Pennines known for its industrial heritage",
+      "clue_tag": "city-near-pennines",
       "answer": "bolton",
       "answer_letters": "BOLTON",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Discarded by advancement.",
+      "clue_tag": "discarded-advancement",
       "answer": "obsolete",
       "answer_letters": "OBSOLETE",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Not agree, to be opposite",
+      "clue_tag": "not-agree-be",
       "answer": "differ",
       "answer_letters": "DIFFER",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "_ parliament is the Knesset.",
+      "clue_tag": "parliament-knesset",
       "answer": "israel's",
       "answer_letters": "ISRAELS",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Result of a cause.",
+      "clue_tag": "result-cause",
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Title of someone with a job in a pasture.",
+      "clue_tag": "title-someone-job",
       "answer": "shepherd",
       "answer_letters": "SHEPHERD",
       "indices": [

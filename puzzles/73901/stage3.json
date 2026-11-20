@@ -5,7 +5,7 @@
   "source_letters": "DAVIDNICHOLLSONEDAY",
   "clues": [
     {
-      "clue": "Skiers' direction of travel.",
+      "clue_tag": "skiers-direction-travel",
       "answer": "downhill",
       "answer_letters": "DOWNHILL",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Socially uncomfortable situation.",
+      "clue_tag": "socially-uncomfortable-situation",
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "2nd in command of a corporation",
+      "clue_tag": "2nd-command-corporation",
       "answer": "vice-president",
       "answer_letters": "VICEPRESIDENT",
       "indices": [
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "clue": "Used to determine the slope of a curve at any point.",
+      "clue_tag": "used-determine-slope",
       "answer": "differentiation",
       "answer_letters": "DIFFERENTIATION",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Perceptions gleaned through analysis.",
+      "clue_tag": "perceptions-gleaned-through",
       "answer": "insights",
       "answer_letters": "INSIGHTS",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Snatches up or takes control.",
+      "clue_tag": "snatches-up-takes",
       "answer": "captures",
       "answer_letters": "CAPTURES",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "B viral disease.",
+      "clue_tag": "b-viral-disease",
       "answer": "hepatitis",
       "answer_letters": "HEPATITIS",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Spoke their mind or judgment.",
+      "clue_tag": "spoke-their-mind",
       "answer": "opined",
       "answer_letters": "OPINED",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "City in Middlesex County, Massachusetts",
+      "clue_tag": "city-middlesex-county",
       "answer": "lowell",
       "answer_letters": "LOWELL",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Rescue craft for mariners in distress.",
+      "clue_tag": "rescue-craft-mariners",
       "answer": "lifeboat",
       "answer_letters": "LIFEBOAT",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Changes in position or direction.",
+      "clue_tag": "changes-position-direction",
       "answer": "shifts",
       "answer_letters": "SHIFTS",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Wardrobe ensemble.",
+      "clue_tag": "wardrobe-ensemble",
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "Individual with advanced knowledge or skill.",
+      "clue_tag": "individual-advanced-knowledge",
       "answer": "expert",
       "answer_letters": "EXPERT",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Arid landscapes often feature oases.",
+      "clue_tag": "arid-landscapes-often",
       "answer": "deserts",
       "answer_letters": "DESERTS",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Sufferers may seek relief in hot tubs.",
+      "clue_tag": "sufferers-may-seek",
       "answer": "arthritis",
       "answer_letters": "ARTHRITIS",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [

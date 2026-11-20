@@ -5,7 +5,7 @@
   "source_letters": "ERNESTHEMINGWAYPOEMS",
   "clues": [
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
+      "clue_tag": "iconic-representation-often",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Aids in guiding a vessel's course.",
+      "clue_tag": "aids-guiding-vessels",
       "answer": "rudder",
       "answer_letters": "RUDDER",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Symbol N on the periodic table.",
+      "clue_tag": "symbol-n-periodic",
       "answer": "nitrogen",
       "answer_letters": "NITROGEN",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Synonym for moniker.",
+      "clue_tag": "synonym-moniker",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Places offering temporary accommodation, often for pets or the homeless.",
+      "clue_tag": "places-offering-temporary",
       "answer": "shelters",
       "answer_letters": "SHELTERS",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Showing aptitude or skill.",
+      "clue_tag": "showing-aptitude-skill",
       "answer": "talented",
       "answer_letters": "TALENTED",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "\"Gilligan's Island\" surname",
+      "clue_tag": "gilligans-island-surname",
       "answer": "howell",
       "answer_letters": "HOWELL",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Home of humanity, excluding water",
+      "clue_tag": "home-humanity-excluding",
       "answer": "earth's",
       "answer_letters": "EARTHS",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Jefferson's doting wife.",
+      "clue_tag": "jeffersons-doting-wife",
       "answer": "martha",
       "answer_letters": "MARTHA",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Children of Jacob, also known as the twelve tribes.",
+      "clue_tag": "children-jacob-also",
       "answer": "israelites",
       "answer_letters": "ISRAELITES",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Their staple is dal bhat.",
+      "clue_tag": "their-staple-dal",
       "answer": "nepalese",
       "answer_letters": "NEPALESE",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Happy for favors received.",
+      "clue_tag": "happy-favors-received",
       "answer": "grateful",
       "answer_letters": "GRATEFUL",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Sonic cue for attention or gathering",
+      "clue_tag": "sonic-cue-attention",
       "answer": "whistle",
       "answer_letters": "WHISTLE",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Russian form of Alexander.",
+      "clue_tag": "russian-form-alexander",
       "answer": "aleksandr",
       "answer_letters": "ALEKSANDR",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Least aged in a group.",
+      "clue_tag": "least-aged-group",
       "answer": "youngest",
       "answer_letters": "YOUNGEST",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Possibly, maybe.",
+      "clue_tag": "possibly-maybe",
       "answer": "perhaps",
       "answer_letters": "PERHAPS",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Investiture into ministry.",
+      "clue_tag": "investiture-into-ministry",
       "answer": "ordination",
       "answer_letters": "ORDINATION",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Canonized in law or tradition",
+      "clue_tag": "canonized-law-tradition",
       "answer": "enshrined",
       "answer_letters": "ENSHRINED",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "He commissioned the Topkapi Palace in Istanbul.",
+      "clue_tag": "he-commissioned-topkapi",
       "answer": "mehmed",
       "answer_letters": "MEHMED",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [

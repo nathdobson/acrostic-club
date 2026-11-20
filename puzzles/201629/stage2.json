@@ -5,7 +5,7 @@
   "source_letters": "HUEYFREEMANTHEBOONDOCKS",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "highlight",
       "answer_letters": "HIGHLIGHT",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "utrecht",
       "answer_letters": "UTRECHT",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "fellows",
       "answer_letters": "FELLOWS",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "restart",
       "answer_letters": "RESTART",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "easter",
       "answer_letters": "EASTER",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "evolve",
       "answer_letters": "EVOLVE",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "maximum",
       "answer_letters": "MAXIMUM",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "armagh",
       "answer_letters": "ARMAGH",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "havana",
       "answer_letters": "HAVANA",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "evolved",
       "answer_letters": "EVOLVED",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "behave",
       "answer_letters": "BEHAVE",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outset",
       "answer_letters": "OUTSET",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "difficulty",
       "answer_letters": "DIFFICULTY",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "otherwise",
       "answer_letters": "OTHERWISE",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "creation",
       "answer_letters": "CREATION",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "karate",
       "answer_letters": "KARATE",
       "indices": [
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shadow",
       "answer_letters": "SHADOW",
       "indices": [

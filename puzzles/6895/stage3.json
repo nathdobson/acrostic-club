@@ -5,7 +5,7 @@
   "source_letters": "SARAHDESSENDREAMLAND",
   "clues": [
     {
-      "clue": "Place where actors perform for the cameras.",
+      "clue_tag": "place-where-actors",
       "answer": "studio",
       "answer_letters": "STUDIO",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "The southern region of Spain.",
+      "clue_tag": "southern-region-spain",
       "answer": "andalusia",
       "answer_letters": "ANDALUSIA",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "First-year player in sports.",
+      "clue_tag": "firstyear-player-sports",
       "answer": "rookie",
       "answer_letters": "ROOKIE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Claim of composition.",
+      "clue_tag": "claim-composition",
       "answer": "authorship",
       "answer_letters": "AUTHORSHIP",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Measures of compactness.",
+      "clue_tag": "measures-compactness",
       "answer": "densities",
       "answer_letters": "DENSITIES",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "One of seven continents.",
+      "clue_tag": "one-seven-continents",
       "answer": "europe",
       "answer_letters": "EUROPE",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "The Tokugawa ____ held power from 1603 to 1868.",
+      "clue_tag": "tokugawa-held-power",
       "answer": "shogunate",
       "answer_letters": "SHOGUNATE",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Viking land of ABBA.",
+      "clue_tag": "viking-land-abba",
       "answer": "sweden",
       "answer_letters": "SWEDEN",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Biology's catalysts.",
+      "clue_tag": "biologys-catalysts",
       "answer": "enzyme",
       "answer_letters": "ENZYME",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "French first name.",
+      "clue_tag": "french-first-name",
       "answer": "denise",
       "answer_letters": "DENISE",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Something that diminishes hardship.",
+      "clue_tag": "something-diminishes-hardship",
       "answer": "relief",
       "answer_letters": "RELIEF",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Relates to the customs or beliefs passed down within a community.",
+      "clue_tag": "relates-customs-beliefs",
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Penmen.",
+      "clue_tag": "penmen",
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Detroit-based record company with a soulful sound.",
+      "clue_tag": "detroitbased-record-company",
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Cheaply priced.",
+      "clue_tag": "cheaply-priced",
       "answer": "low-cost",
       "answer_letters": "LOWCOST",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Matterhorn is here.",
+      "clue_tag": "matterhorn-here",
       "answer": "alpine",
       "answer_letters": "ALPINE",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Tribe of the Southwest U.S.",
+      "clue_tag": "tribe-southwest-us",
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [

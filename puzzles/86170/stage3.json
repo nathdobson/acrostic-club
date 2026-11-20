@@ -5,7 +5,7 @@
   "source_letters": "AMYPATRICKHIDDENDEEP",
   "clues": [
     {
-      "clue": "Change slightly for improvement.",
+      "clue_tag": "change-slightly-improvement",
       "answer": "adjust",
       "answer_letters": "ADJUST",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "\"Crash Into Me\" rock group Dave __ Band",
+      "clue_tag": "crash-into-me",
       "answer": "matthews",
       "answer_letters": "MATTHEWS",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "A quantum of light.",
+      "clue_tag": "quantum-light",
       "answer": "photon",
       "answer_letters": "PHOTON",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Enforcers of rules.",
+      "clue_tag": "enforcers-rules",
       "answer": "authorities",
       "answer_letters": "AUTHORITIES",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Dynasty of shoguns (1603-1868).",
+      "clue_tag": "dynasty-shoguns-16031868",
       "answer": "tokugawa",
       "answer_letters": "TOKUGAWA",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
+      "clue_tag": "one-major-prophets",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Holy scriptural pact.",
+      "clue_tag": "holy-scriptural-pact",
       "answer": "covenant",
       "answer_letters": "COVENANT",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Independent Balkan nation.",
+      "clue_tag": "independent-balkan-nation",
       "answer": "kosovo",
       "answer_letters": "KOSOVO",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Robert, known for his role in 'Rain Man'.",
+      "clue_tag": "robert-known-his",
       "answer": "hoffman",
       "answer_letters": "HOFFMAN",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Period between events.",
+      "clue_tag": "period-between-events",
       "answer": "interval",
       "answer_letters": "INTERVAL",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Band he founded and fronted after leaving The Misfits",
+      "clue_tag": "band-he-founded",
       "answer": "danzig",
       "answer_letters": "DANZIG",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "In materials science, it refers to the intermingling of atoms within solids.",
+      "clue_tag": "materials-science-refers",
       "answer": "diffusion",
       "answer_letters": "DIFFUSION",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "At any place or location.",
+      "clue_tag": "any-place-location",
       "answer": "everywhere",
       "answer_letters": "EVERYWHERE",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
+      "clue_tag": "iconic-representation-often",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "A route or course.",
+      "clue_tag": "route-course",
       "answer": "pathway",
       "answer_letters": "PATHWAY",
       "indices": [

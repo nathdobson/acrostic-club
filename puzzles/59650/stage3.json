@@ -5,7 +5,7 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "An escaped convict.",
+      "clue_tag": "escaped-convict",
       "answer": "runaway",
       "answer_letters": "RUNAWAY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Meant to be; destined for something.",
+      "clue_tag": "meant-be-destined",
       "answer": "intended",
       "answer_letters": "INTENDED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "A place named after an 18th-century British statesman.",
+      "clue_tag": "place-named-after",
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Increased in degree; amplified.",
+      "clue_tag": "increased-degree-amplified",
       "answer": "heightened",
       "answer_letters": "HEIGHTENED",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Synonym for moniker.",
+      "clue_tag": "synonym-moniker",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Spend money freely.",
+      "clue_tag": "spend-money-freely",
       "answer": "lavish",
       "answer_letters": "LAVISH",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Measurement for degrees north or south of the equator.",
+      "clue_tag": "measurement-degrees-north",
       "answer": "latitude",
       "answer_letters": "LATITUDE",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "Author of Cyrano de ___",
+      "clue_tag": "author-cyrano-de",
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "He commissioned the Topkapi Palace in Istanbul.",
+      "clue_tag": "he-commissioned-topkapi",
       "answer": "mehmed",
       "answer_letters": "MEHMED",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Had words removed or altered.",
+      "clue_tag": "had-words-removed",
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Can purchase within means.",
+      "clue_tag": "can-purchase-within",
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Known for its proximity to the CN Tower and Lake Ontario",
+      "clue_tag": "known-proximity-cn",
       "answer": "dundas",
       "answer_letters": "DUNDAS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Brazilian Formula One driver of Ferrari fame.",
+      "clue_tag": "brazilian-formula-one",
       "answer": "felipe",
       "answer_letters": "FELIPE",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Once again released for sale.",
+      "clue_tag": "once-again-released",
       "answer": "reissued",
       "answer_letters": "REISSUED",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Defeated and replaced, often in a political context.",
+      "clue_tag": "defeated-replaced-often",
       "answer": "overthrown",
       "answer_letters": "OVERTHROWN",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Started growth.",
+      "clue_tag": "started-growth",
       "answer": "seeded",
       "answer_letters": "SEEDED",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Past participle of hurl",
+      "clue_tag": "past-participle-hurl",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Location for purchasing admission to shows.",
+      "clue_tag": "location-purchasing-admission",
       "answer": "box-office",
       "answer_letters": "BOXOFFICE",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Subtly suggesting something.",
+      "clue_tag": "subtly-suggesting-something",
       "answer": "implying",
       "answer_letters": "IMPLYING",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "They ruled before Zeus and his pantheon.",
+      "clue_tag": "they-ruled-before",
       "answer": "titans",
       "answer_letters": "TITANS",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "To begin a journey or venture",
+      "clue_tag": "begin-journey-venture",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [

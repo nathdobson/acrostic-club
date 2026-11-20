@@ -5,7 +5,7 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Nickname: Che, a prominent figure in Latin American history.",
+      "clue_tag": "nickname-che-prominent",
       "answer": "ernesto",
       "answer_letters": "ERNESTO",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Type arrangement on a page.",
+      "clue_tag": "type-arrangement-page",
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Bank compensation in carbon accounting.",
+      "clue_tag": "bank-compensation-carbon",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "The sun's illumination.",
+      "clue_tag": "suns-illumination",
       "answer": "daylight",
       "answer_letters": "DAYLIGHT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "A key to empowerment and education.",
+      "clue_tag": "key-empowerment-education",
       "answer": "literacy",
       "answer_letters": "LITERACY",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Inhabitant of Africa's second-most populous country.",
+      "clue_tag": "inhabitant-africas-secondmost",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "A paper intended to remind or inform.",
+      "clue_tag": "paper-intended-remind",
       "answer": "memorandum",
       "answer_letters": "MEMORANDUM",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "Path where you can't go back.",
+      "clue_tag": "path-where-you",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Moment to advance one's position or improve conditions.",
+      "clue_tag": "moment-advance-ones",
       "answer": "opportunity",
       "answer_letters": "OPPORTUNITY",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Another term for an eponym.",
+      "clue_tag": "another-term-eponym",
       "answer": "namesake",
       "answer_letters": "NAMESAKE",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "French for war, as in a conflict.",
+      "clue_tag": "french-war-conflict",
       "answer": "guerre",
       "answer_letters": "GUERRE",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Riders ready to serve as part of Britain's defense pre-WWI.",
+      "clue_tag": "riders-ready-serve",
       "answer": "yeomanry",
       "answer_letters": "YEOMANRY",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Admitted to a club following demise.",
+      "clue_tag": "admitted-club-following",
       "answer": "posthumously",
       "answer_letters": "POSTHUMOUSLY",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Part of historic borough once spanning both sides of the Thames.",
+      "clue_tag": "part-historic-borough",
       "answer": "southwark",
       "answer_letters": "SOUTHWARK",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Nickname for someone from the United States, especially when contrasted with a 'Confederate' or Southerner.",
+      "clue_tag": "nickname-someone-united",
       "answer": "yankee",
       "answer_letters": "YANKEE",
       "indices": [

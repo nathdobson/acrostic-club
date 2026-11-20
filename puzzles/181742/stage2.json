@@ -5,7 +5,7 @@
   "source_letters": "DEANKOONTZBROTHERODD",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dynasty",
       "answer_letters": "DYNASTY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "eugene",
       "answer_letters": "EUGENE",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "kyushu",
       "answer_letters": "KYUSHU",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "orioles",
       "answer_letters": "ORIOLES",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nassau",
       "answer_letters": "NASSAU",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "zoologist",
       "answer_letters": "ZOOLOGIST",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "beautiful",
       "answer_letters": "BEAUTIFUL",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "occupational",
       "answer_letters": "OCCUPATIONAL",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "therefore",
       "answer_letters": "THEREFORE",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "heavenly",
       "answer_letters": "HEAVENLY",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "everyone",
       "answer_letters": "EVERYONE",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outrage",
       "answer_letters": "OUTRAGE",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "default",
       "answer_letters": "DEFAULT",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "deputy",
       "answer_letters": "DEPUTY",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "CYNTHIAHANDUNEARTHLY",
   "clues": [
     {
-      "clue": "Home of the Khmer Rouge.",
+      "clue_tag": "home-khmer-rouge",
       "answer": "cambodia",
       "answer_letters": "CAMBODIA",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Lots of them.",
+      "clue_tag": "lots-them",
       "answer": "numerous",
       "answer_letters": "NUMEROUS",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "This bird is often synonymous with the holidays.",
+      "clue_tag": "bird-often-synonymous",
       "answer": "turkey's",
       "answer_letters": "TURKEYS",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "One who makes contact with the ball.",
+      "clue_tag": "one-makes-contact",
       "answer": "hitter",
       "answer_letters": "HITTER",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Geographical feature connecting two larger landmasses.",
+      "clue_tag": "geographical-feature-connecting",
       "answer": "isthmus",
       "answer_letters": "ISTHMUS",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Came to a consensus.",
+      "clue_tag": "came-consensus",
       "answer": "agreed",
       "answer_letters": "AGREED",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Farmland often measured in these units.",
+      "clue_tag": "farmland-often-measured",
       "answer": "hectares",
       "answer_letters": "HECTARES",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Aggregation of stories, poems, or essays.",
+      "clue_tag": "aggregation-stories-poems",
       "answer": "anthology",
       "answer_letters": "ANTHOLOGY",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "A sweet liquid made by flowers to entice pollinators.",
+      "clue_tag": "sweet-liquid-made",
       "answer": "nectar",
       "answer_letters": "NECTAR",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Horse's close relative.",
+      "clue_tag": "horses-close-relative",
       "answer": "donkey",
       "answer_letters": "DONKEY",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Becoming connected or joined.",
+      "clue_tag": "becoming-connected-joined",
       "answer": "uniting",
       "answer_letters": "UNITING",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Fame of a negative kind.",
+      "clue_tag": "fame-negative-kind",
       "answer": "notoriety",
       "answer_letters": "NOTORIETY",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "'Yes,' especially in military contexts.",
+      "clue_tag": "yes-especially-military",
       "answer": "affirmative",
       "answer_letters": "AFFIRMATIVE",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Couplets often found in poetry.",
+      "clue_tag": "couplets-often-found",
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "A common timeframe for short-term investments.",
+      "clue_tag": "common-timeframe-shortterm",
       "answer": "two-year",
       "answer_letters": "TWOYEAR",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "He was a director of Poltergeist.",
+      "clue_tag": "he-was-director",
       "answer": "hooper",
       "answer_letters": "HOOPER",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Adjective for a beautiful day.",
+      "clue_tag": "adjective-beautiful-day",
       "answer": "lovely",
       "answer_letters": "LOVELY",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Manhattan resident.",
+      "clue_tag": "manhattan-resident",
       "answer": "yorker",
       "answer_letters": "YORKER",
       "indices": [

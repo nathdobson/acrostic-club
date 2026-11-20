@@ -5,7 +5,7 @@
   "source_letters": "PAULAUSTERMOONPALACE",
   "clues": [
     {
-      "clue": "Economically disadvantaged.",
+      "clue_tag": "economically-disadvantaged",
       "answer": "poorest",
       "answer_letters": "POOREST",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Something else.",
+      "clue_tag": "something-else",
       "answer": "another",
       "answer_letters": "ANOTHER",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Higher end neighborhood or area, often more affluent.",
+      "clue_tag": "higher-end-neighborhood",
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "clue_tag": "often-requires-chemotherapy",
       "answer": "lymphoma",
       "answer_letters": "LYMPHOMA",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Gave it a shot.",
+      "clue_tag": "gave-shot",
       "answer": "attempted",
       "answer_letters": "ATTEMPTED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Essential services for modern life.",
+      "clue_tag": "essential-services-modern",
       "answer": "utilities",
       "answer_letters": "UTILITIES",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Comprehensive in scope or coverage.",
+      "clue_tag": "comprehensive-scope-coverage",
       "answer": "sweeping",
       "answer_letters": "SWEEPING",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "E. Roosevelt's first name.",
+      "clue_tag": "e-roosevelts-first",
       "answer": "theodore",
       "answer_letters": "THEODORE",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Re-examined or reconsidered a past decision.",
+      "clue_tag": "reexamined-reconsidered-past",
       "answer": "reviewed",
       "answer_letters": "REVIEWED",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": "Conservation principle in physics.",
+      "clue_tag": "conservation-principle-physics",
       "answer": "momentum",
       "answer_letters": "MOMENTUM",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Made accessible by removing obstructions.",
+      "clue_tag": "made-accessible-removing",
       "answer": "opened",
       "answer_letters": "OPENED",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Sole edition item.",
+      "clue_tag": "sole-edition-item",
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Higher social rank or aristocracy.",
+      "clue_tag": "higher-social-rank",
       "answer": "nobility",
       "answer_letters": "NOBILITY",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Stage where scripts come to life.",
+      "clue_tag": "stage-where-scripts",
       "answer": "playhouse",
       "answer_letters": "PLAYHOUSE",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Commonly referred to simply as 'track and field'.",
+      "clue_tag": "commonly-referred-simply",
       "answer": "athletics",
       "answer_letters": "ATHLETICS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Strategic efforts to sway political decisions.",
+      "clue_tag": "strategic-efforts-sway",
       "answer": "lobbying",
       "answer_letters": "LOBBYING",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Senders of the New Testament letters",
+      "clue_tag": "senders-new-testament",
       "answer": "apostle",
       "answer_letters": "APOSTLE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "American football champions",
+      "clue_tag": "american-football-champions",
       "answer": "cowboys",
       "answer_letters": "COWBOYS",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Not so anymore; previously.",
+      "clue_tag": "not-so-anymore",
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [

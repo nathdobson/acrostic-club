@@ -5,7 +5,7 @@
   "source_letters": "SAMUELMCCHORDCROTHERS",
   "clues": [
     {
-      "clue": "In sports, often used to describe the best game or scoring outcome up to that point in the season.",
+      "clue_tag": "sports-often-used",
       "answer": "season-high",
       "answer_letters": "SEASONHIGH",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Tony's formal version.",
+      "clue_tag": "tonys-formal-version",
       "answer": "anthony",
       "answer_letters": "ANTHONY",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Temporary solution",
+      "clue_tag": "temporary-solution",
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Opposite of joyful.",
+      "clue_tag": "opposite-joyful",
       "answer": "unhappy",
       "answer_letters": "UNHAPPY",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "Avid admirer.",
+      "clue_tag": "avid-admirer",
       "answer": "enthusiast",
       "answer_letters": "ENTHUSIAST",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "Pedigrees, in a manner of speaking.",
+      "clue_tag": "pedigrees-manner-speaking",
       "answer": "lineages",
       "answer_letters": "LINEAGES",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Religious group founded by John Wesley.",
+      "clue_tag": "religious-group-founded",
       "answer": "methodist",
       "answer_letters": "METHODIST",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Football team from Kansas City.",
+      "clue_tag": "football-team-kansas",
       "answer": "chiefs",
       "answer_letters": "CHIEFS",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "A morning pick-me-up.",
+      "clue_tag": "morning-pickmeup",
       "answer": "coffee",
       "answer_letters": "COFFEE",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "18th-century geologist who influenced Lyell",
+      "clue_tag": "18thcentury-geologist-influenced",
       "answer": "hutton",
       "answer_letters": "HUTTON",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Begins with 'O' but rhymes with duffers",
+      "clue_tag": "begins-o-but",
       "answer": "offers",
       "answer_letters": "OFFERS",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Job or service continuation by employees or clients.",
+      "clue_tag": "job-service-continuation",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "A formal and authoritative instruction or proclamation.",
+      "clue_tag": "formal-authoritative-instruction",
       "answer": "decree",
       "answer_letters": "DECREE",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "Speakers of a North Caucasian language.",
+      "clue_tag": "speakers-north-caucasian",
       "answer": "chechen",
       "answer_letters": "CHECHEN",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Not owned outright.",
+      "clue_tag": "not-owned-outright",
       "answer": "rented",
       "answer_letters": "RENTED",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Pearl of the South Seas.",
+      "clue_tag": "pearl-south-seas",
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Gave away the answer slightly.",
+      "clue_tag": "gave-away-answer",
       "answer": "hinted",
       "answer_letters": "HINTED",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Adjective for a roller coaster ride.",
+      "clue_tag": "adjective-roller-coaster",
       "answer": "exciting",
       "answer_letters": "EXCITING",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Increased in wealth.",
+      "clue_tag": "increased-wealth",
       "answer": "richer",
       "answer_letters": "RICHER",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "Scenarios one might encounter in various contexts.",
+      "clue_tag": "scenarios-one-might",
       "answer": "situations",
       "answer_letters": "SITUATIONS",
       "indices": [

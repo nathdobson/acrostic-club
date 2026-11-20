@@ -5,7 +5,7 @@
   "source_letters": "COLETTEEARTHLYPARADISE",
   "clues": [
     {
-      "clue": "Selects consciously from alternatives.",
+      "clue_tag": "selects-consciously-alternatives",
       "answer": "chooses",
       "answer_letters": "CHOOSES",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Sole edition item.",
+      "clue_tag": "sole-edition-item",
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Early developmental stage in humans and other organisms.",
+      "clue_tag": "early-developmental-stage",
       "answer": "embryo",
       "answer_letters": "EMBRYO",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Anatomy: area between neck and abdomen.",
+      "clue_tag": "anatomy-area-between",
       "answer": "thorax",
       "answer_letters": "THORAX",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Furnished with wealth or assets",
+      "clue_tag": "furnished-wealth-assets",
       "answer": "endowed",
       "answer_letters": "ENDOWED",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Professionals in charge of polishing prose.",
+      "clue_tag": "professionals-charge-polishing",
       "answer": "editors",
       "answer_letters": "EDITORS",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Home of St. Patrick's cathedral, in Northern Ireland.",
+      "clue_tag": "home-st-patricks",
       "answer": "armagh",
       "answer_letters": "ARMAGH",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Initial footage shot for consideration in editing.",
+      "clue_tag": "initial-footage-shot",
       "answer": "rushes",
       "answer_letters": "RUSHES",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "A biblical disciple of Paul.",
+      "clue_tag": "biblical-disciple-paul",
       "answer": "timothy",
       "answer_letters": "TIMOTHY",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "clue_tag": "tennis-star-lost",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Of Spanish-speaking descent.",
+      "clue_tag": "spanishspeaking-descent",
       "answer": "latino",
       "answer_letters": "LATINO",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Follower of a movement for ordinary folk.",
+      "clue_tag": "follower-movement-ordinary",
       "answer": "populist",
       "answer_letters": "POPULIST",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "This kind of mathematics often involves problem-solving.",
+      "clue_tag": "kind-mathematics-often",
       "answer": "applied",
       "answer_letters": "APPLIED",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "It could be a place to find tranquility by water.",
+      "clue_tag": "could-be-place",
       "answer": "riverside",
       "answer_letters": "RIVERSIDE",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Spanning the entirety of history.",
+      "clue_tag": "spanning-entirety-history",
       "answer": "all-time",
       "answer_letters": "ALLTIME",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Contrasts with highlights in photography.",
+      "clue_tag": "contrasts-highlights-photography",
       "answer": "shadows",
       "answer_letters": "SHADOWS",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Estevez Sr., the patriarch.",
+      "clue_tag": "estevez-sr-patriarch",
       "answer": "emilio",
       "answer_letters": "EMILIO",
       "indices": [

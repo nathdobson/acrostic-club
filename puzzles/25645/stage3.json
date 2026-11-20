@@ -5,7 +5,7 @@
   "source_letters": "RICHELLEMEADFROSTBITE",
   "clues": [
     {
-      "clue": "Name of actor born on February 28, 1976; he was also a professional ballroom dancer before his acting career took off.",
+      "clue_tag": "name-actor-born",
       "answer": "ritter",
       "answer_letters": "RITTER",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Admission to school is known as an _.",
+      "clue_tag": "admission-school-known",
       "answer": "intake",
       "answer_letters": "INTAKE",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Known for their howling calls.",
+      "clue_tag": "known-their-howling",
       "answer": "coyotes",
       "answer_letters": "COYOTES",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Till now, previously.",
+      "clue_tag": "till-now-previously",
       "answer": "hitherto",
       "answer_letters": "HITHERTO",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Director of 'Unforgiven' (1992)",
+      "clue_tag": "director-unforgiven-1992",
       "answer": "eastwood",
       "answer_letters": "EASTWOOD",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Synonym for small.",
+      "clue_tag": "synonym-small",
       "answer": "little",
       "answer_letters": "LITTLE",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Writer-director of 'The Wackness', ____.",
+      "clue_tag": "writerdirector-wackness",
       "answer": "levine",
       "answer_letters": "LEVINE",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Can imply choice between two options.",
+      "clue_tag": "can-imply-choice",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Bright streak in the sky.",
+      "clue_tag": "bright-streak-sky",
       "answer": "meteor",
       "answer_letters": "METEOR",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "The man who wrote 'The Girl From Ipanema' with another composer",
+      "clue_tag": "man-wrote-girl",
       "answer": "augusto",
       "answer_letters": "AUGUSTO",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Automotive hub.",
+      "clue_tag": "automotive-hub",
       "answer": "detroit",
       "answer_letters": "DETROIT",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "A River in South Australia and Victoria, named after a British admiral.",
+      "clue_tag": "river-south-australia",
       "answer": "fitzroy",
       "answer_letters": "FITZROY",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Resilient and strong.",
+      "clue_tag": "resilient-strong",
       "answer": "robust",
       "answer_letters": "ROBUST",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Something that can be chosen, as a possibility or preference.",
+      "clue_tag": "something-can-be",
       "answer": "option",
       "answer_letters": "OPTION",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "The direction opposite northwest",
+      "clue_tag": "direction-opposite-northwest",
       "answer": "southeast",
       "answer_letters": "SOUTHEAST",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Dance move or blues music.",
+      "clue_tag": "dance-move-blues",
       "answer": "boogie",
       "answer_letters": "BOOGIE",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Welcomed for an event or meeting.",
+      "clue_tag": "welcomed-event-meeting",
       "answer": "invited",
       "answer_letters": "INVITED",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Indelible ink design.",
+      "clue_tag": "indelible-ink-design",
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "Become more complex",
+      "clue_tag": "become-more-complex",
       "answer": "evolve",
       "answer_letters": "EVOLVE",
       "indices": [

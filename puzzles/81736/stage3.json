@@ -5,7 +5,7 @@
   "source_letters": "MUTANTENEMYJOSSWHEDON",
   "clues": [
     {
-      "clue": "Can't be seen with the naked eye.",
+      "clue_tag": "cant-be-seen",
       "answer": "microscopic",
       "answer_letters": "MICROSCOPIC",
       "indices": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "clue": "High-spirited music.",
+      "clue_tag": "highspirited-music",
       "answer": "upbeat",
       "answer_letters": "UPBEAT",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Book series by Stephenie Meyer",
+      "clue_tag": "book-series-stephenie",
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Garments and accessories combined.",
+      "clue_tag": "garments-accessories-combined",
       "answer": "attire",
       "answer_letters": "ATTIRE",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "It's another name for Japan.",
+      "clue_tag": "another-name-japan",
       "answer": "nippon",
       "answer_letters": "NIPPON",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Genre that keeps you on the edge of your seat.",
+      "clue_tag": "genre-keeps-you",
       "answer": "thriller",
       "answer_letters": "THRILLER",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Candidates for a competition.",
+      "clue_tag": "candidates-competition",
       "answer": "entrants",
       "answer_letters": "ENTRANTS",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "Surname associated with Chuck, an actor and martial artist.",
+      "clue_tag": "surname-associated-chuck",
       "answer": "norris",
       "answer_letters": "NORRIS",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "First name of a pioneer in nuclear research",
+      "clue_tag": "first-name-pioneer",
       "answer": "enrico",
       "answer_letters": "ENRICO",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Scottish surname meaning 'son of Low'.",
+      "clue_tag": "scottish-surname-meaning",
       "answer": "mcleod",
       "answer_letters": "MCLEOD",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "A biblical figure who led Israel into the Promised Land.",
+      "clue_tag": "biblical-figure-led",
       "answer": "joshua",
       "answer_letters": "JOSHUA",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Span of eight musical notes.",
+      "clue_tag": "span-eight-musical",
       "answer": "octave",
       "answer_letters": "OCTAVE",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Made a switch.",
+      "clue_tag": "made-switch",
       "answer": "swapped",
       "answer_letters": "SWAPPED",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Type of motorcycle brand.",
+      "clue_tag": "type-motorcycle-brand",
       "answer": "suzuki",
       "answer_letters": "SUZUKI",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "It's often sipped neat.",
+      "clue_tag": "often-sipped-neat",
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Potential pitfall.",
+      "clue_tag": "potential-pitfall",
       "answer": "hazard",
       "answer_letters": "HAZARD",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Votes for a representative",
+      "clue_tag": "votes-representative",
       "answer": "elects",
       "answer_letters": "ELECTS",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "He works with drills and fillings.",
+      "clue_tag": "he-works-drills",
       "answer": "dentist",
       "answer_letters": "DENTIST",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Improved for efficiency.",
+      "clue_tag": "improved-efficiency",
       "answer": "optimized",
       "answer_letters": "OPTIMIZED",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "Failing to care for properly.",
+      "clue_tag": "failing-care-properly",
       "answer": "neglect",
       "answer_letters": "NEGLECT",
       "indices": [

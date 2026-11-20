@@ -5,7 +5,7 @@
   "source_letters": "LEECHILDAWANTEDMAN",
   "clues": [
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Required for operation.",
+      "clue_tag": "required-operation",
       "answer": "essential",
       "answer_letters": "ESSENTIAL",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Not so anymore; previously.",
+      "clue_tag": "not-so-anymore",
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "clue": "Nation dissolved in the early 1990s.",
+      "clue_tag": "nation-dissolved-early",
       "answer": "czechoslovakia",
       "answer_letters": "CZECHOSLOVAKIA",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Overcome with dread",
+      "clue_tag": "overcome-dread",
       "answer": "horrified",
       "answer_letters": "HORRIFIED",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Procedure to charge a public official with wrongdoing.",
+      "clue_tag": "procedure-charge-public",
       "answer": "impeachment",
       "answer_letters": "IMPEACHMENT",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "A no-no in sports ethics.",
+      "clue_tag": "nono-sports-ethics",
       "answer": "doping",
       "answer_letters": "DOPING",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "Can purchase within means.",
+      "clue_tag": "can-purchase-within",
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Essence of coziness.",
+      "clue_tag": "essence-coziness",
       "answer": "warmth",
       "answer_letters": "WARMTH",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Knitting with diagonal stripes.",
+      "clue_tag": "knitting-diagonal-stripes",
       "answer": "argyle",
       "answer_letters": "ARGYLE",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Perpetrators of attacks.",
+      "clue_tag": "perpetrators-attacks",
       "answer": "terrorists",
       "answer_letters": "TERRORISTS",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Has a liking for",
+      "clue_tag": "has-liking",
       "answer": "enjoys",
       "answer_letters": "ENJOYS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "In materials science, it refers to the intermingling of atoms within solids.",
+      "clue_tag": "materials-science-refers",
       "answer": "diffusion",
       "answer_letters": "DIFFUSION",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Interval for subscription renewals.",
+      "clue_tag": "interval-subscription-renewals",
       "answer": "monthly",
       "answer_letters": "MONTHLY",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "A member of royalty, especially within the Habsburg lineage.",
+      "clue_tag": "member-royalty-especially",
       "answer": "archduke",
       "answer_letters": "ARCHDUKE",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [

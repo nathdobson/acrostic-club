@@ -5,7 +5,7 @@
   "source_letters": "MARCELPROUSTSWANNSWAY",
   "clues": [
     {
-      "clue": "Many, many people.",
+      "clue_tag": "many-many-people",
       "answer": "multitude",
       "answer_letters": "MULTITUDE",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "High pH level.",
+      "clue_tag": "high-ph-level",
       "answer": "alkaline",
       "answer_letters": "ALKALINE",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Basic military unit.",
+      "clue_tag": "basic-military-unit",
       "answer": "regiment",
       "answer_letters": "REGIMENT",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Circumspect.",
+      "clue_tag": "circumspect",
       "answer": "cautious",
       "answer_letters": "CAUTIOUS",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "Pertaining to morals.",
+      "clue_tag": "pertaining-morals",
       "answer": "ethical",
       "answer_letters": "ETHICAL",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "An officer just below captain in military ranking.",
+      "clue_tag": "officer-just-below",
       "answer": "lieutenant",
       "answer_letters": "LIEUTENANT",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "French for palace",
+      "clue_tag": "french-palace",
       "answer": "palais",
       "answer_letters": "PALAIS",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": "Legally confirmed and endorsed an agreement",
+      "clue_tag": "legally-confirmed-endorsed",
       "answer": "ratified",
       "answer_letters": "RATIFIED",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Bank compensation in carbon accounting.",
+      "clue_tag": "bank-compensation-carbon",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue": "Essential services for modern life.",
+      "clue_tag": "essential-services-modern",
       "answer": "utilities",
       "answer_letters": "UTILITIES",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "A hardball sport played indoors with a rubber ball.",
+      "clue_tag": "hardball-sport-played",
       "answer": "squash",
       "answer_letters": "SQUASH",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
+      "clue_tag": "despite-what-was",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Ottoman title for 'the powerful'.",
+      "clue_tag": "ottoman-title-powerful",
       "answer": "sultan",
       "answer_letters": "SULTAN",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "A diminutive form of William.",
+      "clue_tag": "diminutive-form-william",
       "answer": "willie",
       "answer_letters": "WILLIE",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Increases audio signal strength.",
+      "clue_tag": "increases-audio-signal",
       "answer": "amplifier",
       "answer_letters": "AMPLIFIER",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Person without a name.",
+      "clue_tag": "person-without-name",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "A beginner.",
+      "clue_tag": "beginner",
       "answer": "novice",
       "answer_letters": "NOVICE",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "A classical music work in multiple movements.",
+      "clue_tag": "classical-music-work",
       "answer": "symphony",
       "answer_letters": "SYMPHONY",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "It's home to Hughenden Manor.",
+      "clue_tag": "home-hughenden-manor",
       "answer": "wycombe",
       "answer_letters": "WYCOMBE",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Adolf and Adolfus are variants of his first name.",
+      "clue_tag": "adolf-adolfus-are",
       "answer": "adolph",
       "answer_letters": "ADOLPH",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Happens once every twelve months.",
+      "clue_tag": "happens-once-every",
       "answer": "yearly",
       "answer_letters": "YEARLY",
       "indices": [

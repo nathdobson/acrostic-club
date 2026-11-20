@@ -5,7 +5,7 @@
   "source_letters": "KARINAHALLEDARKHOUSE",
   "clues": [
     {
-      "clue": "Arabic term for 'successor'.",
+      "clue_tag": "arabic-term-successor",
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Draws in or pulls toward something",
+      "clue_tag": "draws-pulls-toward",
       "answer": "attracts",
       "answer_letters": "ATTRACTS",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "A new version of an existing show.",
+      "clue_tag": "new-version-existing",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Organized groups, such as schools or banks.",
+      "clue_tag": "organized-groups-such",
       "answer": "institutions",
       "answer_letters": "INSTITUTIONS",
       "indices": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "clue": "Eastern England city with a cathedral.",
+      "clue_tag": "eastern-england-city",
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Place known for opium production contributing to illicit trade.",
+      "clue_tag": "place-known-opium",
       "answer": "afghanistan",
       "answer_letters": "AFGHANISTAN",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Sport that features a rink and nets.",
+      "clue_tag": "sport-features-rink",
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "A name synonymous with British comedy.",
+      "clue_tag": "name-synonymous-british",
       "answer": "atkinson",
       "answer_letters": "ATKINSON",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Co-founder of General Motors.",
+      "clue_tag": "cofounder-general-motors",
       "answer": "leland",
       "answer_letters": "LELAND",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "As many as necessary.",
+      "clue_tag": "many-necessary",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Location where skyscrapers often rise.",
+      "clue_tag": "location-where-skyscrapers",
       "answer": "downtown",
       "answer_letters": "DOWNTOWN",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Verified through evidence",
+      "clue_tag": "verified-through-evidence",
       "answer": "attested",
       "answer_letters": "ATTESTED",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "He had a key role during the Boer War.",
+      "clue_tag": "he-had-key",
       "answer": "kitchener",
       "answer_letters": "KITCHENER",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Not ill or sickly.",
+      "clue_tag": "not-ill-sickly",
       "answer": "healthy",
       "answer_letters": "HEALTHY",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "The movement of molten lava from a volcano.",
+      "clue_tag": "movement-molten-lava",
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Citizen of a country known for its mountain gorillas.",
+      "clue_tag": "citizen-country-known",
       "answer": "ugandan",
       "answer_letters": "UGANDAN",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Fit or appropriate for certain conditions or requirements.",
+      "clue_tag": "fit-appropriate-certain",
       "answer": "suitable",
       "answer_letters": "SUITABLE",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Character who betrays his siblings to the White Witch",
+      "clue_tag": "character-betrays-his",
       "answer": "edmund",
       "answer_letters": "EDMUND",
       "indices": [

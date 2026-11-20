@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDATLASSHRUGGED",
   "clues": [
     {
-      "clue": "Technological breakthroughs.",
+      "clue_tag": "technological-breakthroughs",
       "answer": "advances",
       "answer_letters": "ADVANCES",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Olden port city in England.",
+      "clue_tag": "olden-port-city",
       "answer": "yarmouth",
       "answer_letters": "YARMOUTH",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "To be aware of; see something clearly.",
+      "clue_tag": "be-aware-see",
       "answer": "notice",
       "answer_letters": "NOTICE",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "A new version of an existing show.",
+      "clue_tag": "new-version-existing",
       "answer": "reboot",
       "answer_letters": "REBOOT",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "First part of Christmas.",
+      "clue_tag": "first-part-christmas",
       "answer": "advent",
       "answer_letters": "ADVENT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "He starred as Henry in 'Road to Perdition'.",
+      "clue_tag": "he-starred-henry",
       "answer": "newman",
       "answer_letters": "NEWMAN",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Spoke for and against propositions.",
+      "clue_tag": "spoke-against-propositions",
       "answer": "debated",
       "answer_letters": "DEBATED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Unsure or hesitant in approach.",
+      "clue_tag": "unsure-hesitant-approach",
       "answer": "tentative",
       "answer_letters": "TENTATIVE",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Despite that fact.",
+      "clue_tag": "despite-fact",
       "answer": "albeit",
       "answer_letters": "ALBEIT",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "A far away or unknown location",
+      "clue_tag": "far-away-unknown",
       "answer": "somewhere",
       "answer_letters": "SOMEWHERE",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Words with similar meanings.",
+      "clue_tag": "words-similar-meanings",
       "answer": "synonyms",
       "answer_letters": "SYNONYMS",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Pacific paradise.",
+      "clue_tag": "pacific-paradise",
       "answer": "hawaii",
       "answer_letters": "HAWAII",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Make something again popular",
+      "clue_tag": "make-something-again",
       "answer": "revive",
       "answer_letters": "REVIVE",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Sustain or maintain.",
+      "clue_tag": "sustain-maintain",
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Messages etched on walls.",
+      "clue_tag": "messages-etched-walls",
       "answer": "graffiti",
       "answer_letters": "GRAFFITI",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Slang for an urban slum area.",
+      "clue_tag": "slang-urban-slum",
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Theory proposed by Darwin.",
+      "clue_tag": "theory-proposed-darwin",
       "answer": "evolution",
       "answer_letters": "EVOLUTION",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Acts of giving benefiting others.",
+      "clue_tag": "acts-giving-benefiting",
       "answer": "donations",
       "answer_letters": "DONATIONS",
       "indices": [

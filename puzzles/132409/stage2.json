@@ -5,7 +5,7 @@
   "source_letters": "KATHLEENWINTERANNABEL",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "kelley",
       "answer_letters": "KELLEY",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "attain",
       "answer_letters": "ATTAIN",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hiding",
       "answer_letters": "HIDING",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "eastwards",
       "answer_letters": "EASTWARDS",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "engineers",
       "answer_letters": "ENGINEERS",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "awards",
       "answer_letters": "AWARDS",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "northwards",
       "answer_letters": "NORTHWARDS",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "assistants",
       "answer_letters": "ASSISTANTS",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "brahma",
       "answer_letters": "BRAHMA",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "exodus",
       "answer_letters": "EXODUS",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "leftist",
       "answer_letters": "LEFTIST",
       "indices": [

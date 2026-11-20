@@ -5,7 +5,7 @@
   "source_letters": "RAINBOWROWELLFANGIRL",
   "clues": [
     {
-      "clue": "Job or service continuation by employees or clients.",
+      "clue_tag": "job-service-continuation",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Lawyers by another name.",
+      "clue_tag": "lawyers-another-name",
       "answer": "attorneys",
       "answer_letters": "ATTORNEYS",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Jailhouse residents.",
+      "clue_tag": "jailhouse-residents",
       "answer": "inmates",
       "answer_letters": "INMATES",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Verb describing what happens to a guillotined person.",
+      "clue_tag": "verb-describing-what",
       "answer": "beheaded",
       "answer_letters": "BEHEADED",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Possesses rank within an organization.",
+      "clue_tag": "possesses-rank-within",
       "answer": "officer",
       "answer_letters": "OFFICER",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "What Salem was known for in colonial days.",
+      "clue_tag": "what-salem-was",
       "answer": "witches",
       "answer_letters": "WITCHES",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue": "Comparisons such as 3:1 or 4:5 are common expressions.",
+      "clue_tag": "comparisons-such-31",
       "answer": "ratios",
       "answer_letters": "RATIOS",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Broad examination without detail.",
+      "clue_tag": "broad-examination-without",
       "answer": "overview",
       "answer_letters": "OVERVIEW",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Shakespearean synonym for prudence.",
+      "clue_tag": "shakespearean-synonym-prudence",
       "answer": "wisdom",
       "answer_letters": "WISDOM",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Become more complex",
+      "clue_tag": "become-more-complex",
       "answer": "evolve",
       "answer_letters": "EVOLVE",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Home of Bach, Mendelssohn, and Wagner.",
+      "clue_tag": "home-bach-mendelssohn",
       "answer": "leipzig",
       "answer_letters": "LEIPZIG",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "\"The Society Dance King\"  ____ Lanin",
+      "clue_tag": "society-dance-king",
       "answer": "lester",
       "answer_letters": "LESTER",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Number one in importance or rank.",
+      "clue_tag": "number-one-importance",
       "answer": "foremost",
       "answer_letters": "FOREMOST",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Something else.",
+      "clue_tag": "something-else",
       "answer": "another",
       "answer_letters": "ANOTHER",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Enforce or apply (something)",
+      "clue_tag": "enforce-apply-something",
       "answer": "impose",
       "answer_letters": "IMPOSE",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Archive or collection of things.",
+      "clue_tag": "archive-collection-things",
       "answer": "repository",
       "answer_letters": "REPOSITORY",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "clue_tag": "often-requires-chemotherapy",
       "answer": "lymphoma",
       "answer_letters": "LYMPHOMA",
       "indices": [

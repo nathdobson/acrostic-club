@@ -5,7 +5,7 @@
   "source_letters": "PHILIPDUKEOFEDINBURGH",
   "clues": [
     {
-      "clue": "A set of printed material bound together.",
+      "clue_tag": "set-printed-material",
       "answer": "portfolio",
       "answer_letters": "PORTFOLIO",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Last name of a famous rabbi and scholar.",
+      "clue_tag": "last-name-famous",
       "answer": "hirsch",
       "answer_letters": "HIRSCH",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Complex, as a piece of artwork.",
+      "clue_tag": "complex-piece-artwork",
       "answer": "intricate",
       "answer_letters": "INTRICATE",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Find a place or position",
+      "clue_tag": "find-place-position",
       "answer": "locate",
       "answer_letters": "LOCATE",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "System of spelling by sound.",
+      "clue_tag": "system-spelling-sound",
       "answer": "phonetic",
       "answer_letters": "PHONETIC",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Gave instructions orally, typically from a position of authority",
+      "clue_tag": "gave-instructions-orally",
       "answer": "dictated",
       "answer_letters": "DICTATED",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Illicit or illegal.",
+      "clue_tag": "illicit-illegal",
       "answer": "unlawful",
       "answer_letters": "UNLAWFUL",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Input device for typing text.",
+      "clue_tag": "input-device-typing",
       "answer": "keyboard",
       "answer_letters": "KEYBOARD",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Era known for its warm global temperatures and diverse mammalian life.",
+      "clue_tag": "era-known-warm",
       "answer": "eocene",
       "answer_letters": "EOCENE",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Prophecy giver at Delphi.",
+      "clue_tag": "prophecy-giver-delphi",
       "answer": "oracle",
       "answer_letters": "ORACLE",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Echo in electronics.",
+      "clue_tag": "echo-electronics",
       "answer": "feedback",
       "answer_letters": "FEEDBACK",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Worn away by natural forces.",
+      "clue_tag": "worn-away-natural",
       "answer": "eroded",
       "answer_letters": "ERODED",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Formerly known as Stalino.",
+      "clue_tag": "formerly-known-stalino",
       "answer": "donetsk",
       "answer_letters": "DONETSK",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Snoop around for answers.",
+      "clue_tag": "snoop-around-answers",
       "answer": "investigate",
       "answer_letters": "INVESTIGATE",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Eastern England city with a cathedral.",
+      "clue_tag": "eastern-england-city",
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "To refrain from using or dealing with someone or something.",
+      "clue_tag": "refrain-using-dealing",
       "answer": "boycott",
       "answer_letters": "BOYCOTT",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Historic Arab dynasty.",
+      "clue_tag": "historic-arab-dynasty",
       "answer": "umayyad",
       "answer_letters": "UMAYYAD",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "Comparisons such as 3:1 or 4:5 are common expressions.",
+      "clue_tag": "comparisons-such-31",
       "answer": "ratios",
       "answer_letters": "RATIOS",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Characteristic of a peaked roof.",
+      "clue_tag": "characteristic-peaked-roof",
       "answer": "gabled",
       "answer_letters": "GABLED",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Serving food and refreshments at gatherings.",
+      "clue_tag": "serving-food-refreshments",
       "answer": "hosting",
       "answer_letters": "HOSTING",
       "indices": [

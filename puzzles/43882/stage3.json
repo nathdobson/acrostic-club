@@ -5,7 +5,7 @@
   "source_letters": "ANNASEWELLBLACKBEAUTY",
   "clues": [
     {
-      "clue": "Giving recommendations for actions leading to improvement.",
+      "clue_tag": "giving-recommendations-actions",
       "answer": "advising",
       "answer_letters": "ADVISING",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Person without a name.",
+      "clue_tag": "person-without-name",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Writing system for music.",
+      "clue_tag": "writing-system-music",
       "answer": "notation",
       "answer_letters": "NOTATION",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "A member of royalty, especially within the Habsburg lineage.",
+      "clue_tag": "member-royalty-especially",
       "answer": "archduke",
       "answer_letters": "ARCHDUKE",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Site of Pike Place Market.",
+      "clue_tag": "site-pike-place",
       "answer": "seattle",
       "answer_letters": "SEATTLE",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Highly skilled and influential members of society.",
+      "clue_tag": "highly-skilled-influential",
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Pioneer associated with Group f/64.",
+      "clue_tag": "pioneer-associated-group",
       "answer": "weston",
       "answer_letters": "WESTON",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Rome’s expansive domain.",
+      "clue_tag": "romes-expansive-domain",
       "answer": "empire",
       "answer_letters": "EMPIRE",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Luminaries for the stage.",
+      "clue_tag": "luminaries-stage",
       "answer": "lights",
       "answer_letters": "LIGHTS",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "\"Good Wives,\", and \"Jo's Boys.\"",
+      "clue_tag": "good-wives-jos",
       "answer": "louisa",
       "answer_letters": "LOUISA",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "A small, round object used for fastening clothing.",
+      "clue_tag": "small-round-object",
       "answer": "button",
       "answer_letters": "BUTTON",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "What follows a battle or conflict.",
+      "clue_tag": "what-follows-battle",
       "answer": "aftermath",
       "answer_letters": "AFTERMATH",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "A place named after an 18th-century British statesman.",
+      "clue_tag": "place-named-after",
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Abduction with the intent of illegal confinement.",
+      "clue_tag": "abduction-intent-illegal",
       "answer": "kidnap",
       "answer_letters": "KIDNAP",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Vessel for liquid.",
+      "clue_tag": "vessel-liquid",
       "answer": "bottle",
       "answer_letters": "BOTTLE",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Gave physical presence to an idea.",
+      "clue_tag": "gave-physical-presence",
       "answer": "embodied",
       "answer_letters": "EMBODIED",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "High-flying view.",
+      "clue_tag": "highflying-view",
       "answer": "aerial",
       "answer_letters": "AERIAL",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Workplace collectives.",
+      "clue_tag": "workplace-collectives",
       "answer": "unions",
       "answer_letters": "UNIONS",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "A British colloquialism for bathroom.",
+      "clue_tag": "british-colloquialism-bathroom",
       "answer": "toilet",
       "answer_letters": "TOILET",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [

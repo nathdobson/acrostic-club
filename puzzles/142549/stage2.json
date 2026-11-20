@@ -5,7 +5,7 @@
   "source_letters": "IRISBLAIREDARKFRAME",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rushing",
       "answer_letters": "RUSHING",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "saxophonist",
       "answer_letters": "SAXOPHONIST",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lockheed",
       "answer_letters": "LOCKHEED",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "alexei",
       "answer_letters": "ALEXEI",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "isolated",
       "answer_letters": "ISOLATED",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "revived",
       "answer_letters": "REVIVED",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dispatch",
       "answer_letters": "DISPATCH",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "retaliation",
       "answer_letters": "RETALIATION",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "flashes",
       "answer_letters": "FLASHES",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "railways",
       "answer_letters": "RAILWAYS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "actual",
       "answer_letters": "ACTUAL",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [

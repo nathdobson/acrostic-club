@@ -5,7 +5,7 @@
   "source_letters": "AFSTEWARTRUINEDCITY",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "automatic",
       "answer_letters": "AUTOMATIC",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "figure",
       "answer_letters": "FIGURE",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "schumacher",
       "answer_letters": "SCHUMACHER",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "topeka",
       "answer_letters": "TOPEKA",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "weighing",
       "answer_letters": "WEIGHING",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "attains",
       "answer_letters": "ATTAINS",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "richmond",
       "answer_letters": "RICHMOND",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "tourists",
       "answer_letters": "TOURISTS",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "revamped",
       "answer_letters": "REVAMPED",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "useless",
       "answer_letters": "USELESS",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "impulse",
       "answer_letters": "IMPULSE",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nationality",
       "answer_letters": "NATIONALITY",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emulate",
       "answer_letters": "EMULATE",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dictator",
       "answer_letters": "DICTATOR",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "combining",
       "answer_letters": "COMBINING",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ideals",
       "answer_letters": "IDEALS",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thorough",
       "answer_letters": "THOROUGH",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "young's",
       "answer_letters": "YOUNGS",
       "indices": [

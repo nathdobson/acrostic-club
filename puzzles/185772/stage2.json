@@ -5,7 +5,7 @@
   "source_letters": "ABBIGLINESNEVERTOOFAR",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anywhere",
       "answer_letters": "ANYWHERE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bentley",
       "answer_letters": "BENTLEY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "bounty",
       "answer_letters": "BOUNTY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "injection",
       "answer_letters": "INJECTION",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "genuine",
       "answer_letters": "GENUINE",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lining",
       "answer_letters": "LINING",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nothing",
       "answer_letters": "NOTHING",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "simone",
       "answer_letters": "SIMONE",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nevada",
       "answer_letters": "NEVADA",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "vacancy",
       "answer_letters": "VACANCY",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "essays",
       "answer_letters": "ESSAYS",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "reunion",
       "answer_letters": "REUNION",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "tuition",
       "answer_letters": "TUITION",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "orkney",
       "answer_letters": "ORKNEY",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "flight",
       "answer_letters": "FLIGHT",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "authentic",
       "answer_letters": "AUTHENTIC",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rocket",
       "answer_letters": "ROCKET",
       "indices": [

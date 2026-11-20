@@ -5,7 +5,7 @@
   "source_letters": "RAINBOWROWELLFANGIRL",
   "clues": [
     {
-      "clue": "A law was revoked.",
+      "clue_tag": "law-was-revoked",
       "answer": "repealed",
       "answer_letters": "REPEALED",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Go beyond surface level",
+      "clue_tag": "go-beyond-surface",
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Worth mentioning or recording.",
+      "clue_tag": "worth-mentioning-recording",
       "answer": "notable",
       "answer_letters": "NOTABLE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Corporeal forms (9)",
+      "clue_tag": "corporeal-forms-9",
       "answer": "bodies",
       "answer_letters": "BODIES",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Moment to advance one's position or improve conditions.",
+      "clue_tag": "moment-advance-ones",
       "answer": "opportunity",
       "answer_letters": "OPPORTUNITY",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Transportation's fundamental component.",
+      "clue_tag": "transportations-fundamental-component",
       "answer": "wheels",
       "answer_letters": "WHEELS",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Famous for leading Santa's sleigh on foggy nights.",
+      "clue_tag": "famous-leading-santas",
       "answer": "rudolph",
       "answer_letters": "RUDOLPH",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "As many as sixty minutes.",
+      "clue_tag": "many-sixty-minutes",
       "answer": "one-hour",
       "answer_letters": "ONEHOUR",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Co-founded by Henry Durant, a Unitarian minister.",
+      "clue_tag": "cofounded-henry-durant",
       "answer": "wellesley",
       "answer_letters": "WELLESLEY",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Feather-touch approach.",
+      "clue_tag": "feathertouch-approach",
       "answer": "lightly",
       "answer_letters": "LIGHTLY",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue": "Identified or tagged.",
+      "clue_tag": "identified-tagged",
       "answer": "labeled",
       "answer_letters": "LABELED",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Precisely tailored to size or purpose.",
+      "clue_tag": "precisely-tailored-size",
       "answer": "fitted",
       "answer_letters": "FITTED",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Join or connect something to another object",
+      "clue_tag": "join-connect-something",
       "answer": "attach",
       "answer_letters": "ATTACH",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "An act of conveying meaning without words.",
+      "clue_tag": "act-conveying-meaning",
       "answer": "gesture",
       "answer_letters": "GESTURE",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Lacking potency or force.",
+      "clue_tag": "lacking-potency-force",
       "answer": "ineffective",
       "answer_letters": "INEFFECTIVE",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Birthplace of the Co-operative movement.",
+      "clue_tag": "birthplace-cooperative-movement",
       "answer": "rochdale",
       "answer_letters": "ROCHDALE",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Luminaries for the stage.",
+      "clue_tag": "luminaries-stage",
       "answer": "lights",
       "answer_letters": "LIGHTS",
       "indices": [

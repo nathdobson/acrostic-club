@@ -5,7 +5,7 @@
   "source_letters": "REBECCADONOVANWHATIF",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rolled",
       "answer_letters": "ROLLED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "entirety",
       "answer_letters": "ENTIRETY",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "between",
       "answer_letters": "BETWEEN",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "cellist",
       "answer_letters": "CELLIST",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "christoph",
       "answer_letters": "CHRISTOPH",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anywhere",
       "answer_letters": "ANYWHERE",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "denote",
       "answer_letters": "DENOTE",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "o'donnell",
       "answer_letters": "ODONNELL",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "o'neill",
       "answer_letters": "ONEILL",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "viking",
       "answer_letters": "VIKING",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "awkward",
       "answer_letters": "AWKWARD",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "whitehead",
       "answer_letters": "WHITEHEAD",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "highly",
       "answer_letters": "HIGHLY",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "adjustments",
       "answer_letters": "ADJUSTMENTS",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "throws",
       "answer_letters": "THROWS",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "inhabits",
       "answer_letters": "INHABITS",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "fairfax",
       "answer_letters": "FAIRFAX",
       "indices": [

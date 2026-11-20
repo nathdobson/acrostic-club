@@ -5,7 +5,7 @@
   "source_letters": "DEREKLANDYDEATHBRINGER",
   "clues": [
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Sounds that bounce back.",
+      "clue_tag": "sounds-bounce-back",
       "answer": "echoes",
       "answer_letters": "ECHOES",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Nickname of a New York Yankee slugger who had 563 career home runs.",
+      "clue_tag": "nickname-new-york",
       "answer": "reggie",
       "answer_letters": "REGGIE",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Transport system in a building.",
+      "clue_tag": "transport-system-building",
       "answer": "elevators",
       "answer_letters": "ELEVATORS",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Arabic term for 'successor'.",
+      "clue_tag": "arabic-term-successor",
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Age from infancy to demise.",
+      "clue_tag": "age-infancy-demise",
       "answer": "lifetime",
       "answer_letters": "LIFETIME",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Cease support for something",
+      "clue_tag": "cease-support-something",
       "answer": "abandon",
       "answer_letters": "ABANDON",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Streaming service giant.",
+      "clue_tag": "streaming-service-giant",
       "answer": "netflix",
       "answer_letters": "NETFLIX",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Minnesotan port city near Lakes Superior and Superior.",
+      "clue_tag": "minnesotan-port-city",
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Normal operations.",
+      "clue_tag": "normal-operations",
       "answer": "day-to-day",
       "answer_letters": "DAYTODAY",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Withdraw swiftly in an emergency.",
+      "clue_tag": "withdraw-swiftly-emergency",
       "answer": "evacuate",
       "answer_letters": "EVACUATE",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Open-source web server software",
+      "clue_tag": "opensource-web-server",
       "answer": "apache",
       "answer_letters": "APACHE",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Proposition subject to testing and validation.",
+      "clue_tag": "proposition-subject-testing",
       "answer": "theory",
       "answer_letters": "THEORY",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Emptiness inside.",
+      "clue_tag": "emptiness-inside",
       "answer": "hollow",
       "answer_letters": "HOLLOW",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "A common volcanic rock.",
+      "clue_tag": "common-volcanic-rock",
       "answer": "basalt",
       "answer_letters": "BASALT",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Accompanied by a beat",
+      "clue_tag": "accompanied-beat",
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Tribe of the Southwest U.S.",
+      "clue_tag": "tribe-southwest-us",
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Business expansion or development.",
+      "clue_tag": "business-expansion-development",
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Facilitate the operation of something",
+      "clue_tag": "facilitate-operation-something",
       "answer": "enable",
       "answer_letters": "ENABLE",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Repetitive patterns in music or movement.",
+      "clue_tag": "repetitive-patterns-music",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [

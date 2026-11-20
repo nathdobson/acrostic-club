@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "Apple phenomenon studied by Newton.",
+      "clue_tag": "apple-phenomenon-studied",
       "answer": "gravity",
       "answer_letters": "GRAVITY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Brother to George III",
+      "clue_tag": "brother-george-iii",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Places where one can purchase goods or services.",
+      "clue_tag": "places-where-one",
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Make something again popular",
+      "clue_tag": "make-something-again",
       "answer": "revive",
       "answer_letters": "REVIVE",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "In most cases or situations.",
+      "clue_tag": "most-cases-situations",
       "answer": "generally",
       "answer_letters": "GENERALLY",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "President Obama's former Chief of Staff",
+      "clue_tag": "president-obamas-former",
       "answer": "emanuel",
       "answer_letters": "EMANUEL",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Organism that thrives without soil.",
+      "clue_tag": "organism-thrives-without",
       "answer": "lichen",
       "answer_letters": "LICHEN",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Different, if not.",
+      "clue_tag": "different-if-not",
       "answer": "otherwise",
       "answer_letters": "OTHERWISE",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Houston-based gridiron club.",
+      "clue_tag": "houstonbased-gridiron-club",
       "answer": "texans",
       "answer_letters": "TEXANS",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "'Anything that can go wrong, will...' is named after him.",
+      "clue_tag": "anything-can-go",
       "answer": "murphy",
       "answer_letters": "MURPHY",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "River flowing through Vienna.",
+      "clue_tag": "river-flowing-through",
       "answer": "danube",
       "answer_letters": "DANUBE",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Profound layers.",
+      "clue_tag": "profound-layers",
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Legal dispute filed in court",
+      "clue_tag": "legal-dispute-filed",
       "answer": "lawsuit",
       "answer_letters": "LAWSUIT",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Synonym for moniker.",
+      "clue_tag": "synonym-moniker",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
+      "clue_tag": "author-flatland-novella",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "1989-1990 process that brought East and West together.",
+      "clue_tag": "19891990-process-brought",
       "answer": "reunification",
       "answer_letters": "REUNIFICATION",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "1929 film actress and singer.",
+      "clue_tag": "1929-film-actress",
       "answer": "crawford",
       "answer_letters": "CRAWFORD",
       "indices": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "clue": "Received with honor or celebration",
+      "clue_tag": "received-honor-celebration",
       "answer": "hailed",
       "answer_letters": "HAILED",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue": "Type of mask from the Carnival.",
+      "clue_tag": "type-mask-carnival",
       "answer": "venetian",
       "answer_letters": "VENETIAN",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Baked into something.",
+      "clue_tag": "baked-into-something",
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "No longer in position or status.",
+      "clue_tag": "no-longer-position",
       "answer": "removed",
       "answer_letters": "REMOVED",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Famed Spanish essayist and poet.",
+      "clue_tag": "famed-spanish-essayist",
       "answer": "ortega",
       "answer_letters": "ORTEGA",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Not qualified for a position, especially due to legal reasons",
+      "clue_tag": "not-qualified-position",
       "answer": "ineligible",
       "answer_letters": "INELIGIBLE",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Worked under the patronage of Ludovico Sforza",
+      "clue_tag": "worked-under-patronage",
       "answer": "cesare",
       "answer_letters": "CESARE",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "A state of disorder due to absence of authority.",
+      "clue_tag": "state-disorder-due",
       "answer": "anarchy",
       "answer_letters": "ANARCHY",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Likely to resist control.",
+      "clue_tag": "likely-resist-control",
       "answer": "rebellious",
       "answer_letters": "REBELLIOUS",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Global water bodies in five parts.",
+      "clue_tag": "global-water-bodies",
       "answer": "oceans",
       "answer_letters": "OCEANS",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Noteworthy court proceedings, famously held in Nuremberg.",
+      "clue_tag": "noteworthy-court-proceedings",
       "answer": "trials",
       "answer_letters": "TRIALS",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Real estate is the business of selling them, right?",
+      "clue_tag": "real-estate-business",
       "answer": "houses",
       "answer_letters": "HOUSES",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "The act of going up, particularly to God's realm.",
+      "clue_tag": "act-going-up",
       "answer": "ascension",
       "answer_letters": "ASCENSION",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "\"Good Wives,\", and \"Jo's Boys.\"",
+      "clue_tag": "good-wives-jos",
       "answer": "louisa",
       "answer_letters": "LOUISA",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Fashion collections for coordinated outfits.",
+      "clue_tag": "fashion-collections-coordinated",
       "answer": "ensembles",
       "answer_letters": "ENSEMBLES",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Developing a taste for it.",
+      "clue_tag": "developing-taste",
       "answer": "getting",
       "answer_letters": "GETTING",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Collections of music tracks.",
+      "clue_tag": "collections-music-tracks",
       "answer": "albums",
       "answer_letters": "ALBUMS",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue": "City whose football team is nicknamed the Magpies",
+      "clue_tag": "city-whose-football",
       "answer": "newcastle",
       "answer_letters": "NEWCASTLE",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [

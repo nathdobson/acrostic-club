@@ -5,7 +5,7 @@
   "source_letters": "FTMCKINSTRYCROWHARROW",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "follow-up",
       "answer_letters": "FOLLOWUP",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "torneo",
       "answer_letters": "TORNEO",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "magdeburg",
       "answer_letters": "MAGDEBURG",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "chiefs",
       "answer_letters": "CHIEFS",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "kilometre",
       "answer_letters": "KILOMETRE",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "iberia",
       "answer_letters": "IBERIA",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stephen",
       "answer_letters": "STEPHEN",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "teenage",
       "answer_letters": "TEENAGE",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "random",
       "answer_letters": "RANDOM",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yvonne",
       "answer_letters": "YVONNE",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "citizen",
       "answer_letters": "CITIZEN",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "review",
       "answer_letters": "REVIEW",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "overlooks",
       "answer_letters": "OVERLOOKS",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "wisdom",
       "answer_letters": "WISDOM",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "handed",
       "answer_letters": "HANDED",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "agenda",
       "answer_letters": "AGENDA",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rested",
       "answer_letters": "RESTED",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "orphanage",
       "answer_letters": "ORPHANAGE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "welles",
       "answer_letters": "WELLES",
       "indices": [

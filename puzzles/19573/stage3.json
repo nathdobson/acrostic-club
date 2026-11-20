@@ -5,7 +5,7 @@
   "source_letters": "JOSESARAMAGOTHECAVE",
   "clues": [
     {
-      "clue": "Film critic Lyons",
+      "clue_tag": "film-critic-lyons",
       "answer": "jeffrey",
       "answer_letters": "JEFFREY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Includes lenses, mirrors, and prisms.",
+      "clue_tag": "includes-lenses-mirrors",
       "answer": "optics",
       "answer_letters": "OPTICS",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Intelligent students.",
+      "clue_tag": "intelligent-students",
       "answer": "scholars",
       "answer_letters": "SCHOLARS",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Gave special prominence to.",
+      "clue_tag": "gave-special-prominence",
       "answer": "emphasized",
       "answer_letters": "EMPHASIZED",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Art form often passed down orally.",
+      "clue_tag": "art-form-often",
       "answer": "storytelling",
       "answer_letters": "STORYTELLING",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "Double monarchy prior to WWI.",
+      "clue_tag": "double-monarchy-prior",
       "answer": "austro-hungarian",
       "answer_letters": "AUSTROHUNGARIAN",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "A form of entertainment where participants improvise characters' actions.",
+      "clue_tag": "form-entertainment-where",
       "answer": "role-playing",
       "answer_letters": "ROLEPLAYING",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "The land down under.",
+      "clue_tag": "land-down-under",
       "answer": "australia",
       "answer_letters": "AUSTRALIA",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Cosmetics used in theater and film to create character looks.",
+      "clue_tag": "cosmetics-used-theater",
       "answer": "makeup",
       "answer_letters": "MAKEUP",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Airman's profession, especially during wartime.",
+      "clue_tag": "airmans-profession-especially",
       "answer": "aviator",
       "answer_letters": "AVIATOR",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Named after a pope who introduced this calendar system.",
+      "clue_tag": "named-after-pope",
       "answer": "gregorian",
       "answer_letters": "GREGORIAN",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Used in describing scent-related phenomena.",
+      "clue_tag": "used-describing-scentrelated",
       "answer": "olfactory",
       "answer_letters": "OLFACTORY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Backpacker.",
+      "clue_tag": "backpacker",
       "answer": "traveller",
       "answer_letters": "TRAVELLER",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Name of a London school.",
+      "clue_tag": "name-london-school",
       "answer": "harrow",
       "answer_letters": "HARROW",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Director of 'Unforgiven' (1992)",
+      "clue_tag": "director-unforgiven-1992",
       "answer": "eastwood",
       "answer_letters": "EASTWOOD",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Price-fixing group of companies",
+      "clue_tag": "pricefixing-group-companies",
       "answer": "cartel",
       "answer_letters": "CARTEL",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Number cruncher.",
+      "clue_tag": "number-cruncher",
       "answer": "accountant",
       "answer_letters": "ACCOUNTANT",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "It can be a car, bus or train.",
+      "clue_tag": "can-be-car",
       "answer": "vehicle",
       "answer_letters": "VEHICLE",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Birds often symbolizing strength or freedom.",
+      "clue_tag": "birds-often-symbolizing",
       "answer": "eagles",
       "answer_letters": "EAGLES",
       "indices": [

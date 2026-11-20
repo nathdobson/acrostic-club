@@ -5,7 +5,7 @@
   "source_letters": "ILONAANDREWSMAGICBINDS",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ignore",
       "answer_letters": "IGNORE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outdoors",
       "answer_letters": "OUTDOORS",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nikita",
       "answer_letters": "NIKITA",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "afterward",
       "answer_letters": "AFTERWARD",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "armagh",
       "answer_letters": "ARMAGH",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nominee",
       "answer_letters": "NOMINEE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "duties",
       "answer_letters": "DUTIES",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "warrior",
       "answer_letters": "WARRIOR",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "suggest",
       "answer_letters": "SUGGEST",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "method",
       "answer_letters": "METHOD",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "agitation",
       "answer_letters": "AGITATION",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "genius",
       "answer_letters": "GENIUS",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "convoy",
       "answer_letters": "CONVOY",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "believed",
       "answer_letters": "BELIEVED",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "neighbour",
       "answer_letters": "NEIGHBOUR",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dynamo",
       "answer_letters": "DYNAMO",
       "indices": [
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "subway",
       "answer_letters": "SUBWAY",
       "indices": [

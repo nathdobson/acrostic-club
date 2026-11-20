@@ -5,7 +5,7 @@
   "source_letters": "MOHSINHAMIDMOTHSMOKE",
   "clues": [
     {
-      "clue": "Encounter or assembly.",
+      "clue_tag": "encounter-assembly",
       "answer": "meeting",
       "answer_letters": "MEETING",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Gaining possession of something.",
+      "clue_tag": "gaining-possession-something",
       "answer": "obtaining",
       "answer_letters": "OBTAINING",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Typical setting for wind turbines.",
+      "clue_tag": "typical-setting-wind",
       "answer": "hilltop",
       "answer_letters": "HILLTOP",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Aspiring learner.",
+      "clue_tag": "aspiring-learner",
       "answer": "student",
       "answer_letters": "STUDENT",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Sport that features a rink and nets.",
+      "clue_tag": "sport-features-rink",
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Wide street in a city.",
+      "clue_tag": "wide-street-city",
       "answer": "avenue",
       "answer_letters": "AVENUE",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Pertaining to bowels.",
+      "clue_tag": "pertaining-bowels",
       "answer": "intestinal",
       "answer_letters": "INTESTINAL",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Officially sent out of one's native land.",
+      "clue_tag": "officially-sent-out",
       "answer": "deported",
       "answer_letters": "DEPORTED",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "A type of cereal crop grown in hot climates.",
+      "clue_tag": "type-cereal-crop",
       "answer": "millet",
       "answer_letters": "MILLET",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Out at sea.",
+      "clue_tag": "out-sea",
       "answer": "offshore",
       "answer_letters": "OFFSHORE",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Occurrence thrice.",
+      "clue_tag": "occurrence-thrice",
       "answer": "three-time",
       "answer_letters": "THREETIME",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "Increased in degree; amplified.",
+      "clue_tag": "increased-degree-amplified",
       "answer": "heightened",
       "answer_letters": "HEIGHTENED",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Celestial bodies orbiting planets.",
+      "clue_tag": "celestial-bodies-orbiting",
       "answer": "satellites",
       "answer_letters": "SATELLITES",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Army spirit.",
+      "clue_tag": "army-spirit",
       "answer": "morale",
       "answer_letters": "MORALE",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Argument against a point.",
+      "clue_tag": "argument-against-point",
       "answer": "objection",
       "answer_letters": "OBJECTION",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Site of a long-standing territorial dispute.",
+      "clue_tag": "site-longstanding-territorial",
       "answer": "kashmir",
       "answer_letters": "KASHMIR",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Brother to George III",
+      "clue_tag": "brother-george-iii",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [

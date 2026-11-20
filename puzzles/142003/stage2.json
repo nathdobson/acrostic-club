@@ -5,7 +5,7 @@
   "source_letters": "DAVIDCRONENBERGCONSUMED",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dollar",
       "answer_letters": "DOLLAR",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "arthur",
       "answer_letters": "ARTHUR",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "vassal",
       "answer_letters": "VASSAL",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "intentions",
       "answer_letters": "INTENTIONS",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "detailing",
       "answer_letters": "DETAILING",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "cruise",
       "answer_letters": "CRUISE",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "richie",
       "answer_letters": "RICHIE",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "oxford",
       "answer_letters": "OXFORD",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "employ",
       "answer_letters": "EMPLOY",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "niches",
       "answer_letters": "NICHES",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "beating",
       "answer_letters": "BEATING",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "relate",
       "answer_letters": "RELATE",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "gloria",
       "answer_letters": "GLORIA",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "current",
       "answer_letters": "CURRENT",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "occupy",
       "answer_letters": "OCCUPY",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nitrate",
       "answer_letters": "NITRATE",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "mickey",
       "answer_letters": "MICKEY",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "distinctions",
       "answer_letters": "DISTINCTIONS",
       "indices": [

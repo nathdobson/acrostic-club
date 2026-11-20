@@ -5,7 +5,7 @@
   "source_letters": "CYNTHIAHANDUNEARTHLY",
   "clues": [
     {
-      "clue": "Not always favorable, they judge art.",
+      "clue_tag": "not-always-favorable",
       "answer": "critic",
       "answer_letters": "CRITIC",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "River linked with Three Gorges Dam project.",
+      "clue_tag": "river-linked-three",
       "answer": "yangtze",
       "answer_letters": "YANGTZE",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Set of three works, often related by theme.",
+      "clue_tag": "set-three-works",
       "answer": "trilogy",
       "answer_letters": "TRILOGY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "A type of hardwood tree.",
+      "clue_tag": "type-hardwood-tree",
       "answer": "hickory",
       "answer_letters": "HICKORY",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Called for the use of something, often a law or principle.",
+      "clue_tag": "called-use-something",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Collects data, typically for analysis or display on one platform.",
+      "clue_tag": "collects-data-typically",
       "answer": "aggregator",
       "answer_letters": "AGGREGATOR",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "clue_tag": "tennis-star-lost",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "City where Margaret Mitchell wrote 'Gone with the Wind'.",
+      "clue_tag": "city-where-margaret",
       "answer": "augusta",
       "answer_letters": "AUGUSTA",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Capital: Windhoek.",
+      "clue_tag": "capital-windhoek",
       "answer": "namibia",
       "answer_letters": "NAMIBIA",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Opposite of proximal in anatomical terms",
+      "clue_tag": "opposite-proximal-anatomical",
       "answer": "distal",
       "answer_letters": "DISTAL",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Country in Central Asia.",
+      "clue_tag": "country-central-asia",
       "answer": "uzbekistan",
       "answer_letters": "UZBEKISTAN",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Contemporary times.",
+      "clue_tag": "contemporary-times",
       "answer": "nowadays",
       "answer_letters": "NOWADAYS",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "A character in 'Interview with the Vampire'.",
+      "clue_tag": "character-interview-vampire",
       "answer": "armand",
       "answer_letters": "ARMAND",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Nautical contest.",
+      "clue_tag": "nautical-contest",
       "answer": "regatta",
       "answer_letters": "REGATTA",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "Indelible ink design.",
+      "clue_tag": "indelible-ink-design",
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Essential for construction and carpentry.",
+      "clue_tag": "essential-construction-carpentry",
       "answer": "hammer",
       "answer_letters": "HAMMER",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Cheaply priced.",
+      "clue_tag": "cheaply-priced",
       "answer": "low-cost",
       "answer_letters": "LOWCOST",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [

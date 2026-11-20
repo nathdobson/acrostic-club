@@ -5,7 +5,7 @@
   "source_letters": "KARENMARIEMONINGICED",
   "clues": [
     {
-      "clue": "Fierce storm that devastated New Orleans.",
+      "clue_tag": "fierce-storm-devastated",
       "answer": "katrina",
       "answer_letters": "KATRINA",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "State of being self-governing.",
+      "clue_tag": "state-being-selfgoverning",
       "answer": "autonomy",
       "answer_letters": "AUTONOMY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Surviving into the present time from the past.",
+      "clue_tag": "surviving-into-present",
       "answer": "extant",
       "answer_letters": "EXTANT",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Powerful adjective.",
+      "clue_tag": "powerful-adjective",
       "answer": "mighty",
       "answer_letters": "MIGHTY",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Name of famous conductor Toscanini.",
+      "clue_tag": "name-famous-conductor",
       "answer": "arturo",
       "answer_letters": "ARTURO",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Conforming to standards of morality",
+      "clue_tag": "conforming-standards-morality",
       "answer": "righteous",
       "answer_letters": "RIGHTEOUS",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Become more complex",
+      "clue_tag": "become-more-complex",
       "answer": "evolve",
       "answer_letters": "EVOLVE",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Temporary solution",
+      "clue_tag": "temporary-solution",
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Admission to school is known as an _.",
+      "clue_tag": "admission-school-known",
       "answer": "intake",
       "answer_letters": "INTAKE",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Smallest of dog breeds.",
+      "clue_tag": "smallest-dog-breeds",
       "answer": "chihuahua",
       "answer_letters": "CHIHUAHUA",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Had words removed or altered.",
+      "clue_tag": "had-words-removed",
       "answer": "edited",
       "answer_letters": "EDITED",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Ruinate utterly.",
+      "clue_tag": "ruinate-utterly",
       "answer": "destroy",
       "answer_letters": "DESTROY",
       "indices": [

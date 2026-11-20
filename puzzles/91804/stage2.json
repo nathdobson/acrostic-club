@@ -5,7 +5,7 @@
   "source_letters": "DANIKASTONEEDGEOFWILD",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "atomic",
       "answer_letters": "ATOMIC",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "narrator",
       "answer_letters": "NARRATOR",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "inhibit",
       "answer_letters": "INHIBIT",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "kraków",
       "answer_letters": "KRAKOW",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "saloon",
       "answer_letters": "SALOON",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "toilet",
       "answer_letters": "TOILET",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "organic",
       "answer_letters": "ORGANIC",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "notation",
       "answer_letters": "NOTATION",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "donors",
       "answer_letters": "DONORS",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "o'neill",
       "answer_letters": "ONEILL",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "fianna",
       "answer_letters": "FIANNA",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "whisky",
       "answer_letters": "WHISKY",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "impeachment",
       "answer_letters": "IMPEACHMENT",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "detroit",
       "answer_letters": "DETROIT",
       "indices": [

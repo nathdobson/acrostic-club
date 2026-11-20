@@ -5,7 +5,7 @@
   "source_letters": "SHERWOODSMITHCROWNDUEL",
   "clues": [
     {
-      "clue": "Discharge from sanitary systems.",
+      "clue_tag": "discharge-sanitary-systems",
       "answer": "sewage",
       "answer_letters": "SEWAGE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Spoken in parts of Israel today.",
+      "clue_tag": "spoken-parts-israel",
       "answer": "hebrew",
       "answer_letters": "HEBREW",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "A prophet in the Old Testament.",
+      "clue_tag": "prophet-old-testament",
       "answer": "elijah",
       "answer_letters": "ELIJAH",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Feminine of Roberto.",
+      "clue_tag": "feminine-roberto",
       "answer": "roberta",
       "answer_letters": "ROBERTA",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Something resembling white, slightly off.",
+      "clue_tag": "something-resembling-white",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Being in possession of something.",
+      "clue_tag": "being-possession-something",
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Nearby to Rochdale and Bury.",
+      "clue_tag": "nearby-rochdale-bury",
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Part of the title for the residence of the UK Prime Minister.",
+      "clue_tag": "part-title-residence",
       "answer": "downing",
       "answer_letters": "DOWNING",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Bears the burden of adversity.",
+      "clue_tag": "bears-burden-adversity",
       "answer": "suffers",
       "answer_letters": "SUFFERS",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "State defense force.",
+      "clue_tag": "state-defense-force",
       "answer": "militia",
       "answer_letters": "MILITIA",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Remove from social interaction.",
+      "clue_tag": "remove-social-interaction",
       "answer": "isolate",
       "answer_letters": "ISOLATE",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Savorings one might prefer.",
+      "clue_tag": "savorings-one-might",
       "answer": "tastes",
       "answer_letters": "TASTES",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Till now, previously.",
+      "clue_tag": "till-now-previously",
       "answer": "hitherto",
       "answer_letters": "HITHERTO",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Groups serving those in need.",
+      "clue_tag": "groups-serving-those",
       "answer": "charities",
       "answer_letters": "CHARITIES",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Capital of Saskatchewan, Canada.",
+      "clue_tag": "capital-saskatchewan-canada",
       "answer": "regina",
       "answer_letters": "REGINA",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Essence of coziness.",
+      "clue_tag": "essence-coziness",
       "answer": "warmth",
       "answer_letters": "WARMTH",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Profound layers.",
+      "clue_tag": "profound-layers",
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Regimental attire.",
+      "clue_tag": "regimental-attire",
       "answer": "uniform",
       "answer_letters": "UNIFORM",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "To begin a journey or venture",
+      "clue_tag": "begin-journey-venture",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Described when a team falls behind in score.",
+      "clue_tag": "described-when-team",
       "answer": "losing",
       "answer_letters": "LOSING",
       "indices": [

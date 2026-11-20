@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "Brute of 'Beauty and the Beast'.",
+      "clue_tag": "brute-beauty-beast",
       "answer": "gaston",
       "answer_letters": "GASTON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Native of a country bordering Latvia and Russia.",
+      "clue_tag": "native-country-bordering",
       "answer": "estonian",
       "answer_letters": "ESTONIAN",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Away from the web",
+      "clue_tag": "away-web",
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Move in a circle.",
+      "clue_tag": "move-circle",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "The first book of the Bible.",
+      "clue_tag": "first-book-bible",
       "answer": "genesis",
       "answer_letters": "GENESIS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "In mathematics and engineering, this symbol denotes a very small quantity.",
+      "clue_tag": "mathematics-engineering-symbol",
       "answer": "epsilon",
       "answer_letters": "EPSILON",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Starts or openings of caves and tunnels",
+      "clue_tag": "starts-openings-caves",
       "answer": "entrances",
       "answer_letters": "ENTRANCES",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Within legal boundaries.",
+      "clue_tag": "within-legal-boundaries",
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Recognize someone or something",
+      "clue_tag": "recognize-someone-something",
       "answer": "identify",
       "answer_letters": "IDENTIFY",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "They ruled before Zeus and his pantheon.",
+      "clue_tag": "they-ruled-before",
       "answer": "titans",
       "answer_letters": "TITANS",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Some can be precious gems like diamonds or sapphires.",
+      "clue_tag": "some-can-be",
       "answer": "mineral",
       "answer_letters": "MINERAL",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Called for the use of something, often a law or principle.",
+      "clue_tag": "called-use-something",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Voice replacement technique used in animation.",
+      "clue_tag": "voice-replacement-technique",
       "answer": "dubbing",
       "answer_letters": "DUBBING",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "clue_tag": "sixcharacter-string-alternating",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Where marine insurance is often underwritten.",
+      "clue_tag": "where-marine-insurance",
       "answer": "lloyd's",
       "answer_letters": "LLOYDS",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Create or set up an institution or system",
+      "clue_tag": "create-set-up",
       "answer": "establish",
       "answer_letters": "ESTABLISH",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "A female parent's belongings.",
+      "clue_tag": "female-parents-belongings",
       "answer": "mother's",
       "answer_letters": "MOTHERS",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Aid in achieving something",
+      "clue_tag": "aid-achieving-something",
       "answer": "assist",
       "answer_letters": "ASSIST",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "\"Czar of all the ___.\"",
+      "clue_tag": "czar-all",
       "answer": "russia's",
       "answer_letters": "RUSSIAS",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "Likely to be remembered easily",
+      "clue_tag": "likely-be-remembered",
       "answer": "catchy",
       "answer_letters": "CATCHY",
       "indices": [
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [

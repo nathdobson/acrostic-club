@@ -5,7 +5,7 @@
   "source_letters": "WALTERKIRNUPINTHEAIR",
   "clues": [
     {
-      "clue": "Something resembling white, slightly off.",
+      "clue_tag": "something-resembling-white",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Links in memory or thought.",
+      "clue_tag": "links-memory-thought",
       "answer": "associations",
       "answer_letters": "ASSOCIATIONS",
       "indices": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "clue": "Luminaries for the stage.",
+      "clue_tag": "luminaries-stage",
       "answer": "lights",
       "answer_letters": "LIGHTS",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Mistakes in judgment or fact.",
+      "clue_tag": "mistakes-judgment-fact",
       "answer": "errors",
       "answer_letters": "ERRORS",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "An early British colonialist in Southern Africa.",
+      "clue_tag": "early-british-colonialist",
       "answer": "rhodes",
       "answer_letters": "RHODES",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Those who take lives.",
+      "clue_tag": "those-take-lives",
       "answer": "killers",
       "answer_letters": "KILLERS",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Not good health.",
+      "clue_tag": "not-good-health",
       "answer": "illness",
       "answer_letters": "ILLNESS",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Describes a quiet, introverted individual.",
+      "clue_tag": "describes-quiet-introverted",
       "answer": "reserved",
       "answer_letters": "RESERVED",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Gryffindor wizard",
+      "clue_tag": "gryffindor-wizard",
       "answer": "neville",
       "answer_letters": "NEVILLE",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Open up for use.",
+      "clue_tag": "open-up-use",
       "answer": "unlock",
       "answer_letters": "UNLOCK",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Headship of the Roman Catholic Church.",
+      "clue_tag": "headship-roman-catholic",
       "answer": "papacy",
       "answer_letters": "PAPACY",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Called for the use of something, often a law or principle.",
+      "clue_tag": "called-use-something",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Indelible ink design.",
+      "clue_tag": "indelible-ink-design",
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Opposite of 'coldest' in terms of temperature.",
+      "clue_tag": "opposite-coldest-terms",
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Denier of gods.",
+      "clue_tag": "denier-gods",
       "answer": "atheist",
       "answer_letters": "ATHEIST",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Austria's capital of Tyrol.",
+      "clue_tag": "austrias-capital-tyrol",
       "answer": "innsbruck",
       "answer_letters": "INNSBRUCK",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Opposite of left.",
+      "clue_tag": "opposite-left",
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [

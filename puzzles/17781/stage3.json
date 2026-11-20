@@ -5,7 +5,7 @@
   "source_letters": "DRAGOSBRATASANUPHD",
   "clues": [
     {
-      "clue": "Immortals of Olympus.",
+      "clue_tag": "immortals-olympus",
       "answer": "deities",
       "answer_letters": "DEITIES",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Couplets often found in poetry.",
+      "clue_tag": "couplets-often-found",
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Connection or association.",
+      "clue_tag": "connection-association",
       "answer": "affinity",
       "answer_letters": "AFFINITY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Location of Furman University's campus.",
+      "clue_tag": "location-furman-universitys",
       "answer": "greenville",
       "answer_letters": "GREENVILLE",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Defeated and replaced, often in a political context.",
+      "clue_tag": "defeated-replaced-often",
       "answer": "overthrown",
       "answer_letters": "OVERTHROWN",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "A classical music work in multiple movements.",
+      "clue_tag": "classical-music-work",
       "answer": "symphony",
       "answer_letters": "SYMPHONY",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "Act seen in literary works when ideas are used without full acknowledgment.",
+      "clue_tag": "act-seen-literary",
       "answer": "borrowing",
       "answer_letters": "BORROWING",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Likely to resist control.",
+      "clue_tag": "likely-resist-control",
       "answer": "rebellious",
       "answer_letters": "REBELLIOUS",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Process of growing older.",
+      "clue_tag": "process-growing-older",
       "answer": "ageing",
       "answer_letters": "AGEING",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Vocabulary of a particular subject.",
+      "clue_tag": "vocabulary-particular-subject",
       "answer": "terminology",
       "answer_letters": "TERMINOLOGY",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Within financial reach.",
+      "clue_tag": "within-financial-reach",
       "answer": "affordable",
       "answer_letters": "AFFORDABLE",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Golf swings (abbr.).",
+      "clue_tag": "golf-swings-abbr",
       "answer": "strokes",
       "answer_letters": "STROKES",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "A fireproof material once used for insulation.",
+      "clue_tag": "fireproof-material-once",
       "answer": "asbestos",
       "answer_letters": "ASBESTOS",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "TV show set in Australia.",
+      "clue_tag": "tv-show-set",
       "answer": "neighbours",
       "answer_letters": "NEIGHBOURS",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Made cohesive and comprehensive.",
+      "clue_tag": "made-cohesive-comprehensive",
       "answer": "unified",
       "answer_letters": "UNIFIED",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "Admitted to a club following demise.",
+      "clue_tag": "admitted-club-following",
       "answer": "posthumously",
       "answer_letters": "POSTHUMOUSLY",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Despite what was previously mentioned.",
+      "clue_tag": "despite-what-was",
       "answer": "however",
       "answer_letters": "HOWEVER",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [

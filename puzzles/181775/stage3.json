@@ -5,7 +5,7 @@
   "source_letters": "EMILYGIFFINBABYPROOF",
   "clues": [
     {
-      "clue": "Gave physical presence to an idea.",
+      "clue_tag": "gave-physical-presence",
       "answer": "embodied",
       "answer_letters": "EMBODIED",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Author of the Quranic revelations.",
+      "clue_tag": "author-quranic-revelations",
       "answer": "mohammed",
       "answer_letters": "MOHAMMED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "They range from bees to beetles.",
+      "clue_tag": "they-range-bees",
       "answer": "insects",
       "answer_letters": "INSECTS",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Talmudic academy.",
+      "clue_tag": "talmudic-academy",
       "answer": "yeshiva",
       "answer_letters": "YESHIVA",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Type of novel featuring brooding heroes and damsel in distress.",
+      "clue_tag": "type-novel-featuring",
       "answer": "gothic",
       "answer_letters": "GOTHIC",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Having cultural significance and staying power.",
+      "clue_tag": "having-cultural-significance",
       "answer": "iconic",
       "answer_letters": "ICONIC",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Devised an equation or hypothesis.",
+      "clue_tag": "devised-equation-hypothesis",
       "answer": "formulated",
       "answer_letters": "FORMULATED",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Begins after something else (9 letters)",
+      "clue_tag": "begins-after-something",
       "answer": "follows",
       "answer_letters": "FOLLOWS",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Spanish male given name.",
+      "clue_tag": "spanish-male-given",
       "answer": "ignacio",
       "answer_letters": "IGNACIO",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Iqaluit, its capital city, means 'place of many fish.'",
+      "clue_tag": "iqaluit-capital-city",
       "answer": "nunavut",
       "answer_letters": "NUNAVUT",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Endorsed someone or something.",
+      "clue_tag": "endorsed-someone-something",
       "answer": "backed",
       "answer_letters": "BACKED",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "City that played a pivotal role during the Crusades.",
+      "clue_tag": "city-played-pivotal",
       "answer": "antioch",
       "answer_letters": "ANTIOCH",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Once a British crown colony in India, now part of Maharashtra.",
+      "clue_tag": "once-british-crown",
       "answer": "bombay",
       "answer_letters": "BOMBAY",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Southern Chinese province.",
+      "clue_tag": "southern-chinese-province",
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Controversial service often debated in terms of legality.",
+      "clue_tag": "controversial-service-often",
       "answer": "prostitution",
       "answer_letters": "PROSTITUTION",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "They ensure equality before the law.",
+      "clue_tag": "they-ensure-equality",
       "answer": "rights",
       "answer_letters": "RIGHTS",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "No longer current.",
+      "clue_tag": "no-longer-current",
       "answer": "outdated",
       "answer_letters": "OUTDATED",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Achieve possession of.",
+      "clue_tag": "achieve-possession",
       "answer": "obtain",
       "answer_letters": "OBTAIN",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Adverb for lucky.",
+      "clue_tag": "adverb-lucky",
       "answer": "fortunately",
       "answer_letters": "FORTUNATELY",
       "indices": [

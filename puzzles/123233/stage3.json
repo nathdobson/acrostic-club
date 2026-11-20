@@ -5,7 +5,7 @@
   "source_letters": "LEIGHGOFFDISENCHANTED",
   "clues": [
     {
-      "clue": "Irish province, for one",
+      "clue_tag": "irish-province-one",
       "answer": "leinster",
       "answer_letters": "LEINSTER",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "At any place or location.",
+      "clue_tag": "any-place-location",
       "answer": "everywhere",
       "answer_letters": "EVERYWHERE",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Introduce into a context.",
+      "clue_tag": "introduce-into-context",
       "answer": "insert",
       "answer_letters": "INSERT",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Town talk.",
+      "clue_tag": "town-talk",
       "answer": "gossip",
       "answer_letters": "GOSSIP",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "A prominent figure in the Düsseldorf School of painting.",
+      "clue_tag": "prominent-figure-dusseldorf",
       "answer": "gerhard",
       "answer_letters": "GERHARD",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Interconnected globally via the internet.",
+      "clue_tag": "interconnected-globally-via",
       "answer": "online",
       "answer_letters": "ONLINE",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "With great conviction",
+      "clue_tag": "great-conviction",
       "answer": "firmly",
       "answer_letters": "FIRMLY",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Adjacent boroughs include Wandsworth and Kensington.",
+      "clue_tag": "adjacent-boroughs-include",
       "answer": "fulham",
       "answer_letters": "FULHAM",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "A serious illness leading to hospitalization during some seasons.",
+      "clue_tag": "serious-illness-leading",
       "answer": "influenza",
       "answer_letters": "INFLUENZA",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Port city of China, famous for its skyscrapers.",
+      "clue_tag": "port-city-china",
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "All of us, collectively.",
+      "clue_tag": "all-us-collectively",
       "answer": "everybody",
       "answer_letters": "EVERYBODY",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Adviser to King David, a counselor during his reign.",
+      "clue_tag": "adviser-king-david",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Buckaroo, perhaps?",
+      "clue_tag": "buckaroo-perhaps",
       "answer": "cowboy",
       "answer_letters": "COWBOY",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Agents affecting appetite and sleep.",
+      "clue_tag": "agents-affecting-appetite",
       "answer": "hormones",
       "answer_letters": "HORMONES",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "U.S. passenger rail system abbreviated as ATRK.",
+      "clue_tag": "us-passenger-rail",
       "answer": "amtrak",
       "answer_letters": "AMTRAK",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Ultimate rival or adversary.",
+      "clue_tag": "ultimate-rival-adversary",
       "answer": "nemesis",
       "answer_letters": "NEMESIS",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "The process of gaining authority and autonomy.",
+      "clue_tag": "process-gaining-authority",
       "answer": "empowerment",
       "answer_letters": "EMPOWERMENT",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Profound layers.",
+      "clue_tag": "profound-layers",
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "NEALASHERPOLITYAGENT",
   "clues": [
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Hides from the enemy, in a way",
+      "clue_tag": "hides-enemy-way",
       "answer": "encodes",
       "answer_letters": "ENCODES",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Weapon is ready to fire.",
+      "clue_tag": "weapon-ready-fire",
       "answer": "loaded",
       "answer_letters": "LOADED",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Formally written to an individual.",
+      "clue_tag": "formally-written-individual",
       "answer": "addressed",
       "answer_letters": "ADDRESSED",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Esteemed actor with Middle Eastern roots.",
+      "clue_tag": "esteemed-actor-middle",
       "answer": "sharif",
       "answer_letters": "SHARIF",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "A brand synonymous with festive expressions of love and friendship.",
+      "clue_tag": "brand-synonymous-festive",
       "answer": "hallmark",
       "answer_letters": "HALLMARK",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Multiple releases of a literary work.",
+      "clue_tag": "multiple-releases-literary",
       "answer": "editions",
       "answer_letters": "EDITIONS",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Advise as suitable or likely",
+      "clue_tag": "advise-suitable-likely",
       "answer": "recommend",
       "answer_letters": "RECOMMEND",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Al fresco meal.",
+      "clue_tag": "al-fresco-meal",
       "answer": "picnic",
       "answer_letters": "PICNIC",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "A way of relieving pressure or stress.",
+      "clue_tag": "way-relieving-pressure",
       "answer": "outlet",
       "answer_letters": "OUTLET",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Garbage dump.",
+      "clue_tag": "garbage-dump",
       "answer": "landfill",
       "answer_letters": "LANDFILL",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Absolutely!",
+      "clue_tag": "absolutely",
       "answer": "indeed",
       "answer_letters": "INDEED",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Methods for achieving a goal.",
+      "clue_tag": "methods-achieving-goal",
       "answer": "techniques",
       "answer_letters": "TECHNIQUES",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Cascading snow disaster.",
+      "clue_tag": "cascading-snow-disaster",
       "answer": "avalanche",
       "answer_letters": "AVALANCHE",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Blameworthy.",
+      "clue_tag": "blameworthy",
       "answer": "guilty",
       "answer_letters": "GUILTY",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Descriptive of schools and universities.",
+      "clue_tag": "descriptive-schools-universities",
       "answer": "educational",
       "answer_letters": "EDUCATIONAL",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "Opposite of southwest on a compass.",
+      "clue_tag": "opposite-southwest-compass",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "A Caribbean island with Trinidad.",
+      "clue_tag": "caribbean-island-trinidad",
       "answer": "tobago",
       "answer_letters": "TOBAGO",
       "indices": [

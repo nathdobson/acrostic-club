@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYWARANDPEACE",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "longest",
       "answer_letters": "LONGEST",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "off-road",
       "answer_letters": "OFFROAD",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "one-man",
       "answer_letters": "ONEMAN",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "lawson",
       "answer_letters": "LAWSON",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "statues",
       "answer_letters": "STATUES",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "willow",
       "answer_letters": "WILLOW",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "right-wing",
       "answer_letters": "RIGHTWING",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "anything",
       "answer_letters": "ANYTHING",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "neumann",
       "answer_letters": "NEUMANN",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dunkirk",
       "answer_letters": "DUNKIRK",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "possessing",
       "answer_letters": "POSSESSING",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "einstein",
       "answer_letters": "EINSTEIN",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "embodied",
       "answer_letters": "EMBODIED",
       "indices": [

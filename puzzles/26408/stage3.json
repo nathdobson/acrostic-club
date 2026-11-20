@@ -5,7 +5,7 @@
   "source_letters": "JRWARDLOVERUNBOUND",
   "clues": [
     {
-      "clue": "Coveting what another possesses.",
+      "clue_tag": "coveting-what-another",
       "answer": "jealousy",
       "answer_letters": "JEALOUSY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Turning point or moment of change.",
+      "clue_tag": "turning-point-moment",
       "answer": "watershed",
       "answer_letters": "WATERSHED",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Town in Kent.",
+      "clue_tag": "town-kent",
       "answer": "ashford",
       "answer_letters": "ASHFORD",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Made visible through a tangible example.",
+      "clue_tag": "made-visible-through",
       "answer": "demonstrated",
       "answer_letters": "DEMONSTRATED",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Homes with water views",
+      "clue_tag": "homes-water-views",
       "answer": "lakeside",
       "answer_letters": "LAKESIDE",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Mistake due to inattention?",
+      "clue_tag": "mistake-due-inattention",
       "answer": "oversight",
       "answer_letters": "OVERSIGHT",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Folk religion of Haiti.",
+      "clue_tag": "folk-religion-haiti",
       "answer": "voodoo",
       "answer_letters": "VOODOO",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Made the same sound again",
+      "clue_tag": "made-same-sound",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Capital of this German state is Düsseldorf.",
+      "clue_tag": "capital-german-state",
       "answer": "rhine-westphalia",
       "answer_letters": "RHINEWESTPHALIA",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Engage in an activity or project.",
+      "clue_tag": "engage-activity-project",
       "answer": "undertake",
       "answer_letters": "UNDERTAKE",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Adviser to King David, a counselor during his reign.",
+      "clue_tag": "adviser-king-david",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Iraq's capital city.",
+      "clue_tag": "iraqs-capital-city",
       "answer": "baghdad",
       "answer_letters": "BAGHDAD",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "When most athletes are not competing.",
+      "clue_tag": "when-most-athletes",
       "answer": "off-season",
       "answer_letters": "OFFSEASON",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Home to a prominent university, established in 1636.",
+      "clue_tag": "home-prominent-university",
       "answer": "utrecht",
       "answer_letters": "UTRECHT",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "The magazine is known for its influential covers and in-depth reporting.",
+      "clue_tag": "magazine-known-influential",
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Bursts of electricity in lightning storms.",
+      "clue_tag": "bursts-electricity-lightning",
       "answer": "discharges",
       "answer_letters": "DISCHARGES",
       "indices": [

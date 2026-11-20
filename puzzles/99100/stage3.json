@@ -5,7 +5,7 @@
   "source_letters": "WALTERTEVISMOCKINGBIRD",
   "clues": [
     {
-      "clue": "A character alongside Victor Frankenstein.",
+      "clue_tag": "character-alongside-victor",
       "answer": "walton",
       "answer_letters": "WALTON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Garments and accessories combined.",
+      "clue_tag": "garments-accessories-combined",
       "answer": "attire",
       "answer_letters": "ATTIRE",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "A material often used for jackets or sofas.",
+      "clue_tag": "material-often-used",
       "answer": "leather",
       "answer_letters": "LEATHER",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "E. Roosevelt's first name.",
+      "clue_tag": "e-roosevelts-first",
       "answer": "theodore",
       "answer_letters": "THEODORE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Strivings.",
+      "clue_tag": "strivings",
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "One who has seen action, particularly in sports.",
+      "clue_tag": "one-has-seen",
       "answer": "veteran",
       "answer_letters": "VETERAN",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Inborn trait",
+      "clue_tag": "inborn-trait",
       "answer": "innate",
       "answer_letters": "INNATE",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Lawyer played by Travolta",
+      "clue_tag": "lawyer-played-travolta",
       "answer": "shapiro",
       "answer_letters": "SHAPIRO",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Aurangzeb belonged to this empire (6)",
+      "clue_tag": "aurangzeb-belonged-empire",
       "answer": "mughal",
       "answer_letters": "MUGHAL",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Site for business meetings.",
+      "clue_tag": "site-business-meetings",
       "answer": "office",
       "answer_letters": "OFFICE",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Adj. describing events or history related to a conflict from 1853-1856.",
+      "clue_tag": "adj-describing-events",
       "answer": "crimean",
       "answer_letters": "CRIMEAN",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "American singer-songwriter active since the mid-2010s.",
+      "clue_tag": "american-singersongwriter-active",
       "answer": "khalid",
       "answer_letters": "KHALID",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Enter forcefully, often with hostility",
+      "clue_tag": "enter-forcefully-often",
       "answer": "invade",
       "answer_letters": "INVADE",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Spoke of one's exploits with pride.",
+      "clue_tag": "spoke-ones-exploits",
       "answer": "boasted",
       "answer_letters": "BOASTED",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Staffed entirely by employees of the corporation",
+      "clue_tag": "staffed-entirely-employees",
       "answer": "in-house",
       "answer_letters": "INHOUSE",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Precipitation that has seeped into a waterway.",
+      "clue_tag": "precipitation-has-seeped",
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "Punished with reduced wages.",
+      "clue_tag": "punished-reduced-wages",
       "answer": "docked",
       "answer_letters": "DOCKED",
       "indices": [

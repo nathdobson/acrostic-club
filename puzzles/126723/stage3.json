@@ -5,7 +5,7 @@
   "source_letters": "SUSANJUBYALICEITHINK",
   "clues": [
     {
-      "clue": "The man your mom remarried, not related by blood.",
+      "clue_tag": "man-your-mom",
       "answer": "stepfather",
       "answer_letters": "STEPFATHER",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Experienced first-hand an occurrence.",
+      "clue_tag": "experienced-firsthand-occurrence",
       "answer": "underwent",
       "answer_letters": "UNDERWENT",
       "indices": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "clue": "Adults of a certain age, perhaps ready for retirement.",
+      "clue_tag": "adults-certain-age",
       "answer": "seniors",
       "answer_letters": "SENIORS",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Follows lunch and precedes the evening twilight.",
+      "clue_tag": "follows-lunch-precedes",
       "answer": "afternoon",
       "answer_letters": "AFTERNOON",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue": "Author of 'A Modest Proposal', he critiqued British policy towards Ireland.",
+      "clue_tag": "author-modest-proposal",
       "answer": "jonathan",
       "answer_letters": "JONATHAN",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": "Home to mythological Furies.",
+      "clue_tag": "home-mythological-furies",
       "answer": "underworld",
       "answer_letters": "UNDERWORLD",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Emerge as something else.",
+      "clue_tag": "emerge-something-else",
       "answer": "become",
       "answer_letters": "BECOME",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Produced, like crops.",
+      "clue_tag": "produced-like-crops",
       "answer": "yielded",
       "answer_letters": "YIELDED",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Engage someone’s curiosity or desire",
+      "clue_tag": "engage-someones-curiosity",
       "answer": "attract",
       "answer_letters": "ATTRACT",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "A school that once featured a football rivalry with Lafayette College.",
+      "clue_tag": "school-once-featured",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Urgent command or necessity.",
+      "clue_tag": "urgent-command-necessity",
       "answer": "imperative",
       "answer_letters": "IMPERATIVE",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Group formed for a particular purpose.",
+      "clue_tag": "group-formed-particular",
       "answer": "committee",
       "answer_letters": "COMMITTEE",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Consumption activity.",
+      "clue_tag": "consumption-activity",
       "answer": "eating",
       "answer_letters": "EATING",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Bring in goods from abroad.",
+      "clue_tag": "bring-goods-abroad",
       "answer": "import",
       "answer_letters": "IMPORT",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "By way of a medium or substance.",
+      "clue_tag": "way-medium-substance",
       "answer": "through",
       "answer_letters": "THROUGH",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Name of 'Catch-22' author Joseph __.",
+      "clue_tag": "name-catch22-author",
       "answer": "heller",
       "answer_letters": "HELLER",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Substantially greater than average.",
+      "clue_tag": "substantially-greater-than",
       "answer": "immense",
       "answer_letters": "IMMENSE",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Region associated with cold, long winters and cozy interiors.",
+      "clue_tag": "region-associated-cold",
       "answer": "nordic",
       "answer_letters": "NORDIC",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Arabic term for 'successor'.",
+      "clue_tag": "arabic-term-successor",
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [

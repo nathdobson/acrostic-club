@@ -5,7 +5,7 @@
   "source_letters": "LEMONYSNICKETTHEEND",
   "clues": [
     {
-      "clue": "Agreements that can be terminated by either party upon notice.",
+      "clue_tag": "agreements-can-be",
       "answer": "leases",
       "answer_letters": "LEASES",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Relating to the natural environment and its components.",
+      "clue_tag": "relating-natural-environment",
       "answer": "ecological",
       "answer_letters": "ECOLOGICAL",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Lovable figure representing brands or teams.",
+      "clue_tag": "lovable-figure-representing",
       "answer": "mascot",
       "answer_letters": "MASCOT",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Holds a position or office",
+      "clue_tag": "holds-position-office",
       "answer": "occupies",
       "answer_letters": "OCCUPIES",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Opposite of southwest on a compass.",
+      "clue_tag": "opposite-southwest-compass",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Motorcycle brand.",
+      "clue_tag": "motorcycle-brand",
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Suitable for a large ensemble.",
+      "clue_tag": "suitable-large-ensemble",
       "answer": "symphonic",
       "answer_letters": "SYMPHONIC",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Key to a healthy diet.",
+      "clue_tag": "key-healthy-diet",
       "answer": "nutrition",
       "answer_letters": "NUTRITION",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue": "Synonymous with fanciful.",
+      "clue_tag": "synonymous-fanciful",
       "answer": "imaginative",
       "answer_letters": "IMAGINATIVE",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "In a series with no gaps in between.",
+      "clue_tag": "series-no-gaps",
       "answer": "consecutive",
       "answer_letters": "CONSECUTIVE",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Japan's most western island.",
+      "clue_tag": "japans-most-western",
       "answer": "kyushu",
       "answer_letters": "KYUSHU",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Vesuvius's famous occurrence in 79 AD.",
+      "clue_tag": "vesuviuss-famous-occurrence",
       "answer": "eruption",
       "answer_letters": "ERUPTION",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Football plays that result in points.",
+      "clue_tag": "football-plays-result",
       "answer": "touchdowns",
       "answer_letters": "TOUCHDOWNS",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "The age of early dinosaurs.",
+      "clue_tag": "age-early-dinosaurs",
       "answer": "triassic",
       "answer_letters": "TRIASSIC",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Comfort care facility for terminally ill.",
+      "clue_tag": "comfort-care-facility",
       "answer": "hospice",
       "answer_letters": "HOSPICE",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Fair and impartial.",
+      "clue_tag": "fair-impartial",
       "answer": "equitable",
       "answer_letters": "EQUITABLE",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Packed with energy.",
+      "clue_tag": "packed-energy",
       "answer": "electrified",
       "answer_letters": "ELECTRIFIED",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Ranked or counted.",
+      "clue_tag": "ranked-counted",
       "answer": "numbered",
       "answer_letters": "NUMBERED",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Radical measures needed.",
+      "clue_tag": "radical-measures-needed",
       "answer": "drastic",
       "answer_letters": "DRASTIC",
       "indices": [

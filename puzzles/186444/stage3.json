@@ -5,7 +5,7 @@
   "source_letters": "ABSHEPHERDTHEBEACON",
   "clues": [
     {
-      "clue": "Aggregation of stories, poems, or essays.",
+      "clue_tag": "aggregation-stories-poems",
       "answer": "anthology",
       "answer_letters": "ANTHOLOGY",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Children's first ride often includes training wheels on these.",
+      "clue_tag": "childrens-first-ride",
       "answer": "bicycles",
       "answer_letters": "BICYCLES",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Rank under family, above genus in taxonomic hierarchy.",
+      "clue_tag": "rank-under-family",
       "answer": "subfamily",
       "answer_letters": "SUBFAMILY",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Location of the BBC Television Centre in 1960s-80s",
+      "clue_tag": "location-bbc-television",
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Author of Cyrano de ___",
+      "clue_tag": "author-cyrano-de",
       "answer": "edmond",
       "answer_letters": "EDMOND",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "Let off the hook for a mistake",
+      "clue_tag": "let-off-hook",
       "answer": "pardoned",
       "answer_letters": "PARDONED",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue": "Scribe of 'The Scarlet Letter' (surname)",
+      "clue_tag": "scribe-scarlet-letter",
       "answer": "hawthorne",
       "answer_letters": "HAWTHORNE",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Dominant arm for most people.",
+      "clue_tag": "dominant-arm-most",
       "answer": "right-arm",
       "answer_letters": "RIGHTARM",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Minnesotan port city near Lakes Superior and Superior.",
+      "clue_tag": "minnesotan-port-city",
       "answer": "duluth",
       "answer_letters": "DULUTH",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Contemplations or reflections.",
+      "clue_tag": "contemplations-reflections",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Sector impacted by policies on insurance.",
+      "clue_tag": "sector-impacted-policies",
       "answer": "healthcare",
       "answer_letters": "HEALTHCARE",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Mistakes in judgment or fact.",
+      "clue_tag": "mistakes-judgment-fact",
       "answer": "errors",
       "answer_letters": "ERRORS",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Lenin's loyalists.",
+      "clue_tag": "lenins-loyalists",
       "answer": "bolsheviks",
       "answer_letters": "BOLSHEVIKS",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "The whole shebang.",
+      "clue_tag": "whole-shebang",
       "answer": "everything",
       "answer_letters": "EVERYTHING",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "A chronic respiratory condition.",
+      "clue_tag": "chronic-respiratory-condition",
       "answer": "asthma",
       "answer_letters": "ASTHMA",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Company that owns many different businesses.",
+      "clue_tag": "company-owns-many",
       "answer": "conglomerate",
       "answer_letters": "CONGLOMERATE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Away from the web",
+      "clue_tag": "away-web",
       "answer": "offline",
       "answer_letters": "OFFLINE",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Most common Vietnamese surname.",
+      "clue_tag": "most-common-vietnamese",
       "answer": "nguyễn",
       "answer_letters": "NGUYEN",
       "indices": [

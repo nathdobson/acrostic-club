@@ -5,7 +5,7 @@
   "source_letters": "ROBERTAHEINLEINFRIDAY",
   "clues": [
     {
-      "clue": "Name of actor born on February 28, 1976; he was also a professional ballroom dancer before his acting career took off.",
+      "clue_tag": "name-actor-born",
       "answer": "ritter",
       "answer_letters": "RITTER",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Engagement in established customs.",
+      "clue_tag": "engagement-established-customs",
       "answer": "observance",
       "answer_letters": "OBSERVANCE",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "How many dollars Gates has now.",
+      "clue_tag": "how-many-dollars",
       "answer": "billions",
       "answer_letters": "BILLIONS",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Corporate body or individual with legal standing",
+      "clue_tag": "corporate-body-individual",
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "They have a space station named Mir.",
+      "clue_tag": "they-have-space",
       "answer": "russians",
       "answer_letters": "RUSSIANS",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Singer of 'You're All I Need to Get By.'",
+      "clue_tag": "singer-youre-all",
       "answer": "thornton",
       "answer_letters": "THORNTON",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Clandestine relationship.",
+      "clue_tag": "clandestine-relationship",
       "answer": "affair",
       "answer_letters": "AFFAIR",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Gear up, like for protection",
+      "clue_tag": "gear-up-like",
       "answer": "harness",
       "answer_letters": "HARNESS",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Relieved of duty.",
+      "clue_tag": "relieved-duty",
       "answer": "exempt",
       "answer_letters": "EXEMPT",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Residents of the boot-shaped nation.",
+      "clue_tag": "residents-bootshaped-nation",
       "answer": "italians",
       "answer_letters": "ITALIANS",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Tiny, almost zero.",
+      "clue_tag": "tiny-almost-zero",
       "answer": "negligible",
       "answer_letters": "NEGLIGIBLE",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Famous writer whose works include 'The Devil in the White City'.",
+      "clue_tag": "famous-writer-whose",
       "answer": "larson",
       "answer_letters": "LARSON",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Promote by public declaration.",
+      "clue_tag": "promote-public-declaration",
       "answer": "endorse",
       "answer_letters": "ENDORSE",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "It resists AC current flow, symbolized by Z.",
+      "clue_tag": "resists-ac-current",
       "answer": "impedance",
       "answer_letters": "IMPEDANCE",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Transient way of life, often following seasonal patterns.",
+      "clue_tag": "transient-way-life",
       "answer": "nomadic",
       "answer_letters": "NOMADIC",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Levels in a high-rise.",
+      "clue_tag": "levels-highrise",
       "answer": "floors",
       "answer_letters": "FLOORS",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Speculations that lack confirmation.",
+      "clue_tag": "speculations-lack-confirmation",
       "answer": "rumors",
       "answer_letters": "RUMORS",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Too little to be adequate.",
+      "clue_tag": "too-little-be",
       "answer": "insufficient",
       "answer_letters": "INSUFFICIENT",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Giving blood or organs for medical purposes.",
+      "clue_tag": "giving-blood-organs",
       "answer": "donating",
       "answer_letters": "DONATING",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Makes a bold claim.",
+      "clue_tag": "makes-bold-claim",
       "answer": "asserts",
       "answer_letters": "ASSERTS",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [

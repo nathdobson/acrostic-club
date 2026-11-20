@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "Ontario city of culture and education.",
+      "clue_tag": "ontario-city-culture",
       "answer": "guelph",
       "answer_letters": "GUELPH",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Couplets often found in poetry.",
+      "clue_tag": "couplets-often-found",
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "First name of a prolific Swedish author.",
+      "clue_tag": "first-name-prolific",
       "answer": "gunnar",
       "answer_letters": "GUNNAR",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Affords certainty to",
+      "clue_tag": "affords-certainty",
       "answer": "ensures",
       "answer_letters": "ENSURES",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Inhabitant of Africa's second-most populous country.",
+      "clue_tag": "inhabitant-africas-secondmost",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Hindu goddess of wealth and fortune",
+      "clue_tag": "hindu-goddess-wealth",
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Enhance or make better",
+      "clue_tag": "enhance-make-better",
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "First African-American US President's family name.",
+      "clue_tag": "first-africanamerican-us",
       "answer": "obama's",
       "answer_letters": "OBAMAS",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "A biblical disciple of Paul.",
+      "clue_tag": "biblical-disciple-paul",
       "answer": "timothy",
       "answer_letters": "TIMOTHY",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Gold-medal decathlete in '52",
+      "clue_tag": "goldmedal-decathlete-52",
       "answer": "mathias",
       "answer_letters": "MATHIAS",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Shunning or refusing to accept",
+      "clue_tag": "shunning-refusing-accept",
       "answer": "denying",
       "answer_letters": "DENYING",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "clue_tag": "sixcharacter-string-alternating",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Echoes of amusement.",
+      "clue_tag": "echoes-amusement",
       "answer": "laughs",
       "answer_letters": "LAUGHS",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Disciplines include dressage, show jumping and eventing.",
+      "clue_tag": "disciplines-include-dressage",
       "answer": "equestrian",
       "answer_letters": "EQUESTRIAN",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Opposing tracked behemoths.",
+      "clue_tag": "opposing-tracked-behemoths",
       "answer": "anti-tank",
       "answer_letters": "ANTITANK",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Notations or comments, often by scientists.",
+      "clue_tag": "notations-comments-often",
       "answer": "remarks",
       "answer_letters": "REMARKS",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue": "Sovereign in Islam.",
+      "clue_tag": "sovereign-islam",
       "answer": "caliph",
       "answer_letters": "CALIPH",
       "indices": [
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "clue": "Genre of music and culture.",
+      "clue_tag": "genre-music-culture",
       "answer": "hip-hop",
       "answer_letters": "HIPHOP",
       "indices": [

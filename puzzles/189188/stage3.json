@@ -5,7 +5,7 @@
   "source_letters": "MERCEDESLACKEYBASTION",
   "clues": [
     {
-      "clue": "Home of Chamundi Hill",
+      "clue_tag": "home-chamundi-hill",
       "answer": "mysore",
       "answer_letters": "MYSORE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Overcome with fury.",
+      "clue_tag": "overcome-fury",
       "answer": "enraged",
       "answer_letters": "ENRAGED",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Looked at once again.",
+      "clue_tag": "looked-once-again",
       "answer": "revisited",
       "answer_letters": "REVISITED",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Days of youth.",
+      "clue_tag": "days-youth",
       "answer": "childhood",
       "answer_letters": "CHILDHOOD",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Geologic phenomena involving molten rock.",
+      "clue_tag": "geologic-phenomena-involving",
       "answer": "eruptions",
       "answer_letters": "ERUPTIONS",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "City in Germany's Ruhr district",
+      "clue_tag": "city-germanys-ruhr",
       "answer": "dortmund",
       "answer_letters": "DORTMUND",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Brackish water zone where rivers meet oceans.",
+      "clue_tag": "brackish-water-zone",
       "answer": "estuary",
       "answer_letters": "ESTUARY",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue": "Implied or proposed.",
+      "clue_tag": "implied-proposed",
       "answer": "suggested",
       "answer_letters": "SUGGESTED",
       "indices": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "clue": "Name associated with 'Wuthering Heights'.",
+      "clue_tag": "name-associated-wuthering",
       "answer": "lockwood",
       "answer_letters": "LOCKWOOD",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "European island nation.",
+      "clue_tag": "european-island-nation",
       "answer": "cyprus",
       "answer_letters": "CYPRUS",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Official language of Karnataka.",
+      "clue_tag": "official-language-karnataka",
       "answer": "kannada",
       "answer_letters": "KANNADA",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Theory proposed by Darwin.",
+      "clue_tag": "theory-proposed-darwin",
       "answer": "evolution",
       "answer_letters": "EVOLUTION",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "The Beatles' best-selling single.",
+      "clue_tag": "beatles-bestselling-single",
       "answer": "yesterday",
       "answer_letters": "YESTERDAY",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Wine containers",
+      "clue_tag": "wine-containers",
       "answer": "bottles",
       "answer_letters": "BOTTLES",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Town in Kent.",
+      "clue_tag": "town-kent",
       "answer": "ashford",
       "answer_letters": "ASHFORD",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Things to admire or look at.",
+      "clue_tag": "things-admire-look",
       "answer": "sights",
       "answer_letters": "SIGHTS",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Valley or low point in a line chart.",
+      "clue_tag": "valley-low-point",
       "answer": "trough",
       "answer_letters": "TROUGH",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Babyhood stage.",
+      "clue_tag": "babyhood-stage",
       "answer": "infancy",
       "answer_letters": "INFANCY",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Suffix for the exact hour",
+      "clue_tag": "suffix-exact-hour",
       "answer": "o'clock",
       "answer_letters": "OCLOCK",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [

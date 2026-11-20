@@ -5,7 +5,7 @@
   "source_letters": "DANBROWNANGELSDEMONS",
   "clues": [
     {
-      "clue": "Normal operations.",
+      "clue_tag": "normal-operations",
       "answer": "day-to-day",
       "answer_letters": "DAYTODAY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "One who has attended and graduated from an institution",
+      "clue_tag": "one-has-attended",
       "answer": "alumnus",
       "answer_letters": "ALUMNUS",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "A split from a company or political party.",
+      "clue_tag": "split-company-political",
       "answer": "breakaway",
       "answer_letters": "BREAKAWAY",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Without conscious decision or premeditation.",
+      "clue_tag": "without-conscious-decision",
       "answer": "randomly",
       "answer_letters": "RANDOMLY",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "An exotic bloom, often found in tropical regions.",
+      "clue_tag": "exotic-bloom-often",
       "answer": "orchid",
       "answer_letters": "ORCHID",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Devoid of",
+      "clue_tag": "devoid",
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Small, specialized pockets within a broader field.",
+      "clue_tag": "small-specialized-pockets",
       "answer": "niches",
       "answer_letters": "NICHES",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Christie of mystery fame.",
+      "clue_tag": "christie-mystery-fame",
       "answer": "agatha",
       "answer_letters": "AGATHA",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Involving nerve transmission.",
+      "clue_tag": "involving-nerve-transmission",
       "answer": "neuronal",
       "answer_letters": "NEURONAL",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Brick city for Batman.",
+      "clue_tag": "brick-city-batman",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Vital for both physical activities and electronic devices.",
+      "clue_tag": "vital-both-physical",
       "answer": "energy",
       "answer_letters": "ENERGY",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Skilled in reading and writing.",
+      "clue_tag": "skilled-reading-writing",
       "answer": "literate",
       "answer_letters": "LITERATE",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Fancy rooms in a hotel or guest house.",
+      "clue_tag": "fancy-rooms-hotel",
       "answer": "suites",
       "answer_letters": "SUITES",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Defeated.",
+      "clue_tag": "defeated",
       "answer": "downed",
       "answer_letters": "DOWNED",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Sent out as sound waves.",
+      "clue_tag": "sent-out-sound",
       "answer": "emitted",
       "answer_letters": "EMITTED",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Iconic look popularized by rock bands of the late 20th century.",
+      "clue_tag": "iconic-look-popularized",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "One of the leading ladies in 'Steel Magnolias'.",
+      "clue_tag": "one-leading-ladies",
       "answer": "shirley",
       "answer_letters": "SHIRLEY",
       "indices": [

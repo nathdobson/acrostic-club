@@ -5,7 +5,7 @@
   "source_letters": "OLIVIASUDJICSYMPATHY",
   "clues": [
     {
-      "clue": "Begins with 'O' but rhymes with duffers",
+      "clue_tag": "begins-o-but",
       "answer": "offers",
       "answer_letters": "OFFERS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Legal dispute filed in court",
+      "clue_tag": "legal-dispute-filed",
       "answer": "lawsuit",
       "answer_letters": "LAWSUIT",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Revenues, for better or worse.",
+      "clue_tag": "revenues-better-worse",
       "answer": "incomes",
       "answer_letters": "INCOMES",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Folk religion of Haiti.",
+      "clue_tag": "folk-religion-haiti",
       "answer": "voodoo",
       "answer_letters": "VOODOO",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Having official approval.",
+      "clue_tag": "having-official-approval",
       "answer": "authorized",
       "answer_letters": "AUTHORIZED",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Changes in position or direction.",
+      "clue_tag": "changes-position-direction",
       "answer": "shifts",
       "answer_letters": "SHIFTS",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Made current by new additions.",
+      "clue_tag": "made-current-new",
       "answer": "updated",
       "answer_letters": "UPDATED",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "The antonym of upwards.",
+      "clue_tag": "antonym-upwards",
       "answer": "downwards",
       "answer_letters": "DOWNWARDS",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "A style icon known for her elegance and poise.",
+      "clue_tag": "style-icon-known",
       "answer": "jackie",
       "answer_letters": "JACKIE",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Wrought upon a victim.",
+      "clue_tag": "wrought-upon-victim",
       "answer": "inflicted",
       "answer_letters": "INFLICTED",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Speakers of a North Caucasian language.",
+      "clue_tag": "speakers-north-caucasian",
       "answer": "chechen",
       "answer_letters": "CHECHEN",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Adored one.",
+      "clue_tag": "adored-one",
       "answer": "sweetheart",
       "answer_letters": "SWEETHEART",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Motorcycle brand.",
+      "clue_tag": "motorcycle-brand",
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "His Gospel opens with a genealogy of Jesus Christ.",
+      "clue_tag": "his-gospel-opens",
       "answer": "matthew",
       "answer_letters": "MATTHEW",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Idaho's main crop.",
+      "clue_tag": "idahos-main-crop",
       "answer": "potatoes",
       "answer_letters": "POTATOES",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "City in Gujarat, India",
+      "clue_tag": "city-gujarat-india",
       "answer": "ahmedabad",
       "answer_letters": "AHMEDABAD",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Henceforth.",
+      "clue_tag": "henceforth",
       "answer": "thereafter",
       "answer_letters": "THEREAFTER",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "A spiky mammal.",
+      "clue_tag": "spiky-mammal",
       "answer": "hedgehog",
       "answer_letters": "HEDGEHOG",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [

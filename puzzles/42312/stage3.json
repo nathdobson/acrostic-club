@@ -5,7 +5,7 @@
   "source_letters": "AYNRANDTHEFOUNTAINHEAD",
   "clues": [
     {
-      "clue": "Known for their rivalry with Real Madrid.",
+      "clue_tag": "known-their-rivalry",
       "answer": "atlético",
       "answer_letters": "ATLETICO",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Hard to persuade or influence.",
+      "clue_tag": "hard-persuade-influence",
       "answer": "resistant",
       "answer_letters": "RESISTANT",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "A first name that begins with 'A' and rhymes with 'Lexis'.",
+      "clue_tag": "first-name-begins",
       "answer": "alexis",
       "answer_letters": "ALEXIS",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Person without a name.",
+      "clue_tag": "person-without-name",
       "answer": "nobody",
       "answer_letters": "NOBODY",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Spiritual teaching central to Asian philosophies.",
+      "clue_tag": "spiritual-teaching-central",
       "answer": "dharma",
       "answer_letters": "DHARMA",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "A British colloquialism for bathroom.",
+      "clue_tag": "british-colloquialism-bathroom",
       "answer": "toilet",
       "answer_letters": "TOILET",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "They rose to fame with 'MMMBop'.",
+      "clue_tag": "they-rose-fame",
       "answer": "hanson",
       "answer_letters": "HANSON",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Adjacent boroughs include Wandsworth and Kensington.",
+      "clue_tag": "adjacent-boroughs-include",
       "answer": "fulham",
       "answer_letters": "FULHAM",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Places where one can purchase goods or services.",
+      "clue_tag": "places-where-one",
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "A name meaning 'little bear'.",
+      "clue_tag": "name-meaning-little",
       "answer": "ursula",
       "answer_letters": "URSULA",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Component in fertilizers and explosives.",
+      "clue_tag": "component-fertilizers-explosives",
       "answer": "nitrate",
       "answer_letters": "NITRATE",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": "They manufacture Corollas.",
+      "clue_tag": "they-manufacture-corollas",
       "answer": "toyota",
       "answer_letters": "TOYOTA",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Control of the fleet was its responsibility.",
+      "clue_tag": "control-fleet-was",
       "answer": "admiralty",
       "answer_letters": "ADMIRALTY",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "The magazine is known for its influential covers and in-depth reporting.",
+      "clue_tag": "magazine-known-influential",
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Lullaby's essential aspect.",
+      "clue_tag": "lullabys-essential-aspect",
       "answer": "harmony",
       "answer_letters": "HARMONY",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "It includes Norfolk and Suffolk.",
+      "clue_tag": "includes-norfolk-suffolk",
       "answer": "anglia",
       "answer_letters": "ANGLIA",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue": "Protect or support",
+      "clue_tag": "protect-support",
       "answer": "defend",
       "answer_letters": "DEFEND",
       "indices": [

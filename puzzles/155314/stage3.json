@@ -5,7 +5,7 @@
   "source_letters": "RUPIKAURMILKANDHONEY",
   "clues": [
     {
-      "clue": "Harvard's original sister school.",
+      "clue_tag": "harvards-original-sister",
       "answer": "radcliffe",
       "answer_letters": "RADCLIFFE",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Not influenced by surroundings.",
+      "clue_tag": "not-influenced-surroundings",
       "answer": "unaffected",
       "answer_letters": "UNAFFECTED",
       "indices": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "clue": "A dominant force in any competitive field.",
+      "clue_tag": "dominant-force-any",
       "answer": "powerhouse",
       "answer_letters": "POWERHOUSE",
       "indices": [
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "clue": "A martial art originating in Japan.",
+      "clue_tag": "martial-art-originating",
       "answer": "karate",
       "answer_letters": "KARATE",
       "indices": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "clue": "Can operate independently.",
+      "clue_tag": "can-operate-independently",
       "answer": "autonomous",
       "answer_letters": "AUTONOMOUS",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Applicant whom no employer wants.",
+      "clue_tag": "applicant-whom-no",
       "answer": "undesirable",
       "answer_letters": "UNDESIRABLE",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "An arc in the sky following a storm.",
+      "clue_tag": "arc-sky-following",
       "answer": "rainbow",
       "answer_letters": "RAINBOW",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "Not easily forgotten.",
+      "clue_tag": "not-easily-forgotten",
       "answer": "memorable",
       "answer_letters": "MEMORABLE",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Introduced systematically.",
+      "clue_tag": "introduced-systematically",
       "answer": "implemented",
       "answer_letters": "IMPLEMENTED",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue": "Within legal boundaries.",
+      "clue_tag": "within-legal-boundaries",
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Founder of a breakfast cereal empire.",
+      "clue_tag": "founder-breakfast-cereal",
       "answer": "kellogg",
       "answer_letters": "KELLOGG",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Commonly employed in the creation of master discs for vinyl records.",
+      "clue_tag": "commonly-employed-creation",
       "answer": "acetate",
       "answer_letters": "ACETATE",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue": "Tribe of the Southwest U.S.",
+      "clue_tag": "tribe-southwest-us",
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Location where skyscrapers often rise.",
+      "clue_tag": "location-where-skyscrapers",
       "answer": "downtown",
       "answer_letters": "DOWNTOWN",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Criminals in the eyes of society.",
+      "clue_tag": "criminals-eyes-society",
       "answer": "outlaws",
       "answer_letters": "OUTLAWS",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Participate actively.",
+      "clue_tag": "participate-actively",
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [

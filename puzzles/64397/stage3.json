@@ -5,7 +5,7 @@
   "source_letters": "LOUISEPENNYSTILLLIFE",
   "clues": [
     {
-      "clue": "Capital of Uttar Pradesh, India.",
+      "clue_tag": "capital-uttar-pradesh",
       "answer": "lucknow",
       "answer_letters": "LUCKNOW",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "An item that one may perceive with their senses.",
+      "clue_tag": "item-one-may",
       "answer": "object",
       "answer_letters": "OBJECT",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Known for sinking Allied ships during WWI and WWII.",
+      "clue_tag": "known-sinking-allied",
       "answer": "u-boats",
       "answer_letters": "UBOATS",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "A classical music work in multiple movements.",
+      "clue_tag": "classical-music-work",
       "answer": "symphony",
       "answer_letters": "SYMPHONY",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Made sure rules were followed",
+      "clue_tag": "made-sure-rules",
       "answer": "enforced",
       "answer_letters": "ENFORCED",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Part of the CPU, often referred to as 'the brain' of the computer.",
+      "clue_tag": "part-cpu-often",
       "answer": "processor",
       "answer_letters": "PROCESSOR",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Subject of an annual celebration on Purim",
+      "clue_tag": "subject-annual-celebration",
       "answer": "esther",
       "answer_letters": "ESTHER",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "President of Egypt who nationalized the Suez Canal.",
+      "clue_tag": "president-egypt-nationalized",
       "answer": "nasser",
       "answer_letters": "NASSER",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Part of historic borough once spanning both sides of the Thames.",
+      "clue_tag": "part-historic-borough",
       "answer": "southwark",
       "answer_letters": "SOUTHWARK",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Thusly, resulting in",
+      "clue_tag": "thusly-resulting",
       "answer": "thereby",
       "answer_letters": "THEREBY",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "Understanding art symbols.",
+      "clue_tag": "understanding-art-symbols",
       "answer": "iconography",
       "answer_letters": "ICONOGRAPHY",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Entered into records",
+      "clue_tag": "entered-into-records",
       "answer": "logged",
       "answer_letters": "LOGGED",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Embedded firmly, as in a log or a spear.",
+      "clue_tag": "embedded-firmly-log",
       "answer": "lodged",
       "answer_letters": "LODGED",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Capital city: Maseru.",
+      "clue_tag": "capital-city-maseru",
       "answer": "lesotho",
       "answer_letters": "LESOTHO",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Items purchased from another nation.",
+      "clue_tag": "items-purchased-another",
       "answer": "imports",
       "answer_letters": "IMPORTS",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Famous Japanese city known for its international music festival.",
+      "clue_tag": "famous-japanese-city",
       "answer": "fukuoka",
       "answer_letters": "FUKUOKA",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Jonathan, a preacher of New England Calvinism.",
+      "clue_tag": "jonathan-preacher-new",
       "answer": "edwards",
       "answer_letters": "EDWARDS",
       "indices": [

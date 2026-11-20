@@ -5,7 +5,7 @@
   "source_letters": "ANDRESINCAODORINTA",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "answers",
       "answer_letters": "ANSWERS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "neural",
       "answer_letters": "NEURAL",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "defeating",
       "answer_letters": "DEFEATING",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "eligible",
       "answer_letters": "ELIGIBLE",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stephenson",
       "answer_letters": "STEPHENSON",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "namely",
       "answer_letters": "NAMELY",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "awesome",
       "answer_letters": "AWESOME",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "outspoken",
       "answer_letters": "OUTSPOKEN",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dunlop",
       "answer_letters": "DUNLOP",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "off-broadway",
       "answer_letters": "OFFBROADWAY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "remington",
       "answer_letters": "REMINGTON",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "illegitimate",
       "answer_letters": "ILLEGITIMATE",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nevertheless",
       "answer_letters": "NEVERTHELESS",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "abnormalities",
       "answer_letters": "ABNORMALITIES",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDPRETTIES",
   "clues": [
     {
-      "clue": "Term related to sea water.",
+      "clue_tag": "term-related-sea",
       "answer": "saline",
       "answer_letters": "SALINE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "A common Bengali family name, associated with intellectual and artistic contributions.",
+      "clue_tag": "common-bengali-family",
       "answer": "chowdhury",
       "answer_letters": "CHOWDHURY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Global water bodies in five parts.",
+      "clue_tag": "global-water-bodies",
       "answer": "oceans",
       "answer_letters": "OCEANS",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "An award for a victory.",
+      "clue_tag": "award-victory",
       "answer": "trophy",
       "answer_letters": "TROPHY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "A subgenre of heavy metal music known for its speed and aggression.",
+      "clue_tag": "subgenre-heavy-metal",
       "answer": "thrash",
       "answer_letters": "THRASH",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Site of the Royal Artillery Barracks.",
+      "clue_tag": "site-royal-artillery",
       "answer": "woolwich",
       "answer_letters": "WOOLWICH",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Ultimate confrontation.",
+      "clue_tag": "ultimate-confrontation",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Medicine in pill form.",
+      "clue_tag": "medicine-pill-form",
       "answer": "tablet",
       "answer_letters": "TABLET",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
+      "clue_tag": "film-these-are",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Counts on another to accomplish a task.",
+      "clue_tag": "counts-another-accomplish",
       "answer": "relies",
       "answer_letters": "RELIES",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Girl, lady.",
+      "clue_tag": "girl-lady",
       "answer": "female",
       "answer_letters": "FEMALE",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": "Takes part in an activity.",
+      "clue_tag": "takes-part-activity",
       "answer": "engages",
       "answer_letters": "ENGAGES",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Puppy's group.",
+      "clue_tag": "puppys-group",
       "answer": "litter",
       "answer_letters": "LITTER",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "The main meal of the day, especially for some.",
+      "clue_tag": "main-meal-day",
       "answer": "dinner",
       "answer_letters": "DINNER",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Near the Blue Mountains.",
+      "clue_tag": "near-blue-mountains",
       "answer": "penrith",
       "answer_letters": "PENRITH",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Symbolic actions performed on regular occasions.",
+      "clue_tag": "symbolic-actions-performed",
       "answer": "ritual",
       "answer_letters": "RITUAL",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Not so anymore; previously.",
+      "clue_tag": "not-so-anymore",
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Past participle of hurl",
+      "clue_tag": "past-participle-hurl",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Customized with a particular subject.",
+      "clue_tag": "customized-particular-subject",
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Sudden realization or discovery.",
+      "clue_tag": "sudden-realization-discovery",
       "answer": "insight",
       "answer_letters": "INSIGHT",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Not westbound.",
+      "clue_tag": "not-westbound",
       "answer": "eastward",
       "answer_letters": "EASTWARD",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue": "Move quickly back and forth between places.",
+      "clue_tag": "move-quickly-back",
       "answer": "shuttle",
       "answer_letters": "SHUTTLE",
       "indices": [

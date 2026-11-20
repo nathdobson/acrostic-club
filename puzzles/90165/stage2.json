@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDPRETTIES",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "saline",
       "answer_letters": "SALINE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "chowdhury",
       "answer_letters": "CHOWDHURY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "oceans",
       "answer_letters": "OCEANS",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "trophy",
       "answer_letters": "TROPHY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thrash",
       "answer_letters": "THRASH",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "woolwich",
       "answer_letters": "WOOLWICH",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "tablet",
       "answer_letters": "TABLET",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "relies",
       "answer_letters": "RELIES",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "female",
       "answer_letters": "FEMALE",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "engages",
       "answer_letters": "ENGAGES",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "litter",
       "answer_letters": "LITTER",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dinner",
       "answer_letters": "DINNER",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "penrith",
       "answer_letters": "PENRITH",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ritual",
       "answer_letters": "RITUAL",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "insight",
       "answer_letters": "INSIGHT",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "eastward",
       "answer_letters": "EASTWARD",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "shuttle",
       "answer_letters": "SHUTTLE",
       "indices": [

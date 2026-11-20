@@ -5,7 +5,7 @@
   "source_letters": "EMILYGIFFINBABYPROOF",
   "clues": [
     {
-      "clue": "Location not here.",
+      "clue_tag": "location-not-here",
       "answer": "elsewhere",
       "answer_letters": "ELSEWHERE",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "18th-century Indian warrior clan led by Shivaji.",
+      "clue_tag": "18thcentury-indian-warrior",
       "answer": "maratha",
       "answer_letters": "MARATHA",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Marked by new ideas or methods.",
+      "clue_tag": "marked-new-ideas",
       "answer": "innovative",
       "answer_letters": "INNOVATIVE",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Deadly.",
+      "clue_tag": "deadly",
       "answer": "lethal",
       "answer_letters": "LETHAL",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue": "Olden port city in England.",
+      "clue_tag": "olden-port-city",
       "answer": "yarmouth",
       "answer_letters": "YARMOUTH",
       "indices": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "clue": "Former baseball player Miguel.",
+      "clue_tag": "former-baseball-player",
       "answer": "guerrero",
       "answer_letters": "GUERRERO",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Participants of MMA events.",
+      "clue_tag": "participants-mma-events",
       "answer": "fighters",
       "answer_letters": "FIGHTERS",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Dense, leafy environment.",
+      "clue_tag": "dense-leafy-environment",
       "answer": "forest",
       "answer_letters": "FOREST",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Remove from social interaction.",
+      "clue_tag": "remove-social-interaction",
       "answer": "isolate",
       "answer_letters": "ISOLATE",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue": "Indifferent or unbiased position.",
+      "clue_tag": "indifferent-unbiased-position",
       "answer": "neutral",
       "answer_letters": "NEUTRAL",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Purchased something.",
+      "clue_tag": "purchased-something",
       "answer": "bought",
       "answer_letters": "BOUGHT",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Harmonious understanding or deal.",
+      "clue_tag": "harmonious-understanding-deal",
       "answer": "agreement",
       "answer_letters": "AGREEMENT",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue": "Layer of life on Earth.",
+      "clue_tag": "layer-life-earth",
       "answer": "biosphere",
       "answer_letters": "BIOSPHERE",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": "Teens or adolescents.",
+      "clue_tag": "teens-adolescents",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue": "Father of Alexander the Great.",
+      "clue_tag": "father-alexander-great",
       "answer": "philip",
       "answer_letters": "PHILIP",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Told with details",
+      "clue_tag": "told-details",
       "answer": "reported",
       "answer_letters": "REPORTED",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Resist or stand against.",
+      "clue_tag": "resist-stand-against",
       "answer": "oppose",
       "answer_letters": "OPPOSE",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "The movement of molten lava from a volcano.",
+      "clue_tag": "movement-molten-lava",
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "Washington's close friend from the Revolutionary War era.",
+      "clue_tag": "washingtons-close-friend",
       "answer": "fayette",
       "answer_letters": "FAYETTE",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "MARKTWAINWHATISMAN",
   "clues": [
     {
-      "clue": "Twelve slices of time.",
+      "clue_tag": "twelve-slices-time",
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Pulls visitors to a theme park.",
+      "clue_tag": "pulls-visitors-theme",
       "answer": "attractions",
       "answer_letters": "ATTRACTIONS",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Morally corrupt or unethical.",
+      "clue_tag": "morally-corrupt-unethical",
       "answer": "rotten",
       "answer_letters": "ROTTEN",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "The language of K-Pop and Kimchi.",
+      "clue_tag": "language-kpop-kimchi",
       "answer": "korean",
       "answer_letters": "KOREAN",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Study of land elevation and relief.",
+      "clue_tag": "study-land-elevation",
       "answer": "topography",
       "answer_letters": "TOPOGRAPHY",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Devoid of",
+      "clue_tag": "devoid",
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Concession conjunction.",
+      "clue_tag": "concession-conjunction",
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Public works backbone.",
+      "clue_tag": "public-works-backbone",
       "answer": "infrastructure",
       "answer_letters": "INFRASTRUCTURE",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Perceptibly, in a discernible manner.",
+      "clue_tag": "perceptibly-discernible-manner",
       "answer": "noticeably",
       "answer_letters": "NOTICEABLY",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Subject of many a Salem story.",
+      "clue_tag": "subject-many-salem",
       "answer": "witchcraft",
       "answer_letters": "WITCHCRAFT",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Earth has two of these.",
+      "clue_tag": "earth-has-two",
       "answer": "hemisphere",
       "answer_letters": "HEMISPHERE",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Social elite class.",
+      "clue_tag": "social-elite-class",
       "answer": "aristocracy",
       "answer_letters": "ARISTOCRACY",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Hand in hand.",
+      "clue_tag": "hand-hand",
       "answer": "together",
       "answer_letters": "TOGETHER",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Included in something.",
+      "clue_tag": "included-something",
       "answer": "involved",
       "answer_letters": "INVOLVED",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Rain falling in brief, heavy bursts.",
+      "clue_tag": "rain-falling-brief",
       "answer": "showers",
       "answer_letters": "SHOWERS",
       "indices": [
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "clue": "Altered by radiation.",
+      "clue_tag": "altered-radiation",
       "answer": "mutant",
       "answer_letters": "MUTANT",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "A subject for believers and skeptics alike.",
+      "clue_tag": "subject-believers-skeptics",
       "answer": "afterlife",
       "answer_letters": "AFTERLIFE",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Hosts the annual Dukakis Center conference.",
+      "clue_tag": "hosts-annual-dukakis",
       "answer": "northeastern",
       "answer_letters": "NORTHEASTERN",
       "indices": [

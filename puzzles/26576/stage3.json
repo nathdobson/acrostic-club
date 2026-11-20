@@ -5,7 +5,7 @@
   "source_letters": "TONIALEOTAKINGSHOTS",
   "clues": [
     {
-      "clue": "Double winner.",
+      "clue_tag": "double-winner",
       "answer": "two-time",
       "answer_letters": "TWOTIME",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Path where you can't go back.",
+      "clue_tag": "path-where-you",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Entangle or engage in a matter",
+      "clue_tag": "entangle-engage-matter",
       "answer": "involve",
       "answer_letters": "INVOLVE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Became sufficient or adequate (v.)",
+      "clue_tag": "became-sufficient-adequate",
       "answer": "amounted",
       "answer_letters": "AMOUNTED",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Type arrangement on a page.",
+      "clue_tag": "type-arrangement-page",
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Utterly, without exception.",
+      "clue_tag": "utterly-without-exception",
       "answer": "entirely",
       "answer_letters": "ENTIRELY",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Commonly referred to as 'ODI' in cricket.",
+      "clue_tag": "commonly-referred-odi",
       "answer": "one-day",
       "answer_letters": "ONEDAY",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "A common timeframe for short-term investments.",
+      "clue_tag": "common-timeframe-shortterm",
       "answer": "two-year",
       "answer_letters": "TWOYEAR",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "A punch strong enough to incapacitate an opponent.",
+      "clue_tag": "punch-strong-enough",
       "answer": "knockout",
       "answer_letters": "KNOCKOUT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Enhance or make better",
+      "clue_tag": "enhance-make-better",
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Easily identified due to negative traits.",
+      "clue_tag": "easily-identified-due",
       "answer": "notorious",
       "answer_letters": "NOTORIOUS",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Italian moniker shared by da Verrazano and Bellini.",
+      "clue_tag": "italian-moniker-shared",
       "answer": "giovanni",
       "answer_letters": "GIOVANNI",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Across an entire state.",
+      "clue_tag": "across-entire-state",
       "answer": "statewide",
       "answer_letters": "STATEWIDE",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "A golden age or flourishing period.",
+      "clue_tag": "golden-age-flourishing",
       "answer": "heyday",
       "answer_letters": "HEYDAY",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Wardrobe ensemble.",
+      "clue_tag": "wardrobe-ensemble",
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Book series by Stephenie Meyer",
+      "clue_tag": "book-series-stephenie",
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Occurrences that spark debates on gun control.",
+      "clue_tag": "occurrences-spark-debates",
       "answer": "shootings",
       "answer_letters": "SHOOTINGS",
       "indices": [

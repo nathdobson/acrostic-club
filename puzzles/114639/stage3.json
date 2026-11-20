@@ -5,7 +5,7 @@
   "source_letters": "MILANKUNDERAIMMORTALITY",
   "clues": [
     {
-      "clue": "Natural habitat for many insects.",
+      "clue_tag": "natural-habitat-many",
       "answer": "meadows",
       "answer_letters": "MEADOWS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Included in something.",
+      "clue_tag": "included-something",
       "answer": "involved",
       "answer_letters": "INVOLVED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "City in Middlesex County, Massachusetts",
+      "clue_tag": "city-middlesex-county",
       "answer": "lowell",
       "answer_letters": "LOWELL",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Attribute related to hearing.",
+      "clue_tag": "attribute-related-hearing",
       "answer": "acoustic",
       "answer_letters": "ACOUSTIC",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Their staple is dal bhat.",
+      "clue_tag": "their-staple-dal",
       "answer": "nepalese",
       "answer_letters": "NEPALESE",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Surname of Indian film star Shahid __.",
+      "clue_tag": "surname-indian-film",
       "answer": "kapoor",
       "answer_letters": "KAPOOR",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Known for sinking Allied ships during WWI and WWII.",
+      "clue_tag": "known-sinking-allied",
       "answer": "u-boats",
       "answer_letters": "UBOATS",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Ship or send out promptly.",
+      "clue_tag": "ship-send-out",
       "answer": "dispatch",
       "answer_letters": "DISPATCH",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "Less challenging.",
+      "clue_tag": "less-challenging",
       "answer": "easier",
       "answer_letters": "EASIER",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Incentive.",
+      "clue_tag": "incentive",
       "answer": "reward",
       "answer_letters": "REWARD",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "To impact a situation or outcome",
+      "clue_tag": "impact-situation-outcome",
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "_____, who played Peter Parker/Spiderman.",
+      "clue_tag": "played-peter-parkerspiderman",
       "answer": "maguire",
       "answer_letters": "MAGUIRE",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Saw the rise of apes and other large mammals",
+      "clue_tag": "saw-rise-apes",
       "answer": "miocene",
       "answer_letters": "MIOCENE",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "An item that one may perceive with their senses.",
+      "clue_tag": "item-one-may",
       "answer": "object",
       "answer_letters": "OBJECT",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "They're likely still in high school.",
+      "clue_tag": "theyre-likely-still",
       "answer": "teenager",
       "answer_letters": "TEENAGER",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Home to teams like Sydney FC and Melbourne Victory.",
+      "clue_tag": "home-teams-like",
       "answer": "a-league",
       "answer_letters": "ALEAGUE",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Cradle of Pakistan's independence movement.",
+      "clue_tag": "cradle-pakistans-independence",
       "answer": "lahore",
       "answer_letters": "LAHORE",
       "indices": [
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "clue": "Entangle or engage in a matter",
+      "clue_tag": "entangle-engage-matter",
       "answer": "involve",
       "answer_letters": "INVOLVE",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Road congestion.",
+      "clue_tag": "road-congestion",
       "answer": "traffic",
       "answer_letters": "TRAFFIC",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [

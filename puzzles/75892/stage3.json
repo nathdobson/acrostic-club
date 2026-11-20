@@ -5,7 +5,7 @@
   "source_letters": "DREWNELLINSSMITHARCADE",
   "clues": [
     {
-      "clue": "Spoke for and against propositions.",
+      "clue_tag": "spoke-against-propositions",
       "answer": "debated",
       "answer_letters": "DEBATED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Non-angular figure.",
+      "clue_tag": "nonangular-figure",
       "answer": "rounded",
       "answer_letters": "ROUNDED",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Brother to George III",
+      "clue_tag": "brother-george-iii",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Used to introduce a clause expressing a condition.",
+      "clue_tag": "used-introduce-clause",
       "answer": "whether",
       "answer_letters": "WHETHER",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "City on Puget Sound.",
+      "clue_tag": "city-puget-sound",
       "answer": "everett",
       "answer_letters": "EVERETT",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Adjective for a beautiful day.",
+      "clue_tag": "adjective-beautiful-day",
       "answer": "lovely",
       "answer_letters": "LOVELY",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "A far away or unknown location",
+      "clue_tag": "far-away-unknown",
       "answer": "somewhere",
       "answer_letters": "SOMEWHERE",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "Garden plants.",
+      "clue_tag": "garden-plants",
       "answer": "shrubs",
       "answer_letters": "SHRUBS",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Pastureland.",
+      "clue_tag": "pastureland",
       "answer": "meadow",
       "answer_letters": "MEADOW",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Where Leonardo da Vinci was born.",
+      "clue_tag": "where-leonardo-da",
       "answer": "italia",
       "answer_letters": "ITALIA",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Celebrated designer of jewelry, born in 1848.",
+      "clue_tag": "celebrated-designer-jewelry",
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "clue_tag": "tennis-star-lost",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": "Denier of gods.",
+      "clue_tag": "denier-gods",
       "answer": "atheist",
       "answer_letters": "ATHEIST",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "Done over multiple instances.",
+      "clue_tag": "done-over-multiple",
       "answer": "repeated",
       "answer_letters": "REPEATED",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "A morning pick-me-up.",
+      "clue_tag": "morning-pickmeup",
       "answer": "coffee",
       "answer_letters": "COFFEE",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Someone who excels in sports.",
+      "clue_tag": "someone-excels-sports",
       "answer": "athlete",
       "answer_letters": "ATHLETE",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Debby with an extra 'e.'",
+      "clue_tag": "debby-extra-e",
       "answer": "debbie",
       "answer_letters": "DEBBIE",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [

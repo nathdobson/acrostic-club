@@ -5,7 +5,7 @@
   "source_letters": "MARCELPROUSTSWANNSWAY",
   "clues": [
     {
-      "clue": "First name of French novelist Hervé.",
+      "clue_tag": "first-name-french",
       "answer": "michel",
       "answer_letters": "MICHEL",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Partnered with Mila Kunis in a popular romantic comedy series.",
+      "clue_tag": "partnered-mila-kunis",
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Freshened up, like an old house",
+      "clue_tag": "freshened-up-like",
       "answer": "renovated",
       "answer_letters": "RENOVATED",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Decide on a preference.",
+      "clue_tag": "decide-preference",
       "answer": "choose",
       "answer_letters": "CHOOSE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Immovably settled into a position, attitude, etc.",
+      "clue_tag": "immovably-settled-into",
       "answer": "entrenched",
       "answer_letters": "ENTRENCHED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Synonym for small.",
+      "clue_tag": "synonym-small",
       "answer": "little",
       "answer_letters": "LITTLE",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Near the Blue Mountains.",
+      "clue_tag": "near-blue-mountains",
       "answer": "penrith",
       "answer_letters": "PENRITH",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Far-off or distant in location.",
+      "clue_tag": "faroff-distant-location",
       "answer": "remote",
       "answer_letters": "REMOTE",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Made available as a suggestion or proposal.",
+      "clue_tag": "made-available-suggestion",
       "answer": "offered",
       "answer_letters": "OFFERED",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "Fit for purpose or application.",
+      "clue_tag": "fit-purpose-application",
       "answer": "usable",
       "answer_letters": "USABLE",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Port city of China, famous for its skyscrapers.",
+      "clue_tag": "port-city-china",
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Pilferers.",
+      "clue_tag": "pilferers",
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Mountain valley in Virginia.",
+      "clue_tag": "mountain-valley-virginia",
       "answer": "shenandoah",
       "answer_letters": "SHENANDOAH",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Transportation's fundamental component.",
+      "clue_tag": "transportations-fundamental-component",
       "answer": "wheels",
       "answer_letters": "WHEELS",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Within financial reach.",
+      "clue_tag": "within-financial-reach",
       "answer": "affordable",
       "answer_letters": "AFFORDABLE",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "It's not the hammer, but rather this that pierces the haystack.",
+      "clue_tag": "not-hammer-but",
       "answer": "needle",
       "answer_letters": "NEEDLE",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "No one of two.",
+      "clue_tag": "no-one-two",
       "answer": "neither",
       "answer_letters": "NEITHER",
       "indices": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "clue": "Biblical day of rest",
+      "clue_tag": "biblical-day-rest",
       "answer": "sabbath",
       "answer_letters": "SABBATH",
       "indices": [
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "clue": "Bertrand Russell's collaborator on logic",
+      "clue_tag": "bertrand-russells-collaborator",
       "answer": "whitehead",
       "answer_letters": "WHITEHEAD",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue": "In San Mateo County.",
+      "clue_tag": "san-mateo-county",
       "answer": "atherton",
       "answer_letters": "ATHERTON",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue": "Somerset town home to Huish Park.",
+      "clue_tag": "somerset-town-home",
       "answer": "yeovil",
       "answer_letters": "YEOVIL",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "MICHELANGELOBUONARROTI",
   "clues": [
     {
-      "clue": "A person from around Warsaw, which is located in this Polish voivodeship.",
+      "clue_tag": "person-around-warsaw",
       "answer": "masovian",
       "answer_letters": "MASOVIAN",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "They can be viral or bacterial in origin.",
+      "clue_tag": "they-can-be",
       "answer": "illnesses",
       "answer_letters": "ILLNESSES",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Alternative options.",
+      "clue_tag": "alternative-options",
       "answer": "choices",
       "answer_letters": "CHOICES",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Received with honor or celebration",
+      "clue_tag": "received-honor-celebration",
       "answer": "hailed",
       "answer_letters": "HAILED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Can imply choice between two options.",
+      "clue_tag": "can-imply-choice",
       "answer": "either",
       "answer_letters": "EITHER",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Bottom rank in a hierarchy.",
+      "clue_tag": "bottom-rank-hierarchy",
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Singer of 'Foolish' and 'Rock wit U (Awww Baby).'",
+      "clue_tag": "singer-foolish-rock",
       "answer": "ashanti",
       "answer_letters": "ASHANTI",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Political entity.",
+      "clue_tag": "political-entity",
       "answer": "nation",
       "answer_letters": "NATION",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Study of language structure.",
+      "clue_tag": "study-language-structure",
       "answer": "grammar",
       "answer_letters": "GRAMMAR",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Result of a cause.",
+      "clue_tag": "result-cause",
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "The name of Parks and Recreation's perpetually upbeat city manager.",
+      "clue_tag": "name-parks-recreations",
       "answer": "leslie",
       "answer_letters": "LESLIE",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Managed or directed.",
+      "clue_tag": "managed-directed",
       "answer": "oversaw",
       "answer_letters": "OVERSAW",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Antecedent to now.",
+      "clue_tag": "antecedent-now",
       "answer": "before",
       "answer_letters": "BEFORE",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Capital: Kampala",
+      "clue_tag": "capital-kampala",
       "answer": "uganda",
       "answer_letters": "UGANDA",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Broad examination without detail.",
+      "clue_tag": "broad-examination-without",
       "answer": "overview",
       "answer_letters": "OVERVIEW",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "Only in name, not in reality.",
+      "clue_tag": "only-name-not",
       "answer": "nominal",
       "answer_letters": "NOMINAL",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue": "It towers in California's forests.",
+      "clue_tag": "towers-californias-forests",
       "answer": "redwood",
       "answer_letters": "REDWOOD",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Couplets often found in poetry.",
+      "clue_tag": "couplets-often-found",
       "answer": "rhymes",
       "answer_letters": "RHYMES",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "A deep dive into study or experience.",
+      "clue_tag": "deep-dive-into",
       "answer": "immersion",
       "answer_letters": "IMMERSION",
       "indices": [

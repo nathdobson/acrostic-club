@@ -5,7 +5,7 @@
   "source_letters": "CORNELIAFUNKEINKDEATH",
   "clues": [
     {
-      "clue": "Common diminutive or nickname derived from Charles.",
+      "clue_tag": "common-diminutive-nickname",
       "answer": "charley",
       "answer_letters": "CHARLEY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Bank compensation in carbon accounting.",
+      "clue_tag": "bank-compensation-carbon",
       "answer": "offset",
       "answer_letters": "OFFSET",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Given a prize or benefit for something done well.",
+      "clue_tag": "given-prize-benefit",
       "answer": "rewarded",
       "answer_letters": "REWARDED",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Most proximate.",
+      "clue_tag": "most-proximate",
       "answer": "nearest",
       "answer_letters": "NEAREST",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "City in Middlesex County, Massachusetts",
+      "clue_tag": "city-middlesex-county",
       "answer": "lowell",
       "answer_letters": "LOWELL",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Medical trainee.",
+      "clue_tag": "medical-trainee",
       "answer": "intern",
       "answer_letters": "INTERN",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Spanish form of Alexander",
+      "clue_tag": "spanish-form-alexander",
       "answer": "alejandro",
       "answer_letters": "ALEJANDRO",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "In mathematics, a number that divides another without leaving a remainder.",
+      "clue_tag": "mathematics-number-divides",
       "answer": "factor",
       "answer_letters": "FACTOR",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Without variation throughout.",
+      "clue_tag": "without-variation-throughout",
       "answer": "uniformly",
       "answer_letters": "UNIFORMLY",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Seaside city in France.",
+      "clue_tag": "seaside-city-france",
       "answer": "nantes",
       "answer_letters": "NANTES",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "She starred alongside Nicholas Hoult in 'About A Boy'.",
+      "clue_tag": "she-starred-alongside",
       "answer": "katherine",
       "answer_letters": "KATHERINE",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Iconic representation, often used on uniforms or flags.",
+      "clue_tag": "iconic-representation-often",
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "This period saw the rise of totalitarian regimes in Europe.",
+      "clue_tag": "period-saw-rise",
       "answer": "interwar",
       "answer_letters": "INTERWAR",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue": "Successfully caught or trapped.",
+      "clue_tag": "successfully-caught-trapped",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "A martial art originating in Japan.",
+      "clue_tag": "martial-art-originating",
       "answer": "karate",
       "answer_letters": "KARATE",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "\"Charmed\" star Shannen",
+      "clue_tag": "charmed-star-shannen",
       "answer": "doherty",
       "answer_letters": "DOHERTY",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Drained or emptied out.",
+      "clue_tag": "drained-emptied-out",
       "answer": "evacuated",
       "answer_letters": "EVACUATED",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "A chronic respiratory condition.",
+      "clue_tag": "chronic-respiratory-condition",
       "answer": "asthma",
       "answer_letters": "ASTHMA",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Georgian capital city.",
+      "clue_tag": "georgian-capital-city",
       "answer": "tbilisi",
       "answer_letters": "TBILISI",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Category often associated with Ali or Tyson.",
+      "clue_tag": "category-often-associated",
       "answer": "heavyweight",
       "answer_letters": "HEAVYWEIGHT",
       "indices": [

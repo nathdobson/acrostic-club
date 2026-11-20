@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDGOLIATH",
   "clues": [
     {
-      "clue": "'Oye Como Va' is one of his famous songs.",
+      "clue_tag": "oye-como-va",
       "answer": "santana",
       "answer_letters": "SANTANA",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Properly adjusted.",
+      "clue_tag": "properly-adjusted",
       "answer": "correct",
       "answer_letters": "CORRECT",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "One who occupies space paid for by someone else.",
+      "clue_tag": "one-occupies-space",
       "answer": "tenant",
       "answer_letters": "TENANT",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue": "Rich with trees.",
+      "clue_tag": "rich-trees",
       "answer": "wooded",
       "answer_letters": "WOODED",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue": "Unending in scope.",
+      "clue_tag": "unending-scope",
       "answer": "eternal",
       "answer_letters": "ETERNAL",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Places offering temporary accommodation, often for pets or the homeless.",
+      "clue_tag": "places-offering-temporary",
       "answer": "shelters",
       "answer_letters": "SHELTERS",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
+      "clue_tag": "despite-what-was",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "To make known or public",
+      "clue_tag": "make-known-public",
       "answer": "reveal",
       "answer_letters": "REVEAL",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Lose grip on a ball in American football",
+      "clue_tag": "lose-grip-ball",
       "answer": "fumble",
       "answer_letters": "FUMBLE",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "Messages sent through a network to recipients' addresses.",
+      "clue_tag": "messages-sent-through",
       "answer": "emails",
       "answer_letters": "EMAILS",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue": "Categories within a sport's organizational framework.",
+      "clue_tag": "categories-within-sports",
       "answer": "leagues",
       "answer_letters": "LEAGUES",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue": "Spiritual teaching central to Asian philosophies.",
+      "clue_tag": "spiritual-teaching-central",
       "answer": "dharma",
       "answer_letters": "DHARMA",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue": "Author of 'The Quiet American'",
+      "clue_tag": "author-quiet-american",
       "answer": "greene",
       "answer_letters": "GREENE",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue": "Complex and elegant craftsmanship.",
+      "clue_tag": "complex-elegant-craftsmanship",
       "answer": "ornate",
       "answer_letters": "ORNATE",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Bound securely, as in a room",
+      "clue_tag": "bound-securely-room",
       "answer": "locked",
       "answer_letters": "LOCKED",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Acquired a large amount of.",
+      "clue_tag": "acquired-large-amount",
       "answer": "amassed",
       "answer_letters": "AMASSED",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Japanese surname, akin to Smith.",
+      "clue_tag": "japanese-surname-akin",
       "answer": "tanaka",
       "answer_letters": "TANAKA",
       "indices": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "clue": "Girl's name shared with a well-known Bible figure.",
+      "clue_tag": "girls-name-shared",
       "answer": "hannah",
       "answer_letters": "HANNAH",
       "indices": [

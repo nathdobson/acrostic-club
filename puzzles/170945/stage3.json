@@ -5,7 +5,7 @@
   "source_letters": "CHARLESGRANDISONFINNEY",
   "clues": [
     {
-      "clue": "Mammal known for its vocal yipping calls.",
+      "clue_tag": "mammal-known-vocal",
       "answer": "coyote",
       "answer_letters": "COYOTE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "One who makes contact with the ball.",
+      "clue_tag": "one-makes-contact",
       "answer": "hitter",
       "answer_letters": "HITTER",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "In San Mateo County.",
+      "clue_tag": "san-mateo-county",
       "answer": "atherton",
       "answer_letters": "ATHERTON",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Move in a circle.",
+      "clue_tag": "move-circle",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Rocket ships use this method to take flight.",
+      "clue_tag": "rocket-ships-use",
       "answer": "launches",
       "answer_letters": "LAUNCHES",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Become more complex",
+      "clue_tag": "become-more-complex",
       "answer": "evolve",
       "answer_letters": "EVOLVE",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Least in length.",
+      "clue_tag": "least-length",
       "answer": "shortest",
       "answer_letters": "SHORTEST",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Crime film by Coppola.",
+      "clue_tag": "crime-film-coppola",
       "answer": "godfather",
       "answer_letters": "GODFATHER",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "To begin anew after closing or ending.",
+      "clue_tag": "begin-anew-after",
       "answer": "reopen",
       "answer_letters": "REOPEN",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "U.S. college town in Massachusetts",
+      "clue_tag": "us-college-town",
       "answer": "amherst",
       "answer_letters": "AMHERST",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue": "L. Frank Baum character.",
+      "clue_tag": "l-frank-baum",
       "answer": "dorothy",
       "answer_letters": "DOROTHY",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "One of the 'major' prophets in the Hebrew Bible.",
+      "clue_tag": "one-major-prophets",
       "answer": "isaiah",
       "answer_letters": "ISAIAH",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "FIVE OF THEM",
+      "clue_tag": "five-them",
       "answer": "senses",
       "answer_letters": "SENSES",
       "indices": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "No longer remembered or recorded.",
+      "clue_tag": "no-longer-remembered",
       "answer": "forgotten",
       "answer_letters": "FORGOTTEN",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Selecting and bestowing an appellation.",
+      "clue_tag": "selecting-bestowing-appellation",
       "answer": "naming",
       "answer_letters": "NAMING",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "A protocol suite used for LANs.",
+      "clue_tag": "protocol-suite-used",
       "answer": "ethernet",
       "answer_letters": "ETHERNET",
       "indices": [
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "clue": "Southern Chinese province.",
+      "clue_tag": "southern-chinese-province",
       "answer": "yunnan",
       "answer_letters": "YUNNAN",
       "indices": [

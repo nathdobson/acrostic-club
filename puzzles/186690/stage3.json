@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYANNAKARENINA",
   "clues": [
     {
-      "clue": "Composer named after a king.",
+      "clue_tag": "composer-named-after",
       "answer": "ludwig",
       "answer_letters": "LUDWIG",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "The movement of molten lava from a volcano.",
+      "clue_tag": "movement-molten-lava",
       "answer": "outflow",
       "answer_letters": "OUTFLOW",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "This process helps ensure quality and reliability in products.",
+      "clue_tag": "process-helps-ensure",
       "answer": "testing",
       "answer_letters": "TESTING",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Suffix for the exact hour",
+      "clue_tag": "suffix-exact-hour",
       "answer": "o'clock",
       "answer_letters": "OCLOCK",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Luminaries for the stage.",
+      "clue_tag": "luminaries-stage",
       "answer": "lights",
       "answer_letters": "LIGHTS",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Title of someone with a job in a pasture.",
+      "clue_tag": "title-someone-job",
       "answer": "shepherd",
       "answer_letters": "SHEPHERD",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Sketchy depiction or draft.",
+      "clue_tag": "sketchy-depiction-draft",
       "answer": "outline",
       "answer_letters": "OUTLINE",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Connection or association.",
+      "clue_tag": "connection-association",
       "answer": "affinity",
       "answer_letters": "AFFINITY",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Former capital of the Central Provinces and Berar",
+      "clue_tag": "former-capital-central",
       "answer": "nagpur",
       "answer_letters": "NAGPUR",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Aid in achieving something",
+      "clue_tag": "aid-achieving-something",
       "answer": "assist",
       "answer_letters": "ASSIST",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Israel's legislative body.",
+      "clue_tag": "israels-legislative-body",
       "answer": "knesset",
       "answer_letters": "KNESSET",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Adolf and Adolfus are variants of his first name.",
+      "clue_tag": "adolf-adolfus-are",
       "answer": "adolph",
       "answer_letters": "ADOLPH",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "A common term used to describe the act of moving swiftly, especially by athletes.",
+      "clue_tag": "common-term-used",
       "answer": "rushing",
       "answer_letters": "RUSHING",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": "To begin a journey or venture",
+      "clue_tag": "begin-journey-venture",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Sailor hero of Trafalgar,",
+      "clue_tag": "sailor-hero-trafalgar",
       "answer": "nelson",
       "answer_letters": "NELSON",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Purposeful aim.",
+      "clue_tag": "purposeful-aim",
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue": "Tribe of the Southwest U.S.",
+      "clue_tag": "tribe-southwest-us",
       "answer": "navajo",
       "answer_letters": "NAVAJO",
       "indices": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "clue": "Creative literary craftsman.",
+      "clue_tag": "creative-literary-craftsman",
       "answer": "author",
       "answer_letters": "AUTHOR",
       "indices": [

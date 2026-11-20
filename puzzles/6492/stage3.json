@@ -5,7 +5,7 @@
   "source_letters": "LEOTOLSTOYWARANDPEACE",
   "clues": [
     {
-      "clue": "Spanning maximum duration.",
+      "clue_tag": "spanning-maximum-duration",
       "answer": "longest",
       "answer_letters": "LONGEST",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Strivings.",
+      "clue_tag": "strivings",
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "All-terrain vehicle activity.",
+      "clue_tag": "allterrain-vehicle-activity",
       "answer": "off-road",
       "answer_letters": "OFFROAD",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Past participle of hurl",
+      "clue_tag": "past-participle-hurl",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Solo show.",
+      "clue_tag": "solo-show",
       "answer": "one-man",
       "answer_letters": "ONEMAN",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "TV cook Nigella",
+      "clue_tag": "tv-cook-nigella",
       "answer": "lawson",
       "answer_letters": "LAWSON",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue": "Inanimate figures, often found in gardens or parks.",
+      "clue_tag": "inanimate-figures-often",
       "answer": "statues",
       "answer_letters": "STATUES",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "Pilferers.",
+      "clue_tag": "pilferers",
       "answer": "thieves",
       "answer_letters": "THIEVES",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Wood used for cricket bats.",
+      "clue_tag": "wood-used-cricket",
       "answer": "willow",
       "answer_letters": "WILLOW",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Conservatives, as opposed to liberals.",
+      "clue_tag": "conservatives-opposed-liberals",
       "answer": "right-wing",
       "answer_letters": "RIGHTWING",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Indefinite article plus noun.",
+      "clue_tag": "indefinite-article-plus",
       "answer": "anything",
       "answer_letters": "ANYTHING",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Influential in game theory alongside Nash.",
+      "clue_tag": "influential-game-theory",
       "answer": "neumann",
       "answer_letters": "NEUMANN",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Operation Dynamo location.",
+      "clue_tag": "operation-dynamo-location",
       "answer": "dunkirk",
       "answer_letters": "DUNKIRK",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Holding onto an emotion or thought",
+      "clue_tag": "holding-onto-emotion",
       "answer": "possessing",
       "answer_letters": "POSSESSING",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "His work laid groundwork for quantum mechanics.",
+      "clue_tag": "his-work-laid",
       "answer": "einstein",
       "answer_letters": "EINSTEIN",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Partnered with Mila Kunis in a popular romantic comedy series.",
+      "clue_tag": "partnered-mila-kunis",
       "answer": "ashton",
       "answer_letters": "ASHTON",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "A place named after an 18th-century British statesman.",
+      "clue_tag": "place-named-after",
       "answer": "chatham",
       "answer_letters": "CHATHAM",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Gave physical presence to an idea.",
+      "clue_tag": "gave-physical-presence",
       "answer": "embodied",
       "answer_letters": "EMBODIED",
       "indices": [

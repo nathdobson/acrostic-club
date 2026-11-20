@@ -5,7 +5,7 @@
   "source_letters": "CHARLIEHIGSONTHEENEMY",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "candidates",
       "answer_letters": "CANDIDATES",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hooked",
       "answer_letters": "HOOKED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "rockford",
       "answer_letters": "ROCKFORD",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "linked",
       "answer_letters": "LINKED",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "indochina",
       "answer_letters": "INDOCHINA",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hawaiian",
       "answer_letters": "HAWAIIAN",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "impacted",
       "answer_letters": "IMPACTED",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ghosts",
       "answer_letters": "GHOSTS",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "stemmed",
       "answer_letters": "STEMMED",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "niches",
       "answer_letters": "NICHES",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "thames",
       "answer_letters": "THAMES",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "editor",
       "answer_letters": "EDITOR",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "netflix",
       "answer_letters": "NETFLIX",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "embarked",
       "answer_letters": "EMBARKED",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "midday",
       "answer_letters": "MIDDAY",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "yeshiva",
       "answer_letters": "YESHIVA",
       "indices": [

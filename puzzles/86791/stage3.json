@@ -5,7 +5,7 @@
   "source_letters": "MAYABANKSHIDDENAWAY",
   "clues": [
     {
-      "clue": "A female parent's belongings.",
+      "clue_tag": "female-parents-belongings",
       "answer": "mother's",
       "answer_letters": "MOTHERS",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "A process in which one substance takes in another.",
+      "clue_tag": "process-one-substance",
       "answer": "absorption",
       "answer_letters": "ABSORPTION",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue": "Associated with a modulus used to describe elasticity.",
+      "clue_tag": "associated-modulus-used",
       "answer": "young's",
       "answer_letters": "YOUNGS",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Variable to adjust brightness and depth of field.",
+      "clue_tag": "variable-adjust-brightness",
       "answer": "aperture",
       "answer_letters": "APERTURE",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue": "Associated with the inverse Laplace transform technique.",
+      "clue_tag": "associated-inverse-laplace",
       "answer": "bromwich",
       "answer_letters": "BROMWICH",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue": "Attain a goal.",
+      "clue_tag": "attain-goal",
       "answer": "achieve",
       "answer_letters": "ACHIEVE",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "Sent a message to inform.",
+      "clue_tag": "sent-message-inform",
       "answer": "notified",
       "answer_letters": "NOTIFIED",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Founder of a breakfast cereal empire.",
+      "clue_tag": "founder-breakfast-cereal",
       "answer": "kellogg",
       "answer_letters": "KELLOGG",
       "indices": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "clue": "Adored one.",
+      "clue_tag": "adored-one",
       "answer": "sweetheart",
       "answer_letters": "SWEETHEART",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "'Let America Be America Again' author.",
+      "clue_tag": "let-america-be",
       "answer": "hughes",
       "answer_letters": "HUGHES",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": "Often less authentic than genuine.",
+      "clue_tag": "often-less-authentic",
       "answer": "imitation",
       "answer_letters": "IMITATION",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Show by example.",
+      "clue_tag": "show-example",
       "answer": "demonstrate",
       "answer_letters": "DEMONSTRATE",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue": "County known for its coal mining history.",
+      "clue_tag": "county-known-coal",
       "answer": "durham",
       "answer_letters": "DURHAM",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Getting irritated by persistent noise.",
+      "clue_tag": "getting-irritated-persistent",
       "answer": "annoyed",
       "answer_letters": "ANNOYED",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "German mountain climber who died on K2",
+      "clue_tag": "german-mountain-climber",
       "answer": "werner",
       "answer_letters": "WERNER",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Pronunciation variation.",
+      "clue_tag": "pronunciation-variation",
       "answer": "accent",
       "answer_letters": "ACCENT",
       "indices": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "clue": "Delivers results or outcomes",
+      "clue_tag": "delivers-results-outcomes",
       "answer": "yields",
       "answer_letters": "YIELDS",
       "indices": [

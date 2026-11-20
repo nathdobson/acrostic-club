@@ -5,7 +5,7 @@
   "source_letters": "DANIKASTONEEDGEOFWILD",
   "clues": [
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Type of bomb with explosive power derived from nuclear reactions.",
+      "clue_tag": "type-bomb-explosive",
       "answer": "atomic",
       "answer_letters": "ATOMIC",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Role often played by authors themselves.",
+      "clue_tag": "role-often-played",
       "answer": "narrator",
       "answer_letters": "NARRATOR",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Suppress actions or impulses",
+      "clue_tag": "suppress-actions-impulses",
       "answer": "inhibit",
       "answer_letters": "INHIBIT",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "The Wawel Castle sits on a hill overlooking this Polish city.",
+      "clue_tag": "wawel-castle-sits",
       "answer": "kraków",
       "answer_letters": "KRAKOW",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Penmen.",
+      "clue_tag": "penmen",
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Rough and tumble drinking establishment",
+      "clue_tag": "rough-tumble-drinking",
       "answer": "saloon",
       "answer_letters": "SALOON",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue": "A British colloquialism for bathroom.",
+      "clue_tag": "british-colloquialism-bathroom",
       "answer": "toilet",
       "answer_letters": "TOILET",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue": "Type of chemistry focused on carbon compounds.",
+      "clue_tag": "type-chemistry-focused",
       "answer": "organic",
       "answer_letters": "ORGANIC",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Writing system for music.",
+      "clue_tag": "writing-system-music",
       "answer": "notation",
       "answer_letters": "NOTATION",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "In film, these are visual tricks and illusions.",
+      "clue_tag": "film-these-are",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Sources of charitable gifts.",
+      "clue_tag": "sources-charitable-gifts",
       "answer": "donors",
       "answer_letters": "DONORS",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Business expansion or development.",
+      "clue_tag": "business-expansion-development",
       "answer": "growth",
       "answer_letters": "GROWTH",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Highly skilled and influential members of society.",
+      "clue_tag": "highly-skilled-influential",
       "answer": "elites",
       "answer_letters": "ELITES",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Edmund, playwright of 'The Hairy Ape'.",
+      "clue_tag": "edmund-playwright-hairy",
       "answer": "o'neill",
       "answer_letters": "ONEILL",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Ireland's historic warriors.",
+      "clue_tag": "irelands-historic-warriors",
       "answer": "fianna",
       "answer_letters": "FIANNA",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Malt or grain spirit.",
+      "clue_tag": "malt-grain-spirit",
       "answer": "whisky",
       "answer_letters": "WHISKY",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue": "Procedure to charge a public official with wrongdoing.",
+      "clue_tag": "procedure-charge-public",
       "answer": "impeachment",
       "answer_letters": "IMPEACHMENT",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "The German air force in WWII.",
+      "clue_tag": "german-air-force",
       "answer": "luftwaffe",
       "answer_letters": "LUFTWAFFE",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Automotive hub.",
+      "clue_tag": "automotive-hub",
       "answer": "detroit",
       "answer_letters": "DETROIT",
       "indices": [

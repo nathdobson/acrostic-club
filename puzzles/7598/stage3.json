@@ -5,7 +5,7 @@
   "source_letters": "YANNMARTELLIFEOFPI",
   "clues": [
     {
-      "clue": "New York baseball team.",
+      "clue_tag": "new-york-baseball",
       "answer": "yankees",
       "answer_letters": "YANKEES",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Emotionally close.",
+      "clue_tag": "emotionally-close",
       "answer": "attached",
       "answer_letters": "ATTACHED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "English town known for its races.",
+      "clue_tag": "english-town-known",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Districts close to one another.",
+      "clue_tag": "districts-close-one",
       "answer": "neighbourhoods",
       "answer_letters": "NEIGHBOURHOODS",
       "indices": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "clue": "Visible forms in which something appears.",
+      "clue_tag": "visible-forms-something",
       "answer": "manifestations",
       "answer_letters": "MANIFESTATIONS",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Fidelity to a plan or concept.",
+      "clue_tag": "fidelity-plan-concept",
       "answer": "adherence",
       "answer_letters": "ADHERENCE",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "They're not hamsters, guinea pigs or chinchillas.",
+      "clue_tag": "theyre-not-hamsters",
       "answer": "rabbits",
       "answer_letters": "RABBITS",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Contemplations or reflections.",
+      "clue_tag": "contemplations-reflections",
       "answer": "thoughts",
       "answer_letters": "THOUGHTS",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue": "Sounds that bounce back.",
+      "clue_tag": "sounds-bounce-back",
       "answer": "echoes",
       "answer_letters": "ECHOES",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Humphrey's \"The Big Sleep\" costar",
+      "clue_tag": "humphreys-big-sleep",
       "answer": "lauren",
       "answer_letters": "LAUREN",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Famed aerospace and defense company",
+      "clue_tag": "famed-aerospace-defense",
       "answer": "lockheed",
       "answer_letters": "LOCKHEED",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Often less authentic than genuine.",
+      "clue_tag": "often-less-authentic",
       "answer": "imitation",
       "answer_letters": "IMITATION",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue": "Nostalgic scene recall often used in storytelling.",
+      "clue_tag": "nostalgic-scene-recall",
       "answer": "flashback",
       "answer_letters": "FLASHBACK",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Family of moths, such as those with eyespots.",
+      "clue_tag": "family-moths-such",
       "answer": "erebidae",
       "answer_letters": "EREBIDAE",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Band whose members include Christine McVie and Stevie Nicks.",
+      "clue_tag": "band-whose-members",
       "answer": "fleetwood",
       "answer_letters": "FLEETWOOD",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Movie studio giant.",
+      "clue_tag": "movie-studio-giant",
       "answer": "paramount",
       "answer_letters": "PARAMOUNT",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Disturbance that causes a break in continuity.",
+      "clue_tag": "disturbance-causes-break",
       "answer": "interruption",
       "answer_letters": "INTERRUPTION",
       "indices": [

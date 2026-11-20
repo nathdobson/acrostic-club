@@ -5,7 +5,7 @@
   "source_letters": "KATHLEENWINTERANNABEL",
   "clues": [
     {
-      "clue": "\"Ally McBeal\" creator",
+      "clue_tag": "ally-mcbeal-creator",
       "answer": "kelley",
       "answer_letters": "KELLEY",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Achieve or reach a goal",
+      "clue_tag": "achieve-reach-goal",
       "answer": "attain",
       "answer_letters": "ATTAIN",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Keeping something out of sight",
+      "clue_tag": "keeping-something-out",
       "answer": "hiding",
       "answer_letters": "HIDING",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Bottom rank in a hierarchy.",
+      "clue_tag": "bottom-rank-hierarchy",
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Corporate body or individual with legal standing",
+      "clue_tag": "corporate-body-individual",
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "Direction of sunrise",
+      "clue_tag": "direction-sunrise",
       "answer": "eastwards",
       "answer_letters": "EASTWARDS",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "A vague awareness or sense of something.",
+      "clue_tag": "vague-awareness-sense",
       "answer": "notion",
       "answer_letters": "NOTION",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Devoid of",
+      "clue_tag": "devoid",
       "answer": "without",
       "answer_letters": "WITHOUT",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Isle of Odysseus.",
+      "clue_tag": "isle-odysseus",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue": "Pearl of the South Seas.",
+      "clue_tag": "pearl-south-seas",
       "answer": "tahiti",
       "answer_letters": "TAHITI",
       "indices": [
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "clue": "Inventors of new technologies.",
+      "clue_tag": "inventors-new-technologies",
       "answer": "engineers",
       "answer_letters": "ENGINEERS",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Accompanied by a beat",
+      "clue_tag": "accompanied-beat",
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Accolades for achievements.",
+      "clue_tag": "accolades-achievements",
       "answer": "awards",
       "answer_letters": "AWARDS",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "To the Arctic, say",
+      "clue_tag": "arctic-say",
       "answer": "northwards",
       "answer_letters": "NORTHWARDS",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Often a step below managers or executives.",
+      "clue_tag": "often-step-below",
       "answer": "assistants",
       "answer_letters": "ASSISTANTS",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "The creator in Hinduism's trimurti.",
+      "clue_tag": "creator-hinduisms-trimurti",
       "answer": "brahma",
       "answer_letters": "BRAHMA",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Moses led it.",
+      "clue_tag": "moses-led",
       "answer": "exodus",
       "answer_letters": "EXODUS",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Not a right-winger.",
+      "clue_tag": "not-rightwinger",
       "answer": "leftist",
       "answer_letters": "LEFTIST",
       "indices": [

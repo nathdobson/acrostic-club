@@ -5,7 +5,7 @@
   "source_letters": "RMENGELHARDTTALON",
   "clues": [
     {
-      "clue": "How others perceive you.",
+      "clue_tag": "how-others-perceive",
       "answer": "reputation",
       "answer_letters": "REPUTATION",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Control or influence over others, often subtly.",
+      "clue_tag": "control-influence-over",
       "answer": "manipulation",
       "answer_letters": "MANIPULATION",
       "indices": [
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "clue": "Feature of civil engineering",
+      "clue_tag": "feature-civil-engineering",
       "answer": "embankment",
       "answer_letters": "EMBANKMENT",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "clue": "Home to the Iwokrama Rainforest.",
+      "clue_tag": "home-iwokrama-rainforest",
       "answer": "guyana",
       "answer_letters": "GUYANA",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Embraced or included.",
+      "clue_tag": "embraced-included",
       "answer": "encompassed",
       "answer_letters": "ENCOMPASSED",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Individual with real estate holdings.",
+      "clue_tag": "individual-real-estate",
       "answer": "landowner",
       "answer_letters": "LANDOWNER",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Category often associated with Ali or Tyson.",
+      "clue_tag": "category-often-associated",
       "answer": "heavyweight",
       "answer_letters": "HEAVYWEIGHT",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "Adjective describing an iron-fisted leader.",
+      "clue_tag": "adjective-describing-ironfisted",
       "answer": "authoritarian",
       "answer_letters": "AUTHORITARIAN",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Replies to surveys.",
+      "clue_tag": "replies-surveys",
       "answer": "respondents",
       "answer_letters": "RESPONDENTS",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue": "Irish capital city.",
+      "clue_tag": "irish-capital-city",
       "answer": "dublin",
       "answer_letters": "DUBLIN",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Units for organizing communities.",
+      "clue_tag": "units-organizing-communities",
       "answer": "townships",
       "answer_letters": "TOWNSHIPS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Regardless, in any case.",
+      "clue_tag": "regardless-any-case",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Mechanical beasts pulling wagons on tracks.",
+      "clue_tag": "mechanical-beasts-pulling",
       "answer": "locomotives",
       "answer_letters": "LOCOMOTIVES",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Costumes for a stage production.",
+      "clue_tag": "costumes-stage-production",
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Used to introduce a clarification.",
+      "clue_tag": "used-introduce-clarification",
       "answer": "namely",
       "answer_letters": "NAMELY",
       "indices": [

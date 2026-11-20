@@ -5,7 +5,7 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "Nick or alias.",
+      "clue_tag": "nick-alias",
       "answer": "moniker",
       "answer_letters": "MONIKER",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Biology's catalysts.",
+      "clue_tag": "biologys-catalysts",
       "answer": "enzyme",
       "answer_letters": "ENZYME",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Water-loving retriever.",
+      "clue_tag": "waterloving-retriever",
       "answer": "labrador",
       "answer_letters": "LABRADOR",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Mourning announcement for a deceased person.",
+      "clue_tag": "mourning-announcement-deceased",
       "answer": "obituary",
       "answer_letters": "OBITUARY",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Public speaking event.",
+      "clue_tag": "public-speaking-event",
       "answer": "discourse",
       "answer_letters": "DISCOURSE",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "Home to Minato Mirai 21, an impressive waterfront district.",
+      "clue_tag": "home-minato-mirai",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue": "A place where knowledge is shelved, with an apostrophe",
+      "clue_tag": "place-where-knowledge",
       "answer": "library's",
       "answer_letters": "LIBRARYS",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Met face to face with",
+      "clue_tag": "met-face-face",
       "answer": "encountered",
       "answer_letters": "ENCOUNTERED",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Chiefly, basically.",
+      "clue_tag": "chiefly-basically",
       "answer": "essentially",
       "answer_letters": "ESSENTIALLY",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "Process of adopting new technologies and practices.",
+      "clue_tag": "process-adopting-new",
       "answer": "modernization",
       "answer_letters": "MODERNIZATION",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Beyond internal aspects",
+      "clue_tag": "beyond-internal-aspects",
       "answer": "outward",
       "answer_letters": "OUTWARD",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Moment to advance one's position or improve conditions.",
+      "clue_tag": "moment-advance-ones",
       "answer": "opportunity",
       "answer_letters": "OPPORTUNITY",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "City in Virginia, USA.",
+      "clue_tag": "city-virginia-usa",
       "answer": "norfolk",
       "answer_letters": "NORFOLK",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "1915 saw significant battles at this strategic location.",
+      "clue_tag": "1915-saw-significant",
       "answer": "gallipoli",
       "answer_letters": "GALLIPOLI",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Home to Chichen Itza.",
+      "clue_tag": "home-chichen-itza",
       "answer": "yucatán",
       "answer_letters": "YUCATAN",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Sony's gaming console.",
+      "clue_tag": "sonys-gaming-console",
       "answer": "playstation",
       "answer_letters": "PLAYSTATION",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue": "Scene of Agincourt's precursor battle in 1403",
+      "clue_tag": "scene-agincourts-precursor",
       "answer": "shrewsbury",
       "answer_letters": "SHREWSBURY",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue": "Spoken by many Eastern European Jews before WWII.",
+      "clue_tag": "spoken-many-eastern",
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "GEORGEELIOTMIDDLEMARCH",
   "clues": [
     {
-      "clue": "Einstein was one.",
+      "clue_tag": "einstein-was-one",
       "answer": "genius",
       "answer_letters": "GENIUS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Made the same sound again",
+      "clue_tag": "made-same-sound",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "They make you cry but are great in a stew.",
+      "clue_tag": "they-make-you",
       "answer": "onions",
       "answer_letters": "ONIONS",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Capacity for logical thought.",
+      "clue_tag": "capacity-logical-thought",
       "answer": "reason",
       "answer_letters": "REASON",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Adjective for worldwide.",
+      "clue_tag": "adjective-worldwide",
       "answer": "global",
       "answer_letters": "GLOBAL",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Chance meetings that may lead to adventures.",
+      "clue_tag": "chance-meetings-may",
       "answer": "encounters",
       "answer_letters": "ENCOUNTERS",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Period of voting for a new government or leadership.",
+      "clue_tag": "period-voting-new",
       "answer": "election",
       "answer_letters": "ELECTION",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Exodus; departure.",
+      "clue_tag": "exodus-departure",
       "answer": "leaving",
       "answer_letters": "LEAVING",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "City with bridges named Si-o-se-pol.",
+      "clue_tag": "city-bridges-named",
       "answer": "isfahan",
       "answer_letters": "ISFAHAN",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Defeated and replaced, often in a political context.",
+      "clue_tag": "defeated-replaced-often",
       "answer": "overthrown",
       "answer_letters": "OVERTHROWN",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
+      "clue_tag": "despite-what-was",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "It's when fans gather for soccer action.",
+      "clue_tag": "when-fans-gather",
       "answer": "matchday",
       "answer_letters": "MATCHDAY",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Crazed.",
+      "clue_tag": "crazed",
       "answer": "insane",
       "answer_letters": "INSANE",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Michele's husband on 'The Office'.",
+      "clue_tag": "micheles-husband-office",
       "answer": "dwight",
       "answer_letters": "DWIGHT",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "In materials science, it refers to the intermingling of atoms within solids.",
+      "clue_tag": "materials-science-refers",
       "answer": "diffusion",
       "answer_letters": "DIFFUSION",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Famed Beatle John ___, married Yoko Ono.",
+      "clue_tag": "famed-beatle-john",
       "answer": "lennon",
       "answer_letters": "LENNON",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Famed polar explorer, born November 12, 1886, in Guilford, Connecticut.",
+      "clue_tag": "famed-polar-explorer",
       "answer": "ellsworth",
       "answer_letters": "ELLSWORTH",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Birthplace of Ferrari and Maserati.",
+      "clue_tag": "birthplace-ferrari-maserati",
       "answer": "modena",
       "answer_letters": "MODENA",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Known for its intricate patterns and warmth.",
+      "clue_tag": "known-intricate-patterns",
       "answer": "afghan",
       "answer_letters": "AFGHAN",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "Critiques or assessments.",
+      "clue_tag": "critiques-assessments",
       "answer": "reviews",
       "answer_letters": "REVIEWS",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Not lacking in color; bright and varied.",
+      "clue_tag": "not-lacking-color",
       "answer": "colourful",
       "answer_letters": "COLOURFUL",
       "indices": [
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "clue": "Tennis star who lost to Roger Federer in the 2009 Australian Open final.",
+      "clue_tag": "tennis-star-lost",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [

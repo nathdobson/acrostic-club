@@ -5,7 +5,7 @@
   "source_letters": "STEPHENKINGTHESTAND",
   "clues": [
     {
-      "clue": "A classical music work in multiple movements.",
+      "clue_tag": "classical-music-work",
       "answer": "symphony",
       "answer_letters": "SYMPHONY",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "Common motifs in literature or music.",
+      "clue_tag": "common-motifs-literature",
       "answer": "themes",
       "answer_letters": "THEMES",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Capable of bringing about a result.",
+      "clue_tag": "capable-bringing-about",
       "answer": "effective",
       "answer_letters": "EFFECTIVE",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue": "Foundation of an argument.",
+      "clue_tag": "foundation-argument",
       "answer": "premise",
       "answer_letters": "PREMISE",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Conducted; led.",
+      "clue_tag": "conducted-led",
       "answer": "headed",
       "answer_letters": "HEADED",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "The process of gaining authority and autonomy.",
+      "clue_tag": "process-gaining-authority",
       "answer": "empowerment",
       "answer_letters": "EMPOWERMENT",
       "indices": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "clue": "Pop artist known for 'Everybody's Talkin''",
+      "clue_tag": "pop-artist-known",
       "answer": "nilsson",
       "answer_letters": "NILSSON",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "American singer-songwriter active since the mid-2010s.",
+      "clue_tag": "american-singersongwriter-active",
       "answer": "khalid",
       "answer_letters": "KHALID",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Free from attack or danger.",
+      "clue_tag": "free-attack-danger",
       "answer": "immune",
       "answer_letters": "IMMUNE",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Increasing in weight or value",
+      "clue_tag": "increasing-weight-value",
       "answer": "gaining",
       "answer_letters": "GAINING",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Thin sheet of absorbent paper.",
+      "clue_tag": "thin-sheet-absorbent",
       "answer": "tissue",
       "answer_letters": "TISSUE",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Famous motorcycle brand.",
+      "clue_tag": "famous-motorcycle-brand",
       "answer": "harley",
       "answer_letters": "HARLEY",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Location not here.",
+      "clue_tag": "location-not-here",
       "answer": "elsewhere",
       "answer_letters": "ELSEWHERE",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "In sports, often used to describe the best game or scoring outcome up to that point in the season.",
+      "clue_tag": "sports-often-used",
       "answer": "season-high",
       "answer_letters": "SEASONHIGH",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Aeroplane's beginning flight phase.",
+      "clue_tag": "aeroplanes-beginning-flight",
       "answer": "takeoff",
       "answer_letters": "TAKEOFF",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Concession conjunction.",
+      "clue_tag": "concession-conjunction",
       "answer": "although",
       "answer_letters": "ALTHOUGH",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue": "Tight weave for catching fish or balls.",
+      "clue_tag": "tight-weave-catching",
       "answer": "netting",
       "answer_letters": "NETTING",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": "County known for its coal mining history.",
+      "clue_tag": "county-known-coal",
       "answer": "durham",
       "answer_letters": "DURHAM",
       "indices": [

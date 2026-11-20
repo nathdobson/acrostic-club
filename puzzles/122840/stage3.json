@@ -5,7 +5,7 @@
   "source_letters": "DIANNEBRIGHTSOULREADER",
   "clues": [
     {
-      "clue": "Six-character string alternating between 'd' and 'c'.",
+      "clue_tag": "sixcharacter-string-alternating",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Where Leonardo da Vinci was born.",
+      "clue_tag": "where-leonardo-da",
       "answer": "italia",
       "answer_letters": "ITALIA",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Grown-ups.",
+      "clue_tag": "grownups",
       "answer": "adults",
       "answer_letters": "ADULTS",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Used to introduce a clarification.",
+      "clue_tag": "used-introduce-clarification",
       "answer": "namely",
       "answer_letters": "NAMELY",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue": "Latin term for warrior or fighter.",
+      "clue_tag": "latin-term-warrior",
       "answer": "bellator",
       "answer_letters": "BELLATOR",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue": "Symbolic actions performed on regular occasions.",
+      "clue_tag": "symbolic-actions-performed",
       "answer": "ritual",
       "answer_letters": "RITUAL",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue": "Ballooned, often with hot air or gas.",
+      "clue_tag": "ballooned-often-hot",
       "answer": "inflated",
       "answer_letters": "INFLATED",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "__ Leibniz, a polymath of many talents",
+      "clue_tag": "leibniz-polymath-many",
       "answer": "gottfried",
       "answer_letters": "GOTTFRIED",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Location of the BBC Television Centre in 1960s-80s",
+      "clue_tag": "location-bbc-television",
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue": "Resource frequently referenced by students to gain foundational understanding.",
+      "clue_tag": "resource-frequently-referenced",
       "answer": "textbook",
       "answer_letters": "TEXTBOOK",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Type of military aircraft designed for invisibility to radar.",
+      "clue_tag": "type-military-aircraft",
       "answer": "stealth",
       "answer_letters": "STEALTH",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Side project emerging from an original idea.",
+      "clue_tag": "side-project-emerging",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue": "The land north of NYC.",
+      "clue_tag": "land-north-nyc",
       "answer": "upstate",
       "answer_letters": "UPSTATE",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue": "Used to treat bipolar disorder.",
+      "clue_tag": "used-treat-bipolar",
       "answer": "lithium",
       "answer_letters": "LITHIUM",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue": "Sanctuary for those in peril",
+      "clue_tag": "sanctuary-those-peril",
       "answer": "refuge",
       "answer_letters": "REFUGE",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Dominions that have crumbled over time.",
+      "clue_tag": "dominions-have-crumbled",
       "answer": "empires",
       "answer_letters": "EMPIRES",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue": "Possibly old-fashioned.",
+      "clue_tag": "possibly-oldfashioned",
       "answer": "antique",
       "answer_letters": "ANTIQUE",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Party representatives at a convention.",
+      "clue_tag": "party-representatives-convention",
       "answer": "delegates",
       "answer_letters": "DELEGATES",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "clue": "Action without conscious thought.",
+      "clue_tag": "action-without-conscious",
       "answer": "reflex",
       "answer_letters": "REFLEX",
       "indices": [

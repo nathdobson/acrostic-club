@@ -5,7 +5,7 @@
   "source_letters": "MARTINABOONEPERSUASION",
   "clues": [
     {
-      "clue": "Achievement of great skill.",
+      "clue_tag": "achievement-great-skill",
       "answer": "mastery",
       "answer_letters": "MASTERY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Can purchase within means.",
+      "clue_tag": "can-purchase-within",
       "answer": "afford",
       "answer_letters": "AFFORD",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Known as the Beef Capital of Australia.",
+      "clue_tag": "known-beef-capital",
       "answer": "rockhampton",
       "answer_letters": "ROCKHAMPTON",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue": "Customized with a particular subject.",
+      "clue_tag": "customized-particular-subject",
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Live or reside somewhere.",
+      "clue_tag": "live-reside-somewhere",
       "answer": "inhabit",
       "answer_letters": "INHABIT",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Denier of gods.",
+      "clue_tag": "denier-gods",
       "answer": "atheist",
       "answer_letters": "ATHEIST",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Faithful followers.",
+      "clue_tag": "faithful-followers",
       "answer": "brethren",
       "answer_letters": "BRETHREN",
       "indices": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "clue": "Famed Spanish essayist and poet.",
+      "clue_tag": "famed-spanish-essayist",
       "answer": "ortega",
       "answer_letters": "ORTEGA",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Various people besides you and I.",
+      "clue_tag": "various-people-besides",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue": "Strivings.",
+      "clue_tag": "strivings",
       "answer": "efforts",
       "answer_letters": "EFFORTS",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "A baseball player's main skill.",
+      "clue_tag": "baseball-players-main",
       "answer": "pitching",
       "answer_letters": "PITCHING",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue": "Wife of King Albert II of the Belgians.",
+      "clue_tag": "wife-king-albert",
       "answer": "elisabeth",
       "answer_letters": "ELISABETH",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Various administrations.",
+      "clue_tag": "various-administrations",
       "answer": "regimes",
       "answer_letters": "REGIMES",
       "indices": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "clue": "Bring to an end or resolve.",
+      "clue_tag": "bring-end-resolve",
       "answer": "settle",
       "answer_letters": "SETTLE",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue": "Sustain or maintain.",
+      "clue_tag": "sustain-maintain",
       "answer": "uphold",
       "answer_letters": "UPHOLD",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue": "Sports stars, in short.",
+      "clue_tag": "sports-stars-short",
       "answer": "athletes",
       "answer_letters": "ATHLETES",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "More lenient approach.",
+      "clue_tag": "more-lenient-approach",
       "answer": "softer",
       "answer_letters": "SOFTER",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "A well-known name among Muslims.",
+      "clue_tag": "wellknown-name-among",
       "answer": "ibrahim",
       "answer_letters": "IBRAHIM",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Determine direction by compass.",
+      "clue_tag": "determine-direction-compass",
       "answer": "orient",
       "answer_letters": "ORIENT",
       "indices": [
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [

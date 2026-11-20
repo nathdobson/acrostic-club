@@ -5,7 +5,7 @@
   "source_letters": "CHUDNEYTHOMASFULLFORCE",
   "clues": [
     {
-      "clue": "Limited by maximum allowed amount",
+      "clue_tag": "limited-maximum-allowed",
       "answer": "capped",
       "answer_letters": "CAPPED",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Given shelter or accommodation.",
+      "clue_tag": "given-shelter-accommodation",
       "answer": "housed",
       "answer_letters": "HOUSED",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Every member of a group agrees",
+      "clue_tag": "every-member-group",
       "answer": "unanimous",
       "answer_letters": "UNANIMOUS",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Appeared for the initial time.",
+      "clue_tag": "appeared-initial-time",
       "answer": "debuted",
       "answer_letters": "DEBUTED",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Eastern England city with a cathedral.",
+      "clue_tag": "eastern-england-city",
       "answer": "norwich",
       "answer_letters": "NORWICH",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Horizonal directional span.",
+      "clue_tag": "horizonal-directional-span",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Types of leisure vessels.",
+      "clue_tag": "types-leisure-vessels",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Once part of the Habsburg Monarchy, now in Italy.",
+      "clue_tag": "once-part-habsburg",
       "answer": "trieste",
       "answer_letters": "TRIESTE",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue": "Activist Tom who wrote the Port Huron Statement",
+      "clue_tag": "activist-tom-wrote",
       "answer": "hayden",
       "answer_letters": "HAYDEN",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Public health concern worldwide.",
+      "clue_tag": "public-health-concern",
       "answer": "obesity",
       "answer_letters": "OBESITY",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue": "To make adjustments or alterations.",
+      "clue_tag": "make-adjustments-alterations",
       "answer": "modify",
       "answer_letters": "MODIFY",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Against conflict.",
+      "clue_tag": "against-conflict",
       "answer": "anti-war",
       "answer_letters": "ANTIWAR",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue": "Scottish surname",
+      "clue_tag": "scottish-surname",
       "answer": "stewart",
       "answer_letters": "STEWART",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Divided share or segment.",
+      "clue_tag": "divided-share-segment",
       "answer": "fraction",
       "answer_letters": "FRACTION",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue": "Higher end neighborhood or area, often more affluent.",
+      "clue_tag": "higher-end-neighborhood",
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "Within legal boundaries.",
+      "clue_tag": "within-legal-boundaries",
       "answer": "lawful",
       "answer_letters": "LAWFUL",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Composer named after a king.",
+      "clue_tag": "composer-named-after",
       "answer": "ludwig",
       "answer_letters": "LUDWIG",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Come after in sequence.",
+      "clue_tag": "come-after-sequence",
       "answer": "follow",
       "answer_letters": "FOLLOW",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue": "Broad examination without detail.",
+      "clue_tag": "broad-examination-without",
       "answer": "overview",
       "answer_letters": "OVERVIEW",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Code or secret writing.",
+      "clue_tag": "code-secret-writing",
       "answer": "cipher",
       "answer_letters": "CIPHER",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Rough figure.",
+      "clue_tag": "rough-figure",
       "answer": "estimate",
       "answer_letters": "ESTIMATE",
       "indices": [

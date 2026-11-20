@@ -5,7 +5,7 @@
   "source_letters": "ROBINMCKINLEYSUNSHINE",
   "clues": [
     {
-      "clue": "Made over with significant changes",
+      "clue_tag": "made-over-significant",
       "answer": "revamped",
       "answer_letters": "REVAMPED",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "State capital: Bhubaneswar.",
+      "clue_tag": "state-capital-bhubaneswar",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Biblical location where Joshua encountered God.",
+      "clue_tag": "biblical-location-where",
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Reflexive pronoun for 'it'.",
+      "clue_tag": "reflexive-pronoun",
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue": "Telecommunication grid.",
+      "clue_tag": "telecommunication-grid",
       "answer": "network",
       "answer_letters": "NETWORK",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue": "Causal factors in conduct.",
+      "clue_tag": "causal-factors-conduct",
       "answer": "motives",
       "answer_letters": "MOTIVES",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "British town with a cathedral.",
+      "clue_tag": "british-town-cathedral",
       "answer": "chester",
       "answer_letters": "CHESTER",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Official language of Karnataka.",
+      "clue_tag": "official-language-karnataka",
       "answer": "kannada",
       "answer_letters": "KANNADA",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue": "Adviser to King David, a counselor during his reign.",
+      "clue_tag": "adviser-king-david",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "clue_tag": "often-requires-chemotherapy",
       "answer": "lymphoma",
       "answer_letters": "LYMPHOMA",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Becoming more complex or advanced.",
+      "clue_tag": "becoming-more-complex",
       "answer": "evolving",
       "answer_letters": "EVOLVING",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "Established itself or someone in a particular place",
+      "clue_tag": "established-itself-someone",
       "answer": "settled",
       "answer_letters": "SETTLED",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Capital: Kampala",
+      "clue_tag": "capital-kampala",
       "answer": "uganda",
       "answer_letters": "UGANDA",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "Robin Hood's home base",
+      "clue_tag": "robin-hoods-home",
       "answer": "nottingham",
       "answer_letters": "NOTTINGHAM",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "A first album or book named directly after the performer or author.",
+      "clue_tag": "first-album-book",
       "answer": "self-titled",
       "answer_letters": "SELFTITLED",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Second most important source in Islamic law after the Quran.",
+      "clue_tag": "second-most-important",
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Perceptions gleaned through analysis.",
+      "clue_tag": "perceptions-gleaned-through",
       "answer": "insights",
       "answer_letters": "INSIGHTS",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "clue": "At any place or location.",
+      "clue_tag": "any-place-location",
       "answer": "everywhere",
       "answer_letters": "EVERYWHERE",
       "indices": [

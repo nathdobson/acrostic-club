@@ -5,7 +5,7 @@
   "source_letters": "CHARLIEHIGSONTHEENEMY",
   "clues": [
     {
-      "clue": "Prospective leaders.",
+      "clue_tag": "prospective-leaders",
       "answer": "candidates",
       "answer_letters": "CANDIDATES",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "To engage one's interest deeply.",
+      "clue_tag": "engage-ones-interest",
       "answer": "hooked",
       "answer_letters": "HOOKED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "City in Illinois",
+      "clue_tag": "city-illinois",
       "answer": "rockford",
       "answer_letters": "ROCKFORD",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Opposite of 'disconnected' or 'isolated'",
+      "clue_tag": "opposite-disconnected-isolated",
       "answer": "linked",
       "answer_letters": "LINKED",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Once included Vietnam, Laos, and Cambodia.",
+      "clue_tag": "once-included-vietnam",
       "answer": "indochina",
       "answer_letters": "INDOCHINA",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue": "Showcase one's skills in front of an audience.",
+      "clue_tag": "showcase-ones-skills",
       "answer": "exhibit",
       "answer_letters": "EXHIBIT",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": "Native language includes words like 'aloha' and 'mahalo'.",
+      "clue_tag": "native-language-includes",
       "answer": "hawaiian",
       "answer_letters": "HAWAIIAN",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": "Influenced significantly",
+      "clue_tag": "influenced-significantly",
       "answer": "impacted",
       "answer_letters": "IMPACTED",
       "indices": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "clue": "The subject of many a Halloween tale.",
+      "clue_tag": "subject-many-halloween",
       "answer": "ghosts",
       "answer_letters": "GHOSTS",
       "indices": [
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "clue": "Ceased growth (of weeds, for example)",
+      "clue_tag": "ceased-growth-weeds",
       "answer": "stemmed",
       "answer_letters": "STEMMED",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Formerly named Bytown.",
+      "clue_tag": "formerly-named-bytown",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Small, specialized pockets within a broader field.",
+      "clue_tag": "small-specialized-pockets",
       "answer": "niches",
       "answer_letters": "NICHES",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "It flows past Windsor Castle.",
+      "clue_tag": "flows-past-windsor",
       "answer": "thames",
       "answer_letters": "THAMES",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Second most important source in Islamic law after the Quran.",
+      "clue_tag": "second-most-important",
       "answer": "hadith",
       "answer_letters": "HADITH",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue": "Key figure in shaping the final version of a document.",
+      "clue_tag": "key-figure-shaping",
       "answer": "editor",
       "answer_letters": "EDITOR",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "As many as necessary.",
+      "clue_tag": "many-necessary",
       "answer": "enough",
       "answer_letters": "ENOUGH",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Streaming service giant.",
+      "clue_tag": "streaming-service-giant",
       "answer": "netflix",
       "answer_letters": "NETFLIX",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Began a project or initiative.",
+      "clue_tag": "began-project-initiative",
       "answer": "embarked",
       "answer_letters": "EMBARKED",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "High noon.",
+      "clue_tag": "high-noon",
       "answer": "midday",
       "answer_letters": "MIDDAY",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Talmudic academy.",
+      "clue_tag": "talmudic-academy",
       "answer": "yeshiva",
       "answer_letters": "YESHIVA",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "MELODYLEEMOONGYPSY",
   "clues": [
     {
-      "clue": "Japanese automotive giant.",
+      "clue_tag": "japanese-automotive-giant",
       "answer": "mitsubishi",
       "answer_letters": "MITSUBISHI",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Deserving of respect or recognition; having a legitimate claim.",
+      "clue_tag": "deserving-respect-recognition",
       "answer": "entitled",
       "answer_letters": "ENTITLED",
       "indices": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "clue": "Strategic efforts to sway political decisions.",
+      "clue_tag": "strategic-efforts-sway",
       "answer": "lobbying",
       "answer_letters": "LOBBYING",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue": "Control or possession of an asset.",
+      "clue_tag": "control-possession-asset",
       "answer": "ownership",
       "answer_letters": "OWNERSHIP",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue": "Voice replacement technique used in animation.",
+      "clue_tag": "voice-replacement-technique",
       "answer": "dubbing",
       "answer_letters": "DUBBING",
       "indices": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue": "Distance from head to tail.",
+      "clue_tag": "distance-head-tail",
       "answer": "length",
       "answer_letters": "LENGTH",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue": "Superior version of something.",
+      "clue_tag": "superior-version-something",
       "answer": "enhanced",
       "answer_letters": "ENHANCED",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue": "Engaged and amused guests at a party.",
+      "clue_tag": "engaged-amused-guests",
       "answer": "entertained",
       "answer_letters": "ENTERTAINED",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Temporary solution",
+      "clue_tag": "temporary-solution",
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue": "Discarded by advancement.",
+      "clue_tag": "discarded-advancement",
       "answer": "obsolete",
       "answer_letters": "OBSOLETE",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "A way of relieving pressure or stress.",
+      "clue_tag": "way-relieving-pressure",
       "answer": "outlet",
       "answer_letters": "OUTLET",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue": "The compass direction opposite southeast",
+      "clue_tag": "compass-direction-opposite",
       "answer": "northwest",
       "answer_letters": "NORTHWEST",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "His innovative use of close-ups revolutionized cinema.",
+      "clue_tag": "his-innovative-use",
       "answer": "griffith",
       "answer_letters": "GRIFFITH",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Nickname for someone from the United States, especially when contrasted with a 'Confederate' or Southerner.",
+      "clue_tag": "nickname-someone-united",
       "answer": "yankee",
       "answer_letters": "YANKEE",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue": "A prison.",
+      "clue_tag": "prison",
       "answer": "penitentiary",
       "answer_letters": "PENITENTIARY",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Increased in intensity",
+      "clue_tag": "increased-intensity",
       "answer": "strengthened",
       "answer_letters": "STRENGTHENED",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Lemony in hue.",
+      "clue_tag": "lemony-hue",
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [

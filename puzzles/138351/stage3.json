@@ -5,7 +5,7 @@
   "source_letters": "SHASHISONGSOFTHEMIST",
   "clues": [
     {
-      "clue": "Italians' largest island.",
+      "clue_tag": "italians-largest-island",
       "answer": "sicily",
       "answer_letters": "SICILY",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Faith associated with the Vedas.",
+      "clue_tag": "faith-associated-vedas",
       "answer": "hinduism",
       "answer_letters": "HINDUISM",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Institut de France branch, known for arts and letters",
+      "clue_tag": "institut-de-france",
       "answer": "académie",
       "answer_letters": "ACADEMIE",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Day gives way to night.",
+      "clue_tag": "day-gives-way",
       "answer": "sunset",
       "answer_letters": "SUNSET",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Academic achievement, typically in Britain and Commonwealth nations.",
+      "clue_tag": "academic-achievement-typically",
       "answer": "honours",
       "answer_letters": "HONOURS",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "___ as that!",
+      "clue_tag": "as-that",
       "answer": "simply",
       "answer_letters": "SIMPLY",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Edmonton's NHL team.",
+      "clue_tag": "edmontons-nhl-team",
       "answer": "oilers",
       "answer_letters": "OILERS",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Their juice yields wine.",
+      "clue_tag": "their-juice-yields",
       "answer": "grapes",
       "answer_letters": "GRAPES",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "A Chinese province.",
+      "clue_tag": "chinese-province",
       "answer": "shandong",
       "answer_letters": "SHANDONG",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "Performed duties as a referee",
+      "clue_tag": "performed-duties-referee",
       "answer": "officiated",
       "answer_letters": "OFFICIATED",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue": "Radiant light emitted by certain gases when energized.",
+      "clue_tag": "radiant-light-emitted",
       "answer": "fluorescent",
       "answer_letters": "FLUORESCENT",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue": "Place to 'tweet' your thoughts",
+      "clue_tag": "place-tweet-your",
       "answer": "twitter",
       "answer_letters": "TWITTER",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Indicates the proportionality between solubility and partial pressure (in gas-liquid systems).",
+      "clue_tag": "indicates-proportionality-between",
       "answer": "henry's",
       "answer_letters": "HENRYS",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "Concerned with Darwinian theory.",
+      "clue_tag": "concerned-darwinian-theory",
       "answer": "evolutionary",
       "answer_letters": "EVOLUTIONARY",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Groups often spreading religion.",
+      "clue_tag": "groups-often-spreading",
       "answer": "missionaries",
       "answer_letters": "MISSIONARIES",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "Cause to begin or occur.",
+      "clue_tag": "cause-begin-occur",
       "answer": "induce",
       "answer_letters": "INDUCE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Without hazard.",
+      "clue_tag": "without-hazard",
       "answer": "safely",
       "answer_letters": "SAFELY",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue": "Colonial possessions.",
+      "clue_tag": "colonial-possessions",
       "answer": "territories",
       "answer_letters": "TERRITORIES",
       "indices": [

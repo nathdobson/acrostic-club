@@ -5,7 +5,7 @@
   "source_letters": "ALYSONSERENASTONEONCE",
   "clues": [
     {
-      "clue": "The phase after adolescence.",
+      "clue_tag": "phase-after-adolescence",
       "answer": "adulthood",
       "answer_letters": "ADULTHOOD",
       "indices": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue": "Depressed or diminished in level",
+      "clue_tag": "depressed-diminished-level",
       "answer": "lowered",
       "answer_letters": "LOWERED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Opposite of black and blue.",
+      "clue_tag": "opposite-black-blue",
       "answer": "yellow",
       "answer_letters": "YELLOW",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "Ireland's national emblem.",
+      "clue_tag": "irelands-national-emblem",
       "answer": "shamrock",
       "answer_letters": "SHAMROCK",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": "Broad examination without detail.",
+      "clue_tag": "broad-examination-without",
       "answer": "overview",
       "answer_letters": "OVERVIEW",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue": "City in Japan's Chubu region.",
+      "clue_tag": "city-japans-chubu",
       "answer": "nagoya",
       "answer_letters": "NAGOYA",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "A nonmetal in period three, group sixteen of the periodic table",
+      "clue_tag": "nonmetal-period-three",
       "answer": "sulfur",
       "answer_letters": "SULFUR",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Deserving of respect or recognition; having a legitimate claim.",
+      "clue_tag": "deserving-respect-recognition",
       "answer": "entitled",
       "answer_letters": "ENTITLED",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue": "Second attempt at a scene.",
+      "clue_tag": "second-attempt-scene",
       "answer": "retake",
       "answer_letters": "RETAKE",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue": "Activated or turned on",
+      "clue_tag": "activated-turned",
       "answer": "enabled",
       "answer_letters": "ENABLED",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Join or connect something to another object",
+      "clue_tag": "join-connect-something",
       "answer": "attach",
       "answer_letters": "ATTACH",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue": "Uttered with great volume",
+      "clue_tag": "uttered-great-volume",
       "answer": "shouted",
       "answer_letters": "SHOUTED",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue": "Consideration or speculation.",
+      "clue_tag": "consideration-speculation",
       "answer": "thought",
       "answer_letters": "THOUGHT",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue": "Individual who operates outside legal boundaries.",
+      "clue_tag": "individual-operates-outside",
       "answer": "outlaw",
       "answer_letters": "OUTLAW",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue": "Telecommunication grid.",
+      "clue_tag": "telecommunication-grid",
       "answer": "network",
       "answer_letters": "NETWORK",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Baked into something.",
+      "clue_tag": "baked-into-something",
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "clue": "Duty-bound, perhaps.",
+      "clue_tag": "dutybound-perhaps",
       "answer": "obliged",
       "answer_letters": "OBLIGED",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue": "Digit or digits.",
+      "clue_tag": "digit-digits",
       "answer": "number",
       "answer_letters": "NUMBER",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue": "Took turns leading a program together.",
+      "clue_tag": "took-turns-leading",
       "answer": "co-hosted",
       "answer_letters": "COHOSTED",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue": "Not westbound.",
+      "clue_tag": "not-westbound",
       "answer": "eastward",
       "answer_letters": "EASTWARD",
       "indices": [

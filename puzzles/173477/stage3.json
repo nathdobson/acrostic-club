@@ -5,7 +5,7 @@
   "source_letters": "ALICEMUNROOPENSECRETS",
   "clues": [
     {
-      "clue": "Someone who excels in sports.",
+      "clue_tag": "someone-excels-sports",
       "answer": "athlete",
       "answer_letters": "ATHLETE",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Composer named after a king.",
+      "clue_tag": "composer-named-after",
       "answer": "ludwig",
       "answer_letters": "LUDWIG",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue": "Geographical feature connecting two larger landmasses.",
+      "clue_tag": "geographical-feature-connecting",
       "answer": "isthmus",
       "answer_letters": "ISTHMUS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue": "Penned together",
+      "clue_tag": "penned-together",
       "answer": "co-wrote",
       "answer_letters": "COWROTE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Makes use of someone's skills or services.",
+      "clue_tag": "makes-use-someones",
       "answer": "employs",
       "answer_letters": "EMPLOYS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Powerful adjective.",
+      "clue_tag": "powerful-adjective",
       "answer": "mighty",
       "answer_letters": "MIGHTY",
       "indices": [
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "clue": "Now in progress.",
+      "clue_tag": "now-progress",
       "answer": "underway",
       "answer_letters": "UNDERWAY",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "An adjective for events happening every evening.",
+      "clue_tag": "adjective-events-happening",
       "answer": "nightly",
       "answer_letters": "NIGHTLY",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "Ended up with a certain situation.",
+      "clue_tag": "ended-up-certain",
       "answer": "resulted",
       "answer_letters": "RESULTED",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue": "A Sooner state.",
+      "clue_tag": "sooner-state",
       "answer": "oklahoma",
       "answer_letters": "OKLAHOMA",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Location for more experimental theatre.",
+      "clue_tag": "location-more-experimental",
       "answer": "off-broadway",
       "answer_letters": "OFFBROADWAY",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue": "Speaker's platform.",
+      "clue_tag": "speakers-platform",
       "answer": "podium",
       "answer_letters": "PODIUM",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Hours of darkness.",
+      "clue_tag": "hours-darkness",
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "Opposite of lenient.",
+      "clue_tag": "opposite-lenient",
       "answer": "strict",
       "answer_letters": "STRICT",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue": "A prophet in the Old Testament.",
+      "clue_tag": "prophet-old-testament",
       "answer": "elijah",
       "answer_letters": "ELIJAH",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue": "Engaging in rivalry for a prize or recognition",
+      "clue_tag": "engaging-rivalry-prize",
       "answer": "competing",
       "answer_letters": "COMPETING",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue": "Job or service continuation by employees or clients.",
+      "clue_tag": "job-service-continuation",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue": "Reposed confidence in someone.",
+      "clue_tag": "reposed-confidence-someone",
       "answer": "entrusted",
       "answer_letters": "ENTRUSTED",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": "Regionally known as 'Desiya Bhasha'.",
+      "clue_tag": "regionally-known-desiya",
       "answer": "telugu",
       "answer_letters": "TELUGU",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": "Creative hubs for entertainment projects.",
+      "clue_tag": "creative-hubs-entertainment",
       "answer": "studios",
       "answer_letters": "STUDIOS",
       "indices": [

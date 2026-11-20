@@ -5,7 +5,7 @@
   "source_letters": "ALBERTCAMUSTHESTRANGER",
   "clues": [
     {
-      "clue": "A name synonymous with British comedy.",
+      "clue_tag": "name-synonymous-british",
       "answer": "atkinson",
       "answer_letters": "ATKINSON",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": "A district in South London named after a medieval bridge.",
+      "clue_tag": "district-south-london",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "At, next to, or adjacent to a particular place or thing.",
+      "clue_tag": "next-adjacent-particular",
       "answer": "beside",
       "answer_letters": "BESIDE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Baked into something.",
+      "clue_tag": "baked-into-something",
       "answer": "embedded",
       "answer_letters": "EMBEDDED",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "The current Chief Justice of the United States as of 2023.",
+      "clue_tag": "current-chief-justice",
       "answer": "roberts",
       "answer_letters": "ROBERTS",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "Contraction of they and have",
+      "clue_tag": "contraction-they-have",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Optional decision.",
+      "clue_tag": "optional-decision",
       "answer": "choice",
       "answer_letters": "CHOICE",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Spanish F1 driver with a stellar career at McLaren and Ferrari.",
+      "clue_tag": "spanish-f1-driver",
       "answer": "alonso",
       "answer_letters": "ALONSO",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Greek guide of Telemachus in \"The Odyssey.\"",
+      "clue_tag": "greek-guide-telemachus",
       "answer": "mentor",
       "answer_letters": "MENTOR",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Home to the Giant's Causeway.",
+      "clue_tag": "home-giants-causeway",
       "answer": "ulster",
       "answer_letters": "ULSTER",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue": "Port city of China, famous for its skyscrapers.",
+      "clue_tag": "port-city-china",
       "answer": "shanghai",
       "answer_letters": "SHANGHAI",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Celebrated designer of jewelry, born in 1848.",
+      "clue_tag": "celebrated-designer-jewelry",
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Middle point of a journey.",
+      "clue_tag": "middle-point-journey",
       "answer": "halfway",
       "answer_letters": "HALFWAY",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "The main human-like character in 'E.T. the Extra-Terrestrial'",
+      "clue_tag": "main-humanlike-character",
       "answer": "elliot",
       "answer_letters": "ELLIOT",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Displayed one's capabilities or talents.",
+      "clue_tag": "displayed-ones-capabilities",
       "answer": "showed",
       "answer_letters": "SHOWED",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Despite what was mentioned before.",
+      "clue_tag": "despite-what-was",
       "answer": "though",
       "answer_letters": "THOUGH",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue": "Time signature component.",
+      "clue_tag": "time-signature-component",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue": "Serbian first name, sharing its origin with Alexander.",
+      "clue_tag": "serbian-first-name",
       "answer": "aleksandar",
       "answer_letters": "ALEKSANDAR",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Colloquial term for obtained",
+      "clue_tag": "colloquial-term-obtained",
       "answer": "gotten",
       "answer_letters": "GOTTEN",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Rise to prominence.",
+      "clue_tag": "rise-prominence",
       "answer": "emerge",
       "answer_letters": "EMERGE",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Conservatives, as opposed to liberals.",
+      "clue_tag": "conservatives-opposed-liberals",
       "answer": "right-wing",
       "answer_letters": "RIGHTWING",
       "indices": [

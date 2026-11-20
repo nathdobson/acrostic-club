@@ -5,7 +5,7 @@
   "source_letters": "MARIAELENAETERNALYOUTH",
   "clues": [
     {
-      "clue": "Detroit-based record company with a soulful sound.",
+      "clue_tag": "detroitbased-record-company",
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Author of the 'Flatland' novella.",
+      "clue_tag": "author-flatland-novella",
       "answer": "abbott",
       "answer_letters": "ABBOTT",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "Conforming to standards of morality",
+      "clue_tag": "conforming-standards-morality",
       "answer": "righteous",
       "answer_letters": "RIGHTEOUS",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Name of a queen of Castile (1451-1504)",
+      "clue_tag": "name-queen-castile",
       "answer": "isabella",
       "answer_letters": "ISABELLA",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue": "Famous artist whose work is exhibited at the Rodin Museum.",
+      "clue_tag": "famous-artist-whose",
       "answer": "auguste",
       "answer_letters": "AUGUSTE",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": "To begin a journey or venture",
+      "clue_tag": "begin-journey-venture",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": "Synonym for small.",
+      "clue_tag": "synonym-small",
       "answer": "little",
       "answer_letters": "LITTLE",
       "indices": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "clue": "Rules of conduct or morality.",
+      "clue_tag": "rules-conduct-morality",
       "answer": "ethics",
       "answer_letters": "ETHICS",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue": "Up-to-date or modern.",
+      "clue_tag": "uptodate-modern",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "clue": "Place known for opium production contributing to illicit trade.",
+      "clue_tag": "place-known-opium",
       "answer": "afghanistan",
       "answer_letters": "AFGHANISTAN",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue": "Stylish and sophisticated.",
+      "clue_tag": "stylish-sophisticated",
       "answer": "elegant",
       "answer_letters": "ELEGANT",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue": "Hand in hand.",
+      "clue_tag": "hand-hand",
       "answer": "together",
       "answer_letters": "TOGETHER",
       "indices": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "clue": "Cowboy running back Ezekiel",
+      "clue_tag": "cowboy-running-back",
       "answer": "elliott",
       "answer_letters": "ELLIOTT",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue": "Rhythm and blues offshoot popular in Jamaica.",
+      "clue_tag": "rhythm-blues-offshoot",
       "answer": "reggae",
       "answer_letters": "REGGAE",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue": "Place known for the heartbreaking 2012 shooting.",
+      "clue_tag": "place-known-heartbreaking",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "clue": "Aggregation of stories, poems, or essays.",
+      "clue_tag": "aggregation-stories-poems",
       "answer": "anthology",
       "answer_letters": "ANTHOLOGY",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue": "Costs, not gains.",
+      "clue_tag": "costs-not-gains",
       "answer": "losses",
       "answer_letters": "LOSSES",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue": "Spoken by many Eastern European Jews before WWII.",
+      "clue_tag": "spoken-many-eastern",
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "clue": "Famed Spanish essayist and poet.",
+      "clue_tag": "famed-spanish-essayist",
       "answer": "ortega",
       "answer_letters": "ORTEGA",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue": "In a vertical position.",
+      "clue_tag": "vertical-position",
       "answer": "upright",
       "answer_letters": "UPRIGHT",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Not one day, but not three either.",
+      "clue_tag": "not-one-day",
       "answer": "two-day",
       "answer_letters": "TWODAY",
       "indices": [
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "clue": "Advanced and innovative systems.",
+      "clue_tag": "advanced-innovative-systems",
       "answer": "high-tech",
       "answer_letters": "HIGHTECH",
       "indices": [

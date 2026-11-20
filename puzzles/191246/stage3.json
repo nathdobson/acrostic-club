@@ -5,7 +5,7 @@
   "source_letters": "CONNIEWILLISBELLWETHER",
   "clues": [
     {
-      "clue": "Parts of a whole.",
+      "clue_tag": "parts-whole",
       "answer": "components",
       "answer_letters": "COMPONENTS",
       "indices": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "clue": "Path where you can't go back.",
+      "clue_tag": "path-where-you",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": "Daughter's son.",
+      "clue_tag": "daughters-son",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": "The subject of John Muir's work.",
+      "clue_tag": "subject-john-muirs",
       "answer": "nature",
       "answer_letters": "NATURE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Purposeful aim.",
+      "clue_tag": "purposeful-aim",
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Affective understanding of another's situation.",
+      "clue_tag": "affective-understanding-anothers",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Essence of coziness.",
+      "clue_tag": "essence-coziness",
       "answer": "warmth",
       "answer_letters": "WARMTH",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Problems encountered.",
+      "clue_tag": "problems-encountered",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Most recent version.",
+      "clue_tag": "most-recent-version",
       "answer": "latest",
       "answer_letters": "LATEST",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "A system of symbols used to convey thoughts, ideas, etc., especially spoken words expressed through written characters or signs.",
+      "clue_tag": "system-symbols-used",
       "answer": "language",
       "answer_letters": "LANGUAGE",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Port city in Suffolk, England",
+      "clue_tag": "port-city-suffolk",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Board sport on the sea.",
+      "clue_tag": "board-sport-sea",
       "answer": "surfing",
       "answer_letters": "SURFING",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "A small, round object used for fastening clothing.",
+      "clue_tag": "small-round-object",
       "answer": "button",
       "answer_letters": "BUTTON",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue": "Authorized to act",
+      "clue_tag": "authorized-act",
       "answer": "empowered",
       "answer_letters": "EMPOWERED",
       "indices": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "clue": "Vision aids, often worn for myopia or hyperopia.",
+      "clue_tag": "vision-aids-often",
       "answer": "lenses",
       "answer_letters": "LENSES",
       "indices": [
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "clue": "In computer science, a symbol for anonymous functions.",
+      "clue_tag": "computer-science-symbol",
       "answer": "lambda",
       "answer_letters": "LAMBDA",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue": "Something resembling white, slightly off.",
+      "clue_tag": "something-resembling-white",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue": "Gave physical presence to an idea.",
+      "clue_tag": "gave-physical-presence",
       "answer": "embodied",
       "answer_letters": "EMBODIED",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "Groomed or cared for regularly",
+      "clue_tag": "groomed-cared-regularly",
       "answer": "tended",
       "answer_letters": "TENDED",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "Essential for construction and carpentry.",
+      "clue_tag": "essential-construction-carpentry",
       "answer": "hammer",
       "answer_letters": "HAMMER",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue": "Coastal city in Rhode Island.",
+      "clue_tag": "coastal-city-rhode",
       "answer": "easton",
       "answer_letters": "EASTON",
       "indices": [
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "clue": "Measurement of quality or performance.",
+      "clue_tag": "measurement-quality-performance",
       "answer": "rating",
       "answer_letters": "RATING",
       "indices": [

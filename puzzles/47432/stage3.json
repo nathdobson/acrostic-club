@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHDIVERGENT",
   "clues": [
     {
-      "clue": "Slugger Mo",
+      "clue_tag": "slugger-mo",
       "answer": "vaughn",
       "answer_letters": "VAUGHN",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "Large mammal known for its trunk.",
+      "clue_tag": "large-mammal-known",
       "answer": "elephant",
       "answer_letters": "ELEPHANT",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue": "Famous for leading Santa's sleigh on foggy nights.",
+      "clue_tag": "famous-leading-santas",
       "answer": "rudolph",
       "answer_letters": "RUDOLPH",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Criminals in the eyes of society.",
+      "clue_tag": "criminals-eyes-society",
       "answer": "outlaws",
       "answer_letters": "OUTLAWS",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Site of a major airport in NJ.",
+      "clue_tag": "site-major-airport",
       "answer": "newark",
       "answer_letters": "NEWARK",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue": "Set up and made ready for use.",
+      "clue_tag": "set-up-made",
       "answer": "installed",
       "answer_letters": "INSTALLED",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "A Protestant theologian.",
+      "clue_tag": "protestant-theologian",
       "answer": "calvin",
       "answer_letters": "CALVIN",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue": "Lie in wait for prey or foes.",
+      "clue_tag": "lie-wait-prey",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue": "A fresh start or revival.",
+      "clue_tag": "fresh-start-revival",
       "answer": "renewal",
       "answer_letters": "RENEWAL",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue": "Removed from office or position.",
+      "clue_tag": "removed-office-position",
       "answer": "ousted",
       "answer_letters": "OUSTED",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue": "Dual-directional.",
+      "clue_tag": "dualdirectional",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue": "Robert, known for his role in 'Rain Man'.",
+      "clue_tag": "robert-known-his",
       "answer": "hoffman",
       "answer_letters": "HOFFMAN",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue": "Formerly known as Stalino.",
+      "clue_tag": "formerly-known-stalino",
       "answer": "donetsk",
       "answer_letters": "DONETSK",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue": "Plan or mean (to do something).",
+      "clue_tag": "plan-mean-do",
       "answer": "intend",
       "answer_letters": "INTEND",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue": "Food of the non-animal kind.",
+      "clue_tag": "food-nonanimal-kind",
       "answer": "vegetable",
       "answer_letters": "VEGETABLE",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue": "To begin a journey or venture",
+      "clue_tag": "begin-journey-venture",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "clue": "Having a familial link.",
+      "clue_tag": "having-familial-link",
       "answer": "related",
       "answer_letters": "RELATED",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "The subject of many a Halloween tale.",
+      "clue_tag": "subject-many-halloween",
       "answer": "ghosts",
       "answer_letters": "GHOSTS",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue": "Synonym for moniker.",
+      "clue_tag": "synonym-moniker",
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue": "The magazine is known for its influential covers and in-depth reporting.",
+      "clue_tag": "magazine-known-influential",
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue": "Utterly, completely.",
+      "clue_tag": "utterly-completely",
       "answer": "totally",
       "answer_letters": "TOTALLY",
       "indices": [

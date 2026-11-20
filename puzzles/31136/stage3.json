@@ -5,7 +5,7 @@
   "source_letters": "ALANBRENNERTMOLOKAI",
   "clues": [
     {
-      "clue": "Lower part of torso, below chest.",
+      "clue_tag": "lower-part-torso",
       "answer": "abdomen",
       "answer_letters": "ABDOMEN",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue": "Progressive or liberal stance.",
+      "clue_tag": "progressive-liberal-stance",
       "answer": "left-wing",
       "answer_letters": "LEFTWING",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "Creative literary craftsman.",
+      "clue_tag": "creative-literary-craftsman",
       "answer": "author",
       "answer_letters": "AUTHOR",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Absence of place.",
+      "clue_tag": "absence-place",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue": "Electrical component that raises voltage.",
+      "clue_tag": "electrical-component-raises",
       "answer": "booster",
       "answer_letters": "BOOSTER",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "East Yorkshire town, known for steel and glass works.",
+      "clue_tag": "east-yorkshire-town",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue": "Basic unit of a compound",
+      "clue_tag": "basic-unit-compound",
       "answer": "element",
       "answer_letters": "ELEMENT",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue": "Necessary for a particular purpose.",
+      "clue_tag": "necessary-particular-purpose",
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Month with Thanksgiving in the U.S.",
+      "clue_tag": "month-thanksgiving-us",
       "answer": "november",
       "answer_letters": "NOVEMBER",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue": "Advanced on the career ladder",
+      "clue_tag": "advanced-career-ladder",
       "answer": "elevated",
       "answer_letters": "ELEVATED",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue": "Automatonlike.",
+      "clue_tag": "automatonlike",
       "answer": "robotic",
       "answer_letters": "ROBOTIC",
       "indices": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "clue": "Phrase used in legal documents.",
+      "clue_tag": "phrase-used-legal",
       "answer": "thereof",
       "answer_letters": "THEREOF",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue": "Author of the Quranic revelations.",
+      "clue_tag": "author-quranic-revelations",
       "answer": "mohammed",
       "answer_letters": "MOHAMMED",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Famed Spanish essayist and poet.",
+      "clue_tag": "famed-spanish-essayist",
       "answer": "ortega",
       "answer_letters": "ORTEGA",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue": "They might find scissors designed for them more comfortable.",
+      "clue_tag": "they-might-find",
       "answer": "left-handed",
       "answer_letters": "LEFTHANDED",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "As many as sixty minutes.",
+      "clue_tag": "many-sixty-minutes",
       "answer": "one-hour",
       "answer_letters": "ONEHOUR",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "American singer-songwriter active since the mid-2010s.",
+      "clue_tag": "american-singersongwriter-active",
       "answer": "khalid",
       "answer_letters": "KHALID",
       "indices": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "clue": "Lawyer.",
+      "clue_tag": "lawyer",
       "answer": "attorney",
       "answer_letters": "ATTORNEY",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue": "Energetically, with fervor",
+      "clue_tag": "energetically-fervor",
       "answer": "intensely",
       "answer_letters": "INTENSELY",
       "indices": [

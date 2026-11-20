@@ -5,7 +5,7 @@
   "source_letters": "BENRICEPOBBYANDDINGAN",
   "clues": [
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "blizzard",
       "answer_letters": "BLIZZARD",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "released",
       "answer_letters": "RELEASED",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "injury",
       "answer_letters": "INJURY",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "costal",
       "answer_letters": "COSTAL",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "emphasised",
       "answer_letters": "EMPHASISED",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "playoffs",
       "answer_letters": "PLAYOFFS",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "overwhelmed",
       "answer_letters": "OVERWHELMED",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "backup",
       "answer_letters": "BACKUP",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "broadway",
       "answer_letters": "BROADWAY",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "year-end",
       "answer_letters": "YEAREND",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "addison",
       "answer_letters": "ADDISON",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "natasha",
       "answer_letters": "NATASHA",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "dorothea",
       "answer_letters": "DOROTHEA",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "demand",
       "answer_letters": "DEMAND",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "in-depth",
       "answer_letters": "INDEPTH",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "needed",
       "answer_letters": "NEEDED",
       "indices": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "goodman",
       "answer_letters": "GOODMAN",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "clue": null,
+      "clue_tag": null,
       "answer": "newton",
       "answer_letters": "NEWTON",
       "indices": [

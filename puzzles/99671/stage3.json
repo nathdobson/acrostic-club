@@ -5,7 +5,7 @@
   "source_letters": "ZADIESMITHSWINGTIME",
   "clues": [
     {
-      "clue": "Peak of success or power.",
+      "clue_tag": "peak-success-power",
       "answer": "zenith",
       "answer_letters": "ZENITH",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "It has a capital city named Buenos Aires.",
+      "clue_tag": "has-capital-city",
       "answer": "argentine",
       "answer_letters": "ARGENTINE",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue": "As in 'to love ____.'",
+      "clue_tag": "love",
       "answer": "deeply",
       "answer_letters": "DEEPLY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue": "Opposite of open air.",
+      "clue_tag": "opposite-open-air",
       "answer": "indoor",
       "answer_letters": "INDOOR",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue": "Often called staff or workers.",
+      "clue_tag": "often-called-staff",
       "answer": "employee",
       "answer_letters": "EMPLOYEE",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue": "Underwent trials and tribulations.",
+      "clue_tag": "underwent-trials-tribulations",
       "answer": "suffered",
       "answer_letters": "SUFFERED",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue": "Pioneering horseman and author.",
+      "clue_tag": "pioneering-horseman-author",
       "answer": "markham",
       "answer_letters": "MARKHAM",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue": "Jailhouse residents.",
+      "clue_tag": "jailhouse-residents",
       "answer": "inmates",
       "answer_letters": "INMATES",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue": "Hence or consequently",
+      "clue_tag": "hence-consequently",
       "answer": "therefore",
       "answer_letters": "THEREFORE",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue": "Activist Tom who wrote the Port Huron Statement",
+      "clue_tag": "activist-tom-wrote",
       "answer": "hayden",
       "answer_letters": "HAYDEN",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue": "A female given name starting with 'St.'",
+      "clue_tag": "female-given-name",
       "answer": "stephanie",
       "answer_letters": "STEPHANIE",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue": "Determining heaviness",
+      "clue_tag": "determining-heaviness",
       "answer": "weighing",
       "answer_letters": "WEIGHING",
       "indices": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "clue": "Purposeful aim.",
+      "clue_tag": "purposeful-aim",
       "answer": "intent",
       "answer_letters": "INTENT",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue": "Opposite of east-west.",
+      "clue_tag": "opposite-eastwest",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "clue": "Faust's author.",
+      "clue_tag": "fausts-author",
       "answer": "goethe",
       "answer_letters": "GOETHE",
       "indices": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "clue": "Celebrated designer of jewelry, born in 1848.",
+      "clue_tag": "celebrated-designer-jewelry",
       "answer": "tiffany",
       "answer_letters": "TIFFANY",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue": "Family to which Latin and Sanskrit belong.",
+      "clue_tag": "family-latin-sanskrit",
       "answer": "indo-european",
       "answer_letters": "INDOEUROPEAN",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue": "\"Crash Into Me\" rock group Dave __ Band",
+      "clue_tag": "crash-into-me",
       "answer": "matthews",
       "answer_letters": "MATTHEWS",
       "indices": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "clue": "Amateurs of a particular interest or hobby.",
+      "clue_tag": "amateurs-particular-interest",
       "answer": "enthusiasts",
       "answer_letters": "ENTHUSIASTS",
       "indices": [

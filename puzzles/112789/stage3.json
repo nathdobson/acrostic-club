@@ -5,7 +5,7 @@
   "source_letters": "JOANBAUERHOPEWASHERE",
   "clues": [
     {
-      "clue": "Gatherers of news stories.",
+      "clue_tag": "gatherers-news-stories",
       "answer": "journalists",
       "answer_letters": "JOURNALISTS",
       "indices": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "clue": "Out at sea.",
+      "clue_tag": "out-sea",
       "answer": "offshore",
       "answer_letters": "OFFSHORE",
       "indices": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "clue": "Lawyer.",
+      "clue_tag": "lawyer",
       "answer": "attorney",
       "answer_letters": "ATTORNEY",
       "indices": [
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "clue": "Keen observer of wildlife.",
+      "clue_tag": "keen-observer-wildlife",
       "answer": "naturalist",
       "answer_letters": "NATURALIST",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "City near the Pennines known for its industrial heritage",
+      "clue_tag": "city-near-pennines",
       "answer": "bolton",
       "answer_letters": "BOLTON",
       "indices": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "clue": "It's not just for roads; it can be found on tennis courts.",
+      "clue_tag": "not-just-roads",
       "answer": "asphalt",
       "answer_letters": "ASPHALT",
       "indices": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "clue": "A variable in mathematics yet to be solved.",
+      "clue_tag": "variable-mathematics-yet",
       "answer": "unknown",
       "answer_letters": "UNKNOWN",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue": "Held a position on the payroll.",
+      "clue_tag": "held-position-payroll",
       "answer": "employed",
       "answer_letters": "EMPLOYED",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue": "Construct again after destruction or deterioration.",
+      "clue_tag": "construct-again-after",
       "answer": "rebuild",
       "answer_letters": "REBUILD",
       "indices": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "clue": "Major route connecting cities.",
+      "clue_tag": "major-route-connecting",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue": "Removed from office or position.",
+      "clue_tag": "removed-office-position",
       "answer": "ousted",
       "answer_letters": "OUSTED",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue": "The art of making objects out of clay.",
+      "clue_tag": "art-making-objects",
       "answer": "pottery",
       "answer_letters": "POTTERY",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue": "Candidates for a competition.",
+      "clue_tag": "candidates-competition",
       "answer": "entrants",
       "answer_letters": "ENTRANTS",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "Something resembling white, slightly off.",
+      "clue_tag": "something-resembling-white",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "Procedure where disputes are decided by an impartial person.",
+      "clue_tag": "procedure-where-disputes",
       "answer": "arbitration",
       "answer_letters": "ARBITRATION",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue": "Unbumpy surface.",
+      "clue_tag": "unbumpy-surface",
       "answer": "smooth",
       "answer_letters": "SMOOTH",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue": "Convenient for on-the-go use.",
+      "clue_tag": "convenient-onthego-use",
       "answer": "handheld",
       "answer_letters": "HANDHELD",
       "indices": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "clue": "Ability to produce a desired result.",
+      "clue_tag": "ability-produce-desired",
       "answer": "efficacy",
       "answer_letters": "EFFICACY",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue": "Impose limitations on.",
+      "clue_tag": "impose-limitations",
       "answer": "restrict",
       "answer_letters": "RESTRICT",
       "indices": [
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "clue": "Vigorous or determined attempt to do something.",
+      "clue_tag": "vigorous-determined-attempt",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [

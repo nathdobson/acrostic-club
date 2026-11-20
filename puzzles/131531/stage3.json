@@ -5,7 +5,7 @@
   "source_letters": "HANNAHARENDTONVIOLENCE",
   "clues": [
     {
-      "clue": "18th-century geologist who influenced Lyell",
+      "clue_tag": "18thcentury-geologist-influenced",
       "answer": "hutton",
       "answer_letters": "HUTTON",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue": "To impact a situation or outcome",
+      "clue_tag": "impact-situation-outcome",
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue": "An affectionate nickname for Helen.",
+      "clue_tag": "affectionate-nickname-helen",
       "answer": "nellie",
       "answer_letters": "NELLIE",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue": "Individuals who monitor patients' vitals.",
+      "clue_tag": "individuals-monitor-patients",
       "answer": "nurses",
       "answer_letters": "NURSES",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue": "An oracle of Delphi was devoted to this deity.",
+      "clue_tag": "oracle-delphi-was",
       "answer": "apollo",
       "answer_letters": "APOLLO",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue": "Category often associated with Ali or Tyson.",
+      "clue_tag": "category-often-associated",
       "answer": "heavyweight",
       "answer_letters": "HEAVYWEIGHT",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue": "Ill-treated or mistreated.",
+      "clue_tag": "illtreated-mistreated",
       "answer": "abused",
       "answer_letters": "ABUSED",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue": "Name of actor born on February 28, 1976; he was also a professional ballroom dancer before his acting career took off.",
+      "clue_tag": "name-actor-born",
       "answer": "ritter",
       "answer_letters": "RITTER",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue": "Coastal city in Rhode Island.",
+      "clue_tag": "coastal-city-rhode",
       "answer": "easton",
       "answer_letters": "EASTON",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue": "Report presented by anchorperson.",
+      "clue_tag": "report-presented-anchorperson",
       "answer": "newscast",
       "answer_letters": "NEWSCAST",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue": "Landlocked state",
+      "clue_tag": "landlocked-state",
       "answer": "dakota",
       "answer_letters": "DAKOTA",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue": "He earned his Olympic title in 2000.",
+      "clue_tag": "he-earned-his",
       "answer": "thorpe",
       "answer_letters": "THORPE",
       "indices": [
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "clue": "Counteracts.",
+      "clue_tag": "counteracts",
       "answer": "opposes",
       "answer_letters": "OPPOSES",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue": "Leader during the Ceaușescu era.",
+      "clue_tag": "leader-during-ceausescu",
       "answer": "nicolae",
       "answer_letters": "NICOLAE",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue": "TV ratings participants.",
+      "clue_tag": "tv-ratings-participants",
       "answer": "viewers",
       "answer_letters": "VIEWERS",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue": "These are places for research and study.",
+      "clue_tag": "these-are-places",
       "answer": "institutes",
       "answer_letters": "INSTITUTES",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue": "No parents.",
+      "clue_tag": "no-parents",
       "answer": "orphan",
       "answer_letters": "ORPHAN",
       "indices": [
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "clue": "Often requires chemotherapy or radiation therapy for treatment.",
+      "clue_tag": "often-requires-chemotherapy",
       "answer": "lymphoma",
       "answer_letters": "LYMPHOMA",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue": "One of seven continents.",
+      "clue_tag": "one-seven-continents",
       "answer": "europe",
       "answer_letters": "EUROPE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue": "Higher social rank or aristocracy.",
+      "clue_tag": "higher-social-rank",
       "answer": "nobility",
       "answer_letters": "NOBILITY",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue": "Urban areas.",
+      "clue_tag": "urban-areas",
       "answer": "cities",
       "answer_letters": "CITIES",
       "indices": [
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "clue": "Subject of a famous Irish ballad",
+      "clue_tag": "subject-famous-irish",
       "answer": "eileen",
       "answer_letters": "EILEEN",
       "indices": [
