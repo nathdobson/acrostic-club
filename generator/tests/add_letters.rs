@@ -181,6 +181,21 @@ fn punctuation_at_the_ends_of_a_quote_adds_no_space() {
 }
 
 #[test]
+fn whitespace_at_the_ends_of_a_quote_shows_no_cell() {
+    assert_eq!(cells_for(" Hello there. "), "HELLO THERE");
+    // A mark and a space before the first word, and a space before the last mark.
+    assert_eq!(cells_for("... I learned"), "I LEARNED");
+    assert_eq!(cells_for("Is that so ?"), "IS THAT SO");
+}
+
+#[test]
+fn dashes_at_the_ends_of_a_quote_show_no_cell() {
+    assert_eq!(cells_for("- I learned"), "I LEARNED");
+    assert_eq!(cells_for("I will do it -"), "I WILL DO IT");
+    assert_eq!(cells_for("of attachment.-- "), "OF ATTACHMENT");
+}
+
+#[test]
 fn apostrophes_brackets_and_some_symbols_stay_inside_a_word() {
     assert_eq!(cells_for("don't"), "DONT");
     // A curly apostrophe.

@@ -312,21 +312,17 @@ pub fn quote_to_cells(input: &str) -> io::Result<String> {
         match run {
             Run::Word(word) => cells.push_str(word),
             Run::Marks { marks, text } => {
-                // Runs alternate, so marks with a run on each side sit between two words.
-                let words_around = match (
+                // Runs alternate, so marks with a run on each side sit between two words. Marks at
+                // either end of the quote separate nothing, so they show no cell.
+                let (Some(Run::Word(word_before)), Some(Run::Word(word_after))) = (
                     index.checked_sub(1).map(|index_before| &runs[index_before]),
                     runs.get(index + 1),
-                ) {
-                    (Some(Run::Word(word_before)), Some(Run::Word(word_after))) => {
-                        Some((word_before, word_after))
-                    }
-                    _ => None,
+                ) else {
+                    continue;
                 };
                 // Digits show as written, so symbols inside a number do too: dropping them would
                 // change the number, as `3:16` would become `316`.
-                if let Some((word_before, word_after)) = words_around
-                    && is_inside_number(marks, word_before, word_after)
-                {
+                if is_inside_number(marks, word_before, word_after) {
                     cells.push_str(text);
                     continue;
                 }
@@ -334,10 +330,7 @@ pub fn quote_to_cells(input: &str) -> io::Result<String> {
                 for &mark in marks {
                     push_mark_cells(&mut cells, mark);
                 }
-                if let Some((word_before, word_after)) = words_around
-                    && cells.len() == length_before
-                    && !is_inside_word(marks, word_before, word_after)
-                {
+                if cells.len() == length_before && !is_inside_word(marks, word_before, word_after) {
                     cells.push(' ');
                 }
             }
