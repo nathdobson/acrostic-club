@@ -28,8 +28,9 @@ fn make_clue(answer: &str, indices: Vec<usize>) -> Clue {
 
 #[test]
 fn a_rebuild_shifts_the_clue_indices_after_a_new_word_break() {
+    // The committed cells lack the space, as if built before stage 0 restored it.
     let clues = vec![make_clue("BED", vec![3, 0, 2])];
-    let mut puzzle = make_puzzle("end.Begin", "ENDBEGIN", Some(clues));
+    let mut puzzle = make_puzzle("end. Begin", "ENDBEGIN", Some(clues));
 
     rebuild_cells(&mut puzzle).expect("only a space should change");
 
@@ -66,7 +67,8 @@ fn a_rebuild_shifts_the_clue_indices_after_a_new_hyphen() {
 
 #[test]
 fn a_rebuild_updates_the_cells_of_a_puzzle_without_clues() {
-    let mut puzzle = make_puzzle("end.Begin", "ENDBEGIN", None);
+    // The committed cells lack the space, as if built before stage 0 restored it.
+    let mut puzzle = make_puzzle("end. Begin", "ENDBEGIN", None);
 
     rebuild_cells(&mut puzzle).expect("only a space should change");
 

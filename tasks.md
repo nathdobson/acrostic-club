@@ -38,12 +38,14 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Split words joined with no punctuation between them** — some
       quotes lost a space with nothing left to mark it, as in `theyhad`, so
       `quote_to_cells` can't tell they're two words. A language model split
-      all 27 examples it was given in a test. Once the spaces are in a
-      committed puzzle's quote, `puzzle rebuild-cells` carries them into
-      its cells and clue indices.
+      all 27 examples it was given in a test. The splits belong in a pass of
+      stage 0's `reformat_quote`; rerunning `puzzle quote` and then
+      `puzzle rebuild-cells` carries them into a committed puzzle.
 - [ ] **Fix clues known to be wrong** — 33 puzzles clue `nephew` as
       "Daughter's son." and 14 clue `dwight` as "Michele's husband on 'The
       Office'."; fix each with `global edit-clue`.
+- [ ] **Quote 223339 uses `‟` as an apostrophe** — in `mama‟s`, so its
+      reformatted text and its cells split the word.
 
 ### Tidy-ups
 

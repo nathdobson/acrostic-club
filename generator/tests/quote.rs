@@ -227,6 +227,19 @@ fn test_started_puzzle_holds_its_quote_with_characters_repaired() {
 }
 
 #[test]
+fn test_started_puzzle_holds_its_quote_with_lost_spaces_restored() {
+    let quote = build_quote("Lola sat.Alone", "Al Stone");
+
+    let puzzle = start_unallowlisted_puzzle(&quote).expect("the quote should start a puzzle");
+
+    let reformatted_quote = &puzzle.quote;
+    assert!(
+        reformatted_quote.starts_with("Lola sat. Alone "),
+        "{reformatted_quote:?}"
+    );
+}
+
+#[test]
 fn test_accented_quote_letter_supplies_its_plain_letter() {
     // The source's E comes from the quote's `é`.
     let quote = build_quote("Café", "Ace");
@@ -268,11 +281,9 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
             .get(number)
             .unwrap_or_else(|| panic!("puzzle {number} should have a quote in the parsed list"));
         // Stage 0 stores the quote reformatted.
-        assert_eq!(
-            reformat_quote(&quote.quote),
-            stored_puzzle.quote,
-            "puzzle {number}"
-        );
+        let reformatted_quote = reformat_quote(&quote.quote)
+            .unwrap_or_else(|error| panic!("puzzle {number}'s quote should lay out: {error}"));
+        assert_eq!(reformatted_quote, stored_puzzle.quote, "puzzle {number}");
         assert_eq!(quote.source, stored_puzzle.source, "puzzle {number}");
         checked_puzzle_count += 1;
     }

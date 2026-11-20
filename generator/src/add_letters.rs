@@ -1,103 +1,73 @@
 use crate::puzzle::Puzzle;
 use crate::string::LetterString;
 use crate::words_and_marks::{
-    Mark, Run, ends_with_digit, is_inside_number, split_into_runs, split_off_number_symbols,
-    starts_with_digit,
+    Mark, MarksPlacement, Run, place_marks, split_into_runs, words_beside,
 };
 use std::io;
 
-// Appends the cells a mark shows as: a space for whitespace, unless the cells already end
-// in one, and a hyphen for a dash. Other punctuation shows no cell.
-fn push_mark_cells(cells: &mut String, mark: Mark) {
-    match mark {
-        Mark::Space => {
-            if !cells.ends_with(' ') {
-                cells.push(' ');
-            }
-        }
-        Mark::Dot
-        | Mark::Comma
-        | Mark::Colon
-        | Mark::InsideWord
-        | Mark::NumberSymbol(_)
-        | Mark::Other => {}
-        Mark::Dash => cells.push('-'),
-    }
-}
-
-// Whether marks that show no cell sit inside one word, rather than between two words.
+// Lays a quote out as the puzzle's cells: one per letter or digit, a space for whitespace or a
+// slash between words, a hyphen for each dash, and any symbols inside a number or beside one as
+// written, as in `3:16` or `17%`. Any other mark shows no cell, so the words on either side of it
+// join: `don't` gives `DONT`.
 //
-// Apostrophes, brackets, and a few symbols sit inside words: `don't`, `[T]he`, `f*ck`,
-// `AT&T`. So does a dot between single letters, as in `U.S.A.` Other punctuation between two
-// words stands in for a space or line break that the quote's text lost, as in `end.Begin` or
-// `love#life`.
-fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
-    let is_single_letter = |word: &str| {
-        word.len() == 1
-            && word
-                .chars()
-                .all(|character| character.is_ascii_alphabetic())
-    };
-    match marks {
-        [Mark::Dot] if is_single_letter(word_before) && is_single_letter(word_after) => true,
-        _ => marks.iter().all(|mark| matches!(mark, Mark::InsideWord)),
-    }
-}
-
-// Lays a quote out as the puzzle's cells: one per letter or digit, a space between words, a
-// hyphen for each dash, and any symbols inside a number or attached to one as written, as in
-// `3:16` or `17%`. Expects text that `reformat_quote` has reformatted, whose characters show what
-// they stand for. Fails on any character it doesn't recognize, such as `☥`, since it has no cells
-// to give it.
+// Expects text that `reformat_quote` has already formatted. Unreformatted text such as `end.Begin`
+// should never arrive; it would lay out as `ENDBEGIN`, without any intervening spaces.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let runs = split_into_runs(input)?;
     let mut cells = String::new();
     for (index, run) in runs.iter().enumerate() {
         match run {
             Run::Word(word) => cells.push_str(word),
-            Run::Marks { marks, text } => {
-                // Runs alternate, so a run on either side of marks is a word.
-                let word_before = index
-                    .checked_sub(1)
-                    .and_then(|index_before| runs[index_before].as_word());
-                let word_after = runs.get(index + 1).and_then(Run::as_word);
-                // Digits show as written, so symbols inside a number do too: dropping them would
-                // change the number, as `3:16` would become `316`.
-                if let (Some(word_before), Some(word_after)) = (word_before, word_after)
-                    && is_inside_number(marks, word_before, word_after)
-                {
-                    cells.push_str(text);
-                    continue;
-                }
-                // A number symbol shows as written beside its number, for the same reason: `99%`
-                // would otherwise become `99`.
-                let (number_suffix, between, number_prefix) = split_off_number_symbols(
-                    marks,
-                    word_before.is_some_and(ends_with_digit),
-                    word_after.is_some_and(starts_with_digit),
-                );
-                cells.push_str(&number_suffix);
-                // The remaining marks show cells only between two words: at either end of the
-                // quote, they separate nothing.
-                if let (Some(word_before), Some(word_after)) = (word_before, word_after) {
-                    let length_before = cells.len();
-                    for &mark in between {
-                        push_mark_cells(&mut cells, mark);
-                    }
-                    // With no marks left between them, the words are separate: a number symbol ran
-                    // straight into the next word, as in `17%of`, where the quote's text is
-                    // missing a space.
-                    let are_separate_words =
-                        between.is_empty() || !is_inside_word(between, word_before, word_after);
-                    if cells.len() == length_before && are_separate_words {
-                        cells.push(' ');
-                    }
-                }
-                cells.push_str(&number_prefix);
+            Run::Marks { marks, text, .. } => {
+                let (word_before, word_after) = words_beside(&runs, index);
+                cells.push_str(&marks_to_cells(marks, text, word_before, word_after));
             }
         }
     }
     Ok(cells)
+}
+
+// The cells that a run of marks shows, given its text and the cells of the words on either side,
+// each `None` at an end of the quote.
+fn marks_to_cells(
+    marks: &[Mark],
+    text: &str,
+    word_before: Option<&str>,
+    word_after: Option<&str>,
+) -> String {
+    match place_marks(marks, word_before, word_after) {
+        // Inside a number, as in `3:16`, the marks show as written.
+        MarksPlacement::InsideNumber => text.to_string(),
+        MarksPlacement::OutsideNumber {
+            number_suffix,
+            between,
+            number_prefix,
+        } => {
+            // At either end of the quote, marks separate no words, so they show no cells: `—Yes.`
+            // gives `YES`, not `-YES`. A symbol beside a number still shows, since it belongs to
+            // the number: `100%.` gives `100%`.
+            let is_between_words = word_before.is_some() && word_after.is_some();
+            let between_cells = if is_between_words {
+                cells_between_words(&marks[between])
+            } else {
+                String::new()
+            };
+            format!("{number_suffix}{between_cells}{number_prefix}")
+        }
+    }
+}
+
+// The cells that marks between two words show: one for each mark that shows a cell, though
+// several spaces in a row show as one.
+fn cells_between_words(marks: &[Mark]) -> String {
+    let mut cells = String::new();
+    for cell in marks.iter().filter_map(|mark| mark.cell_between_words()) {
+        let is_repeated_space = cell == ' ' && cells.ends_with(' ');
+        if !is_repeated_space {
+            cells.push(cell);
+        }
+    }
+    cells
 }
 
 // Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII: `Émile

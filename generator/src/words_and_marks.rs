@@ -1,10 +1,12 @@
 // Splits a quote's text into words and the runs of marks between them, and tells the kinds of
-// mark apart, for laying the text out as cells.
+// mark apart. Stage 0 reads the text this way to find where it lost spaces, and stage 1 to lay
+// it out as cells.
 
 use crate::string::{Grapheme, GraphemeString};
 use itertools::Itertools;
 use std::io;
 use std::io::ErrorKind;
+use std::ops::Range;
 use unicode_script::{Script, UnicodeScript};
 
 // A stretch of a quote that is either all letters and digits or all punctuation and
@@ -12,9 +14,16 @@ use unicode_script::{Script, UnicodeScript};
 pub enum Run {
     // The cells of a word or a number.
     Word(String),
-    // The punctuation and whitespace between words, along with their ASCII forms, which show
-    // as written inside a number.
-    Marks { marks: Vec<Mark>, text: String },
+    // The punctuation and whitespace between words.
+    Marks {
+        // The kind of each mark.
+        marks: Vec<Mark>,
+        // The marks' ASCII forms, which show as written inside a number, as in `3:16`.
+        text: String,
+        // The byte offset in the whole quote where each mark starts, followed by the offset just
+        // past the run: `[3, 4]` for the `.` in `end.Begin`.
+        mark_offsets: Vec<usize>,
+    },
 }
 
 impl Run {
@@ -27,6 +36,16 @@ impl Run {
     }
 }
 
+// The cells of the words on either side of the run at `index`, each `None` at an end of the
+// quote. Runs alternate, so a run on either side of marks is a word.
+pub fn words_beside(runs: &[Run], index: usize) -> (Option<&str>, Option<&str>) {
+    let word_before = index
+        .checked_sub(1)
+        .and_then(|index_before| runs[index_before].as_word());
+    let word_after = runs.get(index + 1).and_then(Run::as_word);
+    (word_before, word_after)
+}
+
 // The kinds of mark that the cell layout tells apart.
 #[derive(Clone, Copy)]
 pub enum Mark {
@@ -34,6 +53,9 @@ pub enum Mark {
     Space,
     // A dash, which shows as a hyphen.
     Dash,
+    // A slash, which joins words on purpose, as in `and/or`, and shows as a space between them.
+    // Inside a number, as in `1/2`, it shows as written.
+    Slash,
     Dot,
     Comma,
     Colon,
@@ -64,6 +86,7 @@ impl Mark {
             "-" | "‐" | "‑" | "‒" | "–" | "—" | "―" | "−" | "─" | "⎯" | "⎼" => {
                 Mark::Dash
             }
+            "/" => Mark::Slash,
             "." => Mark::Dot,
             "," => Mark::Comma,
             ":" => Mark::Colon,
@@ -82,7 +105,7 @@ impl Mark {
             // Quotation marks and the marks that serve as one, such as a diaeresis, including
             // other languages' marks such as `«`; Spanish inverted marks; and other punctuation.
             "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | "«" | "»" | "„" | ";" | "!" | "¡"
-            | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" | "/" => Mark::Other,
+            | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" => Mark::Other,
             // A Greek question mark, which looks just like a semicolon, so it's written as its
             // code point.
             "\u{37e}" => Mark::Other,
@@ -97,10 +120,33 @@ impl Mark {
         };
         Ok(kind)
     }
+
+    // The cell that the mark shows between two words, if any: a space for whitespace or a slash,
+    // and a hyphen for a dash. Any other mark shows no cell, so on its own it leaves the words
+    // joined, as the apostrophe does in `don't`. That includes a period: one that ends a sentence
+    // normally has a space after it, and one without, as in `end.Begin`, stands in for a space
+    // that the text lost.
+    pub fn cell_between_words(self) -> Option<char> {
+        match self {
+            Mark::Space | Mark::Slash => Some(' '),
+            Mark::Dash => Some('-'),
+            // Listing each kind of mark, rather than matching the rest with `_`, makes the
+            // compiler ask what a newly added kind shows.
+            Mark::Dot
+            | Mark::Comma
+            | Mark::Colon
+            | Mark::InsideWord
+            | Mark::NumberSymbol(_)
+            | Mark::Other => None,
+        }
+    }
 }
 
-// Splits a quote's text into runs, which alternate between words and marks. Fails on a
-// character that no cells are defined for, such as `☥`.
+// Splits a quote's text into runs, which alternate between words and marks.
+//
+// Fails on a quote that no puzzle can show: one holding a mark with no cells, such as `☥`; a
+// letter outside the Latin script, such as `ж`; or a symbol that would be spelled out as letters,
+// such as `❤`, which `any_ascii` writes as `heart`.
 pub fn split_into_runs(quote: &str) -> io::Result<Vec<Run>> {
     let graphemes = GraphemeString::from_str(quote);
     check_letters_are_latin(&graphemes)
@@ -116,23 +162,48 @@ pub fn split_into_runs(quote: &str) -> io::Result<Vec<Run>> {
 // Splits a quote into runs, which alternate between words and marks. Fails on a mark that no
 // cells are defined for, or on a symbol that would be spelled out as letters.
 fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
+    // The byte offset in the text where each grapheme starts, followed by the text's length.
+    let mut grapheme_offsets = vec![0];
+    let mut offset = 0;
+    for grapheme in graphemes.graphemes() {
+        offset += grapheme.string().len();
+        grapheme_offsets.push(offset);
+    }
     graphemes
         .graphemes()
-        .chunk_by(|grapheme| is_part_of_word(grapheme))
+        .enumerate()
+        .chunk_by(|(_, grapheme)| is_part_of_word(grapheme))
         .into_iter()
         .map(|(is_word, run)| {
+            let (indices, graphemes): (Vec<usize>, Vec<&Grapheme>) = run.unzip();
             if is_word {
-                let word = run.map(word_cells).collect::<Result<_, _>>()?;
+                let word = graphemes
+                    .into_iter()
+                    .map(word_cells)
+                    .collect::<Result<_, _>>()?;
                 Ok(Run::Word(word))
             } else {
-                let graphemes: Vec<&Grapheme> = run.collect();
                 let marks = graphemes
                     .iter()
                     .copied()
                     .map(Mark::from_grapheme)
                     .collect::<Result<_, _>>()?;
                 let text = graphemes.iter().copied().map(ascii_or_original).collect();
-                Ok(Run::Marks { marks, text })
+                // A run's graphemes sit next to each other, so the offsets of its first grapheme
+                // through the grapheme just after it give where each mark starts and where the
+                // run ends.
+                let first_index = *indices
+                    .first()
+                    .expect("a run should hold at least one grapheme");
+                let last_index = *indices
+                    .last()
+                    .expect("a run should hold at least one grapheme");
+                let mark_offsets = grapheme_offsets[first_index..=last_index + 1].to_vec();
+                Ok(Run::Marks {
+                    marks,
+                    text,
+                    mark_offsets,
+                })
             }
         })
         .collect()
@@ -218,46 +289,67 @@ fn ascii_or_original(grapheme: &Grapheme) -> &str {
     }
 }
 
-// Whether a word ends in a digit, so that marks after it touch a number.
-pub fn ends_with_digit(word: &str) -> bool {
-    word.ends_with(|character: char| character.is_ascii_digit())
+// Where a run of marks sits among the words on either side of it, which decides what each of its
+// marks shows.
+pub enum MarksPlacement {
+    // Inside a number, as the `:` in `John 3:16`, where all the marks show as written: dropping
+    // them would change the number, as `3:16` would become `316`.
+    InsideNumber,
+    // Outside a number. A symbol beside a number still shows as written, for the same reason:
+    // `99%` would otherwise become `99`.
+    OutsideNumber {
+        // The symbols beside the number just before the run, as the `%` in `17% of`.
+        number_suffix: String,
+        // The positions within the run of the marks between the number symbols on either side:
+        // `1..2`, the space, for `17% of`.
+        between: Range<usize>,
+        // The symbols beside the number just after the run, as the `$` in `of $5`.
+        number_prefix: String,
+    },
 }
 
-// Whether a word starts with a digit, so that marks before it touch a number.
-pub fn starts_with_digit(word: &str) -> bool {
-    word.starts_with(|character: char| character.is_ascii_digit())
-}
-
-// Whether marks sit inside a number: between two digits, with no whitespace among them, as in
-// `John 3:16`, `10^9`, or `1,000`.
-pub fn is_inside_number(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
-    ends_with_digit(word_before)
-        && starts_with_digit(word_after)
-        && !marks.iter().any(|mark| matches!(mark, Mark::Space))
-}
-
-// Splits a run of marks into the number symbols at its start, attached to the number before it,
-// as `%` is in `17% of`; the marks between; and the number symbols at its end, attached to the
-// number after it, as `$` is in `of $5`.
-pub fn split_off_number_symbols(
+// Places a run of marks among the cells of the words on either side of it, each `None` at an end
+// of the quote: inside a number, as in `John 3:16`, or outside one, with the number symbols beside
+// a number split off, as in `17% of $5`.
+pub fn place_marks(
     marks: &[Mark],
-    follows_number: bool,
-    precedes_number: bool,
-) -> (String, &[Mark], String) {
-    let mut between = marks;
+    word_before: Option<&str>,
+    word_after: Option<&str>,
+) -> MarksPlacement {
+    let is_digit = |character: char| character.is_ascii_digit();
+    let follows_number = word_before.is_some_and(|word| word.ends_with(is_digit));
+    let precedes_number = word_after.is_some_and(|word| word.starts_with(is_digit));
+
+    // Marks between two digits, with no whitespace among them, sit inside a number, as in
+    // `John 3:16`, `10^9`, or `1,000`.
+    let has_space = marks.iter().any(|mark| matches!(mark, Mark::Space));
+    if follows_number && precedes_number && !has_space {
+        return MarksPlacement::InsideNumber;
+    }
+
+    let mut between = 0..marks.len();
+
+    // Number symbols at the run's start belong to the number before it, as `%` does in `17% of`.
     let mut number_suffix = String::new();
     if follows_number {
-        while let [Mark::NumberSymbol(symbol), rest @ ..] = between {
+        while let Some(Mark::NumberSymbol(symbol)) = marks[between.clone()].first() {
             number_suffix.push(*symbol);
-            between = rest;
+            between.start += 1;
         }
     }
+
+    // Number symbols at the run's end belong to the number after it, as `$` does in `of $5`.
     let mut number_prefix = String::new();
     if precedes_number {
-        while let [rest @ .., Mark::NumberSymbol(symbol)] = between {
+        while let Some(Mark::NumberSymbol(symbol)) = marks[between.clone()].last() {
             number_prefix.insert(0, *symbol);
-            between = rest;
+            between.end -= 1;
         }
     }
-    (number_suffix, between, number_prefix)
+
+    MarksPlacement::OutsideNumber {
+        number_suffix,
+        between,
+        number_prefix,
+    }
 }

@@ -281,7 +281,7 @@ pub async fn build_quotes() -> io::Result<()> {
 // falls outside the length limits; `check_quote` gives every reason.
 pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
     let reformatted_quote = Quote {
-        quote: reformat_quote(&quote.quote),
+        quote: reformat_quote(&quote.quote)?,
         source: quote.source.clone(),
     };
     check_quote(puzzle_number, &reformatted_quote)?;

@@ -33,23 +33,16 @@ fn full_width_digits_and_letters_become_ascii_cells() {
 }
 
 #[test]
-fn punctuation_standing_in_for_a_lost_space_breaks_words() {
-    assert_eq!(cells_for("end.Begin"), "END BEGIN");
-    assert_eq!(cells_for("red,green"), "RED GREEN");
+fn unreformatted_punctuation_between_words_joins_them() {
+    // Such text should never reach the cells, since stage 0 restores the space first. The test
+    // pins down how the cells handle it anyway, not a result to rely on.
+    assert_eq!(cells_for("end.Begin"), "ENDBEGIN");
+}
+
+#[test]
+fn a_slash_between_words_shows_as_a_space() {
     assert_eq!(cells_for("and/or"), "AND OR");
-    assert_eq!(cells_for("as follows:First"), "AS FOLLOWS FIRST");
-    assert_eq!(cells_for("wait...then"), "WAIT THEN");
-    assert_eq!(cells_for("wait…then"), "WAIT THEN");
-    // One line of dialogue ending and the next beginning.
-    assert_eq!(cells_for("end.\"\"Begin"), "END BEGIN");
-    assert_eq!(cells_for("why?”“Because"), "WHY BECAUSE");
-    // A line of underscores between two passages.
-    assert_eq!(cells_for("end____Begin"), "END BEGIN");
-    // A tilde before the author's name.
-    assert_eq!(cells_for("end~Author"), "END AUTHOR");
-    // Unlike an asterisk, a number sign seldom censors a letter. Between two words, it more
-    // often starts a hashtag that lost the space before it.
-    assert_eq!(cells_for("love#life"), "LOVE LIFE");
+    assert_eq!(cells_for("this / that"), "THIS THAT");
 }
 
 #[test]
@@ -60,8 +53,14 @@ fn tabs_newlines_and_non_breaking_spaces_count_as_spaces() {
 }
 
 #[test]
+fn several_spaces_in_a_row_show_as_one() {
+    assert_eq!(cells_for("one  two"), "ONE TWO");
+}
+
+#[test]
 fn an_unrepaired_soft_hyphen_fails() {
-    // `reformat_quote` removes soft hyphens before the cells are laid out.
+    // Such text should never reach the cells, since stage 0 removes soft hyphens first. The test
+    // pins down how the cells handle it anyway, not a result to rely on.
     let message = error_for("beauti\u{ad}ful");
 
     assert!(message.contains("U+00AD"), "{message}");
@@ -82,11 +81,11 @@ fn a_backtick_or_brace_stays_inside_a_word() {
 fn operators_and_separators_between_words_show_no_cell() {
     assert_eq!(cells_for("You + Me"), "YOU ME");
     assert_eq!(cells_for("school= pranks"), "SCHOOL PRANKS");
-    assert_eq!(cells_for("LAWS>LAWS"), "LAWS LAWS");
-    assert_eq!(cells_for("God+Wisdom"), "GOD WISDOM");
+    assert_eq!(cells_for("LAWS> LAWS"), "LAWS LAWS");
+    assert_eq!(cells_for("God+ Wisdom"), "GOD WISDOM");
     assert_eq!(cells_for("never <3"), "NEVER 3");
     assert_eq!(cells_for("world | the"), "WORLD THE");
-    assert_eq!(cells_for("fire\\How"), "FIRE HOW");
+    assert_eq!(cells_for("fire\\ How"), "FIRE HOW");
     assert_eq!(cells_for("@bobby i'm"), "BOBBY IM");
     assert_eq!(cells_for("so wrong!^^^ so"), "SO WRONG SO");
 }
@@ -101,8 +100,8 @@ fn other_languages_quotation_marks_show_no_cell() {
 fn separator_dots_bullets_and_arithmetic_signs_show_no_cell() {
     assert_eq!(cells_for("2015 · From"), "2015 FROM");
     assert_eq!(cells_for("an· other"), "AN OTHER");
-    assert_eq!(cells_for("world:•spread"), "WORLD SPREAD");
-    assert_eq!(cells_for("Dream×Vision"), "DREAM VISION");
+    assert_eq!(cells_for("world:• spread"), "WORLD SPREAD");
+    assert_eq!(cells_for("Dream× Vision"), "DREAM VISION");
     assert_eq!(cells_for("70 ÷ 7"), "70 7");
 }
 
@@ -197,12 +196,6 @@ fn a_number_symbol_after_a_range_shows_along_with_the_range() {
 fn a_number_symbol_at_either_end_of_a_quote_shows() {
     assert_eq!(cells_for("$13 to $20"), "$13 TO $20");
     assert_eq!(cells_for("give it 100%."), "GIVE IT 100%");
-}
-
-#[test]
-fn a_number_symbol_run_into_a_word_stands_in_for_a_lost_space() {
-    assert_eq!(cells_for("17%of"), "17% OF");
-    assert_eq!(cells_for("book#3"), "BOOK #3");
 }
 
 #[test]
