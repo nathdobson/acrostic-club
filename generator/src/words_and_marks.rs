@@ -46,7 +46,7 @@ pub fn words_beside(runs: &[Run], index: usize) -> (Option<&str>, Option<&str>) 
     (word_before, word_after)
 }
 
-// The kinds of mark that the cell layout tells apart.
+// The kinds of mark that restoring lost spaces and laying out cells tell apart.
 #[derive(Clone, Copy)]
 pub enum Mark {
     // Whitespace, which shows as a space.
@@ -56,9 +56,8 @@ pub enum Mark {
     // A slash, which joins words on purpose, as in `and/or`, and shows as a space between them.
     // Inside a number, as in `1/2`, it shows as written.
     Slash,
+    // A period, which can sit inside an initialism, as in `U.S.A.`
     Dot,
-    Comma,
-    Colon,
     // An apostrophe, a bracket, or one of the few symbols that can sit inside a word.
     InsideWord,
     // A symbol that belongs to a number it touches, as in `17%`, `$5`, `#1`, or `6+`, and shows as
@@ -88,8 +87,6 @@ impl Mark {
             }
             "/" => Mark::Slash,
             "." => Mark::Dot,
-            "," => Mark::Comma,
-            ":" => Mark::Colon,
             // Apostrophes and the marks that serve as one, such as a prime or a backtick in
             // ``you`ll``; brackets and braces; `&`, which joins the letters of an initialism such
             // as `R&B`; and `*`, which censors a letter, as in `f*ck`.
@@ -104,8 +101,8 @@ impl Mark {
             " \u{301}" => Mark::InsideWord,
             // Quotation marks and the marks that serve as one, such as a diaeresis, including
             // other languages' marks such as `«`; Spanish inverted marks; and other punctuation.
-            "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | "«" | "»" | "„" | ";" | "!" | "¡"
-            | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" => Mark::Other,
+            "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | "«" | "»" | "„" | "," | ":" | ";"
+            | "!" | "¡" | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" => Mark::Other,
             // A Greek question mark, which looks just like a semicolon, so it's written as its
             // code point.
             "\u{37e}" => Mark::Other,
@@ -132,12 +129,7 @@ impl Mark {
             Mark::Dash => Some('-'),
             // Listing each kind of mark, rather than matching the rest with `_`, makes the
             // compiler ask what a newly added kind shows.
-            Mark::Dot
-            | Mark::Comma
-            | Mark::Colon
-            | Mark::InsideWord
-            | Mark::NumberSymbol(_)
-            | Mark::Other => None,
+            Mark::Dot | Mark::InsideWord | Mark::NumberSymbol(_) | Mark::Other => None,
         }
     }
 }
