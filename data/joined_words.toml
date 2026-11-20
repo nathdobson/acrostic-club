@@ -1,0 +1,19 @@
+# The joined-word bank: words that the quote list runs together with nothing between them, and how
+# to split them. Puzzles split these words in their quotes, so a person must check each new entry
+# before committing this file. `global joined-words` rewrites the file, dropping any comment but
+# this one.
+#
+# keep_whole: words that look joined but aren't, such as "doorjamb". No split may break them. Move
+# any wrong entry from `splits` here.
+#
+# splits: each joined word as the quotes spell it, such as "theyhad", mapped to the same text with a
+# space at each break, such as "they had".
+#
+# A comment after each word lists the publishable puzzles whose quotes hold it. A publishable puzzle
+# is one whose quote stage 0 accepts. Other quotes, such as duplicates and those outside the length
+# limits, can't make a puzzle, so an entry that no publishable puzzle holds does nothing for now.
+
+keep_whole = [
+]
+
+[splits]

@@ -78,6 +78,12 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       Giving tag building and importing modules of their own would let a
       change to one of them be made without reading the rest.
 - [ ] **Fix the clippy findings in the workspace's crates**
+- [ ] **Share one fake chat client among the tests** — `tests/rpcs.rs` and
+      `tests/joined_words.rs` each define their own.
+- [ ] **Save the reply cache when a run fails** — `run_with_interrupts`
+      returns the main future's error before running the cleanup that
+      writes cached replies, so one failed model request loses every reply
+      the run gathered.
 
 ## Long-term goals
 

@@ -2,7 +2,7 @@ use std::cmp::Reverse;
 use std::collections::HashMap;
 use std::io::{self, ErrorKind, Read};
 use std::iter;
-use std::ops::RangeInclusive;
+use std::ops::{Range, RangeInclusive};
 use std::sync::LazyLock;
 use std::time::Instant;
 
@@ -448,7 +448,7 @@ impl RepeatedQuotes {
 // 2. Find the duplicate quotes.
 // 3. Start a puzzle from each requested quote that isn't a duplicate.
 //
-// `QuoteCatalog::load` takes the first two steps, and `add_quote` the third.
+// `QuoteCatalog::load` takes the first two steps, and `QuoteCatalog::start_puzzle` the third.
 pub struct QuoteCatalog {
     // The repaired quotes, indexed by puzzle number.
     quotes: Vec<RepairedQuote>,
@@ -466,18 +466,39 @@ impl QuoteCatalog {
             repeated_quotes,
         })
     }
+
+    // The puzzle number of every quote in the catalog, duplicates included.
+    pub fn puzzle_numbers(&self) -> Range<usize> {
+        0..self.quotes.len()
+    }
+
+    // Starts the puzzle numbered `puzzle_number` from its quote. Fails when the catalog holds no
+    // such quote, when the quote is a duplicate, or when it can't make a puzzle.
+    pub fn start_puzzle(&self, puzzle_number: usize) -> io::Result<Puzzle> {
+        let quote = self.quotes.get(puzzle_number).ok_or_else(|| {
+            io::Error::new(
+                ErrorKind::InvalidInput,
+                format!(
+                    "no such quote: puzzle numbers must be below {}",
+                    self.quotes.len()
+                ),
+            )
+        })?;
+        if let Some(primary_puzzle_number) = self.repeated_quotes.duplicate_of(puzzle_number) {
+            return Err(io::Error::new(
+                ErrorKind::InvalidInput,
+                format!("unusable quote: a duplicate of puzzle {primary_puzzle_number}'s quote"),
+            ));
+        }
+        start_puzzle(puzzle_number, quote)
+    }
 }
 
 // Starts the puzzle numbered `puzzle_number` from its quote in `quote_catalog`, and writes the
-// puzzle to stage0.json. Fails when the quote is a duplicate, or when it can't make a puzzle.
+// puzzle to stage0.json. Fails when the catalog holds no such quote, when the quote is a duplicate,
+// or when it can't make a puzzle.
 pub async fn add_quote(puzzle_number: usize, quote_catalog: &QuoteCatalog) -> io::Result<()> {
-    if let Some(primary_puzzle_number) = quote_catalog.repeated_quotes.duplicate_of(puzzle_number) {
-        return Err(io::Error::new(
-            ErrorKind::InvalidInput,
-            format!("unusable quote: a duplicate of puzzle {primary_puzzle_number}'s quote"),
-        ));
-    }
-    let puzzle = start_puzzle(puzzle_number, &quote_catalog.quotes[puzzle_number])?;
+    let puzzle = quote_catalog.start_puzzle(puzzle_number)?;
     puzzle.write(puzzle_number, "stage0.json").await?;
     Ok(())
 }

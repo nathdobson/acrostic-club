@@ -163,3 +163,49 @@ impl AnswerRequest {
         )
     }
 }
+
+// Asks for the words that a quote runs together with nothing between them, as in "theyhad".
+#[derive(Serialize)]
+pub struct JoinedWordsRequest {
+    pub quote: String,
+}
+
+// The joined words the model finds in the quote, which may be none.
+#[derive(JsonSchema, Serialize, Deserialize, Debug)]
+pub struct JoinedWordsResponse {
+    pub joined_words: Vec<JoinedWord>,
+}
+
+// A word of a quote that the model reads as several words run together.
+#[derive(JsonSchema, Serialize, Deserialize, Debug, Clone, PartialEq)]
+pub struct JoinedWord {
+    // The word as the model spells it, such as "theyhad". The prompt asks the model to copy the
+    // word from the quote, but a model doesn't always copy it exactly. It may straighten a curly
+    // apostrophe, change a letter's case, keep punctuation from either end, or misspell the word.
+    // `JoinedWordBank::add_proposal` checks the word against the quote, and the bank keeps the
+    // quote's spelling.
+    pub joined: String,
+    // The words it splits into, separated by spaces, such as "they had".
+    pub split: String,
+}
+
+impl JoinedWordsRequest {
+    // Builds the request for `model`.
+    pub fn build(
+        self,
+        model: &str,
+    ) -> anyhow::Result<RpcBuilder<JoinedWordsRequest, JoinedWordsResponse>> {
+        let mut rpc = RpcBuilder::new(
+            self,
+            "Some words in this quote run together because line breaks or spaces were lost, as \
+             in \"theyhad\" for \"they had\". List each run-together word exactly as the quote \
+             spells it, with the words it splits into. Leave out words that are spelled \
+             correctly as one word, such as \"cannot\" or \"someone\". If no words run \
+             together, reply with an empty list. Only add spaces; never fix spelling or typos, \
+             such as \"teh\" or \"th\" for \"the\"."
+                .to_string(),
+        )?;
+        rpc.model(model);
+        Ok(rpc)
+    }
+}

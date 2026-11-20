@@ -1,15 +1,17 @@
 use std::{io, mem};
 
+use anyhow::Context;
 use futures::{StreamExt, stream};
 use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::cluebank::{ClueEdit, edit_clues, import_clues};
 use acrostic_generator::command_line::{
     EditClueArguments, PuzzleArguments, PuzzleCommand, parse_edit_clue_arguments,
-    parse_import_clues_arguments, parse_puzzle_command,
+    parse_import_clues_arguments, parse_puzzle_arguments, parse_puzzle_command,
 };
 use acrostic_generator::dict::build_dict;
-use acrostic_generator::llm::DEFAULT_MODEL_NAME;
+use acrostic_generator::joined_words::fill_joined_word_bank;
+use acrostic_generator::llm::{DEFAULT_MODEL_NAME, new_client};
 use acrostic_generator::puzzle_stage::LoadedPuzzleStage;
 use acrostic_generator::quote::build_quotes;
 use acrostic_generator::site::build_site;
@@ -50,6 +52,25 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             Some("import-clues") => {
                 let import_path = parse_import_clues_arguments(args)?;
                 import_clues(&import_path).await?
+            }
+            // `global joined-words --model <name> [<puzzles>]` adds the model's splits to the
+            // joined-word bank. The model reads the quotes of the puzzles given, or every quote
+            // that fits a puzzle when none are given.
+            Some("joined-words") => {
+                let PuzzleArguments {
+                    puzzle_numbers,
+                    model,
+                    is_dry_run,
+                } = parse_puzzle_arguments(args)?;
+                // The command always writes the bank, so it refuses `--dry-run` rather than write
+                // anyway.
+                if is_dry_run {
+                    anyhow::bail!("`global joined-words` has no dry run");
+                }
+                let model = model.context("`global joined-words` needs `--model <name>`")?;
+                let puzzle_numbers = (!puzzle_numbers.is_empty()).then_some(&puzzle_numbers);
+                let client = new_client(cleanup).await?;
+                fill_joined_word_bank(&model, puzzle_numbers, &*client).await?
             }
             target => panic!("Unknown global target {target:?}"),
         },

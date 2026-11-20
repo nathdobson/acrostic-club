@@ -12,6 +12,7 @@ pub mod clues;
 pub mod command_line;
 pub mod conflict_set;
 pub mod dict;
+pub mod joined_words;
 pub mod lemma;
 pub mod llm;
 pub mod maintenance;
