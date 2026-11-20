@@ -32,9 +32,9 @@ impl FlatTrieTable {
         unsafe {
             let mut tries: LetterMap<Option<Box<FlatTrie<LetterSet>, MmapAllocator>>> =
                 LetterMap::new();
-            for x in Letter::all() {
-                tries[x] = Some(
-                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/tries/map_{x}.dat")))
+            for letter in Letter::all() {
+                tries[letter] = Some(
+                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/tries/map_{letter}.dat")))
                         .await?,
                 );
             }

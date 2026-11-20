@@ -48,7 +48,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                 } = parse_edit_clue_arguments(args)?;
                 edit_clue(&answer, &tag, &new_text, reviewer).await?
             }
-            x => panic!("Unknown global target {x:?}"),
+            target => panic!("Unknown global target {target:?}"),
         },
         Some("puzzle") => {
             let target = args.next().unwrap();
@@ -101,7 +101,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                                     }
                                 }
                                 "rebuild-cells" => rebuild_cells_in_files(puzzle).await?,
-                                x => panic!("Unknown puzzle target {x}"),
+                                _ => panic!("Unknown puzzle target {target}"),
                             }
                             anyhow::Ok(())
                         }
@@ -127,7 +127,7 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             mem::drop(client);
             eprintln!("{errors:?}");
         }
-        x => panic!("Unknown root command {x:?}"),
+        command => panic!("Unknown root command {command:?}"),
     }
     Ok(())
 }

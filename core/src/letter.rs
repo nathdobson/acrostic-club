@@ -190,13 +190,13 @@ impl<T: Debug> Debug for LetterMap<T> {
 
 impl Debug for LetterSet {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
-        for (l, x) in self.iter() {
+        for (letter, x) in self.iter() {
             let c: isize = x.try_into().ok().unwrap();
             for _ in 0..c.abs() {
                 if c < 0 {
                     write!(f, "-")?;
                 }
-                write!(f, "{l}")?;
+                write!(f, "{letter}")?;
             }
         }
         Ok(())

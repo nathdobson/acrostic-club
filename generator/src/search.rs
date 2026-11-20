@@ -375,9 +375,11 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .as_ref()
         .unwrap()
         .bytes()
-        .map(|x| {
-            let x = Letter::new(x).unwrap();
-            clues2[x].pop().unwrap_or_else(|| panic!("Missing {x:?}"))
+        .map(|byte| {
+            let letter = Letter::new(byte).unwrap();
+            clues2[letter]
+                .pop()
+                .unwrap_or_else(|| panic!("Missing {letter:?}"))
         })
         .collect();
     puzzle.clues = Some(clues3);
