@@ -1,6 +1,6 @@
 // Tests for the requests `RpcBuilder` sends. Most check a request's contents against a client that
-// records it. An ignored test prints the clues a running language model writes for one answer,
-// from the model `ACROSTIC_TEST_MODEL` names or else the default, as in
+// records it. One test, ignored by default, prints the clues a running language model writes for
+// one answer, from the model `ACROSTIC_TEST_MODEL` names or else the default, as in
 // `ACROSTIC_TEST_MODEL=gemma4:26b-qat cargo test --test rpcs -- --ignored`.
 
 use std::env;
