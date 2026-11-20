@@ -1,6 +1,7 @@
 use std::ops::Deref;
 use std::{io, mem};
 
+use anyhow::Context;
 use futures::{StreamExt, stream};
 use tikv_jemallocator::Jemalloc;
 
@@ -30,7 +31,8 @@ async fn main() -> anyhow::Result<()> {
 
 async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
     let mut args = std::env::args().collect::<Vec<_>>().into_iter();
-    args.next().unwrap();
+    args.next()
+        .expect("the arguments should start with the program's path");
     match args.next().as_deref() {
         Some("global") => match args.next().as_deref() {
             Some("quotes") => build_quotes().await?,
@@ -57,7 +59,9 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             target => panic!("Unknown global target {target:?}"),
         },
         Some("puzzle") => {
-            let target = args.next().unwrap();
+            let target = args
+                .next()
+                .context("`puzzle` needs a target, such as `answers` or `chat`")?;
             let PuzzleArguments {
                 puzzle_numbers: puzzles,
                 model,

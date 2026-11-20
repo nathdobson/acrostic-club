@@ -43,14 +43,16 @@ pub async fn build_dict() -> io::Result<()> {
         let mut letter_vec = Vec::new();
         let mut letters = LetterSet::new();
         for c in any_ascii::any_ascii(&word).chars() {
-            if let Ok(letter) = Letter::new(c.try_into().unwrap()) {
+            if let Ok(letter) =
+                Letter::new(c.try_into().expect("`any_ascii` should return only ASCII"))
+            {
                 letter_vec.push(letter);
                 letters[letter] += 1;
             }
         }
         if !BANNED_WORDS.contains(word) {
             words.push(FlatWordBuilder {
-                word: (*word.to_string()).try_into().unwrap(),
+                word: word.to_string(),
                 letter_vec,
                 letters,
                 frequency: freq as u64,

@@ -59,7 +59,8 @@ impl<
         let path = path.to_path_buf();
         cleanup.send(async move {
             while let Some(x) = rx.recv().await {
-                let mut m = serde_json::to_string(&x).unwrap();
+                let mut m =
+                    serde_json::to_string(&x).expect("a cache entry should serialize to JSON");
                 m.push('\n');
                 file.write_all(m.as_bytes())
                     .await
@@ -86,7 +87,7 @@ impl<
                         value: value.clone(),
                     })
                     .ok()
-                    .unwrap();
+                    .expect("the cache file's writer should still be running");
             }
             value
         };

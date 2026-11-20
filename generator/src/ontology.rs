@@ -3,6 +3,7 @@ use crate::string::LetterString;
 use crate::turtle::db::TURTLE;
 use crate::turtle::graph::{Turtle, TurtleIndex};
 use crate::util::lazy_async::CloneError;
+use anyhow::Context;
 use safe_once::sync::LazyLock;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
@@ -35,9 +36,12 @@ impl Debug for Ontology {
 impl Ontology {
     pub async fn new() -> anyhow::Result<Self> {
         let graph = TURTLE.get().await.clone_error_static()?;
-        let written_rep = graph
-            .get_index("http://www.w3.org/ns/lemon/ontolex#writtenRep")
-            .unwrap();
+        let index_of = |name: &str| {
+            graph
+                .get_index(name)
+                .with_context(|| format!("The ontology graph lacks {name:?}"))
+        };
+        let written_rep = index_of("http://www.w3.org/ns/lemon/ontolex#writtenRep")?;
         let mut written_table = HashMap::<LetterString, Vec<Written>>::new();
         for (_, o) in graph.get_edges_by_predicate(written_rep) {
             let name = graph.get_name(o);
@@ -49,29 +53,17 @@ impl Ontology {
         Ok(Ontology {
             other_form: graph.get_index("http://www.w3.org/ns/lemon/ontolex#otherForm"),
             written_rep,
-            canonical_form: graph
-                .get_index("http://www.w3.org/ns/lemon/ontolex#canonicalForm")
-                .unwrap(),
-            describes: graph
-                .get_index("http://kaiko.getalp.org/dbnary#describes")
-                .unwrap(),
-            typ: graph
-                .get_index("http://www.w3.org/1999/02/22-rdf-syntax-ns#type")
-                .unwrap(),
-            type_etymology: graph
-                .get_index("http://etytree-virtuoso.wmflabs.org/dbnaryetymology#EtymologyEntry")
-                .unwrap(),
-            type_page: graph
-                .get_index("http://kaiko.getalp.org/dbnary#Page")
-                .unwrap(),
-            etym_related: graph
-                .get_index(
-                    "http://etytree-virtuoso.wmflabs.org/dbnaryetymology#etymologicallyRelatedTo",
-                )
-                .unwrap(),
-            derived_from: graph
-                .get_index("http://kaiko.getalp.org/dbnary#derivedFrom")
-                .unwrap(),
+            canonical_form: index_of("http://www.w3.org/ns/lemon/ontolex#canonicalForm")?,
+            describes: index_of("http://kaiko.getalp.org/dbnary#describes")?,
+            typ: index_of("http://www.w3.org/1999/02/22-rdf-syntax-ns#type")?,
+            type_etymology: index_of(
+                "http://etytree-virtuoso.wmflabs.org/dbnaryetymology#EtymologyEntry",
+            )?,
+            type_page: index_of("http://kaiko.getalp.org/dbnary#Page")?,
+            etym_related: index_of(
+                "http://etytree-virtuoso.wmflabs.org/dbnaryetymology#etymologicallyRelatedTo",
+            )?,
+            derived_from: index_of("http://kaiko.getalp.org/dbnary#derivedFrom")?,
             graph,
             written_table,
         })

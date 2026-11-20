@@ -46,16 +46,26 @@ async fn build_index() -> io::Result<()> {
         .map_err(error_with_path("list", &puzzles_folder))?
     {
         let filename = e.file_name();
-        let name = filename.to_str().unwrap();
+        let unexpected_name_error = || {
+            io::Error::new(
+                ErrorKind::InvalidData,
+                format!(
+                    "Expected a file named puzzle<number>.json, found {:?}",
+                    e.path()
+                ),
+            )
+        };
+        let name = filename.to_str().ok_or_else(unexpected_name_error)?;
+        let stem = name
+            .strip_suffix(".json")
+            .ok_or_else(unexpected_name_error)?;
         index.links.push(PuzzleLink {
-            index: name
+            index: stem
                 .strip_prefix("puzzle")
-                .unwrap()
-                .strip_suffix(".json")
-                .unwrap()
+                .ok_or_else(unexpected_name_error)?
                 .parse()
-                .unwrap(),
-            name: name.to_string().strip_suffix(".json").unwrap().to_string(),
+                .map_err(|_| unexpected_name_error())?,
+            name: stem.to_string(),
             url: format!("./puzzles/{name}"),
         });
         writeln!(

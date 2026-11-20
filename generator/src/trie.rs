@@ -230,7 +230,10 @@ impl<V: Debug> FlatTrieBuilder<V> {
         for x in leaves {
             self.output.push(FlatTrieEntry::Leaf {
                 key: x.0 - prefix,
-                value: x.1.take().unwrap(),
+                value: x
+                    .1
+                    .take()
+                    .expect("each entry should become a leaf only once"),
             });
         }
     }
@@ -246,7 +249,11 @@ impl<V: Debug> FlatTrieBuilder<V> {
                     }
                 }
             }
-            let split = totals.iter().max_by_key(|x| x.1).unwrap().0;
+            let split = totals
+                .iter()
+                .max_by_key(|x| x.1)
+                .expect("a letter map should not be empty")
+                .0;
             let (left, right) = partition::partition(leaves, |x| x.0[split] == prefix[split]);
             if right.len() == 0 {
                 self.add_leaves(left, prefix);

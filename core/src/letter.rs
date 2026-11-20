@@ -8,7 +8,7 @@ use arrayvec::ArrayVec;
 use rand::Rng;
 use rand::distributions::{Distribution, Standard};
 use rkyv::{Archive, Fallible};
-use serde::de::{Error, Visitor};
+use serde::de::{Error, Unexpected, Visitor};
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
 
 #[derive(Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash, Default)]
@@ -74,6 +74,12 @@ pub struct LetterMap<V>([V; Letter::LETTERS]);
 #[derive(Eq, Ord, PartialEq, PartialOrd, Hash, Copy, Clone, Default)]
 pub struct LetterSet(LetterMap<u8>);
 
+// Returns the letter whose entry sits at `index` in a letter map, which holds one entry per letter
+// in alphabetical order.
+fn letter_at(index: usize) -> Letter {
+    Letter::from_index(index).expect("a letter map should hold one entry per letter")
+}
+
 impl<V> LetterMap<V> {
     pub fn new() -> Self
     where
@@ -85,22 +91,19 @@ impl<V> LetterMap<V> {
         LetterMap(self.0.map(f))
     }
     pub fn iter(&self) -> impl Iterator<Item = (Letter, &V)> + Clone {
-        self.0
-            .iter()
-            .enumerate()
-            .map(|(l, v)| (Letter(l.try_into().unwrap()), v))
+        self.0.iter().enumerate().map(|(l, v)| (letter_at(l), v))
     }
     pub fn iter_mut(&mut self) -> impl Iterator<Item = (Letter, &mut V)> {
         self.0
             .iter_mut()
             .enumerate()
-            .map(|(l, v)| (Letter(l.try_into().unwrap()), v))
+            .map(|(l, v)| (letter_at(l), v))
     }
     pub fn into_iter(self) -> impl Iterator<Item = (Letter, V)> {
         self.0
             .into_iter()
             .enumerate()
-            .map(|(l, v)| (Letter::from_index(l).unwrap(), v))
+            .map(|(l, v)| (letter_at(l), v))
     }
     pub fn zip<V2>(self, other: LetterMap<V2>) -> LetterMap<(V, V2)> {
         LetterMap(
@@ -110,7 +113,7 @@ impl<V> LetterMap<V> {
                 .collect::<ArrayVec<(V, V2), { Letter::LETTERS }>>()
                 .into_inner()
                 .ok()
-                .unwrap(),
+                .expect("two letter maps should zip into one pair per letter"),
         )
     }
     pub fn is_subset(self, other: Self) -> bool
@@ -125,7 +128,9 @@ impl LetterSet {
     pub fn from_str(w: &str) -> Self {
         let mut letters = LetterSet::new();
         for c in any_ascii(&w).chars() {
-            if let Ok(letter) = Letter::new(c.try_into().unwrap()) {
+            if let Ok(letter) =
+                Letter::new(c.try_into().expect("`any_ascii` should return only ASCII"))
+            {
                 letters[letter] += 1;
             }
         }
@@ -133,7 +138,9 @@ impl LetterSet {
     }
     pub fn from_counts(w: &[u8]) -> Self {
         assert_eq!(w.len(), Letter::LETTERS);
-        LetterSet(LetterMap::<u8>(w.try_into().unwrap()))
+        LetterSet(LetterMap::<u8>(
+            w.try_into().expect("`w` should hold one count per letter"),
+        ))
     }
     pub fn count(&self) -> usize {
         self.0.iter().map(|(_, x)| *x as usize).sum::<usize>()
@@ -191,7 +198,10 @@ impl<T: Debug> Debug for LetterMap<T> {
 impl Debug for LetterSet {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         for (letter, x) in self.iter() {
-            let c: isize = x.try_into().ok().unwrap();
+            let c: isize = x
+                .try_into()
+                .ok()
+                .expect("a letter count should fit in an `isize`");
             for _ in 0..c.abs() {
                 if c < 0 {
                     write!(f, "-")?;
@@ -250,7 +260,7 @@ impl<V> FromIterator<V> for LetterMap<V> {
                 .collect::<Vec<_>>()
                 .try_into()
                 .ok()
-                .unwrap(),
+                .expect("the iterator should yield one value per letter"),
         )
     }
 }
@@ -291,7 +301,11 @@ impl Add<LetterSet> for LetterSet {
 
 impl Distribution<Letter> for Standard {
     fn sample<R: Rng + ?Sized>(&self, rng: &mut R) -> Letter {
-        Letter(rng.gen_range(0..Letter::LETTERS).try_into().unwrap())
+        Letter(
+            rng.gen_range(0..Letter::LETTERS)
+                .try_into()
+                .expect("a letter index should fit in a byte"),
+        )
     }
 }
 
@@ -300,7 +314,7 @@ impl Serialize for Letter {
     where
         S: Serializer,
     {
-        serializer.serialize_char(('A' as u32 + self.0 as u32).try_into().unwrap())
+        serializer.serialize_char(self.to_char())
     }
 }
 
@@ -313,13 +327,16 @@ impl<'de> Deserialize<'de> for Letter {
         impl<'de> Visitor<'de> for Vis {
             type Value = Letter;
             fn expecting(&self, f: &mut Formatter) -> std::fmt::Result {
-                write!(f, "character")
+                write!(f, "a letter")
             }
             fn visit_str<E>(self, v: &str) -> Result<Self::Value, E>
             where
                 E: Error,
             {
-                Ok(Letter::new(v.chars().next().unwrap().try_into().unwrap()).unwrap())
+                let invalid = || E::invalid_value(Unexpected::Str(v), &self);
+                let first = v.chars().next().ok_or_else(invalid)?;
+                let byte = u8::try_from(first).map_err(|_| invalid())?;
+                Letter::new(byte).map_err(|_| invalid())
             }
         }
         deserializer.deserialize_char(Vis)

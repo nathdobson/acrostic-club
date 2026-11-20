@@ -62,7 +62,10 @@ impl ClueClient {
         if is_banned {
             None
         } else {
-            Some(-(NotNan::new(longest_subsequence(&word_letters, &clue_letters) as f64).unwrap()))
+            Some(
+                -(NotNan::new(longest_subsequence(&word_letters, &clue_letters) as f64)
+                    .expect("a length should never be NaN")),
+            )
         }
     }
     // Returns the tag of a clue for `answer` in the puzzle with index `puzzle_index`: one of

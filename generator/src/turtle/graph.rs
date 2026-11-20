@@ -1,5 +1,4 @@
 use serde::{Deserialize, Serialize};
-use std::cmp::Ordering;
 use std::collections::{HashMap, HashSet};
 use std::fmt::{Debug, Formatter};
 
@@ -32,12 +31,13 @@ impl Turtle {
         }
         let mut forward = vec![];
         let mut reverse = vec![];
+        let id_of = |name: &String| {
+            *id_map
+                .get(name)
+                .expect("`id_map` should hold every name in the triples")
+        };
         for (s, p, o) in triples {
-            let (s, p, o) = (
-                *id_map.get(&s).unwrap(),
-                *id_map.get(&p).unwrap(),
-                *id_map.get(&o).unwrap(),
-            );
+            let (s, p, o) = (id_of(&s), id_of(&p), id_of(&o));
             forward.push((s, p, o));
             reverse.push((o, p, s));
         }
@@ -80,18 +80,8 @@ impl Turtle {
 }
 
 fn binary_search_range<A, B: Ord, F: FnMut(&A) -> B>(slice: &[A], pivot: B, mut get: F) -> &[A] {
-    let lower_bound = slice
-        .binary_search_by(|other| match get(other).cmp(&pivot) {
-            Ordering::Equal => Ordering::Greater,
-            ord => ord,
-        })
-        .unwrap_err();
-    let upper_bound = slice
-        .binary_search_by(|other| match get(other).cmp(&pivot) {
-            Ordering::Equal => Ordering::Less,
-            ord => ord,
-        })
-        .unwrap_err();
+    let lower_bound = slice.partition_point(|other| get(other) < pivot);
+    let upper_bound = slice.partition_point(|other| get(other) <= pivot);
     &slice[lower_bound..upper_bound]
 }
 

@@ -48,7 +48,9 @@ impl Puzzle {
             .map_err(error_with_path("create", &dir))?;
         write_path(
             &dir.join(stage),
-            &serde_json::to_string_pretty(self).unwrap().as_bytes(),
+            &serde_json::to_string_pretty(self)
+                .expect("a puzzle should serialize to JSON")
+                .as_bytes(),
         )
         .await?;
         Ok(())

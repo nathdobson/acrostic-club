@@ -67,8 +67,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Print each set under its own name in `ConflictSet`'s debug output** —
       `lexicals_down`, `writtens_down`, and `forms_down` each print
       `pages_down`.
-- [ ] **Replace `.unwrap()` with `.expect()`** — give each call a message
-      stating the invariant that should hold.
 - [ ] **Return errors from `mmap_bytes` instead of panicking** — it panics
       when it can't open or map its file, though it returns `io::Result`.
 

@@ -1,6 +1,6 @@
+use anyhow::Context;
 use futures::{StreamExt, stream};
 use std::collections::HashSet;
-use std::fmt::Write;
 use std::io::ErrorKind;
 use std::sync::Arc;
 use std::sync::atomic::AtomicUsize;
@@ -109,7 +109,8 @@ impl Search {
             // sort is stable, so words that tie on both keep their order in the trie.
             found.sort_by_cached_key(|x| {
                 (
-                    NotNan::new(-(x.scrabble_score() as f64 / x.count() as f64)).unwrap(),
+                    NotNan::new(-(x.scrabble_score() as f64 / x.count() as f64))
+                        .expect("a word should hold at least one letter"),
                     x.count(),
                 )
             });
@@ -264,13 +265,13 @@ impl Search {
         'main: for (i, word) in sol.words.iter().enumerate() {
             for w2 in &*self.table.dict {
                 if w2.letters == *word && w2.letter_vec.first() == Some(&self.source[i]) {
-                    write!(&mut result, "{} ", w2.word).unwrap();
+                    result += &format!("{} ", w2.word);
                     continue 'main;
                 }
             }
-            write!(&mut result, "{word:?}? ").unwrap();
+            result += &format!("{word:?}? ");
         }
-        write!(&mut result, "[{:?}]", sol.remainder).unwrap();
+        result += &format!("[{:?}]", sol.remainder);
         result
     }
 }
@@ -301,17 +302,16 @@ impl Solution {
 
 pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage1.json").await?;
-    let quote: LetterSet = puzzle
+    let quote_letters = puzzle
         .quote_letters
-        .as_ref()
-        .unwrap()
-        .bytes()
-        .flat_map(|x| Letter::new(x))
-        .collect();
-    let source: Vec<_> = puzzle
+        .as_deref()
+        .with_context(|| format!("Puzzle {pindex}'s stage1.json lacks `quote_letters`"))?;
+    let source_letters = puzzle
         .source_letters
-        .as_ref()
-        .unwrap()
+        .as_deref()
+        .with_context(|| format!("Puzzle {pindex}'s stage1.json lacks `source_letters`"))?;
+    let quote: LetterSet = quote_letters.bytes().flat_map(|x| Letter::new(x)).collect();
+    let source: Vec<_> = source_letters
         .bytes()
         .flat_map(|x| Letter::new(x))
         .collect();
@@ -325,7 +325,7 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
                     stream::iter(search.solve((pindex as u64) * 1000 + seed))
                 })
                 .await
-                .unwrap()
+                .expect("a search task should finish without panicking")
             }
         })
         .buffered(num_cpus::get())
@@ -337,10 +337,7 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
     let mut rng = XorShiftRng::seed_from_u64(pindex as u64);
     let mut positions: LetterMap<Vec<usize>> = Letter::all()
         .map(|l| {
-            let mut result: Vec<_> = puzzle
-                .quote_letters
-                .as_ref()
-                .unwrap()
+            let mut result: Vec<_> = quote_letters
                 .chars()
                 .positions(|l2| l.to_char() == l2)
                 .collect();
@@ -357,25 +354,32 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
             indices: w
                 .letter_vec
                 .iter()
-                .map(|l| positions[*l].pop().unwrap())
+                .map(|l| {
+                    positions[*l]
+                        .pop()
+                        .expect("the answers should use no more of a letter than the quote holds")
+                })
                 .collect(),
         })
         .collect();
     let mut clues2 = LetterMap::<Vec<Clue>>::new();
     for clue in clues {
-        clues2[Letter::new(clue.answer_letters.bytes().next().expect("first letter"))
-            .expect("ascii")]
+        clues2[Letter::new(
+            clue.answer_letters
+                .bytes()
+                .next()
+                .expect("an answer should hold at least one letter"),
+        )
+        .expect("`answer_letters` should hold only letters")]
         .push(clue);
     }
     // println!("{:?}", clues2);
     // println!("{:?}", puzzle.source_letters);
-    let clues3 = puzzle
-        .source_letters
-        .as_ref()
-        .unwrap()
+    let clues3 = source_letters
         .bytes()
         .map(|byte| {
-            let letter = Letter::new(byte).unwrap();
+            let letter =
+                Letter::new(byte).expect("stage 1 should record only letters in `source_letters`");
             clues2[letter]
                 .pop()
                 .unwrap_or_else(|| panic!("Missing {letter:?}"))
