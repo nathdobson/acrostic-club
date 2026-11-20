@@ -1,9 +1,13 @@
-// Tests for `parse_puzzle_arguments`, which reads the puzzle numbers and model that follow a
-// target on the command line.
+// Tests for the parsers of the arguments that follow a target on the command line:
+// `parse_puzzle_arguments`, which reads the puzzle numbers and model, and
+// `parse_edit_clue_arguments`, which reads what `global edit-clue` changes.
 
 use std::collections::BTreeSet;
 
-use acrostic_generator::command_line::{PuzzleArguments, parse_puzzle_arguments};
+use acrostic_generator::cluebank::Reviewer;
+use acrostic_generator::command_line::{
+    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_puzzle_arguments,
+};
 
 fn make_arguments(arguments: &[&str]) -> Vec<String> {
     arguments
@@ -62,4 +66,67 @@ fn a_range_with_a_bad_end_fails() {
         parse_puzzle_arguments(make_arguments(&["10-x"])).expect_err("`x` isn't a puzzle number");
 
     assert!(error.to_string().contains("10-x"));
+}
+
+#[test]
+fn an_edit_takes_its_reviewer_from_anywhere_among_its_arguments() -> anyhow::Result<()> {
+    let parsed = parse_edit_clue_arguments(make_arguments(&[
+        "nephew",
+        "daughters-son",
+        "--reviewer",
+        "claude-opus-5-5",
+        "Sibling's son.",
+    ]))?;
+
+    assert_eq!(
+        parsed,
+        EditClueArguments {
+            answer: "nephew".to_string(),
+            tag: "daughters-son".to_string(),
+            new_text: "Sibling's son.".to_string(),
+            reviewer: Reviewer::Model("claude-opus-5-5".to_string()),
+        }
+    );
+    Ok(())
+}
+
+#[test]
+fn an_edit_reviewed_by_person_is_credited_to_a_person() -> anyhow::Result<()> {
+    let parsed = parse_edit_clue_arguments(make_arguments(&[
+        "--reviewer",
+        "person",
+        "nephew",
+        "daughters-son",
+        "Sibling's son.",
+    ]))?;
+
+    assert_eq!(parsed.reviewer, Reviewer::Person);
+    Ok(())
+}
+
+#[test]
+fn an_edit_without_a_reviewer_fails() {
+    let error = parse_edit_clue_arguments(make_arguments(&[
+        "nephew",
+        "daughters-son",
+        "Sibling's son.",
+    ]))
+    .expect_err("an edit should need a reviewer");
+
+    assert!(error.to_string().contains("--reviewer"));
+}
+
+#[test]
+fn an_edit_whose_text_arrives_unquoted_fails() {
+    let error = parse_edit_clue_arguments(make_arguments(&[
+        "--reviewer",
+        "person",
+        "nephew",
+        "daughters-son",
+        "Sibling's",
+        "son.",
+    ]))
+    .expect_err("text split into words should fail");
+
+    assert!(error.to_string().contains("quoted text"));
 }

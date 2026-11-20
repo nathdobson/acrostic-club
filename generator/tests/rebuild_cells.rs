@@ -19,7 +19,7 @@ fn make_puzzle(quote: &str, cells: &str, clues: Option<Vec<Clue>>) -> Puzzle {
 // Builds a clue whose answer's letters sit at the given cell indices.
 fn make_clue(answer: &str, indices: Vec<usize>) -> Clue {
     Clue {
-        clue: None,
+        clue_tag: None,
         answer: answer.to_string(),
         answer_letters: answer.to_string(),
         indices,

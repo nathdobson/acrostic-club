@@ -347,7 +347,7 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
     let clues: Vec<Clue> = words
         .iter()
         .map(|w| Clue {
-            clue: None,
+            clue_tag: None,
             answer: w.word.to_string(),
             answer_letters: w.letter_vec.iter().join(""),
             indices: w

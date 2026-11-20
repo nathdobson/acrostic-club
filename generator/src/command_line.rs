@@ -2,7 +2,13 @@
 
 use std::collections::BTreeSet;
 
-use anyhow::Context;
+use anyhow::{Context, anyhow};
+
+use crate::cluebank::Reviewer;
+
+// How to call `global edit-clue`, for the errors that report a malformed call.
+const EDIT_CLUE_USAGE: &str =
+    "usage: global edit-clue --reviewer <model name | person> <answer> <tag> \"<new text>\"";
 
 // What the arguments after a target choose: the puzzles to work on, and the language model to ask.
 #[derive(Debug, Default, PartialEq)]
@@ -35,6 +41,58 @@ pub fn parse_puzzle_arguments(
         }
     }
     Ok(parsed)
+}
+
+// What `global edit-clue` changes: one clue's text, and who reviewed the change.
+#[derive(Debug, PartialEq)]
+pub struct EditClueArguments {
+    pub answer: String,
+    // The tag of the clue to change.
+    pub tag: String,
+    pub new_text: String,
+    pub reviewer: Reviewer,
+}
+
+// Parses the answer, the clue's tag, and the clue's new text, in that order, plus the `--reviewer`
+// flag, which may come anywhere among them. The flag names a model, or `person` for a person. It
+// is required, so that an edit a model makes is never credited to a person by default.
+pub fn parse_edit_clue_arguments(
+    arguments: impl IntoIterator<Item = String>,
+) -> anyhow::Result<EditClueArguments> {
+    let mut reviewer = None;
+    let mut positional_arguments = vec![];
+    let mut arguments = arguments.into_iter();
+    while let Some(argument) = arguments.next() {
+        if argument == "--reviewer" {
+            let name = arguments.next().with_context(|| {
+                format!("`--reviewer` needs a model name or `person`; {EDIT_CLUE_USAGE}")
+            })?;
+            reviewer = Some(if name == "person" {
+                Reviewer::Person
+            } else {
+                Reviewer::Model(name)
+            });
+        } else {
+            positional_arguments.push(argument);
+        }
+    }
+    let reviewer =
+        reviewer.with_context(|| format!("`--reviewer` is required; {EDIT_CLUE_USAGE}"))?;
+
+    // A fourth argument means the new text arrived unquoted, split into words.
+    let [answer, tag, new_text] =
+        <[String; 3]>::try_from(positional_arguments).map_err(|positional_arguments| {
+            anyhow!(
+                "expected an answer, a tag, and quoted text, but got {positional_arguments:?}; \
+                 {EDIT_CLUE_USAGE}"
+            )
+        })?;
+    Ok(EditClueArguments {
+        answer,
+        tag,
+        new_text,
+        reviewer,
+    })
 }
 
 // Parses `text`, which is all or part of `argument`, as a puzzle number.

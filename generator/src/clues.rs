@@ -1,7 +1,9 @@
+use crate::cluebank::{ClueBank, ClueSource, clue_bank_path};
 use crate::cluedb::{CLUE_DB, ClueDb};
 use crate::lemma::{LEMMA, Lemma};
-use anyhow::anyhow;
+use anyhow::ensure;
 use ordered_float::NotNan;
+use std::path::Path;
 use std::sync::Arc;
 // use crate::gpt::cache_client::CacheClient;
 use crate::llm::chat_client::ChatClient;
@@ -10,7 +12,7 @@ use crate::llm::rpcs::{AnswerRequest, ClueRequest};
 // use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
 use crate::ontology::{ONTOLOGY, Ontology};
 
-use crate::puzzle::Puzzle;
+use crate::puzzle::{CLUED_PUZZLE_FILE, Puzzle};
 use crate::string::LetterString;
 use crate::subseq::longest_subsequence;
 use crate::util::interrupt::CleanupSender;
@@ -65,7 +67,39 @@ impl ClueClient {
             Some(-(NotNan::new(longest_subsequence(&word_letters, &clue_letters) as f64).unwrap()))
         }
     }
-    pub async fn create_clue(&self, answer: &str) -> anyhow::Result<Option<String>> {
+    // Returns the tag of a clue for `answer` in the puzzle with index `puzzle_index`: one of
+    // `bank`'s clues when it has any, picked by `ClueBank::clue_for_puzzle`, or else a new clue,
+    // which is written to the bank file at `bank_path` right away. Returns `None` when the bank
+    // has no clue for the answer and `create_clue` finds none either.
+    pub async fn choose_clue(
+        &self,
+        answer: &str,
+        puzzle_index: usize,
+        bank: &mut ClueBank,
+        bank_path: &Path,
+    ) -> anyhow::Result<Option<String>> {
+        if let Some(banked_clue) = bank.clue_for_puzzle(answer, puzzle_index) {
+            return Ok(Some(banked_clue.tag().to_string()));
+        }
+        let Some((text, source)) = self.create_clue(answer).await? else {
+            return Ok(None);
+        };
+
+        // The model calls above can take minutes. Rereading the bank before adding the new clue
+        // keeps any change made to the file meanwhile, such as by `global edit-clue`. Writing
+        // right away keeps the clue even if a later answer fails.
+        *bank = ClueBank::read(bank_path).await?;
+        let tag = bank.add(answer, &text, source)?.tag().to_string();
+        bank.write(bank_path).await?;
+        Ok(Some(tag))
+    }
+
+    // Finds a new clue for `answer` and reports its source. A clue from the model must pass two
+    // checks: it avoids words related to `answer`, and the model, asked to solve it, names
+    // `answer` among its guesses. When no clue from the model passes, the xd database's first
+    // clue for `answer` stands in. Either way, a clue with no letters or digits is skipped (see
+    // `has_letters_or_digits`).
+    pub async fn create_clue(&self, answer: &str) -> anyhow::Result<Option<(String, ClueSource)>> {
         println!("creating clue for `{}`", answer);
         for seed in 0..10 {
             let clues = ClueRequest {
@@ -80,6 +114,7 @@ impl ClueClient {
             .clues;
             let mut clues = clues
                 .into_iter()
+                .filter(|clue| has_letters_or_digits(clue))
                 .filter_map(|clue| {
                     let score = self.score(&answer, &clue)?;
                     Some((clue, score))
@@ -111,13 +146,17 @@ impl ClueClient {
                     )
                 }) {
                     println!("       Done! `{}` <= `{}`", answer, clue);
-                    return Ok(Some(clue));
+                    return Ok(Some((clue, ClueSource::Model(self.model.clone()))));
                 }
             }
         }
-        if let Some(entry) = self.clue_db.lookup(&LetterString::from_str(answer)).first() {
+        let xd_entries = self.clue_db.lookup(&LetterString::from_str(answer));
+        if let Some(entry) = xd_entries
+            .iter()
+            .find(|entry| has_letters_or_digits(&entry.clue))
+        {
             println!("       Used backup database for {}: {}", answer, entry.clue);
-            return Ok(Some(entry.clue.clone()));
+            return Ok(Some((entry.clue.clone(), ClueSource::Xd)));
         }
         println!("       Failed to generate clue for {}", answer);
         Ok(None)
@@ -128,31 +167,44 @@ fn contains_subsequence<T: Eq>(haystack: &[T], needle: &[T]) -> bool {
     haystack.windows(needle.len()).any(|x| x == needle)
 }
 
+// Returns whether a clue has any letters or digits. The chat step skips clues that don't, since
+// most such clues in the xd database are placeholders, such as "-" beside a fragment of a theme
+// entry.
+fn has_letters_or_digits(clue: &str) -> bool {
+    clue.chars().any(char::is_alphanumeric)
+}
+
+// Chooses a clue for each of a puzzle's answers and, once every answer has one, writes the
+// puzzle's stage-3 file. An answer the clue bank already covers takes a clue from the bank; any
+// other answer gets a new clue, which joins the bank right away.
+//
+// Adding each new clue rereads and rewrites the whole bank, so when two commands write the bank at
+// the same moment, the later write drops the other command's change. `main` runs this step one
+// puzzle at a time, so the step never races itself. A tag that `global edit-clue` renames while
+// this step runs can still go stale in the puzzle being written; the site build then reports it.
 pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage2.json").await?;
-    let clues = puzzle
+    let bank_path = clue_bank_path();
+    let mut bank = ClueBank::read(&bank_path).await?;
+    let entries = puzzle
         .clues
         .as_mut()
-        .unwrap()
-        .iter_mut()
-        .map(|clue| async move {
-            clue.clue = client.create_clue(&clue.answer).await?;
-            anyhow::Result::<_>::Ok(())
-        });
-    for clue in clues {
-        clue.await?;
+        .expect("a puzzle's stage-2 file should hold its answers");
+    for entry in entries.iter_mut() {
+        entry.clue_tag = client
+            .choose_clue(&entry.answer, pindex, &mut bank, &bank_path)
+            .await?;
     }
-    // try_join_all(clues).await?;
-    if puzzle
-        .clues
-        .as_ref()
-        .unwrap()
+
+    let answers_without_clues: Vec<&str> = entries
         .iter()
-        .all(|x| x.clue.is_some())
-    {
-        puzzle.write(pindex, "stage3.json").await?;
-        Ok(())
-    } else {
-        Err(anyhow!("failed to generate clues"))
-    }
+        .filter(|entry| entry.clue_tag.is_none())
+        .map(|entry| entry.answer.as_str())
+        .collect();
+    ensure!(
+        answers_without_clues.is_empty(),
+        "found no clue for {answers_without_clues:?}"
+    );
+    puzzle.write(pindex, CLUED_PUZZLE_FILE).await?;
+    Ok(())
 }
