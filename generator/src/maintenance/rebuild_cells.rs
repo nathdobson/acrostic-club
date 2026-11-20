@@ -71,15 +71,17 @@ pub fn rebuild_cells(puzzle: &mut Puzzle) -> io::Result<()> {
 // way, a range of puzzle numbers may include numbers that have no puzzle.
 pub async fn rebuild_cells_in_files(puzzle_index: usize) -> io::Result<()> {
     for stage in ["stage1.json", "stage2.json", "stage3.json"] {
-        let mut puzzle = match Puzzle::read(puzzle_index, stage).await {
-            Ok(puzzle) => puzzle,
-            // Any error reading stage1.json goes back to the caller, `NotFound` included, as the
-            // function's comment describes.
-            Err(error) if stage == "stage1.json" => return Err(error),
-            // Each stage is built from the one before it, so the puzzle hasn't reached this stage
-            // or any later one, and every stage it has is already rebuilt.
-            Err(error) if error.kind() == ErrorKind::NotFound => return Ok(()),
-            Err(error) => return Err(error),
+        // Any error reading stage1.json goes back to the caller, `NotFound` included, as the
+        // function's comment describes.
+        let puzzle = if stage == "stage1.json" {
+            Some(Puzzle::read(puzzle_index, stage).await?)
+        } else {
+            Puzzle::read_if_present(puzzle_index, stage).await?
+        };
+        // Each stage is built from the one before it, so a missing stage means the puzzle hasn't
+        // reached this stage or any later one, and every stage it has is already rebuilt.
+        let Some(mut puzzle) = puzzle else {
+            return Ok(());
         };
         if let Err(error) = rebuild_cells(&mut puzzle) {
             let message = format!("puzzle {puzzle_index} {stage}: {error}");
