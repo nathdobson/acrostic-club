@@ -70,8 +70,8 @@ fn cells_between_words(marks: &[Mark]) -> String {
     cells
 }
 
-// Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII: "Émile
-// Zola" gives "EMILEZOLA".
+// Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII:
+// "Émile Zola" gives "EMILEZOLA".
 pub fn source_to_letters(source: &str) -> String {
     LetterString::from_str(source)
         .iter()

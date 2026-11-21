@@ -98,9 +98,9 @@ pub fn clue_bank_path() -> PathBuf {
 }
 
 // Returns a clue's meaningful words, which its tags are built from: the words of its text that
-// aren't filler words, lowercased and reduced to ASCII letters and digits. For example, "What
-// follows a battle or conflict." gives `what`, `follows`, `battle`, and `conflict`. Two kinds of
-// clue lack such words:
+// aren't filler words, lowercased and reduced to ASCII letters and digits. For example,
+// "What follows a battle or conflict." gives `what`, `follows`, `battle`, and `conflict`. Two kinds
+// of clue lack such words:
 //
 // - A clue made only of filler words, such as "As it is", keeps them instead.
 // - A clue with no letters or digits names its symbols instead (see `symbol_words`), so ":-)" gives
@@ -294,8 +294,8 @@ pub enum Verdict {
     Satisfying,
 }
 
-// One reviewer's judgment of a clue's text, such as a `Flat` verdict with the problem "The clue is
-// a dictionary definition."
+// One reviewer's judgment of a clue's text, such as a `Flat` verdict with the problem
+// "The clue is a dictionary definition."
 #[derive(Serialize, Deserialize, Debug, Clone, PartialEq, Eq)]
 #[serde(deny_unknown_fields)]
 pub struct Review {
