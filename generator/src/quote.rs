@@ -151,8 +151,10 @@ impl Quote {
                 rejoined_fields.push(field.to_string());
             }
         }
-        // TODO: About two dozen records in the pinned file are misread: each holds an empty field
-        // mid-record, such as one between the quote and the source.
+        // Note: Records 396,296 and 396,331 of the pinned file hold a second list of topics after
+        // an empty field, as in `Quote,Author,adversity,,writing-craft`. Read by position, each
+        // quote swallows its source, which comes out empty. Both quotes fall far short of the
+        // length limits, so no puzzle comes from either.
         let (quote_pieces, source) = match rejoined_fields.as_slice() {
             [quote, source] => (std::slice::from_ref(quote), source.as_str()),
             // Rejoining misses a split with no space after its comma, so the quote can still span

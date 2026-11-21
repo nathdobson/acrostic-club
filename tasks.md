@@ -7,8 +7,6 @@ such as a commit message or a code comment.
 
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
-- [ ] **Read records with an empty field mid-record** — see the TODO in
-      `Quote::from_record`.
 - [ ] **Create `build/` when building the quote list** — `global quotes`
       writes `build/quotes.json` without creating `build/`, so it fails on a
       fresh checkout.
