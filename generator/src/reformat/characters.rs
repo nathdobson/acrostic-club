@@ -3,12 +3,18 @@
 use any_ascii::any_ascii_char;
 use encoding_rs::WINDOWS_1252;
 
-// Rewrites the characters of a quote or its source that don't show what they stand for: decodes
-// characters garbled by a wrong character encoding, removes those that carry no text, turns control
-// characters into spaces, and writes fraction characters as digits and a slash.
+// Rewrites the characters of a quote or its source that don't show what they stand for:
+//
+// - decodes characters garbled by a wrong character encoding
+// - removes characters that carry no text
+// - turns control characters into spaces
+// - writes fraction characters as digits and a slash
+// - turns a reversed quotation mark that serves as an apostrophe into `’`
 pub fn repair_characters(text: &str) -> String {
     let mut repaired = String::new();
-    for character in decode_utf8_misread_as_windows_1252(text).chars() {
+    let decoded = decode_utf8_misread_as_windows_1252(text);
+    let mut characters = decoded.chars().peekable();
+    while let Some(character) = characters.next() {
         match character {
             // Characters that carry no text are removed, so that a word they sit inside stays
             // whole.
@@ -39,6 +45,14 @@ pub fn repair_characters(text: &str) -> String {
             // to 0x9F into control characters, such as `\u{92}` for `’`. Each becomes the character
             // it was meant to be.
             '\u{80}'..='\u{9f}' => repaired.push(windows_1252_character(character)),
+            // Between two letters, a reversed quotation mark serves as an apostrophe, as in
+            // "mama‟s". Writing the mark as `’` keeps the word whole. Every `‟` in the pinned
+            // quotes serves this way.
+            '‟' if repaired.ends_with(char::is_alphabetic)
+                && characters.peek().is_some_and(|next| next.is_alphabetic()) =>
+            {
+                repaired.push('’')
+            }
             // An ASCII control character that isn't whitespace stands in for a line break that the
             // text lost, as in `you will. \u{3}If`, so it becomes a space.
             _ if character.is_ascii_control() && !character.is_whitespace() => repaired.push(' '),

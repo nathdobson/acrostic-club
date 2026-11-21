@@ -66,6 +66,19 @@ fn text_that_only_looks_misread_is_kept() {
 }
 
 #[test]
+fn a_reversed_quotation_mark_between_letters_becomes_an_apostrophe() {
+    assert_eq!(repair_characters("a mama‟s boy"), "a mama’s boy");
+}
+
+#[test]
+fn a_reversed_quotation_mark_beside_a_non_letter_is_kept() {
+    // Opening a quotation.
+    assert_eq!(repair_characters("He said, ‟Go.”"), "He said, ‟Go.”");
+    // Closing a quotation.
+    assert_eq!(repair_characters("“Go‟ he said"), "“Go‟ he said");
+}
+
+#[test]
 fn a_control_character_becomes_a_space() {
     // The control character stands in for a lost line break.
     assert_eq!(repair_characters("you will.\u{3}If"), "you will. If");

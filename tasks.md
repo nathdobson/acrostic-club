@@ -53,8 +53,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       end in one. Keep a period that closes an abbreviation, as in "e.g.". An
       edit that changes a clue's text drops its review, which a change of
       punctuation alone needn't do.
-- [ ] **Quote 223339 uses `‟` as an apostrophe** — in `mama‟s`, so its
-      reformatted text and its cells split the word.
 
 ### Tidy-ups
 
