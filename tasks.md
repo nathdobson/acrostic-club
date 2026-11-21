@@ -65,10 +65,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 
 ### Tidy-ups
 
-- [~] **Delete dead and commented-out code** — `#![expect(dead_code)]` in
-      `generator/src/lib.rs` covers the items nothing uses; drop it once none
-      remain. Go through what's left with the user item by item: some
-      commented-out `println!` calls may be worth keeping as debug logging.
 - [ ] **Print each set under its own name in `ConflictSet`'s debug output** —
       `lexicals_down`, `writtens_down`, and `forms_down` each print
       `pages_down`.

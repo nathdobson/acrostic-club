@@ -12,11 +12,10 @@ use std::ops::Deref;
 use std::path::{Path, PathBuf};
 use std::ptr::NonNull;
 use std::{io, slice};
-use tokio::fs::File;
 
 pub struct MmapAllocator {
-    file: File,
-    mmap: Option<MmapMut>,
+    // Keeps alive the mapping that the box's slice points into.
+    _mmap: Option<MmapMut>,
 }
 
 unsafe impl Allocator for MmapAllocator {
@@ -39,27 +38,24 @@ pub async fn mmap_bytes(filename: &Path) -> io::Result<Box<[u8], MmapAllocator>>
             .map_err(error_with_path("inspect", filename))?
             .len();
         if len == 0 {
-            Box::from_raw_in(&mut [], MmapAllocator { mmap: None, file })
+            Box::from_raw_in(&mut [], MmapAllocator { _mmap: None })
         } else {
             let file = file.into_std().await;
             let mmap = MmapOptions::new()
                 .map_copy(&file)
                 .unwrap_or_else(|error| panic!("Cannot map {filename:?}: {error}"));
-            let file = tokio::fs::File::from_std(file);
             assert_eq!(mmap.len() as u64, len);
             Box::from_raw_in(
                 slice::from_raw_parts_mut(mmap.as_ptr() as *mut u8, mmap.len()),
-                MmapAllocator {
-                    mmap: Some(mmap),
-                    file,
-                },
+                MmapAllocator { _mmap: Some(mmap) },
             )
         }
     })
 }
 
 pub struct ArchivedOwned<T: Archive, A: Allocator> {
-    b: Box<[u8], A>,
+    // Keeps alive the bytes that `r` points into.
+    _bytes: Box<[u8], A>,
     r: *const Archived<T>,
 }
 
@@ -70,7 +66,7 @@ impl<T: Archive, A: Allocator> ArchivedOwned<T, A> {
     {
         let r: *const _ =
             check_archived_root::<T>(&*b).map_err(|e| anyhow::Error::msg(format!("{e:?}")))?;
-        Ok(ArchivedOwned { b, r })
+        Ok(ArchivedOwned { _bytes: b, r })
     }
 }
 

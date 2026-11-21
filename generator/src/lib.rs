@@ -1,4 +1,3 @@
-#![expect(dead_code)]
 #![feature(error_generic_member_access)]
 extern crate core;
 
