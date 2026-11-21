@@ -23,10 +23,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       six letters, so it never changes a six-letter answer. On 40
       sample puzzles, about three quarters of its searches found no word. Its
       `old.count() > 4` check suggests it expected five-letter words.
-- [ ] **Decide whether to unban the numbers and ordinals** — `banned.rs`
-      keeps 83 of them out of the answers, such as `eighteen` and
-      `nineteenth`. The clue bank now holds clues for all 83, so unbanning
-      them wouldn't leave them without clues.
 
 ## Backlog
 

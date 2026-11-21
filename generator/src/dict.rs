@@ -1,6 +1,5 @@
 use std::io;
 
-use crate::banned::BANNED_WORDS;
 use crate::{PACKAGE_PATH, read_path_to_string};
 use acrostic_core::letter::{Letter, LetterSet};
 
@@ -50,14 +49,12 @@ pub async fn build_dict() -> io::Result<()> {
                 letters[letter] += 1;
             }
         }
-        if !BANNED_WORDS.contains(word) {
-            words.push(FlatWordBuilder {
-                word: word.to_string(),
-                letter_vec,
-                letters,
-                frequency: freq as u64,
-            });
-        }
+        words.push(FlatWordBuilder {
+            word: word.to_string(),
+            letter_vec,
+            letters,
+            frequency: freq as u64,
+        });
     }
 
     FLAT_WORDS.set(&words).await?;

@@ -6,7 +6,6 @@ use std::sync::LazyLock;
 use std::{env, io};
 
 pub mod add_letters;
-pub mod banned;
 pub mod cluebank;
 pub mod cluedb;
 pub mod clues;
