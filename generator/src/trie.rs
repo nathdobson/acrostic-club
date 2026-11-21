@@ -281,9 +281,6 @@ impl<V: Debug + Clone> FromIterator<(LetterSet, V)> for Box<FlatTrie<V>> {
             .into_iter()
             .map(|(k, v)| (k, Some(v)))
             .collect::<Vec<_>>();
-        // let mut rand = XorShiftRng::seed_from_u64(123);
-        // entries.shuffle(&mut rand);
-        // let mut entries = entries.into_iter().collect::<HashMap<_, _>>().into_iter().collect::<Vec<_>>();
         let mut builder = FlatTrieBuilder::new();
         builder.add_entries(&mut entries, LetterSet::new());
         let result = FlatTrie::new_unchecked_box(builder.output.into_boxed_slice());
