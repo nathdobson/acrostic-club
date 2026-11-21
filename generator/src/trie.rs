@@ -1,17 +1,10 @@
 use std::alloc::Allocator;
-use std::collections::BTreeMap;
 use std::fmt::{Debug, Formatter};
+use std::mem;
 use std::mem::size_of;
 use std::ops::RangeInclusive;
-use std::path::Path;
-use std::{io, mem};
 
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
-use anyhow::Context;
-
-use crate::PACKAGE_PATH;
-use crate::dict::FLAT_WORDS;
-use crate::util::alloc::{MmapAllocator, restore_vec, save_vec};
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {
@@ -47,10 +40,6 @@ impl<V: Clone> FlatTrie<V> {
             mem::forget(b);
             result
         }
-    }
-    pub async unsafe fn restore(filename: &Path) -> io::Result<Box<Self, MmapAllocator>> {
-        let vec: Box<[FlatTrieEntry<V>], MmapAllocator> = restore_vec(filename).await?;
-        Ok(Self::new_unchecked_box(vec))
     }
     pub fn new_unchecked_ref(b: &[FlatTrieEntry<V>]) -> &Self {
         unsafe { mem::transmute(b) }
@@ -343,43 +332,23 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
     }
 }
 
-pub async fn build_trie() -> anyhow::Result<()> {
-    // Create the output folder, which a fresh checkout lacks.
-    let tries_folder = PACKAGE_PATH.join("build/tries");
-    tokio::fs::create_dir_all(&tries_folder)
-        .await
-        .with_context(|| format!("Cannot create {tries_folder:?}"))?;
-
-    let dict = FLAT_WORDS.get_static().await?;
-    let mut entries_by_letter = BTreeMap::<Letter, Vec<(LetterSet, LetterSet)>>::new();
-    for l in Letter::all() {
-        entries_by_letter.insert(l, vec![]);
+// Builds tries from `words`, one trie for each letter of the alphabet.
+//
+// The tries keep only words of six or more letters. Of those words, the tries keep only the first
+// 15,000, so `words` should list the most commonly used words first.
+//
+// Each kept word goes into the trie for its first letter. For example, "letters" lands in the L
+// trie; and "lest" lands nowhere, because it is too short.
+pub fn build_tries(
+    words: impl IntoIterator<Item = (Letter, LetterSet)>,
+) -> LetterMap<Box<FlatTrie<LetterSet>>> {
+    let mut entries_by_letter = LetterMap::<Vec<(LetterSet, LetterSet)>>::new();
+    let kept_words = words
+        .into_iter()
+        .filter(|(_, letters)| letters.count() >= 6)
+        .take(15000);
+    for (first_letter, letters) in kept_words {
+        entries_by_letter[first_letter].push((letters, letters));
     }
-    let mut words = vec![];
-    for word in dict.iter() {
-        if word.letters.count() > 5 {
-            words.push(word);
-        }
-    }
-    let words = &words[0..15000];
-    for word in words {
-        if let Some(first_letter) = word.letter_vec.first() {
-            entries_by_letter
-                .entry(*first_letter)
-                .or_default()
-                .push((word.letters, word.letters));
-        }
-    }
-
-    for (letter, vec) in entries_by_letter {
-        println!("{letter:?}");
-        save_vec::<FlatTrieEntry<LetterSet>>(
-            &tries_folder.join(format!("map_{letter}.dat")),
-            vec.into_iter()
-                .collect::<Box<FlatTrie<LetterSet>>>()
-                .as_slice(),
-        )
-        .await?;
-    }
-    Ok(())
+    entries_by_letter.map(|entries| entries.into_iter().collect())
 }

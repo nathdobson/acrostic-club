@@ -1,9 +1,7 @@
 use std::sync::LazyLock;
 
-use crate::PACKAGE_PATH;
 use crate::dict::{FLAT_WORDS, FlatWord};
-use crate::trie::FlatTrie;
-use crate::util::alloc::MmapAllocator;
+use crate::trie::{FlatTrie, build_tries};
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
@@ -15,10 +13,9 @@ use safe_once_async::sync::AsyncLazyLock;
 
 pub struct FlatTrieTable {
     pub dict: &'static [FlatWord],
-    // The single-word tries, one for each letter. The trie for a letter holds every word that
-    // `build_trie` chose and that starts with that letter, storing the word's letters as both its
-    // key and its value.
-    pub tries: LetterMap<Box<FlatTrie<LetterSet>, MmapAllocator>>,
+    // One trie per letter. The trie for a letter holds the words that start with it, among the most
+    // frequent words in `dict` with six or more letters.
+    pub tries: LetterMap<Box<FlatTrie<LetterSet>>>,
 }
 
 pub static FLAT_TRIE_TABLE: LazyLock<
@@ -28,22 +25,17 @@ pub static FLAT_TRIE_TABLE: LazyLock<
 //     AsyncStaticLock::new(async { FlatTrieTable::new().await });
 
 impl FlatTrieTable {
+    // Loads the dictionary and builds the tries from it. Building takes a few hundredths of a
+    // second, so the tries aren't saved between runs.
     async fn new() -> anyhow::Result<Self> {
-        unsafe {
-            let mut tries: LetterMap<Option<Box<FlatTrie<LetterSet>, MmapAllocator>>> =
-                LetterMap::new();
-            for letter in Letter::all() {
-                tries[letter] = Some(
-                    FlatTrie::restore(&PACKAGE_PATH.join(&format!("build/tries/map_{letter}.dat")))
-                        .await?,
-                );
-            }
-            let tries = tries.map(|x| x.unwrap());
-            Ok(FlatTrieTable {
-                dict: FLAT_WORDS.get_static().await?,
-                tries,
-            })
-        }
+        let dict = FLAT_WORDS.get_static().await?;
+        let words = dict
+            .iter()
+            .filter_map(|word| Some((*word.letter_vec.first()?, word.letters)));
+        Ok(FlatTrieTable {
+            dict,
+            tries: build_tries(words),
+        })
     }
 
     // Finds every pair of words in the single-word tries, the first starting with `first_letter`

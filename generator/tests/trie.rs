@@ -1,7 +1,7 @@
-// Tests for `FlatTrie`.
+// Tests for `FlatTrie` and `build_tries`.
 
-use acrostic_core::letter::LetterSet;
-use acrostic_generator::trie::FlatTrie;
+use acrostic_core::letter::{Letter, LetterSet};
+use acrostic_generator::trie::{FlatTrie, build_tries};
 
 #[test]
 fn a_flat_trie_builds_from_three_words() {
@@ -96,4 +96,29 @@ fn search_largest_subset_skips_keys_longer_than_the_maximum() {
     // "abc" fits, but holds more than two letters.
     let trie = build_word_trie(&["ab", "abc"]);
     assert_eq!(search_largest_subset(&trie, "abc", 2), ["ab"]);
+}
+
+// Returns every value `trie` holds, in trie order.
+fn list_values(trie: &FlatTrie<LetterSet>) -> Vec<LetterSet> {
+    let every_letter = LetterSet::from_str(&"abcdefghijklmnopqrstuvwxyz".repeat(10));
+    let mut found = vec![];
+    trie.search_subsets_with_min_length(every_letter, 0, &mut found);
+    found
+}
+
+#[test]
+fn tries_keep_long_words_under_their_first_letter() {
+    let words = ["letters", "lest", "average"].map(|word| {
+        let first_letter =
+            Letter::new(word.as_bytes()[0]).expect("a test word should start with a letter");
+        (first_letter, LetterSet::from_str(word))
+    });
+
+    let tries = build_tries(words);
+
+    // "lest" holds only four letters, too few for the tries.
+    let l = Letter::new(b'l').expect("b'l' should parse as a letter");
+    let a = Letter::new(b'a').expect("b'a' should parse as a letter");
+    assert_eq!(list_values(&tries[l]), [LetterSet::from_str("letters")]);
+    assert_eq!(list_values(&tries[a]), [LetterSet::from_str("average")]);
 }

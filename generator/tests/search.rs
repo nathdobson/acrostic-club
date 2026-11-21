@@ -1,6 +1,6 @@
 // Times searches over the trie table: one search for word pairs, repeated, and the whole answer
-// search on a sample of puzzles. Both tests read the dictionary and the tries from `build/`, the
-// outputs of `global dict` and `global trie`.
+// search on a sample of puzzles. Both tests read the dictionary from `build/`, the output of
+// `global dict`, and build the tries from it.
 
 use std::time::{Duration, Instant};
 

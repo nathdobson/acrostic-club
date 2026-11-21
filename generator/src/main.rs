@@ -16,7 +16,6 @@ use acrostic_generator::maintenance::rebuild_cells::rebuild_cells_in_files;
 use acrostic_generator::quote::{add_quote, build_quotes};
 use acrostic_generator::search::add_answers;
 use acrostic_generator::site::build_site;
-use acrostic_generator::trie::build_trie;
 use acrostic_generator::turtle::db::build_ontolex_turtle;
 use acrostic_generator::util::interrupt::{CleanupSender, run_with_interrupts};
 
@@ -35,7 +34,6 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
         Some("global") => match args.next().as_deref() {
             Some("quotes") => build_quotes().await?,
             Some("dict") => build_dict().await?,
-            Some("trie") => build_trie().await?,
             Some("site") => build_site().await?,
             Some("turtle") => build_ontolex_turtle().await?,
             // Records a person's edit of one clue's text, along with the person's satisfying
