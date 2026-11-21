@@ -28,6 +28,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       six letters, so it never changes a six-letter answer. On 40
       sample puzzles, about three quarters of its searches found no word. Its
       `old.count() > 4` check suggests it expected five-letter words.
+- [ ] **Decide whether to unban the numbers and ordinals** — `banned.rs`
+      keeps 83 of them out of the answers, such as `eighteen` and
+      `nineteenth`. The clue bank now holds clues for all 83, so unbanning
+      them wouldn't leave them without clues.
 
 ## Backlog
 
@@ -55,6 +59,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       `atherton`, `bellator`, `bharatiya`, `cavendish`, `erebidae`, `filmfare`,
       `kannada`, `penrith`, `rowspan`, `sahitya`, and `vidhan`. Some may be
       too obscure to clue fairly and better kept out of puzzles instead.
+- [ ] **Add better clues for the answers that still have one flat clue** —
+      753 answers kept only their original clue, which a review found flat.
+      Add new clues with `global import-clues`, then rerun `puzzle chat` on
+      the clued puzzles so that they pick up the better ones.
 - [ ] **Drop sentence-ending periods from the bank's older clues** — the
       imported clues lost theirs, but most clues from before the import still
       end in one. Keep a period that closes an abbreviation, as in "e.g.". An
@@ -70,6 +78,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       `pages_down`.
 - [ ] **Return errors from `mmap_bytes` instead of panicking** — it panics
       when it can't open or map its file, though it returns `io::Result`.
+- [ ] **Split `cluebank.rs` into smaller modules** — it holds tag building,
+      storage, editing, importing, and two command wrappers in one file.
+      Giving tag building and importing modules of their own would let a
+      change to one of them be made without reading the rest.
 
 ## Long-term goals
 
