@@ -42,9 +42,19 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       all 27 examples it was given in a test. The splits belong in a pass of
       stage 0's `reformat_quote`; rerunning `puzzle quote` and then
       `puzzle rebuild-cells` carries them into a committed puzzle.
-- [ ] **Fix clues known to be wrong** — 33 puzzles clue `nephew` as
-      "Daughter's son." and 14 clue `dwight` as "Michele's husband on 'The
-      Office'."; fix each with `global edit-clue-as-person`.
+- [ ] **Prune clues that better clues outrank** — importing only adds, so the
+      bank still holds clues that no puzzle names and no new puzzle would
+      pick, such as the wrong "Daughter's son." for `nephew` and "Michele's
+      husband on 'The Office'." for `dwight`.
+- [ ] **Find fair clues for the answers whose clues are all flawed** —
+      `atherton`, `bellator`, `bharatiya`, `cavendish`, `erebidae`, `filmfare`,
+      `kannada`, `penrith`, `rowspan`, `sahitya`, and `vidhan`. Some may be
+      too obscure to clue fairly and better kept out of puzzles instead.
+- [ ] **Drop sentence-ending periods from the bank's older clues** — the
+      imported clues lost theirs, but most clues from before the import still
+      end in one. Keep a period that closes an abbreviation, as in "e.g.". An
+      edit that changes a clue's text drops its review, which a change of
+      punctuation alone needn't do.
 - [ ] **Quote 223339 uses `‟` as an apostrophe** — in `mama‟s`, so its
       reformatted text and its cells split the word.
 
