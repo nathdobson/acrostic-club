@@ -30,6 +30,9 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       until 1,000 or more published puzzles fit the limits, then delete
       `PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS` in `quote.rs` along with its
       tests and the puzzles it lets through.
+- [ ] **List the comment rewrap in `.git-blame-ignore-revs`** — once
+      upstream merges "Rewrap comments to fill the line width.", add its
+      hash there, as for the rustfmt adoption, so `git blame` looks past it.
 
 ### Known data issues {#known-data-issues}
 
