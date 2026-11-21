@@ -7,9 +7,6 @@ such as a commit message or a code comment.
 
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
-- [ ] **Create `build/` when building the quote list** — `global quotes`
-      writes `build/quotes.json` without creating `build/`, so it fails on a
-      fresh checkout.
 - [ ] **Skip quotes another puzzle already uses** — some quotes appear in
       several records, so two puzzle numbers can yield the same puzzle, as
       415441 and 417219 do.

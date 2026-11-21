@@ -248,8 +248,13 @@ pub async fn build_quotes() -> io::Result<()> {
     let compressed = read_path(&quote_file).await?;
     let quotes =
         parse_pinned_quote_file(&compressed).map_err(error_with_path("parse", &quote_file))?;
+    // Git ignores `build/`, so a fresh checkout lacks the folder.
+    let build_folder = PACKAGE_PATH.join("build");
+    tokio::fs::create_dir_all(&build_folder)
+        .await
+        .map_err(error_with_path("create", &build_folder))?;
     write_path(
-        &PACKAGE_PATH.join("build/quotes.json"),
+        &build_folder.join("quotes.json"),
         serde_json::to_string_pretty(&quotes)?.as_bytes(),
     )
     .await?;
