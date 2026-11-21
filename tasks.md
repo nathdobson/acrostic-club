@@ -54,9 +54,8 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       remain.
 - [ ] **Replace `.unwrap()` with `.expect()`** — give each call a message
       stating the invariant that should hold.
-- [ ] **Merge `restore_vec` and `mmap_bytes`** — the two near-copies panic
-      when they can't open or map their file, though both return
-      `io::Result`; the merged function could return those errors instead.
+- [ ] **Return errors from `mmap_bytes` instead of panicking** — it panics
+      when it can't open or map its file, though it returns `io::Result`.
 
 ## Long-term goals
 

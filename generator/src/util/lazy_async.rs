@@ -1,11 +1,6 @@
 use std::error::Request;
 use std::fmt::{Debug, Display, Formatter};
-use std::future::Future;
-use std::path::PathBuf;
 
-use crate::util::alloc::{MmapAllocator, restore_vec};
-use safe_once_async::detached::{JoinTransparent, spawn_transparent};
-use safe_once_async::sync::AsyncLazyLock;
 use tokio::io;
 
 //
@@ -77,8 +72,6 @@ use tokio::io;
 //     }
 // }
 
-pub struct LazyMmap<T>(AsyncLazyLock<JoinTransparent<io::Result<Box<[T], MmapAllocator>>>>);
-
 pub trait CloneError {
     type Value;
     type Error;
@@ -139,16 +132,5 @@ impl<T> CloneError for anyhow::Result<T> {
     fn clone_error(&self) -> Result<&Self::Value, Self::Error> {
         self.as_ref()
             .map_err(|e| anyhow::Error::msg(format!("{e:?}")))
-    }
-}
-
-impl<T: 'static + Send + Sync> LazyMmap<T> {
-    pub fn new(path: fn() -> PathBuf) -> Self {
-        LazyMmap(AsyncLazyLock::new(spawn_transparent(async move {
-            restore_vec(&path()).await
-        })))
-    }
-    pub fn get(&'static self) -> impl Send + Future<Output = io::Result<&'static [T]>> {
-        async move { Ok(&**(self.0.get().await.clone_error_static()?)) }
     }
 }

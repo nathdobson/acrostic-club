@@ -18,9 +18,6 @@ pub struct FlatWordBuilder {
     pub frequency: u64,
 }
 
-// pub static FLAT_WORDS: LazyMmap<FlatWord> =
-//     LazyMmap::<FlatWord>::new(|| PACKAGE_PATH.join("build/dict.dat"));
-
 pub static FLAT_WORDS: LazyLock<PersistentFile<Vec<FlatWordBuilder>>> =
     LazyLock::new(|| PersistentFile::new(&PACKAGE_PATH.join("build/dict.dat")));
 
