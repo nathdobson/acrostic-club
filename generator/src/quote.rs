@@ -4,7 +4,8 @@ use std::ops::RangeInclusive;
 use std::sync::LazyLock;
 use std::time::Instant;
 
-use acrostic_core::letter::LetterSet;
+use acrostic_core::letter::{Letter, LetterMap};
+use any_ascii::any_ascii;
 use csv::StringRecord;
 use itertools::Itertools;
 use safe_once_async::async_lazy::AsyncLazy;
@@ -175,41 +176,60 @@ impl Quote {
     // Fails on a quote holding a character that a puzzle has no cell for, such as `☥`.
     fn letters(&self) -> io::Result<QuoteLetters> {
         Ok(QuoteLetters {
-            quote: LetterSet::from_str(&quote_to_cells(&self.quote)?),
-            source: LetterSet::from_str(&source_to_letters(&self.source)),
+            quote: count_letters(&quote_to_cells(&self.quote)?),
+            source: count_letters(&source_to_letters(&self.source)),
         })
     }
 }
 
-// The letters of a quote and of its source, which decide whether the quote can make a puzzle.
+// How many of each letter a quote and its source hold, which decides whether the quote can make a
+// puzzle. The counts are full-width, unlike a `LetterSet`'s, which hold at most 255 of each letter:
+// some quotes in the quote file hold more.
 struct QuoteLetters {
-    quote: LetterSet,
-    source: LetterSet,
+    quote: LetterMap<usize>,
+    source: LetterMap<usize>,
 }
 
 impl QuoteLetters {
     // Whether the quote and its source each fall within their length limits, with answers that
     // average at least the minimum length.
     fn fits_length_limits(&self) -> bool {
-        let quote_length = self.quote.count();
-        let source_length = self.source.count();
+        let quote_length = letter_total(&self.quote);
+        let source_length = letter_total(&self.source);
         QUOTE_LENGTH_LIMITS.contains(&quote_length)
             && SOURCE_LENGTH_LIMITS.contains(&source_length)
             && quote_length as f64 >= MINIMUM_AVERAGE_ANSWER_LENGTH * source_length as f64
     }
 
-    // The letters the source needs beyond those the quote holds: for a source with two Y's and a
-    // quote with one, a single Y. A puzzle needs this set to be empty, since each answer starts
-    // with its letter of the source and takes all its letters from the quote.
-    fn missing_source_letters(&self) -> LetterSet {
+    // The letters the source needs beyond those the quote holds, in alphabetical order: for a
+    // source with two Y's and a quote with one, a single Y. A puzzle needs this list to be empty,
+    // since each answer starts with its letter of the source and takes all its letters from the
+    // quote.
+    fn missing_source_letters(&self) -> Vec<Letter> {
         self.source
             .iter()
-            .flat_map(|(letter, source_count)| {
-                let missing_count = source_count.saturating_sub(self.quote[letter] as usize);
+            .flat_map(|(letter, &source_count)| {
+                let missing_count = source_count.saturating_sub(self.quote[letter]);
                 iter::repeat_n(letter, missing_count)
             })
             .collect()
     }
+}
+
+// How many of each letter `text` holds, read as a puzzle reads them: `é` counts as an E.
+fn count_letters(text: &str) -> LetterMap<usize> {
+    let mut counts = LetterMap::new();
+    for byte in any_ascii(text).bytes() {
+        if let Ok(letter) = Letter::new(byte) {
+            counts[letter] += 1;
+        }
+    }
+    counts
+}
+
+// How many letters `counts` holds in all.
+fn letter_total(counts: &LetterMap<usize>) -> usize {
+    counts.iter().map(|(_, count)| count).sum()
 }
 
 // Parses the quote file's CSV into a list indexed by puzzle number, giving every record except
@@ -291,8 +311,8 @@ pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
 fn check_quote(puzzle_number: usize, quote: &Quote) -> io::Result<()> {
     let letters = quote.letters()?;
     if !passes_length_limits(puzzle_number, &letters) {
-        let quote_length = letters.quote.count();
-        let source_length = letters.source.count();
+        let quote_length = letter_total(&letters.quote);
+        let source_length = letter_total(&letters.source);
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
             format!(
@@ -304,9 +324,9 @@ fn check_quote(puzzle_number: usize, quote: &Quote) -> io::Result<()> {
         ));
     }
     let missing_letters = letters.missing_source_letters();
-    if missing_letters.count() > 0 {
+    if !missing_letters.is_empty() {
         let source = &quote.source;
-        let missing_letter_list = missing_letters.multiset_iter().join(", ");
+        let missing_letter_list = missing_letters.iter().join(", ");
         return Err(io::Error::new(
             ErrorKind::InvalidInput,
             format!(

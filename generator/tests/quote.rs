@@ -342,6 +342,20 @@ fn test_quote_above_its_length_limit_is_rejected() {
 }
 
 #[test]
+fn test_quote_holding_more_than_255_of_one_letter_is_rejected_for_its_length() {
+    // 256 A's overflow a count that holds at most 255.
+    let quote = Quote {
+        quote: "a".repeat(256),
+        source: "a".repeat(21),
+    };
+
+    let error =
+        start_unallowlisted_puzzle(&quote).expect_err("a quote of 256 letters should be rejected");
+
+    assert!(error.to_string().contains("256 letters"), "{error}");
+}
+
+#[test]
 fn test_source_below_its_length_limit_is_rejected() {
     let quote = Quote {
         quote: "a".repeat(170),
