@@ -17,7 +17,7 @@ use serde::Serialize;
 use crate::add_letters::{quote_to_cells, source_to_letters};
 use crate::puzzle::Puzzle;
 use crate::reformat::characters::repair_characters;
-use crate::reformat::reformat_quote;
+use crate::reformat::lost_spaces::restore_lost_spaces;
 use crate::util::lazy_async::CloneError;
 use crate::{PACKAGE_PATH, error_with_path, read_path, read_path_to_string, write_path};
 
@@ -284,19 +284,43 @@ pub async fn build_quotes() -> io::Result<()> {
     Ok(())
 }
 
-// Starts the puzzle numbered `puzzle_number`: stage 0's puzzle holds just the quote and its source.
-// Both are repaired to account for transcription errors in the quotes database. The quote text has
-// encoding issues and the like repaired, and dropped spaces inferred, for example restoring
-// "end.Begin" to "end. Begin". The source text simply has encoding issues repaired, for example
-// restoring "MekiÄ‡" to "Mekić".
+// A quote and its source, both repaired to account for transcription errors in the quotes database:
+// encoding issues and the like, for example restoring "MekiÄ‡" to "Mekić". Stage 0 repairs each
+// quote once, and its later steps all read the repaired text, so they can't disagree about what a
+// quote says. Only `RepairedQuote::new` makes one.
+pub struct RepairedQuote {
+    quote: String,
+    source: String,
+}
+
+impl RepairedQuote {
+    // Repairs the characters of `quote` and of its source.
+    pub fn new(quote: &Quote) -> Self {
+        Self {
+            quote: repair_characters(&quote.quote),
+            source: repair_characters(&quote.source),
+        }
+    }
+
+    // The quote and source that stage 0's puzzle holds: the repaired source, and the repaired quote
+    // with dropped spaces inferred, for example restoring "end.Begin" to "end. Begin". Fails on a
+    // quote that no puzzle can show, such as one holding `☥`.
+    pub fn reformat(&self) -> io::Result<Quote> {
+        Ok(Quote {
+            quote: restore_lost_spaces(&self.quote)?,
+            source: self.source.clone(),
+        })
+    }
+}
+
+// Starts the puzzle numbered `puzzle_number` from its repaired quote: stage 0's puzzle holds just
+// the quote, with dropped spaces inferred, and the source. The solved puzzle shows the quote as
+// "end. Begin" for a repaired "end.Begin".
 //
 // Fails when the reformatted quote can't make a puzzle, as when it falls outside the length limits;
 // `check_quote` gives every reason.
-pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
-    let reformatted_quote = Quote {
-        quote: reformat_quote(&quote.quote)?,
-        source: repair_characters(&quote.source),
-    };
+pub fn start_puzzle(puzzle_number: usize, quote: &RepairedQuote) -> io::Result<Puzzle> {
+    let reformatted_quote = quote.reformat()?;
     check_quote(puzzle_number, &reformatted_quote)?;
     let puzzle = Puzzle {
         quote: reformatted_quote.quote,
@@ -346,7 +370,7 @@ fn check_quote(puzzle_number: usize, quote: &Quote) -> io::Result<()> {
 // Starts the puzzle numbered `pindex` from its quote, and writes it to stage0.json.
 pub async fn add_quote(pindex: usize) -> io::Result<()> {
     let quotes = QUOTES.get().await.clone_error_static()?;
-    let puzzle = start_puzzle(pindex, &quotes[pindex])?;
+    let puzzle = start_puzzle(pindex, &RepairedQuote::new(&quotes[pindex]))?;
     puzzle.write(pindex, "stage0.json").await?;
     Ok(())
 }

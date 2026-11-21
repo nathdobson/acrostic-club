@@ -4,11 +4,9 @@ use std::io;
 use acrostic_generator::PACKAGE_PATH;
 use acrostic_generator::puzzle::Puzzle;
 use acrostic_generator::quote::{
-    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, parse_pinned_quote_file, parse_quotes,
-    start_puzzle,
+    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, RepairedQuote, parse_pinned_quote_file,
+    parse_quotes, start_puzzle,
 };
-use acrostic_generator::reformat::characters::repair_characters;
-use acrostic_generator::reformat::reformat_quote;
 
 // Parses `csv` with every record numbered by its index.
 fn parse_numbered_by_index(csv: &str) -> Vec<Quote> {
@@ -144,9 +142,10 @@ fn test_unnumbered_records_are_skipped() {
 // A puzzle number off the allowlist, so that the length limits apply to it in full.
 const UNALLOWLISTED_PUZZLE_NUMBER: usize = 1;
 
-// Starts a puzzle from `quote` under a number off the allowlist, as for a new puzzle.
+// Repairs `quote` and starts a puzzle from it under a number off the allowlist, as for a new
+// puzzle.
 fn start_unallowlisted_puzzle(quote: &Quote) -> io::Result<Puzzle> {
-    start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, quote)
+    start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, &RepairedQuote::new(quote))
 }
 
 // Builds a quote from `text` and `source` that fits stage 0's length limits, so that only their
@@ -241,6 +240,20 @@ fn test_started_puzzle_holds_its_quote_with_lost_spaces_restored() {
 }
 
 #[test]
+fn test_started_puzzle_repairs_characters_before_restoring_lost_spaces() {
+    // The zero-width space hides the lost space after "sat." until the repair removes it.
+    let quote = build_quote("Lola sat.\u{200b}Alone", "Al Stone");
+
+    let puzzle = start_unallowlisted_puzzle(&quote).expect("the quote should start a puzzle");
+
+    let reformatted_quote = &puzzle.quote;
+    assert!(
+        reformatted_quote.starts_with("Lola sat. Alone "),
+        "{reformatted_quote:?}"
+    );
+}
+
+#[test]
 fn test_started_puzzle_holds_its_source_with_characters_repaired() {
     // "Ã©" is `é` misread from UTF-8 as Windows-1252.
     let quote = build_quote("Lola sat alone.", "Al StonÃ©");
@@ -295,13 +308,16 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
         let quote = quotes
             .get(number)
             .unwrap_or_else(|| panic!("puzzle {number} should have a quote in the parsed list"));
-        // Stage 0 stores the quote reformatted and the source with its characters repaired.
-        let reformatted_quote = reformat_quote(&quote.quote)
+        // Stage 0 stores the quote and source reformatted.
+        let reformatted_quote = RepairedQuote::new(quote)
+            .reformat()
             .unwrap_or_else(|error| panic!("puzzle {number}'s quote should lay out: {error}"));
-        assert_eq!(reformatted_quote, stored_puzzle.quote, "puzzle {number}");
         assert_eq!(
-            repair_characters(&quote.source),
-            stored_puzzle.source,
+            reformatted_quote.quote, stored_puzzle.quote,
+            "puzzle {number}"
+        );
+        assert_eq!(
+            reformatted_quote.source, stored_puzzle.source,
             "puzzle {number}"
         );
         checked_puzzle_count += 1;
@@ -457,7 +473,7 @@ fn test_allowlisted_published_puzzle_outside_the_length_limits_starts() {
         source: "a".repeat(5),
     };
 
-    start_puzzle(allowlisted_puzzle_number, &quote)
+    start_puzzle(allowlisted_puzzle_number, &RepairedQuote::new(&quote))
         .expect("an allowlisted published puzzle should start whatever its length");
 }
 
@@ -523,7 +539,8 @@ fn test_published_puzzles_start() {
     let start_failures: Vec<String> = published_puzzle_numbers
         .iter()
         .filter_map(|&puzzle_number| {
-            start_puzzle(puzzle_number, &read_committed_quote(puzzle_number))
+            let quote = RepairedQuote::new(&read_committed_quote(puzzle_number));
+            start_puzzle(puzzle_number, &quote)
                 .err()
                 .map(|error| format!("puzzle {puzzle_number}: {error}"))
         })

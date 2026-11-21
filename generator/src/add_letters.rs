@@ -10,8 +10,8 @@ use std::io;
 // written, as in "3:16" or "17%". Any other mark shows no cell, so the words on either side of it
 // join: "don't" gives "DONT".
 //
-// Expects text that `reformat_quote` has already formatted. Unreformatted text such as "end.Begin"
-// should never arrive; it would lay out as "ENDBEGIN", without any intervening spaces.
+// Expects text that `RepairedQuote::reformat` has already formatted. Unreformatted text such as
+// "end.Begin" should never arrive; it would lay out as "ENDBEGIN", without any intervening spaces.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let runs = split_into_runs(input)?;
     let mut cells = String::new();
