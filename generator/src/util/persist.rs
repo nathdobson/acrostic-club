@@ -120,15 +120,3 @@ where
         Ok(())
     }
 }
-
-// pub async fn save_rkyv<T: Archive + Serialize<AllocSerializer<256>>>(file: &Path, value: &T) -> io::Result<()> {
-//     write_path(file, &rkyv::to_bytes::<_, 256>(value).map_err(|e| {
-//         io::Error::new(io::ErrorKind::InvalidInput, e)
-//     })?).await?;
-//     Ok(())
-// }
-//
-// pub async fn restore_rkyv<T: Archive>(file: &Path) -> io::Result<&'static Archived<T>> where for<'a> Archived<T>: CheckBytes<DefaultValidator<'a>> {
-//     let data: &'static Vec<u8> = Box::leak(Box::new(read_path(file).await?));
-//     Ok(rkyv::validation::validators::check_archived_root::<T>(&data).map_err(|e| { io::Error::new(io::ErrorKind::InvalidInput, format!("{:?}", e)) })?)
-// }
