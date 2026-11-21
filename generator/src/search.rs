@@ -3,8 +3,11 @@ use futures::{StreamExt, stream};
 use std::collections::HashSet;
 use std::io::ErrorKind;
 use std::sync::Arc;
+#[cfg(feature = "search-diagnostics")]
 use std::sync::atomic::AtomicUsize;
+#[cfg(feature = "search-diagnostics")]
 use std::sync::atomic::Ordering::Relaxed;
+#[cfg(feature = "search-diagnostics")]
 use std::time::Instant;
 use std::{io, iter};
 
@@ -24,6 +27,8 @@ use crate::util::lazy_async::CloneError;
 pub struct Search {
     table: &'static FlatTrieTable,
     cache: OnceLockMap<(Letter, Letter, LetterSet, usize), Vec<(LetterSet, LetterSet)>>,
+    // Counts calls to `search_word_pairs`, for the report on each failed seed.
+    #[cfg(feature = "search-diagnostics")]
     access: AtomicUsize,
     quote: LetterSet,
     source: Vec<Letter>,
@@ -41,6 +46,7 @@ impl Search {
         Ok(Search {
             table: FLAT_TRIE_TABLE.get().await.clone_error_static()?,
             cache: Default::default(),
+            #[cfg(feature = "search-diagnostics")]
             access: AtomicUsize::new(0),
             quote,
             source,
@@ -134,6 +140,7 @@ impl Search {
         available_letters: LetterSet,
         min_length: usize,
     ) -> &[(LetterSet, LetterSet)] {
+        #[cfg(feature = "search-diagnostics")]
         self.access.fetch_add(1, Relaxed);
         let cache_key = (first_letter, second_letter, available_letters, min_length);
         &*self.cache[&cache_key].get_or_init(|| {
@@ -161,6 +168,7 @@ impl Search {
         if flipped {
             ls.swap(0, 1);
         }
+        #[cfg(feature = "search-diagnostics")]
         let start = Instant::now();
         let found = self.search_word_pairs(
             ls[0],
@@ -180,9 +188,18 @@ impl Search {
                 return true;
             }
         }
-        let elapsed = start.elapsed();
-        if elapsed.as_secs_f64() > 200e-6 {
-            // println!("{:?} {:?} {:?} {:?}", ls, solution.remainder, old1.count() + old2.count() + 1, start.elapsed());
+        // Reports a pair search slow enough to matter. Only searches that found no swap reach here.
+        #[cfg(feature = "search-diagnostics")]
+        {
+            let elapsed = start.elapsed();
+            if elapsed.as_secs_f64() > 200e-6 {
+                println!(
+                    "Slow pair search for {ls:?} found no swap in {elapsed:?}: remainder {:?}, \
+                     minimum length {}",
+                    solution.remainder,
+                    old1.count() + old2.count() + 1
+                );
+            }
         }
         solution.set_word(i1, old1);
         solution.set_word(i2, old2);
@@ -231,7 +248,6 @@ impl Search {
         for _ in 0..10 {
             self.optimize(sol);
             if sol.is_done() {
-                // println!("{}", self.format(sol));
                 return true;
             }
             self.randomize(sol);
@@ -242,9 +258,14 @@ impl Search {
         let mut solution = self.start(seed);
         if self.anneal(&mut solution) {
             return Some(solution);
-        } else {
-            // println!("failed: {} {} {}", self.format(&solution), self.access.load(Relaxed), self.cache.len());
         }
+        #[cfg(feature = "search-diagnostics")]
+        println!(
+            "Seed {seed} failed with {}; {} pair searches so far, {} of them distinct",
+            self.format(&solution),
+            self.access.load(Relaxed),
+            self.cache.len()
+        );
         return None;
     }
     pub fn get_words(&self, sol: &Solution) -> Vec<&FlatWord> {
@@ -315,7 +336,6 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .bytes()
         .flat_map(|x| Letter::new(x))
         .collect();
-    // println!("{:?}", source);
     let search = Arc::new(Search::new(quote, source).await?);
     let sol = stream::iter(0..1000)
         .map(|seed| {
@@ -373,16 +393,14 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .expect("`answer_letters` should hold only letters")]
         .push(clue);
     }
-    // println!("{:?}", clues2);
-    // println!("{:?}", puzzle.source_letters);
     let clues3 = source_letters
         .bytes()
         .map(|byte| {
             let letter =
                 Letter::new(byte).expect("stage 1 should record only letters in `source_letters`");
-            clues2[letter]
-                .pop()
-                .unwrap_or_else(|| panic!("Missing {letter:?}"))
+            clues2[letter].pop().unwrap_or_else(|| {
+                panic!("No answer left starts with {letter:?}; unplaced answers: {clues2:?}")
+            })
         })
         .collect();
     puzzle.clues = Some(clues3);

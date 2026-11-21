@@ -42,5 +42,10 @@ oxttl = "0.1.5"
 oxrdf = "0.2.4"
 unicode-script = "0.5.9"
 
+[features]
+# Prints diagnostics from the answer search: each slow pair search that finds no swap, and each
+# seed that fails, with how many pair searches the search has run.
+search-diagnostics = []
+
 [lints]
 workspace = true
