@@ -219,7 +219,7 @@ impl Debug for ConflictSet {
             .field(
                 "lexicals_down",
                 &self
-                    .pages_down
+                    .lexicals_down
                     .iter()
                     .map(|x| self.ontology.graph.get_name(x.0))
                     .collect::<Vec<_>>(),
@@ -227,7 +227,7 @@ impl Debug for ConflictSet {
             .field(
                 "writtens_down",
                 &self
-                    .pages_down
+                    .writtens_down
                     .iter()
                     .map(|x| self.ontology.graph.get_name(x.0))
                     .collect::<Vec<_>>(),
@@ -235,7 +235,7 @@ impl Debug for ConflictSet {
             .field(
                 "forms_down",
                 &self
-                    .pages_down
+                    .forms_down
                     .iter()
                     .map(|x| self.ontology.graph.get_name(x.0))
                     .collect::<Vec<_>>(),

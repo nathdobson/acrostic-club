@@ -56,9 +56,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 
 ### Tidy-ups
 
-- [ ] **Print each set under its own name in `ConflictSet`'s debug output** —
-      `lexicals_down`, `writtens_down`, and `forms_down` each print
-      `pages_down`.
 - [ ] **Return errors from `mmap_bytes` instead of panicking** — it panics
       when it can't open or map its file, though it returns `io::Result`.
 - [ ] **Split `cluebank.rs` into smaller modules** — it holds tag building,
