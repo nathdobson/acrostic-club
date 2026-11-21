@@ -80,13 +80,11 @@ pub fn copy_dir<'a>(source: &'a Path, dest: &'a Path) -> BoxFuture<'a, io::Resul
         let mut dir = read_dir(source)
             .await
             .map_err(error_with_path("list", source))?;
-        // let mut tasks: Vec<JoinHandle<io::Result<()>>> = vec![];
         while let Some(entry) = dir
             .next_entry()
             .await
             .map_err(error_with_path("list", source))?
         {
-            // tasks.push(tokio::spawn(async move {
             let entry_path = entry.path();
             let metadata = entry
                 .metadata()
@@ -103,12 +101,7 @@ pub fn copy_dir<'a>(source: &'a Path, dest: &'a Path) -> BoxFuture<'a, io::Resul
                     format!("Not a file or directory: {entry_path:?}"),
                 ));
             }
-            // Ok(())
-            // }));
         }
-        // for task in tasks {
-        //     task.await?;
-        // }
         Ok(())
     }
     .boxed()
