@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue_tag": "time-signature-component",
+      "clue_tag": "result-beat-generation",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue_tag": "town-kent",
+      "clue_tag": "english-town-might",
       "answer": "ashford",
       "answer_letters": "ASHFORD",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue_tag": "east-yorkshire-town",
+      "clue_tag": "yorkshire-town-whose",
       "answer": "rotherham",
       "answer_letters": "ROTHERHAM",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue_tag": "homes-water-views",
+      "clue_tag": "superior-position",
       "answer": "lakeside",
       "answer_letters": "LAKESIDE",
       "indices": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "clue_tag": "mistake-due-inattention",
+      "clue_tag": "miss-management",
       "answer": "oversight",
       "answer_letters": "OVERSIGHT",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue_tag": "folk-religion-haiti",
+      "clue_tag": "practice-some-sticking",
       "answer": "voodoo",
       "answer_letters": "VOODOO",
       "indices": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "clue_tag": "made-same-sound",
+      "clue_tag": "talked-back-like",
       "answer": "echoed",
       "answer_letters": "ECHOED",
       "indices": [
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "clue_tag": "capital-german-state",
+      "clue_tag": "map-germany-follows",
       "answer": "rhine-westphalia",
       "answer_letters": "RHINEWESTPHALIA",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue_tag": "adviser-king-david",
+      "clue_tag": "jonathan-after-jo",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue_tag": "when-most-athletes",
+      "clue_tag": "when-stadiums-lights",
       "answer": "off-season",
       "answer_letters": "OFFSEASON",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue_tag": "home-prominent-university",
+      "clue_tag": "home-dutch-treaty",
       "answer": "utrecht",
       "answer_letters": "UTRECHT",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue_tag": "magazine-known-influential",
+      "clue_tag": "magazine-whose-title",
       "answer": "newsweek",
       "answer_letters": "NEWSWEEK",
       "indices": [

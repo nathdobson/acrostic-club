@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "gaining-possession-something",
+      "clue_tag": "securing-holding-sway",
       "answer": "obtaining",
       "answer_letters": "OBTAINING",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue_tag": "problems-encountered",
+      "clue_tag": "periodical-problems",
       "answer": "issues",
       "answer_letters": "ISSUES",
       "indices": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "clue_tag": "uptodate-modern",
+      "clue_tag": "last-arrive-so",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "clue_tag": "sport-features-rink",
+      "clue_tag": "game-where-icing",
       "answer": "hockey",
       "answer_letters": "HOCKEY",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue_tag": "pertaining-bowels",
+      "clue_tag": "gutsy",
       "answer": "intestinal",
       "answer_letters": "INTESTINAL",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue_tag": "officially-sent-out",
+      "clue_tag": "shown-border",
       "answer": "deported",
       "answer_letters": "DEPORTED",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue_tag": "out-sea",
+      "clue_tag": "like-some-platforms",
       "answer": "offshore",
       "answer_letters": "OFFSHORE",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue_tag": "occurrence-thrice",
+      "clue_tag": "like-peter-denier",
       "answer": "three-time",
       "answer_letters": "THREETIME",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue_tag": "army-spirit",
+      "clue_tag": "company-spirit",
       "answer": "morale",
       "answer_letters": "MORALE",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue_tag": "argument-against-point",
+      "clue_tag": "what-officiant-asks",
       "answer": "objection",
       "answer_letters": "OBJECTION",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue_tag": "brother-george-iii",
+      "clue_tag": "man-found-hiding",
       "answer": "edward",
       "answer_letters": "EDWARD",
       "indices": [

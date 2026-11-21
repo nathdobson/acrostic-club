@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "chosen-formally-duty",
+      "clue_tag": "given-seat-without",
       "answer": "appointed",
       "answer_letters": "APPOINTED",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue_tag": "commenced-action-event",
+      "clue_tag": "no-longer-just",
       "answer": "initiated",
       "answer_letters": "INITIATED",
       "indices": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "clue_tag": "district-south-london",
+      "clue_tag": "london-borough-lamb",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue_tag": "giving-prize-honor",
+      "clue_tag": "doing-honors",
       "answer": "awarding",
       "answer_letters": "AWARDING",
       "indices": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "clue_tag": "slang-urban-slum",
+      "clue_tag": "rough-neighborhood-get",
       "answer": "ghetto",
       "answer_letters": "GHETTO",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue_tag": "result-cause",
+      "clue_tag": "snowballs-end",
       "answer": "effect",
       "answer_letters": "EFFECT",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue_tag": "echoed-again-advice",
+      "clue_tag": "said-again-said",
       "answer": "reiterated",
       "answer_letters": "REITERATED",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue_tag": "school-once-featured",
+      "clue_tag": "pennsylvania-valley-spanning",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue_tag": "home-composer-arvo",
+      "clue_tag": "baltic-state-where-singing",
       "answer": "estonia",
       "answer_letters": "ESTONIA",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue_tag": "german-racing-legend",
+      "clue_tag": "cobbler-seven-formula",
       "answer": "schumacher",
       "answer_letters": "SCHUMACHER",
       "indices": [

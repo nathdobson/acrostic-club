@@ -5,7 +5,7 @@
   "source_letters": "WALTERKIRNUPINTHEAIR",
   "clues": [
     {
-      "clue_tag": "something-resembling-white",
+      "clue_tag": "fair-more-less",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "links-memory-thought",
+      "clue_tag": "theyre-made-freely",
       "answer": "associations",
       "answer_letters": "ASSOCIATIONS",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue_tag": "dualdirectional",
+      "clue_tag": "like-mirror-thats",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue_tag": "mistakes-judgment-fact",
+      "clue_tag": "muffs-boots",
       "answer": "errors",
       "answer_letters": "ERRORS",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue_tag": "early-british-colonialist",
+      "clue_tag": "island-whose-soundalikes",
       "answer": "rhodes",
       "answer_letters": "RHODES",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue_tag": "those-take-lives",
+      "clue_tag": "they-did-whodunits",
       "answer": "killers",
       "answer_letters": "KILLERS",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue_tag": "not-good-health",
+      "clue_tag": "may-be-feigned",
       "answer": "illness",
       "answer_letters": "ILLNESS",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue_tag": "gryffindor-wizard",
+      "clue_tag": "hogwarts-hero-evil",
       "answer": "neville",
       "answer_letters": "NEVILLE",
       "indices": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "clue_tag": "open-up-use",
+      "clue_tag": "perform-turnkey-operation",
       "answer": "unlock",
       "answer_letters": "UNLOCK",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue_tag": "headship-roman-catholic",
+      "clue_tag": "job-opening-thats",
       "answer": "papacy",
       "answer_letters": "PAPACY",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue_tag": "called-use-something",
+      "clue_tag": "called-muse-fifth",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue_tag": "successfully-caught-trapped",
+      "clue_tag": "cleared-business-failed",
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue_tag": "indelible-ink-design",
+      "clue_tag": "part-sleeve",
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue_tag": "opposite-coldest-terms",
+      "clue_tag": "like-venus-among",
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "clue_tag": "affective-understanding-anothers",
+      "clue_tag": "feeling-you",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue_tag": "denier-gods",
+      "clue_tag": "one-becomes-believer",
       "answer": "atheist",
       "answer_letters": "ATHEIST",
       "indices": [
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "clue_tag": "austrias-capital-tyrol",
+      "clue_tag": "austrian-city-opens",
       "answer": "innsbruck",
       "answer_letters": "INNSBRUCK",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue_tag": "opposite-left",
+      "clue_tag": "like-books-oddnumbered",
       "answer": "right-hand",
       "answer_letters": "RIGHTHAND",
       "indices": [

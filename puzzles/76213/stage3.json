@@ -5,7 +5,7 @@
   "source_letters": "JOSEPHHELLERCATCH",
   "clues": [
     {
-      "clue_tag": "region-mexico-known",
+      "clue_tag": "state-tequila",
       "answer": "jalisco",
       "answer_letters": "JALISCO",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "campus-event-firstyear",
+      "clue_tag": "firstday-session-whose",
       "answer": "orientation",
       "answer_letters": "ORIENTATION",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue_tag": "not-contracted",
+      "clue_tag": "like-will-not",
       "answer": "expanded",
       "answer_letters": "EXPANDED",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue_tag": "competition-broadcasted-sky",
+      "clue_tag": "top-spot-cabinet",
       "answer": "premiership",
       "answer_letters": "PREMIERSHIP",
       "indices": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "clue_tag": "major-route-connecting",
+      "clue_tag": "has-shoulders-but",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue_tag": "moved-new-country",
+      "clue_tag": "left-good",
       "answer": "emigrated",
       "answer_letters": "EMIGRATED",
       "indices": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "clue_tag": "lightemitting-device",
+      "clue_tag": "one-if-land",
       "answer": "lantern",
       "answer_letters": "LANTERN",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue_tag": "participate-actively",
+      "clue_tag": "get-into-gear",
       "answer": "engage",
       "answer_letters": "ENGAGE",
       "indices": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "clue_tag": "precipitation-has-seeped",
+      "clue_tag": "may-follow-storm",
       "answer": "runoff",
       "answer_letters": "RUNOFF",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue_tag": "department-handling-inquiries",
+      "clue_tag": "theyre-paid-door",
       "answer": "admissions",
       "answer_letters": "ADMISSIONS",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue_tag": "activity-performed-linguists",
+      "clue_tag": "slide-geometry-teacher",
       "answer": "translation",
       "answer_letters": "TRANSLATION",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue_tag": "tech-stuff-you",
+      "clue_tag": "computer-parts-you",
       "answer": "hardware",
       "answer_letters": "HARDWARE",
       "indices": [

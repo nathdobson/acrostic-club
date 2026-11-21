@@ -5,7 +5,7 @@
   "source_letters": "BFSKINNERWALDENTWO",
   "clues": [
     {
-      "clue_tag": "diamondrich-country",
+      "clue_tag": "country-thats-mostly",
       "answer": "botswana",
       "answer_letters": "BOTSWANA",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue_tag": "lose-grip-ball",
+      "clue_tag": "drop-ball-quite",
       "answer": "fumble",
       "answer_letters": "FUMBLE",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue_tag": "biblical-day-rest",
+      "clue_tag": "weekly-rest-stop",
       "answer": "sabbath",
       "answer_letters": "SABBATH",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "organ-filters-your",
+      "clue_tag": "shape-shared-bean",
       "answer": "kidney",
       "answer_letters": "KIDNEY",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue_tag": "street-euphemism-opiates",
+      "clue_tag": "police-beat-known",
       "answer": "narcotics",
       "answer_letters": "NARCOTICS",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue_tag": "capital-punishment-events",
+      "clue_tag": "program-runs",
       "answer": "executions",
       "answer_letters": "EXECUTIONS",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue_tag": "freshened-up-like",
+      "clue_tag": "like-kitchen-rated",
       "answer": "renovated",
       "answer_letters": "RENOVATED",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue_tag": "mass-purchasing-strategy",
+      "clue_tag": "how-stores-shop",
       "answer": "wholesale",
       "answer_letters": "WHOLESALE",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue_tag": "native-baltic-state",
+      "clue_tag": "like-baltic-state",
       "answer": "latvian",
       "answer_letters": "LATVIAN",
       "indices": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "clue_tag": "vital-both-physical",
+      "clue_tag": "can-be-nervous",
       "answer": "energy",
       "answer_letters": "ENERGY",
       "indices": [
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "clue_tag": "opposite-eastwest",
+      "clue_tag": "like-oddnumbered-interstates",
       "answer": "north-south",
       "answer_letters": "NORTHSOUTH",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue_tag": "bird-often-synonymous",
+      "clue_tag": "theyre-roasted-cooks",
       "answer": "turkey's",
       "answer_letters": "TURKEYS",
       "indices": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "clue_tag": "arms-production",
+      "clue_tag": "pikes-clubs-eg",
       "answer": "weaponry",
       "answer_letters": "WEAPONRY",
       "indices": [

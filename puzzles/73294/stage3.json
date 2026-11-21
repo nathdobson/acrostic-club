@@ -5,7 +5,7 @@
   "source_letters": "NANCYWERLINIMPOSSIBLE",
   "clues": [
     {
-      "clue_tag": "uptodate-modern",
+      "clue_tag": "last-arrive-so",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "official-power-make",
+      "clue_tag": "what-bumper-sticker",
       "answer": "authority",
       "answer_letters": "AUTHORITY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue_tag": "european-country-famous",
+      "clue_tag": "athletes-wear-orange",
       "answer": "netherlands",
       "answer_letters": "NETHERLANDS",
       "indices": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "clue_tag": "urban-areas",
+      "clue_tag": "nice-bath-two",
       "answer": "cities",
       "answer_letters": "CITIES",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue_tag": "teens-adolescents",
+      "clue_tag": "minor-characters",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue_tag": "good-consumption",
+      "clue_tag": "fit-be-tried",
       "answer": "edible",
       "answer_letters": "EDIBLE",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue_tag": "accompanied-beat",
+      "clue_tag": "beat",
       "answer": "rhythmic",
       "answer_letters": "RHYTHMIC",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue_tag": "carbonate-rock-often",
+      "clue_tag": "turns-marble-under",
       "answer": "limestone",
       "answer_letters": "LIMESTONE",
       "indices": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "clue_tag": "staffed-entirely-employees",
+      "clue_tag": "like-counsel-company",
       "answer": "in-house",
       "answer_letters": "INHOUSE",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue_tag": "political-entity",
+      "clue_tag": "body-constitution",
       "answer": "nation",
       "answer_letters": "NATION",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue_tag": "meant-be-destined",
+      "clue_tag": "one-ring-but",
       "answer": "intended",
       "answer_letters": "INTENDED",
       "indices": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "clue_tag": "bff-rachel-green",
+      "clue_tag": "small-bird-sings",
       "answer": "phoebe",
       "answer_letters": "PHOEBE",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue_tag": "frequent-short-visits",
+      "clue_tag": "skimps-spells",
       "answer": "stints",
       "answer_letters": "STINTS",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue_tag": "absolutely",
+      "clue_tag": "affirmation-ironically-anagrams",
       "answer": "indeed",
       "answer_letters": "INDEED",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue_tag": "location-wat-arun",
+      "clue_tag": "capital-where-one",
       "answer": "bangkok",
       "answer_letters": "BANGKOK",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue_tag": "measurement-degrees-north",
+      "clue_tag": "freedom-comes-degrees",
       "answer": "latitude",
       "answer_letters": "LATITUDE",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue_tag": "things-take-place",
+      "clue_tag": "shot-hammer-two",
       "answer": "events",
       "answer_letters": "EVENTS",
       "indices": [

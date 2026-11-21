@@ -5,7 +5,7 @@
   "source_letters": "ERICMICHAELLEVENTHAL",
   "clues": [
     {
-      "clue_tag": "affective-understanding-anothers",
+      "clue_tag": "feeling-you",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "early-british-colonialist",
+      "clue_tag": "island-whose-soundalikes",
       "answer": "rhodes",
       "answer_letters": "RHODES",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "they-may-differ",
+      "clue_tag": "carbon-copies-dont",
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "participants-battle-gettysburg",
+      "clue_tag": "lee-side",
       "answer": "confederates",
       "answer_letters": "CONFEDERATES",
       "indices": [
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "clue_tag": "wouldnt-let-go",
+      "clue_tag": "wouldnt-take-oh",
       "answer": "insisted",
       "answer_letters": "INSISTED",
       "indices": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "clue_tag": "known-fourcharacter-idioms",
+      "clue_tag": "like-checkers-actually",
       "answer": "chinese",
       "answer_letters": "CHINESE",
       "indices": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "clue_tag": "opposite-coldest-terms",
+      "clue_tag": "like-venus-among",
       "answer": "hottest",
       "answer_letters": "HOTTEST",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue_tag": "addons-boost-propertys",
+      "clue_tag": "pool-pool-table",
       "answer": "amenities",
       "answer_letters": "AMENITIES",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue_tag": "sought-political-influence",
+      "clue_tag": "made-house-calls",
       "answer": "lobbied",
       "answer_letters": "LOBBIED",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue_tag": "school-once-featured",
+      "clue_tag": "university-thats-part",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue_tag": "film-these-are",
+      "clue_tag": "causes-what-causes",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "clue_tag": "vigorous-determined-attempt",
+      "clue_tag": "trying-experience",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue_tag": "place-known-heartbreaking",
+      "clue_tag": "place-thats-only",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue_tag": "lie-wait-prey",
+      "clue_tag": "surprise-party",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "clue_tag": "guiding-beacon-lost",
+      "clue_tag": "tall-one-rocks",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "ALFREDDEVIGNYSTELLO",
   "clues": [
     {
-      "clue_tag": "singer-foolish-rock",
+      "clue_tag": "ghanaian-people-seen",
       "answer": "ashanti",
       "answer_letters": "ASHANTI",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "district-south-london",
+      "clue_tag": "south-london-area",
       "answer": "lambeth",
       "answer_letters": "LAMBETH",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue_tag": "completing-educational-course",
+      "clue_tag": "crossing-line",
       "answer": "finishing",
       "answer_letters": "FINISHING",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue_tag": "adjective-inhabitants-country",
+      "clue_tag": "like-ridgeback-bred",
       "answer": "rhodesian",
       "answer_letters": "RHODESIAN",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue_tag": "film-these-are",
+      "clue_tag": "causes-what-causes",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "clue_tag": "36th-president-united",
+      "clue_tag": "fivestar-president",
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "clue_tag": "describing-sporadic-irregular",
+      "clue_tag": "like-some-fasts",
       "answer": "intermittent",
       "answer_letters": "INTERMITTENT",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue_tag": "telecommunication-grid",
+      "clue_tag": "mingle-motive",
       "answer": "network",
       "answer_letters": "NETWORK",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue_tag": "home-minato-mirai",
+      "clue_tag": "asian-port-whose",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "clue_tag": "home-aldeburgh-bawdsey",
+      "clue_tag": "english-county-whose",
       "answer": "suffolk",
       "answer_letters": "SUFFOLK",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue_tag": "thusly-resulting",
+      "clue_tag": "how-tale-hangs",
       "answer": "thereby",
       "answer_letters": "THEREBY",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue_tag": "host-city-hogmanay",
+      "clue_tag": "capital-ends-like",
       "answer": "edinburgh",
       "answer_letters": "EDINBURGH",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue_tag": "esquire-often-abbreviated",
+      "clue_tag": "one-charges-briefs",
       "answer": "lawyer",
       "answer_letters": "LAWYER",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue_tag": "guiding-beacon-lost",
+      "clue_tag": "tall-one-rocks",
       "answer": "lighthouse",
       "answer_letters": "LIGHTHOUSE",
       "indices": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "clue_tag": "place-where-large",
+      "clue_tag": "black-sea-port",
       "answer": "odessa",
       "answer_letters": "ODESSA",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "PAULAUSTERMOONPALACE",
   "clues": [
     {
-      "clue_tag": "economically-disadvantaged",
+      "clue_tag": "most-need-change",
       "answer": "poorest",
       "answer_letters": "POOREST",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "something-else",
+      "clue_tag": "second",
       "answer": "another",
       "answer_letters": "ANOTHER",
       "indices": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "clue_tag": "higher-end-neighborhood",
+      "clue_tag": "way-manhattan-local",
       "answer": "uptown",
       "answer_letters": "UPTOWN",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue_tag": "often-requires-chemotherapy",
+      "clue_tag": "either-hodgkin-isnt",
       "answer": "lymphoma",
       "answer_letters": "LYMPHOMA",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue_tag": "gave-shot",
+      "clue_tag": "like-any-shot",
       "answer": "attempted",
       "answer_letters": "ATTEMPTED",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue_tag": "essential-services-modern",
+      "clue_tag": "monopolys-monopolies",
       "answer": "utilities",
       "answer_letters": "UTILITIES",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue_tag": "comprehensive-scope-coverage",
+      "clue_tag": "farreaching-housework",
       "answer": "sweeping",
       "answer_letters": "SWEEPING",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue_tag": "e-roosevelts-first",
+      "clue_tag": "formal-name-stuffed",
       "answer": "theodore",
       "answer_letters": "THEODORE",
       "indices": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "clue_tag": "vigorous-determined-attempt",
+      "clue_tag": "trying-experience",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue_tag": "conservation-principle-physics",
+      "clue_tag": "product-mass-movement",
       "answer": "momentum",
       "answer_letters": "MOMENTUM",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue_tag": "sole-edition-item",
+      "clue_tag": "wont-happen-again",
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "clue_tag": "higher-social-rank",
+      "clue_tag": "entitled-bunch",
       "answer": "nobility",
       "answer_letters": "NOBILITY",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue_tag": "stage-where-scripts",
+      "clue_tag": "company-headquarters",
       "answer": "playhouse",
       "answer_letters": "PLAYHOUSE",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue_tag": "commonly-referred-simply",
+      "clue_tag": "field-play",
       "answer": "athletics",
       "answer_letters": "ATHLETICS",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue_tag": "strategic-efforts-sway",
+      "clue_tag": "working-house",
       "answer": "lobbying",
       "answer_letters": "LOBBYING",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue_tag": "senders-new-testament",
+      "clue_tag": "john-paul-but",
       "answer": "apostle",
       "answer_letters": "APOSTLE",
       "indices": [
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "clue_tag": "american-football-champions",
+      "clue_tag": "stock-characters-westerns",
       "answer": "cowboys",
       "answer_letters": "COWBOYS",
       "indices": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "clue_tag": "not-so-anymore",
+      "clue_tag": "former-formally",
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [

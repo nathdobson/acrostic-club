@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "various-people-besides",
+      "clue_tag": "everyone-else-found",
       "answer": "others",
       "answer_letters": "OTHERS",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue_tag": "work-done-without",
+      "clue_tag": "outstanding-but-not",
       "answer": "unpaid",
       "answer_letters": "UNPAID",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue_tag": "mild-term-instead",
+      "clue_tag": "pretty-kind",
       "answer": "rather",
       "answer_letters": "RATHER",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue_tag": "hurls-intent-score",
+      "clue_tag": "tanks-pitches",
       "answer": "throws",
       "answer_letters": "THROWS",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue_tag": "early-developmental-stage",
+      "clue_tag": "eggs-inner-child",
       "answer": "embryo",
       "answer_letters": "EMBRYO",
       "indices": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "clue_tag": "teens-adolescents",
+      "clue_tag": "minor-characters",
       "answer": "youths",
       "answer_letters": "YOUTHS",
       "indices": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "clue_tag": "twelve-slices-time",
+      "clue_tag": "their-days-are",
       "answer": "months",
       "answer_letters": "MONTHS",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue_tag": "port-city-suffolk",
+      "clue_tag": "english-port-harbored",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "clue_tag": "personal-storage-space",
+      "clue_tag": "hall-closet",
       "answer": "locker",
       "answer_letters": "LOCKER",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue_tag": "chronic-respiratory-condition",
+      "clue_tag": "reason-take-couple",
       "answer": "asthma",
       "answer_letters": "ASTHMA",
       "indices": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "clue_tag": "adviser-king-david",
+      "clue_tag": "jonathan-after-jo",
       "answer": "nathan",
       "answer_letters": "NATHAN",
       "indices": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "clue_tag": "homeric-heros-name",
+      "clue_tag": "novel-covers-single",
       "answer": "ulysses",
       "answer_letters": "ULYSSES",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue_tag": "sent-message-inform",
+      "clue_tag": "gave-ring-ping",
       "answer": "notified",
       "answer_letters": "NOTIFIED",
       "indices": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "clue_tag": "selects-consciously-alternatives",
+      "clue_tag": "does-what-beggars",
       "answer": "chooses",
       "answer_letters": "CHOOSES",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue_tag": "heirloom-passed-down",
+      "clue_tag": "kind-admission-runs",
       "answer": "legacy",
       "answer_letters": "LEGACY",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue_tag": "city-gujarat-india",
+      "clue_tag": "indian-metropolis-thats",
       "answer": "ahmedabad",
       "answer_letters": "AHMEDABAD",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue_tag": "often-less-authentic",
+      "clue_tag": "impressionists-art",
       "answer": "imitation",
       "answer_letters": "IMITATION",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue_tag": "dear-child",
+      "clue_tag": "she-sat-whistler",
       "answer": "mother",
       "answer_letters": "MOTHER",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue_tag": "film-these-are",
+      "clue_tag": "causes-what-causes",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue_tag": "vast-arid-landscape",
+      "clue_tag": "leave-high-dry",
       "answer": "desert",
       "answer_letters": "DESERT",
       "indices": [

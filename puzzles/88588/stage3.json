@@ -5,7 +5,7 @@
   "source_letters": "TANAFRENCHINTHEWOODS",
   "clues": [
     {
-      "clue_tag": "verbal-exchange-another",
+      "clue_tag": "singing-interrogation-room",
       "answer": "talking",
       "answer_letters": "TALKING",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "animals-thrive-both",
+      "clue_tag": "they-lead-double",
       "answer": "amphibians",
       "answer_letters": "AMPHIBIANS",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue_tag": "writing-system-music",
+      "clue_tag": "staff-writing",
       "answer": "notation",
       "answer_letters": "NOTATION",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue_tag": "intrinsic-understanding-subject",
+      "clue_tag": "base-nature",
       "answer": "fundamental",
       "answer_letters": "FUNDAMENTAL",
       "indices": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "clue_tag": "repetitive-patterns-music",
+      "clue_tag": "beats-get-without",
       "answer": "rhythms",
       "answer_letters": "RHYTHMS",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue_tag": "caenorhabditis-biology-labs",
+      "clue_tag": "c-tiny-lab",
       "answer": "elegans",
       "answer_letters": "ELEGANS",
       "indices": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "clue_tag": "month-thanksgiving-us",
+      "clue_tag": "comes-between-mike",
       "answer": "november",
       "answer_letters": "NOVEMBER",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue_tag": "he-measured-earths",
+      "clue_tag": "supermarkets-top-banana",
       "answer": "cavendish",
       "answer_letters": "CAVENDISH",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue_tag": "tracked-capture-death",
+      "clue_tag": "like-easter-eggs",
       "answer": "hunted",
       "answer_letters": "HUNTED",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue_tag": "gradually-bringing-together",
+      "clue_tag": "doing-area-studies",
       "answer": "integrating",
       "answer_letters": "INTEGRATING",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue_tag": "most-common-vietnamese",
+      "clue_tag": "surname-thats-roughly",
       "answer": "nguyễn",
       "answer_letters": "NGUYEN",
       "indices": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "clue_tag": "occurrence-thrice",
+      "clue_tag": "like-daniel-daylewis",
       "answer": "three-time",
       "answer_letters": "THREETIME",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue_tag": "big-city-texas",
+      "clue_tag": "sweltering-city-aptly",
       "answer": "houston",
       "answer_letters": "HOUSTON",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue_tag": "wife-king-albert",
+      "clue_tag": "she-turns-up",
       "answer": "elisabeth",
       "answer_letters": "ELISABETH",
       "indices": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "clue_tag": "rhyming-home-richard",
+      "clue_tag": "singer-dionne-seen",
       "answer": "warwick",
       "answer_letters": "WARWICK",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue_tag": "item-one-may",
+      "clue_tag": "speak-now-rather",
       "answer": "object",
       "answer_letters": "OBJECT",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue_tag": "places-where-one",
+      "clue_tag": "current-locations",
       "answer": "outlets",
       "answer_letters": "OUTLETS",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue_tag": "shakespeares-venus-adonis",
+      "clue_tag": "name-made-disney",
       "answer": "sidney",
       "answer_letters": "SIDNEY",
       "indices": [

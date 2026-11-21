@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "spoken-parts-israel",
+      "clue_tag": "language-splits-neatly",
       "answer": "hebrew",
       "answer_letters": "HEBREW",
       "indices": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "clue_tag": "prophet-old-testament",
+      "clue_tag": "he-has-standing",
       "answer": "elijah",
       "answer_letters": "ELIJAH",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue_tag": "feminine-roberto",
+      "clue_tag": "what-bobbie-gets",
       "answer": "roberta",
       "answer_letters": "ROBERTA",
       "indices": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "clue_tag": "something-resembling-white",
+      "clue_tag": "somewhat-pale-his",
       "answer": "whitish",
       "answer_letters": "WHITISH",
       "indices": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "clue_tag": "being-possession-something",
+      "clue_tag": "holding-title-maybe",
       "answer": "owning",
       "answer_letters": "OWNING",
       "indices": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "clue_tag": "nearby-rochdale-bury",
+      "clue_tag": "english-town-found",
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue_tag": "bears-burden-adversity",
+      "clue_tag": "takes-pains",
       "answer": "suffers",
       "answer_letters": "SUFFERS",
       "indices": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "clue_tag": "state-defense-force",
+      "clue_tag": "force-isnt-regular",
       "answer": "militia",
       "answer_letters": "MILITIA",
       "indices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "clue_tag": "savorings-one-might",
+      "clue_tag": "they-may-be",
       "answer": "tastes",
       "answer_letters": "TASTES",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue_tag": "till-now-previously",
+      "clue_tag": "so-far-so",
       "answer": "hitherto",
       "answer_letters": "HITHERTO",
       "indices": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "clue_tag": "formerly-named-bytown",
+      "clue_tag": "senators-take-ice",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue_tag": "essence-coziness",
+      "clue_tag": "cold-comfort",
       "answer": "warmth",
       "answer_letters": "WARMTH",
       "indices": [
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "clue_tag": "uptodate-modern",
+      "clue_tag": "most-likely-still",
       "answer": "newest",
       "answer_letters": "NEWEST",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue_tag": "profound-layers",
+      "clue_tag": "winter-despair-both",
       "answer": "depths",
       "answer_letters": "DEPTHS",
       "indices": [
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "clue_tag": "regimental-attire",
+      "clue_tag": "looks-same-everyone",
       "answer": "uniform",
       "answer_letters": "UNIFORM",
       "indices": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "clue_tag": "begin-journey-venture",
+      "clue_tag": "hit-deck",
       "answer": "embark",
       "answer_letters": "EMBARK",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue_tag": "described-when-team",
+      "clue_tag": "like-nearly-every",
       "answer": "losing",
       "answer_letters": "LOSING",
       "indices": [

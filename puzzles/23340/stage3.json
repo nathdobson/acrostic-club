@@ -5,7 +5,7 @@
   "source_letters": "LEMONYSNICKETTHEEND",
   "clues": [
     {
-      "clue_tag": "agreements-can-be",
+      "clue_tag": "flat-agreements",
       "answer": "leases",
       "answer_letters": "LEASES",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "relating-natural-environment",
+      "clue_tag": "like-footprint-no",
       "answer": "ecological",
       "answer_letters": "ECOLOGICAL",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue_tag": "opposite-southwest-compass",
+      "clue_tag": "maine-course",
       "answer": "northeast",
       "answer_letters": "NORTHEAST",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue_tag": "motorcycle-brand",
+      "clue_tag": "name-keyboards-outboards",
       "answer": "yamaha",
       "answer_letters": "YAMAHA",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue_tag": "key-healthy-diet",
+      "clue_tag": "kind-facts-printed",
       "answer": "nutrition",
       "answer_letters": "NUTRITION",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue_tag": "japans-most-western",
+      "clue_tag": "nagasakis-island-whose",
       "answer": "kyushu",
       "answer_letters": "KYUSHU",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue_tag": "vesuviuss-famous-occurrence",
+      "clue_tag": "peak-performance",
       "answer": "eruption",
       "answer_letters": "ERUPTION",
       "indices": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "clue_tag": "age-early-dinosaurs",
+      "clue_tag": "jurassic-prequel",
       "answer": "triassic",
       "answer_letters": "TRIASSIC",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue_tag": "comfort-care-facility",
+      "clue_tag": "monks-alpine-refuge",
       "answer": "hospice",
       "answer_letters": "HOSPICE",
       "indices": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "clue_tag": "packed-energy",
+      "clue_tag": "like-some-fences",
       "answer": "electrified",
       "answer_letters": "ELECTRIFIED",
       "indices": [
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "clue_tag": "radical-measures-needed",
+      "clue_tag": "like-moving-out",
       "answer": "drastic",
       "answer_letters": "DRASTIC",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "NELYCABMARKEROFHOPE",
   "clues": [
     {
-      "clue_tag": "place-known-heartbreaking",
+      "clue_tag": "place-thats-only",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "career-business-income",
+      "clue_tag": "what-keeps-wolf",
       "answer": "livelihood",
       "answer_letters": "LIVELIHOOD",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue_tag": "talmudic-academy",
+      "clue_tag": "place-hit-books",
       "answer": "yeshiva",
       "answer_letters": "YESHIVA",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue_tag": "mother-frances-bean",
+      "clue_tag": "love-rock-music",
       "answer": "courtney",
       "answer_letters": "COURTNEY",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue_tag": "claim-composition",
+      "clue_tag": "writers-craft",
       "answer": "authorship",
       "answer_letters": "AUTHORSHIP",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue_tag": "dance-move-blues",
+      "clue_tag": "shake-leg-two",
       "answer": "boogie",
       "answer_letters": "BOOGIE",
       "indices": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "clue_tag": "official-power-make",
+      "clue_tag": "what-bumper-sticker",
       "answer": "authority",
       "answer_letters": "AUTHORITY",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue_tag": "not-so-anymore",
+      "clue_tag": "former-formally",
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue_tag": "may-lead-strain",
+      "clue_tag": "like-sisyphuss-workday",
       "answer": "repetitive",
       "answer_letters": "REPETITIVE",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue_tag": "formerly-named-bytown",
+      "clue_tag": "senators-take-ice",
       "answer": "ottawa",
       "answer_letters": "OTTAWA",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue_tag": "bff-rachel-green",
+      "clue_tag": "small-bird-sings",
       "answer": "phoebe",
       "answer_letters": "PHOEBE",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue_tag": "theory-proposed-darwin",
+      "clue_tag": "what-revolution-becomes",
       "answer": "evolution",
       "answer_letters": "EVOLUTION",
       "indices": [

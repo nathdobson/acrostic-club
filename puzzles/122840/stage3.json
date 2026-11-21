@@ -5,7 +5,7 @@
   "source_letters": "DIANNEBRIGHTSOULREADER",
   "clues": [
     {
-      "clue_tag": "sixcharacter-string-alternating",
+      "clue_tag": "location-location-location",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "where-leonardo-da",
+      "clue_tag": "boot-those-inside",
       "answer": "italia",
       "answer_letters": "ITALIA",
       "indices": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "clue_tag": "used-introduce-clarification",
+      "clue_tag": "what-viz-means",
       "answer": "namely",
       "answer_letters": "NAMELY",
       "indices": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "clue_tag": "daughters-son",
+      "clue_tag": "relative-scrooge-has",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "clue_tag": "affective-understanding-anothers",
+      "clue_tag": "feeling-you",
       "answer": "empathy",
       "answer_letters": "EMPATHY",
       "indices": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "clue_tag": "latin-term-warrior",
+      "clue_tag": "ufc-rival-you",
       "answer": "bellator",
       "answer_letters": "BELLATOR",
       "indices": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "clue_tag": "symbolic-actions-performed",
+      "clue_tag": "thing-done-religiously",
       "answer": "ritual",
       "answer_letters": "RITUAL",
       "indices": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "clue_tag": "ballooned-often-hot",
+      "clue_tag": "like-some-egos",
       "answer": "inflated",
       "answer_letters": "INFLATED",
       "indices": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "clue_tag": "leibniz-polymath-many",
+      "clue_tag": "comic-gilbert-sounds",
       "answer": "gottfried",
       "answer_letters": "GOTTFRIED",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue_tag": "location-bbc-television",
+      "clue_tag": "part-london-sounds",
       "answer": "hammersmith",
       "answer_letters": "HAMMERSMITH",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue_tag": "resource-frequently-referenced",
+      "clue_tag": "piece-heavy-course",
       "answer": "textbook",
       "answer_letters": "TEXTBOOK",
       "indices": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "clue_tag": "side-project-emerging",
+      "clue_tag": "sucker-eg",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue_tag": "used-treat-bipolar",
+      "clue_tag": "metal-powers-your",
       "answer": "lithium",
       "answer_letters": "LITHIUM",
       "indices": [
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "clue_tag": "sanctuary-those-peril",
+      "clue_tag": "where-duck-can",
       "answer": "refuge",
       "answer_letters": "REFUGE",
       "indices": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "clue_tag": "dominions-have-crumbled",
+      "clue_tag": "realms-built-shaky",
       "answer": "empires",
       "answer_letters": "EMPIRES",
       "indices": [
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "clue_tag": "party-representatives-convention",
+      "clue_tag": "conventions-party-people",
       "answer": "delegates",
       "answer_letters": "DELEGATES",
       "indices": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "clue_tag": "vigorous-determined-attempt",
+      "clue_tag": "trying-experience",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "clue_tag": "action-without-conscious",
+      "clue_tag": "something-tested-tap",
       "answer": "reflex",
       "answer_letters": "REFLEX",
       "indices": [

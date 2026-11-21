@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "move-circle",
+      "clue_tag": "take-turns",
       "answer": "rotate",
       "answer_letters": "ROTATE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue_tag": "first-book-bible",
+      "clue_tag": "beginning-begins-beginning",
       "answer": "genesis",
       "answer_letters": "GENESIS",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue_tag": "mathematics-engineering-symbol",
+      "clue_tag": "next-nothing-mathematician",
       "answer": "epsilon",
       "answer_letters": "EPSILON",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue_tag": "recognize-someone-something",
+      "clue_tag": "finger-way",
       "answer": "identify",
       "answer_letters": "IDENTIFY",
       "indices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "clue_tag": "side-project-emerging",
+      "clue_tag": "sucker-eg",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "clue_tag": "some-can-be",
+      "clue_tag": "rock-group-member",
       "answer": "mineral",
       "answer_letters": "MINERAL",
       "indices": [
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "clue_tag": "called-use-something",
+      "clue_tag": "called-muse-fifth",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "clue_tag": "voice-replacement-technique",
+      "clue_tag": "putting-words-actors",
       "answer": "dubbing",
       "answer_letters": "DUBBING",
       "indices": [
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "clue_tag": "sixcharacter-string-alternating",
+      "clue_tag": "location-location-location",
       "answer": "dcdcdc",
       "answer_letters": "DCDCDC",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue_tag": "where-marine-insurance",
+      "clue_tag": "insurance-giant-began",
       "answer": "lloyd's",
       "answer_letters": "LLOYDS",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue_tag": "female-parents-belongings",
+      "clue_tag": "babies",
       "answer": "mother's",
       "answer_letters": "MOTHERS",
       "indices": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "clue_tag": "aid-achieving-something",
+      "clue_tag": "goaloriented-help",
       "answer": "assist",
       "answer_letters": "ASSIST",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue_tag": "likely-be-remembered",
+      "clue_tag": "infectious-but-good",
       "answer": "catchy",
       "answer_letters": "CATCHY",
       "indices": [
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "clue_tag": "major-route-connecting",
+      "clue_tag": "option-those-wont",
       "answer": "highway",
       "answer_letters": "HIGHWAY",
       "indices": [

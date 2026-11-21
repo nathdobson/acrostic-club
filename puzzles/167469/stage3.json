@@ -5,7 +5,7 @@
   "source_letters": "HILARYMANTELWOLFHALL",
   "clues": [
     {
-      "clue_tag": "tennis-star-lost",
+      "clue_tag": "don-got-clock",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "trespassed-someones-activity",
+      "clue_tag": "covered-too-closely",
       "answer": "interfered",
       "answer_letters": "INTERFERED",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue_tag": "hindu-goddess-wealth",
+      "clue_tag": "goddess-honored-diwali",
       "answer": "lakshmi",
       "answer_letters": "LAKSHMI",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue_tag": "placeholder-unspecified-individual",
+      "clue_tag": "word-called-into",
       "answer": "anybody",
       "answer_letters": "ANYBODY",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue_tag": "reverting-original-state",
+      "clue_tag": "answering-service-court",
       "answer": "returning",
       "answer_letters": "RETURNING",
       "indices": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "clue_tag": "lemony-hue",
+      "clue_tag": "bit-chicken",
       "answer": "yellowish",
       "answer_letters": "YELLOWISH",
       "indices": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "clue_tag": "absence-place",
+      "clue_tag": "where-one-might",
       "answer": "nowhere",
       "answer_letters": "NOWHERE",
       "indices": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "clue_tag": "fictional-corporation-movie",
+      "clue_tag": "startups-line-starships",
       "answer": "enterprises",
       "answer_letters": "ENTERPRISES",
       "indices": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "clue_tag": "bottom-rank-hierarchy",
+      "clue_tag": "like-first-gear",
       "answer": "lowest",
       "answer_letters": "LOWEST",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue_tag": "often-sipped-neat",
+      "clue_tag": "neat-order",
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue_tag": "conquered-multitude-demands",
+      "clue_tag": "drowning-dry-land",
       "answer": "overwhelmed",
       "answer_letters": "OVERWHELMED",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue_tag": "often-involves-assembly",
+      "clue_tag": "found-basement-bios",
       "answer": "low-level",
       "answer_letters": "LOWLEVEL",
       "indices": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "clue_tag": "bodily-weariness",
+      "clue_tag": "what-makes-paper",
       "answer": "fatigue",
       "answer_letters": "FATIGUE",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue_tag": "genre-music-culture",
+      "clue_tag": "culture-where-breaking",
       "answer": "hip-hop",
       "answer_letters": "HIPHOP",
       "indices": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "clue_tag": "portable-computer",
+      "clue_tag": "has-lid-often",
       "answer": "laptop",
       "answer_letters": "LAPTOP",
       "indices": [

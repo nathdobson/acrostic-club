@@ -5,7 +5,7 @@
   "source_letters": "ABBIGLINESNEVERTOOFAR",
   "clues": [
     {
-      "clue_tag": "without-geographic-constraints",
+      "clue_tag": "unhelpful-answer-where",
       "answer": "anywhere",
       "answer_letters": "ANYWHERE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue_tag": "heritage-born-rollsroyce",
+      "clue_tag": "rolls-alternative",
       "answer": "bentley",
       "answer_letters": "BENTLEY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue_tag": "cash-reward-capture",
+      "clue_tag": "figure-wanted-poster",
       "answer": "bounty",
       "answer_letters": "BOUNTY",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "act-administering-drug",
+      "clue_tag": "delivery-gets-under",
       "answer": "injection",
       "answer_letters": "INJECTION",
       "indices": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "clue_tag": "real-not-fake",
+      "clue_tag": "sincere-though-letters",
       "answer": "genuine",
       "answer_letters": "GENUINE",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue_tag": "essential-layer-inside",
+      "clue_tag": "inside-job-tailor",
       "answer": "lining",
       "answer_letters": "LINING",
       "indices": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "clue_tag": "empty-set",
+      "clue_tag": "jack-squat",
       "answer": "nothing",
       "answer_letters": "NOTHING",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue_tag": "biles-olympic-gymnast",
+      "clue_tag": "first-biles-last",
       "answer": "simone",
       "answer_letters": "SIMONE",
       "indices": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "clue_tag": "usa-state-known",
+      "clue_tag": "state-whose-reno",
       "answer": "nevada",
       "answer_letters": "NEVADA",
       "indices": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "clue_tag": "corporate-body-individual",
+      "clue_tag": "thing",
       "answer": "entity",
       "answer_letters": "ENTITY",
       "indices": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "clue_tag": "literary-works-ponder",
+      "clue_tag": "pieces-ones-mind",
       "answer": "essays",
       "answer_letters": "ESSAYS",
       "indices": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "clue_tag": "assembly-old-friends",
+      "clue_tag": "labor-group-once",
       "answer": "reunion",
       "answer_letters": "REUNION",
       "indices": [
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "clue_tag": "nearby-rochdale-bury",
+      "clue_tag": "seasoned-scenerychewer",
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "clue_tag": "region-once-under",
+      "clue_tag": "scottish-island-group",
       "answer": "orkney",
       "answer_letters": "ORKNEY",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue_tag": "aeroplane-journey-point",
+      "clue_tag": "gets-you-one",
       "answer": "flight",
       "answer_letters": "FLIGHT",
       "indices": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "clue_tag": "spacex-innovation-reusability",
+      "clue_tag": "goes-up-stages",
       "answer": "rocket",
       "answer_letters": "ROCKET",
       "indices": [

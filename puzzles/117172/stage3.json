@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "exact-spot-occurrence",
+      "clue_tag": "far-remote",
       "answer": "on-site",
       "answer_letters": "ONSITE",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "time-signature-component",
+      "clue_tag": "what-feet-give",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "clue_tag": "conservatives-opposed-liberals",
+      "clue_tag": "red-america-but",
       "answer": "right-wing",
       "answer_letters": "RIGHTWING",
       "indices": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "clue_tag": "reflexive-pronoun",
+      "clue_tag": "what-great-product",
       "answer": "itself",
       "answer_letters": "ITSELF",
       "indices": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "clue_tag": "job-position",
+      "clue_tag": "hire-calling",
       "answer": "employment",
       "answer_letters": "EMPLOYMENT",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue_tag": "spoken-many-eastern",
+      "clue_tag": "germanic-language-written",
       "answer": "yiddish",
       "answer_letters": "YIDDISH",
       "indices": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "clue_tag": "lie-wait-prey",
+      "clue_tag": "surprise-party",
       "answer": "ambush",
       "answer_letters": "AMBUSH",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue_tag": "nearby-rochdale-bury",
+      "clue_tag": "seasoned-scenerychewer",
       "answer": "oldham",
       "answer_letters": "OLDHAM",
       "indices": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "clue_tag": "amongst",
+      "clue_tag": "word-before-you",
       "answer": "between",
       "answer_letters": "BETWEEN",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue_tag": "mathematically-unbounded",
+      "clue_tag": "represented-toppled-8",
       "answer": "infinite",
       "answer_letters": "INFINITE",
       "indices": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "clue_tag": "sole-edition-item",
+      "clue_tag": "wont-happen-again",
       "answer": "one-off",
       "answer_letters": "ONEOFF",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue_tag": "french-male-first",
+      "clue_tag": "frenchman-sitting-virgil",
       "answer": "gilles",
       "answer_letters": "GILLES",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue_tag": "gaps-between-oceanic",
+      "clue_tag": "high-lines",
       "answer": "ridges",
       "answer_letters": "RIDGES",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue_tag": "not-there-all",
+      "clue_tag": "out-class",
       "answer": "absent",
       "answer_letters": "ABSENT",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue_tag": "route-course",
+      "clue_tag": "walk-park-say",
       "answer": "pathway",
       "answer_letters": "PATHWAY",
       "indices": [
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "clue_tag": "middle-point-journey",
+      "clue_tag": "meeting-place-compromisers",
       "answer": "halfway",
       "answer_letters": "HALFWAY",
       "indices": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "clue_tag": "relating-country-arabian",
+      "clue_tag": "mocha-local",
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [

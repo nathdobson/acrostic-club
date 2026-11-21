@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "english-town-known",
+      "clue_tag": "english-town-concealed",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue_tag": "set-three-works",
+      "clue_tag": "what-sequels-sequel",
       "answer": "trilogy",
       "answer_letters": "TRILOGY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue_tag": "type-hardwood-tree",
+      "clue_tag": "tree-opens-nursery",
       "answer": "hickory",
       "answer_letters": "HICKORY",
       "indices": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "clue_tag": "called-use-something",
+      "clue_tag": "appealed-higher-power",
       "answer": "invoked",
       "answer_letters": "INVOKED",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue_tag": "collects-data-typically",
+      "clue_tag": "catches-what-others",
       "answer": "aggregator",
       "answer_letters": "AGGREGATOR",
       "indices": [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "clue_tag": "tennis-star-lost",
+      "clue_tag": "don-started-clock",
       "answer": "hewitt",
       "answer_letters": "HEWITT",
       "indices": [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "clue_tag": "city-where-margaret",
+      "clue_tag": "where-green-jacket",
       "answer": "augusta",
       "answer_letters": "AUGUSTA",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue_tag": "opposite-proximal-anatomical",
+      "clue_tag": "farther-out-limb",
       "answer": "distal",
       "answer_letters": "DISTAL",
       "indices": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "clue_tag": "country-central-asia",
+      "clue_tag": "asian-country-so",
       "answer": "uzbekistan",
       "answer_letters": "UZBEKISTAN",
       "indices": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "clue_tag": "contemporary-times",
+      "clue_tag": "currently-curmudgeons-complaint",
       "answer": "nowadays",
       "answer_letters": "NOWADAYS",
       "indices": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "clue_tag": "vigorous-determined-attempt",
+      "clue_tag": "may-earn-when",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "clue_tag": "character-interview-vampire",
+      "clue_tag": "what-separates-leg",
       "answer": "armand",
       "answer_letters": "ARMAND",
       "indices": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "clue_tag": "nautical-contest",
+      "clue_tag": "row-after-row",
       "answer": "regatta",
       "answer_letters": "REGATTA",
       "indices": [
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "clue_tag": "indelible-ink-design",
+      "clue_tag": "drumbeat-gets-under",
       "answer": "tattoo",
       "answer_letters": "TATTOO",
       "indices": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "clue_tag": "essential-construction-carpentry",
+      "clue_tag": "found-piano-pistol",
       "answer": "hammer",
       "answer_letters": "HAMMER",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue_tag": "cheaply-priced",
+      "clue_tag": "requiring-little-bread",
       "answer": "low-cost",
       "answer_letters": "LOWCOST",
       "indices": [
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "clue_tag": "types-leisure-vessels",
+      "clue_tag": "tycoons-craft-projects",
       "answer": "yachts",
       "answer_letters": "YACHTS",
       "indices": [

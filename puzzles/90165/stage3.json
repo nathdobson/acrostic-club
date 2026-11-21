@@ -5,7 +5,7 @@
   "source_letters": "SCOTTWESTERFELDPRETTIES",
   "clues": [
     {
-      "clue_tag": "term-related-sea",
+      "clue_tag": "common-solution-drip",
       "answer": "saline",
       "answer_letters": "SALINE",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "common-bengali-family",
+      "clue_tag": "common-bengali-surname",
       "answer": "chowdhury",
       "answer_letters": "CHOWDHURY",
       "indices": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "clue_tag": "global-water-bodies",
+      "clue_tag": "main-bodies",
       "answer": "oceans",
       "answer_letters": "OCEANS",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "award-victory",
+      "clue_tag": "winning-figure",
       "answer": "trophy",
       "answer_letters": "TROPHY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue_tag": "subgenre-heavy-metal",
+      "clue_tag": "hammer-type-metal",
       "answer": "thrash",
       "answer_letters": "THRASH",
       "indices": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "clue_tag": "site-royal-artillery",
+      "clue_tag": "thamesside-london-district",
       "answer": "woolwich",
       "answer_letters": "WOOLWICH",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue_tag": "vigorous-determined-attempt",
+      "clue_tag": "may-earn-when",
       "answer": "effort",
       "answer_letters": "EFFORT",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue_tag": "ultimate-confrontation",
+      "clue_tag": "put-feathers-display",
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue_tag": "film-these-are",
+      "clue_tag": "they-may-be",
       "answer": "effects",
       "answer_letters": "EFFECTS",
       "indices": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "clue_tag": "girl-lady",
+      "clue_tag": "like-every-mosquito",
       "answer": "female",
       "answer_letters": "FEMALE",
       "indices": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "clue_tag": "takes-part-activity",
+      "clue_tag": "gets-gear",
       "answer": "engages",
       "answer_letters": "ENGAGES",
       "indices": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "clue_tag": "puppys-group",
+      "clue_tag": "group-pick-runt",
       "answer": "litter",
       "answer_letters": "LITTER",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue_tag": "main-meal-day",
+      "clue_tag": "triangles-message-ranch",
       "answer": "dinner",
       "answer_letters": "DINNER",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue_tag": "symbolic-actions-performed",
+      "clue_tag": "thing-done-religiously",
       "answer": "ritual",
       "answer_letters": "RITUAL",
       "indices": [
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "clue_tag": "not-so-anymore",
+      "clue_tag": "oldfashioned-way-say",
       "answer": "erstwhile",
       "answer_letters": "ERSTWHILE",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue_tag": "past-participle-hurl",
+      "clue_tag": "like-pots-punches",
       "answer": "thrown",
       "answer_letters": "THROWN",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue_tag": "customized-particular-subject",
+      "clue_tag": "like-thursday-crossword",
       "answer": "themed",
       "answer_letters": "THEMED",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue_tag": "not-westbound",
+      "clue_tag": "how-phileas-fogg",
       "answer": "eastward",
       "answer_letters": "EASTWARD",
       "indices": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "clue_tag": "move-quickly-back",
+      "clue_tag": "goes-back-forth",
       "answer": "shuttle",
       "answer_letters": "SHUTTLE",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "MUTANTENEMYJOSSWHEDON",
   "clues": [
     {
-      "clue_tag": "cant-be-seen",
+      "clue_tag": "out-sight-small",
       "answer": "microscopic",
       "answer_letters": "MICROSCOPIC",
       "indices": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "clue_tag": "highspirited-music",
+      "clue_tag": "conductors-pickmeup",
       "answer": "upbeat",
       "answer_letters": "UPBEAT",
       "indices": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "clue_tag": "book-series-stephenie",
+      "clue_tag": "what-comes-before",
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue_tag": "garments-accessories-combined",
+      "clue_tag": "something-wear-out",
       "answer": "attire",
       "answer_letters": "ATTIRE",
       "indices": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "clue_tag": "another-name-japan",
+      "clue_tag": "country-name-printed",
       "answer": "nippon",
       "answer_letters": "NIPPON",
       "indices": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "clue_tag": "genre-keeps-you",
+      "clue_tag": "bestseller-genre-names",
       "answer": "thriller",
       "answer_letters": "THRILLER",
       "indices": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "clue_tag": "candidates-competition",
+      "clue_tag": "theyre-win",
       "answer": "entrants",
       "answer_letters": "ENTRANTS",
       "indices": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "clue_tag": "surname-associated-chuck",
+      "clue_tag": "chuck-kick",
       "answer": "norris",
       "answer_letters": "NORRIS",
       "indices": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "clue_tag": "scottish-surname-meaning",
+      "clue_tag": "scottish-surname-every",
       "answer": "mcleod",
       "answer_letters": "MCLEOD",
       "indices": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "clue_tag": "home-minato-mirai",
+      "clue_tag": "asian-port-whose",
       "answer": "yokohama",
       "answer_letters": "YOKOHAMA",
       "indices": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "clue_tag": "biblical-figure-led",
+      "clue_tag": "leader-whose-horn",
       "answer": "joshua",
       "answer_letters": "JOSHUA",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue_tag": "made-switch",
+      "clue_tag": "gave-good-one",
       "answer": "swapped",
       "answer_letters": "SWAPPED",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue_tag": "often-sipped-neat",
+      "clue_tag": "jack-jim-eg",
       "answer": "whiskey",
       "answer_letters": "WHISKEY",
       "indices": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "clue_tag": "potential-pitfall",
+      "clue_tag": "bunker-eg",
       "answer": "hazard",
       "answer_letters": "HAZARD",
       "indices": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "clue_tag": "votes-representative",
+      "clue_tag": "gives-seat-way",
       "answer": "elects",
       "answer_letters": "ELECTS",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue_tag": "he-works-drills",
+      "clue_tag": "someone-you-open",
       "answer": "dentist",
       "answer_letters": "DENTIST",
       "indices": [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "clue_tag": "failing-care-properly",
+      "clue_tag": "not-mind",
       "answer": "neglect",
       "answer_letters": "NEGLECT",
       "indices": [

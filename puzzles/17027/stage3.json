@@ -21,7 +21,7 @@
       ]
     },
     {
-      "clue_tag": "can-be-car",
+      "clue_tag": "you-might-get",
       "answer": "vehicle",
       "answer_letters": "VEHICLE",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue_tag": "penmen",
+      "clue_tag": "pens",
       "answer": "authors",
       "answer_letters": "AUTHORS",
       "indices": [
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "clue_tag": "juliuss-italian-variant",
+      "clue_tag": "julio-italy",
       "answer": "giulio",
       "answer_letters": "GIULIO",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue_tag": "name-could-be",
+      "clue_tag": "raphael-spaniards",
       "answer": "rafael",
       "answer_letters": "RAFAEL",
       "indices": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "clue_tag": "concerning-ruling-familys",
+      "clue_tag": "like-tudors-90s",
       "answer": "dynastic",
       "answer_letters": "DYNASTIC",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue_tag": "daughters-son",
+      "clue_tag": "hamlet-claudius-besides",
       "answer": "nephew",
       "answer_letters": "NEPHEW",
       "indices": [
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "clue_tag": "multiple-releases-literary",
+      "clue_tag": "limited-runs-sometimes",
       "answer": "editions",
       "answer_letters": "EDITIONS",
       "indices": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "clue_tag": "conservatives-opposed-liberals",
+      "clue_tag": "conservative-like-one",
       "answer": "right-wing",
       "answer_letters": "RIGHTWING",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue_tag": "last-name-legendary",
+      "clue_tag": "jazzs-sarah-bluess",
       "answer": "vaughan",
       "answer_letters": "VAUGHAN",
       "indices": [
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "clue_tag": "impact-situation-outcome",
+      "clue_tag": "move-touch",
       "answer": "affect",
       "answer_letters": "AFFECT",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue_tag": "diminutive-form-matthew",
+      "clue_tag": "matthew-language-dante",
       "answer": "matteo",
       "answer_letters": "MATTEO",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue_tag": "relating-country-arabian",
+      "clue_tag": "arabian-found-hear",
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "clue_tag": "he-authored-many",
+      "clue_tag": "wise-king-proposed",
       "answer": "solomon",
       "answer_letters": "SOLOMON",
       "indices": [
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "clue_tag": "exhaustive",
+      "clue_tag": "like-cleaning-job",
       "answer": "thorough",
       "answer_letters": "THOROUGH",
       "indices": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "clue_tag": "state-capital-bhubaneswar",
+      "clue_tag": "indian-state-thats",
       "answer": "odisha",
       "answer_letters": "ODISHA",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue_tag": "job-service-continuation",
+      "clue_tag": "keeping-not-entire",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue_tag": "vast-videosharing-platform",
+      "clue_tag": "where-surf-millions",
       "answer": "youtube",
       "answer_letters": "YOUTUBE",
       "indices": [

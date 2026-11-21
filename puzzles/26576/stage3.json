@@ -5,7 +5,7 @@
   "source_letters": "TONIALEOTAKINGSHOTS",
   "clues": [
     {
-      "clue_tag": "double-winner",
+      "clue_tag": "see-double",
       "answer": "two-time",
       "answer_letters": "TWOTIME",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "path-where-you",
+      "clue_tag": "words-arrow",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "english-town-known",
+      "clue_tag": "english-town-sounds",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue_tag": "entangle-engage-matter",
+      "clue_tag": "make-party",
       "answer": "involve",
       "answer_letters": "INVOLVE",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue_tag": "became-sufficient-adequate",
+      "clue_tag": "came-register",
       "answer": "amounted",
       "answer_letters": "AMOUNTED",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue_tag": "type-arrangement-page",
+      "clue_tag": "floor-floor-plan",
       "answer": "layout",
       "answer_letters": "LAYOUT",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue_tag": "utterly-without-exception",
+      "clue_tag": "nothing-left-out",
       "answer": "entirely",
       "answer_letters": "ENTIRELY",
       "indices": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "clue_tag": "commonly-referred-odi",
+      "clue_tag": "vague-deadline-bucket",
       "answer": "one-day",
       "answer_letters": "ONEDAY",
       "indices": [
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "clue_tag": "common-timeframe-shortterm",
+      "clue_tag": "like-every-stretch",
       "answer": "two-year",
       "answer_letters": "TWOYEAR",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue_tag": "regardless-any-case",
+      "clue_tag": "may-bring-tangent",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "clue_tag": "punch-strong-enough",
+      "clue_tag": "leaves-judges-nothing",
       "answer": "knockout",
       "answer_letters": "KNOCKOUT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue_tag": "enhance-make-better",
+      "clue_tag": "look-up",
       "answer": "improve",
       "answer_letters": "IMPROVE",
       "indices": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "clue_tag": "easily-identified-due",
+      "clue_tag": "wellknown-but-not",
       "answer": "notorious",
       "answer_letters": "NOTORIOUS",
       "indices": [
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "clue_tag": "across-entire-state",
+      "clue_tag": "like-wyomings-lone",
       "answer": "statewide",
       "answer_letters": "STATEWIDE",
       "indices": [
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "clue_tag": "golden-age-flourishing",
+      "clue_tag": "high-time",
       "answer": "heyday",
       "answer_letters": "HEYDAY",
       "indices": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "clue_tag": "wardrobe-ensemble",
+      "clue_tag": "put-together-before",
       "answer": "outfit",
       "answer_letters": "OUTFIT",
       "indices": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "clue_tag": "book-series-stephenie",
+      "clue_tag": "what-comes-before",
       "answer": "twilight",
       "answer_letters": "TWILIGHT",
       "indices": [
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "clue_tag": "occurrences-spark-debates",
+      "clue_tag": "they-might-be",
       "answer": "shootings",
       "answer_letters": "SHOOTINGS",
       "indices": [

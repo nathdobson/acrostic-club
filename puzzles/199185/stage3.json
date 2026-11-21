@@ -5,7 +5,7 @@
   "source_letters": "JOWALTONAMONGOTHERS",
   "clues": [
     {
-      "clue_tag": "origin-sushi-known",
+      "clue_tag": "puts-glossy-black",
       "answer": "japan's",
       "answer_letters": "JAPANS",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "costumes-stage-production",
+      "clue_tag": "puts-gear",
       "answer": "outfits",
       "answer_letters": "OUTFITS",
       "indices": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "clue_tag": "home-verulamium-museum",
+      "clue_tag": "st-english-city",
       "answer": "albans",
       "answer_letters": "ALBANS",
       "indices": [
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "clue_tag": "made-something-rise",
+      "clue_tag": "took-up-took",
       "answer": "lifted",
       "answer_letters": "LIFTED",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue_tag": "path-where-you",
+      "clue_tag": "no-good-comeback",
       "answer": "one-way",
       "answer_letters": "ONEWAY",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue_tag": "disregarded-overlooked",
+      "clue_tag": "like-many-gym",
       "answer": "neglected",
       "answer_letters": "NEGLECTED",
       "indices": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "clue_tag": "cider-ingredients-galore",
+      "clue_tag": "galas-eg",
       "answer": "apples",
       "answer_letters": "APPLES",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue_tag": "city-town-administrations",
+      "clue_tag": "theyre-incorporated-but",
       "answer": "municipalities",
       "answer_letters": "MUNICIPALITIES",
       "indices": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "clue_tag": "pitfalls-encountered-along",
+      "clue_tag": "features-hard-course",
       "answer": "obstacles",
       "answer_letters": "OBSTACLES",
       "indices": [
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "clue_tag": "story-jesus-birth",
+      "clue_tag": "play-doll-often",
       "answer": "nativity",
       "answer_letters": "NATIVITY",
       "indices": [
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "clue_tag": "theyre-expected-be",
+      "clue_tag": "they-often-arrive",
       "answer": "guests",
       "answer_letters": "GUESTS",
       "indices": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "clue_tag": "trajectory-around-celestial",
+      "clue_tag": "forever-falling-never",
       "answer": "orbiting",
       "answer_letters": "ORBITING",
       "indices": [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "clue_tag": "last-name-famous",
+      "clue_tag": "judd-played-real",
       "answer": "hirsch",
       "answer_letters": "HIRSCH",
       "indices": [
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "clue_tag": "harvards-original-sister",
+      "clue_tag": "daniel-spent-decade",
       "answer": "radcliffe",
       "answer_letters": "RADCLIFFE",
       "indices": [
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "clue_tag": "having-actual-significance",
+      "clue_tag": "weighty-noun",
       "answer": "substantive",
       "answer_letters": "SUBSTANTIVE",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "VERONICAROTHALLEGIANT",
   "clues": [
     {
-      "clue_tag": "classic-name-southern",
+      "clue_tag": "name-whose-first",
       "answer": "vivian",
       "answer_letters": "VIVIAN",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "began-project-initiative",
+      "clue_tag": "hit-deck",
       "answer": "embarked",
       "answer_letters": "EMBARKED",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "claim-space-control",
+      "clue_tag": "fill-seat-afternoon",
       "answer": "occupy",
       "answer_letters": "OCCUPY",
       "indices": [
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "clue_tag": "contemporary-times",
+      "clue_tag": "currently-curmudgeons-complaint",
       "answer": "nowadays",
       "answer_letters": "NOWADAYS",
       "indices": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "clue_tag": "tonys-formal-version",
+      "clue_tag": "saint-ask-when",
       "answer": "anthony",
       "answer_letters": "ANTHONY",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue_tag": "heard-medical-school",
+      "clue_tag": "doctor-whose-title",
       "answer": "resident",
       "answer_letters": "RESIDENT",
       "indices": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "clue_tag": "side-project-emerging",
+      "clue_tag": "sucker-eg",
       "answer": "offshoot",
       "answer_letters": "OFFSHOOT",
       "indices": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "clue_tag": "ancient-religious-building",
+      "clue_tag": "where-rabbi-might",
       "answer": "temple",
       "answer_letters": "TEMPLE",
       "indices": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "clue_tag": "lower-part-torso",
+      "clue_tag": "area-worked-crunch",
       "answer": "abdomen",
       "answer_letters": "ABDOMEN",
       "indices": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "clue_tag": "buckingham-former-fleetwood",
+      "clue_tag": "vonn-whos-known",
       "answer": "lindsey",
       "answer_letters": "LINDSEY",
       "indices": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "clue_tag": "wife-king-albert",
+      "clue_tag": "she-turns-up",
       "answer": "elisabeth",
       "answer_letters": "ELISABETH",
       "indices": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "clue_tag": "famous-welsh-comedian",
+      "clue_tag": "frequent-surname-cardiff",
       "answer": "griffiths",
       "answer_letters": "GRIFFITHS",
       "indices": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "clue_tag": "subject-nelson-mandelas",
+      "clue_tag": "hated-policy-rearranges",
       "answer": "apartheid",
       "answer_letters": "APARTHEID",
       "indices": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "clue_tag": "place-known-heartbreaking",
+      "clue_tag": "place-thats-only",
       "answer": "newtown",
       "answer_letters": "NEWTOWN",
       "indices": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "clue_tag": "contraction-they-have",
+      "clue_tag": "all-come-look",
       "answer": "they've",
       "answer_letters": "THEYVE",
       "indices": [

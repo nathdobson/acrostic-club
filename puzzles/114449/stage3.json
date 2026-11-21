@@ -5,7 +5,7 @@
   "source_letters": "CDREISSMARRIAGEGAMES",
   "clues": [
     {
-      "clue_tag": "native-american-tribe",
+      "clue_tag": "nation-whose-language",
       "answer": "cherokee",
       "answer_letters": "CHEROKEE",
       "indices": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "clue_tag": "location-where-skyscrapers",
+      "clue_tag": "southbound-manhattan-subway",
       "answer": "downtown",
       "answer_letters": "DOWNTOWN",
       "indices": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "clue_tag": "job-service-continuation",
+      "clue_tag": "keeping-not-entire",
       "answer": "retention",
       "answer_letters": "RETENTION",
       "indices": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "clue_tag": "36th-president-united",
+      "clue_tag": "fivestar-president",
       "answer": "eisenhower",
       "answer_letters": "EISENHOWER",
       "indices": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "clue_tag": "port-city-suffolk",
+      "clue_tag": "english-port-harbored",
       "answer": "ipswich",
       "answer_letters": "IPSWICH",
       "indices": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "clue_tag": "capital-north-macedonia",
+      "clue_tag": "capital-country-added",
       "answer": "skopje",
       "answer_letters": "SKOPJE",
       "indices": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "clue_tag": "electrical-device-routing",
+      "clue_tag": "something-flip-when",
       "answer": "switch",
       "answer_letters": "SWITCH",
       "indices": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "clue_tag": "iconic-look-popularized",
+      "clue_tag": "middleoftheroad-style",
       "answer": "mohawk",
       "answer_letters": "MOHAWK",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue_tag": "tonys-formal-version",
+      "clue_tag": "saint-ask-when",
       "answer": "anthony",
       "answer_letters": "ANTHONY",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue_tag": "time-signature-component",
+      "clue_tag": "result-beat-generation",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "clue_tag": "edited-again-after",
+      "clue_tag": "didnt-leave-well",
       "answer": "reworked",
       "answer_letters": "REWORKED",
       "indices": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "clue_tag": "obtained-through-descent",
+      "clue_tag": "like-blue-eyes",
       "answer": "inherited",
       "answer_letters": "INHERITED",
       "indices": [
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "clue_tag": "state-being-selfgoverning",
+      "clue_tag": "aim-teenager-selfdriving",
       "answer": "autonomy",
       "answer_letters": "AUTONOMY",
       "indices": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "clue_tag": "brick-city-batman",
+      "clue_tag": "city-lights-up",
       "answer": "gotham",
       "answer_letters": "GOTHAM",
       "indices": [
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "clue_tag": "inhabitant-africas-secondmost",
+      "clue_tag": "relating-country-unique",
       "answer": "ethiopian",
       "answer_letters": "ETHIOPIAN",
       "indices": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "clue_tag": "authentic-feelings",
+      "clue_tag": "heart",
       "answer": "genuinely",
       "answer_letters": "GENUINELY",
       "indices": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "clue_tag": "sports-stars-short",
+      "clue_tag": "field-workers-court",
       "answer": "athletes",
       "answer_letters": "ATHLETES",
       "indices": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "clue_tag": "temporary-solution",
+      "clue_tag": "like-butter-knife",
       "answer": "makeshift",
       "answer_letters": "MAKESHIFT",
       "indices": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "clue_tag": "protocol-suite-used",
+      "clue_tag": "plugin-browser",
       "answer": "ethernet",
       "answer_letters": "ETHERNET",
       "indices": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "clue_tag": "soccer-goalies-dream",
+      "clue_tag": "result-leaves-losers",
       "answer": "shutout",
       "answer_letters": "SHUTOUT",
       "indices": [

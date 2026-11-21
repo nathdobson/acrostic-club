@@ -5,7 +5,7 @@
   "source_letters": "OTTORAYANDAMELIARAHT",
   "clues": [
     {
-      "clue_tag": "absent-left-out",
+      "clue_tag": "like-13-many",
       "answer": "omitted",
       "answer_letters": "OMITTED",
       "indices": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "clue_tag": "dualdirectional",
+      "clue_tag": "like-mirror-thats",
       "answer": "two-way",
       "answer_letters": "TWOWAY",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "historical-sequence-events",
+      "clue_tag": "string-dates",
       "answer": "timeline",
       "answer_letters": "TIMELINE",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "subject-scientific-study",
+      "clue_tag": "alive",
       "answer": "organism",
       "answer_letters": "ORGANISM",
       "indices": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "clue_tag": "time-signature-component",
+      "clue_tag": "has-beat-but",
       "answer": "rhythm",
       "answer_letters": "RHYTHM",
       "indices": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "clue_tag": "name-associated-lowcarb",
+      "clue_tag": "antipasta-plan",
       "answer": "atkins",
       "answer_letters": "ATKINS",
       "indices": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "clue_tag": "relating-country-arabian",
+      "clue_tag": "mocha-native",
       "answer": "yemeni",
       "answer_letters": "YEMENI",
       "indices": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "clue_tag": "english-town-known",
+      "clue_tag": "english-town-sounds",
       "answer": "newbury",
       "answer_letters": "NEWBURY",
       "indices": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "clue_tag": "suns-illumination",
+      "clue_tag": "dawdlers-burn",
       "answer": "daylight",
       "answer_letters": "DAYLIGHT",
       "indices": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "clue_tag": "mobydick-author",
+      "clue_tag": "whalers-chronicler",
       "answer": "melville",
       "answer_letters": "MELVILLE",
       "indices": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "clue_tag": "provide-learning-opportunities",
+      "clue_tag": "improve-degrees",
       "answer": "educate",
       "answer_letters": "EDUCATE",
       "indices": [
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "clue_tag": "school-once-featured",
+      "clue_tag": "university-thats-part",
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "clue_tag": "geographical-feature-connecting",
+      "clue_tag": "holds-two-lands",
       "answer": "isthmus",
       "answer_letters": "ISTHMUS",
       "indices": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "clue_tag": "filho-was-prolific",
+      "clue_tag": "portuguese-surname-revealed",
       "answer": "almeida",
       "answer_letters": "ALMEIDA",
       "indices": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "clue_tag": "region-has-distinct",
+      "clue_tag": "where-sapporo-local",
       "answer": "hokkaido",
       "answer_letters": "HOKKAIDO",
       "indices": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "clue_tag": "way-medium-substance",
+      "clue_tag": "done-no-rhyme",
       "answer": "through",
       "answer_letters": "THROUGH",
       "indices": [

@@ -5,7 +5,7 @@
   "source_letters": "IRISBLAIREDARKFRAME",
   "clues": [
     {
-      "clue_tag": "isle-odysseus",
+      "clue_tag": "ionian-isle-famous",
       "answer": "ithaca",
       "answer_letters": "ITHACA",
       "indices": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "clue_tag": "common-term-used",
+      "clue_tag": "gaining-ground-ground",
       "answer": "rushing",
       "answer_letters": "RUSHING",
       "indices": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "clue_tag": "they-may-differ",
+      "clue_tag": "atoms-strictly-neutral",
       "answer": "isotopes",
       "answer_letters": "ISOTOPES",
       "indices": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "clue_tag": "musician-plays-woodwind",
+      "clue_tag": "lisa-simpson-eg",
       "answer": "saxophonist",
       "answer_letters": "SAXOPHONIST",
       "indices": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "clue_tag": "biblical-location-where",
+      "clue_tag": "new-york-town",
       "answer": "bethel",
       "answer_letters": "BETHEL",
       "indices": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "clue_tag": "famed-aerospace-defense",
+      "clue_tag": "aerospace-giant-whose",
       "answer": "lockheed",
       "answer_letters": "LOCKHEED",
       "indices": [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "clue_tag": "his-era-marked",
+      "clue_tag": "russian-name-thats",
       "answer": "alexei",
       "answer_letters": "ALEXEI",
       "indices": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "clue_tag": "cut-off-others",
+      "clue_tag": "like-any-incident",
       "answer": "isolated",
       "answer_letters": "ISOLATED",
       "indices": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "clue_tag": "made-popular-again",
+      "clue_tag": "back-broadway-say",
       "answer": "revived",
       "answer_letters": "REVIVED",
       "indices": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "clue_tag": "horizonal-directional-span",
+      "clue_tag": "like-evennumbered-interstates",
       "answer": "east-west",
       "answer_letters": "EASTWEST",
       "indices": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "clue_tag": "ship-send-out",
+      "clue_tag": "send-off-finish",
       "answer": "dispatch",
       "answer_letters": "DISPATCH",
       "indices": [
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "clue_tag": "regardless-any-case",
+      "clue_tag": "so-after-awkward",
       "answer": "anyway",
       "answer_letters": "ANYWAY",
       "indices": [
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "clue_tag": "arabic-term-successor",
+      "clue_tag": "dubai-tower-name",
       "answer": "khalifa",
       "answer_letters": "KHALIFA",
       "indices": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "clue_tag": "detroitbased-record-company",
+      "clue_tag": "detroit-though-looks",
       "answer": "motown",
       "answer_letters": "MOTOWN",
       "indices": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "clue_tag": "relates-customs-beliefs",
+      "clue_tag": "like-aisle-where",
       "answer": "ethnic",
       "answer_letters": "ETHNIC",
       "indices": [
