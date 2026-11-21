@@ -54,7 +54,8 @@ impl ClueClient {
                     .windows(banned_letters.len())
                     .any(|x| x == &*banned_letters)
                 {
-                    // eprintln!("clue {:?} contains {:?} which is banned for {:?}", clue, banned, word);
+                    // eprintln!("clue {:?} contains {:?} which is banned for {:?}", clue, banned,
+                    // word);
                     is_banned = true;
                 }
             }
@@ -70,8 +71,8 @@ impl ClueClient {
     }
     // Returns the tag of a clue for `answer` in the puzzle with index `puzzle_index`: one of
     // `bank`'s clues when it has any, picked by `ClueBank::clue_for_puzzle`, or else a new clue,
-    // which is written to the bank file at `bank_path` right away. Returns `None` when the bank
-    // has no clue for the answer and `create_clue` finds none either.
+    // which is written to the bank file at `bank_path` right away. Returns `None` when the bank has
+    // no clue for the answer and `create_clue` finds none either.
     pub async fn choose_clue(
         &self,
         answer: &str,
@@ -96,9 +97,9 @@ impl ClueClient {
     }
 
     // Finds a new clue for `answer` and reports its source. A clue from the model must pass two
-    // checks: it avoids words related to `answer`, and the model, asked to solve it, names
-    // `answer` among its guesses. When no clue from the model passes, the xd database's first
-    // clue for `answer` stands in. Either way, a clue with no letters or digits is skipped (see
+    // checks: it avoids words related to `answer`, and the model, asked to solve it, names `answer`
+    // among its guesses. When no clue from the model passes, the xd database's first clue for
+    // `answer` stands in. Either way, a clue with no letters or digits is skipped (see
     // `has_letters_or_digits`).
     pub async fn create_clue(&self, answer: &str) -> anyhow::Result<Option<(String, ClueSource)>> {
         println!("creating clue for `{answer}`");
@@ -175,14 +176,14 @@ fn has_letters_or_digits(clue: &str) -> bool {
     clue.chars().any(char::is_alphanumeric)
 }
 
-// Chooses a clue for each of a puzzle's answers and, once every answer has one, writes the
-// puzzle's stage-3 file. An answer the clue bank already covers takes a clue from the bank; any
-// other answer gets a new clue, which joins the bank right away.
+// Chooses a clue for each of a puzzle's answers and, once every answer has one, writes the puzzle's
+// stage-3 file. An answer the clue bank already covers takes a clue from the bank; any other answer
+// gets a new clue, which joins the bank right away.
 //
 // Adding each new clue rereads and rewrites the whole bank, so when two commands write the bank at
 // the same moment, the later write drops the other command's change. `main` runs this step one
-// puzzle at a time, so the step never races itself. A tag that `edit_clues` renames while this
-// step runs can still go stale in the puzzle being written; the site build then reports it.
+// puzzle at a time, so the step never races itself. A tag that `edit_clues` renames while this step
+// runs can still go stale in the puzzle being written; the site build then reports it.
 pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage2.json").await?;
     let bank_path = clue_bank_path();
@@ -213,9 +214,9 @@ pub async fn add_chat(pindex: usize, client: &ClueClient) -> anyhow::Result<()> 
 // Writes new clues for answers. `ClueClient` writes them with a language model; the dry run takes
 // any writer, so a test can supply scripted clues in place of a model's.
 pub trait ClueWriter {
-    // Writes a new clue for `answer` and reports where it came from, or returns `None` when no
-    // clue can be found. The future is `Send`, so the chat stage can run it on Tokio's
-    // multi-threaded runtime.
+    // Writes a new clue for `answer` and reports where it came from, or returns `None` when no clue
+    // can be found. The future is `Send`, so the chat stage can run it on Tokio's multi-threaded
+    // runtime.
     fn write_clue(
         &self,
         answer: &str,
@@ -230,8 +231,8 @@ impl ClueWriter for ClueClient {
 
 // Shows how `client`'s model would clue a puzzle's answers, beside the clues the clue bank holds
 // for them, and saves nothing to the bank or the puzzle, so models can be compared without their
-// clues joining the bank. The reply cache still records the model's replies, so later runs with
-// the same model write the same clues.
+// clues joining the bank. The reply cache still records the model's replies, so later runs with the
+// same model write the same clues.
 pub async fn preview_chat(puzzle_index: usize, client: &ClueClient) -> anyhow::Result<()> {
     let puzzle = Puzzle::read(puzzle_index, "stage2.json").await?;
     let bank = ClueBank::read(&clue_bank_path()).await?;

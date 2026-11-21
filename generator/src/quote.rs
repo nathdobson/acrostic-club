@@ -119,9 +119,9 @@ impl Quote {
     //
     // - `Carpe diem.,Horace,"time, life",,,` holds the quote `Carpe diem.`, the source `Horace`,
     //   and the topics `time` and `life`.
-    // - `Veni, vidi, vici.,Julius Caesar,history,,,` splits its quote across three fields. The
-    //   last two fields are still the source and the topics, and the pieces before them rejoin,
-    //   with commas, into the quote.
+    // - `Veni, vidi, vici.,Julius Caesar,history,,,` splits its quote across three fields. The last
+    //   two fields are still the source and the topics, and the pieces before them rejoin, with
+    //   commas, into the quote.
     // - `Carpe diem.,Horace,,,` has no topics, so its two remaining fields are the quote and the
     //   source.
     // - `Veni, vidi, vici.,Julius Caesar,,,` splits its quote and has no topics. The pieces after
@@ -285,9 +285,9 @@ pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
 }
 
 // Checks that a reformatted quote, numbered `puzzle_number`, can make a puzzle. Fails when the
-// quote holds a character that a puzzle has no cell for, when the quote or its source falls
-// outside the length limits and the puzzle isn't allowlisted, or when the quote lacks letters that
-// the answers need to spell the source.
+// quote holds a character that a puzzle has no cell for, when the quote or its source falls outside
+// the length limits and the puzzle isn't allowlisted, or when the quote lacks letters that the
+// answers need to spell the source.
 fn check_quote(puzzle_number: usize, quote: &Quote) -> io::Result<()> {
     let letters = quote.letters()?;
     if !passes_length_limits(puzzle_number, &letters) {

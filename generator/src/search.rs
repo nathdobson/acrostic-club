@@ -161,8 +161,8 @@ impl Search {
         solution.set_word(i1, LetterSet::new());
         solution.set_word(i2, LetterSet::new());
         let mut ls = [self.source[i1], self.source[i2]];
-        // Put the two letters in alphabetical order, so that the queries for either order share
-        // one cache entry.
+        // Put the two letters in alphabetical order, so that the queries for either order share one
+        // cache entry.
         let flipped = ls[0] > ls[1];
         if flipped {
             ls.swap(0, 1);

@@ -8,14 +8,14 @@ use serde::{Deserialize, Serialize};
 // file.
 pub const CLUED_PUZZLE_FILE: &str = "stage3.json";
 
-// One puzzle entry: an answer, where its letters sit in the quote, and which clue it shows. A
-// field the entry doesn't know makes the entry fail to parse, so a stage file whose entries hold
-// clue text in a `clue` field fails loudly rather than reading as entries that name no clue.
+// One puzzle entry: an answer, where its letters sit in the quote, and which clue it shows. A field
+// the entry doesn't know makes the entry fail to parse, so a stage file whose entries hold clue
+// text in a `clue` field fails loudly rather than reading as entries that name no clue.
 #[derive(Serialize, Deserialize, Debug)]
 #[serde(deny_unknown_fields)]
 pub struct Clue {
-    // Names this entry's clue among the answer's clues in the clue bank (see `cluebank.rs`).
-    // Empty until the `chat` step chooses a clue.
+    // Names this entry's clue among the answer's clues in the clue bank (see `cluebank.rs`). Empty
+    // until the `chat` step chooses a clue.
     pub clue_tag: Option<String>,
     pub answer: String,
     pub answer_letters: String,
@@ -79,8 +79,8 @@ impl Puzzle {
     }
 }
 
-// Returns the index of every puzzle in the repository's `puzzles` folder, in increasing order.
-// Each puzzle's folder is named by its index.
+// Returns the index of every puzzle in the repository's `puzzles` folder, in increasing order. Each
+// puzzle's folder is named by its index.
 pub async fn puzzle_indices() -> anyhow::Result<Vec<usize>> {
     let puzzles_path = PACKAGE_PATH.join("puzzles");
     let mut directory_entries = tokio::fs::read_dir(&puzzles_path)

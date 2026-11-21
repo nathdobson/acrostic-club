@@ -671,8 +671,8 @@ fn puzzles_pick_only_among_an_answers_best_ranked_clues() {
         .clue_for_puzzle("nephew", 11)
         .expect("the answer should have clues");
 
-    // Only the two satisfying clues are candidates, and divided by two, the indices 10 and 11
-    // leave the remainders 0 and 1.
+    // Only the two satisfying clues are candidates, and divided by two, the indices 10 and 11 leave
+    // the remainders 0 and 1.
     assert_eq!("Sibling's son.", clue_for_puzzle_10.text());
     assert_eq!("Brother's boy.", clue_for_puzzle_11.text());
 }

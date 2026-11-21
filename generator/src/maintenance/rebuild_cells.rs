@@ -13,12 +13,12 @@ fn letter_positions(cells: &str) -> Vec<(usize, char)> {
         .collect()
 }
 
-// Rebuilds a puzzle's cells with the current `quote_to_cells`, moving each clue's indices to
-// follow the letters they point at.
+// Rebuilds a puzzle's cells with the current `quote_to_cells`, moving each clue's indices to follow
+// the letters they point at.
 //
-// Spaces, hyphens, and digits may appear, vanish, or move, but the letters must not change:
-// the clues' answers are spelled from them, so the rebuild fails if they do. A failed rebuild
-// leaves the puzzle as it was.
+// Spaces, hyphens, and digits may appear, vanish, or move, but the letters must not change: the
+// clues' answers are spelled from them, so the rebuild fails if they do. A failed rebuild leaves
+// the puzzle as it was.
 pub fn rebuild_cells(puzzle: &mut Puzzle) -> io::Result<()> {
     let invalid_data = |message: String| io::Error::new(ErrorKind::InvalidData, message);
     let Some(old_cells) = puzzle.quote_letters.as_deref() else {
@@ -67,8 +67,8 @@ pub fn rebuild_cells(puzzle: &mut Puzzle) -> io::Result<()> {
 // `quote_to_cells`: each file takes stage0.json's quote, since every stage copies its quote from
 // the stage before, and `rebuild_cells` lays the quote out anew. Rerunning the quote stage first
 // thus carries a change to stage 0, such as newly restored spaces, into a committed puzzle. The
-// function reads and rebuilds every stage before writing any, so a failed rebuild leaves the
-// puzzle as it was.
+// function reads and rebuilds every stage before writing any, so a failed rebuild leaves the puzzle
+// as it was.
 //
 // A puzzle with no stage1.json has no cells to rebuild, so the function returns the `NotFound`
 // error from reading it. The stage targets, such as `add_letters`, report a missing input file the

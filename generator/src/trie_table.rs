@@ -54,11 +54,11 @@ impl FlatTrieTable {
 }
 
 // Finds every pair of words, the first from `first_trie` and the second from `second_trie`, whose
-// letters together are a subset of `available_letters` and number at least `min_length`. Both
-// tries should hold each word's letters as both its key and its value. The search walks
-// `first_trie` once, for every first word whose letters are a subset of `available_letters`. Then,
-// for each first word, the search walks `second_trie` for the second words whose letters are a
-// subset of the letters left over.
+// letters together are a subset of `available_letters` and number at least `min_length`. Both tries
+// should hold each word's letters as both its key and its value. The search walks `first_trie`
+// once, for every first word whose letters are a subset of `available_letters`. Then, for each
+// first word, the search walks `second_trie` for the second words whose letters are a subset of the
+// letters left over.
 pub fn search_word_pairs(
     first_trie: &FlatTrie<LetterSet>,
     second_trie: &FlatTrie<LetterSet>,

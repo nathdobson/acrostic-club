@@ -34,12 +34,12 @@ impl<Req: Serialize, Resp: JsonSchema + Serialize + for<'de> Deserialize<'de>>
     // each time.
     //
     // The same request can still get a different reply. The scores are floating-point sums, whose
-    // rounding depends on how Ollama arranges the work: how many requests it runs together,
-    // whether it reuses the start of an earlier prompt, the hardware, and Ollama's own version. A
-    // shifted score can change which token a draw lands on, and the rest of the reply follows from
-    // that token. Setting the temperature to 0, which removes the draws, wouldn't help either:
-    // rounding can still reorder two nearly tied tokens. The replies `CacheClient` stores, not the
-    // seed, are what let a rerun reproduce a reply.
+    // rounding depends on how Ollama arranges the work: how many requests it runs together, whether
+    // it reuses the start of an earlier prompt, the hardware, and Ollama's own version. A shifted
+    // score can change which token a draw lands on, and the rest of the reply follows from that
+    // token. Setting the temperature to 0, which removes the draws, wouldn't help either: rounding
+    // can still reorder two nearly tied tokens. The replies `CacheClient` stores, not the seed, are
+    // what let a rerun reproduce a reply.
     pub fn seed(&mut self, seed: i32) -> &mut Self {
         self.seed = seed;
         self

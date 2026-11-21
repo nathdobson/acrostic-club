@@ -227,8 +227,8 @@ impl Step for Letter {
     fn backward_checked(start: Self, count: usize) -> Option<Self> {
         Letter::from_index((start.0 as usize).checked_sub(count)?)
     }
-    // On overflow, saturate at the end stepped past: then one jump of n
-    // steps matches n single steps, as `Step` requires.
+    // On overflow, saturate at the end stepped past: then one jump of n steps matches n single
+    // steps, as `Step` requires.
     fn forward_overflowing(start: Self, count: usize) -> (Self, bool) {
         match Self::forward_checked(start, count) {
             Some(letter) => (letter, false),

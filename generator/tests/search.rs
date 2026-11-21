@@ -60,8 +60,8 @@ fn list_puzzle_indices() -> anyhow::Result<Vec<usize>> {
     Ok(puzzle_indices)
 }
 
-// Reads the letters `add_answers` searches with: the quote's letters, and the source's letters
-// in order.
+// Reads the letters `add_answers` searches with: the quote's letters, and the source's letters in
+// order.
 async fn read_puzzle_letters(puzzle_index: usize) -> anyhow::Result<(LetterSet, Vec<Letter>)> {
     let puzzle = Puzzle::read(puzzle_index, "stage1.json").await?;
     let quote_letters = puzzle
@@ -77,9 +77,9 @@ async fn read_puzzle_letters(puzzle_index: usize) -> anyhow::Result<(LetterSet, 
     Ok((quote, source))
 }
 
-// Runs `add_answers`'s answer search, single-threaded, on a sample of puzzles. Prints how long
-// each puzzle took and the answers found, then the total time. Run this test on its own, so
-// other tests don't compete for the processor:
+// Runs `add_answers`'s answer search, single-threaded, on a sample of puzzles. Prints how long each
+// puzzle took and the answers found, then the total time. Run this test on its own, so other tests
+// don't compete for the processor:
 //
 // ```
 // cargo test --release --test search answer_searches_finish_on_sample_puzzles -- --ignored \

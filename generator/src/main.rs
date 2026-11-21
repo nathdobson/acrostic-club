@@ -39,10 +39,10 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             Some("dict") => build_dict().await?,
             Some("site") => build_site().await?,
             Some("turtle") => build_ontolex_turtle().await?,
-            // Records a person's edit of one clue's text, along with the person's satisfying
-            // review of it, renaming the clue's tag in the puzzles too when the tag changes. Only
-            // people run this command, since it credits every edit to a person: a model's edits go
-            // through `edit_clues` with the model as their source.
+            // Records a person's edit of one clue's text, along with the person's satisfying review
+            // of it, renaming the clue's tag in the puzzles too when the tag changes. Only people
+            // run this command, since it credits every edit to a person: a model's edits go through
+            // `edit_clues` with the model as their source.
             Some("edit-clue-as-person") => {
                 let EditClueArguments {
                     answer,

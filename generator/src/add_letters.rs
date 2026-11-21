@@ -57,8 +57,8 @@ fn marks_to_cells(
     }
 }
 
-// The cells that marks between two words show: one for each mark that shows a cell, though
-// several spaces in a row show as one.
+// The cells that marks between two words show: one for each mark that shows a cell, though several
+// spaces in a row show as one.
 fn cells_between_words(marks: &[Mark]) -> String {
     let mut cells = String::new();
     for cell in marks.iter().filter_map(|mark| mark.cell_between_words()) {

@@ -47,9 +47,9 @@ pub fn restore_lost_spaces(quote: &str) -> io::Result<String> {
 //
 // The marks between two words lost no space when one of them already shows a cell between the
 // words, as whitespace, a dash, or a slash does; when they sit inside a word, as the apostrophe
-// does in `don't`; or when they sit inside a number, as the colon does in `3:16`. A symbol beside
-// a number stays outside the range, since a space between the two would part them: for `17%of`,
-// the range is the empty `3..3`, just after the `%`.
+// does in `don't`; or when they sit inside a number, as the colon does in `3:16`. A symbol beside a
+// number stays outside the range, since a space between the two would part them: for `17%of`, the
+// range is the empty `3..3`, just after the `%`.
 fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
     let runs = split_into_runs(quote)?;
     let mut lost_spaces = vec![];
@@ -75,8 +75,8 @@ fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
         let shows_a_break_already = between_marks
             .iter()
             .any(|mark| mark.cell_between_words().is_some());
-        // No marks left between the words means that a symbol beside a number ran straight into
-        // the next word, as in `17%of`.
+        // No marks left between the words means that a symbol beside a number ran straight into the
+        // next word, as in `17%of`.
         let is_one_word =
             !between_marks.is_empty() && is_inside_word(between_marks, word_before, word_after);
         if shows_a_break_already || is_one_word {
@@ -89,9 +89,9 @@ fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
 
 // Whether marks between two words, none of which keeps the words apart, sit inside one word.
 //
-// Apostrophes, brackets, and a few symbols sit inside words: `don't`, `[T]he`, `f*ck`, `AT&T`.
-// So does a dot between single letters, as in `U.S.A.` Other punctuation between two words stands
-// in for a space or line break that the text lost, as in `end.Begin` or `love#life`.
+// Apostrophes, brackets, and a few symbols sit inside words: `don't`, `[T]he`, `f*ck`, `AT&T`. So
+// does a dot between single letters, as in `U.S.A.` Other punctuation between two words stands in
+// for a space or line break that the text lost, as in `end.Begin` or `love#life`.
 fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     let is_single_letter = |word: &str| {
         word.len() == 1
@@ -105,8 +105,8 @@ fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     }
 }
 
-// Chooses where a lost space goes among the marks at `lost_space`, a byte range of `quote`:
-// before the first mark that opens what follows, or else just after the marks.
+// Chooses where a lost space goes among the marks at `lost_space`, a byte range of `quote`: before
+// the first mark that opens what follows, or else just after the marks.
 fn choose_space_offset(
     quote: &str,
     lost_space: &Range<usize>,
@@ -140,10 +140,10 @@ impl QuotationMarkRole {
 }
 
 // Finds the straight quotation marks that open a quotation rather than close one, as their byte
-// offsets in `quote`: in `"Go,"he said`, just the first mark's offset, 0. A `'` between two
-// letters or digits is an apostrophe, as in `don't`, so it plays no part. The characters beside a
-// mark show its role where they can, as a space before it shows that it opens; any other mark
-// takes the role opposite to the mark beside it.
+// offsets in `quote`: in `"Go,"he said`, just the first mark's offset, 0. A `'` between two letters
+// or digits is an apostrophe, as in `don't`, so it plays no part. The characters beside a mark show
+// its role where they can, as a space before it shows that it opens; any other mark takes the role
+// opposite to the mark beside it.
 fn find_opening_straight_marks(quote: &str) -> HashSet<usize> {
     let characters: Vec<(usize, char)> = quote.char_indices().collect();
     let mut opening_offsets = HashSet::new();
@@ -177,14 +177,14 @@ fn find_opening_straight_marks(quote: &str) -> HashSet<usize> {
     opening_offsets
 }
 
-// The role that the characters beside a straight quotation mark show it plays, where they show
-// one. Each neighbor is `None` at the quote's edge. The first of these signs that applies decides:
+// The role that the characters beside a straight quotation mark show it plays, where they show one.
+// Each neighbor is `None` at the quote's edge. The first of these signs that applies decides:
 //
 // - Two marks side by side close one quotation and open the next, as in `"Is it?""Yes."`.
-// - A mark with whitespace or the quote's edge before it, and none after it, opens, as in `he
-//   said "Go`.
-// - A mark with whitespace or the quote's edge after it, and none before it, closes, as in `"Go,"
-//   he said`.
+// - A mark with whitespace or the quote's edge before it, and none after it, opens, as in
+//   `he said "Go`.
+// - A mark with whitespace or the quote's edge after it, and none before it, closes, as in
+//   `"Go," he said`.
 // - A mark just before punctuation that ends a sentence or clause closes, as in `"Go",he said`,
 //   since no quotation starts with that punctuation.
 fn shown_role(

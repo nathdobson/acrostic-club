@@ -8,10 +8,10 @@
 // A tag is built from the clue's first few meaningful words (see `meaningful_words` and
 // `candidate_tags`), so it reads as the clue it names. When another of the answer's clues opens
 // with the same meaningful words, the newer clue's tag takes more of its words until the two
-// differ: beside "one two three four", which has the tag `one-two-three`, "one two three four
-// five" gets `one-two-three-four`. Loading the bank checks every tag against its clue's text, the
-// way a checksum is checked: the tag must spell the text's opening meaningful words. So a tag
-// can't drift onto a different clue unnoticed.
+// differ: beside "one two three four", which has the tag `one-two-three`, "one two three four five"
+// gets `one-two-three-four`. Loading the bank checks every tag against its clue's text, the way a
+// checksum is checked: the tag must spell the text's opening meaningful words. So a tag can't drift
+// onto a different clue unnoticed.
 //
 // No tag can tell apart two clues whose meaningful words all match, as those of "Had company" and
 // "Had company?" do: such clues differ only in punctuation, capitals, or filler words. Choosing
@@ -103,8 +103,8 @@ pub fn clue_bank_path() -> PathBuf {
 // clue lack such words:
 //
 // - A clue made only of filler words, such as "As it is", keeps them instead.
-// - A clue with no letters or digits names its symbols instead (see `symbol_words`), so ":-)"
-//   gives `colon`, `hyphen`, and `rightparen`.
+// - A clue with no letters or digits names its symbols instead (see `symbol_words`), so ":-)" gives
+//   `colon`, `hyphen`, and `rightparen`.
 //
 // Fails only when the text is empty or only whitespace, since such a clue has nothing to name.
 fn meaningful_words(text: &str) -> anyhow::Result<Vec<String>> {
@@ -144,13 +144,13 @@ fn meaningful_words(text: &str) -> anyhow::Result<Vec<String>> {
 }
 
 // Returns the tags a clue with these meaningful words may carry, shortest first: its first
-// `TAG_WORD_COUNT` meaningful words joined by hyphens, such as `what-follows-battle`, then one
-// more word at a time up to all of them, such as `what-follows-battle-conflict`. A clue takes the
+// `TAG_WORD_COUNT` meaningful words joined by hyphens, such as `what-follows-battle`, then one more
+// word at a time up to all of them, such as `what-follows-battle-conflict`. A clue takes the
 // shortest tag that none of its answer's other clues has.
 //
 // The tags stored in the bank and in the puzzles all come from this function. Changing it,
-// `meaningful_words`, `TAG_WORD_COUNT`, `FILLER_WORDS`, or `SYMBOL_NAMES` therefore means
-// retagging the bank and the puzzles together.
+// `meaningful_words`, `TAG_WORD_COUNT`, `FILLER_WORDS`, or `SYMBOL_NAMES` therefore means retagging
+// the bank and the puzzles together.
 fn candidate_tags(words: &[String]) -> impl Iterator<Item = String> + '_ {
     let shortest_length = words.len().min(TAG_WORD_COUNT);
     (shortest_length..=words.len()).map(|length| words[..length].join("-"))
@@ -171,9 +171,9 @@ enum Placement {
     FreeTag { tag: String },
 }
 
-// Finds where `text` would go among `clues`, passing over the clue at `skipped_position`, such as
-// a clue whose text is being replaced. Texts in `arriving_texts`, such as the rest of an import,
-// also count toward `Placement::SameMeaningfulWords`.
+// Finds where `text` would go among `clues`, passing over the clue at `skipped_position`, such as a
+// clue whose text is being replaced. Texts in `arriving_texts`, such as the rest of an import, also
+// count toward `Placement::SameMeaningfulWords`.
 //
 // Fails only when the text is empty or only whitespace.
 fn place(
@@ -220,8 +220,8 @@ fn place(
     })
 }
 
-// Names the symbols of a clue that has no letters or digits, one word per symbol, such as
-// `colon` and `hyphen`. A symbol outside ASCII is named by its ASCII transliteration, so "—" gives
+// Names the symbols of a clue that has no letters or digits, one word per symbol, such as `colon`
+// and `hyphen`. A symbol outside ASCII is named by its ASCII transliteration, so "—" gives
 // `hyphen`, and "…" gives `period` three times. A symbol with no ASCII form, such as "𝄞", stands
 // for itself.
 fn symbol_words(text: &str) -> Vec<String> {
@@ -307,9 +307,9 @@ pub struct Review {
 }
 
 // A clue's rank among its answer's clues: a new puzzle picks only from the highest-ranked ones. The
-// ranks run from lowest to highest. An unreviewed clue ranks below a flat one, which a review
-// found accurate and fair, and above a flawed one, which a review found wanting: until someone
-// reviews it, it could prove either.
+// ranks run from lowest to highest. An unreviewed clue ranks below a flat one, which a review found
+// accurate and fair, and above a flawed one, which a review found wanting: until someone reviews
+// it, it could prove either.
 #[derive(Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord)]
 enum ClueRank {
     Flawed,
@@ -318,8 +318,8 @@ enum ClueRank {
     Satisfying,
 }
 
-// One clue in the bank. Its fields are private so that its tag always matches its text. A field
-// the bank doesn't know makes the bank fail to load, rather than vanishing at the next write.
+// One clue in the bank. Its fields are private so that its tag always matches its text. A field the
+// bank doesn't know makes the bank fail to load, rather than vanishing at the next write.
 #[derive(Serialize, Deserialize, Debug, Clone, PartialEq, Eq)]
 #[serde(deny_unknown_fields)]
 pub struct BankedClue {
@@ -349,8 +349,8 @@ impl BankedClue {
         &self.source
     }
 
-    // Returns the writer's note on how the clue works, such as "Reparses the letters as ABBA'S
-    // ID," or `None` when the writer left none.
+    // Returns the writer's note on how the clue works, such as "Reparses the letters as ABBA'S ID,"
+    // or `None` when the writer left none.
     pub fn writer_note(&self) -> Option<&str> {
         self.writer_note.as_deref()
     }
@@ -414,8 +414,8 @@ impl ClueBank {
         Ok(())
     }
 
-    // Parses the bank from JSON, checking that every tag matches its clue's text and that no
-    // answer has two clues with the same tag.
+    // Parses the bank from JSON, checking that every tag matches its clue's text and that no answer
+    // has two clues with the same tag.
     pub fn from_json(json: &str) -> anyhow::Result<ClueBank> {
         let clues_by_answer = parse_clues_by_answer(json)
             .context("the clue bank is not in the expected JSON form")?;
@@ -468,9 +468,9 @@ impl ClueBank {
     // Returns the answer's clue for the puzzle with this index, or `None` when the bank has no
     // clues for the answer. Only the answer's best-ranked clues are candidates: its satisfying
     // clues if it has any, else its flat ones, else its unreviewed ones, else its flawed ones. The
-    // index picks among the candidates, so puzzles that share an answer spread across them, while
-    // a puzzle picks the same clue on every run as long as the answer's clues and their reviews
-    // stay the same.
+    // index picks among the candidates, so puzzles that share an answer spread across them, while a
+    // puzzle picks the same clue on every run as long as the answer's clues and their reviews stay
+    // the same.
     pub fn clue_for_puzzle(&self, answer: &str, puzzle_index: usize) -> Option<&BankedClue> {
         let clues = self.clues_for(answer);
         let best_rank = clues.iter().map(BankedClue::rank).max()?;
@@ -482,12 +482,11 @@ impl ClueBank {
     }
 
     // Adds an unreviewed clue for an answer and returns it. When the bank already holds this text
-    // for the answer, returns that clue instead of adding it again. The clue takes the shortest
-    // tag its meaningful words allow that none of the answer's other clues has (see
-    // `candidate_tags`).
+    // for the answer, returns that clue instead of adding it again. The clue takes the shortest tag
+    // its meaningful words allow that none of the answer's other clues has (see `candidate_tags`).
     //
-    // Fails when another of the answer's clues has the same meaningful words, or when every tag
-    // the clue's meaningful words allow is taken.
+    // Fails when another of the answer's clues has the same meaningful words, or when every tag the
+    // clue's meaningful words allow is taken.
     pub fn add(
         &mut self,
         answer: &str,
@@ -592,8 +591,8 @@ impl ClueBank {
     // has, as in `add`. When that tag differs from the old one, every puzzle naming the clue must
     // switch to it; `edit_clues` updates the bank and those puzzles together.
     //
-    // Fails when the answer has no clue with this tag, when another of its clues has the new
-    // text's meaningful words, or when every tag those words allow is taken.
+    // Fails when the answer has no clue with this tag, when another of its clues has the new text's
+    // meaningful words, or when every tag those words allow is taken.
     pub fn edit(
         &mut self,
         answer: &str,
@@ -807,8 +806,8 @@ pub async fn edit_clues(edits: &[ClueEdit]) -> anyhow::Result<()> {
         new_tags.push(new_tag);
     }
 
-    // Every affected puzzle is read and retagged before any file is written, so a puzzle that
-    // fails to read leaves every file as it was.
+    // Every affected puzzle is read and retagged before any file is written, so a puzzle that fails
+    // to read leaves every file as it was.
     let mut retagged_puzzles = vec![];
     if !renames.is_empty() {
         for (index, mut puzzle) in read_clued_puzzles().await? {

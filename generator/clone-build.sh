@@ -67,16 +67,15 @@ clone() {
     # cp earlier on the `PATH`, which reads `-c` differently.
     /bin/cp -c -R "$1" "$2"
   else
-    # `--reflink=always` clones each file, and fails rather than copying in
-    # full where the filesystem can't clone.
+    # `--reflink=always` clones each file, and fails rather than copying in full
+    # where the filesystem can't clone.
     cp --reflink=always -R "$1" "$2"
   fi
 }
 
-# Clones take shape in a scratch folder and move into place once complete, so
-# an interrupted run never leaves a partial output that looks finished. The
-# `trap` deletes the scratch folder when the script exits, including after an
-# error.
+# Clones take shape in a scratch folder and move into place once complete, so an
+# interrupted run never leaves a partial output that looks finished. The `trap`
+# deletes the scratch folder when the script exits, including after an error.
 scratch=$(mktemp -d "$checkout_build/clone.XXXXXX") || exit 1
 trap 'rm -rf "$scratch"' EXIT
 

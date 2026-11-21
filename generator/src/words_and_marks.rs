@@ -1,6 +1,6 @@
-// Splits a quote's text into words and the runs of marks between them, and tells the kinds of
-// mark apart. Stage 0 reads the text this way to find where it lost spaces, and stage 1 to lay
-// it out as cells.
+// Splits a quote's text into words and the runs of marks between them, and tells the kinds of mark
+// apart. Stage 0 reads the text this way to find where it lost spaces, and stage 1 to lay it out as
+// cells.
 
 use crate::string::{Grapheme, GraphemeString};
 use itertools::Itertools;
@@ -9,8 +9,7 @@ use std::io::ErrorKind;
 use std::ops::Range;
 use unicode_script::{Script, UnicodeScript};
 
-// A stretch of a quote that is either all letters and digits or all punctuation and
-// whitespace.
+// A stretch of a quote that is either all letters and digits or all punctuation and whitespace.
 pub enum Run {
     // The cells of a word or a number.
     Word(String),
@@ -36,8 +35,8 @@ impl Run {
     }
 }
 
-// The cells of the words on either side of the run at `index`, each `None` at an end of the
-// quote. Runs alternate, so a run on either side of marks is a word.
+// The cells of the words on either side of the run at `index`, each `None` at an end of the quote.
+// Runs alternate, so a run on either side of marks is a word.
 pub fn words_beside(runs: &[Run], index: usize) -> (Option<&str>, Option<&str>) {
     let word_before = index
         .checked_sub(1)
@@ -71,10 +70,10 @@ impl Mark {
     // Classifies a grapheme between words. Fails on an unrecognized mark, since no cells are
     // defined for it.
     //
-    // The lists name each variant of a mark, such as each kind of dash, rather than matching
-    // marks by their ASCII form: `any_ascii` gives some dingbats and damaged characters the ASCII
-    // form of a mark, such as `*` for `★` and `?` for `�`, and those should fail the puzzle
-    // rather than pass as the substituted mark.
+    // The lists name each variant of a mark, such as each kind of dash, rather than matching marks
+    // by their ASCII form: `any_ascii` gives some dingbats and damaged characters the ASCII form of
+    // a mark, such as `*` for `★` and `?` for `�`, and those should fail the puzzle rather than
+    // pass as the substituted mark.
     fn from_grapheme(grapheme: &Grapheme) -> Result<Mark, String> {
         let mark = grapheme.string();
         if mark.chars().all(char::is_whitespace) {
@@ -99,12 +98,12 @@ impl Mark {
             // A space with a combining acute accent, which is `´` decomposed, serving as an
             // apostrophe. It looks just like `´`, so it's written as its code point.
             " \u{301}" => Mark::InsideWord,
-            // Quotation marks and the marks that serve as one, such as a diaeresis, including
-            // other languages' marks such as `«`; Spanish inverted marks; and other punctuation.
+            // Quotation marks and the marks that serve as one, such as a diaeresis, including other
+            // languages' marks such as `«`; Spanish inverted marks; and other punctuation.
             "\"" | "“" | "”" | "‟" | "ʺ" | "¨" | "❝" | "❞" | "«" | "»" | "„" | "," | ":" | ";"
             | "!" | "¡" | "?" | "¿" | "…" | "~" | "∼" | "≈" | "_" | "‗" => Mark::Other,
-            // A Greek question mark, which looks just like a semicolon, so it's written as its
-            // code point.
+            // A Greek question mark, which looks just like a semicolon, so it's written as its code
+            // point.
             "\u{37e}" => Mark::Other,
             // Operators and separators, including separator dots and bullets.
             "=" | "×" | "÷" | "^" | "<" | ">" | "|" | "\\" | "@" | "·" | "⸱" | "•" => {
@@ -121,14 +120,14 @@ impl Mark {
     // The cell that the mark shows between two words, if any: a space for whitespace or a slash,
     // and a hyphen for a dash. Any other mark shows no cell, so on its own it leaves the words
     // joined, as the apostrophe does in `don't`. That includes a period: one that ends a sentence
-    // normally has a space after it, and one without, as in `end.Begin`, stands in for a space
-    // that the text lost.
+    // normally has a space after it, and one without, as in `end.Begin`, stands in for a space that
+    // the text lost.
     pub fn cell_between_words(self) -> Option<char> {
         match self {
             Mark::Space | Mark::Slash => Some(' '),
             Mark::Dash => Some('-'),
-            // Listing each kind of mark, rather than matching the rest with `_`, makes the
-            // compiler ask what a newly added kind shows.
+            // Listing each kind of mark, rather than matching the rest with `_`, makes the compiler
+            // ask what a newly added kind shows.
             Mark::Dot | Mark::InsideWord | Mark::NumberSymbol(_) | Mark::Other => None,
         }
     }
@@ -136,9 +135,9 @@ impl Mark {
 
 // Splits a quote's text into runs, which alternate between words and marks.
 //
-// Fails on a quote that no puzzle can show: one holding a mark with no cells, such as `☥`; a
-// letter outside the Latin script, such as `ж`; or a symbol that would be spelled out as letters,
-// such as `❤`, which `any_ascii` writes as `heart`.
+// Fails on a quote that no puzzle can show: one holding a mark with no cells, such as `☥`; a letter
+// outside the Latin script, such as `ж`; or a symbol that would be spelled out as letters, such as
+// `❤`, which `any_ascii` writes as `heart`.
 pub fn split_into_runs(quote: &str) -> io::Result<Vec<Run>> {
     let graphemes = GraphemeString::from_str(quote);
     check_letters_are_latin(&graphemes)
@@ -151,8 +150,8 @@ pub fn split_into_runs(quote: &str) -> io::Result<Vec<Run>> {
         })
 }
 
-// Splits a quote into runs, which alternate between words and marks. Fails on a mark that no
-// cells are defined for, or on a symbol that would be spelled out as letters.
+// Splits a quote into runs, which alternate between words and marks. Fails on a mark that no cells
+// are defined for, or on a symbol that would be spelled out as letters.
 fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
     // The byte offset in the text where each grapheme starts, followed by the text's length.
     let mut grapheme_offsets = vec![0];
@@ -182,8 +181,8 @@ fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
                     .collect::<Result<_, _>>()?;
                 let text = graphemes.iter().copied().map(ascii_or_original).collect();
                 // A run's graphemes sit next to each other, so the offsets of its first grapheme
-                // through the grapheme just after it give where each mark starts and where the
-                // run ends.
+                // through the grapheme just after it give where each mark starts and where the run
+                // ends.
                 let first_index = *indices
                     .first()
                     .expect("a run should hold at least one grapheme");
@@ -201,9 +200,9 @@ fn quote_to_runs(graphemes: &GraphemeString) -> Result<Vec<Run>, String> {
         .collect()
 }
 
-// Fails on a grapheme holding a letter outside the Latin script, such as `ж` or `ع`. Its quote
-// is written in another script, which `any_ascii` would turn into a transliteration, or into no
-// cells at all where it has no ASCII form, as for `ا`.
+// Fails on a grapheme holding a letter outside the Latin script, such as `ж` or `ع`. Its quote is
+// written in another script, which `any_ascii` would turn into a transliteration, or into no cells
+// at all where it has no ASCII form, as for `ا`.
 fn check_letters_are_latin(graphemes: &GraphemeString) -> Result<(), String> {
     // Diacritics belong to the inherited script, and some letter-like marks, such as `ʹ`, to the
     // script that many writing systems share.
@@ -287,8 +286,8 @@ pub enum MarksPlacement {
     // Inside a number, as the `:` in `John 3:16`, where all the marks show as written: dropping
     // them would change the number, as `3:16` would become `316`.
     InsideNumber,
-    // Outside a number. A symbol beside a number still shows as written, for the same reason:
-    // `99%` would otherwise become `99`.
+    // Outside a number. A symbol beside a number still shows as written, for the same reason: `99%`
+    // would otherwise become `99`.
     OutsideNumber {
         // The symbols beside the number just before the run, as the `%` in `17% of`.
         number_suffix: String,
@@ -300,9 +299,9 @@ pub enum MarksPlacement {
     },
 }
 
-// Places a run of marks among the cells of the words on either side of it, each `None` at an end
-// of the quote: inside a number, as in `John 3:16`, or outside one, with the number symbols beside
-// a number split off, as in `17% of $5`.
+// Places a run of marks among the cells of the words on either side of it, each `None` at an end of
+// the quote: inside a number, as in `John 3:16`, or outside one, with the number symbols beside a
+// number split off, as in `17% of $5`.
 pub fn place_marks(
     marks: &[Mark],
     word_before: Option<&str>,

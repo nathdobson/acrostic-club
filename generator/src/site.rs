@@ -109,8 +109,8 @@ pub fn copy_dir<'a>(source: &'a Path, dest: &'a Path) -> BoxFuture<'a, io::Resul
 
 // Returns the path that reaches `original` from inside `folder`, working on the paths' text alone.
 //
-// The two paths must share a prefix, past which `folder` names only plain folders: a `..` or a
-// root there leaves no way to climb back to the shared prefix.
+// The two paths must share a prefix, past which `folder` names only plain folders: a `..` or a root
+// there leaves no way to climb back to the shared prefix.
 pub fn relative_path(original: &Path, folder: &Path) -> io::Result<PathBuf> {
     let shared_component_count = original
         .components()
@@ -177,8 +177,8 @@ pub struct PublishedClue {
 
 impl PublishedPuzzle {
     // Builds the published form of `puzzle`, looking up each clue's text in the bank. Fails when
-    // the puzzle has no entries yet, when an entry names no clue, or when an entry names a clue
-    // the bank lacks.
+    // the puzzle has no entries yet, when an entry names no clue, or when an entry names a clue the
+    // bank lacks.
     pub fn new(puzzle: Puzzle, bank: &ClueBank) -> anyhow::Result<PublishedPuzzle> {
         // Destructuring `Puzzle` and `Clue` in full, rather than reading their fields one by one,
         // makes the compiler flag a field later added to either struct, where the published form

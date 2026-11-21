@@ -2,9 +2,9 @@
 
 use any_ascii::any_ascii_char;
 
-// Rewrites the characters of a quote's text that don't show what they stand for: removes those
-// that carry no text, turns control characters into spaces, decodes punctuation garbled by a
-// wrong character encoding, and writes fraction characters as digits and a slash.
+// Rewrites the characters of a quote's text that don't show what they stand for: removes those that
+// carry no text, turns control characters into spaces, decodes punctuation garbled by a wrong
+// character encoding, and writes fraction characters as digits and a slash.
 pub fn repair_characters(quote: &str) -> String {
     let mut repaired = String::new();
     for character in quote.chars() {
@@ -31,8 +31,8 @@ pub fn repair_characters(quote: &str) -> String {
             | '\u{fe00}'..='\u{fe0f}'
             // A byte-order mark.
             | '\u{feff}' => {}
-            // Windows-1252 punctuation decoded as if it were Latin-1 becomes the character it
-            // was meant to be.
+            // Windows-1252 punctuation decoded as if it were Latin-1 becomes the character it was
+            // meant to be.
             '\u{92}' => repaired.push('’'),
             '\u{93}' => repaired.push('“'),
             '\u{94}' => repaired.push('”'),
@@ -44,9 +44,9 @@ pub fn repair_characters(quote: &str) -> String {
             // quote's text lost, as in `you will. \u{3}If`, so it becomes a space.
             _ if character.is_ascii_control() && !character.is_whitespace() => repaired.push(' '),
             _ => {
-                // A fraction character becomes digits and a slash, which then show as a number.
-                // A space keeps it apart from a whole number just before it, so that `9¾`
-                // becomes `9 3/4` rather than `93/4`.
+                // A fraction character becomes digits and a slash, which then show as a number. A
+                // space keeps it apart from a whole number just before it, so that `9¾` becomes
+                // `9 3/4` rather than `93/4`.
                 if let Some(fraction) = fraction_in_ascii(character) {
                     if repaired.ends_with(char::is_numeric) {
                         repaired.push(' ');
@@ -61,8 +61,7 @@ pub fn repair_characters(quote: &str) -> String {
     repaired
 }
 
-// The ASCII form of a fraction character, such as `1/2` for `½`, or `None` for any other
-// character.
+// The ASCII form of a fraction character, such as `1/2` for `½`, or `None` for any other character.
 fn fraction_in_ascii(character: char) -> Option<&'static str> {
     let ascii = any_ascii_char(character);
     let (numerator, denominator) = ascii.split_once('/')?;

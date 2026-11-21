@@ -46,8 +46,8 @@ impl ChatClient for RecordingClient {
     }
 }
 
-// Sends `rpc` to a client that answers with `reply`, returning the parsed reply and the
-// request's JSON.
+// Sends `rpc` to a client that answers with `reply`, returning the parsed reply and the request's
+// JSON.
 async fn send_recorded(
     rpc: &RpcBuilder<ClueRequest, ClueResponse>,
     reply: &str,

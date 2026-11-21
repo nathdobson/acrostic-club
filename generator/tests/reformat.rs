@@ -89,8 +89,8 @@ fn punctuation_standing_in_for_a_lost_space_gains_a_space() {
     assert_eq!(spaces_restored("end____Begin"), "end____ Begin");
     // A tilde before the author's name.
     assert_eq!(spaces_restored("end~Author"), "end ~Author");
-    // Unlike an asterisk, a number sign seldom censors a letter. Between two words, it more
-    // often starts a hashtag that lost the space before it.
+    // Unlike an asterisk, a number sign seldom censors a letter. Between two words, it more often
+    // starts a hashtag that lost the space before it.
     assert_eq!(spaces_restored("love#life"), "love #life");
 }
 

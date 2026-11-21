@@ -247,8 +247,8 @@ fn test_accented_quote_letter_supplies_its_plain_letter() {
     start_unallowlisted_puzzle(&quote).expect("the quote's `é` should supply the source's E");
 }
 
-// Reads the real quote file and the committed puzzles, so this test needs the Quotes-500K
-// submodule checked out.
+// Reads the real quote file and the committed puzzles, so this test needs the Quotes-500K submodule
+// checked out.
 #[test]
 #[ignore = "slow: parses the whole Quotes-500K file"]
 fn test_pinned_quote_file_matches_committed_puzzles() {

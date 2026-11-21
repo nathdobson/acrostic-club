@@ -34,8 +34,8 @@ fn full_width_digits_and_letters_become_ascii_cells() {
 
 #[test]
 fn unreformatted_punctuation_between_words_joins_them() {
-    // Such text should never reach the cells, since stage 0 restores the space first. The test
-    // pins down how the cells handle it anyway, not a result to rely on.
+    // Such text should never reach the cells, since stage 0 restores the space first. The test pins
+    // down how the cells handle it anyway, not a result to rely on.
     assert_eq!(cells_for("end.Begin"), "ENDBEGIN");
 }
 

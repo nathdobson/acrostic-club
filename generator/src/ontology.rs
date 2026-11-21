@@ -13,8 +13,8 @@ use std::sync::Arc;
 
 pub struct Ontology {
     pub graph: &'static Turtle,
-    // None when the dictionary has no word-form links (`ontolex:otherForm`), as in DBnary's
-    // English export as of November 2026.
+    // None when the dictionary has no word-form links (`ontolex:otherForm`), as in DBnary's English
+    // export as of November 2026.
     other_form: Option<TurtleIndex>,
     written_rep: TurtleIndex,
     canonical_form: TurtleIndex,

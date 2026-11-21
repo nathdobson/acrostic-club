@@ -148,11 +148,7 @@ async fn a_clue_client_writes_a_clue() -> anyhow::Result<()> {
     let client = ClueClient::new(cleanup_sender, &model).await?;
 
     for word in &[
-        // "extant", "netball",
-        // "nathan",
-        // "andrew", "john", "hindwings"
-        // "dudley",
-        // "atkinson",
+        // "extant", "netball", "nathan", "andrew", "john", "hindwings" "dudley", "atkinson",
         // "howell",
         "india's",
     ] {
