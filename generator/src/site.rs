@@ -1,5 +1,5 @@
 use std::io;
-use std::io::{ErrorKind, Write};
+use std::io::ErrorKind;
 use std::path::{Component, Path, PathBuf};
 
 use anyhow::{Context, anyhow};
@@ -26,16 +26,10 @@ struct PuzzleLink {
     url: String,
 }
 
+// Writes `puzzles.json`, the list of puzzles that the player shows, linking each puzzle file in
+// `build/site/puzzles`.
 async fn build_index() -> io::Result<()> {
     let mut index = PuzzleIndex { links: vec![] };
-    let mut f = vec![];
-    let f = &mut f;
-    writeln!(f, "<!DOCTYPE html>")?;
-    writeln!(f, "<html>")?;
-    writeln!(f, "<head>")?;
-    writeln!(f, "<title>Acrostic Puzzles</title>")?;
-    writeln!(f, "</head>")?;
-    writeln!(f, "<body>")?;
     let puzzles_folder = PACKAGE_PATH.join("build/site/puzzles");
     let mut d = tokio::fs::read_dir(&puzzles_folder)
         .await
@@ -68,20 +62,8 @@ async fn build_index() -> io::Result<()> {
             name: stem.to_string(),
             url: format!("./puzzles/{name}"),
         });
-        writeln!(
-            f,
-            "<p><a href=\"./index.html?puzzle=./puzzles/{name}\" >{name}</a></p>"
-        )?;
     }
     index.links.sort();
-    writeln!(
-        f,
-        "<p><a href=\"./ACKNOWLEDGEMENTS.txt\">ACKNOWLEDGEMENTS</a></p>"
-    )?;
-    writeln!(f, "<p><a href=\"./LICENSE.txt\">LICENSE</a></p>")?;
-    writeln!(f, "</body>")?;
-    writeln!(f, "</html>")?;
-    // write_path(&PACKAGE_PATH.join("build/site/index.html"), f).await?;
     write_path(
         &PACKAGE_PATH.join("build/site/puzzles.json"),
         serde_json::to_string(&index)?.as_bytes(),
