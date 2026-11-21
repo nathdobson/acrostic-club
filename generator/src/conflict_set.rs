@@ -50,7 +50,6 @@ impl ConflictSet {
     }
     pub fn add_written(&mut self, written: Written) {
         if self.writtens.insert(written) {
-            // self.conflicts.insert(written.0);
             for form in self.ontology.written_rep_of(written) {
                 self.add_form(form);
             }
@@ -58,7 +57,6 @@ impl ConflictSet {
     }
     pub fn add_form(&mut self, form: Form) {
         if self.forms.insert(form) {
-            // self.conflicts.insert(form.0);
             for x in self.ontology.canonical_form_of(form) {
                 self.add_lexical(x);
             }
@@ -70,7 +68,6 @@ impl ConflictSet {
     pub fn add_lexical(&mut self, lexical: Lexical) {
         if self.lexicals.insert(lexical) {
             self.add_lexical_down(lexical);
-            // self.conflicts.insert(lexical.0);
             let (etyms, pages) = self.ontology.describes_of(lexical);
             for etym in etyms {
                 self.add_etymology(etym);
@@ -245,19 +242,5 @@ impl Debug for ConflictSet {
             )
             .field("terminals", &self.terminals)
             .finish()
-        // ontology: Arc<Ontology>,
-        // origins: HashSet<String>,
-        // writtens: HashSet<Written>,
-        // forms: HashSet<Form>,
-        // lexicals: HashSet<Lexical>,
-        // etyms: HashSet<Etymology>,
-        // relateds: HashSet<Etymology>,
-        // pages: HashSet<Page>,
-        // etyms_down: HashSet<Etymology>,
-        // pages_down: HashSet<Page>,
-        // lexicals_down: HashSet<Lexical>,
-        // writtens_down: HashSet<Written>,
-        // forms_down: HashSet<Form>,
-        // terminals: HashSet<String>,
     }
 }

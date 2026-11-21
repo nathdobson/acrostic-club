@@ -92,13 +92,5 @@ impl<
         };
         let output: &'a anyhow::Result<V> = cell.get_or_init(spawn_transparent(fut)).await;
         Ok(output.clone_error()?)
-        // let this = self.clone();
-        // let once_lock: Arc<AsyncOnceLock<anyhow::Result<Arc<V>>>> = self.map.lock().entry(key.clone()).or_default().clone();
-        // let result = once_lock.get_or_init(|| async move {
-        //     let value = value.await?;
-        //     this.sender.as_ref().unwrap().send(KeyValueEntry { key, value: value.clone() }).ok().unwrap();
-        //     Ok(Arc::new(value))
-        // }).await;
-        // Ok(result.clone_error()?.clone())
     }
 }

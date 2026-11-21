@@ -190,28 +190,6 @@ impl Ontology {
             .chain(set.origins().map(|x| x.to_string()))
             .collect()
     }
-    // pub fn get_conflict_keys(&self, x: &str) -> Vec<&str> {
-    //     let rep = self.find_written(x).unwrap();
-    //     let forms = self.written_rep_of(rep).into_iter().collect::<HashSet<_>>();
-    //     println!("{:?}", self.graph.debug_all(forms.iter().map(|x| x.0)));
-    //     let les = forms.into_iter().flat_map(|f| self.canonical_form_of(f)).collect::<HashSet<_>>();
-    //     println!("{:?}", self.graph.debug_all(les.iter().map(|x| x.0)));
-    //     let mut ees = HashSet::new();
-    //     let mut ps = HashSet::new();
-    //     for le in les {
-    //         let (ees1, ps1) = self.describes_of(le);
-    //         for ee in ees1 { ees.insert(ee); }
-    //         for p in ps1 { ps.insert(p); }
-    //     }
-    //     println!("{:?}", self.graph.debug_all(ees.iter().map(|x| x.0)));
-    //     println!("{:?}", self.graph.debug_all(ps.iter().map(|x| x.0)));
-    //     let ers = ees.into_iter().flat_map(|ee| self.etym_related_to(ee)).collect::<HashSet<_>>();
-    //     println!("{:?}", self.graph.debug_all(ers.iter().map(|x| x.0)));
-    //     let les2 = ps.into_iter().flat_map(|p| self.derived_from(p)).collect::<HashSet<_>>();
-    //     println!("{:?}", self.graph.debug_all(ps.iter().map(|x| x.0)));
-    //
-    //     // les.into_iter().chain(les2)
-    // }
 }
 
 #[derive(Debug, Copy, Clone, Eq, Ord, PartialEq, PartialOrd, Hash)]

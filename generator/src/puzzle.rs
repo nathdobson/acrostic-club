@@ -8,26 +8,6 @@ use serde::{Deserialize, Serialize};
 // file.
 pub const CLUED_PUZZLE_FILE: &str = "stage3.json";
 
-// #[derive(Serialize, Deserialize, Debug)]
-// pub struct GivenCell {
-//     pub contents: String,
-//     pub visible: bool,
-// }
-//
-// #[derive(Serialize, Deserialize, Debug)]
-// pub struct EmptyCell {
-//     pub letter: Letter,
-//     pub content: Option<String>,
-//     pub clue_index: Option<usize>,
-//     pub clue_offset: Option<usize>,
-// }
-//
-// #[derive(Serialize, Deserialize, Debug)]
-// pub enum Cell {
-//     Given(GivenCell),
-//     Empty(EmptyCell),
-// }
-
 // One puzzle entry: an answer, where its letters sit in the quote, and which clue it shows. A
 // field the entry doesn't know makes the entry fail to parse, so a stage file whose entries hold
 // clue text in a `clue` field fails loudly rather than reading as entries that name no clue.

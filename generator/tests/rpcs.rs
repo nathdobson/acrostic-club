@@ -112,7 +112,6 @@ async fn a_reply_is_parsed_into_the_response() -> anyhow::Result<()> {
 #[tokio::test]
 #[ignore = "needs a running local language model"]
 async fn a_clue_request_returns_clues() -> anyhow::Result<()> {
-    // let ollama = Ollama::default();
     let model = env::var("ACROSTIC_TEST_MODEL").unwrap_or(DEFAULT_MODEL_NAME.to_string());
     let client = BaseClient::new().await?;
     let answer = "nathan";

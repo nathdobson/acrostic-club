@@ -17,8 +17,6 @@ pub struct FlatTrieTable {
 pub static FLAT_TRIE_TABLE: LazyLock<
     AsyncLazyLock<JoinTransparent<anyhow::Result<FlatTrieTable>>>,
 > = LazyLock::new(|| AsyncLazy::new(spawn_transparent(FlatTrieTable::new())));
-// AsyncStaticLock<anyhow::Result<FlatTrieTable>> =
-//     AsyncStaticLock::new(async { FlatTrieTable::new().await });
 
 impl FlatTrieTable {
     // Loads the dictionary and builds the tries from it. Building takes a few hundredths of a

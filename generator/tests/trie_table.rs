@@ -1,18 +1,8 @@
-// Tests for the `trie_table` module. The first test below is commented out because it doesn't
-// compile: it calls `FlatTrieTable::new` synchronously, but that constructor is private and async.
+// Tests for the `trie_table` module.
 
 use acrostic_core::letter::LetterSet;
 use acrostic_generator::trie::FlatTrie;
 use acrostic_generator::trie_table;
-
-// #[test]
-// fn test_flat_trie_table() {
-//     let table = FlatTrieTable::new();
-//     for x in table.tries.iter() {
-//         println!("{:?}", x.0);
-//         format!("{:?}", x.1);
-//     }
-// }
 
 // Builds a trie that holds each word's letters as both its key and its value.
 fn build_letter_trie(words: &[&str]) -> Box<FlatTrie<LetterSet>> {

@@ -6,8 +6,6 @@ use std::path::{Path, PathBuf};
 use std::sync::LazyLock;
 use std::{env, io};
 
-use acrostic_core::letter::LetterSet;
-
 pub mod add_letters;
 pub mod banned;
 pub mod cluebank;
@@ -72,22 +70,4 @@ pub async fn write_path(path: &Path, x: &[u8]) -> io::Result<()> {
     tokio::fs::write(path, x)
         .await
         .map_err(error_with_path("write", path))
-}
-
-const QUOTE: &str = concat!(
-    "And you've got to put your bodies upon the gears and ",
-    "upon the wheels, upon the levers, ",
-    "upon all the apparatus, and you've got to make it stop!",
-    "...",
-    "unless you're free the machine will be prevented from working at all",
-);
-
-const AUTHOR_TITLE: &str = concat!("Savio, Sprout Hall Address");
-
-fn quote_letters() -> LetterSet {
-    LetterSet::from_str(QUOTE)
-}
-
-fn author_title_letters() -> LetterSet {
-    LetterSet::from_str(AUTHOR_TITLE)
 }

@@ -216,16 +216,6 @@ impl<V: Clone> FlatTrie<V> {
             }
         }
     }
-
-    // pub fn new_box<A: Allocator>(mut b: Box<[FlatTrieEntry<K, V>], A>) -> Box<Self, A> {
-    //     Self::build(&mut *b);
-    //     Self::new_unchecked_box(b)
-    // }
-    // pub fn new_mut(mut b: &mut [FlatTrieEntry<K, V>]) -> &mut Self {
-    //     Self::build(&mut *b);
-    //     Self::new_unchecked_mut(b)
-    // }
-    // fn build(this: &mut [FlatTrieEntry<K, V>]) { todo!() }
 }
 
 struct FlatTrieBuilder<V> {
