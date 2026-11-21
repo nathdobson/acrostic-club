@@ -7,9 +7,6 @@ such as a commit message or a code comment.
 
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
-- [ ] **Skip quotes another puzzle already uses** — some quotes appear in
-      several records, so two puzzle numbers can yield the same puzzle, as
-      415441 and 417219 do.
 - [ ] **Revisit the 15,000-word cap on the tries** — the word-pair trie
       likely held the cap down; weigh how many more puzzles a higher cap
       solves against more obscure answers and slower searches.

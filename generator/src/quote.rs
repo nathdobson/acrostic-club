@@ -1,3 +1,5 @@
+use std::cmp::Reverse;
+use std::collections::HashMap;
 use std::io::{self, ErrorKind, Read};
 use std::iter;
 use std::ops::RangeInclusive;
@@ -45,8 +47,8 @@ pub static QUOTES: LazyLock<AsyncLazyLock<JoinTransparent<io::Result<Vec<Quote>>
 // where that parser put it.
 //
 // The list fits the Quotes-500K submodule at commit b82f2b88. Another commit of the submodule may
-// need a different list; `test_pinned_quote_file_matches_committed_puzzles` catches one that no
-// longer fits.
+// need a different list; `test_quote_file_matches_committed_puzzles` catches one that no longer
+// fits.
 #[rustfmt::skip]
 const PINNED_UNNUMBERED_RECORDS: &[usize] = &[
     // Merged with record 29,312 by a backslash after this record's opening quotation mark.
@@ -220,12 +222,19 @@ impl QuoteLetters {
 // How many of each letter `text` holds, read as a puzzle reads them: `é` counts as an E.
 fn count_letters(text: &str) -> LetterMap<usize> {
     let mut counts = LetterMap::new();
-    for byte in any_ascii(text).bytes() {
-        if let Ok(letter) = Letter::new(byte) {
-            counts[letter] += 1;
-        }
+    for letter in letters_in_order(text) {
+        counts[letter] += 1;
     }
     counts
+}
+
+// The letters of `text` in order, read as a puzzle reads them: "WEREALL" for "We’re all", and an E
+// for `é`.
+fn letters_in_order(text: &str) -> impl Iterator<Item = Letter> {
+    any_ascii(text)
+        .into_bytes()
+        .into_iter()
+        .filter_map(|byte| Letter::new(byte).ok())
 }
 
 // How many letters `counts` holds in all.
@@ -367,10 +376,108 @@ fn check_quote(puzzle_number: usize, quote: &Quote) -> io::Result<()> {
     Ok(())
 }
 
-// Starts the puzzle numbered `pindex` from its quote, and writes it to stage0.json.
-pub async fn add_quote(pindex: usize) -> io::Result<()> {
-    let quotes = QUOTES.get().await.clone_error_static()?;
-    let puzzle = start_puzzle(pindex, &RepairedQuote::new(&quotes[pindex]))?;
-    puzzle.write(pindex, "stage0.json").await?;
+// The quotes that the quote file holds under several puzzle numbers, and which of their copies are
+// duplicates. A quote should make only one puzzle, so stage 0 skips every duplicate.
+//
+// Copies of a quote can differ in spacing, punctuation, capitalization, garbled characters, and
+// source, so copies match by their letters in order alone. For example, records 27 and 540 both
+// hold Robert Fulghum's quote, one as "We’re all a little weird" and the other with a straight
+// apostrophe and extra spaces.
+//
+// One copy of each quote is the primary copy, and every other copy is a duplicate. No puzzle may be
+// made from a duplicate; only from the primary copy. The primary copy is the one whose source holds
+// the most letters, since that source is likely the most complete: "C.S. Lewis, Mere Christianity"
+// rather than just "C. S. Lewis". Puzzle numbers are used as an arbitrary tiebreaker. A duplicate
+// stays skipped even when its primary copy can't generate a puzzle, as when that copy's source runs
+// too long: a less complete source never generates the puzzle instead.
+pub struct RepeatedQuotes {
+    // For each duplicate's puzzle number, the puzzle number of its primary copy.
+    primary_puzzle_numbers: HashMap<usize, usize>,
+}
+
+impl RepeatedQuotes {
+    // Finds the duplicates among `quotes`, indexed by puzzle number. The quotes arrive repaired, so
+    // a garbled copy matches a clean one.
+    pub fn new(quotes: &[RepairedQuote]) -> Self {
+        let mut puzzle_numbers_by_letters: HashMap<Vec<Letter>, Vec<usize>> = HashMap::new();
+        for (puzzle_number, quote) in quotes.iter().enumerate() {
+            puzzle_numbers_by_letters
+                .entry(letters_in_order(&quote.quote).collect())
+                .or_default()
+                .push(puzzle_number);
+        }
+        let mut primary_puzzle_numbers = HashMap::new();
+        for copy_puzzle_numbers in puzzle_numbers_by_letters.into_values() {
+            // Skip over quotes with no duplicates.
+            if copy_puzzle_numbers.len() < 2 {
+                continue;
+            }
+            // The copy with the most source letters wins, and the lowest number breaks a tie.
+            let primary_puzzle_number = copy_puzzle_numbers
+                .iter()
+                .copied()
+                .min_by_key(|&puzzle_number| {
+                    let source_length = letters_in_order(&quotes[puzzle_number].source).count();
+                    (Reverse(source_length), puzzle_number)
+                })
+                .expect("a repeated quote should have at least two copies");
+            for puzzle_number in copy_puzzle_numbers {
+                if puzzle_number != primary_puzzle_number {
+                    primary_puzzle_numbers.insert(puzzle_number, primary_puzzle_number);
+                }
+            }
+        }
+        Self {
+            primary_puzzle_numbers,
+        }
+    }
+
+    // The puzzle number of the primary copy that the quote numbered `puzzle_number` duplicates,
+    // when that quote is a duplicate: `Some(195970)` for record 347697, a garbled copy of record
+    // 195970's quote under the same source. Gives `None` for a primary copy, and for a quote with
+    // no duplicates.
+    pub fn duplicate_of(&self, puzzle_number: usize) -> Option<usize> {
+        self.primary_puzzle_numbers.get(&puzzle_number).copied()
+    }
+}
+
+// The quote file's quotes, ready for stage 0: each repaired once, with the duplicates among them
+// found. Stage 0 starts puzzles in three steps:
+//
+// 1. Repair every quote and its source, once.
+// 2. Find the duplicate quotes.
+// 3. Start a puzzle from each requested quote that isn't a duplicate.
+//
+// `QuoteCatalog::load` takes the first two steps, and `add_quote` the third.
+pub struct QuoteCatalog {
+    // The repaired quotes, indexed by puzzle number.
+    quotes: Vec<RepairedQuote>,
+    repeated_quotes: RepeatedQuotes,
+}
+
+impl QuoteCatalog {
+    // Repairs the quotes that `global quotes` wrote, and finds the duplicates among them.
+    pub async fn load() -> io::Result<Self> {
+        let quotes = QUOTES.get().await.clone_error_static()?;
+        let quotes: Vec<RepairedQuote> = quotes.iter().map(RepairedQuote::new).collect();
+        let repeated_quotes = RepeatedQuotes::new(&quotes);
+        Ok(Self {
+            quotes,
+            repeated_quotes,
+        })
+    }
+}
+
+// Starts the puzzle numbered `puzzle_number` from its quote in `quote_catalog`, and writes the
+// puzzle to stage0.json. Fails when the quote is a duplicate, or when it can't make a puzzle.
+pub async fn add_quote(puzzle_number: usize, quote_catalog: &QuoteCatalog) -> io::Result<()> {
+    if let Some(primary_puzzle_number) = quote_catalog.repeated_quotes.duplicate_of(puzzle_number) {
+        return Err(io::Error::new(
+            ErrorKind::InvalidInput,
+            format!("unusable quote: a duplicate of puzzle {primary_puzzle_number}'s quote"),
+        ));
+    }
+    let puzzle = start_puzzle(puzzle_number, &quote_catalog.quotes[puzzle_number])?;
+    puzzle.write(puzzle_number, "stage0.json").await?;
     Ok(())
 }

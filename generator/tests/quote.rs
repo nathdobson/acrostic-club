@@ -4,8 +4,8 @@ use std::io;
 use acrostic_generator::PACKAGE_PATH;
 use acrostic_generator::puzzle::Puzzle;
 use acrostic_generator::quote::{
-    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, RepairedQuote, parse_pinned_quote_file,
-    parse_quotes, start_puzzle,
+    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, RepairedQuote, RepeatedQuotes,
+    parse_pinned_quote_file, parse_quotes, start_puzzle,
 };
 
 // Parses `csv` with every record numbered by its index.
@@ -275,15 +275,18 @@ fn test_accented_quote_letter_supplies_its_plain_letter() {
     start_unallowlisted_puzzle(&quote).expect("the quote's `é` should supply the source's E");
 }
 
-// Reads the real quote file and the committed puzzles, so this test needs the Quotes-500K submodule
-// checked out.
-#[test]
-#[ignore = "slow: parses the whole Quotes-500K file"]
-fn test_pinned_quote_file_matches_committed_puzzles() {
+// Reads and parses the real quote file, which the Quotes-500K submodule holds.
+fn read_quote_file() -> Vec<Quote> {
     let compressed = fs::read(PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br"))
         .expect("the Quotes-500K submodule should be checked out");
+    parse_pinned_quote_file(&compressed).expect("the quote file should parse")
+}
 
-    let quotes = parse_pinned_quote_file(&compressed).expect("the pinned quote file should parse");
+// Reads the real quote file and the committed puzzles.
+#[test]
+#[ignore = "slow: parses the whole Quotes-500K file"]
+fn test_quote_file_matches_committed_puzzles() {
+    let quotes = read_quote_file();
 
     let puzzle_directories =
         fs::read_dir(PACKAGE_PATH.join("puzzles")).expect("puzzles/ should exist");
@@ -516,7 +519,7 @@ fn is_published(puzzle_number: usize) -> bool {
 }
 
 // Reads the quote and source stored in a committed puzzle's `stage0.json`, which
-// `test_pinned_quote_file_matches_committed_puzzles` checks against the quote file.
+// `test_quote_file_matches_committed_puzzles` checks against the quote file.
 fn read_committed_quote(puzzle_number: usize) -> Quote {
     let path = PACKAGE_PATH.join(format!("puzzles/{puzzle_number}/stage0.json"));
     let stage0 = fs::read_to_string(&path)
@@ -527,6 +530,137 @@ fn read_committed_quote(puzzle_number: usize) -> Quote {
         quote: puzzle.quote,
         source: puzzle.source,
     }
+}
+
+// Repairs `quotes`, indexed by puzzle number, and finds the duplicates among them, as stage 0 does.
+fn find_repeated_quotes(quotes: &[Quote]) -> RepeatedQuotes {
+    let repaired_quotes: Vec<RepairedQuote> = quotes.iter().map(RepairedQuote::new).collect();
+    RepeatedQuotes::new(&repaired_quotes)
+}
+
+#[test]
+fn test_later_copy_of_a_quote_is_a_duplicate_of_the_earlier_one() {
+    let quotes = [
+        build_quote("Lola sat alone.", "Al Stone"),
+        build_quote("Lola sat alone.", "Al Stone"),
+    ];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(0), None);
+    assert_eq!(repeated_quotes.duplicate_of(1), Some(0));
+}
+
+#[test]
+fn test_copies_differing_in_spacing_punctuation_and_case_are_duplicates() {
+    let quotes = [
+        build_quote("We’re all a little weird.", "Al Weir"),
+        build_quote("WE'RE  ALL A LITTLE WEIRD", "Al Weir"),
+    ];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(1), Some(0));
+}
+
+#[test]
+fn test_garbled_copy_of_a_quote_is_a_duplicate() {
+    // "â€™" is `’` misread from UTF-8 as Windows-1252.
+    let garbled_copy = build_quote("We’re all a little weird.", "Al Weir");
+    let quotes = [
+        build_quote("We’re all a little weird.", "Al Weir"),
+        Quote {
+            quote: garbled_copy.quote.replace('’', "â€™"),
+            ..garbled_copy
+        },
+    ];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(1), Some(0));
+}
+
+#[test]
+fn test_copies_with_different_sources_are_duplicates() {
+    // Padding gives both sources 24 letters, so the higher-numbered copy is the duplicate.
+    let quotes = [
+        build_quote("Lola sat alone.", "Al Stone"),
+        build_quote("Lola sat alone.", "Stan Lo"),
+    ];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(1), Some(0));
+}
+
+#[test]
+fn test_quotes_with_different_letters_are_not_duplicates() {
+    let quotes = [
+        build_quote("Lola sat alone.", "Al Stone"),
+        build_quote("Lola sat atone.", "Al Stone"),
+    ];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(1), None);
+}
+
+#[test]
+fn test_copy_with_fewer_source_letters_is_the_duplicate() {
+    let quotes = [
+        Quote {
+            quote: "Lola sat alone.".to_string(),
+            source: "Al Stone".to_string(),
+        },
+        Quote {
+            quote: "Lola sat alone.".to_string(),
+            source: "Al Stone, Lone Seas".to_string(),
+        },
+    ];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(0), Some(1));
+}
+
+#[test]
+fn test_usable_copy_is_a_duplicate_of_an_unusable_copy_with_a_fuller_source() {
+    // The fuller copy's source holds 28 letters, beyond a puzzle's limit of 26.
+    let usable_copy = build_quote("Lola sat alone.", "Al Stone");
+    let fuller_copy = Quote {
+        quote: usable_copy.quote.clone(),
+        source: "Al Stone, Lone Tales Atone Sat Lots".to_string(),
+    };
+    let quotes = [usable_copy, fuller_copy];
+
+    let repeated_quotes = find_repeated_quotes(&quotes);
+
+    assert_eq!(repeated_quotes.duplicate_of(0), Some(1));
+}
+
+#[test]
+#[ignore = "slow: parses the whole Quotes-500K file"]
+fn test_no_committed_puzzle_is_a_duplicate() {
+    let repeated_quotes = find_repeated_quotes(&read_quote_file());
+
+    let duplicate_puzzles: Vec<(usize, usize)> = committed_puzzle_numbers()
+        .into_iter()
+        .filter_map(|puzzle_number| {
+            let primary_puzzle_number = repeated_quotes.duplicate_of(puzzle_number)?;
+            Some((puzzle_number, primary_puzzle_number))
+        })
+        .collect();
+
+    assert_eq!(duplicate_puzzles, Vec::<(usize, usize)>::new());
+}
+
+#[test]
+#[ignore = "slow: parses the whole Quotes-500K file"]
+fn test_garbled_copy_in_the_quote_file_is_a_duplicate_of_its_clean_copy() {
+    // Record 347697 holds record 195970's quote with its `’` and `”` garbled as "â€™" and "â€�".
+    let repeated_quotes = find_repeated_quotes(&read_quote_file());
+
+    assert_eq!(repeated_quotes.duplicate_of(347_697), Some(195_970));
 }
 
 #[test]

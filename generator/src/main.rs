@@ -15,7 +15,7 @@ use acrostic_generator::command_line::{
 use acrostic_generator::dict::build_dict;
 use acrostic_generator::llm::DEFAULT_MODEL_NAME;
 use acrostic_generator::maintenance::rebuild_cells::rebuild_cells_in_files;
-use acrostic_generator::quote::{add_quote, build_quotes};
+use acrostic_generator::quote::{QuoteCatalog, add_quote, build_quotes};
 use acrostic_generator::search::add_answers;
 use acrostic_generator::site::build_site;
 use acrostic_generator::turtle::db::build_ontolex_turtle;
@@ -86,6 +86,13 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             } else {
                 None
             };
+            // Repairing the quotes and finding the duplicates among them takes a pass over the
+            // whole quote list, which only the quote stage needs.
+            let quote_catalog = if target == "quote" {
+                Some(QuoteCatalog::load().await?)
+            } else {
+                None
+            };
             let concurrency = match target.deref() {
                 "chat" => 1,
                 _ => 1,
@@ -94,10 +101,16 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                 .map(|puzzle| {
                     let target = &target;
                     let client = &client;
+                    let quote_catalog = &quote_catalog;
                     async move {
                         let e: anyhow::Result<()> = async {
                             match target.deref() {
-                                "quote" => add_quote(puzzle).await?,
+                                "quote" => {
+                                    let quote_catalog = quote_catalog
+                                        .as_ref()
+                                        .expect("the quote stage should have loaded the catalog");
+                                    add_quote(puzzle, quote_catalog).await?
+                                }
                                 "letters" => add_letters(puzzle).await?,
                                 "answers" => add_answers(puzzle).await?,
                                 "chat" => {
