@@ -125,7 +125,6 @@ impl Search {
                 .count()
                 .clamp(0, found.len() - 1);
             let selected = found[selected];
-            // let selected = *found.choose(&mut solution.rng).unwrap();
             solution.set_word(index, selected);
             return true;
         }
