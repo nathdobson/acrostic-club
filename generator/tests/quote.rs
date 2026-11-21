@@ -4,8 +4,8 @@ use std::io;
 use acrostic_generator::PACKAGE_PATH;
 use acrostic_generator::puzzle::Puzzle;
 use acrostic_generator::quote::{
-    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS,
-    parse_pinned_quote_file, parse_quotes, start_puzzle,
+    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, parse_pinned_quote_file, parse_quotes,
+    start_puzzle,
 };
 use acrostic_generator::reformat::reformat_quote;
 
@@ -140,10 +140,10 @@ fn test_unnumbered_records_are_skipped() {
     assert_eq!(quote_texts, ["Zero", "Three"]);
 }
 
-// A puzzle number on neither allowlist, so that the length limits apply to it in full.
+// A puzzle number off the allowlist, so that the length limits apply to it in full.
 const UNALLOWLISTED_PUZZLE_NUMBER: usize = 1;
 
-// Starts a puzzle from `quote` under a number on neither allowlist, as for a new puzzle.
+// Starts a puzzle from `quote` under a number off the allowlist, as for a new puzzle.
 fn start_unallowlisted_puzzle(quote: &Quote) -> io::Result<Puzzle> {
     start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, quote)
 }
@@ -441,18 +441,6 @@ fn test_unallowlisted_puzzle_outside_the_length_limits_is_rejected() {
     assert!(error.to_string().contains("10 letters"), "{error}");
 }
 
-#[test]
-fn test_allowlisted_withdrawn_puzzle_outside_the_length_limits_starts() {
-    let allowlisted_puzzle_number = WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS[0];
-    let quote = Quote {
-        quote: "a".repeat(10),
-        source: "a".repeat(5),
-    };
-
-    start_puzzle(allowlisted_puzzle_number, &quote)
-        .expect("an allowlisted withdrawn puzzle should start whatever its length");
-}
-
 // Lists the numbers of the committed puzzles, which name the directories under `puzzles/`.
 fn committed_puzzle_numbers() -> Vec<usize> {
     let puzzle_directories =
@@ -538,35 +526,6 @@ fn test_allowlisted_published_puzzles_would_not_start_without_the_allowlist() {
         .filter(|&puzzle_number| {
             start_unallowlisted_puzzle(&read_committed_quote(puzzle_number)).is_ok()
         })
-        .collect();
-
-    assert_eq!(needlessly_allowlisted_puzzle_numbers, Vec::<usize>::new());
-}
-
-#[test]
-fn test_allowlisted_withdrawn_puzzles_have_no_stage3() {
-    let published_puzzle_numbers: Vec<usize> = WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS
-        .iter()
-        .copied()
-        .filter(|&puzzle_number| is_published(puzzle_number))
-        .collect();
-
-    assert_eq!(published_puzzle_numbers, Vec::<usize>::new());
-}
-
-// Reads the real quote file, since some withdrawn puzzles no longer have a folder holding their
-// quote, so this test needs the Quotes-500K submodule checked out.
-#[test]
-#[ignore = "slow: parses the whole Quotes-500K file"]
-fn test_allowlisted_withdrawn_puzzles_would_not_start_without_the_allowlist() {
-    let compressed = fs::read(PACKAGE_PATH.join("submodules/Quotes-500K/quotes.csv.br"))
-        .expect("the Quotes-500K submodule should be checked out");
-    let quotes = parse_pinned_quote_file(&compressed).expect("the pinned quote file should parse");
-
-    let needlessly_allowlisted_puzzle_numbers: Vec<usize> = WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS
-        .iter()
-        .copied()
-        .filter(|&puzzle_number| start_unallowlisted_puzzle(&quotes[puzzle_number]).is_ok())
         .collect();
 
     assert_eq!(needlessly_allowlisted_puzzle_numbers, Vec::<usize>::new());

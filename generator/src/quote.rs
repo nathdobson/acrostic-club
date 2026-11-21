@@ -80,9 +80,9 @@ const SOURCE_LENGTH_LIMITS: RangeInclusive<usize> = 20..=26;
 const MINIMUM_AVERAGE_ANSWER_LENGTH: f64 = 6.5;
 
 // The published puzzles whose quotes fall outside the current length limits. Stage 0 built them
-// under earlier rules, and this allowlist lets them through so that rebuilding the puzzles
-// reproduces every puzzle a solver may already have solved. A puzzle counts as published once it
-// has a `stage3.json`, since the site serves only those.
+// under earlier rules, and this allowlist lets them through so that rebuilding the puzzles keeps
+// them on the site until enough puzzles within the limits are ready to replace them. A puzzle
+// counts as published once it has a `stage3.json`, since the site serves only those.
 #[rustfmt::skip]
 pub const PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
     1_455, 3_653, 4_113, 4_426, 6_492, 6_895, 7_042, 7_598, 8_863, 8_868,
@@ -110,26 +110,10 @@ pub const PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
     197_332, 199_185, 199_302, 199_737, 199_996,
 ];
 
-// The withdrawn puzzles whose quotes fall outside the length limits: puzzles that had a
-// `stage3.json` in an earlier commit but have none now. Solvers may have solved them while the
-// site served them, so they are allowlisted as well.
-//
-// `git log --diff-filter=A -- 'puzzles/*/stage3.json'` lists every puzzle that ever had a
-// `stage3.json`.
-#[rustfmt::skip]
-pub const WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS: &[usize] = &[
-    0, 6, 7, 13, 20, 769, 17_789, 27_285, 32_521, 52_456,
-    56_095, 79_220, 87_057, 95_575, 139_340, 150_076, 153_555, 154_240, 155_114, 170_534,
-    178_155, 188_920, 196_030, 200_220, 200_351, 201_629, 206_147, 206_383, 207_436, 207_535,
-    207_775, 208_337, 208_401, 211_451,
-];
-
-// Whether the quote numbered `puzzle_number`, holding `letters`, fits the length limits, or else is
-// allowlisted due to having been previously published.
+// Whether the quote numbered `puzzle_number`, holding `letters`, fits the length limits, or else
+// belongs to a published puzzle on the allowlist.
 fn passes_length_limits(puzzle_number: usize, letters: &QuoteLetters) -> bool {
-    let is_allowlisted = PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number)
-        || WITHDRAWN_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number);
-    is_allowlisted || letters.fits_length_limits()
+    PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS.contains(&puzzle_number) || letters.fits_length_limits()
 }
 
 impl Quote {

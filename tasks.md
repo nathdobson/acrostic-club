@@ -7,10 +7,6 @@ such as a commit message or a code comment.
 
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
-- [ ] **Decide whether to keep the allowlists of published puzzles** — a
-      call for Nathan. Stage 0 lets the published and withdrawn puzzles past
-      the length limits only so that a rebuild reproduces them; if a rebuild
-      may drop them, delete both lists in `quote.rs` along with their tests.
 - [ ] **Read records with an empty field mid-record** — see the TODO in
       `Quote::from_record`.
 - [ ] **Create `build/` when building the quote list** — `global quotes`
@@ -29,6 +25,11 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       `old.count() > 4` check suggests it expected five-letter words.
 
 ## Backlog
+
+- [ ] **Delete the published puzzles outside the length limits** — wait
+      until 1,000 or more published puzzles fit the limits, then delete
+      `PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS` in `quote.rs` along with its
+      tests and the puzzles it lets through.
 
 ### Known data issues {#known-data-issues}
 
