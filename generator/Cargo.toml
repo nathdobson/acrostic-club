@@ -25,6 +25,7 @@ futures = "0.3.31"
 rand_xorshift = "0.3.0"
 acrostic-core = { path = "../core" }
 any_ascii = "0.1.7"
+encoding_rs = "0.8.44"
 anyhow = "1.0.95"
 bincode = "1.3.3"
 safe-once-async = { path = "../../safe-once-async",features = ["tokio-rt"] }

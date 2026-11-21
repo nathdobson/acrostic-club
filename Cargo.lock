@@ -24,6 +24,7 @@ dependencies = [
  "bincode",
  "brotli",
  "csv",
+ "encoding_rs",
  "futures",
  "itertools",
  "memmap",

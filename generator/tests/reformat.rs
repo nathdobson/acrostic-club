@@ -46,6 +46,36 @@ fn windows_1252_punctuation_decoded_as_latin_1_becomes_the_punctuation_meant() {
 }
 
 #[test]
+fn utf8_misread_as_windows_1252_becomes_the_character_meant() {
+    // A punctuation mark, whose UTF-8 takes three bytes.
+    assert_eq!(repair_characters("motherâ€™s diary"), "mother’s diary");
+    // Accented letters, whose UTF-8 takes two bytes.
+    assert_eq!(repair_characters("BahÃ¡'u'llÃ¡h"), "Bahá'u'lláh");
+    assert_eq!(repair_characters("Danny MekiÄ‡"), "Danny Mekić");
+    // Letters of another alphabet.
+    assert_eq!(repair_characters("Ø§Ù„Ù‚Ø±Ø¢Ù†"), "القرآن");
+}
+
+#[test]
+fn a_misread_closing_quotation_mark_missing_its_last_byte_becomes_the_mark() {
+    assert_eq!(
+        repair_characters("Quiet,â€\u{fffd} she hissed"),
+        "Quiet,” she hissed"
+    );
+}
+
+#[test]
+fn text_that_only_looks_misread_is_kept() {
+    // "í…—" would decode to the Korean syllable `텗`.
+    assert_eq!(repair_characters("así…—Nunca"), "así…—Nunca");
+    // "Í’" would decode to a combining mark.
+    assert_eq!(
+        repair_characters("“Í’m not certain,”"),
+        "“Í’m not certain,”"
+    );
+}
+
+#[test]
 fn a_control_character_becomes_a_space() {
     // The control character stands in for a lost line break.
     assert_eq!(repair_characters("you will.\u{3}If"), "you will. If");

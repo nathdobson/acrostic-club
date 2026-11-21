@@ -7,6 +7,7 @@ use acrostic_generator::quote::{
     PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, parse_pinned_quote_file, parse_quotes,
     start_puzzle,
 };
+use acrostic_generator::reformat::characters::repair_characters;
 use acrostic_generator::reformat::reformat_quote;
 
 // Parses `csv` with every record numbered by its index.
@@ -240,6 +241,20 @@ fn test_started_puzzle_holds_its_quote_with_lost_spaces_restored() {
 }
 
 #[test]
+fn test_started_puzzle_holds_its_source_with_characters_repaired() {
+    // "Ã©" is `é` misread from UTF-8 as Windows-1252.
+    let quote = build_quote("Lola sat alone.", "Al StonÃ©");
+
+    let puzzle = start_unallowlisted_puzzle(&quote).expect("the quote should start a puzzle");
+
+    let repaired_source = &puzzle.source;
+    assert!(
+        repaired_source.starts_with("Al Stoné "),
+        "{repaired_source:?}"
+    );
+}
+
+#[test]
 fn test_accented_quote_letter_supplies_its_plain_letter() {
     // The source's E comes from the quote's `é`.
     let quote = build_quote("Café", "Ace");
@@ -280,11 +295,15 @@ fn test_pinned_quote_file_matches_committed_puzzles() {
         let quote = quotes
             .get(number)
             .unwrap_or_else(|| panic!("puzzle {number} should have a quote in the parsed list"));
-        // Stage 0 stores the quote reformatted.
+        // Stage 0 stores the quote reformatted and the source with its characters repaired.
         let reformatted_quote = reformat_quote(&quote.quote)
             .unwrap_or_else(|error| panic!("puzzle {number}'s quote should lay out: {error}"));
         assert_eq!(reformatted_quote, stored_puzzle.quote, "puzzle {number}");
-        assert_eq!(quote.source, stored_puzzle.source, "puzzle {number}");
+        assert_eq!(
+            repair_characters(&quote.source),
+            stored_puzzle.source,
+            "puzzle {number}"
+        );
         checked_puzzle_count += 1;
     }
     assert!(
