@@ -1,6 +1,6 @@
 {
-  "quote": "God created… light anddark, heaven and hell—science claims the same thing as religion, that the Big Bang createdeverything in the universe with an opposite. “Including matter itself, antimatter",
-  "quote_letters": "GOD CREATED LIGHT ANDDARK HEAVEN AND HELL-SCIENCE CLAIMS THE SAME THING AS RELIGION THAT THE BIG BANG CREATEDEVERYTHING IN THE UNIVERSE WITH AN OPPOSITE INCLUDING MATTER ITSELF ANTIMATTER",
+  "quote": "God created… light and dark, heaven and hell—science claims the same thing as religion, that the Big Bang created everything in the universe with an opposite. “Including matter itself, antimatter",
+  "quote_letters": "GOD CREATED LIGHT AND DARK HEAVEN AND HELL-SCIENCE CLAIMS THE SAME THING AS RELIGION THAT THE BIG BANG CREATED EVERYTHING IN THE UNIVERSE WITH AN OPPOSITE INCLUDING MATTER ITSELF ANTIMATTER",
   "source": "Dan Brown, Angels & Demons",
   "source_letters": "DANBROWNANGELSDEMONS",
   "clues": [
@@ -10,12 +10,12 @@
       "answer_letters": "DETAILS",
       "indices": [
         2,
-        38,
-        123,
-        105,
-        94,
-        51,
-        148
+        39,
+        125,
+        106,
+        95,
+        52,
+        150
       ]
     },
     {
@@ -23,16 +23,16 @@
       "answer": "anticipated",
       "answer_letters": "ANTICIPATED",
       "indices": [
+        184,
+        35,
+        181,
         182,
-        34,
-        179,
-        180,
         4,
-        137,
-        146,
+        139,
+        148,
         7,
-        84,
-        131,
+        85,
+        133,
         20
       ]
     },
@@ -41,12 +41,12 @@
       "answer": "netted",
       "answer_letters": "NETTED",
       "indices": [
-        121,
-        48,
-        165,
-        87,
-        104,
-        21
+        123,
+        49,
+        167,
+        88,
+        105,
+        22
       ]
     },
     {
@@ -54,13 +54,13 @@
       "answer": "betting",
       "answer_letters": "BETTING",
       "indices": [
-        93,
-        30,
-        89,
-        66,
-        129,
-        154,
-        95
+        94,
+        31,
+        90,
+        67,
+        131,
+        156,
+        96
       ]
     },
     {
@@ -68,17 +68,17 @@
       "answer": "reflections",
       "answer_letters": "REFLECTIONS",
       "indices": [
-        23,
-        151,
-        175,
-        40,
-        45,
-        155,
-        183,
+        24,
+        153,
+        177,
+        41,
+        46,
+        157,
+        185,
         13,
-        81,
-        160,
-        73
+        82,
+        162,
+        74
       ]
     },
     {
@@ -86,15 +86,15 @@
       "answer": "overnight",
       "answer_letters": "OVERNIGHT",
       "indices": [
-        144,
-        110,
-        91,
-        186,
+        146,
+        112,
+        92,
+        188,
         19,
-        53,
-        118,
-        58,
-        57
+        54,
+        120,
+        59,
+        58
       ]
     },
     {
@@ -102,16 +102,16 @@
       "answer": "wealthiest",
       "answer_letters": "WEALTHIEST",
       "indices": [
-        136,
-        76,
-        86,
+        138,
+        77,
+        87,
         12,
-        106,
+        107,
         15,
-        68,
+        69,
         9,
-        42,
-        171
+        43,
+        173
       ]
     },
     {
@@ -119,12 +119,12 @@
       "answer": "nights",
       "answer_letters": "NIGHTS",
       "indices": [
-        46,
-        78,
-        70,
-        67,
-        150,
-        172
+        47,
+        79,
+        71,
+        68,
+        152,
+        174
       ]
     },
     {
@@ -132,11 +132,11 @@
       "answer": "amount",
       "answer_letters": "AMOUNT",
       "indices": [
-        72,
-        54,
+        73,
+        55,
         1,
-        157,
-        117,
+        159,
+        119,
         8
       ]
     },
@@ -145,15 +145,15 @@
       "answer": "navigable",
       "answer_letters": "NAVIGABLE",
       "indices": [
-        31,
-        98,
-        130,
-        44,
+        32,
+        99,
+        132,
+        45,
         14,
-        28,
-        97,
-        174,
-        64
+        29,
+        98,
+        176,
+        65
       ]
     },
     {
@@ -163,11 +163,11 @@
       "indices": [
         0,
         18,
-        168,
-        181,
-        134,
-        128,
-        138
+        170,
+        183,
+        136,
+        130,
+        140
       ]
     },
     {
@@ -175,13 +175,13 @@
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
-        173,
-        145,
-        170,
+        175,
+        147,
+        172,
         16,
-        139,
-        27,
-        166
+        141,
+        28,
+        168
       ]
     },
     {
@@ -189,12 +189,12 @@
       "answer": "lehigh",
       "answer_letters": "LEHIGH",
       "indices": [
-        77,
-        185,
-        90,
-        153,
-        161,
-        124
+        78,
+        187,
+        91,
+        155,
+        163,
+        126
       ]
     },
     {
@@ -202,14 +202,14 @@
       "answer": "sheridan",
       "answer_letters": "SHERIDAN",
       "indices": [
-        61,
-        115,
-        167,
-        103,
-        159,
-        35,
-        22,
-        99
+        62,
+        117,
+        169,
+        104,
+        161,
+        36,
+        23,
+        100
       ]
     },
     {
@@ -218,17 +218,17 @@
       "answer_letters": "DISADVANTAGE",
       "indices": [
         10,
-        80,
-        133,
-        52,
-        158,
-        29,
-        177,
-        82,
-        184,
-        33,
-        100,
-        111
+        81,
+        135,
+        53,
+        160,
+        30,
+        179,
+        83,
+        186,
+        34,
+        101,
+        113
       ]
     },
     {
@@ -236,14 +236,14 @@
       "answer": "enriched",
       "answer_letters": "ENRICHED",
       "indices": [
-        109,
-        69,
-        75,
-        116,
-        102,
-        37,
-        125,
-        108
+        111,
+        70,
+        76,
+        118,
+        103,
+        38,
+        127,
+        109
       ]
     },
     {
@@ -251,12 +251,12 @@
       "answer": "making",
       "answer_letters": "MAKING",
       "indices": [
-        163,
-        164,
-        24,
-        120,
-        178,
-        79
+        165,
+        166,
+        25,
+        122,
+        180,
+        80
       ]
     },
     {
@@ -264,13 +264,13 @@
       "answer": "o'reilly",
       "answer_letters": "OREILLY",
       "indices": [
-        147,
-        112,
-        107,
         149,
-        156,
-        39,
-        113
+        114,
+        108,
+        151,
+        158,
+        40,
+        115
       ]
     },
     {
@@ -278,12 +278,12 @@
       "answer": "nectar",
       "answer_letters": "NECTAR",
       "indices": [
-        142,
-        59,
-        43,
-        114,
-        62,
-        132
+        144,
+        60,
+        44,
+        116,
+        63,
+        134
       ]
     },
     {
@@ -291,14 +291,14 @@
       "answer": "schumacher",
       "answer_letters": "SCHUMACHER",
       "indices": [
-        55,
-        50,
-        26,
-        127,
-        63,
-        141,
-        47,
-        85,
+        56,
+        51,
+        27,
+        129,
+        64,
+        143,
+        48,
+        86,
         6,
         5
       ]

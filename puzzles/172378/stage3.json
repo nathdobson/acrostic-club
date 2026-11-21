@@ -1,6 +1,6 @@
 {
-  "quote": "The Lord is my shepherdI shall not want him for longHe maketh me to lie down in green pasturesand there are no green pasturesHe leadeth me beside still watersand still waters run deep",
-  "quote_letters": "THE LORD IS MY SHEPHERDI SHALL NOT WANT HIM FOR LONGHE MAKETH ME TO LIE DOWN IN GREEN PASTURESAND THERE ARE NO GREEN PASTURESHE LEADETH ME BESIDE STILL WATERSAND STILL WATERS RUN DEEP",
+  "quote": "The Lord is my shepherd I shall not want him for long He maketh me to lie down in green pastures and there are no green pastures He leadeth me beside still waters and still waters run deep",
+  "quote_letters": "THE LORD IS MY SHEPHERD I SHALL NOT WANT HIM FOR LONG HE MAKETH ME TO LIE DOWN IN GREEN PASTURES AND THERE ARE NO GREEN PASTURES HE LEADETH ME BESIDE STILL WATERS AND STILL WATERS RUN DEEP",
   "source": "Ernest Hemingway, 88 Poems",
   "source_letters": "ERNESTHEMINGWAYPOEMS",
   "clues": [
@@ -9,12 +9,12 @@
       "answer": "emblem",
       "answer_letters": "EMBLEM",
       "indices": [
-        155,
+        159,
         12,
-        139,
+        143,
         4,
-        92,
-        55
+        94,
+        57
       ]
     },
     {
@@ -22,12 +22,12 @@
       "answer": "rudder",
       "answer_letters": "RUDDER",
       "indices": [
-        105,
-        121,
-        160,
-        179,
-        113,
-        91
+        108,
+        124,
+        165,
+        184,
+        116,
+        93
       ]
     },
     {
@@ -35,14 +35,14 @@
       "answer": "nitrogen",
       "answer_letters": "NITROGEN",
       "indices": [
-        108,
-        148,
-        33,
-        81,
-        73,
-        51,
-        70,
-        159
+        111,
+        152,
+        34,
+        83,
+        75,
+        52,
+        72,
+        164
       ]
     },
     {
@@ -50,13 +50,13 @@
       "answer": "epithet",
       "answer_letters": "EPITHET",
       "indices": [
-        126,
-        182,
-        41,
-        38,
-        99,
-        53,
-        59
+        130,
+        187,
+        42,
+        39,
+        102,
+        55,
+        61
       ]
     },
     {
@@ -64,14 +64,14 @@
       "answer": "shelters",
       "answer_letters": "SHELTERS",
       "indices": [
-        141,
-        60,
-        171,
-        165,
-        147,
-        82,
+        145,
+        62,
+        176,
+        170,
+        151,
+        84,
         6,
-        93
+        95
       ]
     },
     {
@@ -79,14 +79,14 @@
       "answer": "talented",
       "answer_letters": "TALENTED",
       "indices": [
-        133,
-        36,
-        149,
-        140,
-        84,
-        98,
-        102,
-        96
+        137,
+        37,
+        153,
+        144,
+        86,
+        101,
+        105,
+        99
       ]
     },
     {
@@ -94,12 +94,12 @@
       "answer": "howell",
       "answer_letters": "HOWELL",
       "indices": [
-        52,
+        54,
+        50,
+        36,
+        136,
         49,
-        35,
-        132,
-        48,
-        166
+        171
       ]
     },
     {
@@ -107,12 +107,12 @@
       "answer": "earth's",
       "answer_letters": "EARTHS",
       "indices": [
-        181,
-        27,
+        186,
+        28,
         21,
-        120,
+        123,
         1,
-        88
+        90
       ]
     },
     {
@@ -120,12 +120,12 @@
       "answer": "martha",
       "answer_letters": "MARTHA",
       "indices": [
-        136,
-        104,
-        156,
-        154,
+        140,
+        107,
+        160,
+        158,
         19,
-        56
+        58
       ]
     },
     {
@@ -133,16 +133,16 @@
       "answer": "israelites",
       "answer_letters": "ISRAELITES",
       "indices": [
-        23,
+        24,
         10,
-        122,
-        118,
-        137,
-        150,
+        125,
+        121,
+        141,
+        154,
         9,
-        89,
+        91,
         2,
-        124
+        127
       ]
     },
     {
@@ -150,14 +150,14 @@
       "answer": "nepalese",
       "answer_letters": "NEPALESE",
       "indices": [
-        115,
-        58,
+        118,
+        60,
         18,
-        94,
-        29,
-        123,
-        173,
-        114
+        97,
+        30,
+        126,
+        178,
+        117
       ]
     },
     {
@@ -165,14 +165,14 @@
       "answer": "grateful",
       "answer_letters": "GRATEFUL",
       "indices": [
-        111,
-        112,
-        169,
-        170,
-        83,
-        44,
-        176,
-        68
+        114,
+        115,
+        174,
+        175,
+        85,
+        45,
+        181,
+        70
       ]
     },
     {
@@ -180,13 +180,13 @@
       "answer": "whistle",
       "answer_letters": "WHISTLE",
       "indices": [
-        152,
+        156,
         16,
-        77,
-        157,
-        163,
-        28,
-        106
+        79,
+        161,
+        168,
+        29,
+        109
       ]
     },
     {
@@ -194,15 +194,15 @@
       "answer": "aleksandr",
       "answer_letters": "ALEKSANDR",
       "indices": [
-        130,
-        128,
+        134,
+        132,
         17,
-        57,
-        25,
-        87,
-        37,
-        143,
-        175
+        59,
+        26,
+        89,
+        38,
+        147,
+        180
       ]
     },
     {
@@ -211,13 +211,13 @@
       "answer_letters": "YOUNGEST",
       "indices": [
         13,
+        33,
+        92,
         32,
-        90,
-        31,
-        80,
-        100,
-        146,
-        65
+        82,
+        103,
+        150,
+        67
       ]
     },
     {
@@ -225,13 +225,13 @@
       "answer": "perhaps",
       "answer_letters": "PERHAPS",
       "indices": [
-        86,
-        129,
-        101,
-        26,
-        158,
-        117,
-        119
+        88,
+        133,
+        104,
+        27,
+        163,
+        120,
+        122
       ]
     },
     {
@@ -240,15 +240,15 @@
       "answer_letters": "ORDINATION",
       "indices": [
         5,
-        172,
+        177,
         22,
-        142,
-        75,
-        153,
+        146,
+        77,
+        157,
         0,
-        69,
-        66,
-        50
+        71,
+        68,
+        51
       ]
     },
     {
@@ -256,15 +256,15 @@
       "answer": "enshrined",
       "answer_letters": "ENSHRINED",
       "indices": [
-        180,
-        95,
+        185,
+        98,
         15,
-        134,
-        46,
-        164,
-        78,
-        144,
-        131
+        138,
+        47,
+        169,
+        80,
+        148,
+        135
       ]
     },
     {
@@ -272,12 +272,12 @@
       "answer": "mehmed",
       "answer_letters": "MEHMED",
       "indices": [
-        62,
-        63,
-        125,
-        42,
+        64,
+        65,
+        129,
+        43,
         20,
-        72
+        74
       ]
     },
     {
@@ -285,14 +285,14 @@
       "answer": "showdown",
       "answer_letters": "SHOWDOWN",
       "indices": [
-        162,
-        40,
-        45,
-        74,
+        167,
+        41,
+        46,
+        76,
         7,
-        109,
-        168,
-        177
+        112,
+        173,
+        182
       ]
     }
   ],
