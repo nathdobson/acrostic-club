@@ -1,2 +1,5 @@
 # Adopt rustfmt. (#4)
 71f75fbefb7739178a7fa7adfe3d0e8775919024
+
+# Rewrap comments to fill the line width.
+3a0d70aca1c573b34c78ec1d2da56948f403513a
