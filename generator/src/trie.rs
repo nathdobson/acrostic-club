@@ -5,6 +5,7 @@ use std::mem::size_of;
 use std::ops::RangeInclusive;
 
 use acrostic_core::letter::{Letter, LetterMap, LetterSet};
+use itertools::Itertools;
 
 #[repr(C)]
 pub enum FlatTrieEntry<V> {
@@ -329,10 +330,16 @@ impl<V: Debug> Debug for FlatTrieEntry<V> {
 // Builds tries from `words`, one trie for each letter of the alphabet.
 //
 // The tries keep only words of six or more letters. Of those words, the tries keep only the first
-// 15,000, so `words` should list the most commonly used words first.
+// 15,000, skipping duplicates. `words` should list the most commonly used words first, so that the
+// search uses only common words.
+//
+// A duplicate is a word that the search treats the same as a word already kept: an exact anagram
+// that also starts with the same letter, such as "aboard" after "abroad". The search sees only a
+// word's first letter and its letters, so keeping a duplicate would only make the search repeat
+// work and favor words that have anagrams.
 //
 // Each kept word goes into the trie for its first letter. For example, "letters" lands in the L
-// trie; and "lest" lands nowhere, because it is too short.
+// trie. A word that is too short, like "lest", lands nowhere.
 pub fn build_tries(
     words: impl IntoIterator<Item = (Letter, LetterSet)>,
 ) -> LetterMap<Box<FlatTrie<LetterSet>>> {
@@ -340,6 +347,8 @@ pub fn build_tries(
     let kept_words = words
         .into_iter()
         .filter(|(_, letters)| letters.count() >= 6)
+        // Keeps the first of the words that share a first letter and letters, in input order.
+        .unique()
         .take(15000);
     for (first_letter, letters) in kept_words {
         entries_by_letter[first_letter].push((letters, letters));

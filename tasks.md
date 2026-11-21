@@ -10,11 +10,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Revisit the 15,000-word cap on the tries** — the word-pair trie
       likely held the cap down; weigh how many more puzzles a higher cap
       solves against more obscure answers and slower searches.
-- [ ] **Skip exact duplicates in the tries** — 187 of the 15,000 words
-      `build_tries` keeps repeat an earlier word's letter sequence, like
-      `album's` and `américa`; skipping them before the cap frees their slots.
-      Keep anagrams such as `aboard`, though `Search::get_words` turns each
-      entry into the most frequent word with its letters, so `abroad` wins.
+- [ ] **Spread answers across anagrams** — `Search::get_words` turns each
+      trie entry into the most frequent word with its first letter and
+      letters, so puzzles can use `abroad` but never `aboard`. A step after
+      the search could choose among the anagrams instead.
 - [ ] **Decide how `randomize1` should treat six-letter answers** — it only
       swaps an answer for a shorter word, but the tries hold no word under
       six letters, so it never changes a six-letter answer. On 40
