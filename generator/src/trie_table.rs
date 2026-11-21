@@ -6,10 +6,6 @@ use acrostic_core::letter::{Letter, LetterMap, LetterSet};
 use safe_once_async::async_lazy::AsyncLazy;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
-// use crate::util::lazy_async::LazyAsync;
-
-// use crate::util::lazy_async::LazyAsync;
-// use crate::util::lazy_async::LazyAsync;
 
 pub struct FlatTrieTable {
     pub dict: &'static [FlatWord],

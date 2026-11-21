@@ -5,7 +5,6 @@ use ollama_rs::Ollama;
 use ollama_rs::generation::chat::ChatMessageResponse;
 use ollama_rs::generation::chat::request::ChatMessageRequest;
 use std::sync::Arc;
-// use crate::llm::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatResponseResult, ChatRole, Endpoint, Model};
 
 pub struct BaseClient {
     inner: Ollama,

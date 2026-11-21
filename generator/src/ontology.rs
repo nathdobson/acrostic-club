@@ -1,10 +1,3 @@
-use std::collections::HashMap;
-use std::fmt::{Debug, Formatter};
-use std::sync::Arc;
-// use turtle_syntax::{Document, Parse};
-// use rio_api::model::{Literal, NamedNode, Subject, Term};
-// use rio_api::parser::TriplesParser;
-// use rio_turtle::{TurtleError, TurtleParser};
 use crate::conflict_set::ConflictSet;
 use crate::string::LetterString;
 use crate::turtle::db::TURTLE;
@@ -13,6 +6,9 @@ use crate::util::lazy_async::CloneError;
 use safe_once::sync::LazyLock;
 use safe_once_async::detached::{JoinTransparent, spawn_transparent};
 use safe_once_async::sync::AsyncLazyLock;
+use std::collections::HashMap;
+use std::fmt::{Debug, Formatter};
+use std::sync::Arc;
 
 pub struct Ontology {
     pub graph: &'static Turtle,

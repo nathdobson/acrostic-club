@@ -18,9 +18,6 @@ use crate::puzzle::Puzzle;
 use crate::reformat::reformat_quote;
 use crate::util::lazy_async::CloneError;
 use crate::{PACKAGE_PATH, error_with_path, read_path, read_path_to_string, write_path};
-// use crate::util::lazy_async::LazyAsync;
-
-// use crate::util::lazy_async::LazyAsync;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Quote {

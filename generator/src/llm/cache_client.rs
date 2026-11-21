@@ -1,5 +1,6 @@
 use crate::llm::chat_client::ChatClient;
 use crate::llm::key_value_file::KeyValueFile;
+use crate::util::interrupt::CleanupSender;
 use futures::FutureExt;
 use futures::future::BoxFuture;
 use ollama_rs::generation::chat::ChatMessageResponse;
@@ -7,8 +8,6 @@ use ollama_rs::generation::chat::request::ChatMessageRequest;
 use std::io;
 use std::path::Path;
 use std::sync::Arc;
-// use crate::llm::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatResponse, ChatRole, Endpoint, Model};
-use crate::util::interrupt::CleanupSender;
 
 pub struct CacheClient {
     inner: Arc<dyn ChatClient>,

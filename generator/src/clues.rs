@@ -1,16 +1,14 @@
 use crate::cluebank::{BankedClue, ClueBank, ClueSource, clue_bank_path};
 use crate::cluedb::{CLUE_DB, ClueDb};
 use crate::lemma::{LEMMA, Lemma};
+use crate::llm::chat_client::ChatClient;
+use crate::llm::new_client;
+use crate::llm::rpcs::{AnswerRequest, ClueRequest};
+use crate::ontology::{ONTOLOGY, Ontology};
 use anyhow::ensure;
 use ordered_float::NotNan;
 use std::path::Path;
 use std::sync::Arc;
-// use crate::gpt::cache_client::CacheClient;
-use crate::llm::chat_client::ChatClient;
-use crate::llm::new_client;
-use crate::llm::rpcs::{AnswerRequest, ClueRequest};
-// use crate::gpt::types::{ChatMessage, ChatRequest, ChatRequestBody, ChatRole, Endpoint, FinishReason, Model};
-use crate::ontology::{ONTOLOGY, Ontology};
 
 use crate::puzzle::{CLUED_PUZZLE_FILE, Puzzle};
 use crate::string::LetterString;
