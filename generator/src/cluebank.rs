@@ -27,14 +27,15 @@
 // together. Editing a clue's text by hand in a way that changes its tag makes the next load fail,
 // naming the clue.
 //
-// Each clue also records where it came from and, once someone has reviewed it, the review: who
-// reviewed it, a verdict, and any problems found. New puzzles prefer an answer's best-reviewed
-// clues (see `ClueBank::clue_for_puzzle`), and the problems tell a later rewriter what to fix. A
-// review covers only the text it judged, so changing a clue's text drops its review. A person's
-// review is more reliable than a model's, but a model's review avoids spoilers: a person who
-// reviews a clue sees its answer, which spoils the puzzles that use the clue.
+// Each clue also records where it came from, any note its writer left on how it works, and, once
+// someone has reviewed it, the review: who reviewed it, a verdict, and any problems found. New
+// puzzles prefer an answer's best-reviewed clues (see `ClueBank::clue_for_puzzle`), and the
+// problems tell a later rewriter what to fix. A note and a review each cover only the text they
+// describe, so changing a clue's text drops both. A person's review is more reliable than a
+// model's, but a model's review avoids spoilers: a person who reviews a clue sees its answer, which
+// spoils the puzzles that use the clue.
 
-use std::collections::BTreeMap;
+use std::collections::{BTreeMap, BTreeSet};
 use std::fmt;
 use std::path::{Path, PathBuf};
 
@@ -159,9 +160,9 @@ fn candidate_tags(words: &[String]) -> impl Iterator<Item = String> + '_ {
 enum Placement {
     // The clue at this position already has the text.
     AlreadyHeld(usize),
-    // The clue with this other text has the same meaningful words, so no tag could tell the two
-    // apart.
-    SameMeaningfulWords { other_text: String },
+    // These other texts, among the answer's clues and the arriving texts, have the text's
+    // meaningful words, so no tag could tell them apart.
+    SameMeaningfulWords { other_texts: Vec<String> },
     // Every tag the text's meaningful words allow already names another clue. The clue with this
     // text holds the longest of those tags.
     NoFreeTag { holder_text: String },
@@ -171,13 +172,15 @@ enum Placement {
 }
 
 // Finds where `text` would go among `clues`, passing over the clue at `skipped_position`, such as
-// a clue whose text is being replaced.
+// a clue whose text is being replaced. Texts in `arriving_texts`, such as the rest of an import,
+// also count toward `Placement::SameMeaningfulWords`.
 //
 // Fails only when the text is empty or only whitespace.
 fn place(
     clues: &[BankedClue],
     text: &str,
     skipped_position: Option<usize>,
+    arriving_texts: &[&str],
 ) -> anyhow::Result<Placement> {
     let words = meaningful_words(text)?;
     let other_clues = || {
@@ -189,13 +192,20 @@ fn place(
     if let Some((position, _)) = other_clues().find(|(_, clue)| clue.text == text) {
         return Ok(Placement::AlreadyHeld(position));
     }
-    let same_words_clue = other_clues()
-        .map(|(_, clue)| clue)
-        .find(|clue| meaningful_words(&clue.text).is_ok_and(|clue_words| clue_words == words));
-    if let Some(same_words_clue) = same_words_clue {
-        return Ok(Placement::SameMeaningfulWords {
-            other_text: same_words_clue.text.clone(),
-        });
+    let has_same_words = |other_text: &str| {
+        meaningful_words(other_text).is_ok_and(|other_words| other_words == words)
+    };
+    let other_texts: Vec<String> = other_clues()
+        .map(|(_, clue)| clue.text.as_str())
+        .chain(arriving_texts.iter().copied())
+        .filter(|other_text| *other_text != text && has_same_words(other_text))
+        // Collecting into a set lists a text that is both a clue and arriving only once.
+        .collect::<BTreeSet<&str>>()
+        .into_iter()
+        .map(str::to_string)
+        .collect();
+    if !other_texts.is_empty() {
+        return Ok(Placement::SameMeaningfulWords { other_texts });
     }
     let is_taken = |tag: &str| other_clues().any(|(_, clue)| clue.tag == tag);
     if let Some(tag) = candidate_tags(&words).find(|tag| !is_taken(tag)) {
@@ -316,6 +326,9 @@ pub struct BankedClue {
     tag: String,
     text: String,
     source: ClueSource,
+    // Most clues have no note, so the JSON leaves the field out rather than store a null.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    writer_note: Option<String>,
     review: Option<Review>,
 }
 
@@ -334,6 +347,12 @@ impl BankedClue {
     // Returns where the clue came from.
     pub fn source(&self) -> &ClueSource {
         &self.source
+    }
+
+    // Returns the writer's note on how the clue works, such as "Reparses the letters as ABBA'S
+    // ID," or `None` when the writer left none.
+    pub fn writer_note(&self) -> Option<&str> {
+        self.writer_note.as_deref()
     }
 
     // Returns the review of the clue's current text, or `None` when no one has reviewed it.
@@ -477,14 +496,14 @@ impl ClueBank {
     ) -> anyhow::Result<&BankedClue> {
         // Placing the clue before creating the answer's entry keeps a clue that fails from leaving
         // an empty entry behind.
-        let placement = place(self.clues_for(answer), text, None)?;
+        let placement = place(self.clues_for(answer), text, None, &[])?;
         let clues = self.clues_by_answer.entry(answer.to_string()).or_default();
         let tag = match placement {
             Placement::AlreadyHeld(position) => return Ok(&clues[position]),
-            Placement::SameMeaningfulWords { other_text } => bail!(
+            Placement::SameMeaningfulWords { other_texts } => bail!(
                 "cannot add the clue {text:?} for {answer:?}: it has the same meaningful words as \
-                 the clue {other_text:?}, differing only in punctuation, capitals, or filler \
-                 words, so a person should choose between them"
+                 {other_texts:?}, differing only in punctuation, capitals, or filler words, so a \
+                 person should choose among them"
             ),
             Placement::NoFreeTag { holder_text } => bail!(
                 "cannot add the clue {text:?} for {answer:?}: every tag its meaningful words \
@@ -496,18 +515,82 @@ impl ClueBank {
             tag,
             text: text.to_string(),
             source,
+            writer_note: None,
             review: None,
         });
         Ok(clues.last().expect("the clue just added should come last"))
     }
 
+    // Adds each of `clues` to the bank, with its source, note, and review, and reports what became
+    // of each, in the same order. Importing only ever adds, and it holds back for a person to
+    // review any clue it can't add without making a choice:
+    //
+    // - A text the bank already holds for the answer leaves the bank's clue as it is.
+    // - A blank clue, empty or only whitespace, is held back.
+    // - A clue with the same meaningful words as another, whether a clue in the bank or another of
+    //   `clues`, is held back, so that a person chooses among them. Once `clues` keeps only the one
+    //   wanted, importing again adds it.
+    // - A clue whose every tag is taken is held back.
+    // - Any other clue joins under the shortest free tag its meaningful words allow, as in `add`.
+    pub fn import(&mut self, clues: &[ImportedClue]) -> Vec<ImportOutcome> {
+        let mut imported_texts_by_answer: BTreeMap<&str, Vec<&str>> = BTreeMap::new();
+        for clue in clues {
+            imported_texts_by_answer
+                .entry(&clue.answer)
+                .or_default()
+                .push(&clue.text);
+        }
+        clues
+            .iter()
+            .map(|clue| self.import_clue(clue, &imported_texts_by_answer[clue.answer.as_str()]))
+            .collect()
+    }
+
+    // Adds one of an import's clues, as `import` describes, or says why it was held back.
+    // `imported_texts` are all of the import's texts for the clue's answer.
+    fn import_clue(&mut self, clue: &ImportedClue, imported_texts: &[&str]) -> ImportOutcome {
+        let ImportedClue {
+            answer,
+            text,
+            source,
+            writer_note,
+            review,
+        } = clue;
+        if text.trim().is_empty() {
+            return ImportOutcome::HeldBack(HoldReason::Blank);
+        }
+        let placement = place(self.clues_for(answer), text, None, imported_texts)
+            .expect("a clue with more than whitespace should have meaningful words");
+        let tag = match placement {
+            Placement::AlreadyHeld(_) => return ImportOutcome::AlreadyHeld,
+            Placement::SameMeaningfulWords { other_texts } => {
+                return ImportOutcome::HeldBack(HoldReason::SameMeaningfulWords { other_texts });
+            }
+            Placement::NoFreeTag { holder_text } => {
+                return ImportOutcome::HeldBack(HoldReason::NoFreeTag { holder_text });
+            }
+            Placement::FreeTag { tag } => tag,
+        };
+        self.clues_by_answer
+            .entry(answer.clone())
+            .or_default()
+            .push(BankedClue {
+                tag,
+                text: text.clone(),
+                source: source.clone(),
+                writer_note: writer_note.clone(),
+                review: review.clone(),
+            });
+        ImportOutcome::Added
+    }
+
     // Replaces a clue's text, credits the new text to `source`, and returns the clue's tag for the
-    // new text. A review covers only the text it judged, so the edit drops the clue's review, and
-    // `review` can record one for the new text. Text that matches the clue's current text changes
-    // nothing, so the clue keeps its tag, source, and review. New text takes the shortest tag its
-    // meaningful words allow that none of the answer's other clues has, as in `add`. When that tag
-    // differs from the old one, every puzzle naming the clue must switch to it; `edit_clues`
-    // updates the bank and those puzzles together.
+    // new text. A note and a review cover only the text they describe, so the edit drops the clue's
+    // note and review, and `review` can record a review of the new text. Text that matches the
+    // clue's current text changes nothing, so the clue keeps its tag, source, note, and review. New
+    // text takes the shortest tag its meaningful words allow that none of the answer's other clues
+    // has, as in `add`. When that tag differs from the old one, every puzzle naming the clue must
+    // switch to it; `edit_clues` updates the bank and those puzzles together.
     //
     // Fails when the answer has no clue with this tag, when another of its clues has the new
     // text's meaningful words, or when every tag those words allow is taken.
@@ -530,16 +613,16 @@ impl ClueBank {
             return Ok(tag.to_string());
         }
 
-        let new_tag = match place(clues, new_text, Some(position))? {
+        let new_tag = match place(clues, new_text, Some(position), &[])? {
             Placement::FreeTag { tag } => tag,
             Placement::AlreadyHeld(_) => bail!(
                 "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: another of its \
                  clues already has that text"
             ),
-            Placement::SameMeaningfulWords { other_text } => bail!(
+            Placement::SameMeaningfulWords { other_texts } => bail!(
                 "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: that text has the \
-                 same meaningful words as the clue {other_text:?}, differing only in \
-                 punctuation, capitals, or filler words"
+                 same meaningful words as {other_texts:?}, differing only in punctuation, \
+                 capitals, or filler words"
             ),
             Placement::NoFreeTag { holder_text } => bail!(
                 "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: every tag that \
@@ -550,6 +633,7 @@ impl ClueBank {
         clue.tag = new_tag.clone();
         clue.text = new_text.to_string();
         clue.source = source;
+        clue.writer_note = None;
         clue.review = None;
         Ok(new_tag)
     }
@@ -602,6 +686,60 @@ impl ClueEdit {
             }),
         }
     }
+}
+
+// A clue to bring into the bank, with what is known about it: who wrote it, any note the writer
+// left on how it works, and any review. `global import-clues` reads a JSON array of these, in which
+// `writer_note` and `review` may be left out:
+//
+// ```json
+// {
+//   "answer": "abbasid",
+//   "text": "Proof that the \"Dancing Queen\" singers are over seventeen?",
+//   "source": {"model": "claude-fable-5-2"},
+//   "writer_note": "Reparses the letters as ABBA'S ID.",
+//   "review": {
+//     "reviewer": {"model": "claude-opus-5-5"},
+//     "verdict": "satisfying",
+//     "problems": []
+//   }
+// }
+// ```
+#[derive(Deserialize, Debug, Clone, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct ImportedClue {
+    pub answer: String,
+    pub text: String,
+    pub source: ClueSource,
+    pub writer_note: Option<String>,
+    pub review: Option<Review>,
+}
+
+// What `ClueBank::import` did with one imported clue.
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub enum ImportOutcome {
+    // The clue joined the bank.
+    Added,
+    // The bank already held this text for the answer, so its clue stays as it was, keeping its own
+    // source, note, and review.
+    AlreadyHeld,
+    // The clue didn't join: what becomes of it takes a person's judgment.
+    HeldBack(HoldReason),
+}
+
+// Why `ClueBank::import` held a clue back for a person to review.
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub enum HoldReason {
+    // The clue's text is empty or only whitespace, so it gives solvers nothing to read.
+    Blank,
+    // The clue has the same meaningful words as these other texts, in the bank or in the same
+    // import, differing from them only in punctuation, capitals, or filler words, as "Had company"
+    // and "Had company?" do. No tag could tell such clues apart, so a person should choose one.
+    SameMeaningfulWords { other_texts: Vec<String> },
+    // Every tag the clue's meaningful words allow already names another clue. The clue with this
+    // text holds the longest of those tags, as "Ask too much, in a way" holds the only tag that
+    // "Ask too much?" allows. A person might reword the clue or let it go.
+    NoFreeTag { holder_text: String },
 }
 
 // A change to a clue's tag, which every puzzle naming the clue must follow.
@@ -716,5 +854,55 @@ pub async fn edit_clues(edits: &[ClueEdit]) -> anyhow::Result<()> {
             println!("puzzle {index}: retagged {answer:?} from {old_tag:?} to {new_tag:?}");
         }
     }
+    Ok(())
+}
+
+// Parses a JSON array of clues to import, each in the form `ImportedClue` shows.
+pub fn parse_imported_clues(json: &str) -> anyhow::Result<Vec<ImportedClue>> {
+    serde_json::from_str(json).context("the clues to import are not in the expected JSON form")
+}
+
+// Imports the clues in the JSON file at `import_path` into the bank, as `ClueBank::import`
+// describes, then lists each clue held back for review, with the reason, and counts the rest.
+// Puzzles keep the clues they name; the chat stage picks among the new clues when it next runs.
+// People and scripts run this as `global import-clues <path>`.
+pub async fn import_clues(import_path: &Path) -> anyhow::Result<()> {
+    let json = read_path_to_string(import_path).await?;
+    let clues = parse_imported_clues(&json)
+        .with_context(|| format!("cannot import the clues in {import_path:?}"))?;
+    let bank_path = clue_bank_path();
+    let mut bank = ClueBank::read(&bank_path).await?;
+    let outcomes = bank.import(&clues);
+    bank.write(&bank_path).await?;
+
+    // Only now is the import complete, so only now is it reported.
+    let mut added_count = 0;
+    let mut already_held_count = 0;
+    let mut held_back_count = 0;
+    for (clue, outcome) in clues.iter().zip(&outcomes) {
+        let ImportedClue { answer, text, .. } = clue;
+        match outcome {
+            ImportOutcome::Added => added_count += 1,
+            ImportOutcome::AlreadyHeld => already_held_count += 1,
+            ImportOutcome::HeldBack(reason) => {
+                held_back_count += 1;
+                let explanation = match reason {
+                    HoldReason::Blank => "its text is empty or only whitespace".to_string(),
+                    HoldReason::SameMeaningfulWords { other_texts } => {
+                        format!("it has the same meaningful words as {other_texts:?}")
+                    }
+                    HoldReason::NoFreeTag { holder_text } => format!(
+                        "every tag its meaningful words allow is taken, the longest by the clue \
+                         {holder_text:?}"
+                    ),
+                };
+                println!("held back for review the clue {text:?} for {answer:?}: {explanation}");
+            }
+        }
+    }
+    println!(
+        "added {added_count} clues; {already_held_count} were already in the bank, and \
+         {held_back_count} were held back for review"
+    );
     Ok(())
 }

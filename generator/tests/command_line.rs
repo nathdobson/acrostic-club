@@ -1,11 +1,14 @@
 // Tests for the parsers of the arguments that follow a target on the command line:
-// `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag, and
-// `parse_edit_clue_arguments`, which reads what `global edit-clue-as-person` changes.
+// `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag,
+// `parse_edit_clue_arguments`, which reads what `global edit-clue-as-person` changes, and
+// `parse_import_clues_arguments`, which reads the file `global import-clues` imports.
 
 use std::collections::BTreeSet;
+use std::path::PathBuf;
 
 use acrostic_generator::command_line::{
-    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_puzzle_arguments,
+    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_import_clues_arguments,
+    parse_puzzle_arguments,
 };
 
 fn make_arguments(arguments: &[&str]) -> Vec<String> {
@@ -114,4 +117,20 @@ fn an_edit_whose_text_arrives_unquoted_fails() {
     .expect_err("text split into words should fail");
 
     assert!(error.to_string().contains("quoted text"));
+}
+
+#[test]
+fn an_import_takes_the_path_of_its_clues() -> anyhow::Result<()> {
+    let parsed = parse_import_clues_arguments(make_arguments(&["clues/fable.json"]))?;
+
+    assert_eq!(PathBuf::from("clues/fable.json"), parsed);
+    Ok(())
+}
+
+#[test]
+fn an_import_without_a_path_fails() {
+    let error = parse_import_clues_arguments(make_arguments(&[]))
+        .expect_err("an import with nothing to read should fail");
+
+    assert!(error.to_string().contains("one path"));
 }

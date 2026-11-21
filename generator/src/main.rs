@@ -5,10 +5,11 @@ use futures::{StreamExt, stream};
 use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::add_letters::add_letters;
-use acrostic_generator::cluebank::{ClueEdit, edit_clues};
+use acrostic_generator::cluebank::{ClueEdit, edit_clues, import_clues};
 use acrostic_generator::clues::{ClueClient, add_chat, preview_chat};
 use acrostic_generator::command_line::{
-    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_puzzle_arguments,
+    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_import_clues_arguments,
+    parse_puzzle_arguments,
 };
 use acrostic_generator::dict::build_dict;
 use acrostic_generator::llm::DEFAULT_MODEL_NAME;
@@ -47,6 +48,11 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                     new_text,
                 } = parse_edit_clue_arguments(args)?;
                 edit_clues(&[ClueEdit::by_person(&answer, &tag, &new_text)]).await?
+            }
+            // Adds clues written elsewhere, such as by a clue-writing experiment, to the bank.
+            Some("import-clues") => {
+                let import_path = parse_import_clues_arguments(args)?;
+                import_clues(&import_path).await?
             }
             target => panic!("Unknown global target {target:?}"),
         },

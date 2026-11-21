@@ -1,11 +1,15 @@
 // Parsing for the command-line arguments that follow a target.
 
 use std::collections::BTreeSet;
+use std::path::PathBuf;
 
 use anyhow::{Context, anyhow};
 
 // How to call `global edit-clue-as-person`, for the errors that report a malformed call.
 const EDIT_CLUE_USAGE: &str = "usage: global edit-clue-as-person <answer> <tag> \"<new text>\"";
+
+// How to call `global import-clues`, for the errors that report a malformed call.
+const IMPORT_CLUES_USAGE: &str = "usage: global import-clues <path to a JSON array of clues>";
 
 // What the arguments after a target choose: the puzzles to work on, the language model to ask, and
 // whether to save the work or only show it.
@@ -70,6 +74,18 @@ pub fn parse_edit_clue_arguments(
         tag,
         new_text,
     })
+}
+
+// Parses the one argument `global import-clues` takes: the path of the JSON file that lists the
+// clues to import.
+pub fn parse_import_clues_arguments(
+    arguments: impl IntoIterator<Item = String>,
+) -> anyhow::Result<PathBuf> {
+    let arguments: Vec<String> = arguments.into_iter().collect();
+    let [path] = <[String; 1]>::try_from(arguments).map_err(|arguments| {
+        anyhow!("expected one path, but got {arguments:?}; {IMPORT_CLUES_USAGE}")
+    })?;
+    Ok(PathBuf::from(path))
 }
 
 // Parses `text`, which is all or part of `argument`, as a puzzle number.

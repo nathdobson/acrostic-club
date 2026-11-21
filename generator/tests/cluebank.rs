@@ -1,10 +1,13 @@
 // Tests for the clue bank: how a clue's tag comes from its text, how loading checks every tag
-// against its clue, how adding and editing clues keep tags and reviews in step with text, and how
-// reviews rank the clues new puzzles pick.
+// against its clue, how adding, importing, and editing clues keep tags, notes, and reviews in step
+// with text, and how reviews rank the clues new puzzles pick.
 
 use std::path::Path;
 
-use acrostic_generator::cluebank::{ClueBank, ClueEdit, ClueSource, Review, Reviewer, Verdict};
+use acrostic_generator::cluebank::{
+    ClueBank, ClueEdit, ClueSource, HoldReason, ImportOutcome, ImportedClue, Review, Reviewer,
+    Verdict, parse_imported_clues,
+};
 
 // Returns the tag the bank gives a clue with this text.
 fn tag(text: &str) -> String {
@@ -31,6 +34,17 @@ fn make_review(verdict: Verdict) -> Review {
         reviewer: Reviewer::Model("claude-opus-5-5".to_string()),
         verdict,
         problems: vec![],
+    }
+}
+
+// Returns a clue to import for `answer`, written by a model and carrying no note or review.
+fn make_imported_clue(answer: &str, text: &str) -> ImportedClue {
+    ImportedClue {
+        answer: answer.to_string(),
+        text: text.to_string(),
+        source: ClueSource::Model("claude-fable-5-2".to_string()),
+        writer_note: None,
+        review: None,
     }
 }
 
@@ -412,6 +426,221 @@ fn adding_a_clue_whose_every_tag_is_taken_fails() {
 }
 
 #[test]
+fn an_imported_clue_joins_with_its_source_note_and_review() {
+    let mut bank = ClueBank::default();
+    let imported_clue = ImportedClue {
+        answer: "fights".to_string(),
+        text: "They may be picked, fixed or thrown".to_string(),
+        source: ClueSource::Model("claude-fable-5-2".to_string()),
+        writer_note: Some("Each verb fits a different kind of fight.".to_string()),
+        review: Some(make_review(Verdict::Satisfying)),
+    };
+
+    let outcomes = bank.import(&[imported_clue]);
+
+    assert_eq!(vec![ImportOutcome::Added], outcomes);
+    let clue = bank
+        .find("fights", "they-may-be")
+        .expect("the imported clue should be in the bank");
+    assert_eq!(
+        &ClueSource::Model("claude-fable-5-2".to_string()),
+        clue.source()
+    );
+    assert_eq!(
+        Some("Each verb fits a different kind of fight."),
+        clue.writer_note()
+    );
+    assert_eq!(Some(&make_review(Verdict::Satisfying)), clue.review());
+}
+
+#[test]
+fn importing_text_the_bank_already_holds_keeps_the_banks_clue() {
+    let mut bank = make_reviewed_bank(&[("nephew", "Sibling's son.", None)]);
+    let mut imported_clue = make_imported_clue("nephew", "Sibling's son.");
+    imported_clue.review = Some(make_review(Verdict::Flat));
+
+    let outcomes = bank.import(&[imported_clue]);
+
+    assert_eq!(vec![ImportOutcome::AlreadyHeld], outcomes);
+    let clues = bank.clues_for("nephew");
+    assert_eq!(1, clues.len());
+    assert_eq!(&ClueSource::Person, clues[0].source());
+    assert_eq!(None, clues[0].review());
+}
+
+#[test]
+fn an_imported_clue_with_a_banked_clues_meaningful_words_is_held_back() {
+    let mut bank = make_bank(&[("nephew", "Sibling's son.")]);
+
+    let outcomes = bank.import(&[make_imported_clue("nephew", "A sibling's son")]);
+
+    let expected_outcome = ImportOutcome::HeldBack(HoldReason::SameMeaningfulWords {
+        other_texts: vec!["Sibling's son.".to_string()],
+    });
+    assert_eq!(vec![expected_outcome], outcomes);
+    assert_eq!(1, bank.clues_for("nephew").len());
+}
+
+#[test]
+fn imported_clues_with_the_same_meaningful_words_are_all_held_back() {
+    let mut bank = ClueBank::default();
+
+    let outcomes = bank.import(&[
+        make_imported_clue("entertained", "Had company"),
+        make_imported_clue("entertained", "Had company?"),
+    ]);
+
+    let expected_outcomes = vec![
+        ImportOutcome::HeldBack(HoldReason::SameMeaningfulWords {
+            other_texts: vec!["Had company?".to_string()],
+        }),
+        ImportOutcome::HeldBack(HoldReason::SameMeaningfulWords {
+            other_texts: vec!["Had company".to_string()],
+        }),
+    ];
+    assert_eq!(expected_outcomes, outcomes);
+    assert!(bank.clues_for("entertained").is_empty());
+}
+
+#[test]
+fn a_text_repeated_in_an_import_joins_once() {
+    let mut bank = ClueBank::default();
+
+    let outcomes = bank.import(&[
+        make_imported_clue("entertained", "Had company?"),
+        make_imported_clue("entertained", "Had company?"),
+    ]);
+
+    assert_eq!(
+        vec![ImportOutcome::Added, ImportOutcome::AlreadyHeld],
+        outcomes
+    );
+    assert_eq!(1, bank.clues_for("entertained").len());
+}
+
+#[test]
+fn an_imported_clue_whose_opening_words_are_taken_grows_its_tag() {
+    let mut bank = make_bank(&[(
+        "armagh",
+        "Northern Irish county you could make from crumbled graham?",
+    )]);
+
+    let outcomes = bank.import(&[make_imported_clue(
+        "armagh",
+        "Northern Irish county spelled with a limb and a cry of frustration",
+    )]);
+
+    assert_eq!(vec![ImportOutcome::Added], outcomes);
+    let clue = bank
+        .find("armagh", "northern-irish-county-spelled")
+        .expect("the imported clue should carry a grown tag");
+    assert!(clue.text().starts_with("Northern Irish county spelled"));
+}
+
+#[test]
+fn an_imported_clue_with_no_free_tag_is_held_back() {
+    let mut bank = make_bank(&[("impose", "Ask too much, in a way")]);
+
+    let outcomes = bank.import(&[make_imported_clue("impose", "Ask too much?")]);
+
+    let expected_outcome = ImportOutcome::HeldBack(HoldReason::NoFreeTag {
+        holder_text: "Ask too much, in a way".to_string(),
+    });
+    assert_eq!(vec![expected_outcome], outcomes);
+    assert_eq!(1, bank.clues_for("impose").len());
+}
+
+#[test]
+fn a_blank_imported_clue_is_held_back() {
+    let mut bank = ClueBank::default();
+
+    let outcomes = bank.import(&[
+        make_imported_clue("nephew", "Sibling's son."),
+        make_imported_clue("niece", "   "),
+    ]);
+
+    let expected_outcomes = vec![
+        ImportOutcome::Added,
+        ImportOutcome::HeldBack(HoldReason::Blank),
+    ];
+    assert_eq!(expected_outcomes, outcomes);
+    assert_eq!(1, bank.clues_for("nephew").len());
+    assert!(bank.clues_for("niece").is_empty());
+}
+
+#[test]
+fn a_text_both_banked_and_imported_is_listed_once_as_a_match() {
+    let mut bank = make_bank(&[("entertained", "Had company")]);
+
+    let outcomes = bank.import(&[
+        make_imported_clue("entertained", "Had company"),
+        make_imported_clue("entertained", "Had company?"),
+    ]);
+
+    let expected_outcomes = vec![
+        ImportOutcome::AlreadyHeld,
+        ImportOutcome::HeldBack(HoldReason::SameMeaningfulWords {
+            other_texts: vec!["Had company".to_string()],
+        }),
+    ];
+    assert_eq!(expected_outcomes, outcomes);
+}
+
+#[test]
+fn clues_to_import_may_leave_out_the_note_and_review() -> anyhow::Result<()> {
+    let json = r#"[
+        {
+            "answer": "nephew",
+            "text": "Sibling's son.",
+            "source": {"model": "gemma4:26b-qat"}
+        }
+    ]"#;
+
+    let clues = parse_imported_clues(json)?;
+
+    let expected_clue = ImportedClue {
+        answer: "nephew".to_string(),
+        text: "Sibling's son.".to_string(),
+        source: ClueSource::Model("gemma4:26b-qat".to_string()),
+        writer_note: None,
+        review: None,
+    };
+    assert_eq!(vec![expected_clue], clues);
+    Ok(())
+}
+
+#[test]
+fn clues_to_import_reject_a_field_the_import_does_not_know() {
+    let json = r#"[
+        {
+            "answer": "nephew",
+            "text": "Sibling's son.",
+            "source": "person",
+            "rating": "flat"
+        }
+    ]"#;
+
+    let error = parse_imported_clues(json).expect_err("an unknown field should fail to parse");
+
+    assert!(format!("{error:#}").contains("unknown field"));
+}
+
+#[test]
+fn a_saved_bank_keeps_a_clues_writer_note() {
+    let mut bank = ClueBank::default();
+    let mut imported_clue = make_imported_clue("nephew", "Sibling's son.");
+    imported_clue.writer_note = Some("A plain definition.".to_string());
+    bank.import(&[imported_clue]);
+
+    let reloaded_bank = ClueBank::from_json(&bank.to_json()).expect("a saved bank should load");
+
+    let clue = reloaded_bank
+        .find("nephew", "siblings-son")
+        .expect("the clue should survive the save");
+    assert_eq!(Some("A plain definition."), clue.writer_note());
+}
+
+#[test]
 fn puzzles_pick_among_an_answers_clues_by_their_indices() {
     let bank = make_bank(&[("nephew", "Sibling's son."), ("nephew", "Brother's son.")]);
 
@@ -561,6 +790,27 @@ fn an_edit_that_changes_the_text_drops_the_review() {
         .find("nephew", "siblings-son")
         .expect("the clue should have its new tag");
     assert_eq!(None, clue.review());
+}
+
+#[test]
+fn an_edit_that_changes_the_text_drops_the_writers_note() {
+    let mut bank = ClueBank::default();
+    let mut imported_clue = make_imported_clue("nephew", "Daughter's son.");
+    imported_clue.writer_note = Some("A plain definition.".to_string());
+    bank.import(&[imported_clue]);
+
+    bank.edit(
+        "nephew",
+        "daughters-son",
+        "Sibling's son.",
+        ClueSource::Person,
+    )
+    .expect("the edit should succeed");
+
+    let clue = bank
+        .find("nephew", "siblings-son")
+        .expect("the clue should have its new tag");
+    assert_eq!(None, clue.writer_note());
 }
 
 #[test]
