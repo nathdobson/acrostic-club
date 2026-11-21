@@ -5,9 +5,17 @@
 // puzzle that uses it. An answer can also hold several clues, so puzzles that share an answer can
 // show different clues.
 //
-// A tag is built from the clue's first few meaningful words (see `tag_for`), so it reads as the
-// clue it names. Loading the bank checks every tag against its clue's text, the way a checksum is
-// checked, so a tag can't drift onto a different clue unnoticed.
+// A tag is built from the clue's first few meaningful words (see `meaningful_words` and
+// `candidate_tags`), so it reads as the clue it names. When another of the answer's clues opens
+// with the same meaningful words, the newer clue's tag takes more of its words until the two
+// differ: beside "one two three four", which has the tag `one-two-three`, "one two three four
+// five" gets `one-two-three-four`. Loading the bank checks every tag against its clue's text, the
+// way a checksum is checked: the tag must spell the text's opening meaningful words. So a tag
+// can't drift onto a different clue unnoticed.
+//
+// No tag can tell apart two clues whose meaningful words all match, as those of "Had company" and
+// "Had company?" do: such clues differ only in punctuation, capitals, or filler words. Choosing
+// between them takes a person's judgment, so the bank refuses the second.
 //
 // Two alternate tag ideas were considered and discarded: An opaque ID, such as a number or a hash,
 // would read as nothing, and each has a further cost. A number can shift onto the wrong clue
@@ -26,20 +34,19 @@
 // review is more reliable than a model's, but a model's review avoids spoilers: a person who
 // reviews a clue sees its answer, which spoils the puzzles that use the clue.
 
-use std::borrow::Borrow;
 use std::collections::BTreeMap;
 use std::fmt;
 use std::path::{Path, PathBuf};
 
-use anyhow::{Context, anyhow, ensure};
+use anyhow::{Context, anyhow, bail, ensure};
 use serde::de::{self, MapAccess, Visitor};
 use serde::{Deserialize, Serialize};
 
 use crate::puzzle::{CLUED_PUZZLE_FILE, read_clued_puzzles};
 use crate::{PACKAGE_PATH, read_path_to_string, write_path};
 
-// How many meaningful words of a clue its tag keeps: enough to tell an answer's clues apart, and
-// few enough to read at a glance.
+// How many meaningful words of a clue its tag keeps, unless another clue already has that tag:
+// enough to tell most of an answer's clues apart, and few enough to read at a glance.
 const TAG_WORD_COUNT: usize = 3;
 
 // Words a tag skips: they appear in many clues but say little about any one of them.
@@ -89,20 +96,17 @@ pub fn clue_bank_path() -> PathBuf {
     PACKAGE_PATH.join("data/cluebank.json")
 }
 
-// Builds the tag for a clue's text: its first `TAG_WORD_COUNT` words that aren't filler words,
-// lowercased, reduced to ASCII letters and digits, and joined by hyphens. For example, "What
-// follows a battle or conflict." gives `what-follows-battle`. Two kinds of clue lack such words:
+// Returns a clue's meaningful words, which its tags are built from: the words of its text that
+// aren't filler words, lowercased and reduced to ASCII letters and digits. For example, "What
+// follows a battle or conflict." gives `what`, `follows`, `battle`, and `conflict`. Two kinds of
+// clue lack such words:
 //
 // - A clue made only of filler words, such as "As it is", keeps them instead.
-// - A clue with no letters or digits names its first symbols instead (see `symbol_words`), so
-//   ":-)" gives `colon-hyphen-rightparen`.
+// - A clue with no letters or digits names its symbols instead (see `symbol_words`), so ":-)"
+//   gives `colon`, `hyphen`, and `rightparen`.
 //
-// The tags stored in the bank and in the puzzles all come from this function. Changing it,
-// `TAG_WORD_COUNT`, `FILLER_WORDS`, or `SYMBOL_NAMES` therefore means retagging the bank and the
-// puzzles together.
-//
-// Fails only when the text is empty or only whitespace, since such a clue shows nothing to name.
-fn tag_for(text: &str) -> anyhow::Result<String> {
+// Fails only when the text is empty or only whitespace, since such a clue has nothing to name.
+fn meaningful_words(text: &str) -> anyhow::Result<Vec<String>> {
     // Transliterating before dropping non-ASCII characters keeps accented letters, so "Pokémon"
     // gives `pokemon` rather than `pokmon`.
     let ascii_text = any_ascii::any_ascii(text).to_lowercase();
@@ -121,25 +125,92 @@ fn tag_for(text: &str) -> anyhow::Result<String> {
             !symbol_words.is_empty(),
             "cannot build a tag for clue {text:?}, which is empty or only whitespace"
         );
-        return Ok(join_tag_words(&symbol_words));
+        return Ok(symbol_words);
     }
 
-    let meaningful_words: Vec<&str> = words
+    let non_filler_words: Vec<String> = words
         .iter()
-        .map(String::as_str)
-        .filter(|word| !FILLER_WORDS.contains(word))
+        .filter(|word| !FILLER_WORDS.contains(&word.as_str()))
+        .cloned()
         .collect();
 
     // A clue made only of filler words, such as "As it is", still needs a tag.
-    let tag_words = if meaningful_words.is_empty() {
-        words.iter().map(String::as_str).collect()
+    if non_filler_words.is_empty() {
+        Ok(words)
     } else {
-        meaningful_words
-    };
-    Ok(join_tag_words(&tag_words))
+        Ok(non_filler_words)
+    }
 }
 
-// Names the symbols of a clue that has no letters or digits, one tag word per symbol, such as
+// Returns the tags a clue with these meaningful words may carry, shortest first: its first
+// `TAG_WORD_COUNT` meaningful words joined by hyphens, such as `what-follows-battle`, then one
+// more word at a time up to all of them, such as `what-follows-battle-conflict`. A clue takes the
+// shortest tag that none of its answer's other clues has.
+//
+// The tags stored in the bank and in the puzzles all come from this function. Changing it,
+// `meaningful_words`, `TAG_WORD_COUNT`, `FILLER_WORDS`, or `SYMBOL_NAMES` therefore means
+// retagging the bank and the puzzles together.
+fn candidate_tags(words: &[String]) -> impl Iterator<Item = String> + '_ {
+    let shortest_length = words.len().min(TAG_WORD_COUNT);
+    (shortest_length..=words.len()).map(|length| words[..length].join("-"))
+}
+
+// Where a clue's text would go among its answer's clues, as `place` finds it.
+enum Placement {
+    // The clue at this position already has the text.
+    AlreadyHeld(usize),
+    // The clue with this other text has the same meaningful words, so no tag could tell the two
+    // apart.
+    SameMeaningfulWords { other_text: String },
+    // Every tag the text's meaningful words allow already names another clue. The clue with this
+    // text holds the longest of those tags.
+    NoFreeTag { holder_text: String },
+    // The text can join under this tag, the shortest its meaningful words allow that no other clue
+    // has.
+    FreeTag { tag: String },
+}
+
+// Finds where `text` would go among `clues`, passing over the clue at `skipped_position`, such as
+// a clue whose text is being replaced.
+//
+// Fails only when the text is empty or only whitespace.
+fn place(
+    clues: &[BankedClue],
+    text: &str,
+    skipped_position: Option<usize>,
+) -> anyhow::Result<Placement> {
+    let words = meaningful_words(text)?;
+    let other_clues = || {
+        clues
+            .iter()
+            .enumerate()
+            .filter(move |(position, _)| Some(*position) != skipped_position)
+    };
+    if let Some((position, _)) = other_clues().find(|(_, clue)| clue.text == text) {
+        return Ok(Placement::AlreadyHeld(position));
+    }
+    let same_words_clue = other_clues()
+        .map(|(_, clue)| clue)
+        .find(|clue| meaningful_words(&clue.text).is_ok_and(|clue_words| clue_words == words));
+    if let Some(same_words_clue) = same_words_clue {
+        return Ok(Placement::SameMeaningfulWords {
+            other_text: same_words_clue.text.clone(),
+        });
+    }
+    let is_taken = |tag: &str| other_clues().any(|(_, clue)| clue.tag == tag);
+    if let Some(tag) = candidate_tags(&words).find(|tag| !is_taken(tag)) {
+        return Ok(Placement::FreeTag { tag });
+    }
+    let longest_tag = words.join("-");
+    let (_, holder) = other_clues()
+        .find(|(_, clue)| clue.tag == longest_tag)
+        .expect("when every tag is taken, some other clue should hold the longest");
+    Ok(Placement::NoFreeTag {
+        holder_text: holder.text.clone(),
+    })
+}
+
+// Names the symbols of a clue that has no letters or digits, one word per symbol, such as
 // `colon` and `hyphen`. A symbol outside ASCII is named by its ASCII transliteration, so "—" gives
 // `hyphen`, and "…" gives `period` three times. A symbol with no ASCII form, such as "𝄞", stands
 // for itself.
@@ -174,11 +245,6 @@ fn symbol_word(symbol: char) -> String {
             format!("u{code_point:x}")
         }
     }
-}
-
-// Joins a tag's first `TAG_WORD_COUNT` words with hyphens.
-fn join_tag_words(words: &[impl Borrow<str>]) -> String {
-    words[..words.len().min(TAG_WORD_COUNT)].join("-")
 }
 
 // Where a clue came from.
@@ -254,7 +320,8 @@ pub struct BankedClue {
 }
 
 impl BankedClue {
-    // Returns the name puzzles use for this clue, which is always `tag_for(self.text())`.
+    // Returns the name puzzles use for this clue, which spells the text's opening meaningful words
+    // (see `candidate_tags`).
     pub fn tag(&self) -> &str {
         &self.tag
     }
@@ -336,15 +403,19 @@ impl ClueBank {
         for (answer, clues) in &clues_by_answer {
             for (position, clue) in clues.iter().enumerate() {
                 let BankedClue { tag, text, .. } = clue;
-                let expected_tag = tag_for(text)?;
+                let words = meaningful_words(text)?;
+                let shortest_tag = candidate_tags(&words)
+                    .next()
+                    .expect("a clue's meaningful words should allow at least one tag");
                 ensure!(
-                    *tag == expected_tag,
+                    candidate_tags(&words).any(|candidate| candidate == *tag),
                     "the clue {text:?} for {answer:?} has tag {tag:?}, but that text calls for \
-                     {expected_tag:?}. If the text was edited by hand, restore the text the tag \
-                     was built from, then make the change through `edit_clues`, which also \
-                     renames the tag in the puzzles that name the clue; a person can run it as \
-                     `global edit-clue-as-person`. If `tag_for` changed, retag the bank and the \
-                     puzzles together."
+                     {shortest_tag:?}, or a longer tag built from more of its meaningful words. \
+                     If the text was edited by hand, restore the text the tag was built from, \
+                     then make the change through `edit_clues`, which also renames the tag in the \
+                     puzzles that name the clue; a person can run it as `global \
+                     edit-clue-as-person`. If `meaningful_words` or `candidate_tags` changed, \
+                     retag the bank and the puzzles together."
                 );
                 let is_repeated_tag = clues[..position].iter().any(|earlier| earlier.tag == *tag);
                 ensure!(
@@ -392,49 +463,54 @@ impl ClueBank {
     }
 
     // Adds an unreviewed clue for an answer and returns it. When the bank already holds this text
-    // for the answer, returns that clue instead of adding a copy.
+    // for the answer, returns that clue instead of adding it again. The clue takes the shortest
+    // tag its meaningful words allow that none of the answer's other clues has (see
+    // `candidate_tags`).
     //
-    // Fails when the text's tag already names a different clue for the answer.
+    // Fails when another of the answer's clues has the same meaningful words, or when every tag
+    // the clue's meaningful words allow is taken.
     pub fn add(
         &mut self,
         answer: &str,
         text: &str,
         source: ClueSource,
     ) -> anyhow::Result<&BankedClue> {
-        let tag = tag_for(text)?;
+        // Placing the clue before creating the answer's entry keeps a clue that fails from leaving
+        // an empty entry behind.
+        let placement = place(self.clues_for(answer), text, None)?;
         let clues = self.clues_by_answer.entry(answer.to_string()).or_default();
-        let position = match clues.iter().position(|clue| clue.tag == tag) {
-            Some(position) => {
-                let existing_text = &clues[position].text;
-                ensure!(
-                    existing_text == text,
-                    "cannot add the clue {text:?} for {answer:?}: its tag {tag:?} already names \
-                     the clue {existing_text:?}"
-                );
-                position
-            }
-            None => {
-                clues.push(BankedClue {
-                    tag,
-                    text: text.to_string(),
-                    source,
-                    review: None,
-                });
-                clues.len() - 1
-            }
+        let tag = match placement {
+            Placement::AlreadyHeld(position) => return Ok(&clues[position]),
+            Placement::SameMeaningfulWords { other_text } => bail!(
+                "cannot add the clue {text:?} for {answer:?}: it has the same meaningful words as \
+                 the clue {other_text:?}, differing only in punctuation, capitals, or filler \
+                 words, so a person should choose between them"
+            ),
+            Placement::NoFreeTag { holder_text } => bail!(
+                "cannot add the clue {text:?} for {answer:?}: every tag its meaningful words \
+                 allow is taken, the longest by the clue {holder_text:?}"
+            ),
+            Placement::FreeTag { tag } => tag,
         };
-        Ok(&clues[position])
+        clues.push(BankedClue {
+            tag,
+            text: text.to_string(),
+            source,
+            review: None,
+        });
+        Ok(clues.last().expect("the clue just added should come last"))
     }
 
     // Replaces a clue's text, credits the new text to `source`, and returns the clue's tag for the
     // new text. A review covers only the text it judged, so the edit drops the clue's review, and
     // `review` can record one for the new text. Text that matches the clue's current text changes
-    // nothing, so the clue keeps its source and review. The tag changes whenever the edit changes
-    // the words the tag is built from, and every puzzle naming the clue must then switch to the
-    // new tag. `edit_clues` updates the bank and those puzzles together.
+    // nothing, so the clue keeps its tag, source, and review. New text takes the shortest tag its
+    // meaningful words allow that none of the answer's other clues has, as in `add`. When that tag
+    // differs from the old one, every puzzle naming the clue must switch to it; `edit_clues`
+    // updates the bank and those puzzles together.
     //
-    // Fails when the answer has no clue with this tag, or when the new tag already names another
-    // of the answer's clues.
+    // Fails when the answer has no clue with this tag, when another of its clues has the new
+    // text's meaningful words, or when every tag those words allow is taken.
     pub fn edit(
         &mut self,
         answer: &str,
@@ -442,7 +518,6 @@ impl ClueBank {
         new_text: &str,
         source: ClueSource,
     ) -> anyhow::Result<String> {
-        let new_tag = tag_for(new_text)?;
         let clues = self
             .clues_by_answer
             .get_mut(answer)
@@ -451,23 +526,31 @@ impl ClueBank {
             .iter()
             .position(|clue| clue.tag == tag)
             .ok_or_else(|| anyhow!("{answer:?} has no clue tagged {tag:?}"))?;
-        let is_taken_by_another_clue = clues
-            .iter()
-            .enumerate()
-            .any(|(other, clue)| other != position && clue.tag == new_tag);
-        ensure!(
-            !is_taken_by_another_clue,
-            "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: that text's tag \
-             {new_tag:?} already names another clue"
-        );
-
-        let clue = &mut clues[position];
-        if clue.text != new_text {
-            clue.tag = new_tag.clone();
-            clue.text = new_text.to_string();
-            clue.source = source;
-            clue.review = None;
+        if clues[position].text == new_text {
+            return Ok(tag.to_string());
         }
+
+        let new_tag = match place(clues, new_text, Some(position))? {
+            Placement::FreeTag { tag } => tag,
+            Placement::AlreadyHeld(_) => bail!(
+                "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: another of its \
+                 clues already has that text"
+            ),
+            Placement::SameMeaningfulWords { other_text } => bail!(
+                "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: that text has the \
+                 same meaningful words as the clue {other_text:?}, differing only in \
+                 punctuation, capitals, or filler words"
+            ),
+            Placement::NoFreeTag { holder_text } => bail!(
+                "cannot change the clue {tag:?} for {answer:?} to {new_text:?}: every tag that \
+                 text's meaningful words allow is taken, the longest by the clue {holder_text:?}"
+            ),
+        };
+        let clue = &mut clues[position];
+        clue.tag = new_tag.clone();
+        clue.text = new_text.to_string();
+        clue.source = source;
+        clue.review = None;
         Ok(new_tag)
     }
 

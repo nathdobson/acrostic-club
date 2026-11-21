@@ -129,6 +129,33 @@ fn loading_accepts_a_bank_whose_tags_match_their_text() {
 }
 
 #[test]
+fn loading_accepts_a_tag_grown_past_three_words() {
+    let json = r#"{
+        "armagh": [
+            {
+                "tag": "northern-irish-county",
+                "text": "Northern Irish county you could make from crumbled graham?",
+                "source": "person",
+                "review": null
+            },
+            {
+                "tag": "northern-irish-county-spelled",
+                "text": "Northern Irish county spelled with a limb and a cry of frustration",
+                "source": "person",
+                "review": null
+            }
+        ]
+    }"#;
+
+    let bank = ClueBank::from_json(json).expect("a tag grown from the text's words should load");
+
+    let clue = bank
+        .find("armagh", "northern-irish-county-spelled")
+        .expect("the bank should hold the clue with the grown tag");
+    assert!(clue.text().starts_with("Northern Irish county spelled"));
+}
+
+#[test]
 fn loading_reads_a_clues_review() {
     let json = r#"{
         "nephew": [
@@ -341,15 +368,47 @@ fn adding_text_the_bank_already_holds_keeps_one_copy() {
 }
 
 #[test]
-fn adding_a_clue_whose_tag_names_a_different_clue_fails() {
+fn adding_a_clue_with_another_clues_meaningful_words_fails() {
     let mut bank = make_bank(&[("nephew", "Sibling's son.")]);
 
+    // The two texts differ only in punctuation, capitals, and the filler word "a".
     let error = bank
         .add("nephew", "A sibling's son", ClueSource::Person)
-        .expect_err("a clue whose tag is taken should not be added");
+        .expect_err("a clue with another clue's meaningful words should not be added");
 
-    assert!(error.to_string().contains("already names"));
+    assert!(error.to_string().contains("same meaningful words"));
     assert_eq!(1, bank.clues_for("nephew").len());
+}
+
+#[test]
+fn adding_a_clue_whose_opening_words_are_taken_grows_its_tag() {
+    let mut bank = make_bank(&[(
+        "armagh",
+        "Northern Irish county you could make from crumbled graham?",
+    )]);
+
+    let clue = bank
+        .add(
+            "armagh",
+            "Northern Irish county spelled with a limb and a cry of frustration",
+            ClueSource::Person,
+        )
+        .expect("a longer tag should be free");
+
+    assert_eq!("northern-irish-county-spelled", clue.tag());
+}
+
+#[test]
+fn adding_a_clue_whose_every_tag_is_taken_fails() {
+    let mut bank = make_bank(&[("impose", "Ask too much, in a way")]);
+
+    // All three of the new clue's words make up the other clue's tag, so no longer tag remains.
+    let error = bank
+        .add("impose", "Ask too much?", ClueSource::Person)
+        .expect_err("a clue with no free tag should not be added");
+
+    assert!(error.to_string().contains("every tag"));
+    assert_eq!(1, bank.clues_for("impose").len());
 }
 
 #[test]
@@ -615,7 +674,25 @@ async fn a_missing_bank_does_not_pass_for_a_missing_stage_file() {
 }
 
 #[test]
-fn editing_a_clue_onto_another_clues_tag_fails() {
+fn editing_a_clue_onto_a_taken_tag_grows_its_tag() -> anyhow::Result<()> {
+    let mut bank = make_bank(&[
+        ("nephew", "Daughter's son."),
+        ("nephew", "Sibling's son, for one"),
+    ]);
+
+    let new_tag = bank.edit(
+        "nephew",
+        "daughters-son",
+        "Sibling's son, for one example",
+        ClueSource::Person,
+    )?;
+
+    assert_eq!("siblings-son-one-example", new_tag);
+    Ok(())
+}
+
+#[test]
+fn editing_a_clue_to_another_clues_meaningful_words_fails() {
     let mut bank = make_bank(&[("nephew", "Daughter's son."), ("nephew", "Sibling's son.")]);
 
     let error = bank
@@ -625,9 +702,9 @@ fn editing_a_clue_onto_another_clues_tag_fails() {
             "A sibling's son",
             ClueSource::Person,
         )
-        .expect_err("an edit onto a taken tag should fail");
+        .expect_err("an edit to another clue's meaningful words should fail");
 
-    assert!(error.to_string().contains("already names"));
+    assert!(error.to_string().contains("same meaningful words"));
     let clue = bank
         .find("nephew", "daughters-son")
         .expect("the clue should keep its tag");
