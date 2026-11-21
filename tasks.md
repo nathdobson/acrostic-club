@@ -19,12 +19,12 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 - [ ] **Skip quotes another puzzle already uses** — some quotes appear in
       several records, so two puzzle numbers can yield the same puzzle, as
       415441 and 417219 do.
-- [ ] **Revisit the 15,000-word cap on the single-word tries** — the
-      word-pair trie likely held the cap down; weigh how many more puzzles a
-      higher cap solves against more obscure answers and slower searches.
+- [ ] **Revisit the 15,000-word cap on the tries** — the word-pair trie
+      likely held the cap down; weigh how many more puzzles a higher cap
+      solves against more obscure answers and slower searches.
 - [ ] **Decide how `randomize1` should treat six-letter answers** — it only
-      swaps an answer for a shorter word, but the single-word tries hold no
-      word under six letters, so it never changes a six-letter answer. On 40
+      swaps an answer for a shorter word, but the tries hold no word under
+      six letters, so it never changes a six-letter answer. On 40
       sample puzzles, about three quarters of its searches found no word. Its
       `old.count() > 4` check suggests it expected five-letter words.
 

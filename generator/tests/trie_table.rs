@@ -14,8 +14,7 @@ use acrostic_generator::trie_table;
 //     }
 // }
 
-// Builds a trie that holds each word's letters as both its key and its value, as the single-word
-// tries do.
+// Builds a trie that holds each word's letters as both its key and its value.
 fn build_letter_trie(words: &[&str]) -> Box<FlatTrie<LetterSet>> {
     words
         .iter()
