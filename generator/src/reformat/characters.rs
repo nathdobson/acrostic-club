@@ -15,7 +15,7 @@ pub fn repair_characters(quote: &str) -> String {
             // A soft hyphen.
             '\u{ad}'
             // A `¬`, which the pinned quotes hold only in place of a soft hyphen at an old line
-            // break, as in `unpro¬cessed`.
+            // break, as in "unpro¬cessed".
             | '¬'
             // A combining grapheme joiner.
             | '\u{34f}'
@@ -45,8 +45,8 @@ pub fn repair_characters(quote: &str) -> String {
             _ if character.is_ascii_control() && !character.is_whitespace() => repaired.push(' '),
             _ => {
                 // A fraction character becomes digits and a slash, which then show as a number. A
-                // space keeps it apart from a whole number just before it, so that `9¾` becomes
-                // `9 3/4` rather than `93/4`.
+                // space keeps it apart from a whole number just before it, so that "9¾" becomes
+                // "9 3/4" rather than "93/4".
                 if let Some(fraction) = fraction_in_ascii(character) {
                     if repaired.ends_with(char::is_numeric) {
                         repaired.push(' ');
@@ -61,7 +61,7 @@ pub fn repair_characters(quote: &str) -> String {
     repaired
 }
 
-// The ASCII form of a fraction character, such as `1/2` for `½`, or `None` for any other character.
+// The ASCII form of a fraction character, such as "1/2" for `½`, or `None` for any other character.
 fn fraction_in_ascii(character: char) -> Option<&'static str> {
     let ascii = any_ascii_char(character);
     let (numerator, denominator) = ascii.split_once('/')?;

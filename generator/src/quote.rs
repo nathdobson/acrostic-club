@@ -117,8 +117,8 @@ impl Quote {
     // Builds a quote from one record of the quote file. A record holds the quote, its source, and
     // its comma-separated topics, followed by empty padding fields:
     //
-    // - `Carpe diem.,Horace,"time, life",,,` holds the quote `Carpe diem.`, the source `Horace`,
-    //   and the topics `time` and `life`.
+    // - `Carpe diem.,Horace,"time, life",,,` holds the quote "Carpe diem.", the source "Horace",
+    //   and the topics "time" and "life".
     // - `Veni, vidi, vici.,Julius Caesar,history,,,` splits its quote across three fields. The last
     //   two fields are still the source and the topics, and the pieces before them rejoin, with
     //   commas, into the quote.
@@ -126,8 +126,8 @@ impl Quote {
     //   source.
     // - `Veni, vidi, vici.,Julius Caesar,,,` splits its quote and has no topics. The pieces after
     //   the first start with a space, so they rejoin the quote, and the last field is the source.
-    // - `Carpe diem.,Horace, Odes,,,` splits its source and has no topics. ` Odes` starts with a
-    //   space, so it rejoins the source, giving `Horace, Odes`.
+    // - `Carpe diem.,Horace, Odes,,,` splits its source and has no topics. " Odes" starts with a
+    //   space, so it rejoins the source, giving "Horace, Odes".
     //
     // The topics are discarded, since puzzles use only the quote and the source. The parser still
     // has to find the topics field, though: the source is the field just before the topics.
@@ -137,7 +137,7 @@ impl Quote {
             fields.pop();
         }
         // A field written without quotation marks splits at each of its commas. Where a space
-        // followed a comma, the next piece starts with that space, as ` vici.` and ` Odes` do. A
+        // followed a comma, the next piece starts with that space, as " vici." and " Odes" do. A
         // whole field almost never starts with whitespace, so a field that does rejoins the field
         // before it. Rejoining may misread the records listed in `tasks.md #known-data-issues`.
         let mut rejoined_fields: Vec<String> = vec![];
@@ -159,7 +159,7 @@ impl Quote {
             [quote, source] => (std::slice::from_ref(quote), source.as_str()),
             // Rejoining misses a split with no space after its comma, so the quote can still span
             // several fields. For example, `One, two,three,Author,topic` rejoins into the fields
-            // `One, two`, `three`, `Author`, and `topic`, and the quote is `One, two,three`. The
+            // "One, two", "three", "Author", and "topic", and the quote is "One, two,three". The
             // last field holds the topics, which are discarded.
             [quote_pieces @ .., source, _topics] => (quote_pieces, source.as_str()),
             // No fields, or a quote alone.
@@ -265,7 +265,7 @@ pub async fn build_quotes() -> io::Result<()> {
 
 // Starts the puzzle numbered `puzzle_number` from its quote: stage 0's puzzle holds just the
 // quote's source and reformatted text. The solved puzzle shows the reformatted text, such as
-// `end. Begin` for `end.Begin`. Fails when the reformatted quote can't make a puzzle, as when it
+// "end. Begin" for "end.Begin". Fails when the reformatted quote can't make a puzzle, as when it
 // falls outside the length limits; `check_quote` gives every reason.
 pub fn start_puzzle(puzzle_number: usize, quote: &Quote) -> io::Result<Puzzle> {
     let reformatted_quote = Quote {

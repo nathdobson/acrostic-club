@@ -254,7 +254,7 @@ pub async fn preview_chat(puzzle_index: usize, client: &ClueClient) -> anyhow::R
 //     new:  Heraldic silver  [gemma4:31b-qat]
 // ```
 //
-// Each clue is followed by where it came from, and `(none)` stands in for a missing clue on either
+// Each clue is followed by where it came from, and "(none)" stands in for a missing clue on either
 // side. The puzzle and the bank are only read, so the preview changes nothing in either.
 pub async fn preview_clues(
     puzzle: &Puzzle,

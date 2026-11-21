@@ -7,11 +7,11 @@ use std::io;
 
 // Lays a quote out as the puzzle's cells: one per letter or digit, a space for whitespace or a
 // slash between words, a hyphen for each dash, and any symbols inside a number or beside one as
-// written, as in `3:16` or `17%`. Any other mark shows no cell, so the words on either side of it
-// join: `don't` gives `DONT`.
+// written, as in "3:16" or "17%". Any other mark shows no cell, so the words on either side of it
+// join: "don't" gives "DONT".
 //
-// Expects text that `reformat_quote` has already formatted. Unreformatted text such as `end.Begin`
-// should never arrive; it would lay out as `ENDBEGIN`, without any intervening spaces.
+// Expects text that `reformat_quote` has already formatted. Unreformatted text such as "end.Begin"
+// should never arrive; it would lay out as "ENDBEGIN", without any intervening spaces.
 pub fn quote_to_cells(input: &str) -> io::Result<String> {
     let runs = split_into_runs(input)?;
     let mut cells = String::new();
@@ -36,16 +36,16 @@ fn marks_to_cells(
     word_after: Option<&str>,
 ) -> String {
     match place_marks(marks, word_before, word_after) {
-        // Inside a number, as in `3:16`, the marks show as written.
+        // Inside a number, as in "3:16", the marks show as written.
         MarksPlacement::InsideNumber => text.to_string(),
         MarksPlacement::OutsideNumber {
             number_suffix,
             between,
             number_prefix,
         } => {
-            // At either end of the quote, marks separate no words, so they show no cells: `—Yes.`
-            // gives `YES`, not `-YES`. A symbol beside a number still shows, since it belongs to
-            // the number: `100%.` gives `100%`.
+            // At either end of the quote, marks separate no words, so they show no cells: "—Yes."
+            // gives "YES", not "-YES". A symbol beside a number still shows, since it belongs to
+            // the number: "100%." gives "100%".
             let is_between_words = word_before.is_some() && word_after.is_some();
             let between_cells = if is_between_words {
                 cells_between_words(&marks[between])
@@ -70,8 +70,8 @@ fn cells_between_words(marks: &[Mark]) -> String {
     cells
 }
 
-// Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII: `Émile
-// Zola` gives `EMILEZOLA`.
+// Spells out a puzzle's source as its letters, one per answer, transliterated to ASCII: "Émile
+// Zola" gives "EMILEZOLA".
 pub fn source_to_letters(source: &str) -> String {
     LetterString::from_str(source)
         .iter()

@@ -1,5 +1,5 @@
 // Restores the spaces that a quote's text lost before it reached this repository, wherever
-// punctuation between two words stands in for one, as in `end.Begin`. The solved puzzle shows the
+// punctuation between two words stands in for one, as in "end.Begin". The solved puzzle shows the
 // restored text, and stage 1 lays it out as cells, so the cells break the words there too.
 
 use std::collections::HashSet;
@@ -22,8 +22,8 @@ const STRAIGHT_QUOTATION_MARKS: &[char] = &['"', '\''];
 const ENDING_PUNCTUATION: &[char] = &[',', '.', ';', ':', '!', '?', '…'];
 
 // Adds a space wherever punctuation between two words stands in for a space the text lost:
-// `end.Begin` becomes `end. Begin`, while `don't` and `3:16` stay as they are. The space goes
-// before the first mark that opens what follows, as in `said, “Go`, or else after all the marks.
+// "end.Begin" becomes "end. Begin", while "don't" and "3:16" stay as they are. The space goes
+// before the first mark that opens what follows, as in "said, “Go", or else after all the marks.
 //
 // Fails on a quote that no puzzle can show, such as one holding `☥`: finding where words break
 // means telling every character apart.
@@ -43,12 +43,12 @@ pub fn restore_lost_spaces(quote: &str) -> io::Result<String> {
 
 // Finds each place where punctuation between two words stands in for a space the text lost. Gives
 // each as the byte range of the marks among which the space belongs: `3..4`, the `.`, for
-// `end.Begin`.
+// "end.Begin".
 //
 // The marks between two words lost no space when one of them already shows a cell between the
 // words, as whitespace, a dash, or a slash does; when they sit inside a word, as the apostrophe
-// does in `don't`; or when they sit inside a number, as the colon does in `3:16`. A symbol beside a
-// number stays outside the range, since a space between the two would part them: for `17%of`, the
+// does in "don't"; or when they sit inside a number, as the colon does in "3:16". A symbol beside a
+// number stays outside the range, since a space between the two would part them: for "17%of", the
 // range is the empty `3..3`, just after the `%`.
 fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
     let runs = split_into_runs(quote)?;
@@ -67,7 +67,7 @@ fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
             continue;
         };
         let between = match place_marks(marks, Some(word_before), Some(word_after)) {
-            // Marks inside a number, as in `3:16`, stand in for no space.
+            // Marks inside a number, as in "3:16", stand in for no space.
             MarksPlacement::InsideNumber => continue,
             MarksPlacement::OutsideNumber { between, .. } => between,
         };
@@ -76,7 +76,7 @@ fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
             .iter()
             .any(|mark| mark.cell_between_words().is_some());
         // No marks left between the words means that a symbol beside a number ran straight into the
-        // next word, as in `17%of`.
+        // next word, as in "17%of".
         let is_one_word =
             !between_marks.is_empty() && is_inside_word(between_marks, word_before, word_after);
         if shows_a_break_already || is_one_word {
@@ -89,9 +89,9 @@ fn find_lost_spaces(quote: &str) -> io::Result<Vec<Range<usize>>> {
 
 // Whether marks between two words, none of which keeps the words apart, sit inside one word.
 //
-// Apostrophes, brackets, and a few symbols sit inside words: `don't`, `[T]he`, `f*ck`, `AT&T`. So
-// does a dot between single letters, as in `U.S.A.` Other punctuation between two words stands in
-// for a space or line break that the text lost, as in `end.Begin` or `love#life`.
+// Apostrophes, brackets, and a few symbols sit inside words: "don't", "[T]he", "f*ck", "AT&T". So
+// does a dot between single letters, as in "U.S.A." Other punctuation between two words stands in
+// for a space or line break that the text lost, as in "end.Begin" or "love#life".
 fn is_inside_word(marks: &[Mark], word_before: &str, word_after: &str) -> bool {
     let is_single_letter = |word: &str| {
         word.len() == 1
@@ -141,7 +141,7 @@ impl QuotationMarkRole {
 
 // Finds the straight quotation marks that open a quotation rather than close one, as their byte
 // offsets in `quote`: in `"Go,"he said`, just the first mark's offset, 0. A `'` between two letters
-// or digits is an apostrophe, as in `don't`, so it plays no part. The characters beside a mark show
+// or digits is an apostrophe, as in "don't", so it plays no part. The characters beside a mark show
 // its role where they can, as a space before it shows that it opens; any other mark takes the role
 // opposite to the mark beside it.
 fn find_opening_straight_marks(quote: &str) -> HashSet<usize> {

@@ -67,7 +67,7 @@ fn test_split_quote_without_topics_is_rejoined_whole() {
 fn test_source_of_a_split_quote_without_topics_is_the_last_field() {
     let quotes = parse_numbered_by_index("Veni, vidi, vici.,Julius Caesar,,,");
 
-    // Read by position, ` vici.` would be the source and `Julius Caesar` the topics. But ` vici.`
+    // Read by position, " vici." would be the source and "Julius Caesar" the topics. But " vici."
     // starts with a space, which marks it as a piece of the quote.
     assert_eq!(quotes[0].source, "Julius Caesar");
 }
@@ -84,7 +84,7 @@ fn test_split_quote_without_source_or_topics_is_rejoined_whole() {
 fn test_source_split_at_a_comma_is_rejoined_whole() {
     let quotes = parse_numbered_by_index("Carpe diem.,Horace, Odes,,,");
 
-    // Read by position, ` Odes` would be the topics.
+    // Read by position, " Odes" would be the topics.
     assert_eq!(quotes[0].source, "Horace, Odes");
 }
 

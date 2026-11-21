@@ -6,7 +6,7 @@ use acrostic_generator::reformat::reformat_quote;
 
 #[test]
 fn reformatting_repairs_characters_before_restoring_lost_spaces() {
-    // The zero-width space hides the lost space after `end.` until the repair removes it.
+    // The zero-width space hides the lost space after "end." until the repair removes it.
     let reformatted_quote =
         reformat_quote("end.\u{200b}Begin").expect("the quote should lay out as cells");
 
@@ -157,7 +157,7 @@ fn a_straight_mark_before_a_comma_closes() {
 
 #[test]
 fn an_apostrophe_inside_a_word_plays_no_part_in_a_quotation() {
-    // Were the apostrophe in `Can't` to close the quotation, the mark after `stop,` would open
+    // Were the apostrophe in "Can't" to close the quotation, the mark after "stop," would open
     // another.
     assert_eq!(
         spaces_restored("'Can't stop,'he said."),

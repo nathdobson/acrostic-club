@@ -188,7 +188,7 @@ fn several_number_symbols_touching_a_number_all_show() {
 
 #[test]
 fn a_number_symbol_after_a_range_shows_along_with_the_range() {
-    // The first `%` sits inside the number `50%-60`, and the second touches its end.
+    // The first `%` sits inside the number "50%-60", and the second touches its end.
     assert_eq!(cells_for("50%-60% of"), "50%-60% OF");
 }
 
