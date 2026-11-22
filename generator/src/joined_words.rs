@@ -292,8 +292,8 @@ pub async fn add_model_proposals(
 
 // Adds `model`'s proposals to the bank's file. The model reads every publishable quote, meaning
 // every quote that `QuoteCatalog::start_puzzle` accepts, or only those among `puzzle_numbers` when
-// it's given. The model sees each quote as stage 0 writes it. A message names each puzzle given
-// that the model skips, since its quote can't make a puzzle.
+// it's given. A message names each puzzle given that the model skips, since its quote can't make a
+// puzzle.
 //
 // Nothing is written until every quote is done. The reply cache keeps the model's replies, though,
 // so a rerun after an interruption repeats little work.
@@ -304,7 +304,10 @@ pub async fn fill_joined_word_bank(
 ) -> anyhow::Result<()> {
     let path = joined_word_bank_path();
     let mut bank = JoinedWordBank::read(&path).await?;
-    let quote_catalog = QuoteCatalog::load().await?;
+    // The quotes leave out the bank's splits, since the bank looks up its words in them: once
+    // "theyhad" reads "they had", no quote holds "theyhad", and the bank's file would list no
+    // puzzle beside it.
+    let quote_catalog = QuoteCatalog::load(JoinedWordBank::default()).await?;
     let stage0_quotes: Vec<(usize, String)> = quote_catalog
         .puzzle_numbers()
         .filter_map(|puzzle_number| {

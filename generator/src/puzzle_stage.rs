@@ -3,6 +3,7 @@ use anyhow::Context;
 use crate::add_letters::add_letters;
 use crate::clues::{ClueClient, add_chat, preview_chat};
 use crate::command_line::PuzzleStage;
+use crate::joined_words::{JoinedWordBank, joined_word_bank_path};
 use crate::maintenance::rebuild_cells::rebuild_cells_in_files;
 use crate::quote::{QuoteCatalog, add_quote};
 use crate::search::add_answers;
@@ -37,7 +38,10 @@ impl LoadedPuzzleStage {
         Ok(match stage {
             // Repairing the quotes and finding the duplicates among them takes a pass over the
             // whole quote list.
-            PuzzleStage::Quote => Self::Quote(QuoteCatalog::load().await?),
+            PuzzleStage::Quote => {
+                let joined_word_bank = JoinedWordBank::read(&joined_word_bank_path()).await?;
+                Self::Quote(QuoteCatalog::load(joined_word_bank).await?)
+            }
             PuzzleStage::Letters => Self::Letters,
             // The answers stage searches tries built from the word list.
             PuzzleStage::Answers => {

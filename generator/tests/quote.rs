@@ -1,7 +1,9 @@
+use std::collections::{BTreeMap, BTreeSet};
 use std::fs;
 use std::io;
 
 use acrostic_generator::PACKAGE_PATH;
+use acrostic_generator::joined_words::{JoinedWordBank, joined_word_bank_path};
 use acrostic_generator::puzzle::Puzzle;
 use acrostic_generator::quote::{
     PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS, Quote, RepairedQuote, RepeatedQuotes,
@@ -143,9 +145,21 @@ fn test_unnumbered_records_are_skipped() {
 const UNALLOWLISTED_PUZZLE_NUMBER: usize = 1;
 
 // Repairs `quote` and starts a puzzle from it under a number off the allowlist, as for a new
-// puzzle.
+// puzzle, with no joined words to split.
 fn start_unallowlisted_puzzle(quote: &Quote) -> io::Result<Puzzle> {
-    start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, &RepairedQuote::new(quote))
+    start_puzzle(
+        UNALLOWLISTED_PUZZLE_NUMBER,
+        &RepairedQuote::new(quote),
+        &JoinedWordBank::default(),
+    )
+}
+
+// A joined-word bank that splits `joined` into `split`, and keeps no word whole.
+fn bank_splitting(joined: &str, split: &str) -> JoinedWordBank {
+    JoinedWordBank {
+        keep_whole: BTreeSet::new(),
+        splits: BTreeMap::from([(joined.to_string(), split.to_string())]),
+    }
 }
 
 // Builds a quote from `text` and `source` that fits stage 0's length limits, so that only their
@@ -254,6 +268,37 @@ fn test_started_puzzle_repairs_characters_before_restoring_lost_spaces() {
 }
 
 #[test]
+fn test_started_puzzle_splits_the_banks_joined_words() {
+    let quote = RepairedQuote::new(&build_quote("Lola sat alone theyhad.", "Al Stone"));
+    let bank = bank_splitting("theyhad", "they had");
+
+    let puzzle = start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, &quote, &bank)
+        .expect("the quote should start a puzzle");
+
+    let reformatted_quote = &puzzle.quote;
+    assert!(
+        reformatted_quote.starts_with("Lola sat alone they had. "),
+        "{reformatted_quote:?}"
+    );
+}
+
+#[test]
+fn test_started_puzzle_repairs_characters_before_splitting_joined_words() {
+    // U+0092 stands in for the `’` that the bank's word holds, until the repair decodes it.
+    let quote = RepairedQuote::new(&build_quote("That\u{92}swhat Lola sat alone.", "Al Stone"));
+    let bank = bank_splitting("That’swhat", "That’s what");
+
+    let puzzle = start_puzzle(UNALLOWLISTED_PUZZLE_NUMBER, &quote, &bank)
+        .expect("the quote should start a puzzle");
+
+    let reformatted_quote = &puzzle.quote;
+    assert!(
+        reformatted_quote.starts_with("That’s what Lola sat alone. "),
+        "{reformatted_quote:?}"
+    );
+}
+
+#[test]
 fn test_started_puzzle_holds_its_source_with_characters_repaired() {
     // "Ã©" is `é` misread from UTF-8 as Windows-1252.
     let quote = build_quote("Lola sat alone.", "Al StonÃ©");
@@ -282,11 +327,15 @@ fn read_quote_file() -> Vec<Quote> {
     parse_pinned_quote_file(&compressed).expect("the quote file should parse")
 }
 
-// Reads the real quote file and the committed puzzles.
+// Reads the real quote file, the joined-word bank, and the committed puzzles.
 #[test]
 #[ignore = "slow: parses the whole Quotes-500K file"]
 fn test_quote_file_matches_committed_puzzles() {
     let quotes = read_quote_file();
+    let bank_toml = fs::read_to_string(joined_word_bank_path())
+        .expect("the joined-word bank should be readable");
+    let joined_word_bank =
+        JoinedWordBank::from_toml(&bank_toml).expect("the joined-word bank should parse");
 
     let puzzle_directories =
         fs::read_dir(PACKAGE_PATH.join("puzzles")).expect("puzzles/ should exist");
@@ -313,7 +362,7 @@ fn test_quote_file_matches_committed_puzzles() {
             .unwrap_or_else(|| panic!("puzzle {number} should have a quote in the parsed list"));
         // Stage 0 stores the quote and source reformatted.
         let reformatted_quote = RepairedQuote::new(quote)
-            .reformat()
+            .reformat(&joined_word_bank)
             .unwrap_or_else(|error| panic!("puzzle {number}'s quote should lay out: {error}"));
         assert_eq!(
             reformatted_quote.quote, stored_puzzle.quote,
@@ -476,8 +525,12 @@ fn test_allowlisted_published_puzzle_outside_the_length_limits_starts() {
         source: "a".repeat(5),
     };
 
-    start_puzzle(allowlisted_puzzle_number, &RepairedQuote::new(&quote))
-        .expect("an allowlisted published puzzle should start whatever its length");
+    start_puzzle(
+        allowlisted_puzzle_number,
+        &RepairedQuote::new(&quote),
+        &JoinedWordBank::default(),
+    )
+    .expect("an allowlisted published puzzle should start whatever its length");
 }
 
 #[test]
@@ -674,7 +727,7 @@ fn test_published_puzzles_start() {
         .iter()
         .filter_map(|&puzzle_number| {
             let quote = RepairedQuote::new(&read_committed_quote(puzzle_number));
-            start_puzzle(puzzle_number, &quote)
+            start_puzzle(puzzle_number, &quote, &JoinedWordBank::default())
                 .err()
                 .map(|error| format!("puzzle {puzzle_number}: {error}"))
         })

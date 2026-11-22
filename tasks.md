@@ -51,12 +51,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 
 ### Known data issues {#known-data-issues}
 
-- [ ] **Split words joined with no punctuation between them** — some
-      quotes lost a space with nothing left to mark it, as in `theyhad`, so
-      `quote_to_cells` can't tell they're two words. A language model split
-      all 27 examples it was given in a test. The splits belong in a pass of
-      stage 0's `reformat_quote`; rerunning `puzzle quote` and then
-      `puzzle rebuild-cells` carries them into a committed puzzle.
 - [ ] **Prune clues that better clues outrank** — importing only adds, so the
       bank still holds clues that no puzzle names and no new puzzle would
       pick, such as the wrong "Daughter's son." for `nephew` and "Michele's

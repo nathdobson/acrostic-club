@@ -17,6 +17,7 @@ use serde::Deserialize;
 use serde::Serialize;
 
 use crate::add_letters::{quote_to_cells, source_to_letters};
+use crate::joined_words::JoinedWordBank;
 use crate::puzzle::Puzzle;
 use crate::reformat::characters::repair_characters;
 use crate::reformat::lost_spaces::restore_lost_spaces;
@@ -314,9 +315,14 @@ impl RepairedQuote {
     // The quote and source that stage 0's puzzle holds: the repaired source, and the repaired quote
     // with dropped spaces inferred, for example restoring "end.Begin" to "end. Begin". Fails on a
     // quote that no puzzle can show, such as one holding `☥`.
-    pub fn reformat(&self) -> io::Result<Quote> {
+    //
+    // `joined_word_bank` restores the spaces dropped between words run together, as in "theyhad".
+    // The bank applies last, since it spells each word with the quote's other dropped spaces
+    // already restored.
+    pub fn reformat(&self, joined_word_bank: &JoinedWordBank) -> io::Result<Quote> {
+        let spaced_quote = restore_lost_spaces(&self.quote)?;
         Ok(Quote {
-            quote: restore_lost_spaces(&self.quote)?,
+            quote: joined_word_bank.split_joined_words(&spaced_quote),
             source: self.source.clone(),
         })
     }
@@ -328,8 +334,12 @@ impl RepairedQuote {
 //
 // Fails when the reformatted quote can't make a puzzle, as when it falls outside the length limits;
 // `check_quote` gives every reason.
-pub fn start_puzzle(puzzle_number: usize, quote: &RepairedQuote) -> io::Result<Puzzle> {
-    let reformatted_quote = quote.reformat()?;
+pub fn start_puzzle(
+    puzzle_number: usize,
+    quote: &RepairedQuote,
+    joined_word_bank: &JoinedWordBank,
+) -> io::Result<Puzzle> {
+    let reformatted_quote = quote.reformat(joined_word_bank)?;
     check_quote(puzzle_number, &reformatted_quote)?;
     let puzzle = Puzzle {
         quote: reformatted_quote.quote,
@@ -453,17 +463,20 @@ pub struct QuoteCatalog {
     // The repaired quotes, indexed by puzzle number.
     quotes: Vec<RepairedQuote>,
     repeated_quotes: RepeatedQuotes,
+    joined_word_bank: JoinedWordBank,
 }
 
 impl QuoteCatalog {
-    // Repairs the quotes that `global quotes` wrote, and finds the duplicates among them.
-    pub async fn load() -> io::Result<Self> {
+    // Repairs the quotes that `global quotes` wrote, and finds the duplicates among them. Puzzles
+    // started from the catalog apply `joined_word_bank`.
+    pub async fn load(joined_word_bank: JoinedWordBank) -> io::Result<Self> {
         let quotes = QUOTES.get().await.clone_error_static()?;
         let quotes: Vec<RepairedQuote> = quotes.iter().map(RepairedQuote::new).collect();
         let repeated_quotes = RepeatedQuotes::new(&quotes);
         Ok(Self {
             quotes,
             repeated_quotes,
+            joined_word_bank,
         })
     }
 
@@ -490,7 +503,7 @@ impl QuoteCatalog {
                 format!("unusable quote: a duplicate of puzzle {primary_puzzle_number}'s quote"),
             ));
         }
-        start_puzzle(puzzle_number, quote)
+        start_puzzle(puzzle_number, quote, &self.joined_word_bank)
     }
 }
 
