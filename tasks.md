@@ -77,6 +77,7 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       storage, editing, importing, and two command wrappers in one file.
       Giving tag building and importing modules of their own would let a
       change to one of them be made without reading the rest.
+- [ ] **Fix the clippy findings in the workspace's crates**
 
 ## Long-term goals
 
