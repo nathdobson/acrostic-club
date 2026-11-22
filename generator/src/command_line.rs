@@ -1,16 +1,48 @@
-// Parsing for the command line: the stage that `puzzle <target>` names, and the arguments that
-// follow a target.
+// Parsing for the command-line arguments that follow `puzzle` or a `global` target.
 
 use std::collections::BTreeSet;
 use std::path::PathBuf;
 
-use anyhow::{Context, anyhow};
+use anyhow::{Context, anyhow, bail};
 
 // How to call `global edit-clue-as-person`, for the errors that report a malformed call.
 const EDIT_CLUE_USAGE: &str = "usage: global edit-clue-as-person <answer> <tag> \"<new text>\"";
 
 // How to call `global import-clues`, for the errors that report a malformed call.
 const IMPORT_CLUES_USAGE: &str = "usage: global import-clues <path to a JSON array of clues>";
+
+// What `puzzle <target> <arguments>` asks for: the stage to run, and what the arguments choose.
+#[derive(Debug, PartialEq)]
+pub struct PuzzleCommand {
+    pub stage: PuzzleStage,
+    pub arguments: PuzzleArguments,
+}
+
+// Parses the arguments after `puzzle`, such as `chat 100-200 --dry-run`: a target naming the stage
+// to run, then the puzzle numbers and flags. Only the chat stage takes `--model` or `--dry-run`.
+pub fn parse_puzzle_command(
+    arguments: impl IntoIterator<Item = String>,
+) -> anyhow::Result<PuzzleCommand> {
+    let mut arguments = arguments.into_iter();
+    let target = arguments
+        .next()
+        .context("`puzzle` needs a target, such as `answers` or `chat`")?;
+    let stage = parse_puzzle_stage(&target)?;
+    let puzzle_arguments = parse_puzzle_arguments(arguments)?;
+    // Only the chat stage asks a language model, so `--model` does nothing elsewhere.
+    if puzzle_arguments.model.is_some() && stage != PuzzleStage::Chat {
+        bail!("`puzzle {target}` asks no language model, so `--model` has nothing to choose");
+    }
+    // Only the chat stage can run without saving its work, so any other target refuses `--dry-run`
+    // rather than save anyway.
+    if puzzle_arguments.is_dry_run && stage != PuzzleStage::Chat {
+        bail!("`puzzle {target}` has no dry run; only `puzzle chat` does");
+    }
+    Ok(PuzzleCommand {
+        stage,
+        arguments: puzzle_arguments,
+    })
+}
 
 // The stages that `puzzle <target>` can run on each puzzle it names.
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]

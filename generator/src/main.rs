@@ -1,13 +1,12 @@
 use std::{io, mem};
 
-use anyhow::Context;
 use futures::{StreamExt, stream};
 use tikv_jemallocator::Jemalloc;
 
 use acrostic_generator::cluebank::{ClueEdit, edit_clues, import_clues};
 use acrostic_generator::command_line::{
-    EditClueArguments, PuzzleArguments, PuzzleStage, parse_edit_clue_arguments,
-    parse_import_clues_arguments, parse_puzzle_arguments, parse_puzzle_stage,
+    EditClueArguments, PuzzleArguments, PuzzleCommand, parse_edit_clue_arguments,
+    parse_import_clues_arguments, parse_puzzle_command,
 };
 use acrostic_generator::dict::build_dict;
 use acrostic_generator::llm::DEFAULT_MODEL_NAME;
@@ -55,26 +54,15 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             target => panic!("Unknown global target {target:?}"),
         },
         Some("puzzle") => {
-            let target = args
-                .next()
-                .context("`puzzle` needs a target, such as `answers` or `chat`")?;
-            let stage = parse_puzzle_stage(&target)?;
-            let PuzzleArguments {
-                puzzle_numbers: puzzles,
-                model,
-                is_dry_run,
-            } = parse_puzzle_arguments(args)?;
-            // Only the chat stage asks a language model, so `--model` does nothing elsewhere.
-            if model.is_some() && stage != PuzzleStage::Chat {
-                anyhow::bail!(
-                    "`puzzle {target}` asks no language model, so `--model` has nothing to choose"
-                );
-            }
-            // Only the chat stage can run without saving its work, so any other target refuses
-            // `--dry-run` rather than save anyway.
-            if is_dry_run && stage != PuzzleStage::Chat {
-                anyhow::bail!("`puzzle {target}` has no dry run; only `puzzle chat` does");
-            }
+            let PuzzleCommand {
+                stage,
+                arguments:
+                    PuzzleArguments {
+                        puzzle_numbers: puzzles,
+                        model,
+                        is_dry_run,
+                    },
+            } = parse_puzzle_command(args)?;
             let model = model.as_deref().unwrap_or(DEFAULT_MODEL_NAME);
             let stage = LoadedPuzzleStage::load(stage, cleanup, model, is_dry_run).await?;
             let errors = stream::iter(puzzles.into_iter())

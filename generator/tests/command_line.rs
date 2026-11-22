@@ -1,5 +1,6 @@
 // Tests for the parsers of the command line:
 //
+// - `parse_puzzle_command`, which reads everything after `puzzle`, using the two parsers below
 // - `parse_puzzle_stage`, which reads the stage that `puzzle <target>` names
 // - `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag
 // - `parse_edit_clue_arguments`, which reads what `global edit-clue-as-person` changes
@@ -9,8 +10,8 @@ use std::collections::BTreeSet;
 use std::path::PathBuf;
 
 use acrostic_generator::command_line::{
-    EditClueArguments, PuzzleArguments, PuzzleStage, parse_edit_clue_arguments,
-    parse_import_clues_arguments, parse_puzzle_arguments, parse_puzzle_stage,
+    EditClueArguments, PuzzleArguments, PuzzleCommand, PuzzleStage, parse_edit_clue_arguments,
+    parse_import_clues_arguments, parse_puzzle_arguments, parse_puzzle_command, parse_puzzle_stage,
 };
 
 fn make_arguments(arguments: &[&str]) -> Vec<String> {
@@ -18,6 +19,59 @@ fn make_arguments(arguments: &[&str]) -> Vec<String> {
         .iter()
         .map(|argument| argument.to_string())
         .collect()
+}
+
+#[test]
+fn the_chat_stage_takes_a_model_and_a_dry_run() -> anyhow::Result<()> {
+    let parsed = parse_puzzle_command(make_arguments(&[
+        "chat",
+        "5",
+        "--model",
+        "gemma4:12b-qat",
+        "--dry-run",
+    ]))?;
+
+    assert_eq!(
+        parsed,
+        PuzzleCommand {
+            stage: PuzzleStage::Chat,
+            arguments: PuzzleArguments {
+                puzzle_numbers: BTreeSet::from([5]),
+                model: Some("gemma4:12b-qat".to_string()),
+                is_dry_run: true,
+            },
+        }
+    );
+    Ok(())
+}
+
+#[test]
+fn a_model_for_a_stage_other_than_chat_fails() {
+    let error = parse_puzzle_command(make_arguments(&[
+        "letters",
+        "5",
+        "--model",
+        "gemma4:12b-qat",
+    ]))
+    .expect_err("`letters` asks no language model");
+
+    assert!(error.to_string().contains("--model"));
+}
+
+#[test]
+fn a_dry_run_for_a_stage_other_than_chat_fails() {
+    let error = parse_puzzle_command(make_arguments(&["letters", "5", "--dry-run"]))
+        .expect_err("`letters` has no dry run");
+
+    assert!(error.to_string().contains("dry run"));
+}
+
+#[test]
+fn a_command_without_a_target_fails() {
+    let error =
+        parse_puzzle_command(make_arguments(&[])).expect_err("a command with no stage should fail");
+
+    assert!(error.to_string().contains("target"));
 }
 
 #[test]
