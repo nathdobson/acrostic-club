@@ -11,8 +11,8 @@ use crate::util::interrupt::CleanupSender;
 use crate::util::lazy_async::CloneError;
 
 // A puzzle stage holding the inputs it shares across puzzles. Loading them before the first puzzle
-// reports a missing input once, as an error. Inside the loop over puzzles, a missing file instead
-// means a puzzle that doesn't exist, which the loop skips without printing anything.
+// reports a missing input once, as an error. Inside `main`'s loop over puzzles, a missing file
+// instead means a puzzle that doesn't exist, which the loop skips without printing anything.
 pub enum LoadedPuzzleStage {
     Quote(QuoteCatalog),
     Letters,
