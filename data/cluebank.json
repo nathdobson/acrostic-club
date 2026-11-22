@@ -32687,7 +32687,7 @@
     },
     {
       "tag": "producing-desired-result",
-      "text": "Producing the desired result? ",
+      "text": "Producing the desired result?",
       "source": {
         "model": "gemma4:26b-qat"
       },
@@ -75115,7 +75115,7 @@
     },
     {
       "tag": "parks-recreations-relentlessly",
-      "text": " Parks and Recreation's relentlessly optimistic municipal employee",
+      "text": "Parks and Recreation's relentlessly optimistic municipal employee",
       "source": {
         "model": "gemma4:31b-qat"
       },
@@ -106455,7 +106455,7 @@
     },
     {
       "tag": "throwing-strikes-tossing",
-      "text": "Throwing strikes or tossing a tent? ",
+      "text": "Throwing strikes or tossing a tent?",
       "source": {
         "model": "gemma4:26b-qat"
       },
@@ -132649,7 +132649,7 @@
     },
     {
       "tag": "recurring-motifs",
-      "text": "Recurring motifs? ",
+      "text": "Recurring motifs?",
       "source": {
         "model": "gemma4:26b-qat"
       },
