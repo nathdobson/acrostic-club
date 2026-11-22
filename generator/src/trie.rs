@@ -347,7 +347,7 @@ pub fn build_tries(
     let kept_words = words
         .into_iter()
         .filter(|(_, letters)| letters.count() >= 6)
-        // Keeps the first of the words that share a first letter and letters, in input order.
+        // Of each group of anagrams that start with the same letter, keeps only the first.
         .unique()
         .take(15000);
     for (first_letter, letters) in kept_words {

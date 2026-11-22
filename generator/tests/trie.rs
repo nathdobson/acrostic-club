@@ -138,7 +138,7 @@ fn tries_keep_long_words_under_their_first_letter() {
 }
 
 #[test]
-fn tries_skip_a_word_whose_first_letter_and_letters_match_a_kept_word() {
+fn tries_keep_one_of_two_anagrams_with_the_same_first_letter() {
     let tries = build_tries(make_words(&["abroad", "aboard"]));
 
     assert_eq!(
@@ -148,7 +148,7 @@ fn tries_skip_a_word_whose_first_letter_and_letters_match_a_kept_word() {
 }
 
 #[test]
-fn tries_keep_words_that_share_their_letters_but_not_their_first_letter() {
+fn tries_keep_both_of_two_anagrams_with_different_first_letters() {
     let tries = build_tries(make_words(&["listen", "silent"]));
 
     assert_eq!(
@@ -183,7 +183,7 @@ fn a_skipped_word_leaves_its_slot_under_the_cap_to_a_later_word() {
 
     let tries = build_tries(make_words(&words));
 
-    // "aboard" matches "abroad", so the slot it would take goes to "average".
+    // "aboard" is skipped as an anagram of "abroad", so the slot it would take goes to "average".
     let a_values = list_values(&tries[letter(b'a')]);
     assert!(a_values.contains(&LetterSet::from_str("average")));
 }
