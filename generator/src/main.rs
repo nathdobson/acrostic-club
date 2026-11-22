@@ -81,10 +81,6 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                 anyhow::bail!("`puzzle {target}` has no dry run; only `puzzle chat` does");
             }
             let model = model.as_deref().unwrap_or(DEFAULT_MODEL_NAME);
-            let concurrency = match stage {
-                PuzzleStage::Chat => 1,
-                _ => 1,
-            };
             let stage = LoadedPuzzleStage::load(stage, cleanup, model, is_dry_run).await?;
             let errors = stream::iter(puzzles.into_iter())
                 .map(|puzzle| {
@@ -105,7 +101,9 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                         None
                     }
                 })
-                .buffer_unordered(concurrency)
+                // One puzzle at a time, which `add_chat` relies on so that its writes to the clue
+                // bank never race.
+                .buffer_unordered(1)
                 .collect::<Vec<Option<anyhow::Error>>>()
                 .await;
             mem::drop(stage);
