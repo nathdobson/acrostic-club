@@ -24,6 +24,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       six letters, so it never changes a six-letter answer. On 40
       sample puzzles, about three quarters of its searches found no word. Its
       `old.count() > 4` check suggests it expected five-letter words.
+- [ ] **Generate fresh puzzles** — run the `quote`, `letters`, and `answers`
+      stages on each quote that stage 0 now accepts but has no puzzle, leaving
+      the existing puzzles untouched. Then write clues for the answers new to
+      the clue bank, ideally with Fable as the setter and Opus as the grader.
 
 ## Backlog
 
