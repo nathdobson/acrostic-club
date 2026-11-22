@@ -26,6 +26,12 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       until 1,000 or more published puzzles fit the limits, then delete
       `PUBLISHED_PUZZLES_OUTSIDE_LENGTH_LIMITS` in `quote.rs` along with its
       tests and the puzzles it lets through.
+- [ ] **Make the chat stage's xd fallback independent of row order** — when
+      none of phi4's clues pass, `create_clue` takes the answer's first clue
+      in `build/xd/clues.tsv`, so the pick depends on the file's row order.
+      The order seems to have changed already: the bank holds 1943–1968 New
+      York Times clues for answers whose first clues in today's file are
+      modern.
 
 ### Known data issues {#known-data-issues}
 
