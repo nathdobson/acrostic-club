@@ -21,8 +21,7 @@ use safe_once_map::sync::OnceLockMap;
 
 use crate::dict::FlatWord;
 use crate::puzzle::{Clue, Puzzle};
-use crate::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
-use crate::util::lazy_async::CloneError;
+use crate::trie_table::FlatTrieTable;
 
 pub struct Search {
     table: &'static FlatTrieTable,
@@ -37,20 +36,20 @@ pub struct Search {
 impl Search {
     // Panics when the source uses some letter more often than the quote does, since no answers
     // could spell it. Stage 0 rejects such quotes.
-    pub async fn new(quote: LetterSet, source: Vec<Letter>) -> anyhow::Result<Self> {
+    pub fn new(trie_table: &'static FlatTrieTable, quote: LetterSet, source: Vec<Letter>) -> Self {
         let source_letter_counts: LetterSet = source.iter().copied().collect();
         assert!(
             source_letter_counts.is_subset(quote),
             "stage 0 should have rejected a quote that lacks letters its source needs"
         );
-        Ok(Search {
-            table: FLAT_TRIE_TABLE.get().await.clone_error_static()?,
+        Search {
+            table: trie_table,
             cache: Default::default(),
             #[cfg(feature = "search-diagnostics")]
             access: AtomicUsize::new(0),
             quote,
             source,
-        })
+        }
     }
     fn start(&self, seed: u64) -> Solution {
         let rng = XorShiftRng::seed_from_u64(seed);
@@ -320,7 +319,7 @@ impl Solution {
     }
 }
 
-pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
+pub async fn add_answers(pindex: usize, trie_table: &'static FlatTrieTable) -> anyhow::Result<()> {
     let mut puzzle = Puzzle::read(pindex, "stage1.json").await?;
     let quote_letters = puzzle
         .quote_letters
@@ -335,7 +334,7 @@ pub async fn add_answers(pindex: usize) -> anyhow::Result<()> {
         .bytes()
         .flat_map(|x| Letter::new(x))
         .collect();
-    let search = Arc::new(Search::new(quote, source).await?);
+    let search = Arc::new(Search::new(trie_table, quote, source));
     let sol = stream::iter(0..1000)
         .map(|seed| {
             let search = search.clone();

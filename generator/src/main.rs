@@ -18,8 +18,10 @@ use acrostic_generator::maintenance::rebuild_cells::rebuild_cells_in_files;
 use acrostic_generator::quote::{QuoteCatalog, add_quote, build_quotes};
 use acrostic_generator::search::add_answers;
 use acrostic_generator::site::build_site;
+use acrostic_generator::trie_table::FLAT_TRIE_TABLE;
 use acrostic_generator::turtle::db::build_ontolex_turtle;
 use acrostic_generator::util::interrupt::{CleanupSender, run_with_interrupts};
+use acrostic_generator::util::lazy_async::CloneError;
 
 #[global_allocator]
 static GLOBAL: Jemalloc = Jemalloc;
@@ -93,6 +95,17 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             } else {
                 None
             };
+            // The answers stage searches tries built from the word list. Load the tries here to
+            // catch any errors once, upfront, rather than once for each puzzle.
+            let trie_table = if target == "answers" {
+                let trie_table =
+                    FLAT_TRIE_TABLE.get().await.clone_error_static().context(
+                        "The answers stage needs the word list that `global dict` builds",
+                    )?;
+                Some(trie_table)
+            } else {
+                None
+            };
             let concurrency = match target.deref() {
                 "chat" => 1,
                 _ => 1,
@@ -112,7 +125,11 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                                     add_quote(puzzle, quote_catalog).await?
                                 }
                                 "letters" => add_letters(puzzle).await?,
-                                "answers" => add_answers(puzzle).await?,
+                                "answers" => {
+                                    let trie_table = trie_table
+                                        .expect("the answers stage should have built the tries");
+                                    add_answers(puzzle, trie_table).await?
+                                }
                                 "chat" => {
                                     let client = client
                                         .as_ref()

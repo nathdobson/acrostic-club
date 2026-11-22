@@ -91,9 +91,10 @@ async fn answer_searches_finish_on_sample_puzzles() -> anyhow::Result<()> {
     let puzzle_indices = list_puzzle_indices()?;
     let step = puzzle_indices.len() / SAMPLE_SIZE;
     let mut total_time = Duration::ZERO;
+    let trie_table = FLAT_TRIE_TABLE.get().await.clone_error()?;
     for puzzle_index in puzzle_indices.into_iter().step_by(step).take(SAMPLE_SIZE) {
         let (quote, source) = read_puzzle_letters(puzzle_index).await?;
-        let search = Search::new(quote, source).await?;
+        let search = Search::new(trie_table, quote, source);
 
         let start = Instant::now();
         let mut seeds_tried = 0;

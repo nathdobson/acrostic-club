@@ -57,6 +57,11 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 
 - [ ] **Return errors from `mmap_bytes` instead of panicking** — it panics
       when it can't open or map its file, though it returns `io::Result`.
+- [ ] **Replace the word-list and trie globals with values passed down** —
+      `FLAT_WORDS` and `FLAT_TRIE_TABLE` fill on first use and hand out
+      `'static` references. Building both in `main` and sharing them through
+      `Arc` would make every reader's dependency explicit, at the cost of
+      reworking `PersistentFile`, `FlatTrieTable`, and `Search`.
 - [ ] **Split `cluebank.rs` into smaller modules** — it holds tag building,
       storage, editing, importing, and two command wrappers in one file.
       Giving tag building and importing modules of their own would let a
