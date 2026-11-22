@@ -114,7 +114,7 @@ impl ClueRequest {
                 clue_count: 2,
             },
             ClueResponse {
-                clues: vec!["Furry pet.".to_string(), "Man's best friend.".to_string()],
+                clues: vec!["Furry pet".to_string(), "Man's best friend".to_string()],
             },
         );
         rpc.train(
@@ -125,7 +125,7 @@ impl ClueRequest {
             ClueResponse {
                 clues: vec![
                     "Albert of physics fame".to_string(),
-                    "He postulated E=mc^2.".to_string(),
+                    "He postulated E=mc^2".to_string(),
                     "Eponym of genius".to_string(),
                 ],
             },
@@ -136,7 +136,7 @@ impl ClueRequest {
                 clue_count: 1,
             },
             ClueResponse {
-                clues: vec!["Brad ____ from the silver screen.".to_string()],
+                clues: vec!["Brad ____ from the silver screen".to_string()],
             },
         );
         Ok(rpc)
