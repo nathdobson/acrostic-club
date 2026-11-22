@@ -17,6 +17,7 @@ pub mod llm;
 pub mod maintenance;
 pub mod ontology;
 pub mod puzzle;
+pub mod puzzle_stage;
 pub mod quote;
 pub mod reformat;
 pub mod search;
