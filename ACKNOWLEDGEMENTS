@@ -10,7 +10,7 @@ This project draws upon several data sources for generating puzzles:
 2. A dictionary based on terms in wikipedia:
     https://github.com/IlyaSemenov/wikipedia-word-frequency
 
-3. Ollama and Phi4 for generating clues.
+3. Ollama with Phi4 and Gemma 4; and Claude, by Anthropic; for generating clues.
 
 4. The Dbnary project for etymology:
     http://kaiko.getalp.org/about-dbnary/download/
