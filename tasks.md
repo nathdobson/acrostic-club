@@ -47,11 +47,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       753 answers kept only their original clue, which a review found flat.
       Add new clues with `global import-clues`, then rerun `puzzle chat` on
       the clued puzzles so that they pick up the better ones.
-- [ ] **Drop sentence-ending periods from the bank's older clues** — the
-      imported clues lost theirs, but most clues from before the import still
-      end in one. Keep a period that closes an abbreviation, as in "e.g.". An
-      edit that changes a clue's text drops its review, which a change of
-      punctuation alone needn't do.
 
 ### Tidy-ups
 
