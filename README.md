@@ -18,3 +18,9 @@ cargo test -- --include-ignored
 
 To run one ignored test, name its target and add the flag, as in
 `cargo test --test ontology -- --ignored`.
+
+## License
+
+Everything here is licensed under the GNU General Public License, version 3,
+in `LICENSE`, except `data/lexicon.json`. The lexicon adapts the wordfreq word
+list, so it is licensed under CC BY-SA 4.0 instead. See `data/README.md`.

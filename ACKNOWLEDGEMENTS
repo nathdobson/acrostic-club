@@ -18,3 +18,8 @@ This project draws upon several data sources for generating puzzles:
 5. Lin Wei's English Lemma Database: https://github.com/skywind3000/lemma.en/tree/master
 
 6. century-arcade's clue database (https://xd.saul.pw/data) for backup clue generation.
+
+7. Robyn Speer's wordfreq, for seeding the word list:
+    https://github.com/rspeer/wordfreq
+
+8. Claude, by Anthropic, for rating the words in the word list.

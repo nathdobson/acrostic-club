@@ -7,9 +7,14 @@ such as a commit message or a code comment.
 
 Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` dropped
 
+- [ ] **Take candidate answers from `data/lexicon.json`** {#lexicon-source}
+  - Open question: what familiarity and liveliness floors should be set, if any?
+  - Open question: how can search results skew towards the best fitting words?
+  - Open question: what is the impact on solvability and search time?
 - [ ] **Revisit the 15,000-word cap on the tries** — the word-pair trie
       likely held the cap down; weigh how many more puzzles a higher cap
       solves against more obscure answers and slower searches.
+  - Note: #lexicon-source could replace the cap with rating bars.
 - [ ] **Spread answers across anagrams** — `Search::get_words` turns each
       trie entry into the most frequent word with its first letter and
       letters, so puzzles can use `abroad` but never `aboard`. A step after
@@ -32,6 +37,13 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       The order seems to have changed already: the bank holds 1943–1968 New
       York Times clues for answers whose first clues in today's file are
       modern.
+- [ ] **[maybe] Prune British spellings from `data/lexicon.json`** — it keeps
+      words such as `centre` and `humour`, whose clues must then signal the
+      spelling; the clue grader flags most clues that don't, but can miss some.
+  - Note: pruning could run the English Speller Database's British detector
+    over the lexicon once, offline.
+  - Note: some British spellings, such as `theatre`, are considered acceptable
+    in American crosswords even when they are unflagged.
 
 ### Known data issues {#known-data-issues}
 
