@@ -31,7 +31,7 @@ pub async fn mmap_bytes(filename: &Path) -> io::Result<Box<[u8], MmapAllocator>>
             .read(true)
             .open(filename)
             .await
-            .unwrap_or_else(|e| panic!("Cannot open {filename:?}: {e}"));
+            .map_err(error_with_path("open", filename))?;
         let len = file
             .metadata()
             .await
@@ -43,7 +43,7 @@ pub async fn mmap_bytes(filename: &Path) -> io::Result<Box<[u8], MmapAllocator>>
             let file = file.into_std().await;
             let mmap = MmapOptions::new()
                 .map_copy(&file)
-                .unwrap_or_else(|error| panic!("Cannot map {filename:?}: {error}"));
+                .map_err(error_with_path("map", filename))?;
             assert_eq!(mmap.len() as u64, len);
             Box::from_raw_in(
                 slice::from_raw_parts_mut(mmap.as_ptr() as *mut u8, mmap.len()),

@@ -55,8 +55,6 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
 
 ### Tidy-ups
 
-- [ ] **Return errors from `mmap_bytes` instead of panicking** — it panics
-      when it can't open or map its file, though it returns `io::Result`.
 - [ ] **Replace the word-list and trie globals with values passed down** —
       `FLAT_WORDS` and `FLAT_TRIE_TABLE` fill on first use and hand out
       `'static` references. Building both in `main` and sharing them through
