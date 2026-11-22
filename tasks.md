@@ -61,14 +61,10 @@ Status key: `[ ]` not started · `[~]` in progress · `[x]` done · `[-]` droppe
       bank still holds clues that no puzzle names and no new puzzle would
       pick, such as the wrong "Daughter's son." for `nephew` and "Michele's
       husband on 'The Office'." for `dwight`.
-- [ ] **Find fair clues for the answers whose clues are all flawed** —
-      `atherton`, `bellator`, `bharatiya`, `cavendish`, `erebidae`, `filmfare`,
-      `kannada`, `penrith`, `rowspan`, `sahitya`, and `vidhan`. Some may be
-      too obscure to clue fairly and better kept out of puzzles instead.
-- [ ] **Add better clues for the answers that still have one flat clue** —
-      753 answers kept only their original clue, which a review found flat.
-      Add new clues with `global import-clues`, then rerun `puzzle chat` on
-      the clued puzzles so that they pick up the better ones.
+- [ ] **Add better clues for the answers that still have only flat or flawed
+      clues** — have Fable write new clues for them, graded by Opus.
+  - Note: some words like `kannada` may be too obscure to clue fairly and better
+    kept out of puzzles instead.
 
 ### Tidy-ups
 
