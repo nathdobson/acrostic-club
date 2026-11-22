@@ -1,4 +1,5 @@
-// Parsing for the command-line arguments that follow a target.
+// Parsing for the command line: the stage that `puzzle <target>` names, and the arguments that
+// follow a target.
 
 use std::collections::BTreeSet;
 use std::path::PathBuf;
@@ -10,6 +11,40 @@ const EDIT_CLUE_USAGE: &str = "usage: global edit-clue-as-person <answer> <tag> 
 
 // How to call `global import-clues`, for the errors that report a malformed call.
 const IMPORT_CLUES_USAGE: &str = "usage: global import-clues <path to a JSON array of clues>";
+
+// The stages that `puzzle <target>` can run on each puzzle it names.
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+pub enum PuzzleStage {
+    Quote,
+    Letters,
+    Answers,
+    Chat,
+    RebuildCells,
+}
+
+// Each puzzle stage under the name that `puzzle <target>` calls it by.
+const PUZZLE_STAGE_NAMES: &[(&str, PuzzleStage)] = &[
+    ("quote", PuzzleStage::Quote),
+    ("letters", PuzzleStage::Letters),
+    ("answers", PuzzleStage::Answers),
+    ("chat", PuzzleStage::Chat),
+    ("rebuild-cells", PuzzleStage::RebuildCells),
+];
+
+// Parses the target of `puzzle <target>`, such as `answers`, as the stage it names.
+pub fn parse_puzzle_stage(target: &str) -> anyhow::Result<PuzzleStage> {
+    PUZZLE_STAGE_NAMES
+        .iter()
+        .find(|(name, _)| *name == target)
+        .map(|&(_, stage)| stage)
+        .with_context(|| {
+            let names: Vec<&str> = PUZZLE_STAGE_NAMES.iter().map(|&(name, _)| name).collect();
+            format!(
+                "unknown puzzle target {target:?}; expected one of {}",
+                names.join(", ")
+            )
+        })
+}
 
 // What the arguments after a target choose: the puzzles to work on, the language model to ask, and
 // whether to save the work or only show it.

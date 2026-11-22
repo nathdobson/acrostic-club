@@ -1,14 +1,16 @@
-// Tests for the parsers of the arguments that follow a target on the command line:
-// `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag,
-// `parse_edit_clue_arguments`, which reads what `global edit-clue-as-person` changes, and
-// `parse_import_clues_arguments`, which reads the file `global import-clues` imports.
+// Tests for the parsers of the command line:
+//
+// - `parse_puzzle_stage`, which reads the stage that `puzzle <target>` names
+// - `parse_puzzle_arguments`, which reads the puzzle numbers, model, and dry-run flag
+// - `parse_edit_clue_arguments`, which reads what `global edit-clue-as-person` changes
+// - `parse_import_clues_arguments`, which reads the file `global import-clues` imports
 
 use std::collections::BTreeSet;
 use std::path::PathBuf;
 
 use acrostic_generator::command_line::{
-    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_import_clues_arguments,
-    parse_puzzle_arguments,
+    EditClueArguments, PuzzleArguments, PuzzleStage, parse_edit_clue_arguments,
+    parse_import_clues_arguments, parse_puzzle_arguments, parse_puzzle_stage,
 };
 
 fn make_arguments(arguments: &[&str]) -> Vec<String> {
@@ -16,6 +18,21 @@ fn make_arguments(arguments: &[&str]) -> Vec<String> {
         .iter()
         .map(|argument| argument.to_string())
         .collect()
+}
+
+#[test]
+fn a_stage_name_parses_to_its_stage() -> anyhow::Result<()> {
+    let stage = parse_puzzle_stage("rebuild-cells")?;
+
+    assert_eq!(stage, PuzzleStage::RebuildCells);
+    Ok(())
+}
+
+#[test]
+fn an_unknown_stage_fails_and_names_the_known_stages() {
+    let error = parse_puzzle_stage("clues").expect_err("`clues` names no stage");
+
+    assert!(error.to_string().contains("chat"));
 }
 
 #[test]

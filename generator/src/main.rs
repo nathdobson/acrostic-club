@@ -1,4 +1,3 @@
-use std::ops::Deref;
 use std::{io, mem};
 
 use anyhow::Context;
@@ -9,8 +8,8 @@ use acrostic_generator::add_letters::add_letters;
 use acrostic_generator::cluebank::{ClueEdit, edit_clues, import_clues};
 use acrostic_generator::clues::{ClueClient, add_chat, preview_chat};
 use acrostic_generator::command_line::{
-    EditClueArguments, PuzzleArguments, parse_edit_clue_arguments, parse_import_clues_arguments,
-    parse_puzzle_arguments,
+    EditClueArguments, PuzzleArguments, PuzzleStage, parse_edit_clue_arguments,
+    parse_import_clues_arguments, parse_puzzle_arguments, parse_puzzle_stage,
 };
 use acrostic_generator::dict::build_dict;
 use acrostic_generator::llm::DEFAULT_MODEL_NAME;
@@ -18,7 +17,7 @@ use acrostic_generator::maintenance::rebuild_cells::rebuild_cells_in_files;
 use acrostic_generator::quote::{QuoteCatalog, add_quote, build_quotes};
 use acrostic_generator::search::add_answers;
 use acrostic_generator::site::build_site;
-use acrostic_generator::trie_table::FLAT_TRIE_TABLE;
+use acrostic_generator::trie_table::{FLAT_TRIE_TABLE, FlatTrieTable};
 use acrostic_generator::turtle::db::build_ontolex_turtle;
 use acrostic_generator::util::interrupt::{CleanupSender, run_with_interrupts};
 use acrostic_generator::util::lazy_async::CloneError;
@@ -64,89 +63,34 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
             let target = args
                 .next()
                 .context("`puzzle` needs a target, such as `answers` or `chat`")?;
+            let stage = parse_puzzle_stage(&target)?;
             let PuzzleArguments {
                 puzzle_numbers: puzzles,
                 model,
                 is_dry_run,
             } = parse_puzzle_arguments(args)?;
             // Only the chat stage asks a language model, so `--model` does nothing elsewhere.
-            if model.is_some() && target != "chat" {
+            if model.is_some() && stage != PuzzleStage::Chat {
                 anyhow::bail!(
                     "`puzzle {target}` asks no language model, so `--model` has nothing to choose"
                 );
             }
             // Only the chat stage can run without saving its work, so any other target refuses
             // `--dry-run` rather than save anyway.
-            if is_dry_run && target != "chat" {
+            if is_dry_run && stage != PuzzleStage::Chat {
                 anyhow::bail!("`puzzle {target}` has no dry run; only `puzzle chat` does");
             }
             let model = model.as_deref().unwrap_or(DEFAULT_MODEL_NAME);
-            // Building the clue client loads the ontology, the lemma list, and the clue database,
-            // which only the chat stage reads.
-            let client = if target == "chat" {
-                Some(ClueClient::new(cleanup, model).await?)
-            } else {
-                None
-            };
-            // Repairing the quotes and finding the duplicates among them takes a pass over the
-            // whole quote list, which only the quote stage needs.
-            let quote_catalog = if target == "quote" {
-                Some(QuoteCatalog::load().await?)
-            } else {
-                None
-            };
-            // The answers stage searches tries built from the word list. Load the tries here to
-            // catch any errors once, upfront, rather than once for each puzzle.
-            let trie_table = if target == "answers" {
-                let trie_table =
-                    FLAT_TRIE_TABLE.get().await.clone_error_static().context(
-                        "The answers stage needs the word list that `global dict` builds",
-                    )?;
-                Some(trie_table)
-            } else {
-                None
-            };
-            let concurrency = match target.deref() {
-                "chat" => 1,
+            let concurrency = match stage {
+                PuzzleStage::Chat => 1,
                 _ => 1,
             };
+            let stage = LoadedPuzzleStage::load(stage, cleanup, model, is_dry_run).await?;
             let errors = stream::iter(puzzles.into_iter())
                 .map(|puzzle| {
-                    let target = &target;
-                    let client = &client;
-                    let quote_catalog = &quote_catalog;
+                    let stage = &stage;
                     async move {
-                        let e: anyhow::Result<()> = async {
-                            match target.deref() {
-                                "quote" => {
-                                    let quote_catalog = quote_catalog
-                                        .as_ref()
-                                        .expect("the quote stage should have loaded the catalog");
-                                    add_quote(puzzle, quote_catalog).await?
-                                }
-                                "letters" => add_letters(puzzle).await?,
-                                "answers" => {
-                                    let trie_table = trie_table
-                                        .expect("the answers stage should have built the tries");
-                                    add_answers(puzzle, trie_table).await?
-                                }
-                                "chat" => {
-                                    let client = client
-                                        .as_ref()
-                                        .expect("the chat stage should have built a clue client");
-                                    if is_dry_run {
-                                        preview_chat(puzzle, client).await?
-                                    } else {
-                                        add_chat(puzzle, client).await?
-                                    }
-                                }
-                                "rebuild-cells" => rebuild_cells_in_files(puzzle).await?,
-                                _ => panic!("Unknown puzzle target {target}"),
-                            }
-                            anyhow::Ok(())
-                        }
-                        .await;
-                        if let Err(e) = e {
+                        if let Err(e) = stage.run(puzzle).await {
                             if e.downcast_ref::<io::Error>()
                                 .map_or(true, |x| x.kind() != io::ErrorKind::NotFound)
                             {
@@ -164,10 +108,76 @@ async fn main_impl(cleanup: CleanupSender) -> anyhow::Result<()> {
                 .buffer_unordered(concurrency)
                 .collect::<Vec<Option<anyhow::Error>>>()
                 .await;
-            mem::drop(client);
+            mem::drop(stage);
             eprintln!("{errors:?}");
         }
         command => panic!("Unknown root command {command:?}"),
     }
     Ok(())
+}
+
+// A puzzle stage holding the inputs it shares across puzzles. Loading them before the first puzzle
+// reports a missing input once, as an error. Inside the loop over puzzles, a missing file instead
+// means a puzzle that doesn't exist, which the loop skips without printing anything.
+enum LoadedPuzzleStage {
+    Quote(QuoteCatalog),
+    Letters,
+    Answers(&'static FlatTrieTable),
+    Chat {
+        client: ClueClient,
+        // Whether to show the clues without saving them.
+        is_dry_run: bool,
+    },
+    RebuildCells,
+}
+
+impl LoadedPuzzleStage {
+    // Loads the inputs that `stage` shares across puzzles. Only the chat stage reads `cleanup`,
+    // `model`, and `is_dry_run`.
+    async fn load(
+        stage: PuzzleStage,
+        cleanup: CleanupSender,
+        model: &str,
+        is_dry_run: bool,
+    ) -> anyhow::Result<Self> {
+        Ok(match stage {
+            // Repairing the quotes and finding the duplicates among them takes a pass over the
+            // whole quote list.
+            PuzzleStage::Quote => Self::Quote(QuoteCatalog::load().await?),
+            PuzzleStage::Letters => Self::Letters,
+            // The answers stage searches tries built from the word list.
+            PuzzleStage::Answers => {
+                let trie_table =
+                    FLAT_TRIE_TABLE.get().await.clone_error_static().context(
+                        "The answers stage needs the word list that `global dict` builds",
+                    )?;
+                Self::Answers(trie_table)
+            }
+            // Building the clue client loads the ontology, the lemma list, and the clue database.
+            PuzzleStage::Chat => Self::Chat {
+                client: ClueClient::new(cleanup, model).await?,
+                is_dry_run,
+            },
+            PuzzleStage::RebuildCells => Self::RebuildCells,
+        })
+    }
+
+    // Runs the stage on the puzzle numbered `puzzle_number`.
+    async fn run(&self, puzzle_number: usize) -> anyhow::Result<()> {
+        match self {
+            Self::Quote(quote_catalog) => add_quote(puzzle_number, quote_catalog).await?,
+            Self::Letters => add_letters(puzzle_number).await?,
+            Self::Answers(trie_table) => add_answers(puzzle_number, trie_table).await?,
+            Self::Chat {
+                client,
+                is_dry_run: true,
+            } => preview_chat(puzzle_number, client).await?,
+            Self::Chat {
+                client,
+                is_dry_run: false,
+            } => add_chat(puzzle_number, client).await?,
+            Self::RebuildCells => rebuild_cells_in_files(puzzle_number).await?,
+        }
+        Ok(())
+    }
 }
