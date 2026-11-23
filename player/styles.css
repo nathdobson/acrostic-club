@@ -136,7 +136,12 @@ body {
         color: rgb(230, 20, 30);
     }
 
-    .content-guess {
+    /**
+     * Prefilled squares, such as hyphens and digits, share the letter squares'
+     * background.
+     */
+    .content-guess,
+    .content-correct {
         background: rgb(25, 25, 25);
     }
 
