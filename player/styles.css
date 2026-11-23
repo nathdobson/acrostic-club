@@ -74,16 +74,23 @@
     background: rgb(255, 255, 255);
 }
 
+/* highlight colors, named so that the dark theme can derive its own */
+:root {
+    --cursor-square: rgb(214, 214, 255);
+    --matching-square: rgb(199, 199, 199);
+    --cursor-grid: rgb(240, 240, 255);
+}
+
 .content-guess-both {
-    background: rgb(214, 214, 255)
+    background: var(--cursor-square)
 }
 
 .content-guess-cell {
-    background: rgb(199, 199, 199)
+    background: var(--matching-square)
 }
 
 .content-guess-grid {
-    background: rgb(240, 240, 255)
+    background: var(--cursor-grid)
 }
 
 .content-guess-pen {
@@ -122,8 +129,14 @@ body {
  */
 @supports (color: oklch(from red l c h)) {
     @media (prefers-color-scheme: dark) {
+        :root {
+            /* the dark background's lightness, from 0 (black) to 1 (white) */
+            --background-lightness: 0.2134;
+            --dark-background: oklch(var(--background-lightness) 0 0);
+        }
+
         body {
-            background-color: rgb(25, 25, 25);
+            background-color: var(--dark-background);
             color: rgb(220, 220, 220)
         }
 
@@ -147,7 +160,38 @@ body {
          */
         .content-guess,
         .content-correct {
-            background: rgb(25, 25, 25);
+            background: var(--dark-background);
+        }
+
+        /**
+         * Highlights based on the cursor's position. Each is derived from its
+         * corresponding light theme color, with the lightness flipped and the
+         * hue and intensity kept, so that it sits as far above the dark
+         * background as the light color sits below white.
+         */
+
+        /* the cursor's square */
+        .content-guess-both {
+            background: oklch(
+                from var(--cursor-square)
+                calc(1 + var(--background-lightness) - l) c h
+            );
+        }
+
+        /* squares in other grids that hold the cursor's letter */
+        .content-guess-cell {
+            background: oklch(
+                from var(--matching-square)
+                calc(1 + var(--background-lightness) - l) c h
+            );
+        }
+
+        /* the other squares in the cursor's grid */
+        .content-guess-grid {
+            background: oklch(
+                from var(--cursor-grid)
+                calc(1 + var(--background-lightness) - l) c h
+            );
         }
 
         .content-space {
