@@ -6,12 +6,15 @@ First decide whether the entry is a name: of a person, place, people, organizati
 - words that are also ordinary dictionary words, even when the name is better known (TURKEY, COOPER, DEMOCRAT)
 - names that have become ordinary words (KLEENEX, SANDWICH), and words made from names that now carry a general meaning (QUIXOTIC)
 - scientific names of living things, and scientific terms named after people (TYRANNOSAURUS, EINSTEINIUM)
+- words from other languages, loan words included, unless English speakers know them mainly as names (BONITA, TIERRA)
 
 The entries come from a list of words as people write them in print and online, so some are typos, fragments, or several words run together. Judge each entry as it is written.
 
 Then label each name by where most solvers who know it learned it:
 - pop_culture: names known by following entertainment, sports, or the news, such as film, TV, music, games, comics, popular books, and celebrities, with their works and characters; athletes and teams; and public figures known from news coverage, such as politicians, business leaders, and activists.
 - general: names nearly every American picks up from school or everyday life, such as real places and peoples; ordinary first names and surnames; gods, scripture figures, and folklore; brands, products, and companies; days, months, and holidays; and the history, literature, art, music, science, and philosophy commonly taught in school, with their figures and works.
+
+Currency names count as general names (AFGHANI), except everyday English words such as DOLLAR, which are none.
 
 Fame doesn't decide the label: CLOONEY is pop_culture although nearly everyone knows him, and AALBORG is general although few Americans have heard of it.
 
